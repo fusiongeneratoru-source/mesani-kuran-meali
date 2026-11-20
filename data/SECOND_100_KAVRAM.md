@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 68 / 100 Kök (Toplam Mühürlü: 173 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 69 / 100 Kök (Toplam Mühürlü: 174 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -86,7 +86,7 @@
 | 66 | 170 | `ح-م-ل` | `H-M-L` | **64** | 50 | 2:248 | Haml / Himl / Tahmîl ve İhtimâl (Fiziksel Taşıma, Gebelik, Emanet Yükümlülüğü ve Vebal Sırtlanma) | ✅ **MÜHÜRLÜ** |
 | 67 | 171 | `ح-م-د` | `H-M-D` | **63** | 61 | 1:2 | Hamd / Hamîd / Hâmidûn ve Mahmûd (İradi Yetkinlik ve İhsan Karşısında Hak Edilmiş Bilinçli Övgü) | ✅ **MÜHÜRLÜ** |
 | 68 | 172 | `م-و-ه` | `M-W-H` | **63** | 60 | 2:22 | Mâ' (Su: Gökten İnen Yaşam Döngüsü, Kozmolojik-Biyolojik Yaratılış, Arınma, Paylaşım Hukuku, Tufan ve Ahiret Karşıtlığı) | ✅ **MÜHÜRLÜ** |
-| 69 | 173 | `ت-ل-و` | `T-L-W` | **63** | 61 | 2:44 | Analiz Bekliyor (talaY`, tilaAwat, t~a`liya`t) | ⏳ *Bekliyor* |
+| 69 | 173 | `ت-ل-و` | `T-L-W` | **63** | 61 | 2:44 | Tilavet / Telâ (Ardı Ardına İzlemek, Vahyi ve Haberleri Eksiksiz Okuyup Aktarmak) | ✅ **MÜHÜRLÜ** |
 | 70 | 174 | `س-ح-ر` | `S-H-R` | **63** | 59 | 2:102 | Analiz Bekliyor (siHor, sa`Hir, m~asoHuwr) | ⏳ *Bekliyor* |
 | 71 | 175 | `ق-ض-ي` | `K-D-Y` | **63** | 59 | 2:117 | Analiz Bekliyor (qaDaY`^, m~aqoDiy~, qaAD) | ⏳ *Bekliyor* |
 | 72 | 176 | `ع-و-د` | `A-W-D` | **63** | 58 | 2:275 | Analiz Bekliyor (EaAd2, EaAda, >uEiydu) | ⏳ *Bekliyor* |

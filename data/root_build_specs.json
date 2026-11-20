@@ -5917,5 +5917,157 @@
       }
     ],
     "context_default": "Canlılığın temelini kuran, toprağı dirilten, arındıran ve sıfatlarıyla nimet-imtihan eksenini kuran su mekanizması."
+  },
+  "ت-ل-و": {
+    "buckwalter": "tlw",
+    "slug": "tilavet_tela_izleme_ardisik_okuma_aktarma_tlw",
+    "concept_name": "Tilavet / Telâ (Ardı Ardına İzlemek, Vahyi ve Haberleri Eksiksiz Okuyup Aktarmak)",
+    "keywords": [
+      "tilavet",
+      "tela",
+      "izlemek",
+      "okumak",
+      "aktarmak",
+      "taliyat",
+      "ayet",
+      "teblig"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tilaAwat",
+        "label": "Tilavetinin hakkını vererek (تِلَاوَتِهِۦ — masdar: metni ardı ardına okuyup gereğince izleme ölçütü; 2:121)"
+      },
+      {
+        "lemma": "t~a`liya`t",
+        "label": "Zikri/uyarıyı ardı ardına aktaranlar (فَٱلتَّٰلِيَٰتِ — I. bab dişil çoğul ism-i fâil; 37:3)"
+      },
+      {
+        "lemma": "talaY`",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Ardı ardına okuyup aktar / onu okuyun (ٱتْلُ / فَٱتْلُوهَآ — I. bab emir kipi; 7 geçiş)"
+      },
+      {
+        "lemma": "talaY`",
+        "features_contains": [
+          "PASS",
+          "PERF"
+        ],
+        "label": "Ayetleri kendilerine okunduğunda (تُلِيَتْ — I. bab edilgen mâzi; 8:2)"
+      },
+      {
+        "lemma": "talaY`",
+        "features_contains": [
+          "PASS",
+          "IMPF"
+        ],
+        "label": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)"
+      },
+      {
+        "lemma": "talaY`",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Ardından izlediğinde / onu size okudum (تَلَىٰهَا 91:2 ve تَلَوْتُهُۥ 10:16 — I. bab etken mâzi; 2 geçiş)"
+      },
+      {
+        "lemma": "talaY`",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)"
+      }
+    ],
+    "irab_default": "Ardı ardına kesintisiz izlemek ve vahyi/haberleri eksiksiz okuyup aktarmak (ت-ل-و kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:17",
+          "37:3",
+          "91:2"
+        ],
+        "text": "Kökün fiziksel çekirdeği ve ardıl tanıklık: Güneş'in hemen ardından gelip izleyen Ay (91:2 وَٱلْقَمَرِ إِذَا تَلَىٰهَا), açık vahiy delilinin ardından gelip onu teyit eden tanık (11:17 وَيَتْلُوهُ شَاهِدٌ مِّنْهُ) ve zikri/uyarıyı ardı ardına aktaran görevli topluluklar (37:3 فَٱلتَّٰلِيَٰتِ ذِكْرًا)."
+      },
+      {
+        "ayahs": [
+          "2:129",
+          "2:151",
+          "2:252",
+          "3:58",
+          "3:108",
+          "3:164",
+          "5:27",
+          "6:151",
+          "7:175",
+          "10:16",
+          "10:61",
+          "10:71",
+          "13:30",
+          "18:27",
+          "18:83",
+          "26:69",
+          "27:92",
+          "28:3",
+          "28:45",
+          "28:59",
+          "29:45",
+          "29:48",
+          "39:71",
+          "45:6",
+          "62:2",
+          "65:11",
+          "98:2"
+        ],
+        "text": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+      },
+      {
+        "ayahs": [
+          "4:127",
+          "5:1",
+          "8:2",
+          "17:107",
+          "19:58",
+          "22:30",
+          "28:53",
+          "29:51",
+          "33:34"
+        ],
+        "text": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+      },
+      {
+        "ayahs": [
+          "2:44",
+          "2:102",
+          "2:113",
+          "2:121",
+          "3:93",
+          "3:113",
+          "35:29"
+        ],
+        "text": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+      },
+      {
+        "ayahs": [
+          "3:101",
+          "8:31",
+          "10:15",
+          "19:73",
+          "22:72",
+          "23:66",
+          "23:105",
+          "31:7",
+          "34:43",
+          "45:8",
+          "45:25",
+          "45:31",
+          "46:7",
+          "68:15",
+          "83:13"
+        ],
+        "text": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+      }
+    ],
+    "context_default": "Bir şeyin ardından kesintisiz gelip izini sürme ve vahiy ayetlerini ardı ardına okuyup aktarma mekanizması."
   }
 }

@@ -1,0 +1,1322 @@
+{
+  "root": "ت-ل-و",
+  "root_latin": "T-L-W (tlw)",
+  "concept_name": "Tilavet / Telâ (Ardı Ardına İzlemek, Vahyi ve Haberleri Eksiksiz Okuyup Aktarmak)",
+  "rank": 173,
+  "total_occurrences": 63,
+  "unique_ayahs_count": 61,
+  "unified_core_mechanism": "Bir şeyin hemen ardından kesintisiz sırayla gelip izini sürmek; metinsel ve vahiy bağlamında ise ilâhî ayetleri, hükümleri ve tarihsel haberleri eksiltmeden ardı ardına okuyup muhataba iletmek ve gereğini hayatla izlemek.",
+  "physical_core": "Bir şeyin hemen ardından gelip izini sürmek, kesintisiz sırayla peşinden yürümek (91:2 Güneş'i izleyen Ay ve 11:17 peşi sıra gelen tanık çıpaları); sözlü ve metinsel düzlemde ise ayetleri, vahiy sayfalarını veya haberleri koparmadan ardı ardına okuyup aktarmak ve hükümlerinin izinden gitmek (İbn Fâris'in tek aslı: الِاتِّبَاعُ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökü tek bir asılda toplar: الِاتِّبَاعُ (ardından gelmek, peşinden yürüyerek izlemek). 'Televtuhu' (تَلَوْتُهُ) 'onu izledim' demektir; Kur'an tilaveti de okuyanın bir ayeti diğer ayetin peşi sıra getirmesi (يُتْبِعُ آيَةً بَعْدَ آيَةٍ) sebebiyle bu kökten türemiştir. Bir şeyin kalan bakiyesine 'teliye / tilâve' denmesi de önceki kısmı izlemesindendir.",
+    "lisan_al_arab": "İbn Manzûr, kökün temelinin 'tebe'' (التَّبَعُ: ardından gelmek) olduğunu, 'hâzâ tilvu hâzâ' ifadesinin 'bu şunun takipçisidir' anlamına geldiğini, 'tetâleti'l-umûr' deyiminin işlerin ardı ardına sıralanmasını anlattığını ve Kur'an tilavetinin kelimeleri ve ayetleri birbirini izleyecek biçimde okumaktan ad aldığını belgeler.",
+    "ragib_mufredat": "Râgıb el-İsfahânî, تِلَاوَة (tilavet) ile قِرَاءَة (kıraat) arasında ince bir ayrım koyar: قِرَاءَة dağınık olsa dahi harf ve kelimeleri toplayıp seslendirmektir; تِلَاوَة ise ilâhî kitapların ayetlerini düzenli bir sıra ve bütünlük içinde ardı ardına okumaya, hatta metnin rehberliğini eylemle de izlemeye (2:121 حَقَّ تِلَاوَتِهِۦ) özgüdür.",
+    "arbitration_decision": "İbn Fâris'in tek aslı (الِاتِّبَاعُ), Güney-Merkezi Sami *t-l-w mirası (Ge'ez talawa 'izlemek, eşlik etmek', Sebece tlw 'ardından gelmek, ardışık sürmek') ve Kur'an'ın iki somut yapısal çıpası (91:2 وَٱلْقَمَرِ إِذَا تَلَىٰهَا ve 11:17 وَيَتْلُوهُ شَاهِدٌ مِّنْهُ) tek çekirdeği mühürler: 'kesintisiz sırayla ardından gelip izlemek; bu izleme disiplinini metne taşıyarak vahyi/haberleri ardı ardına okuyup aktarmak ve gereğince izlemek'."
+  },
+  "semitic_cognates": {
+    "hebrew": "İbranicede *t-l-w 'izlemek' kökü yerleşik değildir (İbranice תָּלָה tālāh 'asmak' kökü farklı bir semantik alana aittir ve ses-anlam yasaları gereği ت-ل-و ile karıştırılmaz); izleme için başka kökler (r-d-f, '-h-r) kullanılır.",
+    "aramaic_and_syriac": "Kuzeybatı Sami (Aramice/Süryanice) izleme için genellikle '-q-b veya b-t-r yapılarını tercih eder; *t-l-w kökü Merkezi ve Güney Sami dil havzasında odaklanmıştır.",
+    "akkadian": "Doğu Sami Akadcasında izleme ve okuma için redû / šasû kökleri kullanılır; *t-l-w izoglossu Batı/Güney Samide karakteristik biçimde korunur.",
+    "geez_and_esa": "Klasik Ge'ez talawa ('izlemek, ardından gelmek, refakat etmek' — son kökteki w harfini mâzide doğrudan korur) ve Eski Güney Arapça (Sebece) tlw ('izlemek, peşi sıra sürmek, ardışık gerçekleşmek').",
+    "note": "Proto-Sami *t-l-w kökü Ge'ez (talawa) ve Sebecede (tlw) en saf fiziksel 'ardından gelmek, peşi sıra yürümek' anlamını korur. Arapça bu fiziksel anlamı 91:2 (Güneş'i izleyen Ay) ve 11:17 (ardından gelen tanık) ayetlerinde muhafaza ederken, kelimeleri ve ayetleri satır satır izleyip aktarma metaforu üzerinden 'tilavet' (تِلَاوَة) kavramını geliştirmiştir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "س-ل-خ [فَٱنسَلَخَ مِنْهَا] & ن-ك-ص [عَلَىٰٓ أَعْقَٰبِكُمْ تَنكِصُونَ] (Ayetlerden Sıyrılıp Kopmak ve Ökçeleri Üzerinde Geri Dönmek ↔ Ayetlerin Ardı Ardına Okunması ve İzlenmesi: 7:175, 23:66)",
+      "ك-ذ-ب & ك-ب-ر [مُسْتَكْبِرًا] & و-ل-ي [وَلَّىٰ] (Yalanlamak, Büyüklenip Sırt Çevirmek ve Duymazdan Gelmek ↔ Okunan Ayetlere Kulak Verip Boyun Eğmek: 23:105, 31:7, 45:8, 45:31)",
+      "ن-س-ي [وَتَنسَوْنَ أَنفُسَكُمْ] & ك-ف-ر (Kitabı Okuduğu Hâlde Kendi Sorumluluğunu Unutmak veya Örtbas Etmek ↔ Kitabı Hakkıyla Tilavet Edip İman Etmek: 2:44, 2:121, 3:101)",
+      "س-ط-و [يَكَادُونَ يَسْطُونَ] & أَسَاطِيرُ ٱلْأَوَّلِينَ (Ayetleri Okuyanlara Saldırmaya Yeltenmek ve 'Eskilerin Masalları' Demek ↔ Hak Üzere Tilavet: 8:31, 22:72, 68:15, 83:13)"
+    ],
+    "key_ayahs": [
+      "91:2 (وَٱلْقَمَرِ إِذَا تَلَىٰهَا)",
+      "2:121 (ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ)",
+      "23:66 (قَدْ كَانَتْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ تَنكِصُونَ)",
+      "8:2 (وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَٰتُهُۥ زَادَتْهُمْ إِيمَٰنًا)"
+    ],
+    "reverse_stress_test": "Ayetlerden sıyrılıp kopmak (ٱنسَلَخَ), ökçeleri üzerinde geri kaçmak (تَنكِصُونَ), kulak tıkayıp büyüklenmek (وَلَّىٰ مُسْتَكْبِرًا) ve okuduğu hâlde kendini unutmak tersine çevrildiğinde, istisnasız 'ardından kesintisiz gelmek, ayetleri bütünlük içinde aktarmak ve izinden yürümek' çekirdeği sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "تَلَا (T-L-W) vs ٱتَّبَعَ (T-B-A) [2:102]",
+      "تَلَا (T-L-W) vs قَرَأَ / قُرْءَان (Q-R-') [10:61, 27:92]",
+      "تَلَا (T-L-W) vs عَلَّمَ (A-L-M) & زَكَّىٰ (Z-K-W) [2:129, 2:151, 3:164, 62:2]",
+      "تَلَا (T-L-W) vs خَطَّ (X-T-T) [29:48] & ذَكَرَ (Z-K-R) [3:58, 18:83, 33:34, 37:3]"
+    ],
+    "mechanical_difference": "2:102'de تَتْلُوا۟ bozguncu odakların uydurup ardı ardına yaydığı sözlü anlatımı, ٱتَّبَعُوا۟ ise halkın o anlatının peşine düşüp bağlanmasını ayırır. 10:61 ve 27:92'de قُرْءَان bir araya getirilmiş okunan metnin adı iken تَلَا o metni ardışık sıra ve izleme bilinciyle seslendirip tebliğ etme eylemidir. Dört risalet ayetinde (2:129, 2:151, 3:164, 62:2) üçlü aşama kesindir: تَلَا ayetleri eksiksiz ve ardı ardına okumayı, زَكَّىٰ arındırıp olgunlaştırmayı, عَلَّمَ ise Kitap ve hikmetin derinliğini öğretmeyi gösterir. 29:48'de تَتْلُوا۟ sözlü okumayı, تَخُطُّهُۥ ise sağ elle yazı yazmayı karşıtlaştırarak elçinin geçmişte ne okuyan ne de yazan biri olduğunu belgeler."
+  },
+  "anchor_ayahs": [
+    "91:2 & 11:17 (وَٱلْقَمَرِ إِذَا تَلَىٰهَا / وَيَتْلُوهُ شَاهِدٌ مِّنْهُ — kökün en saf fiziksel 'ardından gelip izleme' ve ardışık tanıklık çıpası)",
+    "2:121 & 2:44 & 2:113 (يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ / وَأَنتُمْ تَتْلُونَ ٱلْكِتَٰبَ — yüzeysel metin okuma çelişkisi ile metni hakkını vererek okuyup izleme ölçütü çıpası)",
+    "2:129 & 2:151 & 3:164 & 62:2 (رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ — elçinin dörtlü eğitim zincirinde ilk basamak olan tilavet çıpası)",
+    "8:2 & 17:107 & 22:72 & 23:66 & 45:31 (وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَٰتُهُۥ زَادَتْهُمْ إِيمَٰنًا vs أَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ — okunan ayetler karşısında iman artışı-secde ile büyüklenme-saldırı-hesap karşıtlığı çıpası)"
+  ],
+  "grammar_and_branch_rules": "1) Fiziksel İzleme ve Ardıl Tanıklık (3 ayet): Güneş'i izleyen Ay (91:2), açık delilin ardından gelen tanık (11:17) ve zikri ardı ardına aktaranlar (37:3). 2) İlâhî Tilavet ve Elçilerin Tebliğ-Kıssa Aktarımı (27 ayet): Allah'ın elçiye hak üzere aktardığı ayetler ve haberler (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin risalet görevi olarak ayet ve saf sayfaları okuması, geçmişte kitap okumadığı delili ve kıssa/vahiy okuma emirleri (2:129, 2:151, 3:164, 5:27, 6:151, 7:175, 10:16,61,71, 13:30, 18:27,83, 26:69, 27:92, 28:45,59, 29:45,48, 39:71, 62:2, 65:11, 98:2). 3) Hukukî Hüküm Bildirimi ve İman-Huşu Tepkisi (9 ayet): Kitapta okunan helal-haram ve aile-yetim hükümleri (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler okunduğunda imanı artıp secdeye kapananlar (8:2, 17:107, 19:58, 28:53). 4) Hakkıyla Tilavet vs Metinle Çelişme ve Bâtıl Aktarım (7 ayet / 8 geçiş): Hakkıyla tilavet ve gece-gündüz okuma (2:121 [2x], 3:113, 35:29) karşısında okuyup kendini unutma, dışlayıcılık, Tevrat'la sınama ve Süleyman aleyhine okunan bâtıl anlatılar (2:44, 2:102, 2:113, 3:93). 5) Okunan Ayetler Karşısında Direniş, Büyüklenme ve Ahiret Sorgusu (15 ayet / 16 geçiş): Ayetler apaçık okunduğunda 'eskilerin masalları', 'büyü', 'değiştir' diyerek saldırmaya yeltenme, kulak tıkama ve ahiretteki 'ayetlerim size okunmuyor muydu?' sorgusu (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 23:66, 23:105, 31:7, 34:43, 45:8, 45:25, 45:31, 46:7, 68:15, 83:13).",
+  "derivatives": {
+    "تَلَا / يَتْلُو / نَتْلُو / أَتْلُو / تَتْلُو (Form I etken fiil - 30 geçiş: 28 muzâri + 2 mâzi)": "Güneş'i izlemek (91:2), ardı sıra tanıklık etmek (11:17), Allah'ın veya elçilerin ayetleri ve kitapları ardı ardına okuyup aktarması.",
+    "تُتْلَىٰ / يُتْلَىٰ / تُلِيَتْ (Form I edilgen fiil - 24 geçiş: 23 muzâri + 1 mâzi)": "İlâhî ayetlerin, hükümlerin ve vahyin muhataplar üzerine okunması (iman artışı veya direniş-sorgu sınavı).",
+    "ٱتْلُ / فَٱتْلُوهَآ (Form I emir fiili - 7 geçiş)": "Vahyedilen Kitabı ve tarihsel haberleri ardı ardına okuyup aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45) ile Tevrat'ı delil olarak okuma çağrısı (3:93).",
+    "تِلَاوَتِهِۦ (Masdar - 1 geçiş: 2:121) & ٱلتَّٰلِيَٰتِ (İsm-i fâil dişil çoğul - 1 geçiş: 37:3)": "Kitabı hem lafzıyla hem gereğiyle izleme hakkı (حَقَّ تِلَاوَتِهِۦ) ve zikri/uyarıyı ardı ardına aktaranlar (فَٱلتَّٰلِيَٰتِ ذِكْرًا)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 44,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:44",
+      "word_position": 7,
+      "target_word_uthmani": "تَتْلُونَ",
+      "target_word_rasm": "تتلون",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَٰبَ أَفَلَا تَعْقِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kitap'ı okuyup durduğunuz halde kendinizi unutur da başkalarına mı iyilikle emredersiniz? Düşünmez misiniz?",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|2MP"
+      },
+      "ayah_text_arabic_full": "أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَٰبَ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap'ı okuyup durduğunuz halde kendinizi unutur da başkalarına mı iyilikle emredersiniz? Düşünmez misiniz?",
+      "contextual_meaning": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+    },
+    {
+      "surah": 2,
+      "ayah": 102,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:102",
+      "word_position": 3,
+      "target_word_uthmani": "تَتْلُوا۟",
+      "target_word_rasm": "تتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَٰطِينُ عَلَىٰ مُلْكِ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güçlerin Süleyman'ın hükümdarlığı hakkında söylediklerine uydular. Oysa Süleyman gerçeğin üzerini örten değildi, ama insanlara sihri öğreten sa...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَٰنَ وَمَا كَفَرَ سُلَيْمَٰنُ وَلَٰكِنَّ ٱلشَّيَٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَٰرُوتَ وَمَٰرُوتَ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ لَوْ كَانُوا۟ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güçlerin Süleyman'ın hükümdarlığı hakkında söylediklerine uydular. Oysa Süleyman gerçeğin üzerini örten değildi, ama insanlara sihri öğreten saptırıcı yıkıcı güçler gerçeğin üzerini örten olmuşlardı. Babil'de, kozmik görevli denilen Harut ve Marut'a bir şey indirilmemişti. Bu ikisi \"Biz sadece imtihan ediyoruz, sakın gerçeğin üzerini ört\" demedikçe kimseye bir şey öğretmezlerdi. Halbuki bu ikisinden, koca ile karısının arasını ayıracak şeyler öğreniyorlardı. Oysa Allah'ın izni olmadıkça onlar kimseye zarar veremezlerdi. Kendilerine zarar verecek, faydalı olmayacak şeyler öğreniyorlardı. And olsun ki, onu satın alanın ahiretten bir nasibi olmadığını biliyorlardı. Kendilerini karşılığında sattıkları şeyin ne kötü olduğunu keşke bilselerdi!",
+      "contextual_meaning": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+    },
+    {
+      "surah": 2,
+      "ayah": 113,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:113",
+      "word_position": 14,
+      "target_word_uthmani": "يَتْلُونَ",
+      "target_word_rasm": "يتلون",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "عَلَىٰ شَىْءٍ وَهُمْ يَتْلُونَ ٱلْكِتَٰبَ كَذَٰلِكَ قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Yahudiler \"Hıristiyanlar bir temel üzerinde değil\" dediler, Hıristiyanlar da \"Yahudiler bir temel üzerinde değil\" dediler; oysa onlar Kitaplarını da okuyorlar. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَٰرَىٰ عَلَىٰ شَىْءٍ وَقَالَتِ ٱلنَّصَٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍ وَهُمْ يَتْلُونَ ٱلْكِتَٰبَ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudiler \"Hıristiyanlar bir temel üzerinde değil\" dediler, Hıristiyanlar da \"Yahudiler bir temel üzerinde değil\" dediler; oysa onlar Kitaplarını da okuyorlar. Bilgisizler de tıpkı onların söylediklerini söylemiştir. Allah, kıyamet günü, anlaşmazlığa düştükleri şeylerde onların arasında hüküm verecektir.",
+      "contextual_meaning": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+    },
+    {
+      "surah": 2,
+      "ayah": 121,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:121",
+      "word_position": 4,
+      "target_word_uthmani": "يَتْلُونَهُۥ",
+      "target_word_rasm": "يتلونه",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine verdiğimiz Kitabı gereğince okuyanlar var ya, işte ona ancak onlar güven duyup emin olurlar. Onu gerçeğin üzerini örtenler ise kaybedenlerdir.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine verdiğimiz Kitabı gereğince okuyanlar var ya, işte ona ancak onlar güven duyup emin olurlar. Onu gerçeğin üzerini örtenler ise kaybedenlerdir.",
+      "contextual_meaning": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+    },
+    {
+      "surah": 2,
+      "ayah": 121,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:121",
+      "word_position": 6,
+      "target_word_uthmani": "تِلَاوَتِهِۦٓ",
+      "target_word_rasm": "تلاوته",
+      "target_word_literal_irab": "Tilavetinin hakkını vererek (تِلَاوَتِهِۦ — masdar: metni ardı ardına okuyup gereğince izleme ölçütü; 2:121)",
+      "context_snippet_arabic": "ٱلْكِتَٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine verdiğimiz Kitabı gereğince okuyanlar var ya, işte ona ancak onlar güven duyup emin olurlar. Onu gerçeğin üzerini örtenler ise kaybedenlerdir.",
+      "morphology": {
+        "lemma": "tilaAwat",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tilaAwat|ROOT:tlw|F|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine verdiğimiz Kitabı gereğince okuyanlar var ya, işte ona ancak onlar güven duyup emin olurlar. Onu gerçeğin üzerini örtenler ise kaybedenlerdir.",
+      "contextual_meaning": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+    },
+    {
+      "surah": 2,
+      "ayah": 129,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:129",
+      "word_position": 6,
+      "target_word_uthmani": "يَتْلُوا۟",
+      "target_word_rasm": "يتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimiz! İçlerinden onlara Senin ayetlerini okuyan, Kitabı ve hikmeti öğreten, onları her kötülükten arıtan bir elçi gönder. Doğrusu güçlü ve Hakim olan ancak Sensin\".",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! İçlerinden onlara Senin ayetlerini okuyan, Kitabı ve hikmeti öğreten, onları her kötülükten arıtan bir elçi gönder. Doğrusu güçlü ve Hakim olan ancak Sensin\".",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 2,
+      "ayah": 151,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:151",
+      "word_position": 6,
+      "target_word_uthmani": "يَتْلُوا۟",
+      "target_word_rasm": "يتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِنَا وَيُزَكِّيكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Nitekim Biz size, ayetlerimizi okuyacak, sizi her kötülükten arıtacak, size kitabı ve hikmeti öğretecek ve bilmediklerinizi bildirecek aranızdan, bir elçi gönderdik.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nitekim Biz size, ayetlerimizi okuyacak, sizi her kötülükten arıtacak, size kitabı ve hikmeti öğretecek ve bilmediklerinizi bildirecek aranızdan, bir elçi gönderdik.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 2,
+      "ayah": 252,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:252",
+      "word_position": 4,
+      "target_word_uthmani": "نَتْلُوهَا",
+      "target_word_rasm": "نتلوها",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ وَإِنَّكَ",
+      "context_snippet_turkish_tabula_rasa": "İşte bunlar Allah'ın ayetleridir. Biz onları sana doğru olarak okuyoruz. Şüphesiz sen elçilerden birisin.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|1P"
+      },
+      "ayah_text_arabic_full": "تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ وَإِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bunlar Allah'ın ayetleridir. Biz onları sana doğru olarak okuyoruz. Şüphesiz sen elçilerden birisin.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 3,
+      "ayah": 58,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:58",
+      "word_position": 2,
+      "target_word_uthmani": "نَتْلُوهُ",
+      "target_word_rasm": "نتلوه",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Sana okuduğumuz bunlar, ayetlerden ve hikmet dolu Kuran'dandır.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|1P"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana okuduğumuz bunlar, ayetlerden ve hikmet dolu Kuran'dandır.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 3,
+      "ayah": 93,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:93",
+      "word_position": 21,
+      "target_word_uthmani": "فَٱتْلُوهَآ",
+      "target_word_rasm": "فٱتلوها",
+      "target_word_literal_irab": "Ardı ardına okuyup aktar / onu okuyun (ٱتْلُ / فَٱتْلُوهَآ — I. bab emir kipi; 7 geçiş)",
+      "context_snippet_arabic": "قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Tevrat'ın indirilmesinden önce İsrail'in kendisine haram ettiğinden başka bütün yiyecekler İsrailoğullarına helal idi. De ki: \"Doğru sözlü iseniz Tevrat'ı getir...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:talaY`|ROOT:tlw|2MP"
+      },
+      "ayah_text_arabic_full": "كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tevrat'ın indirilmesinden önce İsrail'in kendisine haram ettiğinden başka bütün yiyecekler İsrailoğullarına helal idi. De ki: \"Doğru sözlü iseniz Tevrat'ı getirip okuyun\".",
+      "contextual_meaning": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+    },
+    {
+      "surah": 3,
+      "ayah": 101,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:101",
+      "word_position": 4,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَٰتُ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ayetleri size okunur, aranızda da elçiyi bulunurken nasıl gerçeğin üzerini ört? Kim Allah'ın Kitabına sarılırsa şüphesiz doğru yola erişir.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ayetleri size okunur, aranızda da elçiyi bulunurken nasıl gerçeğin üzerini ört? Kim Allah'ın Kitabına sarılırsa şüphesiz doğru yola erişir.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 3,
+      "ayah": 108,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:108",
+      "word_position": 4,
+      "target_word_uthmani": "نَتْلُوهَا",
+      "target_word_rasm": "نتلوها",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "İşte bunlar, sana doğru olarak okuduğumuz Allah'ın ayetleridir. Allah hiç kimseye zulmetmek istemez.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|1P"
+      },
+      "ayah_text_arabic_full": "تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًا لِّلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bunlar, sana doğru olarak okuduğumuz Allah'ın ayetleridir. Allah hiç kimseye zulmetmek istemez.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 3,
+      "ayah": 113,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:113",
+      "word_position": 8,
+      "target_word_uthmani": "يَتْلُونَ",
+      "target_word_rasm": "يتلون",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MP"
+      },
+      "ayah_text_arabic_full": "لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinin hepsi bir değildir: Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. İşte onlar iyilerdendir.",
+      "contextual_meaning": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+    },
+    {
+      "surah": 3,
+      "ayah": 164,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:164",
+      "word_position": 12,
+      "target_word_uthmani": "يَتْلُوا۟",
+      "target_word_rasm": "يتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "رَسُولًا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki Allah, güvene erenlere, ayetlerini okuyan, onları arıtan, onlara Kitap ve hikmeti öğreten, kendilerinden bir elçi göndermekle iyilikte bulunmuştur. Halbuki onlar, önceleri apaçık sapıklıkta idiler.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Allah, güvene erenlere, ayetlerini okuyan, onları arıtan, onlara Kitap ve hikmeti öğreten, kendilerinden bir elçi göndermekle iyilikte bulunmuştur. Halbuki onlar, önceleri apaçık sapıklıkta idiler.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 4,
+      "ayah": 127,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:127",
+      "word_position": 9,
+      "target_word_uthmani": "يُتْلَىٰ",
+      "target_word_rasm": "يتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ",
+      "context_snippet_turkish_tabula_rasa": "Kadınlar hakkında senden fetva isterler, de ki: \"Onlar hakkında fetvayı size Allah veriyor: \"Bu fetva, kendilerine yazılan şeyi vermeyip kendileriyle evlenmeyi ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlar hakkında senden fetva isterler, de ki: \"Onlar hakkında fetvayı size Allah veriyor: \"Bu fetva, kendilerine yazılan şeyi vermeyip kendileriyle evlenmeyi arzuladığınız yetim kadınlara ve bir de zavallı çocuklara ve yetimlere doğrulukla bakmanız hususunda Kitap'da size okunandır\". Ne iyilik yaparsaniz Allah onu şüphesiz bilir.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 5,
+      "ayah": 1,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:1",
+      "word_position": 12,
+      "target_word_uthmani": "يُتْلَىٰ",
+      "target_word_rasm": "يتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Akidleri yerine getirin. İhramda iken avlanmayı helal görmeksizin, size bildirilecek olanlar dışında, hayvanlar helal kılındı; Allah dilediği...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Akidleri yerine getirin. İhramda iken avlanmayı helal görmeksizin, size bildirilecek olanlar dışında, hayvanlar helal kılındı; Allah dilediği hükmü verir.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 5,
+      "ayah": 27,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:27",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱتْلُ",
+      "target_word_rasm": "وٱتل",
+      "target_word_literal_irab": "Ardı ardına okuyup aktar / onu okuyun (ٱتْلُ / فَٱتْلُوهَآ — I. bab emir kipi; 7 geçiş)",
+      "context_snippet_arabic": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, Adem'in iki oğlunun kıssasını doğru olarak anlat: İkisi birer yakınlaşma sunusu sunmuşlar, birininki kabul edilmiş, diğerininki edilmemişti. Kabul edilm...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:talaY`|ROOT:tlw|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, Adem'in iki oğlunun kıssasını doğru olarak anlat: İkisi birer yakınlaşma sunusu sunmuşlar, birininki kabul edilmiş, diğerininki edilmemişti. Kabul edilmeyen, \"And olsun seni öldüreceğim\" deyince, kardeşi: \"Allah ancak sakınanların takdimesini kabul eder\" demişti.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 6,
+      "ayah": 151,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:151",
+      "word_position": 3,
+      "target_word_uthmani": "أَتْلُ",
+      "target_word_rasm": "أتل",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı ö...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|1S|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizin ve onların rızkını veren Biziz, gizli ve açık kötülüklere yaklaşmayın, Allah'ın haram kıldığı cana haksız yere kıymayın. Allah bunları size düşünesiniz diye buyurmaktadır.\"",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 7,
+      "ayah": 175,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:175",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱتْلُ",
+      "target_word_rasm": "وٱتل",
+      "target_word_literal_irab": "Ardı ardına okuyup aktar / onu okuyun (ٱتْلُ / فَٱتْلُوهَآ — I. bab emir kipi; 7 geçiş)",
+      "context_snippet_arabic": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱلَّذِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, saptırıcı yıkıcı gücün peşine takdığı ve kendisine verdiğimiz ayetlerden sıyrılarak azgınlıklardan olan kişinin olayını anlat.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:talaY`|ROOT:tlw|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱلَّذِىٓ ءَاتَيْنَٰهُ ءَايَٰتِنَا فَٱنسَلَخَ مِنْهَا فَأَتْبَعَهُ ٱلشَّيْطَٰنُ فَكَانَ مِنَ ٱلْغَاوِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, saptırıcı yıkıcı gücün peşine takdığı ve kendisine verdiğimiz ayetlerden sıyrılarak azgınlıklardan olan kişinin olayını anlat.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 8,
+      "ayah": 2,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:2",
+      "word_position": 10,
+      "target_word_uthmani": "تُلِيَتْ",
+      "target_word_rasm": "تليت",
+      "target_word_literal_irab": "Ayetleri kendilerine okunduğunda (تُلِيَتْ — I. bab edilgen mâzi; 8:2)",
+      "context_snippet_arabic": "وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَٰتُهُۥ زَادَتْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler ancak, o kimselerdir ki Allah anıldığı zaman kalbleri titrer, ayetleri okunduğu zaman bu onların güven bağı artırır. Ve Rablerine güvenirler; ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَٰتُهُۥ زَادَتْهُمْ إِيمَٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler ancak, o kimselerdir ki Allah anıldığı zaman kalbleri titrer, ayetleri okunduğu zaman bu onların güven bağı artırır. Ve Rablerine güvenirler; irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan yerli yerince dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 8,
+      "ayah": 31,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:31",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz onlara okunduğu zaman, \"İşittik, işittik! İstesek biz de aynını söyleyebiliriz; bu sadece eskilerin masallarıdır\" derlerdi.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هَٰذَآ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara okunduğu zaman, \"İşittik, işittik! İstesek biz de aynını söyleyebiliriz; bu sadece eskilerin masallarıdır\" derlerdi.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 10,
+      "ayah": 15,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:15",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz onlara açık açık okununca, bizimle karşılaşmayı ummayanlar, \"Bundan başka bir Kuran getir veya bunu değiştir\" dediler. De ki: ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara açık açık okununca, bizimle karşılaşmayı ummayanlar, \"Bundan başka bir Kuran getir veya bunu değiştir\" dediler. De ki: \"Onu kendiliğimden değiştiremem, ben ancak, bana vahyolunana uyarım. Ben Rabbime karşı gelirsem, büyük günün azabına uğramaktan korkarım.\"",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 10,
+      "ayah": 16,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:16",
+      "word_position": 6,
+      "target_word_uthmani": "تَلَوْتُهُۥ",
+      "target_word_rasm": "تلوته",
+      "target_word_literal_irab": "Ardından izlediğinde / onu size okudum (تَلَىٰهَا 91:2 ve تَلَوْتُهُۥ 10:16 — I. bab etken mâzi; 2 geçiş)",
+      "context_snippet_arabic": "شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah dileseydi ben onu size okumazdım, size de bildirmemiş olurdu. Daha önce yıllarca aranızda bulundum, hiç düşünmüyor musunuz?\"",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:talaY`|ROOT:tlw|1S"
+      },
+      "ayah_text_arabic_full": "قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِّن قَبْلِهِۦٓ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah dileseydi ben onu size okumazdım, size de bildirmemiş olurdu. Daha önce yıllarca aranızda bulundum, hiç düşünmüyor musunuz?\"",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 10,
+      "ayah": 61,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:61",
+      "word_position": 6,
+      "target_word_uthmani": "تَتْلُوا۟",
+      "target_word_rasm": "تتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "فِى شَأْنٍ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍ",
+      "context_snippet_turkish_tabula_rasa": "Ne iş yaparsan yap ve sizler ona dair Kuran'dan ne okursanız okuyun; ne yaparsanız yapın; yaptıklarınıza daldığınız anda, mutlaka Biz sizi görürüz. Yerde ve gök...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|2MS"
+      },
+      "ayah_text_arabic_full": "وَمَا تَكُونُ فِى شَأْنٍ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ وَلَآ أَصْغَرَ مِن ذَٰلِكَ وَلَآ أَكْبَرَ إِلَّا فِى كِتَٰبٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ne iş yaparsan yap ve sizler ona dair Kuran'dan ne okursanız okuyun; ne yaparsanız yapın; yaptıklarınıza daldığınız anda, mutlaka Biz sizi görürüz. Yerde ve gökte hiçbir zerre Rabbinden gizli değildir. Bundan daha küçüğü veya daha büyüğü şüphesiz apaçık bir Kitap'dadır.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 10,
+      "ayah": 71,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:71",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱتْلُ",
+      "target_word_rasm": "وٱتل",
+      "target_word_literal_irab": "Ardı ardına okuyup aktar / onu okuyun (ٱتْلُ / فَٱتْلُوهَآ — I. bab emir kipi; 7 geçiş)",
+      "context_snippet_arabic": "وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ",
+      "context_snippet_turkish_tabula_rasa": "... Milletine, \"Ey milletim! Eğer durumum, Allah'ın ayetlerini hatırlatmam size ağır geliyorsa ki ben Allah'a güvenmişimdir siz ve koştuğunuz ortaklar elbirliği edin; yapacağınız iş sonra size bir tasa vermesin. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:talaY`|ROOT:tlw|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara Nuh'un başından geçenleri anlat: Milletine, \"Ey milletim! Eğer durumum, Allah'ın ayetlerini hatırlatmam size ağır geliyorsa ki ben Allah'a güvenmişimdir siz ve koştuğunuz ortaklar elbirliği edin; yapacağınız iş sonra size bir tasa vermesin. Sonra onu bana uygulayın ve beni ertelemeyin\" demişti.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 11,
+      "ayah": 17,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:17",
+      "word_position": 7,
+      "target_word_uthmani": "وَيَتْلُوهُ",
+      "target_word_rasm": "ويتلوه",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "بَيِّنَةٍ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ وَمِن",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin katından bir belgesi ve onun arkasından da bir şahidi olanlar, önlerinde de Musa'nın Kitap'ı önder ve rahmet olarak bulunanlardır ki, işte onlar Kuran'...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin katından bir belgesi ve onun arkasından da bir şahidi olanlar, önlerinde de Musa'nın Kitap'ı önder ve rahmet olarak bulunanlardır ki, işte onlar Kuran'a güven duyup emin olurlar. Hangi topluluk onu gerçeğin üzerini örterse yeri ateştir; senin de bundan şüphen olmasın. Doğrusu o, Rabbinden bir gerçektir, fakat insanların çoğu güven duyup teslim olmazlar.",
+      "contextual_meaning": "Kökün fiziksel çekirdeği ve ardıl tanıklık: Güneş'in hemen ardından gelip izleyen Ay (91:2 وَٱلْقَمَرِ إِذَا تَلَىٰهَا), açık vahiy delilinin ardından gelip onu teyit eden tanık (11:17 وَيَتْلُوهُ شَاهِدٌ مِّنْهُ) ve zikri/uyarıyı ardı ardına aktaran görevli topluluklar (37:3 فَٱلتَّٰلِيَٰتِ ذِكْرًا)."
+    },
+    {
+      "surah": 13,
+      "ayah": 30,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:30",
+      "word_position": 10,
+      "target_word_uthmani": "لِّتَتْلُوَا۟",
+      "target_word_rasm": "لتتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ",
+      "context_snippet_turkish_tabula_rasa": "Sana vahyettiğimizi okuman için, seni de onlardan önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik; o ümmet merhametli olan Allah'ı gerçeğin üzerini örte...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana vahyettiğimizi okuman için, seni de onlardan önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik; o ümmet merhametli olan Allah'ı gerçeğin üzerini örter; de ki: \"O benim Rabbim'dir, O'ndan başka sığınak mercii (ilâh) yoktur, yalnız O'na güvenirim, dönüşüm de O'nadır.\"",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 17,
+      "ayah": 107,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:107",
+      "word_position": 14,
+      "target_word_uthmani": "يُتْلَىٰ",
+      "target_word_rasm": "يتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Kuran'a ister güvene erin, isten güven duy, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine boyun eğmeye varırlar\" ve \"Rabbimiz münezzehtir. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Kuran'a ister güvene erin, isten güven duy, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine boyun eğmeye varırlar\" ve \"Rabbimiz münezzehtir. Rabbimiz'in sözü şüphesiz yerine gelecektir\" derler.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 18,
+      "ayah": 27,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:27",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱتْلُ",
+      "target_word_rasm": "وٱتل",
+      "target_word_literal_irab": "Ardı ardına okuyup aktar / onu okuyun (ٱتْلُ / فَٱتْلُوهَآ — I. bab emir kipi; 7 geçiş)",
+      "context_snippet_arabic": "وَٱتْلُ مَآ أُوحِىَ إِلَيْكَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin Kitap'ından sana vahyolunanı oku; O'nun sözlerini değiştirecek yoktur. O'ndan başka bir sığınılacak da bulamazsın.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:talaY`|ROOT:tlw|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِن كِتَابِ رَبِّكَ لَا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin Kitap'ından sana vahyolunanı oku; O'nun sözlerini değiştirecek yoktur. O'ndan başka bir sığınılacak da bulamazsın.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 18,
+      "ayah": 83,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:83",
+      "word_position": 6,
+      "target_word_uthmani": "سَأَتْلُوا۟",
+      "target_word_rasm": "سأتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "ذِى ٱلْقَرْنَيْنِ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا",
+      "context_snippet_turkish_tabula_rasa": "Sana Zülkarneyn'i sorarlar, \"Onu size anlatacağım\" de.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|1S"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana Zülkarneyn'i sorarlar, \"Onu size anlatacağım\" de.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 19,
+      "ayah": 58,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:58",
+      "word_position": 23,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "هَدَيْنَا وَٱجْتَبَيْنَآ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ",
+      "context_snippet_turkish_tabula_rasa": "... Rahman'ın ayetleri onlara okunduğu zaman ağlayarak boyun eğmeye kapanırlardı.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bunlar Allah'ın kendilerine nimetler sunduğu elçiler; Adem'in soyundan, Nuh ile beraber taşıdıklarımızdan; İbrahim ve İsmail'in neslinden ve doğru yola erdirdiğimizden, seçip beğendiklerimizdendirler. Rahman'ın ayetleri onlara okunduğu zaman ağlayarak boyun eğmeye kapanırlardı.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 19,
+      "ayah": 73,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:73",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz kendilerine apaçık okunduğu zaman gerçeğin üzerini örtenler güvene erenlere: \"Bu iki takımın hangisinin makamı daha iyi ve yeri daha güzeldir?\" derler.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌ مَّقَامًا وَأَحْسَنُ نَدِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz kendilerine apaçık okunduğu zaman gerçeğin üzerini örtenler güvene erenlere: \"Bu iki takımın hangisinin makamı daha iyi ve yeri daha güzeldir?\" derler.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 22,
+      "ayah": 30,
+      "surah_name": "Hac",
+      "ayah_ref": "22:30",
+      "word_position": 16,
+      "target_word_uthmani": "يُتْلَىٰ",
+      "target_word_rasm": "يتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "ٱلْأَنْعَٰمُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ فَٱجْتَنِبُوا۟ ٱلرِّجْسَ",
+      "context_snippet_turkish_tabula_rasa": "İşte böyle. Kim Allah'ın yasaklarına saygı gösterirse, bu Rabbinin katında kendi iyiliğinedir. (Haram olduğu) size okunanlar dışında kalan hayvanlar, size helal...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيْرٌ لَّهُۥ عِندَ رَبِّهِۦ وَأُحِلَّتْ لَكُمُ ٱلْأَنْعَٰمُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ فَٱجْتَنِبُوا۟ ٱلرِّجْسَ مِنَ ٱلْأَوْثَٰنِ وَٱجْتَنِبُوا۟ قَوْلَ ٱلزُّورِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böyle. Kim Allah'ın yasaklarına saygı gösterirse, bu Rabbinin katında kendi iyiliğinedir. (Haram olduğu) size okunanlar dışında kalan hayvanlar, size helal kılındı. O halde pis putlardan sakının; yalan sözden kaçının.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 22,
+      "ayah": 72,
+      "surah_name": "Hac",
+      "ayah_ref": "22:72",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlara ayetlerimiz apaçık olarak okunduğu zaman, gerçeğin üzerini örtenlerin yüzlerinden gerçeğin üzerini örtmelerini anlarsın. Nerdeyse, kendilerine ayetlerimizi okuyanlara saldıracaklar. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara ayetlerimiz apaçık olarak okunduğu zaman, gerçeğin üzerini örtenlerin yüzlerinden gerçeğin üzerini örtmelerini anlarsın. Nerdeyse, kendilerine ayetlerimizi okuyanlara saldıracaklar. De ki: \"Size bundan daha fenasını haber vereyim mi? Allah'ın gerçeğin üzerini örtenlere vadettiği ateş! Ne kötü bir dönüştür!..",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 22,
+      "ayah": 72,
+      "surah_name": "Hac",
+      "ayah_ref": "22:72",
+      "word_position": 15,
+      "target_word_uthmani": "يَتْلُونَ",
+      "target_word_rasm": "يتلون",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا قُلْ",
+      "context_snippet_turkish_tabula_rasa": "Onlara ayetlerimiz apaçık olarak okunduğu zaman, gerçeğin üzerini örtenlerin yüzlerinden gerçeğin üzerini örtmelerini anlarsın. Nerdeyse, kendilerine ayetlerimizi okuyanlara saldıracaklar. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara ayetlerimiz apaçık olarak okunduğu zaman, gerçeğin üzerini örtenlerin yüzlerinden gerçeğin üzerini örtmelerini anlarsın. Nerdeyse, kendilerine ayetlerimizi okuyanlara saldıracaklar. De ki: \"Size bundan daha fenasını haber vereyim mi? Allah'ın gerçeğin üzerini örtenlere vadettiği ateş! Ne kötü bir dönüştür!..",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 23,
+      "ayah": 66,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:66",
+      "word_position": 4,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "قَدْ كَانَتْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "\"Ayetlerim size okunduğunda büyüklük taslayıp, gece ağzınıza geleni söyleyerek ardınıza dönüyordunuz.\"",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "قَدْ كَانَتْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ تَنكِصُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ayetlerim size okunduğunda büyüklük taslayıp, gece ağzınıza geleni söyleyerek ardınıza dönüyordunuz.\"",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 23,
+      "ayah": 105,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:105",
+      "word_position": 4,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "أَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Ayetlerim size okunurken onları yalanlıyordunuz değil mi?\" der.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Ayetlerim size okunurken onları yalanlıyordunuz değil mi?\" der.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 26,
+      "ayah": 69,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:69",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱتْلُ",
+      "target_word_rasm": "وٱتل",
+      "target_word_literal_irab": "Ardı ardına okuyup aktar / onu okuyun (ٱتْلُ / فَٱتْلُوهَآ — I. bab emir kipi; 7 geçiş)",
+      "context_snippet_arabic": "وَٱتْلُ عَلَيْهِمْ نَبَأَ إِبْرَٰهِيمَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara İbrahim'in kıssasını anlat.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:talaY`|ROOT:tlw|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ عَلَيْهِمْ نَبَأَ إِبْرَٰهِيمَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara İbrahim'in kıssasını anlat.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 27,
+      "ayah": 92,
+      "surah_name": "Neml",
+      "ayah_ref": "27:92",
+      "word_position": 2,
+      "target_word_uthmani": "أَتْلُوَا۟",
+      "target_word_rasm": "أتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ فَمَنِ ٱهْتَدَىٰ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rabbine kulluk etmekle emrolundum. Müslümanlardan olmakla ve Kuran okumakla emrolundum. \" Kim doğru yolu bulmuşsa, yalnız kendisi için bulmuş olur, kim sapıtmışsa kendine etmiş olur. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ وَمَن ضَلَّ فَقُلْ إِنَّمَآ أَنَا۠ مِنَ ٱلْمُنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rabbine kulluk etmekle emrolundum. Müslümanlardan olmakla ve Kuran okumakla emrolundum.\" Kim doğru yolu bulmuşsa, yalnız kendisi için bulmuş olur, kim sapıtmışsa kendine etmiş olur. De ki: \"Ben sadece, uyaranlardan biriyim.\"",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 28,
+      "ayah": 3,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:3",
+      "word_position": 1,
+      "target_word_uthmani": "نَتْلُوا۟",
+      "target_word_rasm": "نتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "نَتْلُوا۟ عَلَيْكَ مِن نَّبَإِ",
+      "context_snippet_turkish_tabula_rasa": "güvene eren bir millet için, sana Musa ve Firavun olayını olduğu gibi anlatacağız.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|1P"
+      },
+      "ayah_text_arabic_full": "نَتْلُوا۟ عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ بِٱلْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren bir millet için, sana Musa ve Firavun olayını olduğu gibi anlatacağız.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 28,
+      "ayah": 45,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:45",
+      "word_position": 13,
+      "target_word_uthmani": "تَتْلُوا۟",
+      "target_word_rasm": "تتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "فِىٓ أَهْلِ مَدْيَنَ تَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَلَٰكِنَّا",
+      "context_snippet_turkish_tabula_rasa": "Ama biz nice nesiller var etmiştik. Sen, Medyen halkı arasında bulunup, onlara ayetlerimizi okumuyordun, fakat o haberleri sana gönderen Biziz.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَلَٰكِنَّآ أَنشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ وَمَا كُنتَ ثَاوِيًا فِىٓ أَهْلِ مَدْيَنَ تَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama biz nice nesiller var etmiştik. Sen, Medyen halkı arasında bulunup, onlara ayetlerimizi okumuyordun, fakat o haberleri sana gönderen Biziz.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 28,
+      "ayah": 53,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:53",
+      "word_position": 2,
+      "target_word_uthmani": "يُتْلَىٰ",
+      "target_word_rasm": "يتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا",
+      "context_snippet_turkish_tabula_rasa": "Kuran onlara okunduğu zaman: \"Ona güvene erdik, doğrusu o Rabbimizden gelen gerçektir; biz şüphesiz daha önceden müslüman olmuş kimseleriz\" derler.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلْحَقُّ مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبْلِهِۦ مُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran onlara okunduğu zaman: \"Ona güvene erdik, doğrusu o Rabbimizden gelen gerçektir; biz şüphesiz daha önceden müslüman olmuş kimseleriz\" derler.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 28,
+      "ayah": 59,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:59",
+      "word_position": 11,
+      "target_word_uthmani": "يَتْلُوا۟",
+      "target_word_rasm": "يتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "فِىٓ أُمِّهَا رَسُولًا يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Rabbin şehirlerin anasına, onlara ayetlerimizi okuyacak bir elçi göndermedikçe onları yok etmiş değildir. Zaten Biz yalnız, halkı zalim olan şehirleri yok etmişizdir.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًا يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَمَا كُنَّا مُهْلِكِى ٱلْقُرَىٰٓ إِلَّا وَأَهْلُهَا ظَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin şehirlerin anasına, onlara ayetlerimizi okuyacak bir elçi göndermedikçe onları yok etmiş değildir. Zaten Biz yalnız, halkı zalim olan şehirleri yok etmişizdir.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 29,
+      "ayah": 45,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:45",
+      "word_position": 1,
+      "target_word_uthmani": "ٱتْلُ",
+      "target_word_rasm": "ٱتل",
+      "target_word_literal_irab": "Ardı ardına okuyup aktar / onu okuyun (ٱتْلُ / فَٱتْلُوهَآ — I. bab emir kipi; 7 geçiş)",
+      "context_snippet_arabic": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ",
+      "context_snippet_turkish_tabula_rasa": "Kitap'tan sana vahyolunanı oku; irtibat ve sorumluluk bağını ayakta tut; muhakkak ki yöneliş ve sorumluluk bağı hayasızlıktan ve fenalıktan alıkor; Allah'ı anma...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:talaY`|ROOT:tlw|2MS"
+      },
+      "ayah_text_arabic_full": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap'tan sana vahyolunanı oku; irtibat ve sorumluluk bağını ayakta tut; muhakkak ki yöneliş ve sorumluluk bağı hayasızlıktan ve fenalıktan alıkor; Allah'ı anmak en büyük şeydir! Allah Yaptıklarınızı bilir.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 29,
+      "ayah": 48,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:48",
+      "word_position": 3,
+      "target_word_uthmani": "تَتْلُوا۟",
+      "target_word_rasm": "تتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن",
+      "context_snippet_turkish_tabula_rasa": "Sen daha önce bir kitabtan okumuş ve elinle de onu yazmış değildin. Öyle olsaydı, batıl söze uyanlar şüpheye düşerlerdi.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen daha önce bir kitabtan okumuş ve elinle de onu yazmış değildin. Öyle olsaydı, batıl söze uyanlar şüpheye düşerlerdi.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 29,
+      "ayah": 51,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:51",
+      "word_position": 7,
+      "target_word_uthmani": "يُتْلَىٰ",
+      "target_word_rasm": "يتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ يُتْلَىٰ عَلَيْهِمْ إِنَّ فِى",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine okunan bir Kitap'ı sana indirmiş olmamız onlara yetmiyor mu? Bunda, güvene eren topluluk için rahmet ve ibret vardır.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ يُتْلَىٰ عَلَيْهِمْ إِنَّ فِى ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine okunan bir Kitap'ı sana indirmiş olmamız onlara yetmiyor mu? Bunda, güvene eren topluluk için rahmet ve ibret vardır.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 31,
+      "ayah": 7,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:7",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا وَلَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz sapık kimseye okunduğu zaman sanki kulaklarında ağırlık var da işitmiyormuş gibi büyüklenerek sırt çevirir. İşte ona can yakıcı azabı müjde et.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًا فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz sapık kimseye okunduğu zaman sanki kulaklarında ağırlık var da işitmiyormuş gibi büyüklenerek sırt çevirir. İşte ona can yakıcı azabı müjde et.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 33,
+      "ayah": 34,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:34",
+      "word_position": 3,
+      "target_word_uthmani": "يُتْلَىٰ",
+      "target_word_rasm": "يتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Evlerinizde okunan Allah'ın ayetlerini ve hikmetini hatırda tutun. Şüphesiz Allah haberdar olandır, latif olandır.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ ءَايَٰتِ ٱللَّهِ وَٱلْحِكْمَةِ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evlerinizde okunan Allah'ın ayetlerini ve hikmetini hatırda tutun. Şüphesiz Allah haberdar olandır, latif olandır.",
+      "contextual_meaning": "Hukukî hükümlerin okunması ve bilinçli iman-huşu tepkisi: Yetimler, kadınlar, helal-haram sınırları ve elçinin evinde okunan ayetlerle hikmete dair hukukî ve ahlâkî çerçeve (4:127, 5:1, 22:30, 29:51, 33:34) ile ayetler kendilerine okunduğunda imanları artan, hakikati tanıyıp gözyaşı ve secdeyle boyun eğen seçkin ve bilgili kimseler (8:2, 17:107, 19:58, 28:53)."
+    },
+    {
+      "surah": 34,
+      "ayah": 43,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:43",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz onlara apaçık olarak okunduğu zaman: \"Bu adam sizi babalarınızın taptıklarından alıkoymaktan başka bir şey istemiyor\" derlerdi. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ قَالُوا۟ مَا هَٰذَآ إِلَّا رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُوا۟ مَا هَٰذَآ إِلَّآ إِفْكٌ مُّفْتَرًى وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara apaçık olarak okunduğu zaman: \"Bu adam sizi babalarınızın taptıklarından alıkoymaktan başka bir şey istemiyor\" derlerdi. \"Bu Kuran düpedüz bir uydurmadan başka bir şey değildir\" derlerdi. Hak, gerçeğin üzerini örtenlere geldiğinde, onun için: \"Bu apaçık bir büyüdür\" demişlerdi.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 35,
+      "ayah": 29,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:29",
+      "word_position": 3,
+      "target_word_uthmani": "يَتْلُونَ",
+      "target_word_rasm": "يتلون",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın Kitap'ına uyanlar, irtibat bağını kılanlar, kendilerine verdiğimiz rızıktan gizli ve açık dolaşıma sokup paylaştıranlar, tükenmeyecek bir kazanç umabil...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَٰرَةً لَّن تَبُورَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın Kitap'ına uyanlar, irtibat bağını kılanlar, kendilerine verdiğimiz rızıktan gizli ve açık dolaşıma sokup paylaştıranlar, tükenmeyecek bir kazanç umabilirler.",
+      "contextual_meaning": "Hakkıyla tilavet ölçütü ile metinle çelişme ve bâtıl aktarım karşıtlığı: Kitabı hakkını vererek okuyup izleyenler, gece saatlerinde ve kazancı batmayacak ticaret bilinciyle ayetleri okuyanlar (2:121 [2x], 3:113, 35:29) karşısında Kitabı okuyup kendi sorumluluğunu unutanlar veya birbirini yok sayanlar (2:44, 2:113), delil olarak Tevrat'ı getirilip okumaya çağrılanlar (3:93) ve Süleyman'ın mülkü aleyhine azgın odaklarca okunup yayılan bâtıl anlatılar (2:102)."
+    },
+    {
+      "surah": 37,
+      "ayah": 3,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:3",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱلتَّٰلِيَٰتِ",
+      "target_word_rasm": "فٱلتليت",
+      "target_word_literal_irab": "Zikri/uyarıyı ardı ardına aktaranlar (فَٱلتَّٰلِيَٰتِ — I. bab dişil çoğul ism-i fâil; 37:3)",
+      "context_snippet_arabic": "فَٱلتَّٰلِيَٰتِ ذِكْرًا",
+      "context_snippet_turkish_tabula_rasa": "Sıra Sıra duran ve önlerindekini sürdükçe süren ve Allah'ı andıkça anan kozmik görevlilere and olsun ki, sizin sığınak merciiniz birdir; göklerin, yerin ve ikis...",
+      "morphology": {
+        "lemma": "t~a`liya`t",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:t~a`liya`t|ROOT:tlw|FP|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱلتَّٰلِيَٰتِ ذِكْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sıra Sıra duran ve önlerindekini sürdükçe süren ve Allah'ı andıkça anan kozmik görevlilere and olsun ki, sizin sığınak merciiniz birdir; göklerin, yerin ve ikisi arasında bulunanların -doğuların da- Rabbidir.",
+      "contextual_meaning": "Kökün fiziksel çekirdeği ve ardıl tanıklık: Güneş'in hemen ardından gelip izleyen Ay (91:2 وَٱلْقَمَرِ إِذَا تَلَىٰهَا), açık vahiy delilinin ardından gelip onu teyit eden tanık (11:17 وَيَتْلُوهُ شَاهِدٌ مِّنْهُ) ve zikri/uyarıyı ardı ardına aktaran görevli topluluklar (37:3 فَٱلتَّٰلِيَٰتِ ذِكْرًا)."
+    },
+    {
+      "surah": 39,
+      "ayah": 71,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:71",
+      "word_position": 19,
+      "target_word_uthmani": "يَتْلُونَ",
+      "target_word_rasm": "يتلون",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Size içinizden Rabbinizin ayetlerini okuyan ve bugüne kavuşacağınızı ihtar eden elçiler gelmedi mi\" derler. \"Evet geldi\" derler. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MP"
+      },
+      "ayah_text_arabic_full": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, bölük bölük yakıcı yıkım yurduna sürülür. Oraya vardıklarında kapıları açılır; bekçileri onlara: \"Size içinizden Rabbinizin ayetlerini okuyan ve bugüne kavuşacağınızı ihtar eden elçiler gelmedi mi\" derler. \"Evet geldi\" derler. Lakin azap sözü gerçeğin üzerini örtenlerin aleyhine gerçekleşir.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 45,
+      "ayah": 6,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:6",
+      "word_position": 4,
+      "target_word_uthmani": "نَتْلُوهَا",
+      "target_word_rasm": "نتلوها",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ فَبِأَىِّ",
+      "context_snippet_turkish_tabula_rasa": "İşte sana gerçek olarak anlattığımız bunlar, Allah'ın varlığının delilleridir. Artık Allah'tan ve O'nun delillerinden sonra hangi söze güven duyup emin olurlar?",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|1P"
+      },
+      "ayah_text_arabic_full": "تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ فَبِأَىِّ حَدِيثٍۭ بَعْدَ ٱللَّهِ وَءَايَٰتِهِۦ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte sana gerçek olarak anlattığımız bunlar, Allah'ın varlığının delilleridir. Artık Allah'tan ve O'nun delillerinden sonra hangi söze güven duyup emin olurlar?",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 45,
+      "ayah": 8,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:8",
+      "word_position": 4,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "يَسْمَعُ ءَايَٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ",
+      "context_snippet_turkish_tabula_rasa": "Kendine okunan Allah'ın ayetlerini dinleyip, sonra, onları hiç duymamış gibi büyüklük taslamakta direnen, yalancı ve ağır sapmaya düşen kişinin vay haline! Ona can yakıcı bir azap müjdele.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "يَسْمَعُ ءَايَٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendine okunan Allah'ın ayetlerini dinleyip, sonra, onları hiç duymamış gibi büyüklük taslamakta direnen, yalancı ve ağır sapmaya düşen kişinin vay haline! Ona can yakıcı bir azap müjdele.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 45,
+      "ayah": 25,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:25",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz onlara açıkça okunduğu zaman, delilleri yalnızca: \"Doğru sözlü iseniz babalarımızı getirin bakalım\" demek olur.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara açıkça okunduğu zaman, delilleri yalnızca: \"Doğru sözlü iseniz babalarımızı getirin bakalım\" demek olur.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 45,
+      "ayah": 31,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:31",
+      "word_position": 7,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "أَفَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ama, gerçeğin üzerini örten kimselere denir ki: \"Ayetlerim size okunmuş, siz de büyüklenip suçlu bir millet olmuştunuz değil mi?\"",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama, gerçeğin üzerini örten kimselere denir ki: \"Ayetlerim size okunmuş, siz de büyüklenip suçlu bir millet olmuştunuz değil mi?\"",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 46,
+      "ayah": 7,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:7",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz onlara açıkça okunduğu zaman gerçeğin üzerini örtenler, kendilerine gelen gerçek için: \"Bu, apaçık bir büyüdür\" derler.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَٰذَا سِحْرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara açıkça okunduğu zaman gerçeğin üzerini örtenler, kendilerine gelen gerçek için: \"Bu, apaçık bir büyüdür\" derler.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 62,
+      "ayah": 2,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:2",
+      "word_position": 8,
+      "target_word_uthmani": "يَتْلُوا۟",
+      "target_word_rasm": "يتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "ٱلْأُمِّيِّۦنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Kitapsız (okuma-yazma bilmeyen) kimseler arasından, kendilerine ayetlerini okuyan, onları arıtan, onlara Kitabı ve hikmeti öğreten bir elçi gönderen O'dur. Onlar, daha önce, şüphesiz apaçık bir sapıklık içinde idiler.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitapsız (okuma-yazma bilmeyen) kimseler arasından, kendilerine ayetlerini okuyan, onları arıtan, onlara Kitabı ve hikmeti öğreten bir elçi gönderen O'dur. Onlar, daha önce, şüphesiz apaçık bir sapıklık içinde idiler.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 65,
+      "ayah": 11,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:11",
+      "word_position": 2,
+      "target_word_uthmani": "يَتْلُوا۟",
+      "target_word_rasm": "يتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "رَّسُولًا يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı işler işleyenleri karanlıklardan aydınlığa çıkarmak üzere, size Allah'ın apaçık ayetlerini okuyan bir elçi göndermiştir. Kim Allah'a güven duy ve yararlı iş işlerse, Allah onu, içinde temelli ve sonsuz kalınacak, içlerinden ırmaklarakan esenlik bahçelerine koyar. ...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "رَّسُولًا يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِ ٱللَّهِ مُبَيِّنَٰتٍ لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَٰلِحًا يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا قَدْ أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı işler işleyenleri karanlıklardan aydınlığa çıkarmak üzere, size Allah'ın apaçık ayetlerini okuyan bir elçi göndermiştir. Kim Allah'a güven duy ve yararlı iş işlerse, Allah onu, içinde temelli ve sonsuz kalınacak, içlerinden ırmaklarakan esenlik bahçelerine koyar. Allah ona gerçekten güzel rızık vermiştir.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    },
+    {
+      "surah": 68,
+      "ayah": 15,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:15",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz ona okunduğu zaman: \"Öncekilerin masalları\" der.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz ona okunduğu zaman: \"Öncekilerin masalları\" der.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 83,
+      "ayah": 13,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:13",
+      "word_position": 2,
+      "target_word_uthmani": "تُتْلَىٰ",
+      "target_word_rasm": "تتلى",
+      "target_word_literal_irab": "Kendilerine okunmakta olan / okunduğunda (تُتْلَىٰ / يُتْلَىٰ — I. bab edilgen muzâri; 23 geçiş)",
+      "context_snippet_arabic": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Ona ayetlerimiz okunduğu zaman \"Öncekilerin masalları\" der.",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:talaY`|ROOT:tlw|3FS"
+      },
+      "ayah_text_arabic_full": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona ayetlerimiz okunduğu zaman \"Öncekilerin masalları\" der.",
+      "contextual_meaning": "Ayetler okunduğunda direniş, büyüklenme ve ahiret sorgusu: Apaçık ayetler kendilerine okunduğunda bunu 'eskilerin masalları', 'büyü' veya 'uydurma' sayanlar, ayetleri değiştirmeyi isteyenler, kulak tıkayıp büyüklenerek yüz çevirenler ve okuyanlara neredeyse saldırmaya yeltenenler (3:101, 8:31, 10:15, 19:73, 22:72 [2x], 31:7, 34:43, 45:8, 45:25, 46:7, 68:15, 83:13) ile ahirette yöneltilen kesin hesap sorusu: 'Ayetlerim size okunmuyor muydu?' (23:66, 23:105, 45:31)."
+    },
+    {
+      "surah": 91,
+      "ayah": 2,
+      "surah_name": "Şems",
+      "ayah_ref": "91:2",
+      "word_position": 3,
+      "target_word_uthmani": "تَلَىٰهَا",
+      "target_word_rasm": "تلىها",
+      "target_word_literal_irab": "Ardından izlediğinde / onu size okudum (تَلَىٰهَا 91:2 ve تَلَوْتُهُۥ 10:16 — I. bab etken mâzi; 2 geçiş)",
+      "context_snippet_arabic": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Ardından gelmekte olan aya,",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Ardından gelmekte olan aya,",
+      "contextual_meaning": "Kökün fiziksel çekirdeği ve ardıl tanıklık: Güneş'in hemen ardından gelip izleyen Ay (91:2 وَٱلْقَمَرِ إِذَا تَلَىٰهَا), açık vahiy delilinin ardından gelip onu teyit eden tanık (11:17 وَيَتْلُوهُ شَاهِدٌ مِّنْهُ) ve zikri/uyarıyı ardı ardına aktaran görevli topluluklar (37:3 فَٱلتَّٰلِيَٰتِ ذِكْرًا)."
+    },
+    {
+      "surah": 98,
+      "ayah": 2,
+      "surah_name": "Beyyine",
+      "ayah_ref": "98:2",
+      "word_position": 4,
+      "target_word_uthmani": "يَتْلُوا۟",
+      "target_word_rasm": "يتلوا",
+      "target_word_literal_irab": "Ardı ardına okuyup aktarır / peşi sıra izler (يَتْلُوا۟ / يَتْلُونَ / نَتْلُو / أَتْلُو / تَتْلُو / تَتْلُونَ — I. bab etken muzâri; 28 geçiş)",
+      "context_snippet_arabic": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinden ve ortak koşanlardan gerçeğin üzerini örtenler, kendilerine apaçık bir belge, içinde kesin ve en doğru hükümlerin bulunduğu arınmış sahifeleri ok...",
+      "morphology": {
+        "lemma": "talaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:talaY`|ROOT:tlw|3MS"
+      },
+      "ayah_text_arabic_full": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden ve ortak koşanlardan gerçeğin üzerini örtenler, kendilerine apaçık bir belge, içinde kesin ve en doğru hükümlerin bulunduğu arınmış sahifeleri okuyan, Allah katından bir elçi gelene kadar yaşam sistemlerinden vazgeçecek değillerdi.",
+      "contextual_meaning": "İlâhî tilavet ve elçilerin vahiy-kıssa aktarım görevi: Allah'ın elçiye hak üzere ayet ve haberleri aktarması (2:252, 3:58, 3:108, 28:3, 45:6), elçilerin kendi toplumlarına ayetleri ve arı sayfaları okuyup tebliğ etmesi (2:129, 2:151, 3:164, 6:151, 10:16,61, 13:30, 18:83, 27:92, 28:45,59, 39:71, 62:2, 65:11, 98:2), elçinin vahiyden önce herhangi bir kitap okumadığına dair tarihsel kanıt (29:48) ile vahyedilen Kitabı ve Âdem'in iki oğlu, Nûh, İbrahim ve ayetlerden sıyrılan kişi haberlerini ardı ardına aktarma emri (5:27, 7:175, 10:71, 18:27, 26:69, 29:45)."
+    }
+  ]
+}
