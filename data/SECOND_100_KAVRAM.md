@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 84 / 100 Kök (Toplam Mühürlü: 189 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 85 / 100 Kök (Toplam Mühürlü: 190 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -102,7 +102,7 @@
 | 82 | 186 | `ر-د-د` | `R-D-D` | **59** | 57 | 2:85 | Redd, İrtidâd, Meredd ve Tereddüd (Geri Çevirmek, İade Etmek, İzinden Geri Dönmek ve Bocalamak) | ✅ **MÜHÜRLÜ** |
 | 83 | 187 | `ض-ر-ب` | `D-R-B` | **58** | 54 | 2:26 | Darb ve Darb-ı Mesel (Vurmak, Somut Örnek/Temsil Kurmak, Yeryüzünde Yol Tepmek ve Örtü/Sûr Çekmek) | ✅ **MÜHÜRLÜ** |
 | 84 | 188 | `ع-د-د` | `A-D-D` | **57** | 50 | 2:24 | Add, Aded, İddet ve İ'dâd (Tek Tek Saymak, Sayılı Süre/Miktar ve Önceden Hazırlamak) | ✅ **MÜHÜRLÜ** |
-| 85 | 189 | `ق-ر-ي` | `K-R-Y` | **57** | 54 | 2:58 | Analiz Bekliyor (qaroyap) | ⏳ *Bekliyor* |
+| 85 | 189 | `ق-ر-ي` | `K-R-Y` | **57** | 54 | 2:58 | Karye, Kurâ ve Ümmü'l-Kurâ (İnsanların Toplanıp Yerleştiği Kent, Şehir ve Yerleşik Toplum Merkezi) | ✅ **MÜHÜRLÜ** |
 | 86 | 190 | `ر-و-ح` | `R-W-H` | **57** | 52 | 2:87 | Analiz Bekliyor (riyH, ruwH, r~awoH) | ⏳ *Bekliyor* |
 | 87 | 191 | `ذ-ه-ب` | `Z-H-B` | **56** | 56 | 2:17 | Analiz Bekliyor (*ahaba, >a*ohaba, *ahab) | ⏳ *Bekliyor* |
 | 88 | 192 | `ن-ه-ي` | `N-H-Y` | **56** | 54 | 2:192 | Analiz Bekliyor (nahaY`, {ntahaY`, muntahaY`) | ⏳ *Bekliyor* |

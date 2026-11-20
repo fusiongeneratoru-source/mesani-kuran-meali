@@ -8599,5 +8599,166 @@
       }
     ],
     "context_default": "Birimleri ve süreyi tek tek sayıp belirleme veya belirli bir vakit/amaç için önceden hazırlık yapma mekanizması."
+  },
+  "ق-ر-ي": {
+    "buckwalter": "qry",
+    "slug": "karye_kura_ummul_kura_kent_sehir_yerlesim_toplulugu_qry",
+    "concept_name": "Karye, Kurâ ve Ümmü'l-Kurâ (İnsanların Toplanıp Yerleştiği Kent, Şehir ve Yerleşik Toplum Merkezi)",
+    "keywords": [
+      "karye",
+      "kura",
+      "ummulkura",
+      "kent",
+      "sehir",
+      "belde",
+      "yerlesim",
+      "toplum"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qaroyap",
+        "word_rasm": [
+          "ٱلقريتين"
+        ],
+        "label": "İki büyük kentten (Mekke ve Tâif'ten) (مِّنَ ٱلْقَرْيَتَيْنِ — مِن harf-i cerriyle yâ ile mecrûr tesniye isim; 1 geçiş: 43:31)"
+      },
+      {
+        "lemma": "qaroyap",
+        "ayahs": [
+          "6:92",
+          "42:7"
+        ],
+        "label": "Kentlerin ana merkezinin (Ümmü'l-Kurâ = Mekke'nin) (أُمَّ ٱلْقُرَىٰ — muzâfun ileyh olarak takdirî kesra ile mecrûr çoğul isim; 2 geçiş: 6:92, 42:7)"
+      },
+      {
+        "lemma": "qaroyap",
+        "word_rasm": [
+          "قرى"
+        ],
+        "label": "Görünür/belirgin kentler / tahkim edilmiş surlu kentlerde (قُرًى ظَٰهِرَةً [34:18] / فِى قُرًى مُّحَصَّنَةٍ [59:14] — tenvinli maksûr çoğul isim; 2 geçiş)"
+      },
+      {
+        "lemma": "qaroyap",
+        "word_rasm": [
+          "ٱلقرى"
+        ],
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "İşte o kentler (تِلْكَ ٱلْقُرَىٰ [7:101, 18:59] — işaret ismine bedel/atf-ı beyân olarak takdirî damme ile merfû çoğul isim; 2 geçiş)"
+      },
+      {
+        "lemma": "qaroyap",
+        "word_rasm": [
+          "ٱلقرى"
+        ],
+        "label": "Kentleri / kentlerin halkı (مُهْلِكَ ٱلْقُرَىٰ / أَهْلَ ٱلْقُرَىٰٓ / أَنۢبَآءِ ٱلْقُرَىٰ / أَخَذَ ٱلْقُرَىٰ / مِّنَ ٱلْقُرَىٰ — takdirî harekeyle mecrûr/mansûb çoğul isim; 13 geçiş)"
+      },
+      {
+        "lemma": "qaroyap",
+        "word_rasm": [
+          "قريتكم",
+          "قريتنا",
+          "قريتك"
+        ],
+        "label": "Kentinizden / kentimizden / senin kentinden (مِّن قَرْيَتِكُمْ [7:82, 27:56] / مِن قَرْيَتِنَآ [7:88] / مِّن قَرْيَتِكَ [47:13] — مِن harf-i cerriyle mecrûr ve zamire muzâf tekil isim; 4 geçiş)"
+      },
+      {
+        "lemma": "qaroyap",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Güvenip de güveni kendisine fayda veren bir kent (كَانَتْ قَرْيَةٌ ءَامَنَتْ — كَانَتْ fiilinin merfû ismi; 1 geçiş: 10:98)"
+      },
+      {
+        "lemma": "qaroyap",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Bu kente / bir kenti (هَٰذِهِ ٱلْقَرْيَةَ [2:58, 7:161] / وَسْـَٔلِ ٱلْقَرْيَةَ [12:82] / قَرْيَةً [16:112, 17:16, 27:34] — mansûb tekil isim; 6 geçiş)"
+      },
+      {
+        "lemma": "qaroyap",
+        "label": "Bu kentten / kentin halkı / nice kentten / her kentte (ٱلْقَرْيَةِ / قَرْيَةٍ — harf-i cerle veya izâfetle mecrûr tekil isim; 26 geçiş)"
+      }
+    ],
+    "irab_default": "İnsanların bir araya toplanıp yerleştiği kent, şehir ve yerleşik toplum merkezi (ق-ر-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:92",
+          "7:94",
+          "12:109",
+          "25:51",
+          "26:208",
+          "28:59",
+          "36:13",
+          "42:7",
+          "43:31"
+        ],
+        "text": "Ana merkez kent (أُمُّ ٱلْقُرَىٰ), iki büyük kent (ٱلْقَرْيَتَيْنِ) ve kentlere gönderilen uyarıcı elçiler: Çevre yerleşimlerin kendisine bağlandığı ana merkez olan Mekke'nin (Ümmü'l-Kurâ) ve çevresinin Kur'an ile uyarılması (6:92, 42:7), ana merkezlerine ayetleri okuyan bir elçi gönderilmedikçe kentlerin yıkıma uğratılmayacağı ilkesi (28:59 [2x]), Mekke ve Tâif'in iki büyük kent olarak anılması (43:31), elçilerin daima kent halkları içinden seçilmesi ve uyarıcı gönderilmeden hiçbir kentin helâk edilmemesi (7:94, 12:109, 25:51, 26:208, 36:13)."
+      },
+      {
+        "ayahs": [
+          "6:123",
+          "6:131",
+          "7:4",
+          "7:96",
+          "7:97",
+          "7:98",
+          "7:101",
+          "10:98",
+          "11:100",
+          "11:102",
+          "11:117",
+          "15:4",
+          "16:112",
+          "17:16",
+          "17:58",
+          "18:59",
+          "21:6",
+          "21:11",
+          "21:95",
+          "22:45",
+          "22:48",
+          "25:40",
+          "27:34",
+          "28:58",
+          "34:34",
+          "43:23",
+          "46:27",
+          "65:8"
+        ],
+        "text": "Kentlerin yükseliş ve çöküş yasası (şımarık seçkinler, suç elebaşıları ve ıslah edenler): Halkı habersiz veya onarıcı/ıslah edici (مُصْلِحُونَ) iken kentlerin haksız yere yıkılmayacağı (6:131, 11:117) ve Yûnus kavmi (Ninova kenti) gibi güvenip dönüş yapan kentin azaptan kurtulduğu (10:98); buna karşılık her kentteki büyük suç elebaşılarının (6:123), refahla şımarıp yoldan çıkan seçkinlerin (17:16, 28:58, 34:34, 43:23), güven ve bolluk nimetine nankörlük edenlerin (7:96-98, 16:112) ve girdikleri kenti bozup onurlu halkını zillete düşüren kralların (27:34) kentleri çöküşe sürüklemesi ve zulme batan kentlerin belirlenmiş vadelerinde yıkıma uğraması (7:4, 7:101, 11:100, 11:102, 15:4, 17:58, 18:59, 21:6, 21:11, 21:95, 22:45, 22:48, 25:40, 46:27, 65:8)."
+      },
+      {
+        "ayahs": [
+          "4:75",
+          "7:82",
+          "7:88",
+          "21:74",
+          "27:56",
+          "29:31",
+          "29:34",
+          "47:13"
+        ],
+        "text": "Zalim kent yönetimlerinin mazlumları, arınanları ve elçileri sürgün etmesi: Halkı zalim olan kentte baskı altında ezilen erkek, kadın ve çocukların kurtarılması sorumluluğu (4:75), Lût ve Şuayb kavimlerinin temiz kalmak isteyenleri ve elçileri kendi kentlerinden çıkarma tehdidi ile Lût'un çirkin işler yapan kentten kurtarılması (7:82, 7:88, 21:74, 27:56, 29:31, 29:34) ve elçiyi kendi kenti Mekke'den sürgün edenlerden çok daha güçlü nice kentin yardımcısız yıkıldığı uyarısı (47:13 [2x])."
+      },
+      {
+        "ayahs": [
+          "2:58",
+          "2:259",
+          "7:161",
+          "7:163",
+          "12:82",
+          "18:77",
+          "34:18",
+          "59:7",
+          "59:14"
+        ],
+        "text": "Güvenli kent yerleşimi, diriliş gözlemi, konaklama kentleri ve savunma/fey hukuku: Bereketli kente tevazu ve bağışlanma dileğiyle girip yerleşme (2:58, 7:161), deniz kıyısındaki kentin Sebt sınavı (7:163), çatıları üzerine çökmüş ıssız bir kentin yanından geçenin yüz yıllık diriliş gözlemi (2:259), Yûsuf'un kardeşlerinin Mısır kentine sorulmasını istemesi ve Mûsâ ile bilge kulun misafirperverliği reddeden kente uğraması (12:82, 18:77), Sebe ile bereketli kentler arasında güvenli yolculuk için kurulan görünür konaklama kentleri (34:18 [2x]) ile surlu/tahkim edilmiş kentlerin arkasına sığınanlar ve kent halklarından savaşsız elde edilen fey gelirinin adil paylaşımı (59:7, 59:14)."
+      }
+    ],
+    "context_default": "İnsanların bir araya toplanıp yerleştiği, ortak yaşam, ekonomi ve ahlâkî sorumluluk ağı kurduğu kent ve belde topluluğu mekanizması."
   }
 }
