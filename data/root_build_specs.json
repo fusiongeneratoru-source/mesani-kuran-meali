@@ -3747,5 +3747,194 @@
       }
     ],
     "context_default": "Yetki ve görev devri, tedbir sonrası yalnız Allah'a dayanma veya koruyucu güvence makamı mekanizması."
+  },
+  "س-ك-ن": {
+    "buckwalter": "skn",
+    "slug": "sukunet_mesken_sekine_miskin_skn",
+    "concept_name": "Sükûnet / Mesken / Sekîne ve Miskîn (Durulma, Yerleşik Huzur, İskân ve Ekonomik Hareketi Kısıtlı Muhtaç)",
+    "keywords": [
+      "sukunet",
+      "mesken",
+      "sekine",
+      "miskin",
+      "iskan",
+      "huzur",
+      "dinginlik",
+      "barinak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "saAkin",
+        "label": "Tamamen hareketsiz ve durgun (سَاكِنًا — ism-i fâil; gölgenin sabit kalması, 25:45)"
+      },
+      {
+        "lemma": "sik~iyn",
+        "label": "Bıçak / kesici alet (سِكِّينًا — isim; hareketi kesip dindiren alet, 12:31)"
+      },
+      {
+        "lemma": "masokuwnap",
+        "label": "İçinde oturulan / meskûn (مَسْكُونَةٍ — ism-i mef'ûl; oturulmayan ortak yapılar bağlamı, 24:29)"
+      },
+      {
+        "lemma": "masokanap",
+        "label": "Kronik düşkünlük ve çaresizlik (ٱلْمَسْكَنَةُ — isim; 2:61, 3:112)"
+      },
+      {
+        "lemma": "sakiynap",
+        "label": "Kalbe indirilen sarsılmaz iç dinginlik ve güven (سَكِينَة / ٱلسَّكِينَة / سَكِينَتَهُۥ — isim; 2:248, 9:26,40, 48:4,18,26)"
+      },
+      {
+        "lemma": "sakan",
+        "label": "Dinlenme, sığınak ve huzur kaynağı (سَكَنًا / سَكَنٌ — masdar/isim; gece 6:96, elçi duası 9:103, ev 16:80)"
+      },
+      {
+        "lemma": ">asokan",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Onları oturduğunuz yerde barındırın / iskân edin (أَسْكِنُوهُنَّ — IV. bab emir; 65:6)"
+      },
+      {
+        "lemma": ">asokan",
+        "features_contains": [
+          "MOOD:JUS"
+        ],
+        "label": "Rüzgârı dindirip hareketsiz kılar (يُسْكِنِ — IV. bab meczûm muzâri; 42:33)"
+      },
+      {
+        "lemma": ">asokan",
+        "label": "Yerleştirmek, toprağın altında sabit tutmak veya iskân etmek (وَلَنُسْكِنَنَّكُمُ / أَسْكَنتُ / فَأَسْكَنَّٰهُ — IV. bab fiil; 14:14, 14:37, 23:18)"
+      },
+      {
+        "lemma": "sakana",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Yerleşip otur / yerleşin (ٱسْكُنْ / ٱسْكُنُوا۟ — I. bab emir; 2:35, 7:19, 7:161, 17:104)"
+      },
+      {
+        "lemma": "sakana",
+        "features_contains": [
+          "MOOD:JUS"
+        ],
+        "label": "Artık içinde oturulmaz oldu (لَمْ تُسْكَن — I. bab meczûm muzâri; 28:58)"
+      },
+      {
+        "lemma": "sakana",
+        "label": "Dinlenip sükûnet bulmak, eşe karşı huzura ermek veya yerleşmek (سَكَنَ / لِتَسْكُنُوا۟ / لِيَسْكُنَ / سَكَنتُم — I. bab fiil)"
+      },
+      {
+        "lemma": "masokan",
+        "features_contains": [
+          "|M|"
+        ],
+        "label": "Oturdukları yurt / meskenleri (مَسْكَنِهِمْ — tekil mekân ismi; Sebe yurdu, 34:15)"
+      },
+      {
+        "lemma": "masokan",
+        "label": "Meskenler, yurtlar ve yuvalar (مَسَٰكِن — çoğul mekân ismi; 11 geçiş)"
+      },
+      {
+        "lemma": "misokiyn",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Ekonomik hareketi kısıtlanmış muhtaçlar (مَسَٰكِين / ٱلْمَسَٰكِين — çoğul isim; 13 geçiş)"
+      },
+      {
+        "lemma": "misokiyn",
+        "label": "Ekonomik imkânı daralmış muhtaç kimse (مِسْكِين / ٱلْمِسْكِين — tekil isim/sıfat; 10 geçiş)"
+      }
+    ],
+    "irab_default": "Durulup dinginlik bulma, bir yerde yerleşip barınma, iskân veya ekonomik hareketi kısıtlı muhtaçlık (س-ك-ن kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:248",
+          "6:13",
+          "6:96",
+          "7:189",
+          "9:26",
+          "9:40",
+          "9:103",
+          "10:67",
+          "12:31",
+          "16:80",
+          "23:18",
+          "25:45",
+          "27:86",
+          "28:72",
+          "28:73",
+          "30:21",
+          "40:61",
+          "42:33",
+          "48:4",
+          "48:18",
+          "48:26"
+        ],
+        "text": "Fiziksel durulma, kozmik gece dinginliği, yuva/eş huzuru ve kalbe inen sekîne: Gölgenin sabit durabilmesi (25:45), rüzgârın dinip gemilerin durgunlaşması (42:33), yağmur suyunun yer altında tutulması (23:18), gece-gündüz içinde barınan tüm varlıklar ve gecenin dinlenme kılınması (6:13,96, 10:67, 27:86, 28:72-73, 40:61), eşlerde ve evlerde huzur bulma (7:189, 16:80, 30:21), elçinin duasıyla gönüllerin yatışması (9:103), kesici bıçak (12:31) ile kriz ve tehdit anlarında kalplere indirilen sarsılmaz sekîne (2:248, 9:26,40, 48:4,18,26)."
+      },
+      {
+        "ayahs": [
+          "2:35",
+          "7:19",
+          "7:161",
+          "9:24",
+          "9:72",
+          "14:14",
+          "14:37",
+          "14:45",
+          "17:104",
+          "20:128",
+          "21:13",
+          "24:29",
+          "27:18",
+          "28:58",
+          "29:38",
+          "32:26",
+          "34:15",
+          "46:25",
+          "61:12",
+          "65:6"
+        ],
+        "text": "Mesken, yurt edinme, iskân ve ibretlik boş meskenler: İlk insanların bahçeye yerleşmesi ve toplulukların belde/yeryüzünde iskânı (2:35, 7:19,161, 14:14,37, 17:104), boşanma sürecinde eşin barındırılma hakkı (65:6), oturulmayan yapılara giriş izni (24:29), karıncaların yuvalarına çekilmesi (27:18), Sebe yurdundaki bereket (34:15), mesken sevgisinin öncelik sınavı (9:24), zulüm ve şımarıklıkla yıkılıp ıssız kalan meskenler (14:45, 20:128, 21:13, 28:58, 29:38, 32:26, 46:25) ve ahiretteki temiz kalıcı konutlar (9:72, 61:12)."
+      },
+      {
+        "ayahs": [
+          "2:83",
+          "2:177",
+          "2:184",
+          "2:215",
+          "4:8",
+          "4:36",
+          "5:89",
+          "5:95",
+          "8:41",
+          "9:60",
+          "17:26",
+          "18:79",
+          "24:22",
+          "30:38",
+          "58:4",
+          "59:7",
+          "68:24",
+          "69:34",
+          "74:44",
+          "76:8",
+          "89:18",
+          "90:16",
+          "107:3"
+        ],
+        "text": "Ekonomik hareketi kısıtlanmış muhtaçlar (مِسْكِين / مَسَٰكِين) ve toplumsal dayanışma hukuku: İyilik, infak, miras bölüşümü, kamu payı ve sadakaların öncelikli hak sahipleri (2:83,177,215, 4:8,36, 8:41, 9:60, 17:26, 24:22, 30:38, 59:7), çeşitli yükümlülüklerin telafisinde muhtaç doyurma (2:184, 5:89,95, 58:4), denizde çalışıp zorba tehdidi altında kalan tekne sahipleri (18:79) ile muhtacı dışlamanın veya doyurmaya teşvik etmemenin ahlaki yıkımı (68:24, 69:34, 74:44, 76:8, 89:18, 90:16, 107:3)."
+      },
+      {
+        "ayahs": [
+          "2:61",
+          "3:112"
+        ],
+        "text": "Kronik düşkünlük ve hareket gücü felci (ٱلْمَسْكَنَةُ): Ayetleri örtme, elçileri haksız yere öldürme ve haddi aşma sebebiyle zilletle birlikte yaşanan ağır düşkünlük ve bağımlılık hâli (2:61, 3:112)."
+      }
+    ],
+    "context_default": "Hareketin durup sabitlenmesi, yerleşik huzur/mesken, kalp dinginliği veya ekonomik hareketi kısıtlı muhtaçlık mekanizması."
   }
 }
