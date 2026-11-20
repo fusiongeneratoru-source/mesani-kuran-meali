@@ -3259,5 +3259,168 @@
       }
     ],
     "context_default": "Somut kullanım eşyası, geçim desteği veya belirli bir vadeye bağlı geçici faydalanma mekanizması."
+  },
+  "ع-ر-ف": {
+    "buckwalter": "Erf",
+    "slug": "maruf_tanima_tearuf_araf_itiraf_erf",
+    "concept_name": "Ma'rûf / Urf / A'râf / Teâruf ve İ'tirâf (Somut İzden Tanıma, Ortak Vicdan İyiliği, Yüksek Sırtlar ve Suçu İkrar)",
+    "keywords": [
+      "maruf",
+      "urf",
+      "araf",
+      "tanima",
+      "tearuf",
+      "itiraf",
+      "iyilik",
+      "hakkaniyet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{Eotarafu",
+        "label": "Suç ve kusurlarını yadsımadan açıkça kabul ettiler / ettik (ٱعْتَرَفُوا۟ / فَٱعْتَرَفْنَا — VIII. bab mâzi fiil; 9:102, 40:11, 67:11)"
+      },
+      {
+        "lemma": "yataEaArafu",
+        "label": "Karşılıklı olarak tanışıp kaynaşasınız / birbirlerini tanırlar (لِتَعَارَفُوٓا۟ / يَتَعَارَفُونَ — VI. bab muzâri fiil; 10:45, 49:13)"
+      },
+      {
+        "lemma": "Ear~afa",
+        "label": "Onlara önceden tanıtıp aşina/hoş kıldı (47:6) / bir kısmını açıkça bildirdi (66:3) — عَرَّفَ (II. bab mâzi fiil)"
+      },
+      {
+        "lemma": ">aEoraAf",
+        "label": "İki tarafı tepeden gören yüksek sırtlar / burçlar (ٱلْأَعْرَافِ — kırık çoğul isim; 7:46, 7:48)"
+      },
+      {
+        "lemma": "Eurof",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "At yelesi gibi art arda, peş peşe eklenerek (عُرْفًا — nekre mansûb isim/hâl; 77:1)"
+      },
+      {
+        "lemma": "Eurof",
+        "label": "Ortak vicdanın tanıdığı ölçülü iyilik ve hakkaniyet (بِٱلْعُرْفِ — marife isim; 7:199)"
+      },
+      {
+        "lemma": "m~aEoruwfap",
+        "label": "İçten, açık ve herkesçe bilinen dürüst itaat (طَاعَةٌ مَّعْرُوفَةٌ — dişil ism-i mef'ûl; 24:53)"
+      },
+      {
+        "lemma": "m~aEoruwf",
+        "features_contains": [
+          "ADJ"
+        ],
+        "label": "Gönül alıcı, nazik, ölçülü ve doğru (قَوْلًا مَّعْرُوفًا / قَوْلٌ مَّعْرُوفٌ — sıfat; 2:235, 2:263, 4:5, 4:8)"
+      },
+      {
+        "lemma": "m~aEoruwf",
+        "label": "Ortak aklın ve vicdanın benimsediği hakkaniyet, adalet ve iyilik (بِٱلْمَعْرُوفِ / بِمَعْرُوفٍ / مَعْرُوفًا — I. bab ism-i mef'ûl)"
+      },
+      {
+        "lemma": "Earafa",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Ayırt edilip tanınır / saygın kimlikleriyle tanınmaları (يُعْرَفُ / يُعْرَفْنَ — I. bab edilgen muzâri; 33:59, 55:41)"
+      },
+      {
+        "lemma": "Earafa",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "İzinden ve aşinalığından tanıdı / tanıdılar (عَرَفُوا۟ / فَعَرَفَهُمْ / فَلَعَرَفْتَهُم — I. bab mâzi fiil)"
+      },
+      {
+        "lemma": "Earafa",
+        "label": "Ayırt edip tanır / tanırsın / tanırsınız (يَعْرِفُ / تَعْرِفُ / فَتَعْرِفُونَهَا — I. bab muzâri fiil)"
+      }
+    ],
+    "irab_default": "Somut izden/simadan tanıma, ortak vicdanın benimsediği hakkaniyetli iyilik, yüksek sırtlar veya suçu ikrar (ع-ر-ف kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:178",
+          "2:180",
+          "2:228",
+          "2:229",
+          "2:231",
+          "2:232",
+          "2:233",
+          "2:234",
+          "2:235",
+          "2:236",
+          "2:240",
+          "2:241",
+          "2:263",
+          "4:5",
+          "4:6",
+          "4:8",
+          "4:19",
+          "4:25",
+          "24:53",
+          "31:15",
+          "33:6",
+          "33:32",
+          "47:21",
+          "60:12",
+          "65:2",
+          "65:6"
+        ],
+        "text": "Aile, hukuk, ekonomi ve iletişim adabında hakkaniyet ölçütü (بِٱلْمَعْرُوفِ / قَوْلًا مَّعْرُوفًا): Kısas affı ve vasiyette adalet (2:178,180), evlilik, boşanma, emzirme, dul bekleme süresi ve geçim desteğinde zarardan arınmış ölçülü tutum (2:228-236,240-241, 4:19,25, 65:2,6), yetim ve miras paylaşımında hakkaniyet ve nazik söz (2:263, 4:5,6,8), ortak koşmaya zorlasalar bile ana-babaya dünyada iyi geçinme (31:15), dürüst itaat, meşru biat ve ağırbaşlı konuşma ölçütü (24:53, 33:6,32, 47:21, 60:12)."
+      },
+      {
+        "ayahs": [
+          "3:104",
+          "3:110",
+          "3:114",
+          "4:114",
+          "7:157",
+          "7:199",
+          "9:67",
+          "9:71",
+          "9:112",
+          "10:45",
+          "22:41",
+          "31:17",
+          "49:13"
+        ],
+        "text": "Toplumsal ahlak ekseni (ٱلْمَعْرُوف ↔ ٱلْمُنكَر) ve insanlığın karşılıklı tanışması (تَعَارُف): Ortak vicdanın tanıdığı iyiliği yaygınlaştırıp yadırganan kötülüğü önleme sorumluluğu (3:104,110,114, 4:114, 7:157,199, 9:71,112, 22:41, 31:17) karşısında ikiyüzlülerin bu düzeni tersine çevirmesi (9:67), halkların ve kabilelerin üstünlük yarışı değil karşılıklı tanışma için var edilmesi (49:13) ve haşir günü kısa bir saatlik tanışma sahnesi (10:45)."
+      },
+      {
+        "ayahs": [
+          "2:89",
+          "2:146",
+          "2:273",
+          "5:83",
+          "6:20",
+          "7:46",
+          "7:48",
+          "12:58",
+          "12:62",
+          "16:83",
+          "22:72",
+          "23:69",
+          "27:93",
+          "33:59",
+          "47:6",
+          "47:30",
+          "55:41",
+          "66:3",
+          "77:1",
+          "83:24"
+        ],
+        "text": "Somut iz, sima, yüz ifadesi ve aşinalıktan tanıma ile yüksek sırtlar ve art arda sıralanış (عَرَفَ / عَرَّفَ / ٱلْأَعْرَاف / عُرْفًا): Hakikati ve elçiyi öz evlatları gibi tanıyıp bazılarının gözleri yaşarırken bazılarının yadsıması (2:89,146, 5:83, 6:20, 16:83, 23:69, 27:93), iffetli yoksulları, ikiyüzlüleri, suçluları, öfkeli yüzleri ve esenlik parıltısını simadan ve söz tınısından tanıma (2:273, 22:72, 33:59, 47:30, 55:41, 83:24), Yusuf'un kardeşlerini ve kardeşlerin sermayeyi tanıması (12:58,62), önceden tanıtılan bahçe ve gizli bilginin açıklanması (47:6, 66:3), A'râf sırtlarından herkesi simasıyla tanıma (7:46,48) ve peş peşe gönderilenler (77:1)."
+      },
+      {
+        "ayahs": [
+          "9:102",
+          "40:11",
+          "67:11"
+        ],
+        "text": "Suç ve kusuru yadsımadan açıkça tanıyıp ikrar etme (ٱعْتِرَاف): Dünyada iyi ve kötü eylemlerini karıştırıp kusurunu açıkça itiraf ederek dönüş umudu taşıyanlar (9:102) ile hesap ve ateş karşısında gerçeği görüp geç kalmış bir ikrarla suçunu kabul edenler (40:11, 67:11)."
+      }
+    ],
+    "context_default": "Somut izden/simadan tanıma, ortak vicdanın benimsediği hakkaniyetli iyilik, yüksek sırtlar veya suçu ikrar mekanizması."
   }
 }
