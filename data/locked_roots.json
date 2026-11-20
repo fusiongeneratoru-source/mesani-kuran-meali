@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 85/100 — Toplam 190 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 86/100 — Toplam 191 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -18671,6 +18671,87 @@
         "قَرْيَة / ٱلْقَرْيَة / قَرْيَتِكُمْ / قَرْيَتِنَآ / قَرْيَتِكَ (Tekil isim - 37 geçiş)": "İnsanların bir araya toplanıp yerleştiği mamur kent, şehir, belde ve içindeki yerleşik toplum.",
         "ٱلْقَرْيَتَيْنِ (Tesniye [ikil] isim - 1 geçiş: 43:31)": "Hicâz'ın iki büyük kenti (Mekke ve Tâif).",
         "ٱلْقُرَىٰ / قُرًى (Cem-i teksîr [çoğul] isim - 19 geçiş)": "Kentler, şehirler, yerleşim merkezleri ve ana merkez kent (أُمُّ ٱلْقُرَىٰ 6:92, 42:7)."
+      }
+    },
+    "ر-و-ح": {
+      "root_latin": "R-W-H (rwH)",
+      "arabic": "ر-و-ح",
+      "rank": 190,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "ريح / ٱلريح / بريح / ريحا / ريحكم (19 tekil رِيح geçişi [vâv'ın kesradan dolayı yâ'ya dönüştüğü isim]) ve ٱلريح (9 çoğul ٱلرِّيَٰح geçişi: 2:164, 7:57, 15:22, 18:45, 25:48, 27:63, 30:48, 35:9, 45:5 — Rasm-ı Osmânî'de med elifi olmaksızın [حذف الألف] tekil ٱلرِّيح ile aynı iskelette yazılır) vs ٱلرياح (1 tam elifli çoğul geçiş: 30:46 أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ)",
+          "روح / ٱلروح / وٱلروح / بروح / بٱلروح / وروح / روحا / روحى / روحه / روحنا (21 رُوح geçişi [LEM:ruwH] ve 3 رَوْح geçişi [LEM:r~awoH: 12:87 (2x) رَّوْحِ ٱللَّهِ, 56:89 فَرَوْحٌ]: tamamı asli vâv [و] harfiyle yazılır; رُوح [damme ile] ve رَوْح [fetha ile] aynı Rasm iskeletini paylaşır)",
+          "وٱلريحان / وريحان (2 رَيْحَان geçişi [LEM:r~ayoHaAn: 55:12, 56:89] — vâv'ın yâ'ya dönüştüğü فَعْلَان vezni)",
+          "تريحون (1 Bab IV muzâri fiil geçişi [LEM:turiyHu: 16:6 حِينَ تُرِيحُونَ]) ve ورواحها (1 رَوَاح geçişi [LEM:rawaAH: 34:12 غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ])"
+        ],
+        "verb_forms_used": [
+          "Bab IV (أَرَاحَ - يُرِيحُ — 1 geçiş [LEM:turiyHu: 16:6 حِينَ تُرِيحُونَ]: hayvanları akşam serinliğinde dinlenme yerine/ağıla geri getirmek; Kur'an'da bu kökten geçen diğer 56 kelimenin tamamı isimdir)"
+        ],
+        "preposition_patterns": [
+          "يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ / مُبَشِّرَٰتٍ / لَوَٰقِحَ / فَتُثِيرُ سَحَابًا / تَصْرِيفِ ٱلرِّيَٰحِ (2:164, 7:57, 15:22, 18:45, 25:48, 27:63, 30:46, 30:48, 35:9, 45:5 — çoğul ٱلرِّيَٰح ile rahmeti müjdeleyen, bulutları aşılayıp taşıyan ve ölü toprağı dirilten çok yönlü rüzgârlar) vs أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا / ٱلرِّيحَ ٱلْعَقِيمَ (3:117, 14:18, 17:69, 33:9, 41:16, 46:24, 51:41, 54:19, 69:6 — tekil رِيح ile yıkıcı/kısır fırtına)",
+          "نَفَخْتُ فِيهِ مِن رُّوحِى / نَفَخَ فِيهِ مِن رُّوحِهِۦ / فَنَفَخْنَا فِيهَا مِن رُّوحِنَا (15:29, 21:91, 32:9, 38:72, 66:12 — مِن ile insan bedenine bilinç ve hayat veren ilâhî nefes/öz üflenmesi)",
+          "يُنَزِّلُ ٱلْمَلَٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ / قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى / يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ / أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا (16:2, 17:85 [2x], 40:15, 42:52 — مِنْ أَمْرِ kalıbıyla kalpleri ve toplumları dirilten ilâhî vahiy ve buyruk özü)",
+          "أَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ / نَزَّلَهُۥ رُوحُ ٱلْقُدُسِ / نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ / أَيَّدَهُم بِرُوحٍ مِّنْهُ / ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ (2:87, 2:253, 5:110, 16:102, 19:17, 26:193, 58:22, 70:4, 78:38, 97:4 — arındırıcı ilâhî güç, güvenilir vahiy elçisi ve destek) | لَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ / فَرَوْحٌ وَرَيْحَانٌ (12:87 [2x], 56:89 — ferahlatıcı kurtuluş esintisi)"
+        ],
+        "approx_frequency": "57 geçiş / 52 ayet (40 sure — referans amaçlı)"
+      },
+      "physical_core": "Darlığı ve durgunluğu açan hareketli hava akımı, esinti ve soluk/nefes (رِيح / رَوْح): dış dünyada bulutları sürüp ölü toprağı canlandıran veya fırtına olup savuran rüzgâr (رِيح / رِيَاح), esintinin taşıdığı hoş koku ve rızık (رَيْحَان), akşam serinliğinde dinlenmeye dönüş (رَوَاح / إِرَاحَة), sıkıntıyı dağıtan ferahlık nefesi (رَوْح) ve cansız bedene ya da bilince hayat veren ilâhî nefes, vahiy ve vahiy elçisi (رُوح).",
+      "ibn_faris_asl": {
+        "text": "الرَّاءُ وَالْوَاوُ وَالْحَاءُ أَصْلٌ كَبِيرٌ مُطَّرِدٌ، يَدُلُّ عَلَى سَعَةٍ وَفُسْحَةٍ وَاطِّرَادٍ. وَأَصْلُ ذَلِكَ كُلِّهِ الرِّيحُ، وَأَصْلُ الْيَاءِ فِى الرِّيحِ وَاوٌ، وَإِنَّمَا قُلِبَتْ يَاءً لِانْكِسَارِ مَا قَبْلَهَا. وَالرُّوحُ مُشْتَقٌّ مِنْ ذَلِكَ، وَالرَّوْحُ نَسِيمُ الرِّيحِ. وَيُقَالُ أَرَاحَ الْإِنسَانُ إِذَا تَنَفَّسَ.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa, Kitâbü'r-Râ' (روح maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökün tüm türevlerini 'genişlik, ferahlık/açıklık ve kesintisiz akış (سَعَةٌ وَفُسْحَةٌ وَاطِّرَادٌ)' tekil aslına ve bunun fiziksel kaynağı olan 'esinti/rüzgâr ve nefes (الرِّيحُ)' çekirdeğine bağlar: رِيح kelimesindeki yâ'nın aslı vâv'dır (رِوْح -> رِيح); رَوْح rüzgârın ferahlatıcı esintisi, رُوح (rûh) ise nefes ve hayat veren özdür.",
+        "lisan_al_arab": "İbn Manzûr, الرِّيحُ نَسِيمُ الْهَوَاءِ، وَكُلُّ شَيْءٍ هَبَّ فَهُوَ رِيحٌ diyerek Kur'an'da çoğul الرِّيَاح kelimesinin daima rahmet ve bereket rüzgârları için, tekil الرِّيح kelimesinin ise çoğunlukla azap fırtınası veya güç/koku için kullanıldığını; الرَّوْح kelimesinin ferahlık ve rahmet esintisi (12:87, 56:89), الرُّوح kelimesinin ise bedene ve kalbe hayat veren ilâhî nefes, vahiy (42:52) ve vahiy elçisi (26:193) olduğunu açıklar.",
+        "ragib_mufredat": "Râgıb el-İsfahânî, الرُّوحُ وَالرَّوْحُ وَالرِّيحُ وَالرَّيْحَانُ وَالرَّاحَةُ وَالرَّوَاحُ kelimelerinin tamamını aynı kökten türetir: fiziksel esinti ve rüzgâr (رِيح) ölü toprağı dirilttiği gibi, ilâhî vahiy ve hayat özü (رُوح) de insanı ve bilinci diriltir; رَوْح sıkıntıyı gideren ferahlık esintisi, رَيْحَان hoş kokulu bitki ve rızık (55:12, 56:89), رَوَاح ve تُرِيحُونَ ise akşam serinliğinde dönüş ve dinlenmedir (16:6, 34:12).",
+        "arbitration_decision": "Üç klasik sözlük ve karşılaştırmalı Sami dilbilimi (*r-w-ḥ) tam mutabakat içindedir: kökün birincil fiziksel çekirdeği 'hareketli hava akımı, esinti ve soluk/nefes' olup; 1) rüzgâr ve koku (رِيح / رِيَاح), 2) serinlik, ferahlık, hoş kokulu bitki ve akşam dinlenmesi (رَوْح / رَيْحَان / رَوَاح / تُرِيحُونَ), 3) hayat ve bilinç veren ilâhî nefes, vahiy ve vahiy elçisi (رُوح) dallarının tamamı bu tek fiziksel mekanizmadan doğar."
+      },
+      "semitic_cognates": {
+        "hebrew": "BDB H7307 רוּחַ (rūaḥ: '1. esinti, rüzgâr, 2. soluk, nefes, 3. hayat veren ilâhî nefes/güç') ve BDB H7306 רֵיחַ (rēaḥ: 'esintinin taşıdığı koku' [krş. 12:94 رِيحَ يُوسُفَ]) ve BDB H7304 רָוַח (rāwaḥ: 'genişlemek, ferahlamak, nefes almak' [1. Samuel 16:23; krş. 12:87, 56:89 رَوْح]) — Arapça رُوح / رِيح / رَوْح üçlüsüyle %100 birebir örtüşür.",
+        "aramaic_and_syriac": "Kitâb-ı Mukaddes Aramicesi רוּחָא (rūḥā) ve Klasik Süryanice ܪܽܘܚܳܐ (rūḥā: 'rüzgâr, esinti, soluk, hayat özü') ile ܪܺܝܚܳܐ (rīḥā: 'koku') ve ܪܘܳܚܳܐ (rəwāḥā: 'ferahlık, genişlik, kurtuluş').",
+        "akkadian": "Kuzeybatı ve Güney Sami'deki *r-w-ḥ ('esmek, nefes almak, ferahlamak') kök ailesi Batı ve Güney Sami'de tüm türevleriyle korunurken, Doğu Sami'de (Akadca) erēḫu / rēḫu ve nefes/rüzgâr kavram alanı paralel köklerle temsil edilir.",
+        "geez_and_esa": "Ugaritçe rḥ (𐎗𐎈: 'rüzgâr, esinti, koku, soluk'), Fenikece-Pönce rḥ (𐤓𐤇: 'rüzgâr, soluk'), Eski Güney Arapça (Sebece) rwḥ / rḥ ('rüzgâr, esinti; genişletmek, ferahlatmak') ve Klasik Habeşçe (Ge'ez) roḥa ('yelpazelemek, esinti yapmak').",
+        "note": "Tüm Sami dillerinde (*r-w-ḥ) 'fiziksel rüzgâr/esinti', 'esintinin taşıdığı koku', 'daralma sonrası nefes alıp ferahlama' ve 'hayat/vahiy nefesi' aynı kökün birbirinden ayrılmaz dört boyutu olarak yaşamaktadır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "س-ك-ن & ر-ك-د [إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ] (Rüzgârın Esip Gemileri Yürütmesi ↔ Rüzgârın Dinip Gemilerin Deniz Sırtında Hareketsiz Kalması: 42:33)",
+          "ي-أ-س [وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ] (Darlıkta Ümidi Kesip Karamsarlığa Boğulmak ↔ Allah'ın Ferahlatıcı Kurtuluş Esintisi: 12:87)",
+          "س-ر-ح [وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ] (Sabahleyin Hayvanları Otlağa Salmak ↔ Akşam Serinliğinde Dinlenme Yerine Geri Getirmek: 16:6)",
+          "غ-د-و [وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ] (Sabah Erken Vakit Gidişi ↔ Öğleden Sonra/Akşam Serinliği Dönüşü: 34:12)",
+          "ح-م-م & ج-ح-م [فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ vs فَنُزُلٌ مِّنْ حَمِيمٍ وَتَصْلِيَةُ جَحِيمٍ] (Ferahlatıcı Serin Esinti ve Hoş Kokulu Rızık ↔ Kaynar Su ve Yakıcı Ateş: 56:89-94)"
+        ],
+        "key_ayahs": [
+          "12:87 (وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ)",
+          "15:29 & 32:9 & 42:52 (فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى / وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا)",
+          "7:57 & 10:22 & 51:41 (وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ / بِرِيحٍ طَيِّبَةٍ ... رِيحٌ عَاصِفٌ / ٱلرِّيحَ ٱلْعَقِيمَ)",
+          "16:6 & 34:12 & 56:89 (حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ / غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ / فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ)"
+        ],
+        "reverse_stress_test": "Durgunlaşıp hareketsiz kalma (سُكُون / رُكُود 42:33), nefessiz kalır gibi ümitsizliğe boğulma (يَأْس 12:87), sabah salıverme ve erken çıkış (سَرْح 16:6, غُدُوّ 34:12) ile boğucu kaynar ateş (حَمِيم 56:93) karşıtlarının tersi alındığında, ر-و-ح kökünün 'darlığı açan esinti, rüzgâr, ferahlatıcı nefes, akşam dinlenmesi ve diriltici hayat/vahiy özü' çekirdeği %100 doğrulanır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "بِرِيحٍ طَيِّبَةٍ (10:22:14) vs رِيحٌ عَاصِفٌ (10:22:19) [10:22] & çoğul ٱلرِّيَٰح (10 geçiş) vs tekil رِيح (19 geçiş)",
+          "فَرَوْحٌ (56:89:1) vs وَرَيْحَانٌ (56:89:2) [56:89] & ذُو ٱلْعَصْفِ vs وَٱلرَّيْحَانُ [55:12]",
+          "ٱلرِّيحَ (34:12:2) vs غُدُوُّهَا vs وَرَوَاحُهَا (34:12:5) [34:12] & تُرِيحُونَ vs تَسْرَحُونَ [16:6]",
+          "ٱلْمَلَٰٓئِكَةُ (M-L-K) vs وَٱلرُّوحُ (R-W-H) [16:2, 70:4, 78:38, 97:4] & كَلِمَتُهُۥ vs وَرُوحٌ مِّنْهُ [4:171]"
+        ],
+        "mechanical_difference": "10:22'de gemileri tatlı tatlı yürüten elverişli esinti (بِرِيحٍ طَيِّبَةٍ) ile her yandan dalgalarla kuşatan şiddetli fırtına (رِيحٌ عَاصِفٌ) aynı ayette karşılaştırılır; Kur'an genelinde çoğul ٱلرِّيَٰح (10 geçiş) rahmet, aşılama ve yağmur döngüsünü, tekil رِيح ise tek yönlü fırtınayı, gemi rüzgârını, kokuyu (12:94) veya toplumsal gücü (8:46) gösterir. 56:89'da فَرَوْحٌ yorgunluk ve sıkıntıyı silen ferahlık esintisini, وَرَيْحَانٌ ise hoş kokulu kesintisiz rızkı ayırır. 34:12'de ٱلرِّيحَ emre verilen rüzgârı, وَرَوَاحُهَا ise onun öğleden sonra/akşam serinliğindeki dönüş mesafesini belirtir. 16:2, 70:4, 78:38 ve 97:4'te ise kozmik görevliler (ٱلْمَلَٰٓئِكَةُ) ile ilâhî vahiy buyruğu/baş vahiy elçisi (ٱلرُّوحُ) yan yana zikredilir."
+      },
+      "anchor_ayahs": [
+        "2:164 & 7:57 & 15:22 & 30:46 & 30:48 (وَتَصْرِيفِ ٱلرِّيَٰحِ / وَأَرْسَلْنَا ٱلرِّيَٰحَ لَوَٰقِحَ / يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ — ölü toprağı dirilten rahmet ve aşılama rüzgârları çıpaları)",
+        "8:46 & 10:22 & 12:94 & 34:12 & 41:16 & 51:41 (وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ / إِنِّى لَأَجِدُ رِيحَ يُوسُفَ / وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ / ٱلرِّيحَ ٱلْعَقِيمَ — tekil rüzgâr, fırtına, koku ve toplumsal nefes/güç çıpaları)",
+        "12:87 & 16:6 & 55:12 & 56:89 (وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ / حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ / فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ — ferahlatıcı kurtuluş esintisi, hoş kokulu bitki/rızık ve akşam dinlenmesi çıpaları)",
+        "15:29 & 16:2 & 17:85 & 26:193 & 32:9 & 42:52 & 58:22 & 97:4 (وَنَفَخْتُ فِيهِ مِن رُّوحِى / قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى / نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ / أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا — bedene ve bilince hayat veren ilâhî öz, vahiy ve güvenilir vahiy elçisi çıpaları)"
+      ],
+      "unified_core_mechanism": "Darlığı ve durgunluğu açan hareketli hava akımı, esinti ve soluk/nefes: dış dünyada bulutları sürüp ölü toprağı dirilten veya fırtına olup savuran rüzgâr (رِيح / رِيَاح), esintinin taşıdığı koku ve hoş rızık (رَيْحَان), akşam serinliğinde dinlenme (رَوَاح / تُرِيحُونَ), sıkıntıyı dağıtan ferahlık esintisi (رَوْح) ve bedene ya da bilince hayat veren ilâhî nefes, vahiy ve vahiy elçisi (رُوح).",
+      "grammar_and_branch_rules": "1) Kozmik Rahmet ve Aşılama Rüzgârları (`ٱلرِّيَٰح / ٱلرِّيَاح` — 10 geçiş / 10 ayet): Gök ile yer arasında rüzgârların evrilip çevrilmesi (2:164, 45:5), rahmetin önünde müjdeci ve bulutları aşılayıp yağmurla ölü beldeyi diriltici olarak gönderilmesi (7:57, 15:22, 25:48, 27:63, 30:46, 30:48, 35:9) ve kuruyan bitkileri savurup doğa döngüsünü tamamlaması (18:45). 2) Tekil Rüzgâr, Fırtına, Koku ve Toplumsal Güç (`رِيح / ٱلرِّيح` — 19 geçiş / 18 ayet): Gemileri yürüten tatlı esinti ve rüzgârın durmasıyla gemilerin hareketsiz kalması (10:22:14, 42:33), Süleyman'ın emrine verilen rüzgâr (21:81, 34:12:2, 38:36), Yakub'un Yûsuf'un kokusunu (رِيحَ يُوسُفَ) duyması (12:94), iç çekişmeyle toplumsal gücün/rüzgârın (رِيحُكُمْ) kesilip gitmesi uyarısı (8:46) ile zulme batan toplumları veya temelsiz amelleri savuran dondurucu/kısır fırtına (3:117, 10:22:19, 14:18, 17:69, 22:31, 30:51, 33:9, 41:16, 46:24, 51:41, 54:19, 69:6). 3) Ferahlatıcı Kurtuluş Esintisi (`رَوْح`), Hoş Kokulu Bitki/Rızık (`رَيْحَان`) ve Akşam Serinliğinde Dinlenme (`تُرِيحُونَ / رَوَاح` — 7 geçiş / 5 ayet): Allah'ın ferahlatıcı kurtuluş esintisinden (رَّوْحِ ٱللَّهِ) asla ümit kesmeme (12:87 [2x]), ahirette öncüleri ve yakın kılınanları karşılayan ferahlık ve hoş kokulu rızık (55:12, 56:89 [2x]), hayvanları akşam serinliğinde dinlenme yerine getirme (16:6) ve rüzgârın akşam dönüşü (34:12:5). 4) Canlandırıcı Hayat Nefesi, İlâhî Vahiy Buyruğu ve Güvenilir Vahiy Elçisi (`رُوح / ٱلرُّوح` — 21 geçiş / 20 ayet): İnsanın tesviye edilip içine ilâhî hayat ve bilinç özünden üflenmesi ile Meryem ve İsa'ya üflenen hayat özü (4:171, 15:29, 21:91, 32:9, 38:72, 66:12), Rabb'in buyruğundan olarak indirilen diriltici vahiy ve ilâhî destek (16:2, 17:85 [2x], 40:15, 42:52, 58:22) ile İsa'yı destekleyen, Kur'an'ı indiren ve kozmik görevlilerle birlikte buyrukları taşıyan Arındırıcı ve Güvenilir Vahiy Elçisi (2:87, 2:253, 5:110, 16:102, 19:17, 26:193, 70:4, 78:38, 97:4).",
+      "derivatives": {
+        "رِيح / ٱلرِّيح (Tekil isim - 19 geçiş) & ٱلرِّيَٰح / ٱلرِّيَاح (Çoğul isim - 10 geçiş)": "Çoğulu rahmet, aşılama ve yağmur rüzgârları (2:164, 7:57, 15:22, 30:46); tekili fırtına (41:16, 51:41), gemi/Süleyman rüzgârı (10:22, 21:81), esintinin taşıdığı koku (12:94) ve toplumsal nefes/güç (8:46).",
+        "رُوح / ٱلرُّوح (İsim - 21 geçiş)": "1) İnsana hayat ve bilinç veren ilâhî nefes/öz (15:29, 32:9, 38:72), 2) Kalpleri dirilten ilâhî vahiy buyruğu ve destek (16:2, 17:85, 40:15, 42:52, 58:22), 3) Arındırıcı ve Güvenilir Vahiy Elçisi (2:87, 16:102, 19:17, 26:193, 70:4, 78:38, 97:4).",
+        "رَوْح (Fetha ile isim - 3 geçiş: 12:87 [2x], 56:89)": "Sıkıntıyı dağıtan ferahlatıcı serin esinti, rahatlık ve Allah'ın ferahlatıcı kurtuluş rahmeti.",
+        "رَيْحَان (İsim - 2 geçiş: 55:12, 56:89)": "Güzel kokulu bitki (55:12) ve ferahlatıcı hoş rızık (56:89).",
+        "تُرِيحُونَ (Bab IV Fiil - 1 geçiş: 16:6) & وَرَوَاحُهَا (İsim - 1 geçiş: 34:12)": "Akşam serinliğinde hayvanları dinlenme yerine geri getirmek (16:6) ve günün öğleden sonra/akşam vakti dönüşü (34:12)."
       }
     }
   }

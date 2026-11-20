@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 190,
+    "total_locked": 191,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2004,6 +2004,18 @@
         "ه-ل-ك & خ-و-ي [مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا / أَهْلَكْنَا مِن قَرْيَةٍ ... لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ vs قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً / قُرًى ظَٰهِرَةً] (Çatıları Çöküp Issızlaşmış Yıkık Kent ↔ Güvenli, Mamur ve Bereketli Kent: 2:259, 16:112, 22:45, 28:58, 34:18)",
         "خ-ر-ج [أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ / أَخْرِجُوهُم مِّن قَرْيَتِكُمْ / مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ vs ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ / ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ] (Kentten Sürgün Edilip Çıkarılmak ↔ Kente Girip Güvenle Yerleşmek: 2:58, 4:75, 7:82, 7:88, 7:161, 47:13)",
         "صلح vs ظلم & فسد [وَمَا كَانَ رَبُّكَ لِيُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ vs إِذَآ أَخَذَ ٱلْقُرَىٰ وَهِىَ ظَٰلِمَةٌ / إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا] (Halkı Onarıcı ve Islah Edici Olan Kentler ↔ Zulüm ve Bozgunculuğa Batan Kentler: 11:102, 11:117, 27:34, 28:59)"
+      ]
+    },
+    "ر-و-ح": {
+      "latin": "R-W-H (rwH)",
+      "core": "Darlığı ve durgunluğu açan hareketli hava akımı, esinti ve soluk/nefes: dış dünyada bulutları sürüp ölü toprağı dirilten veya fırtına olup savuran rüzgâr (رِيح / رِيَاح), esintinin taşıdığı koku ve hoş rızık (رَيْحَان), akşam serinliğinde dinlenme (رَوَاح / تُرِيحُونَ), sıkıntıyı dağıtan ferahlık esintisi (رَوْح) ve bedene ya da bilince hayat veren ilâhî nefes, vahiy ve vahiy elçisi (رُوح).",
+      "physical": "Darlığı ve durgunluğu açan hareketli hava akımı, esinti ve soluk/nefes (رِيح / رَوْح): dış dünyada bulutları sürüp ölü toprağı canlandıran veya fırtına olup savuran rüzgâr (رِيح / رِيَاح), esintinin taşıdığı hoş koku ve rızık (رَيْحَان), akşam serinliğinde dinlenmeye dönüş (رَوَاح / إِرَاحَة), sıkıntıyı dağıtan ferahlık nefesi (رَوْح) ve cansız bedene ya da bilince hayat veren ilâhî nefes, vahiy ve vahiy elçisi (رُوح).",
+      "opposites": [
+        "س-ك-ن & ر-ك-د [إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ] (Rüzgârın Esip Gemileri Yürütmesi ↔ Rüzgârın Dinip Gemilerin Deniz Sırtında Hareketsiz Kalması: 42:33)",
+        "ي-أ-س [وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ] (Darlıkta Ümidi Kesip Karamsarlığa Boğulmak ↔ Allah'ın Ferahlatıcı Kurtuluş Esintisi: 12:87)",
+        "س-ر-ح [وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ] (Sabahleyin Hayvanları Otlağa Salmak ↔ Akşam Serinliğinde Dinlenme Yerine Geri Getirmek: 16:6)",
+        "غ-د-و [وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ] (Sabah Erken Vakit Gidişi ↔ Öğleden Sonra/Akşam Serinliği Dönüşü: 34:12)",
+        "ح-م-م & ج-ح-م [فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ vs فَنُزُلٌ مِّنْ حَمِيمٍ وَتَصْلِيَةُ جَحِيمٍ] (Ferahlatıcı Serin Esinti ve Hoş Kokulu Rızık ↔ Kaynar Su ve Yakıcı Ateş: 56:89-94)"
       ]
     }
   }
