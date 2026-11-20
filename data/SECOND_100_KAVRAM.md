@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 39 / 100 Kök (Toplam Mühürlü: 144 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 40 / 100 Kök (Toplam Mühürlü: 145 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -57,7 +57,7 @@
 | 37 | 140 | `و-ح-ي` | `W-H-Y` | **78** | 70 | 3:44 | Vahy / Îhâ (Gizli, Hızlı ve Doğrudan Kanalla Bilgi, İşaret, Yasa veya Telkin Aktarımı) | ✅ **MÜHÜRLÜ** |
 | 38 | 141 | `ص-و-ب` | `S-W-B` | **77** | 56 | 2:19 | İsâbet / Savâb / Sayyib / Musîbet (Sapmadan Hedefine İnme, Tam Yerine Oturma ve Karşılaşma) | ✅ **MÜHÜRLÜ** |
 | 39 | 142 | `ب-ل-غ` | `B-L-G` | **77** | 73 | 2:196 | Bülûğ / Belâğ / Teblîğ / Belîğ (Hedefe ve Sınıra Eksiksiz Ulaşma, Olgunluk ve Mesajı Berrakça İletme) | ✅ **MÜHÜRLÜ** |
-| 40 | 143 | `ق-ل-ل` | `K-L-L` | **76** | 74 | 2:41 | Analiz Bekliyor (qaliyl, >aqal~, qaliylap) | ⏳ *Bekliyor* |
+| 40 | 143 | `ق-ل-ل` | `K-L-L` | **76** | 74 | 2:41 | Kalîl / Kıllet / Ekall ve İklâl (Sayı, Süre, Miktar ve Değerde Azlık/Hafiflik ile Bulutları Kaldırıp Taşıma) | ✅ **MÜHÜRLÜ** |
 | 41 | 144 | `أ-ل-م` | `E-L-M` | **75** | 73 | 2:10 | Analiz Bekliyor (>aliym, ya>olamu) | ⏳ *Bekliyor* |
 | 42 | 145 | `ك-ل-م` | `K-L-M` | **75** | 71 | 2:37 | Analiz Bekliyor (kalimap, kal~ama, kalima`t) | ⏳ *Bekliyor* |
 | 43 | 147 | `ض-ر-ر` | `D-R-R` | **74** | 70 | 2:102 | Analiz Bekliyor (yaDur~a, Dur~, Dar~) | ⏳ *Bekliyor* |

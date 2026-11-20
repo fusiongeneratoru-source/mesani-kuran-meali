@@ -1406,5 +1406,182 @@
       }
     ],
     "context_default": "Bir varlığın, zamanın, olgunluk sürecinin veya mesajın aradaki mesafeyi katedip belirlenen hedefe ve sınıra eksiksiz ulaşması ya da ulaştırılması."
+  },
+  "ق-ل-ل": {
+    "buckwalter": "qll",
+    "slug": "kalil_killet_qll",
+    "concept_name": "Kalîl / Kıllet / Ekall ve İklâl (Sayı, Süre, Miktar ve Değerde Azlık/Hafiflik ile Bulutları Kaldırıp Taşıma)",
+    "keywords": [
+      "kalil",
+      "az",
+      "azlik",
+      "kisa sure",
+      "degersiz bedel",
+      "ekall",
+      "kaldirmak",
+      "cuzi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aqal~ato",
+        "label": "Yerinden kaldırıp yüklendiğinde / taşıdığında (أَقَلَّتْ — IV. bab dişil mâzi fiil; 7:57'de rüzgârların ağır bulutları hafifmiş gibi kaldırıp taşıması)"
+      },
+      {
+        "lemma": "yuqal~ilu",
+        "label": "Sizi az gösteriyordu (وَيُقَلِّلُكُمْ — II. bab muzâri fiil; 8:44'te karşı tarafın gözünde sayıca az görünmeyi sağlama)"
+      },
+      {
+        "lemma": "qal~a",
+        "label": "Az olanından (قَلَّ — I. bab mâzi fiil; 4:7'de mirasın azı da çoğu da kuralı)"
+      },
+      {
+        "lemma": ">aqal~",
+        "label": "Daha az olan (أَقَلَّ / وَأَقَلُّ — ism-i tafdîl; mal-evlat [18:39] veya sayı [72:24] yönünden daha az)"
+      },
+      {
+        "lemma": "qaliylap",
+        "label": "Az sayıda bir topluluk (قَلِيلَةٍ — dişil sıfat; 2:249'da nicelikçe küçük ama inançla direnen grup)"
+      },
+      {
+        "lemma": "qaliyl",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Sayıca az kimseler (قَلِيلُونَ — çoğul sıfat; 26:54'te Firavun'un küçümsediği azınlık)"
+      },
+      {
+        "lemma": "qaliyl",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Kısa bir süre / az bir parça (قَلِيلٍ — mecrûr isim/sıfat; 23:40'ta çok yakında veya 34:16'da azıcık sedir ağacı)"
+      },
+      {
+        "lemma": "qaliyl",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)"
+      },
+      {
+        "lemma": "qaliyl",
+        "features_contains": [
+          "ADJ"
+        ],
+        "label": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)"
+      },
+      {
+        "lemma": "qaliyl",
+        "label": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)"
+      }
+    ],
+    "irab_default": "Sayı, süre, miktar veya değer bakımından az, kısıtlı ve hafif olma (ق-ل-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:83",
+          "2:246",
+          "2:249",
+          "4:66",
+          "4:83",
+          "5:13",
+          "7:86",
+          "8:26",
+          "8:43",
+          "8:44",
+          "11:40",
+          "11:116",
+          "17:62",
+          "18:22",
+          "18:39",
+          "26:54",
+          "34:13",
+          "38:24",
+          "56:14",
+          "72:24"
+        ],
+        "text": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+      },
+      {
+        "ayahs": [
+          "2:41",
+          "2:79",
+          "2:174",
+          "3:77",
+          "3:187",
+          "3:199",
+          "5:44",
+          "9:9",
+          "16:95"
+        ],
+        "text": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+      },
+      {
+        "ayahs": [
+          "2:126",
+          "3:197",
+          "4:77",
+          "9:38",
+          "9:82",
+          "16:117",
+          "17:52",
+          "17:76",
+          "23:40",
+          "23:114",
+          "28:58",
+          "31:24",
+          "33:16",
+          "33:60",
+          "39:8",
+          "44:15",
+          "51:17",
+          "73:2",
+          "73:3",
+          "73:11",
+          "77:46"
+        ],
+        "text": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+      },
+      {
+        "ayahs": [
+          "2:88",
+          "4:46",
+          "4:142",
+          "4:155",
+          "7:3",
+          "7:10",
+          "17:74",
+          "17:85",
+          "23:78",
+          "27:62",
+          "32:9",
+          "33:18",
+          "33:20",
+          "40:58",
+          "48:15",
+          "67:23",
+          "69:41",
+          "69:42"
+        ],
+        "text": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+      },
+      {
+        "ayahs": [
+          "4:7",
+          "12:47",
+          "12:48",
+          "34:16",
+          "53:34"
+        ],
+        "text": "Maddi pay, miras, tarım stoku ve paylaşım miktarı: Kadın ve erkeğin miras hakkının az olsun çok olsun kesin pay olması (4:7), kıtlık planında yenilecek ve tohumluk saklanacak az payın ayrılması (12:47-48), nankörlük sonrası bahçelerin pek az sedir ağacına dönüşmesi (34:16) ve pek az verip ardından paylaşımı kesen cimrilik (53:34)."
+      },
+      {
+        "ayahs": [
+          "7:57"
+        ],
+        "text": "İkincil asıl olan yerinden kaldırıp taşıma mekaniği (أَقَلَّتْ سَحَابًا ثِقَالًا): Rüzgârların yağmur yüklü ağır bulutları hafifmiş gibi yerinden kaldırıp yüklenerek ölü beldelere sürmesi ve toprağı diriltmesi."
+      }
+    ],
+    "context_default": "Sayı, süre, miktar veya değer bakımından az, kısıtlı ve hafif olma ya da (7:57'de) ağır yükü yerinden kaldırıp taşıma mekanizması."
   }
 }

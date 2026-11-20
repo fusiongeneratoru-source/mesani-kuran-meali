@@ -1,0 +1,1586 @@
+{
+  "root": "ق-ل-ل",
+  "root_latin": "K-L-L (qll)",
+  "concept_name": "Kalîl / Kıllet / Ekall ve İklâl (Sayı, Süre, Miktar ve Değerde Azlık/Hafiflik ile Bulutları Kaldırıp Taşıma)",
+  "rank": 143,
+  "total_occurrences": 76,
+  "unique_ayahs_count": 74,
+  "unified_core_mechanism": "Ana çekirdek (1. Asıl, 75/76 geçiş): Bir topluluğun, miktarın, sürenin, bilginin veya bedelin sayı, hacim, zaman yahut değer bakımından az, kısıtlı, kısa ve hafif olması. İkincil asıl (2. Asıl, 1/76 geçiş — 7:57): Yerinde sabit durmayıp ağır yükü (yağmur bulutlarını) hafifmiş gibi yerinden kaldırıp yüklenerek taşımak (أَقَلَّتْ).",
+  "physical_core": "İbn Fâris'in tespit ettiği iki sahih asıl üzerine oturur ve pan-Semitik 'hafiflik/küçüklük' çekirdeğiyle birleşir: (1) Birincil Asıl (75/76 geçiş): Bir şeyin sayı, hacim, süre veya değer bakımından az, hafif ve cüz'î oluşu (نَزَارَة الشَّيْء); (2) İkincil Asıl (1/76 geçiş — 7:57): Yerinde sabit kalmayıp yerinden kalkmak ve bir yükü hafifmiş gibi kaldırıp taşımak (خِلَاف الِاسْتِقْرَار — أَقَلَّتْ سَحَابًا ثِقَالًا).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İki bağımsız sahih asıl tespit eder: Birincisi bir şeyin azlığı, kıtlığı ve cüz'îliği (نَزَارَة الشَّيْء — قَلَّ / قَلِيل); ikincisi ise sabit durmanın zıttı olan yerinden hareketlenme ve kalkma (خِلَاف الِاسْتِقْرَار — تَقَلْقَلَ / اسْتَقَلَّ).",
+    "lisan_al_arab": "İbn Manzûr, قَلَّ'nin çokluğun zıttı (azlık/kıtlık) olduğunu; Form IV أَقَلَّ'nin ise bir şeyi yerinden kaldırıp yüklenip taşımak (7:57'de rüzgârların ağır bulutları taşıması gibi, tıpkı testiyi kolayca kaldırıp taşıyan kimse için أَقَلَّ ٱلْجَرَّةَ denmesi gibi) anlamına geldiğini kaydeder.",
+    "ragib_mufredat": "Râgıb, قَلِيل'in nicelik, zaman ve değer azlığı olduğunu, 7:57'deki أَقَلَّتْ سَحَابًا ثِقَالًا kullanımının ise rüzgârların su yüklü ağır bulutları gücü yetip yukarı kaldırarak taşımasını ifade ettiğini belgeler.",
+    "arbitration_decision": "Pan-Semitik ortak kök *q-l-l (İbranice qālal, Aramice/Süryanice qəlal, Akadca qalālu, Ge'ez qalala, Sebece qllm: 'hafif, küçük, az, kolay taşınabilir olmak'), Kur'an içi Mesânî zıtları (قَلَّ ↔ كَثُرَ; قَلِيلَة ↔ كَثِيرَة; أَقَلَّتْ ↔ ثِقَالًا) ve 76 geçişlik stres testi sonucunda; İbn Fâris'in iki sahih aslı gizlenmeden korunarak, 75 geçişte 'sayı, süre, miktar veya değer bakımından az, hafif ve cüz'î olma', 7:57'de ise 'ağır bulutları hafifmiş gibi yerinden kaldırıp yüklenerek taşıma' çekirdeği mühürlenir."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde (BDB H7043) קָלַל (qālal): 'hafif olmak, küçük/az olmak, eksilmek, hızlı olmak' (Pi'el babında 'hafife almak, lanetlemek'); sıfat קַל (qal: 'hafif, hızlı').",
+    "aramaic_and_syriac": "Aramice ve Süryanicede קְלַל (qəlal): 'hafif, az, cüz'î, hızlı olmak'.",
+    "akkadian": "CAD kaydına göre Akadca qalālu: 'hafif olmak, azalmak, küçülmek, önemsizleşmek'.",
+    "geez_and_esa": "Klasik Ge'ez qalala ('hafif, az, kolay olmak'); Eski Güney Arapça (Sebece) qllm / qll ('az, kıt, cüz'î').",
+    "note": "Proto-Sami *q-l-l kökü Doğu, Kuzeybatı, Merkez ve Güney Sami kollarının tamamında ünsüz yapısını ve 'hafiflik / azlık / küçüklük' çekirdeğini kesintisiz koruyan nadir pan-Semitik çekirdek köklerden biridir; Arapçadaki أَقَلَّ ('hafif gibi kaldırıp taşımak') anlamı da bu 'hafiflik' fiziksel tabanıyla doğal bir köprü kurar."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ك-ث-ر (Çok Olmak, Çoğaltmak ve Kalabalık ↔ Az Olmak ve Az Göstermek: 2:249, 4:7, 7:86, 8:43, 9:82, 38:24)",
+      "ث-ق-ل (Ağır Yüklü Olmak ↔ Hafifmiş Gibi Yerinden Kaldırıp Taşımak: 7:57)",
+      "ثُلَّة (Kalabalık Topluluk ↔ Az Sayıda Seçkin: 56:13-14)",
+      "أ-خ-ر (Kalıcı ve Hayırlı Nihaî Yurt ↔ Kısa ve Cüz'î Dünya Yararı: 4:77, 9:38)"
+    ],
+    "key_ayahs": [
+      "4:7 & 2:249 & 7:86 (مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ / فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ / كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ)",
+      "8:43 & 9:82 (قَلِيلًا وَلَوْ أَرَىٰكَهُمْ كَثِيرًا / فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا)",
+      "7:57 (حَتَّىٰٓ إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا)",
+      "4:77 & 9:38 (قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْءَاخِرَةُ خَيْرٌ / فَمَا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ)"
+    ],
+    "reverse_stress_test": "ك-ث-ر ('sayıca, sürece ve miktarca çok/bol olmak') ve ث-ق-ل ('ağır basıp yere çökmek') köklerinin Kur'an'daki tüm kullanımları tersine çevrildiğinde, istisnasız 'sayı, süre, miktar veya değer bakımından az/cüz'î/hafif olmak ve 7:57'de ağır yükü hafifmiş gibi kaldırıp taşımak' mekaniği sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "قَلِيل (K-L-L) vs مُسْتَضْعَفُونَ (D-A-F) [8:26]",
+      "أَقَلُّ عَدَدًا (K-L-L) vs أَضْعَفُ نَاصِرًا (D-A-F) [72:24]",
+      "قَلِيلًا (K-L-L) vs ٱنقُصْ مِنْهُ (N-K-S) [73:3]",
+      "قَلِيلًا (K-L-L) vs أَكْدَىٰ (K-D-Y) [53:34]",
+      "شِرْذِمَة (S-R-Z-M) vs قَلِيلُونَ (K-L-L) [26:54]"
+    ],
+    "mechanical_difference": "8:26 ve 72:24'te قَلِيل / أَقَلّ niceliksel ve sayısal azlığı, ضَعْف / مُسْتَضْعَفُونَ ise niteliksel güçsüzlük ve destek zayıflığını bildirir. 73:3'te نَقَصَ belirli bir ölçüden eksiltme eylemi, قَلِيلًا eksiltilen payın küçük miktarıdır. 53:34'te أَعْطَىٰ قَلِيلًا cüz'î bir parça vermek, أَكْدَىٰ ise sert kaya tabakasına çarpıp durmak gibi vermeyi tamamen kesmektir. 26:54'te شِرْذِمَة küçük ve kopuk bölük, قَلِيلُونَ onun sayısal azlığını pekiştiren niteliktir."
+  },
+  "anchor_ayahs": [
+    "4:7 & 2:249 & 7:86 & 9:82 (مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ / فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ — saf niceliksel azlık ↔ çokluk çıpası)",
+    "12:47-48 (إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ / إِلَّا قَلِيلًا مِّمَّا تُحْصِنُونَ — somut tarımsal ürün ve stok miktarı çıpası)",
+    "8:43-44 (يُرِيكُمُوهُمْ ... قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ — görsel algıda az görünme ve az gösterme çıpası)",
+    "2:41 & 3:187 & 16:95 (وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى / بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا — mutlak hakikat karşısında dünyevî bedelin değersiz ve hafif oluşu)",
+    "17:85 & 34:13 & 38:24 (وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا / وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ — insan bilgisinin sınırı ve hakiki şükreden azınlık)",
+    "7:57 (حَتَّىٰٓ إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا — 2. asıl / ağır bulutları yerinden kaldırıp taşıma çıpası)"
+  ],
+  "grammar_and_branch_rules": "1) قَلِيل / قَلِيلَة / قَلِيلُونَ (71 geçiş): Nicelikte az sayı/azınlık (2:83, 2:249, 8:26, 11:40, 26:54, 34:13, 38:24, 56:14), zamanda kısa süre ve geçici dünya yararı (2:126, 3:197, 4:77, 9:38, 17:52, 23:40, 23:114, 51:17, 73:2-3,11, 77:46), değerde hakikate kıyasla değersiz/hafif bedel (ثَمَنًا قَلِيلًا, 9 geçiş), davranışta kıt inanç/şükür/düşünme (قَلِيلًا مَّا + fiil, 10 geçiş) ve miktarda cüz'î pay (12:47-48, 17:85, 34:16, 53:34). 2) أَقَلّ (2 geçiş: 18:39, 72:24): İsm-i tafdîl olarak mal, evlat veya sayı bakımından daha az. 3) Form I fiil قَلَّ (4:7): Miras payının az olması. 4) Form II fiil يُقَلِّلُ (8:44): İki tarafı birbirinin gözünde sayıca az göstermek. 5) Form IV fiil أَقَلَّتْ (7:57): 2. asıldan, rüzgârların ağır yağmur bulutlarını yerinden kaldırıp taşıması.",
+  "derivatives": {
+    "قَلِيل / قَلِيلَة / قَلِيلُونَ (N / ADJ - 71 geçiş)": "Sayıca az, kısıtlı, seçkin azınlık; zaman bakımından kısa ve geçici; değer bakımından değersiz ve hafif bedel; davranışta kıt şükür/düşünme ve miktarda cüz'î pay.",
+    "أَقَلّ (N / ism-i tafdîl - 2 geçiş)": "Mal, evlat veya sayı bakımından daha az olan (18:39, 72:24).",
+    "قَلَّ (Form I fiil - 1 geçiş)": "Miktar bakımından az olmak (4:7).",
+    "يُقَلِّلُ (Form II fiil - 1 geçiş)": "Gözde sayıca az göstermek (8:44).",
+    "أَقَلَّتْ (Form IV fiil - 1 geçiş, 2. Asıl)": "Rüzgârların ağır yağmur bulutlarını yerinden kaldırıp yüklenerek taşıması (7:57)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 41,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:41",
+      "word_position": 16,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَإِيَّٰىَ فَٱتَّقُونِ",
+      "context_snippet_turkish_tabula_rasa": "Yanınızdaki Tevrat'ı tasdik ederek indirdiğim Kuran'a, güvene erin; onu ilk gerçeğin üzerini örtenler siz olmayın, ayetlerimi hiçbir değere karşılık değiştirmey...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَءَامِنُوا۟ بِمَآ أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ وَلَا تَكُونُوٓا۟ أَوَّلَ كَافِرٍۭ بِهِۦ وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَإِيَّٰىَ فَٱتَّقُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yanınızdaki Tevrat'ı tasdik ederek indirdiğim Kuran'a, güvene erin; onu ilk gerçeğin üzerini örtenler siz olmayın, ayetlerimi hiçbir değere karşılık değiştirmeyin ve bile bile hakkı gizlemeyin.",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 2,
+      "ayah": 79,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:79",
+      "word_position": 15,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا فَوَيْلٌ لَّهُم مِّمَّا",
+      "context_snippet_turkish_tabula_rasa": "Vay, Kitabı elleriyle yazıp, sonra da onu az bir değere satmak için, \"Bu Allah katındandır\" diyenlere! Vay ellerinin yazdıklarına! Vay kazandıklarına!",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا فَوَيْلٌ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَّهُم مِّمَّا يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Vay, Kitabı elleriyle yazıp, sonra da onu az bir değere satmak için, \"Bu Allah katındandır\" diyenlere! Vay ellerinin yazdıklarına! Vay kazandıklarına!",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 2,
+      "ayah": 83,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:83",
+      "word_position": 26,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+      "context_snippet_turkish_tabula_rasa": "İsrailoğullarından, \"Allah'tan başkasına kulluk etmeyin, anne babaya, yakınlara, yetimlere, düşkünlere iyilik edin, insanlarla güzel güzel konuşun, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin\" diye söz almıştık. Sonra siz pek azınız müstesna, döndünüz; hala da yüz çevirip duruyorsunuz.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarından, \"Allah'tan başkasına kulluk etmeyin, anne babaya, yakınlara, yetimlere, düşkünlere iyilik edin, insanlarla güzel güzel konuşun, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin\" diye söz almıştık. Sonra siz pek azınız müstesna, döndünüz; hala da yüz çevirip duruyorsunuz.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 2,
+      "ayah": 88,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:88",
+      "word_position": 8,
+      "target_word_uthmani": "فَقَلِيلًا",
+      "target_word_rasm": "فقليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Kalplerimiz perdelidir\" dediler, hayır, Allah gerçeğin üzerini örtmelerinden dolayı onları lanetlemiştir. Onların pek azı güven duyup emin olurlar.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Kalplerimiz perdelidir\" dediler, hayır, Allah gerçeğin üzerini örtmelerinden dolayı onları lanetlemiştir. Onların pek azı güven duyup emin olurlar.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 2,
+      "ayah": 126,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:126",
+      "word_position": 23,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "... \"gerçeğin üzerini ört de az bir müddet geçindirir, sonra da onu ateşin azabına uğramak zorunda bırakırım, ne kötü sonuç\" buyurmuştu.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim: \"Rabbim! Burasını emin bir şehir kıl, halkından, Allah'a ve ahiret gününe güvene erenleri ürünlerle rızıklandır\" demişti. Allah da: \"gerçeğin üzerini ört de az bir müddet geçindirir, sonra da onu ateşin azabına uğramak zorunda bırakırım, ne kötü sonuç\" buyurmuştu.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 2,
+      "ayah": 174,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:174",
+      "word_position": 12,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ مَا يَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten, Allah'ın indirdiği Kitap'tan bir şeyi gizlemede bulunup onu az bir değere değişenler var ya, onların karınlarına tıkındıkları ancak ateştir. Allah kıyamet günü onlarla konuşmaz ve onları sapma ve kusurlardan arıtmaz. ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten, Allah'ın indirdiği Kitap'tan bir şeyi gizlemede bulunup onu az bir değere değişenler var ya, onların karınlarına tıkındıkları ancak ateştir. Allah kıyamet günü onlarla konuşmaz ve onları sapma ve kusurlardan arıtmaz. Onlara elem verici azab vardır.",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 2,
+      "ayah": 246,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:246",
+      "word_position": 50,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًا مِّنْهُمْ وَٱللَّهُ عَلِيمٌۢ",
+      "context_snippet_turkish_tabula_rasa": "... Ama savaş onlara farz kılınınca, az bir kısmı müstesna yüz cevirdiler. Allah zalimleri bilir.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًا نُّقَٰتِلْ فِى سَبِيلِ ٱللَّهِ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَٰتِلُوا۟ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَٰرِنَا وَأَبْنَآئِنَا فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًا مِّنْهُمْ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'dan sonra İsrailoğullarının ileri gelenlerini görmedin mi? elçilerinden birine, \"Bize bir hükümdar gönder de Allah yolunda savaşalım\" demişlerdi. \"Ya savaş size farz kılındığında gitmeyecek olursanız?\" demişti. \"Memleketimizden ve çocuklarımızdan uzaklaştırıldığımıza göre niye Allah yolunda savaşmıyalım?\" demişlerdi. Ama savaş onlara farz kılınınca, az bir kısmı müstesna yüz cevirdiler. Allah zalimleri bilir.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 2,
+      "ayah": 249,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:249",
+      "word_position": 28,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Talut orduyla birlikte ayrıldıktan sonra, \"Doğrusu Allah sizi bir ırmakla deneyecektir, ondan içen benden değildir, onu tatmayan eliyle sadece bir avuç avuçlayan müstesna şüphesiz bendendir\" dedi. Onlardan pek azı hariç, sudan içtiler. Kendisi ve kendisiyle olan güvene erenler ırmağı geçince, \"Bugün Calut ve ordusuna karşı koyacak gücümüz yok\" dediler. ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Talut orduyla birlikte ayrıldıktan sonra, \"Doğrusu Allah sizi bir ırmakla deneyecektir, ondan içen benden değildir, onu tatmayan eliyle sadece bir avuç avuçlayan müstesna şüphesiz bendendir\" dedi. Onlardan pek azı hariç, sudan içtiler. Kendisi ve kendisiyle olan güvene erenler ırmağı geçince, \"Bugün Calut ve ordusuna karşı koyacak gücümüz yok\" dediler. Kendilerinin Allah'a kavuşacağını bilenler ise: \"Nice az topluluk çok topluluğa Allah'ın izniyle üstün gelmiştir, Allah sebat edip direnenlerle beraberdir\" dediler.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 2,
+      "ayah": 249,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:249",
+      "word_position": 52,
+      "target_word_uthmani": "قَلِيلَةٍ",
+      "target_word_rasm": "قليلة",
+      "target_word_literal_irab": "Az sayıda bir topluluk (قَلِيلَةٍ — dişil sıfat; 2:249'da nicelikçe küçük ama inançla direnen grup)",
+      "context_snippet_arabic": "كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ",
+      "context_snippet_turkish_tabula_rasa": "Talut orduyla birlikte ayrıldıktan sonra, \"Doğrusu Allah sizi bir ırmakla deneyecektir, ondan içen benden değildir, onu tatmayan eliyle sadece bir avuç avuçlayan müstesna şüphesiz bendendir\" dedi. Onlardan pek azı hariç, sudan içtiler. Kendisi ve kendisiyle olan güvene erenler ırmağı geçince, \"Bugün Calut ve ordusuna karşı koyacak gücümüz yok\" dediler. ...",
+      "morphology": {
+        "lemma": "qaliylap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliylap|ROOT:qll|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Talut orduyla birlikte ayrıldıktan sonra, \"Doğrusu Allah sizi bir ırmakla deneyecektir, ondan içen benden değildir, onu tatmayan eliyle sadece bir avuç avuçlayan müstesna şüphesiz bendendir\" dedi. Onlardan pek azı hariç, sudan içtiler. Kendisi ve kendisiyle olan güvene erenler ırmağı geçince, \"Bugün Calut ve ordusuna karşı koyacak gücümüz yok\" dediler. Kendilerinin Allah'a kavuşacağını bilenler ise: \"Nice az topluluk çok topluluğa Allah'ın izniyle üstün gelmiştir, Allah sebat edip direnenlerle beraberdir\" dediler.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 3,
+      "ayah": 77,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:77",
+      "word_position": 8,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ahdini ve bağlayıcı ahitlerini az bir değere değişenlerin, işte onların, ahirette bir payları yoktur. Allah onlara kıyamet günü hitab etmeyecek, onlara bakmayacak, onları temize çıkarmayacaktır. ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ لَهُمْ فِى ٱلْءَاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ahdini ve bağlayıcı ahitlerini az bir değere değişenlerin, işte onların, ahirette bir payları yoktur. Allah onlara kıyamet günü hitab etmeyecek, onlara bakmayacak, onları temize çıkarmayacaktır. Elem verici azab onlar içindir.",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 3,
+      "ayah": 187,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:187",
+      "word_position": 18,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا فَبِئْسَ مَا يَشْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, Kitap verilenlerden, onu insanlara açıklayacaksınız ve gizlemeyeceksiniz, diye ahid almıştı. Onlar ise, onu arkalarına atıp az bir değere değiştiler. Alış verişleri ne kötüdür!",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا فَبِئْسَ مَا يَشْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, Kitap verilenlerden, onu insanlara açıklayacaksınız ve gizlemeyeceksiniz, diye ahid almıştı. Onlar ise, onu arkalarına atıp az bir değere değiştiler. Alış verişleri ne kötüdür!",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 3,
+      "ayah": 197,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:197",
+      "word_position": 2,
+      "target_word_uthmani": "قَلِيلٌ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "مَتَٰعٌ قَلِيلٌ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ",
+      "context_snippet_turkish_tabula_rasa": "... az bir faydalanmadan sonra onların varacakları yer yakıcı yıkım yurdudur. O ne kötü duraktır!. ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مَتَٰعٌ قَلِيلٌ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمِهَادُ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin diyar diyar gezip refah içinde dolaşması sakın seni aldatmasın; az bir faydalanmadan sonra onların varacakları yer yakıcı yıkım yurdudur. O ne kötü duraktır!..",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 3,
+      "ayah": 199,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:199",
+      "word_position": 21,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinden Allah'a huşu duyarak güvene erip, Allah'ın ayetlerini az bir değere değişmeyenler vardır. İşte onların ecirleri Rablerinin katındadır. ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden Allah'a huşu duyarak güvene erip, Allah'ın ayetlerini az bir değere değişmeyenler vardır. İşte onların ecirleri Rablerinin katındadır. Şüphesiz Allah'ın hesabı çabuktur.",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 4,
+      "ayah": 7,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:7",
+      "word_position": 14,
+      "target_word_uthmani": "قَلَّ",
+      "target_word_rasm": "قل",
+      "target_word_literal_irab": "Az olanından (قَلَّ — I. bab mâzi fiil; 4:7'de mirasın azı da çoğu da kuralı)",
+      "context_snippet_arabic": "ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ",
+      "context_snippet_turkish_tabula_rasa": "... Ana babanın ve yakınların bıraktıklarından kadınlara da hisse vardır. Bunlar, az veya çok, belirli bir hissedir.",
+      "morphology": {
+        "lemma": "qal~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qal~a|ROOT:qll|3MS"
+      },
+      "ayah_text_arabic_full": "لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَّفْرُوضًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ana babanın ve yakınların bıraktıklarından, erkeklere hisse vardır. Ana babanın ve yakınların bıraktıklarından kadınlara da hisse vardır. Bunlar, az veya çok, belirli bir hissedir.",
+      "contextual_meaning": "Maddi pay, miras, tarım stoku ve paylaşım miktarı: Kadın ve erkeğin miras hakkının az olsun çok olsun kesin pay olması (4:7), kıtlık planında yenilecek ve tohumluk saklanacak az payın ayrılması (12:47-48), nankörlük sonrası bahçelerin pek az sedir ağacına dönüşmesi (34:16) ve pek az verip ardından paylaşımı kesen cimrilik (53:34)."
+    },
+    {
+      "surah": 4,
+      "ayah": 46,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:46",
+      "word_position": 38,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... İşte Allah gerçeğin üzerini örtmeleri yüzünden onlara lanet etmiştir. Onların ancak pek azı güven duy.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilerden, sözleri yerlerinden değiştirip: \"İşittik ve karşı geldik, kulak vermeyerek dinle\" ve dillerini eğip bükerek ve yaşam sistemini yererek: \"Bizi de dinle\" diyenler vardır. Şayet: \"İşittik ve itaat ettik, dinle ve bizi gözet\" demiş olsalardı, onlar için daha iyi daha doğru olurdu. İşte Allah gerçeğin üzerini örtmeleri yüzünden onlara lanet etmiştir. Onların ancak pek azı güven duy.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 4,
+      "ayah": 66,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:66",
+      "word_position": 15,
+      "target_word_uthmani": "قَلِيلٌ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ وَلَوْ أَنَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şayet onlara \"Kendinizi öldürün\" yahut \"Memleketinizden çıkın\" diye emretmiş olsaydık, pek azından başkaları bunu yapmazlardı. Kendilerine verilen öğüdü yerine getirmiş olsalardı onlar için daha iyi ve daha sağlam olurdu.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًا لَّهُمْ وَأَشَدَّ تَثْبِيتًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şayet onlara \"Kendinizi öldürün\" yahut \"Memleketinizden çıkın\" diye emretmiş olsaydık, pek azından başkaları bunu yapmazlardı. Kendilerine verilen öğüdü yerine getirmiş olsalardı onlar için daha iyi ve daha sağlam olurdu.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 4,
+      "ayah": 77,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:77",
+      "word_position": 41,
+      "target_word_uthmani": "قَلِيلٌ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْءَاخِرَةُ خَيْرٌ لِّمَنِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Dünya geçimliği azdır, ahiret, Allah'a karşı gelmekten sakınan için hayırlıdır, size zerre kadar zulmedilmez\".",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْءَاخِرَةُ خَيْرٌ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine: \"Elinizi savaştan çekin, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin\" denenleri görmedin mi? Onlara savaş farz kılındığında, içlerinden bir takımı hemen, insanlardan, Allah'tan korkar gibi, hatta daha çok korkarlar ve \"Rabbimiz! Bize savaşı niçin farz kıldın, bizi yakın bir zamana kadar tehir edemez miydin?\" derler. De ki: \"Dünya geçimliği azdır, ahiret, Allah'a karşı gelmekten sakınan için hayırlıdır, size zerre kadar zulmedilmez\".",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 4,
+      "ayah": 83,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:83",
+      "word_position": 30,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "لَٱتَّبَعْتُمُ ٱلشَّيْطَٰنَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın size bol nimeti ve rahmeti olmasaydı, pek azınız bir yana, saptırıcı yıkıcı güce uyardınız.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَٱتَّبَعْتُمُ ٱلشَّيْطَٰنَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine güven veya korku hususunda bir haber geldiğinde onu yayarlar; halbuki o haberi elçi'e veya kendilerinden buyruk sahibi olanlara götürselerdi, onlardan sonuç çıkarmaya kadir olanlar onu bilirdi. Allah'ın size bol nimeti ve rahmeti olmasaydı, pek azınız bir yana, saptırıcı yıkıcı güce uyardınız.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 4,
+      "ayah": 142,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:142",
+      "word_position": 19,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... Onlar irtibat bağına tembel tembel kalkarlar, insanlara gösteriş yaparlar, ne onlarla, ne de bunlarla olur, ikisi arasında bocalayarak Allah'ı pek az anarlar. Allah'ın saptırdığı kimseye yol bulamayacaksın.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu iki çıkışlı kaypaklar Allah'ı aldatmağa çalışırlar, oysa O, onlara aldatmanın ne olduğunu gösterecektir. Onlar irtibat bağına tembel tembel kalkarlar, insanlara gösteriş yaparlar, ne onlarla, ne de bunlarla olur, ikisi arasında bocalayarak Allah'ı pek az anarlar. Allah'ın saptırdığı kimseye yol bulamayacaksın.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 4,
+      "ayah": 155,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:155",
+      "word_position": 22,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Sözleşmelerini bozmaları, Allah'ın ayetlerini gerçeğin üzerini ört, elçileri haksız yere öldürmeleri, \"Kalblerimiz perdelidir\" demelerinden ötürü Allah, evet, gerçeğin üzerini örtmelerine karşılık onların kalblerini mühürledi, onun için bunların ancak pek azı güven duy.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sözleşmelerini bozmaları, Allah'ın ayetlerini gerçeğin üzerini ört, elçileri haksız yere öldürmeleri, \"Kalblerimiz perdelidir\" demelerinden ötürü Allah, evet, gerçeğin üzerini örtmelerine karşılık onların kalblerini mühürledi, onun için bunların ancak pek azı güven duy.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 5,
+      "ayah": 13,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:13",
+      "word_position": 24,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... İçlerinden pek azından başkasının daima hainliklerini görürsün, onları affet ve geç. Allah iyilik yapanları şüphesiz sever.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sözlerini bozdukları için onlara lanet ettik, kalblerini katılaştırdık. Onlar sözleri yerlerinden değiştirirler. Kendilerine belletilenin bir kısmını unuttular. İçlerinden pek azından başkasının daima hainliklerini görürsün, onları affet ve geç. Allah iyilik yapanları şüphesiz sever.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 5,
+      "ayah": 44,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:44",
+      "word_position": 32,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَمَن لَّمْ يَحْكُم",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Biz yol gösterici olarak Tevrat'ı indirdik. Kendisini Allah'a teslim etmiş elçiler, yahudi olanlara onunla ve Rabbe kul olanlar, bilginler de Allah'ın K...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَٰبِ ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Biz yol gösterici olarak Tevrat'ı indirdik. Kendisini Allah'a teslim etmiş elçiler, yahudi olanlara onunla ve Rabbe kul olanlar, bilginler de Allah'ın Kitap'ından elde mahfuz kalanla hükmederlerdi. Tevrat'a şahiddiler. O halde insanlardan korkmayın, benden korkun, ayetlerimi hiçbir değerle değiştirmeyin; Allah'ın indirdiği ile hükmetmeyenler, işte onlar gerçeğin üzerini örtenlerdir.",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 7,
+      "ayah": 3,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:3",
+      "word_position": 12,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "مِن دُونِهِۦٓ أَوْلِيَآءَ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinizden size indirilen Kitap'a uyun, O'ndan başka dostlar edinerek onlara uymayın. Pek az öğüt dinliyorsunuz.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱتَّبِعُوا۟ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ وَلَا تَتَّبِعُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinizden size indirilen Kitap'a uyun, O'ndan başka dostlar edinerek onlara uymayın. Pek az öğüt dinliyorsunuz.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 7,
+      "ayah": 10,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:10",
+      "word_position": 9,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "لَكُمْ فِيهَا مَعَٰيِشَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sizi yeryüzünde yerleştirdik ve orada size geçimlikler yarattık. Öyleyken pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ مَكَّنَّٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَٰيِشَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi yeryüzünde yerleştirdik ve orada size geçimlikler yarattık. Öyleyken pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 7,
+      "ayah": 57,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:57",
+      "word_position": 11,
+      "target_word_uthmani": "أَقَلَّتْ",
+      "target_word_rasm": "أقلت",
+      "target_word_literal_irab": "Yerinden kaldırıp yüklendiğinde / taşıdığında (أَقَلَّتْ — IV. bab dişil mâzi fiil; 7:57'de rüzgârların ağır bulutları hafifmiş gibi kaldırıp taşıması)",
+      "context_snippet_arabic": "رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Rahmetinin önünde, müjdeci olarak rüzgarları gönderen Allah'tır. Rüzgarlar, yağmur yüklü bulutları taşıdığında, onu ölü bir memlekete gönderir, su indirir ve on...",
+      "morphology": {
+        "lemma": ">aqal~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aqal~ato|ROOT:qll|3FS"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rahmetinin önünde, müjdeci olarak rüzgarları gönderen Allah'tır. Rüzgarlar, yağmur yüklü bulutları taşıdığında, onu ölü bir memlekete gönderir, su indirir ve onunla her türlü ürünü yetiştiririz; ölüleri de bunun gibi diriltip, çıkarırız; belki bundan ibret alırsınız.",
+      "contextual_meaning": "İkincil asıl olan yerinden kaldırıp taşıma mekaniği (أَقَلَّتْ سَحَابًا ثِقَالًا): Rüzgârların yağmur yüklü ağır bulutları hafifmiş gibi yerinden kaldırıp yüklenerek ölü beldelere sürmesi ve toprağı diriltmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 86,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:86",
+      "word_position": 18,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ وَٱنظُرُوا۟ كَيْفَ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'a güvene erenleri yolundan alıkoyup ve o yolun eğriliğini dileyerek tehdit edip her yolda pusu kurup oturmayın. Azken, Allah'ın sizi çoğalttığını hatırlayın; bozguncuların sonunun nasıl olduğuna bir bakın. ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ وَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'a güvene erenleri yolundan alıkoyup ve o yolun eğriliğini dileyerek tehdit edip her yolda pusu kurup oturmayın. Azken, Allah'ın sizi çoğalttığını hatırlayın; bozguncuların sonunun nasıl olduğuna bir bakın.\"",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 8,
+      "ayah": 26,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:26",
+      "word_position": 4,
+      "target_word_uthmani": "قَلِيلٌ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde az sayıda olduğunuz ve zayıf sayıldığınız için insanların sizi esir olarak alıp götürmesinden korktuğunuz zamanları, hatırlayın. Allah, nimetin değerini bilip açığa vurasınız diye sizi barındırmış, yardımıyla desteklemiş, temiz şeylerle rızıklandırmıştır.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde az sayıda olduğunuz ve zayıf sayıldığınız için insanların sizi esir olarak alıp götürmesinden korktuğunuz zamanları, hatırlayın. Allah, nimetin değerini bilip açığa vurasınız diye sizi barındırmış, yardımıyla desteklemiş, temiz şeylerle rızıklandırmıştır.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 8,
+      "ayah": 43,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:43",
+      "word_position": 6,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "ٱللَّهُ فِى مَنَامِكَ قَلِيلًا وَلَوْ أَرَىٰكَهُمْ كَثِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Allah onları uykunda sana az gösteriyordu. Çok göstermiş olsaydı, yılacak ve bu hususta çekişmeye başlıyacaktınız, fakat Allah sizi kurtardı; ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِذْ يُرِيكَهُمُ ٱللَّهُ فِى مَنَامِكَ قَلِيلًا وَلَوْ أَرَىٰكَهُمْ كَثِيرًا لَّفَشِلْتُمْ وَلَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onları uykunda sana az gösteriyordu. Çok göstermiş olsaydı, yılacak ve bu hususta çekişmeye başlıyacaktınız, fakat Allah sizi kurtardı; çünkü O kalblerde olanı bilir.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 8,
+      "ayah": 44,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:44",
+      "word_position": 7,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Karşılaştığınızda, olacak işi oldurmak için, onları gözlerinize az gösteriyor ve sizi de onların gözünde azaltıyordu. Bütün işler dönüp Allah'a varır.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يُرِيكُمُوهُمْ إِذِ ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Karşılaştığınızda, olacak işi oldurmak için, onları gözlerinize az gösteriyor ve sizi de onların gözünde azaltıyordu. Bütün işler dönüp Allah'a varır.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 8,
+      "ayah": 44,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:44",
+      "word_position": 8,
+      "target_word_uthmani": "وَيُقَلِّلُكُمْ",
+      "target_word_rasm": "ويقللكم",
+      "target_word_literal_irab": "Sizi az gösteriyordu (وَيُقَلِّلُكُمْ — II. bab muzâri fiil; 8:44'te karşı tarafın gözünde sayıca az görünmeyi sağlama)",
+      "context_snippet_arabic": "فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ",
+      "context_snippet_turkish_tabula_rasa": "Karşılaştığınızda, olacak işi oldurmak için, onları gözlerinize az gösteriyor ve sizi de onların gözünde azaltıyordu. Bütün işler dönüp Allah'a varır.",
+      "morphology": {
+        "lemma": "yuqal~ilu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:yuqal~ilu|ROOT:qll|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يُرِيكُمُوهُمْ إِذِ ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Karşılaştığınızda, olacak işi oldurmak için, onları gözlerinize az gösteriyor ve sizi de onların gözünde azaltıyordu. Bütün işler dönüp Allah'a varır.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 9,
+      "ayah": 9,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:9",
+      "word_position": 5,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ayetlerini az bir değere değişip, O'nun yolundan alıkoydular. Onların işledikleri gerçekten ne kötüdür!",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱشْتَرَوْا۟ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ayetlerini az bir değere değişip, O'nun yolundan alıkoydular. Onların işledikleri gerçekten ne kötüdür!",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 9,
+      "ayah": 38,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:38",
+      "word_position": 28,
+      "target_word_uthmani": "قَلِيلٌ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Size ne oldu ki, \"Allah yolunda, savaşa çıkın\" dendiği zaman yere çöküp kaldınız? Oysa dünya hayatının geçimi ahirete göre pek az bir şeydir.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ فَمَا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Size ne oldu ki, \"Allah yolunda, savaşa çıkın\" dendiği zaman yere çöküp kaldınız? Oysa dünya hayatının geçimi ahirete göre pek az bir şeydir.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 9,
+      "ayah": 82,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:82",
+      "word_position": 2,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ",
+      "context_snippet_turkish_tabula_rasa": "Yaptıklarının cezası olarak, bundan böyle az gülsünler, çok ağlasınlar.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaptıklarının cezası olarak, bundan böyle az gülsünler, çok ağlasınlar.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 11,
+      "ayah": 40,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:40",
+      "word_position": 26,
+      "target_word_uthmani": "قَلِيلٌ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌ",
+      "context_snippet_turkish_tabula_rasa": "Buyruğumuz gelip tandırdan sular kaynamağa başlayınca, \"Her cinsten birer çifti ve aleyhine hüküm verilmiş olanın dışında kalan çoluk çocuğunu ve güvene erenleri gemiye bindir\" dedik. Pek az kimse onunla beraber güven duy.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Buyruğumuz gelip tandırdan sular kaynamağa başlayınca, \"Her cinsten birer çifti ve aleyhine hüküm verilmiş olanın dışında kalan çoluk çocuğunu ve güvene erenleri gemiye bindir\" dedik. Pek az kimse onunla beraber güven duy.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 11,
+      "ayah": 116,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:116",
+      "word_position": 15,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "فِى ٱلْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sizden önceki nesillerin ileri gelenleri, yeryüzünde bozgunculuğa engel olmalı değil miydiler? Onlardan kurtardıklarımız pek azdır. Kendilerine verilen nimete karşı haksızlık edenlere uyanlar ise suçlu oldular.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَوْلَا كَانَ مِنَ ٱلْقُرُونِ مِن قَبْلِكُمْ أُو۟لُوا۟ بَقِيَّةٍ يَنْهَوْنَ عَنِ ٱلْفَسَادِ فِى ٱلْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُوا۟ مَآ أُتْرِفُوا۟ فِيهِ وَكَانُوا۟ مُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden önceki nesillerin ileri gelenleri, yeryüzünde bozgunculuğa engel olmalı değil miydiler? Onlardan kurtardıklarımız pek azdır. Kendilerine verilen nimete karşı haksızlık edenlere uyanlar ise suçlu oldular.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 12,
+      "ayah": 47,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:47",
+      "word_position": 12,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf: \"Devamlı yedi sene ekin ekip, biçtiğiniz ekinin yediğinizden artanını başağında bırakın.\"",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf: \"Devamlı yedi sene ekin ekip, biçtiğiniz ekinin yediğinizden artanını başağında bırakın.\"",
+      "contextual_meaning": "Maddi pay, miras, tarım stoku ve paylaşım miktarı: Kadın ve erkeğin miras hakkının az olsun çok olsun kesin pay olması (4:7), kıtlık planında yenilecek ve tohumluk saklanacak az payın ayrılması (12:47-48), nankörlük sonrası bahçelerin pek az sedir ağacına dönüşmesi (34:16) ve pek az verip ardından paylaşımı kesen cimrilik (53:34)."
+    },
+    {
+      "surah": 12,
+      "ayah": 48,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:48",
+      "word_position": 13,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِّمَّا تُحْصِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Sonra bunun ardından yedi kurak yıl gelir, bütün biriktirdiğinizi yer, yalnız az bir miktar saklarsınız.\"",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِّمَّا تُحْصِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sonra bunun ardından yedi kurak yıl gelir, bütün biriktirdiğinizi yer, yalnız az bir miktar saklarsınız.\"",
+      "contextual_meaning": "Maddi pay, miras, tarım stoku ve paylaşım miktarı: Kadın ve erkeğin miras hakkının az olsun çok olsun kesin pay olması (4:7), kıtlık planında yenilecek ve tohumluk saklanacak az payın ayrılması (12:47-48), nankörlük sonrası bahçelerin pek az sedir ağacına dönüşmesi (34:16) ve pek az verip ardından paylaşımı kesen cimrilik (53:34)."
+    },
+    {
+      "surah": 16,
+      "ayah": 95,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:95",
+      "word_position": 6,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا إِنَّمَا عِندَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ahdini hiçbir değere değişmeyin. Eğer bilirseniz, Allah katında olan sizin için daha iyidir.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ahdini hiçbir değere değişmeyin. Eğer bilirseniz, Allah katında olan sizin için daha iyidir.",
+      "contextual_meaning": "Hakikati ve sözleşmeyi değersiz, az bir bedelle (ثَمَنًا قَلِيلًا) değişme yasağı: Yaratıcı'nın ayetlerini gizleyerek, çarpıtarak veya antlarını bozarak karşılığında geçici ve değersiz dünyevî çıkar elde etmenin reddi; buna karşılık ayetleri ucuz bedele satmayan erdemli Kitap Ehli'nin övgüsü (3:199)."
+    },
+    {
+      "surah": 16,
+      "ayah": 117,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:117",
+      "word_position": 2,
+      "target_word_uthmani": "قَلِيلٌ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "مَتَٰعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Az bir geçim ama ardından can yakıcı bir azap onlaradır.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مَتَٰعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Az bir geçim ama ardından can yakıcı bir azap onlaradır.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 17,
+      "ayah": 52,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:52",
+      "word_position": 9,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "إِن لَّبِثْتُمْ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Sizi çağırdığı gün, O'na hamdederek davetine uyarsınız ve kabirlerinizde pek az bir müddet kaldığınızı sanırsınız.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi çağırdığı gün, O'na hamdederek davetine uyarsınız ve kabirlerinizde pek az bir müddet kaldığınızı sanırsınız.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 17,
+      "ayah": 62,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:62",
+      "word_position": 15,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "\"Benden üstün kıldığını görüyor musun? Kıyamet gününe kadar beni ertelersen, and olsun ki, azı bir yana, onun soyunu kendi buyruğum altına alacağım\" demişti.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Benden üstün kıldığını görüyor musun? Kıyamet gününe kadar beni ertelersen, and olsun ki, azı bir yana, onun soyunu kendi buyruğum altına alacağım\" demişti.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 17,
+      "ayah": 74,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:74",
+      "word_position": 9,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "تَرْكَنُ إِلَيْهِمْ شَيْـًٔا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Sana sebat vermemiş olsaydık, and olsun ki, az da olsa onlara meyledecektin.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَآ أَن ثَبَّتْنَٰكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْـًٔا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana sebat vermemiş olsaydık, and olsun ki, az da olsa onlara meyledecektin.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 17,
+      "ayah": 76,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:76",
+      "word_position": 13,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "يَلْبَثُونَ خِلَٰفَكَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Memleketinden çıkarmak için seni nerdeyse zorlayacaklardı. O takdirde senin ardından onlar da pek az kalabilirlerdi.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن كَادُوا۟ لَيَسْتَفِزُّونَكَ مِنَ ٱلْأَرْضِ لِيُخْرِجُوكَ مِنْهَا وَإِذًا لَّا يَلْبَثُونَ خِلَٰفَكَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Memleketinden çıkarmak için seni nerdeyse zorlayacaklardı. O takdirde senin ardından onlar da pek az kalabilirlerdi.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 17,
+      "ayah": 85,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:85",
+      "word_position": 14,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... \"canlandırıcı hayat ve vahiy özü, Rabbimin emrinden ibarettir. Bu hususta size pek az bilgi verilmiştir. \"",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana canlandırıcı hayat ve vahiy özünün ne olduğunu soruyorlar, de ki: \"canlandırıcı hayat ve vahiy özü, Rabbimin emrinden ibarettir. Bu hususta size pek az bilgi verilmiştir.\"",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 18,
+      "ayah": 22,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:22",
+      "word_position": 22,
+      "target_word_uthmani": "قَلِيلٌ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ فَلَا تُمَارِ فِيهِمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Onların sayısını en iyi bilen Rabbim'dir. Onları pek az kimseden başkası bilmez. \" Bunun için, onlar hakkında, bu kısaca anlatılanın dışında, kimseyle tartışma ve onlar hakkında kimseden bir şey sorma.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُونَ ثَلَٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Karanlığa taş atar gibi, \"Mağara ehli üçtür, dördüncüleri köpekleridir\" derler, yahut, \"Beştir, altıncıları köpekleridir\" derler, yahut \"Yedidir, sekizincileri köpekleridir\" derler. De ki: \"Onların sayısını en iyi bilen Rabbim'dir. Onları pek az kimseden başkası bilmez.\" Bunun için, onlar hakkında, bu kısaca anlatılanın dışında, kimseyle tartışma ve onlar hakkında kimseden bir şey sorma.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 18,
+      "ayah": 39,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:39",
+      "word_position": 16,
+      "target_word_uthmani": "أَقَلَّ",
+      "target_word_rasm": "أقل",
+      "target_word_literal_irab": "Daha az olan (أَقَلَّ / وَأَقَلُّ — ism-i tafdîl; mal-evlat [18:39] veya sayı [72:24] yönünden daha az)",
+      "context_snippet_arabic": "إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًا وَوَلَدًا",
+      "context_snippet_turkish_tabula_rasa": "... Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: \"Maşallah! Kuvvet ancak Allah'a mahsustur!\" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. ...",
+      "morphology": {
+        "lemma": ">aqal~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqal~|ROOT:qll|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًا وَوَلَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisiyle konuştuğu arkadaşı ona: \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: \"Maşallah! Kuvvet ancak Allah'a mahsustur!\" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın\" dedi.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 23,
+      "ayah": 40,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:40",
+      "word_position": 3,
+      "target_word_uthmani": "قَلِيلٍ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Kısa bir süre / az bir parça (قَلِيلٍ — mecrûr isim/sıfat; 23:40'ta çok yakında veya 34:16'da azıcık sedir ağacı)",
+      "context_snippet_arabic": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَٰدِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah da: \"Az sonra pişman olacaklar\" buyurdu.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah da: \"Az sonra pişman olacaklar\" buyurdu.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 23,
+      "ayah": 78,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:78",
+      "word_position": 8,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Oysa, sizin için kulaklar, gözler ve kalbler vareden O'dur. Pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa, sizin için kulaklar, gözler ve kalbler vareden O'dur. Pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 23,
+      "ayah": 114,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:114",
+      "word_position": 5,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "إِن لَّبِثْتُمْ إِلَّا قَلِيلًا لَّوْ أَنَّكُمْ كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah' \"Pek az kaldınız, keşke bilseydiniz! Sizi boşuna yarattığımızı ve Bize döndürülmeyeceğinizi mi sandınız?\" der.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah' \"Pek az kaldınız, keşke bilseydiniz! Sizi boşuna yarattığımızı ve Bize döndürülmeyeceğinizi mi sandınız?\" der.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 26,
+      "ayah": 54,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:54",
+      "word_position": 4,
+      "target_word_uthmani": "قَلِيلُونَ",
+      "target_word_rasm": "قليلون",
+      "target_word_literal_irab": "Sayıca az kimseler (قَلِيلُونَ — çoğul sıfat; 26:54'te Firavun'un küçümsediği azınlık)",
+      "context_snippet_arabic": "إِنَّ هَٰٓؤُلَآءِ لَشِرْذِمَةٌ قَلِيلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu arada Firavun şehirlere, \"Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız\" diyen münadiler gönderdi.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰٓؤُلَآءِ لَشِرْذِمَةٌ قَلِيلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu arada Firavun şehirlere, \"Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız\" diyen münadiler gönderdi.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 27,
+      "ayah": 62,
+      "surah_name": "Neml",
+      "ayah_ref": "27:62",
+      "word_position": 14,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "أَءِلَٰهٌ مَّعَ ٱللَّهِ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, darda kalana, kendisine yakardığı zaman karşılık veren, başındaki sıkıntıyı gideren ve sizi yeryüzünün sahipleri yapan mı? Allah'ın yanında başka bir sığ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ أَءِلَٰهٌ مَّعَ ٱللَّهِ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, darda kalana, kendisine yakardığı zaman karşılık veren, başındaki sıkıntıyı gideren ve sizi yeryüzünün sahipleri yapan mı? Allah'ın yanında başka bir sığınak mercii (ilâh) mi? Pek kıt düşünüyorsunuz.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 28,
+      "ayah": 58,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:58",
+      "word_position": 14,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًا وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ",
+      "context_snippet_turkish_tabula_rasa": "Nimet ve refaha karşı nankörlük eden nice şehri yok etmişizdir. İşte yerleri! Kendilerinden sonra pek az kimseler oturabilmiştir. Oralara Biz varis olmuşuzdur.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا فَتِلْكَ مَسَٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًا وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nimet ve refaha karşı nankörlük eden nice şehri yok etmişizdir. İşte yerleri! Kendilerinden sonra pek az kimseler oturabilmiştir. Oralara Biz varis olmuşuzdur.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 31,
+      "ayah": 24,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:24",
+      "word_position": 2,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Onları az bir süre geçindiririz, sonra da ağır bir azaba sürükleriz.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları az bir süre geçindiririz, sonra da ağır bir azaba sürükleriz.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 32,
+      "ayah": 9,
+      "surah_name": "Secde",
+      "ayah_ref": "32:9",
+      "word_position": 12,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Size kulaklar, gözler, kalbler verilmiştir. Öyleyken, pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yarattığı her şeyi güzel yaratan, insanı başlangıçta çamurdan yaratan, sonra onun soyunu, bayağı bir suyun özünden yapan, sonra onu şekillendirip hayat verici özünden ona üfleyen Allah'tır. Size kulaklar, gözler, kalbler verilmiştir. Öyleyken, pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 33,
+      "ayah": 16,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:16",
+      "word_position": 15,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "لَّا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Eğer ölümden yahut öldürülmekten kaçıyorsanız bilin ki, kaçmak size fayda vermeyecektir; kaçsanız bile az bir zamandan fazla yaşatılmazsınız.\"",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Eğer ölümden yahut öldürülmekten kaçıyorsanız bilin ki, kaçmak size fayda vermeyecektir; kaçsanız bile az bir zamandan fazla yaşatılmazsınız.\"",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 33,
+      "ayah": 18,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:18",
+      "word_position": 14,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, kardeşlerine \"Bize gelin, zorlanmadıkça savaşa gitmeyin\" diyenleri bilir. Kalblerine kor...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, kardeşlerine \"Bize gelin, zorlanmadıkça savaşa gitmeyin\" diyenleri bilir. Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. Bunlar güven duy, Allah, bu sebeple işlerini boşa çıkarmıştır; bu, Allah için kolaydır.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 33,
+      "ayah": 20,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:20",
+      "word_position": 23,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "مَّا قَٰتَلُوٓا۟ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... Bu birlikler tekrar gelmiş olsalardı, kendileri çöllerde bedevilerin yanında bulunup, sadece sizin haberlerinizi sormayı dilerlerdi. Aranızda olsalar ancak pek az savaşırlardı.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ وَلَوْ كَانُوا۟ فِيكُم مَّا قَٰتَلُوٓا۟ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar, düşman birliklerinin gitmediklerini sanıyorlardı. Bu birlikler tekrar gelmiş olsalardı, kendileri çöllerde bedevilerin yanında bulunup, sadece sizin haberlerinizi sormayı dilerlerdi. Aranızda olsalar ancak pek az savaşırlardı.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 33,
+      "ayah": 60,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:60",
+      "word_position": 19,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "İkiyüzlüler, kalblerinde fesat bulunanlar, şehirde bozguncu haberler yayanlar, eğer bundan vazgeçmezlerse, and olsun ki, seni onlarla mücadeleye davet ederiz; sonra çevrende az bir zamandan fazla kalamazlar.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّئِن لَّمْ يَنتَهِ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "İkiyüzlüler, kalblerinde fesat bulunanlar, şehirde bozguncu haberler yayanlar, eğer bundan vazgeçmezlerse, and olsun ki, seni onlarla mücadeleye davet ederiz; sonra çevrende az bir zamandan fazla kalamazlar.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 34,
+      "ayah": 13,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:13",
+      "word_position": 16,
+      "target_word_uthmani": "وَقَلِيلٌ",
+      "target_word_rasm": "وقليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+      "context_snippet_turkish_tabula_rasa": "Süleyman için, o ne dilerse, mabedler, heykeller, büyük havuzlara benzer çanaklar ve taşınması güç kazanlar yaparlardı. \"Ey Davud ailesi, nimetin değerini bilip açığa vurun! Kullarımdan nimetin değerini bilip açığa vuranlar pek azdır. ...",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman için, o ne dilerse, mabedler, heykeller, büyük havuzlara benzer çanaklar ve taşınması güç kazanlar yaparlardı. \"Ey Davud ailesi, nimetin değerini bilip açığa vurun! Kullarımdan nimetin değerini bilip açığa vuranlar pek azdır.\"",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 34,
+      "ayah": 16,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:16",
+      "word_position": 16,
+      "target_word_uthmani": "قَلِيلٍ",
+      "target_word_rasm": "قليل",
+      "target_word_literal_irab": "Kısa bir süre / az bir parça (قَلِيلٍ — mecrûr isim/sıfat; 23:40'ta çok yakında veya 34:16'da azıcık sedir ağacı)",
+      "context_snippet_arabic": "وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ",
+      "context_snippet_turkish_tabula_rasa": "... bunun için Biz de üzerlerine Arim selini gönderdik, onların bahçelerini, buruk yemişli, ılgınlık ve içinde biraz da sedir ağacı bulunan iki bahçeye çevirdik.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat onlar yüz çevirdiler; bunun için Biz de üzerlerine Arim selini gönderdik, onların bahçelerini, buruk yemişli, ılgınlık ve içinde biraz da sedir ağacı bulunan iki bahçeye çevirdik.",
+      "contextual_meaning": "Maddi pay, miras, tarım stoku ve paylaşım miktarı: Kadın ve erkeğin miras hakkının az olsun çok olsun kesin pay olması (4:7), kıtlık planında yenilecek ve tohumluk saklanacak az payın ayrılması (12:47-48), nankörlük sonrası bahçelerin pek az sedir ağacına dönüşmesi (34:16) ve pek az verip ardından paylaşımı kesen cimrilik (53:34)."
+    },
+    {
+      "surah": 38,
+      "ayah": 24,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:24",
+      "word_position": 21,
+      "target_word_uthmani": "وَقَلِيلٌ",
+      "target_word_rasm": "وقليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ مَّا هُمْ وَظَنَّ",
+      "context_snippet_turkish_tabula_rasa": "... güvene erip yararlı iş işleyenler bunun dışındadır ki sayıları da ne kadar azdır!\" demişti. Davud, Kendisini denediğimizi sanmıştı da, Rabbinden mağfiret dileyerek eğilip boyun eğmeye kapanmış, tevbe etmiş, Allah'a yönelmişti.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ",
+      "ayah_text_turkish_tabula_rasa_full": "Davud: \"And olsun ki, senin dişi koyununu kendi dişi koyunlarına katmak istemekle sana haksızlıkta bulunmuştur. Doğrusu ortakçıların çoğu birbirlerinin haklarına tecavüz ederler. güvene erip yararlı iş işleyenler bunun dışındadır ki sayıları da ne kadar azdır!\" demişti. Davud, Kendisini denediğimizi sanmıştı da, Rabbinden mağfiret dileyerek eğilip boyun eğmeye kapanmış, tevbe etmiş, Allah'a yönelmişti.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 39,
+      "ayah": 8,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:8",
+      "word_position": 30,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَٰبِ",
+      "context_snippet_turkish_tabula_rasa": "... \"gerçeğin üzerini örtmenle az bir müddet zevklen, şüphesiz sen yakıcı yıkım yurdu ehlisin. \"",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةً مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِۦ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanın başına bir sıkıntı gelince Rabbine yönelerek O'na yalvarır. Sonra Allah, katından bir nimet verince önceden kime yalvarmış olduğunu unutuverir; Allah'ın yolundan saptırmak için O'na eşler koşar. De ki: \"gerçeğin üzerini örtmenle az bir müddet zevklen, şüphesiz sen yakıcı yıkım yurdu ehlisin.\"",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 40,
+      "ayah": 58,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:58",
+      "word_position": 11,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ وَلَا ٱلْمُسِىٓءُ قَلِيلًا مَّا تَتَذَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Körle gören, güvene erip yararlı iş işleyenlerle kötülük yapan bir değildir. Ne kadar az düşünüyorsunuz?",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَلَا ٱلْمُسِىٓءُ قَلِيلًا مَّا تَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Körle gören, güvene erip yararlı iş işleyenlerle kötülük yapan bir değildir. Ne kadar az düşünüyorsunuz?",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 44,
+      "ayah": 15,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:15",
+      "word_position": 4,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا إِنَّكُمْ عَآئِدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Biz sizden azabı az bir süre için kaldıracağız, siz yine de eski gerçeğin üzerini örtmenize döneceksiniz.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا إِنَّكُمْ عَآئِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz sizden azabı az bir süre için kaldıracağız, siz yine de eski gerçeğin üzerini örtmenize döneceksiniz.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 48,
+      "ayah": 15,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:15",
+      "word_position": 31,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Hayır, bizi çekemiyorsunuz\" diyecekler. Aksine, kendileri ancak pek az söz anlayan kimselerdir.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Savaştan geri kalmış olanlar, siz ganimetleri almaya giderken: \"Bırakın, biz de sizinle gelelim\" diyeceklerdir. Onlar Allah'ın sözünü değiştirmek isterler. De ki: \"Bize uymayacaksınız; Allah sizin için önceden böyle buyurmuştur.\" Size: \"Hayır, bizi çekemiyorsunuz\" diyecekler. Aksine, kendileri ancak pek az söz anlayan kimselerdir.",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 51,
+      "ayah": 17,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:17",
+      "word_position": 2,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar, geceleri az uyuyanlardı.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, geceleri az uyuyanlardı.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 53,
+      "ayah": 34,
+      "surah_name": "Necm",
+      "ayah_ref": "53:34",
+      "word_position": 2,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Yüz çevireni ve malından biraz verip sonra vermemekte direneni gördün mü?\"",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüz çevireni ve malından biraz verip sonra vermemekte direneni gördün mü?\"",
+      "contextual_meaning": "Maddi pay, miras, tarım stoku ve paylaşım miktarı: Kadın ve erkeğin miras hakkının az olsun çok olsun kesin pay olması (4:7), kıtlık planında yenilecek ve tohumluk saklanacak az payın ayrılması (12:47-48), nankörlük sonrası bahçelerin pek az sedir ağacına dönüşmesi (34:16) ve pek az verip ardından paylaşımı kesen cimrilik (53:34)."
+    },
+    {
+      "surah": 56,
+      "ayah": 14,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:14",
+      "word_position": 1,
+      "target_word_uthmani": "وَقَلِيلٌ",
+      "target_word_rasm": "وقليل",
+      "target_word_literal_irab": "Azdır / pek azı (قَلِيلٌ / وَقَلِيلٌ — merfû isim/sıfat; geçici dünya yararının azlığı veya hakiki şükreden/inanan azınlık)",
+      "context_snippet_arabic": "وَقَلِيلٌ مِّنَ ٱلْءَاخِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onların büyük kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَلِيلٌ مِّنَ ٱلْءَاخِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların büyük kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 67,
+      "ayah": 23,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:23",
+      "word_position": 10,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Sizi yaratan sizin için kulaklar, gözler ve kalbler var eden O'dur. Ne az nimetin değerini bilip açığa vuruyorsunuz!\"",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Sizi yaratan sizin için kulaklar, gözler ve kalbler var eden O'dur. Ne az nimetin değerini bilip açığa vuruyorsunuz!\"",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 69,
+      "ayah": 41,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:41",
+      "word_position": 5,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "O, şair sözü değildir; ne az güven duy!",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, şair sözü değildir; ne az güven duy!",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 69,
+      "ayah": 42,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:42",
+      "word_position": 4,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "وَلَا بِقَوْلِ كَاهِنٍ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kahin sözü de değildir; ne az düşünüyorsunuz!",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا بِقَوْلِ كَاهِنٍ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kahin sözü de değildir; ne az düşünüyorsunuz!",
+      "contextual_meaning": "İnanç, şükür, düşünme, kavrayış ve insan bilgisindeki kıtlık: İşitme, görme ve gönül donanımına rağmen insanların pek az şükretmesi, pek az öğüt alıp düşünmesi ve pek az inanması (2:88, 4:46,155, 7:3,10, 23:78, 27:62, 32:9, 40:58, 67:23, 69:41-42), ikiyüzlülerin ve geride kalanların pek az anıp kavraması (4:142, 33:18,20, 48:15), elçinin en küçük bir sapmaya karşı korunması (17:74) ile insanlara pek az bilgi verilmiş oluşu (17:85)."
+    },
+    {
+      "surah": 72,
+      "ayah": 24,
+      "surah_name": "Cin",
+      "ayah_ref": "72:24",
+      "word_position": 10,
+      "target_word_uthmani": "وَأَقَلُّ",
+      "target_word_rasm": "وأقل",
+      "target_word_literal_irab": "Daha az olan (أَقَلَّ / وَأَقَلُّ — ism-i tafdîl; mal-evlat [18:39] veya sayı [72:24] yönünden daha az)",
+      "context_snippet_arabic": "مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+      "context_snippet_turkish_tabula_rasa": "Sonunda, kendilerine söz verileni gördükleri zaman, kimin yardımcısının daha güçsüz ve sayısının daha az olduğunu bileceklerdir.",
+      "morphology": {
+        "lemma": ">aqal~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqal~|ROOT:qll|MS|NOM"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda, kendilerine söz verileni gördükleri zaman, kimin yardımcısının daha güçsüz ve sayısının daha az olduğunu bileceklerdir.",
+      "contextual_meaning": "Topluluklarda sayısal azlık, seçkin azınlık ve algı dengesi: Yoldan sapan çoğunluk içinde ilkeye sadık kalan azınlık (2:83, 2:246, 4:66, 5:13, 11:40, 11:116, 17:62, 34:13, 38:24, 56:14), az ama dirençli grubun kalabalığı yenmesi (2:249), az iken çoğaltılıp desteklenme (7:86, 8:26), savaşta iki tarafın birbirine az gösterilmesi (8:43-44), küçümseme ve mal-sayı kıyasının boşluğu (18:39, 26:54, 72:24) ile bilginin az sayıda kimsede oluşu (18:22)."
+    },
+    {
+      "surah": 73,
+      "ayah": 2,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:2",
+      "word_position": 4,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 73,
+      "ayah": 3,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:3",
+      "word_position": 5,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Pek azı / kısa bir süre / az bir miktar (قَلِيلًا / فَقَلِيلًا — mansûb isim/zarf; istisna ile seçkin azınlık, kısa zaman dilimi veya cüz'î pay)",
+      "context_snippet_arabic": "أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 73,
+      "ayah": 11,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:11",
+      "word_position": 6,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Varlık sahibi olup da seni yalanlayanları Bana bırak; onlara az bir mehil ver.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Varlık sahibi olup da seni yalanlayanları Bana bırak; onlara az bir mehil ver.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    },
+    {
+      "surah": 77,
+      "ayah": 46,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:46",
+      "word_position": 3,
+      "target_word_uthmani": "قَلِيلًا",
+      "target_word_rasm": "قليلا",
+      "target_word_literal_irab": "Az / değersiz / pek az (قَلِيلًا — mansûb sıfat/zarf; ayetler karşılığında değersiz bedel [ثَمَنًا قَلِيلًا], kısa süre veya kıt şükür/düşünme)",
+      "context_snippet_arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yiyiniz, biraz zevkleniniz bakalım, doğrusu sizler suçlularsınız.",
+      "morphology": {
+        "lemma": "qaliyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qaliyl|ROOT:qll|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yiyiniz, biraz zevkleniniz bakalım, doğrusu sizler suçlularsınız.",
+      "contextual_meaning": "Zamanın kısalığı, geçici dünya yararı ve gece disiplinindeki ölçü: Sonuç yurduna kıyasla dünya yararının ve gerçeği örtme ile suç süresinin pek kısa oluşu (2:126, 3:197, 4:77, 9:38,82, 16:117, 17:52,76, 23:40,114, 31:24, 33:16,60, 39:8, 44:15, 73:11, 77:46), şımaran beldelerin pek az iskân edilmesi (28:58) ve gecenin yalnızca az bir kısmında uyuyup bilinçle kalkma (51:17, 73:2-3)."
+    }
+  ]
+}
