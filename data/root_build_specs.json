@@ -6529,5 +6529,155 @@
       }
     ],
     "context_default": "İlk başlangıcının ardından bir oluşu veya eylemi yeniden tekrarlayıp eski noktaya dönme ve döndürme mekanizması."
+  },
+  "ذ-و-ق": {
+    "buckwalter": "*wq",
+    "slug": "zevk_izaka_zaika_tatmak_tattirmak_deneyimlemek_zwk",
+    "concept_name": "Zevk / İzâka / Zâika (Somut Tatmadan Varoluşsal Deneyime: Ölümü, Rahmeti, Eylemlerin Vebâlini ve Karşılığı Bizzat Tatmak)",
+    "keywords": [
+      "zevk",
+      "tatmak",
+      "tattirmak",
+      "zaika",
+      "olum",
+      "rahmet",
+      "vebal",
+      "azap"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "*aA^}iqap",
+        "label": "Ölümü bizzat tadacak olan (ذَآئِقَةُ ٱلْمَوْتِ — I. bab dişil ism-i fâil; 3 geçiş: 3:185, 21:35, 29:57)"
+      },
+      {
+        "lemma": "*aA^}iquwA",
+        "label": "Acıklı azabı kesinlikle tadacak olanlar (لَذَآئِقُونَ / لَذَآئِقُوا۟ — I. bab eril çoğul ism-i fâil; 2 geçiş: 37:31, 37:38)"
+      },
+      {
+        "lemma": "*aAqu",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Yaptıklarınızın karşılığını ve azabı bizzat tadın / tat (ذُوقُوا۟ / فَذُوقُوا۟ / ذُقْ — I. bab emir; 24 geçiş)"
+      },
+      {
+        "lemma": "*aAqu",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Ağaçtan tattılar / işlerinin ağır vebâlini ve şiddetimizi tattılar (ذَاقَا / ذَاقَتْ / ذَاقُوا۟ — I. bab mâzi; 5 geçiş)"
+      },
+      {
+        "lemma": "*aAqu",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Tatmaları için / tatmazlar / henüz tatmadılar (يَذُوقُوا۟ / يَذُوقَ / تَذُوقُوا۟ / يَذُوقُونَ — I. bab muzâri; 7 geçiş)"
+      },
+      {
+        "lemma": ">a*aAqa",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Rahmet, nimet, açlık-korku veya rezillik tattırdık/tattırdı (أَذَقْنَا / أَذَاقَ — IV. bab mâzi; 10 geçiş)"
+      },
+      {
+        "lemma": ">a*aAqa",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Rahmet, toplumsal şiddet, yakın uyarı azabı veya ağır azap tattırır/tattıracağız (يُذِيقَ / نُذِيقُ / نُذِقْ / لَنُذِيقَنَّ — IV. bab muzâri; 12 geçiş)"
+      }
+    ],
+    "irab_default": "Bir gerçeği, rahmeti, ölümü veya eylemin sonucunu en doğrudan duyusal açıklıkla bizzat tadıp deneyimlemek (ذ-و-ق kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:185",
+          "7:22",
+          "21:35",
+          "29:57",
+          "44:56"
+        ],
+        "text": "Fiziksel tatma çıpası ve ölümü tatma yasası: Âdem ile eşinin yasak ağaçtan tatmasıyla örtülerinin açılması (7:22), her canın ölümü bizzat tadacağı evrensel yasa (3:185, 21:35, 29:57) ve esenlik yurdunda ilk ölüm dışında bir daha ölüm tadılmaması (44:56)."
+      },
+      {
+        "ayahs": [
+          "10:21",
+          "11:9",
+          "11:10",
+          "30:33",
+          "30:36",
+          "30:46",
+          "41:50",
+          "42:48"
+        ],
+        "text": "Rahmet ve nimetin tattırılmasıyla insan psikolojisinin sınanması: Darlıktan sonra tattırılan rahmet ve nimet karşısında tuzak kuran, şımarıp böbürlenen, ortak koşan veya rahmet çekilince umutsuzluğa kapılan insan tepkisi (10:21, 11:9, 11:10, 30:33, 30:36, 41:50 [2x: rahmet ve ardından ağır azap], 42:48) ile müjdeci rüzgârlarla rahmetin tattırılışı (30:46)."
+      },
+      {
+        "ayahs": [
+          "5:95",
+          "6:65",
+          "6:148",
+          "16:94",
+          "16:112",
+          "17:75",
+          "30:41",
+          "32:21",
+          "38:8",
+          "39:26",
+          "41:16",
+          "59:15",
+          "64:5",
+          "65:9"
+        ],
+        "text": "Dünyada işlenen eylemlerin vebâlini, rezilliğini ve uyanış amaçlı yakın azabını tatmak: İhramda av yasağı keffâreti ve bağlayıcı ahitleri bozmanın acı sonucu (5:95, 16:94), toplumsal bölünme şiddeti (6:65), nankör kente açlık ve korku elbisesinin tattırılması (16:112), geçmiş toplumların işlerinin vebâlini ve dünyadaki rezilliği tatması (6:148, 39:26, 41:16, 59:15, 64:5, 65:9), elçiye kesin uyarı (17:75), henüz azabı tatmayanların kuşkusu (38:8) ve geri dönüp uyanmaları için yaptıklarının bir kısmının/yakın azabın tattırılması (30:41, 32:21)."
+      },
+      {
+        "ayahs": [
+          "4:56",
+          "10:70",
+          "22:9",
+          "22:25",
+          "25:19",
+          "34:12",
+          "37:31",
+          "37:38",
+          "38:57",
+          "41:27",
+          "78:24"
+        ],
+        "text": "Ahirette ilâhî azabı tattırma vaadi ve kesinlik ilanı: Derilerin yenilenmesiyle azabı duyusal olarak tatma (4:56), serinlik ve içecek tatmayıp kaynar-irinli sıvı tatma (38:57, 78:24), ağır, yakıcı ve acıklı azap tattırma vaadi (10:70, 22:9, 22:25, 25:19, 34:12, 41:27) ile azabı kesinlikle tadacaklarını itiraf ve bildirim (37:31, 37:38)."
+      },
+      {
+        "ayahs": [
+          "3:106",
+          "3:181",
+          "6:30",
+          "7:39",
+          "8:14",
+          "8:35",
+          "8:50",
+          "9:35",
+          "10:52",
+          "22:22",
+          "29:55",
+          "32:14",
+          "32:20",
+          "34:42",
+          "35:37",
+          "39:24",
+          "44:49",
+          "46:34",
+          "51:14",
+          "54:37",
+          "54:39",
+          "54:48",
+          "78:30"
+        ],
+        "text": "Hesap ve azap anında doğrudan emir ('Tadın / Tat!'): Yığılan serveti, kazançları, unutulan karşılaşma gününü, yakıcı ateşi, yüzüstü sürüklenişi ve kibrin ironik sonunu ('Tat bakalım, hani sen pek üstün ve soyluydun!' 44:49) bizzat tatma hükmü (3:106,181, 6:30, 7:39, 8:14,35,50, 9:35, 10:52, 22:22, 29:55, 32:14 [2x], 32:20, 34:42, 35:37, 39:24, 44:49, 46:34, 51:14, 54:37,39,48, 78:30)."
+      }
+    ],
+    "context_default": "Somut tat alma duyusuyla sınamaktan varoluşsal deneyime, rahmeti, ölümü ve eylemlerin sonucunu bizzat tadıp yaşama mekanizması."
   }
 }
