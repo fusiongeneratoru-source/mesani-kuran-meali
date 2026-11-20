@@ -301,5 +301,230 @@
       }
     ],
     "context_default": "Bir varlığın, türün veya bireyin tek başına kalmayıp kendisini tamamlayan yahut aynı nitelik ve yörüngeyi paylaşan karşıt ya da benzer eşleniğiyle bütünlük kurması."
+  },
+  "ع-ق-ب": {
+    "buckwalter": "Eqb",
+    "slug": "akibet_ikab_eqb",
+    "concept_name": "Akıbet / İkâb / Topuk-Art ve Sarp Geçit (Ardışık Takip, Süreç Sonu Nihaî Sonuç, Denk Ardıl Yaptırım ve Dik Yokuş)",
+    "keywords": [
+      "akibet",
+      "ikab",
+      "topuk",
+      "sonuc",
+      "ardil",
+      "sarp gecit",
+      "misilleme",
+      "takip"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Ea`qibap",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Nihaî sonuç / akıbet (عَٰقِبَةَ — mansûb dişil isim; إِنَّ veya كَانَ yapısında sürecin varacağı kesin son durum)"
+      },
+      {
+        "lemma": "Ea`qibap",
+        "label": "Nihaî sonuç / akıbet (عَٰقِبَةُ — merfû dişil isim; izâfetle toplumların, işlerin veya yurdun sonunda ortaya çıkan kesin netice)"
+      },
+      {
+        "lemma": "EiqaAb",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Ardıl yaptırımım (عِقَابِ — fasıla uyumuyla zamir ي harfi hazfedilmiş merfû isim; ihlalin peşinden yetişen kesin karşılık)"
+      },
+      {
+        "lemma": "EiqaAb",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "Acı verici ardıl yaptırım (عِقَابٍ — nekre mecrûr isim; ذُو izâfetinde eylemin peşinden gelen ağır karşılık)"
+      },
+      {
+        "lemma": "EiqaAb",
+        "label": "Ardıl yaptırım / peşinden yetişen karşılık (ٱلْعِقَابِ / عِقَابِ — mecrûr isim; شَدِيدُ veya سَرِيعُ izâfetinde ihlalin izini süren yaptırım)"
+      },
+      {
+        "lemma": "Eaqib",
+        "features_contains": [
+          "MD"
+        ],
+        "label": "İki topuğu üzerine (عَقِبَيْهِ — ikil mecrûr isim; عَلَىٰ harf-i cerriyle geldiği yöne geriye dönüp çark etme ekseni)"
+      },
+      {
+        "lemma": "Eaqib",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Topuklarınız / topuklarımız üzerine (أَعْقَٰبِكُمْ / أَعْقَابِنَا — çoğul mecrûr isim; عَلَىٰ ile topluca geriye dönüş ve vazgeçiş)"
+      },
+      {
+        "lemma": "Eaqib",
+        "label": "Ardından gelen nesil / soy (عَقِبِهِۦ — tekil mecrûr isim; فِى ile insanın peşinden gelip yerini alan kuşaklar)"
+      },
+      {
+        "lemma": "EuqobaY",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Nihaî sonucunu / akıbetini (عُقْبَٰهَا — mansûb maksûr isim; yapılan yıkımın ardıl neticesi)"
+      },
+      {
+        "lemma": "EuqobaY",
+        "label": "Kalıcı nihaî sonuç / yurt akıbeti (عُقْبَى — merfû maksûr isim; yaşam sürecinin en sonunda varılan daimî netice)"
+      },
+      {
+        "lemma": "Euqob",
+        "label": "Nihaî sonuç / son netice bakımından (عُقْبًا — mansûb temyiz isim; sürecin sonunda elde kalan kalıcı ürün)"
+      },
+      {
+        "lemma": "EaAqaba",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Zararla / yaptırımla karşılık gördü (عُوقِبْتُم / عُوقِبَ — III. bab edilgen mâzi fiil; maruz kalınan saldırı veya yaptırım)"
+      },
+      {
+        "lemma": "EaAqaba",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Denk ardıl karşılık verin (فَعَاقِبُوا۟ — III. bab emir fiil; بِمِثْلِ kaydıyla aşırılığa kaçmadan misilleme yapma)"
+      },
+      {
+        "lemma": "EaAqaba",
+        "label": "Ardıl karşılık verdi / karşılık sırası geçti (عَاقَبْتُمْ / عَاقَبَ — III. bab etken mâzi fiil; eylemin ardından denk karşılık verme veya telafi sırası)"
+      },
+      {
+        "lemma": "yuEaq~ibo",
+        "label": "Geriye dönüp bakmadı / geri sekmedi (يُعَقِّبْ — II. bab meczûm muzâri fiil; لَمْ ile kaçışta arkasına dönüp ikinci hamle yapmama)"
+      },
+      {
+        "lemma": ">aEoqaba",
+        "label": "Doğrudan ardılı olarak yerleştirdi / doğurdu (فَأَعْقَبَهُمْ — IV. bab etken mâzi fiil; çift nesneyle sözden caymanın peşinden kalbe ikiyüzlülük bırakma)"
+      },
+      {
+        "lemma": "muEaq~iba`t",
+        "label": "Nöbetleşe peş peşe izleyip koruyan takipçiler (مُعَقِّبَٰتٌ — II. bab çoğul ism-i fâil; ön ve arka hatta kesintisiz devralan gözetici unsurlar)"
+      },
+      {
+        "lemma": "muEaq~ib",
+        "label": "Ardından gelip bozacak / erteleyecek takipçi (مُعَقِّبَ — II. bab tekil ism-i fâil; لَا ile hükmün kesinliğini değiştirebilecek hiçbir unsurun bulunmaması)"
+      },
+      {
+        "lemma": "Eaqabap",
+        "label": "Sarp geçit / aşılması güç dik yokuş (ٱلْعَقَبَة — 2. asıldan dişil isim; yüksek bedel ve özveri gerektiren ahlakî tırmanış)"
+      }
+    ],
+    "irab_default": "Ardışık takip, topuk-art ekseni, süreç sonu nihaî sonuç veya ardıl yaptırım (ع-ق-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:143",
+          "3:144",
+          "3:149",
+          "6:71",
+          "8:48",
+          "23:66",
+          "27:10",
+          "28:31",
+          "43:28"
+        ],
+        "text": "Topuk ekseninde geriye çark etme, geri sekmeme ve nesil devamı: Doğru istikamette elçiyi izlemek yerine topukları üzerinde eski yanlış yola geri dönme (2:143, 3:144, 3:149, 6:71, 23:66), zorlu karşılaşmada müttefikini yüzüstü bırakıp topukları üzerinde kaçma ve ardıl yaptırımdan ürkme (8:48), olağanüstü manzara karşısında geriye dönüp bakmadan uzaklaşma (27:10, 28:31) ile tevhit sözünü insanın ardından gelen kuşaklar (عَقِب) içinde kalıcı kılma (43:28)."
+      },
+      {
+        "ayahs": [
+          "3:137",
+          "6:11",
+          "7:84",
+          "7:86",
+          "7:103",
+          "10:39",
+          "10:73",
+          "12:109",
+          "16:36",
+          "27:14",
+          "27:51",
+          "27:69",
+          "28:40",
+          "30:9",
+          "30:10",
+          "30:42",
+          "35:44",
+          "37:73",
+          "40:21",
+          "40:82",
+          "43:25",
+          "47:10",
+          "59:17",
+          "65:9",
+          "91:15"
+        ],
+        "text": "Tarihsel yasalar ve yozlaşan toplumların nihaî akıbeti: Yeryüzünde gözlem yaparak önceki kuşakların, gerçeği yalanlayanların, zulmedenlerin, bozguncuların ve suçluların tarihsel süreç sonunda nasıl bir yıkım ve kayba (عَٰقِبَة / عُقْبَٰهَا) ulaştığını ibretle inceleme çağrısı."
+      },
+      {
+        "ayahs": [
+          "6:135",
+          "7:128",
+          "11:49",
+          "13:22",
+          "13:24",
+          "13:35",
+          "13:42",
+          "18:44",
+          "20:132",
+          "22:41",
+          "28:37",
+          "28:83",
+          "31:22"
+        ],
+        "text": "Bilinçle korunanların kalıcı yurt akıbeti ve tüm işlerin Yaratıcı'ya varan sonu: Yeryüzünde kibir ve bozgunculuk peşinde koşmayan, sebat eden ve sorumluluk bilinciyle korunanların nihaî akıbete (ٱلْعَٰقِبَة / عُقْبَى ٱلدَّارِ / عُقْبًا) erişmesi ve bütün süreçlerin son düğümünün yalnızca Mutlak Yaratıcı'ya ait oluşu."
+      },
+      {
+        "ayahs": [
+          "2:196",
+          "2:211",
+          "3:11",
+          "5:2",
+          "5:98",
+          "6:165",
+          "7:167",
+          "8:13",
+          "8:25",
+          "8:52",
+          "9:77",
+          "13:6",
+          "13:32",
+          "16:126",
+          "22:60",
+          "38:14",
+          "40:3",
+          "40:5",
+          "40:22",
+          "41:43",
+          "59:4",
+          "59:7",
+          "60:11"
+        ],
+        "text": "İhlalin hemen peşinden yetişen ardıl yaptırım ve denk karşılık hukuku: Sınır ihlallerini, nimet değiştirmeyi ve sözden caymayı yakından izleyen sıkı/hızlı ardıl yaptırım (عِقَاب) ile bağışlama dengesi; sözden dönmenin doğrudan ardılı olarak kalpte yerleşen ikiyüzlülük (9:77) ve insanlar arası çatışmada ancak maruz kalınan ölçüye denk karşılık verme veya telafi sırası (16:126, 22:60, 60:11)."
+      },
+      {
+        "ayahs": [
+          "13:11",
+          "13:41"
+        ],
+        "text": "Kesintisiz nöbetleşe takip ve bozulmaz kesin hüküm: İnsanı önünden ve ardından nöbetleşe peş peşe izleyip Yaratıcı'nın emriyle koruyan takipçi unsurlar (مُعَقِّبَٰت, 13:11) ile Yaratıcı'nın hükmünün ardından gelip onu bozacak veya erteleyecek hiçbir takipçinin bulunmaması (لَا مُعَقِّبَ لِحُكْمِهِۦ, 13:41)."
+      },
+      {
+        "ayahs": [
+          "90:11",
+          "90:12"
+        ],
+        "text": "İkincil asıl olan sarp geçit ve ahlakî tırmanış (ٱلْعَقَبَة): İnsanın bencil konforundan çıkıp boyunduruk altındakini özgürleştirmek, kıtlık gününde muhtacı doyurmak ve şefkati omuzlamak için göğüs germesi gereken dik ve zorlu sarp yokuş."
+      }
+    ],
+    "context_default": "Topuk ve art izi ekseninde bir unsurun başkasının hemen peşinden gelip onu izlemesi, sürecin en sonunda nihaî akıbet ve ardıl karşılık olarak yetişmesi ya da (90:11-12'de) tırmanılması güç sarp geçit."
   }
 }
