@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 62 / 100 Kök (Toplam Mühürlü: 167 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 63 / 100 Kök (Toplam Mühürlü: 168 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -80,7 +80,7 @@
 | 60 | 164 | `ك-س-ب` | `K-S-B` | **67** | 60 | 2:79 | Kesb ve İktisâb (Emekle Kazanç Elde Etme ve Bireysel Sorumluluk Bilançosu) | ✅ **MÜHÜRLÜ** |
 | 61 | 165 | `و-ف-ي` | `W-F-Y` | **66** | 64 | 2:40 | Vefâ / Îfâ / Tevfiye / Teveffî ve İstîfâ (Eksiksiz Doldurma, Tam Ödeme ve Canı/Hakkı Bütünüyle Teslim Alma) | ✅ **MÜHÜRLÜ** |
 | 62 | 166 | `ج-ر-م` | `C-R-M` | **66** | 65 | 5:2 | Cürüm / İcrâm / Mücrim ve Lâ Cereme (Bağdan Kopup Ağır Suç İşleme, Adaletten Sapmama ve Kesin Gerçek) | ✅ **MÜHÜRLÜ** |
-| 63 | 167 | `خ-س-ر` | `H-S-R` | **65** | 60 | 2:27 | Analiz Bekliyor (xa`siriyn, xasira, >axosariyn) | ⏳ *Bekliyor* |
+| 63 | 167 | `خ-س-ر` | `H-S-R` | **65** | 60 | 2:27 | Hüsrân / Hâsir / Muhsir ve Tahsîr (Ölçüde Eksiltme, Sermaye Erimesi ve Öz Benlik İflası) | ✅ **MÜHÜRLÜ** |
 | 64 | 168 | `ع-ي-ن` | `A-Y-N` | **65** | 63 | 2:60 | Analiz Bekliyor (Eayon, m~aEiyn, Eiyn) | ⏳ *Bekliyor* |
 | 65 | 169 | `ج-ر-ي` | `C-R-Y` | **64** | 64 | 2:25 | Analiz Bekliyor (jarayo, jawaAr, jaAriyap) | ⏳ *Bekliyor* |
 | 66 | 170 | `ح-م-ل` | `H-M-L` | **64** | 50 | 2:248 | Analiz Bekliyor (Hamala, Hamol, Hum~ila) | ⏳ *Bekliyor* |
