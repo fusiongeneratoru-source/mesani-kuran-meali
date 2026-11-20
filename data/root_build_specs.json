@@ -4880,5 +4880,152 @@
       }
     ],
     "context_default": "Ölçü veya sözleşmeyi eksiksiz doldurma, karşılığı tam ödeme ya da canı/bilinci bütünüyle teslim alma mekanizması."
+  },
+  "ج-ر-م": {
+    "buckwalter": "jrm",
+    "slug": "curum_icram_mucrim_la_cereme_jrm",
+    "concept_name": "Cürüm / İcrâm / Mücrim ve Lâ Cereme (Bağdan Kopup Ağır Suç İşleme, Adaletten Sapmama ve Kesin Gerçek)",
+    "keywords": [
+      "curum",
+      "icram",
+      "mucrim",
+      "suclu",
+      "suc",
+      "lacereme",
+      "kopma",
+      "adalet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "<ijoraAm",
+        "label": "İşlediğim suçun sorumluluğu bana aittir (إِجْرَامِى — IV. bab masdar; 11:35)"
+      },
+      {
+        "lemma": "yajorima",
+        "label": "Sizi adaletten kesip saldırganlığa/suça sürüklemesin (لَا يَجْرِمَنَّكُمْ — I. bab tekitli muzâri; 5:2, 5:8, 11:89)"
+      },
+      {
+        "lemma": "jaram",
+        "label": "Şüphesiz / kesilip karara bağlanmış kaçınılmaz gerçek (لَا جَرَمَ — kalıplaşmış kesinlik ismi; 11:22, 16:23,62,109, 40:43)"
+      },
+      {
+        "lemma": ">ajoramu",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "İşlemekte olduğunuz suçlardan uzağım (تُجْرِمُونَ — IV. bab muzâri; 11:35)"
+      },
+      {
+        "lemma": ">ajoramu",
+        "label": "Ağır suç işlediler / suç işledik (أَجْرَمُوا۟ / أَجْرَمْنَا — IV. bab mâzi; 6:124, 30:47, 34:25, 83:29)"
+      },
+      {
+        "lemma": "mujorim",
+        "features_contains": [
+          "|M|"
+        ],
+        "label": "Suçlu kimse / suçlu olarak (مُجْرِمًا / ٱلْمُجْرِمُ — IV. bab tekil ism-i fâil; 20:74, 70:11)"
+      },
+      {
+        "lemma": "mujorim",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Hakikat ve adalet bağından kopmuş ağır suçlular (ٱلْمُجْرِمُونَ / مُجْرِمُونَ — IV. bab merfû çoğul ism-i fâil; 14 geçiş)"
+      },
+      {
+        "lemma": "mujorim",
+        "label": "Ağır suç işleyenler / suçlu topluluk (ٱلْمُجْرِمِينَ / مُجْرِمِينَ / مُجْرِمِيهَا — IV. bab mansûb/mecrûr çoğul ism-i fâil; 36 geçiş)"
+      }
+    ],
+    "irab_default": "Hakikat ve adalet bağından kopup ağır suç işleme, öfkeyle suça sürüklenme veya kesilip netleşmiş kesinlik (ج-ر-م kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:2",
+          "5:8",
+          "11:22",
+          "11:89",
+          "16:23",
+          "16:62",
+          "16:109",
+          "40:43"
+        ],
+        "text": "Öfkenin adaletten koparmaması (لَا يَجْرِمَنَّكُمْ) ve kaçınılmaz kesinlik bildirimi (لَا جَرَمَ): Bir topluluğa duyulan kin veya geçimsizliğin insanları adaletten sapmaya ve saldırganlığa itmemesi emri (5:2, 5:8, 11:89) ile Allah'ın gizli-açık her şeyi bildiğine ve hakikati yalanlayıp haddi aşanların kesin hüsrana uğrayacağına dair şüphesiz kesinlik vurgusu (11:22, 16:23, 16:62, 16:109, 40:43)."
+      },
+      {
+        "ayahs": [
+          "6:55",
+          "6:123",
+          "6:124",
+          "8:8",
+          "9:66",
+          "10:17",
+          "10:50",
+          "10:82",
+          "11:35",
+          "11:52",
+          "15:12",
+          "25:31",
+          "26:200",
+          "28:17",
+          "34:25",
+          "68:35",
+          "77:46",
+          "83:29"
+        ],
+        "text": "Dünyada suç sorumluluğunun bireyselliği, örgütlü suç elebaşıları ve hakikate direniş: Her beldede tuzak kuran suç elebaşılarının ve suç yolunun açığa çıkarılması (6:55,123,124, 25:31), suç sorumluluğunun başkasına devredilemeyişi (11:35, 34:25), Musa'nın asla suçlulara arka çıkmama kesin sözü (28:17), teslim olanlarla suçluların asla bir tutulamayışı (68:35), suçlular istemese de hakkın gerçekleşmesi (8:8, 10:17,50,82) ile inananlarla alay ve hakikatten yüz çevirme (9:66, 11:52, 15:12, 26:200, 77:46, 83:29)."
+      },
+      {
+        "ayahs": [
+          "6:147",
+          "7:84",
+          "7:133",
+          "10:13",
+          "10:75",
+          "11:116",
+          "12:110",
+          "15:58",
+          "27:69",
+          "30:47",
+          "44:22",
+          "44:37",
+          "46:25",
+          "51:32"
+        ],
+        "text": "Tarihsel azgın kavimlerin (قَوْمًا مُّجْرِمِينَ) şımarıklık, yalanlama ve çöküş akıbeti: Firavun hanedanı, Lût şehri, Ad, Tübba ve geçmişte şımarık refaha dalıp elçileri yalanlayan suçlu topluluklara gelen kesin yaptırım ve yeryüzünde dolaşıp bu akıbetten ibret alma çağrısı (6:147, 7:84,133, 10:13,75, 11:116, 12:110, 15:58, 27:69, 30:47, 44:22,37, 46:25, 51:32)."
+      },
+      {
+        "ayahs": [
+          "7:40",
+          "14:49",
+          "18:49",
+          "18:53",
+          "19:86",
+          "20:74",
+          "20:102",
+          "25:22",
+          "26:99",
+          "28:78",
+          "30:12",
+          "30:55",
+          "32:12",
+          "32:22",
+          "34:32",
+          "36:59",
+          "37:34",
+          "43:74",
+          "45:31",
+          "54:47",
+          "55:41",
+          "55:43",
+          "70:11",
+          "74:41",
+          "77:18"
+        ],
+        "text": "Hesap günü ve ahirette suçluların ayrıştırılması, kayıtlarla yüzleşmeleri ve karşılıkları: Suçluların hesap anında ayrı safa ayrılmaları (36:59), en küçük ayrıntıyı bile sayan kayıt karşısında dehşete düşmeleri (18:49), simalarından tanınıp başları öne eğik beklemeleri (32:12, 55:41), fidye verme çaresizlikleri (70:11) ve yalanladıkları ateşin kesin karşılığıyla yüzleşmeleri (7:40, 14:49, 18:53, 19:86, 20:74,102, 25:22, 26:99, 28:78, 30:12,55, 32:22, 34:32, 37:34, 43:74, 45:31, 54:47, 55:43, 74:41, 77:18)."
+      }
+    ],
+    "context_default": "Hakikat ve adalet bütünlüğünden kesilip koparak ağır suç işleme, öfkeyle haksızlığa sürüklenme veya kesilip netleşmiş kesinlik mekanizması."
   }
 }
