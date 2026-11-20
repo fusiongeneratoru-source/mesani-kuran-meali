@@ -6384,5 +6384,150 @@
       }
     ],
     "context_default": "Bir işi sağlamlaştırıp kusursuzca tamamlama, kesin hükme bağlama ve hedefine infaz etme mekanizması."
+  },
+  "ع-و-د": {
+    "buckwalter": "Ewd",
+    "slug": "avd_iade_id_mead_ad_kavmi_donus_tekrar_ewd",
+    "concept_name": "Avd / İâde / Îd / Meâd ve Âd Kavmi (İlk Hâline ve Yaratılışa Geri Dönmek, Tekrarlamak, Dönüş Yurdu ve Eski Âd Kavmi)",
+    "keywords": [
+      "avd",
+      "iade",
+      "id",
+      "bayram",
+      "mead",
+      "ad_kavmi",
+      "donus",
+      "tekrar"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EaAd2",
+        "label": "Özel ad: Hûd'un gönderildiği eski Âd kavmi (عَاد / عَادًا / عَادٍ — PN; 24 geçiş)"
+      },
+      {
+        "lemma": "Eiyd",
+        "label": "Öncekiler ve sonrakiler için dönüp yinelenen sevinç ve anma günü (عِيدًا — isim; 1 geçiş: 5:114)"
+      },
+      {
+        "lemma": "maEaAd",
+        "label": "Vaat edilen dönüş yeri ve varış yurdu (مَعَادٍ — ism-i mekân; 1 geçiş: 28:85)"
+      },
+      {
+        "lemma": "EaA^}iduwn",
+        "label": "Eski tutum ve azgınlığına geri dönenler (عَآئِدُونَ — I. bab ism-i fâil; 1 geçiş: 44:15)"
+      },
+      {
+        "lemma": ">uEiydu",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Çıkmak istedikçe içine geri çevrilirler (أُعِيدُوا۟ — IV. bab edilgen mâzi; 2 geçiş: 22:22, 32:20)"
+      },
+      {
+        "lemma": ">uEiydu",
+        "label": "İlk yaratılışı yeniden var eder / eski hâline veya toprağa-denize döndürür (يُعِيدُ / نُعِيدُ / يُعِيدُوكُمْ — IV. bab etken muzâri; 16 geçiş)"
+      },
+      {
+        "lemma": "EaAda",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Eski hâline / yasağa geri döndü veya karşılık vermeye döndük (عَادَ / عَادُوا۟ / عُدْنَا / عُدتُّمْ — I. bab mâzi; 8 geçiş)"
+      },
+      {
+        "lemma": "EaAda",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "İlk yaratılış gibi dönersiniz / yasaklanan eyleme veya eski düzene geri dönersiniz (تَعُودُونَ / لَتَعُودُنَّ / نَّعُودَ / تَعُودُوا۟ / نَعُدْ / يَعُودُوا۟ / يَعُودُونَ — I. bab muzâri; 10 geçiş)"
+      }
+    ],
+    "irab_default": "İlk hâline ve başlangıcına geri dönmek, eylemi tekrarlamak veya yeniden var etmek (ع-و-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:29",
+          "10:4",
+          "10:34",
+          "17:51",
+          "20:21",
+          "20:55",
+          "21:104",
+          "27:64",
+          "29:19",
+          "30:11",
+          "30:27",
+          "34:49",
+          "36:39",
+          "71:18",
+          "85:13"
+        ],
+        "text": "İlk yaratılışın tekrarı, toprağa döndürülüş ve fiziksel dönüş: Allah'ın yaratılışı ilk kez başlatıp ardından kolayca yeniden var etmesi (7:29, 10:4, 10:34 [2x], 17:51, 21:104, 27:64, 29:19, 30:11, 30:27, 85:13), bâtılın ne ilk başlatma ne de yeniden üretme gücünün bulunmaması (34:49), insanın yaratıldığı toprağa döndürülüp yeniden çıkarılması (20:55, 71:18), Mûsâ'nın asasının ilk hâline çevrilmesi (20:21) ve Ay'ın evrelerden geçip kuru hurma dalı inceliğine geri dönmesi (36:39)."
+      },
+      {
+        "ayahs": [
+          "2:275",
+          "5:95",
+          "6:28",
+          "7:88",
+          "7:89",
+          "8:19",
+          "8:38",
+          "14:13",
+          "17:8",
+          "18:20",
+          "23:107",
+          "24:17",
+          "44:15",
+          "58:3",
+          "58:8"
+        ],
+        "text": "Yasaklanan eyleme, eski inanç düzenine veya bozguncu tutuma geri dönüş ve karşılık yasası: Ribâ, ihramda av, iftira ve gizli fısıldaşma yasağına yeniden dönme uyarısı (2:275, 5:95, 24:17, 58:8), zıhâr sözünden geri dönüp evliliğe dönüş keffâreti (58:3), zorbaların inananları eski yaşam düzenine döndürme baskısı (7:88, 7:89 [2x], 14:13, 18:20), düşmanlık veya bozgunculuğa dönülünce ilâhî karşılığın da dönmesi (8:19 [2x], 8:38, 17:8 [2x]) ile azap hafiflese veya dünyaya geri gönderilseler yine eski tutumlarına dönecek olanlar (6:28, 23:107, 44:15)."
+      },
+      {
+        "ayahs": [
+          "17:69",
+          "22:22",
+          "32:20"
+        ],
+        "text": "Deniz fırtınasına ve ateşe geri çevrilme: Denizden kurtarıldıktan sonra nankörlük edenlerin yeniden denize döndürülüp fırtınayla boğulma uyarısı (17:69) ile ateş yurdundan çıkmak istedikçe içine geri çevrilenlerin durumu (22:22, 32:20)."
+      },
+      {
+        "ayahs": [
+          "5:114",
+          "28:85"
+        ],
+        "text": "Dönüp yinelenen sevinç günü ve dönüş yurdu: Îsâ'nın gökten sofra yakarışında hem öncekiler hem sonrakiler için dönüp tekrarlanan sevinç ve anma günü (عِيدًا, 5:114) ile Kur'an'ı yükümlü kılan Allah'ın elçiyi vaat edilen dönüş yurduna (مَعَادٍ, 28:85) elbette ulaştıracağı müjdesi."
+      },
+      {
+        "ayahs": [
+          "7:65",
+          "7:74",
+          "9:70",
+          "11:50",
+          "11:59",
+          "11:60",
+          "14:9",
+          "22:42",
+          "25:38",
+          "26:123",
+          "29:38",
+          "38:12",
+          "40:31",
+          "41:13",
+          "41:15",
+          "46:21",
+          "50:13",
+          "51:41",
+          "53:50",
+          "54:18",
+          "69:4",
+          "69:6",
+          "89:6"
+        ],
+        "text": "Özel ad (PN): Hûd'un gönderildiği eski Âd kavmi. Ahkâf bölgesinde güçleriyle büyüklenip 'bizden daha güçlü kim var?' diyen, Hûd'u ve elçileri yalanlayan, sonunda azgın ve kısır bir kasırgayla yıkılıp geride tarihsel ibret bırakan ilk Âd kavmi (7:65,74, 9:70, 11:50,59,60 [2x], 14:9, 22:42, 25:38, 26:123, 29:38, 38:12, 40:31, 41:13,15, 46:21, 50:13, 51:41, 53:50, 54:18, 69:4,6, 89:6)."
+      }
+    ],
+    "context_default": "İlk başlangıcının ardından bir oluşu veya eylemi yeniden tekrarlayıp eski noktaya dönme ve döndürme mekanizması."
   }
 }
