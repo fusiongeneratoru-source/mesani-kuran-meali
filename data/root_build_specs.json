@@ -6679,5 +6679,153 @@
       }
     ],
     "context_default": "Somut tat alma duyusuyla sınamaktan varoluşsal deneyime, rahmeti, ölümü ve eylemlerin sonucunu bizzat tadıp yaşama mekanizması."
+  },
+  "ز-ي-د": {
+    "buckwalter": "zyd",
+    "slug": "ziyade_izdiyad_mezid_artmak_artirmak_fazlalik_zyd",
+    "concept_name": "Ziyâde / İzdiyâd / Mezîd (Mevcut Ölçü ve Yönelimin Üzerine Eklenerek Artmak, Katlanmak ve Fazlasını Vermek)",
+    "keywords": [
+      "ziyade",
+      "izdiyad",
+      "mezid",
+      "artmak",
+      "artirmak",
+      "fazlalik",
+      "katlanmak",
+      "lutuf"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ziyaAdap",
+        "label": "Üzerine eklenen artış / ilave fazlalık (زِيَادَةٌ — masdar/isim: 9:37 olumsuz ekleme, 10:26 en güzel ödülün fazlası; 2 geçiş)"
+      },
+      {
+        "lemma": "m~aziyd",
+        "label": "Daha fazlası (مَزِيد / مَّزِيدٍ — 50:30 ateşin sorusu ve 50:35 katımızdaki fazlalık; 2 geçiş)"
+      },
+      {
+        "lemma": "{zodaAdu",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Giderek artırdılar / üzerine eklediler (ٱزْدَادُوا۟ — VIII. bab mâzi; 3 geçiş: 3:90, 4:137, 18:25)"
+      },
+      {
+        "lemma": "{zodaAdu",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Kendi ölçeğinde/içinde artar / artırmaları için (يَزْدَادُ / تَزْدَادُ / نَزْدَادُ / لِيَزْدَادُوٓا۟ — VIII. bab muzâri; 5 geçiş: 3:178, 12:65, 13:8, 48:4, 74:31)"
+      },
+      {
+        "lemma": "zaAda",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "İlmimi artır / azabını katla / süreyi artır (زِدْنِى 20:114, فَزِدْهُ 38:61, زِدْ 73:4 — I. bab emir; 3 geçiş)"
+      },
+      {
+        "lemma": "zaAda",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Üzerine ekleyip artırdı (زَادَ / زَادَتْ / زَادُوا۟ / زِدْنَا — I. bab mâzi; 18 geçiş)"
+      },
+      {
+        "lemma": "zaAda",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Üzerine ekleyip artırır / artıracağız (يَزِيدُ / نَزِيدُ / أَزِيدُ / تَزِيدُ / يَزِدْ / نَزِدْ / تَزِدْ — I. bab muzâri; 28 geçiş)"
+      }
+    ],
+    "irab_default": "Mevcut miktarın, sürenin veya içsel durumun üzerine fazlalık ekleyip artırmak (ز-ي-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:247",
+          "7:69",
+          "11:52",
+          "12:65",
+          "13:8",
+          "18:25",
+          "35:1",
+          "37:147",
+          "73:4"
+        ],
+        "text": "Fiziksel, niceliksel ve yaratılışa dair artış ölçüsü: Bir deve yükü tahıl artırma (12:65), rahimlerin eksiltip artırdığı (13:8), üç yüz yıla dokuz yıl eklenmesi (18:25), yüz bin veya daha fazla topluluk (37:147), gece kıyam süresini biraz artırma (73:4), Tâlût'a bilgi-beden genişliği, Âd'a yaratılış fazlası, bağışlanma dileyenlere güç üstüne güç ve Allah'ın yaratılışta dilediği kadar artırması (2:247, 7:69, 11:52, 35:1)."
+      },
+      {
+        "ayahs": [
+          "3:173",
+          "8:2",
+          "9:124",
+          "17:109",
+          "18:13",
+          "19:76",
+          "20:114",
+          "33:22",
+          "47:17",
+          "48:4",
+          "74:31"
+        ],
+        "text": "İman, hidayet, ilim ve huşuda yükselen artış: Tehdit, kuşatma, vahiy ayetleri ve kalbe inen sekîne karşısında imanı, teslimiyeti, hidayeti ve huşusu katlanarak büyüyen inananlar (3:173, 8:2, 9:124 [2x], 17:109, 18:13, 19:76, 33:22, 47:17, 48:4, 74:31) ile elçiye öğretilen dua: 'Rabbim, ilmimi artır' (20:114)."
+      },
+      {
+        "ayahs": [
+          "2:58",
+          "4:173",
+          "7:161",
+          "10:26",
+          "14:7",
+          "24:38",
+          "35:30",
+          "42:20",
+          "42:23",
+          "42:26",
+          "50:35",
+          "74:15"
+        ],
+        "text": "Şükür, ihsan ve salih amel karşılığında lütuf ve ahiret fazlası: Şükredenlere kesin artış yasası (14:7), iyilik edenlere ve ahiret ekinini isteyenlere hak edilen tam karşılığın üzerine Allah'ın lütfundan eklenen fazlalık ve katımızdaki mezîd (2:58, 4:173, 7:161, 10:26, 24:38, 35:30, 42:20,23,26, 50:35) karşısında nankör tamahkârın doymadan daha fazlasını umması (74:15)."
+      },
+      {
+        "ayahs": [
+          "2:10",
+          "3:90",
+          "3:178",
+          "4:137",
+          "5:64",
+          "5:68",
+          "9:37",
+          "9:47",
+          "9:125",
+          "11:63",
+          "11:101",
+          "17:41",
+          "17:60",
+          "17:82",
+          "25:60",
+          "35:39",
+          "35:42",
+          "71:6",
+          "71:21",
+          "71:24",
+          "71:28",
+          "72:6"
+        ],
+        "text": "Hastalıklı kalplerde ve direnenlerde ters tepki artışı: Aynı vahiy, davet ve mühlet karşısında kendi tercihiyle hastalığı, kirliliği, gerçeği örtmeyi, suç yükünü, azgınlığı, nefreti, kaçışı, hüsranı, bozgunu ve bunalımı katlanarak büyüyenlerin durumu (2:10, 3:90,178, 4:137, 5:64,68, 9:37,47,125, 11:63,101, 17:41,60,82, 25:60, 35:39 [2x], 35:42, 71:6,21,24,28, 72:6)."
+      },
+      {
+        "ayahs": [
+          "16:88",
+          "17:97",
+          "38:61",
+          "50:30",
+          "78:30"
+        ],
+        "text": "Ahirette katlanan azap ve ateşin 'daha fazlası var mı?' sorgusu: Allah yolundan alıkoyanlara azap üstüne azap eklenmesi (16:88), ateş dindikçe alevin artırılması (17:97), saptıran önderler için iki kat azap talebi (38:61), ateş yurdunun 'daha fazlası var mı?' sorusu (50:30) ve kesin hüküm: 'Tadın, artık size azaptan başka bir şey artırmayacağız' (78:30)."
+      }
+    ],
+    "context_default": "Mevcut miktarın, sürenin veya içsel yönelimin üzerine eklenerek artma ve katlanma mekanizması."
   }
 }

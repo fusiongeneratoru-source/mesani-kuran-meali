@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 73 / 100 Kök (Toplam Mühürlü: 178 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 74 / 100 Kök (Toplam Mühürlü: 179 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -91,7 +91,7 @@
 | 71 | 175 | `ق-ض-ي` | `K-D-Y` | **63** | 59 | 2:117 | Kazâ / Kâdî / Makdî ve Kâdiye (Bir İşi Kusursuzca Tamamlamak, Kesin Yargı Kesmek, İnfaz Etmek ve Sonlandırmak) | ✅ **MÜHÜRLÜ** |
 | 72 | 176 | `ع-و-د` | `A-W-D` | **63** | 58 | 2:275 | Avd / İâde / Îd / Meâd ve Âd Kavmi (İlk Hâline ve Yaratılışa Geri Dönmek, Tekrarlamak, Dönüş Yurdu ve Eski Âd Kavmi) | ✅ **MÜHÜRLÜ** |
 | 73 | 177 | `ذ-و-ق` | `Z-W-K` | **63** | 61 | 3:106 | Zevk / İzâka / Zâika (Somut Tatmadan Varoluşsal Deneyime: Ölümü, Rahmeti, Eylemlerin Vebâlini ve Karşılığı Bizzat Tatmak) | ✅ **MÜHÜRLÜ** |
-| 74 | 178 | `ز-ي-د` | `Z-Y-D` | **61** | 59 | 2:10 | Analiz Bekliyor (zaAda, {zodaAdu, ziyaAdap) | ⏳ *Bekliyor* |
+| 74 | 178 | `ز-ي-د` | `Z-Y-D` | **61** | 59 | 2:10 | Ziyâde / İzdiyâd / Mezîd (Mevcut Ölçü ve Yönelimin Üzerine Eklenerek Artmak, Katlanmak ve Fazlasını Vermek) | ✅ **MÜHÜRLÜ** |
 | 75 | 179 | `م-س-س` | `M-S-S` | **61** | 57 | 2:80 | Analiz Bekliyor (mas~a, mas~, yatamaA^s~a) | ⏳ *Bekliyor* |
 | 76 | 180 | `غ-ي-ب` | `G-Y-B` | **60** | 59 | 2:3 | Analiz Bekliyor (gayob, guyuwb, gaA^}ibiyn) | ⏳ *Bekliyor* |
 | 77 | 181 | `ف-ت-ن` | `F-T-N` | **60** | 58 | 2:102 | Analiz Bekliyor (fitonap, fatanu, futuwn) | ⏳ *Bekliyor* |
