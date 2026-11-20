@@ -2489,5 +2489,157 @@
       }
     ],
     "context_default": "Gecelenen somut barınak, yuva, hane çatısı, güvenli merkez veya gece vakti eylemi mekanizması."
+  },
+  "ر-ج-ل": {
+    "buckwalter": "rjl",
+    "slug": "ricl_racul_ayak_yaya_yetiskin_rjl",
+    "concept_name": "Ricl / Racil / Racul ve Ricâl (Yürüme Organı Ayak, Yaya Hareket ve Ergin Yetişkin Erkek İnsan)",
+    "keywords": [
+      "ricl",
+      "ayak",
+      "bacak",
+      "yaya",
+      "racul",
+      "rical",
+      "erkek",
+      "yetiskin"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "rajil",
+        "label": "Yayaların / piyadelerin (وَرَجِلِكَ — isim; 17:64'te atlı güçler خَيْل karşısında yaya güçler)"
+      },
+      {
+        "lemma": "rijol",
+        "features_contains": [
+          "MD"
+        ],
+        "label": "İki ayak üzerinde (رِجْلَيْنِ — ikil isim; 24:45'te iki ayakla yürüyen canlılar)"
+      },
+      {
+        "lemma": "rijol",
+        "features_contains": [
+          "FP"
+        ],
+        "label": "Ayaklar (أَرْجُل / أَرْجُلَكُمْ / أَرْجُلِهِمْ — kırık çoğul isim; arınma, yürüme, yerden gelen rızık/yaptırım ve hesap günü tanıklığı)"
+      },
+      {
+        "lemma": "rijol",
+        "label": "Ayağınla (بِرِجْلِكَ — tekil isim; 38:42'de Eyyûb'un ayağını yere vurması)"
+      },
+      {
+        "lemma": "rijaAl",
+        "features_contains": [
+          "INDEF",
+          "ACC"
+        ],
+        "label": "Yaya olarak (2:239, 22:27) veya yetişkin erkekler (4:1, 4:176, 7:48, 12:109, 16:43, 21:7, 38:62) — رِجَالًا (çoğul mansûb isim)"
+      },
+      {
+        "lemma": "rijaAl",
+        "label": "Yetişkin erkekler (رِجَال / ٱلرِّجَال / رِجَالِكُمْ — çoğul isim; aile, miras, toplumsal sorumluluk ve sadakat sahibi kimseler)"
+      },
+      {
+        "lemma": "rajul",
+        "features_contains": [
+          "MD"
+        ],
+        "label": "İki yetişkin erkek / iki adam (رَجُلَانِ / رَجُلَيْنِ — ikil isim; 2:282, 5:23, 16:76, 18:32, 28:15)"
+      },
+      {
+        "lemma": "rajul",
+        "label": "Yetişkin bir erkek / bir adam (رَجُل / رَجُلًا — tekil isim; hukuk, insan elçi, kıssa veya temsil öznesi)"
+      }
+    ],
+    "irab_default": "Ayak/bacak, yaya yürüyen veya ergin yetişkin erkek insan (ر-ج-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:239",
+          "5:6",
+          "5:33",
+          "5:66",
+          "6:65",
+          "7:124",
+          "7:195",
+          "17:64",
+          "20:71",
+          "22:27",
+          "24:24",
+          "24:45",
+          "26:49",
+          "29:55",
+          "36:65",
+          "38:42",
+          "60:12"
+        ],
+        "text": "Fiziksel ayak/bacak organı ve yaya hareket (رِجْل / أَرْجُل / رِجَالًا / رَجِل): İki ayakla yürüme, putların yürüyen ayaklarının olmaması ve Eyyûb'un ayağını yere vurması (7:195, 24:45, 38:42), yöneliş öncesi ayakların temizlenmesi (5:6), korku hâlinde veya büyük toplanmaya yaya olarak yürüme ile atlı-yaya güçler (2:239, 17:64, 22:27), ayakların altından gelen bereket veya yaptırım (5:66, 6:65, 29:55), çapraz kesme tehdidi/cezası (5:33, 7:124, 20:71, 26:49), ellerle ayaklar arasında iftira uydurmama (60:12) ve hesap günü ayakların tanıklığı (24:24, 36:65)."
+      },
+      {
+        "ayahs": [
+          "2:228",
+          "2:282",
+          "4:1",
+          "4:7",
+          "4:12",
+          "4:32",
+          "4:34",
+          "4:75",
+          "4:98",
+          "4:176",
+          "7:81",
+          "24:31",
+          "27:55",
+          "29:29",
+          "33:4",
+          "48:25"
+        ],
+        "text": "Aile, miras, tanıklık, toplumsal sorumluluk ve cinsiyet dengesi (رَجُل / رِجَال ↔ ٱمْرَأَة / نِسَآء): Tek özden yayılan erkekler ve kadınlar (4:1), miras, kazanç, borç tanıklığı ve aile geçim sorumluluğu (2:228,282, 4:7,12,32,34,176, 33:4), ezilen erkek, kadın ve çocukların korunması ile fark edilmeyen inananların güvenliği (4:75,98, 48:25), kamusal edep ve ayak vurarak gizli süsü duyurmama ilkesi (24:31) ile Lût kavmindeki fıtrata aykırı sapkınlık eleştirisi (7:81, 27:55, 29:29)."
+      },
+      {
+        "ayahs": [
+          "6:9",
+          "7:63",
+          "7:69",
+          "7:155",
+          "10:2",
+          "12:109",
+          "16:43",
+          "17:47",
+          "21:7",
+          "23:25",
+          "23:38",
+          "25:8",
+          "33:40",
+          "34:7",
+          "34:43",
+          "43:31"
+        ],
+        "text": "Vahiy alan elçilerin insanî kimliği ve yadsıyanların itirazı (رَجُل / رِجَالًا نُّوحِىٓ إِلَيْهِم): Tüm elçilerin göksel varlık değil, toplumların içinden seçilmiş birer insan olması ve göksel bir görevli gönderilse bile insan biçiminde kılınacağı ilkesi (6:9, 7:63,69, 10:2, 12:109, 16:43, 21:7, 33:40), Musa'nın seçtiği yetmiş kişi (7:155) ve yadsıyanların elçiyi 'büyülenmiş, delilik tutmuş veya sıradan bir adam' diyerek küçümseyip seçkin servet sahiplerini beklemesi (17:47, 23:25,38, 25:8, 34:7,43, 43:31)."
+      },
+      {
+        "ayahs": [
+          "5:23",
+          "7:46",
+          "7:48",
+          "9:108",
+          "11:78",
+          "16:76",
+          "18:32",
+          "18:37",
+          "24:37",
+          "28:15",
+          "28:20",
+          "33:23",
+          "36:20",
+          "38:62",
+          "39:29",
+          "40:28",
+          "72:6"
+        ],
+        "text": "Ahlakî duruş, sadakat örnekleri ve kıssa/temsil şahsiyetleri: Ticaretin Yaratıcı'yı anmaktan alıkoyamadığı, arınmayı seven ve sözüne sadık kimseler (9:108, 24:37, 33:23), şehrin ucundan koşup uyaran ve Firavun ailesinden hakikati savunan cesur kişiler (5:23, 28:20, 36:20, 40:28), Lût'un aradığı aklıselim insan ve A'râf'taki/ahiretteki yüzleşmeler (7:46,48, 11:78, 38:62), insanlarla görünmeyen varlıklar arasındaki yanlış sığınma (72:6) ile ibretlik iki adam temsilleri (16:76, 18:32,37, 28:15, 39:29)."
+      }
+    ],
+    "context_default": "Yürüme organı ayak/bacak, yaya hareket veya ergin yetişkin erkek insan mekanizması."
   }
 }

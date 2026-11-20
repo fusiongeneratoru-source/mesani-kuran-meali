@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 46 / 100 Kök (Toplam Mühürlü: 151 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 47 / 100 Kök (Toplam Mühürlü: 152 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -64,7 +64,7 @@
 | 44 | 148 | `ب-أ-س` | `B-E-S` | **73** | 70 | 2:90 | Be's / Be'sâ / Bi'se ve İbtiâs (Sert Çarpışma Gücü, Çetin Yaptırım, Geçim Şiddeti ve Ağır Kınama Yargısı) | ✅ **MÜHÜRLÜ** |
 | 45 | 149 | `ر-ض-و` | `R-D-W` | **73** | 64 | 2:120 | Rızâ / Rıdvân / Mardât / Terâdî ve İrtidâ (Dirençsiz Gönül Kabulü, Karşılıklı Hukukî Onay ve İlahî Hoşnutluk) | ✅ **MÜHÜRLÜ** |
 | 46 | 150 | `ب-ي-ت` | `B-Y-T` | **73** | 54 | 2:125 | Beyt / Buyût / Beyât ve Tebyît (Gecelenen Barınak, Hane Çatısı, Güvenli Merkez, Geceleme ve Gece Kurgulama) | ✅ **MÜHÜRLÜ** |
-| 47 | 151 | `ر-ج-ل` | `R-C-L` | **73** | 66 | 2:228 | Analiz Bekliyor (rajul, rijaAl, rijol) | ⏳ *Bekliyor* |
+| 47 | 151 | `ر-ج-ل` | `R-C-L` | **73** | 66 | 2:228 | Ricl / Racil / Racul ve Ricâl (Yürüme Organı Ayak, Yaya Hareket ve Ergin Yetişkin Erkek İnsan) | ✅ **MÜHÜRLÜ** |
 | 48 | 152 | `غ-ن-ي` | `G-N-Y` | **73** | 72 | 2:263 | Analiz Bekliyor (>agonato, ganiY~, >agonaY`) | ⏳ *Bekliyor* |
 | 49 | 153 | `ف-ر-ق` | `F-R-K` | **72** | 66 | 2:50 | Analiz Bekliyor (fariyq, far~aqu, tafar~aqa) | ⏳ *Bekliyor* |
 | 50 | 154 | `ي-م-ن` | `Y-M-N` | **71** | 63 | 2:224 | Analiz Bekliyor (yamiyn, >ayoman, mayomanap) | ⏳ *Bekliyor* |
