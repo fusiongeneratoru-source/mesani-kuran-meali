@@ -3102,5 +3102,162 @@
       }
     ],
     "context_default": "Güçlü sağ el, sağ yön, sağ elle düğümlenen and/sözleşme veya bereket ve kurtuluş tarafı mekanizması."
+  },
+  "م-ت-ع": {
+    "buckwalter": "mtE",
+    "slug": "meta_gecici_yarar_esya_temettu_mte",
+    "concept_name": "Metâ / Temtî / Temettu ve İstimtâ (Somut Kullanım Eşyası, Geçim Desteği ve Belirli Vadeli Faydalanma)",
+    "keywords": [
+      "meta",
+      "esya",
+      "azik",
+      "gecici yarar",
+      "temettu",
+      "istimta",
+      "gecim destegi",
+      "faydalanma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{sotamotaEa",
+        "label": "Yararlandı / yararlandınız / tüketip harcadınız (ٱسْتَمْتَعَ / ٱسْتَمْتَعْتُم — X. bab mâzi fiil; 4:24 evlilik birlikteliği, 6:128 karşılıklı çıkar, 9:69 ve 46:20 dünya payını tüketme)"
+      },
+      {
+        "lemma": "tamat~aEa",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "İki ziyaret arasındaki kolaylık ve serbestlikten yararlandı (تَمَتَّعَ — V. bab mâzi fiil; 2:196)"
+      },
+      {
+        "lemma": "tamat~aEa",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Kısa ve sayılı bir süre yararlanıp keyif sürün (تَمَتَّعُوا۟ / تَمَتَّعْ — V. bab emir; 11:65, 14:30, 16:55, 30:34, 39:8, 51:43, 77:46'da geçicilik uyarısı)"
+      },
+      {
+        "lemma": "tamat~aEa",
+        "label": "Geçici dünya nimetlerinden yararlanıp oyalanırlar (يَتَمَتَّعُونَ / وَيَتَمَتَّعُوا۟ — V. bab muzâri fiil; 15:3, 29:66, 47:12)"
+      },
+      {
+        "lemma": "m~at~aEo",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Yararlandırılıyorlardı / yararlandırılırsınız (يُمَتَّعُونَ / تُمَتَّعُونَ — II. bab edilgen muzâri; 26:207, 33:16)"
+      },
+      {
+        "lemma": "m~at~aEo",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Onlara adil geçim desteği ve tazminat verin (وَمَتِّعُوهُنَّ / فَمَتِّعُوهُنَّ — II. bab emir; 2:236, 33:49)"
+      },
+      {
+        "lemma": "m~at~aEo",
+        "label": "Belirli bir süreye kadar faydalandırdı / faydalandırır / geçim desteği verir (مَتَّعْنَا / يُمَتِّعْكُم / أُمَتِّعْكُنَّ — II. bab fiil)"
+      },
+      {
+        "lemma": "mata`E",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Eşyalarınız / teçhizatınız (وَأَمْتِعَتِكُمْ — kırık çoğul isim; 4:102)"
+      },
+      {
+        "lemma": "mata`E",
+        "label": "Kullanım eşyası, yol azığı, geçim desteği veya geçici dünya yararlanması (مَتَٰع — tekil isim)"
+      }
+    ],
+    "irab_default": "Somut kullanım eşyası, geçim desteği veya belirli bir vadeye bağlı faydalanma (م-ت-ع kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:102",
+          "5:96",
+          "12:17",
+          "12:65",
+          "12:79",
+          "13:17",
+          "16:80",
+          "24:29",
+          "33:53",
+          "56:73",
+          "79:33",
+          "80:32"
+        ],
+        "text": "Somut fiziksel eşya, araç-gereç, yol yükü ve yaşam azığı (مَتَٰع / أَمْتِعَة): Savaşta silahların yanındaki teçhizat ve eşyalar (4:102), kardeşlerin kervan yükleri ve su kabı (12:17,65,79), eritilen madenden yapılan günlük gereçler (13:17), yün ve tüyden ev eşyası (16:80), eşya bulunan boş yapılar ve ev içi gereç isteme adabı (24:29, 33:53) ile deniz avı, ateş ve yeryüzü nimetlerinden yolcuların, insanların ve hayvanların somut yararlanması (5:96, 56:73, 79:33, 80:32)."
+      },
+      {
+        "ayahs": [
+          "2:196",
+          "2:236",
+          "2:240",
+          "2:241",
+          "4:24",
+          "33:28",
+          "33:49"
+        ],
+        "text": "Aile, evlilik, boşanma ve ziyaret kolaylığı hukuku: Boşanan kadınlara güce göre adil geçim desteği ve onurlu ayrılış tazminatı verilmesi (2:236, 2:241, 33:28, 33:49), eşini kaybeden kadınların evlerinden çıkarılmaksızın bir yıllık geçim güvencesi (2:240), evlilik birlikteliğinde kadının mehir hakkı (4:24) ile umreden büyük ziyarete kadar süreli serbestlikten yararlanma kuralı (2:196)."
+      },
+      {
+        "ayahs": [
+          "2:36",
+          "2:126",
+          "3:14",
+          "3:185",
+          "3:197",
+          "4:77",
+          "7:24",
+          "9:38",
+          "10:23",
+          "10:70",
+          "10:98",
+          "11:3",
+          "11:48",
+          "13:26",
+          "15:88",
+          "16:117",
+          "20:131",
+          "21:44",
+          "21:111",
+          "25:18",
+          "26:205",
+          "26:207",
+          "28:60",
+          "28:61",
+          "31:24",
+          "33:16",
+          "36:44",
+          "37:148",
+          "40:39",
+          "42:36",
+          "43:29",
+          "43:35",
+          "57:20"
+        ],
+        "text": "Dünya hayatının kalıcı yurt değil sınırlı bir yararlanma süreci olması (مَتَٰعٌ إِلَىٰ حِينٍ / قَلِيلٌ / ٱلْغُرُور): İnsanlığın yeryüzünde belirli bir vakte kadar geçim ve yararlanması (2:36, 7:24, 10:98, 11:3, 21:111, 36:44, 37:148), kalıcı ahiret yurdu yanında dünya nimetlerinin azlığı, geçiciliği ve aldatıcı çekiciliği (3:14,185,197, 4:77, 9:38, 10:23,70, 13:26, 15:88, 16:117, 20:131, 28:60-61, 40:39, 42:36, 43:35, 57:20) ile uzun ömür ve nimetlerle sınanan toplulukların sonunda hesaba çekilmesi (2:126, 11:48, 21:44, 25:18, 26:205,207, 31:24, 33:16, 43:29)."
+      },
+      {
+        "ayahs": [
+          "6:128",
+          "9:69",
+          "11:65",
+          "14:30",
+          "15:3",
+          "16:55",
+          "29:66",
+          "30:34",
+          "39:8",
+          "46:20",
+          "47:12",
+          "51:43",
+          "77:46"
+        ],
+        "text": "Geçici keyif ve tüketimle oyalanma uyarısı (تَمَتَّعُوا۟ / ٱسْتَمْتَعُوا۟): Sayılı günler veya kısa bir vade boyunca yiyip içip oyalanan, dünya payını ve temiz nimetleri sırf bu hayatta tüketip harcayan (9:69, 11:65, 14:30, 15:3, 16:55, 29:66, 30:34, 39:8, 46:20, 47:12, 51:43, 77:46) ile birbirinden çıkar sağlayarak sapanların (6:128) yakında gerçeği göreceği uyarısı."
+      }
+    ],
+    "context_default": "Somut kullanım eşyası, geçim desteği veya belirli bir vadeye bağlı geçici faydalanma mekanizması."
   }
 }
