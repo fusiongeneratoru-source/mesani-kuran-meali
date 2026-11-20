@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 70 / 100 Kök (Toplam Mühürlü: 175 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 71 / 100 Kök (Toplam Mühürlü: 176 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -88,7 +88,7 @@
 | 68 | 172 | `م-و-ه` | `M-W-H` | **63** | 60 | 2:22 | Mâ' (Su: Gökten İnen Yaşam Döngüsü, Kozmolojik-Biyolojik Yaratılış, Arınma, Paylaşım Hukuku, Tufan ve Ahiret Karşıtlığı) | ✅ **MÜHÜRLÜ** |
 | 69 | 173 | `ت-ل-و` | `T-L-W` | **63** | 61 | 2:44 | Tilavet / Telâ (Ardı Ardına İzlemek, Vahyi ve Haberleri Eksiksiz Okuyup Aktarmak) | ✅ **MÜHÜRLÜ** |
 | 70 | 174 | `س-ح-ر` | `S-H-R` | **63** | 59 | 2:102 | Sihir / Sâhir / Meshûr ve Seher (Asl 2: Göz Boyama ve Algıyı Hakikatten Çevirme; Asl 1: Beşer İç Organı; Asl 3: Fecir Öncesi Seher Vakti) | ✅ **MÜHÜRLÜ** |
-| 71 | 175 | `ق-ض-ي` | `K-D-Y` | **63** | 59 | 2:117 | Analiz Bekliyor (qaDaY`^, m~aqoDiy~, qaAD) | ⏳ *Bekliyor* |
+| 71 | 175 | `ق-ض-ي` | `K-D-Y` | **63** | 59 | 2:117 | Kazâ / Kâdî / Makdî ve Kâdiye (Bir İşi Kusursuzca Tamamlamak, Kesin Yargı Kesmek, İnfaz Etmek ve Sonlandırmak) | ✅ **MÜHÜRLÜ** |
 | 72 | 176 | `ع-و-د` | `A-W-D` | **63** | 58 | 2:275 | Analiz Bekliyor (EaAd2, EaAda, >uEiydu) | ⏳ *Bekliyor* |
 | 73 | 177 | `ذ-و-ق` | `Z-W-K` | **63** | 61 | 3:106 | Analiz Bekliyor (*aAqu, >a*aAqa, *aA^}iqap) | ⏳ *Bekliyor* |
 | 74 | 178 | `ز-ي-د` | `Z-Y-D` | **61** | 59 | 2:10 | Analiz Bekliyor (zaAda, {zodaAdu, ziyaAdap) | ⏳ *Bekliyor* |

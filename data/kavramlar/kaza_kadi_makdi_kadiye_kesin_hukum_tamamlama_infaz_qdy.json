@@ -1,0 +1,1322 @@
+{
+  "root": "ق-ض-ي",
+  "root_latin": "K-D-Y (qDy)",
+  "concept_name": "Kazâ / Kâdî / Makdî ve Kâdiye (Bir İşi Kusursuzca Tamamlamak, Kesin Yargı Kesmek, İnfaz Etmek ve Sonlandırmak)",
+  "rank": 175,
+  "total_occurrences": 63,
+  "unique_ayahs_count": 59,
+  "unified_core_mechanism": "Belirsizliği ve askıda kalmışlığı keserek bir işi sağlam biçimde kusursuzca tamamlamak, kesin hükme bağlamak ve yöneldiği hedefe eksiksiz infaz etmek (doğrudan geçişlide yaratma-buyruk-tamamlama; بَيْنَ ile adil yargı; عَلَىٰ ile ölümle sonlandırma; إِلَىٰ ile kesin bildirim ve ulaştırma).",
+  "physical_core": "Bir işi sağlamlaştırıp kusursuzca tamamlamak, kesip ayırarak sonuca bağlamak ve hedefine eksiksiz infaz etmek (41:12 yedi göğü kusursuzca kurmak, 28:29 süreyi sonuna dek doldurmak, 28:15 bir darbeyle hayatı sonlandırmak, 39:69 hakla son yargıyı kesmek; İbn Fâris'in tek aslı: إِحْكَامُ أَمْرٍ وَإِتْقَانُهُ وَإِنْفَاذُهُ لِجِهَتِهِ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökü tek ve sahih bir asılda toplar: 'Bir işi sağlamlaştırmak, kusursuz biçimde yetkinleştirmek ve yöneldiği hedefe infaz etmek' (إِحْكَامُ أَمْرٍ وَإِتْقَانُهُ وَإِنْفَاذُهُ لِجِهَتِهِ). 41:12'deki فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ ayetini 'yaratılışlarını kusursuzca sağlamlaştırdı' diye açıklar; kadı (القَاضِي) da hükümleri sağlamlaştırıp infaz ettiği için bu adı alır.",
+    "lisan_al_arab": "İbn Manzûr, kökün temelinin 'kesmek, ayırmak ve sonuna erdirip tamamlamak' (الْقَطْعُ وَالْفَصْلُ وَالتَّمَامُ) olduğunu belirtir. Sağlamca yapılan, tamamlanan, eda edilen, vacip kılınan veya kesin infaz edilen her iş 'kudî' (قُضِىَ) sayılır. 69:27'deki الْقَاضِيَةَ sözcüğünün, hayatı kesip sonlandıran nihai ölüm anlamına geldiğini kaydeder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî, kazâyı 'bir işi söz veya fiille kesin olarak ayırıp sonuca bağlamak' (فَصْلُ الْأَمْرِ قَوْلًا أَوْ فِعْلًا) diye tanımlar ve ilâhî-beşerî ayrımını çizer: ilâhî sözde kesin emir ve hüküm (17:23), ilâhî fiilde kusursuz yaratma ve takdir (41:12); beşerî fiilde ise bir süreyi, borcu, görevi veya ihtiyacı sonuna kadar yerine getirip bitirmek (28:29, 33:37).",
+    "arbitration_decision": "İbn Fâris'in tek aslı ('sağlamlaştırıp kusursuzca tamamlamak ve hedefine infaz etmek'), Proto-Sami *q-ḍ-y/*q-ṣ́-y ('kesip ayırmak -> kesin hükme bağlayıp bitirmek') mirası ve Kur'an'daki harfi cer haritası (doğrudan geçişli, بَيْنَ, عَلَىٰ, إِلَىٰ) tek mekanizmayı mühürler: 'belirsizliği kesip işi eksiksiz tamamlama ve nihai karara bağlayıp infaz etme'."
+  },
+  "semitic_cognates": {
+    "hebrew": "BDB H7096 קָצָה (qāṣāh: 'kesip ayırmak, uç/sınır koyup bitirmek') ve קָצֶה (qāṣeh: 'uç, son, sınır') — Proto-Sami *ṣ́ > Arapça ض (ḍ) ve İbranice צ (ṣ) düzenli ses yasası üzerinden somut 'kesip sınır koyma' çekirdeğini korur.",
+    "aramaic_and_syriac": "Kuzeybatı Sami alanında somut kesme/uç anlamı ק-צ-ה çizgisinde görülürken, hukukî yargı için genellikle d-y-n ve p-s-q kökleri tercih edilir.",
+    "akkadian": "Doğu Sami Akadcasında karar ve yargı için parāsu ('kesip ayırmak -> hüküm vermek') paralel semantik yolu izler; somut kesip bitirme alanı ile yargı arasındaki bilişsel köprü tüm Sami ailesinde ortaktır.",
+    "geez_and_esa": "Eski Güney Arapça (Sebece) qḍy ('hukukî davayı çözmek, yargılamak, kesin karar vermek' — Arapça قَضَىٰ ile birebir hukukî paralellik); Klasik Ge'ez'de tamamlama ve hükme bağlama alanı ile uyumlu Güney Sami mirası.",
+    "note": "Proto-Sami *q-ṣ́-y kökünün somut fiziksel 'kesip ayırmak, sınırını çizip sonlandırmak' çekirdeği İbranice qāṣāh'da korunurken, Sebece (qḍy) ve Arapçada (قَضَىٰ) bu somut kesme eylemi 'belirsizliği ortadan kaldırıp bir işi kusursuzca tamamlamak, kesin yargı kesmek ve infaz etmek' anlam bütünlüğüne evrilmiştir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "خ-ل-ف & ف-ر-ق [فَٱخْتَلَفُوا۟ / وَمَا تَفَرَّقُوٓا۟] (İhtilaf, Bölünme ve Şüphede Kalmak ↔ Hak ve Adaletle Kesin Karara Bağlamak قُضِىَ / يَقْضِى بَيْنَهُمْ: 10:19, 10:93, 11:110, 41:45, 42:14, 45:17)",
+      "ن-ظ-ر [وَلَا تُنظِرُونِ / لَا يُنظَرُونَ] & أ-ج-ل [كَلِمَةٌ سَبَقَتْ إِلَىٰٓ أَجَلٍ مُّسَمًّى] (Mühlet Verip Ertelemek ↔ İşin Kesin Olarak Kapanıp İnfaz Edilmesi قُضِىَ ٱلْأَمْرُ: 6:8, 10:11, 10:19, 10:71, 42:14)",
+      "ظ-ل-م [وَهُمْ لَا يُظْلَمُونَ] & ب-ط-ل [وَخَسِرَ هُنَالِكَ ٱلْمُبْطِلُونَ] (Haksızlık ve Bâtıl ↔ Hak ve Adaletle Verilen İlâhî Yargı قُضِىَ بِٱلْحَقِّ / بِٱلْقِسْطِ: 10:47, 10:54, 39:69, 40:20, 40:78)",
+      "ت-ر-ك / ن-ق-ص [كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ] (Emredilen Yükümlülüğü Henüz Yerine Getirmemek ↔ Süreyi ve Sorumluluğu Tamamlayıp Bitirmek: 28:29, 33:23, 80:23)"
+    ],
+    "key_ayahs": [
+      "41:12 (فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ فِى يَوْمَيْنِ)",
+      "40:20 (وَٱللَّهُ يَقْضِى بِٱلْحَقِّ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ)",
+      "35:36 & 69:27 (لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ / يَٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ)",
+      "80:23 (كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ)"
+    ],
+    "reverse_stress_test": "İhtilafın askıda kalması, mühlet verilip ertelenmesi, yükümlülüğün yarım bırakılması (80:23) ve ölümle sonlandırılmama (35:36) tersine çevrildiğinde, istisnasız 'belirsizliği kesip bir işi kusursuzca tamamlamak, kesin hükme bağlamak ve infaz etmek' çekirdeği sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "قَضَىٰ (K-D-Y) vs حَكَمَ (H-K-M) [4:65, 27:78]",
+      "قَضَىٰ (K-D-Y) vs قَدَّرَ (Q-D-R) [41:12] & أَمَرَ (A-M-R) [80:23]",
+      "قَضَىٰ (K-D-Y) vs وَفَّىٰ / أَوْفَىٰ (W-F-Y) [22:29] & تَوَفَّىٰ (W-F-Y) [6:60, 39:42]",
+      "قَضَىٰ (K-D-Y) vs فَصَلَ (F-S-L) [42:21] & حَتْم (H-T-M) [19:71]"
+    ],
+    "mechanical_difference": "4:65 ve 27:78'de حَكَمَ (hakemlik etmek, ölçü ve ilke koymak) yargının ilkesel otoritesini, قَضَىٰ ise o ilkeye dayanarak davayı kesin kararla kapatıp infaz etmeyi (يَقْضِى بَيْنَهُم بِحُكْمِهِۦ) gösterir. 41:12'de تَقْدِير ölçülü tasarım ve planlamayı, فَقَضَىٰهُنَّ ise o tasarımı kusursuz biçimde tamamlayıp var kılmayı ifade eder. 80:23'te أَمَرَهُۥ verilen görevi, لَمَّا يَقْضِ ise o görevi henüz eksiksiz yerine getirip tamamlamamış olmayı vurgular. 22:29'da لْيَقْضُوا۟ تَفَثَهُمْ kir ve hazırlık sürecini bitirip sonlandırmayı, وَلْيُوفُوا۟ نُذُورَهُمْ ise adakları tastamam ödemeyi ayırır. 19:71'de حَتْمًا مَّقْضِيًّا geri dönüşsüz kesinleşmiş hükmü pekiştirir."
+  },
+  "anchor_ayahs": [
+    "2:117 & 3:47 & 19:35 & 40:68 & 41:12 (إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ / فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ — ilâhî iradenin kesin kararı ve evreni kusursuzca kurup tamamlama çıpası)",
+    "40:20 & 39:69 & 10:47 & 17:23 (وَٱللَّهُ يَقْضِى بِٱلْحَقِّ / وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ / وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ — tek hak yargıç olarak Allah'ın adalet hükmü ve kesin kulluk buyruğu çıpası)",
+    "28:15 & 35:36 & 39:42 & 43:77 & 69:27 (فَقَضَىٰ عَلَيْهِ / لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ / يَٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ — 'عَلَىٰ' harfi cerriyle ölümle sonlandırma ve kökten bitirici son çıpası)",
+    "20:72 & 28:29 & 33:23 & 80:23 (فَٱقْضِ مَآ أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَا / فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ / لَمَّا يَقْضِ مَآ أَمَرَهُۥ — dünyevî hükmün geçici sınırı ile beşerî süre, ahit ve görevin tamamlanması çıpası)"
+  ],
+  "grammar_and_branch_rules": "1) İlâhî Yaratma, Kozmik Kurgu, Vahiy Bildirimi ve Kesin İnfaz (15 ayet): 'Ol' emriyle var etme (2:117, 3:47, 19:35, 40:68), yedi göğü kusursuzca kurma (41:12), belirli ecel ve takdirin infazı (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile vahyin ve kesin kararın elçilere/İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44). 2) Hak-Adaletle Yargı ve İlâhî-Nebevî Kesin Buyruk (17 ayet / 18 geçiş): Yalnız Allah'a kulluk ve elçinin hükmüne tam teslimiyet (4:65, 17:23, 33:36) ile ihtilaf içindeki toplumlar arasında hak, adalet ve ilâhî hükümle son kararın verilmesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:20 [2x], 40:78, 41:45, 42:14,21, 45:17). 3) İşin Kesin Kapanıp Mühürlenmesi ve Dünyevî Zorbalığın Sınırı (10 ayet / 12 geçiş): Tufan, rüya yorumu ve kıyamet anında 'işin kesin olarak bitirilmesi' (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyuşu (10:71, 20:72 [3x]). 4) Ölümle Sonlandırma ve Kökten Bitirici Son (6 ayet): Mûsâ'nın yumruğu (28:15), Süleyman ve uyuyan canlar üzerinde ölüm hükmü (34:14, 39:42), ateş yurdunda ölümün verilmemesi ve sonlanma yakarışı (35:36, 43:77, 69:27). 5) Görev, Süre, İhtiyaç ve Yükümlülüğü Sonuna Dek Tamamlamak (11 ayet / 12 geçiş): Salât, menâsik ve Kur'an dinleyişinin bitirilmesi (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un gönlündeki kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini doldurması (28:28, 28:29), ahde sadakatle ömrü/adağı tamamlama (33:23), evlilik bağının sonlanması (33:37 [2x]) ve insanın emredileni henüz yerine getirmemesi (80:23).",
+  "derivatives": {
+    "قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / يَقْضِى / تَقْضِى / ٱقْضِ (Form I etken fiil - 36 geçiş: 23 mâzi, 11 muzâri, 2 emir)": "Kesin karara bağlayıp var etmek, kusursuzca kurmak, hakla yargı kesmek, ölümle sonlandırmak veya bir süreyi/görevi/ihtiyacı sonuna dek eksiksiz tamamlamak.",
+    "قُضِىَ / قُضِيَتِ / يُقْضَىٰ (Form I edilgen fiil - 23 geçiş: 20 mâzi, 3 muzâri)": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ), taraflar arasında hak ve adaletle yargı verilmesi (قُضِىَ بَيْنَهُمْ), salâtın/vahyin/ecelin tamamlanması veya ölümle sonlandırılma.",
+    "مَّقْضِيًّا (Form I ism-i mef'ûl - 2 geçiş: 19:21, 19:71)": "Kesin karara bağlanmış, geri dönüşsüz biçimde kesinleşmiş olan (أَمْرًا مَّقْضِيًّا / حَتْمًا مَّقْضِيًّا).",
+    "قَاضٍ (Form I eril ism-i fâil - 1 geçiş: 20:72) & ٱلْقَاضِيَةَ (Form I dişil ism-i fâil - 1 geçiş: 69:27)": "Hükmünü infaz eden yargı kesici (20:72: Firavun'un yalnız bu dünya hayatıyla sınırlı hükmü) ve her şeyi kökten kesip bitiren nihai son/ölüm (69:27)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 117,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:117",
+      "word_position": 5,
+      "target_word_uthmani": "قَضَىٰٓ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeri yoktan var eden Allah'tır. O, bir işin olmasını dilerse, ona ancak \"ol\" der ve olur.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeri yoktan var eden Allah'tır. O, bir işin olmasını dilerse, ona ancak \"ol\" der ve olur.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 2,
+      "ayah": 200,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:200",
+      "word_position": 2,
+      "target_word_uthmani": "قَضَيْتُم",
+      "target_word_rasm": "قضيتم",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "فَإِذَا قَضَيْتُم مَّنَٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanması kulluk ve yönelişinizi bitirdiğinizde, babalarınızı andığınız gibi, hatta ondan daha kuvvetli bir anışla Allah'ı anın. \"Rabbimiz! Bize ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|2MP"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَضَيْتُم مَّنَٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًا فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanması kulluk ve yönelişinizi bitirdiğinizde, babalarınızı andığınız gibi, hatta ondan daha kuvvetli bir anışla Allah'ı anın. \"Rabbimiz! Bize sadece dünyada ver\" diyen insanlar vardır, öylesine, ahirette bir pay yoktur.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 2,
+      "ayah": 210,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:210",
+      "word_position": 12,
+      "target_word_uthmani": "وَقُضِىَ",
+      "target_word_rasm": "وقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, bulut gölgeleri içinde, Allah'ın azabının ve kozmik görevlilerin tepelerine inip işin bitmesini mi bekliyorlar? Bütün işler Allah'a dönecektir.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, bulut gölgeleri içinde, Allah'ın azabının ve kozmik görevlilerin tepelerine inip işin bitmesini mi bekliyorlar? Bütün işler Allah'a dönecektir.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 3,
+      "ayah": 47,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:47",
+      "word_position": 17,
+      "target_word_uthmani": "قَضَىٰٓ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "مَا يَشَآءُ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ",
+      "context_snippet_turkish_tabula_rasa": "Meryem: \"Rabbim! Bana bir insan dokunmamışken nasıl çocuğum olabilir?\" demişti. kozmik görevliler şöyle dediler: \"Allah dilediğini böylece yaratır. Bir işin olm...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem: \"Rabbim! Bana bir insan dokunmamışken nasıl çocuğum olabilir?\" demişti. kozmik görevliler şöyle dediler: \"Allah dilediğini böylece yaratır. Bir işin olmasını dilerse ona ol der ve olur\".",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 4,
+      "ayah": 65,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:65",
+      "word_position": 17,
+      "target_word_uthmani": "قَضَيْتَ",
+      "target_word_rasm": "قضيت",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Hayır; Rabb'ine and olsun ki, aralarında çekiştikleri şeylerde seni hakem tayin edip, sonra senin verdiğin hükmü içlerinde bir sıkıntı duymadan tamamen kabul et...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|2MS"
+      },
+      "ayah_text_arabic_full": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; Rabb'ine and olsun ki, aralarında çekiştikleri şeylerde seni hakem tayin edip, sonra senin verdiğin hükmü içlerinde bir sıkıntı duymadan tamamen kabul etmedikçe güvene ermiş olmazlar.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 4,
+      "ayah": 103,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:103",
+      "word_position": 2,
+      "target_word_uthmani": "قَضَيْتُمُ",
+      "target_word_rasm": "قضيتم",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "irtibat bağını kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, irtibat bağını gereğince kılın. yöneliş ve soruml...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|2MP"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat bağını kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, irtibat bağını gereğince kılın. yöneliş ve sorumluluk bağı şüphesiz, güvene erenlere belirli vakitlerde farz kılınmıştır.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 6,
+      "ayah": 2,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:2",
+      "word_position": 7,
+      "target_word_uthmani": "قَضَىٰٓ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى",
+      "context_snippet_turkish_tabula_rasa": "O, sizi çamurdan yaratan, sonra size bir ecel tayin edendir. Belirli bir ecel O'nun katındadır; sonra bir de şüphe edersiniz.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُۥ ثُمَّ أَنتُمْ تَمْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, sizi çamurdan yaratan, sonra size bir ecel tayin edendir. Belirli bir ecel O'nun katındadır; sonra bir de şüphe edersiniz.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 6,
+      "ayah": 8,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:8",
+      "word_position": 9,
+      "target_word_uthmani": "لَّقُضِىَ",
+      "target_word_rasm": "لقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ona bir kozmik görevli indirilmeli değil miydi?\" dediler. Bir kozmik görevli indirmiş olsaydık iş bitmiş olurdu da onlara göz bile açtırılmazdı.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ona bir kozmik görevli indirilmeli değil miydi?\" dediler. Bir kozmik görevli indirmiş olsaydık iş bitmiş olurdu da onlara göz bile açtırılmazdı.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 6,
+      "ayah": 58,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:58",
+      "word_position": 8,
+      "target_word_uthmani": "لَقُضِىَ",
+      "target_word_rasm": "لقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Acele istediğiniz şey elimde olsaydı, benimle aranızdaki iş bitmiş olurdu.\" Allah zulmedenleri en iyi bilendir.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ وَٱللَّهُ أَعْلَمُ بِٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Acele istediğiniz şey elimde olsaydı, benimle aranızdaki iş bitmiş olurdu.\" Allah zulmedenleri en iyi bilendir.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 6,
+      "ayah": 60,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:60",
+      "word_position": 12,
+      "target_word_uthmani": "لِيُقْضَىٰٓ",
+      "target_word_rasm": "ليقضى",
+      "target_word_literal_irab": "Tamamlanması için / vahyi sana ulaştırılıp bitirilmeden / haklarında ölümle sonlandırılmaz (يُقْضَىٰ — I. bab edilgen muzâri; 3 geçiş: 6:60, 20:114, 35:36)",
+      "context_snippet_arabic": "ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌ مُّسَمًّى ثُمَّ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin sizi ölü gibi uyutan, gündüzün yaptıklarınızı bilen, mukadder olan hayat süreniz doluncaya kadar gündüzleri sizi tekrar kaldıran O'dur. Sonra dönüşünü...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌ مُّسَمًّى ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin sizi ölü gibi uyutan, gündüzün yaptıklarınızı bilen, mukadder olan hayat süreniz doluncaya kadar gündüzleri sizi tekrar kaldıran O'dur. Sonra dönüşünüz O'nadır, işlediklerinizi size bildirecektir.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 8,
+      "ayah": 42,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:42",
+      "word_position": 17,
+      "target_word_uthmani": "لِّيَقْضِىَ",
+      "target_word_rasm": "ليقضى",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "فِى ٱلْمِيعَٰدِ وَلَٰكِن لِّيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ",
+      "context_snippet_turkish_tabula_rasa": "Siz vadiye en yakın ve onlar da en uzak yamaçta idiler; kervanın süvarileri sizden daha aşağıdaydı. Savaş için buluşmak üzere sözleşmeye kalksaydınız, vaktini t...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِذْ أَنتُم بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ وَٱلرَّكْبُ أَسْفَلَ مِنكُمْ وَلَوْ تَوَاعَدتُّمْ لَٱخْتَلَفْتُمْ فِى ٱلْمِيعَٰدِ وَلَٰكِن لِّيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا لِّيَهْلِكَ مَنْ هَلَكَ عَنۢ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَىَّ عَنۢ بَيِّنَةٍ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz vadiye en yakın ve onlar da en uzak yamaçta idiler; kervanın süvarileri sizden daha aşağıdaydı. Savaş için buluşmak üzere sözleşmeye kalksaydınız, vaktini tayinde anlaşmazlığa düşerdiniz; fakat Allah mahvolan, apaçık belgeden ötürü mahvolsun, yaşayan da apaçık belgeden ötürü yaşasın diye olacak işi yaptı. Doğrusu Allah işitir ve bilir.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 8,
+      "ayah": 44,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:44",
+      "word_position": 11,
+      "target_word_uthmani": "لِيَقْضِىَ",
+      "target_word_rasm": "ليقضى",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ",
+      "context_snippet_turkish_tabula_rasa": "Karşılaştığınızda, olacak işi oldurmak için, onları gözlerinize az gösteriyor ve sizi de onların gözünde azaltıyordu. Bütün işler dönüp Allah'a varır.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يُرِيكُمُوهُمْ إِذِ ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Karşılaştığınızda, olacak işi oldurmak için, onları gözlerinize az gösteriyor ve sizi de onların gözünde azaltıyordu. Bütün işler dönüp Allah'a varır.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 10,
+      "ayah": 11,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:11",
+      "word_position": 8,
+      "target_word_uthmani": "لَقُضِىَ",
+      "target_word_rasm": "لقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ فَنَذَرُ",
+      "context_snippet_turkish_tabula_rasa": "İyiliği acele isteyen kimselere Allah fenalığı da çarçabuk verseydi, süreleri hemen bitmiş olurdu. Bizimle karşılaşmayı ummayanları, azgınlıkları içinde bocalay...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَٰنِهِمْ يَعْمَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İyiliği acele isteyen kimselere Allah fenalığı da çarçabuk verseydi, süreleri hemen bitmiş olurdu. Bizimle karşılaşmayı ummayanları, azgınlıkları içinde bocalayıp dururlarken bırakırız.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 10,
+      "ayah": 19,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:19",
+      "word_position": 13,
+      "target_word_uthmani": "لَقُضِىَ",
+      "target_word_rasm": "لقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar bir tek ümmettiler, sonra ayrılığa düştüler; şayet Rabbinden, daha önce bir takdir geçmemiş olsaydı, aralarında ihtilafa düştükleri şeyler hakkında hük...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar bir tek ümmettiler, sonra ayrılığa düştüler; şayet Rabbinden, daha önce bir takdir geçmemiş olsaydı, aralarında ihtilafa düştükleri şeyler hakkında hüküm çoktan verilmiş olurdu.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 10,
+      "ayah": 47,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:47",
+      "word_position": 7,
+      "target_word_uthmani": "قُضِىَ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Her ümmetin bir elçiyi vardır. Onlara elçileri geldiğinde aralarında adaletle hüküm verilmiş olur. Onların hakları yenmez.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلِكُلِّ أُمَّةٍ رَّسُولٌ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmetin bir elçiyi vardır. Onlara elçileri geldiğinde aralarında adaletle hüküm verilmiş olur. Onların hakları yenmez.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 10,
+      "ayah": 54,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:54",
+      "word_position": 16,
+      "target_word_uthmani": "وَقُضِىَ",
+      "target_word_rasm": "وقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَقُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Haksızlık etmiş olan her kişi, yeryüzünde olan her şeye sahip olsa, onu azabın fidyesi olarak verirdi. Azabı görünce pişmanlık gösterdiler. Haksızlığa uğratılma...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّ لِكُلِّ نَفْسٍ ظَلَمَتْ مَا فِى ٱلْأَرْضِ لَٱفْتَدَتْ بِهِۦ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَقُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Haksızlık etmiş olan her kişi, yeryüzünde olan her şeye sahip olsa, onu azabın fidyesi olarak verirdi. Azabı görünce pişmanlık gösterdiler. Haksızlığa uğratılmadan aralarında adaletle hükmolunmuştur.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 10,
+      "ayah": 71,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:71",
+      "word_position": 30,
+      "target_word_uthmani": "ٱقْضُوٓا۟",
+      "target_word_rasm": "ٱقضوا",
+      "target_word_literal_irab": "Vereceğin hükmü hemen uygula / kararınızı bana karşı infaz edin (فَٱقْضِ 20:72 ve ٱقْضُوٓا۟ 10:71 — I. bab emir; 2 geçiş)",
+      "context_snippet_arabic": "عَلَيْكُمْ غُمَّةً ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ",
+      "context_snippet_turkish_tabula_rasa": "Onlara Nuh'un başından geçenleri anlat: Milletine, \"Ey milletim! Eğer durumum, Allah'ın ayetlerini hatırlatmam size ağır geliyorsa ki ben Allah'a güvenmişimdir ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qaDaY`^|ROOT:qDy|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara Nuh'un başından geçenleri anlat: Milletine, \"Ey milletim! Eğer durumum, Allah'ın ayetlerini hatırlatmam size ağır geliyorsa ki ben Allah'a güvenmişimdir siz ve koştuğunuz ortaklar elbirliği edin; yapacağınız iş sonra size bir tasa vermesin. Sonra onu bana uygulayın ve beni ertelemeyin\" demişti.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 10,
+      "ayah": 93,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:93",
+      "word_position": 17,
+      "target_word_uthmani": "يَقْضِى",
+      "target_word_rasm": "يقضى",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "ٱلْعِلْمُ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, İsrailoğullarını iyi bir yere yerleştirdik, onlara temiz rızıklar verdik, kendilerine bir bilgi gelene kadar ayrılığa düşmediler.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ بَوَّأْنَا بَنِىٓ إِسْرَٰٓءِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ فَمَا ٱخْتَلَفُوا۟ حَتَّىٰ جَآءَهُمُ ٱلْعِلْمُ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, İsrailoğullarını iyi bir yere yerleştirdik, onlara temiz rızıklar verdik, kendilerine bir bilgi gelene kadar ayrılığa düşmediler.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 11,
+      "ayah": 44,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:44",
+      "word_position": 9,
+      "target_word_uthmani": "وَقُضِىَ",
+      "target_word_rasm": "وقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Yere, \"Suyunu çek!\", göğe, \"Ey gök sen de tut!\" denildi. Su çekildi, iş de bitti; gemi Cudi'ye oturdu. \"Haksızlık yapan millet Allah'ın rahmetinden uzak olsun\" ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yere, \"Suyunu çek!\", göğe, \"Ey gök sen de tut!\" denildi. Su çekildi, iş de bitti; gemi Cudi'ye oturdu. \"Haksızlık yapan millet Allah'ın rahmetinden uzak olsun\" denildi.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 11,
+      "ayah": 110,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:110",
+      "word_position": 12,
+      "target_word_uthmani": "لَقُضِىَ",
+      "target_word_rasm": "لقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ وَإِنَّهُمْ لَفِى",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Musa'ya Kitap verdik; onda ayrılığa düştüler. Eğer Rabbinin verilmiş bir sözü olmasaydı, aralarında çoktan hükmedilmiş olurdu. Doğrusu onlar, Kita...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ فَٱخْتُلِفَ فِيهِ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ وَإِنَّهُمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Musa'ya Kitap verdik; onda ayrılığa düştüler. Eğer Rabbinin verilmiş bir sözü olmasaydı, aralarında çoktan hükmedilmiş olurdu. Doğrusu onlar, Kitap'ın Allah katından olduğunda şüphe ve endişe içindedirler.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 12,
+      "ayah": 41,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:41",
+      "word_position": 15,
+      "target_word_uthmani": "قُضِىَ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "ٱلطَّيْرُ مِن رَّأْسِهِۦ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey mahpus arkadaşlarım! Biriniz efendinize şarap sunacak, diğeri asılacak ve kuşlar başından yiyecektir. Sorduğunuz iş işte böylece kesinleşmiştir.\"",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey mahpus arkadaşlarım! Biriniz efendinize şarap sunacak, diğeri asılacak ve kuşlar başından yiyecektir. Sorduğunuz iş işte böylece kesinleşmiştir.\"",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 12,
+      "ayah": 68,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:68",
+      "word_position": 20,
+      "target_word_uthmani": "قَضَىٰهَا",
+      "target_word_rasm": "قضىها",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا وَإِنَّهُۥ لَذُو عِلْمٍ",
+      "context_snippet_turkish_tabula_rasa": "Babalarının emrettiği gibi girdiler. Esasen bu, Allah katında onlara bir fayda sağlamazdı, ancak Yakub içindeki arzuyu ortaya koymuş oldu. O, şüphesiz kendisine...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babalarının emrettiği gibi girdiler. Esasen bu, Allah katında onlara bir fayda sağlamazdı, ancak Yakub içindeki arzuyu ortaya koymuş oldu. O, şüphesiz kendisine öğrettiğimizi bilir fakat insanların çoğu bilmezler.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 14,
+      "ayah": 22,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:22",
+      "word_position": 4,
+      "target_word_uthmani": "قُضِىَ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "وَقَالَ ٱلشَّيْطَٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "İş olup bitince, saptırıcı yıkıcı güç: \"Doğrusu Allah size gerçeği söz vermişti. Ben de size söz verdim ama, sonra caydım; esasen sizi zorlayacak bir nüfuzum yo...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلشَّيْطَٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ إِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İş olup bitince, saptırıcı yıkıcı güç: \"Doğrusu Allah size gerçeği söz vermişti. Ben de size söz verdim ama, sonra caydım; esasen sizi zorlayacak bir nüfuzum yoktu; sadece çağırdım, siz de geldiniz. O halde, beni değil kendinizi kınayın. Artık ben sizi kurtaramam, siz de beni kurtaramazsınız. Beni Allah'a ortak koşmanızı daha önce kabul etmemiştim; doğrusu zalimlere can yakan bir azap vardır\" der.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 15,
+      "ayah": 66,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:66",
+      "word_position": 1,
+      "target_word_uthmani": "وَقَضَيْنَآ",
+      "target_word_rasm": "وقضينا",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "وَقَضَيْنَآ إِلَيْهِ ذَٰلِكَ ٱلْأَمْرَ",
+      "context_snippet_turkish_tabula_rasa": "Böylece Lut'a bunların sonlarının kesilmiş olarak sabahlıyacaklarını bildirdik.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|1P"
+      },
+      "ayah_text_arabic_full": "وَقَضَيْنَآ إِلَيْهِ ذَٰلِكَ ٱلْأَمْرَ أَنَّ دَابِرَ هَٰٓؤُلَآءِ مَقْطُوعٌ مُّصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece Lut'a bunların sonlarının kesilmiş olarak sabahlıyacaklarını bildirdik.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 17,
+      "ayah": 4,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:4",
+      "word_position": 1,
+      "target_word_uthmani": "وَقَضَيْنَآ",
+      "target_word_rasm": "وقضينا",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ",
+      "context_snippet_turkish_tabula_rasa": "İsrailoğullarına Kitap'da: \"Doğrusu yeryüzünde iki defa bozgunculuk yapacak ve kibirlendikçe kibirleneceksiniz\" diye bildirdik.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|1P"
+      },
+      "ayah_text_arabic_full": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ فِى ٱلْكِتَٰبِ لَتُفْسِدُنَّ فِى ٱلْأَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarına Kitap'da: \"Doğrusu yeryüzünde iki defa bozgunculuk yapacak ve kibirlendikçe kibirleneceksiniz\" diye bildirdik.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 17,
+      "ayah": 23,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:23",
+      "word_position": 1,
+      "target_word_uthmani": "وَقَضَىٰ",
+      "target_word_rasm": "وقضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Rabbin, yalnız Kendisine tapmanızı ve ana babaya iyilik etmeyi buyurmuştur. Eğer ikisinden biri veya her ikisi, senin yanında iken ihtiyarlayacak olursa, onlara...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin, yalnız Kendisine tapmanızı ve ana babaya iyilik etmeyi buyurmuştur. Eğer ikisinden biri veya her ikisi, senin yanında iken ihtiyarlayacak olursa, onlara karşı \"Öf\" bile demeyesin, onları azarlamayasın. İkisine de hep tatlı söz söyleyesin.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 19,
+      "ayah": 21,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:21",
+      "word_position": 15,
+      "target_word_uthmani": "مَّقْضِيًّا",
+      "target_word_rasm": "مقضيا",
+      "target_word_literal_irab": "Kesinleşmiş, kaçınılmaz biçimde karara bağlanmış (مَّقْضِيًّا — I. bab ism-i mef'ûl; 2 geçiş: 19:21, 19:71)",
+      "context_snippet_arabic": "مِّنَّا وَكَانَ أَمْرًا مَّقْضِيًّا",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu böyledir, çünkü Rabbin, 'Bu bana kolaydır, onu insanlar için bir apaçık gösterge ve katımızdan da bir rahmet kılacağız; hem bu önceden kararlaştırılmış bir iştir' diyor\" dedi.",
+      "morphology": {
+        "lemma": "m~aqoDiy~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|LEM:m~aqoDiy~|ROOT:qDy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌ وَلِنَجْعَلَهُۥٓ ءَايَةً لِّلنَّاسِ وَرَحْمَةً مِّنَّا وَكَانَ أَمْرًا مَّقْضِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Cebrail: \"Bu böyledir, çünkü Rabbin, 'Bu bana kolaydır, onu insanlar için bir apaçık gösterge ve katımızdan da bir rahmet kılacağız; hem bu önceden kararlaştırılmış bir iştir' diyor\" dedi.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 19,
+      "ayah": 35,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:35",
+      "word_position": 10,
+      "target_word_uthmani": "قَضَىٰٓ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "وَلَدٍ سُبْحَٰنَهُۥٓ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ",
+      "context_snippet_turkish_tabula_rasa": "Allah çocuk edinmez, O münezzehtir. Bir işin olmasına hükmederse ona ancak \"Ol\" der, o da olur.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍ سُبْحَٰنَهُۥٓ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuk edinmez, O münezzehtir. Bir işin olmasına hükmederse ona ancak \"Ol\" der, o da olur.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 19,
+      "ayah": 39,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:39",
+      "word_position": 5,
+      "target_word_uthmani": "قُضِىَ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى",
+      "context_snippet_turkish_tabula_rasa": "Hala gaflet içinde bulunanları ve hala güven duy işin bitmiş olacağı o hasret günü ile uyar.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hala gaflet içinde bulunanları ve hala güven duy işin bitmiş olacağı o hasret günü ile uyar.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 19,
+      "ayah": 71,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:71",
+      "word_position": 9,
+      "target_word_uthmani": "مَّقْضِيًّا",
+      "target_word_rasm": "مقضيا",
+      "target_word_literal_irab": "Kesinleşmiş, kaçınılmaz biçimde karara bağlanmış (مَّقْضِيًّا — I. bab ism-i mef'ûl; 2 geçiş: 19:21, 19:71)",
+      "context_snippet_arabic": "عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Sizden yakıcı yıkım yurduna uğramayacak yoktur. Bu, Rabbinin yapmayı üzerine aldığı kesinleşmiş bir hükümdür.",
+      "morphology": {
+        "lemma": "m~aqoDiy~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|LEM:m~aqoDiy~|ROOT:qDy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن مِّنكُمْ إِلَّا وَارِدُهَا كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden yakıcı yıkım yurduna uğramayacak yoktur. Bu, Rabbinin yapmayı üzerine aldığı kesinleşmiş bir hükümdür.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 20,
+      "ayah": 72,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:72",
+      "word_position": 11,
+      "target_word_uthmani": "فَٱقْضِ",
+      "target_word_rasm": "فٱقض",
+      "target_word_literal_irab": "Vereceğin hükmü hemen uygula / kararınızı bana karşı infaz edin (فَٱقْضِ 20:72 ve ٱقْضُوٓا۟ 10:71 — I. bab emir; 2 geçiş)",
+      "context_snippet_arabic": "ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا فَٱقْضِ مَآ أَنتَ قَاضٍ",
+      "context_snippet_turkish_tabula_rasa": "güven bağı eden sihirbazlar: \"Seni, gelen apaçık apaçık göstergelere ve bizi yaratana üstün tutmayacağız. Ne hüküm vereceksen ver. Sen, ancak bu dünya hayatına ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qaDaY`^|ROOT:qDy|2MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا فَٱقْضِ مَآ أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ",
+      "ayah_text_turkish_tabula_rasa_full": "güven bağı eden sihirbazlar: \"Seni, gelen apaçık apaçık göstergelere ve bizi yaratana üstün tutmayacağız. Ne hüküm vereceksen ver. Sen, ancak bu dünya hayatına hükmedebilirsin. Doğrusu biz, yanılmalarımızı ve bize zorla yaptırdığın sihri bağışlaması için Rabbimize güven bağı ettik. Allah'ın vereceği mükafat daha iyi ve daha devamlıdır\" dediler.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 20,
+      "ayah": 72,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:72",
+      "word_position": 14,
+      "target_word_uthmani": "قَاضٍ",
+      "target_word_rasm": "قاض",
+      "target_word_literal_irab": "Hükmünü infaz eden / yargı kesen (قَاضٍ — I. bab eril ism-i fâil; 20:72)",
+      "context_snippet_arabic": "فَٱقْضِ مَآ أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ",
+      "context_snippet_turkish_tabula_rasa": "güven bağı eden sihirbazlar: \"Seni, gelen apaçık apaçık göstergelere ve bizi yaratana üstün tutmayacağız. Ne hüküm vereceksen ver. Sen, ancak bu dünya hayatına ...",
+      "morphology": {
+        "lemma": "qaAD",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAD|ROOT:qDy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا فَٱقْضِ مَآ أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ",
+      "ayah_text_turkish_tabula_rasa_full": "güven bağı eden sihirbazlar: \"Seni, gelen apaçık apaçık göstergelere ve bizi yaratana üstün tutmayacağız. Ne hüküm vereceksen ver. Sen, ancak bu dünya hayatına hükmedebilirsin. Doğrusu biz, yanılmalarımızı ve bize zorla yaptırdığın sihri bağışlaması için Rabbimize güven bağı ettik. Allah'ın vereceği mükafat daha iyi ve daha devamlıdır\" dediler.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 20,
+      "ayah": 72,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:72",
+      "word_position": 16,
+      "target_word_uthmani": "تَقْضِى",
+      "target_word_rasm": "تقضى",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ",
+      "context_snippet_turkish_tabula_rasa": "güven bağı eden sihirbazlar: \"Seni, gelen apaçık apaçık göstergelere ve bizi yaratana üstün tutmayacağız. Ne hüküm vereceksen ver. Sen, ancak bu dünya hayatına ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|2MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا فَٱقْضِ مَآ أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ",
+      "ayah_text_turkish_tabula_rasa_full": "güven bağı eden sihirbazlar: \"Seni, gelen apaçık apaçık göstergelere ve bizi yaratana üstün tutmayacağız. Ne hüküm vereceksen ver. Sen, ancak bu dünya hayatına hükmedebilirsin. Doğrusu biz, yanılmalarımızı ve bize zorla yaptırdığın sihri bağışlaması için Rabbimize güven bağı ettik. Allah'ın vereceği mükafat daha iyi ve daha devamlıdır\" dediler.",
+      "contextual_meaning": "İşin kesin olarak kapanıp mühürlenmesi (قُضِىَ ٱلْأَمْرُ) ve dünyevî zorbalığın sınırı: Nûh Tufanı'nda, Yûsuf'un zindan yorumunda ve kıyamet/hasret gününde işin geri dönüşsüz kapanması (2:210, 6:8, 6:58, 10:11, 11:44, 12:41, 14:22, 19:39) ile Nûh'un ve secdeye kapanan sihirbazların zorbalara meydan okuyarak yalnızca bu dünya hayatıyla sınırlı hükmü reddetmesi (10:71, 20:72 [3x])."
+    },
+    {
+      "surah": 20,
+      "ayah": 114,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:114",
+      "word_position": 11,
+      "target_word_uthmani": "يُقْضَىٰٓ",
+      "target_word_rasm": "يقضى",
+      "target_word_literal_irab": "Tamamlanması için / vahyi sana ulaştırılıp bitirilmeden / haklarında ölümle sonlandırılmaz (يُقْضَىٰ — I. bab edilgen muzâri; 3 geçiş: 6:60, 20:114, 35:36)",
+      "context_snippet_arabic": "مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ وَقُل",
+      "context_snippet_turkish_tabula_rasa": "Gerçek hükümdar olan Allah Yüce'dir. Kuran sana vahyedilirken, vahy bitmezden önce, unutmamak için, tekrarda acele edip durma, \"Rabbim! ilmimi artır\" de.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ وَقُل رَّبِّ زِدْنِى عِلْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçek hükümdar olan Allah Yüce'dir. Kuran sana vahyedilirken, vahy bitmezden önce, unutmamak için, tekrarda acele edip durma, \"Rabbim! ilmimi artır\" de.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 22,
+      "ayah": 29,
+      "surah_name": "Hac",
+      "ayah_ref": "22:29",
+      "word_position": 2,
+      "target_word_uthmani": "لْيَقْضُوا۟",
+      "target_word_rasm": "ليقضوا",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sonra kirlerini giderip temizlensinler. Adaklarını yerine getirsinler. Kabe'yi tavaf etsinler.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra kirlerini giderip temizlensinler. Adaklarını yerine getirsinler. Kabe'yi tavaf etsinler.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 27,
+      "ayah": 78,
+      "surah_name": "Neml",
+      "ayah_ref": "27:78",
+      "word_position": 3,
+      "target_word_uthmani": "يَقْضِى",
+      "target_word_rasm": "يقضى",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "إِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِۦ وَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin şüphesiz, aralarında, kendi hükmünü verecektir. O güçlüdür, bilendir.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِۦ وَهُوَ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin şüphesiz, aralarında, kendi hükmünü verecektir. O güçlüdür, bilendir.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 28,
+      "ayah": 15,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:15",
+      "word_position": 28,
+      "target_word_uthmani": "فَقَضَىٰ",
+      "target_word_rasm": "فقضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ قَالَ هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "Musa, halkının haberi olmadığı bir zamanda, şehre girdi. Biri kendi adamlarından, diğeri de düşmanı olan iki adamı döğüşür buldu. Kendi tarafından olan kimse, d...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنْ عَدُوِّهِۦ فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ إِنَّهُۥ عَدُوٌّ مُّضِلٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, halkının haberi olmadığı bir zamanda, şehre girdi. Biri kendi adamlarından, diğeri de düşmanı olan iki adamı döğüşür buldu. Kendi tarafından olan kimse, düşmanına karşı ondan yardım istedi. Musa, onun düşmanına bir yumruk vurdu; ölümüne sebep oldu. \"Bu saptırıcı yıkıcı gücün işidir; çünkü o apaçık, saptıran bir düşmandır\" dedi.",
+      "contextual_meaning": "Ölümle sonlandırma ve kökten bitirici son ('قَضَىٰ عَلَىٰ' ve 'ٱلْقَاضِيَةَ'): Mûsâ'nın bir yumrukla hasmının hayatına son vermesi (28:15), Süleyman ve uyuyan canlar üzerinde ölüm hükmünün infazı (34:14, 39:42), ateş yurdundakilerin ölümle sonlandırılmayıp azabın sürmesi ve 'keşke o ilk ölüm her şeyi kökten bitiren son olsaydı' feryadı (35:36, 43:77, 69:27)."
+    },
+    {
+      "surah": 28,
+      "ayah": 28,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:28",
+      "word_position": 7,
+      "target_word_uthmani": "قَضَيْتُ",
+      "target_word_rasm": "قضيت",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "وَبَيْنَكَ أَيَّمَا ٱلْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"Bu seninle benim aramdadır. Bu iki süreden hangisini doldurursam doldurayım bir kötülüğe uğramayacağım. Söylediklerimize Allah vekildir\" dedi.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ ذَٰلِكَ بَيْنِى وَبَيْنَكَ أَيَّمَا ٱلْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ وَٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Bu seninle benim aramdadır. Bu iki süreden hangisini doldurursam doldurayım bir kötülüğe uğramayacağım. Söylediklerimize Allah vekildir\" dedi.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 28,
+      "ayah": 29,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:29",
+      "word_position": 2,
+      "target_word_uthmani": "قَضَىٰ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ",
+      "context_snippet_turkish_tabula_rasa": "Musa süreyi doldurunca, ailesiyle birlikte yola çıktı. Tur tarafından bir ateş gördü. Ailesine: \"Durunuz, ben bir ateş gördüm; belki oradan size bir haber yahut...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa süreyi doldurunca, ailesiyle birlikte yola çıktı. Tur tarafından bir ateş gördü. Ailesine: \"Durunuz, ben bir ateş gördüm; belki oradan size bir haber yahut tutuşmuş bir odun getiririm de ısınabilirsiniz\" dedi.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 28,
+      "ayah": 44,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:44",
+      "word_position": 6,
+      "target_word_uthmani": "قَضَيْنَآ",
+      "target_word_rasm": "قضينا",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ",
+      "context_snippet_turkish_tabula_rasa": "Musa'ya hükmümüzü bildirdiğimiz zaman, sen batı yönünde, (Musa'yı bekleyenler arasında) değildin, onu görenler arasında da yoktun.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|1P"
+      },
+      "ayah_text_arabic_full": "وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'ya hükmümüzü bildirdiğimiz zaman, sen batı yönünde, (Musa'yı bekleyenler arasında) değildin, onu görenler arasında da yoktun.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 33,
+      "ayah": 23,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:23",
+      "word_position": 11,
+      "target_word_uthmani": "قَضَىٰ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, Allah'a verdiği ahdi yerine getiren adamlar vardır. Kimi, bu uğurda canını vermiş, kimi de beklemektedir. Ahdlerini hiç değiştirmemişlerdir.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌ صَدَقُوا۟ مَا عَٰهَدُوا۟ ٱللَّهَ عَلَيْهِ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ وَمَا بَدَّلُوا۟ تَبْدِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, Allah'a verdiği ahdi yerine getiren adamlar vardır. Kimi, bu uğurda canını vermiş, kimi de beklemektedir. Ahdlerini hiç değiştirmemişlerdir.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 33,
+      "ayah": 36,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:36",
+      "word_position": 7,
+      "target_word_uthmani": "قَضَى",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا",
+      "context_snippet_turkish_tabula_rasa": "Allah ve elçi'i bir şeye hükmettiği zaman, güvene eren erkek ve kadına artık işlerinde başka yolu seçmek yaraşmaz. Allah'a ve elçi'e baş kaldıran şüphesiz apaçı...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَٰلًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ve elçi'i bir şeye hükmettiği zaman, güvene eren erkek ve kadına artık işlerinde başka yolu seçmek yaraşmaz. Allah'a ve elçi'e baş kaldıran şüphesiz apaçık bir şekilde sapmış olur.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 33,
+      "ayah": 37,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:37",
+      "word_position": 27,
+      "target_word_uthmani": "قَضَىٰ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. İnsanlarda...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. İnsanlardan çekiniyordun; oysa Allah'tan çekinmen daha uygundu. Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 33,
+      "ayah": 37,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:37",
+      "word_position": 42,
+      "target_word_uthmani": "قَضَوْا۟",
+      "target_word_rasm": "قضوا",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. İnsanlarda...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. İnsanlardan çekiniyordun; oysa Allah'tan çekinmen daha uygundu. Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 34,
+      "ayah": 14,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:14",
+      "word_position": 2,
+      "target_word_uthmani": "قَضَيْنَا",
+      "target_word_rasm": "قضينا",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا",
+      "context_snippet_turkish_tabula_rasa": "Süleyman'ın ölümüne hükmettiğimiz zaman, ancak değneğini yiyen kurt onun ölümünü görünmeyen bilinçli varlıklara farkettirdi. O, ölü olarak yere düşünce, ortaya ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|1P"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman'ın ölümüne hükmettiğimiz zaman, ancak değneğini yiyen kurt onun ölümünü görünmeyen bilinçli varlıklara farkettirdi. O, ölü olarak yere düşünce, ortaya çıktı ki, şayet görünmeyen bilinçli varlıklar görülmeyeni bilmiş olsalardı alçak düşüren bir azap içinde kalmazlardı.",
+      "contextual_meaning": "Ölümle sonlandırma ve kökten bitirici son ('قَضَىٰ عَلَىٰ' ve 'ٱلْقَاضِيَةَ'): Mûsâ'nın bir yumrukla hasmının hayatına son vermesi (28:15), Süleyman ve uyuyan canlar üzerinde ölüm hükmünün infazı (34:14, 39:42), ateş yurdundakilerin ölümle sonlandırılmayıp azabın sürmesi ve 'keşke o ilk ölüm her şeyi kökten bitiren son olsaydı' feryadı (35:36, 43:77, 69:27)."
+    },
+    {
+      "surah": 35,
+      "ayah": 36,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:36",
+      "word_position": 7,
+      "target_word_uthmani": "يُقْضَىٰ",
+      "target_word_rasm": "يقضى",
+      "target_word_literal_irab": "Tamamlanması için / vahyi sana ulaştırılıp bitirilmeden / haklarında ölümle sonlandırılmaz (يُقْضَىٰ — I. bab edilgen muzâri; 3 geçiş: 6:60, 20:114, 35:36)",
+      "context_snippet_arabic": "نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenlere yakıcı yıkım yurdu ateşi vardır. Ölümlerine hükmedilmez ki ölsünler; kendilerinden yakıcı yıkım yurdunun azabı da hafifletilmez. Her ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlere yakıcı yıkım yurdu ateşi vardır. Ölümlerine hükmedilmez ki ölsünler; kendilerinden yakıcı yıkım yurdunun azabı da hafifletilmez. Her gerçeğin üzerini örteni böylece cezalandırırız.",
+      "contextual_meaning": "Ölümle sonlandırma ve kökten bitirici son ('قَضَىٰ عَلَىٰ' ve 'ٱلْقَاضِيَةَ'): Mûsâ'nın bir yumrukla hasmının hayatına son vermesi (28:15), Süleyman ve uyuyan canlar üzerinde ölüm hükmünün infazı (34:14, 39:42), ateş yurdundakilerin ölümle sonlandırılmayıp azabın sürmesi ve 'keşke o ilk ölüm her şeyi kökten bitiren son olsaydı' feryadı (35:36, 43:77, 69:27)."
+    },
+    {
+      "surah": 39,
+      "ayah": 42,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:42",
+      "word_position": 13,
+      "target_word_uthmani": "قَضَىٰ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "مَنَامِهَا فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ",
+      "context_snippet_turkish_tabula_rasa": "Allah, öleceklerin ölümleri anında, ölmeyeceklerin de uykuları esnasında can ve hayat özlerini alır. Ölmelerine hükmettiği kimselerinkini tutar, diğerlerini bir...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, öleceklerin ölümleri anında, ölmeyeceklerin de uykuları esnasında can ve hayat özlerini alır. Ölmelerine hükmettiği kimselerinkini tutar, diğerlerini bir süreye kadar salıverir. Doğrusu bunda düşünen kimseler için dersler vardır.",
+      "contextual_meaning": "Ölümle sonlandırma ve kökten bitirici son ('قَضَىٰ عَلَىٰ' ve 'ٱلْقَاضِيَةَ'): Mûsâ'nın bir yumrukla hasmının hayatına son vermesi (28:15), Süleyman ve uyuyan canlar üzerinde ölüm hükmünün infazı (34:14, 39:42), ateş yurdundakilerin ölümle sonlandırılmayıp azabın sürmesi ve 'keşke o ilk ölüm her şeyi kökten bitiren son olsaydı' feryadı (35:36, 43:77, 69:27)."
+    },
+    {
+      "surah": 39,
+      "ayah": 69,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:69",
+      "word_position": 10,
+      "target_word_uthmani": "وَقُضِىَ",
+      "target_word_rasm": "وقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "وَجِا۟ىٓءَ بِٱلنَّبِيِّۦنَ وَٱلشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzü Rabbinin nuruyla aydınlanır, kitap açılır, elçiler ve şahidler getirilir ve onlara haksızlık yapılmadan, aralarında adaletle hüküm verilir.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّۦنَ وَٱلشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzü Rabbinin nuruyla aydınlanır, kitap açılır, elçiler ve şahidler getirilir ve onlara haksızlık yapılmadan, aralarında adaletle hüküm verilir.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 39,
+      "ayah": 75,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:75",
+      "word_position": 10,
+      "target_word_uthmani": "وَقُضِىَ",
+      "target_word_rasm": "وقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevlileri, arşın etrafını çevirmiş oldukları halde, Rablerini hamd ile överken görürsün. Artık insanların aralarında adaletle hüküm olunmuştur. \"Övgü, ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlileri, arşın etrafını çevirmiş oldukları halde, Rablerini hamd ile överken görürsün. Artık insanların aralarında adaletle hüküm olunmuştur. \"Övgü, Alemlerin Rabbi olan Allah içindir\" denir.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 40,
+      "ayah": 20,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:20",
+      "word_position": 2,
+      "target_word_uthmani": "يَقْضِى",
+      "target_word_rasm": "يقضى",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "وَٱللَّهُ يَقْضِى بِٱلْحَقِّ وَٱلَّذِينَ يَدْعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, gerçekle hükmeder. O'nu bırakıp da yalvardıkları putlar bir şeye hüküm veremez. Şüphesiz Allah işitir ve görür.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ يَقْضِى بِٱلْحَقِّ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, gerçekle hükmeder. O'nu bırakıp da yalvardıkları putlar bir şeye hüküm veremez. Şüphesiz Allah işitir ve görür.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 40,
+      "ayah": 20,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:20",
+      "word_position": 9,
+      "target_word_uthmani": "يَقْضُونَ",
+      "target_word_rasm": "يقضون",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, gerçekle hükmeder. O'nu bırakıp da yalvardıkları putlar bir şeye hüküm veremez. Şüphesiz Allah işitir ve görür.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ يَقْضِى بِٱلْحَقِّ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, gerçekle hükmeder. O'nu bırakıp da yalvardıkları putlar bir şeye hüküm veremez. Şüphesiz Allah işitir ve görür.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 40,
+      "ayah": 68,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:68",
+      "word_position": 6,
+      "target_word_uthmani": "قَضَىٰٓ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "يُحْىِۦ وَيُمِيتُ فَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ",
+      "context_snippet_turkish_tabula_rasa": "Dirilten, öldüren O'dur. Bir şeye karar verirse \"Ol\" der, o da oluverir.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ فَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+      "ayah_text_turkish_tabula_rasa_full": "Dirilten, öldüren O'dur. Bir şeye karar verirse \"Ol\" der, o da oluverir.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 40,
+      "ayah": 78,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:78",
+      "word_position": 28,
+      "target_word_uthmani": "قُضِىَ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "جَآءَ أَمْرُ ٱللَّهِ قُضِىَ بِٱلْحَقِّ وَخَسِرَ هُنَالِكَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, senden önce birçok elçiler gönderdik; sana onların kimini anlattık, kimini anlatmadık; hiçbir elçi, Allah'ın izni olmadan bir apaçık gösterge geti...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ فَإِذَا جَآءَ أَمْرُ ٱللَّهِ قُضِىَ بِٱلْحَقِّ وَخَسِرَ هُنَالِكَ ٱلْمُبْطِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, senden önce birçok elçiler gönderdik; sana onların kimini anlattık, kimini anlatmadık; hiçbir elçi, Allah'ın izni olmadan bir apaçık gösterge getiremez. Allah'ın buyruğu gelince iş gerçekten biter. İşte o zaman, boşa uğraşanlar hüsranda kalırlar.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 41,
+      "ayah": 12,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:12",
+      "word_position": 1,
+      "target_word_uthmani": "فَقَضَىٰهُنَّ",
+      "target_word_rasm": "فقضىهن",
+      "target_word_literal_irab": "Kesin karara bağladı / kusursuzca kurdu / süreyi-görevi tamamladı / canına son verdi (قَضَىٰ / قَضَيْنَا / قَضَيْتُمْ / قَضَيْتَ / قَضَيْتُ / قَضَوْا۟ — I. bab etken mâzi; 23 geçiş)",
+      "context_snippet_arabic": "فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ فِى",
+      "context_snippet_turkish_tabula_rasa": "Böylece onları, iki gün içinde yedi göğe tamamladı ve her göğün işini kendisine bildirdi. Yakın göğü ışıklarla donattık ve bozulmaktan koruduk. İşte bu, bilen, ...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece onları, iki gün içinde yedi göğe tamamladı ve her göğün işini kendisine bildirdi. Yakın göğü ışıklarla donattık ve bozulmaktan koruduk. İşte bu, bilen, güçlü olan Allah'ın kanunudur.",
+      "contextual_meaning": "İlâhî yaratma, kozmik kurgu, vahiy bildirimi ve kesin infaz: Allah'ın bir işi kesin karara bağlayıp 'Ol' sözüyle var etmesi (2:117, 3:47, 19:35, 40:68), yedi göğü iki evrede kusursuzca kurması (41:12), belirli ecelin ve gerçekleşecek işin infaz edilmesi (6:2, 6:60, 8:42, 8:44, 19:21, 19:71) ile kesin hükmün ve vahyin elçilere ve İsrailoğullarına eksiksiz ulaştırılması (15:66, 17:4, 20:114, 28:44)."
+    },
+    {
+      "surah": 41,
+      "ayah": 45,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:45",
+      "word_position": 12,
+      "target_word_uthmani": "لَقُضِىَ",
+      "target_word_rasm": "لقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ وَإِنَّهُمْ لَفِى",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki Musa'ya Kitap vermiştik de onda ayrılığa düşmüşlerdi. Rabbinin verilmiş bir sözü olmasaydı, aralarında hükmedilmiş olurdu. Doğrusu onlar, onun hakk...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ فَٱخْتُلِفَ فِيهِ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ وَإِنَّهُمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Musa'ya Kitap vermiştik de onda ayrılığa düşmüşlerdi. Rabbinin verilmiş bir sözü olmasaydı, aralarında hükmedilmiş olurdu. Doğrusu onlar, onun hakkında şüphe ve endişe içindedirler.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 42,
+      "ayah": 14,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:14",
+      "word_position": 19,
+      "target_word_uthmani": "لَّقُضِىَ",
+      "target_word_rasm": "لقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine ilim geldikten sonra ayrılığa düşmeleri, ancak, birbirini çekememekten oldu. Eğer belirli bir süre için Rabbinin verilmiş bir sözü olmasaydı, aralar...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine ilim geldikten sonra ayrılığa düşmeleri, ancak, birbirini çekememekten oldu. Eğer belirli bir süre için Rabbinin verilmiş bir sözü olmasaydı, aralarında hemen hükmedilirdi. Arkalarından Kitaba varis kılınanlar da ondan şüphe ve endişe içindedirler.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 42,
+      "ayah": 21,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:21",
+      "word_position": 16,
+      "target_word_uthmani": "لَقُضِىَ",
+      "target_word_rasm": "لقضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, Allah'ın yaşam sisteminde izin vermediği bir şeyi onlara meşru kılacak ortakları mı vardır? Eğer kesin yargı bulunmayacak olsaydı aralarında hemen hükmed...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "أَمْ لَهُمْ شُرَكَٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, Allah'ın yaşam sisteminde izin vermediği bir şeyi onlara meşru kılacak ortakları mı vardır? Eğer kesin yargı bulunmayacak olsaydı aralarında hemen hükmedilirdi. Doğrusu, zalimlere can yakıcı azap vardır.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 43,
+      "ayah": 77,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:77",
+      "word_position": 3,
+      "target_word_uthmani": "لِيَقْضِ",
+      "target_word_rasm": "ليقض",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "وَنَادَوْا۟ يَٰمَٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ قَالَ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdunda şöyle seslenilir: \"Ey Nöbetçi! Rabbin hiç değilse canımızı alsın.\" Nöbetçi: \"Siz böyle kalacaksınız\" der.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَنَادَوْا۟ يَٰمَٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ قَالَ إِنَّكُم مَّٰكِثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdunda şöyle seslenilir: \"Ey Nöbetçi! Rabbin hiç değilse canımızı alsın.\" Nöbetçi: \"Siz böyle kalacaksınız\" der.",
+      "contextual_meaning": "Ölümle sonlandırma ve kökten bitirici son ('قَضَىٰ عَلَىٰ' ve 'ٱلْقَاضِيَةَ'): Mûsâ'nın bir yumrukla hasmının hayatına son vermesi (28:15), Süleyman ve uyuyan canlar üzerinde ölüm hükmünün infazı (34:14, 39:42), ateş yurdundakilerin ölümle sonlandırılmayıp azabın sürmesi ve 'keşke o ilk ölüm her şeyi kökten bitiren son olsaydı' feryadı (35:36, 43:77, 69:27)."
+    },
+    {
+      "surah": 45,
+      "ayah": 17,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:17",
+      "word_position": 17,
+      "target_word_uthmani": "يَقْضِى",
+      "target_word_rasm": "يقضى",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "بَيْنَهُمْ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ",
+      "context_snippet_turkish_tabula_rasa": "yaşam ve hesap sistemi konusunda, onlara belgeler verdik; ancak, kendilerine ilim geldikten sonra birbirini çekememezlikten ayrılığa düştüler. Rabbin kıyamet gü...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَءَاتَيْنَٰهُم بَيِّنَٰتٍ مِّنَ ٱلْأَمْرِ فَمَا ٱخْتَلَفُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yaşam ve hesap sistemi konusunda, onlara belgeler verdik; ancak, kendilerine ilim geldikten sonra birbirini çekememezlikten ayrılığa düştüler. Rabbin kıyamet günü, ayrılığa düştükleri şeyler hakkında şüphesiz aralarında hükmedecektir.",
+      "contextual_meaning": "Taraflar arasında hak ve adaletle kesin yargı ile ilâhî-nebevî buyruk: Rabbin yalnız kendisine kulluk ve ana-babaya iyilik konusundaki kesin buyruğu (17:23), elçinin ve Allah'ın verdiği hükme gönül darlığı duymadan tam teslimiyet (4:65, 33:36), Allah'tan başka yakarılanların hiçbir şeye hükmedemediği gerçeği karşısında tek hak yargıcın (40:20 [2x]) ihtilaflı toplumlar arasında hak, adalet ve ilâhî hükümle son kararı vermesi (10:19,47,54,93, 11:110, 27:78, 39:69,75, 40:78, 41:45, 42:14,21, 45:17)."
+    },
+    {
+      "surah": 46,
+      "ayah": 29,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:29",
+      "word_position": 14,
+      "target_word_uthmani": "قُضِىَ",
+      "target_word_rasm": "قضى",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "قَالُوٓا۟ أَنصِتُوا۟ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı dinleyecek görünmeyen bilinçli varlıklardan bir takımını sana yöneltmiştik. Onlar Kuran'ı dinlemeğe hazır olunca birbirlerine: \"Susun\" dediler. Kuran'ın...",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı dinleyecek görünmeyen bilinçli varlıklardan bir takımını sana yöneltmiştik. Onlar Kuran'ı dinlemeğe hazır olunca birbirlerine: \"Susun\" dediler. Kuran'ın okunması bitince, her biri birer uyarıcı olarak milletlerine döndüler.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 62,
+      "ayah": 10,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:10",
+      "word_position": 2,
+      "target_word_uthmani": "قُضِيَتِ",
+      "target_word_rasm": "قضيت",
+      "target_word_literal_irab": "İş kesin olarak bitirildi / aralarında hakla hüküm verildi / tamamlandı (قُضِىَ / قُضِيَتِ — I. bab edilgen mâzi; 20 geçiş)",
+      "context_snippet_arabic": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى",
+      "context_snippet_turkish_tabula_rasa": "yöneliş ve sorumluluk bağı bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qaDaY`^|ROOT:qDy|3FS"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yöneliş ve sorumluluk bağı bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    },
+    {
+      "surah": 69,
+      "ayah": 27,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:27",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقَاضِيَةَ",
+      "target_word_rasm": "ٱلقاضية",
+      "target_word_literal_irab": "Her şeyi kökten kesip bitiren nihai son/ölüm (ٱلْقَاضِيَةَ — I. bab dişil ism-i fâil; 69:27)",
+      "context_snippet_arabic": "يَٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+      "context_snippet_turkish_tabula_rasa": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım ...",
+      "morphology": {
+        "lemma": "qaADiyap",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaADiyap|ROOT:qDy|F|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der.",
+      "contextual_meaning": "Ölümle sonlandırma ve kökten bitirici son ('قَضَىٰ عَلَىٰ' ve 'ٱلْقَاضِيَةَ'): Mûsâ'nın bir yumrukla hasmının hayatına son vermesi (28:15), Süleyman ve uyuyan canlar üzerinde ölüm hükmünün infazı (34:14, 39:42), ateş yurdundakilerin ölümle sonlandırılmayıp azabın sürmesi ve 'keşke o ilk ölüm her şeyi kökten bitiren son olsaydı' feryadı (35:36, 43:77, 69:27)."
+    },
+    {
+      "surah": 80,
+      "ayah": 23,
+      "surah_name": "Abese",
+      "ayah_ref": "80:23",
+      "word_position": 3,
+      "target_word_uthmani": "يَقْضِ",
+      "target_word_rasm": "يقض",
+      "target_word_literal_irab": "Hakla hüküm verir / yerine getirip tamamlar / işimizi bitirsin (يَقْضِى / يَقْضُونَ / تَقْضِى / لِيَقْضِىَ / لْيَقْضُوا۟ / يَقْضِ — I. bab etken muzâri; 11 geçiş)",
+      "context_snippet_arabic": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Hayır; Allah'ın kendisine buyurduğunu hala yerine getirmemiştir.",
+      "morphology": {
+        "lemma": "qaDaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qaDaY`^|ROOT:qDy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; Allah'ın kendisine buyurduğunu hala yerine getirmemiştir.",
+      "contextual_meaning": "Bir görevi, süreyi, ihtiyacı veya yükümlülüğü sonuna dek tamamlayıp bitirmek: Menâsiki, salâtı, kirlerden arınmayı ve Kur'an dinleyişini tamamlama (2:200, 4:103, 22:29, 46:29, 62:10), Ya'kûb'un içindeki bir kaygıyı gidermesi (12:68), Mûsâ'nın hizmet süresini eksiksiz doldurması (28:28, 28:29), ahdine sadık kalıp ömrünü/adağını tamamlayanlar (33:23), evlilik bağından ilişiğin kesilmesi (33:37 [2x]) ve insanın kendisine emredileni henüz yerine getirmemiş oluşu (80:23)."
+    }
+  ]
+}
