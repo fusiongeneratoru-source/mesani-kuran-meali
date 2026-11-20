@@ -2979,5 +2979,128 @@
       }
     ],
     "context_default": "Bitişik veya karışık olanı net bir sınırla ayırma, ayırt etme, bölünme veya ayrışan kesim mekanizması."
+  },
+  "ي-م-ن": {
+    "buckwalter": "ymn",
+    "slug": "sag_el_and_eyman_meymene_ymn",
+    "concept_name": "Sağ El / Eymân / Eymen ve Meymene (Güçlü Sağ El, Sağ Yön, Sağ Elle Bağlanan And-Sözleşme ve Bereket Tarafı)",
+    "keywords": [
+      "sag el",
+      "sag yon",
+      "and",
+      "eyman",
+      "eymen",
+      "meymene",
+      "sozlesme",
+      "bereket"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mayomanap",
+        "label": "Bereket, uğur ve kurtuluş tarafı (ٱلْمَيْمَنَةِ — dişil isim; 56:8, 90:18'de أَصْحَٰبُ ٱلْمَيْمَنَةِ)"
+      },
+      {
+        "lemma": ">ayoman",
+        "label": "Sağ ve bereketli yamaç / kıyı (ٱلْأَيْمَنِ / ٱلْأَيْمَنَ — sıfat; 19:52, 20:80, 28:30'da Tûr ve kutlu vadi)"
+      },
+      {
+        "lemma": "yamiyn",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Sağ eller / sağ yanlar (7:17, 57:12, 66:8), hukukî sorumluluk altındakiler (مَا مَلَكَتْ أَيْمَٰنُكُمْ) veya sağ elle düğümlenen bağlayıcı andlar/sözleşmeler (أَيْمَٰن — kırık çoğul isim)"
+      },
+      {
+        "lemma": "yamiyn",
+        "label": "Sağ el / sağ taraf / güçlü kavrayış / onur yönü (يَمِين / ٱلْيَمِين / بِيَمِينِهِۦ — tekil isim)"
+      }
+    ],
+    "irab_default": "Güçlü sağ el, sağ yön, bağlayıcı and/sözleşme veya bereket tarafı (ي-م-ن kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:17",
+          "16:48",
+          "18:17",
+          "18:18",
+          "19:52",
+          "20:17",
+          "20:69",
+          "20:80",
+          "28:30",
+          "29:48",
+          "34:15",
+          "37:28",
+          "37:93",
+          "39:67",
+          "50:17",
+          "57:12",
+          "66:8",
+          "69:45",
+          "70:37"
+        ],
+        "text": "Fiziksel sağ el, sağ-sol yönleri, güçlü kavrayış ve Tûr'un bereketli sağ yamacı: Musa'nın sağ elindeki asa ve elçinin sağ eliyle önceden kitap yazmamış oluşu (20:17,69, 29:48), Tûr'un ve kutlu vadinin sağ bereketli yamacı (19:52, 20:80, 28:30), gölgelerin, güneşin, Sebe bahçelerinin, kayıt görevlilerinin ve nurun sağ/sol ekseni (7:17, 16:48, 18:17-18, 34:15, 37:28, 50:17, 57:12, 66:8, 70:37) ile vurucu güç ve kudret kavrayışı (37:93, 39:67, 69:45)."
+      },
+      {
+        "ayahs": [
+          "2:224",
+          "2:225",
+          "3:77",
+          "4:33",
+          "5:53",
+          "5:89",
+          "5:108",
+          "6:109",
+          "9:12",
+          "9:13",
+          "16:38",
+          "16:91",
+          "16:92",
+          "16:94",
+          "24:53",
+          "35:42",
+          "58:16",
+          "63:2",
+          "66:2",
+          "68:39"
+        ],
+        "text": "Sağ elle bağlanan andlar, sözleşmeler ve ahde vefa hukuku (أَيْمَٰن): İyiliğe engel kılınmaması gereken andlar, boş sözle bilinçli düğümlenen andın ayrımı, kefaret ve çözüm yolu (2:224-225, 5:89, 66:2), sağ ellerin bağladığı ahitlere sadakat ve ipliğini söken kadın gibi andı bozup hile aracına çevirmeme (3:77, 4:33, 5:108, 9:12-13, 16:91-94) ile ikiyüzlülerin ve reddedenlerin andlarını kalkan veya boş iddia aracı yapması (5:53, 6:109, 16:38, 24:53, 35:42, 58:16, 63:2, 68:39)."
+      },
+      {
+        "ayahs": [
+          "4:3",
+          "4:24",
+          "4:25",
+          "4:36",
+          "16:71",
+          "23:6",
+          "24:31",
+          "24:33",
+          "24:58",
+          "30:28",
+          "33:50",
+          "33:52",
+          "33:55",
+          "70:30"
+        ],
+        "text": "Hukukî tasarruf ve koruma sorumluluğu altındaki kimseler (مَا مَلَكَتْ أَيْمَٰنُكُمْ / يَمِينُكَ): İyilik yapma, adalet, onurlu evlilik, özgürleşme sözleşmesi (مُكَاتَبَة) yazıp destek verme, fuhşa zorlamama ve ev içi mahremiyet vakitleri kuralları (4:3,24,25,36, 23:6, 24:31,33,58, 33:50,52,55, 70:30) ile ortak koşmayı çürüten mülkiyet temsilleri (16:71, 30:28)."
+      },
+      {
+        "ayahs": [
+          "17:71",
+          "56:8",
+          "56:27",
+          "56:38",
+          "56:90",
+          "56:91",
+          "69:19",
+          "74:39",
+          "84:7",
+          "90:18"
+        ],
+        "text": "Hesap kaydını sağ elinden alma, sağın yaranı ve bereket tarafı ehli (أَصْحَٰبُ ٱلْيَمِينِ / ٱلْمَيْمَنَةِ): Amel kitabını sağ elinden alarak kolay hesap ve sevinçle karşılık bulanlar (17:71, 69:19, 84:7), kurtuluşa eren sağın yaranı (56:27,38,90-91, 74:39) ve zorlu yokuşu aşarak bereket/uğur tarafında yer alanlar (56:8, 90:18)."
+      }
+    ],
+    "context_default": "Güçlü sağ el, sağ yön, sağ elle düğümlenen and/sözleşme veya bereket ve kurtuluş tarafı mekanizması."
   }
 }
