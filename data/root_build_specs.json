@@ -9935,5 +9935,240 @@
       }
     ],
     "context_default": "İnsanı ve toplumu koruyan ilahi ahit, adalet ve meşruiyet kabuğunu yarıp yörünge dışına fırlama mekanizması."
+  },
+  "ن-د-و": {
+    "buckwalter": "ndw",
+    "slug": "nida_munadi_nadi_nediyy_tenad_seslenmek_toplanma_meclisi_ndw",
+    "concept_name": "Nidâ, Münâdî, Nâdî ve Yevmü't-Tenâd (Mesafeyi Aşan Sesleniş, Karşılıklı Seslenme Günü ve Toplanma Meclisi)",
+    "keywords": [
+      "nida",
+      "munadi",
+      "nadi",
+      "nediyy",
+      "nedve",
+      "tenad",
+      "seslenmek",
+      "cagri",
+      "meclis"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "t~anaAd",
+        "label": "Karşılıklı birbirine seslenme (günü) (يَوْمَ ٱلتَّنَادِ — يَوْمَ zarfının muzâfun ileyhi olarak mecrûr VI. bab masdarı, Rasm-ı Osmânî'de sonundaki yâ harfi hazfedilerek ٱلتناد yazılır; 1 geçiş: 40:32)"
+      },
+      {
+        "lemma": "tanaAda",
+        "label": "Derken (sabaha girerlerken) karşılıklı birbirlerine seslendiler (فَتَنَادَوْا۟ مُصْبِحِينَ — VI. bab تَفَاعَلَ kalıbında mâzî fiil, 3. çoğul eril; 1 geçiş: 68:21)"
+      },
+      {
+        "lemma": "nadiy~",
+        "label": "Açık toplantı meclisi / kurultay topluluğu bakımından (daha güzel) (وَأَحْسَنُ نَدِيًّا — أَحْسَنُ ism-i tafdîlinin mansûb temyizi, fe'îl vezninde isim; 1 geçiş: 19:73)"
+      },
+      {
+        "lemma": "naAdiy",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Açık toplantı meclisinizde / kurultay alanınızda (فِى نَادِيكُمُ — فِى harf-i cerriyle mecrûr ve zamire muzâf isim; 1 geçiş: 29:29)"
+      },
+      {
+        "lemma": "naAdiy",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Kendi kurultay meclisini / meclis arkadaşlarını (yardıma çağırsın!) (فَلْيَدْعُ نَادِيَهُۥ — فَلْيَدْعُ fiilinin mansûb mef'ûlü ve zamire muzâf isim; 1 geçiş: 96:17)"
+      },
+      {
+        "lemma": "munaAdiy",
+        "label": "(Güvene çağıran) yüksek sesli bir çağırıcıyı (işittik) (سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَٰنِ — سَمِعْنَا fiilinin mansûb mef'ûlü III. bab ism-i fâil, Rasm'da yâ harfiyle مناديا; 1 geçiş: 3:193)"
+      },
+      {
+        "lemma": "munaAd",
+        "label": "Yüksek sesle seslenen çağırıcının (yakın bir mekândan sesleneceği gün) (يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ — يُنَادِ fiilinin merfû fâili III. bab ism-i fâil, Rasm-ı Osmânî'de sonundaki yâ harfi hazfedilerek ٱلمناد yazılır; 1 geçiş: 50:41)"
+      },
+      {
+        "lemma": "nidaA^'",
+        "ayahs": [
+          "19:3"
+        ],
+        "label": "(Gizli ve içten) bir seslenişle (إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا — mef'ûl-i mutlak olarak mansûb III. bab masdarı; 1 geçiş: 19:3)"
+      },
+      {
+        "lemma": "nidaA^'",
+        "label": "Ve uzak mesafeden yükselen ham bir sesleniş (dışında bir şey işitmeyen) (إِلَّا دُعَآءً وَنِدَآءً — دُعَآءً mef'ûlüne matuf mansûb III. bab masdarı; 1 geçiş: 2:171)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "(İddia ettiğiniz ortaklarımı) yüksek sesle çağırın / onlara seslenin! (نَادُوا۟ شُرَكَآءِىَ — III. bab emir fiili, 2. çoğul eril; 1 geçiş: 18:52)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "PERF",
+          "PASS",
+          "3MP"
+        ],
+        "label": "Ve onlara yüksek sesle seslenildi / ilan edildi (وَنُودُوٓا۟ أَن تِلْكُمُ ٱلْجَنَّةُ — III. bab meçhul mâzî fiil, 3. çoğul eril; 1 geçiş: 7:43)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "PERF",
+          "PASS"
+        ],
+        "label": "Ona / topluluğa yüksek sesle seslenildi (نُودِىَ يَٰمُوسَىٰٓ [20:11] / نُودِىَ أَنۢ بُورِكَ [27:8] / نُودِىَ مِن شَٰطِئِ ٱلْوَادِ [28:30] / إِذَا نُودِىَ لِلصَّلَوٰةِ [62:9] — III. bab meçhul mâzî fiil, 3. tekil eril; 4 geçiş)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "IMPF",
+          "PASS"
+        ],
+        "label": "Onlara (uzak bir mekândan / hesap meydanında) seslenilir (يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ [40:10] / أُو۟لَٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍ [41:44] — III. bab meçhul merfû muzâri fiil, 3. çoğul eril; 2 geçiş)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "ayahs": [
+          "50:41"
+        ],
+        "label": "(Çağırıcının yakın bir mekândan) yüksek sesle sesleneceği (gün) (يَوْمَ يُنَادِ ٱلْمُنَادِ — يَوْمَ zarfının muzâfun ileyhi cümlede III. bab muzâri fiil, Rasm-ı Osmânî'de sonundaki yâ harfi hazfedilerek يناد yazılır; 1 geçiş: 50:41)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "IMPF",
+          "3MP"
+        ],
+        "label": "(Odaların arkasından) sana seslenirler / onlara seslenirler (يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ [49:4] / يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ [57:14] — III. bab merfû muzâri fiil + mef'ûl zamiri, 3. çoğul eril; 2 geçiş)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "(Güvene çağıran) sesleniyor / onlara sesleneceği (gün) (مُنَادِيًا يُنَادِى لِلْإِيمَٰنِ [3:193] / وَيَوْمَ يُنَادِيهِمْ [28:62, 28:65, 28:74, 41:47] — III. bab merfû muzâri fiil, 3. tekil eril; 5 geçiş)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "PERF",
+          "1P"
+        ],
+        "label": "Ve ona yüksek sesle seslendik / seslenmiştik (وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ [19:52] / إِذْ نَادَيْنَا [28:46] / وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ [37:104] — III. bab mâzî fiil, 1. çoğul, zamirli 2 geçişte Rasm'da elifsiz وندينه; 3 geçiş)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "PERF",
+          "2MP"
+        ],
+        "label": "(Yöneliş ve destek buluşmasına) yüksek sesle seslendiğiniz / çağrı yaptığınız (zaman) (وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ — III. bab mâzî fiil, 2. çoğul eril; 1 geçiş: 5:58)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "PERF",
+          "3FS"
+        ],
+        "label": "Derken (o mihrapta yöneliş kıyamındayken görevli güçler) ona seslendi (فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ — III. bab mâzî fiil + mef'ûl zamiri, 3. tekil dişil; 1 geçiş: 3:39)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "PERF",
+          "3MP"
+        ],
+        "label": "Ve yüksek sesle seslendiler (وَنَادَوْا۟ أَصْحَٰبَ ٱلْجَنَّةِ [7:46] / فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ [38:3] / وَنَادَوْا۟ يَٰمَٰلِكُ [43:77] / فَنَادَوْا۟ صَاحِبَهُمْ [54:29] — III. bab mâzî fiil, 3. çoğul eril; 4 geçiş)"
+      },
+      {
+        "lemma": "naAdaY`",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Mesafeyi veya karanlıkları aşarak seslendi / ona seslendi (نَادَىٰ / وَنَادَىٰ / فَنَادَىٰ / وَنَادَىٰهُمَا [7:22] / فَنَادَىٰهَا [19:24] / نَادَىٰنَا [37:75] / نَادَىٰهُ [79:16] — III. bab mâzî fiil, 3. tekil eril; 19 geçiş)"
+      }
+    ],
+    "irab_default": "Mesafeyi aşarak seslenmek, karşılıklı seslenme günü veya seslerin buluştuğu açık toplantı meclisi (ن-د-و kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:39",
+          "7:22",
+          "19:24",
+          "19:52",
+          "20:11",
+          "26:10",
+          "27:8",
+          "28:30",
+          "28:46",
+          "37:104",
+          "79:16"
+        ],
+        "text": "İlahi vahiy, müjde, uyarı ve görevlendirme seslenişi (وَنَادَىٰهُمَا رَبُّهُمَا / وَنَٰدَيْنَٰهُ / نُودِىَ): Rabbin yasak ağaçtan tattıklarında Âdem ve eşine seslenmesi (7:22), kutsal Tuva vadisinde ve Tûr'un sağ yamacında ateş ve ağaç yönünden Mûsâ'ya seslenilip sonrasında sırdaşça yaklaştırılması (19:52, 20:11, 26:10, 27:8, 28:30, 28:46, 79:16), ağır sınavı doğrulukla tamamlayan İbrâhîm'e seslenilmesi (37:104), mihrapta yöneliş kıyamındaki Zekeriyyâ'ya görevli güçlerin Yahyâ müjdesiyle seslenmesi (3:39) ve doğum sancısı çeken Meryem'e aşağısından teselliyle seslenilmesi (19:24)."
+      },
+      {
+        "ayahs": [
+          "11:42",
+          "11:45",
+          "19:3",
+          "21:76",
+          "21:83",
+          "21:87",
+          "21:89",
+          "37:75",
+          "38:3",
+          "38:41",
+          "68:48"
+        ],
+        "text": "Darlık, kuşatma ve karanlıklar içinden Rabbe yükselen yakarış seslenişleri ve ilahi icabet (نَادَىٰ رَبَّهُۥ / نِدَآءً خَفِيًّا / فَنَادَىٰ فِى ٱلظُّلُمَٰتِ): Nûh'un büyük sıkıntı anında ve dağlar gibi dalgalar arasında ayrı bir köşede duran oğluna ve ardından Rabbine seslenmesi ve en güzel karşılık veren Allah'ın icabeti (11:42, 11:45, 21:76, 37:75), Zekeriyyâ'nın yalnız bırakılmamak için gizli ve içten bir seslenişle (نِدَآءً خَفِيًّا) Rabbine yakarması (19:3 [2x], 21:89), Eyyûb'un kendisine dokunan yorgunluk ve sıkıntı içinde Rabbine seslenmesi (21:83, 38:41), balık sahibi Yûnus'un boğucu karanlıklar içinde öz eleştiriyle seslenmesi (21:87, 68:48) ve buna karşılık yıkım anı gelip çattığında kaçış vakti geçmişken boşuna seslenen önceki kuşaklar (38:3)."
+      },
+      {
+        "ayahs": [
+          "7:43",
+          "7:44",
+          "7:46",
+          "7:48",
+          "7:50",
+          "18:52",
+          "28:62",
+          "28:65",
+          "28:74",
+          "40:10",
+          "40:32",
+          "41:47",
+          "43:77",
+          "50:41",
+          "57:14"
+        ],
+        "text": "Karşılıklı Seslenme Günü (يَوْمَ ٱلتَّنَادِ) ve hesap sahnesinde mesafeleri aşan seslenişler: Çağırıcının yakın bir mekândan sesleneceği (يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ 50:41 [2x]) Karşılıklı Seslenme Günü'nde (40:32) Rabbin ortak koşanlara 'iddia ettiğiniz ortaklarım nerede, onlara seslenin!' ve 'elçilere ne cevap verdiniz?' diye seslenmesi (18:52, 28:62, 28:65, 28:74, 41:47), hasbahçe mirasçılarına ve gerçeği örtenlere yapılan ilanlar (7:43, 40:10) ile hasbahçe yoldaşları, A'râf ehli, ateş yoldaşları ve iki çıkışlı kaypakların aradaki engellerin ötesinden birbirlerine seslenmeleri (7:44, 7:46, 7:48, 7:50, 43:77, 57:14)."
+      },
+      {
+        "ayahs": [
+          "2:171",
+          "3:193",
+          "5:58",
+          "41:44",
+          "43:51",
+          "49:4",
+          "54:29",
+          "62:9",
+          "68:21",
+          "79:23"
+        ],
+        "text": "Toplumsal davet, iletişim edebi, sağır kulaklara uzaktan sesleniş ve azgınların çağrıları: Güvene çağıran çağırıcının (مُنَادِيًا يُنَادِى لِلْإِيمَٰنِ) sesini işitip güvenenler (3:193 [2x]), ortak yöneliş ve destek buluşmasına (لِلصَّلَوٰةِ) seslenildiğinde alay edenlere karşı alışverişi bırakıp Allah'ı anmaya koşanlar (5:58, 62:9), odaların arkasından elçiye kabaca seslenenlerin akılsızlığı (49:4), gerçeğe kulak tıkayanların yalnızca ham bir çağırma ve sesleniş (دُعَآءً وَنِدَآءً) duyan sürüye veya uzak bir mekândan seslenilenlere (يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍ) benzetilmesi (2:171, 41:44) ile Firavun'un kibirli ilanı (43:51, 79:23), Semûd kavminin deveyi boğazlamak için arkadaşlarına seslenmesi (54:29) ve bahçe sahiplerinin yoksulları dışlamak için sabahleyin birbirlerine seslenmesi (68:21)."
+      },
+      {
+        "ayahs": [
+          "19:73",
+          "29:29",
+          "96:17"
+        ],
+        "text": "Seslerin buluştuğu açık toplantı ve kurultay meclisi (نَادِى / نَدِيّ): Gerçeği örtenlerin servet ve güç gösterisiyle 'hangi zümrenin makamı daha hayırlı ve toplantı meclisi (نَدِيًّا) daha güzel?' diye övünmesi (19:73), Lût kavminin açık toplantı meclislerinde (فِى نَادِيكُمُ) çirkinlikleri alenen işlemesi (29:29) ve yönelişi engelleyen zorbanın güvendiği kurultay meclisini (نَادِيَهُۥ) yardıma çağırması meydan okuması (96:17)."
+      }
+    ],
+    "context_default": "Mesafeyi aşan yüksek veya içten sesleniş, karşılıklı seslenme günü ve insanların seslenişle bir araya geldiği açık toplantı meclisi mekanizması."
   }
 }

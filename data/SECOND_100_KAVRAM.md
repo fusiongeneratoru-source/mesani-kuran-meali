@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 91 / 100 Kök (Toplam Mühürlü: 196 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 92 / 100 Kök (Toplam Mühürlü: 197 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -109,7 +109,7 @@
 | 89 | 193 | `أ-ج-ل` | `E-C-L` | **56** | 48 | 2:231 | Ecel, Te'cîl ve Müeccel (Belirlenmiş Süre, Son Vade Noktası ve Vadelendirilmiş Yazgı) | ✅ **MÜHÜRLÜ** |
 | 90 | 194 | `د-و-ر` | `D-W-R` | **55** | 53 | 2:84 | Dâr, Diyâr, Dâire ve İdâre (Kuşatılmış Yurt, Ahiret Yurdu, Elden Ele Döndürmek ve Felaket Çemberi) | ✅ **MÜHÜRLÜ** |
 | 91 | 195 | `ف-س-ق` | `F-S-K` | **54** | 54 | 2:26 | Fısk, Füsûk ve Fâsık (Koruyucu Kabuğu Yarıp Dışarı Fırlamak ve Ahit Sınırından Çıkmak) | ✅ **MÜHÜRLÜ** |
-| 92 | 196 | `ن-د-و` | `N-D-W` | **53** | 50 | 2:171 | Analiz Bekliyor (naAdaY`, nidaA^', naAdiy) | ⏳ *Bekliyor* |
+| 92 | 196 | `ن-د-و` | `N-D-W` | **53** | 50 | 2:171 | Nidâ, Münâdî, Nâdî ve Yevmü't-Tenâd (Mesafeyi Aşan Sesleniş, Karşılıklı Seslenme Günü ve Toplanma Meclisi) | ✅ **MÜHÜRLÜ** |
 | 93 | 197 | `خ-ب-ر` | `H-B-R` | **52** | 52 | 2:234 | Analiz Bekliyor (xabiyr, >axobaAr, xubor) | ⏳ *Bekliyor* |
 | 94 | 198 | `ض-ع-ف` | `D-A-F` | **52** | 45 | 2:245 | Analiz Bekliyor (DiEof, yuDa`Eifu, DaEiyf) | ⏳ *Bekliyor* |
 | 95 | 199 | `ت-ح-ت` | `T-H-T` | **51** | 50 | 2:25 | Analiz Bekliyor (taHot) | ⏳ *Bekliyor* |
