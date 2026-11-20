@@ -1,0 +1,1221 @@
+{
+  "root": "ض-ر-ب",
+  "root_latin": "D-R-B (Drb)",
+  "concept_name": "Darb ve Darb-ı Mesel (Vurmak, Somut Örnek/Temsil Kurmak, Yeryüzünde Yol Tepmek ve Örtü/Sûr Çekmek)",
+  "rank": 187,
+  "total_occurrences": 58,
+  "unique_ayahs_count": 54,
+  "unified_core_mechanism": "Bir şeyi başka bir şeye ses, iz, yol, örtü veya kalıp bırakacak biçimde sertçe vurmak ve çarpmak (ضَرْب): somut darbe vurmak ve vurarak pınar/yol açmak (ٱضْرِب بِّعَصَاكَ), ayaklarla yeri döverek yeryüzünde yol tepmek (ضَرَبَ فِى ٱلْأَرْضِ), üzerine çadır/örtü/perde/sûr kurup kapatmak (ضَرَبَ عَلَىٰ / بَيْنَ) ve sikke basar gibi zihinde iz bırakan somut örnek/temsil kalıbı ortaya koymak (ضَرَبَ مَثَلًا).",
+  "physical_core": "Bir cismi başka bir cisme ses, iz veya şekil bırakacak biçimde sertçe vurmak ve çarpmak (إِيقَاعُ شَيْءٍ عَلَى شَيْءٍ بِصَلَابَةٍ): doğrudan vurup darbe indirmek veya vurarak pınar/yol açmak, ayaklarla yeri döverek yeryüzünde yol tepmek (ضَرَبَ فِى ٱلْأَرْضِ), kazık çakıp çadır/duvar/örtü kurmak (ضَرَبَ عَلَىٰ/بَيْنَ) ve madene sikke/damga basar gibi somut örnek ve temsil kalıbı ortaya koymak (ضَرَبَ مَثَلًا).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökün tüm kullanımlarını 'bir şeyi başka bir şeye vurup temas/etki ettirmek (إِيقَاعُ شَيْءٍ بِغَيْرِهِ)' tekil aslına bağlar: yeryüzünde yolculuk (الضَّرْبُ فِى الْأَرْضِ), bir şeyi kalıba döküp şekillendirme ve benzer/örnek kurma (الصِّيغَةُ وَالضَّرِيبُ) ile bir işten el çekip vazgeçme (الإِضْرَابُ) bu tek fiziksel vuruş/kalıp basma hareketinden doğar.",
+    "lisan_al_arab": "İbn Manzûr, الضَّرْبُ معروف (vurmak) kökünden hareketle; ضَرَبَ فِى الْأَرْضِ (rızık veya sefer için yeryüzünde yol tepti), ضَرَبَ الْخَيْمَةَ وَالْحِجَابَ (çadırı, perdeyi veya duvarı çakıp kurdu — 2:61, 57:13), ضَرَبَ عَلَى أُذُنِهِ (kulağına perde çekip işitmesini/uyanmasını engelledi — 18:11) ve ضَرَبَ الدَّرَاهِمَ وَالْمَثَلَ (parayı ve misali basıp ortaya koydu) dallarını aynı mekanik çekirdekle açıklar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî, الضَّرْبُ: إِيقَاعُ شَيْءٍ عَلَى شَيْءٍ diyerek özellikle Kur'an'daki iki büyük kullanımı aydınlatır: 1) الضَّرْبُ فِى الْأَرْضِ yürüyenin ayaklarıyla yeri dövmesinden, 2) ضَرْبُ الْمَثَلِ ise madeni paraya çekiçle sikke/damga vurup (ضَرْبُ الدَّرَاهِمِ) kalıcı iz bırakmaktan alınmıştır; böylece soyut hakikat somut bir kalıba dökülerek görünür kılınır.",
+    "arbitration_decision": "Üç büyük sözlük tam mutabakat içindedir: ض-ر-ب kökü 58 Kur'an geçişinin tamamında 'bir şeyi bir yüzeye vurup etki, yol, örtü veya kalıp/iz oluşturmak' tekil fiziksel mekanizmasıyla çalışır."
+  },
+  "semitic_cognates": {
+    "hebrew": "BDB H6866 צָרַב (ṣārab: 'dağlamak, yakıcı iz bırakmak' [Hezekiel 20:47]) ve BDB H6887 צָרַר (ṣārar: 'sıkıştırmak, vurup bağlamak') — Proto-Sami yanal-emfatik *ṣ́ (*ḍ) sesinin İbranicede צ (ṣ) ile birleşmesiyle 'vurup iz/baskı bırakma' anlamsal alanını paylaşır.",
+    "aramaic_and_syriac": "Yahudi Aramicesi ve Süryanice ܨܪܰܒ (ṣraḇ: 'vurup sıkıştırmak, dağlamak, iz basmak') — Orta Sami'de (Arapça ضَرَبَ) 'vurmak, sikke/örnek basmak, çadır kurmak' anlamında en üretken fiil köküne dönüşmüştür.",
+    "akkadian": "CAD Ṣ s. 102 ṣarāpu ('dağlamak, metali potada dövüp arıtmak, damgalamak') — Râgıb el-İsfahânî'nin vurguladığı ضَرْبُ الدَّرَاهِمِ وَالْمَثَلِ ('metal sikke ve temsil basmak') mekanizmasının Doğu Sami metalurji terminolojisindeki paralelidir.",
+    "geez_and_esa": "Eski Güney Arapça (Sebece) ḍrb ('vurmak, savaşta darbe indirmek; taş/metal yontup işlemek') ve Habeşçe (Amharca/Tigrinya) zäräbä ('vurmak, darbe indirmek').",
+    "note": "Karşılaştırmalı Sami filolojisinde ض-ر-ب (*ṣ́-r-b), özellikle Arapça ve Güney Arapçada 'fiziksel darbe vurmak, taş/metal üzerine kalıp basmak ve yeryüzünde yol tepmek' anlamlarıyla uzmanlaşmış karakteristik bir Güney-Orta Sami köküdür."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ح-ص-ر [لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ] (Kuşatılıp Hareketsiz/Bağlı Kalmak ↔ Yeryüzünde Yol Tepip Sefer ve Rızık Yolculuğuna Çıkmak: 2:273)",
+      "ق-ع-د [وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ ... لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟] (Evde Oturup Kalmak ↔ Yeryüzünde Sefere Çıkmak: 3:156, 3:168)",
+      "ب-د-و [وَلَا يُبْدِينَ زِينَتَهُنَّ ... وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ... وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ] (Süsü Açığa Vurup Sergilemek ↔ Başörtüsünü Yakaların Üzerine Vurup/Salıp Örtmek: 24:31)",
+      "ب-ع-ث [فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًا ثُمَّ بَعَثْنَٰهُمْ] (Kulakları Üzerine Uyku Perdesi Vurup Uyutmak ↔ Uyandırıp Ayağa Kaldırmak: 18:11-12)",
+      "ش-د-د & م-ن-ن [فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً] (Sıcak Çarpışmada Boyunlara Darbe İndirmek ↔ Saldırıyı Etkisizleştirdikten Sonra Bağları Sıkıp Karşılıksız veya Fidyeyle Serbest Bırakmak: 47:4)"
+    ],
+    "key_ayahs": [
+      "2:273 (لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ)",
+      "18:11-12 (فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًا * ثُمَّ بَعَثْنَٰهُمْ)",
+      "24:31 (وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ... وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ)",
+      "13:17 (كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ ... كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ)"
+    ],
+    "reverse_stress_test": "Kuşatılıp hareketsiz kalma (إِحْصَار 2:273), açığa vurup sergileme (إِبْدَاء 24:31) ve uykudan uyandırıp kaldırma (بَعْث 18:12) karşıtlarının tersi alındığında, ض-ر-ب kökünün 'bir yüzeye vurup darbe, hareket, örtü/engel veya kalıcı temsil izi bırakmak' çekirdeği sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ (24:31:15) vs وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ (24:31:64) [24:31]",
+      "يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ (13:17:24) vs يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ (13:17:40) [13:17]",
+      "يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ vs يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ [73:20] & ضَرَبُوا۟ فِى ٱلْأَرْضِ vs كَانُوا۟ غُزًّى [3:156]",
+      "فَعِظُوهُنَّ (W-A-Z) vs وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ (H-C-R) vs وَٱضْرِبُوهُنَّ (D-R-B) [4:34]"
+    ],
+    "mechanical_difference": "24:31 ayetinde aynı fiil iki farklı harf-i cer kombinasyonuyla zıt yönlü iki eylemi kodlar: وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ (عَلَىٰ ile: başörtülerini yakalarının üzerine vurup/salıp kapatsınlar) vs وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ (gizledikleri süs bilinsin diye ayaklarını yere vurmasınlar). 13:17'de ilk يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ su ve maden potasında köpük ile kalıcı cevherin çarpıştırılıp ayrıştırılmasını, ayet sonundaki يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ ise bu fiziksel olgunun insanlara örnek/temsil kalıbı olarak sunulmasını gösterir. 3:156 ve 73:20'de ise يَضْرِبُونَ فِى ٱلْأَرْضِ (rızık ve ticaret için yeryüzünde yolculuk yapanlar) ile غُزًّى / يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ (savunma seferine çıkanlar) aynı ayette yan yana ayrıştırılır."
+  },
+  "anchor_ayahs": [
+    "13:17 & 14:24-25 & 16:74-76 & 22:73 & 29:43 & 59:21 (كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ ... كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ / وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَٰلِمُونَ — soyut hakikati somut kalıba döken temsil [darb-ı mesel] çıpaları)",
+    "2:60 & 2:73 & 7:160 & 20:77 & 26:63 & 37:93 & 47:4 (ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ / فَٱضْرِبْ لَهُمْ طَرِيقًا فِى ٱلْبَحْرِ يَبَسًا / ضَرْبًۢا بِٱلْيَمِينِ / فَضَرْبَ ٱلرِّقَابِ — somut vurma, darbe indirme ve vurarak pınar/yol açma çıpaları)",
+    "2:273 & 3:156 & 4:94 & 4:101 & 5:106 & 73:20 (لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ / وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ — ayaklarla yeri döverek yeryüzünde rızık ve sefer yolculuğuna çıkma çıpaları)",
+    "2:61 & 3:112 & 18:11 & 24:31 & 43:5 & 57:13 (ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ / فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ / وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ / فَضُرِبَ بَيْنَهُم بِسُورٍ / أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا — üzerine çadır/perde/örtü/sûr kurup kapatma ve vazgeçme çıpaları)"
+  ],
+  "grammar_and_branch_rules": "1) Sikke/Kalıp Basar Gibi Somut Örnek, Temsil ve Hak-Bâtıl Karşılaştırması Ortaya Koymak (`ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ` — 31 geçiş / 30 ayet): Allah'ın hakikati somutlaştırmak için sivrisinek, sinek, güzel ağaç, su-maden köpüğü, köle-hür, dilsiz-adil, nankör kent, dünya hayatı, nur ve tarihsel şahsiyetler üzerinden örnekler (meseller) kurması (2:26, 13:17 [2x], 14:24, 14:25, 14:45, 16:75, 16:76, 16:112, 18:32, 18:45, 22:73, 24:35, 25:39, 29:43, 30:28, 30:58, 36:13, 39:27, 39:29, 47:3, 59:21, 66:10, 66:11) ile insanların Allah'a veya elçisine batıl ve cedel amaçlı örnekler yakıştırmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57, 43:58). 2) Somut Vurma, Darbe İndirme ve Vurarak Pınar/Yol Açma (`ضَرَبَ ه / بِـ` — 14 geçiş / 13 ayet): Mûsâ'nın asasıyla taşa vurup on iki pınar fışkırtması ve denize vurup kuru yol açması (2:60, 7:160, 20:77, 26:63), maktule sığırın bir parçasıyla vurulması (2:73), İbrahim'in putlara sağ eliyle darbe indirmesi (37:93), Eyyûb'un bir demet sapla vurması (38:44), gizli süs bilinsin diye ayakları yere vurmama (24:31:64), aile içi ağır başkaldırıda son aşama müdahalesi (4:34) ve sıcak savaşta veya ölüm anında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27). 3) Yeryüzünde Yol Teperek Sefer ve Rızık Yolculuğuna Çıkma (`ضَرَبَ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ` — 6 geçiş / 6 ayet): Geçim ve ticaret veya savunma amacıyla yeryüzünde yolculuğa çıkma, seferde salâtı kısaltma, ölüm anında vasiyet şahitliği ve kuşatılıp yeryüzünde dolaşamayan yoksulların desteklenmesi (2:273, 3:156, 4:94, 4:101, 5:106, 73:20). 4) Çadır, Sûr, Örtü veya Uyku Perdesi Kurup Kapatma ve Vazgeçme (`ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ` — 7 geçiş / 6 ayet): Üzerlerine zillet ve meskenet çadırının kurulması (2:61, 3:112 [2x]), mağarada gençlerin kulakları üzerine uyku perdesi vurulması (18:11), başörtülerinin yakalar üzerine vurulup kapatılması (24:31:15), hesap günü iki taraf arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşanlardan öğüdü/zikri geri çekip vazgeçme sorusu (43:5).",
+  "derivatives": {
+    "ضَرَبَ - يَضْرِبُ - ٱضْرِبْ / ضُرِبَ (Bab I Fiil - 55 geçiş)": "1) Somut örnek ve temsil kurmak (31 geçiş), 2) Fiziksel olarak vurmak, darbe indirmek ve vurarak yol/pınar açmak (12 geçiş), 3) Yeryüzünde yol tepip sefere çıkmak (5 geçiş), 4) Çadır/örtü/perde/sûr kurup kapatmak veya bir şeyden vazgeçmek (7 geçiş).",
+    "ضَرْبًا / فَضَرْبَ (Masdar - 3 geçiş: 2:273, 37:93, 47:4)": "Yeryüzünde yol tepip dolaşma (2:273 ضَرْبًا فِى ٱلْأَرْضِ), sağ elle güçlü bir vuruş (37:93 ضَرْبًۢا بِٱلْيَمِينِ) ve sıcak çarpışmada boyunları vurma (47:4 فَضَرْبَ ٱلرِّقَابِ)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 26,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:26",
+      "word_position": 6,
+      "target_word_uthmani": "يَضْرِبَ",
+      "target_word_rasm": "يضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً",
+      "context_snippet_turkish_tabula_rasa": "Allah sivrisineği ve onun üstününü misal olarak vermekten çekinmez. güvene erenler bunun Rablerinden bir gerçek olduğunu bilirler. gerçeğin üzerini örtenler ise...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًا يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sivrisineği ve onun üstününü misal olarak vermekten çekinmez. güvene erenler bunun Rablerinden bir gerçek olduğunu bilirler. gerçeğin üzerini örtenler ise \"Allah bu misalle neyi murad etti?\" derler, O, bu misalle birçoğunu saptırır, birçoğunu da yola getirir. Onunla saptırdığı yalnız fasıklardır ki onlar Allah'la yapılan sözleşmeyi kabulden sonra bozarlar. Allah'ın birleştirilmesini buyurduğu şeyi ayırırlar ve yeryüzünde bozgunculuk yaparlar; zarara uğrayanlar işte onlardır.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 2,
+      "ayah": 60,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:60",
+      "word_position": 6,
+      "target_word_uthmani": "ٱضْرِب",
+      "target_word_rasm": "ٱضرب",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنفَجَرَتْ",
+      "context_snippet_turkish_tabula_rasa": "Musa, milleti için su aramıştı; \"Asanla taşa vur\" dedik; ondan on iki pınar fışkırdı, herkes içeceği yeri bildi. Allah'ın rızkından yiyin, için, yalnız yeryüzün...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, milleti için su aramıştı; \"Asanla taşa vur\" dedik; ondan on iki pınar fışkırdı, herkes içeceği yeri bildi. Allah'ın rızkından yiyin, için, yalnız yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 2,
+      "ayah": 61,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:61",
+      "word_position": 37,
+      "target_word_uthmani": "وَضُرِبَتْ",
+      "target_word_rasm": "وضربت",
+      "target_word_literal_irab": "Üzerlerine zillet ve meskenet (çadır gibi) vuruldu/kuruldu (ضُرِبَتْ / وَضُرِبَتْ عَلَيْهِمُ — I. bab meçhûl mâzî fiil, 3. tekil dişil; 3 geçiş: 2:61, 3:112 [2x])",
+      "context_snippet_arabic": "لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Musa! Bir çeşit yemeğe dayanamayacağız, bizim için Rabbine yalvar, bize, yerin bitirdiği sebze, hıyar, sarımsak, mercimek ve soğan yetiştirsin\" demiştiniz d...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:Daraba|ROOT:Drb|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Musa! Bir çeşit yemeğe dayanamayacağız, bizim için Rabbine yalvar, bize, yerin bitirdiği sebze, hıyar, sarımsak, mercimek ve soğan yetiştirsin\" demiştiniz de, \"Hayırlı olanı daha düşük şeyle mi değiştirmek istiyorsunuz? Bir şehre inin, şüphesiz orada istediğiniz vardır\" demişti. Onlara yoksulluk ve düşkünlük damgası vuruldu, Allah'ın gazabına uğradılar. Bu, Allah'ın ayetlerini gerçeğin üzerini ört ve haksız yere elçileri öldürmelerindendi; bu, karşı gelmeleri ve taşkınlık yapmalarındandı.",
+      "contextual_meaning": "Çadır, sûr, örtü veya uyku perdesi kurup kapatma ve vazgeçme (ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ): Ahitlerini bozup elçileri haksızca öldürenlerin üzerine çadır kurulur gibi zillet ve meskenetin vurulması (2:61, 3:112 [2x]), mağaradaki gençlerin kulakları üzerine yıllarca uyku perdesi vurulması (18:11), güvene eren kadınların başörtülerini yakalarının üzerine vurup kapatmaları ve gizli süsleri bilinsin diye ayaklarını yere vurmamaları (24:31 [2x]), hesap günü güvene erenlerle iki çıkışlı kaypaklar arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşan bir topluluk oldular diye öğüdün/zikrin onlardan geri çekilmeyeceği vurgusu (43:5)."
+    },
+    {
+      "surah": 2,
+      "ayah": 73,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:73",
+      "word_position": 2,
+      "target_word_uthmani": "ٱضْرِبُوهُ",
+      "target_word_rasm": "ٱضربوه",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا كَذَٰلِكَ يُحْىِ",
+      "context_snippet_turkish_tabula_rasa": "\"Sığırın bir parçasıyla ona vurun\" dedik. İşte böylece Allah ölüleri diriltir ve aklınızı kullanasınız diye size ayetlerini gösterir.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MP"
+      },
+      "ayah_text_arabic_full": "فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sığırın bir parçasıyla ona vurun\" dedik. İşte böylece Allah ölüleri diriltir ve aklınızı kullanasınız diye size ayetlerini gösterir.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 2,
+      "ayah": 273,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:273",
+      "word_position": 9,
+      "target_word_uthmani": "ضَرْبًا",
+      "target_word_rasm": "ضربا",
+      "target_word_literal_irab": "Yeryüzünde yol tepip dolaşmaya (ضَرْبًا فِى ٱلْأَرْضِ — يَسْتَطِيعُونَ fiilinin mansûb masdar mef'ûlü; 1 geçiş: 2:273)",
+      "context_snippet_arabic": "ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ",
+      "context_snippet_turkish_tabula_rasa": "Sadakalarınızı, kendilerini Allah yoluna adayıp yeryüzünde dolaşamayanlara, hayalarından dolayı, kendilerini tanımayanların zengin saydıkları yoksullara verin. ...",
+      "morphology": {
+        "lemma": "Darob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Darob|ROOT:Drb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sadakalarınızı, kendilerini Allah yoluna adayıp yeryüzünde dolaşamayanlara, hayalarından dolayı, kendilerini tanımayanların zengin saydıkları yoksullara verin. Onları yüzlerinden tanırsın, insanlardan yüzsüzlük ederek bir şey istemezler. dolaşıma sokup paylaştığınız iyi bir şeyi Allah şüphesiz bilir.",
+      "contextual_meaning": "Yeryüzünde yol teperek rızık ve sefer yolculuğuna çıkma (ضَرَبَ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ): Ayaklarla yeri döverek yeryüzünde geçim/ticaret veya savunma seferine çıkma; kuşatılıp yeryüzünde dolaşmaya güç yetiremeyen iffetli yoksulların gözetilmesi (2:273), seferde ve rızık yolculuğunda olanların kardeşlik hukuku, araştırma sorumluluğu, salâtı kısaltma ruhsatı, vasiyet şahitliği ve gece okuması kolaylığı (3:156, 4:94, 4:101, 5:106, 73:20)."
+    },
+    {
+      "surah": 3,
+      "ayah": 112,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:112",
+      "word_position": 1,
+      "target_word_uthmani": "ضُرِبَتْ",
+      "target_word_rasm": "ضربت",
+      "target_word_literal_irab": "Üzerlerine zillet ve meskenet (çadır gibi) vuruldu/kuruldu (ضُرِبَتْ / وَضُرِبَتْ عَلَيْهِمُ — I. bab meçhûl mâzî fiil, 3. tekil dişil; 3 geçiş: 2:61, 3:112 [2x])",
+      "context_snippet_arabic": "ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ",
+      "context_snippet_turkish_tabula_rasa": "Nerede bulunsalar Allah'ın ve güvene eren insanların himayesinde olanlar müstesna onlara alçaklık damgası vurulmuştur. Allah'tan bir gazaba uğradılar, onlara aş...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:Daraba|ROOT:Drb|3FS"
+      },
+      "ayah_text_arabic_full": "ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nerede bulunsalar Allah'ın ve güvene eren insanların himayesinde olanlar müstesna onlara alçaklık damgası vurulmuştur. Allah'tan bir gazaba uğradılar, onlara aşağılık damgası vuruldu. Bu, Allah'ın ayetlerini gerçeğin üzerini ört ve haksız yere elçileri öldürmelerindendir. Bu, karşı gelmeleri ve taşkınlık yapmalarındandır.",
+      "contextual_meaning": "Çadır, sûr, örtü veya uyku perdesi kurup kapatma ve vazgeçme (ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ): Ahitlerini bozup elçileri haksızca öldürenlerin üzerine çadır kurulur gibi zillet ve meskenetin vurulması (2:61, 3:112 [2x]), mağaradaki gençlerin kulakları üzerine yıllarca uyku perdesi vurulması (18:11), güvene eren kadınların başörtülerini yakalarının üzerine vurup kapatmaları ve gizli süsleri bilinsin diye ayaklarını yere vurmamaları (24:31 [2x]), hesap günü güvene erenlerle iki çıkışlı kaypaklar arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşan bir topluluk oldular diye öğüdün/zikrin onlardan geri çekilmeyeceği vurgusu (43:5)."
+    },
+    {
+      "surah": 3,
+      "ayah": 112,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:112",
+      "word_position": 18,
+      "target_word_uthmani": "وَضُرِبَتْ",
+      "target_word_rasm": "وضربت",
+      "target_word_literal_irab": "Üzerlerine zillet ve meskenet (çadır gibi) vuruldu/kuruldu (ضُرِبَتْ / وَضُرِبَتْ عَلَيْهِمُ — I. bab meçhûl mâzî fiil, 3. tekil dişil; 3 geçiş: 2:61, 3:112 [2x])",
+      "context_snippet_arabic": "بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Nerede bulunsalar Allah'ın ve güvene eren insanların himayesinde olanlar müstesna onlara alçaklık damgası vurulmuştur. Allah'tan bir gazaba uğradılar, onlara aş...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:Daraba|ROOT:Drb|3FS"
+      },
+      "ayah_text_arabic_full": "ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nerede bulunsalar Allah'ın ve güvene eren insanların himayesinde olanlar müstesna onlara alçaklık damgası vurulmuştur. Allah'tan bir gazaba uğradılar, onlara aşağılık damgası vuruldu. Bu, Allah'ın ayetlerini gerçeğin üzerini ört ve haksız yere elçileri öldürmelerindendir. Bu, karşı gelmeleri ve taşkınlık yapmalarındandır.",
+      "contextual_meaning": "Çadır, sûr, örtü veya uyku perdesi kurup kapatma ve vazgeçme (ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ): Ahitlerini bozup elçileri haksızca öldürenlerin üzerine çadır kurulur gibi zillet ve meskenetin vurulması (2:61, 3:112 [2x]), mağaradaki gençlerin kulakları üzerine yıllarca uyku perdesi vurulması (18:11), güvene eren kadınların başörtülerini yakalarının üzerine vurup kapatmaları ve gizli süsleri bilinsin diye ayaklarını yere vurmamaları (24:31 [2x]), hesap günü güvene erenlerle iki çıkışlı kaypaklar arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşan bir topluluk oldular diye öğüdün/zikrin onlardan geri çekilmeyeceği vurgusu (43:5)."
+    },
+    {
+      "surah": 3,
+      "ayah": 156,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:156",
+      "word_position": 11,
+      "target_word_uthmani": "ضَرَبُوا۟",
+      "target_word_rasm": "ضربوا",
+      "target_word_literal_irab": "Yeryüzünde veya Allah yolunda sefere çıktıklarında / çıktığınızda (ضَرَبُوا۟ / ضَرَبْتُمْ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ — I. bab malûm mâzî fiil; 4 geçiş)",
+      "context_snippet_arabic": "وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Yolculuğa çıkan veya savaşa giden kardeşleri hakkında: \"Onlar yanımızda olsalardı ölmezler ve öldürülmezlerdi\" diyen gerçeğin üzerini örtenle...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةً فِى قُلُوبِهِمْ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Yolculuğa çıkan veya savaşa giden kardeşleri hakkında: \"Onlar yanımızda olsalardı ölmezler ve öldürülmezlerdi\" diyen gerçeğin üzerini örtenler gibi olmayın ki, Allah bunu onların kalblerinde bir hasret olarak bıraksın. Dirilten de öldüren de Allah'tır. Allah işlediklerinizi görür.",
+      "contextual_meaning": "Yeryüzünde yol teperek rızık ve sefer yolculuğuna çıkma (ضَرَبَ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ): Ayaklarla yeri döverek yeryüzünde geçim/ticaret veya savunma seferine çıkma; kuşatılıp yeryüzünde dolaşmaya güç yetiremeyen iffetli yoksulların gözetilmesi (2:273), seferde ve rızık yolculuğunda olanların kardeşlik hukuku, araştırma sorumluluğu, salâtı kısaltma ruhsatı, vasiyet şahitliği ve gece okuması kolaylığı (3:156, 4:94, 4:101, 5:106, 73:20)."
+    },
+    {
+      "surah": 4,
+      "ayah": 34,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:34",
+      "word_position": 29,
+      "target_word_uthmani": "وَٱضْرِبُوهُنَّ",
+      "target_word_rasm": "وٱضربوهن",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden ...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MP"
+      },
+      "ayah_text_arabic_full": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden boyun eğenler ve Allah'ın korunmasını emrettiğini, kocasının bulunmadığı zaman da koruyanlardır. Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. Doğrusu Allah Yüce'dir, Büyük'tür.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 4,
+      "ayah": 94,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:94",
+      "word_position": 5,
+      "target_word_uthmani": "ضَرَبْتُمْ",
+      "target_word_rasm": "ضربتم",
+      "target_word_literal_irab": "Yeryüzünde veya Allah yolunda sefere çıktıklarında / çıktığınızda (ضَرَبُوا۟ / ضَرَبْتُمْ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ — I. bab malûm mâzî fiil; 4 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah yolunda yürüdüğünüz vakit, her şeyi iyice anlayın. Size, müslüman olduğunu bildirene, dünya hayatının geçici menfaatine göz dikerek: \"S...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah yolunda yürüdüğünüz vakit, her şeyi iyice anlayın. Size, müslüman olduğunu bildirene, dünya hayatının geçici menfaatine göz dikerek: \"Sen güvene eren değilsin\" demeyin. Allah katında birçok ganimetler vardır. Evvelce siz de öyleydiniz. Allah size iyilikte bulundu, iyice araştırıp anlayın, Allah işlediklerinizden şüphesiz haberdardır.",
+      "contextual_meaning": "Yeryüzünde yol teperek rızık ve sefer yolculuğuna çıkma (ضَرَبَ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ): Ayaklarla yeri döverek yeryüzünde geçim/ticaret veya savunma seferine çıkma; kuşatılıp yeryüzünde dolaşmaya güç yetiremeyen iffetli yoksulların gözetilmesi (2:273), seferde ve rızık yolculuğunda olanların kardeşlik hukuku, araştırma sorumluluğu, salâtı kısaltma ruhsatı, vasiyet şahitliği ve gece okuması kolaylığı (3:156, 4:94, 4:101, 5:106, 73:20)."
+    },
+    {
+      "surah": 4,
+      "ayah": 101,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:101",
+      "word_position": 2,
+      "target_word_uthmani": "ضَرَبْتُمْ",
+      "target_word_rasm": "ضربتم",
+      "target_word_literal_irab": "Yeryüzünde veya Allah yolunda sefere çıktıklarında / çıktığınızda (ضَرَبُوا۟ / ضَرَبْتُمْ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ — I. bab malûm mâzî fiil; 4 geçiş)",
+      "context_snippet_arabic": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ",
+      "context_snippet_turkish_tabula_rasa": "Yolculuk ettiğinizde, gerçeğin üzerini örtenlerin size bir fenalık yapmasından korkarsanız, irtibat bağını kısaltmanızda size bir sorumluluk yoktur. Zira gerçeğin üzerini örtenler, size apaçık düşmandırlar.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ إِنَّ ٱلْكَٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yolculuk ettiğinizde, gerçeğin üzerini örtenlerin size bir fenalık yapmasından korkarsanız, irtibat bağını kısaltmanızda size bir sorumluluk yoktur. Zira gerçeğin üzerini örtenler, size apaçık düşmandırlar.",
+      "contextual_meaning": "Yeryüzünde yol teperek rızık ve sefer yolculuğuna çıkma (ضَرَبَ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ): Ayaklarla yeri döverek yeryüzünde geçim/ticaret veya savunma seferine çıkma; kuşatılıp yeryüzünde dolaşmaya güç yetiremeyen iffetli yoksulların gözetilmesi (2:273), seferde ve rızık yolculuğunda olanların kardeşlik hukuku, araştırma sorumluluğu, salâtı kısaltma ruhsatı, vasiyet şahitliği ve gece okuması kolaylığı (3:156, 4:94, 4:101, 5:106, 73:20)."
+    },
+    {
+      "surah": 5,
+      "ayah": 106,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:106",
+      "word_position": 22,
+      "target_word_uthmani": "ضَرَبْتُمْ",
+      "target_word_rasm": "ضربتم",
+      "target_word_literal_irab": "Yeryüzünde veya Allah yolunda sefere çıktıklarında / çıktığınızda (ضَرَبُوا۟ / ضَرَبْتُمْ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ — I. bab malûm mâzî fiil; 4 geçiş)",
+      "context_snippet_arabic": "غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم",
+      "context_snippet_turkish_tabula_rasa": "... şayet yolculukta olup başınıza da ölüm musibeti gelmişse, irtibat bağından sonra alıkoyacağınız, şüpheleniyorsanız, \"Akraba bile olsa bağlayıcı ahitle hiçbir değeri değiştirmeyeceğiz, Allah'ın şahidliğini gizlemeyeceğiz, yoksa şüphesiz ağır sapmaya düşenlerden oluruz\" diye bağlayıcı ahit eden sizden olmayan iki kişiyi şahid tutun.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Ölüm birinize geldiği zaman vasiyet ederken içinizden iki adil kimseyi; şayet yolculukta olup başınıza da ölüm musibeti gelmişse, irtibat bağından sonra alıkoyacağınız, şüpheleniyorsanız, \"Akraba bile olsa bağlayıcı ahitle hiçbir değeri değiştirmeyeceğiz, Allah'ın şahidliğini gizlemeyeceğiz, yoksa şüphesiz ağır sapmaya düşenlerden oluruz\" diye bağlayıcı ahit eden sizden olmayan iki kişiyi şahid tutun.",
+      "contextual_meaning": "Yeryüzünde yol teperek rızık ve sefer yolculuğuna çıkma (ضَرَبَ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ): Ayaklarla yeri döverek yeryüzünde geçim/ticaret veya savunma seferine çıkma; kuşatılıp yeryüzünde dolaşmaya güç yetiremeyen iffetli yoksulların gözetilmesi (2:273), seferde ve rızık yolculuğunda olanların kardeşlik hukuku, araştırma sorumluluğu, salâtı kısaltma ruhsatı, vasiyet şahitliği ve gece okuması kolaylığı (3:156, 4:94, 4:101, 5:106, 73:20)."
+    },
+    {
+      "surah": 7,
+      "ayah": 160,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:160",
+      "word_position": 13,
+      "target_word_uthmani": "ٱضْرِب",
+      "target_word_rasm": "ٱضرب",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ",
+      "context_snippet_turkish_tabula_rasa": "Biz İsrailoğullarını oymaklar halinde on iki topluluğa ayırdık. Milleti Musa'dan su isteyince ona: \"Asanla taşa vur\" diye bildirdik; ondan on iki pınar fışkırdı...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MS"
+      },
+      "ayah_text_arabic_full": "وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz İsrailoğullarını oymaklar halinde on iki topluluğa ayırdık. Milleti Musa'dan su isteyince ona: \"Asanla taşa vur\" diye bildirdik; ondan on iki pınar fışkırdı. Herkes içeceği yeri öğrendi. Bulutla üzerlerine gölge yaptık, onlara kudret helvası ve bıldırcın indirdik, \"Size verdiğimiz rızıkların temiz olanlarından yiyin\" dedik. Onlar, karşı gelmekle, Bize değil kendilerine zulmediyorlardı.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 8,
+      "ayah": 12,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:12",
+      "word_position": 17,
+      "target_word_uthmani": "فَٱضْرِبُوا۟",
+      "target_word_rasm": "فٱضربوا",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Rabbin kozmik görevlilere, \"Ben sizinleyim, güvene erenleri destekleyin\" diye vahyetti. \"Ben gerçeğin üzerini örtenlerin kalblerine korku salacağım, artık vurun...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MP"
+      },
+      "ayah_text_arabic_full": "إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin kozmik görevlilere, \"Ben sizinleyim, güvene erenleri destekleyin\" diye vahyetti. \"Ben gerçeğin üzerini örtenlerin kalblerine korku salacağım, artık vurun onların boyunları üstüne, vurun her parmağına\" dedi.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 8,
+      "ayah": 12,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:12",
+      "word_position": 20,
+      "target_word_uthmani": "وَٱضْرِبُوا۟",
+      "target_word_rasm": "وٱضربوا",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin kozmik görevlilere, \"Ben sizinleyim, güvene erenleri destekleyin\" diye vahyetti. \"Ben gerçeğin üzerini örtenlerin kalblerine korku salacağım, artık vurun...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MP"
+      },
+      "ayah_text_arabic_full": "إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin kozmik görevlilere, \"Ben sizinleyim, güvene erenleri destekleyin\" diye vahyetti. \"Ben gerçeğin üzerini örtenlerin kalblerine korku salacağım, artık vurun onların boyunları üstüne, vurun her parmağına\" dedi.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 8,
+      "ayah": 50,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:50",
+      "word_position": 8,
+      "target_word_uthmani": "يَضْرِبُونَ",
+      "target_word_rasm": "يضربون",
+      "target_word_literal_irab": "Yüzlerine ve arkalarına/sırtlarına vururlar (يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ — I. bab merfû muzâri fiil; 2 geçiş: 8:50, 47:27)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ وَذُوقُوا۟",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevliler, gerçeğin üzerini örtenlerin yüzlerine ve sırtlarına vurarak, \"Yakıcı azabı tadın, bu, kendi ellerinizle yaptığınızın karşılığıdır\" diyerek ca...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevliler, gerçeğin üzerini örtenlerin yüzlerine ve sırtlarına vurarak, \"Yakıcı azabı tadın, bu, kendi ellerinizle yaptığınızın karşılığıdır\" diyerek canlarını alırken bir görseydin! Yoksa Allah kullara asla zulmetmez.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 13,
+      "ayah": 17,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:17",
+      "word_position": 24,
+      "target_word_uthmani": "يَضْرِبُ",
+      "target_word_rasm": "يضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "زَبَدٌ مِّثْلُهُۥ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ",
+      "context_snippet_turkish_tabula_rasa": "Allah gökten su indirir, dereler onunla dolar taşar. Sel, üste çıkan köpüğü alır götürür. Süslenmek veya faydalanmak için ateşte erittiklerinizin üzerinde de bu...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا رَّابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ زَبَدٌ مِّثْلُهُۥ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah gökten su indirir, dereler onunla dolar taşar. Sel, üste çıkan köpüğü alır götürür. Süslenmek veya faydalanmak için ateşte erittiklerinizin üzerinde de buna benzer bir köpük vardır. Allah, hak ve batıl için şöyle misal verir: Köpük uçup gider, insanlara fayda veren ise yerde kalır. Allah bunun gibi daha nice misaller verir.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 13,
+      "ayah": 17,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:17",
+      "word_position": 40,
+      "target_word_uthmani": "يَضْرِبُ",
+      "target_word_rasm": "يضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "فِى ٱلْأَرْضِ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ",
+      "context_snippet_turkish_tabula_rasa": "Allah gökten su indirir, dereler onunla dolar taşar. Sel, üste çıkan köpüğü alır götürür. Süslenmek veya faydalanmak için ateşte erittiklerinizin üzerinde de bu...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا رَّابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ زَبَدٌ مِّثْلُهُۥ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah gökten su indirir, dereler onunla dolar taşar. Sel, üste çıkan köpüğü alır götürür. Süslenmek veya faydalanmak için ateşte erittiklerinizin üzerinde de buna benzer bir köpük vardır. Allah, hak ve batıl için şöyle misal verir: Köpük uçup gider, insanlara fayda veren ise yerde kalır. Allah bunun gibi daha nice misaller verir.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 14,
+      "ayah": 24,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:24",
+      "word_position": 4,
+      "target_word_uthmani": "ضَرَبَ",
+      "target_word_rasm": "ضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, hoş bir sözü; kökü sağlam, dalları göğe doğru olan, Rabbinin izniyle her zaman meyve veren hoş bir ağaca benzeterek nasıl misal verdiğini görmüyor mus...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, hoş bir sözü; kökü sağlam, dalları göğe doğru olan, Rabbinin izniyle her zaman meyve veren hoş bir ağaca benzeterek nasıl misal verdiğini görmüyor musun? İnsanlar ibret alsın diye Allah onlara misal gösteriyor.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 14,
+      "ayah": 25,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:25",
+      "word_position": 7,
+      "target_word_uthmani": "وَيَضْرِبُ",
+      "target_word_rasm": "ويضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "حِينٍۭ بِإِذْنِ رَبِّهَا وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, hoş bir sözü; kökü sağlam, dalları göğe doğru olan, Rabbinin izniyle her zaman meyve veren hoş bir ağaca benzeterek nasıl misal verdiğini görmüyor mus...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, hoş bir sözü; kökü sağlam, dalları göğe doğru olan, Rabbinin izniyle her zaman meyve veren hoş bir ağaca benzeterek nasıl misal verdiğini görmüyor musun? İnsanlar ibret alsın diye Allah onlara misal gösteriyor.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 14,
+      "ayah": 45,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:45",
+      "word_position": 12,
+      "target_word_uthmani": "وَضَرَبْنَا",
+      "target_word_rasm": "وضربنا",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ ٱلْأَمْثَالَ",
+      "context_snippet_turkish_tabula_rasa": "İnsanları, kendilerine azabın geleceği gün ile uyar. Haksızlık edenler: \"Rabbimiz! Bizi yakın bir süreye kadar ertele de çağrına gelelim, elçilere uyalım\" derle...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|1P"
+      },
+      "ayah_text_arabic_full": "وَسَكَنتُمْ فِى مَسَٰكِنِ ٱلَّذِينَ ظَلَمُوٓا۟ أَنفُسَهُمْ وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ ٱلْأَمْثَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanları, kendilerine azabın geleceği gün ile uyar. Haksızlık edenler: \"Rabbimiz! Bizi yakın bir süreye kadar ertele de çağrına gelelim, elçilere uyalım\" derler. Siz daha önce, sonunuzun gelmeyeceğine bağlayıcı ahit etmemiş miydiniz! Üstelik kendilerine yazık edenlerin yerlerinde oturdunuz. Onlara, yaptıklarımız da sizlere açıklanmıştı. Size misaller de vermiştik.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 16,
+      "ayah": 74,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:74",
+      "word_position": 2,
+      "target_word_uthmani": "تَضْرِبُوا۟",
+      "target_word_rasm": "تضربوا",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "فَلَا تَضْرِبُوا۟ لِلَّهِ ٱلْأَمْثَالَ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a benzerler koşmaya kalkmayın. Şüphesiz Allah bilir, siz bilmezsiniz.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلَا تَضْرِبُوا۟ لِلَّهِ ٱلْأَمْثَالَ إِنَّ ٱللَّهَ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a benzerler koşmaya kalkmayın. Şüphesiz Allah bilir, siz bilmezsiniz.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 16,
+      "ayah": 75,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:75",
+      "word_position": 1,
+      "target_word_uthmani": "ضَرَبَ",
+      "target_word_rasm": "ضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا",
+      "context_snippet_turkish_tabula_rasa": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimse...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا هَلْ يَسْتَوُۥنَ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimseyi misal gösterir: Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 16,
+      "ayah": 76,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:76",
+      "word_position": 1,
+      "target_word_uthmani": "وَضَرَبَ",
+      "target_word_rasm": "وضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ",
+      "context_snippet_turkish_tabula_rasa": "Allah iki adamı misal veriyor: Biri hiçbir şeye gücü yetmeyen bir dilsiz ki efendisine yüktür, nereye gönderse bir hayır çıkmaz; bu, doğru yolda olan, adaletle ...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah iki adamı misal veriyor: Biri hiçbir şeye gücü yetmeyen bir dilsiz ki efendisine yüktür, nereye gönderse bir hayır çıkmaz; bu, doğru yolda olan, adaletle emreden kimse ile bir olabilir mi?",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 16,
+      "ayah": 112,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:112",
+      "word_position": 1,
+      "target_word_uthmani": "وَضَرَبَ",
+      "target_word_rasm": "وضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "وَضَرَبَ ٱللَّهُ مَثَلًا قَرْيَةً",
+      "context_snippet_turkish_tabula_rasa": "Allah size güven ve huzur içinde olan bir kasabayı misal verir: Her taraftan oraya bolca rızık geliyordu. Ama Allah'ın nimetlerine nankörlük ettiler; bu yüzden ...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size güven ve huzur içinde olan bir kasabayı misal verir: Her taraftan oraya bolca rızık geliyordu. Ama Allah'ın nimetlerine nankörlük ettiler; bu yüzden Allah onlara yaptıklarına karşılık açlık ve korku belasını tattırdı.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 17,
+      "ayah": 48,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:48",
+      "word_position": 3,
+      "target_word_uthmani": "ضَرَبُوا۟",
+      "target_word_rasm": "ضربوا",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "Sana nasıl misaller verdiklerine bir bak! Bu yüzden sapmışlardır, artık bir yol da bulamamaktadırlar.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MP"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana nasıl misaller verdiklerine bir bak! Bu yüzden sapmışlardır, artık bir yol da bulamamaktadırlar.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 18,
+      "ayah": 11,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:11",
+      "word_position": 1,
+      "target_word_uthmani": "فَضَرَبْنَا",
+      "target_word_rasm": "فضربنا",
+      "target_word_literal_irab": "Mağarada kulakları üzerine (uyku perdesi) vurduk (فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ — I. bab malûm mâzî fiil; 1 geçiş: 18:11)",
+      "context_snippet_arabic": "فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى",
+      "context_snippet_turkish_tabula_rasa": "Mağaranın içinde onları yıllarca uyuttuk; sonra, iki taraftan hangisinin bekledikleri sonucu iyi hesaplamış olduğunu belirtmek için onları uyandırdık.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|1P"
+      },
+      "ayah_text_arabic_full": "فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mağaranın içinde onları yıllarca uyuttuk; sonra, iki taraftan hangisinin bekledikleri sonucu iyi hesaplamış olduğunu belirtmek için onları uyandırdık.",
+      "contextual_meaning": "Çadır, sûr, örtü veya uyku perdesi kurup kapatma ve vazgeçme (ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ): Ahitlerini bozup elçileri haksızca öldürenlerin üzerine çadır kurulur gibi zillet ve meskenetin vurulması (2:61, 3:112 [2x]), mağaradaki gençlerin kulakları üzerine yıllarca uyku perdesi vurulması (18:11), güvene eren kadınların başörtülerini yakalarının üzerine vurup kapatmaları ve gizli süsleri bilinsin diye ayaklarını yere vurmamaları (24:31 [2x]), hesap günü güvene erenlerle iki çıkışlı kaypaklar arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşan bir topluluk oldular diye öğüdün/zikrin onlardan geri çekilmeyeceği vurgusu (43:5)."
+    },
+    {
+      "surah": 18,
+      "ayah": 32,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:32",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱضْرِبْ",
+      "target_word_rasm": "وٱضرب",
+      "target_word_literal_irab": "Onlara örnek/temsil olarak ortaya koy (وَٱضْرِبْ لَهُم مَّثَلًا / مَّثَلَ — I. bab emir fiil; 3 geçiş)",
+      "context_snippet_arabic": "وَٱضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ",
+      "context_snippet_turkish_tabula_rasa": "Onlara iki adamı misal olarak göster: Birine iki üzüm bağı verip, etrafını hurmalıklarla çevirmiş ve aralarında ekinler bitirmiştik.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَٰبٍ وَحَفَفْنَٰهُمَا بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara iki adamı misal olarak göster: Birine iki üzüm bağı verip, etrafını hurmalıklarla çevirmiş ve aralarında ekinler bitirmiştik.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 18,
+      "ayah": 45,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:45",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱضْرِبْ",
+      "target_word_rasm": "وٱضرب",
+      "target_word_literal_irab": "Onlara örnek/temsil olarak ortaya koy (وَٱضْرِبْ لَهُم مَّثَلًا / مَّثَلَ — I. bab emir fiil; 3 geçiş)",
+      "context_snippet_arabic": "وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, dünya hayatı misalinin tıpkı şöyle olduğunu anlat: Gökten indirdiğimiz su ile yeryüzünde yetişen bitkiler birbirine karışır, ama sonunda rüzgarın savura...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَٰحُ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ مُّقْتَدِرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, dünya hayatı misalinin tıpkı şöyle olduğunu anlat: Gökten indirdiğimiz su ile yeryüzünde yetişen bitkiler birbirine karışır, ama sonunda rüzgarın savuracağı çerçöpe döner. Allah her şeyin üstünde bir kudrete sahip olandır.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 20,
+      "ayah": 77,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:77",
+      "word_position": 8,
+      "target_word_uthmani": "فَٱضْرِبْ",
+      "target_word_rasm": "فٱضرب",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًا فِى",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki Musa'ya: \"Kullarımı geceleyin yürüt, denizde onlara kuru bir yol aç, batmaktan ve düşmanların yetişmesinden korkma, endişe etme\" diye vahyettik.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًا فِى ٱلْبَحْرِ يَبَسًا لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Musa'ya: \"Kullarımı geceleyin yürüt, denizde onlara kuru bir yol aç, batmaktan ve düşmanların yetişmesinden korkma, endişe etme\" diye vahyettik.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 22,
+      "ayah": 73,
+      "surah_name": "Hac",
+      "ayah_ref": "22:73",
+      "word_position": 3,
+      "target_word_uthmani": "ضُرِبَ",
+      "target_word_rasm": "ضرب",
+      "target_word_literal_irab": "Bir örnek ortaya konuldu / örnek olarak gösterildiğinde (ضُرِبَ مَثَلٌ / ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا — I. bab meçhûl mâzî fiil; 2 geçiş: 22:73, 43:57)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "Ey insanlar! Bir misal verilmektedir, şimdi onu dinleyin: Sizlerin Allah'ı bırakıp taptıklarınız bir araya gelseler, bir sinek bile yaratamıyacaklardır. Sinek o...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Bir misal verilmektedir, şimdi onu dinleyin: Sizlerin Allah'ı bırakıp taptıklarınız bir araya gelseler, bir sinek bile yaratamıyacaklardır. Sinek onlardan bir şey kapsa, onu kurtaramazlar; isteyen de, istenen de aciz!",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 15,
+      "target_word_uthmani": "وَلْيَضْرِبْنَ",
+      "target_word_rasm": "وليضربن",
+      "target_word_literal_irab": "Başörtülerini yakalarının üzerine vurup kapatsınlar / ayaklarını yere vurmasınlar (وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ / وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ — I. bab 3. çoğul dişil emir/nehiy muzâri fiil; 2 geçiş: 24:31)",
+      "context_snippet_arabic": "مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınl...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3FP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "contextual_meaning": "Çadır, sûr, örtü veya uyku perdesi kurup kapatma ve vazgeçme (ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ): Ahitlerini bozup elçileri haksızca öldürenlerin üzerine çadır kurulur gibi zillet ve meskenetin vurulması (2:61, 3:112 [2x]), mağaradaki gençlerin kulakları üzerine yıllarca uyku perdesi vurulması (18:11), güvene eren kadınların başörtülerini yakalarının üzerine vurup kapatmaları ve gizli süsleri bilinsin diye ayaklarını yere vurmamaları (24:31 [2x]), hesap günü güvene erenlerle iki çıkışlı kaypaklar arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşan bir topluluk oldular diye öğüdün/zikrin onlardan geri çekilmeyeceği vurgusu (43:5)."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 64,
+      "target_word_uthmani": "يَضْرِبْنَ",
+      "target_word_rasm": "يضربن",
+      "target_word_literal_irab": "Başörtülerini yakalarının üzerine vurup kapatsınlar / ayaklarını yere vurmasınlar (وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ / وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ — I. bab 3. çoğul dişil emir/nehiy muzâri fiil; 2 geçiş: 24:31)",
+      "context_snippet_arabic": "عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا",
+      "context_snippet_turkish_tabula_rasa": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınl...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3FP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "contextual_meaning": "Çadır, sûr, örtü veya uyku perdesi kurup kapatma ve vazgeçme (ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ): Ahitlerini bozup elçileri haksızca öldürenlerin üzerine çadır kurulur gibi zillet ve meskenetin vurulması (2:61, 3:112 [2x]), mağaradaki gençlerin kulakları üzerine yıllarca uyku perdesi vurulması (18:11), güvene eren kadınların başörtülerini yakalarının üzerine vurup kapatmaları ve gizli süsleri bilinsin diye ayaklarını yere vurmamaları (24:31 [2x]), hesap günü güvene erenlerle iki çıkışlı kaypaklar arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşan bir topluluk oldular diye öğüdün/zikrin onlardan geri çekilmeyeceği vurgusu (43:5)."
+    },
+    {
+      "surah": 24,
+      "ayah": 35,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:35",
+      "word_position": 41,
+      "target_word_uthmani": "وَيَضْرِبُ",
+      "target_word_rasm": "ويضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "Allah göklerin ve yerin Nur'udur. O'nun nuru, içinde ışık bulunan bir kandil yuvasına benzer. O ışık bir cam içindedir, cam ise, sanki inci gibi parlayan bir yı...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah göklerin ve yerin Nur'udur. O'nun nuru, içinde ışık bulunan bir kandil yuvasına benzer. O ışık bir cam içindedir, cam ise, sanki inci gibi parlayan bir yıldızdır; bu ne yalnız doğuda ve ne de yalnız batıda bulunan bereketli zeytin ağacından yakılır. Ateş değmese bile, nerdeyse yağın kendisi aydınlatacak! Nur üstüne nurdur. Allah dilediğini nuruna kavuşturur. Allah insanlara misaller verir. O, herşeyi bilir.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 25,
+      "ayah": 9,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:9",
+      "word_position": 3,
+      "target_word_uthmani": "ضَرَبُوا۟",
+      "target_word_rasm": "ضربوا",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَٰلَ فَضَلُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "Sana nasıl misaller getirdiklerine bir bak! Onlar sapmışlardır, yol bulamazlar.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MP"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana nasıl misaller getirdiklerine bir bak! Onlar sapmışlardır, yol bulamazlar.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 25,
+      "ayah": 39,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:39",
+      "word_position": 2,
+      "target_word_uthmani": "ضَرَبْنَا",
+      "target_word_rasm": "ضربنا",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "وَكُلًّا ضَرَبْنَا لَهُ ٱلْأَمْثَٰلَ وَكُلًّا",
+      "context_snippet_turkish_tabula_rasa": "Her birine misaller vermiştik ama, dinlemedikleri için hepsini kırdık geçirdik.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|1P"
+      },
+      "ayah_text_arabic_full": "وَكُلًّا ضَرَبْنَا لَهُ ٱلْأَمْثَٰلَ وَكُلًّا تَبَّرْنَا تَتْبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Her birine misaller vermiştik ama, dinlemedikleri için hepsini kırdık geçirdik.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 26,
+      "ayah": 63,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:63",
+      "word_position": 5,
+      "target_word_uthmani": "ٱضْرِب",
+      "target_word_rasm": "ٱضرب",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine Biz Musa'ya: \"Değneğinle denize vur\" diye vahyettik. Hemen deniz ikiye ayrıldı, her parçası yüce bir dağ gibiydi.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MS"
+      },
+      "ayah_text_arabic_full": "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine Biz Musa'ya: \"Değneğinle denize vur\" diye vahyettik. Hemen deniz ikiye ayrıldı, her parçası yüce bir dağ gibiydi.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 29,
+      "ayah": 43,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:43",
+      "word_position": 3,
+      "target_word_uthmani": "نَضْرِبُهَا",
+      "target_word_rasm": "نضربها",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَآ",
+      "context_snippet_turkish_tabula_rasa": "Biz bu misalleri insanlara veriyoruz, onları ancak bilenler anlayabilir.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|1P"
+      },
+      "ayah_text_arabic_full": "وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz bu misalleri insanlara veriyoruz, onları ancak bilenler anlayabilir.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 30,
+      "ayah": 28,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:28",
+      "word_position": 1,
+      "target_word_uthmani": "ضَرَبَ",
+      "target_word_rasm": "ضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "ضَرَبَ لَكُم مَّثَلًا مِّنْ",
+      "context_snippet_turkish_tabula_rasa": "... Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve birbirinizi saydığınız gibi bu ortaklarınızı sayar mısınız? Düşünen millete ayetleri böylece uzun uzadıya açıklarız.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size kendinizden bir misal vermektedir: Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve birbirinizi saydığınız gibi bu ortaklarınızı sayar mısınız? Düşünen millete ayetleri böylece uzun uzadıya açıklarız.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 30,
+      "ayah": 58,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:58",
+      "word_position": 2,
+      "target_word_uthmani": "ضَرَبْنَا",
+      "target_word_rasm": "ضربنا",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki bu Kuran'da insanlar için her türlü misali vermişizdir. Bununla beraber, eğer sen onlara bir apaçık gösterge getirmiş olsan, gerçeğin üzerini örten...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ وَلَئِن جِئْتَهُم بِـَٔايَةٍ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki bu Kuran'da insanlar için her türlü misali vermişizdir. Bununla beraber, eğer sen onlara bir apaçık gösterge getirmiş olsan, gerçeğin üzerini örtenler: \"Siz ancak batıl şeyler ortaya atanlarsınız\" derler.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 36,
+      "ayah": 13,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:13",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱضْرِبْ",
+      "target_word_rasm": "وٱضرب",
+      "target_word_literal_irab": "Onlara örnek/temsil olarak ortaya koy (وَٱضْرِبْ لَهُم مَّثَلًا / مَّثَلَ — I. bab emir fiil; 3 geçiş)",
+      "context_snippet_arabic": "وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَٰبَ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlara, halkına elçiler gelen şehri mesel olarak anlat:",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlara, halkına elçiler gelen şehri mesel olarak anlat:",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 36,
+      "ayah": 78,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:78",
+      "word_position": 1,
+      "target_word_uthmani": "وَضَرَبَ",
+      "target_word_rasm": "وضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ",
+      "context_snippet_turkish_tabula_rasa": "İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; \"Çürümüş kemikleri kim yaratacak\" diyere...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; \"Çürümüş kemikleri kim yaratacak\" diyerek, Bize misal vermeye kalkar?",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 37,
+      "ayah": 93,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:93",
+      "word_position": 3,
+      "target_word_uthmani": "ضَرْبًۢا",
+      "target_word_rasm": "ضربا",
+      "target_word_literal_irab": "Sağ eliyle güçlü bir vuruşla vurarak (ضَرْبًۢا بِٱلْيَمِينِ — mansûb mef'ûl-i mutlak / hâl masdarı; 1 geçiş: 37:93)",
+      "context_snippet_arabic": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+      "context_snippet_turkish_tabula_rasa": "Sonunda, üzerlerine yürüyüp kuvvetle vurdu.",
+      "morphology": {
+        "lemma": "Darob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Darob|ROOT:Drb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda, üzerlerine yürüyüp kuvvetle vurdu.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 38,
+      "ayah": 44,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:44",
+      "word_position": 4,
+      "target_word_uthmani": "فَٱضْرِب",
+      "target_word_rasm": "فٱضرب",
+      "target_word_literal_irab": "Asanla taşa/denize vur / kuru bir yol aç / ona vurun (ٱضْرِب / فَٱضْرِبْ / ٱضْرِبُوهُ / فَٱضْرِبُوا۟ / وَٱضْرِبُوا۟ / وَٱضْرِبُوهُنَّ — I. bab emir fiil; 9 geçiş: 2:60, 2:73, 4:34, 7:160, 8:12 [2x], 20:77, 26:63, 38:44)",
+      "context_snippet_arabic": "وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Eyyub! Eline bir demet sap alıp onunla vur, bağlayıcı ahdini bozma\" demiştik. Doğrusu Biz onu sebatlı ve dirençli bulmuştuk. Ne iyi kuldu, daima Allah'a yön...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Daraba|ROOT:Drb|2MS"
+      },
+      "ayah_text_arabic_full": "وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ إِنَّا وَجَدْنَٰهُ صَابِرًا نِّعْمَ ٱلْعَبْدُ إِنَّهُۥٓ أَوَّابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Eyyub! Eline bir demet sap alıp onunla vur, bağlayıcı ahdini bozma\" demiştik. Doğrusu Biz onu sebatlı ve dirençli bulmuştuk. Ne iyi kuldu, daima Allah'a yönelirdi.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 39,
+      "ayah": 27,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:27",
+      "word_position": 2,
+      "target_word_uthmani": "ضَرَبْنَا",
+      "target_word_rasm": "ضربنا",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "Biz bu Kuran'da insanlara her türlü misali, belki öğüt alırlar diye, and olsun ki verdik.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz bu Kuran'da insanlara her türlü misali, belki öğüt alırlar diye, and olsun ki verdik.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 39,
+      "ayah": 29,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:29",
+      "word_position": 1,
+      "target_word_uthmani": "ضَرَبَ",
+      "target_word_rasm": "ضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا",
+      "context_snippet_turkish_tabula_rasa": "Allah, geçimsiz efendileri olan bir adamla, yalnız bir kişiye bağlı olan bir adamı misal olarak verir. Bu ikisi eşit midir? Övülmek Allah içindir, fakat çoğu bi...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, geçimsiz efendileri olan bir adamla, yalnız bir kişiye bağlı olan bir adamı misal olarak verir. Bu ikisi eşit midir? Övülmek Allah içindir, fakat çoğu bilmezler.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 43,
+      "ayah": 5,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:5",
+      "word_position": 1,
+      "target_word_uthmani": "أَفَنَضْرِبُ",
+      "target_word_rasm": "أفنضرب",
+      "target_word_literal_irab": "Öğüdü/zikri sizden bir yana bırakıp geri mi çekelim (أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا — I. bab merfû muzâri fiil; 1 geçiş: 43:5)",
+      "context_snippet_arabic": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا",
+      "context_snippet_turkish_tabula_rasa": "Ey gerçeğin üzerini örtenler! Aşırı giden kimselersiniz diye sizi Kuran'la uyarmaktan vaz mı geçelim?",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|1P"
+      },
+      "ayah_text_arabic_full": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey gerçeğin üzerini örtenler! Aşırı giden kimselersiniz diye sizi Kuran'la uyarmaktan vaz mı geçelim?",
+      "contextual_meaning": "Çadır, sûr, örtü veya uyku perdesi kurup kapatma ve vazgeçme (ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ): Ahitlerini bozup elçileri haksızca öldürenlerin üzerine çadır kurulur gibi zillet ve meskenetin vurulması (2:61, 3:112 [2x]), mağaradaki gençlerin kulakları üzerine yıllarca uyku perdesi vurulması (18:11), güvene eren kadınların başörtülerini yakalarının üzerine vurup kapatmaları ve gizli süsleri bilinsin diye ayaklarını yere vurmamaları (24:31 [2x]), hesap günü güvene erenlerle iki çıkışlı kaypaklar arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşan bir topluluk oldular diye öğüdün/zikrin onlardan geri çekilmeyeceği vurgusu (43:5)."
+    },
+    {
+      "surah": 43,
+      "ayah": 17,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:17",
+      "word_position": 5,
+      "target_word_uthmani": "ضَرَبَ",
+      "target_word_rasm": "ضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًا ظَلَّ",
+      "context_snippet_turkish_tabula_rasa": "Ama Rahman olan Allah'a isnat ettiği kız evlat kendilerinden birine müjdelenince, o kimsenin içi gayzla dolarak yüzü simsiyah kesilir.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًا ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama Rahman olan Allah'a isnat ettiği kız evlat kendilerinden birine müjdelenince, o kimsenin içi gayzla dolarak yüzü simsiyah kesilir.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 43,
+      "ayah": 57,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:57",
+      "word_position": 2,
+      "target_word_uthmani": "ضُرِبَ",
+      "target_word_rasm": "ضرب",
+      "target_word_literal_irab": "Bir örnek ortaya konuldu / örnek olarak gösterildiğinde (ضُرِبَ مَثَلٌ / ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا — I. bab meçhûl mâzî fiil; 2 geçiş: 22:73, 43:57)",
+      "context_snippet_arabic": "وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا",
+      "context_snippet_turkish_tabula_rasa": "Meryem oğlu misal verilince, senin milletin buna gülüp geçiverdi.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem oğlu misal verilince, senin milletin buna gülüp geçiverdi.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 43,
+      "ayah": 58,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:58",
+      "word_position": 7,
+      "target_word_uthmani": "ضَرَبُوهُ",
+      "target_word_rasm": "ضربوه",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "أَمْ هُوَ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا",
+      "context_snippet_turkish_tabula_rasa": "\"Bizim sığınak merciimiz mı yoksa o mu daha iyidir?\" dediler. Sana böyle söylemeleri, sadece, tartışmaya girişmek içindir. Onlar şüphesiz kavgacı bir millettir.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَالُوٓا۟ ءَأَٰلِهَتُنَا خَيْرٌ أَمْ هُوَ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا بَلْ هُمْ قَوْمٌ خَصِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bizim sığınak merciimiz mı yoksa o mu daha iyidir?\" dediler. Sana böyle söylemeleri, sadece, tartışmaya girişmek içindir. Onlar şüphesiz kavgacı bir millettir.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 47,
+      "ayah": 3,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:3",
+      "word_position": 15,
+      "target_word_uthmani": "يَضْرِبُ",
+      "target_word_rasm": "يضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "مِن رَّبِّهِمْ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَٰلَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Bu, gerçeğin üzerini örtenlerin batıla uymaları ve güvene erenlerin Rablerinden gelen gerçeğe uymalarından ötürü böyledir. Allah böylece insanlara kendilerinin ...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُوا۟ ٱتَّبَعُوا۟ ٱلْبَٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّبَعُوا۟ ٱلْحَقَّ مِن رَّبِّهِمْ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَٰلَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, gerçeğin üzerini örtenlerin batıla uymaları ve güvene erenlerin Rablerinden gelen gerçeğe uymalarından ötürü böyledir. Allah böylece insanlara kendilerinin misallerini anlatır.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 47,
+      "ayah": 4,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:4",
+      "word_position": 5,
+      "target_word_uthmani": "فَضَرْبَ",
+      "target_word_rasm": "فضرب",
+      "target_word_literal_irab": "Boyunları vurun / boyunlara darbe indirin (فَضَرْبَ ٱلرِّقَابِ — mahzûf emir fiilinin mansûb ve muzâf mef'ûl-i mutlak masdarı; 1 geçiş: 47:4)",
+      "context_snippet_arabic": "لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ",
+      "context_snippet_turkish_tabula_rasa": "Savaşta gerçeğin üzerini ört karşılaştığınızda boyunlarını vurun; sonunda onlara üstün geldiğinizde onları esir alın; savaş sona erince onları ya karşılıksız, y...",
+      "morphology": {
+        "lemma": "Darob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Darob|ROOT:Drb|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَٰلَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Savaşta gerçeğin üzerini ört karşılaştığınızda boyunlarını vurun; sonunda onlara üstün geldiğinizde onları esir alın; savaş sona erince onları ya karşılıksız, ya da fidye ile salıverin; Allah dilemiş olsaydı, onlardan başka türlü öç alabilirdi, bunun böyle olması, kiminizi kiminizle denemek içindir. Allah, kendi yolunda öldürülenlerin işlerini boşa çıkarmaz.",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 47,
+      "ayah": 27,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:27",
+      "word_position": 5,
+      "target_word_uthmani": "يَضْرِبُونَ",
+      "target_word_rasm": "يضربون",
+      "target_word_literal_irab": "Yüzlerine ve arkalarına/sırtlarına vururlar (يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ — I. bab merfû muzâri fiil; 2 geçiş: 8:50, 47:27)",
+      "context_snippet_arabic": "إِذَا تَوَفَّتْهُمُ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevliler, onların yüzlerine ve sırtlarına vurarak canlarını alırken durumları nice olur?",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MP"
+      },
+      "ayah_text_arabic_full": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevliler, onların yüzlerine ve sırtlarına vurarak canlarını alırken durumları nice olur?",
+      "contextual_meaning": "Somut vurma, darbe indirme ve vurarak pınar/yol açma (ٱضْرِب بِّعَصَاكَ / فَضَرْبَ ٱلرِّقَابِ): Mûsâ'nın asasıyla kayaya vurup on iki pınar fışkırtması ve denize vurup kuru bir kurtuluş yolu açması (2:60, 7:160, 20:77, 26:63), maktul olayında kesilen sığırın bir parçasıyla vurulması (2:73), İbrahim'in sağ eliyle putlara darbe indirmesi (37:93), Eyyûb'un eline bir demet sap alıp vurması (38:44), aile içi ağır başkaldırıda öğüt ve yatak ayırmadan sonraki son aşama (4:34) ile sıcak savaş meydanında ve kozmik görevlilerin can alışı sırasında boyunlara, parmak uçlarına, yüzlere ve sırtlara darbe indirilmesi (8:12 [2x], 8:50, 47:4, 47:27)."
+    },
+    {
+      "surah": 57,
+      "ayah": 13,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:13",
+      "word_position": 16,
+      "target_word_uthmani": "فَضُرِبَ",
+      "target_word_rasm": "فضرب",
+      "target_word_literal_irab": "Aralarına kapısı olan bir sûr/duvar çekildi (فَضُرِبَ بَيْنَهُم بِسُورٍ — I. bab meçhûl mâzî fiil; 1 geçiş: 57:13)",
+      "context_snippet_arabic": "وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... güven duy ikiyüzlüler arasına, kapısının içinde rahmet ve dışında azap olan bir sur çekilir.",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ",
+      "ayah_text_turkish_tabula_rasa_full": "İkiyüzlü erkek ve kadınlar güvene erenlere: \"Bizi de gözetin; ışığınızdan faydalanalım\" dedikleri gün, onlara: \"Ardınıza dönün de ışık arayın\" denir; güven duy ikiyüzlüler arasına, kapısının içinde rahmet ve dışında azap olan bir sur çekilir.",
+      "contextual_meaning": "Çadır, sûr, örtü veya uyku perdesi kurup kapatma ve vazgeçme (ضَرَبَ عَلَىٰ / بَيْنَ / عَنْ): Ahitlerini bozup elçileri haksızca öldürenlerin üzerine çadır kurulur gibi zillet ve meskenetin vurulması (2:61, 3:112 [2x]), mağaradaki gençlerin kulakları üzerine yıllarca uyku perdesi vurulması (18:11), güvene eren kadınların başörtülerini yakalarının üzerine vurup kapatmaları ve gizli süsleri bilinsin diye ayaklarını yere vurmamaları (24:31 [2x]), hesap günü güvene erenlerle iki çıkışlı kaypaklar arasına kapılı bir sûrun çekilmesi (57:13) ve haddi aşan bir topluluk oldular diye öğüdün/zikrin onlardan geri çekilmeyeceği vurgusu (43:5)."
+    },
+    {
+      "surah": 59,
+      "ayah": 21,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:21",
+      "word_position": 15,
+      "target_word_uthmani": "نَضْرِبُهَا",
+      "target_word_rasm": "نضربها",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koyar / örnekleri insanlar için kurarız / Allah'a örnekler kurmayın (يَضْرِبَ / يَضْرِبُ / وَيَضْرِبُ / نَضْرِبُهَا / فَلَا تَضْرِبُوا۟ — I. bab muzâri fiil; 9 geçiş: 2:26, 13:17 [2x], 14:25, 16:74, 24:35, 29:43, 47:3, 59:21)",
+      "context_snippet_arabic": "ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Biz Kuran'ı bir dağa indirmiş olsaydık, sen, onun, Allah korkusuyla başeğerek parça parça olduğunu görürdün. Bu misalleri, insanlar düşünsünler diye veriyo...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|1P"
+      },
+      "ayah_text_arabic_full": "لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Biz Kuran'ı bir dağa indirmiş olsaydık, sen, onun, Allah korkusuyla başeğerek parça parça olduğunu görürdün. Bu misalleri, insanlar düşünsünler diye veriyoruz.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 66,
+      "ayah": 10,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:10",
+      "word_position": 1,
+      "target_word_uthmani": "ضَرَبَ",
+      "target_word_rasm": "ضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, gerçeğin üzerini örtenlere, Nuh'un karısıyla Lut'un karısını misal gösterir: Onlar, kullarımızdan iki iyi kulun nikahı altında iken onlara karşı hainlik ...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, gerçeğin üzerini örtenlere, Nuh'un karısıyla Lut'un karısını misal gösterir: Onlar, kullarımızdan iki iyi kulun nikahı altında iken onlara karşı hainlik edip gerçeğin üzerini örtmelerini gizlemişlerdi de iki elçi Allah'tan gelen azabı onlardan savamamışlardı. O iki kadına: \"yakıcı yıkım yurduna girenlerle beraber siz de girin\" dendi.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 66,
+      "ayah": 11,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:11",
+      "word_position": 1,
+      "target_word_uthmani": "وَضَرَبَ",
+      "target_word_rasm": "وضرب",
+      "target_word_literal_irab": "Örnek ve temsil ortaya koydu / örnekler kurduk / örnekler getirdiler (ضَرَبَ / وَضَرَبَ / ضَرَبْنَا / وَضَرَبْنَا / ضَرَبُوا۟ / ضَرَبُوهُ — I. bab malûm mâzî fiil; 17 geçiş)",
+      "context_snippet_arabic": "وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, güven duy Firavun'un karısını misal gösterir: O: \"Rabbim! Katından bana esenlik bahçesinde bir ev yap; beni Firavun'dan ve onun işlediklerinden kurtar; b...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Daraba|ROOT:Drb|3MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güven duy Firavun'un karısını misal gösterir: O: \"Rabbim! Katından bana esenlik bahçesinde bir ev yap; beni Firavun'dan ve onun işlediklerinden kurtar; beni zalim milletten kurtar\" demişti.",
+      "contextual_meaning": "Sikke/kalıp basar gibi somut örnek, temsil ve hak-bâtıl karşılaştırması ortaya koymak (ضَرَبَ مَثَلًا / ٱلْأَمْثَالَ): Madene damga vurup izini görünür kılmak gibi soyut hakikati somutlaştıran örnekler kurulması; sivrisinek ve sinek örneği (2:26, 22:73), sel ve maden potasındaki köpük ile kalıcı özün ayrışması (13:17 [2x]), kökü sağlam güzel ağaç (14:24-25), hür-köle, adil-dilsiz ve tek efendili-çekişmeli ortaklı adam temsilleri (16:75-76, 30:28, 39:29), nimetlere nankörlük eden güvenli kent (16:112), iki bahçe sahibi, dünya hayatı ve elçiler gelen kent (18:32, 18:45, 36:13), göklerin ve yerin nuru (24:35), Nûh ve Lût'un eşleri ile Firavun'un eşi (66:10-11), Kur'an'da insanların düşünüp akletmesi için her türlü temsilin kurulması (14:45, 25:39, 29:43, 30:58, 39:27, 47:3, 59:21) ve Allah'a veya elçisine batıl/cedel amaçlı örnekler yakıştırılmasının reddi (16:74, 17:48, 25:9, 36:78, 43:17, 43:57-58)."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 37,
+      "target_word_uthmani": "يَضْرِبُونَ",
+      "target_word_rasm": "يضربون",
+      "target_word_literal_irab": "Allah'ın lütfundan aramak üzere yeryüzünde yol tepip sefer yaparlar (يَضْرِبُونَ فِى ٱلْأَرْضِ — I. bab merfû muzâri fiil; 1 geçiş: 73:20)",
+      "context_snippet_arabic": "مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gec...",
+      "morphology": {
+        "lemma": "Daraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Daraba|ROOT:Drb|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Yeryüzünde yol teperek rızık ve sefer yolculuğuna çıkma (ضَرَبَ فِى ٱلْأَرْضِ / فِى سَبِيلِ ٱللَّهِ): Ayaklarla yeri döverek yeryüzünde geçim/ticaret veya savunma seferine çıkma; kuşatılıp yeryüzünde dolaşmaya güç yetiremeyen iffetli yoksulların gözetilmesi (2:273), seferde ve rızık yolculuğunda olanların kardeşlik hukuku, araştırma sorumluluğu, salâtı kısaltma ruhsatı, vasiyet şahitliği ve gece okuması kolaylığı (3:156, 4:94, 4:101, 5:106, 73:20)."
+    }
+  ]
+}

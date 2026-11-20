@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 82 / 100 Kök (Toplam Mühürlü: 187 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 83 / 100 Kök (Toplam Mühürlü: 188 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -100,7 +100,7 @@
 | 80 | 184 | `ن-س-و` | `N-S-W` | **59** | 53 | 2:49 | Nisâ' ve Nisve (Tek Özden Çoğalan Yetişkin Kadınlar, Eşler ve Belirli Kadın Grubu) | ✅ **MÜHÜRLÜ** |
 | 81 | 185 | `ظ-ه-ر` | `Z-H-R` | **59** | 57 | 2:85 | Zahr, Zuhûr, Zâhir ve Zahîr (Sırt, Dış Yüzeye Çıkıp Belirme, Üstünlük ve Arka Çıkma) | ✅ **MÜHÜRLÜ** |
 | 82 | 186 | `ر-د-د` | `R-D-D` | **59** | 57 | 2:85 | Redd, İrtidâd, Meredd ve Tereddüd (Geri Çevirmek, İade Etmek, İzinden Geri Dönmek ve Bocalamak) | ✅ **MÜHÜRLÜ** |
-| 83 | 187 | `ض-ر-ب` | `D-R-B` | **58** | 54 | 2:26 | Analiz Bekliyor (Daraba, Darob) | ⏳ *Bekliyor* |
+| 83 | 187 | `ض-ر-ب` | `D-R-B` | **58** | 54 | 2:26 | Darb ve Darb-ı Mesel (Vurmak, Somut Örnek/Temsil Kurmak, Yeryüzünde Yol Tepmek ve Örtü/Sûr Çekmek) | ✅ **MÜHÜRLÜ** |
 | 84 | 188 | `ع-د-د` | `A-D-D` | **57** | 50 | 2:24 | Analiz Bekliyor (>aEad~a, Eid~ap, Ead~a) | ⏳ *Bekliyor* |
 | 85 | 189 | `ق-ر-ي` | `K-R-Y` | **57** | 54 | 2:58 | Analiz Bekliyor (qaroyap) | ⏳ *Bekliyor* |
 | 86 | 190 | `ر-و-ح` | `R-W-H` | **57** | 52 | 2:87 | Analiz Bekliyor (riyH, ruwH, r~awoH) | ⏳ *Bekliyor* |
