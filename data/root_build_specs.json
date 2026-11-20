@@ -10796,5 +10796,249 @@
       }
     ],
     "context_default": "Dikey eksende bir şeyin alt tarafı, taban zemini, altından ırmaklar akan hasbahçeler veya himaye/yetki çatısı altı mekanizması."
+  },
+  "ح-ل-ل": {
+    "buckwalter": "Hll",
+    "slug": "hall_helal_hill_mahill_tahille_dugumu_cozmek_serbest_kilmak_konaklamak_hll",
+    "concept_name": "Hall, Helâl, Hill, Mahill ve Tahille (Bağlı Düğümü Çözmek, Kısıtlamayı Kaldırıp Serbest Kılmak ve Bir Yurda Konmak)",
+    "keywords": [
+      "hall",
+      "helal",
+      "hill",
+      "mahill",
+      "halail",
+      "tahille",
+      "hulul",
+      "dugum",
+      "cozmek",
+      "serbest"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "taHil~ap",
+        "label": "(Bağlayıcı antlarınızın) düğümünü çözüp yükümlülüğünü açma yolunu (size belirledi) (قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ — فَرَضَ fiilinin mansûb mef'ûlü II. bab تَفْعِلَة vezninde masdar ve muzâf; 1 geçiş: 66:2)"
+      },
+      {
+        "lemma": "muHil~iY",
+        "label": "(Avı) serbest/helal sayanlar olmaksızın (غَيْرَ مُحِلِّى ٱلصَّيْدِ — غَيْرَ hâlinin mecrûr muzâfun ileyhi IV. bab cemi müzekker sâlim ism-i fâil, izâfetle nûn'u düşmüş; 1 geçiş: 5:1)"
+      },
+      {
+        "lemma": "Hala`^}il",
+        "label": "Ve (kendi sulbünüzden olan oğullarınızın) nikâhlı eşleri (üzerinize yasaklandı) (وَحَلَٰٓئِلُ أَبْنَآئِكُمُ — حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ نâib-i fâiline matuf merfû çoğul isim, Rasm-ı Osmânî'de med elifi olmaksızın وحلئل yazılır; 1 geçiş: 4:23)"
+      },
+      {
+        "lemma": "maHil~",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Onların (bağlarının çözülüp sunulacağı) varış yeri / süresi (ثُمَّ مَحِلُّهَآ إِلَى ٱلْبَيْتِ ٱلْعَتِيقِ — merfû mübtedâ olarak ism-i mekân/zaman ve zamire muzâf; 1 geçiş: 22:33)"
+      },
+      {
+        "lemma": "maHil~",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "(Sunu hayvanı) bağının çözüleceği varış yerine (ulaşıncaya kadar / ulaşmaktan) (حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ [2:196] / أَن يَبْلُغَ مَحِلَّهُۥ [48:25] — يَبْلُغَ fiilinin mansûb mef'ûlü ism-i mekân/zaman; 2 geçiş)"
+      },
+      {
+        "lemma": "Hil~",
+        "ayahs": [
+          "90:2"
+        ],
+        "label": "(Sen bu beldede) konaklamış / üzerindeki kısıtlama bağı çözülmüş iken (وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ — hâl cümlesinde merfû haber; 1 geçiş: 90:2)"
+      },
+      {
+        "lemma": "Hil~",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Üzerinde yasak düğümü bulunmayan serbest/meşru bir rızık (كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ — كَانَ'nin mansûb haberi; 1 geçiş: 3:93)"
+      },
+      {
+        "lemma": "Hil~",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Bağı çözülmüş, serbest ve meşrudur (حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ [5:5:9, 5:5:12] / لَا هُنَّ حِلٌّ لَّهُمْ [60:10:21] — merfû haber; 3 geçiş)"
+      },
+      {
+        "lemma": "Hala`l",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "(Bu) bağı çözülmüş serbest/helaldir (هَٰذَا حَلَٰلٌ وَهَٰذَا حَرَامٌ — merfû haber, Rasm-ı Osmânî'de elifsiz حلل; 1 geçiş: 16:116)"
+      },
+      {
+        "lemma": "Hala`l",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Üzerinde yasak ve haksızlık düğümü bulunmayan serbest/meşru olarak (حَلَٰلًا طَيِّبًا [2:168, 5:88, 8:69, 16:114] / فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَٰلًا [10:59] — mansûb hâl veya ikinci mef'ûle matuf, Rasm-ı Osmânî'de elifsiz حللا / وحللا; 5 geçiş)"
+      },
+      {
+        "lemma": "Halalo",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Ve (dilimdeki tutukluk) düğümünü çözüp aç! (وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِى — I. bab emir fiili, 2. tekil eril, idğâmı çözülmüş وٱحلل; 1 geçiş: 20:27)"
+      },
+      {
+        "lemma": "Halalo",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "(İhram/kısıtlama bağından çıkıp) serbest hale geldiğiniz zaman (وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ — I. bab mâzî fiil, 2. çoğul eril, idğâmı çözülmüş حللتم; 1 geçiş: 5:2:25)"
+      },
+      {
+        "lemma": "Halalo",
+        "ayahs": [
+          "11:39",
+          "13:31",
+          "20:81",
+          "20:86",
+          "39:40"
+        ],
+        "label": "(Üzerine kalıcı bir azap / gazabım / yurtlarının yakınına bir felaket) yük indirir gibi inip yerleşir (وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ [11:39, 39:40] / أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ [13:31] / فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى [20:81:9, 20:81:13 — meczûm formda idğâmı çözülmüş يحلل] / أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ [20:86] — I. bab muzâri fiil; 6 geçiş)"
+      },
+      {
+        "lemma": "Halalo",
+        "label": "Serbest ve meşru olur / (olumsuzla) meşru olmaz (وَلَا يَحِلُّ لَهُنَّ [2:228] / وَلَا يَحِلُّ لَكُمْ [2:229, 4:19] / فَلَا تَحِلُّ لَهُۥ [2:230] / لَّا يَحِلُّ لَكَ [33:52] / وَلَا هُمْ يَحِلُّونَ لَهُنَّ [60:10:25] — I. bab merfû muzâri fiil; 6 geçiş)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "ayahs": [
+          "14:28"
+        ],
+        "label": "Ve (toplumlarını yıkım yurduna) indirip kondurdular (وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ — çift mef'ûl alan IV. bab mâzî fiil, 3. çoğul eril; 1 geçiş: 14:28)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "ayahs": [
+          "35:35"
+        ],
+        "label": "Bizi (lütfuyla kalıcı ikamet yurduna) indirip yerleştiren (ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ — IV. bab mâzî fiil + 1. çoğul mef'ûl zamiri, 3. tekil eril, Rasm'da tek lâmla أحلنا; 1 geçiş: 35:35)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "features_contains": [
+          "PERF",
+          "1P"
+        ],
+        "label": "Senin için (yasak düğümünü çözüp) serbest/meşru kıldık (إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ — IV. bab mâzî fiil, 1. çoğul, idğâmı çözülmüş أحللنا; 1 geçiş: 33:50)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "features_contains": [
+          "PERF",
+          "PASS"
+        ],
+        "label": "(Üzerindeki yasak düğümü çözülerek) sizin/onlar için serbest ve meşru kılındı (أُحِلَّ لَكُمْ [2:187, 4:24, 5:4:6, 5:5:2, 5:96] / مَاذَآ أُحِلَّ لَهُمْ [5:4:3] / أُحِلَّتْ لَهُمْ [4:160] / أُحِلَّتْ لَكُم [5:1:6, 22:30] — IV. bab meçhul mâzî fiil; 9 geçiş)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "(Allah alışverişi / temiz şeyleri) yasak düğümünü çözerek serbest ve meşru kıldı (وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ [2:275] / مَآ أَحَلَّ ٱللَّهُ لَكُمْ [5:87] / مَآ أَحَلَّ ٱللَّهُ لَكَ [66:1] — IV. bab malûm mâzî fiil, 3. tekil eril; 3 geçiş)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "features_contains": [
+          "IMPF",
+          "1S"
+        ],
+        "label": "Ve (üzerinize yasaklanmış olanın bir kısmının) bağını çözüp size serbest kılmam için (وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ — lâm-ı ta'lîl ile mansûb IV. bab muzâri fiil, 1. tekil; 1 geçiş: 3:50)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "features_contains": [
+          "IMPF",
+          "2MP"
+        ],
+        "label": "(Allah'ın dokunulmaz sembollerinin koruma bağını çözüp) sakın ihlal etmeyin! (لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ — lâ-i nâhiye ile meczûm IV. bab muzâri fiil, 2. çoğul eril; 1 geçiş: 5:2:5)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "features_contains": [
+          "IMPF",
+          "3MP"
+        ],
+        "label": "(Haram ayı bir yıl) koruma bağını çözüp serbest sayarlar / (Allah'ın haram kıldığını) serbest kılmak için (يُحِلُّونَهُۥ عَامًا ... فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ — IV. bab merfû ve mansûb muzâri fiil, 3. çoğul eril; 2 geçiş: 9:37:10, 9:37:19)"
+      },
+      {
+        "lemma": ">aHal~a",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Ve onlar için (temiz şeylerin üzerindeki kısıtlama düğümünü çözüp) serbest kılar (وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ — IV. bab merfû muzâri fiil, 3. tekil eril; 1 geçiş: 7:157)"
+      }
+    ],
+    "irab_default": "Bağlı düğümü çözüp açmak, kısıtlamayı kaldırıp serbest/meşru kılmak veya yükü indirip bir yere konmak (ح-ل-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:168",
+          "2:275",
+          "3:50",
+          "3:93",
+          "4:160",
+          "5:1",
+          "5:4",
+          "5:5",
+          "5:87",
+          "5:88",
+          "5:96",
+          "7:157",
+          "8:69",
+          "9:37",
+          "10:59",
+          "16:114",
+          "16:116",
+          "22:30"
+        ],
+        "text": "Temiz rızıkların ve alışverişin yasak düğümü çözülerek serbest kılınması (أَحَلَّ / أُحِلَّ / حَلَٰلًا طَيِّبًا / حِلّ) ile Allah'a iftira ederek haram-helal uydurma yasağı: Yeryüzündeki temiz ve hoş rızıkların, en'âm cinsi hayvanların, deniz avının, eğitilmiş avcı hayvanların yakaladıklarının ve Kitap verilenlerin yiyeceklerinin serbest kılınması (2:168, 3:50, 3:93, 4:160, 5:1, 5:4, 5:5, 5:87, 5:88, 5:96, 7:157, 8:69, 16:114, 22:30), alışverişin serbest kılınıp ribanın yasaklanması (2:275) ve dillerinin yalanıyla 'bu helaldir, bu haramdır' diye sınır uyduranların veya haram ayların yerini keyfî olarak değiştirenlerin (nesî') kınanması (9:37, 10:59, 16:116)."
+      },
+      {
+        "ayahs": [
+          "2:187",
+          "2:228",
+          "2:229",
+          "2:230",
+          "4:19",
+          "4:23",
+          "4:24",
+          "33:50",
+          "33:52",
+          "60:10",
+          "66:1",
+          "66:2"
+        ],
+        "text": "Aile, evlilik, boşanma ve ant hukukunda meşruiyet bağının çözülmesi ve sınırları (يَحِلُّ / أُحِلَّ / حَلَٰٓئِلُ / تَحِلَّةَ): Perhiz gecelerinde eşlere yaklaşmanın serbestliği (2:187), oğulların eşleri (وَحَلَٰٓئِلُ أَبْنَآئِكُمُ) dışındaki kadınlarla iffet içinde evlenme ve nebiye ait evlilik sınırları (4:23, 4:24, 33:50, 33:52), kadınlara zorla mirasçı olmanın, verilen mehri geri almak için baskı yapmanın ve boşanan kadınların rahimlerindekini gizlemesinin meşru olmaması (2:228, 2:229, 2:230, 4:19), göç eden güvenmiş kadınlarla gerçeği örten eşleri arasındaki evlilik bağının karşılıklı olarak çözülmesi (60:10) ve Allah'ın serbest kıldığını kendine yasaklamama ilkesiyle birlikte bağlayıcı antların düğümünü çözecek kefaret yolunun (تَحِلَّةَ أَيْمَٰنِكُمْ) belirlenmesi (66:1, 66:2)."
+      },
+      {
+        "ayahs": [
+          "2:196",
+          "5:2",
+          "20:27",
+          "22:33",
+          "48:25",
+          "90:2"
+        ],
+        "text": "Dildeki düğümün çözülmesi (وَٱحْلُلْ عُقْدَةً), ihram/kısıtlama bağından çıkış (حَلَلْتُمْ) ve sunuların varış menzili (مَحِلّ): Mûsâ'nın sözünü iyi anlamaları için dilindeki tutukluk düğümünün çözülmesi yakarışı (20:27), Allah'ın sembollerinin ve güvenli ayın koruma bağını çözüp ihlal etmeme (لَا تُحِلُّوا۟) ve kısıtlama bağından çıkıldığında (وَإِذَا حَلَلْتُمْ) avlanma serbestliği (5:2), sunu hayvanlarının bağlarının çözüleceği varış yerine (مَحِلَّهُۥ / مَحِلُّهَآ) ulaşması (2:196, 22:33, 48:25) ve elçinin o beldede konaklamış/serbest (حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ) oluşu (90:2)."
+      },
+      {
+        "ayahs": [
+          "11:39",
+          "13:31",
+          "14:28",
+          "20:81",
+          "20:86",
+          "35:35",
+          "39:40"
+        ],
+        "text": "Yolculuk yükünü çözüp konaklama fiziğinden türeyen 'azabın/gazabın inip yerleşmesi' ve 'bir yurda kondurma' (يَحِلُّ عَلَيْهِ / تَحُلُّ / أَحَلُّوا۟ / أَحَلَّنَا): Hakikate direnenlerin üzerine kalıcı bir azabın veya yurtlarının yakınına sarsıcı bir felaketin inip yerleşmesi (11:39, 13:31, 39:40), rızıkta azgınlık yapanların üzerine ilahi gazabın inmesi (20:81, 20:86) ve nankör önderlerin toplumlarını yıkım yurduna indirip kondurmasına (وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ 14:28) karşılık, Allah'ın lütfuyla güvenenleri hiçbir yorgunluğun dokunmadığı kalıcı ikamet yurduna indirip yerleştirmesi (ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ 35:35)."
+      }
+    ],
+    "context_default": "Sıkıca bağlanmış bir düğümü veya kısıtlama bağını çözüp serbest bırakmak ve yükü çözerek bir yere konup yerleşmek mekanizması."
   }
 }
