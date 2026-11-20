@@ -9158,5 +9158,191 @@
       }
     ],
     "context_default": "Bulunduğu yerden ayrılıp gitme, beraberinde alıp götürme, kiri/kötülüğü giderip silme veya altın madeni mekanizması."
+  },
+  "ن-ه-ي": {
+    "buckwalter": "nhy",
+    "slug": "nehy_intiha_munteha_nuha_sakindirmak_vazgecmek_son_sinir_nhy",
+    "concept_name": "Nehy, İntihâ, Müntehâ ve Nühâ (Sakındırıp Alıkoymak, Durup Vazgeçmek, Son Sınır ve Frenleyici Sağduyu)",
+    "keywords": [
+      "nehy",
+      "nehiy",
+      "intiha",
+      "munteha",
+      "nuha",
+      "nihayet",
+      "sakindirmak",
+      "yasak",
+      "vazgecmek",
+      "sagduyu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "n~uhaY`",
+        "label": "Sahibini kötülükten alıkoyan sağduyu ve akıl sahipleri için (لِّأُو۟لِى ٱلنُّهَىٰ — muzâfun ileyh olarak takdirî kesra ile mecrûr çoğul isim; 2 geçiş: 20:54, 20:128)"
+      },
+      {
+        "lemma": "muntahaY`",
+        "ayahs": [
+          "53:14"
+        ],
+        "label": "Son sınır ağacının (Sidretü'l-Müntehâ'nın) yanında (عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ — muzâfun ileyh olarak takdirî kesra ile mecrûr ism-i mekân; 1 geçiş: 53:14)"
+      },
+      {
+        "lemma": "muntahaY`",
+        "label": "En son varış sınırı / onun bilgisinin son sınırı (Rabbinedir) (وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ [53:42] / إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ [79:44] — nihai varış sınırı ismi; 2 geçiş)"
+      },
+      {
+        "lemma": "n~aAhuwn",
+        "label": "Ve kötülükten sakındırıp alıkoyanlar (وَٱلنَّاهُونَ عَنِ ٱلْمُنكَرِ — merfû cem-i müzekker sâlim ism-i fâil; 1 geçiş: 9:112)"
+      },
+      {
+        "lemma": "m~untahuwn",
+        "label": "Artık durup vazgeçiyorsunuz değil mi (فَهَلْ أَنتُم مُّنتَهُونَ — mübtedânın haberi olarak merfû cem-i müzekker sâlim VIII. bab ism-i fâil; 1 geçiş: 5:91)"
+      },
+      {
+        "lemma": "yatanaAha",
+        "label": "(Yaptıkları kötülükten) birbirlerini karşılıklı olarak sakındırıp alıkoymazlardı (كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ — كَانُوا۟ haberi cümlede VI. bab merfû muzâri fiil; 1 geçiş: 5:79)"
+      },
+      {
+        "lemma": "{ntahaY`",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Artık durup vazgeçin / hemen vazgeçip terk edin (ٱنتَهُوا۟ [4:171] / فَٱنتَهُوا۟ [59:7] — VIII. bab emir fiil, 2. çoğul eril; 2 geçiş)"
+      },
+      {
+        "lemma": "{ntahaY`",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Eğer durup vazgeçerlerse / öğüt gelip de durup vazgeçerse (فَإِنِ ٱنتَهَوْا۟ [2:192, 2:193, 8:39] / فَٱنتَهَىٰ [2:275] — VIII. bab mâzî fiil; 4 geçiş)"
+      },
+      {
+        "lemma": "{ntahaY`",
+        "word_rasm": [
+          "تنته",
+          "ينته"
+        ],
+        "label": "Eğer durup vazgeçmezsen / eğer durup vazgeçmezse (لَئِن لَّمْ تَنتَهِ [19:46, 26:116, 26:167] / لَئِن لَّمْ يَنتَهِ [33:60, 96:15] — لَمْ ile illet harfi düşerek meczûm VIII. bab muzâri fiil; 5 geçiş)"
+      },
+      {
+        "lemma": "{ntahaY`",
+        "label": "Durup vazgeçerlerse / vazgeçerseniz / belki durup vazgeçerler (يَنتَهُوا۟ [5:73, 8:38] / تَنتَهُوا۟ [8:19, 36:18] / لَعَلَّهُمْ يَنتَهُونَ [9:12] — VIII. bab muzâri fiil; 5 geçiş)"
+      },
+      {
+        "lemma": "nahaY`",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Ve kötülükten sakındırıp alıkoy (وَٱنْهَ عَنِ ٱلْمُنكَرِ — illet harfi düşmüş I. bab emir fiil, 2. tekil eril; 1 geçiş: 31:17)"
+      },
+      {
+        "lemma": "nahaY`",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Kendilerine yasaklandığı hâlde / sakındırıldığınız şeylerin / kulluk etmekten menedildim (تُنْهَوْنَ [4:31] / نُهُوا۟ [4:161, 6:28, 7:166, 58:8 (2x)] / نُهِيتُ [6:56, 40:66] — I. bab meçhûl mâzî ve muzâri fiil; 8 geçiş)"
+      },
+      {
+        "lemma": "nahaY`",
+        "ayahs": [
+          "7:20",
+          "22:41",
+          "59:7",
+          "79:40"
+        ],
+        "label": "Rabbiniz ikinizi sakındırmadı / kötülükten sakındırdılar / sizi sakındırdığı şeyden / benliği tutkudan dizginleyip alıkoydu (نَهَىٰكُمَا [7:20] / وَنَهَوْا۟ [22:41] / نَهَىٰكُمْ [59:7] / وَنَهَى [79:40] — I. bab malûm mâzî fiil; 4 geçiş)"
+      },
+      {
+        "lemma": "nahaY`",
+        "word_rasm": [
+          "أنهكما",
+          "ننهك"
+        ],
+        "label": "İkinizi o ağaçtan sakındırmadım mı / seni elalemi korumaktan menetmedik mi (أَلَمْ أَنْهَكُمَا [7:22] / أَوَلَمْ نَنْهَكَ [15:70] — لَمْ ile illet harfi düşerek meczûm I. bab muzâri fiil; 2 geçiş)"
+      },
+      {
+        "lemma": "nahaY`",
+        "label": "Kötülükten, çirkinlikten veya bozgunculuktan sakındırır / sakındırırlar / alıkoyar (يَنْهَىٰ / تَنْهَىٰ / يَنْهَىٰهُمُ / يَنْهَىٰكُمُ / أَتَنْهَىٰنَآ / أَنْهَىٰكُمْ / يَنْهَوْنَ / وَيَنْهَوْنَ / وَتَنْهَوْنَ — I. bab malûm muzâri fiil; 17 geçiş)"
+      }
+    ],
+    "irab_default": "Çirkinlik ve aşırılığın sınırında durdurup sakındırma, durup vazgeçme, son sınır veya frenleyici sağduyu (ن-ه-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:104",
+          "3:110",
+          "3:114",
+          "5:63",
+          "5:79",
+          "6:26",
+          "7:20",
+          "7:22",
+          "7:157",
+          "7:165",
+          "9:67",
+          "9:71",
+          "9:112",
+          "11:62",
+          "11:88",
+          "11:116",
+          "15:70",
+          "16:90",
+          "22:41",
+          "29:45",
+          "31:17",
+          "60:8",
+          "60:9",
+          "79:40",
+          "96:9"
+        ],
+        "text": "Çirkinlikten, bozgunculuktan ve yıkıcı tutkudan sakındırıp alıkoymak (نَهَى / يَتَنَاهَوْنَ / ٱلنَّاهُونَ): Allah'ın adaleti, iyiliği ve yakınlara vermeyi emredip çirkin aşırılıktan, kötülükten ve zorbalıktan sakındırması (16:90), bilinçle ayakta tutulan salâtın insanı çirkinlik ve kötülükten frenleyip alıkoyması (29:45), güvene erenlerin iyiliği emredip kötülükten sakındırması, iki çıkışlı kaypakların ise kötülüğü emredip iyilikten alıkoyması (3:104, 3:110, 3:114, 7:157, 9:67, 9:71, 9:112, 22:41, 31:17), toplumları yıkımdan koruyan şeyin yeryüzünde bozgunculuktan ve haram kazançtan birbirini sakındıran insanların varlığı oluşu (5:63, 5:79, 7:165, 11:88, 11:116), barışçıl olanlara iyilik ve adaletten sakındırılmayıp yalnızca saldırganları veli edinmekten sakındırılması (60:8, 60:9), öz benliği keyfî tutkudan dizginleyip alıkoyma (79:40), Âdem ve eşinin ağaçtan sakındırılması (7:20, 7:22) ve insanları vahiyden, konukları korumaktan veya salâttan alıkoymaya kalkışanların teşhiri (6:26, 11:62, 15:70, 96:9)."
+      },
+      {
+        "ayahs": [
+          "4:31",
+          "4:161",
+          "6:28",
+          "6:56",
+          "7:166",
+          "40:66",
+          "58:8"
+        ],
+        "text": "Yasaklanan ve sakındırılan sınırlar (نُهِىَ / تُنْهَوْنَ): Sakındırılan büyük suçlardan kaçınıldığında küçük kusurların örtülüp onurlu bir konuma girdirileceği müjdesi (4:31), Allah'tan başka çağrılan sahte odaklara kulluk etmekten kesin olarak menedilme (6:56, 40:66) ve kendilerine yasaklandığı hâlde ribâ alıp halkın malını haksızca yemeye, Sebt sınırını çiğnemeye veya suç ve düşmanlık içeren gizli fısıltı kumpaslarına geri dönenlerin durumu (4:161, 6:28, 7:166, 58:8 [2x])."
+      },
+      {
+        "ayahs": [
+          "2:192",
+          "2:193",
+          "2:275",
+          "4:171",
+          "5:73",
+          "5:91",
+          "8:19",
+          "8:38",
+          "8:39",
+          "9:12",
+          "19:46",
+          "26:116",
+          "26:167",
+          "33:60",
+          "36:18",
+          "59:7",
+          "96:15"
+        ],
+        "text": "Sınıra ulaşıp durmak, vazgeçmek ve yapılan yanlış işe son vermek (ٱنتَهَىٰ / مُّنتَهُونَ): Saldırganların baskı ve zulme son verip vazgeçmeleri hâlinde düşmanlığın sona ermesi ve geçmişin bağışlanması (2:192, 2:193, 8:19, 8:38, 8:39, 9:12), Rabbinden öğüt gelince ribâdan, teslis iddiasından, aralarına düşmanlık sokan sarhoşluk ve kumardan veya elçinin sakındırdığı şeyden derhal durup vazgeçme çağrısı (2:275, 4:171, 5:73, 5:91, 59:7 [2x]) ile hakikate direnenlerin elçileri 'vazgeçmezsen seni taşlarız/süreriz' diye tehdit etmesi ve salâttan alıkoyan zorbanın vazgeçmezse yalancı perçeminden yakalanacağı uyarısı (19:46, 26:116, 26:167, 33:60, 36:18, 96:15)."
+      },
+      {
+        "ayahs": [
+          "20:54",
+          "20:128",
+          "53:14",
+          "53:42",
+          "79:44"
+        ],
+        "text": "İnsanı kötülükten frenleyen sağduyu/akıl (ٱلنُّهَىٰ) ve varlığın/bilginin en son sınırı (ٱلْمُنتَهَىٰ): Yeryüzünün bitki ve besin döngüsünde ve yıkıma uğramış önceki kuşakların yurtlarında, sahibini azgınlık ve çirkinlikten alıkoyan sağduyu ve akıl sahipleri (أُو۟لِى ٱلنُّهَىٰ) için açık göstergeler bulunması (20:54, 20:128) ile Sidretü'l-Müntehâ (53:14) ve tüm varoluşun olduğu gibi son saatin bilgisinin de gelip dayandığı en son sınırın (el-Müntehâ) yalnızca Rabb oluşu (53:42, 79:44)."
+      }
+    ],
+    "context_default": "Akışın ve hareketin gelip dayandığı son sınırda durdurup sakındırma, durup vazgeçme, nihai varış sınırı veya frenleyici sağduyu mekanizması."
   }
 }
