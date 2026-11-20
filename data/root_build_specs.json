@@ -1896,5 +1896,167 @@
       }
     ],
     "context_default": "Zihinde ve gerçeklikte kalıcı iz bırakan anlamlı söz, doğrudan hitap, bağlayıcı ilke veya değişmez yasa mekanizması."
+  },
+  "ض-ر-ر": {
+    "buckwalter": "Drr",
+    "slug": "zarar_darlik_iztirar_drr",
+    "concept_name": "Zarar / Durr / Darrâ / Dirâr ve Iztırâr (Daraltıp Sıkıştırarak Eksiltme, Hastalık-Darlık, Kasıtlı Mağduriyet ve Zorunluluk Kıskacı)",
+    "keywords": [
+      "zarar",
+      "darlik",
+      "sikinti",
+      "iztirar",
+      "zorunluluk",
+      "dirar",
+      "hastalik",
+      "magduriyet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{DoTur~a",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Zorunluluk kıskacına düştü / çaresiz kaldı (ٱضْطُرَّ / ٱضْطُرِرْتُمْ — VIII. bab edilgen mâzi fiil; yaşamı tehdit eden darlıkta beslenme yasağının esnemesi)"
+      },
+      {
+        "lemma": "{DoTur~a",
+        "label": "Kaçışsız yaptırım kıskacına sürüklerim / sürükleriz (أَضْطَرُّهُۥٓ / نَضْطَرُّهُمْ — VIII. bab etken muzâri fiil; 2:126, 31:24)"
+      },
+      {
+        "lemma": "muDoTar~",
+        "label": "Darlık kıskacında çaresiz kalmış kimse (ٱلْمُضْطَرَّ — VIII. bab ism-i mef'ûl; 27:62'de tüm kapıları kapanınca Yaratıcı'ya yakaran)"
+      },
+      {
+        "lemma": "yuDaA^r~a",
+        "label": "Kasıtlı zarar verilmesin / sıkıştırılıp mağdur edilmesin (تُضَآرَّ / يُضَآرَّ / تُضَآرُّوهُنَّ — III. bab muzâri fiil; emzirme, borç yazımı ve barındırma hukukunda zarar yasağı)"
+      },
+      {
+        "lemma": "DiraAr",
+        "label": "Kasıtlı zarar ve mağduriyet amacıyla (ضِرَارًا — III. bab mastar; 2:231'de boşanan kadını alıkoyma ve 9:107'de bölücü zarar kurumu)"
+      },
+      {
+        "lemma": "muDaA^r~",
+        "label": "Varislere zarar vermeksizin (مُضَآرٍّ — III. bab ism-i fâil; 4:12'de vasiyetin adalet sınırı)"
+      },
+      {
+        "lemma": "D~arar",
+        "label": "Bedensel özür / sakatlık / mazeret (ٱلضَّرَرِ — isim; 4:95'te fiilî engel sahibi olanların muafiyeti)"
+      },
+      {
+        "lemma": "Dar~aA^'",
+        "label": "Bedensel-toplumsal darlık ve sıkıntı dönemi (ٱلضَّرَّآء / ضَرَّآءَ — dişil isim; bolluk ve rahmet karşısında hastalık ve darlık sınavı)"
+      },
+      {
+        "lemma": "Dur~",
+        "label": "Dokunan sıkıntı, hastalık, kıtlık veya darlık (ٱلضُّرّ / ضُرّ — dammeli isim; insanın bizzat maruz kaldığı ve yalnız Yaratıcı'nın giderebildiği darlık)"
+      },
+      {
+        "lemma": "Dar~",
+        "label": "Zarar / eksiltici etki (ضَرًّا / ضَرُّهُۥٓ — fethalı isim; yarar [نَفْع] ve doğru yönlendirme [رَشَد] karşıtı)"
+      },
+      {
+        "lemma": "DaA^r~",
+        "label": "Zarar verebilecek olanlar / olan (بِضَآرِّينَ / بِضَآرِّهِمْ — I. bab ism-i fâil; Yaratıcı'nın izni olmadan kimseye zarar verememe)"
+      },
+      {
+        "lemma": "yaDur~a",
+        "label": "Zarar verir / zarar veremez (يَضُرُّ / يَضُرُّوا۟ / تَضُرُّوهُ — I. bab muzâri fiil; yararın karşıtı olarak eksiltip zedeleme)"
+      }
+    ],
+    "irab_default": "Daraltıp sıkıştırarak eksiltme, zedeleme, hastalık-sıkıntı veya zorunluluk kıskacı (ض-ر-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:102",
+          "3:111",
+          "3:120",
+          "3:144",
+          "3:176",
+          "3:177",
+          "4:113",
+          "5:42",
+          "5:76",
+          "5:105",
+          "6:71",
+          "7:188",
+          "9:39",
+          "10:18",
+          "10:49",
+          "10:106",
+          "11:57",
+          "13:16",
+          "20:89",
+          "21:66",
+          "22:12",
+          "22:13",
+          "25:3",
+          "25:55",
+          "26:73",
+          "34:42",
+          "47:32",
+          "48:11",
+          "58:10",
+          "72:21"
+        ],
+        "text": "Yarar-zarar dengesi ve Yaratıcı dışındaki varlıkların güçsüzlüğü: Sahte ortakların, putların, saptırıcı fısıltıların ve hatta elçinin bile Yaratıcı'nın izni olmaksızın kendi başına yarar veya zarar verme yetkisinin bulunmaması (2:102, 5:76, 6:71, 7:188, 10:18,49,106, 13:16, 20:89, 21:66, 22:12-13, 25:3,55, 26:73, 34:42, 48:11, 58:10, 72:21) ile yüz çevirenlerin Yaratıcı'ya ve sebat eden inananlara hiçbir zarar veremeyişi (3:111,120,144,176-177, 4:113, 5:42,105, 9:39, 11:57, 47:32)."
+      },
+      {
+        "ayahs": [
+          "2:177",
+          "2:214",
+          "3:134",
+          "4:95",
+          "6:17",
+          "6:42",
+          "7:94",
+          "7:95",
+          "10:12",
+          "10:21",
+          "10:107",
+          "11:10",
+          "12:88",
+          "16:53",
+          "16:54",
+          "17:56",
+          "17:67",
+          "21:83",
+          "21:84",
+          "23:75",
+          "30:33",
+          "36:23",
+          "39:8",
+          "39:38",
+          "39:49",
+          "41:50"
+        ],
+        "text": "Hastalık, kıtlık, darlık-bolluk sınavı ve bedensel özür (ضُرّ / ضَرَّآء / ضَرَر): Darlıkta ve bollukta paylaşım ile sebat (2:177, 2:214, 3:134), Eyyûb'un hastalığı, Yusuf'un kardeşlerinin kıtlık darlığı ve deniz tehlikesi (12:88, 17:67, 21:83-84), darlık dokununca Yaratıcı'ya sarılıp giderilince nankörleşen insan psikolojisi (6:17,42, 7:94-95, 10:12,21,107, 11:10, 16:53-54, 17:56, 23:75, 30:33, 36:23, 39:8,38,49, 41:50) ile bedensel özürlülerin muafiyeti (4:95)."
+      },
+      {
+        "ayahs": [
+          "2:231",
+          "2:233",
+          "2:282",
+          "4:12",
+          "9:107",
+          "65:6"
+        ],
+        "text": "Aile, miras, sözleşme ve toplum hukukunda kasıtlı zarar verme yasağı (Form III): Boşanan kadını sırf zarar vermek ve yaşam alanını daraltmak için alıkoymama ve sıkıştırmama (2:231, 65:6), emzirme sürecinde anne veya babanın mağdur edilmemesi (2:233), borç yazıcısı ve tanığın zarara uğratılmaması (2:282), vasiyetle mirasçıların hakkına zarar verilmemesi (4:12) ve toplumu bölmek için kurulan zarar odağının reddi (9:107)."
+      },
+      {
+        "ayahs": [
+          "2:126",
+          "2:173",
+          "5:3",
+          "6:119",
+          "6:145",
+          "16:115",
+          "27:62",
+          "31:24"
+        ],
+        "text": "Kaçışsız zorunluluk kıskacı (Form VIII — ٱضْطُرَّ): Ölümcül açlık ve çaresizlik kıskacında haddi aşmaksızın beslenme yasağının yaşam lehine esnemesi (2:173, 5:3, 6:119, 6:145, 16:115), tüm kapıları kapanmış darda kalanın duasına yalnız Yaratıcı'nın karşılık vermesi (27:62) ile nankörlükte direnenlerin kaçışsız yaptırım kıskacına sürüklenmesi (2:126, 31:24)."
+      }
+    ],
+    "context_default": "Daraltıp sıkıştırarak eksiltme, zedeleme, hastalık-sıkıntı veya kaçışsız zorunluluk kıskacı mekanizması."
   }
 }
