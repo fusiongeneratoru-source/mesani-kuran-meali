@@ -9709,5 +9709,231 @@
       }
     ],
     "context_default": "Bir merkez etrafında dönme, elden ele döndürme, kuşatıcı felaket çemberi veya etrafı çevrili yerleşim ve varoluş yurdu mekanizması."
+  },
+  "ف-س-ق": {
+    "buckwalter": "fsq",
+    "slug": "fisk_fusuk_fasik_kabugu_yarip_sinirdan_cikmak_fsq",
+    "concept_name": "Fısk, Füsûk ve Fâsık (Koruyucu Kabuğu Yarıp Dışarı Fırlamak ve Ahit Sınırından Çıkmak)",
+    "keywords": [
+      "fisk",
+      "fusuk",
+      "fasik",
+      "fasiklar",
+      "kabuk",
+      "sinir",
+      "ahit",
+      "cikmak",
+      "kopmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "faAsiq",
+        "ayahs": [
+          "32:18"
+        ],
+        "label": "Güven ve ahit kabuğunu yarıp sınır dışına fırlayan kimse (gibi midir?) (كَمَن كَانَ فَاسِقًا — كَانَ'nin mansûb haberi tekil ism-i fâil, Rasm'da tam elifli فاسقا; 1 geçiş: 32:18)"
+      },
+      {
+        "lemma": "faAsiq",
+        "ayahs": [
+          "49:6"
+        ],
+        "label": "Doğruluk ve güven sınırını yarıp dışına çıkmış biri (size bir haberle gelirse) (إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ — جَآءَ fiilinin merfû fâili tekil ism-i fâil, Rasm'da tam elifli فاسق; 1 geçiş: 49:6)"
+      },
+      {
+        "lemma": "faAsiq",
+        "features_contains": [
+          "POS:ADJ",
+          "GEN"
+        ],
+        "label": "Ahit ve buyruk sınırını yarıp dışına çıkan topluluk (ٱلْقَوْمِ ٱلْفَٰسِقِينَ — mecrûr ٱلْقَوْمِ isminin mecrûr çoğul sıfatı, Rasm'da elifsiz ٱلفسقين; 3 geçiş: 5:25, 5:26, 9:96)"
+      },
+      {
+        "lemma": "faAsiq",
+        "features_contains": [
+          "POS:ADJ",
+          "ACC"
+        ],
+        "label": "Koruyucu ahit ve hukuk sınırını yarıp dışına çıkmış topluluk (ٱلْقَوْمَ ٱلْفَٰسِقِينَ / قَوْمًا فَٰسِقِينَ / قَوْمَ سَوْءٍ فَٰسِقِينَ — mansûb ٱلْقَوْمَ / قَوْمًا isminin mansûb çoğul sıfatı, Rasm'da elifsiz; 10 geçiş: 5:108, 9:53, 9:80, 21:74, 27:12, 28:32, 43:54, 51:46, 61:5, 63:6)"
+      },
+      {
+        "lemma": "faAsiq",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Ahit ve meşruiyet kabuğunu yarıp yörünge dışına fırlayanlar (ٱلْفَٰسِقُونَ / لَفَٰسِقُونَ / فَٰسِقُونَ — merfû haber veya fâil [2:99, 46:35] olarak cemi müzekker sâlim ism-i fâil, Rasm'da elifsiz; 17 geçiş)"
+      },
+      {
+        "lemma": "faAsiq",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Ahit sınırını yarıp dışına fırlayanların (yurdunu) (سَأُو۟رِيكُمْ دَارَ ٱلْفَٰسِقِينَ — muzâfun ileyh olarak mecrûr çoğul ism-i fâil, Rasm'da elifsiz ٱلفسقين; 1 geçiş: 7:145)"
+      },
+      {
+        "lemma": "faAsiq",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Koruyucu ahit ve doğruluk sınırını yarıp dışına çıkanları (إِلَّا ٱلْفَٰسِقِينَ [2:26] / لَفَٰسِقِينَ [7:102] / ٱلْقَوْمَ ٱلْفَٰسِقِينَ [9:24] / وَلِيُخْزِىَ ٱلْفَٰسِقِينَ [59:5] — mansûb mef'ûl veya sıfat olarak çoğul ism-i fâil, Rasm'da elifsiz; 4 geçiş)"
+      },
+      {
+        "lemma": "fasaqa",
+        "ayahs": [
+          "18:50"
+        ],
+        "label": "Böylece (Rabbinin buyruk) kabuğunu/yörüngesini yarıp dışına fırladı (فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ — عَنْ harf-i cerriyle kullanılan I. bab mâzî fiil, 3. tekil eril; 1 geçiş: 18:50)"
+      },
+      {
+        "lemma": "fasaqa",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Koruyucu ahit ve adalet sınırını yarıp dışına çıktılar (ٱلَّذِينَ فَسَقُوٓا۟ [10:33, 32:20] / فَفَسَقُوا۟ فِيهَا [17:16] — I. bab mâzî fiil, 3. çoğul eril; 3 geçiş)"
+      },
+      {
+        "lemma": "fasaqa",
+        "features_contains": [
+          "IMPF",
+          "2MP"
+        ],
+        "label": "Meşruiyet ve hak sınırını sürekli yarıp dışına çıkmanız (sebebiyle) (وَبِمَا كُنتُمْ تَفْسُقُونَ — كُنتُمْ'ün haberi cümlede I. bab merfû muzâri fiil, 2. çoğul eril; 1 geçiş: 46:20)"
+      },
+      {
+        "lemma": "fasaqa",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Ahit ve buyruk sınırını sürekli yarıp dışına çıkmaları (sebebiyle) (بِمَا كَانُوا۟ يَفْسُقُونَ — كَانُوا۟'nun haberi cümlede I. bab merfû muzâri fiil, 3. çoğul eril; 5 geçiş: 2:59, 6:49, 7:163, 7:165, 29:34)"
+      },
+      {
+        "lemma": "fusuwq",
+        "ayahs": [
+          "2:197"
+        ],
+        "label": "(Yöneliş sürecinde) ahit ve saygı sınırını yarıp dışına çıkma (yoktur) (وَلَا فُسُوقَ — cinsini nefyeden lâ'nın fetha üzere mebnî/mansûb ismi, fu'ûl vezninde masdar; 1 geçiş: 2:197)"
+      },
+      {
+        "lemma": "fusuwq",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Adalet ve güven yörüngesinden dışarı fırlama eylemi (فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ [2:282 — inne'nin merfû haberi] / بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَٰنِ [49:11 — zemm fiilinin mahsûsun bi'z-zemm merfû öznesi]; 2 geçiş)"
+      },
+      {
+        "lemma": "fusuwq",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Ve koruyucu ahit kabuğunu yarıp yörünge dışına çıkma sürecini (size çirkin gösterdi) (وَٱلْفُسُوقَ — ٱلْكُفْرَ mef'ûlüne matuf mansûb masdar; 1 geçiş: 49:7)"
+      },
+      {
+        "lemma": "fisoq",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "(Ya da Allah'tan başkası adına ses yükseltilmiş) meşruiyet sınırından çıkmış bir ihlal maddesi (أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ — مَيْتَةً / لَحْمَ خِنزِيرٍ üzerine matuf mansûb isim/masdar; 1 geçiş: 6:145)"
+      },
+      {
+        "lemma": "fisoq",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "İlahi ölçü ve meşruiyet kabuğunun dışına fırlamış bir ihlaldir (ذَٰلِكُمْ فِسْقٌ [5:3] / وَإِنَّهُۥ لَفِسْقٌ [6:121] — merfû haber olarak fi'l vezninde masdar/isim; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Koruyucu kabuğu, ahit çerçevesini ve meşru yörünge sınırını yarıp dışarı fırlama (ف-س-ق kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:26",
+          "2:99",
+          "3:82",
+          "5:47",
+          "5:49",
+          "7:102",
+          "24:55",
+          "59:19"
+        ],
+        "text": "Kur'an'ın kendi tanımıyla (2:26-27) kesinleşmiş ilahi sözleşmeyi (mîsâk) sonradan bozan, birleştirilmesi emredilen bağları kesip koparan, apaçık belgeleri örten, indirilen ilahi ölçülerle hükmetmeyen ve Allah'ı unuttuğu için öz benlikleri kendilerine unutturulanların koruyucu ahit kabuğunu yarıp dışarı fırlamış durumu (ٱلْفَٰسِقُونَ / ٱلْفَٰسِقِينَ)."
+      },
+      {
+        "ayahs": [
+          "3:110",
+          "5:59",
+          "5:81",
+          "57:16",
+          "57:26",
+          "57:27"
+        ],
+        "text": "Kendilerine daha önce Kitap ve elçilik mirası verilen toplulukların içinden güven ve doğruluk üzere kalan bir kesim bulunmakla birlikte, zamanın uzamasıyla kalpleri katılaşan ve kendi icat ettikleri kurumların bile hakkını vermeyerek çoğunluğu ahit yörüngesinin dışına fırlayan (وَأَكْثَرُهُمُ ٱلْفَٰسِقُونَ / وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ) kitlelerin tespiti."
+      },
+      {
+        "ayahs": [
+          "5:25",
+          "5:26",
+          "7:145",
+          "21:74",
+          "27:12",
+          "28:32",
+          "43:54",
+          "46:35",
+          "51:46",
+          "59:5",
+          "61:5"
+        ],
+        "text": "Nûh, Lût, Firavun ve Mûsâ'ya direnen topluluklar gibi tarihsel süreçte elçilerin getirdiği ölçüyü küçümseyen, çirkinlikleri işleyen ve eğrilikleri sebebiyle ahit sınırını yırtıp çıkan toplulukların (ٱلْقَوْمَ ٱلْفَٰسِقِينَ) akıbeti ve geride bıraktıkları yıkım yurdu (دَارَ ٱلْفَٰسِقِينَ)."
+      },
+      {
+        "ayahs": [
+          "5:108",
+          "9:8",
+          "9:24",
+          "9:53",
+          "9:67",
+          "9:80",
+          "9:84",
+          "9:96",
+          "63:6"
+        ],
+        "text": "Ağızlarıyla hoşnut edip kalpleriyle direnen, akrabalık ve ticaret çıkarlarını ilahi ilkelerin önüne koyan, bağışları gönülsüz yapan ve hiçbir ahit/güven bağı gözetmeyen iki çıkışlı kaypak kesimlerin koruyucu doğruluk kabuğunu yarıp tamamen dışarı çıkmış (إِنَّ ٱلْمُنَٰفِقِينَ هُمُ ٱلْفَٰسِقُونَ) kimliği."
+      },
+      {
+        "ayahs": [
+          "24:4",
+          "32:18",
+          "49:6",
+          "49:7",
+          "49:11"
+        ],
+        "text": "Toplumsal hukuk, haber doğrulama ve onur güvenliği bağlamında sınır aşımı: Korunmuş kadınlara dört tanık olmadan iftira atanların (24:4), doğruluğu araştırılmadan haberi kabul edilmeyecek sınır tanımaz haber taşıyıcısının (49:6), alay ve lakap takmayla güven sınırından çıkmanın (49:11) ve güven içinde duran (مُؤْمِنًا) ile sınır yırtan (فَاسِقًا) arasındaki mutlak eşitsizliğin (32:18) inşası."
+      },
+      {
+        "ayahs": [
+          "2:59",
+          "6:49",
+          "7:163",
+          "7:165",
+          "10:33",
+          "17:16",
+          "18:50",
+          "29:34",
+          "32:20",
+          "46:20"
+        ],
+        "text": "فَسَقَ / يَفْسُقُونَ fiiliyle anlatılan aktif kabuk yarma ve yörüngeden kopma eylemleri: İblis'in Rabbinin buyruk çerçevesinden kopup dışarı fırlaması (18:50), şımarık ileri gelenlerin kent içinde meşru sınırları yırtması (17:16), Cumartesi sınırını hileyle delen sahil kentinin sınır aşımı (7:163-165), kendilerine söylenen sözü değiştirenlerin (2:59) ve yeryüzünde haksızca büyüklük taslayarak sınırları çiğneyenlerin (46:20, 32:20) kendi eylemlerinin karşılığıyla yüzleşmesi."
+      },
+      {
+        "ayahs": [
+          "2:197",
+          "2:282",
+          "5:3",
+          "6:121",
+          "6:145"
+        ],
+        "text": "فُسُوق ve فِسْق masdarlarıyla çizilen somut hukuk ve temiz rızık sınırları: Yöneliş aylarında saygı sınırlarını delmeme (2:197), vadeli borç yazımında kâtibe ve tanığa zarar vererek adalet çerçevesinin dışına çıkmama (2:282), fal oklarıyla pay aramanın ve Allah'ın adı anılmadan veya Allah'tan başkası adına ses yükseltilerek kesilenlerin meşru rızık kabuğunun dışına fırlamış (فِسْقٌ) sayılması (5:3, 6:121, 6:145)."
+      }
+    ],
+    "context_default": "İnsanı ve toplumu koruyan ilahi ahit, adalet ve meşruiyet kabuğunu yarıp yörünge dışına fırlama mekanizması."
   }
 }
