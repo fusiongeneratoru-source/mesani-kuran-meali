@@ -3601,5 +3601,151 @@
       }
     ],
     "context_default": "Fiziksel mekânsal yükseklik, ilahî aşkınlık, yeryüzünde zorba tahakküm veya hakikate yükseliş çağrısı mekanizması."
+  },
+  "و-ك-ل": {
+    "buckwalter": "wkl",
+    "slug": "tevekkul_vekil_guven_dayanak_wkl",
+    "concept_name": "Tevekkül / Vekîl / Mütevekkil ve Tevkîl (Yetki Devri, Tedbir Sonrası Allah'a Dayanma ve Mutlak Güvence Makamı)",
+    "keywords": [
+      "tevekkul",
+      "vekil",
+      "mutevekkil",
+      "tevkil",
+      "guven",
+      "dayanak",
+      "kefil",
+      "emanet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "wuk~ila",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Sizinle özel olarak görevlendirildi / yetkilendirildi (وُكِّلَ — II. bab edilgen mâzi fiil; 32:11)"
+      },
+      {
+        "lemma": "wuk~ila",
+        "label": "Onu koruyup taşıyacak bir topluluğu görevlendirdik (وَكَّلْنَا — II. bab etken mâzi fiil; 6:89)"
+      },
+      {
+        "lemma": "mutawak~iluwn",
+        "label": "Yalnız Allah'a güvenip dayananlar (ٱلْمُتَوَكِّلُونَ / ٱلْمُتَوَكِّلِينَ — V. bab ism-i fâil; 3:159, 12:67, 14:12, 39:38)"
+      },
+      {
+        "lemma": "tawak~alo",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Yalnız Allah'a güvenip dayan / dayanın (تَوَكَّلْ / فَتَوَكَّلُوٓا۟ — V. bab emir; istişare, azim, barış veya direniş sonrası)"
+      },
+      {
+        "lemma": "tawak~alo",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Yalnız Allah'a güvenip dayandım / dayandık (تَوَكَّلْتُ / تَوَكَّلْنَا — V. bab mâzi fiil)"
+      },
+      {
+        "lemma": "tawak~alo",
+        "label": "Yalnız Allah'a güvenip dayansın / dayanırlar (فَلْيَتَوَكَّلِ / يَتَوَكَّلُونَ / يَتَوَكَّلْ — V. bab muzâri fiil)"
+      },
+      {
+        "lemma": "wakiyl",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Zorlayıcı vekil ve kefil değilsin / değilim (بِوَكِيلٍ — mecrûr isim; 6:66, 6:107, 10:108, 39:41, 42:6)"
+      },
+      {
+        "lemma": "wakiyl",
+        "label": "Her şeyin koruyucu yöneticisi, sözleşmelerin kefili ve tek yeterli dayanak (وَكِيل / وَكِيلًا / ٱلْوَكِيلُ — isim; 4:109, 17:54,68,86 ve 25:43'te başkası adına vekil olamama)"
+      }
+    ],
+    "irab_default": "Yetki ve görev devri, tedbir sonrası yalnız Allah'a dayanma veya işi üstlenen güvence makamı (و-ك-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:122",
+          "3:159",
+          "3:160",
+          "4:81",
+          "5:11",
+          "5:23",
+          "7:89",
+          "8:2",
+          "8:49",
+          "8:61",
+          "9:51",
+          "9:129",
+          "10:71",
+          "10:84",
+          "10:85",
+          "11:56",
+          "11:88",
+          "11:123",
+          "12:67",
+          "13:30",
+          "14:11",
+          "14:12",
+          "16:42",
+          "16:99",
+          "25:58",
+          "26:217",
+          "27:79",
+          "29:59",
+          "33:3",
+          "33:48",
+          "39:38",
+          "42:10",
+          "42:36",
+          "58:10",
+          "60:4",
+          "64:13",
+          "65:3",
+          "67:29"
+        ],
+        "text": "Aktif tedbir, istişare, azim ve sebat eşliğinde yalnız Allah'a dayanma (تَوَكَّلَ / ٱلْمُتَوَكِّلُونَ): İstişare ve kesin karar sonrası güven (3:159), ayrı kapılardan girme tedbiri sonrası sonucu Allah'a bırakma (12:67), zorluk, barış adımı, tehdit ve gizli fısıltı karşısında sarsılmaz duruş (3:122,160, 4:81, 5:11,23, 8:2,49,61, 9:51,129, 16:42,99, 25:58, 26:217, 27:79, 29:59, 33:3,48, 39:38, 42:10,36, 58:10, 64:13, 65:3, 67:29) ile Nûh, Hûd, Şuayb, İbrahim ve Musa'nın topluluklarına karşı cesur duruşları (7:89, 10:71,84-85, 11:56,88,123, 13:30, 14:11-12, 60:4)."
+      },
+      {
+        "ayahs": [
+          "3:173",
+          "4:132",
+          "4:171",
+          "6:102",
+          "11:12",
+          "12:66",
+          "17:2",
+          "17:65",
+          "28:28",
+          "39:62",
+          "73:9"
+        ],
+        "text": "Evrenin tek yöneticisi, sözleşmelerin şahidi ve yeterli güvence olarak Allah'ın Vekîl oluşu: Tehdit karşısında 'Allah bize yeter, O ne güzel vekildir' bilinci (3:173), göklerin ve yerin tek yaratıcısı ve yöneticisi olarak O'ndan başka dayanak edinmeme (4:132,171, 6:102, 11:12, 17:2,65, 39:62, 73:9) ile Yakub'un oğullarıyla ve Musa'nın Medyenli bilgeyle yaptığı sözleşmelerde Allah'ı kefil kılmaları (12:66, 28:28)."
+      },
+      {
+        "ayahs": [
+          "4:109",
+          "6:66",
+          "6:107",
+          "10:108",
+          "17:54",
+          "17:68",
+          "17:86",
+          "25:43",
+          "39:41",
+          "42:6"
+        ],
+        "text": "Bireysel sorumluluk sınırı — elçinin ve başka varlıkların zorlayıcı vekil olamayışı: Elçinin görevinin yalnızca hakikati duyurmak olup insanların inanç seçimleri üzerinde zorlayıcı kefil ve bekçi olmaması (6:66,107, 10:108, 17:54, 25:43, 39:41, 42:6) ile hesap ve yaptırım anında hiç kimsenin başkası adına savunucu vekil olamayışı (4:109, 17:68, 17:86)."
+      },
+      {
+        "ayahs": [
+          "6:89",
+          "32:11"
+        ],
+        "text": "Emanet ve görev yetkilendirmesi (Form II — وَكَّلَ): Kitap ve hüküm emanetini reddedenlerin yerine onu yadsımayacak yeni bir topluluğun görevlendirilmesi (6:89) ve insanların ömrünü eksiksiz teslim almak üzere özel görevli tayin edilmesi (32:11)."
+      }
+    ],
+    "context_default": "Yetki ve görev devri, tedbir sonrası yalnız Allah'a dayanma veya koruyucu güvence makamı mekanizması."
   }
 }
