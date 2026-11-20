@@ -1583,5 +1583,157 @@
       }
     ],
     "context_default": "Sayı, süre, miktar veya değer bakımından az, kısıtlı ve hafif olma ya da (7:57'de) ağır yükü yerinden kaldırıp taşıma mekanizması."
+  },
+  "أ-ل-م": {
+    "buckwalter": "Alm",
+    "slug": "elem_elim_alm",
+    "concept_name": "Elem / Elîm (Bedensel ve Ruhsal Acı/Ağrı Duyumsama ve Derinden Acı Veren Yakıcı Nitelik)",
+    "keywords": [
+      "elem",
+      "elim",
+      "aci",
+      "agri",
+      "sizi",
+      "aci verici",
+      "istirap"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ya>olamu",
+        "features_contains": [
+          "2MP"
+        ],
+        "label": "Acı çekiyorsunuz (تَأْلَمُونَ — I. bab muzâri fiil; 4:104'te mücadelede bedensel ve ruhsal ağrı duyumsama)"
+      },
+      {
+        "lemma": "ya>olamu",
+        "label": "Acı çekiyorlar (يَأْلَمُونَ — I. bab muzâri fiil; 4:104'te karşı tarafın da aynı insanî acıyı yaşaması)"
+      },
+      {
+        "lemma": ">aliym",
+        "features_contains": [
+          "INDEF",
+          "GEN"
+        ],
+        "label": "Acı verici / can yakan (أَلِيمٍ — nekre mecrûr sıfat; yaptırımın, ardıl karşılığın veya günün yakıcı ağrı niteliği)"
+      },
+      {
+        "lemma": ">aliym",
+        "features_contains": [
+          "INDEF",
+          "ACC"
+        ],
+        "label": "Acı verici / can yakan (أَلِيمًا — nekre mansûb sıfat; hazırlanan veya uygulanan yakıcı yaptırım)"
+      },
+      {
+        "lemma": ">aliym",
+        "features_contains": [
+          "INDEF",
+          "NOM"
+        ],
+        "label": "Acı verici / can yakan (أَلِيمٌ — nekre merfû sıfat; yaptırımın veya yakalayışın derinden acı veren mahiyeti)"
+      },
+      {
+        "lemma": ">aliym",
+        "label": "O acı verici / yakıcı (ٱلْأَلِيمُ / ٱلْأَلِيمَ / ٱلْأَلِيمِ — marife sıfat; özellikle vurgulanan belirli acı verici yaptırım)"
+      }
+    ],
+    "irab_default": "Bedensel veya ruhsal acı çekme yahut derinden acı verici olma niteliği (أ-ل-م kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:104",
+          "12:25",
+          "36:18"
+        ],
+        "text": "Doğrudan insanî acı duyumu ve dünyevî yaptırım çıpası: Zorlu mücadelede her iki tarafın da aynı biçimde bedensel ve ruhsal acı çekmesi ancak inananların Yaratıcı'dan umut beslemesi (4:104) ile Mısır'da Yusuf'a ve elçilere yöneltilen dünyevî acı verici ceza tehditleri (12:25, 36:18)."
+      },
+      {
+        "ayahs": [
+          "2:178",
+          "3:21",
+          "4:161",
+          "5:94",
+          "7:73",
+          "9:34",
+          "9:61",
+          "9:79",
+          "22:25",
+          "24:19",
+          "24:63",
+          "42:21",
+          "42:42",
+          "58:4",
+          "59:15",
+          "76:31"
+        ],
+        "text": "Toplumsal adalet, can güvenliği, ekonomik sömürü ve hukuk ihlallerinde acı verici yaptırım: Kısas affı sonrası saldırı (2:178), adaleti emredenleri öldürme (3:21), sömürücü faiz ve servet yığma (4:161, 9:34), hayırda yarışanlarla alay ve elçiye eziyet (9:61,79), kutsal mekânda zulüm ve topluma çirkinliği yayma (22:25, 24:19), haksız zorbalık ve sınır ihlali (5:94, 7:73, 24:63, 42:21,42, 58:4, 59:15, 76:31)."
+      },
+      {
+        "ayahs": [
+          "2:10",
+          "2:104",
+          "2:174",
+          "3:77",
+          "3:177",
+          "3:188",
+          "4:18",
+          "4:138",
+          "4:173",
+          "5:73",
+          "6:70",
+          "9:3",
+          "9:39",
+          "9:74",
+          "9:90",
+          "14:22",
+          "16:63",
+          "16:104",
+          "16:117",
+          "31:7",
+          "33:8",
+          "45:8",
+          "48:16",
+          "48:17"
+        ],
+        "text": "Hakikati gizleme, yalan, ikiyüzlülük, kibir ve sorumluluktan kaçışın acı verici karşılığı: Kalpteki yalan hastalığı (2:10), kitabı ve ahdi değersiz bedelle gizleme (2:174, 3:77), kibirle büyüklük taslama ve ayetlere kulak tıkama (4:173, 31:7, 45:8), ikiyüzlü sözler ve seferberlikten kaçış (4:138, 9:39,74,90, 48:16-17), ölüm anında son nefes pişmanlığı ve geçici dünya yararının ardından gelen acı yaptırım (4:18, 14:22, 16:117)."
+      },
+      {
+        "ayahs": [
+          "3:91",
+          "5:36",
+          "8:32",
+          "10:4",
+          "10:88",
+          "10:97",
+          "11:26",
+          "11:48",
+          "11:102",
+          "15:50",
+          "17:10",
+          "25:37",
+          "26:201",
+          "29:23",
+          "34:5",
+          "37:38",
+          "41:43",
+          "43:65",
+          "44:11",
+          "45:11",
+          "46:24",
+          "46:31",
+          "48:25",
+          "51:37",
+          "61:10",
+          "64:5",
+          "67:28",
+          "71:1",
+          "73:13",
+          "84:24"
+        ],
+        "text": "Tarihsel uyarı, acı verici gün, yakalayış şiddeti ve kurtuluş çağrısı: Fidyenin kabul edilmediği kesin hesap (3:91, 5:36), acı verici gün ve zalim beldelerin şiddetli yakalanışı (11:26,102, 43:65, 46:24, 51:37), gözle görülene dek direnenlerin yanılgısı (10:88,97, 26:201) ile Yaratıcı'nın bağışlama ve acı verici yaptırımdan kurtaran davet dengesi (15:50, 41:43, 46:31, 61:10, 67:28, 71:1)."
+      }
+    ],
+    "context_default": "Canlı bedende veya bilinçte doğrudan duyumsanan acı/ağrı yahut bu acıyı derinden hissettiren yakıcı nitelik."
   }
 }
