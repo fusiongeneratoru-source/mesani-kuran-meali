@@ -4247,5 +4247,169 @@
       }
     ],
     "context_default": "Bölünmez teklik, eşsiz birlik, tek kaynak/hamle veya yalnız başına olma mekanizması."
+  },
+  "ه-ل-ك": {
+    "buckwalter": "hlk",
+    "slug": "helak_tehluke_mehlik_yikim_tukenis_hlk",
+    "concept_name": "Helâk / İhlâk / Tehlüke ve Mehlik (Kırılıp Düşme, Tükeniş, Ekolojik/Toplumsal Yıkım ve Fanilik)",
+    "keywords": [
+      "helak",
+      "ihlak",
+      "tehluke",
+      "mehlik",
+      "yikim",
+      "tukenis",
+      "fanilik",
+      "cokus"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "t~aholukap",
+        "label": "Kendi eliyle içine atılan büyük yıkım ve çöküş (ٱلتَّهْلُكَةِ — nadir masdar; 2:195)"
+      },
+      {
+        "lemma": "muholakiyn",
+        "label": "Yıkıma uğratılıp tarih sahnesinden silinenler (ٱلْمُهْلَكِينَ — IV. bab ism-i mef'ûl; 23:48)"
+      },
+      {
+        "lemma": "muholikiY",
+        "label": "Beldeleri helak edici olanlar (مُهْلِكِى — IV. bab izâfet çoğul ism-i fâil; 28:59)"
+      },
+      {
+        "lemma": "muholik",
+        "label": "Beldeleri/toplulukları yıkıma uğratan (مُهْلِكَ / مُهْلِكُهُمْ / مُهْلِكُوهَا / مُهْلِكُوٓا۟ — IV. bab ism-i fâil; 5 geçiş)"
+      },
+      {
+        "lemma": "maholik",
+        "label": "Yıkım vakti veya ölüm/yıkım olayı (لِمَهْلِكِهِم / مَهْلِكَ — mîmli masdar/zaman ismi; 18:59, 27:49)"
+      },
+      {
+        "lemma": "haAlik",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Kederden eriyip tükenenler (ٱلْهَٰلِكِينَ — I. bab çoğul ism-i fâil; 12:85)"
+      },
+      {
+        "lemma": "haAlik",
+        "label": "Geçici, fani ve yok olmaya yazgılı (هَالِكٌ — I. bab tekil ism-i fâil; 28:88)"
+      },
+      {
+        "lemma": "halaka",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Açık kanıtla yıkıma düşsün diye (لِّيَهْلِكَ — I. bab mansûb muzâri; 8:42)"
+      },
+      {
+        "lemma": "halaka",
+        "label": "Hayattan göçtü / açık kanıtla helak oldu / yetkim elden çıkıp yok oldu (هَلَكَ — I. bab mâzi fiil; 4:176, 8:42, 40:34, 69:29)"
+      },
+      {
+        "lemma": ">aholaka",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Yıkıma uğratıldı / yalnız zalim veya yoldan çıkan topluluk helak edilir (يُهْلَكُ / فَأُهْلِكُوا۟ — IV. bab edilgen fiil; 6:47, 46:35, 69:5, 69:6)"
+      },
+      {
+        "lemma": ">aholaka",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Yok etmek, ekin/nesli tahrip etmek veya kendini yıkıma sürüklemek (يُهْلِكَ / نُّهْلِكَ / أَتُهْلِكُنَا / يُهْلِكُونَ — IV. bab etken muzâri)"
+      },
+      {
+        "lemma": ">aholaka",
+        "label": "Zulmeden nesilleri/beldeleri tarih sahnesinden sildik veya malı/ekini tüketti (أَهْلَكْنَا / أَهْلَكَ / أَهْلَكْتُ / فَأَهْلَكَتْهُ — IV. bab etken mâzi)"
+      }
+    ],
+    "irab_default": "Kırılıp düşerek varlığını veya işlevini yitirme, tüketme ya da zulüm sonucu toplumsal çöküş (ه-ل-ك kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:6",
+          "6:47",
+          "7:4",
+          "7:129",
+          "7:164",
+          "8:54",
+          "10:13",
+          "14:13",
+          "17:16",
+          "17:17",
+          "17:58",
+          "18:59",
+          "19:74",
+          "19:98",
+          "20:128",
+          "21:6",
+          "21:9",
+          "21:95",
+          "22:45",
+          "23:48",
+          "26:139",
+          "28:43",
+          "28:58",
+          "28:78",
+          "29:31",
+          "32:26",
+          "36:31",
+          "38:3",
+          "43:8",
+          "44:37",
+          "46:27",
+          "46:35",
+          "47:13",
+          "50:36",
+          "53:50",
+          "54:51",
+          "69:5",
+          "69:6",
+          "77:16"
+        ],
+        "text": "Zulüm, şımarıklık ve yalanlama sonucu tarihsel kavimlerin/beldelerin çöküşü (أَهْلَكْنَا / فَأُهْلِكُوا۟ / ٱلْمُهْلَكِينَ): Güç, servet ve şımarıklığa kapılıp zulümde ısrar eden Ad, Semûd, Firavun hanedanı, Lût şehri, Tübba ve nice eski neslin geride tek bir iz ve dönüş imkânı bırakmaksızın tarih sahnesinden silinmesi ile bunun sonraki nesiller için somut ibret belgesi kılınması."
+      },
+      {
+        "ayahs": [
+          "6:131",
+          "7:155",
+          "7:173",
+          "11:117",
+          "15:4",
+          "20:134",
+          "26:208",
+          "28:59"
+        ],
+        "text": "İlâhî adalet ve uyarı yasası: Hiçbir beldenin belirlenmiş süresi dolmadan (15:4), uyarıcı elçi gönderilmeden (20:134, 26:208, 28:59), halkı gafil iken (6:131) veya ıslahçı bir toplumken (11:117) haksızca helak edilmeyeceği ilkesi ile beyinsizlerin veya geçmiş ataların suçu yüzünden sorumsuz toplu yıkım olmayışı (7:155, 7:173)."
+      },
+      {
+        "ayahs": [
+          "2:195",
+          "2:205",
+          "3:117",
+          "6:26",
+          "9:42",
+          "12:85",
+          "27:49",
+          "69:29",
+          "90:6"
+        ],
+        "text": "Bireysel/ekolojik yıkım, öz-tahribat ve yetki/mal kaybı: İnfaktan kaçınarak kendi eliyle büyük yıkıma (ٱلتَّهْلُكَةِ) atılmama uyarısı (2:195), yeryüzünde ekin ve nesli tahrip eden bozgunculuk (2:205), dondurucu rüzgârın ekini kavurup yok etmesi (3:117), hakikati engelleyip yalan antlarla yalnız kendilerini mahvetme (6:26, 9:42), Yakub'un kederden eriyip tükenme endişesi (12:85), Salih'in ailesine gece suikastı komplosu (27:49), hesap gününde yetki ve gücün elden çıkıp gitmesi (69:29) ve yığınla mal tükettiğiyle övünme (90:6)."
+      },
+      {
+        "ayahs": [
+          "4:176",
+          "5:17",
+          "8:42",
+          "28:88",
+          "40:34",
+          "45:24",
+          "67:28"
+        ],
+        "text": "Varlıksal fanilik, ölüm ve açık kanıtla hayat/yıkım ayrımı: Allah'ın bâki zatı dışında her şeyin fani ve geçici oluşu (28:88), tüm yeryüzü varlığı üzerinde tek hayat ve yıkım egemenliği (5:17, 67:28), açık kanıt karşısında yıkıma düşen ile dirilenin ayrışması (8:42), miras hukukunda çocuksuz kişinin hayattan ayrılışı (4:176), Yusuf'un göçüşünden sonra düşülen kuşku (40:34) ve 'bizi yalnızca zaman yok eder' diyen materyalist yanılgı (45:24)."
+      }
+    ],
+    "context_default": "Kırılıp düşerek varlığını, canlılığını, gücünü veya tarihsel ayakta kalışını yitirme ve yok etme mekanizması."
   }
 }
