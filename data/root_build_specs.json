@@ -2641,5 +2641,159 @@
       }
     ],
     "context_default": "Yürüme organı ayak/bacak, yaya hareket veya ergin yetişkin erkek insan mekanizması."
+  },
+  "غ-ن-ي": {
+    "buckwalter": "gny",
+    "slug": "gina_yeterlilik_ihtiyacsizlik_gny",
+    "concept_name": "Gınâ / Ğaniyy / İğnâ ve İstiğnâ (Tam Yeterlilik, Mutlak İhtiyaçsızlık, Tehlikeyi Savuşturma ve Müstağni Sanma)",
+    "keywords": [
+      "gina",
+      "gani",
+      "zengin",
+      "yeterlilik",
+      "ihtiyacsizlik",
+      "istigna",
+      "mugni",
+      "savusturma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{sotagonaY`",
+        "label": "Hiçbir şeye muhtaç olmadığını ortaya koydu (64:6) / kendini müstağni ve kimseye muhtaç değil sandı (80:5, 92:8, 96:7) — ٱسْتَغْنَىٰ (X. bab mâzi fiil)"
+      },
+      {
+        "lemma": "m~ugonuwn",
+        "label": "Azaptan/ateşten bir kısmını savuşturup giderebilecek olanlar (مُّغْنُونَ — IV. bab ism-i fâil; 14:21, 40:47)"
+      },
+      {
+        "lemma": ">agonaY`",
+        "features_contains": [
+          "MOOD:JUS"
+        ],
+        "label": "Bolluk ve yerleşiklik içinde yaşamamış / dün hiç var olmamış gibi (كَأَن لَّمْ يَغْنَوْا۟ / تَغْنَ — I. bab meczûm muzâri; 7:92, 10:24, 11:68, 11:95)"
+      },
+      {
+        "lemma": ">agonaY`",
+        "label": "Yeterli kıldı / muhtaçlıktan kurtardı (9:74, 53:48, 93:8) veya hiçbir şeye yetmedi / bir yarar sağlamadı (7:48, 15:84, 26:207, 39:50, 40:82, 46:26, 69:28, 111:2) — أَغْنَىٰ (IV. bab fiil)"
+      },
+      {
+        "lemma": ">agonato",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Hiçbir fayda ve koruma sağlamadı (أَغْنَتْ — IV. bab dişil mâzi fiil; 11:101)"
+      },
+      {
+        "lemma": ">agonato",
+        "label": "Yeterli kılar / meşgul edip yeter (4:130, 9:28, 24:32-33, 80:37) veya hiçbir şeye yetmez / savuşturamaz (يُغْنِى / تُغْنِى / أُغْنِى — IV. bab muzâri fiil)"
+      },
+      {
+        "lemma": "ganiY~",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Varlıklı ve maddi imkân sahibi kimseler (أَغْنِيَآء / ٱلْأَغْنِيَآء — kırık çoğul isim; 2:273, 3:181, 9:93, 59:7)"
+      },
+      {
+        "lemma": "ganiY~",
+        "label": "Mutlak İhtiyaçsız / Kendi Kendine Yeten (ٱلْغَنِىُّ / غَنِىٌّ — 18 kez Yaratıcı'nın sıfatı; 4:6 ve 4:135'te maddi imkân sahibi kimse)"
+      }
+    ],
+    "irab_default": "Tam yeterlilik, ihtiyaçsızlık, muhtaçlıktan kurtarma veya tehlikeyi savuşturma (غ-ن-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:263",
+          "2:267",
+          "3:97",
+          "4:131",
+          "6:133",
+          "10:68",
+          "14:8",
+          "22:64",
+          "27:40",
+          "29:6",
+          "31:12",
+          "31:26",
+          "35:15",
+          "39:7",
+          "47:38",
+          "57:24",
+          "60:6",
+          "64:6"
+        ],
+        "text": "Yaratıcı'nın mutlak ihtiyaçsızlığı (ٱلْغَنِىُّ ٱلْحَمِيدُ / غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ): Göklerin ve yerin tek sahibi olarak hiçbir varlığa, çocuk edinmeye, insanın şükrüne, paylaşımına veya bağlılığına zerrece muhtaç olmaması (2:263,267, 3:97, 4:131, 6:133, 10:68, 14:8, 22:64, 27:40, 29:6, 31:12,26, 39:7, 57:24, 60:6, 64:6) ve tüm insanların O'na varoluşsal olarak muhtaç oluşu (35:15, 47:38)."
+      },
+      {
+        "ayahs": [
+          "2:273",
+          "3:181",
+          "4:6",
+          "4:130",
+          "4:135",
+          "9:28",
+          "9:74",
+          "9:93",
+          "24:32",
+          "24:33",
+          "53:48",
+          "59:7",
+          "80:5",
+          "92:8",
+          "93:8",
+          "96:7"
+        ],
+        "text": "İnsanın maddi yeterliliği, ekonomik adalet ve kendini müstağni sanma yanılsaması: Boşanma, evlilik, geçim darlığı ve yoksulluk karşısında Yaratıcı'nın geniş imkânıyla yeterlilik sağlaması (4:130, 9:28,74, 24:32-33, 53:48, 93:8), servetin yalnız zenginler arasında tekelleşmemesi, yetim malında ve adil tanıklıkta zengin-yoksul ayrımı gözetilmemesi ve iffetli yoksulların onuru (2:273, 4:6,135, 9:93, 59:7) karşısında zenginlikle kibirlenip kendini müstağni sanmanın azgınlığa yol açması (3:181, 80:5, 92:8, 96:7)."
+      },
+      {
+        "ayahs": [
+          "7:92",
+          "10:24",
+          "11:68",
+          "11:95"
+        ],
+        "text": "Yurtlarda bolluk içinde yaşayıp izi silinme (كَأَن لَّمْ يَغْنَوْا۟ فِيهَا / تَغْنَ بِٱلْأَمْسِ): Semûd ve Medyen'in refah içinde oturdukları yurtların sanki orada hiç yaşamamışlar gibi bir anda silinmesi (7:92, 11:68, 11:95) ve süslenip göz kamaştıran dünya bahçesinin sanki dün hiç var olmamış gibi biçilip kuruyuvermesi (10:24)."
+      },
+      {
+        "ayahs": [
+          "3:10",
+          "3:116",
+          "7:48",
+          "8:19",
+          "9:25",
+          "10:36",
+          "10:101",
+          "11:101",
+          "12:67",
+          "12:68",
+          "14:21",
+          "15:84",
+          "19:42",
+          "26:207",
+          "36:23",
+          "39:50",
+          "40:47",
+          "40:82",
+          "44:41",
+          "45:10",
+          "45:19",
+          "46:26",
+          "52:46",
+          "53:26",
+          "53:28",
+          "54:5",
+          "58:17",
+          "66:10",
+          "69:28",
+          "77:31",
+          "80:37",
+          "88:7",
+          "92:11",
+          "111:2"
+        ],
+        "text": "Hakikat, açlık, alev ve ilahî yaptırım karşısında hiçbir şeyin yetmemesi (لَن تُغْنِىَ / مَا أَغْنَىٰ / مُّغْنُونَ): Malın, evladın, kalabalığın, tuzakların, sahte ilahların, kibirli önderlerin, yakın akrabalığın ve izinsiz şefaatin hesap gününde hiçbir yarar sağlamaması (3:10,116, 7:48, 8:19, 9:25, 11:101, 12:67-68, 14:21, 15:84, 19:42, 26:207, 36:23, 39:50, 40:47,82, 44:41, 45:10,19, 46:26, 52:46, 53:26, 58:17, 66:10, 69:28, 92:11, 111:2), zannın hakikatin yerini tutmaması ve reddedenlere delillerin fayda vermemesi (10:36,101, 53:28, 54:5), alevden korumayan gölge ve açlığı gidermeyen besin (77:31, 88:7) ile herkesi başkalarından koparacak ağırlıkta kendi derdi (80:37)."
+      }
+    ],
+    "context_default": "Tam yeterlilik, mutlak ihtiyaçsızlık, muhtaçlıktan kurtarma veya bir tehlikeyi savuşturma mekanizması."
   }
 }
