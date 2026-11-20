@@ -9344,5 +9344,206 @@
       }
     ],
     "context_default": "Akışın ve hareketin gelip dayandığı son sınırda durdurup sakındırma, durup vazgeçme, nihai varış sınırı veya frenleyici sağduyu mekanizması."
+  },
+  "أ-ج-ل": {
+    "buckwalter": "Ajl",
+    "slug": "ecel_tecil_mueccel_belirlenmis_sure_vade_ecl",
+    "concept_name": "Ecel, Te'cîl ve Müeccel (Belirlenmiş Süre, Son Vade Noktası ve Vadelendirilmiş Yazgı)",
+    "keywords": [
+      "ecel",
+      "tecil",
+      "mueccel",
+      "vade",
+      "sure",
+      "muhlet",
+      "vakit",
+      "sebep"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">ajol",
+        "label": "İşte bundan dolayı / bu sebeple (مِنْ أَجْلِ ذَٰلِكَ — مِن harf-i cerriyle mecrûr ve işaret ismine muzâf sebep ismi; 1 geçiş: 5:32)"
+      },
+      {
+        "lemma": "m~u&aj~al",
+        "label": "Vadesi belirlenmiş (bir yazgı olarak) (كِتَٰبًا مُّؤَجَّلًا — mansûb mef'ûl-i mutlak/hâl olan كِتَٰبًا kelimesinin II. bab ism-i mef'ûl sıfatı; 1 geçiş: 3:145)"
+      },
+      {
+        "lemma": ">aj~ala",
+        "ayahs": [
+          "6:128"
+        ],
+        "label": "Bizim için belirlediğin / vadelendirdiğin (süremize) (ٱلَّذِىٓ أَجَّلْتَ لَنَا — sıla cümlesinde II. bab malûm mâzî fiil, 2. tekil eril; 1 geçiş: 6:128)"
+      },
+      {
+        "lemma": ">aj~ala",
+        "label": "(Hangi gün için) ertelendi / vadelendirildi (لِأَىِّ يَوْمٍ أُجِّلَتْ — II. bab meçhûl mâzî fiil, 3. tekil dişil; 1 geçiş: 77:12)"
+      },
+      {
+        "lemma": ">ajal",
+        "word_rasm": [
+          "ٱلأجلين"
+        ],
+        "label": "İki vadeden (hangisini doldurursam) (أَيَّمَا ٱلْأَجَلَيْنِ قَضَيْتُ — muzâfun ileyh tesniye isim; 1 geçiş: 28:28)"
+      },
+      {
+        "lemma": ">ajal",
+        "word_rasm": [
+          "أجلهن"
+        ],
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Onların (hamilelerin) bekleme vadesi (أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ — merfû mübtedâ ve zamire muzâf isim; 1 geçiş: 65:4)"
+      },
+      {
+        "lemma": ">ajal",
+        "word_rasm": [
+          "أجلهن",
+          "أجله"
+        ],
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Bekleme sürelerinin (iddet vadelerinin) sonuna ulaştıklarında / yazılı süre vadesine ulaşıncaya kadar (فَبَلَغْنَ أَجَلَهُنَّ [2:231, 2:232, 2:234, 65:2] / يَبْلُغَ ٱلْكِتَٰبُ أَجَلَهُۥ [2:235] — بَلَغَ fiilinin mansûb mef'ûlü; 5 geçiş)"
+      },
+      {
+        "lemma": ">ajal",
+        "word_rasm": [
+          "أجله"
+        ],
+        "label": "Kendi vadesine kadar (إِلَىٰٓ أَجَلِهِۦ — إِلَىٰ harf-i cerriyle mecrûr ve zamire muzâf isim; 1 geçiş: 2:282)"
+      },
+      {
+        "lemma": ">ajal",
+        "word_rasm": [
+          "أجلهم",
+          "أجلها"
+        ],
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Onların / onun vadesi (geldiğinde / yaklaştı) (جَآءَ أَجَلُهُمْ [7:34, 10:49, 16:61, 35:45] / ٱقْتَرَبَ أَجَلُهُمْ [7:185] / لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ [10:11] / جَآءَ أَجَلُهَا [63:11] — merfû fâil/nâib-i fâil ve zamire muzâf isim; 7 geçiş)"
+      },
+      {
+        "lemma": ">ajal",
+        "word_rasm": [
+          "أجلنا",
+          "أجلها",
+          "ٱلأجل"
+        ],
+        "label": "Süremizin sonuna (ulaştık) / kendi vadesinin (önüne geçemez) / sözleşme vadesini (tamamladığında) (وَبَلَغْنَآ أَجَلَنَا [6:128] / مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا [15:5, 23:43] / قَضَىٰ مُوسَى ٱلْأَجَلَ [28:29] — mansûb mef'ûlün bih; 4 geçiş)"
+      },
+      {
+        "lemma": ">ajal",
+        "ayahs": [
+          "29:5",
+          "71:4"
+        ],
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Allah'ın belirlediği vade (إِنَّ أَجَلَ ٱللَّهِ — إِنَّ edatının mansûb ve muzâf ismi; 2 geçiş: 29:5, 71:4)"
+      },
+      {
+        "lemma": ">ajal",
+        "ayahs": [
+          "4:77",
+          "14:44",
+          "63:10"
+        ],
+        "label": "Yakın bir vadeye / kısa bir süreye kadar (إِلَىٰٓ أَجَلٍ قَرِيبٍ — إِلَىٰ harf-i cerriyle mecrûr isim; 3 geçiş)"
+      },
+      {
+        "lemma": ">ajal",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Belirlenmiş bir vade vardır / her toplum için bir vade vardır (وَأَجَلٌ مُّسَمًّى [6:2, 20:129] / أَجَلٌ مُّسَمًّى [6:60, 29:53] / وَلِكُلِّ أُمَّةٍ أَجَلٌ [7:34, 10:49] — merfû mübtedâ/nâib-i fâil; 6 geçiş)"
+      },
+      {
+        "lemma": ">ajal",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Bir süre / belirlenmiş bir vadeye (قَضَىٰٓ أَجَلًا [6:2] / أَجَلًا لَّا رَيْبَ فِيهِ [17:99] / أَجَلًا مُّسَمًّى [40:67] — mansûb mef'ûlün bih; 3 geçiş)"
+      },
+      {
+        "lemma": ">ajal",
+        "label": "Belirlenmiş bir vadeye kadar / sayılı bir vadeye kadar / her vadenin (إِلَىٰٓ أَجَلٍ مُّسَمًّى / لِأَجَلٍ مُّسَمًّى / وَأَجَلٍ مُّسَمًّى / لِأَجَلٍ مَّعْدُودٍ [11:104] / إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ [7:135] / لِكُلِّ أَجَلٍ كِتَابٌ [13:38] — harf-i cerle veya izâfetle mecrûr isim; 19 geçiş)"
+      }
+    ],
+    "irab_default": "Belirlenmiş süre, mühlet ve bu sürenin dolduğu son vade noktası (أ-ج-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:2",
+          "13:38",
+          "22:33",
+          "30:8",
+          "31:29",
+          "35:13",
+          "39:5",
+          "46:3"
+        ],
+        "text": "Kozmik evrenin, güneşin ve ayın belirlenmiş vadesi (أَجَلٍ مُّسَمًّى): Göklerin, yerin ve ikisi arasındakilerin tesadüfen değil ancak hak ile ve belirlenmiş bir vadeye (أَجَلٍ مُّسَمًّى) göre yaratılmış olması (30:8, 46:3), güneş ve ayın her birinin belirlenmiş bir vadeye kadar yörüngesinde akıp gitmesi (13:2, 31:29, 35:13, 39:5), her dönemin ve vadenin yazılı bir yasası bulunması (13:38) ve Beyt-i Atîk'e sunulan hayvanlardan belirli bir vadeye kadar yararlanılması (22:33)."
+      },
+      {
+        "ayahs": [
+          "3:145",
+          "4:77",
+          "6:2",
+          "6:60",
+          "6:128",
+          "22:5",
+          "39:42",
+          "40:67",
+          "63:10",
+          "63:11",
+          "71:4"
+        ],
+        "text": "Ana rahminden ömür sonuna kadar bireysel yaşam vadesi (أَجَل / كِتَٰبًا مُّؤَجَّلًا): Ana rahminde belirlenmiş bir vadeye kadar kalma, dünyaya çıkıp olgunluk ve yaşlılık evrelerinden geçerek belirlenmiş ömür vadesine ulaşma (6:2 [2x], 22:5, 40:67), gece uykusunda bilincin teslim alınıp ömür vadesi dolana kadar her gün yeniden gönderilmesi (6:60, 39:42), hiçbir canın vadesi belirlenmiş bir yazgı (كِتَٰبًا مُّؤَجَّلًا) dışında ölmemesi (3:145), hesap günü insan ve görünmeyen varlıkların dünyada kendileri için belirlenen vadeye ulaştıklarını itiraf etmesi (6:128 [2x]) ve ölüm kapıya dayandığında yakın bir vadeye kadar erteleme dilenilse de vadesi gelen hiçbir canın ertelenmemesi (4:77, 63:10, 63:11, 71:4 [2x])."
+      },
+      {
+        "ayahs": [
+          "7:34",
+          "7:135",
+          "7:185",
+          "10:11",
+          "10:49",
+          "11:3",
+          "11:104",
+          "14:10",
+          "14:44",
+          "15:5",
+          "16:61",
+          "17:99",
+          "20:129",
+          "23:43",
+          "29:5",
+          "29:53",
+          "35:45",
+          "42:14",
+          "77:12"
+        ],
+        "text": "Toplumların tarihsel vadesi, mühlet yasası ve hesap gününün şaşmaz vakti (أَجَلُهُمْ / أُجِّلَتْ): Her toplumun bir vadesi olması ve vadeleri geldiğinde tek bir saat bile ileri veya geri gidememeleri (7:34 [2x], 7:185, 10:49 [2x], 15:5, 23:43), Allah'ın insanları zulümleri yüzünden hemen cezalandırmayıp belirlenmiş bir vadeye kadar ertelemesi (10:11, 11:3, 14:10, 16:61 [2x], 20:129, 29:53, 35:45 [2x], 42:14), verilen mühlet vadesine ulaşınca sözünü bozanlar ve azap gelince yakın bir vadeye kadar süre isteyenler (7:135, 14:44) ile kuşkusuz diriliş ve hesap gününün sayılı ve belirlenmiş vadesi (11:104, 17:99, 29:5, 77:12)."
+      },
+      {
+        "ayahs": [
+          "2:231",
+          "2:232",
+          "2:234",
+          "2:235",
+          "2:282",
+          "5:32",
+          "28:28",
+          "28:29",
+          "65:2",
+          "65:4"
+        ],
+        "text": "Borç, emek sözleşmesi ve aile hukukunda vade ile hükmün gerekçesi (أَجَلَهُنَّ / ٱلْأَجَلَيْنِ / مِنْ أَجْلِ): Belirli bir vadeye bağlanmış borç işlemlerinin küçük veya büyük kendi vadesine kadar adaletle yazılması (2:282 [2x]), Mûsâ'nın sekiz veya on yıllık iki emek sözleşmesi vadesinden birini doldurup tamamlaması (28:28, 28:29), boşanma ve eş kaybında bekleme vadesinin sonuna ulaşan kadınların onurla tutulması veya güzellikle serbest bırakılması ve hamilelerin bekleme vadesinin doğum oluşu (2:231, 2:232, 2:234, 2:235, 65:2, 65:4) ile ilk cinayet olayı sebebiyle (مِنْ أَجْلِ ذَٰلِكَ) haksız yere bir cana kıymanın tüm insanlığı öldürmek gibi olduğu yasasının yazılması (5:32)."
+      }
+    ],
+    "context_default": "Bir sürecin, sözleşmenin, ömrün, toplumların veya kozmik sistemin bağlandığı belirlenmiş süre ve son vade noktası mekanizması."
   }
 }
