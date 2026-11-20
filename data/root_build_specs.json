@@ -6827,5 +6827,147 @@
       }
     ],
     "context_default": "Mevcut miktarın, sürenin veya içsel yönelimin üzerine eklenerek artma ve katlanma mekanizması."
+  },
+  "م-س-س": {
+    "buckwalter": "mss",
+    "slug": "mess_temas_misas_dokunmak_degmek_mss",
+    "concept_name": "Mess / Temâss / Misâs (Doğrudan Dokunmak, Değip Etki Bırakmak, Darlık-İyilik Dokunuşu ve Karşılıklı Temas)",
+    "keywords": [
+      "mess",
+      "temas",
+      "misas",
+      "dokunmak",
+      "degmek",
+      "darlik",
+      "ates",
+      "yorgunluk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "misaAs",
+        "label": "Karşılıklı dokunma / temas yok (لَا مِسَاسَ — III. bab masdar/isim; 20:97'de Sâmirî'nin temas izolasyonu; 1 geçiş)"
+      },
+      {
+        "lemma": "mas~",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Dokunuştan / çarpmadan dolayı (مِنَ ٱلْمَسِّ — I. bab mecrûr masdar/isim; 2:275)"
+      },
+      {
+        "lemma": "mas~",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Yakıcı yıkım yurdunun dokunuşunu (مَسَّ سَقَرَ — I. bab mansûb masdar/isim; 54:48)"
+      },
+      {
+        "lemma": "yatamaA^s~a",
+        "label": "İkisinin karşılıklı temasta bulunması (يَتَمَآسَّا — VI. bab mansûb tesniye muzâri; 58:3, 58:4; 2 geçiş)"
+      },
+      {
+        "lemma": "mas~a",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Doğrudan dokundu / değdi / başına geldi (مَسَّ / مَسَّتْ / مَسَّهُ / مَسَّنَا / مَسَّنِىَ / لَمَسَّكُمْ — I. bab mâzi; 28 geçiş)"
+      },
+      {
+        "lemma": "mas~a",
+        "features_contains": [
+          "IMPF",
+          "MOOD:JUS"
+        ],
+        "label": "Dokunursa / dokunmadı / dokunmayın (يَمْسَسْكَ / يَمْسَسْنِى / تَمْسَسْهُ / تَمَسُّوهَا / تَمَسُّوهُنَّ — I. bab meczûm muzâri; 14 geçiş)"
+      },
+      {
+        "lemma": "mas~a",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Dokunur / değecek / dokunmasın (يَمَسُّ / تَمَسَّنَا / لَيَمَسَّنَّ / تَمَسُّوهُنَّ — I. bab muzâri; 14 geçiş)"
+      }
+    ],
+    "irab_default": "Bir varlığa veya insana arada engel olmaksızın doğrudan değip temas etmek ve etki bırakmak (م-س-س kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:236",
+          "2:237",
+          "3:47",
+          "7:73",
+          "11:64",
+          "19:20",
+          "20:97",
+          "24:35",
+          "26:156",
+          "33:49",
+          "56:79",
+          "58:3",
+          "58:4"
+        ],
+        "text": "Doğrudan fiziksel, bedensel ve aile hukuku teması: Ateş değmese bile parlayan zeytinyağı (24:35), arınmış olanların dokunışı (56:79), Sâlih'in devesine kötülükle el sürmeme yasağı (7:73, 11:64, 26:156), Sâmirî'nin 'bana dokunmayın' izolasyonu (20:97), Meryem'e hiçbir beşerin dokunmamış olması (3:47, 19:20) ile nikâh ve zıhâr hukukunda eşler arası bedensel temas öncesi hükümler (2:236, 2:237, 33:49, 58:3, 58:4)."
+      },
+      {
+        "ayahs": [
+          "2:214",
+          "3:120",
+          "3:140",
+          "6:17",
+          "7:95",
+          "10:12",
+          "10:21",
+          "10:107",
+          "11:10",
+          "12:88",
+          "16:53",
+          "17:67",
+          "17:83",
+          "30:33",
+          "39:8",
+          "39:49",
+          "41:49",
+          "41:50",
+          "41:51",
+          "70:20",
+          "70:21"
+        ],
+        "text": "Darlık ve iyilik dokunuşuyla insan karakterinin sınanması: Allah bir sıkıntı dokundurursa O'ndan başka giderecek olmaması (6:17 [2x], 10:107), insana darlık dokununca yalvarıp rahmet dokununca unutarak nankörleşmesi, kötülük dokununca umutsuzlaşıp iyilik dokununca cimrileşmesi (7:95, 10:12 [2x], 10:21, 11:10, 16:53, 17:67, 17:83, 30:33, 39:8, 39:49, 41:49-51, 70:20-21) ile mücadelede darlık ve yara dokunması (2:214, 3:120, 3:140 [2x], 12:88)."
+      },
+      {
+        "ayahs": [
+          "2:275",
+          "3:174",
+          "7:188",
+          "7:201",
+          "15:48",
+          "15:54",
+          "21:83",
+          "35:35",
+          "38:41",
+          "39:61",
+          "50:38"
+        ],
+        "text": "Yaratılışta, esenlik yurdunda ve elçilerin hayatında dokunuş sınırları: Gökleri ve yeri yaratan Allah'a hiçbir yorgunluk değmemesi (50:38), esenlik yurdunda yorgunluk, usanç ve kötülük dokunmaması (15:48, 35:35 [2x], 39:61), Bedir dönüşü kötülük değmemesi (3:174), elçinin gaybı bilmeyişi (7:188), İbrahim'e yaşlılığın (15:54) ve Eyyûb'a hastalık-yorgunluğun değmesi (21:83, 38:41), sakınanlara vesvese dokununca hemen hatırlayıp görmeleri (7:201) karşısında faiz yiyenlerin çarpılmış gibi kalkışı (2:275)."
+      },
+      {
+        "ayahs": [
+          "2:80",
+          "3:24",
+          "5:73",
+          "6:49",
+          "8:68",
+          "11:48",
+          "11:113",
+          "19:45",
+          "21:46",
+          "24:14",
+          "36:18",
+          "54:48"
+        ],
+        "text": "Ateş ve azabın dokunması: 'Ateş bize sayılı birkaç gün dışında değmeyecek' kuruntusu (2:80, 3:24), zulmedenlere meyledene ateşin dokunacağı uyarısı (11:113), İbrahim'in babasına Rahmân'dan bir azap dokunması endişesi (19:45), ilâhî lütuf olmasa büyük azabın değeceği (8:68, 24:14), azaptan bir esinti dokununca feryat edenler (21:46) ve gerçeği örtenlere dokunacak acıklı azap ile yakıcı yıkım yurdunun dokunuşu (5:73, 6:49, 11:48, 36:18, 54:48)."
+      }
+    ],
+    "context_default": "Bir varlığa veya insana arada engel olmaksızın doğrudan değip temas etme ve hissedilir etki bırakma mekanizması."
   }
 }
