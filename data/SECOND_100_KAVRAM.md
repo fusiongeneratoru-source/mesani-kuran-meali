@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 55 / 100 Kök (Toplam Mühürlü: 160 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 56 / 100 Kök (Toplam Mühürlü: 161 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -73,7 +73,7 @@
 | 53 | 157 | `ع-ل-و` | `A-L-W` | **70** | 68 | 2:255 | Ulüvv / Aliyy / A'lâ / Teâlâ / Teâlev ve İlliyyîn (Mekânsal Yükseklik, İlahî Aşkınlık, Zorba Tahakküm ve Yükseliş Çağrısı) | ✅ **MÜHÜRLÜ** |
 | 54 | 158 | `و-ك-ل` | `W-K-L` | **70** | 61 | 3:122 | Tevekkül / Vekîl / Mütevekkil ve Tevkîl (Yetki Devri, Tedbir Sonrası Allah'a Dayanma ve Mutlak Güvence Makamı) | ✅ **MÜHÜRLÜ** |
 | 55 | 159 | `س-ك-ن` | `S-K-N` | **69** | 66 | 2:35 | Sükûnet / Mesken / Sekîne ve Miskîn (Durulma, Yerleşik Huzur, İskân ve Ekonomik Hareketi Kısıtlı Muhtaç) | ✅ **MÜHÜRLÜ** |
-| 56 | 160 | `ظ-ن-ن` | `Z-N-N` | **69** | 57 | 2:46 | Analiz Bekliyor (Zan~a, Zan~, Z~aA^n~iyn) | ⏳ *Bekliyor* |
+| 56 | 160 | `ظ-ن-ن` | `Z-N-N` | **69** | 57 | 2:46 | Zan / Zann / Zünûn ve Zânnîn (Emâreye Dayalı Kanaat, Kesin Kalbî İdrak veya Delilsiz Tahmin) | ✅ **MÜHÜRLÜ** |
 | 57 | 161 | `و-ح-د` | `W-H-D` | **68** | 67 | 2:61 | Analiz Bekliyor (wa`Hidap, wa`Hid, waHod) | ⏳ *Bekliyor* |
 | 58 | 162 | `ه-ل-ك` | `H-L-K` | **68** | 63 | 2:195 | Analiz Bekliyor (>aholaka, halaka, muholik) | ⏳ *Bekliyor* |
 | 59 | 163 | `ب-ع-ث` | `B-A-S` | **67** | 64 | 2:56 | Analiz Bekliyor (baEava, m~aboEuwvuwn, baEov) | ⏳ *Bekliyor* |

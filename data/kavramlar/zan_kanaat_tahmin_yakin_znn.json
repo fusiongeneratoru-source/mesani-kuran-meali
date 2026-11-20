@@ -1,0 +1,1443 @@
+{
+  "root": "ظ-ن-ن",
+  "root_latin": "Z-N-N (Znn)",
+  "concept_name": "Zan / Zann / Zünûn ve Zânnîn (Emâreye Dayalı Kanaat, Kesin Kalbî İdrak veya Delilsiz Tahmin)",
+  "rank": 160,
+  "total_occurrences": 69,
+  "unique_ayahs_count": 57,
+  "unified_core_mechanism": "Doğrudan gözlemlenmemiş bir durum, niyet veya gelecek olgusu hakkında mevcut belirtilere dayanarak zihinde ağırlıklı yargı ve kanaat üretmek: güçlü karîneyle kesin kalbî kanaate (yakîn), makul ölçütlerle pratik öngörüye, delilsiz veya önyargılı biçimde ise hakikat karşısında geçersiz tahmine ve yıkıcı kötü zanna dönüşür.",
+  "physical_core": "Henüz doğrudan gözle görülmemiş bir gerçeklik hakkında mevcut belirti ve emârelere dayanarak zihinde ağırlıklı yargı ve kanaat oluşturmak: belirti güçlü ve sağlam olduğunda kesin kalbî kanaate/yakîne erişir (2:46, 2:249, 9:118, 69:20, 75:28); belirti zayıf, delilsiz veya önyargılı olduğunda ise temelsiz tahmine ve yıkıcı kuruntuya dönüşür (4:157, 10:36, 45:32, 48:6, 53:28).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökün sağlam bir kökçek (أُصَيْلٌ صَحِيحٌ) olduğunu ve bağlama göre iki farklı kutbu gösterdiğini kaydeder: 'kesinlik/yakîn ve kuşku/sanı' (يَقِينٍ وَشَكٍّ). 2:46'daki يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ ayetini kesin kanaat kutbuna, ödenip ödenmeyeceği belirsiz borç anlamındaki دَيْنٌ ظَنُون ifadesini ise kuşku kutbuna örnek verir.",
+    "lisan_al_arab": "İbn Manzûr, ظَنّ sözcüğünün hem kuşku hem kesinlik (yakîn) için kullanıldığını ancak bu kesinliğin doğrudan gözle görme kesinliği (يَقِين عِيَان) değil, 'tefekkür ve karîne temelli zihinsel/kalbî kesinlik' (يَقِين تَدَبُّرٍ وَتَفَكُّرٍ) olduğunu vurgular; 69:20'deki إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ ifadesini bu kalbî kesinliğin en berrak örneği olarak verir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî iki kutbu tek bir mekanizmada kusursuz biçimde birleştirir: ظَنّ 'bir belirti ve emâreden doğan zihinsel yargının adıdır' (اِسْمٌ لِمَا يَحْصُلُ عَنْ أَمَارَةٍ). Emâre kuvvetlendiğinde bilgi ve kesin kanaate (2:46, 75:28), çok zayıflayıp delilden koptuğunda ise temelsiz vehme ve boş tahmine (10:36, 53:28) dönüşür.",
+    "arbitration_decision": "İbn Fâris'in ikili kutbu (yakîn ve şekk), İbn Manzûr'un 'tefekkür kaynaklı kesinlik' ayrımı ve Râgıb'ın 'emâreden doğan zihinsel yargı' mekanizması Kur'an'ın 69 geçişinin tamamını sıfır çelişkiyle açıklar: tek çekirdek 'henüz gözle görülmemiş olgu hakkında karîneye dayalı zihinsel kanaat/yargı kurmak'tır; sağlam karîneyle yakîne, delilsiz önyargıyla ise geçersiz sanıya dönüşür."
+  },
+  "semitic_cognates": {
+    "hebrew": "Proto-Sami *ẓ ünsüzü İbranicede düzenli olarak צ (ṣ) sesine dönüşür; ancak İbranicede zihinsel tahmin/kanaat anlamında doğrudan *ẓ-n-n karşılığı yaşamaz, bu alan ḥ-š-b (חָשַׁב) ve s-b-r kökleriyle karşılanır.",
+    "aramaic_and_syriac": "Klasik Aramice ve Süryanicede zihinsel sanı/düşünce alanı s-b-r (ܣܒܪ) ve benzeri köklerle ifade edilir; *ẓ-n-n köküne ait doğrudan bilişsel bir eşköken standart sözlüklerde tanıklanmaz.",
+    "akkadian": "Akadcadaki zanānu ('yağmur yağmak' / 'beslemek, rızıklandırmak') fiili yüzeysel benzerliğine karşın sesbilimsel ve anlamsal olarak tamamen ayrı bir köktür (yağmur kökü *ḏ-n-m hattı); Arapça ظ-ن-ن ile eşkökenli değildir.",
+    "geez_and_esa": "Eski Kuzey Arapça (Safaitik) yazıtlarında ẓnn kökü hem yaygın kişi adı olarak hem de fiil biçiminde ('derin düşünceye dalmak / geceleyin tefekkür ve bekleyişte bulunmak' — Al-Jallad & Jaworska, Safaitic Dictionary) doğrudan belgelenir; Ge'ez ve Sebecede bilişsel tahmin alanı başka köklerle (örn. Ge'ez ḥasaba) yürütülür.",
+    "note": "ظ-ن-ن (*ẓ-n-n) kökü özellikle Merkezi Sami / Eski Kuzey Arapça (Safaitik) ve Klasik Arapça hattında uzmanlaşmış özgün bir bilişsel köktür; Akadca zanānu gibi yalancı eşkökenlerden titizlikle ayrılmalıdır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ع-ل-م (Kanıtlı ve Kesin Bilgi عِلْم ↔ Delilsiz Sanı ٱلظَّنَّ: 2:78, 4:157, 6:148, 45:24, 53:28)",
+      "ي-ق-ن (Sarsılmaz Kesinlik يَقِينًا / مُسْتَيْقِنِينَ ↔ Zayıf Tahmin ٱلظَّنِّ / ظَنًّا: 4:157, 45:32)",
+      "ح-ق-ق (Nesnel Gerçeklik ٱلْحَقِّ ↔ Gerçekliğin Yerini Tutmayan Sanı ٱلظَّنَّ: 3:154, 10:36, 53:28)",
+      "خ-ي-ر [ظَنَّ خَيْرًا] (İyimser/Adil Kanaat 24:12 ↔ Kötü/Yıkıcı Zan ظَنَّ ٱلسَّوْءِ 48:6, 48:12)"
+    ],
+    "key_ayahs": [
+      "10:36 & 53:28 (إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا)",
+      "4:157 (مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ وَمَا قَتَلُوهُ يَقِينًۢا)",
+      "45:32 (إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ)",
+      "2:46 & 69:20 (يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ / إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ)"
+    ],
+    "reverse_stress_test": "Delilsiz zan tarafında عِلْم ('kanıtlı bilgi'), حَقّ ('gerçeklik') ve يَقِين ('gözlemsel kesinlik') tersine çevrildiğinde boş kuruntu/tahmin kutbu; yakîn tarafında ise gaflet ve hesaptan habersizlik tersine çevrildiğinde 'güçlü karîneyle erişilen kesin içsel kanaat' kutbu sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ظَنّ (Z-N-N) vs عِلْم (A-L-M) & يَقِين (Y-K-N) & شَكّ (Ş-K-K) [4:157, 45:32, 53:28]",
+      "ظَنّ (Z-N-N) vs خَرْص (H-R-S) [6:116, 6:148, 10:66]",
+      "ظَنّ (Z-N-N) vs هَوَى ٱلْأَنفُس (H-W-Y) & سُلْطَٰن (S-L-T) [53:23]",
+      "ظَنّ (Z-N-N) vs تَجَسُّس (C-S-S) & غِيبَة (G-Y-B) [49:12]",
+      "ظَنّ (Z-N-N) vs أَمَانِىّ (M-N-Y) [2:78]"
+    ],
+    "mechanical_difference": "4:157 ve 45:32'de شَكّ iki ihtimal arasında tam askıda kalma, ظَنّ delilsiz biçimde bir tarafa meyledip onu izleme, عِلْم kanıtlı bilgi, يَقِين ise şüpheyi tamamen söndüren kesinliktir. 6:116, 6:148 ve 10:66'da ظَنّ zihinsel tahmin yürütme, خَرْص ise olgunlaşmamış ürünü göz kararı tartarcasına keyfî atıp tutmadır. 53:23'te سُلْطَٰن nesnel kanıt ve yetki belgesi, ظَنّ kanıtsız varsayım, هَوَى ٱلْأَنفُس ise arzunun yönlendirmesidir. 49:12'de çoğu زَنّ (su-i zan) kalpteki temelsiz suçlama tohumu, تَجَسُّس o zannı beslemek için mahremiyet gözetleme, غِيبَة ise arkadan çekiştirmeye dökülen yıkım zinciridir. 2:78'de أَمَانِىّ kuruntulu temenniler, يَظُنُّونَ ise kitabın bilgisi olmadan tahmine dayalı hüküm yürütmedir."
+  },
+  "anchor_ayahs": [
+    "10:36 & 53:28 (إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا — Kur'an'ın evrensel bilgi kuramı ilkesi: kanıtsız sanı gerçeklik adına hiçbir değer taşımaz)",
+    "2:46 & 2:249 & 69:20 & 75:28 (يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ / إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ / وَظَنَّ أَنَّهُ ٱلْفِرَاقُ — güçlü karîne ve tefekkürle erişilen kesin kanaat kutbu çıpaları)",
+    "4:157 & 45:32 (مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ... يَقِينًۢا / إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ — zan ile ilim/yakîn sınırını çizen çıpalar)",
+    "24:12 & 49:12 (ظَنَّ ... بِأَنفُسِهِمْ خَيْرًا / ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ — toplumsal güven ve zan etiği çıpası)",
+    "3:154 & 33:10 & 41:22-23 & 48:6,12 (يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ / ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ / ذَٰلِكُمْ ظَنُّكُمُ ... أَرْدَىٰكُمْ — Allah hakkında çarpık ve yıkıcı zan çıpası)"
+  ],
+  "grammar_and_branch_rules": "1) Kesin Kalbî Kanaat Kutbu (13 ayet — tamamı Form I fiil): Ahirette Rabbe/hesaba kavuşma bilinci (2:46, 2:249, 69:20, 83:4), dağ/fırtına/ateş/ölüm/kuşatma anında kaçınılmaz gerçekliği kesin idrak (7:171, 9:118, 10:22, 18:53, 38:24, 41:48, 72:12, 75:25, 75:28). 2) Pratik Öngörü ve Toplumsal Zan Etiği (7 ayet): Boşanmada makul uzlaşı kanaati (2:230), Yusuf'un öngörüsü (12:42), elçilerin kırılma anı (12:110), dirilişte süre tahmini (17:52), askeri öngörü yanılgısı (59:2), iftira karşısında iyi kanaat sorumluluğu (24:12) ve su-i zandan sakınma ilkesi (49:12). 3) Bilgisiz Tahmin ve Epistemolojik Eleştiri (12 ayet): İlim, kanıt (sultân), hakikat ve yakînin zıddı olarak boş sanı izleme (2:78, 4:157, 6:116,148, 10:36,66, 34:20, 45:24,32, 53:23,28, 72:5). 4) Allah Hakkında Kötü Zan, Kibir Vehmi ve Elçilere İtham (25 ayet): Cahiliye/kötü zan (3:154, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), sahte egemenlik ve hesabın gelmeyeceği vehmi (10:24,60, 18:35-36, 21:87, 22:15, 28:39, 41:50, 72:7, 84:14) ile elçileri yalancı veya büyülenmiş sanma ithamları (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37).",
+  "derivatives": {
+    "ظَنَّ / يَظُنُّ (Form I fiil - 47 geçiş)": "Mevcut belirtiye göre zihinde ağırlıklı kanaate varmak: sağlam karîneyle kesin idrak etmek, makul öngörüde bulunmak veya delilsiz biçimde sanıp kuruntuya kapılmak.",
+    "ظَنّ / ٱلظَّنّ / ٱلظُّنُونَا۠ (N - 21 geçiş)": "Karîne temelli zihinsel yargı, tahmin veya önyargılı sanı (10:36 ve 53:28'de hakikat karşısında geçersiz sanı; 3:154, 33:10, 48:6,12'de cahiliye/kötü zan; 49:12'de ahlaki vebal doğuran zan).",
+    "ٱلظَّآنِّينَ (Form I ism-i fâil / ADJ - 1 geçiş: 48:6)": "Allah hakkında kötü ve çarpık zan besleyenler."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 46,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:46",
+      "word_position": 2,
+      "target_word_uthmani": "يَظُنُّونَ",
+      "target_word_rasm": "يظنون",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ",
+      "context_snippet_turkish_tabula_rasa": "sebat ve direnç ve irtibat bağıyla Allah'a sığınıp yardım isteyin; Rablerine kavuşacaklarını ve Ona döneceklerini umanlar ve huşu duyanlardan başkasına yöneliş ...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَٰجِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat ve direnç ve irtibat bağıyla Allah'a sığınıp yardım isteyin; Rablerine kavuşacaklarını ve Ona döneceklerini umanlar ve huşu duyanlardan başkasına yöneliş ve sorumluluk bağı elbette ağır gelir.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 2,
+      "ayah": 78,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:78",
+      "word_position": 11,
+      "target_word_uthmani": "يَظُنُّونَ",
+      "target_word_rasm": "يظنون",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "context_snippet_turkish_tabula_rasa": "Onların bir kısmının okuyup yazması yoktu. Kitab'ı bilmezlerdi; bildikleri sadece bir takım yalan ve kuruntulardı. Onlar ancak vehim içindedirler.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların bir kısmının okuyup yazması yoktu. Kitab'ı bilmezlerdi; bildikleri sadece bir takım yalan ve kuruntulardı. Onlar ancak vehim içindedirler.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 2,
+      "ayah": 230,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:230",
+      "word_position": 20,
+      "target_word_uthmani": "ظَنَّآ",
+      "target_word_rasm": "ظنا",
+      "target_word_literal_irab": "İkisi de makul kanaate varırlarsa (ظَنَّآ — I. bab ikil mâzi fiil; 2:230)",
+      "context_snippet_arabic": "أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ",
+      "context_snippet_turkish_tabula_rasa": "Bundan sonra kadını boşarsa, kadın başka birisiyle evlenmedikçe bir daha kendisine helal olmaz. Eğer ikinci koca da onu boşarsa, Allah'ın yasalarını koruyacakla...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MD"
+      },
+      "ayah_text_arabic_full": "فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ وَتِلْكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan sonra kadını boşarsa, kadın başka birisiyle evlenmedikçe bir daha kendisine helal olmaz. Eğer ikinci koca da onu boşarsa, Allah'ın yasalarını koruyacaklarını sanırlarsa eski karı kocanın birbirlerine dönmelerine bir engel yoktur. Bunlar, bilenkimseler için Allah'ın açıkladığı yasalardır.",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 2,
+      "ayah": 249,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:249",
+      "word_position": 45,
+      "target_word_uthmani": "يَظُنُّونَ",
+      "target_word_rasm": "يظنون",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Talut orduyla birlikte ayrıldıktan sonra, \"Doğrusu Allah sizi bir ırmakla deneyecektir, ondan içen benden değildir, onu tatmayan eliyle sadece bir avuç avuçlaya...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Talut orduyla birlikte ayrıldıktan sonra, \"Doğrusu Allah sizi bir ırmakla deneyecektir, ondan içen benden değildir, onu tatmayan eliyle sadece bir avuç avuçlayan müstesna şüphesiz bendendir\" dedi. Onlardan pek azı hariç, sudan içtiler. Kendisi ve kendisiyle olan güvene erenler ırmağı geçince, \"Bugün Calut ve ordusuna karşı koyacak gücümüz yok\" dediler. Kendilerinin Allah'a kavuşacağını bilenler ise: \"Nice az topluluk çok topluluğa Allah'ın izniyle üstün gelmiştir, Allah sebat edip direnenlerle beraberdir\" dediler.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 3,
+      "ayah": 154,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:154",
+      "word_position": 16,
+      "target_word_uthmani": "يَظُنُّونَ",
+      "target_word_rasm": "يظنون",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ",
+      "context_snippet_turkish_tabula_rasa": "Kederden sonra, bir takımınızı kendinden geçirecek şekilde size huzur ve emniyet indirdi; oysa bir takımınız da kendi derdlerine düşmüşlerdi. Haksız yere Allah ...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا قُتِلْنَا هَٰهُنَا قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kederden sonra, bir takımınızı kendinden geçirecek şekilde size huzur ve emniyet indirdi; oysa bir takımınız da kendi derdlerine düşmüşlerdi. Haksız yere Allah hakkında, cahiliye devrinde olduğu gibi güven duy. \"Bu işte bizim bir fikrimiz var mı?\" diyorlardı; De ki: \"Buyruğun hepsi Allah'ındır\". Sana açmadıklarını içlerinde gizliyorlar. \"Bu işte bizim fikrimiz alınsaydı, burada öldürülmezdik\" diyorlar. De ki: Evlerinizde olsaydınız, haklarında ölüm yazılı olan kimseler, yine de devrilecekleri yere varırlardı. Bu, Allah'ın içinizde olanı denemesi, kalblerinizde olanı arıtması içindir. Allah gönüllerde olanı bilir.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 3,
+      "ayah": 154,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:154",
+      "word_position": 20,
+      "target_word_uthmani": "ظَنَّ",
+      "target_word_rasm": "ظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ يَقُولُونَ هَل",
+      "context_snippet_turkish_tabula_rasa": "Kederden sonra, bir takımınızı kendinden geçirecek şekilde size huzur ve emniyet indirdi; oysa bir takımınız da kendi derdlerine düşmüşlerdi. Haksız yere Allah ...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا قُتِلْنَا هَٰهُنَا قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kederden sonra, bir takımınızı kendinden geçirecek şekilde size huzur ve emniyet indirdi; oysa bir takımınız da kendi derdlerine düşmüşlerdi. Haksız yere Allah hakkında, cahiliye devrinde olduğu gibi güven duy. \"Bu işte bizim bir fikrimiz var mı?\" diyorlardı; De ki: \"Buyruğun hepsi Allah'ındır\". Sana açmadıklarını içlerinde gizliyorlar. \"Bu işte bizim fikrimiz alınsaydı, burada öldürülmezdik\" diyorlar. De ki: Evlerinizde olsaydınız, haklarında ölüm yazılı olan kimseler, yine de devrilecekleri yere varırlardı. Bu, Allah'ın içinizde olanı denemesi, kalblerinizde olanı arıtması içindir. Allah gönüllerde olanı bilir.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 4,
+      "ayah": 157,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:157",
+      "word_position": 31,
+      "target_word_uthmani": "ٱلظَّنِّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Zan / delilsiz tahmin (ٱلظَّنِّ — mecrûr isim; 4:157, 49:12)",
+      "context_snippet_arabic": "عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ وَمَا قَتَلُوهُ يَقِينًۢا",
+      "context_snippet_turkish_tabula_rasa": "Bu, bir de gerçeğin üzerini örtmelerinden, Meryem'e büyük bir iftirada bulunmalarından ve: \"Meryem oğlu İsa Mesih'i, Allah'ın elçisini öldürdük\" demelerinden öt...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّ مِّنْهُ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ وَمَا قَتَلُوهُ يَقِينًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, bir de gerçeğin üzerini örtmelerinden, Meryem'e büyük bir iftirada bulunmalarından ve: \"Meryem oğlu İsa Mesih'i, Allah'ın elçisini öldürdük\" demelerinden ötürüdür. Oysa onu öldürmediler ve asmadılar, fakat onlara öyle göründü. Ayrılığa düştükleri şeyde doğrusu şüphededirler, bu husustaki bilgileri ancak sanıya uymaktan ibarettir, kesin olarak onu öldürmediler, bilakis Allah onu kendi katına yükseltti. Allah Güçlü'dür, Hakim'dir.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 6,
+      "ayah": 116,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:116",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلظَّنَّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzündekilerin çoğunluğuna itaat edersen seni Allah yolundan saptırırlar. Onlar ancak zanna uyarlar, sadece tahminde bulunurlar.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن تُطِعْ أَكْثَرَ مَن فِى ٱلْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzündekilerin çoğunluğuna itaat edersen seni Allah yolundan saptırırlar. Onlar ancak zanna uyarlar, sadece tahminde bulunurlar.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 6,
+      "ayah": 148,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:148",
+      "word_position": 33,
+      "target_word_uthmani": "ٱلظَّنَّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "... Onlara \"Bize karşı çıkarabileceğiniz bir bilginiz var mı? Siz ancak zanna uyuyorsunuz ve sadece tahminde bulunuyorsunuz\" de.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ فَتُخْرِجُوهُ لَنَآ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Puta tapanlar, \"Allah dileseydi babalarımız ve biz puta tapmaz ve hiçbir şeyi haram kılmazdık\" diyecekler; onlardan öncekiler de, Bizim şiddetli azabımızı tadana kadar böyle demişlerdi. Onlara \"Bize karşı çıkarabileceğiniz bir bilginiz var mı? Siz ancak zanna uyuyorsunuz ve sadece tahminde bulunuyorsunuz\" de.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 7,
+      "ayah": 66,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:66",
+      "word_position": 12,
+      "target_word_uthmani": "لَنَظُنُّكَ",
+      "target_word_rasm": "لنظنك",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "فِى سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلْكَٰذِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Milletinin gerçeğin üzerini örten ileri gelenleri, \"Biz senin beyinsiz olduğunu görüyor ve seni yalancılardan sanıyoruz\" dediler.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1P"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلْكَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milletinin gerçeğin üzerini örten ileri gelenleri, \"Biz senin beyinsiz olduğunu görüyor ve seni yalancılardan sanıyoruz\" dediler.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 7,
+      "ayah": 171,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:171",
+      "word_position": 7,
+      "target_word_uthmani": "وَظَنُّوٓا۟",
+      "target_word_rasm": "وظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Tur dağını, gölgelik gibi onların üzerlerine yükseltmiştik, onlar tepelerine düşeceğini sanmışlardı. Onlara: \"Size verdiğimiz Kitap'a sıkıca sarılın, içinde ola...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tur dağını, gölgelik gibi onların üzerlerine yükseltmiştik, onlar tepelerine düşeceğini sanmışlardı. Onlara: \"Size verdiğimiz Kitap'a sıkıca sarılın, içinde olanı düşünün ki sakınanlardan olasınız\" demiştik.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 9,
+      "ayah": 118,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:118",
+      "word_position": 15,
+      "target_word_uthmani": "وَظَنُّوٓا۟",
+      "target_word_rasm": "وظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ",
+      "context_snippet_turkish_tabula_rasa": "Bütün genişliğine rağmen yer onlara dar gelerek benlikleri kendilerini sıkıştırıp, Allah'tan başka sığınacak kimse olmadığını anlayan, savaştan geri kalmış üç k...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bütün genişliğine rağmen yer onlara dar gelerek benlikleri kendilerini sıkıştırıp, Allah'tan başka sığınacak kimse olmadığını anlayan, savaştan geri kalmış üç kişinin tevbesini de kabul etti. Allah, tevbe ettikleri için onların tevbesini kabul etmiştir. Çünkü O tevbeleri kabul eden, merhametli olandır.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 10,
+      "ayah": 22,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:22",
+      "word_position": 26,
+      "target_word_uthmani": "وَظَنُّوٓا۟",
+      "target_word_rasm": "وظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "مِن كُلِّ مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Sizi karada ve denizde yürüten Allah'tır. Bulunduğunuz gemi, içindekileri güzel bir rüzgarla götürürken yolcular neşelenirler; bir fırtına çıkıp da onları her t...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi karada ve denizde yürüten Allah'tır. Bulunduğunuz gemi, içindekileri güzel bir rüzgarla götürürken yolcular neşelenirler; bir fırtına çıkıp da onları her taraftan dalgaların sardığı ve çepeçevre kuşatıldıklarını sandıkları anda ise Allah'ın yaşam sistemine sarılarak, \"Bizi bu tehlikeden kurtarırsan and olsun ki nimetin değerini bilip açığa vuranlardan oluruz\" diye O'na yalvarırlar.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 10,
+      "ayah": 24,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:24",
+      "word_position": 23,
+      "target_word_uthmani": "وَظَنَّ",
+      "target_word_rasm": "وظن",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dünya hayatı gökten indirdiğimiz su gibidir ki, onunla insan ve hayvanların yiyeceği bitkiler yetişip birbirine karışmıştır. Yeryüzünün süslenip bezendiği ve ye...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dünya hayatı gökten indirdiğimiz su gibidir ki, onunla insan ve hayvanların yiyeceği bitkiler yetişip birbirine karışmıştır. Yeryüzünün süslenip bezendiği ve yerin sahiplerinin bütün bunlara malik olduklarını sandıkları sırada, gece veya gündüz buyruğumuz o yere gelmiş ve orayı hiçbir şey bitirmemişe çevirmişiz; bir gün önce birşey yokmuş gibi olmuştur. Düşünen millet için ayetleri böylece uzun açıklıyoruz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 10,
+      "ayah": 36,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:36",
+      "word_position": 5,
+      "target_word_uthmani": "ظَنًّا",
+      "target_word_rasm": "ظنا",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا إِنَّ ٱلظَّنَّ لَا",
+      "context_snippet_turkish_tabula_rasa": "Onların çoğu zanna uyarlar; gerçekte ise zan, hakikat karşısında bir şey ifade etmez. Allah, yaptıklarını şüphesiz bilir.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların çoğu zanna uyarlar; gerçekte ise zan, hakikat karşısında bir şey ifade etmez. Allah, yaptıklarını şüphesiz bilir.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 10,
+      "ayah": 36,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:36",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلظَّنَّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "إِلَّا ظَنًّا إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Onların çoğu zanna uyarlar; gerçekte ise zan, hakikat karşısında bir şey ifade etmez. Allah, yaptıklarını şüphesiz bilir.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların çoğu zanna uyarlar; gerçekte ise zan, hakikat karşısında bir şey ifade etmez. Allah, yaptıklarını şüphesiz bilir.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 10,
+      "ayah": 60,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:60",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنُّ",
+      "target_word_rasm": "ظن",
+      "target_word_literal_irab": "Zannınız / sanıları (ظَنُّ / ظَنُّكُمْ — merfû isim; 10:60, 37:87, 38:27, 41:23)",
+      "context_snippet_arabic": "وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Allah'a karşı yalan uyduranlar kıyamet gününü ne zannederler? Doğrusu Allah'ın insanlara olan nimeti boldur, fakat çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ يَوْمَ ٱلْقِيَٰمَةِ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a karşı yalan uyduranlar kıyamet gününü ne zannederler? Doğrusu Allah'ın insanlara olan nimeti boldur, fakat çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 10,
+      "ayah": 66,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:66",
+      "word_position": 21,
+      "target_word_uthmani": "ٱلظَّنَّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "İyi bilin ki, göklerde ve yerde kim varsa hepsi Allah'ındır. Allah'ı bırakıp ortak koşanlar sadece zanna uyanlardır. Onlar ancak tahminde bulunuyorlar.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَلَآ إِنَّ لِلَّهِ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَمَا يَتَّبِعُ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ شُرَكَآءَ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İyi bilin ki, göklerde ve yerde kim varsa hepsi Allah'ındır. Allah'ı bırakıp ortak koşanlar sadece zanna uyanlardır. Onlar ancak tahminde bulunuyorlar.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 11,
+      "ayah": 27,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:27",
+      "word_position": 28,
+      "target_word_uthmani": "نَظُنُّكُمْ",
+      "target_word_rasm": "نظنكم",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Milletinin gerçeğin üzerini örten ileri gelenleri: \"Senin ancak kendimiz gibi bir insan olduğunu görüyoruz. Daha başlangıçta, sana bizim ayak takımı dışında kim...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1P"
+      },
+      "ayah_text_arabic_full": "فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milletinin gerçeğin üzerini örten ileri gelenleri: \"Senin ancak kendimiz gibi bir insan olduğunu görüyoruz. Daha başlangıçta, sana bizim ayak takımı dışında kimsenin uyduğunu görmüyoruz. Sizin bizden bir üstünlüğünüz yoktur; biz sizi yalancı sanıyoruz\" dediler.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 12,
+      "ayah": 42,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:42",
+      "word_position": 3,
+      "target_word_uthmani": "ظَنَّ",
+      "target_word_rasm": "ظن",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا",
+      "context_snippet_turkish_tabula_rasa": "İkisinden, kurtulacağını sandığı kimseye Yusuf: \"Efendinin yanında beni an\" dedi. Ama saptırıcı yıkıcı güç efendisine onu hatırlatmayı unutturdu ve Yusuf bu yüz...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İkisinden, kurtulacağını sandığı kimseye Yusuf: \"Efendinin yanında beni an\" dedi. Ama saptırıcı yıkıcı güç efendisine onu hatırlatmayı unutturdu ve Yusuf bu yüzden daha birkaç yıl hapiste kaldı.",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 12,
+      "ayah": 110,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:110",
+      "word_position": 5,
+      "target_word_uthmani": "وَظَنُّوٓا۟",
+      "target_word_rasm": "وظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Öyle ki, elçiler ümitsizliğe düşüp, yalanlandıklarını sandıkları bir sırada onlara yardımımız gelmiştir. Böylece, istediğimizi kurtarırız. Azabımız suçlu millet...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle ki, elçiler ümitsizliğe düşüp, yalanlandıklarını sandıkları bir sırada onlara yardımımız gelmiştir. Böylece, istediğimizi kurtarırız. Azabımız suçlu milletten geri çevrilemeyecektir.",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 17,
+      "ayah": 52,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:52",
+      "word_position": 5,
+      "target_word_uthmani": "وَتَظُنُّونَ",
+      "target_word_rasm": "وتظنون",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Sizi çağırdığı gün, O'na hamdederek davetine uyarsınız ve kabirlerinizde pek az bir müddet kaldığınızı sanırsınız.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|2MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi çağırdığı gün, O'na hamdederek davetine uyarsınız ve kabirlerinizde pek az bir müddet kaldığınızı sanırsınız.",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 17,
+      "ayah": 101,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:101",
+      "word_position": 16,
+      "target_word_uthmani": "لَأَظُنُّكَ",
+      "target_word_rasm": "لأظنك",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Musa'ya dokuz tane apaçık apaçık gösterge verdik. İsrailoğullarına sor, Musa onlara geldiğinde, Firavun kendisine: \"Ey Musa! Ben seni büyülenmiş s...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1S"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Musa'ya dokuz tane apaçık apaçık gösterge verdik. İsrailoğullarına sor, Musa onlara geldiğinde, Firavun kendisine: \"Ey Musa! Ben seni büyülenmiş sanıyorum\" demişti.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 17,
+      "ayah": 102,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:102",
+      "word_position": 13,
+      "target_word_uthmani": "لَأَظُنُّكَ",
+      "target_word_rasm": "لأظنك",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "وَٱلْأَرْضِ بَصَآئِرَ وَإِنِّى لَأَظُنُّكَ يَٰفِرْعَوْنُ مَثْبُورًا",
+      "context_snippet_turkish_tabula_rasa": "Musa da: \"And olsun ki, bunları göklerin ve yerin Rabbinin açık belgeler olarak indirdiğini biliyorsun. Ey Firavun! Doğrusu senin mahvolacağını sanıyorum\" demiş...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ لَقَدْ عَلِمْتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ بَصَآئِرَ وَإِنِّى لَأَظُنُّكَ يَٰفِرْعَوْنُ مَثْبُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa da: \"And olsun ki, bunları göklerin ve yerin Rabbinin açık belgeler olarak indirdiğini biliyorsun. Ey Firavun! Doğrusu senin mahvolacağını sanıyorum\" demişti.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 18,
+      "ayah": 35,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:35",
+      "word_position": 8,
+      "target_word_uthmani": "أَظُنُّ",
+      "target_word_rasm": "أظن",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "Kendisine böylece yazık ederek bahçesine girerken: \"Bu bahçenin batacağını hiç zannetmem. Kıyametin kopacağını da sanmıyorum. ...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1S"
+      },
+      "ayah_text_arabic_full": "وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisine böylece yazık ederek bahçesine girerken: \"Bu bahçenin batacağını hiç zannetmem. Kıyametin kopacağını da sanmıyorum. Eğer Rabbime döndürülürsem, and olsun ki orada bundan daha iyisini bulurum\" dedi.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 18,
+      "ayah": 36,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:36",
+      "word_position": 2,
+      "target_word_uthmani": "أَظُنُّ",
+      "target_word_rasm": "أظن",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن",
+      "context_snippet_turkish_tabula_rasa": "Kendisine böylece yazık ederek bahçesine girerken: \"Bu bahçenin batacağını hiç zannetmem. Kıyametin kopacağını da sanmıyorum. ...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1S"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًا مِّنْهَا مُنقَلَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisine böylece yazık ederek bahçesine girerken: \"Bu bahçenin batacağını hiç zannetmem. Kıyametin kopacağını da sanmıyorum. Eğer Rabbime döndürülürsem, and olsun ki orada bundan daha iyisini bulurum\" dedi.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 18,
+      "ayah": 53,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:53",
+      "word_position": 4,
+      "target_word_uthmani": "فَظَنُّوٓا۟",
+      "target_word_rasm": "فظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَرَءَا ٱلْمُجْرِمُونَ ٱلنَّارَ فَظَنُّوٓا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمْ",
+      "context_snippet_turkish_tabula_rasa": "Suçlular ateşi görürler ve ona düşeceklerini anlarlar, fakat ondan kaçacak yer bulamazlar.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "وَرَءَا ٱلْمُجْرِمُونَ ٱلنَّارَ فَظَنُّوٓا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمْ يَجِدُوا۟ عَنْهَا مَصْرِفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Suçlular ateşi görürler ve ona düşeceklerini anlarlar, fakat ondan kaçacak yer bulamazlar.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 21,
+      "ayah": 87,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:87",
+      "word_position": 6,
+      "target_word_uthmani": "فَظَنَّ",
+      "target_word_rasm": "فظن",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ",
+      "context_snippet_turkish_tabula_rasa": "Zünnun (Balık Sahibi; Yunus) hakkında söylediğimizi de an. O, öfkelenerek giderken, kendisini sıkıntıya sokmayacağımızı sanmıştı; fakat sonunda karanlıklar için...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zünnun (Balık Sahibi; Yunus) hakkında söylediğimizi de an. O, öfkelenerek giderken, kendisini sıkıntıya sokmayacağımızı sanmıştı; fakat sonunda karanlıklar içinde: \"Senden başka sığınak mercii (ilâh) yoktur, Sen münezzehsin, doğrusu ben haksızlık edenlerdenim\" diye seslenmişti.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 22,
+      "ayah": 15,
+      "surah_name": "Hac",
+      "ayah_ref": "22:15",
+      "word_position": 3,
+      "target_word_uthmani": "يَظُنُّ",
+      "target_word_rasm": "يظن",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın elçi'e dünyada ve ahirette yardım etmeyeceğini sanan kimse, yukarı bağladığı bir ipe kendini asıp, boğsun; bir düşünsün bakalım, bu hilesi kendisini öf...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ مَا يَغِيظُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın elçi'e dünyada ve ahirette yardım etmeyeceğini sanan kimse, yukarı bağladığı bir ipe kendini asıp, boğsun; bir düşünsün bakalım, bu hilesi kendisini öfkelendiren şeye engel olabilir mi?",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 24,
+      "ayah": 12,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:12",
+      "word_position": 4,
+      "target_word_uthmani": "ظَنَّ",
+      "target_word_rasm": "ظن",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بِأَنفُسِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Onu işittiğiniz zaman, erkek kadın güvene erenlerin, kendiliklerinden hüsnü zanda bulunup da: \"Bu apaçık bir iftiradır\" demeleri gerekmez miydi?",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بِأَنفُسِهِمْ خَيْرًا وَقَالُوا۟ هَٰذَآ إِفْكٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu işittiğiniz zaman, erkek kadın güvene erenlerin, kendiliklerinden hüsnü zanda bulunup da: \"Bu apaçık bir iftiradır\" demeleri gerekmez miydi?",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 26,
+      "ayah": 186,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:186",
+      "word_position": 7,
+      "target_word_uthmani": "نَّظُنُّكَ",
+      "target_word_rasm": "نظنك",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلْكَٰذِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Sen ancak büyülenmişin birisin. Bizim gibi bir insandan başka bir şey değilsin. Doğrusu seni yalancılardan sanıyoruz. Eğer doğru sözlü isen göğün bir parçasını...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1P"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلْكَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sen ancak büyülenmişin birisin. Bizim gibi bir insandan başka bir şey değilsin. Doğrusu seni yalancılardan sanıyoruz. Eğer doğru sözlü isen göğün bir parçasını üstümüze düşür\" dediler.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 28,
+      "ayah": 38,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:38",
+      "word_position": 25,
+      "target_word_uthmani": "لَأَظُنُّهُۥ",
+      "target_word_rasm": "لأظنه",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Firavun: \"Ey ileri gelenler! Sizin benden başka bir sığınak merciiniz olduğunu bilmiyorum. Ey Haman! Benim için, toprak üzerine bir ateş yak, tuğla hazırlayıp b...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1S"
+      },
+      "ayah_text_arabic_full": "وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun: \"Ey ileri gelenler! Sizin benden başka bir sığınak merciiniz olduğunu bilmiyorum. Ey Haman! Benim için, toprak üzerine bir ateş yak, tuğla hazırlayıp bana bir kule yap; çıkar belki Musa'nın sığınak merciini görürüm. Doğrusu onu yalancılardan sanıyorum\" dedi.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 28,
+      "ayah": 39,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:39",
+      "word_position": 8,
+      "target_word_uthmani": "وَظَنُّوٓا۟",
+      "target_word_rasm": "وظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَظَنُّوٓا۟ أَنَّهُمْ إِلَيْنَا لَا",
+      "context_snippet_turkish_tabula_rasa": "O ve askerleri, memlekette, haksız yere büyüklük tasladılar. Gerçekten Bize döndürülmeyeceklerini sandılar.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَكْبَرَ هُوَ وَجُنُودُهُۥ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَظَنُّوٓا۟ أَنَّهُمْ إِلَيْنَا لَا يُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O ve askerleri, memlekette, haksız yere büyüklük tasladılar. Gerçekten Bize döndürülmeyeceklerini sandılar.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 33,
+      "ayah": 10,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:10",
+      "word_position": 14,
+      "target_word_uthmani": "وَتَظُنُّونَ",
+      "target_word_rasm": "وتظنون",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+      "context_snippet_turkish_tabula_rasa": "Onlar size yukarınızdan ve aşağınızdan gelmişlerdi; gözler de dönmüştü, yürekler ağızlara gelmişti; Allah için çeşitli tahminlerde bulunuyordunuz.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|2MP"
+      },
+      "ayah_text_arabic_full": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar size yukarınızdan ve aşağınızdan gelmişlerdi; gözler de dönmüştü, yürekler ağızlara gelmişti; Allah için çeşitli tahminlerde bulunuyordunuz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 33,
+      "ayah": 10,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:10",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلظُّنُونَا۠",
+      "target_word_rasm": "ٱلظنونا",
+      "target_word_literal_irab": "Çeşit çeşit çalkantılı zanlar / kuruntular (ٱلظُّنُونَا۠ — çoğul isim, Osmanî Resm'de vakıf elifli; 33:10)",
+      "context_snippet_arabic": "ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+      "context_snippet_turkish_tabula_rasa": "Onlar size yukarınızdan ve aşağınızdan gelmişlerdi; gözler de dönmüştü, yürekler ağızlara gelmişti; Allah için çeşitli tahminlerde bulunuyordunuz.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|P|ACC"
+      },
+      "ayah_text_arabic_full": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar size yukarınızdan ve aşağınızdan gelmişlerdi; gözler de dönmüştü, yürekler ağızlara gelmişti; Allah için çeşitli tahminlerde bulunuyordunuz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 34,
+      "ayah": 20,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:20",
+      "word_position": 5,
+      "target_word_uthmani": "ظَنَّهُۥ",
+      "target_word_rasm": "ظنه",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki İblis, onlar hakkındaki görüşünü doğru çıkartmış; güvene erenlerden bir topluluk dışında hepsi ona uymuşlardı.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki İblis, onlar hakkındaki görüşünü doğru çıkartmış; güvene erenlerden bir topluluk dışında hepsi ona uymuşlardı.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 37,
+      "ayah": 87,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:87",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنُّكُم",
+      "target_word_rasm": "ظنكم",
+      "target_word_literal_irab": "Zannınız / sanıları (ظَنُّ / ظَنُّكُمْ — merfû isim; 10:60, 37:87, 38:27, 41:23)",
+      "context_snippet_arabic": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Alemlerin Rabbi hakkındaki sanınız nedir?\"",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Alemlerin Rabbi hakkındaki sanınız nedir?\"",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 38,
+      "ayah": 24,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:24",
+      "word_position": 24,
+      "target_word_uthmani": "وَظَنَّ",
+      "target_word_rasm": "وظن",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَقَلِيلٌ مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Davud: \"And olsun ki, senin dişi koyununu kendi dişi koyunlarına katmak istemekle sana haksızlıkta bulunmuştur. Doğrusu ortakçıların çoğu birbirlerinin hakların...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ",
+      "ayah_text_turkish_tabula_rasa_full": "Davud: \"And olsun ki, senin dişi koyununu kendi dişi koyunlarına katmak istemekle sana haksızlıkta bulunmuştur. Doğrusu ortakçıların çoğu birbirlerinin haklarına tecavüz ederler. güvene erip yararlı iş işleyenler bunun dışındadır ki sayıları da ne kadar azdır!\" demişti. Davud, Kendisini denediğimizi sanmıştı da, Rabbinden mağfiret dileyerek eğilip boyun eğmeye kapanmış, tevbe etmiş, Allah'a yönelmişti.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 38,
+      "ayah": 27,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:27",
+      "word_position": 9,
+      "target_word_uthmani": "ظَنُّ",
+      "target_word_rasm": "ظن",
+      "target_word_literal_irab": "Zannınız / sanıları (ظَنُّ / ظَنُّكُمْ — merfû isim; 10:60, 37:87, 38:27, 41:23)",
+      "context_snippet_arabic": "بَيْنَهُمَا بَٰطِلًا ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا۟ فَوَيْلٌ",
+      "context_snippet_turkish_tabula_rasa": "Göğü, yeri ve ikisinin arasında bulunanları boşuna yaratmadık. Bunun boşuna olduğu, gerçeğin üzerini örtenlerin sanısıdır. Vay ateşe uğrayacak gerçeğin üzerini ...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَٰطِلًا ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا۟ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِنَ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Göğü, yeri ve ikisinin arasında bulunanları boşuna yaratmadık. Bunun boşuna olduğu, gerçeğin üzerini örtenlerin sanısıdır. Vay ateşe uğrayacak gerçeğin üzerini örtenlerin haline!",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 40,
+      "ayah": 37,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:37",
+      "word_position": 8,
+      "target_word_uthmani": "لَأَظُنُّهُۥ",
+      "target_word_rasm": "لأظنه",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًا وَكَذَٰلِكَ زُيِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Firavun: \"Ey Haman! Bana bir kule yap; belki yollara, göklerin yollarına erişirim de Musa'nın sığınak merciini görürüm. Doğrusu ben, onu yalancı sanıyorum\" dedi...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1S"
+      },
+      "ayah_text_arabic_full": "أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًا وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun: \"Ey Haman! Bana bir kule yap; belki yollara, göklerin yollarına erişirim de Musa'nın sığınak merciini görürüm. Doğrusu ben, onu yalancı sanıyorum\" dedi. Firavun'a, kötü işi böylece güzel gösterildi ve doğru yoldan alıkondu. Firavun'un hilesi elbette boşa gidecekti.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 41,
+      "ayah": 22,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:22",
+      "word_position": 13,
+      "target_word_uthmani": "ظَنَنتُمْ",
+      "target_word_rasm": "ظننتم",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَلَا جُلُودُكُمْ وَلَٰكِن ظَنَنتُمْ أَنَّ ٱللَّهَ لَا",
+      "context_snippet_turkish_tabula_rasa": "Siz, gözleriniz, kulaklarınız ve derilerinizin aleyhinize şahidlik edeceğinden korkarak kötü iş işlemekten çekinmiyordunuz. Hayır; Allah'ın, yaptıklarınızın çoğ...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَا كُنتُمْ تَسْتَتِرُونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ أَبْصَٰرُكُمْ وَلَا جُلُودُكُمْ وَلَٰكِن ظَنَنتُمْ أَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz, gözleriniz, kulaklarınız ve derilerinizin aleyhinize şahidlik edeceğinden korkarak kötü iş işlemekten çekinmiyordunuz. Hayır; Allah'ın, yaptıklarınızın çoğunu bilmediğini sanıyordunuz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 41,
+      "ayah": 23,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:23",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنُّكُمُ",
+      "target_word_rasm": "ظنكم",
+      "target_word_literal_irab": "Zannınız / sanıları (ظَنُّ / ظَنُّكُمْ — merfû isim; 10:60, 37:87, 38:27, 41:23)",
+      "context_snippet_arabic": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "İşte Rabbinizi böyle sanmanız sizi mahvetti de hüsrana uğrayanlardan oldunuz.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte Rabbinizi böyle sanmanız sizi mahvetti de hüsrana uğrayanlardan oldunuz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 41,
+      "ayah": 23,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:23",
+      "word_position": 4,
+      "target_word_uthmani": "ظَنَنتُم",
+      "target_word_rasm": "ظننتم",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم",
+      "context_snippet_turkish_tabula_rasa": "İşte Rabbinizi böyle sanmanız sizi mahvetti de hüsrana uğrayanlardan oldunuz.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|2MP"
+      },
+      "ayah_text_arabic_full": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte Rabbinizi böyle sanmanız sizi mahvetti de hüsrana uğrayanlardan oldunuz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 41,
+      "ayah": 48,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:48",
+      "word_position": 8,
+      "target_word_uthmani": "وَظَنُّوا۟",
+      "target_word_rasm": "وظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "يَدْعُونَ مِن قَبْلُ وَظَنُّوا۟ مَا لَهُم مِّن",
+      "context_snippet_turkish_tabula_rasa": "Önceden yalvarıp durdukları şeyler onlardan uzaklaşmıştır. Kendilerinin kaçacak yerleri olmadığını anlamışlardır.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَدْعُونَ مِن قَبْلُ وَظَنُّوا۟ مَا لَهُم مِّن مَّحِيصٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Önceden yalvarıp durdukları şeyler onlardan uzaklaşmıştır. Kendilerinin kaçacak yerleri olmadığını anlamışlardır.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 41,
+      "ayah": 50,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:50",
+      "word_position": 13,
+      "target_word_uthmani": "أَظُنُّ",
+      "target_word_rasm": "أظن",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "هَٰذَا لِى وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن",
+      "context_snippet_turkish_tabula_rasa": "Başına gelen sıkıntıdan sonra, kendisine katımızdan bir rahmet tattırsak: \"Bu benim hakkımdır; kıyametin kopacağını sanmıyorum. Rabbime döndürülürsem, O'nun kat...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1S"
+      },
+      "ayah_text_arabic_full": "وَلَئِنْ أَذَقْنَٰهُ رَحْمَةً مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِى وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن رُّجِعْتُ إِلَىٰ رَبِّىٓ إِنَّ لِى عِندَهُۥ لَلْحُسْنَىٰ فَلَنُنَبِّئَنَّ ٱلَّذِينَ كَفَرُوا۟ بِمَا عَمِلُوا۟ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Başına gelen sıkıntıdan sonra, kendisine katımızdan bir rahmet tattırsak: \"Bu benim hakkımdır; kıyametin kopacağını sanmıyorum. Rabbime döndürülürsem, O'nun katında and olsun ki, benim için daha güzel şeyler vardır\" der. gerçeğin üzerini örtenlere, işlediklerini, and olsun ki bildireceğiz. Onlara and olsun ki çetin bir azap tattıracağız.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 45,
+      "ayah": 24,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:24",
+      "word_position": 21,
+      "target_word_uthmani": "يَظُنُّونَ",
+      "target_word_rasm": "يظنون",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "إِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Hayat, ancak bu dünyadaki hayatımızdır. Ölürüz ve yaşarız; bizi ancak zamanın geçişi yokluğa sürükler\" derler. Onların bu hususta bir bilgisi yoktur, sadece bö...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Hayat, ancak bu dünyadaki hayatımızdır. Ölürüz ve yaşarız; bizi ancak zamanın geçişi yokluğa sürükler\" derler. Onların bu hususta bir bilgisi yoktur, sadece böyle sanırlar.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 45,
+      "ayah": 32,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:32",
+      "word_position": 17,
+      "target_word_uthmani": "نَّظُنُّ",
+      "target_word_rasm": "نظن",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu Allah'ın verdiği söz gerçektir, kıyamet saati şüphe götürmez\" dendiği zaman: \"Kıyametin ne olduğunu bilmiyoruz, yalnız yoktur sanıyoruz, buna dair kesi...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu Allah'ın verdiği söz gerçektir, kıyamet saati şüphe götürmez\" dendiği zaman: \"Kıyametin ne olduğunu bilmiyoruz, yalnız yoktur sanıyoruz, buna dair kesin bir bilgi elde etmiş değiliz\" derdiniz.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 45,
+      "ayah": 32,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:32",
+      "word_position": 19,
+      "target_word_uthmani": "ظَنًّا",
+      "target_word_rasm": "ظنا",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu Allah'ın verdiği söz gerçektir, kıyamet saati şüphe götürmez\" dendiği zaman: \"Kıyametin ne olduğunu bilmiyoruz, yalnız yoktur sanıyoruz, buna dair kesi...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu Allah'ın verdiği söz gerçektir, kıyamet saati şüphe götürmez\" dendiği zaman: \"Kıyametin ne olduğunu bilmiyoruz, yalnız yoktur sanıyoruz, buna dair kesin bir bilgi elde etmiş değiliz\" derdiniz.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 48,
+      "ayah": 6,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:6",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلظَّآنِّينَ",
+      "target_word_rasm": "ٱلظانين",
+      "target_word_literal_irab": "Allah hakkında kötü zan besleyenler (ٱلظَّآنِّينَ — I. bab ism-i fâil; 48:6)",
+      "context_snippet_arabic": "وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere yardım etmez diye Allah'a kötü sanıda bulunan ikiyüzlü erkek ve kadınlara, puta tapan erek ve kadınlara Allah azabetsin; kötü sanıları kendi bas...",
+      "morphology": {
+        "lemma": "Z~aA^n~iyn",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:Z~aA^n~iyn|ROOT:Znn|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere yardım etmez diye Allah'a kötü sanıda bulunan ikiyüzlü erkek ve kadınlara, puta tapan erek ve kadınlara Allah azabetsin; kötü sanıları kendi baslarına gelsin! Allah onlara gazabetmiş, onları lanetlemiş ve yakıcı yıkım yurdunu kendilerine hazırlamıştır. Ne kötü dönüş yeridir!",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 48,
+      "ayah": 6,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:6",
+      "word_position": 8,
+      "target_word_uthmani": "ظَنَّ",
+      "target_word_rasm": "ظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere yardım etmez diye Allah'a kötü sanıda bulunan ikiyüzlü erkek ve kadınlara, puta tapan erek ve kadınlara Allah azabetsin; kötü sanıları kendi bas...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere yardım etmez diye Allah'a kötü sanıda bulunan ikiyüzlü erkek ve kadınlara, puta tapan erek ve kadınlara Allah azabetsin; kötü sanıları kendi baslarına gelsin! Allah onlara gazabetmiş, onları lanetlemiş ve yakıcı yıkım yurdunu kendilerine hazırlamıştır. Ne kötü dönüş yeridir!",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 48,
+      "ayah": 12,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:12",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنَنتُمْ",
+      "target_word_rasm": "ظننتم",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ",
+      "context_snippet_turkish_tabula_rasa": "Aslında siz, elçinin ve güvene erenlerin, ailelerine bir daha dönmeyeceklerini sanmıştınız. Bu, gönüllerinize güzel görünmüştü de kötü sanıda bulunmuştunuz. Hay...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|2MP"
+      },
+      "ayah_text_arabic_full": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Aslında siz, elçinin ve güvene erenlerin, ailelerine bir daha dönmeyeceklerini sanmıştınız. Bu, gönüllerinize güzel görünmüştü de kötü sanıda bulunmuştunuz. Hayırsız bir topluluk oldunuz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 48,
+      "ayah": 12,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:12",
+      "word_position": 15,
+      "target_word_uthmani": "وَظَنَنتُمْ",
+      "target_word_rasm": "وظننتم",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Aslında siz, elçinin ve güvene erenlerin, ailelerine bir daha dönmeyeceklerini sanmıştınız. Bu, gönüllerinize güzel görünmüştü de kötü sanıda bulunmuştunuz. Hay...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|2MP"
+      },
+      "ayah_text_arabic_full": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Aslında siz, elçinin ve güvene erenlerin, ailelerine bir daha dönmeyeceklerini sanmıştınız. Bu, gönüllerinize güzel görünmüştü de kötü sanıda bulunmuştunuz. Hayırsız bir topluluk oldunuz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 48,
+      "ayah": 12,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:12",
+      "word_position": 16,
+      "target_word_uthmani": "ظَنَّ",
+      "target_word_rasm": "ظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا",
+      "context_snippet_turkish_tabula_rasa": "Aslında siz, elçinin ve güvene erenlerin, ailelerine bir daha dönmeyeceklerini sanmıştınız. Bu, gönüllerinize güzel görünmüştü de kötü sanıda bulunmuştunuz. Hay...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Aslında siz, elçinin ve güvene erenlerin, ailelerine bir daha dönmeyeceklerini sanmıştınız. Bu, gönüllerinize güzel görünmüştü de kötü sanıda bulunmuştunuz. Hayırsız bir topluluk oldunuz.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 49,
+      "ayah": 12,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:12",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلظَّنِّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Zan / delilsiz tahmin (ٱلظَّنِّ — mecrûr isim; 4:157, 49:12)",
+      "context_snippet_arabic": "ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; ...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; kimse kimseyi çekiştirmesin; hangi biriniz ölü kardeşinin etini yemekten hoşlanır? Ondan tiksinirsiniz; Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 49,
+      "ayah": 12,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:12",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلظَّنِّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Zan / delilsiz tahmin (ٱلظَّنِّ — mecrûr isim; 4:157, 49:12)",
+      "context_snippet_arabic": "ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; ...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; kimse kimseyi çekiştirmesin; hangi biriniz ölü kardeşinin etini yemekten hoşlanır? Ondan tiksinirsiniz; Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 53,
+      "ayah": 23,
+      "surah_name": "Necm",
+      "ayah_ref": "53:23",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلظَّنَّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar sizin ve babalarınızın taktığı adlardan başka bir şey değildir. Allah onları destekleyen bir delil indirmemiştir. Onlar sadece sanıya ve canlarının isted...",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar sizin ve babalarınızın taktığı adlardan başka bir şey değildir. Allah onları destekleyen bir delil indirmemiştir. Onlar sadece sanıya ve canlarının istediğine uymaktadırlar. Oysa onlara Rablerinden and olsun ki doğruluk rehberi gelmiştir.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 53,
+      "ayah": 28,
+      "surah_name": "Necm",
+      "ayah_ref": "53:28",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلظَّنَّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنَّ ٱلظَّنَّ لَا",
+      "context_snippet_turkish_tabula_rasa": "Oysa onların bu hususta bir bilgileri yoktur, sadece sanıya uyarlar. Sanı ise şüphesiz gerçeği ifade etmez.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa onların bu hususta bir bilgileri yoktur, sadece sanıya uyarlar. Sanı ise şüphesiz gerçeği ifade etmez.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 53,
+      "ayah": 28,
+      "surah_name": "Necm",
+      "ayah_ref": "53:28",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلظَّنَّ",
+      "target_word_rasm": "ٱلظن",
+      "target_word_literal_irab": "Kanıtsız tahmin, öngörü veya kötü/cahiliye zannı (ٱلظَّنَّ / ظَنًّا / ظَنَّ / ظَنَّهُۥ — mansûb isim/masdar)",
+      "context_snippet_arabic": "إِلَّا ٱلظَّنَّ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Oysa onların bu hususta bir bilgileri yoktur, sadece sanıya uyarlar. Sanı ise şüphesiz gerçeği ifade etmez.",
+      "morphology": {
+        "lemma": "Zan~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Zan~|ROOT:Znn|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa onların bu hususta bir bilgileri yoktur, sadece sanıya uyarlar. Sanı ise şüphesiz gerçeği ifade etmez.",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 59,
+      "ayah": 2,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:2",
+      "word_position": 14,
+      "target_word_uthmani": "ظَنَنتُمْ",
+      "target_word_rasm": "ظننتم",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "لِأَوَّلِ ٱلْحَشْرِ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ وَظَنُّوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinden gerçeğin üzerini örten olanları ilk sürgünde yurtlarından çıkaran O'dur. Oysa ey güvene erenler! Çıkacaklarını sanmamıştınız, onlar da, kalelerin...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|2MP"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden gerçeğin üzerini örten olanları ilk sürgünde yurtlarından çıkaran O'dur. Oysa ey güvene erenler! Çıkacaklarını sanmamıştınız, onlar da, kalelerinin kendilerini Allah'tan koruyacağını sanmışlardı. Ama Allah'ın azabı onlara beklemedikleri yerden geldi, kalblerine korku saldı; evlerini kendi elleriyle ve güvene erenlerin elleriyle yıkıyorlardı. Ey akıl sahipleri! Ders alın.",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 59,
+      "ayah": 2,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:2",
+      "word_position": 17,
+      "target_word_uthmani": "وَظَنُّوٓا۟",
+      "target_word_rasm": "وظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "ظَنَنتُمْ أَن يَخْرُجُوا۟ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinden gerçeğin üzerini örten olanları ilk sürgünde yurtlarından çıkaran O'dur. Oysa ey güvene erenler! Çıkacaklarını sanmamıştınız, onlar da, kalelerin...",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden gerçeğin üzerini örten olanları ilk sürgünde yurtlarından çıkaran O'dur. Oysa ey güvene erenler! Çıkacaklarını sanmamıştınız, onlar da, kalelerinin kendilerini Allah'tan koruyacağını sanmışlardı. Ama Allah'ın azabı onlara beklemedikleri yerden geldi, kalblerine korku saldı; evlerini kendi elleriyle ve güvene erenlerin elleriyle yıkıyorlardı. Ey akıl sahipleri! Ders alın.",
+      "contextual_meaning": "Pratik öngörü, beşerî değerlendirme ve toplumsal zan etiği: Boşanmış eşlerin sınırları koruyabileceklerine dair makul kanaati (2:230), Yusuf'un kurtulacağını öngördüğü arkadaşına mesajı (12:42), elçilerin yalanlandıklarına kanaat getirdikleri kırılma anı (12:110), dirilişte dünya süresini pek kısa sanma (17:52), kale güvencesi ve sürgün konusunda karşılıklı öngörülerin şaşması (59:2), iftira karşısında toplumun iyi kanaat besleme görevi (24:12) ve su-i zandan kaçınma ilkesi (49:12)."
+    },
+    {
+      "surah": 69,
+      "ayah": 20,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:20",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنَنتُ",
+      "target_word_rasm": "ظننت",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ",
+      "context_snippet_turkish_tabula_rasa": "Kitabı sağından verilen; \"Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum\" der.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|1S"
+      },
+      "ayah_text_arabic_full": "إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitabı sağından verilen; \"Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum\" der.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 72,
+      "ayah": 5,
+      "surah_name": "Cin",
+      "ayah_ref": "72:5",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنَنَّآ",
+      "target_word_rasm": "ظننا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu insanların ve görünmeyen bilinçli varlıkların Allah'a karşı yalan uydurabileceklerini sanmazdık.\"",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|1P"
+      },
+      "ayah_text_arabic_full": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu insanların ve görünmeyen bilinçli varlıkların Allah'a karşı yalan uydurabileceklerini sanmazdık.\"",
+      "contextual_meaning": "Bilgisiz tahmin ve epistemolojik eleştiri (شَكّ kutbu — ilim, hakikat ve yakîn karşısında zannın geçersizliği): Kanıtsız zannın hakikat adına hiçbir işe yaramayacağı evrensel ilkesi (10:36, 53:28), kitap bilgisi veya kanıt yerine kuru tahmin, kuruntu ve arzu izleme (2:78, 4:157, 6:116,148, 10:66, 45:24,32, 53:23), İblis'in insanlar hakkındaki beklentisinin doğru çıkması (34:20) ve insanlarla gizli toplulukların Allah adına yalan söylenmeyeceğine dair yanılgılı erken varsayımı (72:5)."
+    },
+    {
+      "surah": 72,
+      "ayah": 7,
+      "surah_name": "Cin",
+      "ayah_ref": "72:7",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنُّوا۟",
+      "target_word_rasm": "ظنوا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu, onlar da sizin, Allah'ın kimseyi yeniden diriltmeyeceğinizi sandığınız gibi sanıda bulunmuşlardı.\"",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu, onlar da sizin, Allah'ın kimseyi yeniden diriltmeyeceğinizi sandığınız gibi sanıda bulunmuşlardı.\"",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 72,
+      "ayah": 7,
+      "surah_name": "Cin",
+      "ayah_ref": "72:7",
+      "word_position": 4,
+      "target_word_uthmani": "ظَنَنتُمْ",
+      "target_word_rasm": "ظننتم",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu, onlar da sizin, Allah'ın kimseyi yeniden diriltmeyeceğinizi sandığınız gibi sanıda bulunmuşlardı.\"",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu, onlar da sizin, Allah'ın kimseyi yeniden diriltmeyeceğinizi sandığınız gibi sanıda bulunmuşlardı.\"",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    },
+    {
+      "surah": 72,
+      "ayah": 12,
+      "surah_name": "Cin",
+      "ayah_ref": "72:12",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنَنَّآ",
+      "target_word_rasm": "ظننا",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ",
+      "context_snippet_turkish_tabula_rasa": "\"Yeryüzünde kalsak da Allah'ı aciz bırakamayacağımız, başka yere kaçsak da, O'nu aciz kılamayacağımız gerçeğini şüphesiz anladık.\"",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|1P"
+      },
+      "ayah_text_arabic_full": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yeryüzünde kalsak da Allah'ı aciz bırakamayacağımız, başka yere kaçsak da, O'nu aciz kılamayacağımız gerçeğini şüphesiz anladık.\"",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 75,
+      "ayah": 25,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:25",
+      "word_position": 1,
+      "target_word_uthmani": "تَظُنُّ",
+      "target_word_rasm": "تظن",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "تَظُنُّ أَن يُفْعَلَ بِهَا",
+      "context_snippet_turkish_tabula_rasa": "Kendisinin belkemiğinin kırılacağını sanır.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|3FS"
+      },
+      "ayah_text_arabic_full": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisinin belkemiğinin kırılacağını sanır.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 75,
+      "ayah": 28,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:28",
+      "word_position": 1,
+      "target_word_uthmani": "وَظَنَّ",
+      "target_word_rasm": "وظن",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "context_snippet_turkish_tabula_rasa": "Artık ayrılık vaktinin geldiğini sanır.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık ayrılık vaktinin geldiğini sanır.",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 83,
+      "ayah": 4,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:4",
+      "word_position": 2,
+      "target_word_uthmani": "يَظُنُّ",
+      "target_word_rasm": "يظن",
+      "target_word_literal_irab": "Kesin kanaat taşırlar / sanır / tahmin ederler (يَظُنُّونَ / يَظُنُّ / أَظُنُّ / نَظُنُّ / تَظُنُّونَ — I. bab muzâri fiil)",
+      "context_snippet_arabic": "أَلَا يَظُنُّ أُو۟لَٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı?",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَا يَظُنُّ أُو۟لَٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı?",
+      "contextual_meaning": "Güçlü karîne ve derin tefekkürle erişilen kesin kalbî kanaat (يَقِين تَدَبُّر): Rabbe ve hesaba kavuşacaklarını kesin bilen bilinçli insanlar (2:46, 2:249, 69:20, 83:4), Allah'tan başka sığınak olmadığını ve O'nu aciz bırakamayacaklarını kavrama (9:118, 72:12), Davud'un sınandığını idrak etmesi (38:24) ile dağ, dev dalga, ölüm ayrılığı ve hesap ateşi karşısında kaçınılmaz gerçeği kesin biçimde kavrama (7:171, 10:22, 18:53, 41:48, 75:25, 75:28)."
+    },
+    {
+      "surah": 84,
+      "ayah": 14,
+      "surah_name": "İnşikāk",
+      "ayah_ref": "84:14",
+      "word_position": 2,
+      "target_word_uthmani": "ظَنَّ",
+      "target_word_rasm": "ظن",
+      "target_word_literal_irab": "Kesin kanaate vardı / öngördü / sandı (ظَنَّ / ظَنُّوا۟ / ظَنَنتُ / ظَنَنَّا / ظَنَنتُمْ — I. bab mâzi fiil)",
+      "context_snippet_arabic": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "context_snippet_turkish_tabula_rasa": "Zira; o, bir daha dirilip dönmeyeceğini sanmıştı.",
+      "morphology": {
+        "lemma": "Zan~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Zan~a|ROOT:Znn|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zira; o, bir daha dirilip dönmeyeceğini sanmıştı.",
+      "contextual_meaning": "Allah hakkında kötü zan (ظَنَّ ٱلسَّوْءِ / ظَنَّ ٱلْجَٰهِلِيَّةِ), kibir vehmi, hesabın gelmeyeceği yanılgısı ve elçilere ithamlar: Kriz anında Allah'a yakışmayan çarpık ve yıkıcı zanlar (3:154, 22:15, 33:10, 37:87, 38:27, 41:22-23, 48:6, 48:12), yeryüzü varlığına mutlak hâkimiyet veya diriliş/dönüş olmayacağı kuruntusu (10:24,60, 18:35-36, 21:87, 28:39, 41:50, 72:7, 84:14) ile Firavun ve hakikati örten seçkinlerin elçileri yalancı veya büyülenmiş sanma ithamları ve Musa'nın Firavun'a yönelik kesin yıkım tespiti (7:66, 11:27, 17:101-102, 26:186, 28:38, 40:37)."
+    }
+  ]
+}
