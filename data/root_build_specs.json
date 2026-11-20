@@ -526,5 +526,198 @@
       }
     ],
     "context_default": "Topuk ve art izi ekseninde bir unsurun başkasının hemen peşinden gelip onu izlemesi, sürecin en sonunda nihaî akıbet ve ardıl karşılık olarak yetişmesi ya da (90:11-12'de) tırmanılması güç sarp geçit."
+  },
+  "ع-ر-ض": {
+    "buckwalter": "ErD",
+    "slug": "arz_irad_erd",
+    "concept_name": "Arz / İ‘râd / Enine Genişlik ve Geçici Menfaat (Açıkça Önüne Serme, Yan Çevirip Mesafe Koyma ve Arızî Beliriş)",
+    "keywords": [
+      "arz",
+      "irad",
+      "yuz cevirme",
+      "genislik",
+      "sunma",
+      "gecici menfaat",
+      "ima",
+      "engel"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aEoraDa",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Yan çevirip uzak dur / muhataplığı bırak (أَعْرِضْ / فَأَعْرِضُوا۟ — IV. bab emir fiil; عَنْ ile boş tartışmadan, cahillerden, çatışmadan veya affedilen konudan bilinçle çekilme)"
+      },
+      {
+        "lemma": ">aEoraDa",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Yan çevirir / yüz döndürür (يُعْرِضُ / تُعْرِضُوا۟ — IV. bab muzâri fiil; uyarıdan, adalet tanıklığından veya bir kimseden ilgisini çevirme)"
+      },
+      {
+        "lemma": ">aEoraDa",
+        "label": "Yan çevirdi / yüz döndürdü (أَعْرَضَ / أَعْرَضُوا۟ — IV. bab mâzi fiil; عَنْ ile nimetten, ayetlerden, boş sözden veya bir kusurun devamından ilgisini kesme)"
+      },
+      {
+        "lemma": "m~uEoriDuwn",
+        "label": "Yan çevirenler / ilgisiz kalıp yüz döndürenler (مُعْرِضُون / مُعْرِضِين — IV. bab çoğul ism-i fâil; uyarı ve delillere ya da 23:3'te boş söze sırt/yan dönenler)"
+      },
+      {
+        "lemma": "<iEoraAD",
+        "label": "Yan çevirme / soğuk mesafe koyma (إِعْرَاض — IV. bab mastar; eşin yakınlıktan çekilmesi veya toplumun çağrıya sırt çevirmesi)"
+      },
+      {
+        "lemma": "EaraDa",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Açıkça huzura sunuldu / çıkarıldı (عُرِضَ / وَعُرِضُوا۟ / تُعْرَضُونَ — I. bab edilgen fiil; teftiş, hesap veya tam şeffaflık için göz önüne çıkarılma)"
+      },
+      {
+        "lemma": "EaraDa",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Açıkça huzura / ateşin karşısına çıkarılırlar (يُعْرَضُونَ / يُعْرَضُ — I. bab edilgen muzâri fiil; عَلَىٰ ile hesap veya yaptırım önüne serilme)"
+      },
+      {
+        "lemma": "EaraDa",
+        "label": "Açıkça önüne serdi / sundu (عَرَضَ / عَرَضْنَا — I. bab etken mâzi fiil; varlıkları, emaneti veya sonucu bütün açıklığıyla sergileme)"
+      },
+      {
+        "lemma": "Ear~aDo",
+        "label": "Yan cepheden dolaylı ima ettiniz (عَرَّضْتُم — II. bab mâzi fiil; بِـ ile doğrudan değil sezdirme yoluyla evlilik niyeti bildirme)"
+      },
+      {
+        "lemma": "EaraD",
+        "label": "Geçici dünya menfaati / arızî çıkar (عَرَض — isim; yol üstünde anlık belirip geçen kalıcı olmayan maddi kazanç)"
+      },
+      {
+        "lemma": "EaroD",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "Bütün açıklığıyla sererek (عَرْضًا — mef'ûl-i mutlak mastar; hiçbir yönü gizlemeden göz önüne çıkarma)"
+      },
+      {
+        "lemma": "EaroD",
+        "label": "Enine genişlik / yayılım (عَرْضُهَا / كَعَرْضِ — isim; gökler ve yer ölçüsündeki uçsuz bucaksız genişlik)"
+      },
+      {
+        "lemma": "EaAriD",
+        "label": "Ufukta enine yayılıp beliren bulut kütlesi (عَارِض — I. bab ism-i fâil; vadilere doğru karşıdan yaklaşan yoğun kütle)"
+      },
+      {
+        "lemma": "EuroDap",
+        "label": "Enine gerilmiş engel / siper (عُرْضَةً — isim; iyilik, sorumluluk ve barışın önüne set olarak konulan ant kalkanı)"
+      },
+      {
+        "lemma": "EariyD",
+        "label": "Enine boyuna geniş / uzun soluklu (عَرِيضٍ — sıfat; darlık anında insanın açıldığı geniş ve bitmeyen yakarış)"
+      }
+    ],
+    "irab_default": "Enine genişlik, açıkça önüne serme, geçici menfaat veya yan çevirip mesafe koyma (ع-ر-ض kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:31",
+          "11:18",
+          "18:48",
+          "18:100",
+          "33:72",
+          "38:31",
+          "40:46",
+          "42:45",
+          "46:20",
+          "46:34",
+          "69:18"
+        ],
+        "text": "Bütün açıklığıyla göz önüne serme, teftiş ve hesap huzuruna çıkarılma: Varlıkların adlandırılmak üzere sunulması (2:31), sorumluluk emanetinin göklere-yere-dağlara arzı (33:72), soylu atların teftiş için geçirilmesi (38:31) ve büyük hesap gününde hiçbir gizlinin saklı kalmadığı tam şeffaflık içinde huzura veya ateşin karşısına çıkarılış (11:18, 18:48, 18:100, 40:46, 42:45, 46:20, 46:34, 69:18)."
+      },
+      {
+        "ayahs": [
+          "2:224",
+          "2:235",
+          "3:133",
+          "46:24",
+          "57:21"
+        ],
+        "text": "Enine genişlik, ufukta beliriş, engel ve yan cepheden ima geometrisi: Gökler ve yer genişliğindeki esenlik bahçesi (3:133, 57:21), ufukta enine yayılıp vadilere yönelen fırtına bulutu (46:24), Yaratıcı'nın adını iyilik ve barışa engel/siper yapmama uyarısı (2:224) ile bekleme süresindeki kadınlara açık sözleşme yerine yan cepheden zarifçe sezdirme izni (2:235)."
+      },
+      {
+        "ayahs": [
+          "4:94",
+          "7:169",
+          "8:67",
+          "9:42",
+          "24:33"
+        ],
+        "text": "Geçici ve arızî dünya menfaati (عَرَض): Barış teklif edenin canına kastetmek (4:94), kitap sözleşmesini çiğneyip düşük dünyalık toplamak (7:169), ilkesel hedef yerine fidye çıkarına yönelmek (8:67), yalnızca yakın kolay kazanç peşinde koşmak (9:42) ve zorla iffetsizliğe sürükleyip kazanç ummak (24:33) gibi gelip geçici çıkarların reddi."
+      },
+      {
+        "ayahs": [
+          "2:83",
+          "3:23",
+          "4:128",
+          "4:135",
+          "6:4",
+          "6:35",
+          "8:23",
+          "9:76",
+          "12:105",
+          "15:81",
+          "17:67",
+          "17:83",
+          "18:57",
+          "20:100",
+          "20:124",
+          "21:1",
+          "21:24",
+          "21:32",
+          "21:42",
+          "23:71",
+          "24:48",
+          "26:5",
+          "32:22",
+          "34:16",
+          "36:46",
+          "38:68",
+          "41:4",
+          "41:13",
+          "41:51",
+          "42:48",
+          "46:3",
+          "54:2",
+          "72:17",
+          "74:49"
+        ],
+        "text": "Hakikatten, ayetlerden, adalet tanıklığından, nimetten veya eşlik bağından yan çevirip ilgisiz kalma: Göklerdeki ve kitaptaki delillere, hatırlatmaya ve hukuka karşı yan dönüp uzaklaşma (2:83, 6:4, 12:105, 18:57, 20:124, 32:22, 74:49); adalet tanıklığından kaçınma (4:135), ailede soğuk ilgisizlik (4:128) ve nimet anında yan çevirip darlıkta geniş yakarışa (عَرِيض) sarılan insan çelişkisi (17:83, 41:51)."
+      },
+      {
+        "ayahs": [
+          "4:16",
+          "4:63",
+          "4:81",
+          "5:42",
+          "6:68",
+          "6:106",
+          "7:199",
+          "9:95",
+          "11:76",
+          "12:29",
+          "15:94",
+          "17:28",
+          "23:3",
+          "28:55",
+          "32:30",
+          "53:29",
+          "66:3"
+        ],
+        "text": "Bilinçli ve ilkesel mesafe koyma (عَنْ ile erdemli yan çevirme): Boş ve anlamsız sözden uzak durma (23:3, 28:55), ayetlerle alay edenlerden ve cahil tartışmacılardan çekilme (6:68, 7:199, 15:94), pişmanlık ve onarım sonrası cezalandırmadan vazgeçme (4:16), eldeki imkân yokluğunda nazikçe yön değiştirme (17:28), aile içi mahrem kusuru büyütmeyip görmezden gelme (12:29, 66:3) ve hakikati çarpıtanlarla kısır çekişmeye girmeme (4:63, 4:81, 5:42, 9:95, 32:30, 53:29)."
+      }
+    ],
+    "context_default": "Enine genişlik ve yan yüzey geometrisi üzerinden bir şeyi bütün açıklığıyla önüne serme, yol üstünde anlık belirme veya yüz yerine yanını çevirip muhataplıktan çekilme mekanizması."
   }
 }
