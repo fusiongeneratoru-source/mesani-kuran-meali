@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 94 / 100 Kök (Toplam Mühürlü: 199 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 95 / 100 Kök (Toplam Mühürlü: 200 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -112,7 +112,7 @@
 | 92 | 196 | `ن-د-و` | `N-D-W` | **53** | 50 | 2:171 | Nidâ, Münâdî, Nâdî ve Yevmü't-Tenâd (Mesafeyi Aşan Sesleniş, Karşılıklı Seslenme Günü ve Toplanma Meclisi) | ✅ **MÜHÜRLÜ** |
 | 93 | 197 | `خ-ب-ر` | `H-B-R` | **52** | 52 | 2:234 | Habîr, Hubr, Haber ve Ahbâr (Dış Kabuğun Altındaki Gizli İç Yüzü Yoklayıp Bilmek ve Sınanan İç Kayıtlar) | ✅ **MÜHÜRLÜ** |
 | 94 | 198 | `ض-ع-ف` | `D-A-F` | **52** | 45 | 2:245 | Da'f, Dı'f, Mudâafe ve Müstad'af (Kendi Üzerine Katlanarak Çoğalma, Bükülüp Güçsüzleşme ve Ezilenler) | ✅ **MÜHÜRLÜ** |
-| 95 | 199 | `ت-ح-ت` | `T-H-T` | **51** | 50 | 2:25 | Analiz Bekliyor (taHot) | ⏳ *Bekliyor* |
+| 95 | 199 | `ت-ح-ت` | `T-H-T` | **51** | 50 | 2:25 | Taht ve Min Tahtihâ (Alt Katman, Taban Zemini, Altından Irmaklar Akan Hasbahçeler ve Himaye Altı) | ✅ **MÜHÜRLÜ** |
 | 96 | 200 | `ح-ل-ل` | `H-L-L` | **51** | 43 | 2:168 | Analiz Bekliyor (>aHal~a, Halalo, Hala`l) | ⏳ *Bekliyor* |
 | 97 | 201 | `ف-س-د` | `F-S-D` | **50** | 47 | 2:11 | Analiz Bekliyor (mufosid, >afosadu, fasaAd) | ⏳ *Bekliyor* |
 | 98 | 202 | `ط-ي-ب` | `T-Y-B` | **50** | 46 | 2:57 | Analiz Bekliyor (Tay~iba`t, Tay~ib, Tay~ibap) | ⏳ *Bekliyor* |
