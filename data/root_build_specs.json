@@ -5479,5 +5479,164 @@
       }
     ],
     "context_default": "Irmak, pınar, gemi, rüzgâr veya gök cisminin belirli yatak ve yörünge boyunca kesintisiz akışı mekanizması."
+  },
+  "ح-م-ل": {
+    "buckwalter": "Hml",
+    "slug": "haml_himl_tahmil_ihtimal_tasima_yuk_hml",
+    "concept_name": "Haml / Himl / Tahmîl ve İhtimâl (Fiziksel Taşıma, Gebelik, Emanet Yükümlülüğü ve Vebal Sırtlanma)",
+    "keywords": [
+      "haml",
+      "himl",
+      "tahmil",
+      "ihtimal",
+      "tasima",
+      "yuk",
+      "gebelik",
+      "emanet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Ham~aAlap",
+        "label": "Sürekli odun/kışkırtma yükü taşıyan hamal (حَمَّالَةَ — mübalağa ism-i fâil; 111:4)"
+      },
+      {
+        "lemma": "Hamuwlap",
+        "label": "Ağır yük taşımaya elverişli iri hayvanlar (حَمُولَةً — isim; 6:142)"
+      },
+      {
+        "lemma": "Ha`mila`t",
+        "label": "Ağır yağmur yükü taşıyan bulutlar (فَٱلْحَٰمِلَٰتِ — dişil çoğul ism-i fâil; 51:2)"
+      },
+      {
+        "lemma": "Ha`miliyn",
+        "label": "Başkasının hatasını asla taşıyıcı değillerdir (بِحَٰمِلِينَ — eril çoğul ism-i fâil; 29:12)"
+      },
+      {
+        "lemma": ">aHomaAl",
+        "label": "Gebe olan kadınlar (أُو۟لَٰتُ ٱلْأَحْمَالِ — çoğul isim; 65:4)"
+      },
+      {
+        "lemma": "Himol",
+        "label": "Sırtta/devede taşınan dış yük veya ağır ahlaki sorumluluk yükü (حِمْلُ / حِمْلًا / حِمْلِهَا — kesralı isim; 12:72, 20:101, 35:18)"
+      },
+      {
+        "lemma": "Hamol",
+        "label": "Rahimde taşınan gebelik yükü / gebelik süresi (حَمْلًا / حَمْلٍ / حَمْلَهَا / حَمْلُهُۥ / حَمْلَهُنَّ — fethalı isim; 7 geçiş)"
+      },
+      {
+        "lemma": "{Hotamala",
+        "label": "Selin köpük taşıması veya iftiracının ağır bühtan vebalini sırtlanması (ٱحْتَمَلَ / فَٱحْتَمَلَ / ٱحْتَمَلُوا۟ — VIII. bab mâzi; 4:112, 13:17, 33:58)"
+      },
+      {
+        "lemma": "Hum~ila",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Kendilerine sorumluluk/vahiy/ziynet yükü yüklendi (حُمِّلَ / حُمِّلْتُمْ / حُمِّلْنَآ / حُمِّلُوا۟ — II. bab edilgen mâzi; 4 geçiş)"
+      },
+      {
+        "lemma": "Hum~ila",
+        "label": "Gücümüzün yetmeyeceği yükü bize yükleme (تُحَمِّلْنَا — II. bab meczûm muzâri; 2:286)"
+      },
+      {
+        "lemma": "Hamala",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Taşınırsınız / yükü taşınmaz / yer ve dağlar kaldırılıp çarpıldı (تُحْمَلُونَ / لَا يُحْمَلْ / وَحُمِلَتِ — I. bab edilgen; 23:22, 35:18, 40:80, 69:14)"
+      },
+      {
+        "lemma": "Hamala",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Gemiye her çiftten yükle / al (ٱحْمِلْ — I. bab emir; 11:40)"
+      },
+      {
+        "lemma": "Hamala",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Taşıdı / gebe kaldı / emaneti veya zulmü yüklendi (حَمَلَ / حَمَلَتْ / حَمَلْنَا / حَمَلْتَهُۥ — I. bab etken mâzi)"
+      },
+      {
+        "lemma": "Hamala",
+        "label": "Taşır / gebe kalır / vebal veya Arş taşır / üzerine yüklenir (تَحْمِلُ / يَحْمِلُ / يَحْمِلُونَ / أَحْمِلُ / نَحْمِلْ — I. bab etken muzâri)"
+      }
+    ],
+    "irab_default": "Fiziksel ağırlık, yolcu, gebelik, emanet veya sorumluluk yükünü kaldırıp taşıma (ح-م-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:248",
+          "6:142",
+          "6:146",
+          "7:176",
+          "9:92",
+          "11:40",
+          "12:36",
+          "12:72",
+          "13:17",
+          "16:7",
+          "17:3",
+          "17:70",
+          "19:58",
+          "23:22",
+          "29:60",
+          "36:41",
+          "40:7",
+          "40:80",
+          "51:2",
+          "54:13",
+          "69:11",
+          "69:14",
+          "69:17",
+          "111:4"
+        ],
+        "text": "Fiziksel taşıma, binek/gemi nakli, doğa ve kozmik taşıma: İnsanın karada ve denizde taşınması, yük hayvanları ve Nûh gemisiyle kurtuluş (6:142, 9:92, 11:40, 16:7, 17:3,70, 19:58, 23:22, 36:41, 40:80, 54:13, 69:11), Tâbût ve Arş taşıyıcıları ile yer-dağların kaldırılması (2:248, 40:7, 69:14,17), yağmur yüklü bulutlar, selin köpüğü, deve yükü, ekmek rüyası, rızkını taşıyamayan canlılar, sırt yağları, odun hamalı ve üzerine yüklenilen köpek temsili (6:146, 7:176, 12:36,72, 13:17, 29:60, 51:2, 111:4)."
+      },
+      {
+        "ayahs": [
+          "7:189",
+          "13:8",
+          "19:22",
+          "19:27",
+          "22:2",
+          "31:14",
+          "35:11",
+          "41:47",
+          "46:15",
+          "65:4",
+          "65:6"
+        ],
+        "text": "Biyolojik gebelik, rahim taşıması ve annelik/aile hukuku (حَمَلَتْ / حَمْل / أُو۟لَٰتُ ٱلْأَحْمَالِ): Her dişinin ne taşıyıp doğurduğunun ilâhî ilimde oluşu (13:8, 35:11, 41:47), annenin zayıflık ve zorlukla gebelik taşıyıp emzirmesi (7:189, 31:14, 46:15), Meryem'in İsa'ya gebe kalıp onu kucağında getirmesi (19:22, 19:27), kıyamet dehşetinde gebelerin yükünü bırakması (22:2) ve boşanma hukukunda gebe kadınların iddet ve nafaka güvencesi (65:4, 65:6)."
+      },
+      {
+        "ayahs": [
+          "2:286",
+          "20:87",
+          "24:54",
+          "33:72",
+          "62:5"
+        ],
+        "text": "Emanet, vahiy yükümlülüğü, görev sınırları ve kapasite duası: Göklerin, yerin ve dağların çekinip insanın üstlendiği büyük Emanet (33:72), ağır ahit ve kapasite üstü yük yüklenmemesi duası (2:286), elçiye yüklenen ile topluma yüklenen ayrı görev sınırları (24:54), Tevrat sorumluluğunu yüklenip gereğini taşımayanların kitap yüklü merkep temsili (62:5) ve ziynet ağırlıklarını yüklenme bahanesi (20:87)."
+      },
+      {
+        "ayahs": [
+          "4:112",
+          "6:31",
+          "16:25",
+          "20:100",
+          "20:101",
+          "20:111",
+          "29:12",
+          "29:13",
+          "33:58",
+          "35:18"
+        ],
+        "text": "Suç, zulüm ve iftira vebalini sırtlanma ve bireysel sorumluluk yasası: Hesap gününde ağır suç ve zulüm yükünü sırtında taşıma (6:31, 16:25, 20:100,101,111, 29:13), masuma iftira atıp ağır bühtan yüklenme (4:112, 33:58) ve 'hatalarınızı biz taşıyalım' aldatmacasına karşı en yakın akraba bile olsa kimsenin başkasının yükünden zerre taşıyamayacağı yasası (29:12, 35:18)."
+      }
+    ],
+    "context_default": "Ağırlığı, yolcuyu, rahimdeki çocuğu, ilâhî emaneti veya suç vebalini kaldırıp sırtlanma mekanizması."
   }
 }
