@@ -2058,5 +2058,155 @@
       }
     ],
     "context_default": "Daraltıp sıkıştırarak eksiltme, zedeleme, hastalık-sıkıntı veya kaçışsız zorunluluk kıskacı mekanizması."
+  },
+  "ب-أ-س": {
+    "buckwalter": "bAs",
+    "slug": "bes_siddet_cetinlik_bisa_bas",
+    "concept_name": "Be's / Be'sâ / Bi'se ve İbtiâs (Sert Çarpışma Gücü, Çetin Yaptırım, Geçim Şiddeti ve Ağır Kınama Yargısı)",
+    "keywords": [
+      "bes",
+      "siddet",
+      "cetinlik",
+      "bisa",
+      "besa",
+      "bais",
+      "savas",
+      "yaptirim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tabota}iso",
+        "label": "Ağır kedere ve bunalıma kapılma (فَلَا تَبْتَئِسْ — VIII. bab meczûm muzâri fiil; başkalarının yaptıkları karşısında içsel ezilmişlikten korunma, 11:36, 12:69)"
+      },
+      {
+        "lemma": "ba_#iys",
+        "label": "Son derece çetin ve ezici (بَـِٔيسٍۭ — sıfat; 7:165'te zulmedenlere indirilen ağır yaptırımın niteliği)"
+      },
+      {
+        "lemma": "baA^}is",
+        "label": "Geçim şiddeti altında ezilmiş ağır darlık sahibi (ٱلْبَآئِسَ — I. bab ism-i fâil; 22:28'de doyurulması emredilen muhtaç)"
+      },
+      {
+        "lemma": "ba>osaA^'",
+        "label": "Geçim şiddeti ve maddi yoksunluk dönemi (ٱلْبَأْسَآء — dişil isim; daima bedensel darlık ٱلضَّرَّآء ile eşleşen ağır sınav, 2:177, 2:214, 6:42, 7:94)"
+      },
+      {
+        "lemma": "ba>os",
+        "features_contains": [
+          "INDEF",
+          "NOM"
+        ],
+        "label": "Çetin ve sert vurucu güç (بَأْسٌ شَدِيدٌ — nekre merfû isim; 57:25'te demirdeki sertlik ve güç)"
+      },
+      {
+        "lemma": "ba>os",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "Çetin güç / sert çarpışma şiddeti veya ağır yaptırım (بَأْسًا / بَأْسٍ — nekre isim; 4:84, 17:5, 18:2, 27:33, 48:16)"
+      },
+      {
+        "lemma": "ba>os",
+        "label": "Sert çarpışma darbesi veya geri çevrilemeyen ilahî yaptırım şiddeti (بَأْس / ٱلْبَأْس / بَأْسَنَا / بَأْسَكُمْ — isim; zırh, savaş ve ilahî darbe)"
+      },
+      {
+        "lemma": "bi}osa",
+        "label": "Ne ağır, ne berbat, ne kötü (بِئْسَ / بِئْسَمَا / لَبِئْسَ / فَبِئْسَ — I. bab câmid yerme fiili; yıkıcı akıbet, yanlış takas veya bozuk seçimin kesin kınanması)"
+      }
+    ],
+    "irab_default": "Sertlik, çetin güç, geçim şiddeti, keder ağırlığı veya ağır kınama yargısı (ب-أ-س kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:84",
+          "6:65",
+          "16:81",
+          "17:5",
+          "21:80",
+          "27:33",
+          "33:18",
+          "48:16",
+          "57:25",
+          "59:14"
+        ],
+        "text": "Fiziksel sertlik, zırh, çatışma ve askerî çetinlik (بَأْس): Demirin içindeki sert vurucu güç (57:25), zırhların koruduğu çarpışma darbesi (16:81, 21:80), çetin savaşçı topluluklar (17:5, 27:33, 48:16), iç çatışmada birbirinin sertliğini tatma (6:65), çarpışma meydanından kaçanlar ve kendi aralarında çetin görünüp kalpleri dağınık olanlar (33:18, 59:14) ile Yaratıcı'nın düşman gücünü durdurup daha çetin güce sahip olması (4:84)."
+      },
+      {
+        "ayahs": [
+          "6:43",
+          "6:147",
+          "6:148",
+          "7:4",
+          "7:5",
+          "7:97",
+          "7:98",
+          "7:165",
+          "12:110",
+          "18:2",
+          "21:12",
+          "40:29",
+          "40:84",
+          "40:85"
+        ],
+        "text": "Geri çevrilemeyen çetin ilahî yaptırım darbesi (بَأْسُنَا / بَأْسُ ٱللَّهِ / عَذَابٍۭ بَـِٔيسٍۭ): Gece uyurken ya da gündüz oyalanırken ansızın gelen yıkıcı darbe (7:4-5, 7:97-98, 21:12), suçlu topluluklardan geri çevrilemeyen yaptırım (6:43,147-148, 7:165, 12:110, 18:2, 40:29) ve yaptırımı gözleriyle gördükten sonraki son dakika dönüşünün fayda vermemesi (40:84-85)."
+      },
+      {
+        "ayahs": [
+          "2:177",
+          "2:214",
+          "6:42",
+          "7:94",
+          "11:36",
+          "12:69",
+          "22:28"
+        ],
+        "text": "Geçim şiddeti, yoksulluk çetinliği, sebat ve içsel kederden korunma (ٱلْبَأْسَآء / ٱلْبَآئِس / تَبْتَئِسْ): Maddi darlık, bedensel sıkıntı ve çatışma anında direnç (2:177, 2:214), toplulukların yalvarıp uyanması için kıtlık ve darlıkla sarsılması (6:42, 7:94), ağır yoksulluğun ezdiği kimselerin doyurulması (22:28) ile Nûh'a ve Yûsuf'un kardeşine başkalarının yaptıkları yüzünden ağır kedere kapılmama telkini (11:36, 12:69)."
+      },
+      {
+        "ayahs": [
+          "2:90",
+          "2:93",
+          "2:102",
+          "2:126",
+          "2:206",
+          "3:12",
+          "3:151",
+          "3:162",
+          "3:187",
+          "3:197",
+          "5:62",
+          "5:63",
+          "5:79",
+          "5:80",
+          "7:150",
+          "8:16",
+          "9:73",
+          "11:98",
+          "11:99",
+          "13:18",
+          "14:29",
+          "16:29",
+          "18:29",
+          "18:50",
+          "22:13",
+          "22:72",
+          "24:57",
+          "38:56",
+          "38:60",
+          "39:72",
+          "40:76",
+          "43:38",
+          "49:11",
+          "57:15",
+          "58:8",
+          "62:5",
+          "64:10",
+          "66:9",
+          "67:6"
+        ],
+        "text": "Kesin kınama ve ağırlık yargısı (بِئْسَ / بِئْسَمَا): Hakikati ve sözleşmeyi ucuz çıkarlarla takas etmenin ve kötülüğü engellememenin ağırlığı (2:90,93,102, 3:187, 5:62-63,79-80, 7:150), inançtan sonra bozuk lakap ve yoldan çıkış sıfatının çirkinliği (49:11, 62:5), sahte dost, yoldaş ve değiş-tokuşun yıkıcılığı (18:50, 22:13, 43:38) ile kibir ve yadsımanın vardığı yakıcı son yurdun, içeceğin ve karşılığın ağırlığı (2:126,206, 3:12,151,162,197, 8:16, 9:73, 11:98-99, 13:18, 14:29, 16:29, 18:29, 22:72, 24:57, 38:56,60, 39:72, 40:76, 57:15, 58:8, 64:10, 66:9, 67:6)."
+      }
+    ],
+    "context_default": "Fiziksel sertlik, çarpışma gücü, ilahî yaptırım şiddeti, geçim darlığı, içsel keder veya kesin kınama yargısı mekanizması."
   }
 }

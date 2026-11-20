@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 43 / 100 Kök (Toplam Mühürlü: 148 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 44 / 100 Kök (Toplam Mühürlü: 149 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -61,7 +61,7 @@
 | 41 | 144 | `أ-ل-م` | `E-L-M` | **75** | 73 | 2:10 | Elem / Elîm (Bedensel ve Ruhsal Acı/Ağrı Duyumsama ve Derinden Acı Veren Yakıcı Nitelik) | ✅ **MÜHÜRLÜ** |
 | 42 | 145 | `ك-ل-م` | `K-L-M` | **75** | 71 | 2:37 | Kelâm / Kelime / Kelimât / Teklîm (İz Bırakan Anlamlı Söz, Doğrudan Hitap, Bağlayıcı İlke ve Değişmez Yasa) | ✅ **MÜHÜRLÜ** |
 | 43 | 147 | `ض-ر-ر` | `D-R-R` | **74** | 70 | 2:102 | Zarar / Durr / Darrâ / Dirâr ve Iztırâr (Daraltıp Sıkıştırarak Eksiltme, Hastalık-Darlık, Kasıtlı Mağduriyet ve Zorunluluk Kıskacı) | ✅ **MÜHÜRLÜ** |
-| 44 | 148 | `ب-أ-س` | `B-E-S` | **73** | 70 | 2:90 | Analiz Bekliyor (bi}osa, ba>os, ba>osaA^') | ⏳ *Bekliyor* |
+| 44 | 148 | `ب-أ-س` | `B-E-S` | **73** | 70 | 2:90 | Be's / Be'sâ / Bi'se ve İbtiâs (Sert Çarpışma Gücü, Çetin Yaptırım, Geçim Şiddeti ve Ağır Kınama Yargısı) | ✅ **MÜHÜRLÜ** |
 | 45 | 149 | `ر-ض-و` | `R-D-W` | **73** | 64 | 2:120 | Analiz Bekliyor (r~aDiYa, riDowa`n, maroDaAt) | ⏳ *Bekliyor* |
 | 46 | 150 | `ب-ي-ت` | `B-Y-T` | **73** | 54 | 2:125 | Analiz Bekliyor (bayot, bay~ata, baya`t) | ⏳ *Bekliyor* |
 | 47 | 151 | `ر-ج-ل` | `R-C-L` | **73** | 66 | 2:228 | Analiz Bekliyor (rajul, rijaAl, rijol) | ⏳ *Bekliyor* |
