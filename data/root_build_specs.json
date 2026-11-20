@@ -11040,5 +11040,242 @@
       }
     ],
     "context_default": "Sıkıca bağlanmış bir düğümü veya kısıtlama bağını çözüp serbest bırakmak ve yükü çözerek bir yere konup yerleşmek mekanizması."
+  },
+  "ف-س-د": {
+    "buckwalter": "fsd",
+    "slug": "fesad_ifsad_mufsid_dengeyi_bozmak_curumek_yikim_fsd",
+    "concept_name": "Fesâd, İfsâd ve Müfsid (İç Dengenin Çökmesi, Islah Edilmiş Düzeni Bozmak ve Yeryüzünde Yıkım)",
+    "keywords": [
+      "fesad",
+      "fesat",
+      "ifsad",
+      "mufsid",
+      "mufsit",
+      "bozgunculuk",
+      "curume",
+      "denge",
+      "islah"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fasadati",
+        "features_contains": [
+          "3FD"
+        ],
+        "label": "Elbette o ikisinin (göklerin ve yerin iç dengesi) bozulup çökerdi (لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا — لَوْ şartının cevabında te'kid lâmı [لَـ] almış I. bab mâzî fiil, 3. tesniye dişil; 1 geçiş: 21:22)"
+      },
+      {
+        "lemma": "fasadati",
+        "label": "Elbette (yeryüzünün / göklerin ve yerin iç dengesi) bozulup çökerdi (وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ ٱلْأَرْضُ [2:251] / وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ [23:71] — لَوْلَا / لَوْ şartının cevabında te'kid lâmı almış I. bab mâzî fiil, 3. tekil dişil; 2 geçiş)"
+      },
+      {
+        "lemma": "fasaAd",
+        "ayahs": [
+          "30:41"
+        ],
+        "label": "Yapısal bozulma ve çürüme (karada ve denizde açığa çıktı) (ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ — ظَهَرَ fiilinin merfû fâili masdar; 1 geçiş: 30:41)"
+      },
+      {
+        "lemma": "fasaAd",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Ve büyük bir yapısal bozulma / yıkım (olur) (تَكُن فِتْنَةٌ فِى ٱلْأَرْضِ وَفَسَادٌ كَبِيرٌ — فِتْنَةٌ fâiline matuf merfû masdar; 1 geçiş: 8:73)"
+      },
+      {
+        "lemma": "fasaAd",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "(Yeryüzünde) düzeni bozma ve yıkım (بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ [5:32 — نَفْسٍ'e matuf mecrûr] / يَنْهَوْنَ عَنِ ٱلْفَسَادِ فِى ٱلْأَرْضِ [11:116 — عَنْ harf-i cerriyle mecrûr]; 2 geçiş)"
+      },
+      {
+        "lemma": "fasaAd",
+        "word_rasm": [
+          "فسادا"
+        ],
+        "label": "(Yeryüzünde) düzeni bozup yıkım çıkarmak üzere / bozgunculuk (وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا [5:33, 5:64 — mef'ûlün leh veya hâl olarak mansûb] / لَا يُرِيدُونَ عُلُوًّا فِى ٱلْأَرْضِ وَلَا فَسَادًا [28:83 — عُلُوًّا mef'ûlüne matuf mansûb]; 3 geçiş)"
+      },
+      {
+        "lemma": "fasaAd",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Düzeni bozmayı ve yıkımı (وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ [2:205] / وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ [28:77] / أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ [40:26] / فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ [89:12] — mansûb mef'ûlün bih; 4 geçiş)"
+      },
+      {
+        "lemma": ">afosadu",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "(Bir kente girdiklerinde) oranın düzenini ve dengesini bozup tahrip ederler (إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا — إِذَا şartının cevabında IV. bab mâzî fiil + 3. tekil dişil mef'ûl zamiri, 3. çoğul eril; 1 geçiş: 27:34)"
+      },
+      {
+        "lemma": ">afosadu",
+        "features_contains": [
+          "1P"
+        ],
+        "label": "(Yeryüzünde) düzeni bozup tahrip etmek için (gelmedik) (مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ — lâm-ı ta'lîl ile mansûb IV. bab muzâri fiil, 1. çoğul; 1 geçiş: 12:73)"
+      },
+      {
+        "lemma": ">afosadu",
+        "ayahs": [
+          "17:4"
+        ],
+        "label": "(Yeryüzünde iki kez) mutlaka düzeni bozup tahrip edeceksiniz (لَتُفْسِدُنَّ فِى ٱلْأَرْضِ مَرَّتَيْنِ — te'kid lâmı ve şeddeli te'kid nûnu almış IV. bab muzâri fiil, 2. çoğul eril; 1 geçiş: 17:4)"
+      },
+      {
+        "lemma": ">afosadu",
+        "features_contains": [
+          "2MP",
+          "MOOD:JUS"
+        ],
+        "label": "(Yeryüzünde — ıslah edilmesinden sonra) sakın düzeni bozup tahrip etmeyin! (لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ [2:11, 7:56, 7:85] — lâ-i nâhiye ile meczûm IV. bab muzâri fiil, 2. çoğul eril; 3 geçiş)"
+      },
+      {
+        "lemma": ">afosadu",
+        "features_contains": [
+          "2MP",
+          "MOOD:SUBJ"
+        ],
+        "label": "(Yeryüzünde) düzeni bozup tahrip etmeniz (ve akrabalık bağlarınızı parçalamanız) (أَن تُفْسِدُوا۟ فِى ٱلْأَرْضِ — أَن masdariyye ile mansûb IV. bab muzâri fiil, 2. çoğul eril; 1 geçiş: 47:22)"
+      },
+      {
+        "lemma": ">afosadu",
+        "features_contains": [
+          "3MS",
+          "MOOD:SUBJ"
+        ],
+        "label": "Orada düzeni bozup tahrip etmek için (çabalar) (سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا — lâm-ı ta'lîl ile mansûb IV. bab muzâri fiil, 3. tekil eril; 1 geçiş: 2:205)"
+      },
+      {
+        "lemma": ">afosadu",
+        "features_contains": [
+          "3MS"
+        ],
+        "label": "(Orada) düzeni bozup tahrip edecek (ve kan dökecek birini mi?) (أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا — sıla cümlesinde IV. bab merfû muzâri fiil, 3. tekil eril; 1 geçiş: 2:30)"
+      },
+      {
+        "lemma": ">afosadu",
+        "features_contains": [
+          "3MP",
+          "MOOD:SUBJ"
+        ],
+        "label": "(Yeryüzünde) düzeni bozup tahrip etmeleri için mi (Mûsâ ve kavmini bırakacaksın?) (أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ — lâm-ı ta'lîl ile mansûb IV. bab muzâri fiil, 3. çoğul eril; 1 geçiş: 7:127)"
+      },
+      {
+        "lemma": ">afosadu",
+        "features_contains": [
+          "3MP"
+        ],
+        "label": "(Yeryüzünde) düzeni ve dengeyi bozup tahrip ederler (وَيُفْسِدُونَ فِى ٱلْأَرْضِ [2:27, 13:25] / بِمَا كَانُوا۟ يُفْسِدُونَ [16:88] / يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ [26:152, 27:48] — IV. bab merfû muzâri fiil, 3. çoğul eril; 5 geçiş)"
+      },
+      {
+        "lemma": "mufosid",
+        "word_rasm": [
+          "ٱلمفسد"
+        ],
+        "label": "Düzeni bozup tahrip edeni (düzelticiden ayırt edip bilir) (وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ — يَعْلَمُ fiilinin mansûb mef'ûlü tekil IV. bab ism-i fâil; 1 geçiş: 2:220)"
+      },
+      {
+        "lemma": "mufosid",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "(Yeryüzünde) düzeni bozup tahrip edenlerin ta kendileridir / bozguncudurlar (أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ [2:12] / إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ [18:94] — inne'nin merfû haberi IV. bab çoğul ism-i fâil; 2 geçiş)"
+      },
+      {
+        "lemma": "mufosid",
+        "word_rasm": [
+          "مفسدين"
+        ],
+        "label": "Düzeni bozup tahrip edenler olarak (yeryüzünde taşkınlık yapmayın!) (وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ — تَعْثَوْا۟ fiilinin فâilinden mansûb hâl, IV. bab çoğul ism-i fâil; 5 geçiş: 2:60, 7:74, 11:85, 26:183, 29:36)"
+      },
+      {
+        "lemma": "mufosid",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Düzeni bozup tahrip edenleri (Allah sevmez) (وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ [5:64] / إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ [28:77] — يُحِبُّ fiilinin mansûb mef'ûlü IV. bab çoğul ism-i fâil; 2 geçiş)"
+      },
+      {
+        "lemma": "mufosid",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Düzeni bozup tahrip edenlerin / bozgunculara (عَلِيمٌۢ بِٱلْمُفْسِدِينَ [3:63] / أَعْلَمُ بِٱلْمُفْسِدِينَ [10:40] / عَٰقِبَةُ ٱلْمُفْسِدِينَ [7:86, 7:103, 27:14] / سَبِيلَ ٱلْمُفْسِدِينَ [7:142] / عَمَلَ ٱلْمُفْسِدِينَ [10:81] / مِنَ ٱلْمُفْسِدِينَ [10:91, 28:4] / ٱلْقَوْمِ ٱلْمُفْسِدِينَ [29:30] / كَٱلْمُفْسِدِينَ [38:28] — harf-i cerle, izâfetle veya sıfat olarak mecrûr IV. bab çoğul ism-i fâil; 11 geçiş)"
+      }
+    ],
+    "irab_default": "İç dengenin ve işlevselliğin bozulup çürümesi veya ıslah edilmiş düzeni dışarıdan tahrip etme (ف-س-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:251",
+          "21:22",
+          "23:71"
+        ],
+        "text": "Göklerin ve yerin iç dengesini çöküşten (فَسَدَ) koruyan üç kozmik-sosyolojik yasa: Göklerde ve yerde Allah'tan başka ilahlar bulunsaydı ikisinin de işleyiş düzeninin bozulup çökeceği (21:22), Hakikat insanların keyfî arzularına uysaydı göklerin, yerin ve içindekilerin bozulup çökeceği (23:71) ve Allah insanların bir kısmını diğerleriyle dengeleyip savmasaydı yeryüzünün tamamen bozulup çürüyeceği (2:251)."
+      },
+      {
+        "ayahs": [
+          "2:11",
+          "2:12",
+          "2:60",
+          "2:205",
+          "2:220",
+          "3:63",
+          "7:56",
+          "7:74",
+          "7:85",
+          "7:86",
+          "7:142",
+          "10:40",
+          "10:81",
+          "11:85",
+          "26:152",
+          "26:183",
+          "27:48",
+          "29:30",
+          "29:36",
+          "38:28"
+        ],
+        "text": "Islah edilmiş yeryüzü düzenini bozma yasağı ve Müfsid-Muslih (Bozguncu-Düzeltici) karşıtlığı: Yeryüzünde bozgunculuk yapmayın denildiğinde 'biz yalnızca düzelticileriz' diyenlerin gerçekte bozguncular olması (2:11-12), iş başına geçtiğinde ekini ve nesli yok etmek için çabalayanlarla yetim ve toplum işlerinde bozguncuyu düzelticiden ayıran ilahi ilim (2:205, 2:220), yeryüzü ıslah edildikten sonra orada bozgunculuk yapmama ve ölçü-tartıyı eksiltmeme emri (2:60, 7:56, 7:74, 7:85, 7:86, 7:142, 11:85, 26:152, 26:183, 27:48, 29:30, 29:36), Allah'ın bozguncuların işini onarmaması (10:81) ve güvenip düzeltici işler yapanların bozguncularla bir tutulmayacağı (3:63, 10:40, 38:28)."
+      },
+      {
+        "ayahs": [
+          "2:27",
+          "2:30",
+          "5:32",
+          "5:33",
+          "5:64",
+          "8:73",
+          "11:116",
+          "13:25",
+          "16:88",
+          "30:41",
+          "47:22"
+        ],
+        "text": "Ahdi bozma, haksız can kıyımı, savaş ateşi ve insan eliyle karada-denizde beliren yapısal çürüme (فَسَاد): Görevli güçlerin yeryüzünde bozgunculuk yapıp kan dökecek birine dair sorusu (2:30), kesin sözleşmeden sonra Allah'ın ahdini bozup birleştirilmesi emredilen bağları ve akrabalık ilişkilerini keserek yeryüzünde bozgunculuk yapanlar (2:27, 13:25, 16:88, 47:22), haksız yere cana kıymanın ve savaş ateşi yakıp yeryüzünde bozgunculuğa koşmanın ağırlığı (5:32, 5:33, 5:64), dayanışma eksikliğinin yol açacağı büyük bozulma ve bozgunculuktan sakındıran öncülerin önemi (8:73, 11:116) ile insanların kendi elleriyle yaptıkları yüzünden karada ve denizde bozulmanın (ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ) açığa çıkması (30:41)."
+      },
+      {
+        "ayahs": [
+          "7:103",
+          "7:127",
+          "10:91",
+          "12:73",
+          "17:4",
+          "18:94",
+          "27:14",
+          "27:34",
+          "28:4",
+          "28:77",
+          "28:83",
+          "40:26",
+          "89:12"
+        ],
+        "text": "Zorba iktidarların tahakkümü (عُلُوّ وَفَسَاد), bozgunculuk suçlamasının tersyüz edilmesi ve Ahiret Yurdu'nun ölçütü: Kralların bir kente girdiklerinde orayı bozup onurlu halkını zillete düşürmesi (27:34), Firavun'un halkı bölüp ezerek, Âd, Semûd ve azgınların beldelerde bozgunculuğu çoğaltarak yıkıma uğraması (7:103, 10:91, 17:4, 18:94, 27:14, 28:4, 89:12), bizzat bozguncu olan Firavun ve çevresinin Mûsâ'yı ve Yûsuf'un kardeşlerini 'yeryüzünde bozgunculuk çıkarmakla' suçlaması (7:127, 12:73, 40:26) ve Ahiret Yurdu'nun yeryüzünde ne üstünlük taslamayı (عُلُوًّا) ne de bozgunculuğu (وَلَا فَسَادًا) isteyenlere tahsis edilmesi (28:77, 28:83)."
+      }
+    ],
+    "context_default": "Bir sistemin iç dengesini ve işlevselliğini yitirip çürümesi veya ıslah edilmiş doğal ve toplumsal düzenin tahrip edilmesi mekanizması."
   }
 }
