@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 36 / 100 Kök (Toplam Mühürlü: 141 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 37 / 100 Kök (Toplam Mühürlü: 142 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -54,7 +54,7 @@
 | 34 | 137 | `ع-ق-ب` | `A-K-B` | **80** | 74 | 2:143 | Akıbet / İkâb / Topuk-Art ve Sarp Geçit (Ardışık Takip, Süreç Sonu Nihaî Sonuç, Denk Ardıl Yaptırım ve Dik Yokuş) | ✅ **MÜHÜRLÜ** |
 | 35 | 138 | `ع-ر-ض` | `A-R-D` | **79** | 72 | 2:31 | Arz / İ‘râd / Enine Genişlik ve Geçici Menfaat (Açıkça Önüne Serme, Yan Çevirip Mesafe Koyma ve Arızî Beliriş) | ✅ **MÜHÜRLÜ** |
 | 36 | 139 | `و-ج-ه` | `W-C-H` | **78** | 71 | 2:112 | Vech / Vichet / Vecîh (Ön Cephe, Yüz, Bilinçli Yönelim Ekseni, Saygınlık ve Kalıcı Öz Kimlik) | ✅ **MÜHÜRLÜ** |
-| 37 | 140 | `و-ح-ي` | `W-H-Y` | **78** | 70 | 3:44 | Analiz Bekliyor (>awoHaY`^, waHoY) | ⏳ *Bekliyor* |
+| 37 | 140 | `و-ح-ي` | `W-H-Y` | **78** | 70 | 3:44 | Vahy / Îhâ (Gizli, Hızlı ve Doğrudan Kanalla Bilgi, İşaret, Yasa veya Telkin Aktarımı) | ✅ **MÜHÜRLÜ** |
 | 38 | 141 | `ص-و-ب` | `S-W-B` | **77** | 56 | 2:19 | Analiz Bekliyor (>aSaAba, m~uSiybap, Say~ib) | ⏳ *Bekliyor* |
 | 39 | 142 | `ب-ل-غ` | `B-L-G` | **77** | 73 | 2:196 | Analiz Bekliyor (balaga, bala`g, bal~ago) | ⏳ *Bekliyor* |
 | 40 | 143 | `ق-ل-ل` | `K-L-L` | **76** | 74 | 2:41 | Analiz Bekliyor (qaliyl, >aqal~, qaliylap) | ⏳ *Bekliyor* |

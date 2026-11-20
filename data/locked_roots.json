@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 36/100 — Toplam 141 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 37/100 — Toplam 142 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -14677,6 +14677,88 @@
         "وِجْهَة (N - 1 geçiş)": "Her topluluğun yöneldiği istikamet ve amaç ekseni (2:148).",
         "وَجَّهَ / يُوَجِّه (Form II fiil - 2 geçiş)": "Yönelimini bütünüyle Yaratıcı'ya doğrultmak (6:79) veya bir kimseyi belirli bir işe/yöne göndermek (16:76).",
         "تَوَجَّهَ (Form V fiil - 1 geçiş)": "Yüzünü belirli bir hedefe çevirip o doğrultuda ilerlemek (28:22)."
+      }
+    },
+    "و-ح-ي": {
+      "root_latin": "W-H-Y (wHy)",
+      "arabic": "و-ح-ي",
+      "rank": 140,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "أوحى / فأوحى / وأوحى (harekesiz Rasm-ı Osmânî'de hem 3. tekil etken mâzi أَوْحَىٰ [8 geçiş: 14:13, 16:68, 17:39, 19:11, 41:12, 53:10 x2, 99:5] hem 3. tekil edilgen mâzi أُوحِىَ [11 geçiş: 6:19, 6:93, 6:106, 6:145, 11:36, 18:27, 20:48, 29:45, 39:65, 43:43, 72:1] birebir aynı 'أوحى' iskeletini taşır)",
+          "يوحى / فيوحى (hem etken muzâri يُوحِى [5 geçiş: 6:112, 8:12, 34:50, 42:3, 42:51] hem edilgen muzâri يُوحَىٰ [14 geçiş: 6:50, 7:203, 10:15, 10:109, 11:12, 18:110, 20:13, 20:38, 21:108, 33:2, 38:70, 41:6, 46:9, 53:4] özdeş 'يوحى' iskeletindedir; 6:93'te meczûm يُوحَ son illet harfi düşerek 'يوح' yazılmıştır)",
+          "نوحى / نوحيه / نوحيها (12:109, 16:43, 21:7'de noktasız iskelet Hafs etken نُوحِىٓ ile diğer kıraatlerdeki edilgen يُوحَىٰٓ okumasına açıktır)",
+          "أوحينا / أوحيت / ليوحون (24 geçiş أَوْحَيْنَآ, 1 geçiş أَوْحَيْتُ [5:111], 1 geçiş لَيُوحُونَ [6:121])",
+          "وحى / وحيا / بٱلوحى / وحيه / ووحينا (وَحْى — 6 isim/mastar geçişi: 11:37, 20:114, 21:45, 23:27, 42:51, 53:4)"
+        ],
+        "verb_forms_used": [
+          "Form IV (أَوْحَىٰ / يُوحِى / أُوحِىَ / يُوحَىٰ — 72 geçiş: 33 etken mâzi, 13 etken muzâri, 11 edilgen mâzi, 15 edilgen muzâri; Kur'an'da tüm fiil kullanımları yalnızca IV. babdadır, Form I fiil yoktur)"
+        ],
+        "preposition_patterns": [
+          "أَوْحَىٰ + إِلَىٰ (standart aktarım vektörü: bilgiyi, işareti, komutu veya telkini doğrudan muhataba — elçilere, annelere, havarilere, bal arısına, görevli elçilere, kavme ya da saptırıcı yandaşlara — gizlice ve hızla iletmek)",
+          "أَوْحَىٰ + فِى (41:12 وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا — her göğün kendi iç yapısına kozmik işleyiş buyruğunu kodlayıp yerleştirmek)",
+          "أَوْحَىٰ + لِـ (99:5 بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا — yeryüzüne harekete geçme talimatını doğrudan iletmek)",
+          "بِأَعْيُنِنَا وَوَحْيِنَا (11:37, 23:27 — gözetim ve doğrudan aktarılan yapım bilgisi eşliğinde)"
+        ],
+        "approx_frequency": "78 geçiş / 70 ayet (33 sure — referans amaçlı)"
+      },
+      "physical_core": "Başkasına bir bilgiyi, yönelimi, işareti veya buyruğu gizli, hızlı ve doğrudan bir kanalla aktarıp zihnine/yapısına yerleştirmek (İbn Fâris: ilkâu ilmin fî ihfâin ev gayrihî ilâ gayrike; Râgıb: el-işâretü's-serîa — konuşma olmadan hızlı işaret, içsel sezgi, fısıltı, yazı veya doğrudan komut aktarımı).",
+      "ibn_faris_asl": {
+        "text": "الْوَاوُ وَالْحَاءُ وَالْحَرْفُ الْمُعْتَلُّ: أَصْلٌ يَدُلُّ عَلَى إِلْقَاءِ عِلْمٍ فِي إِخْفَاءٍ أَوْ غَيْرِهِ إِلَى غَيْرِكَ. فَالْوَحْيُ: الْإِشَارَةُ، وَالْوَحْيُ: الْكِتَابُ وَالرِّسَالَةُ، وَكُلُّ مَا أَلْقَيْتَهُ إِلَى غَيْرِكَ حَتَّى عَلِمَهُ فَهُوَ وَحْيٌ كَيْفَ كَانَ.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (وحي maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökü tek bir asla bağlar: Bir bilgiyi gizlilik içinde (veya doğrudan özel kanalla) bir başkasına aktarmak. İşaret, yazı, mesaj ve muhatabın bilmesi için ona aktarılan her iletinin hangi biçimde olursa olsun 'vahy' sayıldığını kesinler.",
+        "lisan_al_arab": "İbn Manzûr, 'vahy'in işaret, yazı, mesaj, içsel yönlendirme, gizli konuşma, hız ve muhataba aktarılan her türlü bilgi anlamına geldiğini; hem insanın el-kol işaretini hem yazılı belgeyi hem de gizli iletişimi kapsadığını belgeler.",
+        "ragib_mufredat": "Râgıb, kökün temel fiziksel çekirdeğinin 'hızlı işaret' (el-işâretü's-serîa) olduğunu vurgular; bu hız ve gizlilik sebebiyle remiz, ima, salt ses, organ işareti (19:11'de Zekeriyya'nın kavmine işareti) ve içsel bilgi aktarımının tümünün bu kökten türediğini gösterir.",
+        "arbitration_decision": "Kur'an'ın kendi metin içi dağılımı (19:11 konuşamayan Zekeriyya'nın hızlı işareti, 16:68 bal arısına içgüdü kodlaması, 41:12 göklere kozmik yasa verilmesi, 99:5 yeryüzüne talimat, 20:38 & 28:7 Musa'nın annesine içsel yönlendirme, 6:112 & 6:121 saptırıcıların süslü aldatıcı telkinleri ve 42:51 iletişim kanalları tasnifi) karşısında, 'vahiy'i yalnızca kutsal kitap indirmeye daraltan geleneksel terim kalıbı elenir. İbn Fâris ve Râgıb'ın birleştirdiği 'gizli, hızlı ve doğrudan kanalla bilgi, işaret veya işleyiş buyruğu aktarma' tek çekirdeği mühürlenir."
+      },
+      "semitic_cognates": {
+        "sabaic_and_esa": "Eski Güney Arapça (Sebece) yazıtlarda wḥy biçimi tespit edilmekle birlikte 'tamamlamak/sonuçlandırmak' gibi farklı bağlamlarda belgelenmiştir; Arapçadaki 'gizli/hızlı bilgi aktarımı' uzmanlaşmasıyla doğrudan örtüşme kesin değildir.",
+        "hebrew": "Kitâb-ı Mukaddes İbranicesinde doğrudan *w-ḥ-y eşkökenlisi tespit edilmedi ('açığa çıkarma/bildirme' için g-l-h ve n-b-ʾ kökleri kullanılır).",
+        "aramaic_and_syriac": "Doğrudan *w-ḥ-y eşkökenlisi tespit edilmedi. Aramice/Süryanice ḥ-w-y (ḥawwî: 'göstermek, bildirmek') köküyle olası ünsüz yer değiştirmesi (metatez) bazı filologlarca yalnızca ihtiyatlı bir hipotez olarak tartışılmıştır.",
+        "akkadian": "Doğrudan eşkökenli tespit edilmedi.",
+        "geez": "Leslau'nun karşılaştırmalı çerçevesinde Klasik Ge'ez'de Arapçadaki 'gizli/hızlı aktarım' anlamıyla birebir örtüşen yerleşik eşkökenli doğrulanamadı.",
+        "note": "و-ح-ي kökü, İslam öncesi Arapça şiir ve nesirde 'hızlı işaret, yazı, gizli ses ve doğrudan bilgi aktarımı' anlamıyla yüksek özgünlük kazanmış Arapça merkezli bir çekirdektir; diğer Sami dillerindeki paralel iddialar zorlama olmadan dürüstçe ayrıştırılmıştır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ه-و-ي & ف-ر-ي & ج-ب-ي (Kişisel Arzu/Heves, Yalan Uydurma ve Keyfî Değiştirme ↔ Kaynaktan Gelen Gerçek Bilgi Aktarımı: 6:93, 7:203, 10:15, 17:73, 53:3-4)",
+          "ع-ج-ل (Aktarım Tamamlanmadan Acele Etmek ↔ Aktarımın Eksiksiz Tamamlanmasını Beklemek: 20:114)",
+          "أَوْحَىٰ رَبُّكَ ↔ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ (Aynı Kök İçi Özne Zıtlığı: Hakikat ve Yaşam Yasası Aktarımı ↔ Saptırıcıların Aldatıcı Fısıltı Aktarımı: 6:112, 6:121)"
+        ],
+        "key_ayahs": [
+          "53:3-4 (وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ)",
+          "6:93 (أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ)",
+          "10:15 (مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ)",
+          "6:112 (يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا)"
+        ],
+        "reverse_stress_test": "ه-و-ي ('kişisel arzudan konuşmak'), ف-ر-ي ('kendi zihninden yalan uydurmak') ve ب-د-ل مِن تِلْقَآئِ نَفْسِى ('kendi keyfine göre değiştirmek') köklerinin Kur'an'daki tüm kullanımları tersine çevrildiğinde, istisnasız 'kişinin kendi kurgusu olmayan, dış/üst bir kaynaktan gizli, hızlı ve doğrudan kanalla aktarılan bilgi, işaret veya buyruk' çekirdeği sıfır çelişkiyle doğrulanır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "يُكَلِّمَهُ (K-L-M) vs وَحْيًا (W-H-Y) vs مِن وَرَآئِ حِجَابٍ vs يُرْسِلَ رَسُولًا فَيُوحِىَ [42:51]",
+          "أُوحِىَ (W-H-Y) vs أَنزَلَ (N-Z-L) [6:93]",
+          "أَوْحَيْنَآ (W-H-Y) vs وَصَّىٰ (W-S-Y) vs شَرَعَ (S-R-A) [42:13]",
+          "بِأَعْيُنِنَا (A-Y-N) vs وَوَحْيِنَا (W-H-Y) [11:37, 23:27]",
+          "نُوحِيهِ (W-H-Y) vs أَنۢبَآءِ ٱلْغَيْبِ (N-B-E / G-Y-B) [3:44, 11:49, 12:102]"
+        ],
+        "mechanical_difference": "42:51'de تَكْلِيم insanla kurulan genel ilâhî iletişim çatısı; وَحْيًا bunun 1. yolu olan aracısız ve hızlı içsel bilgi aktarımı; مِن وَرَآئِ حِجَابٍ perde ardından işitilen hitap; يُرْسِلَ رَسُولًا فَيُوحِىَ ise elçi aracılığıyla aktarımdır. 6:93'te أَوْحَىٰ bilginin muhataba gizli ve hızlı kanalla doğrudan iletilmesi, أَنزَلَ ise üst makamdan insanlık düzeyine indirilmesidir. 42:13'te شَرَعَ açık hayat yolunu tesis etmek, وَصَّىٰ sorumluluk olarak tembih etmek, أَوْحَىٰ bu mesajı gizli ve doğrudan kanalla aktarmaktır. 11:37 ve 23:27'de بِأَعْيُنِنَا sürekli gözetim ve koruma, وَوَحْيِنَا ise doğrudan aktarılan teknik yapım bilgisidir."
+      },
+      "anchor_ayahs": [
+        "19:11 (فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا — konuşma engeli olan Zekeriyya'nın kavmine hızlı işaret/sembolle bildirim çıpası)",
+        "16:68 (وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ — bal arısına doğuştan biyolojik yönelim ve kovan programı kodlama çıpası)",
+        "41:12 & 99:5 (وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا / بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا — göklere ve yeryüzüne kozmik/jeolojik işleyiş yasası aktarma çıpası)",
+        "6:112 & 6:121 (يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا — saptırıcı güçlerin birbirine gizli ve aldatıcı telkin aktarması çıpası)",
+        "20:38 & 28:7 & 5:111 (أَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ / أَوْحَيْتُ إِلَى ٱلْحَوَارِيِّۦنَ — elçi olmayan insanlara doğrudan içsel yönlendirme aktarımı çıpası)",
+        "42:51 & 53:4 (إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ / إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ — ilâhî bilgi aktarımının üç kanalını tanımlayan sistemik çıpa)"
+      ],
+      "unified_core_mechanism": "Bir bilgiyi, işareti, yönelimi, telkini veya işleyiş buyruğunu doğrudan, gizli ve hızlı bir kanalla muhatabın zihnine, algısına yahut yapısal düzenine aktarmak.",
+      "grammar_and_branch_rules": "1) Form IV etken fiil أَوْحَىٰ / أَوْحَيْنَا / نُوحِى / يُوحِى / لَيُوحُونَ (46 geçiş): Özneye ve harf-i cerre göre tek çekirdeğin tam çalışması — özne Yaratıcı olduğunda göklere (`فِى`, 41:12) ve yere (`لِـ`, 99:5) kozmik yasa, bal arısına (`إِلَىٰ`, 16:68) biyolojik program, annelere/havarilere (`إِلَىٰ`, 5:111, 20:38, 28:7) içsel yönlendirme, görevli elçilere (`إِلَىٰ`, 8:12) destek buyruğu ve insan elçilere (`إِلَىٰ`) kitap/hikmet/haber aktarımı; özne insan olduğunda (19:11) hızlı sessiz işaret; özne saptırıcılar olduğunda (6:112, 6:121) gizli aldatıcı fısıltı ve telkin. 2) Form IV edilgen fiil أُوحِىَ / يُوحَىٰ / لَمْ يُوحَ (26 geçiş): Kendisine dış kaynaktan doğrudan aktarılan mesaj, hüküm veya bilgi (elçinin tek bağlılık ölçütü: إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ). 3) Mastar/isim وَحْى (6 geçiş: 11:37, 20:114, 21:45, 23:27, 42:51, 53:4): Gizli ve hızlı doğrudan bilgi/talimat aktarımının kendisi.",
+      "derivatives": {
+        "أَوْحَىٰ / أَوْحَيْنَا / نُوحِى / يُوحِى / لَيُوحُونَ (Form IV etken fiil - 46 geçiş)": "Doğrudan, gizli ve hızlı kanalla bilgi, kitap, haber, kozmik yasa (41:12, 99:5), biyolojik içgüdü (16:68), içsel yönlendirme (5:111, 20:38, 28:7), sessiz işaret (19:11) veya aldatıcı telkin (6:112, 6:121) aktarmak.",
+        "أُوحِىَ / يُوحَىٰ / لَمْ يُوحَ (Form IV edilgen fiil - 26 geçiş)": "Doğrudan ve gizli kanalla elçiye veya muhataba aktarılan bilgi, kitap, ilke ve mesaj (6:19, 6:50, 6:93, 18:27, 46:9, 53:4).",
+        "وَحْى (N / mastar - 6 geçiş)": "Hızlı, gizli ve doğrudan bilgi/talimat aktarımı ve bu kanalla gelen mesaj (11:37, 20:114, 21:45, 23:27, 42:51, 53:4)."
       }
     }
   }

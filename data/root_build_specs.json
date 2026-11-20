@@ -905,5 +905,171 @@
       }
     ],
     "context_default": "Bir varlığın, insanın veya zamanın karşı tarafa dönük ön cephesi, bilinçli yönelim doğrultusu ve öz kimliği."
+  },
+  "و-ح-ي": {
+    "buckwalter": "wHy",
+    "slug": "vahy_aktarim_why",
+    "concept_name": "Vahy / Îhâ (Gizli, Hızlı ve Doğrudan Kanalla Bilgi, İşaret, Yasa veya Telkin Aktarımı)",
+    "keywords": [
+      "vahy",
+      "vahiy",
+      "iha",
+      "aktarim",
+      "isaret",
+      "telkin",
+      "yasa",
+      "bildirim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">awoHaY`^",
+        "features_contains": [
+          "PERF",
+          "PASS"
+        ],
+        "label": "Doğrudan aktarıldı / gizli kanalla iletildi (أُوحِىَ — IV. bab edilgen mâzi fiil; elçiye iletilen kitap, bilgi veya ilke)"
+      },
+      {
+        "lemma": ">awoHaY`^",
+        "features_contains": [
+          "IMPF",
+          "PASS",
+          "JUS"
+        ],
+        "label": "Aktarılmadı / hiçbir bildirim iletilmedi (لَمْ يُوحَ — IV. bab meczûm edilgen muzâri fiil; sahte aktarım iddiasının çürütülmesi)"
+      },
+      {
+        "lemma": ">awoHaY`^",
+        "features_contains": [
+          "IMPF",
+          "PASS"
+        ],
+        "label": "Doğrudan aktarılıyor / gizli kanalla iletiliyor (يُوحَىٰ — IV. bab edilgen muzâri fiil; elçinin tabi olduğu tek bilgi kaynağı)"
+      },
+      {
+        "lemma": ">awoHaY`^",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Doğrudan aktardı / hızlı işaretle bildirdi / kodladı (أَوْحَىٰ / أَوْحَيْنَا / أَوْحَيْتُ — IV. bab etken mâzi fiil; bilgi, yasa, içgüdü veya işaret aktarımı)"
+      },
+      {
+        "lemma": ">awoHaY`^",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Doğrudan aktarıyor / gizlice telkin ediyor (نُوحِى / يُوحِى / لَيُوحُونَ — IV. bab etken muzâri fiil; haber/mesaj veya saptırıcı telkin aktarımı)"
+      },
+      {
+        "lemma": "waHoY",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Doğrudan gizli bilgi aktarımı yoluyla (وَحْيًا — mansûb mastar; 42:51'de insanla kurulan aracısız ve hızlı iletişim kanalı)"
+      },
+      {
+        "lemma": "waHoY",
+        "label": "Doğrudan bilgi / talimat aktarımı (وَحْى / وَحْيِنَا / وَحْيُهُۥ — isim/mastar; gözetim eşliğindeki yapım bilgisi veya aktarılan mesaj)"
+      }
+    ],
+    "irab_default": "Gizli, hızlı ve doğrudan kanalla bilgi, işaret, yasa veya telkin aktarımı (و-ح-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "8:12",
+          "16:68",
+          "19:11",
+          "41:12",
+          "99:5"
+        ],
+        "text": "Hızlı işaret, kozmik yasa ve biyolojik program aktarımı: Konuşamayan Zekeriyya'nın kavmine hızlı işaretle bildirmesi (19:11), bal arısına kovan ve bal üretimi içgüdüsünün kodlanması (16:68), her göğün içine kendi işleyiş buyruğunun yerleştirilmesi (41:12), yeryüzüne sarsılış talimatının verilmesi (99:5) ve görevli elçilere destek buyruğunun aktarılması (8:12)."
+      },
+      {
+        "ayahs": [
+          "5:111",
+          "20:38",
+          "28:7"
+        ],
+        "text": "Elçi olmayan insanlara doğrudan içsel yönlendirme aktarımı: Musa'nın annesine bebeğini koruma ve suya bırakma güveninin doğrudan içsel kanalla verilmesi (20:38, 28:7) ile havarilerin kalbine güven ve teslimiyet çağrısının iletilmesi (5:111)."
+      },
+      {
+        "ayahs": [
+          "6:93",
+          "6:112",
+          "6:121"
+        ],
+        "text": "Saptırıcı güçlerin gizli telkin aktarımı ve sahte bildirim iddiası: İnsan ve görünmez saptırıcıların birbirine ve yandaşlarına aldatıcı süslü sözler fısıldayıp aktarması (6:112, 6:121) ile kendisine hiçbir aktarım yapılmadığı hâlde 'bana aktarıldı' diye yalan uyduranın ağır sorumluluğu (6:93)."
+      },
+      {
+        "ayahs": [
+          "3:44",
+          "7:117",
+          "7:160",
+          "10:87",
+          "11:36",
+          "11:37",
+          "11:49",
+          "12:3",
+          "12:15",
+          "12:102",
+          "14:13",
+          "20:13",
+          "20:48",
+          "20:77",
+          "21:73",
+          "23:27",
+          "26:52",
+          "26:63",
+          "72:1"
+        ],
+        "text": "Elçilere tarihsel eylem talimatı ve gözlem dışı haber aktarımı: Nuh'a gemi yapımı bilgisi (11:36-37, 23:27), Musa'ya kriz anlarında asasını bırakma, kayaya vurma ve gece çıkış talimatları (7:117, 7:160, 10:87, 20:13,48,77, 26:52,63), kuyudaki Yusuf'a güven bildirimi (12:15), iyilik önderlerine hayır eylemleri aktarımı (21:73) ve gözlem dışı tarihsel haberlerin elçiye doğrudan iletilmesi (3:44, 11:49, 12:3,102, 14:13, 72:1)."
+      },
+      {
+        "ayahs": [
+          "4:163",
+          "6:19",
+          "6:50",
+          "6:106",
+          "6:145",
+          "7:203",
+          "10:2",
+          "10:15",
+          "10:109",
+          "11:12",
+          "12:109",
+          "13:30",
+          "16:43",
+          "16:123",
+          "17:39",
+          "17:73",
+          "17:86",
+          "18:27",
+          "18:110",
+          "20:114",
+          "21:7",
+          "21:25",
+          "21:45",
+          "21:108",
+          "29:45",
+          "33:2",
+          "34:50",
+          "35:31",
+          "38:70",
+          "39:65",
+          "41:6",
+          "42:3",
+          "42:7",
+          "42:13",
+          "42:51",
+          "42:52",
+          "43:43",
+          "46:9",
+          "53:4",
+          "53:10"
+        ],
+        "text": "Evrensel teklik mesajı, kitap, hikmet ve ilâhî iletişim kanalları: Tüm elçilere aynı ortak öz ve teklik ilkesinin doğrudan aktarılması (4:163, 21:25, 42:3,13), elçinin kendi hevesinden konuşmayıp yalnız aktarılan mesaja tabi olması (6:50, 10:15, 18:110, 46:9, 53:4), aktarımın tamamlanmasında acele edilmemesi (20:114) ve Yaratıcı'nın insanla kurduğu üç iletişim kanalının sistemik tanımı (42:51-52)."
+      }
+    ],
+    "context_default": "Bir bilgiyi, işareti, yönelimi, telkini veya işleyiş buyruğunu gizli, hızlı ve doğrudan bir kanalla muhataba aktarma mekanizması."
   }
 }
