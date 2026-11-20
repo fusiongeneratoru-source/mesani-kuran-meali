@@ -7272,5 +7272,149 @@
       }
     ],
     "context_default": "Ateş potasında cevheri cüruftan ayırır gibi insanın iç özünü açığa çıkaran sınama, baskı veya ayartma mekanizması."
+  },
+  "ف-ر-ي": {
+    "buckwalter": "fry",
+    "slug": "iftira_feriyy_mufteri_uydurmak_kesip_bicmek_fry",
+    "concept_name": "İftirâ / Feriyy / Müfterî ve Müfterâ (Deriyi Kesip Biçmekten Dayanaksız Söz, Kural ve Ortak Uydurmaya)",
+    "keywords": [
+      "iftira",
+      "feriyy",
+      "mufteri",
+      "muftera",
+      "uydurmak",
+      "kesip_bicmek",
+      "isnat",
+      "yalan"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fariy~",
+        "label": "Alışılmış düzeni yırtıp yaran şaşırtıcı/büyük bir şey (شَيْـًٔا فَرِيًّا — I. bab mansûb sıfat; 19:27)"
+      },
+      {
+        "lemma": "yafotariy",
+        "label": "Elleri ve ayakları arasında sıfırdan kurgulayıp uydurdukları (يَفْتَرِينَهُۥ — VIII. bab cem-i müennes muzâri fiil [korpusta yafotariy lemmasıyla kayıtlı]; 60:12)"
+      },
+      {
+        "lemma": "{fotiraA^'",
+        "label": "Allah'a karşı kendi kafalarından uydurma olarak (ٱفْتِرَآءً عَلَى ٱللَّهِ — VIII. bab mansûb masdar; 2 geçiş: 6:138, 6:140)"
+      },
+      {
+        "lemma": "mufotar",
+        "label": "Kendi kafasından uyduran biri (مُفْتَرٍۭ — VIII. bab tekil ism-i fâil; 16:101)"
+      },
+      {
+        "lemma": "mufotaruwn",
+        "label": "Yalan ve sahte sığınak uyduranlar (ٱلْمُفْتَرِينَ 7:152, مُفْتَرُونَ 11:50 — VIII. bab çoğul ism-i fâil; 2 geçiş)"
+      },
+      {
+        "lemma": "m~ufotarFY",
+        "label": "Kafadan biçilip uydurulmuş (مُّفْتَرًى — VIII. bab eril tekil ism-i mef'ûl; 2 geçiş: 28:36, 34:43)"
+      },
+      {
+        "lemma": "mufotaraya`t",
+        "label": "Kafadan biçilip uydurulmuş olanlar (مُفْتَرَيَٰتٍ — VIII. bab dişil çoğul ism-i mef'ûl; 11:13)"
+      },
+      {
+        "lemma": "{fotaraY`",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Kafadan biçilip uydurulması / uydurulabilen (يُفْتَرَىٰ — VIII. bab edilgen muzâri; 2 geçiş: 10:37, 12:111)"
+      },
+      {
+        "lemma": "{fotaraY`",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Kendi kafasından kesip biçerek uydurdu / iftira etti (ٱفْتَرَىٰ / ٱفْتَرَىٰهُ / ٱفْتَرَيْنَا / ٱفْتَرَيْتُهُۥ / أَفْتَرَىٰ — VIII. bab etken mâzi; 25 geçiş)"
+      },
+      {
+        "lemma": "{fotaraY`",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Kendi kafalarından uyduruyorlar / uydurmanız için / uydurmayın (يَفْتَرُونَ / تَفْتَرُونَ / يَفْتَرِى / لِّتَفْتَرُوا۟ / لِتَفْتَرِىَ / تَفْتَرُوا۟ — VIII. bab etken muzâri; 23 geçiş)"
+      }
+    ],
+    "irab_default": "Alışılmış dokuyu kesip yarmak veya gerçekte aslı olmayan bir sözü/hükmü kendi kafasından kesip biçerek sıfırdan uydurmak (ف-ر-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "19:27",
+          "60:12"
+        ],
+        "text": "I. bab fiziksel 'kesip yarma' çıpası ve aile hukukunda soy kurgusu: Meryem'in kavminin 'alışılmış düzeni yırtıp yaran çok şaşırtıcı/büyük bir şey getirdin (شَيْـًٔا فَرِيًّا)' sözü (19:27) ile biat sözleşmesinde kadınların elleri ve ayakları arasında sıfırdan kesip biçerek uydurdukları bir bühtanı (başkasından olan çocuğu) eşlerine yamamamaları ilkesi (60:12)."
+      },
+      {
+        "ayahs": [
+          "7:89",
+          "10:37",
+          "10:38",
+          "11:13",
+          "11:35",
+          "11:50",
+          "12:111",
+          "16:101",
+          "17:73",
+          "20:61",
+          "21:5",
+          "23:38",
+          "25:4",
+          "28:36",
+          "32:3",
+          "34:8",
+          "34:43",
+          "42:24",
+          "46:8"
+        ],
+        "text": "Vahye ve elçilere yöneltilen 'kafasından uydurdu' iddiası ve Kur'an'ın meydan okuması: Kur'an'ın Allah'tan başkası tarafından uydurulamayacağı, kendinden öncekini doğrulayan ve her şeyi açıklayan hakikat olduğu (10:37, 12:111, 32:3), 'onu kendisi uydurdu' diyenlere benzer uydurma on sure veya bir sure getirme meydan okuması ile elçinin 'uydurduysam suçu bana aittir' yanıtı (10:38, 11:13 [2x], 11:35 [2x], 16:101, 21:5, 25:4, 42:24, 46:8 [2x]), elçiyi vahiyden çelip başka bir şey uydurtma girişimi (17:73) ve Mûsâ, Hûd, Şu'ayb ile diriliş haberine yöneltilen iftira suçlamalarının reddi (7:89, 11:50, 20:61 [2x], 23:38, 28:36, 34:8, 34:43)."
+      },
+      {
+        "ayahs": [
+          "3:94",
+          "4:48",
+          "4:50",
+          "5:103",
+          "6:21",
+          "6:93",
+          "6:112",
+          "6:137",
+          "6:138",
+          "6:140",
+          "6:144",
+          "7:37",
+          "7:152",
+          "10:17",
+          "10:59",
+          "10:60",
+          "10:69",
+          "11:18",
+          "16:56",
+          "16:105",
+          "16:116",
+          "18:15",
+          "29:68",
+          "61:7"
+        ],
+        "text": "Allah adına delilsiz helal-haram kuralı, ortak ve sahte vahiy uydurma yasağı: Allah'a ortak koşmanın, O'na karşı yalan uydurmanın ve vahyedilmemişken 'bana vahyedildi' demenin en büyük zulüm ve ağır sapma olması (3:94, 4:48, 4:50, 6:21, 6:93, 7:37, 7:152, 10:17, 10:69, 11:18, 16:105, 18:15, 29:68, 61:7) ile Allah'ın indirdiği rızıklar, ekinler ve hayvanlar üzerinde ilâhî izin olmaksızın kendi dilleriyle 'şu haram, şu helal' diye kural biçip Allah'a yamama yasağı (5:103, 6:112, 6:137, 6:138 [2x], 6:140, 6:144, 10:59, 10:60, 16:56, 16:116 [2x])."
+      },
+      {
+        "ayahs": [
+          "3:24",
+          "6:24",
+          "7:53",
+          "10:30",
+          "11:21",
+          "16:87",
+          "28:75",
+          "29:13",
+          "46:28"
+        ],
+        "text": "Uydurulan kuruntuların ve sahte ortakların hesap gününde boşa çıkıp kaybolması: 'Ateş bize sayılı birkaç gün dışında değmez' uydurmasıyla yaşam sistemlerinde aldanmaları (3:24), uydurup durdukları kurgulardan sorguya çekilmeleri (29:13) ve hesap gününde kesin delil istendiğinde kendi aleyhlerine uydurdukları tüm sahte sığınakların ortadan kaybolup kendilerini yüzüstü bırakması (6:24, 7:53, 10:30, 11:21, 16:87, 28:75, 46:28)."
+      }
+    ],
+    "context_default": "Deriyi kesip biçer gibi gerçekte hiçbir dayanağı olmayan bir sözü, yasağı veya ortağı kendi kafasından sıfırdan uydurma mekanizması."
   }
 }

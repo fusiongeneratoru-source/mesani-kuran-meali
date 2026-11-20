@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 77 / 100 Kök (Toplam Mühürlü: 182 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 78 / 100 Kök (Toplam Mühürlü: 183 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -95,7 +95,7 @@
 | 75 | 179 | `م-س-س` | `M-S-S` | **61** | 57 | 2:80 | Mess / Temâss / Misâs (Doğrudan Dokunmak, Değip Etki Bırakmak, Darlık-İyilik Dokunuşu ve Karşılıklı Temas) | ✅ **MÜHÜRLÜ** |
 | 76 | 180 | `غ-ي-ب` | `G-Y-B` | **60** | 59 | 2:3 | Gayb / Ğuyûb / Ğâib / Ğayâbet ve İğtiyâb (Gözlem Ötesi Gizli Alan, Kuyu Dibi, Hazır Bulunmama ve Gıyapta Samimiyet) | ✅ **MÜHÜRLÜ** |
 | 77 | 181 | `ف-ت-ن` | `F-T-N` | **60** | 58 | 2:102 | Fitne / Fütûn / Fâtin ve Meftûn (Ateş Potasında Cevheri Cüruftan Ayıran Sınama, İnanç Baskısı, Ayartma ve Kargaşa) | ✅ **MÜHÜRLÜ** |
-| 78 | 182 | `ف-ر-ي` | `F-R-Y` | **60** | 54 | 3:24 | Analiz Bekliyor ({fotaraY`, {fotiraA^', mufotaruwn) | ⏳ *Bekliyor* |
+| 78 | 182 | `ف-ر-ي` | `F-R-Y` | **60** | 54 | 3:24 | İftirâ / Feriyy / Müfterî ve Müfterâ (Deriyi Kesip Biçmekten Dayanaksız Söz, Kural ve Ortak Uydurmaya) | ✅ **MÜHÜRLÜ** |
 | 79 | 183 | `ز-ك-و` | `Z-K-W` | **59** | 56 | 2:43 | Analiz Bekliyor (zakaw`p, zak~aY`, tazak~aY`) | ⏳ *Bekliyor* |
 | 80 | 184 | `ن-س-و` | `N-S-W` | **59** | 53 | 2:49 | Analiz Bekliyor (nisaA^') | ⏳ *Bekliyor* |
 | 81 | 185 | `ظ-ه-ر` | `Z-H-R` | **59** | 57 | 2:85 | Analiz Bekliyor (Zahor, Zahara, Za`hir) | ⏳ *Bekliyor* |
