@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 60/100 — Toplam 165 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 61/100 — Toplam 166 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -16657,6 +16657,89 @@
       "derivatives": {
         "كَسَبَ / يَكْسِبُ (Form I fiil - 62 geçiş)": "Emekle geçim/ürün elde etmek veya bilinçli niyet ve eylemle kendi hesabına hayır ya da kötülük bilançosu biriktirmek.",
         "ٱكْتَسَبَ (Form VIII fiil - 5 geçiş: 2:286, 4:32 [2x], 24:11, 33:58)": "Yoğun kişisel çaba, iradi yöneliş ve bizzat üstlenişle kendi hanesine kazanç payı veya ağır sorumluluk yazdırmak."
+      }
+    },
+    "و-ف-ي": {
+      "root_latin": "W-F-Y (wfy)",
+      "arabic": "و-ف-ي",
+      "rank": 165,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "توفىهم / توفته / توفتهم / توفيتنى / وتوفنا / توفنى / يتوفى / يتوفىكم / يتوفىهن / تتوفىهم / يتوفون / يتوفونهم / نتوفينك (24 geçiş — V. bab fiil; 4 geçişi edilgen: 2:234, 2:240, 22:5, 40:67) | متوفيك (3:55 — V. bab ism-i fâil)",
+          "أوفى / أوفوا / وأوفوا / فأوفوا / أوف / فأوف / يوفون / وليوفوا (18 geçiş — IV. bab fiil) | أوفى / ٱلأوفى (2 geçiş: 9:111, 53:41 — ism-i tafdîl) | وٱلموفون (2:177 — IV. bab ism-i fâil)",
+          "وفى / فوفىه / ووفيت / يوف / نوف / توفى / توفون / فيوفيهم / يوفيهم / ليوفيهم / وليوفيهم / ليوفينهم / يوفى (18 geçiş — II. bab fiil: 9 etken + 9 edilgen) | لموفوهم (11:109 — II. bab ism-i fâil)",
+          "يستوفون (83:2 — X. bab fiil يَسْتَوْفُونَ) | Resm ortaklığı: 3:76 ve 48:10 IV. bab mâzi أَوْفَىٰ, 12:59 muzâri أُوفِى ve 9:111 tafdîl أَوْفَىٰ aynı أوفى iskeletindedir; 2:234/2:240 edilgen يُتَوَفَّوْنَ ile 7:37 etken يَتَوَفَّوْنَهُمْ aynı يتوفون iskeletindedir"
+        ],
+        "verb_forms_used": [
+          "Form II (وَفَّىٰ / يُوَفِّى / تُوَفَّىٰ — 18 geçiş: 9 etken + 9 edilgen; her bireye amelinin, emeğinin veya hesabının karşılığını zerre eksiltmeden tastamam ödemek; 53:37 İbrahim'in tüm sorumluluklarını eksiksiz tamamlaması)",
+          "Form IV (أَوْفَىٰ / يُوفِى / أَوْفُوا۟ — 18 geçiş: ölçü kabını/teraziyi tam doldurmak ve sözleşme, ahit, biat ile adağı eksiksiz yerine getirmek)",
+          "Form V (تَوَفَّىٰ / يَتَوَفَّىٰ / يُتَوَفَّىٰ — 24 geçiş: canı ve bilinci süresi dolduğunda veya uyku hâlinde hiçbir parçası eksik kalmadan bütünüyle teslim almak)",
+          "Form X (يَسْتَوْفُونَ — 1 geçiş: 83:2; insanlardan ölçerek alırken hakkını zerresini bırakmadan tam talep etmek)"
+        ],
+        "preposition_patterns": [
+          "أَوْفُوا۟ + ٱلْكَيْلَ وَٱلْمِيزَانَ / ٱلْمِكْيَالَ (6:152, 7:85, 11:85, 12:59, 12:88, 17:35, 26:181 — ölçü ve tartıyı noksansız tam doldurmak)",
+          "أَوْفَىٰ + بِٱلْعَهْدِ / بِعَهْدِ ٱللَّهِ / بِٱلْعُقُودِ / بِٱلنَّذْرِ (2:40, 2:177, 3:76, 5:1, 6:152, 9:111, 13:20, 16:91, 17:34, 22:29, 48:10, 76:7 — sözleşmeyi ve adağı tam yerine getirmek)",
+          "تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ / مَا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ (2:272, 2:281, 3:25, 3:161, 8:60, 16:111, 39:70, 46:19 — haksızlık yapılmaksızın tam karşılık ödenmesi)",
+          "يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا / يَتَوَفَّىٰكُم بِٱلَّيْلِ (6:60, 39:42 — uykuda geçici, ölümde kalıcı olarak bilincin tam teslim alınması)"
+        ],
+        "approx_frequency": "66 geçiş / 64 ayet (27 sure — referans amaçlı)"
+      },
+      "physical_core": "Ölçü kabını, teraziyi, süreyi veya bir borcu hiçbir eksiği kalmaksızın ağzına kadar eksiksiz doldurmak ve hakkı bütünüyle teslim etmek/teslim almak (6:152 aynı ayette hem ölçü-tartıyı tam doldurmak أَوْفُوا۟ ٱلْكَيْلَ hem ahdi tamamlamak وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟; 83:2 alırken ölçüyü tam istemek يَسْتَوْفُونَ; 39:42 uykuda ve ölümde canı tam teslim almak يَتَوَفَّى; İbn Fâris'in tek aslı: إِكْمَالٌ وَإِتْمَامٌ).",
+      "ibn_faris_asl": {
+        "text": "الْوَاوُ وَالْفَاءُ وَالْيَاءُ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى إِكْمَالٍ وَإِتْمَامٍ.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (وفي maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökü tek ve sağlam bir asılda toplar: 'Noksansız tamamlamak ve kemale erdirmek' (إِكْمَالٌ وَإِتْمَامٌ). Ahdi tamamlamaya وَفَاء, borcu tam ödemeye أَوْفَيْتُكَ الشَّيْءَ, hiçbir parça bırakmadan bütünüyle teslim almaya ise تَوَفَّيْتُهُ وَاسْتَوْفَيْتُهُ denildiğini ve Allah'ın canı tam teslim almasının (تَوَفَّاهُ اللَّهُ) bu kökten geldiğini açıklar.",
+        "lisan_al_arab": "İbn Manzûr, dirhemin tartısı ne eksik ne fazla tam geldiğinde الدِّرْهَمُ الْوَافِى denildiğini, تَوَفَّى الْمُدَّةَ ifadesinin 'süreyi sonuna dek doldurup tamamlamak' ve تَوَفَّاهُ وَاسْتَوْفَاهُ'nun 'ondan hiçbir şey geride bırakmadan tamamını teslim almak' olduğunu belgeler.",
+        "ragib_mufredat": "Râgıb el-İsfahânî, وَفَاء'ın 'hakkı eksiksiz tam vermek', تَوَفِّى'nin ise 'bir şeyi eksiği kalmadan tam teslim almak' (أَخْذُ الشَّيْءِ اسْتِيفَاءً) olduğunu vurgular ve 6:60 ile 39:42 ayetlerini kanıt göstererek تَوَفِّى'nin mutlak anlamda 'ölüm' (مَوْت) ile eşanlamlı olmadığını, uyuyan kişinin bilincinin de ölmeksizin geçici olarak tam teslim alındığını kaydeder.",
+        "arbitration_decision": "İbn Fâris'in tek aslı ('ikmâl ve itmâm'), Râgıb'ın تَوَفِّى ile مَوْت arasındaki kesin ayrımı, Güney Sami şahitliği (Sebece wfy, Ge'ez wafaya) ve 6:152 ile 39:42 çıpaları dört babı tek mekanizmada mühürler: 'eksiksiz doldurup tamamlamak (IV), karşılığı zerre eksiltmeden ödemek (II), süresi dolan canı/bilinci uyku veya ölümde bütünüyle teslim almak (V) ve hakkı tam ölçerek teslim almak (X)'."
+      },
+      "semitic_cognates": {
+        "hebrew": "İbranicede borç/sözleşme tamamlama alanı ağırlıklı olarak š-l-m (שָׁלֵם) köküyle karşılanır; doğrudan *w-p-y kökü Kuzeybatı Samide bu anlamda üretken değildir.",
+        "aramaic_and_syriac": "Aramice ve Süryanicede tamamlama ve eksiksiz ödeme alanı yine ağırlıklı olarak š-l-m köküyle yürütülür; *w-p-y çekirdeği Güney-Merkezi Sami kolunda yoğunlaşmıştır.",
+        "akkadian": "CAD A/2 & W kayıtlarında Akadca wapû / apû ('belirmek, ortaya çıkmak, parlamak') fonetik olarak *w-p-y iskeletine paralel görünse de anlamca 'görünür kılma' yönüne ayrışmıştır.",
+        "geez_and_esa": "Eski Güney Arapça (Sebece) wfy (𐩥𐩰𐩺: 'bütünlük, esenlik, eksiksiz koruma ve adağı/yükümlülüğü tam yerine getirme' — Arapça وَفَاء ile doğrudan paralel); Klasik Ge'ez wafaya (ወፈየ: 'teslim etmek, vermek, ödeme veya adak sunmak').",
+        "note": "Ortak *w-p-y / *w-f-y kökü özellikle Güney ve Merkezi Sami (Arapça, Sebece, Ge'ez) hattında 'bütünlük, eksiksiz doldurma, ödeme ve tam teslim etme/alma' çekirdeğini kristal berraklığında korumuştur."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ب-خ-س & خ-س-ر (Ölçüyü Kırpıp Eksiltmek وَلَا تَبْخَسُوا۟ / ٱلْمُخْسِرِينَ / يُخْسِرُونَ ↔ Ölçüyü Tam Doldurmak أَوْفُوا۟ ٱلْكَيْلَ / يَسْتَوْفُونَ: 7:85, 11:15,85, 26:181, 83:2-3)",
+          "ن-ق-ض & ن-ك-ث (Ahdi ve Sözleşmeyi Bozup Çözmek وَلَا يَنقُضُونَ / فَمَن نَّكَثَ ↔ Ahdi Tam Yerine Getirmek يُوفُونَ / أَوْفَىٰ: 13:20, 16:91, 48:10)",
+          "ن-ق-ص & ظ-ل-م (Eksiltme ve Haksızlık غَيْرَ مَنقُوصٍ / لَا يُظْلَمُونَ ↔ Karşılığı Tastamam Ödemek لَمُوَفُّوهُمْ / تُوَفَّىٰ: 2:272,281, 3:25,161, 8:60, 11:109, 16:111, 46:19)",
+          "ب-ع-ث & إِرْسَال (Uykudan Yeniden Uyandırmak veya Salıvermek يَبْعَثُكُمْ / وَيُرْسِلُ ٱلْأُخْرَىٰ ↔ Geceleyin/Uykuda Teslim Almak يَتَوَفَّىٰكُم / يَتَوَفَّى: 6:60, 39:42)"
+        ],
+        "key_ayahs": [
+          "6:152 (وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ... وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟)",
+          "11:109 & 11:15 (لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ / نُوَفِّ إِلَيْهِمْ أَعْمَٰلَهُمْ فِيهَا وَهُمْ فِيهَا لَا يُبْخَسُونَ)",
+          "83:2-3 (إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ)",
+          "39:42 & 6:60 (ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا)"
+        ],
+        "reverse_stress_test": "Eksiltme (بَخْس / نَقْص / تَخْسِير), sözleşme çözme (نَقْض / نَكْث) ve uykudan geri salıverme (إِرْسَال / بَعْث) kavramları tersine çevrildiğinde, istisnasız 'eksiksiz doldurma, tam ödeme ve bütünüyle teslim alma' çekirdeği sıfır çelişkiyle doğrulanır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "تَوَفَّىٰ (W-F-Y) vs مَوْت (M-W-T) & إِمْسَاك (M-S-K) [4:15, 6:61, 39:42]",
+          "أَوْفُوا۟ ٱلْكَيْلَ (fiziksel ölçü) vs بِعَهْدِ ٱللَّهِ أَوْفُوا۟ (sözleşme) [6:152]",
+          "أَوْفَىٰ (W-F-Y) vs زِنُوا۟ (W-Z-N) [17:35]",
+          "يُوَفِّيهِمْ (W-F-Y) vs يَزِيدُهُمْ مِن فَضْلِهِۦ (Z-Y-D) [4:173, 35:30]",
+          "مُتَوَفِّيكَ (W-F-Y) vs رَافِعُكَ (R-F-A) [3:55]"
+        ],
+        "mechanical_difference": "39:42'de تَوَفَّىٰ bilincin/canın uykuda veya ölümde tam teslim alınması, مَوْت biyolojik hayatın sona ermesi, إِمْسَاك ise teslim alınan canın artık geri gönderilmeyip alıkonulmasıdır. 6:152'de aynı أَوْفُوا۟ fiili hem fiziksel ölçeği ağzına kadar doldurmayı hem Allah'ın ahdini eksiksiz tamamlamayı birleştirir. 17:35'te أَوْفُوا۟ ٱلْكَيْلَ hacim ölçeğini tam doldurmayı, زِنُوا۟ ise doğru teraziyle ağırlık ölçmeyi ayırır. 4:173 ve 35:30'da يُوَفِّيهِمْ hak edilen karşılığı eksiksiz ödemeyi, يَزِيدُهُمْ ise hak edilenin de ötesinde lütuf eklemeyi belirtir. 3:55'te مُتَوَفِّيكَ İsa'nın dünyadaki ömür/görev süresini eksiksiz tamamlayıp teslim almayı, رَافِعُكَ ise onu yadsıyanların tuzağından yüce makama yükseltmeyi ifade eder."
+      },
+      "anchor_ayahs": [
+        "6:152 & 7:85 & 11:85 & 17:35 & 83:2 (وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ ... وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ / إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ — kökün fiziksel ölçü doldurma ile ahlaki sözleşme sadakatini tek çizgide birleştiren baş çıpaları)",
+        "6:60 & 39:42 & 32:11 (ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا / وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ — V. bab تَوَفَّىٰ fiilinin doğrudan ölüm değil 'bilinci/canı eksiksiz teslim alma' olduğunu kanıtlayan sarsılmaz çıpalar)",
+        "2:281 & 11:109 & 24:39 & 39:10 & 53:41 (تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ / لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ / فَوَفَّىٰهُ حِسَابَهُۥ / ٱلْجَزَآءَ ٱلْأَوْفَىٰ — II. bab 'zerre eksiltmeden tam ödeme' çıpaları)",
+        "2:40 & 5:1 & 9:111 & 48:10 & 53:37 (أَوْفُوا۟ بِٱلْعُقُودِ / وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ / وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ — sözleşme, ahit ve sorumlulukta tam sadakat çıpaları)"
+      ],
+      "unified_core_mechanism": "Hiçbir eksiği kalmaksızın bütünüyle doldurmak, tamamlamak ve tam teslim etmek/almak: ölçü ve sözleşmeyi eksiksiz yerine getirme (IV. bab), hak ve karşılığı zerre kırpmadan tastamam ödeme (II. bab), süresi dolan canı/bilinci uykuda veya ölümde bütünüyle teslim alma (V. bab) ve alırken ölçüyü eksiksiz talep etme (X. bab).",
+      "grammar_and_branch_rules": "1) Fiziksel Ölçü/Tartı Adaleti ve Tam Alma (8 ayet / 9 geçiş): Ölçek ve teraziyi adaletle tam doldurma emri (6:152, 7:85, 11:85, 17:35, 26:181), Yusuf'un ölçeği tam doldurması ve kardeşlerinin talebi (12:59, 12:88) ile alırken tam alıp verirken eksiltenlerin kınanması يَسْتَوْفُونَ (83:2). 2) Sözleşme, Ahit, Biat ve Adak Sadakati (12 ayet / 13 geçiş): Allah'ın ahdine, sözleşmelere, biate ve adaklara tam bağlılık (2:40 [2x], 2:177, 3:76, 5:1, 9:111, 13:20, 16:91, 17:34, 22:29, 48:10, 76:7) ve İbrahim'in tüm sorumluluklarını eksiksiz tamamlaması وَفَّىٰ (53:37). 3) Amel, Kazanç ve Hesap Karşılığının Tam Ödenmesi (19 ayet): İnfakın, direncin, amelin ve hesabın zerre haksızlık yapılmadan tastamam ödenmesi (2:272,281, 3:25,57,161,185, 4:173, 8:60, 11:15,109,111, 16:111, 24:25,39, 35:30, 39:10,70, 46:19, 53:41). 4) Canın/Bilincin Uykuda veya Ömür Bitiminde Bütünüyle Teslim Alınması (25 ayet): Uykuda geçici teslim alma (6:60, 39:42), ömür süresi dolduğunda Allah'ın veya görevli elçilerin canı eksiksiz teslim alması (2:234,240, 3:55,193, 4:15,97, 5:117, 6:61, 7:37,126, 8:50, 10:46,104, 12:101, 13:40, 16:28,32,70, 22:5, 32:11, 40:67,77, 47:27).",
+      "derivatives": {
+        "تَوَفَّىٰ / يَتَوَفَّىٰ / يُتَوَفَّىٰ (Form V fiil - 24 geçiş) & مُتَوَفِّيكَ (Form V ism-i fâil - 1 geçiş: 3:55)": "Canı ve bilinci uykuda geçici olarak veya ömür süresi dolduğunda kalıcı olarak hiçbir parçası kalmadan bütünüyle teslim almak.",
+        "أَوْفَىٰ / أَوْفُوا۟ / يُوفُونَ (Form IV fiil - 18 geçiş) & ٱلْمُوفُونَ (Form IV ism-i fâil - 1 geçiş: 2:177)": "Ölçü ve tartıyı noksansız tam doldurmak; ahit, sözleşme, biat ve adağı eksiksiz yerine getirmek.",
+        "وَفَّىٰ / يُوَفِّى / تُوَفَّىٰ (Form II fiil - 18 geçiş) & لَمُوَفُّوهُمْ (Form II ism-i fâil - 1 geçiş: 11:109)": "Hak edilen karşılığı, ecri veya hesabı zerre eksiltmeden tastamam ödemek; sorumluluğu eksiksiz tamamlamak (53:37).",
+        "أَوْفَىٰ / ٱلْأَوْفَىٰ (İsm-i tafdîl - 2 geçiş: 9:111, 53:41) & يَسْتَوْفُونَ (Form X fiil - 1 geçiş: 83:2)": "Ahdine en sadık olan / en eksiksiz karşılık; insanlardan ölçerek alırken tam ölçüyü talep etmek (83:2)."
       }
     }
   }

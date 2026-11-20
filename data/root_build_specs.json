@@ -4708,5 +4708,177 @@
       }
     ],
     "context_default": "İradi arayış ve emekle maddi kazanç elde etme veya eylemlerin bireysel sorumluluk bilançosunu üstlenme mekanizması."
+  },
+  "و-ف-ي": {
+    "buckwalter": "wfy",
+    "slug": "vefa_ifa_tevfiye_teveffi_istifa_wfy",
+    "concept_name": "Vefâ / Îfâ / Tevfiye / Teveffî ve İstîfâ (Eksiksiz Doldurma, Tam Ödeme ve Canı/Hakkı Bütünüyle Teslim Alma)",
+    "keywords": [
+      "vefa",
+      "ifa",
+      "tevfiye",
+      "teveffi",
+      "istifa",
+      "tamamlama",
+      "teslim",
+      "olcu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yasotawofu",
+        "label": "Alırken ölçüyü zerresini bırakmadan tam isterler (يَسْتَوْفُونَ — X. bab muzâri; 83:2)"
+      },
+      {
+        "lemma": "muwfuwn",
+        "label": "Sözleşmelerini eksiksiz yerine getirenler (ٱلْمُوفُونَ — IV. bab ism-i fâil; 2:177)"
+      },
+      {
+        "lemma": "muwaf~uw",
+        "label": "Paylarını eksiksiz tastamam ödeyecek olanlarız (لَمُوَفُّوهُمْ — II. bab ism-i fâil; 11:109)"
+      },
+      {
+        "lemma": "mutawaf~iy",
+        "label": "Seni (süreni tamamlayıp) bütünüyle teslim alacak olanım (مُتَوَفِّيكَ — V. bab ism-i fâil; 3:55)"
+      },
+      {
+        "lemma": ">awofaY`2",
+        "label": "Ahdine en sadık olan / en eksiksiz karşılık (أَوْفَىٰ / ٱلْأَوْفَىٰ — ism-i tafdîl; 9:111, 53:41)"
+      },
+      {
+        "lemma": "tawaf~aY`",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Ömür süresi tamamlanıp teslim alınanlar (يُتَوَفَّوْنَ / يُتَوَفَّىٰ — V. bab edilgen muzâri; 2:234, 2:240, 22:5, 40:67)"
+      },
+      {
+        "lemma": "tawaf~aY`",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Bizi iyilerle / teslim olmuşlar olarak bütünüyle katına al (وَتَوَفَّنَا — V. bab emir/dua; 3:193, 7:126)"
+      },
+      {
+        "lemma": "tawaf~aY`",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Süresi dolduğunda canını/bilincini bütünüyle teslim aldı (تَوَفَّىٰهُمُ / تَوَفَّيْتَنِى / تَوَفَّتْهُ / تَوَفَّتْهُمُ — V. bab mâzi)"
+      },
+      {
+        "lemma": "tawaf~aY`",
+        "label": "Canı/bilinci uykuda veya ömür bitiminde eksiksiz teslim alır (يَتَوَفَّىٰ / تَتَوَفَّىٰهُمُ / نَتَوَفَّيَنَّكَ / تَوَفَّنِى — V. bab muzâri)"
+      },
+      {
+        "lemma": ">awofaY`",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Ölçü-tartıyı tam doldurun veya sözleşmeyi eksiksiz yerine getirin (أَوْفُوا۟ / فَأَوْفِ — IV. bab emir; 11 geçiş)"
+      },
+      {
+        "lemma": ">awofaY`",
+        "label": "Ölçüyü tam doldurur veya ahdi/adağı eksiksiz yerine getirir (أَوْفَىٰ / أُوفِ / أُوفِى / يُوفُونَ / وَلْيُوفُوا۟ — IV. bab mâzi/muzâri)"
+      },
+      {
+        "lemma": "waf~aY`^",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Her bireye kazancının/ecrinin karşılığı eksiksiz ödenir (يُوَفَّ / تُوَفَّىٰ / وُفِّيَتْ / تُوَفَّوْنَ / يُوَفَّى — II. bab edilgen; 9 geçiş)"
+      },
+      {
+        "lemma": "waf~aY`^",
+        "label": "Karşılığı/hesabı zerre eksiltmeden tastamam öder veya sorumluluğu tam yerine getirir (يُوَفِّيهِمْ / نُوَفِّ / فَوَفَّىٰهُ / وَفَّىٰٓ — II. bab etken; 9 geçiş)"
+      }
+    ],
+    "irab_default": "Eksiksiz doldurma, ahdi/sorumluluğu tam yerine getirme, karşılığı tam ödeme veya canı bütünüyle teslim alma (و-ف-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:152",
+          "7:85",
+          "11:85",
+          "12:59",
+          "12:88",
+          "17:35",
+          "26:181",
+          "83:2"
+        ],
+        "text": "Fiziksel ölçü ve tartı adaleti (أَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ / يَسْتَوْفُونَ): Ölçeği ve teraziyi adaletle tam doldurup insanlara haklarını eksik vermeme emri (6:152, 7:85, 11:85, 17:35, 26:181), Yusuf'un ölçeği eksiksiz doldurması ve kardeşlerinin tam ölçek istemesi (12:59, 12:88) ile alırken tam alıp verirken eksilten çifte standardın kınanması (83:2)."
+      },
+      {
+        "ayahs": [
+          "2:40",
+          "2:177",
+          "3:76",
+          "5:1",
+          "9:111",
+          "13:20",
+          "16:91",
+          "17:34",
+          "22:29",
+          "48:10",
+          "53:37",
+          "76:7"
+        ],
+        "text": "Sözleşme, ahit, biat ve adaklarda eksiksiz sadakat (أَوْفُوا۟ بِٱلْعَهْدِ / بِٱلْعُقُودِ / وَفَّىٰ): Karşılıklı ahde bağlılık ve Allah'ın ahdine en sadık oluşu (2:40, 3:76, 9:111), bütün sözleşme ve adakları eksiksiz yerine getirme (2:177, 5:1, 13:20, 16:91, 17:34, 22:29, 48:10, 76:7) ile İbrahim'in üstlendiği tüm sorumlulukları tam olarak yerine getirmesi (53:37)."
+      },
+      {
+        "ayahs": [
+          "2:272",
+          "2:281",
+          "3:25",
+          "3:57",
+          "3:161",
+          "3:185",
+          "4:173",
+          "8:60",
+          "11:15",
+          "11:109",
+          "11:111",
+          "16:111",
+          "24:25",
+          "24:39",
+          "35:30",
+          "39:10",
+          "39:70",
+          "46:19",
+          "53:41"
+        ],
+        "text": "Amel, infak ve hesap karşılığının zerre eksiltilmeden tastamam ödenmesi (تُوَفَّىٰ / فَيُوَفِّيهِمْ / ٱلْجَزَآءَ ٱلْأَوْفَىٰ): Hayır yolunda harcananların, direnç gösterenlerin, dünyada veya ahirette yapılan bütün işlerin karşılığının hiçbir haksızlık ve eksiltme yapılmaksızın tastamam ödenmesi (2:272,281, 3:25,57,161,185, 4:173, 8:60, 11:15,109,111, 16:111, 24:25,39, 35:30, 39:10,70, 46:19, 53:41)."
+      },
+      {
+        "ayahs": [
+          "2:234",
+          "2:240",
+          "3:55",
+          "3:193",
+          "4:15",
+          "4:97",
+          "5:117",
+          "6:60",
+          "6:61",
+          "7:37",
+          "7:126",
+          "8:50",
+          "10:46",
+          "10:104",
+          "12:101",
+          "13:40",
+          "16:28",
+          "16:32",
+          "16:70",
+          "22:5",
+          "32:11",
+          "39:42",
+          "40:67",
+          "40:77",
+          "47:27"
+        ],
+        "text": "Canın ve bilincin uykuda veya ömür bitiminde eksiksiz teslim alınması (تَوَفَّىٰ / مُتَوَفِّيكَ): Gece uykusunda geçici teslim alınıp gündüz geri salıverilme (6:60, 39:42), ömür süresi dolduğunda Allah'ın ve görevli elçilerinin canı hiçbir eksiklik bırakmadan teslim alması (4:15,97, 6:61, 7:37, 8:50, 10:46,104, 13:40, 16:28,32,70, 22:5, 32:11, 40:67,77, 47:27), İsa'nın dünyadaki süresinin tamamlanıp teslim alınması (3:55, 5:117), aile hukukunda geride eş bırakarak hayattan ayrılma (2:234, 2:240) ve teslim olmuş/iyi bir hâl üzere katına alınma duası (3:193, 7:126, 12:101)."
+      }
+    ],
+    "context_default": "Ölçü veya sözleşmeyi eksiksiz doldurma, karşılığı tam ödeme ya da canı/bilinci bütünüyle teslim alma mekanizması."
   }
 }
