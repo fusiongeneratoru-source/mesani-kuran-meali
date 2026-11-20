@@ -6069,5 +6069,166 @@
       }
     ],
     "context_default": "Bir şeyin ardından kesintisiz gelip izini sürme ve vahiy ayetlerini ardı ardına okuyup aktarma mekanizması."
+  },
+  "س-ح-ر": {
+    "buckwalter": "sHr",
+    "slug": "sihir_sahir_meshur_seher_goz_boyama_tan_vakti_shr",
+    "concept_name": "Sihir / Sâhir / Meshûr ve Seher (Asl 2: Göz Boyama ve Algıyı Hakikatten Çevirme; Asl 1: Beşer İç Organı; Asl 3: Fecir Öncesi Seher Vakti)",
+    "keywords": [
+      "sihir",
+      "sahir",
+      "sihirbaz",
+      "meshur",
+      "musahharin",
+      "seher",
+      "eshar",
+      "goz_boyama"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "saHar",
+        "label": "Asl 3: Seher vakti / fecir öncesi son gece saatleri (بِٱلْأَسْحَارِ / بِسَحَرٍ — zaman ismi; 3 geçiş: 3:17, 51:18, 54:34)"
+      },
+      {
+        "lemma": "musaH~ariyn",
+        "label": "Yoğun biçimde zihni çelinmiş veya yiyip içen sıradan beşerlerden biri (ٱلْمُسَحَّرِينَ — II. bab ism-i mef'ûl; 2 geçiş: 26:153, 26:185)"
+      },
+      {
+        "lemma": "saH~aAr",
+        "label": "Çok usta göz boyayıcı/sihirbaz (سَحَّارٍ — mübalağalı ism-i fâil; 1 geçiş: 26:37)"
+      },
+      {
+        "lemma": "m~asoHuwr",
+        "label": "Gözü/aklı aldatılıp etki altına alınmış (مَسْحُورًا / مَّسْحُورُونَ — I. bab ism-i mef'ûl; 4 geçiş: 15:15, 17:47, 17:101, 25:8)"
+      },
+      {
+        "lemma": "saHaru",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Nasıl oluyor da aklınız çelinip hakikatten döndürülüyorsunuz (تُسْحَرُونَ — I. bab edilgen muzâri; 1 geçiş: 23:89)"
+      },
+      {
+        "lemma": "saHaru",
+        "label": "Gözleri ve algıyı aldatıp yanıltmak (سَحَرُوٓا۟ 7:116 ve لِتَسْحَرَنَا 7:132 — I. bab etken fiil; 2 geçiş)"
+      },
+      {
+        "lemma": "sa`Hir",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Göz boyayıcılar/sihirbazlar (ٱلسَّحَرَةُ / ٱلسَّحَرَةَ / ٱلسَّٰحِرُونَ — I. bab çoğul ism-i fâil; 9 geçiş)"
+      },
+      {
+        "lemma": "sa`Hir",
+        "features_contains": [
+          "MD"
+        ],
+        "label": "İki göz boyayıcı/sihirbaz (لَسَٰحِرَٰنِ — I. bab tesniye ism-i fâil; 1 geçiş: 20:63)"
+      },
+      {
+        "lemma": "sa`Hir",
+        "label": "Göz boyayıcı/sihirbaz (سَٰحِر / ٱلسَّاحِر — I. bab tekil ism-i fâil; 12 geçiş)"
+      },
+      {
+        "lemma": "siHor",
+        "features_contains": [
+          "MD"
+        ],
+        "label": "Birbirini destekleyen iki göz boyama iddiası (سِحْرَانِ — tesniye isim; 1 geçiş: 28:48)"
+      },
+      {
+        "lemma": "siHor",
+        "label": "Göz boyama, yanılsama ve algıyı hakikatten çevirme (سِحْر / ٱلسِّحْر — masdar/isim; 27 geçiş)"
+      }
+    ],
+    "irab_default": "Asl 2'de algıyı hakikatten çeviren göz boyama ve yanılsama; Asl 3'te fecir öncesi seher vakti (س-ح-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:17",
+          "51:18",
+          "54:34"
+        ],
+        "text": "Asl 3 (Proto-Sami *š-ḥ-r): Fecirden hemen önceki son gece vakti olan seher. Sebat eden, doğru sözlü ve arı kimselerin seher vakitlerinde bağışlanma dilemesi (3:17, 51:18) ile Lût ailesinin azap yağışından seher vakti kurtarılması (54:34)."
+      },
+      {
+        "ayahs": [
+          "7:112",
+          "7:113",
+          "7:116",
+          "7:120",
+          "10:77",
+          "10:79",
+          "10:80",
+          "10:81",
+          "20:58",
+          "20:66",
+          "20:69",
+          "20:70",
+          "20:71",
+          "20:73",
+          "26:37",
+          "26:38",
+          "26:40",
+          "26:41",
+          "26:46",
+          "26:49"
+        ],
+        "text": "Mûsâ-Firavun meydanında göz boyama eylemi, hakikatin üstünlüğü ve sihirbazların secdeye kapanması: Firavun'un en bilgili sihirbazları ödül vaadiyle toplaması (7:112-113, 10:79-80, 20:58, 26:37-41), onların insanların gözlerini bağlayıp ipleri hareket ediyor gibi hayal ettirmeleri (7:116 [2x], 20:66), Mûsâ'nın bu kurguyu Allah'ın boşa çıkaracağını ve göz boyayıcının kurtuluşa eremeyeceğini ilan etmesi (10:77 [2x], 10:81, 20:69 [2x]), sihirbazların gerçeği görerek secdeye kapanıp Firavun'un zorbalığına direnmesi (7:120, 20:70-73, 26:46-49)."
+      },
+      {
+        "ayahs": [
+          "5:110",
+          "6:7",
+          "7:109",
+          "7:132",
+          "10:2",
+          "10:76",
+          "11:7",
+          "20:57",
+          "20:63",
+          "21:3",
+          "26:34",
+          "26:35",
+          "27:13",
+          "28:36",
+          "28:48",
+          "34:43",
+          "37:15",
+          "38:4",
+          "40:24",
+          "43:30",
+          "43:49",
+          "46:7",
+          "51:39",
+          "51:52",
+          "52:15",
+          "54:2",
+          "61:6",
+          "74:24"
+        ],
+        "text": "Tüm elçilere ve apaçık vahye yöneltilen 'sihir / sihirbaz' yaftası: Firavun ve seçkinlerinin Mûsâ ile Hârûn'a (7:109,132, 10:76, 20:57,63 [2x], 26:34-35, 27:13, 28:36, 40:24, 43:49, 51:39), gerçeği örtenlerin Îsâ'ya (5:110, 61:6) ve Son Elçi'ye, Kur'an'a, dirilişe ve önceki tüm elçilere (6:7, 10:2, 11:7, 21:3, 28:48, 34:43, 37:15, 38:4, 43:30, 46:7, 51:52, 54:2, 74:24) karşı 'apaçık göz boyama', 'aktarılagelen sihir', 'sihirbaz veya mecnûn' yaftasına sığınması ile ahirette ateş önünde yöneltilen kesin soru: 'Bu da mı sihir yoksa siz mi görmüyorsunuz?' (52:15)."
+      },
+      {
+        "ayahs": [
+          "2:102"
+        ],
+        "text": "Bâbil'de zararlı göz boyama ve eşlerin arasını ayırma fitnesi: Süleyman'ın gerçeği örtmediğinin ilanı, azgın odakların insanlara zarar verip fayda sağlamayan göz boyama yöntemlerini öğretmesi ve Allah'ın izni olmaksızın bununla hiç kimseye zarar veremeyeceklerinin kesinleştirilmesi (2:102)."
+      },
+      {
+        "ayahs": [
+          "15:15",
+          "17:47",
+          "17:101",
+          "23:89",
+          "25:8",
+          "26:153",
+          "26:185"
+        ],
+        "text": "Algısı çelinenler ve 'meshûr / müsahharîn' ithamı (Asl 2 ve Asl 1 kesişimi): Gökten kapı açılsa dahi 'gözlerimiz perdelendi, aldatıldık' diyecek inatçılar (15:15), zalimlerin Mûsâ'ya ve Son Elçi'ye 'aklı çelinmiş bir adam' ithamı (17:47, 17:101, 25:8), Semûd ve Eyke halkının Sâlih ile Şu'ayb'a 'sen ancak zihni çelinmişlerden / yiyip içen sıradan beşerlerdensin' itirazı (26:153, 26:185) ve Allah'ın egemenliğini kabul ettiği hâlde çelişenlere yöneltilen soru: 'Öyleyse nasıl oluyor da aklınız çelinip hakikatten döndürülüyorsunuz?' (23:89)."
+      }
+    ],
+    "context_default": "Asl 2'de göz boyama ve algıyı hakikatten çevirme yanılsaması; Asl 3'te fecir öncesi seher vakti mekanizması."
   }
 }
