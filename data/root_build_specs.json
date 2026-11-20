@@ -2364,5 +2364,130 @@
       }
     ],
     "context_default": "Dirençsiz gönül kabulü, karşılıklı özgür onay, tam tatmin veya ilahî hoşnutluk mekanizması."
+  },
+  "ب-ي-ت": {
+    "buckwalter": "byt",
+    "slug": "beyt_barinak_hane_geceleme_byt",
+    "concept_name": "Beyt / Buyût / Beyât ve Tebyît (Gecelenen Barınak, Hane Çatısı, Güvenli Merkez, Geceleme ve Gece Kurgulama)",
+    "keywords": [
+      "beyt",
+      "ev",
+      "barinak",
+      "hane",
+      "geceleme",
+      "beyat",
+      "tebyit",
+      "yuva"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yabiytu",
+        "label": "Geceyi Rableri için geçirirler (يَبِيتُونَ — I. bab muzâri fiil; 25:64'te secde ve kıyam üzere geceleme)"
+      },
+      {
+        "lemma": "bay~ata",
+        "features_contains": [
+          "1P"
+        ],
+        "label": "Gece baskınıyla üzerine çullanacağız (لَنُبَيِّتَنَّهُۥ — II. bab tekitli muzâri fiil; 27:49'da Salih ve ailesine gece suikastı planı)"
+      },
+      {
+        "lemma": "bay~ata",
+        "label": "Gece karanlığında gizlice tasarladı / kurguluyorlar (بَيَّتَ / يُبَيِّتُونَ — II. bab fiil; 4:81, 4:108'de açıkta söylenenin tersini gece gizlice planlama)"
+      },
+      {
+        "lemma": "baya`t",
+        "label": "Gece vakti / uyku saatinde (بَيَٰتًا — zaman/hâl zarfı; 7:4, 7:97, 10:50'de gece uyurken ansızın gelen yaptırım)"
+      },
+      {
+        "lemma": "bayot",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Evler / barınaklar / çadırlar / yuvalar (بُيُوت / ٱلْبُيُوت — kırık çoğul isim; konut mahremiyeti, hane paylaşımı, dağ oyukları, çadırlar ve anma merkezleri)"
+      },
+      {
+        "lemma": "bayot",
+        "label": "Ev / barınak / yuva / güvenli merkez (بَيْت / ٱلْبَيْت — tekil isim; Kâbe merkezi, hane halkı çatısı, örümcek ağı veya ebedî yurt)"
+      }
+    ],
+    "irab_default": "Barınak, yuva, hane çatısı, güvenli merkez veya gece vakti eylemi (ب-ي-ت kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:125",
+          "2:127",
+          "2:158",
+          "3:96",
+          "3:97",
+          "5:2",
+          "5:97",
+          "8:35",
+          "10:87",
+          "14:37",
+          "22:26",
+          "22:29",
+          "22:33",
+          "24:36",
+          "52:4",
+          "106:3"
+        ],
+        "text": "İnsanlık için kurulan ilk güvenli merkez, arınma odağı ve yükseltilen anma evleri (ٱلْبَيْت / بَيْتِىَ / بُيُوت): İbrahim ve İsmail'in temellerini yükselttiği, insanlık için güven, toplanma ve ayakta kalma odağı kılınan ilk ev (2:125,127,158, 3:96-97, 5:2,97, 8:35, 14:37, 22:26,29,33, 52:4, 106:3), Mısır'da yöneliş merkezi kılınan evler (10:87) ve içinde Yaratıcı'nın adının anılması için yükseltilmesine izin verilen evler (24:36)."
+      },
+      {
+        "ayahs": [
+          "2:189",
+          "3:49",
+          "3:154",
+          "4:15",
+          "4:100",
+          "8:5",
+          "11:73",
+          "12:23",
+          "24:27",
+          "24:29",
+          "24:61",
+          "28:12",
+          "33:13",
+          "33:33",
+          "33:34",
+          "33:53",
+          "51:36",
+          "65:1",
+          "71:28"
+        ],
+        "text": "Konut mahremiyeti, aile hukuku, hane halkı ve toplumsal edep: Evlere arkadan değil kapılarından ve izin ile selam vererek girme (2:189, 24:27, 33:53), oturulmayan kamu/eşya yapıları ve akraba evlerinde sofrayı paylaşma kolaylığı (24:29, 24:61), boşanan kadınların bekleme süresinde evlerinden çıkarılmama güvencesi (65:1), hane halkı kavramı (11:73, 28:12, 33:33-34, 51:36, 71:28) ile hicret, savaş ve toplumsal sınavda evlerden çıkış/kalış (3:49,154, 4:15,100, 8:5, 12:23, 33:13)."
+      },
+      {
+        "ayahs": [
+          "7:74",
+          "15:82",
+          "16:68",
+          "16:80",
+          "17:93",
+          "26:149",
+          "27:52",
+          "29:41",
+          "43:33",
+          "43:34",
+          "59:2",
+          "66:11"
+        ],
+        "text": "Fiziksel barınak çeşitliliği, kırılgan yapılar ve kalıcı yurt: Hayvan derilerinden taşınabilir çadır evler (16:80), dağlardan oyulan kaya evler (7:74, 15:82, 26:149), arının dağlarda ve ağaçlarda kurduğu kovanlar (16:68), sahte dayanakların simgesi olarak evlerin en çürüğü örümcek ağı (29:41), gümüş tavanlı/altın süslü geçici evler ile zulüm yüzünden ıssızlaşıp yıkılan evler (17:93, 27:52, 43:33-34, 59:2) ve Firavun'un eşinin Yaratıcı katında dilediği kalıcı yurt (66:11)."
+      },
+      {
+        "ayahs": [
+          "4:81",
+          "4:108",
+          "7:4",
+          "7:97",
+          "10:50",
+          "25:64",
+          "27:49"
+        ],
+        "text": "Geceleme, gece vakti gelen darbe ve gece gizlice kurgulama (يَبِيتُونَ / بَيَّتَ / بَيَٰتًا): Geceyi Rableri için secde ve kıyamla geçiren olgun kullar (25:64) karşısında, gündüz söylenenin aksini gece gizlice tasarlayan ikiyüzlüler ve gece baskını planlayan suikastçılar (4:81, 4:108, 27:49) ile gaflet uykusundaki topluluklara gece vakti ansızın ulaşan ilahî yaptırım (7:4, 7:97, 10:50)."
+      }
+    ],
+    "context_default": "Gecelenen somut barınak, yuva, hane çatısı, güvenli merkez veya gece vakti eylemi mekanizması."
   }
 }
