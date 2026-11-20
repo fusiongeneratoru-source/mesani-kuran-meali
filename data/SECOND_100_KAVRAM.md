@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 66 / 100 Kök (Toplam Mühürlü: 171 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 67 / 100 Kök (Toplam Mühürlü: 172 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -84,7 +84,7 @@
 | 64 | 168 | `ع-ي-ن` | `A-Y-N` | **65** | 63 | 2:60 | Ayn / A'yün / Uyûn / Maîn ve Îyn (Göz, Bakış, İlâhî Gözetim, Su Pınarı ve Berrak Kaynak) | ✅ **MÜHÜRLÜ** |
 | 65 | 169 | `ج-ر-ي` | `C-R-Y` | **64** | 64 | 2:25 | Cereyân / Câriye / Cevârî ve Mecrâ (Irmak, Gemi, Rüzgâr ve Gök Cisimlerinin Kesintisiz Akışı) | ✅ **MÜHÜRLÜ** |
 | 66 | 170 | `ح-م-ل` | `H-M-L` | **64** | 50 | 2:248 | Haml / Himl / Tahmîl ve İhtimâl (Fiziksel Taşıma, Gebelik, Emanet Yükümlülüğü ve Vebal Sırtlanma) | ✅ **MÜHÜRLÜ** |
-| 67 | 171 | `ح-م-د` | `H-M-D` | **63** | 61 | 1:2 | Analiz Bekliyor (Hamod, Hamiyd, yuHomadu) | ⏳ *Bekliyor* |
+| 67 | 171 | `ح-م-د` | `H-M-D` | **63** | 61 | 1:2 | Hamd / Hamîd / Hâmidûn ve Mahmûd (İradi Yetkinlik ve İhsan Karşısında Hak Edilmiş Bilinçli Övgü) | ✅ **MÜHÜRLÜ** |
 | 68 | 172 | `م-و-ه` | `M-W-H` | **63** | 60 | 2:22 | Analiz Bekliyor (maA^') | ⏳ *Bekliyor* |
 | 69 | 173 | `ت-ل-و` | `T-L-W` | **63** | 61 | 2:44 | Analiz Bekliyor (talaY`, tilaAwat, t~a`liya`t) | ⏳ *Bekliyor* |
 | 70 | 174 | `س-ح-ر` | `S-H-R` | **63** | 59 | 2:102 | Analiz Bekliyor (siHor, sa`Hir, m~asoHuwr) | ⏳ *Bekliyor* |
