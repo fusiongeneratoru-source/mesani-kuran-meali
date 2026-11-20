@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 89 / 100 Kök (Toplam Mühürlü: 194 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 90 / 100 Kök (Toplam Mühürlü: 195 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -107,7 +107,7 @@
 | 87 | 191 | `ذ-ه-ب` | `Z-H-B` | **56** | 56 | 2:17 | Zehâb, İzhâb ve Zeheb (Ayrılıp Gitmek, Alıp Götürmek, Giderip Silmek ve Altın) | ✅ **MÜHÜRLÜ** |
 | 88 | 192 | `ن-ه-ي` | `N-H-Y` | **56** | 54 | 2:192 | Nehy, İntihâ, Müntehâ ve Nühâ (Sakındırıp Alıkoymak, Durup Vazgeçmek, Son Sınır ve Frenleyici Sağduyu) | ✅ **MÜHÜRLÜ** |
 | 89 | 193 | `أ-ج-ل` | `E-C-L` | **56** | 48 | 2:231 | Ecel, Te'cîl ve Müeccel (Belirlenmiş Süre, Son Vade Noktası ve Vadelendirilmiş Yazgı) | ✅ **MÜHÜRLÜ** |
-| 90 | 194 | `د-و-ر` | `D-W-R` | **55** | 53 | 2:84 | Analiz Bekliyor (daAr, daA^}irap, tudiyru) | ⏳ *Bekliyor* |
+| 90 | 194 | `د-و-ر` | `D-W-R` | **55** | 53 | 2:84 | Dâr, Diyâr, Dâire ve İdâre (Kuşatılmış Yurt, Ahiret Yurdu, Elden Ele Döndürmek ve Felaket Çemberi) | ✅ **MÜHÜRLÜ** |
 | 91 | 195 | `ف-س-ق` | `F-S-K` | **54** | 54 | 2:26 | Analiz Bekliyor (faAsiq, fasaqa, fusuwq) | ⏳ *Bekliyor* |
 | 92 | 196 | `ن-د-و` | `N-D-W` | **53** | 50 | 2:171 | Analiz Bekliyor (naAdaY`, nidaA^', naAdiy) | ⏳ *Bekliyor* |
 | 93 | 197 | `خ-ب-ر` | `H-B-R` | **52** | 52 | 2:234 | Analiz Bekliyor (xabiyr, >axobaAr, xubor) | ⏳ *Bekliyor* |
