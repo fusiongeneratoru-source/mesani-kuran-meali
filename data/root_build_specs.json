@@ -4564,5 +4564,149 @@
       }
     ],
     "context_default": "Durağanlığı, uykuyu veya ölümü kaldırarak yerinden uyandırma, diriltme, göreve sevk etme veya ileri fırlama mekanizması."
+  },
+  "ك-س-ب": {
+    "buckwalter": "ksb",
+    "slug": "kesb_iktisab_kazanc_sorumluluk_bilancosu_ksb",
+    "concept_name": "Kesb ve İktisâb (Emekle Kazanç Elde Etme ve Bireysel Sorumluluk Bilançosu)",
+    "keywords": [
+      "kesb",
+      "iktisab",
+      "kazanc",
+      "emek",
+      "bilanço",
+      "sorumluluk",
+      "rehin",
+      "edindik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{kotasaba",
+        "features_contains": [
+          "3FP"
+        ],
+        "label": "Kadınların kendi çabalarıyla kazandıklarından payı vardır (ٱكْتَسَبْنَ — VIII. bab dişil çoğul mâzi; 4:32)"
+      },
+      {
+        "lemma": "{kotasaba",
+        "features_contains": [
+          "3FS"
+        ],
+        "label": "Kendi çabasıyla aleyhine üstlendiği sorumluluk (ٱكْتَسَبَتْ — VIII. bab dişil tekil mâzi; 2:286)"
+      },
+      {
+        "lemma": "{kotasaba",
+        "label": "Yoğun kişisel çaba ve yönelişle kendi hanesine yazdırdı / kazandılar (ٱكْتَسَبَ / ٱكْتَسَبُوا۟ — VIII. bab mâzi; 4:32, 24:11, 33:58)"
+      },
+      {
+        "lemma": "kasaba",
+        "features_contains": [
+          "3MD"
+        ],
+        "label": "İkisinin (erkek ve kadın hırsızın) işleyip kazandıklarına karşılık (كَسَبَا — I. bab ikil mâzi; 5:38)"
+      },
+      {
+        "lemma": "kasaba",
+        "features_contains": [
+          "MOOD:JUS"
+        ],
+        "label": "Kim bir suç/vebal kazanırsa (يَكْسِبْ — I. bab meczûm muzâri; 4:111, 4:112)"
+      },
+      {
+        "lemma": "kasaba",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Kazanmakta oldukları / yarın ne kazanacağı / yalnız kendi aleyhine kazanır (يَكْسِبُونَ / تَكْسِبُونَ / تَكْسِبُ / يَكْسِبُهُۥ — I. bab muzâri)"
+      },
+      {
+        "lemma": "kasaba",
+        "label": "Kazandı / ellerinizin ve kalplerinizin kazandığı / temiz kazancınız (كَسَبَ / كَسَبَتْ / كَسَبُوا۟ / كَسَبْتُمْ — I. bab mâzi)"
+      }
+    ],
+    "irab_default": "İradi arayış ve emekle maddi kazanç veya ahlaki sorumluluk bilançosu elde etme (ك-س-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:79",
+          "2:267",
+          "4:32",
+          "15:84",
+          "31:34",
+          "39:50",
+          "40:82",
+          "45:10",
+          "111:2"
+        ],
+        "text": "Ekonomik kazanç, emek payı, temiz infak ve dünyevî birikimin yetersizliği: Emekle elde edilen temiz ürünlerden harcama emri (2:267), erkeklerin ve kadınların kendi çabalarıyla kazandıklarından hak payı (4:32), hiç kimsenin yarın ne kazanacağını bilemeyişi (31:34), kitabı elle değiştirip ucuz çıkar kazanma kınaması (2:79) ve dünyadaki mal ile kazancın hesap anında hiçbir yarar sağlamayışı (15:84, 39:50, 40:82, 45:10, 111:2)."
+      },
+      {
+        "ayahs": [
+          "2:134",
+          "2:141",
+          "2:202",
+          "2:225",
+          "2:281",
+          "2:286",
+          "3:25",
+          "3:161",
+          "4:111",
+          "6:3",
+          "6:158",
+          "6:164",
+          "13:33",
+          "13:42",
+          "14:51",
+          "40:17",
+          "45:22",
+          "52:21",
+          "74:38"
+        ],
+        "text": "Evrensel bireysel sorumluluk, eksiksiz karşılık ve rehin yasası: Geçmiş toplulukların kazancının yalnızca kendilerine ait oluşu (2:134, 2:141), dil sürçmesiyle değil kalplerin kasıtlı kazandığıyla sorumlu tutulma (2:225), lehine kazanç ile aleyhine üstleniş dengesi (2:286), her bireyin kendi kazandığının karşılığını zulme uğramadan tastamam alması (2:202,281, 3:25,161, 4:111, 6:3,158,164, 13:33,42, 14:51, 40:17, 45:22) ve her insanın kendi kazancına rehin oluşu (52:21, 74:38)."
+      },
+      {
+        "ayahs": [
+          "3:155",
+          "4:88",
+          "5:38",
+          "6:129",
+          "7:96",
+          "18:58",
+          "30:41",
+          "35:45",
+          "39:51",
+          "41:17",
+          "42:30",
+          "42:34",
+          "83:14"
+        ],
+        "text": "İnsan ellerinin kazandığı ekolojik/toplumsal sonuçlar, musibetler ve kalbin paslanması: Karada ve denizde bozulmanın insan ellerinin kazandıkları yüzünden ortaya çıkması (30:41), başa gelen musibetlerin kendi ellerinin ürünü olup Allah'ın çoğunu bağışlaması ve hemen yakalamayıp süre tanıması (18:58, 35:45, 42:30,34), hırsızlık, ihanet, yalanlama ve zulmün toplumsal sonuçları (3:155, 4:88, 5:38, 6:129, 7:96, 39:51, 41:17) ve biriken kötü eylemlerin kalpleri pasla kaplaması (83:14)."
+      },
+      {
+        "ayahs": [
+          "2:81",
+          "2:264",
+          "4:112",
+          "6:70",
+          "6:120",
+          "7:39",
+          "9:82",
+          "9:95",
+          "10:8",
+          "10:27",
+          "10:52",
+          "14:18",
+          "24:11",
+          "33:58",
+          "36:65",
+          "39:24",
+          "39:48",
+          "42:22",
+          "45:14"
+        ],
+        "text": "Kötülük, iftira, gösteriş ve hakikati örtmenin boşa çıkan veya azap doğuran kazancı: Kötülükle kuşatılma, açık-gizli suç ve suçsuza iftira atma vebali (2:81, 4:112, 6:120, 10:27, 24:11, 33:58), başa kakma ve hakikati örtmeyle bütün çabaların rüzgârda savrulan küle dönmesi (2:264, 14:18) ile hesap gününde organların kazanca tanıklık etmesi ve kötülüklerin açığa çıkması (6:70, 7:39, 9:82,95, 10:8,52, 36:65, 39:24,48, 42:22, 45:14)."
+      }
+    ],
+    "context_default": "İradi arayış ve emekle maddi kazanç elde etme veya eylemlerin bireysel sorumluluk bilançosunu üstlenme mekanizması."
   }
 }
