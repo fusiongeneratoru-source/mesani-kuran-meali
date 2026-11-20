@@ -4411,5 +4411,158 @@
       }
     ],
     "context_default": "Kırılıp düşerek varlığını, canlılığını, gücünü veya tarihsel ayakta kalışını yitirme ve yok etme mekanizması."
+  },
+  "ب-ع-ث": {
+    "buckwalter": "bEv",
+    "slug": "bas_dirilis_gorevlendirme_inbias_bev",
+    "concept_name": "Ba's / Meb'ûs / İnbiâs (Durağanlıktan Kaldırma, Uyandırma, Diriliş ve Göreve Sevk Etme)",
+    "keywords": [
+      "bas",
+      "dirilis",
+      "mebus",
+      "inbias",
+      "uyandirma",
+      "gorevlendirme",
+      "sevk",
+      "elci"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{n[baEava",
+        "label": "Hızla ileri fırlayıp harekete geçti (ٱنۢبَعَثَ — VII. bab mâzi fiil; 91:12)"
+      },
+      {
+        "lemma": "{nbiEaAv",
+        "label": "Sefere kalkışmaları / harekete geçmeleri (ٱنۢبِعَاثَهُمْ — VII. bab masdar; 9:46)"
+      },
+      {
+        "lemma": "baEov",
+        "label": "Ölümden sonra yeniden kaldırılış / diriliş (ٱلْبَعْثِ / بَعْثُكُمْ — masdar; 22:5, 30:56, 31:28)"
+      },
+      {
+        "lemma": "m~aboEuwvuwn",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Yeniden diriltilip kaldırılacak olanlar (بِمَبْعُوثِينَ — I. bab mecrûr ism-i mef'ûl; 6:29, 23:37)"
+      },
+      {
+        "lemma": "m~aboEuwvuwn",
+        "label": "Yeniden diriltilip kaldırılacaklar (مَّبْعُوثُونَ / لَمَبْعُوثُونَ — I. bab merfû ism-i mef'ûl; 7 geçiş)"
+      },
+      {
+        "lemma": "baEava",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Yeniden diriltilip kaldırılacakları gün / kesinlikle diriltileceksiniz (يُبْعَثُونَ / يُبْعَثُ / أُبْعَثُ / تُبْعَثُونَ / لَتُبْعَثُنَّ — I. bab edilgen muzâri; 13 geçiş)"
+      },
+      {
+        "lemma": "baEava",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Görevlendir / gönder / hakem veya temsilci sevk et (ٱبْعَثْ / فَٱبْعَثُوا۟ — I. bab emir; 2:129, 2:246, 4:35, 18:19, 26:36)"
+      },
+      {
+        "lemma": "baEava",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Diriltir / uykudan uyandırır / elçi, şahit veya yaptırım sevk eder / yüce makama yükseltir (يَبْعَثُ / نَبْعَثُ / لَيَبْعَثَنَّ — I. bab etken muzâri)"
+      },
+      {
+        "lemma": "baEava",
+        "label": "Diriltti / uyandırdı / elçi, lider, karga veya güç görevlendirdi (بَعَثَ / بَعَثْنَا — I. bab etken mâzi)"
+      }
+    ],
+    "irab_default": "Durağanlıktan veya ölümden kaldırıp uyandırma, diriltme, göreve sevk etme veya ileri atılma (ب-ع-ث kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:56",
+          "2:259",
+          "6:29",
+          "6:36",
+          "6:60",
+          "7:14",
+          "11:7",
+          "15:36",
+          "16:21",
+          "16:38",
+          "17:49",
+          "17:98",
+          "18:12",
+          "18:19",
+          "19:15",
+          "19:33",
+          "22:5",
+          "22:7",
+          "23:16",
+          "23:37",
+          "23:82",
+          "23:100",
+          "26:87",
+          "27:65",
+          "30:56",
+          "31:28",
+          "36:52",
+          "37:16",
+          "37:144",
+          "38:79",
+          "56:47",
+          "58:6",
+          "58:18",
+          "64:7",
+          "72:7",
+          "83:4"
+        ],
+        "text": "Uyku, ölüm ve kabir durağanlığından kaldırıp yeniden hayata/hesaba çıkarma (ٱلْبَعْث / مَبْعُوثُونَ / يَوْمِ يُبْعَثُونَ): Gece uykusundan gündüze uyandırma (6:60), Mağara gençlerinin uyandırılıp şehre arkadaş göndermeleri (18:12, 18:19), dünyadaki ibretlik yeniden canlandırmalar (2:56, 2:259) ile ölümden sonra kabirlerden tek bir canlı öz gibi kaldırılış, yadsıyıcı itirazların çürütülmesi ve hesap günü dirilişi."
+      },
+      {
+        "ayahs": [
+          "2:129",
+          "2:213",
+          "3:164",
+          "7:103",
+          "10:74",
+          "10:75",
+          "16:36",
+          "16:84",
+          "16:89",
+          "17:15",
+          "17:94",
+          "25:41",
+          "25:51",
+          "28:59",
+          "40:34",
+          "62:2"
+        ],
+        "text": "Toplulukların kendi içinden elçi, nebî, uyarıcı ve hesap günü şahidi görevlendirme (بَعَثَ رَسُولًا / نَذِيرًا / شَهِيدًا): Elçi gönderilmeden hiçbir topluluğa azap ve yıkım uygulanmayacağı adalet yasası (17:15, 28:59), her topluluğa içlerinden arındıran ve öğreten elçi çıkarılması (2:129,213, 3:164, 7:103, 10:74-75, 16:36, 17:94, 25:41,51, 40:34, 62:2) ve hesap gününde her ümmetten kendi içlerinden şahit çıkarılması (16:84,89)."
+      },
+      {
+        "ayahs": [
+          "2:246",
+          "2:247",
+          "4:35",
+          "5:12",
+          "5:31",
+          "6:65",
+          "7:167",
+          "17:5",
+          "17:79",
+          "26:36"
+        ],
+        "text": "Lider, hakem, temsilci, karga veya tarihsel yaptırım gücü sevk etme ve övgüye layık makama yükseltme: Komutan/kral Talut'un görevlendirilmesi (2:246,247), aile geçimsizliğinde iki hakem gönderilmesi (4:35), on iki temsilcinin çıkarılması (5:12), gömmeyi öğreten karganın gönderilmesi (5:31), Firavun'un şehirlere toplayıcı göndermesi (26:36), tarih içi yaptırım/güç sevki (6:65, 7:167, 17:5) ve elçinin övgüye layık makama yükseltilmesi (17:79)."
+      },
+      {
+        "ayahs": [
+          "9:46",
+          "91:12"
+        ],
+        "text": "VII. bab kalkışma ve ileri atılma (ٱنۢبَعَثَ / ٱنۢبِعَاث): İkiyüzlülerin gönülsüz sefere kalkışmalarının istenmeyip ağırlaştırılmaları (9:46) ve Semûd'un en azgın kişisinin deveyi kesmek üzere hızla ileri fırlaması (91:12)."
+      }
+    ],
+    "context_default": "Durağanlığı, uykuyu veya ölümü kaldırarak yerinden uyandırma, diriltme, göreve sevk etme veya ileri fırlama mekanizması."
   }
 }

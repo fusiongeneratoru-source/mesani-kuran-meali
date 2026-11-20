@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 58 / 100 Kök (Toplam Mühürlü: 163 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 59 / 100 Kök (Toplam Mühürlü: 164 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -76,7 +76,7 @@
 | 56 | 160 | `ظ-ن-ن` | `Z-N-N` | **69** | 57 | 2:46 | Zan / Zann / Zünûn ve Zânnîn (Emâreye Dayalı Kanaat, Kesin Kalbî İdrak veya Delilsiz Tahmin) | ✅ **MÜHÜRLÜ** |
 | 57 | 161 | `و-ح-د` | `W-H-D` | **68** | 67 | 2:61 | Vâhid / Vâhide / Vahdehû ve Vahîd (Bölünmez Teklik, Eşsiz Birlik, Tek Kaynak ve Yalnız Başına Olmak) | ✅ **MÜHÜRLÜ** |
 | 58 | 162 | `ه-ل-ك` | `H-L-K` | **68** | 63 | 2:195 | Helâk / İhlâk / Tehlüke ve Mehlik (Kırılıp Düşme, Tükeniş, Ekolojik/Toplumsal Yıkım ve Fanilik) | ✅ **MÜHÜRLÜ** |
-| 59 | 163 | `ب-ع-ث` | `B-A-S` | **67** | 64 | 2:56 | Analiz Bekliyor (baEava, m~aboEuwvuwn, baEov) | ⏳ *Bekliyor* |
+| 59 | 163 | `ب-ع-ث` | `B-A-S` | **67** | 64 | 2:56 | Ba's / Meb'ûs / İnbiâs (Durağanlıktan Kaldırma, Uyandırma, Diriliş ve Göreve Sevk Etme) | ✅ **MÜHÜRLÜ** |
 | 60 | 164 | `ك-س-ب` | `K-S-B` | **67** | 60 | 2:79 | Analiz Bekliyor (kasaba, {kotasaba) | ⏳ *Bekliyor* |
 | 61 | 165 | `و-ف-ي` | `W-F-Y` | **66** | 64 | 2:40 | Analiz Bekliyor (tawaf~aY`, >awofaY`, waf~aY`^) | ⏳ *Bekliyor* |
 | 62 | 166 | `ج-ر-م` | `C-R-M` | **66** | 65 | 5:2 | Analiz Bekliyor (mujorim, >ajoramu, jaram) | ⏳ *Bekliyor* |
