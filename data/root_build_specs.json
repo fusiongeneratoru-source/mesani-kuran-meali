@@ -1071,5 +1071,152 @@
       }
     ],
     "context_default": "Bir bilgiyi, işareti, yönelimi, telkini veya işleyiş buyruğunu gizli, hızlı ve doğrudan bir kanalla muhataba aktarma mekanizması."
+  },
+  "ص-و-ب": {
+    "buckwalter": "Swb",
+    "slug": "isabet_savab_musibet_swb",
+    "concept_name": "İsâbet / Savâb / Sayyib / Musîbet (Sapmadan Hedefine İnme, Tam Yerine Oturma ve Karşılaşma)",
+    "keywords": [
+      "isabet",
+      "savab",
+      "musibet",
+      "sayyib",
+      "saganak",
+      "hedef",
+      "dogru soz",
+      "etki"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Say~ib",
+        "label": "Gökten boşanan yoğun sağanak (كَصَيِّبٍ — mecrûr isim; yukarıdan şaşmadan inen yağmur kütlesi)"
+      },
+      {
+        "lemma": "SawaAb",
+        "label": "Tam hedefi bulan dosdoğru söz (صَوَابًا — mansûb isim; hesap gününde izinle söylenen sapmasız hakikat)"
+      },
+      {
+        "lemma": "muSiyb",
+        "label": "Kesinlikle isabet edecek / vuracak olan (مُصِيبُهَا — IV. bab eril ism-i fâil; 11:81'de kaçınılmaz yaptırımın ona da ulaşması)"
+      },
+      {
+        "lemma": "m~uSiybap",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "İsabet eden sarsıcı olay / darbe (مُّصِيبَةٍ — mecrûr IV. bab dişil ism-i fâil; مِن ile yapılan işlerin sonucu veya yeryüzündeki sınama)"
+      },
+      {
+        "lemma": "m~uSiybap",
+        "label": "İsabet eden sarsıcı olay / ölüm vakası (مُّصِيبَةٌ / مُّصِيبَةُ — merfû IV. bab dişil ism-i fâil; insanın başına gelen sınama veya ölüm anı)"
+      },
+      {
+        "lemma": ">aSaAba",
+        "features_contains": [
+          "IMPF",
+          "JUS"
+        ],
+        "label": "İsabet ederse / ulaşırsa / inmezse (تُصِبْ / يُصِبْ — IV. bab meczûm muzâri fiil; şart yapısında yağmur, iyilik veya sıkıntının gelip çatması)"
+      },
+      {
+        "lemma": ">aSaAba",
+        "features_contains": [
+          "IMPF",
+          "SUBJ"
+        ],
+        "label": "İsabet etmesi / vurması / zarar ulaştırması (يُصِيبَ / تُصِيبَ / تُصِيبُوا۟ — IV. bab mansûb muzâri fiil; olası bir sonuç, yaptırım veya bilgisizce zarar verme)"
+      },
+      {
+        "lemma": ">aSaAba",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Hedefine isabet ettirir / ulaşır (يُصِيبُ / نُصِيبُ / أُصِيبُ / تُصِيبُ — IV. bab merfû muzâri fiil; rahmet, lütuf, dolu, yıldırım veya yaptırımın yerine inmesi)"
+      },
+      {
+        "lemma": ">aSaAba",
+        "label": "Hedefine indi / isabet etti / yöneldi (أَصَابَ / أَصَٰبَتْ / أَصَبْنَٰهُم — IV. bab mâzi fiil; sağanak, rüzgâr, iyilik, lütuf, sınama veya darbenin tam yerine oturması)"
+      }
+    ],
+    "irab_default": "Sapmadan hedefine inip tam yerine oturma ve isabet etme (ص-و-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:19",
+          "2:264",
+          "2:265",
+          "2:266",
+          "3:117",
+          "13:13",
+          "24:43",
+          "30:48",
+          "38:36"
+        ],
+        "text": "Doğa olayları ve fiziksel iniş/hedef çıpası: Gökten boşanan sağanak (2:19), kayaya ve bereketli tepe bahçesine inen yağmur (2:264-265), bahçeyi yakan ateşli kasırga ve ekini kurutan dondurucu rüzgâr (2:266, 3:117), yıldırım, dolu ve bereketli yağmurun hedefine indirilmesi (13:13, 24:43, 30:48) ile rüzgârın Süleyman'ın hedeflediği yöne akması (38:36)."
+      },
+      {
+        "ayahs": [
+          "4:73",
+          "4:78",
+          "4:79",
+          "7:131",
+          "7:156",
+          "10:107",
+          "12:56",
+          "22:11",
+          "78:38"
+        ],
+        "text": "Rahmet, lütuf, iyilik ve tam isabetli doğru söz: Yaratıcı'nın lütfunu ve rahmetini dilediğine ulaştırması (4:73, 7:156, 10:107, 12:56), insanın iyilik ve sıkıntı karşısındaki tutum ve sorumluluk dengesi (4:78-79, 7:131, 22:11) ile büyük hesap gününde yalnız izin verilenin sapmasız doğru söz (صَوَابًا) söylemesi (78:38)."
+      },
+      {
+        "ayahs": [
+          "4:62",
+          "5:49",
+          "5:52",
+          "6:124",
+          "7:100",
+          "8:25",
+          "9:52",
+          "9:90",
+          "11:81",
+          "11:89",
+          "13:31",
+          "16:34",
+          "24:63",
+          "28:47",
+          "30:36",
+          "39:51",
+          "40:28",
+          "42:30",
+          "42:48"
+        ],
+        "text": "Ellerin kazandığı yaptırım ve tarihsel uyarıların hedefine inmesi: İhlaller, tuzaklar ve haksızlıklar yüzünden isabet eden darbe, sarsıntı ve yaptırımlar (4:62, 5:49, 6:124, 7:100, 11:81,89, 13:31, 16:34, 24:63, 28:47, 39:51), toplumsal fitnenin yalnız zalimlerle sınırlı kalmaması (8:25) ve Yaratıcı'nın çoğunu bağışlama dengesi (42:30)."
+      },
+      {
+        "ayahs": [
+          "2:156",
+          "3:120",
+          "3:146",
+          "3:153",
+          "3:165",
+          "3:166",
+          "3:172",
+          "4:72",
+          "5:106",
+          "9:50",
+          "9:51",
+          "9:120",
+          "22:35",
+          "31:17",
+          "42:39",
+          "48:25",
+          "49:6",
+          "57:22",
+          "64:11"
+        ],
+        "text": "Sınav karşısında sebat, haksızlığa direniş ve bilgisizce zarar vermekten sakınma: Sarsıcı olayda Yaratıcı'ya dönüş bilinci (2:156, 9:51, 57:22, 64:11), yara ve zorluk karşısında yılmama ve sebat (3:146,153,165-166,172, 9:120, 22:35, 31:17), saldırıya karşı meşru dayanışma (42:39), yolculukta ölüm tanıklığı (5:106) ile araştırıp doğrulamadan bilgisizce bir topluluğa zarar isabet ettirmekten sakınma ilkesi (48:25, 49:6)."
+      }
+    ],
+    "context_default": "Bir etkinin, doğa olayının, rahmetin, sonucun veya sözün yörüngesinden sapmadan tam hedefine inip yerine oturması mekanizması."
   }
 }
