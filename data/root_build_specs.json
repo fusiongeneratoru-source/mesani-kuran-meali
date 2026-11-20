@@ -8396,5 +8396,208 @@
       }
     ],
     "context_default": "Bir şeyi başka bir şeye vurup darbe, yol, örtü/engel veya zihinde iz bırakan somut örnek/temsil kalıbı oluşturma mekanizması."
+  },
+  "ع-د-د": {
+    "buckwalter": "Edd",
+    "slug": "add_aded_iddet_idad_saymak_sayi_hazirlamak_edd",
+    "concept_name": "Add, Aded, İddet ve İ'dâd (Tek Tek Saymak, Sayılı Süre/Miktar ve Önceden Hazırlamak)",
+    "keywords": [
+      "add",
+      "aded",
+      "adet",
+      "sayi",
+      "saymak",
+      "iddet",
+      "idad",
+      "udde",
+      "madud",
+      "hazirlik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aEad~a",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Onlara karşı gücünüz yettiğince kuvvet hazırlayın (وَأَعِدُّوا۟ لَهُم — IV. bab emir fiil, 2. çoğul eril; 1 geçiş: 8:60)"
+      },
+      {
+        "lemma": ">aEad~a",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Öz denetim sahipleri / güvene erenler / gerçeği örtenler için hazırlandı (أُعِدَّتْ — IV. bab meçhûl mâzî fiil, 3. tekil dişil; 4 geçiş: 2:24, 3:131, 3:133, 57:21)"
+      },
+      {
+        "lemma": ">aEad~a",
+        "ayahs": [
+          "9:46"
+        ],
+        "label": "Onun için mutlaka bir hazırlık/donanım hazırlarlardı (لَأَعَدُّوا۟ لَهُۥ عُدَّةً — لَوْ cevabında IV. bab malûm mâzî fiil, 3. çoğul eril; 1 geçiş: 9:46)"
+      },
+      {
+        "lemma": ">aEad~a",
+        "label": "Allah onlar için önceden hazırladı (أَعَدَّ / وَأَعَدَّ — IV. bab malûm mâzî fiil, 3. tekil eril; 14 geçiş: 4:93, 4:102, 9:89, 9:100, 33:8, 33:29, 33:35, 33:44, 33:57, 33:64, 48:6, 58:15, 65:10, 76:31)"
+      },
+      {
+        "lemma": "Eud~ap",
+        "label": "Sefer için hazırlanan donanım ve hazırlık (عُدَّةً — mansûb mef'ûlün bih isim; 1 geçiş: 9:46)"
+      },
+      {
+        "lemma": "Eid~ap",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Başka günlerden aynı sayıda gün / onların bekleme süresi (فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ [2:184, 2:185] / فَعِدَّتُهُنَّ [65:4] — merfû mübtedâ/haber isim; 3 geçiş)"
+      },
+      {
+        "lemma": "Eid~ap",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Sayıyı / ayların sayısını / bekleme süresini / onların sayısını (ٱلْعِدَّةَ [2:185, 65:1] / عِدَّةَ [9:36, 9:37] / عِدَّتَهُمْ [74:31] — mansûb isim; 5 geçiş)"
+      },
+      {
+        "lemma": "Eid~ap",
+        "label": "Onların sayısını / bekleme süresinden / bekleme süreleri içinde (بِعِدَّتِهِم [18:22] / مِنْ عِدَّةٍ [33:49] / لِعِدَّتِهِنَّ [65:1] — harf-i cerle mecrûr isim; 3 geçiş)"
+      },
+      {
+        "lemma": "taEotad~u",
+        "label": "Kendisini sayıp hesaplayacağınız (bir bekleme süresi) (تَعْتَدُّونَهَا — عِدَّةٍ kelimesinin sıfatı olarak VIII. bab merfû muzâri fiil + mef'ûl zamiri; 1 geçiş: 33:49)"
+      },
+      {
+        "lemma": "Ead~a",
+        "ayahs": [
+          "14:34",
+          "16:18"
+        ],
+        "label": "Eğer Allah'ın nimetini saymaya kalksanız (وَإِن تَعُدُّوا۟ نِعْمَتَ / نِعْمَةَ ٱللَّهِ — إِنْ şart edatıyla meczûm I. bab muzâri fiil; 2 geçiş: 14:34, 16:18)"
+      },
+      {
+        "lemma": "Ead~a",
+        "ayahs": [
+          "19:94"
+        ],
+        "label": "Ve onları tek tek saymıştır (وَعَدَّهُمْ عَدًّا — I. bab malûm mâzî fiil + mef'ûl zamiri; 1 geçiş: 19:94)"
+      },
+      {
+        "lemma": "Ead~a",
+        "label": "Onlar için tek tek sayıyoruz / saymakta olduğunuzdan / onları sayıyorduk (نَعُدُّ [19:84] / تَعُدُّونَ [22:47, 32:5] / نَعُدُّهُم [38:62] — I. bab merfû muzâri fiil; 4 geçiş)"
+      },
+      {
+        "lemma": "Ead~",
+        "label": "Tek tek ve tam bir sayışla (عَدًّا — fiili pekiştiren mansûb mef'ûl-i mutlak masdarı; 2 geçiş: 19:84, 19:94)"
+      },
+      {
+        "lemma": "Ead~ada",
+        "label": "Ve onu (malı) tekrar tekrar sayıp yedekledi (وَعَدَّدَهُۥ — II. bab malûm mâzî fiil + mef'ûl zamiri; 1 geçiş: 104:2)"
+      },
+      {
+        "lemma": "EaA^d~iyn",
+        "label": "Sayanlara (zamanı ve yılları hesaplayanlara) (ٱلْعَآدِّينَ — mansûb cem-i müzekker sâlim ism-i fâil, Rasm'da elifsiz ٱلعادين; 1 geçiş: 23:113)"
+      },
+      {
+        "lemma": "m~aEoduwdap",
+        "word_rasm": [
+          "معدودت"
+        ],
+        "label": "Sayılı günler / sayılı günlerde (أَيَّامًا مَّعْدُودَٰتٍ [2:184, 3:24] / أَيَّامٍ مَّعْدُودَٰتٍ [2:203] — cem-i müennes sâlim ism-i mef'ûl sıfatı, Rasm'da elifsiz معدودت; 3 geçiş)"
+      },
+      {
+        "lemma": "m~aEoduwdap",
+        "label": "Sayılı birkaç gün / sayılı bir süreye / sayılı birkaç dirheme (أَيَّامًا مَّعْدُودَةً [2:80] / أُمَّةٍ مَّعْدُودَةٍ [11:8] / دَرَٰهِمَ مَعْدُودَةٍ [12:20] — müennes ism-i mef'ûl sıfatı; 3 geçiş)"
+      },
+      {
+        "lemma": "m~aEoduwd",
+        "label": "Sayılı ve hesaplanmış bir vadeye kadar (لِأَجَلٍ مَّعْدُودٍ — mecrûr ism-i mef'ûl sıfatı; 1 geçiş: 11:104)"
+      },
+      {
+        "lemma": "Eadad",
+        "ayahs": [
+          "10:5",
+          "17:12",
+          "23:112"
+        ],
+        "label": "Yılların sayısını (عَدَدَ ٱلسِّنِينَ / عَدَدَ سِنِينَ — mansûb ve muzâf isim; 3 geçiş)"
+      },
+      {
+        "lemma": "Eadad",
+        "label": "Sayılı nice (yıllar) / sayıca (daha az) / sayıca (tek tek kaydetti) (سِنِينَ عَدَدًا [18:11 sıfat] / أَقَلُّ عَدَدًا [72:24 temyîz] / كُلَّ شَىْءٍ عَدَدًۢا [72:28 temyîz] — mansûb isim/sıfat; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Tek tek sayma, sayılı miktar/süre (iddet) veya gelecek için önceden hazırlama bildiren türev (ع-د-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "10:5",
+          "14:34",
+          "16:18",
+          "17:12",
+          "18:11",
+          "19:84",
+          "19:94",
+          "22:47",
+          "23:112",
+          "23:113",
+          "32:5",
+          "38:62",
+          "72:24",
+          "72:28",
+          "104:2"
+        ],
+        "text": "Birimleri, yılları, nefesleri ve nimetleri tek tek saymak (عَدَّ / عَدَد / عَدًّا / ٱلْعَآدِّينَ / عَدَّدَ): İnsanın Allah'ın nimetlerini tek tek saymaya kalksa dahi onları kuşatıp tüketemeyeceği (14:34, 16:18), güneşin, ayın ve gece-gündüzün yılların sayısını ve hesabı bilmek için ölçülendirilmesi (10:5, 17:12, 18:11, 23:112-113), insanların saydığı yıllarla ilâhî zaman boyutunun farkı (22:47, 32:5), Allah'ın evrendeki her şeyi ve her insanı tek tek sayıp kayıt altına alması ve zalimlerin kalan günlerini sayması (19:84 [2x], 19:94 [2x], 72:24, 72:28), kibirli suçluların dürüst insanları dünyada kötülerden sayma yanılgısı (38:62) ve malı toplayıp tekrar tekrar sayarak kendini ölümsüzleştireceğini sanma (104:2)."
+      },
+      {
+        "ayahs": [
+          "2:80",
+          "2:184",
+          "2:203",
+          "3:24",
+          "11:8",
+          "11:104",
+          "12:20"
+        ],
+        "text": "Sayılı ve sınırlı günler, vadeler ve dirhemler (مَعْدُودَة / مَعْدُودَٰت / مَعْدُود): Öz denetim (savm) eğitiminin ve belirli günlerde Allah'ı anmanın kolaylaştırılmış sayılı günlerden ibaret oluşu (2:184, 2:203), sorumluluktan kaçanların 'ateş bize ancak sayılı birkaç gün dokunur' kuruntusu (2:80, 3:24), azabın ve hesap gününün ancak sayılı/belirli bir süreye ve vadeye kadar ertelenmesi (11:8, 11:104) ve Yûsuf'un değerini bilmeyenlerce tartılmaya bile gerek görülmeyen sayılı birkaç dirheme satılması (12:20)."
+      },
+      {
+        "ayahs": [
+          "2:185",
+          "9:36",
+          "9:37",
+          "18:22",
+          "33:49",
+          "65:1",
+          "65:4",
+          "74:31"
+        ],
+        "text": "Kozmik takvimde, öz denetimde ve boşanma hukukunda sayılmış miktar ve bekleme süresi (عِدَّة / تَعْتَدُّونَهَا): Öz denetim ayında hastalık ve yolculuk nedeniyle tutulamayan günlerin başka günlerde aynı sayıda tamamlanması (2:184, 2:185 [2x]), göklerin ve yerin yaratılışından beri ayların sayısının on iki oluşu ve haram ayların sayısını keyfî ertelemeyle (nesî') bozma yasağı (9:36, 9:37), mağara gençlerinin sayısını en iyi bilen Rabb'in boş sayı tartışmalarını reddetmesi ve yakıcı ateş üzerindeki görevlilerin sayısının bir sınama oluşu (18:22, 74:31) ile boşanma hukukunda temas öncesi iddet bulunmayışı ve temas sonrası bekleme süresinin (iddetin) dikkatle sayılıp korunması (33:49 [2x], 65:1 [2x], 65:4)."
+      },
+      {
+        "ayahs": [
+          "2:24",
+          "3:131",
+          "3:133",
+          "4:93",
+          "4:102",
+          "8:60",
+          "9:46",
+          "9:89",
+          "9:100",
+          "33:8",
+          "33:29",
+          "33:35",
+          "33:44",
+          "33:57",
+          "33:64",
+          "48:6",
+          "57:21",
+          "58:15",
+          "65:10",
+          "76:31"
+        ],
+        "text": "Savunma, sefer veya nihai karşılık için önceden hazırlamak ve donanım (أَعَدَّ / أُعِدَّتْ / عُدَّة): Saldırgan düşmanı caydırmak ve barışı korumak için elden gelen kuvveti önceden hazırlama emri (8:60), gerçekten sefere çıkmak isteyenin önceden hazırlık ve donanım (عُدَّة) yapacağı gerçeği (9:46 [2x]), güvene eren, öz denetim sahibi, dürüst ve dirençli erkeklerle kadınlar için Allah'ın önceden hazırladığı bağışlanma, onurlu ödül ve esenlik bahçeleri (3:133, 9:89, 9:100, 33:29, 33:35, 33:44, 57:21) ile gerçeğin üzerini örtenler, kasten cana kıyanlar, iki çıkışlı kaypaklar ve zalimler için hazırlanmış ağır azap (2:24, 3:131, 4:93, 4:102, 33:8, 33:57, 33:64, 48:6, 58:15, 65:10, 76:31)."
+      }
+    ],
+    "context_default": "Birimleri ve süreyi tek tek sayıp belirleme veya belirli bir vakit/amaç için önceden hazırlık yapma mekanizması."
   }
 }
