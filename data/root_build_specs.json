@@ -1735,5 +1735,166 @@
       }
     ],
     "context_default": "Canlı bedende veya bilinçte doğrudan duyumsanan acı/ağrı yahut bu acıyı derinden hissettiren yakıcı nitelik."
+  },
+  "ك-ل-م": {
+    "buckwalter": "klm",
+    "slug": "kelam_kelime_klm",
+    "concept_name": "Kelâm / Kelime / Kelimât / Teklîm (İz Bırakan Anlamlı Söz, Doğrudan Hitap, Bağlayıcı İlke ve Değişmez Yasa)",
+    "keywords": [
+      "kelam",
+      "kelime",
+      "kelimat",
+      "konusma",
+      "hitap",
+      "ilke",
+      "yasa",
+      "hukum"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "takoliym",
+        "label": "Doğrudan ve kesin bir hitapla konuşarak (تَكْلِيمًا — II. bab mef'ûl-i mutlak mastar; 4:164'te Yaratıcı'nın Musa ile doğrudan konuşmasını pekiştirir)"
+      },
+      {
+        "lemma": "kal~ama",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Ölüler kendisiyle konuşturulsaydı (كُلِّمَ — II. bab edilgen mâzi fiil; 13:31'de olağanüstü varsayım)"
+      },
+      {
+        "lemma": "kal~ama",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Doğrudan konuştu / hitap etti (كَلَّمَ — II. bab etken mâzi fiil; Yaratıcı'nın Musa'yla veya kralın Yusuf'la doğrudan konuşması)"
+      },
+      {
+        "lemma": "kal~ama",
+        "label": "Konuşur / hitap eder / konuşmamak (يُكَلِّمُ / تُكَلِّمُ / أُكَلِّمَ / نُكَلِّمُ — II. bab muzâri fiil; doğrudan sözlü hitap veya konuşmaktan men edilme)"
+      },
+      {
+        "lemma": "yatakal~amu",
+        "label": "Söz alıp konuşur / konuşabilir (تَكَلَّمُ / نَّتَكَلَّمَ / يَتَكَلَّمُ / يَتَكَلَّمُونَ — V. bab muzâri fiil; hesap günü izniyle konuşma veya iftirayı dile getirmeme)"
+      },
+      {
+        "lemma": "kala`m",
+        "label": "Yaratıcı'nın bütünlüklü sözü / hitabı (كَلَٰمَ / بِكَلَٰمِى — isim; işitilen, değiştirilemeyen ve Musa'ya özgü doğrudan hitap)"
+      },
+      {
+        "lemma": "kalim",
+        "label": "Anlamlı söz dizileri / temiz söz (ٱلْكَلِمَ / ٱلْكَلِمُ — topluluk ismi; yerinden kaydırılan vahiysel sözler veya Yaratıcı'ya yükselen temiz söz)"
+      },
+      {
+        "lemma": "kalima`t",
+        "label": "Yaratıcı'nın kelimeleri / değişmez yasaları / sınama ilkeleri (كَلِمَٰت — çoğul isim; tükenmeyen ve değiştirilemeyen varoluş yasaları ve buyruklar)"
+      },
+      {
+        "lemma": "kalimap",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "Bir kelime / ilke / önceden geçmiş yasa (كَلِمَةٌ / كَلِمَةً / كَلِمَةٍ — nekre tekil isim; yaratılış buyruğu, ortak ilke, temiz-bozuk söz veya önceden konmuş mühlet yasası)"
+      },
+      {
+        "lemma": "kalimap",
+        "label": "Kesin hüküm / yasa / söz (كَلِمَتُ / كَلِمَةُ / كَلِمَةَ — marife/muzâf tekil isim; yürürlüğe giren ilâhî yasa, yaratılış kelimesi veya sorumluluk sözü)"
+      }
+    ],
+    "irab_default": "İz bırakan anlamlı söz, doğrudan hitap, bağlayıcı ilke veya değişmez yasa (ك-ل-م kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:37",
+          "2:124",
+          "3:39",
+          "3:45",
+          "4:171",
+          "6:34",
+          "6:115",
+          "7:137",
+          "7:158",
+          "8:7",
+          "9:40",
+          "10:19",
+          "10:33",
+          "10:64",
+          "10:82",
+          "10:96",
+          "11:110",
+          "11:119",
+          "18:27",
+          "18:109",
+          "20:129",
+          "31:27",
+          "37:171",
+          "39:19",
+          "39:71",
+          "40:6",
+          "41:45",
+          "42:14",
+          "42:21",
+          "42:24",
+          "66:12"
+        ],
+        "text": "Yaratıcı'nın tükenmeyen, değiştirilemeyen varoluş yasaları, kesin hükmü ve yaratılış kelimesi: Denizlerin mürekkep olsa yetmeyeceği sonsuz yasalar (18:109, 31:27), doğruluk ve adaletle tamamlanan değişmez kelimeler (6:34,115, 10:64, 18:27), hakkı gerçekleştiren ve önceden mühlet koyan hüküm yasaları (7:137, 8:7, 9:40, 10:19,33,82,96, 11:110,119, 20:129, 37:171, 39:19,71, 40:6, 41:45, 42:14,21,24), Âdem ve İbrahim'e verilen ilkeler (2:37, 2:124) ile Meryem oğlu İsa'yı var eden ilâhî 'Ol' kelimesi (3:39,45, 4:171, 66:12)."
+      },
+      {
+        "ayahs": [
+          "2:75",
+          "2:118",
+          "2:174",
+          "2:253",
+          "3:77",
+          "4:46",
+          "4:164",
+          "5:13",
+          "5:41",
+          "7:143",
+          "7:144",
+          "9:6",
+          "42:51",
+          "48:15"
+        ],
+        "text": "Yaratıcı'nın doğrudan hitabı, kelâmı ve sözü bağlamından saptırma yasağı: Musa ile doğrudan ve kesin bir hitapla konuşma (2:253, 4:164, 7:143-144), insanla kurulan ilâhî iletişim kanalları (2:118, 42:51), sığınmacının Yaratıcı'nın sözünü işitme hakkı (9:6), ayetleri gizleyenlerle hesap gününde konuşulmaması (2:174, 3:77) ile Yaratıcı'nın sözünü bilerek yerinden kaydırıp değiştirme girişiminin reddi (2:75, 4:46, 5:13, 5:41, 48:15)."
+      },
+      {
+        "ayahs": [
+          "3:64",
+          "9:74",
+          "14:24",
+          "14:26",
+          "18:5",
+          "23:100",
+          "35:10",
+          "43:28",
+          "48:26"
+        ],
+        "text": "Temiz söz, ortak ilke, toplumsal sözleşme ve boş/çirkin iddia ayrımı: Kitap Ehli'ni eşit ortak ilkeye (كَلِمَةٍ سَوَآءٍ) davet (3:64), kökü sabit verimli ağaç gibi temiz ilke ile köksüz çirkin söz karşıtlığı (14:24,26), Yaratıcı'ya yükselen temiz söz (35:10), nesillere kalan tevhit ilkesi ve bilinçli korunma sözü (43:28, 48:26) karşısında ağır iftira sözü, gerçeği örtme sözü ve ölüm anındaki geçersiz dönüş sözü (9:74, 18:5, 23:100)."
+      },
+      {
+        "ayahs": [
+          "3:41",
+          "3:46",
+          "5:110",
+          "6:111",
+          "7:148",
+          "11:105",
+          "12:54",
+          "13:31",
+          "19:10",
+          "19:26",
+          "19:29",
+          "23:108",
+          "24:16",
+          "27:82",
+          "30:35",
+          "36:65",
+          "78:38"
+        ],
+        "text": "İnsanî konuşma, susma adağı, cansız putların konuşamaması ve hesap gününde organların dile gelmesi: Zekeriyya'nın üç gün konuşamaması ve Meryem'in susma adağı (3:41, 19:10,26), İsa'nın beşikte ve yetişkinlikte konuşması (3:46, 5:110, 19:29), kralın Yusuf'la konuşması (12:54), iftirayı dile almama ve cansız buzağının/sahte kanıtın konuşamaması (7:148, 24:16, 30:35), yerden çıkan canlının ve hesap gününde mühürlü ağız yerine ellerin konuşması (27:82, 36:65) ile yalnız Rahmân'ın izniyle söz söylenebilecek hesap günü (6:111, 11:105, 13:31, 23:108, 78:38)."
+      }
+    ],
+    "context_default": "Zihinde ve gerçeklikte kalıcı iz bırakan anlamlı söz, doğrudan hitap, bağlayıcı ilke veya değişmez yasa mekanizması."
   }
 }
