@@ -75,11 +75,18 @@ def verify_all():
         if len(words) != ayah_max_w[(s, a)]:
             errors.append(f"Kelime hizalama hatası {s}:{a}: uthmani={len(words)}, corpus={ayah_max_w[(s, a)]}")
 
-    # 2. Tüm 6.236 Türkçe ayette Tabula Rasa arındırma kontrolü
+    # 2. Tüm 6.236 Türkçe ayette birebir eşleşme, mükerrer ayet ve Tabula Rasa arındırma kontrolü
     raw_tr = load_verses(os.path.join(DATA_DIR, 'quran-turkish.txt'))
     if len(raw_tr) != 6236:
         errors.append(f"Türkçe ayet sayısı 6236 değil: {len(raw_tr)}")
-    for (s, a), txt in raw_tr.items():
+    prev_tr_ref = None
+    prev_tr_txt = None
+    for (s, a) in sorted(raw_tr.keys()):
+        txt = raw_tr[(s, a)]
+        if prev_tr_txt is not None and txt == prev_tr_txt:
+            errors.append(f"Mükerrer/birleşik Türkçe ayet hatası ({prev_tr_ref[0]}:{prev_tr_ref[1]} == {s}:{a})")
+        prev_tr_ref = (s, a)
+        prev_tr_txt = txt
         hits = find_forbidden_terms(purify_tabula_rasa(txt))
         if hits:
             errors.append(f"Tabula Rasa kalıntısı ({s}:{a}): {hits}")

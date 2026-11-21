@@ -922,7 +922,10 @@ def extract_turkish_snippet(full_tr, root_ar):
             snippet = snippet + ' ...'
         return snippet
 
-    return full_tr[:160] + '...'
+    cut = full_tr[:160]
+    if ' ' in cut:
+        cut = cut.rsplit(' ', 1)[0]
+    return cut + '...'
 
 
 def determine_literal_irab(root_ar, lemma, pos, features, s, a):
