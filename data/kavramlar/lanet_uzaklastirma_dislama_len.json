@@ -1,0 +1,879 @@
+{
+  "root": "ل-ع-ن",
+  "root_latin": "L-A-N (lEn)",
+  "concept_name": "La'net (Ağır Zulüm, Gizleme veya İftira Sonucu Koruma, Şefkat ve Destek Dairesinden Uzaklaştırma)",
+  "rank": 235,
+  "total_occurrences": 41,
+  "unique_ayahs_count": 36,
+  "unified_core_mechanism": "Sürüden ve himayeden kovulmuşluk (الإِبْعَادُ وَالطَّرْدُ) fiziksel çekirdeğinden hareketle; kasten cana kıyma, açık kanıtları gizleme, sözleşmeyi bozma, iftira ve kibirli bozgunculuk sonucunda koruma, şefkat ve destek dairesinden uzaklaştırıp dışlamak (لَعَنَ / لَعْنَة / مَلْعُون).",
+  "physical_core": "Bir varlığı bulunduğu güvenlik, koruma, kabul ve iyilik alanından kovup uzağa itmek, dışlayıp bağı kesmek (الْإِبْعَادُ وَالطَّرْدُ: sürüden ve barınaktan kovulmuş yalnız kurda `الذِّئْبُ اللَّعِين` denmesi ve evlilik bağını kesip karşılıklı uzaklaşmaya `لِعَان` denmesi).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökün tek sağlam asıl olduğunu ve doğrudan 'uzaklaştırmak, kovmak ve bağı kesmek (إِبْعَاد وَإِطْرَاد)' anlamına geldiğini belgeler.",
+    "lisan_al_arab": "İbn Manzûr, اللَّعْن sözcüğünün 'iyilikten uzaklaştırma ve kovma' olduğunu, sürüden dışlanmış kurda veya korkuluğa bu yüzden لَعِين dendiğini aktarır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî, اللَّعْن kavramını 'hoşnutsuzluk ve öfkeyle uzaklaştırıp kovma (الطَّرْدُ وَالْإِبْعَادُ عَلَى سَبِيلِ السَّخَطِ)' diye tanımlar; Yaratıcıdan geldiğinde şefkat ve yardım akışının kesilmesi, insandan geldiğinde ise o dışlanmayı dileme veya bağ koparma olduğunu açıklar.",
+    "arbitration_decision": "Üç klasik sözlük tam bir fikir birliği içindedir ve Kur'an'da `فَلَن تَجِدَ لَهُۥ نَصِيرًا` (4:52), `فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ` (47:23) ve `وَيَلْعَنُ بَعْضُكُم بَعْضًا` (29:25) çıpaları tek mekaniği mühürler: 'kuru bir beddua/sövgü değil; ağır zulüm, ihanet, gizleme veya iftira sonucu koruma, şefkat ve destek dairesinden uzaklaştırıp dışlamak'."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde 'lanetlemek/kovmak' için doğrudan *l-ʿ-n fiil eşkökenlisi tespit edilmedi (İbranice aynı kavramı אָרַר ʾārar ve קָלַל qālal ile taşır). İbranice לַעֲנָה (laʿănāh, BDB H3939: 'acı pelin otu') sesçe benzer olmakla birlikte bitki adı olarak farklı bir semantik alana aittir.",
+    "aramaic_and_syriac": "Klasik Aramice/Süryanicede 'kovup uzaklaştırmak' için doğrudan *l-ʿ-n fiil eşkökenlisi tespit edilmedi (لَاط / ܠܳܛ lāṭ kullanılır).",
+    "akkadian": "Doğu Sami'de doğrudan *l-ʿ-n eşkökenlisi tespit edilmedi.",
+    "geez_and_esa": "ل-ع-ن kökü klasik Arapçaya özgü güçlü bir 'kovma ve iyilik dairesinden dışlama' kökü olarak korunmuştur.",
+    "note": "Diğer Sami dillerinde doğrudan eşkökenli fiil bulunmaması dürüstçe kayıt altına alınmıştır; kökün Arapçadaki fiziksel çekirdeği olan 'sürüden ve himayeden uzaklaştırıp kovmak' Kur'an'ın 41 geçişinin tamamını sıfır çelişkiyle açıklar."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ن-ص-ر [وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا] (Koruma ve Destek Dairesinden Dışlanmak ↔ Yardımcı ve Destekçi Bulmak: 4:52)",
+      "ر-ح-م [إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ أَتُوبُ عَلَيْهِمْ] (Hakikati Gizleyip Dışlanmaya Uğramak ↔ Dönüp Açıklayarak Şefkat ve Kabule Kavuşmak: 2:159-160, 3:87-89)",
+      "و-د-د & ح-ب-ب [مَوَدَّةَ بَيْنِكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ يَوْمَ ٱلْقِيَٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍ وَيَلْعَنُ بَعْضُكُم بَعْضًا] (Dünyada Sahte Sevgi Bağı ↔ Hesap Anında Birbirini Kovup Dışlamak: 29:25)"
+    ],
+    "key_ayahs": [
+      "2:159-161 (إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا ... أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ)",
+      "4:52 & 4:93 & 47:23 (وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا / أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ)",
+      "7:38 & 29:25 (كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا / وَيَلْعَنُ بَعْضُكُم بَعْضًا)",
+      "3:61 & 24:7 & 11:18 & 13:25 (فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ / أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ)"
+    ],
+    "reverse_stress_test": "Aktif destek ve yardım görmek (نَصِير 4:52), şefkatle bağışlanıp kabul edilmek (2:160, 3:89) ve samimi sevgiyle yakınlaşmak (مَوَدَّة 29:25) karşıtlarının tersi alındığında; ل-ع-ن kökünün 'kuru küfür değil, koruma, şefkat ve dayanışma dairesinden uzaklaştırıp dışlamak' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "غَضِبَ ٱللَّهُ (G-D-B: Ağır Tepki ve Karşı Duruş) vs لَعَنَهُ (L-A-N: Koruma ve Şefkat Dairesinden Uzaklaştırıp Dışlama) [4:93, 5:60, 48:6]",
+      "ٱلْلَّعْنَةُ (L-A-N: İyilik ve Destekten Dışlanma Hükmü) vs سُوٓءُ ٱلدَّارِ (S-W-E + D-W-R: Yıkıcı Sonuç Yurdu) [13:25, 40:52]",
+      "يَكْفُرُ بَعْضُكُم بِبَعْضٍ (K-F-R: Birbirini Yok Sayıp Örtmek) vs يَلْعَنُ بَعْضُكُم بَعْضًا (L-A-N: Birbirini Kovup Dışlamak) [29:25]"
+    ],
+    "mechanical_difference": "1) 4:93 ve 48:6'da غَضَب haklı ve şiddetli yaptırım öfkesini, لَعْن ise bu öfkenin hukuki-varoluşsal sonucu olarak kişinin tüm yardım ve şefkat dairesinden kesilip uzaklaştırılmasını ayırır. 2) 29:25'te önce bağın yok sayılması (يَكْفُرُ), ardından karşı tarafı suçlayarak kendinden kovup dışlaması (يَلْعَنُ) iki ayrı aşama olarak verilir."
+  },
+  "anchor_ayahs": [
+    "4:52 & 47:23 (دestekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma olarak dışlanma)",
+    "2:159-161 & 5:13 & 13:25 (kanıtı gizleme, sözleşmeyi bozma ve yeryüzünde bozgunculuk karşılığı dışlanma)",
+    "3:61 & 24:7 & 24:23 (yalancıya ve namuslu kadınlara iftira atana karşı hukuki tanıklık yüzleşmesi)",
+    "7:38 & 29:25 & 15:35 & 38:78 (kibirle direnen saptırıcının ve suç ortaklarının karşılıklı dışlanması)"
+  ],
+  "grammar_and_branch_rules": "1) Hakikati Gizleme, Sözleşme Bozma ve Bozgunculuk Sonucu Dışlanma (2:88, 2:89, 2:159 [3x], 2:161, 3:87, 4:46, 4:47 [2x], 4:52 [2x], 5:13, 5:60, 5:64, 5:78, 11:18, 11:60, 11:99, 13:25, 28:42, 40:52, 47:23): Dışlanma daima bilinçli zulüm, çarpıtma ve bozgunculuğun karşılığıdır; dönüş ve açıklama yapıldığında kalkar (2:160, 3:89). 2) Ağır Suçlar ve Toplumsal İftira/Kışkırtma (4:93, 9:68, 24:7, 24:23, 33:57, 33:61, 33:64, 48:6): Kasten masum öldürme, iffete iftira, şehirde panik yayma ve iki çıkışlı bozgunculuk. 3) Kibirli Saptırıcı, Ağaç Sınavı ve Suç Ortaklarının Birbirini Dışlaması (3:61, 4:118, 7:38, 7:44, 15:35, 17:60, 29:25, 33:68 [2x], 38:78): Saptırıcıya ve suç ortaklarına yönelik kesin dışlanma.",
+  "derivatives": {
+    "لَعَنَ / يَلْعَنُ / لُعِنَ (Bab I Fiil - 23 geçiş)": "Ağır zulüm, ihanet veya iftira sonucu koruma, şefkat ve destek alanından uzaklaştırıp dışlamak (2:159, 4:52, 4:93, 47:23).",
+    "لَعْنَة / لَعْنَت (İsim - 14 geçiş)": "Şefkat ve destek dairesinden dışlanma hükmü (2:161, 3:61, 11:18, 13:25, 24:7, 38:78).",
+    "ٱللَّٰعِنُونَ (İsm-i Fâil - 1 geçiş: 2:159) & مَلْعُون / ٱلْمَلْعُونَة (İsm-i Mef'ûl - 2 geçiş: 17:60, 33:61) & لَعْنًا (Masdar - 1 geçiş: 33:68)": "Dışlayan tanıklar ve dışlanma hükmüne uğramış kişi/sınav ağacı."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 88,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:88",
+      "word_position": 5,
+      "target_word_uthmani": "لَّعَنَهُمُ",
+      "target_word_rasm": "لعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Dediler ki: kalplerimiz örtülü, kılıf içinde. İş öyle değil. Küfürleri yüzünden Allah onları rahmetinden uzaklaştırdı. Onun için azı, pek azı güven duy.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dediler ki: kalplerimiz örtülü, kılıf içinde. İş öyle değil. Küfürleri yüzünden Allah onları rahmetinden uzaklaştırdı. Onun için azı, pek azı güven duy.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 2,
+      "ayah": 89,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:89",
+      "word_position": 23,
+      "target_word_uthmani": "فَلَعْنَةُ",
+      "target_word_rasm": "فلعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "عَرَفُوا۟ كَفَرُوا۟ بِهِۦ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Evvelce gerçeğin üzerini örten olanlara üst gelmek için imdat isterlerken Allah tarafından, onların güven duy kitabı tasdik eden bir kitap geldi, bildikleri, tanıdıkları zuhur etti mi ona gerçeğin üzerini örten oldular. Hay Allah'ın laneti gerçeğin üzerini örtenlere olsun.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَهُمْ كِتَٰبٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُوا۟ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى ٱلَّذِينَ كَفَرُوا۟ فَلَمَّا جَآءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Evvelce gerçeğin üzerini örten olanlara üst gelmek için imdat isterlerken Allah tarafından, onların güven duy kitabı tasdik eden bir kitap geldi, bildikleri, tanıdıkları zuhur etti mi ona gerçeğin üzerini örten oldular. Hay Allah'ın laneti gerçeğin üzerini örtenlere olsun.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 2,
+      "ayah": 159,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:159",
+      "word_position": 17,
+      "target_word_uthmani": "يَلْعَنُهُمُ",
+      "target_word_rasm": "يلعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "فِى ٱلْكِتَٰبِ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "İndirdiğimiz apaçık delilleri, bildirdiğimiz dosdoğru yolu, insanlara Kur'an'da tamamıyla anlattıktan sonra bunu gizleyenlere gelince: Allah da onlara lanet eder, lanet edenler de.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِى ٱلْكِتَٰبِ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İndirdiğimiz apaçık delilleri, bildirdiğimiz dosdoğru yolu, insanlara Kur'an'da tamamıyla anlattıktan sonra bunu gizleyenlere gelince: Allah da onlara lanet eder, lanet edenler de.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 2,
+      "ayah": 159,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:159",
+      "word_position": 19,
+      "target_word_uthmani": "وَيَلْعَنُهُمُ",
+      "target_word_rasm": "ويلعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "İndirdiğimiz apaçık delilleri, bildirdiğimiz dosdoğru yolu, insanlara Kur'an'da tamamıyla anlattıktan sonra bunu gizleyenlere gelince: Allah da onlara lanet eder, lanet edenler de.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِى ٱلْكِتَٰبِ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İndirdiğimiz apaçık delilleri, bildirdiğimiz dosdoğru yolu, insanlara Kur'an'da tamamıyla anlattıktan sonra bunu gizleyenlere gelince: Allah da onlara lanet eder, lanet edenler de.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 2,
+      "ayah": 159,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:159",
+      "word_position": 20,
+      "target_word_uthmani": "ٱللَّٰعِنُونَ",
+      "target_word_rasm": "ٱللعنون",
+      "target_word_literal_irab": "Dışlayan tanıklar (ٱللَّٰعِنُونَ — ism-i fâil: 2:159)",
+      "context_snippet_arabic": "يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "İndirdiğimiz apaçık delilleri, bildirdiğimiz dosdoğru yolu, insanlara Kur'an'da tamamıyla anlattıktan sonra bunu gizleyenlere gelince: Allah da onlara lanet eder, lanet edenler de.",
+      "morphology": {
+        "lemma": "l~a`Einuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:l~a`Einuwn|ROOT:lEn|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِى ٱلْكِتَٰبِ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İndirdiğimiz apaçık delilleri, bildirdiğimiz dosdoğru yolu, insanlara Kur'an'da tamamıyla anlattıktan sonra bunu gizleyenlere gelince: Allah da onlara lanet eder, lanet edenler de.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 2,
+      "ayah": 161,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:161",
+      "word_position": 9,
+      "target_word_uthmani": "لَعْنَةُ",
+      "target_word_rasm": "لعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "كُفَّارٌ أُو۟لَٰٓئِكَ عَلَيْهِمْ لَعْنَةُ ٱللَّهِ وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olup küfründe ısrar ederek bu halle can verenler yok mu! Allah'ın laneti de onlara, buyruk elçilerinin laneti de, bütün insanların laneti de.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ أُو۟لَٰٓئِكَ عَلَيْهِمْ لَعْنَةُ ٱللَّهِ وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olup küfründe ısrar ederek bu halle can verenler yok mu! Allah'ın laneti de onlara, buyruk elçilerinin laneti de, bütün insanların laneti de.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 3,
+      "ayah": 61,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:61",
+      "word_position": 22,
+      "target_word_uthmani": "لَّعْنَتَ",
+      "target_word_rasm": "لعنت",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Ondan sonra da dua edelim ve Allah'ın lanetini yalancılara havale edelim.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|ACC"
+      },
+      "ayah_text_arabic_full": "فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana iyice bildirildikten sonra da gene bu hususta seninle tartışan olursa de ki: Gelin, oğullarımızı ve oğullarınızı, kadınlarımızı ve kadınlarınızı çağıralım, biz bizzat gelelim, siz de gelin. Ondan sonra da dua edelim ve Allah'ın lanetini yalancılara havale edelim.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 3,
+      "ayah": 87,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:87",
+      "word_position": 5,
+      "target_word_uthmani": "لَعْنَةَ",
+      "target_word_rasm": "لعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, o kişilerdir ki şüphesiz yaptıklarına karşılık Allah'ın, buyruk elçilerinin ve bütün insanların laneti onlaradır.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|ACC"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, o kişilerdir ki şüphesiz yaptıklarına karşılık Allah'ın, buyruk elçilerinin ve bütün insanların laneti onlaradır.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 4,
+      "ayah": 46,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:46",
+      "word_position": 32,
+      "target_word_uthmani": "لَّعَنَهُمُ",
+      "target_word_rasm": "لعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا",
+      "context_snippet_turkish_tabula_rasa": "... İşittik ve itaat ettik, bizi de dinle ve bize de bak deselerdi onlar için daha hayırlı, daha doğru olurdu, fakat Allah, küfürleri yüzünden onları rahmetinden uzaklaştırdı, pek azından başkası güven bağı gelmez onların.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudi olanlardan, sözleri yerlerinden alıp değiştirenler de var ve işittik de isyan ettik derler, işit, işitmeyesice ve dillerini eğip bükerek ve yaşam sistemini kınayarak bizi de gözet derler. İşittik ve itaat ettik, bizi de dinle ve bize de bak deselerdi onlar için daha hayırlı, daha doğru olurdu, fakat Allah, küfürleri yüzünden onları rahmetinden uzaklaştırdı, pek azından başkası güven bağı gelmez onların.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 4,
+      "ayah": 47,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:47",
+      "word_position": 20,
+      "target_word_uthmani": "نَلْعَنَهُمْ",
+      "target_word_rasm": "نلعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ",
+      "context_snippet_turkish_tabula_rasa": "Ey kendilerine kitap verilenler, yüzlerinizi mahvedip eski haline getirmeden, yahut cumartesi gününü tanıyanlara lanet ettiğimiz gibi size de lanet etmeden, sizdeki kitabı da gerçeklemek üzere indirdiğimiz kitaba güvene erin ve Allah'ın emri, mutlaka yerine gelecek.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:laEana|ROOT:lEn|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey kendilerine kitap verilenler, yüzlerinizi mahvedip eski haline getirmeden, yahut cumartesi gününü tanıyanlara lanet ettiğimiz gibi size de lanet etmeden, sizdeki kitabı da gerçeklemek üzere indirdiğimiz kitaba güvene erin ve Allah'ın emri, mutlaka yerine gelecek.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 4,
+      "ayah": 47,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:47",
+      "word_position": 22,
+      "target_word_uthmani": "لَعَنَّآ",
+      "target_word_rasm": "لعنا",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "Ey kendilerine kitap verilenler, yüzlerinizi mahvedip eski haline getirmeden, yahut cumartesi gününü tanıyanlara lanet ettiğimiz gibi size de lanet etmeden, sizdeki kitabı da gerçeklemek üzere indirdiğimiz kitaba güvene erin ve Allah'ın emri, mutlaka yerine gelecek.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|1P"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey kendilerine kitap verilenler, yüzlerinizi mahvedip eski haline getirmeden, yahut cumartesi gününü tanıyanlara lanet ettiğimiz gibi size de lanet etmeden, sizdeki kitabı da gerçeklemek üzere indirdiğimiz kitaba güvene erin ve Allah'ın emri, mutlaka yerine gelecek.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 4,
+      "ayah": 52,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:52",
+      "word_position": 3,
+      "target_word_uthmani": "لَعَنَهُمُ",
+      "target_word_rasm": "لعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ وَمَن يَلْعَنِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, o kişilerdir ki Allah onlara lanet etmiştir ve Allah kime lanet ettiyse ona gerçekten de hiçbir yardımcı bulunmaz.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, o kişilerdir ki Allah onlara lanet etmiştir ve Allah kime lanet ettiyse ona gerçekten de hiçbir yardımcı bulunmaz.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 4,
+      "ayah": 52,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:52",
+      "word_position": 6,
+      "target_word_uthmani": "يَلْعَنِ",
+      "target_word_rasm": "يلعن",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "لَعَنَهُمُ ٱللَّهُ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, o kişilerdir ki Allah onlara lanet etmiştir ve Allah kime lanet ettiyse ona gerçekten de hiçbir yardımcı bulunmaz.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:laEana|ROOT:lEn|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, o kişilerdir ki Allah onlara lanet etmiştir ve Allah kime lanet ettiyse ona gerçekten de hiçbir yardımcı bulunmaz.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 4,
+      "ayah": 93,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:93",
+      "word_position": 12,
+      "target_word_uthmani": "وَلَعَنَهُۥ",
+      "target_word_rasm": "ولعنه",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا",
+      "context_snippet_turkish_tabula_rasa": "Ve kim bir güvene ereni kasten öldürürse cezası yakıcı yıkım yurduna atılmaktır, ebedi kalır orada ve Allah ona gazap eder ve rahmetinden uzaklaştırır onu ve ona pek büyük bir azap hazırlamıştır da.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim bir güvene ereni kasten öldürürse cezası yakıcı yıkım yurduna atılmaktır, ebedi kalır orada ve Allah ona gazap eder ve rahmetinden uzaklaştırır onu ve ona pek büyük bir azap hazırlamıştır da.",
+      "contextual_meaning": "Masum cana kıyma, iffetli insanlara iftira atma ve toplumda bozgunculuk yayma karşılığında koruma dairesinden dışlanma (4:93, 24:7,23, 33:57-64)."
+    },
+    {
+      "surah": 4,
+      "ayah": 118,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:118",
+      "word_position": 1,
+      "target_word_uthmani": "لَّعَنَهُ",
+      "target_word_rasm": "لعنه",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "لَّعَنَهُ ٱللَّهُ وَقَالَ لَأَتَّخِذَنَّ",
+      "context_snippet_turkish_tabula_rasa": "Allah'sa ona lanet etmişti, o da demişti ki: Andolsun ki kullarından bir kısmını, ayartacağım da.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "لَّعَنَهُ ٱللَّهُ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَّفْرُوضًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'sa ona lanet etmişti, o da demişti ki: Andolsun ki kullarından bir kısmını, ayartacağım da.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 5,
+      "ayah": 13,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:13",
+      "word_position": 4,
+      "target_word_uthmani": "لَعَنَّٰهُمْ",
+      "target_word_rasm": "لعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً",
+      "context_snippet_turkish_tabula_rasa": "Ahitlerini bozdukları, verdikleri sözden döndükleri için lanet ettik onlara ve kalplerini katılaştırdık. Onlar, sözlerin yerini değiştirirler, kendilerine verilen öğütten bir hisse de almazlar. ...",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|1P"
+      },
+      "ayah_text_arabic_full": "فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ahitlerini bozdukları, verdikleri sözden döndükleri için lanet ettik onlara ve kalplerini katılaştırdık. Onlar, sözlerin yerini değiştirirler, kendilerine verilen öğütten bir hisse de almazlar. Pek azı müstesna daima hainliklerini duyarsın, gene de bağışla onları, geç suçlarından. Şüphe yok ki Allah, iyilik edenleri sever.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 5,
+      "ayah": 60,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:60",
+      "word_position": 11,
+      "target_word_uthmani": "لَّعَنَهُ",
+      "target_word_rasm": "لعنه",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "عِندَ ٱللَّهِ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "... Bundan daha fena olanları, Allah'ın cezasına uğramış bulunanları haber vereyim mi size? Allah'ın lanet ettiği, gazabına uğrattığı, içlerinden bir kısmını maymun ve domuz şekline soktuğu kişiler ve saptırıcı yıkıcı güç'a tapanlar. İşte bunlardır yeri daha kötü olanlar, doğru yoldan daha fazla sapmış bulunanlar.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ أُو۟لَٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Bundan daha fena olanları, Allah'ın cezasına uğramış bulunanları haber vereyim mi size? Allah'ın lanet ettiği, gazabına uğrattığı, içlerinden bir kısmını maymun ve domuz şekline soktuğu kişiler ve saptırıcı yıkıcı güç'a tapanlar. İşte bunlardır yeri daha kötü olanlar, doğru yoldan daha fazla sapmış bulunanlar.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 5,
+      "ayah": 64,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:64",
+      "word_position": 8,
+      "target_word_uthmani": "وَلُعِنُوا۟",
+      "target_word_rasm": "ولعنوا",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlandı (لُعِنَ / لُعِنُوا۟ — Bab I edilgen mâzî: 5:64, 5:78, 24:23)",
+      "context_snippet_arabic": "مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ",
+      "context_snippet_turkish_tabula_rasa": "Yahudiler, Allah'ın eli bağlıdır dediler, elleri bağlanasılar, söyledikleri söz yüzünden lanete uğrayasılar. Hayır, Allah'ın iki eli de açıktır, dilediği gibi ihsanda bulunur. ...",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:laEana|ROOT:lEn|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudiler, Allah'ın eli bağlıdır dediler, elleri bağlanasılar, söyledikleri söz yüzünden lanete uğrayasılar. Hayır, Allah'ın iki eli de açıktır, dilediği gibi ihsanda bulunur. Andolsun, Rabbinden sana indirilen, onlardan çoğunun azgınlığını, gerçeğin üzerini örten arttıracak ve biz, onların arasına kıyamete dek düşmanlık ve kin saldık. Ne vakit savaş için bir ateş yaktılarsa Allah söndürdü o ateşi ve onlar, yeryüzünde bozgunculuğa koşup dururlar ve Allah, bozguncuları sevmez.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 5,
+      "ayah": 78,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:78",
+      "word_position": 1,
+      "target_word_uthmani": "لُعِنَ",
+      "target_word_rasm": "لعن",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlandı (لُعِنَ / لُعِنُوا۟ — Bab I edilgen mâzî: 5:64, 5:78, 24:23)",
+      "context_snippet_arabic": "لُعِنَ ٱلَّذِينَ كَفَرُوا۟ مِنۢ",
+      "context_snippet_turkish_tabula_rasa": "İsrailoğullarından gerçeğin üzerini örten olanlara Davud'un diliyle de lanet edilmişti, Meryemoğlu İsa'nın diliyle de. Bu da isyan ettiklerinden ve aşırı gittiklerindendi.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "لُعِنَ ٱلَّذِينَ كَفَرُوا۟ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ وَعِيسَى ٱبْنِ مَرْيَمَ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarından gerçeğin üzerini örten olanlara Davud'un diliyle de lanet edilmişti, Meryemoğlu İsa'nın diliyle de. Bu da isyan ettiklerinden ve aşırı gittiklerindendi.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 7,
+      "ayah": 38,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:38",
+      "word_position": 17,
+      "target_word_uthmani": "لَّعَنَتْ",
+      "target_word_rasm": "لعنت",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا حَتَّىٰٓ إِذَا",
+      "context_snippet_turkish_tabula_rasa": "... Her ümmet, ateşe girdikçe kendi dindaşına lanet edecek, sonunda birbiri ardınca hepsi de orada toplanacak. Son girenler, evvelce girenler için Rabbimiz diyecekler, işte bunlar bizi doğru yoldan çıkardı, bir kat daha fazla azab et onlara. ...",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3FS"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ فِى ٱلنَّارِ كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟ فِيهَا جَمِيعًا قَالَتْ أُخْرَىٰهُمْ لِأُولَىٰهُمْ رَبَّنَا هَٰٓؤُلَآءِ أَضَلُّونَا فَـَٔاتِهِمْ عَذَابًا ضِعْفًا مِّنَ ٱلنَّارِ قَالَ لِكُلٍّ ضِعْفٌ وَلَٰكِن لَّا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "görünmeyen bilinçli varlıklardan ve insanlardan, sizden önce gelip geçen ümmetler arasında siz de girin ateşe diyecek. Her ümmet, ateşe girdikçe kendi dindaşına lanet edecek, sonunda birbiri ardınca hepsi de orada toplanacak. Son girenler, evvelce girenler için Rabbimiz diyecekler, işte bunlar bizi doğru yoldan çıkardı, bir kat daha fazla azab et onlara. Her zümre için diyecek, katkat fazla azap var ama siz bilmezsiniz.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 7,
+      "ayah": 44,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:44",
+      "word_position": 25,
+      "target_word_uthmani": "لَّعْنَةُ",
+      "target_word_rasm": "لعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "esenlik bahçesi ehli, yakıcı yıkım yurdu ehline biz, Rabbimiz bize neler vaadettiyse gerçek olarak hepsini bulduk, hepsini elde ettik, siz de Rabbinizin size vaadettiğini gerçek bir surette elde ettiniz mi diye nida eder, onlar da evet derler, derken aralarında bir münadi, Allah'ın laneti zalimlere diye bağırır.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا قَالُوا۟ نَعَمْ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "esenlik bahçesi ehli, yakıcı yıkım yurdu ehline biz, Rabbimiz bize neler vaadettiyse gerçek olarak hepsini bulduk, hepsini elde ettik, siz de Rabbinizin size vaadettiğini gerçek bir surette elde ettiniz mi diye nida eder, onlar da evet derler, derken aralarında bir münadi, Allah'ın laneti zalimlere diye bağırır.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 9,
+      "ayah": 68,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:68",
+      "word_position": 12,
+      "target_word_uthmani": "وَلَعَنَهُمُ",
+      "target_word_rasm": "ولعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "فِيهَا هِىَ حَسْبُهُمْ وَلَعَنَهُمُ ٱللَّهُ وَلَهُمْ عَذَابٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah, nifak sahibi erkeklerle kadınlara ve gerçeğin üzerini örtenlere yakıcı yıkım yurdu ateşini vaadetmiştir, orada ebedi kalırlar, o yeter onlara ve Allah onlara lanet etmiştir ve onlar içindir bitip tükenmeyen daimi azap.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "وَعَدَ ٱللَّهُ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْكُفَّارَ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَا هِىَ حَسْبُهُمْ وَلَعَنَهُمُ ٱللَّهُ وَلَهُمْ عَذَابٌ مُّقِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, nifak sahibi erkeklerle kadınlara ve gerçeğin üzerini örtenlere yakıcı yıkım yurdu ateşini vaadetmiştir, orada ebedi kalırlar, o yeter onlara ve Allah onlara lanet etmiştir ve onlar içindir bitip tükenmeyen daimi azap.",
+      "contextual_meaning": "Masum cana kıyma, iffetli insanlara iftira atma ve toplumda bozgunculuk yayma karşılığında koruma dairesinden dışlanma (4:93, 24:7,23, 33:57-64)."
+    },
+    {
+      "surah": 11,
+      "ayah": 18,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:18",
+      "word_position": 20,
+      "target_word_uthmani": "لَعْنَةُ",
+      "target_word_rasm": "لعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "عَلَىٰ رَبِّهِمْ أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yalan yere Allah'a iftira edenden daha zalim kimdir ki? Onlar, Rablerine arzedilecekler, tanıklar da işte bunlardı diyecekler, Rablerine karşı yalan söyleyenler. İyice bilin, Allah'ın laneti zalimleredir.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أُو۟لَٰٓئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ ٱلْأَشْهَٰدُ هَٰٓؤُلَآءِ ٱلَّذِينَ كَذَبُوا۟ عَلَىٰ رَبِّهِمْ أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yalan yere Allah'a iftira edenden daha zalim kimdir ki? Onlar, Rablerine arzedilecekler, tanıklar da işte bunlardı diyecekler, Rablerine karşı yalan söyleyenler. İyice bilin, Allah'ın laneti zalimleredir.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 11,
+      "ayah": 60,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:60",
+      "word_position": 5,
+      "target_word_uthmani": "لَعْنَةً",
+      "target_word_rasm": "لعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ أَلَآ",
+      "context_snippet_turkish_tabula_rasa": "Ve şu dünyada da lanete uğratıldılar, kıyamet gününde de. Bilin ki hiç şüphe yok Âd, Rablerine karşı gerçeğin üzerini örten oldu; ...",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأُتْبِعُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ أَلَآ إِنَّ عَادًا كَفَرُوا۟ رَبَّهُمْ أَلَا بُعْدًا لِّعَادٍ قَوْمِ هُودٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şu dünyada da lanete uğratıldılar, kıyamet gününde de. Bilin ki hiç şüphe yok Âd, Rablerine karşı gerçeğin üzerini örten oldu; bilin, uzaklık Hud'un kavmi Âd'a.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 11,
+      "ayah": 99,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:99",
+      "word_position": 4,
+      "target_word_uthmani": "لَعْنَةً",
+      "target_word_rasm": "لعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "وَأُتْبِعُوا۟ فِى هَٰذِهِۦ لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ بِئْسَ",
+      "context_snippet_turkish_tabula_rasa": "Burada da lanete uğradılar, kıyamet gününde de. Şu bağışlanan bağış, ne de kötü bağıştır.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأُتْبِعُوا۟ فِى هَٰذِهِۦ لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ بِئْسَ ٱلرِّفْدُ ٱلْمَرْفُودُ",
+      "ayah_text_turkish_tabula_rasa_full": "Burada da lanete uğradılar, kıyamet gününde de. Şu bağışlanan bağış, ne de kötü bağıştır.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 13,
+      "ayah": 25,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:25",
+      "word_position": 20,
+      "target_word_uthmani": "ٱللَّعْنَةُ",
+      "target_word_rasm": "ٱللعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "ٱلْأَرْضِ أُو۟لَٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ahdini, ona söz verdikten sonra bozanlara ve Allah'ın ulaştırmayı emrettiği şeyi kesenlere ve yeryüzünde bozgunculuk edenlere gelince: Öyle kişilerdir onlar ki lanet onlara ve onlarındır kötü sonuç.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ أُو۟لَٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ahdini, ona söz verdikten sonra bozanlara ve Allah'ın ulaştırmayı emrettiği şeyi kesenlere ve yeryüzünde bozgunculuk edenlere gelince: Öyle kişilerdir onlar ki lanet onlara ve onlarındır kötü sonuç.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 15,
+      "ayah": 35,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:35",
+      "word_position": 3,
+      "target_word_uthmani": "ٱللَّعْنَةَ",
+      "target_word_rasm": "ٱللعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ",
+      "context_snippet_turkish_tabula_rasa": "Ve gerçekten de yaşam ve hesap sistemi gününe dek lanet sana.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gerçekten de yaşam ve hesap sistemi gününe dek lanet sana.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 17,
+      "ayah": 60,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:60",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلْمَلْعُونَةَ",
+      "target_word_rasm": "ٱلملعونة",
+      "target_word_literal_irab": "Sınama vesilesi kılınan dışlanmış ağaç (ٱلْمَلْعُونَةَ — dişil ism-i mef'ûl: 17:60)",
+      "context_snippet_arabic": "فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ وَنُخَوِّفُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "An o zamanı, hani sana demiştik ki hiç şüphe yok, Rabbin, insanları çepeçevre kuşatmıştır ve biz sana gösterdiğimiz rüyayı da, Kur'an 'daki lanetlenmiş ağacı da ancak insanları sınamak için gösterdik ve onları korkutmadayız, fakat bu, ancak onların taşkınlıklarını arttırmada.",
+      "morphology": {
+        "lemma": "maloEuwnap",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maloEuwnap|ROOT:lEn|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı, hani sana demiştik ki hiç şüphe yok, Rabbin, insanları çepeçevre kuşatmıştır ve biz sana gösterdiğimiz rüyayı da, Kur'an 'daki lanetlenmiş ağacı da ancak insanları sınamak için gösterdik ve onları korkutmadayız, fakat bu, ancak onların taşkınlıklarını arttırmada.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 24,
+      "ayah": 7,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:7",
+      "word_position": 3,
+      "target_word_uthmani": "لَعْنَتَ",
+      "target_word_rasm": "لعنت",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن",
+      "context_snippet_turkish_tabula_rasa": "Beşincide, yalancılardansam Allah'ın laneti yalancıya diye tanıklık eder.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Beşincide, yalancılardansam Allah'ın laneti yalancıya diye tanıklık eder.",
+      "contextual_meaning": "Masum cana kıyma, iffetli insanlara iftira atma ve toplumda bozgunculuk yayma karşılığında koruma dairesinden dışlanma (4:93, 24:7,23, 33:57-64)."
+    },
+    {
+      "surah": 24,
+      "ayah": 23,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:23",
+      "word_position": 7,
+      "target_word_uthmani": "لُعِنُوا۟",
+      "target_word_rasm": "لعنوا",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlandı (لُعِنَ / لُعِنُوا۟ — Bab I edilgen mâzî: 5:64, 5:78, 24:23)",
+      "context_snippet_arabic": "ٱلْمُحْصَنَٰتِ ٱلْغَٰفِلَٰتِ ٱلْمُؤْمِنَٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ",
+      "context_snippet_turkish_tabula_rasa": "Hiçbir şeyden haberi olmayan hür, namuslu, güvene ermiş kadınlara iftira edenlere, dünyada da lanet edilmiştir, ahirette de ve onlaradır pek büyük azap.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:laEana|ROOT:lEn|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ٱلْغَٰفِلَٰتِ ٱلْمُؤْمِنَٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir şeyden haberi olmayan hür, namuslu, güvene ermiş kadınlara iftira edenlere, dünyada da lanet edilmiştir, ahirette de ve onlaradır pek büyük azap.",
+      "contextual_meaning": "Masum cana kıyma, iffetli insanlara iftira atma ve toplumda bozgunculuk yayma karşılığında koruma dairesinden dışlanma (4:93, 24:7,23, 33:57-64)."
+    },
+    {
+      "surah": 28,
+      "ayah": 42,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:42",
+      "word_position": 5,
+      "target_word_uthmani": "لَعْنَةً",
+      "target_word_rasm": "لعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ هُم",
+      "context_snippet_turkish_tabula_rasa": "Ve şu dünyada artlarından lanet ettik onlara ve kıyamet günü de onlar, çirkin bir azaba uğrayanlara katılacaklar.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَتْبَعْنَٰهُمْ فِى هَٰذِهِ ٱلدُّنْيَا لَعْنَةً وَيَوْمَ ٱلْقِيَٰمَةِ هُم مِّنَ ٱلْمَقْبُوحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şu dünyada artlarından lanet ettik onlara ve kıyamet günü de onlar, çirkin bir azaba uğrayanlara katılacaklar.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 29,
+      "ayah": 25,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:25",
+      "word_position": 19,
+      "target_word_uthmani": "وَيَلْعَنُ",
+      "target_word_rasm": "ويلعن",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "يَكْفُرُ بَعْضُكُم بِبَعْضٍ وَيَلْعَنُ بَعْضُكُم بَعْضًا وَمَأْوَىٰكُمُ",
+      "context_snippet_turkish_tabula_rasa": "Ve siz dedi, dünya yaşayışında birbirinize dost olduğunuzdan bu dostluk yüzünden Allah'ı bırakıp da putları mabud edindiniz, sonra da kıyamet günü, bir kısmınız, bir kısmınızı gerçeğin üzerini ört, bir kısmınız, bir kısmınıza lanet okuyacak ve yurdunuz ateştir ve size hiçbir yardımcı yoktur.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ إِنَّمَا ٱتَّخَذْتُم مِّن دُونِ ٱللَّهِ أَوْثَٰنًا مَّوَدَّةَ بَيْنِكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ يَوْمَ ٱلْقِيَٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍ وَيَلْعَنُ بَعْضُكُم بَعْضًا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve siz dedi, dünya yaşayışında birbirinize dost olduğunuzdan bu dostluk yüzünden Allah'ı bırakıp da putları mabud edindiniz, sonra da kıyamet günü, bir kısmınız, bir kısmınızı gerçeğin üzerini ört, bir kısmınız, bir kısmınıza lanet okuyacak ve yurdunuz ateştir ve size hiçbir yardımcı yoktur.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 33,
+      "ayah": 57,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:57",
+      "word_position": 6,
+      "target_word_uthmani": "لَعَنَهُمُ",
+      "target_word_rasm": "لعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de Allah'ı ve elçisini incitenlere Allah, dünyada da lanet etmiştir, ahirette de ve onlara, horlayıcı, aşağılatıcı bir azap hazırlamıştır.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de Allah'ı ve elçisini incitenlere Allah, dünyada da lanet etmiştir, ahirette de ve onlara, horlayıcı, aşağılatıcı bir azap hazırlamıştır.",
+      "contextual_meaning": "Masum cana kıyma, iffetli insanlara iftira atma ve toplumda bozgunculuk yayma karşılığında koruma dairesinden dışlanma (4:93, 24:7,23, 33:57-64)."
+    },
+    {
+      "surah": 33,
+      "ayah": 61,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:61",
+      "word_position": 1,
+      "target_word_uthmani": "مَّلْعُونِينَ",
+      "target_word_rasm": "ملعونين",
+      "target_word_literal_irab": "Koruma alanından tamamen dışlanmış hâlde (مَّلْعُونِينَ — çoğul ism-i mef'ûl: 33:61)",
+      "context_snippet_arabic": "مَّلْعُونِينَ أَيْنَمَا ثُقِفُوٓا۟ أُخِذُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Lanet edilmişler; nerede bulunurlarsa yakalanırlar ve boyuna öldürülüp dururlar.",
+      "morphology": {
+        "lemma": "m~aloEuwniyn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:m~aloEuwniyn|ROOT:lEn|MP|ACC"
+      },
+      "ayah_text_arabic_full": "مَّلْعُونِينَ أَيْنَمَا ثُقِفُوٓا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقْتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Lanet edilmişler; nerede bulunurlarsa yakalanırlar ve boyuna öldürülüp dururlar.",
+      "contextual_meaning": "Masum cana kıyma, iffetli insanlara iftira atma ve toplumda bozgunculuk yayma karşılığında koruma dairesinden dışlanma (4:93, 24:7,23, 33:57-64)."
+    },
+    {
+      "surah": 33,
+      "ayah": 64,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:64",
+      "word_position": 3,
+      "target_word_uthmani": "لَعَنَ",
+      "target_word_rasm": "لعن",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَٰفِرِينَ وَأَعَدَّ لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Allah, gerçeğin üzerini örtenlere lanet etmiştir ve onlara, yakıp kavurucu bir azap hazırlamıştır.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Allah, gerçeğin üzerini örtenlere lanet etmiştir ve onlara, yakıp kavurucu bir azap hazırlamıştır.",
+      "contextual_meaning": "Masum cana kıyma, iffetli insanlara iftira atma ve toplumda bozgunculuk yayma karşılığında koruma dairesinden dışlanma (4:93, 24:7,23, 33:57-64)."
+    },
+    {
+      "surah": 33,
+      "ayah": 68,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:68",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱلْعَنْهُمْ",
+      "target_word_rasm": "وٱلعنهم",
+      "target_word_literal_irab": "Onları ağır bir dışlamayla uzaklaştır (وَٱلْعَنْهُمْ — Bab I emir: 33:68)",
+      "context_snippet_arabic": "ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Rabbimiz, onları iki kat azaplandır ve onlara, pek büyük bir lanetle lanet et.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:laEana|ROOT:lEn|2MS"
+      },
+      "ayah_text_arabic_full": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbimiz, onları iki kat azaplandır ve onlara, pek büyük bir lanetle lanet et.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 33,
+      "ayah": 68,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:68",
+      "word_position": 7,
+      "target_word_uthmani": "لَعْنًا",
+      "target_word_rasm": "لعنا",
+      "target_word_literal_irab": "Büyük bir uzaklaştırma/dışlama (لَعْنًا — Bab I masdarı: 33:68)",
+      "context_snippet_arabic": "مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Rabbimiz, onları iki kat azaplandır ve onlara, pek büyük bir lanetle lanet et.",
+      "morphology": {
+        "lemma": "laEon",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEon|ROOT:lEn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbimiz, onları iki kat azaplandır ve onlara, pek büyük bir lanetle lanet et.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 38,
+      "ayah": 78,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:78",
+      "word_position": 3,
+      "target_word_uthmani": "لَعْنَتِىٓ",
+      "target_word_rasm": "لعنتى",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ",
+      "context_snippet_turkish_tabula_rasa": "Ve şüphe yok ki ceza gününedek benden lanet sana.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şüphe yok ki ceza gününedek benden lanet sana.",
+      "contextual_meaning": "Yalancılığa karşı hukuki yüzleşme, kibirli saptırıcının dışlanması ve suç ortaklarının hesap gününde birbirini kovup dışlaması (3:61, 7:38, 29:25)."
+    },
+    {
+      "surah": 40,
+      "ayah": 52,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:52",
+      "word_position": 7,
+      "target_word_uthmani": "ٱللَّعْنَةُ",
+      "target_word_rasm": "ٱللعنة",
+      "target_word_literal_irab": "Koruma ve şefkat dairesinden dışlanma hükmü (لَعْنَة / لَعْنَت — dişil isim: 14 geçiş)",
+      "context_snippet_arabic": "ٱلظَّٰلِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Bir gündür o gün ki zalimlerin özürleri fayda vermez ve onlaradır lanet ve onlarındır kötü yeryurt.",
+      "morphology": {
+        "lemma": "laEonap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:laEonap|ROOT:lEn|F|NOM"
+      },
+      "ayah_text_arabic_full": "يَوْمَ لَا يَنفَعُ ٱلظَّٰلِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir gündür o gün ki zalimlerin özürleri fayda vermez ve onlaradır lanet ve onlarındır kötü yeryurt.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 47,
+      "ayah": 23,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:23",
+      "word_position": 3,
+      "target_word_uthmani": "لَعَنَهُمُ",
+      "target_word_rasm": "لعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Öyle kişilerdir onlar ki Allah, lanet etmiştir onlara, onları sağırlaştırmakta ve gözlerini kör etmektedir.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle kişilerdir onlar ki Allah, lanet etmiştir onlara, onları sağırlaştırmakta ve gözlerini kör etmektedir.",
+      "contextual_meaning": "Açık kanıtları gizleme, sözleşmeyi bozma ve zulüm sonucu destekçisiz kalma ve gerçeğe karşı körleşip sağırlaşma (2:159, 4:52, 13:25, 47:23)."
+    },
+    {
+      "surah": 48,
+      "ayah": 6,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:6",
+      "word_position": 16,
+      "target_word_uthmani": "وَلَعَنَهُمْ",
+      "target_word_rasm": "ولعنهم",
+      "target_word_literal_irab": "Koruma, şefkat ve destek dairesinden uzaklaştırır / uzaklaştırdı (لَعَنَ / يَلْعَنُ — Bab I etken fiil)",
+      "context_snippet_arabic": "وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, erkek ve kadın iki çıkışlı kaypakları ve erkek ve kadın otoriteyi bölüşme ve ortak koşma koşanları azaplandırsın diye, kötülük, dönüp başlarına gelesi helak olasılar ve Allah gazap etmiştir onlara ve lanetlemiştir onları ve hazırlamıştır onlara yakıcı yıkım yurdunu ve orası, gidilecek ne de kötü yerdir.",
+      "morphology": {
+        "lemma": "laEana",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:laEana|ROOT:lEn|3MS"
+      },
+      "ayah_text_arabic_full": "وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, erkek ve kadın iki çıkışlı kaypakları ve erkek ve kadın otoriteyi bölüşme ve ortak koşma koşanları azaplandırsın diye, kötülük, dönüp başlarına gelesi helak olasılar ve Allah gazap etmiştir onlara ve lanetlemiştir onları ve hazırlamıştır onlara yakıcı yıkım yurdunu ve orası, gidilecek ne de kötü yerdir.",
+      "contextual_meaning": "Masum cana kıyma, iffetli insanlara iftira atma ve toplumda bozgunculuk yayma karşılığında koruma dairesinden dışlanma (4:93, 24:7,23, 33:57-64)."
+    }
+  ]
+}

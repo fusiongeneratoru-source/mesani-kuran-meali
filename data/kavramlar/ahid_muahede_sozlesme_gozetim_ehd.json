@@ -1,0 +1,981 @@
+{
+  "root": "ع-ه-د",
+  "root_latin": "A-H-D (Ehd)",
+  "concept_name": "Ahid ve Muâhede (Unutulmadan Sürekli Gözetilip Korunan Sözleşme, Emanet ve Taahhüt)",
+  "rank": 212,
+  "total_occurrences": 46,
+  "unique_ayahs_count": 36,
+  "unified_core_mechanism": "Bir sorumluluğu, talimatı, emaneti veya karşılıklı antlaşmayı unutmadan sürekli gözetip taze tutmak (حِفْظُ الشَّيْءِ وَمُرَاعَاتُهُ): Bab I'de ilke ve görevi açıkça tevdi etmek (`عَهِدَ إِلَى`), Bab III'te iki taraf arasında bağlayıcı sözleşme kurmak (`عَٰهَدَ`) ve isimde (`عَهْد`) hesabı sorulacak olan taahhüt, antlaşma ve gözetim süresi.",
+  "physical_core": "Bir şeyi unutmadan sürekli yoklayıp gözetmek, taze tutmak ve korumak (الِاحْتِفَاظُ بِالشَّيْءِ وَمُرَاعَاتُهُ حَالًا بَعْدَ حَالٍ — örneğin toprağı tazeleyen ardışık yağmura عَهْد denmesi ve 20:86 'aradan uzun süre/gözetim aralığı geçti' فَطَالَ عَلَيْكُمُ ٱلْعَهْدُ). Bu kökten hem bir sorumluluğu muhataba açıkça tevdi etmek (`عَهِدَ إِلَى`), hem iki tarafın karşılıklı sözleşme kurması (`عَٰهَدَ`), hem de her an hesabı sorulacak bağlayıcı taahhüt (`عَهْد`) doğar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökün tek asıl olduğunu ve 'bir şeyi dikkatle koruyup gözetmek, izini ve bağını taze tutmak' anlamına geldiğini kesinleştirir.",
+    "lisan_al_arab": "İbn Manzûr, الْعَهْد sözcüğünün güven, zimmet, koruma sorumluluğu, antlaşma, vasiyet ve zaman aralığı (20:86) anlamlarının tamamını 'sürekli gözetim ve bağlılık' merkezinde birleştirir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî, الْعَهْد kavramını 'bir şeyi durumdan duruma sürekli koruyup gözetmek (حِفْظُ الشَّيْءِ وَمُرَاعَاتُهُ حَالًا بَعْدَ حَالٍ)' olarak tanımlar ve antlaşmaya bu yüzden عَهْد dendiğini vurgular.",
+    "arbitration_decision": "Üç klasik sözlük ve Kur'an'ın 20:86 (zaman/gözetim aralığı), 17:34 (sorumluluk hesabı), 2:27/13:25 (مِيثَاق ile yan yana Furûk) ve 9:4 (siyasi/hukuki antlaşma) kullanımları tek çekirdeği doğrular: 'bir emaneti, talimatı veya karşılıklı sözleşmeyi unutmadan sürekli gözetip sadakatle korumak'."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde sesçe yakın *ʿ-w-d (עֵדוּת ʿēdūṯ: 'tanıklık, bağlayıcı yasa belgesi') benzer bir hukuk alanını taşır; ancak doğrudan orta he'li *ʿ-h-d kökü Arapçaya özgü gelişmiş bir yapıdır.",
+    "aramaic_and_syriac": "Klasik Süryanicede ܥܗܰܕ (ʿhad: 'hatırlamak, zihinde taze tutmak, gözetmek') — İbn Fâris'in 'unutmadan taze tutma ve gözetme' aslıyla %100 birebir ses ve anlam eşkökenlisidir!",
+    "akkadian": "Doğu Sami'de doğrudan *ʿ-h-d eşkökenlisi tespit edilmedi.",
+    "geez_and_esa": "Eski Güney Arapça (Sebece) ʿhd ('sözleşme, sorumluluk, hüküm') Arapça عَهْد ile doğrudan örtüşür.",
+    "note": "Süryanice ܥܗܰܕ ('hatırlayıp zihinde taze tutmak') ile Sebece ve Arapça عَهْد ('unutmadan gözetilen sözleşme') birleştiğinde, 20:115 ('Âdem'e عَهْد verdik fakat unuttu فَنَسِىَ') ayetindeki Mesânî karşıtlığı berrak biçimde aydınlanır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ن-س-ي [وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا] (Sorumluluğu Gözetip Taze Tutmak ↔ Unutup İhmal Etmek: 20:115, 20:86)",
+      "ن-ق-ض [ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ / وَلَا تَنقُضُوا۟ ٱلْأَيْمَٰنَ] (Sözleşmeye Sadık Kalıp Tamamlamak ↔ Düğümü Söküp Bozmaya Kalkmak: 2:27, 8:56, 13:25)",
+      "ن-ب-ذ [أَوَكُلَّمَا عَٰهَدُوا۟ عَهْدًا نَّبَذَهُۥ فَرِيقٌ مِّنْهُم] (Antlaşmayı Sahiplenip Korumak ↔ Arkaya Fırlatıp Atmak: 2:100)",
+      "ب-د-ل [فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ ... وَمَا بَدَّلُوا۟ تَبْدِيلًا] (Verdiği Sözde Sabit Durmak ↔ Sözünü Değiştirip Caymak: 33:23)",
+      "ف-س-ق (F-S-K (fsq) — Çift Yönlü Mesânî Karşılığı: 2:26-27, 7:102)"
+    ],
+    "key_ayahs": [
+      "17:34 & 2:40 & 16:91 (وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا / وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ)",
+      "2:27 & 13:20 & 13:25 (ٱلَّذِينَ يُوفُونَ بِعَهْدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلْمِيثَٰقَ ↔ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ)",
+      "9:4 & 9:7 & 48:10 (فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ / فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ)",
+      "20:86 & 20:115 & 33:23 (أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ / وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ / صَدَقُوا۟ مَا عَٰهَدُوا۟ ٱللَّهَ عَلَيْهِ)"
+    ],
+    "reverse_stress_test": "Unutup ihmal etmek (نَسِىَ 20:115), söküp bozmak (نَقَضَ 2:27), fırlatıp atmak (نَبَذَ 2:100) ve ucuz çıkara satmak (3:77, 16:95) karşıtlarının tersi alındığında; ع-ه-د kökünün 'bir emaneti, talimatı veya antlaşmayı unutmadan sürekli gözetip sadakatle yerine getirmek' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "عَهْد (A-H-D: Gözetilmesi Gereken Sorumluluk ve Sözleşme İçeriği) vs مِيثَٰق (W-S-K: O Sözleşmeyi Sıkı Düğümle Bağlayıp Garantiye Alan Pekişme Bağı) [2:27, 13:20, 13:25]",
+      "عَهْدِ ٱللَّهِ (A-H-D: İlahi/Toplumsal Sözleşme) vs أَيْمَٰنِهِمْ (Y-M-N: Sağ Elle Verilen Kesin Andlar) [3:77, 9:12, 16:91, 16:95]",
+      "أَمَٰنَٰتِهِمْ (E-M-N: Güvenle Bırakılan Emanetler) vs عَهْدِهِمْ (A-H-D: Üstlenilen Bağlayıcı Taahhütler) [23:8, 70:32]"
+    ],
+    "mechanical_difference": "1) 2:27, 13:20 ve 13:25'te عَهْد sözleşmenin ve taahhüdün bizzat içeriğini, مِيثَٰق ise o sözleşmeyi çözülemez bağla mühürleyen kesin teminatı ayırır. 2) 3:77 ve 16:91'de عَهْد taraflar arası hukuki taahhüt, أَيْمَٰن ise bu taahhüdü sözlü olarak pekiştiren andlardır. 3) 23:8 ve 70:32'de أَمَٰنَٰت kişiye güvenilerek teslim edilen hakları, عَهْد ise kişinin kendi sözüyle üstlendiği sorumlulukları ayırır."
+  },
+  "anchor_ayahs": [
+    "20:86 & 20:115 (أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ / وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ ... فَنَسِىَ — zaman/hatırlama ve gözetim çıpaları)",
+    "17:34 & 2:177 & 23:8 (وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا — sözleşmenin hesap sorumluluğu)",
+    "9:4 & 9:7 & 8:56 (karşı taraf sadık kaldıkça siyasi antlaşmayı süresinin sonuna kadar koruma hukuku)",
+    "2:124 & 19:87 & 33:23 (zalimlere ulaşmayan ilahi sorumluluk ahdi ve sözüne sadık kalanlar)"
+  ],
+  "grammar_and_branch_rules": "1) İlahi Emanet ve İnsanlığa Yönelik Temel Sorumluluk (2:40 [2x], 2:124, 2:125, 3:183, 7:134, 19:78, 19:87, 20:86, 20:115, 36:60, 43:49): Zalimlere erişmeyen liderlik ahdi (2:124), Âdem'e ve insanlığa açıkça bildirilen sorumluluk talimatı (20:115, 36:60). 2) Sözleşmeye Vefa ve Hesap Sorumluluğu (2:177 [2x], 3:76, 6:152, 9:111, 13:20, 16:91 [2x], 17:34 [2x], 23:8, 33:23, 48:10, 70:32): Verdiği sözü eksiksiz yerine getirme ve sözün sorumluluk hesabı. 3) Siyasi-Toplumsal Antlaşma Hukuku ve İhanet Uyarısı (2:27, 2:80 [2x], 2:100 [2x], 3:77, 7:102, 8:56 [2x], 9:1, 9:4 [2x], 9:7 [2x], 9:12, 9:75, 13:25, 16:95, 33:15 [2x]): Karşılıklı dürüstlük sürdükçe antlaşmayı süresince koruma ve antlaşmayı ucuz çıkara satmama uyarısı.",
+  "derivatives": {
+    "عَهْد / ٱلْعَهْد (İsim/Masdar - 29 geçiş)": "Unutulmadan gözetilmesi ve yerine getirilmesi zorunlu bağlayıcı sözleşme, taahhüt, sorumluluk emaneti ve gözetim süresi (2:27, 9:4, 17:34, 20:86).",
+    "عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ (Bab III Fiil - 11 geçiş)": "Karşılıklı bağlayıcı antlaşma ve sözleşme akdetmek (2:177, 9:4, 16:91, 33:23, 48:10).",
+    "عَهِدَ إِلَى / عَهِدْنَآ (Bab I Fiil - 6 geçiş: 2:125, 3:183, 7:134, 20:115, 36:60, 43:49)": "Açık talimat, görev ve sorumluluk sözü tevdi etmek."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 27,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:27",
+      "word_position": 3,
+      "target_word_uthmani": "عَهْدَ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ",
+      "context_snippet_turkish_tabula_rasa": "Kötülükte bulunanlar onlardır ki Allah'la ahdettikten sonra ahitlerini bozarlar. Allah'ın ulaştırılmasını emrettiği şeyi keserler, yeryüzünde bozgunculuk ederler. ...",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülükte bulunanlar onlardır ki Allah'la ahdettikten sonra ahitlerini bozarlar. Allah'ın ulaştırılmasını emrettiği şeyi keserler, yeryüzünde bozgunculuk ederler. Onlardır ziyankarlar.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 2,
+      "ayah": 40,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:40",
+      "word_position": 9,
+      "target_word_uthmani": "بِعَهْدِىٓ",
+      "target_word_rasm": "بعهدى",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ وَإِيَّٰىَ",
+      "context_snippet_turkish_tabula_rasa": "Ey İsrailoğulları, anın size verdiğim nimeti. Vefa edin ahdime de vefa edeyim ahdinize ve ancak benden korkun artık.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ وَإِيَّٰىَ فَٱرْهَبُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İsrailoğulları, anın size verdiğim nimeti. Vefa edin ahdime de vefa edeyim ahdinize ve ancak benden korkun artık.",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 2,
+      "ayah": 40,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:40",
+      "word_position": 11,
+      "target_word_uthmani": "بِعَهْدِكُمْ",
+      "target_word_rasm": "بعهدكم",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ وَإِيَّٰىَ فَٱرْهَبُونِ",
+      "context_snippet_turkish_tabula_rasa": "Ey İsrailoğulları, anın size verdiğim nimeti. Vefa edin ahdime de vefa edeyim ahdinize ve ancak benden korkun artık.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ وَإِيَّٰىَ فَٱرْهَبُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İsrailoğulları, anın size verdiğim nimeti. Vefa edin ahdime de vefa edeyim ahdinize ve ancak benden korkun artık.",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 2,
+      "ayah": 80,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:80",
+      "word_position": 12,
+      "target_word_uthmani": "عَهْدًا",
+      "target_word_rasm": "عهدا",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًا فَلَن يُخْلِفَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... De ki: Allah'tan bir söz mü aldınız? Aldınızsa Allah sözünden hiç dönmez. Yoksa Allah hakkında bilmediğiniz şeyi mi söylüyorsunuz?",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَةً قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dediler ki: Ateş, bizi yaksa bile birkaç gün yakar. De ki: Allah'tan bir söz mü aldınız? Aldınızsa Allah sözünden hiç dönmez. Yoksa Allah hakkında bilmediğiniz şeyi mi söylüyorsunuz?",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 2,
+      "ayah": 80,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:80",
+      "word_position": 16,
+      "target_word_uthmani": "عَهْدَهُۥٓ",
+      "target_word_rasm": "عهده",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ أَمْ تَقُولُونَ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "... De ki: Allah'tan bir söz mü aldınız? Aldınızsa Allah sözünden hiç dönmez. Yoksa Allah hakkında bilmediğiniz şeyi mi söylüyorsunuz?",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَةً قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dediler ki: Ateş, bizi yaksa bile birkaç gün yakar. De ki: Allah'tan bir söz mü aldınız? Aldınızsa Allah sözünden hiç dönmez. Yoksa Allah hakkında bilmediğiniz şeyi mi söylüyorsunuz?",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 2,
+      "ayah": 100,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:100",
+      "word_position": 2,
+      "target_word_uthmani": "عَٰهَدُوا۟",
+      "target_word_rasm": "عهدوا",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "أَوَكُلَّمَا عَٰهَدُوا۟ عَهْدًا نَّبَذَهُۥ فَرِيقٌ",
+      "context_snippet_turkish_tabula_rasa": "Onlarla bir ahde girişildi mi içlerinden bir bölüğü o ahdi bozacak ha. Bir bölüğünün ahdini bozması şöyle dursun, zaten çokları güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|3MP"
+      },
+      "ayah_text_arabic_full": "أَوَكُلَّمَا عَٰهَدُوا۟ عَهْدًا نَّبَذَهُۥ فَرِيقٌ مِّنْهُم بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlarla bir ahde girişildi mi içlerinden bir bölüğü o ahdi bozacak ha. Bir bölüğünün ahdini bozması şöyle dursun, zaten çokları güven duyup teslim olmazlar.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 2,
+      "ayah": 100,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:100",
+      "word_position": 3,
+      "target_word_uthmani": "عَهْدًا",
+      "target_word_rasm": "عهدا",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "أَوَكُلَّمَا عَٰهَدُوا۟ عَهْدًا نَّبَذَهُۥ فَرِيقٌ مِّنْهُم",
+      "context_snippet_turkish_tabula_rasa": "Onlarla bir ahde girişildi mi içlerinden bir bölüğü o ahdi bozacak ha. Bir bölüğünün ahdini bozması şöyle dursun, zaten çokları güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَوَكُلَّمَا عَٰهَدُوا۟ عَهْدًا نَّبَذَهُۥ فَرِيقٌ مِّنْهُم بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlarla bir ahde girişildi mi içlerinden bir bölüğü o ahdi bozacak ha. Bir bölüğünün ahdini bozması şöyle dursun, zaten çokları güven duyup teslim olmazlar.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 2,
+      "ayah": 124,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:124",
+      "word_position": 18,
+      "target_word_uthmani": "عَهْدِى",
+      "target_word_rasm": "عهدى",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "O zamanlar Rabbi, İbrahim'i bazı sözlerle sınadı. O, bunları yerine getirip tamamlayınca dedi ki: ...",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍ فَأَتَمَّهُنَّ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِى قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O zamanlar Rabbi, İbrahim'i bazı sözlerle sınadı. O, bunları yerine getirip tamamlayınca dedi ki: Ben seni insanlara imam edeceğim. İbrahim, soyumu da imam et dedi. Allah, benim ahdime dedi, zalimler nail olamazlar.",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 2,
+      "ayah": 125,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:125",
+      "word_position": 12,
+      "target_word_uthmani": "وَعَهِدْنَآ",
+      "target_word_rasm": "وعهدنا",
+      "target_word_literal_irab": "Açık talimat ve sorumluluk emaneti tevdi etti (عَهِدَ / عَهِدْنَآ — Bab I fiil: 6 geçiş)",
+      "context_snippet_arabic": "مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ",
+      "context_snippet_turkish_tabula_rasa": "O sıralarda Ka'be'yi eylem karşılığı kazanma yeri ve emniyet yurdu ettik. İbrahim'in makamını yöneliş ve irtibat odağı edinin. İbrahim'le İsmail'e de, evimi,...",
+      "morphology": {
+        "lemma": "Eahida",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eahida|ROOT:Ehd|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "O sıralarda Ka'be'yi eylem karşılığı kazanma yeri ve emniyet yurdu ettik. İbrahim'in makamını yöneliş ve irtibat odağı edinin. İbrahim'le İsmail'e de, evimi, dönüp dolaşanlara, burada oturup kulluk ve yönelişte bulunanlara, tevazu ile öne eğilme ve sücud edenlere tertemiz tutun diye kesin emir verdik.",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 2,
+      "ayah": 177,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:177",
+      "word_position": 37,
+      "target_word_uthmani": "بِعَهْدِهِمْ",
+      "target_word_rasm": "بعهدهم",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Hayır ve taat sahipleri, Allah'a, son güne, buyruk elçilerine, kitaba, elçilere güvene eren, Allah sevgisiyle yakınlara, yetimlere, yoksullara, yolda kalmışlara, isteyenlere ve esirlere mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren, ahdettikleri zaman ahitlerine vefa eden, sıkıntı ve şiddet vakitlerinde sebat edip direnen kişilerdir. Onlardır sözleri doğru olanlar, onlardır sakınanlar.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzlerinizi doğuya, batıya çevirip durmanız, hayır sayılmaz ki. Hayır ve taat sahipleri, Allah'a, son güne, buyruk elçilerine, kitaba, elçilere güvene eren, Allah sevgisiyle yakınlara, yetimlere, yoksullara, yolda kalmışlara, isteyenlere ve esirlere mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren, ahdettikleri zaman ahitlerine vefa eden, sıkıntı ve şiddet vakitlerinde sebat edip direnen kişilerdir. Onlardır sözleri doğru olanlar, onlardır sakınanlar.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 2,
+      "ayah": 177,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:177",
+      "word_position": 39,
+      "target_word_uthmani": "عَٰهَدُوا۟",
+      "target_word_rasm": "عهدوا",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ",
+      "context_snippet_turkish_tabula_rasa": "... Hayır ve taat sahipleri, Allah'a, son güne, buyruk elçilerine, kitaba, elçilere güvene eren, Allah sevgisiyle yakınlara, yetimlere, yoksullara, yolda kalmışlara, isteyenlere ve esirlere mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren, ahdettikleri zaman ahitlerine vefa eden, sıkıntı ve şiddet vakitlerinde sebat edip direnen kişilerdir. Onlardır sözleri doğru olanlar, onlardır sakınanlar.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|3MP"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzlerinizi doğuya, batıya çevirip durmanız, hayır sayılmaz ki. Hayır ve taat sahipleri, Allah'a, son güne, buyruk elçilerine, kitaba, elçilere güvene eren, Allah sevgisiyle yakınlara, yetimlere, yoksullara, yolda kalmışlara, isteyenlere ve esirlere mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren, ahdettikleri zaman ahitlerine vefa eden, sıkıntı ve şiddet vakitlerinde sebat edip direnen kişilerdir. Onlardır sözleri doğru olanlar, onlardır sakınanlar.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 3,
+      "ayah": 76,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:76",
+      "word_position": 4,
+      "target_word_uthmani": "بِعَهْدِهِۦ",
+      "target_word_rasm": "بعهده",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Yok, öyle değil iş. Kim ahdine vefa eder ve ondan sakınırsa bilsin ki gerçekten de Allah sakınanları sever.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yok, öyle değil iş. Kim ahdine vefa eder ve ondan sakınırsa bilsin ki gerçekten de Allah sakınanları sever.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 3,
+      "ayah": 77,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:77",
+      "word_position": 4,
+      "target_word_uthmani": "بِعَهْدِ",
+      "target_word_rasm": "بعهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'a verdikleri sözü ve onun adına, etmiş oldukları kesin andları, değeri az bir mataha değişenler yok mu, onlardır ahirette nasibi olmayanlar ve Allah, kıyamet gününde onlarla konuşmaz, yüzlerine bile bakmaz, onları arıtmaz ve onlar içindir elemli bir azap.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ لَهُمْ فِى ٱلْءَاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a verdikleri sözü ve onun adına, etmiş oldukları kesin andları, değeri az bir mataha değişenler yok mu, onlardır ahirette nasibi olmayanlar ve Allah, kıyamet gününde onlarla konuşmaz, yüzlerine bile bakmaz, onları arıtmaz ve onlar içindir elemli bir azap.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 3,
+      "ayah": 183,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:183",
+      "word_position": 5,
+      "target_word_uthmani": "عَهِدَ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Açık talimat ve sorumluluk emaneti tevdi etti (عَهِدَ / عَهِدْنَآ — Bab I fiil: 6 geçiş)",
+      "context_snippet_arabic": "قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ",
+      "context_snippet_turkish_tabula_rasa": "... Benden önce apaçık apaçık gösterge ve söylediğiniz apaçık gösterge birçok elçiler gelip geçti, doğruysa sözünüz ne diye öldürdünüz onları?",
+      "morphology": {
+        "lemma": "Eahida",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eahida|ROOT:Ehd|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakınlaşma sunusu ettiğini, bir yıldırım düşüp yakmadıkça güven duy hiçbir elçiye, bize böyle emretti Allah gerçekten de dediler. De ki: Benden önce apaçık apaçık gösterge ve söylediğiniz apaçık gösterge birçok elçiler gelip geçti, doğruysa sözünüz ne diye öldürdünüz onları?",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 6,
+      "ayah": 152,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:152",
+      "word_position": 28,
+      "target_word_uthmani": "وَبِعَهْدِ",
+      "target_word_rasm": "وبعهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Hiçbir kimseye, kudretinden aşırı bir şey teklif edilmemiştir ve söz söylediğiniz zaman hısımınız bile olsa adaleti mutlaka gözetin ve Allah'la ettiğiniz ahde vefa edin. İşte düşünüp öğüt almanız için bunları emretmiştir size.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ergenlik çağına gelinceye dek, en iyi bir şekilde olmadıkça yetimin malına yaklaşmayın ve ölçeği, teraziyi dosdoğru ölçüp tartın. Hiçbir kimseye, kudretinden aşırı bir şey teklif edilmemiştir ve söz söylediğiniz zaman hısımınız bile olsa adaleti mutlaka gözetin ve Allah'la ettiğiniz ahde vefa edin. İşte düşünüp öğüt almanız için bunları emretmiştir size.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 7,
+      "ayah": 102,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:102",
+      "word_position": 5,
+      "target_word_uthmani": "عَهْدٍ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ وَإِن وَجَدْنَآ أَكْثَرَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onların çoğunu, sözlerinde durur bulmadık ve çoğunu ancak hadlerini aşmış kötü kişiler bulduk.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların çoğunu, sözlerinde durur bulmadık ve çoğunu ancak hadlerini aşmış kötü kişiler bulduk.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 7,
+      "ayah": 134,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:134",
+      "word_position": 11,
+      "target_word_uthmani": "عَهِدَ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Açık talimat ve sorumluluk emaneti tevdi etti (عَهِدَ / عَهِدْنَآ — Bab I fiil: 6 geçiş)",
+      "context_snippet_arabic": "لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ لَئِن كَشَفْتَ",
+      "context_snippet_turkish_tabula_rasa": "... icabet edeceğine dair verdiği söze uyarak Rabbine dua et de bizden bu belayı defetsin, muhakkak sana güven duy ve İsrailoğullarını seninle göndereceğiz.",
+      "morphology": {
+        "lemma": "Eahida",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eahida|ROOT:Ehd|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ",
+      "ayah_text_turkish_tabula_rasa_full": "Azaba uğrayınca ya Musa diyorlardı; icabet edeceğine dair verdiği söze uyarak Rabbine dua et de bizden bu belayı defetsin, muhakkak sana güven duy ve İsrailoğullarını seninle göndereceğiz.",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 8,
+      "ayah": 56,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:56",
+      "word_position": 2,
+      "target_word_uthmani": "عَٰهَدتَّ",
+      "target_word_rasm": "عهدت",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ عَٰهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, kendileriyle ahitleştiğin kimselerdir, sonra her defasında da ahitlerini bozarlar ve onlar, hiç çekinmezler.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|2MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ عَٰهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِى كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, kendileriyle ahitleştiğin kimselerdir, sonra her defasında da ahitlerini bozarlar ve onlar, hiç çekinmezler.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 8,
+      "ayah": 56,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:56",
+      "word_position": 6,
+      "target_word_uthmani": "عَهْدَهُمْ",
+      "target_word_rasm": "عهدهم",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِى كُلِّ مَرَّةٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, kendileriyle ahitleştiğin kimselerdir, sonra her defasında da ahitlerini bozarlar ve onlar, hiç çekinmezler.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ عَٰهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِى كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, kendileriyle ahitleştiğin kimselerdir, sonra her defasında da ahitlerini bozarlar ve onlar, hiç çekinmezler.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 9,
+      "ayah": 1,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:1",
+      "word_position": 7,
+      "target_word_uthmani": "عَٰهَدتُّم",
+      "target_word_rasm": "عهدتم",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah ve Resulü, kendileriyle ahitleştiğiniz otoriteyi bölüşüp ortak koşanlardan beridir.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|2MP"
+      },
+      "ayah_text_arabic_full": "بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ve Resulü, kendileriyle ahitleştiğiniz otoriteyi bölüşüp ortak koşanlardan beridir.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 9,
+      "ayah": 4,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:4",
+      "word_position": 3,
+      "target_word_uthmani": "عَٰهَدتُّم",
+      "target_word_rasm": "عهدتم",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ",
+      "context_snippet_turkish_tabula_rasa": "Ancak otoriteyi bölüşüp ortak koşanlardan ahitleştiğiniz kimseler, bu ahitten sonra size karşı sözlerinden hiçbir suretle dönmemiş, şartlardan hiçbirini bozmamış ve aleyhinize hiçbir kimseye yardıma kalkışmamış olanlar müstesna. Onlarla olan ahdinizi, müddeti bitinciyedek tamamlayın. ...",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|2MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak otoriteyi bölüşüp ortak koşanlardan ahitleştiğiniz kimseler, bu ahitten sonra size karşı sözlerinden hiçbir suretle dönmemiş, şartlardan hiçbirini bozmamış ve aleyhinize hiçbir kimseye yardıma kalkışmamış olanlar müstesna. Onlarla olan ahdinizi, müddeti bitinciyedek tamamlayın. Şüphe yok ki Allah, çekinenleri sever.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 9,
+      "ayah": 4,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:4",
+      "word_position": 16,
+      "target_word_uthmani": "عَهْدَهُمْ",
+      "target_word_rasm": "عهدهم",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Ancak otoriteyi bölüşüp ortak koşanlardan ahitleştiğiniz kimseler, bu ahitten sonra size karşı sözlerinden hiçbir suretle dönmemiş, şartlardan hiçbirini bozmamış ve aleyhinize hiçbir kimseye yardıma kalkışmamış olanlar müstesna. Onlarla olan ahdinizi, müddeti bitinciyedek tamamlayın. ...",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak otoriteyi bölüşüp ortak koşanlardan ahitleştiğiniz kimseler, bu ahitten sonra size karşı sözlerinden hiçbir suretle dönmemiş, şartlardan hiçbirini bozmamış ve aleyhinize hiçbir kimseye yardıma kalkışmamış olanlar müstesna. Onlarla olan ahdinizi, müddeti bitinciyedek tamamlayın. Şüphe yok ki Allah, çekinenleri sever.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 9,
+      "ayah": 7,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:7",
+      "word_position": 4,
+      "target_word_uthmani": "عَهْدٌ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ",
+      "context_snippet_turkish_tabula_rasa": "otoriteyi bölüşüp ortak koşan, Allah ve elçiyi katında nasıl bir ahitleri olabilir ki? Ancak dokunulmaz teslimiyet odağı yanında ahitleştikleriniz müstesna. Onlar, size karşı doğru hareket ederlerse siz de onlara karşı doğru hareket edin. ...",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "otoriteyi bölüşüp ortak koşan, Allah ve elçiyi katında nasıl bir ahitleri olabilir ki? Ancak dokunulmaz teslimiyet odağı yanında ahitleştikleriniz müstesna. Onlar, size karşı doğru hareket ederlerse siz de onlara karşı doğru hareket edin. Şüphe yok ki Allah, çekinenleri sever.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 9,
+      "ayah": 7,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:7",
+      "word_position": 11,
+      "target_word_uthmani": "عَٰهَدتُّمْ",
+      "target_word_rasm": "عهدتم",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+      "context_snippet_turkish_tabula_rasa": "otoriteyi bölüşüp ortak koşan, Allah ve elçiyi katında nasıl bir ahitleri olabilir ki? Ancak dokunulmaz teslimiyet odağı yanında ahitleştikleriniz müstesna. Onlar, size karşı doğru hareket ederlerse siz de onlara karşı doğru hareket edin. ...",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|2MP"
+      },
+      "ayah_text_arabic_full": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "otoriteyi bölüşüp ortak koşan, Allah ve elçiyi katında nasıl bir ahitleri olabilir ki? Ancak dokunulmaz teslimiyet odağı yanında ahitleştikleriniz müstesna. Onlar, size karşı doğru hareket ederlerse siz de onlara karşı doğru hareket edin. Şüphe yok ki Allah, çekinenleri sever.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 9,
+      "ayah": 12,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:12",
+      "word_position": 6,
+      "target_word_uthmani": "عَهْدِهِمْ",
+      "target_word_rasm": "عهدهم",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "أَيْمَٰنَهُم مِّنۢ بَعْدِ عَهْدِهِمْ وَطَعَنُوا۟ فِى دِينِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ahitlerinden sonra gene kesin andlarını bozarlar ve yaşam sisteminizi kınarlarsa gerçeğin üzerini örtmeye baş olanlarla savaşın, şüphe yok ki kesin andını tutmayan kişilerdir onlar, belki bu suretle yaptıklarından vazgeçerler.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِن نَّكَثُوٓا۟ أَيْمَٰنَهُم مِّنۢ بَعْدِ عَهْدِهِمْ وَطَعَنُوا۟ فِى دِينِكُمْ فَقَٰتِلُوٓا۟ أَئِمَّةَ ٱلْكُفْرِ إِنَّهُمْ لَآ أَيْمَٰنَ لَهُمْ لَعَلَّهُمْ يَنتَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ahitlerinden sonra gene kesin andlarını bozarlar ve yaşam sisteminizi kınarlarsa gerçeğin üzerini örtmeye baş olanlarla savaşın, şüphe yok ki kesin andını tutmayan kişilerdir onlar, belki bu suretle yaptıklarından vazgeçerler.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 9,
+      "ayah": 75,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:75",
+      "word_position": 3,
+      "target_word_uthmani": "عَٰهَدَ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا",
+      "context_snippet_turkish_tabula_rasa": "Onlardan, bize lutfuyla, keremiyle ihsanda bulunursa biz de yoksullara tasadduk ederiz ve mutlaka iyi kişilerden oluruz diye Allah'la ahdedenler de var.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|3MS"
+      },
+      "ayah_text_arabic_full": "وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan, bize lutfuyla, keremiyle ihsanda bulunursa biz de yoksullara tasadduk ederiz ve mutlaka iyi kişilerden oluruz diye Allah'la ahdedenler de var.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 9,
+      "ayah": 111,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:111",
+      "word_position": 26,
+      "target_word_uthmani": "بِعَهْدِهِۦ",
+      "target_word_rasm": "بعهده",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Allah, kendilerine esenlik bahçesini vermek üzere güvene erenlerin canlarını, mallarını satın almıştır adeta; onlar öldürürler, öldürülürler, her...",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Allah, kendilerine esenlik bahçesini vermek üzere güvene erenlerin canlarını, mallarını satın almıştır adeta; onlar öldürürler, öldürülürler, her iki surette de vaadi gerçektir ve Tevrat'ta da sabittir, İncil'de de, Kur'an'da da ve ahdine Allah'tan daha ziyade vefa eden kimdir ki? Artık şu giriştiğiniz alışverişten dolayı sevinin ve budur işte en büyük kurtuluş ve saadet.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 13,
+      "ayah": 20,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:20",
+      "word_position": 3,
+      "target_word_uthmani": "بِعَهْدِ",
+      "target_word_rasm": "بعهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُوفُونَ بِعَهْدِ ٱللَّهِ وَلَا يَنقُضُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlardır Allah'la ahdettikleri şeye vefa edenler ve verdikleri sözden caymayanlar.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُوفُونَ بِعَهْدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلْمِيثَٰقَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardır Allah'la ahdettikleri şeye vefa edenler ve verdikleri sözden caymayanlar.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 13,
+      "ayah": 25,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:25",
+      "word_position": 3,
+      "target_word_uthmani": "عَهْدَ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ahdini, ona söz verdikten sonra bozanlara ve Allah'ın ulaştırmayı emrettiği şeyi kesenlere ve yeryüzünde bozgunculuk edenlere gelince: Öyle kişilerdir onlar ki lanet onlara ve onlarındır kötü sonuç.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ أُو۟لَٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ahdini, ona söz verdikten sonra bozanlara ve Allah'ın ulaştırmayı emrettiği şeyi kesenlere ve yeryüzünde bozgunculuk edenlere gelince: Öyle kişilerdir onlar ki lanet onlara ve onlarındır kötü sonuç.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 16,
+      "ayah": 91,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:91",
+      "word_position": 2,
+      "target_word_uthmani": "بِعَهْدِ",
+      "target_word_rasm": "بعهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَٰهَدتُّمْ",
+      "context_snippet_turkish_tabula_rasa": "Karşılıklı bir ahde girişince Allah ahdine vefa edin ve Allah'ı kefil göstererek ettiğiniz kesin andları, bu suretle pekiştirdikten sonra bozmayın; şüphe yok ki Allah, ne yaparsanız hepsini de bilir.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karşılıklı bir ahde girişince Allah ahdine vefa edin ve Allah'ı kefil göstererek ettiğiniz kesin andları, bu suretle pekiştirdikten sonra bozmayın; şüphe yok ki Allah, ne yaparsanız hepsini de bilir.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 16,
+      "ayah": 91,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:91",
+      "word_position": 5,
+      "target_word_uthmani": "عَٰهَدتُّمْ",
+      "target_word_rasm": "عهدتم",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "بِعَهْدِ ٱللَّهِ إِذَا عَٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَٰنَ",
+      "context_snippet_turkish_tabula_rasa": "Karşılıklı bir ahde girişince Allah ahdine vefa edin ve Allah'ı kefil göstererek ettiğiniz kesin andları, bu suretle pekiştirdikten sonra bozmayın; şüphe yok ki Allah, ne yaparsanız hepsini de bilir.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karşılıklı bir ahde girişince Allah ahdine vefa edin ve Allah'ı kefil göstererek ettiğiniz kesin andları, bu suretle pekiştirdikten sonra bozmayın; şüphe yok ki Allah, ne yaparsanız hepsini de bilir.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 16,
+      "ayah": 95,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:95",
+      "word_position": 3,
+      "target_word_uthmani": "بِعَهْدِ",
+      "target_word_rasm": "بعهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'la giriştiğiniz ahdi, az bir menfaat karşılığında satmayın ve Allah'ın katındaki yok mu, bilirseniz o, daha da hayırlıdır size.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'la giriştiğiniz ahdi, az bir menfaat karşılığında satmayın ve Allah'ın katındaki yok mu, bilirseniz o, daha da hayırlıdır size.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 17,
+      "ayah": 34,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:34",
+      "word_position": 13,
+      "target_word_uthmani": "بِٱلْعَهْدِ",
+      "target_word_rasm": "بٱلعهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ",
+      "context_snippet_turkish_tabula_rasa": "Ergenlik çağına erişinceye dek yetimin malına yaklaşmayın, ancak çok güzel bir tarzda o malı idare edebilirsiniz ve ahitlerinizde durun, şüphe yok ki ahitlerden sorumlusunuz siz.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ergenlik çağına erişinceye dek yetimin malına yaklaşmayın, ancak çok güzel bir tarzda o malı idare edebilirsiniz ve ahitlerinizde durun, şüphe yok ki ahitlerden sorumlusunuz siz.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 17,
+      "ayah": 34,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:34",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْعَهْدَ",
+      "target_word_rasm": "ٱلعهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+      "context_snippet_turkish_tabula_rasa": "Ergenlik çağına erişinceye dek yetimin malına yaklaşmayın, ancak çok güzel bir tarzda o malı idare edebilirsiniz ve ahitlerinizde durun, şüphe yok ki ahitlerden sorumlusunuz siz.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ergenlik çağına erişinceye dek yetimin malına yaklaşmayın, ancak çok güzel bir tarzda o malı idare edebilirsiniz ve ahitlerinizde durun, şüphe yok ki ahitlerden sorumlusunuz siz.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 19,
+      "ayah": 78,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:78",
+      "word_position": 7,
+      "target_word_uthmani": "عَهْدًا",
+      "target_word_rasm": "عهدا",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًا",
+      "context_snippet_turkish_tabula_rasa": "Gizli olan bir şeyi mi anlamış, yoksa rahmandan bir söz mü almış?",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gizli olan bir şeyi mi anlamış, yoksa rahmandan bir söz mü almış?",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 19,
+      "ayah": 87,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:87",
+      "word_position": 9,
+      "target_word_uthmani": "عَهْدًا",
+      "target_word_rasm": "عهدا",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًا",
+      "context_snippet_turkish_tabula_rasa": "Rahmandan ahd almış olanlardan başkaları şefaat de edemez.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rahmandan ahd almış olanlardan başkaları şefaat de edemez.",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 20,
+      "ayah": 86,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:86",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْعَهْدُ",
+      "target_word_rasm": "ٱلعهد",
+      "target_word_literal_irab": "Gözetim ve zaman aralığı (ٱلْعَهْدُ — 'aradan uzun süre geçti': 20:86)",
+      "context_snippet_arabic": "حَسَنًا أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن",
+      "context_snippet_turkish_tabula_rasa": "Musa, öfkeli bir halde hayıflanarak kavmine döndü de ey kavmim dedi, Rabbiniz size güzel bir farzda vaitte bulunmadı mı, çok mu uzun sürdü sizden ayrılışım, yoksa Rabbinizin gazabının vacip olmasını mı dilediniz size de bana verdiğiniz sözden caydınız?",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ يَٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, öfkeli bir halde hayıflanarak kavmine döndü de ey kavmim dedi, Rabbiniz size güzel bir farzda vaitte bulunmadı mı, çok mu uzun sürdü sizden ayrılışım, yoksa Rabbinizin gazabının vacip olmasını mı dilediniz size de bana verdiğiniz sözden caydınız?",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 20,
+      "ayah": 115,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:115",
+      "word_position": 2,
+      "target_word_uthmani": "عَهِدْنَآ",
+      "target_word_rasm": "عهدنا",
+      "target_word_literal_irab": "Açık talimat ve sorumluluk emaneti tevdi etti (عَهِدَ / عَهِدْنَآ — Bab I fiil: 6 geçiş)",
+      "context_snippet_arabic": "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki daha önce Âdem'le de ahitleşmiştik de unutmuştu ve onu, bilerek, isteyerek sapma ve ağır kusur işleyen bir adam olarak da bulmamıştık.",
+      "morphology": {
+        "lemma": "Eahida",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eahida|ROOT:Ehd|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki daha önce Âdem'le de ahitleşmiştik de unutmuştu ve onu, bilerek, isteyerek sapma ve ağır kusur işleyen bir adam olarak da bulmamıştık.",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 23,
+      "ayah": 8,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:8",
+      "word_position": 4,
+      "target_word_uthmani": "وَعَهْدِهِمْ",
+      "target_word_rasm": "وعهدهم",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve öyle kişilerdir onlar ki emanetlerine ve ahitlerine riayet ederler.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve öyle kişilerdir onlar ki emanetlerine ve ahitlerine riayet ederler.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 33,
+      "ayah": 15,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:15",
+      "word_position": 3,
+      "target_word_uthmani": "عَٰهَدُوا۟",
+      "target_word_rasm": "عهدوا",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "وَلَقَدْ كَانُوا۟ عَٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ",
+      "context_snippet_turkish_tabula_rasa": "Halbuki onlar, andolsun ki bundan önce söz de vermişlerdi Allah'a geri dönmemeleri için ve Allah'a verilen söz, sorulacaktır.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كَانُوا۟ عَٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَٰرَ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Halbuki onlar, andolsun ki bundan önce söz de vermişlerdi Allah'a geri dönmemeleri için ve Allah'a verilen söz, sorulacaktır.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 33,
+      "ayah": 15,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:15",
+      "word_position": 11,
+      "target_word_uthmani": "عَهْدُ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "يُوَلُّونَ ٱلْأَدْبَٰرَ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا",
+      "context_snippet_turkish_tabula_rasa": "Halbuki onlar, andolsun ki bundan önce söz de vermişlerdi Allah'a geri dönmemeleri için ve Allah'a verilen söz, sorulacaktır.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كَانُوا۟ عَٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَٰرَ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Halbuki onlar, andolsun ki bundan önce söz de vermişlerdi Allah'a geri dönmemeleri için ve Allah'a verilen söz, sorulacaktır.",
+      "contextual_meaning": "Siyasi ve toplumsal antlaşma hukuku: karşı taraf sadık kaldıkça antlaşmayı süresince koruma ve sözleşmeyi ucuz çıkara satmama uyarısı (9:4, 9:7, 3:77)."
+    },
+    {
+      "surah": 33,
+      "ayah": 23,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:23",
+      "word_position": 6,
+      "target_word_uthmani": "عَٰهَدُوا۟",
+      "target_word_rasm": "عهدوا",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "رِجَالٌ صَدَقُوا۟ مَا عَٰهَدُوا۟ ٱللَّهَ عَلَيْهِ فَمِنْهُم",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden öyle erler var ki Allah'a verdikleri sözde sadakat gösterirler; onlardan kimisi, adağını ödedi, kimisi de beklemede ve onlar, sözlerini, özlerini hiçbir suretle değiştirmediler.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|3MP"
+      },
+      "ayah_text_arabic_full": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌ صَدَقُوا۟ مَا عَٰهَدُوا۟ ٱللَّهَ عَلَيْهِ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ وَمَا بَدَّلُوا۟ تَبْدِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden öyle erler var ki Allah'a verdikleri sözde sadakat gösterirler; onlardan kimisi, adağını ödedi, kimisi de beklemede ve onlar, sözlerini, özlerini hiçbir suretle değiştirmediler.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 36,
+      "ayah": 60,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:60",
+      "word_position": 2,
+      "target_word_uthmani": "أَعْهَدْ",
+      "target_word_rasm": "أعهد",
+      "target_word_literal_irab": "Açık talimat ve sorumluluk emaneti tevdi etti (عَهِدَ / عَهِدْنَآ — Bab I fiil: 6 geçiş)",
+      "context_snippet_arabic": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَٰبَنِىٓ ءَادَمَ",
+      "context_snippet_turkish_tabula_rasa": "Ey Âdem oğulları, sakın saptırıcı yıkıcı güç'a kulluk etmeyin, şüphe yok ki o, apaçık bir düşmandır size diye emredip söz almadı mı sizden?",
+      "morphology": {
+        "lemma": "Eahida",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eahida|ROOT:Ehd|1S|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَٰبَنِىٓ ءَادَمَ أَن لَّا تَعْبُدُوا۟ ٱلشَّيْطَٰنَ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Âdem oğulları, sakın saptırıcı yıkıcı güç'a kulluk etmeyin, şüphe yok ki o, apaçık bir düşmandır size diye emredip söz almadı mı sizden?",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 43,
+      "ayah": 49,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:49",
+      "word_position": 8,
+      "target_word_uthmani": "عَهِدَ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Açık talimat ve sorumluluk emaneti tevdi etti (عَهِدَ / عَهِدْنَآ — Bab I fiil: 6 geçiş)",
+      "context_snippet_arabic": "لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve ey büyücü demişlerdi, sana söz verdiğini sandığın Rabbine yalvar bizim için, şüphe yok ki biz de elbette doğru yola geliriz.",
+      "morphology": {
+        "lemma": "Eahida",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eahida|ROOT:Ehd|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ey büyücü demişlerdi, sana söz verdiğini sandığın Rabbine yalvar bizim için, şüphe yok ki biz de elbette doğru yola geliriz.",
+      "contextual_meaning": "İlahi sorumluluk emaneti, zalimlere ulaşmayan önderlik ahdi ve Âdem'e verilen sözün unutulmaması uyarısı (2:124, 20:86, 20:115, 36:60)."
+    },
+    {
+      "surah": 48,
+      "ayah": 10,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:10",
+      "word_position": 20,
+      "target_word_uthmani": "عَٰهَدَ",
+      "target_word_rasm": "عهد",
+      "target_word_literal_irab": "Karşılıklı sözleşme ve bağlayıcı antlaşma yaptı (عَٰهَدَ / عَٰهَدُوا۟ / عَٰهَدتُّمْ — Bab III fiil: 11 geçiş)",
+      "context_snippet_arabic": "وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ",
+      "context_snippet_turkish_tabula_rasa": "... artık kim dönerse zararı kendi kendi benliğinedir ve kim Allah'la ahitleştiği şeyde durursa ona, yakında büyük bir ecir verilecektir.",
+      "morphology": {
+        "lemma": "Ea`hada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:Ea`hada|ROOT:Ehd|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki seninle biatlaşanlar, ancak Allah'la biatlaşmışlardır, Allah'ın eli, onların ellerinin üstündedir; artık kim dönerse zararı kendi kendi benliğinedir ve kim Allah'la ahitleştiği şeyde durursa ona, yakında büyük bir ecir verilecektir.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    },
+    {
+      "surah": 70,
+      "ayah": 32,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:32",
+      "word_position": 4,
+      "target_word_uthmani": "وَعَهْدِهِمْ",
+      "target_word_rasm": "وعهدهم",
+      "target_word_literal_irab": "Gözetilmesi ve yerine getirilmesi zorunlu sözleşme/taahhüt (عَهْد / ٱلْعَهْد — isim/masdar: 28 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve öyle kişilerdir onlar ki emanetlerine ve ahitlerine riayet ederler.",
+      "morphology": {
+        "lemma": "Eahod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eahod|ROOT:Ehd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve öyle kişilerdir onlar ki emanetlerine ve ahitlerine riayet ederler.",
+      "contextual_meaning": "Sözleşmeye sadakat, emanetlere riayet ve verilen her sözün hesabının sorulacağı ilkesi (17:34, 23:8, 33:23)."
+    }
+  ]
+}

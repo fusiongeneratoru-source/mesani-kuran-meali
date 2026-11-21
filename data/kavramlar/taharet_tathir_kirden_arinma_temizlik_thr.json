@@ -1,0 +1,680 @@
+{
+  "root": "ط-ه-ر",
+  "root_latin": "T-H-R (Thr)",
+  "concept_name": "Tahâret ve Tathîr (Maddi ve Ahlaki Her Türlü Kir, Leke ve Pislikten Arınma ve Arındırma)",
+  "rank": 289,
+  "total_occurrences": 31,
+  "unique_ayahs_count": 26,
+  "unified_core_mechanism": "Maddi veya ahlaki her türlü kir, leke, bulaşık ve pisliği (`رِجْس / رُجْز / أَذًى`) gidererek saf, temiz ve şaibesiz kılmak (النَّقَاءُ وَالْخُلُوُّ مِنَ الْأَدْنَاسِ): doğada arındırıcı su (`مَآءً طَهُورًا`), günlük yaşamda beden-giysi-mekân temizliği (`5:6`, `74:4`, `2:125`), ahlak ve hukukta gönül, mal, aile ve metin arınmışlığı (`2:232`, `9:103`, `33:53`, `98:2`).",
+  "physical_core": "Suyla veya özenli bakımla bedendeki, giysideki (74:4), mekândaki (2:125, 22:26) ve doğadaki (25:48 `مَآءً طَهُورًا`) her türlü somut kir, leke, bulaşık ve pisliğin (`رِجْس / أَذًى`) giderilip saf ve temiz hâle getirilmesi (النَّقَاءُ وَالْخُلُوُّ مِنَ الْأَدْنَاسِ). Bu fiziksel temizlik mekaniği, zihnin ve toplumun ahlaki lekelerden, sapkınlıktan, cimrilikten ve kötü niyetlerden arınmasına (`3:42`, `5:41`, `9:103`, `33:53`, `58:12`) birebir uzanır.",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökün tek sağlam aslının 'kirden ve lekeden tamamen arınıp saf kalmak (النَّقَاءُ وَالْخُلُوُّ مِنَ الْأَدْنَاسِ)' olduğunu belirtir.",
+    "lisan_al_arab": "İbn Manzûr, الطُّهْر kavramının pisliğin (نَجَاسَة / رِجْس) tam karşıtı olduğunu; suyla bedeni yıkamaktan kalbin ve mekânın arınmasına kadar tek mekanikle işlediğini aktarır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî, طَهَارَة kavramını somut beden-giysi-mekân temizliği ve kalp-ahlak temizliği olarak iki boyutta açıklar; ikisinin de aynı 'kir ve pisliği giderme' esasına dayandığını vurgular.",
+    "arbitration_decision": "Üç klasik sözlük, İbranice טָהֵר (*ṭāhēr*) ve Süryanice ܛܗܰܪ (*ṭhar*) tam eşkökenliliği ve Kur'an'ın `25:48` (arındırıcı su), `74:4` (giysi temizliği), `8:11`/`33:33` (`رِجْس ↔ طَهَّرَ`) ve `2:232`/`9:103` (`طَهَّرَ` vs `زَكَّىٰ`) çıpaları tek çekirdeği mühürler: 'maddi veya ahlaki her türlü kir, leke ve pisliği (رِجْس) giderip saf ve temiz kılmak'."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesi טָהֵר (ṭāhēr, BDB H2891: 'temiz, arı ve lekesiz olmak; Piel babında arındırmak') ve sıfat טָהוֹר (ṭāhōr: 'temiz, saf' — Arapça طَهُور ile %100 birebir eşkökendir).",
+    "aramaic_and_syriac": "Aramice ve Klasik Süryanice ܛܗܰܪ (ṭhar: 'arınmak, temizlenmek, lekeden kurtulmak') Arapça ط-ه-ر ile birebir ses ve anlam paralelliğindedir.",
+    "akkadian": "Doğu Sami'de aynı alan ebēbu / ellu kökleriyle karşılanır.",
+    "geez_and_esa": "Ugaritçe ṭhr ('saf, parlak, temiz') ve Eski Güney Arapça (Sebece) ṭhr ('temiz, arı') tam eşkökenlidir.",
+    "note": "Ugaritçe, İbranice, Aramice/Süryanice, Sebece ve Arapçada *ṭ-h-r kökü hiçbir ses kırılması olmadan 'kir ve lekeden arınmış saf temizlik' çekirdeğini taşır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ر-ج-س [وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَٰنِ / لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ ... وَيُطَهِّرَكُمْ تَطْهِيرًا] (Kirden ve Pislikten Arındırmak ↔ Maddi/Ahlaki Pislik ve Çürüme: 8:11, 33:33, 74:4-5)",
+      "أ-ذ-ي [قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ ... حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ] (Doğal Kanama/Eziyet Hâli ↔ Temizlenip Arınmak: 2:222)",
+      "ف-ح-ش [أَتَأْتُونَ ٱلْفَٰحِشَةَ ... إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ] (Ahlaki Çirkinlik ve Taşkınlık ↔ İffetle Arınmayı Seçenler: 7:80-82, 27:54-56)",
+      "ف-ت-ن (F-T-N (ftn) — Çift Yönlü Mesânî Karşılığı: 5:41)"
+    ],
+    "key_ayahs": [
+      "2:222 & 5:6 & 8:11 & 25:48 (وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً طَهُورًا / وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ / وَيُحِبُّ ٱلْمُتَطَهِّرِينَ)",
+      "2:125 & 22:26 & 74:4-5 (طَهِّرَا بَيْتِىَ / وَثِيَابَكَ فَطَهِّرْ وَٱلرُّجْزَ فَٱهْجُرْ)",
+      "2:232 & 9:103 & 33:33 & 33:53 (تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا / ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ)",
+      "56:79 & 80:14 & 98:2 (لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ / صُحُفًا مُّطَهَّرَةً)"
+    ],
+    "reverse_stress_test": "Maddi-ahlaki pislik (رِجْس / رُجْز 8:11, 33:33, 74:5), eziyet/kanama hâli (أَذًى 2:222) ve ahlaki taşkınlık (فَٰحِشَة 7:80-82) karşıtlarının tersi alındığında; ط-ه-ر kökünün 'her türlü maddi ve ahlaki kir, leke ve pisliği giderip saf kılmak' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "تُطَهِّرُهُمْ / أَطْهَرُ (T-H-R: Mevcut Kir ve Lekeyi Giderip Temizlemek — Negatif Temizlik) vs تُزَكِّيهِم / أَزْكَىٰ (Z-K-W: Temizlenen Özün Sağlıklı Biçimde Büyüyüp Gelişmesi — Pozitif Gelişim) [2:232, 9:103]",
+      "ٱلتَّوَّٰبِينَ (T-W-B: Yanlıştan Bilinçle Geri Dönenler) vs ٱلْمُتَطَهِّرِينَ (T-H-R: Maddi ve Ahlaki Kirden Sürekli Arınanlar) [2:222]",
+      "ٱصْطَفَىٰكِ (S-F-W: Süzüp Seçkin Kılmak) vs طَهَّرَكِ (T-H-R: Her Türlü Şaibe ve Lekeden Arındırmak) [3:42]"
+    ],
+    "mechanical_difference": "1) 2:232 ve 9:103'te طَهَارَة mevcut kir, leke ve bencilliğin yıkanıp giderilmesini; زَكَاة/تَزْكِيَة ise o temizlik zemininde insanın ve toplumun bereketle boy atıp gelişmesini ayırır. 2) 2:222'de ilk aşama fizyolojik arınmayı (يَطْهُرْنَ Bab I), ikinci aşama ise kişinin bilinçli temizliğini (تَطَهَّرْنَ Bab V) ayırır."
+  },
+  "anchor_ayahs": [
+    "25:48 & 5:6 & 8:11 & 74:4 (arındırıcı yağmur suyu, beden ve giysi temizliği çıpaları)",
+    "2:125 & 22:26 & 9:108 (ortak buluşma mekânının kirden ve putçuluktan temizlenmesi)",
+    "2:222 & 2:232 & 9:103 & 33:53 & 58:12 (aile, paylaşım, gönül ve toplum ilişkilerinde arınma)",
+    "7:82 & 27:56 & 56:79 & 80:14 & 98:2 (iffetli arınma ve her türlü çarpıtmadan arındırılmış tertemiz sayfalar)"
+  ],
+  "grammar_and_branch_rules": "1) Fiziksel Su, Beden, Giysi ve Mekân Temizliği (2:125, 2:222 [3x], 5:6 [2x], 8:11, 9:108 [2x], 22:26, 25:48, 74:4): Suyla bedeni tazeleyip arındırma, giysi ve buluşma mekânı temizliği. 2) Gönül, Mal, Aile ve Toplumsal Arınma (2:232, 3:42, 3:55, 5:41, 7:82, 9:103, 11:78, 27:56, 33:33 [2x], 33:53, 58:12): Kalp temizliği, paylaşım yoluyla cimrilikten arınma ve iffet. 3) Arındırılmış Sayfalar, Eşler ve İçecek (2:25, 3:15, 4:57, 56:79, 76:21, 80:14, 98:2): Her türlü kusur ve çarpıtmadan uzak tertemiz yazılı sayfalar ve esenlik ortamı.",
+  "derivatives": {
+    "طَهَّرَ / يُطَهِّرُ / تَطْهِير / مُطَهِّر (Bab II - 11 geçiş)": "Beden, giysi, mekân, mal veya gönlü kirden ve pislikten bilfiil arındırmak (2:125, 5:6, 9:103, 33:33, 74:4).",
+    "تَطَهَّرَ / ٱطَّهَّرَ / مُتَطَهِّرِينَ / مُطَّهِّرِينَ (Bab V - 7 geçiş) & يَطْهُرْنَ (Bab I: 2:222)": "Doğal olarak temizlenmek ve bilinçli çabayla kendini kirden arındırmak (2:222, 5:6, 7:82, 9:108).",
+    "مُطَهَّرَة / ٱلْمُطَهَّرُونَ (6 geçiş) & أَطْهَر (4 geçiş) & طَهُور (2 geçiş)": "Şaibeden arındırılmış tertemiz eşler/sayfalar, daha temiz tutum ve arındırıcı su/içecek (2:25, 2:232, 25:48, 56:79, 98:2)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 25,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:25",
+      "word_position": 31,
+      "target_word_uthmani": "مُّطَهَّرَةٌ",
+      "target_word_rasm": "مطهرة",
+      "target_word_literal_irab": "Her türlü şaibe ve kusurdan arındırılmış tertemiz (مُّطَهَّرَة — Bab II dişil ism-i mef'ûl: 5 geçiş)",
+      "context_snippet_arabic": "وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ فِيهَا خَٰلِدُونَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere ve iyi işlerde bulunanlara müjde ver: Onlar içindir kıyılarından ırmaklar akan bahçeler. Orada bir meyveyle rızıklandılar mı bundan önce de bunu tatmıştık derler, onları dünyadakilere benzetirler. ...",
+      "morphology": {
+        "lemma": "m~uTah~arap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(II)|LEM:m~uTah~arap|ROOT:Thr|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًا وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere ve iyi işlerde bulunanlara müjde ver: Onlar içindir kıyılarından ırmaklar akan bahçeler. Orada bir meyveyle rızıklandılar mı bundan önce de bunu tatmıştık derler, onları dünyadakilere benzetirler. Onlara, dünyadakilere benzer rızıklar sunulur. Orada tertemiz eşler de var onlara, orada ebedi kalırlar.",
+      "contextual_meaning": "Her türlü leke ve çarpıtmadan arındırılmış tertemiz yazılı sayfalar (80:14, 98:2), arındırıcı içecek ve tertemiz eşler."
+    },
+    {
+      "surah": 2,
+      "ayah": 125,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:125",
+      "word_position": 17,
+      "target_word_uthmani": "طَهِّرَا",
+      "target_word_rasm": "طهرا",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "... İbrahim'le İsmail'e de, evimi, dönüp dolaşanlara, burada oturup kulluk ve yönelişte bulunanlara, tevazu ile öne eğilme ve sücud edenlere tertemiz tutun diye kesin emir verdik.",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:Tah~ara|ROOT:Thr|2MD"
+      },
+      "ayah_text_arabic_full": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "O sıralarda Ka'be'yi eylem karşılığı kazanma yeri ve emniyet yurdu ettik. İbrahim'in makamını yöneliş ve irtibat odağı edinin. İbrahim'le İsmail'e de, evimi, dönüp dolaşanlara, burada oturup kulluk ve yönelişte bulunanlara, tevazu ile öne eğilme ve sücud edenlere tertemiz tutun diye kesin emir verdik.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 2,
+      "ayah": 222,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:222",
+      "word_position": 14,
+      "target_word_uthmani": "يَطْهُرْنَ",
+      "target_word_rasm": "يطهرن",
+      "target_word_literal_irab": "Doğal kanama/eziyet hâli bitip temizleninceye kadar (يَطْهُرْنَ — Bab I fiil: 2:222)",
+      "context_snippet_arabic": "وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "... De ki: O bir pisliktir. Hayız vaktinde kadınlardan çekilin, temizleninceye dek onlara yaklaşmayın. ...",
+      "morphology": {
+        "lemma": "yaTohuro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaTohuro|ROOT:Thr|3FP"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hayız hakkında da soruyorlar. De ki: O bir pisliktir. Hayız vaktinde kadınlardan çekilin, temizleninceye dek onlara yaklaşmayın. Temizlendiler mi Allah size nasıl emrettiyse öylece yaklaşın. Şüphe yok ki Allah, adamakıllı tövbe edenleri ve iyice temizlenenleri sever.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 2,
+      "ayah": 222,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:222",
+      "word_position": 16,
+      "target_word_uthmani": "تَطَهَّرْنَ",
+      "target_word_rasm": "تطهرن",
+      "target_word_literal_irab": "Bilinçli çabayla kendini kirden arındırır/arının (تَطَهَّرَ / فَٱطَّهَّرُوا۟ — Bab V fiil: 5 geçiş)",
+      "context_snippet_arabic": "حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ",
+      "context_snippet_turkish_tabula_rasa": "... De ki: O bir pisliktir. Hayız vaktinde kadınlardan çekilin, temizleninceye dek onlara yaklaşmayın. ...",
+      "morphology": {
+        "lemma": "taTah~aro",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(V)|LEM:taTah~aro|ROOT:Thr|3FP"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hayız hakkında da soruyorlar. De ki: O bir pisliktir. Hayız vaktinde kadınlardan çekilin, temizleninceye dek onlara yaklaşmayın. Temizlendiler mi Allah size nasıl emrettiyse öylece yaklaşın. Şüphe yok ki Allah, adamakıllı tövbe edenleri ve iyice temizlenenleri sever.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 2,
+      "ayah": 222,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:222",
+      "word_position": 27,
+      "target_word_uthmani": "ٱلْمُتَطَهِّرِينَ",
+      "target_word_rasm": "ٱلمتطهرين",
+      "target_word_literal_irab": "Maddi ve ahlaki kirden sürekli arınanlar (ٱلْمُتَطَهِّرِينَ — Bab V ism-i fâil: 2:222)",
+      "context_snippet_arabic": "يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... De ki: O bir pisliktir. Hayız vaktinde kadınlardan çekilin, temizleninceye dek onlara yaklaşmayın. ...",
+      "morphology": {
+        "lemma": "mutaTah~iriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(V)|LEM:mutaTah~iriyn|ROOT:Thr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hayız hakkında da soruyorlar. De ki: O bir pisliktir. Hayız vaktinde kadınlardan çekilin, temizleninceye dek onlara yaklaşmayın. Temizlendiler mi Allah size nasıl emrettiyse öylece yaklaşın. Şüphe yok ki Allah, adamakıllı tövbe edenleri ve iyice temizlenenleri sever.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 2,
+      "ayah": 232,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:232",
+      "word_position": 28,
+      "target_word_uthmani": "وَأَطْهَرُ",
+      "target_word_rasm": "وأطهر",
+      "target_word_literal_irab": "Daha temiz ve şaibeden daha uzak (أَطْهَر — ism-i tafdil: 4 geçiş)",
+      "context_snippet_arabic": "ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kadınları boşadınız da zamanlarını geçirdiler mi aralarında güzellikle uzlaşırlarsa kocalarına varmalarına engel olmayın. Bu, içinizde Allah'a ve son güne güvene erenlere verilmiş bir öğüttür. ...",
+      "morphology": {
+        "lemma": ">aTohar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aTohar|ROOT:Thr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ ذَٰلِكَ يُوعَظُ بِهِۦ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınları boşadınız da zamanlarını geçirdiler mi aralarında güzellikle uzlaşırlarsa kocalarına varmalarına engel olmayın. Bu, içinizde Allah'a ve son güne güvene erenlere verilmiş bir öğüttür. Bu, sizin için daha hayırlıdır, daha temiz bir iştir. Siz bilmezsiniz ama Allah bilir.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 3,
+      "ayah": 15,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:15",
+      "word_position": 18,
+      "target_word_uthmani": "مُّطَهَّرَةٌ",
+      "target_word_rasm": "مطهرة",
+      "target_word_literal_irab": "Her türlü şaibe ve kusurdan arındırılmış tertemiz (مُّطَهَّرَة — Bab II dişil ism-i mef'ûl: 5 geçiş)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... O da, sakınanlar için, ebedi olan ve kıyılarından ırmaklar akan, içinde tertemiz eşler bulunan bahçelerdir ve Allah'ın sizden razı oluşudur. Allah, kullarını görür.",
+      "morphology": {
+        "lemma": "m~uTah~arap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(II)|LEM:m~uTah~arap|ROOT:Thr|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Size bunlardan daha hayırlısını haber vereyim mi: O da, sakınanlar için, ebedi olan ve kıyılarından ırmaklar akan, içinde tertemiz eşler bulunan bahçelerdir ve Allah'ın sizden razı oluşudur. Allah, kullarını görür.",
+      "contextual_meaning": "Her türlü leke ve çarpıtmadan arındırılmış tertemiz yazılı sayfalar (80:14, 98:2), arındırıcı içecek ve tertemiz eşler."
+    },
+    {
+      "surah": 3,
+      "ayah": 42,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:42",
+      "word_position": 8,
+      "target_word_uthmani": "وَطَهَّرَكِ",
+      "target_word_rasm": "وطهرك",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ",
+      "context_snippet_turkish_tabula_rasa": "An o zamanı da, hani buyruk elçileri Meryem'e, ya Meryem, Allah gerçekten de seni seçti, arıttı ve alemlerdeki kadınlara üstün etti.",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Tah~ara|ROOT:Thr|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı da, hani buyruk elçileri Meryem'e, ya Meryem, Allah gerçekten de seni seçti, arıttı ve alemlerdeki kadınlara üstün etti.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 3,
+      "ayah": 55,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:55",
+      "word_position": 9,
+      "target_word_uthmani": "وَمُطَهِّرُكَ",
+      "target_word_rasm": "ومطهرك",
+      "target_word_literal_irab": "Seni iftira ve kirden arındıran (وَمُطَهِّرُكَ — Bab II ism-i fâil: 3:55)",
+      "context_snippet_arabic": "مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Hani o zaman Allah ya İsa demişti, seni öldürecek de benim, kendime yüceltecek de, gerçeğin üzerini örtenlerden kurtarıp arıtacak da. Sana uyanları kıyamete...",
+      "morphology": {
+        "lemma": "muTah~ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(II)|LEM:muTah~ir|ROOT:Thr|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani o zaman Allah ya İsa demişti, seni öldürecek de benim, kendime yüceltecek de, gerçeğin üzerini örtenlerden kurtarıp arıtacak da. Sana uyanları kıyamete dek gerçeğin üzerini örtenlere üst edeceğim. Sonra, dönüp geleceğiniz yer, benim tapımdır, aranızda, aykırılığa düştüğünüz şeylerin hükmünü de ben vereceğim.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 4,
+      "ayah": 57,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:57",
+      "word_position": 17,
+      "target_word_uthmani": "مُّطَهَّرَةٌ",
+      "target_word_rasm": "مطهرة",
+      "target_word_literal_irab": "Her türlü şaibe ve kusurdan arındırılmış tertemiz (مُّطَهَّرَة — Bab II dişil ism-i mef'ûl: 5 geçiş)",
+      "context_snippet_arabic": "لَّهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "güvene erip iyi işlerde bulunanlarıysa kıyılarından ırmaklar akan esenlik bahçelerine sokarız. Ebedi kalırlar orada. ...",
+      "morphology": {
+        "lemma": "m~uTah~arap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(II)|LEM:m~uTah~arap|ROOT:Thr|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا لَّهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip iyi işlerde bulunanlarıysa kıyılarından ırmaklar akan esenlik bahçelerine sokarız. Ebedi kalırlar orada. Onlara orada her çeşit ayıptan arınmış tertemiz eşler var ve onları kaba gölgelikte huzura, rahata kavuştururuz.",
+      "contextual_meaning": "Her türlü leke ve çarpıtmadan arındırılmış tertemiz yazılı sayfalar (80:14, 98:2), arındırıcı içecek ve tertemiz eşler."
+    },
+    {
+      "surah": 5,
+      "ayah": 6,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:6",
+      "word_position": 21,
+      "target_word_uthmani": "فَٱطَّهَّرُوا۟",
+      "target_word_rasm": "فٱطهروا",
+      "target_word_literal_irab": "Bilinçli çabayla kendini kirden arındırır/arının (تَطَهَّرَ / فَٱطَّهَّرُوا۟ — Bab V fiil: 5 geçiş)",
+      "context_snippet_arabic": "وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, irtibat bağına kalktığınız zaman yıkayın yüzlerinizi ve dirseklerinizle beraber ellerinizi ve başınızın bir kısmını meshedip ayaklarınızı topuklarınızla beraber ve cünüpseniz iyice yıkanıp arının. Hastaysanız, yahut seferdeyseniz, yahut içinizden biri ayak yolundan geldiyse, yahut da kadınlara temas etmişseniz su bulamadığınız takdirde temiz toprakla teyemmüm edin de toprakla yüzünüzü, ellerinizi meshedin. ...",
+      "morphology": {
+        "lemma": "taTah~aro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(V)|LEM:taTah~aro|ROOT:Thr|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, irtibat bağına kalktığınız zaman yıkayın yüzlerinizi ve dirseklerinizle beraber ellerinizi ve başınızın bir kısmını meshedip ayaklarınızı topuklarınızla beraber ve cünüpseniz iyice yıkanıp arının. Hastaysanız, yahut seferdeyseniz, yahut içinizden biri ayak yolundan geldiyse, yahut da kadınlara temas etmişseniz su bulamadığınız takdirde temiz toprakla teyemmüm edin de toprakla yüzünüzü, ellerinizi meshedin. Allah, sizi güce koşmayı istemez, fakat nimetin değerini bilip açığa vurasınız diye tertemiz olmanızı ve size verdiği nimeti tamamlamayı diler.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 5,
+      "ayah": 6,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:6",
+      "word_position": 56,
+      "target_word_uthmani": "لِيُطَهِّرَكُمْ",
+      "target_word_rasm": "ليطهركم",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, irtibat bağına kalktığınız zaman yıkayın yüzlerinizi ve dirseklerinizle beraber ellerinizi ve başınızın bir kısmını meshedip ayaklarınızı topuklarınızla beraber ve cünüpseniz iyice yıkanıp arının. Hastaysanız, yahut seferdeyseniz, yahut içinizden biri ayak yolundan geldiyse, yahut da kadınlara temas etmişseniz su bulamadığınız takdirde temiz toprakla teyemmüm edin de toprakla yüzünüzü, ellerinizi meshedin. ...",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Tah~ara|ROOT:Thr|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, irtibat bağına kalktığınız zaman yıkayın yüzlerinizi ve dirseklerinizle beraber ellerinizi ve başınızın bir kısmını meshedip ayaklarınızı topuklarınızla beraber ve cünüpseniz iyice yıkanıp arının. Hastaysanız, yahut seferdeyseniz, yahut içinizden biri ayak yolundan geldiyse, yahut da kadınlara temas etmişseniz su bulamadığınız takdirde temiz toprakla teyemmüm edin de toprakla yüzünüzü, ellerinizi meshedin. Allah, sizi güce koşmayı istemez, fakat nimetin değerini bilip açığa vurasınız diye tertemiz olmanızı ve size verdiği nimeti tamamlamayı diler.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 5,
+      "ayah": 41,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:41",
+      "word_position": 57,
+      "target_word_uthmani": "يُطَهِّرَ",
+      "target_word_rasm": "يطهر",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ لَهُمْ فِى",
+      "context_snippet_turkish_tabula_rasa": "... Onlar, öyle kişilerdir ki Allah, yüreklerini temizlemeyi murad etmemiştir. Onlar içindir dünya da horluk ve onlar içindir ahirette pek büyük bir azap.",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Tah~ara|ROOT:Thr|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ وَمِنَ ٱلَّذِينَ هَادُوا۟ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi, ağızlarıyla güvene erdik diyen, fakat yürekleriyle güven duy ve Yahudilerden, boyuna gerçeğin üzerini örtmeye koşuşanlar, seni mahzun etmesin. Onlar, sözleri, yalan söylemek için boyuna dinleyip dururlar, senin yanına gelmemiş olan bir başka kavim için dinlerler boyuna. Onlar, sözlerin bazısının yerlerini değiştirirler de size şu tarzda fetva verilirse derler, kabul edin, verilmezse çekinin kabul etmekten ve Allah, kime azab etmek isterse sen, Allah'ın isteğine karşı o adama hiçbir şey yapamazsın. Onlar, öyle kişilerdir ki Allah, yüreklerini temizlemeyi murad etmemiştir. Onlar içindir dünya da horluk ve onlar içindir ahirette pek büyük bir azap.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 7,
+      "ayah": 82,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:82",
+      "word_position": 13,
+      "target_word_uthmani": "يَتَطَهَّرُونَ",
+      "target_word_rasm": "يتطهرون",
+      "target_word_literal_irab": "Bilinçli çabayla kendini kirden arındırır/arının (تَطَهَّرَ / فَٱطَّهَّرُوا۟ — Bab V fiil: 5 geçiş)",
+      "context_snippet_arabic": "قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kavminin cevabı ancak şu söz olmuştu, onları şehrinizden çıkarın demişlerdi, onlar pek fazla temiz olmak isteyen kişiler.",
+      "morphology": {
+        "lemma": "taTah~aro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(V)|LEM:taTah~aro|ROOT:Thr|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوهُم مِّن قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kavminin cevabı ancak şu söz olmuştu, onları şehrinizden çıkarın demişlerdi, onlar pek fazla temiz olmak isteyen kişiler.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 8,
+      "ayah": 11,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:11",
+      "word_position": 11,
+      "target_word_uthmani": "لِّيُطَهِّرَكُم",
+      "target_word_rasm": "ليطهركم",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "مِّنَ ٱلسَّمَآءِ مَآءً لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hani bir emniyet vermek için sizi hafif bir uykuya daldırmıştı ve sizi arıtmak, sizden saptırıcı yıkıcı güç'ın pisliğini gidermek, yüreklerinizi sağlamlaştırmak ve ayaklarınızı pekiştirip metanetinizi arttırmak için de gökten bir yağmur yağdırmıştı.",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Tah~ara|ROOT:Thr|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِذْ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ ٱلسَّمَآءِ مَآءً لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَٰنِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ ٱلْأَقْدَامَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani bir emniyet vermek için sizi hafif bir uykuya daldırmıştı ve sizi arıtmak, sizden saptırıcı yıkıcı güç'ın pisliğini gidermek, yüreklerinizi sağlamlaştırmak ve ayaklarınızı pekiştirip metanetinizi arttırmak için de gökten bir yağmur yağdırmıştı.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 9,
+      "ayah": 103,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:103",
+      "word_position": 5,
+      "target_word_uthmani": "تُطَهِّرُهُمْ",
+      "target_word_rasm": "تطهرهم",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ",
+      "context_snippet_turkish_tabula_rasa": "Mallarından sadaka al da temizle, arıt onları o sadakayla ve dua et onlara. Şüphe yok ki senin duan, onlara bir sükun, bir huzur verir ve Allah, her şeyi duyar, bilir.",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Tah~ara|ROOT:Thr|3FS"
+      },
+      "ayah_text_arabic_full": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarından sadaka al da temizle, arıt onları o sadakayla ve dua et onlara. Şüphe yok ki senin duan, onlara bir sükun, bir huzur verir ve Allah, her şeyi duyar, bilir.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 9,
+      "ayah": 108,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:108",
+      "word_position": 20,
+      "target_word_uthmani": "يَتَطَهَّرُوا۟",
+      "target_word_rasm": "يتطهروا",
+      "target_word_literal_irab": "Bilinçli çabayla kendini kirden arındırır/arının (تَطَهَّرَ / فَٱطَّهَّرُوا۟ — Bab V fiil: 5 geçiş)",
+      "context_snippet_arabic": "رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Orada öyle erler var ki arınmayı severler ve Allah, temizlenip arınanları sever.",
+      "morphology": {
+        "lemma": "taTah~aro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(V)|LEM:taTah~aro|ROOT:Thr|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لَا تَقُمْ فِيهِ أَبَدًا لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada hiçbir zaman irtibat bağına yönelme. İlk günden itibaren Allah'tan çekinmek ve ona itaat etmek temeli üstüne kurulmuş olan mescit, elbette irtibat bağını ayakta tutmana daha layıktır. Orada öyle erler var ki arınmayı severler ve Allah, temizlenip arınanları sever.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 9,
+      "ayah": 108,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:108",
+      "word_position": 23,
+      "target_word_uthmani": "ٱلْمُطَّهِّرِينَ",
+      "target_word_rasm": "ٱلمطهرين",
+      "target_word_literal_irab": "Arınmaya özen gösterenler (ٱلْمُطَّهِّرِينَ — Bab V ism-i fâil: 9:108)",
+      "context_snippet_arabic": "يَتَطَهَّرُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Orada öyle erler var ki arınmayı severler ve Allah, temizlenip arınanları sever.",
+      "morphology": {
+        "lemma": "muT~ah~iriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(V)|LEM:muT~ah~iriyn|ROOT:Thr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لَا تَقُمْ فِيهِ أَبَدًا لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada hiçbir zaman irtibat bağına yönelme. İlk günden itibaren Allah'tan çekinmek ve ona itaat etmek temeli üstüne kurulmuş olan mescit, elbette irtibat bağını ayakta tutmana daha layıktır. Orada öyle erler var ki arınmayı severler ve Allah, temizlenip arınanları sever.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 11,
+      "ayah": 78,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:78",
+      "word_position": 15,
+      "target_word_uthmani": "أَطْهَرُ",
+      "target_word_rasm": "أطهر",
+      "target_word_literal_irab": "Daha temiz ve şaibeden daha uzak (أَطْهَر — ism-i tafdil: 4 geçiş)",
+      "context_snippet_arabic": "هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... Lut, ey kavmim dedi, işte kızlarım, onlar, sizin için daha temiz, artık Allah'tan çekinin de beni, konuklarımdan utandırmayın. İçinizde, aklı başında bir adam da mı yok?",
+      "morphology": {
+        "lemma": ">aTohar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aTohar|ROOT:Thr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kavmi, koşa koşa onun yanına geldi, onlar, önceden de kötülükler yapar dururlardı. Lut, ey kavmim dedi, işte kızlarım, onlar, sizin için daha temiz, artık Allah'tan çekinin de beni, konuklarımdan utandırmayın. İçinizde, aklı başında bir adam da mı yok?",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 22,
+      "ayah": 26,
+      "surah_name": "Hac",
+      "ayah_ref": "22:26",
+      "word_position": 11,
+      "target_word_uthmani": "وَطَهِّرْ",
+      "target_word_rasm": "وطهر",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "An o zamanı ki hani biz İbrahim'e, bana hiçbir şeyi şerik tutma ve tavaf edenlere, irtibat bağını kurup sürdürenlere, tevazu ile öne eğilme edenlere, boyun eğme ve teslimiyet kılanlara tertemiz tut evimi diye Beyt'in yerini göstermiştik.",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:Tah~ara|ROOT:Thr|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı ki hani biz İbrahim'e, bana hiçbir şeyi şerik tutma ve tavaf edenlere, irtibat bağını kurup sürdürenlere, tevazu ile öne eğilme edenlere, boyun eğme ve teslimiyet kılanlara tertemiz tut evimi diye Beyt'in yerini göstermiştik.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 25,
+      "ayah": 48,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:48",
+      "word_position": 13,
+      "target_word_uthmani": "طَهُورًا",
+      "target_word_rasm": "طهورا",
+      "target_word_literal_irab": "Hem kendi saf hem dokunduğunu temizleyen arındırıcı (طَهُورًا — sıfat: 25:48, 76:21)",
+      "context_snippet_arabic": "مِنَ ٱلسَّمَآءِ مَآءً طَهُورًا",
+      "context_snippet_turkish_tabula_rasa": "Ve öyle bir mabuttur o ki rahmetinden önce bir müjde olarak rüzgarları göndermiştir ve biz, gökten tertemiz bir su olan yağmuru yağdırmadayız.",
+      "morphology": {
+        "lemma": "Tahuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Tahuwr|ROOT:Thr|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً طَهُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve öyle bir mabuttur o ki rahmetinden önce bir müjde olarak rüzgarları göndermiştir ve biz, gökten tertemiz bir su olan yağmuru yağdırmadayız.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 27,
+      "ayah": 56,
+      "surah_name": "Neml",
+      "ayah_ref": "27:56",
+      "word_position": 15,
+      "target_word_uthmani": "يَتَطَهَّرُونَ",
+      "target_word_rasm": "يتطهرون",
+      "target_word_literal_irab": "Bilinçli çabayla kendini kirden arındırır/arının (تَطَهَّرَ / فَٱطَّهَّرُوا۟ — Bab V fiil: 5 geçiş)",
+      "context_snippet_arabic": "قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kavminin cevabı, Lut'u ve soyunu şehrinizden çıkarın, hiç şüphe yok ki onlar, temizliğe pek düşkün bir topluluk sözünden başka bir söz değildi.",
+      "morphology": {
+        "lemma": "taTah~aro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(V)|LEM:taTah~aro|ROOT:Thr|3MP"
+      },
+      "ayah_text_arabic_full": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kavminin cevabı, Lut'u ve soyunu şehrinizden çıkarın, hiç şüphe yok ki onlar, temizliğe pek düşkün bir topluluk sözünden başka bir söz değildi.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 33,
+      "ayah": 33,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:33",
+      "word_position": 24,
+      "target_word_uthmani": "وَيُطَهِّرَكُمْ",
+      "target_word_rasm": "ويطهركم",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Ve evlerinizde oturun ve ilk cahiliyet devrinde olduğu gibi sokaklara çıkmayın ve irtibat ve sorumluluk bağını ayakta tutun ve arınma ve gelişme payı verin ve itaat edin Allah'a ve elçisine. Ancak ve ancak Allah, ey Ehli Beyt, sizden her çeşit pisliği, suçu gidermek ve sizi tam bir temizlikle tertemiz bir hale getirmek diler.",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Tah~ara|ROOT:Thr|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve evlerinizde oturun ve ilk cahiliyet devrinde olduğu gibi sokaklara çıkmayın ve irtibat ve sorumluluk bağını ayakta tutun ve arınma ve gelişme payı verin ve itaat edin Allah'a ve elçisine. Ancak ve ancak Allah, ey Ehli Beyt, sizden her çeşit pisliği, suçu gidermek ve sizi tam bir temizlikle tertemiz bir hale getirmek diler.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 33,
+      "ayah": 33,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:33",
+      "word_position": 25,
+      "target_word_uthmani": "تَطْهِيرًا",
+      "target_word_rasm": "تطهيرا",
+      "target_word_literal_irab": "Tam ve eksiksiz bir arındırmayla (تَطْهِيرًا — Bab II masdarı: 33:33)",
+      "context_snippet_arabic": "أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Ve evlerinizde oturun ve ilk cahiliyet devrinde olduğu gibi sokaklara çıkmayın ve irtibat ve sorumluluk bağını ayakta tutun ve arınma ve gelişme payı verin ve itaat edin Allah'a ve elçisine. Ancak ve ancak Allah, ey Ehli Beyt, sizden her çeşit pisliği, suçu gidermek ve sizi tam bir temizlikle tertemiz bir hale getirmek diler.",
+      "morphology": {
+        "lemma": "taTohiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taTohiyr|ROOT:Thr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve evlerinizde oturun ve ilk cahiliyet devrinde olduğu gibi sokaklara çıkmayın ve irtibat ve sorumluluk bağını ayakta tutun ve arınma ve gelişme payı verin ve itaat edin Allah'a ve elçisine. Ancak ve ancak Allah, ey Ehli Beyt, sizden her çeşit pisliği, suçu gidermek ve sizi tam bir temizlikle tertemiz bir hale getirmek diler.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 33,
+      "ayah": 53,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:53",
+      "word_position": 47,
+      "target_word_uthmani": "أَطْهَرُ",
+      "target_word_rasm": "أطهر",
+      "target_word_literal_irab": "Daha temiz ve şaibeden daha uzak (أَطْهَر — ism-i tafdil: 4 geçiş)",
+      "context_snippet_arabic": "وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "... şüphe yok ki bunlar, elçiyi incitir de utanır sizden ve Allah'sa doğruyu söylemekten çekinmez ve kadınlarından bir şey istediğiniz zaman perde ardından isteyin; bu, sizin yürekleriniz bakımından da daha temizdir, onların yürekleri bakımından da ve Allah'ın elçisini incitmeniz caiz olmadığı gibi onun eşlerini de bundan böyle ebediyen almayın; ...",
+      "morphology": {
+        "lemma": ">aTohar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aTohar|ROOT:Thr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, yemeğe davet edilmeden elçinin evlerine gitmeyin, davet edilirseniz yemek vaktini beklemek üzere daha önce gitmeyin; fakat çağrılınca gidin ve yemek yiyince dağılın, konuşmak için uzun uzadıya oturmayın; şüphe yok ki bunlar, elçiyi incitir de utanır sizden ve Allah'sa doğruyu söylemekten çekinmez ve kadınlarından bir şey istediğiniz zaman perde ardından isteyin; bu, sizin yürekleriniz bakımından da daha temizdir, onların yürekleri bakımından da ve Allah'ın elçisini incitmeniz caiz olmadığı gibi onun eşlerini de bundan böyle ebediyen almayın; şüphe yok ki bu, Allah katında pek büyük bir sapma ve kusurdur.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 56,
+      "ayah": 79,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:79",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْمُطَهَّرُونَ",
+      "target_word_rasm": "ٱلمطهرون",
+      "target_word_literal_irab": "Arındırılmış tertemiz olanlar (ٱلْمُطَهَّرُونَ — Bab II çoğul ism-i mef'ûl: 56:79)",
+      "context_snippet_arabic": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ona, temiz olanlardan başkaları dokunamaz.",
+      "morphology": {
+        "lemma": "muTah~aruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muTah~aruwn|ROOT:Thr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona, temiz olanlardan başkaları dokunamaz.",
+      "contextual_meaning": "Her türlü leke ve çarpıtmadan arındırılmış tertemiz yazılı sayfalar (80:14, 98:2), arındırıcı içecek ve tertemiz eşler."
+    },
+    {
+      "surah": 58,
+      "ayah": 12,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:12",
+      "word_position": 15,
+      "target_word_uthmani": "وَأَطْهَرُ",
+      "target_word_rasm": "وأطهر",
+      "target_word_literal_irab": "Daha temiz ve şaibeden daha uzak (أَطْهَر — ism-i tafdil: 4 geçiş)",
+      "context_snippet_arabic": "ذَٰلِكَ خَيْرٌ لَّكُمْ وَأَطْهَرُ فَإِن لَّمْ تَجِدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, elçilere gizlice konuşacağınız vakit, konuşmaya başlamadan bir sadaka verin; bu, sizin için hem daha hayırlıdır, hem de daha temiz; bulamazsanız artık Allah, suçları örter, rahimdir.",
+      "morphology": {
+        "lemma": ">aTohar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aTohar|ROOT:Thr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَٰجَيْتُمُ ٱلرَّسُولَ فَقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةً ذَٰلِكَ خَيْرٌ لَّكُمْ وَأَطْهَرُ فَإِن لَّمْ تَجِدُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, elçilere gizlice konuşacağınız vakit, konuşmaya başlamadan bir sadaka verin; bu, sizin için hem daha hayırlıdır, hem de daha temiz; bulamazsanız artık Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "Gönül, mal, aile ve toplum arınmışlığı: cimrilikten arındıran paylaşım (9:103), iffetli duruş (7:82) ve kalp temizliği (33:53)."
+    },
+    {
+      "surah": 74,
+      "ayah": 4,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:4",
+      "word_position": 2,
+      "target_word_uthmani": "فَطَهِّرْ",
+      "target_word_rasm": "فطهر",
+      "target_word_literal_irab": "Maddi veya ahlaki kirden bilfiil arındırır/arındır (طَهَّرَ / يُطَهِّرُ / طَهِّرْ — Bab II fiil: 9 geçiş)",
+      "context_snippet_arabic": "وَثِيَابَكَ فَطَهِّرْ",
+      "context_snippet_turkish_tabula_rasa": "Ve elbiseni temizle.",
+      "morphology": {
+        "lemma": "Tah~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:Tah~ara|ROOT:Thr|2MS"
+      },
+      "ayah_text_arabic_full": "وَثِيَابَكَ فَطَهِّرْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve elbiseni temizle.",
+      "contextual_meaning": "Fiziksel su, beden, giysi ve buluşma mekânı temizliği: arındırıcı yağmur suyu (25:48), giysi temizliği (74:4), beden arınması (5:6, 2:222) ve buluşma mekânını temiz tutma (2:125, 22:26)."
+    },
+    {
+      "surah": 76,
+      "ayah": 21,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:21",
+      "word_position": 13,
+      "target_word_uthmani": "طَهُورًا",
+      "target_word_rasm": "طهورا",
+      "target_word_literal_irab": "Hem kendi saf hem dokunduğunu temizleyen arındırıcı (طَهُورًا — sıfat: 25:48, 76:21)",
+      "context_snippet_arabic": "وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+      "context_snippet_turkish_tabula_rasa": "Üstlerinde, ipincecik yeşil ve ipek elbiseler, kalın ipekten dokunmuş libaslar vardır ve gümüş bilezikler takınırlar ve Rableri, onları tertemiz bir şarapla suvarır.",
+      "morphology": {
+        "lemma": "Tahuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Tahuwr|ROOT:Thr|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "عَٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Üstlerinde, ipincecik yeşil ve ipek elbiseler, kalın ipekten dokunmuş libaslar vardır ve gümüş bilezikler takınırlar ve Rableri, onları tertemiz bir şarapla suvarır.",
+      "contextual_meaning": "Her türlü leke ve çarpıtmadan arındırılmış tertemiz yazılı sayfalar (80:14, 98:2), arındırıcı içecek ve tertemiz eşler."
+    },
+    {
+      "surah": 80,
+      "ayah": 14,
+      "surah_name": "Abese",
+      "ayah_ref": "80:14",
+      "word_position": 2,
+      "target_word_uthmani": "مُّطَهَّرَةٍۭ",
+      "target_word_rasm": "مطهرة",
+      "target_word_literal_irab": "Her türlü şaibe ve kusurdan arındırılmış tertemiz (مُّطَهَّرَة — Bab II dişil ism-i mef'ûl: 5 geçiş)",
+      "context_snippet_arabic": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+      "context_snippet_turkish_tabula_rasa": "Yüceltilmiştir, arıtılmıştır.",
+      "morphology": {
+        "lemma": "m~uTah~arap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(II)|LEM:m~uTah~arap|ROOT:Thr|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüceltilmiştir, arıtılmıştır.",
+      "contextual_meaning": "Her türlü leke ve çarpıtmadan arındırılmış tertemiz yazılı sayfalar (80:14, 98:2), arındırıcı içecek ve tertemiz eşler."
+    },
+    {
+      "surah": 98,
+      "ayah": 2,
+      "surah_name": "Beyyine",
+      "ayah_ref": "98:2",
+      "word_position": 6,
+      "target_word_uthmani": "مُّطَهَّرَةً",
+      "target_word_rasm": "مطهرة",
+      "target_word_literal_irab": "Her türlü şaibe ve kusurdan arındırılmış tertemiz (مُّطَهَّرَة — Bab II dişil ism-i mef'ûl: 5 geçiş)",
+      "context_snippet_arabic": "ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+      "context_snippet_turkish_tabula_rasa": "Bir kesin delil, bir elçi, Allah tarafından, onlara tertemiz sahifeleri okumadıkça.",
+      "morphology": {
+        "lemma": "m~uTah~arap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(II)|LEM:m~uTah~arap|ROOT:Thr|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+      "ayah_text_turkish_tabula_rasa_full": "Bir kesin delil, bir elçi, Allah tarafından, onlara tertemiz sahifeleri okumadıkça.",
+      "contextual_meaning": "Her türlü leke ve çarpıtmadan arındırılmış tertemiz yazılı sayfalar (80:14, 98:2), arındırıcı içecek ve tertemiz eşler."
+    }
+  ]
+}

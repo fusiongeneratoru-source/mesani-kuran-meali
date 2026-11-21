@@ -1,0 +1,1022 @@
+{
+  "root": "أ-ث-م",
+  "root_latin": "E-S-M (Avm)",
+  "concept_name": "İsm, Esîm ve Esâm (İnsanı ve Toplumu İyilikten Geri Bırakan Ağır Bilinçli Kusur ve Vebal)",
+  "rank": 208,
+  "total_occurrences": 48,
+  "unique_ayahs_count": 42,
+  "unified_core_mechanism": "Ağırlaşıp yavaşlayarak hayırdan geri kalma (الْبُطْءُ وَالتَّأَخُّرُ) çekirdeğinden hareketle; bireyin bilincini ve toplum düzenini aşağıya çekip çürüten, faydasından büyük yıkım üreten bilinçli ağır kusur (إِثْم), bu kusurda ısrar eden kişi (أَثِيم / آثِم), kusura sürükleyen ortam/söz (تَأْثِيم) ve bunun doğurduğu kaçınılmaz yaptırım vebali (أَثَام).",
+  "physical_core": "Ağırlaşarak yavaşlamak, adımını geri çekip iyilik ve gelişim yürüyüşünden geri kalmak (الْبُطْءُ وَالتَّأَخُّرُ عَنِ الْخَيْرِ). Kişinin zihnini, vicdanını veya toplumu aşağıya çekip çürüten, faydasından büyük tahribat üreten bilinçli ağır kusur ve bu kusurun doğurduğu kaçınılmaz yaptırım yükü (`أَثَامًا` 25:68; `فِيهِمَآ إِثْمٌ كَبِيرٌ` 2:219).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökün temelinin 'ağırlaşma, yavaşlama ve hayırdan geri kalma (الْبُطْءُ وَالتَّأَخُّرُ)' olduğunu, ağır kusura bu yüzden إِثْم dendiğini belirtir.",
+    "lisan_al_arab": "İbn Manzûr, yükü ağırlaşıp yürüyüşü yavaşlayan deve (`نَاقَةٌ آثِمَةٌ`) örneğini aktararak إِثْم sözcüğünün kişiyi gerileten ağır sapma ve haksızlık olduğunu kaydeder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî, إِثْم kavramını 'insanı hayır ve ödülden geri bırakan ağır eylem', 25:68'deki أَثَامًا kelimesini ise 'ağır kusurun doğurduğu yaptırım karşılığı' olarak tanımlar.",
+    "arbitration_decision": "İbn Fâris'in 'yavaşlatıp geri bırakan ağırlık' aslı, İbranice אָשָׁם (*ʾāšām*: 'suçluluk, ağır kusur ve tazminat yükü') eşkökenliliği ve Kur'an'ın 2:219 (`إِثْمٌ كَبِيرٌ ↔ مَنَٰفِعُ`), 5:2 (`بِرّ ↔ إِثْم`) çıpaları tek çekirdeği mühürler: 'insanı ve toplumu hayırdan ve gelişimden geri bırakan ağır, bilinçli yıkıcı kusur ve bunun yaptırım vebali'."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesi אָשַׁם (ʾāšam, BDB H816: 'ağır kusur işlemek, suçlu bulunmak, vebal yüklenmek') ve isim אָשָׁם (ʾāšām, BDB H817: 'suç, ağır vebal, tazminat/ceza bedeli' — Proto-Sami *ṯ > İbranice š düzenli ses yasasıyla *ʾ-ṯ-m).",
+    "aramaic_and_syriac": "Aramice/Süryanice havzasında doğrudan *ʾ-ṯ-m eşkökenlisi sınırlıdır; kavram alanı daha çok ḥwb (borç/suç) ile karşılanır.",
+    "akkadian": "Doğu Sami'de doğrudan *ʾ-ṯ-m eşkökenlisi tespit edilmedi.",
+    "geez_and_esa": "Eski Güney Arapça (Sebece) ʾṯm ('suç, kusur, ihlal') Arapça إِثْم ile birebir ses ve anlam paralelliği taşır.",
+    "note": "Arapça ث (*ṯ) = İbranice שׁ (*š) = Sebece ṯ düzenli ses yasası, أ-ث-م kökünün sadece 'soyut hata' değil doğrudan 'hukuki/ahlaki ağır vebal ve yaptırım yükü' taşıdığını doğrular."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-ر-ر & و-ق-ي [وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ / وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ] (Kapsamlı İyilik ve Sorumluluk Bilincinde Dayanışma ↔ Ağır Kusur ve Saldırganlıkta İş Birliği: 5:2, 58:8-9)",
+      "ن-ف-ع [فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا] (Ağır Yıkıcı Kusur ↔ Somut Fayda: 2:219)",
+      "ص-ل-ح [فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ] (Bozulanı Onarıp Barıştırmak ↔ Haksızlıkla Ağır Kusura Düşmek: 2:182)"
+    ],
+    "key_ayahs": [
+      "5:2 & 58:8-9 (وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ)",
+      "2:219 & 2:283 & 4:48 & 4:112 (وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ / وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا)",
+      "6:120 & 7:33 & 42:37 & 49:12 (وَذَرُوا۟ ظَٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥ / إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ)",
+      "25:68 & 52:23 & 56:25 (وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا / لَا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ)"
+    ],
+    "reverse_stress_test": "Kapsamlı iyilik (بِرّ 5:2), barışçıl onarım (إِصْلَاح 2:182) ve kalıcı fayda (نَفْع 2:219) karşıtlarının tersi alındığında; أ-ث-م kökünün 'kişiyi ve toplumu gerileten ağır bilinçli kusur ve bunun vebal yükü' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ٱلْإِثْمِ (E-S-M: İnsanı Geri Bırakan İçsel/Ahlaki Ağır Kusur) vs ٱلْعُدْوَٰنِ (A-D-W: Başkasının Sınırına Yönelen Dışsal Saldırganlık) [2:85, 5:2, 5:62, 58:8-9]",
+      "خَطِيٓـَٔةً (H-T-E: Kasıtsız veya Kasıtlı Hedeften Sapma Hatası) vs إِثْمًا (E-S-M: Bilinçli Ağır Kusur) vs بُهْتَٰنًا (B-H-T: Şaşkına Çeviren İftira) [4:112, 4:20, 33:58]",
+      "لَغْوٌ (L-G-W: Boş ve Anlamsız Lakırdı) vs تَأْثِيمٌ (E-S-M: Ağır Kusura ve Kavgaya Sürükleyen Söz) [52:23, 56:25]",
+      "أَثِيم (E-S-M) vs ذَنْب (Z-N-B: Eylemin Peşinden Sürüklenen Sonuç İzi) — إِثْم kusurun ağırlığını ve hayırdan alıkoymasını, ذَنْب ise onun peşinden gelen iz ve yaptırım kuyruğunu ayırır"
+    ],
+    "mechanical_difference": "1) 5:2 ve 58:8-9'da ٱلْإِثْمِ bireyi ve ahlakı çürüten ağır kusuru, ٱلْعُدْوَٰنِ ise başkalarına taşan saldırgan tecavüzü ayırır. 2) 4:112'de خَطِيٓـَٔة (sapma/hata) ile إِثْم (ağır kusur) yan yana anılıp başkasının üstüne atmanın ayrıca بُهْتَٰن (iftira) ve إِثْمٌ مُّبِينٌ (apaçık ağır vebal) doğurduğu belirtilir. 3) 52:23 ve 56:25'te لَغْو faydasız boş sözü, تَأْثِيم ise karşısındakini ağır kusura iten zehirli sözü ayrıştırır."
+  },
+  "anchor_ayahs": [
+    "5:2 & 58:8-9 (بِرّ ve تَقْوَىٰ karşısında إِثْم ve عُدْوَٰن zıtlık çıpası)",
+    "2:219 (مَنَٰفِع karşısında إِثْمٌ كَبِيرٌ — faydayı aşan yıkım ölçütü)",
+    "2:173 & 2:182 & 2:203 & 5:3 (zorunluluk ve barışçıl düzeltmede إِثْم yükünün kalkması)",
+    "2:283 & 6:120 & 25:68 & 49:12 (kalbin ağır kusuru, açık-gizli kusur, أَثَامًا yaptırımı ve bazı zanların ağır kusur oluşu)"
+  ],
+  "grammar_and_branch_rules": "1) Muafiyet ve Sorumluluk Sınırı (2:173, 2:182, 2:203 [2x], 5:3): Zorunluluk kıskacında, adil uzlaştırmada ve makul süre tercihinde kişiye ağır kusur yüklenmez. 2) Toplumsal Hukuk, Yargı ve Şahitlik (2:85, 2:181, 2:188, 2:283, 4:20, 4:107, 4:111, 4:112 [2x], 5:106, 5:107, 24:11, 33:58): Vasiyeti değiştirme, rüşvetle mal yeme, şahitliği gizleme, masuma iftira atma ve hainleri savunma doğrudan إِثْم olarak kınanır. 3) Ahlaki Çürüme ve Yıkıcı Alışkanlıklar (2:206, 2:219 [2x], 2:276, 4:48, 4:50, 5:2, 5:29 [2x], 5:62, 5:63, 6:120 [2x], 7:33, 42:37, 49:12, 53:32, 58:8, 58:9): Kibirle kusura sarılma, içki-kumar, faiz, iftira ve suizan. 4) Ağır Kusurda Israr Edenler ve Arınmış Esenlik Ortamı (3:178, 25:68, 26:222, 44:44, 45:7, 52:23, 56:25, 68:12, 76:24, 83:12): Yalan ve ağır kusurda direnen أَثِيم tipolojisinin yaptırımı (أَثَامًا) karşısında esenlik yurdunda boş söz ve kusura itişin (تَأْثِيم) yokluğu.",
+  "derivatives": {
+    "إِثْم / ٱلْإِثْم (İsim/Masdar - 35 geçiş)": "İnsanı ve toplumu iyilikten geri bırakan, yıkıcı sonuç doğuran ağır bilinçli kusur (2:219, 5:2, 6:120, 49:12).",
+    "أَثِيم (Mübalağa Sıfatı - 7 geçiş)": "Ağır kusur, yalan ve haksızlık üretmekte ısrarcı kişi (2:276, 26:222, 45:7, 68:12, 83:12).",
+    "ءَاثِم / ٱلْءَاثِمِينَ (İsm-i Fâil - 3 geçiş: 2:283, 5:106, 76:24)": "Tanıklığı gizleyerek veya bile bile ağır kusur yüklenen kimse.",
+    "تَأْثِيم (Bab II Masdarı - 2 geçiş: 52:23, 56:25)": "Kişiyi ağır kusura ve kavgaya sürükleyen bozucu söz veya tutum.",
+    "أَثَامًا (İsim Hapax - 1 geçiş: 25:68)": "Ağır kusurların kaçınılmaz yaptırım karşılığı ve vebal bedeli."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 85,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:85",
+      "word_position": 13,
+      "target_word_uthmani": "بِٱلْإِثْمِ",
+      "target_word_rasm": "بٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "دِيَٰرِهِمْ تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sonra da sizler, o kişilersiniz ki birbirinizi öldürüyorsunuz. Bir bölüğünüzü yerinden yurdundan çıkarıyorsunuz. Onların aleyhinde, kötülükte, düşmanlıkta...",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ ٱلْقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra da sizler, o kişilersiniz ki birbirinizi öldürüyorsunuz. Bir bölüğünüzü yerinden yurdundan çıkarıyorsunuz. Onların aleyhinde, kötülükte, düşmanlıkta bulunmak üzere birleşiyorsunuz. Elinize esir düşerlerse onlara karşılık esirler veriyor, gene onları yurtlarına sokmuyorsunuz. Halbuki onları yurtlarından çıkarmak bile haramdı size. Yoksa kitabın bir kısmına güven duy, bir kısmına güven duy musunuz? İçinizde bunları yapanların kazancı, dünya hayatında ancak horluktan ibaret, kıyamet günüyse onlar daha çetin bir azaba atılırlar. Allah, yaptıklarınızdan gafil değildir ki.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 2,
+      "ayah": 173,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:173",
+      "word_position": 20,
+      "target_word_uthmani": "إِثْمَ",
+      "target_word_rasm": "إثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... Fakat zorda kalan, başkasının hakkına el uzatmamak ve zaruret miktarını da aşmamak üzere yerse sapma ve ağır kusur etmiş olmaz. Çünkü Allah, suçları örten rahimdir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Söz budur ancak. O, size ölü hayvan etini, kanı, domuz etini, Allah'tan başkası için kesilen hayvanı haram etmiştir. Fakat zorda kalan, başkasının hakkına el uzatmamak ve zaruret miktarını da aşmamak üzere yerse sapma ve ağır kusur etmiş olmaz. Çünkü Allah, suçları örten rahimdir.",
+      "contextual_meaning": "Zorunluluk, adil barıştırma ve meşru süre tercihinde ağır kusur yükünün kalkması (2:173, 2:182, 2:203, 5:3)."
+    },
+    {
+      "surah": 2,
+      "ayah": 181,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:181",
+      "word_position": 6,
+      "target_word_uthmani": "إِثْمُهُۥ",
+      "target_word_rasm": "إثمه",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "بَعْدَمَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "Vasiyeti duyduktan sonra değiştiren olursa şüphe yok ki bu işin vebali, ancak değiştirenedir. Muhakkak ki Allah, her şeyi duyar ve bilir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَمَنۢ بَدَّلَهُۥ بَعْدَمَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Vasiyeti duyduktan sonra değiştiren olursa şüphe yok ki bu işin vebali, ancak değiştirenedir. Muhakkak ki Allah, her şeyi duyar ve bilir.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 2,
+      "ayah": 182,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:182",
+      "word_position": 7,
+      "target_word_uthmani": "إِثْمًا",
+      "target_word_rasm": "إثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ",
+      "context_snippet_turkish_tabula_rasa": "Vasiyet edenin yanılmasından, suç işlemesinden ürküp aralarını bulana suç yok. Şüphe yok ki Allah, suçları örter, rahimdir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Vasiyet edenin yanılmasından, suç işlemesinden ürküp aralarını bulana suç yok. Şüphe yok ki Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "Zorunluluk, adil barıştırma ve meşru süre tercihinde ağır kusur yükünün kalkması (2:173, 2:182, 2:203, 5:3)."
+    },
+    {
+      "surah": 2,
+      "ayah": 182,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:182",
+      "word_position": 11,
+      "target_word_uthmani": "إِثْمَ",
+      "target_word_rasm": "إثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Vasiyet edenin yanılmasından, suç işlemesinden ürküp aralarını bulana suç yok. Şüphe yok ki Allah, suçları örter, rahimdir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Vasiyet edenin yanılmasından, suç işlemesinden ürküp aralarını bulana suç yok. Şüphe yok ki Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "Zorunluluk, adil barıştırma ve meşru süre tercihinde ağır kusur yükünün kalkması (2:173, 2:182, 2:203, 5:3)."
+    },
+    {
+      "surah": 2,
+      "ayah": 188,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:188",
+      "word_position": 15,
+      "target_word_uthmani": "بِٱلْإِثْمِ",
+      "target_word_rasm": "بٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Mallarınızı aranızda boş yere yemeyin. İnsanların bir kısım mallarını da sapma ve ağır kusur ederek yemek için bilebile hakimlere mal vermeyin.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarınızı aranızda boş yere yemeyin. İnsanların bir kısım mallarını da sapma ve ağır kusur ederek yemek için bilebile hakimlere mal vermeyin.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 2,
+      "ayah": 203,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:203",
+      "word_position": 11,
+      "target_word_uthmani": "إِثْمَ",
+      "target_word_rasm": "إثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "فِى يَوْمَيْنِ فَلَآ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ",
+      "context_snippet_turkish_tabula_rasa": "Sayılı büyük yöneliş toplanması günlerinde Allah'ı anın. İki gün içinde acele edip de dönmek isteyenlere suç yok. Geri kalanlara da suç yok ama sakınmak şartıyla. ...",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرُوا۟ ٱللَّهَ فِىٓ أَيَّامٍ مَّعْدُودَٰتٍ فَمَن تَعَجَّلَ فِى يَوْمَيْنِ فَلَآ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَآ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sayılı büyük yöneliş toplanması günlerinde Allah'ı anın. İki gün içinde acele edip de dönmek isteyenlere suç yok. Geri kalanlara da suç yok ama sakınmak şartıyla. Allah'tan sakının ve bilin ki siz, şüphe yok onun tapısında haşr edileceksiniz.",
+      "contextual_meaning": "Zorunluluk, adil barıştırma ve meşru süre tercihinde ağır kusur yükünün kalkması (2:173, 2:182, 2:203, 5:3)."
+    },
+    {
+      "surah": 2,
+      "ayah": 203,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:203",
+      "word_position": 16,
+      "target_word_uthmani": "إِثْمَ",
+      "target_word_rasm": "إثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "وَمَن تَأَخَّرَ فَلَآ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sayılı büyük yöneliş toplanması günlerinde Allah'ı anın. İki gün içinde acele edip de dönmek isteyenlere suç yok. Geri kalanlara da suç yok ama sakınmak şartıyla. ...",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرُوا۟ ٱللَّهَ فِىٓ أَيَّامٍ مَّعْدُودَٰتٍ فَمَن تَعَجَّلَ فِى يَوْمَيْنِ فَلَآ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَآ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sayılı büyük yöneliş toplanması günlerinde Allah'ı anın. İki gün içinde acele edip de dönmek isteyenlere suç yok. Geri kalanlara da suç yok ama sakınmak şartıyla. Allah'tan sakının ve bilin ki siz, şüphe yok onun tapısında haşr edileceksiniz.",
+      "contextual_meaning": "Zorunluluk, adil barıştırma ve meşru süre tercihinde ağır kusur yükünün kalkması (2:173, 2:182, 2:203, 5:3)."
+    },
+    {
+      "surah": 2,
+      "ayah": 206,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:206",
+      "word_position": 8,
+      "target_word_uthmani": "بِٱلْإِثْمِ",
+      "target_word_rasm": "بٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ فَحَسْبُهُۥ جَهَنَّمُ وَلَبِئْسَ",
+      "context_snippet_turkish_tabula_rasa": "Ona, Allah'tan sakın, kork dendi mi suçla, sapma ve kusurla ululanmaya girişir. yakıcı yıkım yurdu gelir onun hakkından. ...",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ فَحَسْبُهُۥ جَهَنَّمُ وَلَبِئْسَ ٱلْمِهَادُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona, Allah'tan sakın, kork dendi mi suçla, sapma ve kusurla ululanmaya girişir. yakıcı yıkım yurdu gelir onun hakkından. Orası, gerçekten de ne kötü, ne pis yataktır.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 2,
+      "ayah": 219,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:219",
+      "word_position": 7,
+      "target_word_uthmani": "إِثْمٌ",
+      "target_word_rasm": "إثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "... İkisinde de hem büyük sapma ve ağır kusur var, hem insanlara faydalar var; fakat sapma ve kusurları, faydalarından daha çok. ...",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana şarap ve kumarın hükümlerini soruyorlar. De ki: İkisinde de hem büyük sapma ve ağır kusur var, hem insanlara faydalar var; fakat sapma ve kusurları, faydalarından daha çok. Sonra mallarından neyi vereceklerini soruyorlar. De ki: Kendilerini sıkmayanını, sıkıntıya düşürmeyenini, fazlasını. İşte Allah, delillerini size böylece bildirir, ta ki düşünesiniz.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 2,
+      "ayah": 219,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:219",
+      "word_position": 11,
+      "target_word_uthmani": "وَإِثْمُهُمَآ",
+      "target_word_rasm": "وإثمهما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا",
+      "context_snippet_turkish_tabula_rasa": "... İkisinde de hem büyük sapma ve ağır kusur var, hem insanlara faydalar var; fakat sapma ve kusurları, faydalarından daha çok. ...",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana şarap ve kumarın hükümlerini soruyorlar. De ki: İkisinde de hem büyük sapma ve ağır kusur var, hem insanlara faydalar var; fakat sapma ve kusurları, faydalarından daha çok. Sonra mallarından neyi vereceklerini soruyorlar. De ki: Kendilerini sıkmayanını, sıkıntıya düşürmeyenini, fazlasını. İşte Allah, delillerini size böylece bildirir, ta ki düşünesiniz.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 2,
+      "ayah": 276,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:276",
+      "word_position": 11,
+      "target_word_uthmani": "أَثِيمٍ",
+      "target_word_rasm": "أثيم",
+      "target_word_literal_irab": "Ağır kusur ve çarpıtmada ısrarcı (أَثِيم / ٱلْأَثِيمِ — mübalağa sıfatı: 7 geçiş)",
+      "context_snippet_arabic": "يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah faizi eksiltir, sadakalarıysa arttırır ve Allah, fazlasıyla gerçeğin üzerini örtmeye düşüp çok suç işleyenlerin hiçbirini sevmez.",
+      "morphology": {
+        "lemma": ">aviym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aviym|ROOT:Avm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَٰتِ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah faizi eksiltir, sadakalarıysa arttırır ve Allah, fazlasıyla gerçeğin üzerini örtmeye düşüp çok suç işleyenlerin hiçbirini sevmez.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 2,
+      "ayah": 283,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:283",
+      "word_position": 27,
+      "target_word_uthmani": "ءَاثِمٌ",
+      "target_word_rasm": "ءاثم",
+      "target_word_literal_irab": "Ağır kusura batan / şahitliği gizleyen (ءَاثِم / ٱلْءَاثِمِينَ — ism-i fâil: 2:283, 5:106, 76:24)",
+      "context_snippet_arabic": "وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ وَٱللَّهُ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "... Kim gizlerse şüphe yok, kalbi sapma ve kusura batar ve Allah yapıklarınızı tamamıyla bilir.",
+      "morphology": {
+        "lemma": "A^vim",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:A^vim|ROOT:Avm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَٰنٌ مَّقْبُوضَةٌ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا تَكْتُمُوا۟ ٱلشَّهَٰدَةَ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer bir yolculuktaysanız, katip de bulamadınızsa alınan rehin de kafi. Birbirinize emniyetiniz varsa emniyet edilen borçlu, kendisini geliştiren Allah'tan sakınsın da emanetini tamamıyla ödesin ve tanıklığı gizlemeyin. Kim gizlerse şüphe yok, kalbi sapma ve kusura batar ve Allah yapıklarınızı tamamıyla bilir.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 3,
+      "ayah": 178,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:178",
+      "word_position": 14,
+      "target_word_uthmani": "إِثْمًا",
+      "target_word_rasm": "إثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًا وَلَهُمْ عَذَابٌ مُّهِينٌ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara mühlet ve fırsat verişimiz, suçlarını arttırmaları içindir ve onlaradır horhakir edici azap.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا نُمْلِى لَهُمْ خَيْرٌ لِّأَنفُسِهِمْ إِنَّمَا نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًا وَلَهُمْ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Küfredenler, kendilerine mühlet ve fırsat vermemizi, kendileri için hayırlı sanmasınlar. Onlara mühlet ve fırsat verişimiz, suçlarını arttırmaları içindir ve onlaradır horhakir edici azap.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 4,
+      "ayah": 20,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:20",
+      "word_position": 16,
+      "target_word_uthmani": "وَإِثْمًا",
+      "target_word_rasm": "وإثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "شَيْـًٔا أَتَأْخُذُونَهُۥ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "context_snippet_turkish_tabula_rasa": "Zevcenizi bırakıp yerine bir başkasını almak isterseniz bırakacağınıza, yığınlarla mehir vermiş olsanız bile ondan hiçbir şey almayın. İftira ederek ve apaçık sapma ve kusura girerek alır mısınız onu hiç?",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا أَتَأْخُذُونَهُۥ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Zevcenizi bırakıp yerine bir başkasını almak isterseniz bırakacağınıza, yığınlarla mehir vermiş olsanız bile ondan hiçbir şey almayın. İftira ederek ve apaçık sapma ve kusura girerek alır mısınız onu hiç?",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 4,
+      "ayah": 48,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:48",
+      "word_position": 19,
+      "target_word_uthmani": "إِثْمًا",
+      "target_word_rasm": "إثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Allah, kendisine eş tanıyanları yarlıgamaz, ondan başka dilediğinin bütün suçlarını yarlıgar ve kim Allah'a eş tanırsa gerçekten de büyük bir iftirada bulunmuş, pek büyük bir suç işlemiştir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Allah, kendisine eş tanıyanları yarlıgamaz, ondan başka dilediğinin bütün suçlarını yarlıgar ve kim Allah'a eş tanırsa gerçekten de büyük bir iftirada bulunmuş, pek büyük bir suç işlemiştir.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 4,
+      "ayah": 50,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:50",
+      "word_position": 9,
+      "target_word_uthmani": "إِثْمًا",
+      "target_word_rasm": "إثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "ٱلْكَذِبَ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا",
+      "context_snippet_turkish_tabula_rasa": "Hele bak, Allah'a nasıl iftira ediyor, ona yalan isnat ediyorlar ve yeter bu apaçık suç onlara.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hele bak, Allah'a nasıl iftira ediyor, ona yalan isnat ediyorlar ve yeter bu apaçık suç onlara.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 4,
+      "ayah": 107,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:107",
+      "word_position": 14,
+      "target_word_uthmani": "أَثِيمًا",
+      "target_word_rasm": "أثيما",
+      "target_word_literal_irab": "Ağır kusur ve çarpıtmada ısrarcı (أَثِيم / ٱلْأَثِيمِ — mübalağa sıfatı: 7 geçiş)",
+      "context_snippet_arabic": "مَن كَانَ خَوَّانًا أَثِيمًا",
+      "context_snippet_turkish_tabula_rasa": "kendi benliklerine hainlik edenlerden yana çıkıp uğraşma; şüphe yok ki Allah, hainlikte ileri giden suçluları sevmez.",
+      "morphology": {
+        "lemma": ">aviym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aviym|ROOT:Avm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "kendi benliklerine hainlik edenlerden yana çıkıp uğraşma; şüphe yok ki Allah, hainlikte ileri giden suçluları sevmez.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 4,
+      "ayah": 111,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:111",
+      "word_position": 3,
+      "target_word_uthmani": "إِثْمًا",
+      "target_word_rasm": "إثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Kim bir suç işlerse o suçu kendi aleyhine kazanmıştır, zararı kendine ve Allah, her şeyi bilir, hüküm ve hikmet sahibidir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim bir suç işlerse o suçu kendi aleyhine kazanmıştır, zararı kendine ve Allah, her şeyi bilir, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 4,
+      "ayah": 112,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:112",
+      "word_position": 5,
+      "target_word_uthmani": "إِثْمًا",
+      "target_word_rasm": "إثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Kim bir hatada bulunur, yahut suç işler de onu bir suçsuza isnat ederse iftirada bulunmuş, apaçık bir sapma ve kusuru yüklenmiş olur.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim bir hatada bulunur, yahut suç işler de onu bir suçsuza isnat ederse iftirada bulunmuş, apaçık bir sapma ve kusuru yüklenmiş olur.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 4,
+      "ayah": 112,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:112",
+      "word_position": 13,
+      "target_word_uthmani": "وَإِثْمًا",
+      "target_word_rasm": "وإثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "context_snippet_turkish_tabula_rasa": "Kim bir hatada bulunur, yahut suç işler de onu bir suçsuza isnat ederse iftirada bulunmuş, apaçık bir sapma ve kusuru yüklenmiş olur.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim bir hatada bulunur, yahut suç işler de onu bir suçsuza isnat ederse iftirada bulunmuş, apaçık bir sapma ve kusuru yüklenmiş olur.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 45,
+      "target_word_uthmani": "ٱلْإِثْمِ",
+      "target_word_rasm": "ٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... İyilik etmek ve kötülükten sakınmak hususunda birbirinize yardım edin, suç işlemek ve düşmanlık etmek için yardımlaşmayın ve Allah'tan sakının, şüphe yok ki Allah'ın cezası, çok çetindir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah'a kulluk ve yönelişe vesile olan, büyük yöneliş toplanması töreni yapılan yerlerin ve savaşın haram edildiği ayların hürmetini koruyun, büyük yöneliş toplanması yakınlaşma sunusu, yakınlaşma sunusu edilecekleri belli olsun diye boynuna bir şey takılan hayvanlara, Rablerinden bir lütfe ve razılığa ulaşmak için Beytül Haram'ı ziyarete gelenlere hürmetsizlik etmeyin. İhramdan çıkınca avlanın. Sizi dokunulmaz teslimiyet odağı'dan meneden kavme karşı beslediğiniz kin aşırı hareket etmenize, tecavüzde bulunmanıza sebep olmasın. İyilik etmek ve kötülükten sakınmak hususunda birbirinize yardım edin, suç işlemek ve düşmanlık etmek için yardımlaşmayın ve Allah'tan sakının, şüphe yok ki Allah'ın cezası, çok çetindir.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 5,
+      "ayah": 3,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:3",
+      "word_position": 57,
+      "target_word_uthmani": "لِّإِثْمٍ",
+      "target_word_rasm": "لإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ",
+      "context_snippet_turkish_tabula_rasa": "... Pek aç kalıp zora düşen, suç işlemek niyetinde olmamak şartıyla haram edilen şeyleri yiyebilir ve şüphe yok ki Allah, suçları örter rahimdir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Haram edilmiştir size ölü, kan, domuz eti, Allah'tan gayrı putlar adına kesilen hayvanlar, boğulmuş, vurulmuş, yüksek bir yerden düşüp ölmüş, başka bir hayvan tarafından süsülüp öldürülmüş, canavar tarafından parçalanmış olanlar; ancak ölmeden yetişip kestikleriniz müstesna; ve taştan yapılmış ve dikilmiş putlar adına kesilenler ve fal için çekilen oklarla rızık arayış. Bunlar, kötülüktür. Bugün gerçeğin üzerini örtenler, yaşam sisteminiz yüzünden meyus olmuşlardır artık sizden, korkmayın onlardan, benden korkun. Bugün yaşam sisteminizi ikmal ettim, size verdiğim nimetimi tamamladım, size yaşam ve hesap sistemi olarak Müslümanlığı verdim de hoşnut oldum. Pek aç kalıp zora düşen, suç işlemek niyetinde olmamak şartıyla haram edilen şeyleri yiyebilir ve şüphe yok ki Allah, suçları örter rahimdir.",
+      "contextual_meaning": "Zorunluluk, adil barıştırma ve meşru süre tercihinde ağır kusur yükünün kalkması (2:173, 2:182, 2:203, 5:3)."
+    },
+    {
+      "surah": 5,
+      "ayah": 29,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:29",
+      "word_position": 5,
+      "target_word_uthmani": "بِإِثْمِى",
+      "target_word_rasm": "بإثمى",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Dilerim, kendi suçunla beraber benim suçumu da yüklenesin de yakıcı yıkım yurdu ehlinden olasın ve budur cezası zulmedenlerin.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dilerim, kendi suçunla beraber benim suçumu da yüklenesin de yakıcı yıkım yurdu ehlinden olasın ve budur cezası zulmedenlerin.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 5,
+      "ayah": 29,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:29",
+      "word_position": 6,
+      "target_word_uthmani": "وَإِثْمِكَ",
+      "target_word_rasm": "وإثمك",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ",
+      "context_snippet_turkish_tabula_rasa": "Dilerim, kendi suçunla beraber benim suçumu da yüklenesin de yakıcı yıkım yurdu ehlinden olasın ve budur cezası zulmedenlerin.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dilerim, kendi suçunla beraber benim suçumu da yüklenesin de yakıcı yıkım yurdu ehlinden olasın ve budur cezası zulmedenlerin.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 5,
+      "ayah": 62,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:62",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْإِثْمِ",
+      "target_word_rasm": "ٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "مِّنْهُمْ يُسَٰرِعُونَ فِى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَأَكْلِهِمُ ٱلسُّحْتَ",
+      "context_snippet_turkish_tabula_rasa": "Onların çoğunu görürsün ki suç işlemekte, düşmanlık etmekte, haram yemekte birbirleriyle yarışa girerler. Yaptıkları şey, ne de kötüdür.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَتَرَىٰ كَثِيرًا مِّنْهُمْ يُسَٰرِعُونَ فِى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَأَكْلِهِمُ ٱلسُّحْتَ لَبِئْسَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların çoğunu görürsün ki suç işlemekte, düşmanlık etmekte, haram yemekte birbirleriyle yarışa girerler. Yaptıkları şey, ne de kötüdür.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 5,
+      "ayah": 63,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:63",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْإِثْمَ",
+      "target_word_rasm": "ٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ لَبِئْسَ",
+      "context_snippet_turkish_tabula_rasa": "Bari, hükümleri bilenleri ve bilginleri, onları, suç olan sözleri söylemekten ve haram yemekten menetselerdi. İşledikleri iş, ne de kötüdür.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bari, hükümleri bilenleri ve bilginleri, onları, suç olan sözleri söylemekten ve haram yemekten menetselerdi. İşledikleri iş, ne de kötüdür.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 5,
+      "ayah": 106,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:106",
+      "word_position": 51,
+      "target_word_uthmani": "ٱلْءَاثِمِينَ",
+      "target_word_rasm": "ٱلءاثمين",
+      "target_word_literal_irab": "Ağır kusura batan / şahitliği gizleyen (ءَاثِم / ٱلْءَاثِمِينَ — ism-i fâil: 2:283, 5:106, 76:24)",
+      "context_snippet_arabic": "إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Ancak onları, irtibat bağından sonraya dek alıkoyun da akraba bile olsa Allah'ı bırakıp yerine hiçbir menfaati satın almayacağız, tanıklığımızı, Allah için gizlemeyeceğiz, gizlersek ağır sapmaya düşenlerden olalım diye Allah'a kesin and etsinler.",
+      "morphology": {
+        "lemma": "A^vim",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:A^vim|ROOT:Avm|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, birinize ölüm gelip çatarsa aranızda vasiyet edeceğiniz zaman, sizden iki adil tanık bulunsun. Yolculuktaysanız ve gene size ölüm musibeti gelip çatacaksa sizden olmayan iki kişiyi de tanık tutabilirsiniz. Ancak onları, irtibat bağından sonraya dek alıkoyun da akraba bile olsa Allah'ı bırakıp yerine hiçbir menfaati satın almayacağız, tanıklığımızı, Allah için gizlemeyeceğiz, gizlersek ağır sapmaya düşenlerden olalım diye Allah'a kesin and etsinler.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 5,
+      "ayah": 107,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:107",
+      "word_position": 6,
+      "target_word_uthmani": "إِثْمًا",
+      "target_word_rasm": "إثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا",
+      "context_snippet_turkish_tabula_rasa": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a kesin and ederler.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a kesin and ederler.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 6,
+      "ayah": 120,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:120",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْإِثْمِ",
+      "target_word_rasm": "ٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "وَذَرُوا۟ ظَٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ إِنَّ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "sapma ve kusurun açığa vurulanından da vazgeçin, gizli kalanından da. sapma ve ağır kusur kazananlar, kazançlarına karşılık cezalanacaklardır.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَذَرُوا۟ ظَٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sapma ve kusurun açığa vurulanından da vazgeçin, gizli kalanından da. sapma ve ağır kusur kazananlar, kazançlarına karşılık cezalanacaklardır.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 6,
+      "ayah": 120,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:120",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْإِثْمَ",
+      "target_word_rasm": "ٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "sapma ve kusurun açığa vurulanından da vazgeçin, gizli kalanından da. sapma ve ağır kusur kazananlar, kazançlarına karşılık cezalanacaklardır.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَذَرُوا۟ ظَٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sapma ve kusurun açığa vurulanından da vazgeçin, gizli kalanından da. sapma ve ağır kusur kazananlar, kazançlarına karşılık cezalanacaklardır.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 7,
+      "ayah": 33,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:33",
+      "word_position": 11,
+      "target_word_uthmani": "وَٱلْإِثْمَ",
+      "target_word_rasm": "وٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ",
+      "context_snippet_turkish_tabula_rasa": "... Rabbin ancak açığa vurulabilen ve gizlenen kötülüklerle sapma ve kusuru, haksız yere isyan etmeyi ve hiçbir delil indirmediği halde Allah'a otoriteyi bölüşme ve ortak koşma koşmanızı ve bilmediğiniz şeyleri tutup Allah'a isnad ederek söylemenizi haram etmiştir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Rabbin ancak açığa vurulabilen ve gizlenen kötülüklerle sapma ve kusuru, haksız yere isyan etmeyi ve hiçbir delil indirmediği halde Allah'a otoriteyi bölüşme ve ortak koşma koşmanızı ve bilmediğiniz şeyleri tutup Allah'a isnad ederek söylemenizi haram etmiştir.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 24,
+      "ayah": 11,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:11",
+      "word_position": 21,
+      "target_word_uthmani": "ٱلْإِثْمِ",
+      "target_word_rasm": "ٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "مَّا ٱكْتَسَبَ مِنَ ٱلْإِثْمِ وَٱلَّذِى تَوَلَّىٰ كِبْرَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan herbirinin kazandığı sapma ve ağır kusur, kendisine aittir, içlerinden, suçun en büyüğünü yüklenene gelince: Onundur en büyük azap.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ جَآءُو بِٱلْإِفْكِ عُصْبَةٌ مِّنكُمْ لَا تَحْسَبُوهُ شَرًّا لَّكُم بَلْ هُوَ خَيْرٌ لَّكُمْ لِكُلِّ ٱمْرِئٍ مِّنْهُم مَّا ٱكْتَسَبَ مِنَ ٱلْإِثْمِ وَٱلَّذِى تَوَلَّىٰ كِبْرَهُۥ مِنْهُمْ لَهُۥ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O uydurma haberi size getiren sizden bir taifedir; onu şer sanmayın kendinize, hatta o, hayırdır size. Onlardan herbirinin kazandığı sapma ve ağır kusur, kendisine aittir, içlerinden, suçun en büyüğünü yüklenene gelince: Onundur en büyük azap.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 25,
+      "ayah": 68,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:68",
+      "word_position": 22,
+      "target_word_uthmani": "أَثَامًا",
+      "target_word_rasm": "أثاما",
+      "target_word_literal_irab": "Ağır kusurun kaçınılmaz yaptırım karşılığı (أَثَامًا — hapax isim: 25:68)",
+      "context_snippet_arabic": "يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا",
+      "context_snippet_turkish_tabula_rasa": "Ve öyle kişilerdir onlar ki Allah'la beraber başka bir mabuda kulluk etmezler ve haklı olmadıkça Allah'ın haram ettiği bir cana kıyıp kimseyi öldürmezler ve...",
+      "morphology": {
+        "lemma": ">avaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:>avaAm|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve öyle kişilerdir onlar ki Allah'la beraber başka bir mabuda kulluk etmezler ve haklı olmadıkça Allah'ın haram ettiği bir cana kıyıp kimseyi öldürmezler ve zina etmezler ve kim, bunları yaparsa cezaya düşer.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 26,
+      "ayah": 222,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:222",
+      "word_position": 5,
+      "target_word_uthmani": "أَثِيمٍ",
+      "target_word_rasm": "أثيم",
+      "target_word_literal_irab": "Ağır kusur ve çarpıtmada ısrarcı (أَثِيم / ٱلْأَثِيمِ — mübalağa sıfatı: 7 geçiş)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, bütün yalancı ve suçlulara inerler.",
+      "morphology": {
+        "lemma": ">aviym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aviym|ROOT:Avm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, bütün yalancı ve suçlulara inerler.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 33,
+      "ayah": 58,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:58",
+      "word_position": 11,
+      "target_word_uthmani": "وَإِثْمًا",
+      "target_word_rasm": "وإثما",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "فَقَدِ ٱحْتَمَلُوا۟ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "context_snippet_turkish_tabula_rasa": "Kadın ve erkek, güvene erenlere, yapmadıkları suçlar yüzünden eziyet edenler, pek büyük bir yalan ve apaçık bir sapma ve ağır kusur yüklenmişlerdir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ بِغَيْرِ مَا ٱكْتَسَبُوا۟ فَقَدِ ٱحْتَمَلُوا۟ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadın ve erkek, güvene erenlere, yapmadıkları suçlar yüzünden eziyet edenler, pek büyük bir yalan ve apaçık bir sapma ve ağır kusur yüklenmişlerdir.",
+      "contextual_meaning": "Vasiyet çarpıtma, rüşvet, şahitlik gizleme ve masumlara iftira atmanın doğurduğu apaçık ağır kusur ve vebal (2:283, 4:112, 24:11, 33:58)."
+    },
+    {
+      "surah": 42,
+      "ayah": 37,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:37",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْإِثْمِ",
+      "target_word_rasm": "ٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا",
+      "context_snippet_turkish_tabula_rasa": "Ve suçların büyüklerinden ve çirkin şeylerden kaçınanlara ve kızdıkları zaman, suçları örtenlere.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve suçların büyüklerinden ve çirkin şeylerden kaçınanlara ve kızdıkları zaman, suçları örtenlere.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 44,
+      "ayah": 44,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:44",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْأَثِيمِ",
+      "target_word_rasm": "ٱلأثيم",
+      "target_word_literal_irab": "Ağır kusur ve çarpıtmada ısrarcı (أَثِيم / ٱلْأَثِيمِ — mübalağa sıfatı: 7 geçiş)",
+      "context_snippet_arabic": "طَعَامُ ٱلْأَثِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Suçluların yemeğidir.",
+      "morphology": {
+        "lemma": ">aviym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aviym|ROOT:Avm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "طَعَامُ ٱلْأَثِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Suçluların yemeğidir.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 45,
+      "ayah": 7,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:7",
+      "word_position": 4,
+      "target_word_uthmani": "أَثِيمٍ",
+      "target_word_rasm": "أثيم",
+      "target_word_literal_irab": "Ağır kusur ve çarpıtmada ısrarcı (أَثِيم / ٱلْأَثِيمِ — mübalağa sıfatı: 7 geçiş)",
+      "context_snippet_arabic": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Yazık boyuna yalan söyleyip durmadan suç işleyene.",
+      "morphology": {
+        "lemma": ">aviym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aviym|ROOT:Avm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yazık boyuna yalan söyleyip durmadan suç işleyene.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 49,
+      "ayah": 12,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:12",
+      "word_position": 11,
+      "target_word_uthmani": "إِثْمٌ",
+      "target_word_rasm": "إثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, sakının fazla şüphe etmekten, şüphe yok ki bazı zan ve şüpheler suçtur ve ayıplarınızı, gizli işleri arayıp gözetmeyin ve bir kısmınız, bir kısmınızın gıyabında kötülüğünü de söylemesin; biriniz, ölü kardeşinin etini yemeyi sever mi? Tiksindiniz, değil mi? Ve çekinin Allah'tan, şüphe yok ki Allah, tövbeleri kabul eder, rahimdir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, sakının fazla şüphe etmekten, şüphe yok ki bazı zan ve şüpheler suçtur ve ayıplarınızı, gizli işleri arayıp gözetmeyin ve bir kısmınız, bir kısmınızın gıyabında kötülüğünü de söylemesin; biriniz, ölü kardeşinin etini yemeyi sever mi? Tiksindiniz, değil mi? Ve çekinin Allah'tan, şüphe yok ki Allah, tövbeleri kabul eder, rahimdir.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 52,
+      "ayah": 23,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:23",
+      "word_position": 8,
+      "target_word_uthmani": "تَأْثِيمٌ",
+      "target_word_rasm": "تأثيم",
+      "target_word_literal_irab": "Ağır kusura ve kavgaya sürükleyen söz/tutum (تَأْثِيم — Bab II masdarı: 52:23, 56:25)",
+      "context_snippet_arabic": "لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve birbirlerine öyle bir kadeh sunarlar ki içtikleri şaRabın sonucunda ne boş şeylerden bahsediş var, ne sapma ve kusura giriş.",
+      "morphology": {
+        "lemma": "ta>oviym",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:ta>oviym|ROOT:Avm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve birbirlerine öyle bir kadeh sunarlar ki içtikleri şaRabın sonucunda ne boş şeylerden bahsediş var, ne sapma ve kusura giriş.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 53,
+      "ayah": 32,
+      "surah_name": "Necm",
+      "ayah_ref": "53:32",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْإِثْمِ",
+      "target_word_rasm": "ٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ",
+      "context_snippet_turkish_tabula_rasa": "Israr etmemek şartıyle küçük sapma ve kusurlardan başka suçların büyüklerinden ve çirkin şeylerden sakınanlara gelince: Şüphe yok ki Rabbinin yarlıgaması pek geniştir. ...",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَٰتِكُمْ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Israr etmemek şartıyle küçük sapma ve kusurlardan başka suçların büyüklerinden ve çirkin şeylerden sakınanlara gelince: Şüphe yok ki Rabbinin yarlıgaması pek geniştir. O, sizi yeryüzünden yaratıp meydana getirdiği zaman ve siz, analarınızın karnında birer dölken de bilir; artık siz, kendinizi temize çıkarmaya kalkışmayın, o, kim çekinmededir, daha iyi bilir.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 56,
+      "ayah": 25,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:25",
+      "word_position": 6,
+      "target_word_uthmani": "تَأْثِيمًا",
+      "target_word_rasm": "تأثيما",
+      "target_word_literal_irab": "Ağır kusura ve kavgaya sürükleyen söz/tutum (تَأْثِيم — Bab II masdarı: 52:23, 56:25)",
+      "context_snippet_arabic": "فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Orada boş ve çirkin bir söz de duymazlar, sapma ve kusura ait bir söz de.",
+      "morphology": {
+        "lemma": "ta>oviym",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:ta>oviym|ROOT:Avm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Orada boş ve çirkin bir söz de duymazlar, sapma ve kusura ait bir söz de.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 58,
+      "ayah": 8,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:8",
+      "word_position": 14,
+      "target_word_uthmani": "بِٱلْإِثْمِ",
+      "target_word_rasm": "بٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ",
+      "context_snippet_turkish_tabula_rasa": "Bakmaz mısın gizli ve fısıltıyla konuşmadan vazgeçmeleri emredilenlere, sonradan gene vazgeçmeleri emredilen şeye dönerler ve suça ve düşmanlığa ve elçiye isyana ait şeyleri gizlice konuşurlar ve senin yanına gelince de Allah'ın, sana verdiği selamdan başka bir tarzda selam verirler sana ve birbirlerine de şu söylediklerimiz yüzünden derler, Allah'ın bizi azaplandırması gerekmez miydi? yakıcı yıkım yurdu yeter onlara, oraya atılıp yanacaklardır ve gerçekten de orası, dönülüp gidilecek ne de kötü yerdir.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا فَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bakmaz mısın gizli ve fısıltıyla konuşmadan vazgeçmeleri emredilenlere, sonradan gene vazgeçmeleri emredilen şeye dönerler ve suça ve düşmanlığa ve elçiye isyana ait şeyleri gizlice konuşurlar ve senin yanına gelince de Allah'ın, sana verdiği selamdan başka bir tarzda selam verirler sana ve birbirlerine de şu söylediklerimiz yüzünden derler, Allah'ın bizi azaplandırması gerekmez miydi? yakıcı yıkım yurdu yeter onlara, oraya atılıp yanacaklardır ve gerçekten de orası, dönülüp gidilecek ne de kötü yerdir.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 58,
+      "ayah": 9,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:9",
+      "word_position": 8,
+      "target_word_uthmani": "بِٱلْإِثْمِ",
+      "target_word_rasm": "بٱلإثم",
+      "target_word_literal_irab": "İyilikten geri bırakan ağır bilinçli kusur ve vebal (إِثْم / ٱلْإِثْم — isim/masdar: 35 geçiş)",
+      "context_snippet_arabic": "تَنَٰجَيْتُمْ فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, gizli konuşursanız suça ve düşmanlığa ve elçiye karşı isyana dair konuşmayın da hayra ve çekinmeye dair konuşup danışın ve çekinin o Allah'tan ki onun tapısında toplanacaksınız.",
+      "morphology": {
+        "lemma": "<ivom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ivom|ROOT:Avm|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَٰجَيْتُمْ فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, gizli konuşursanız suça ve düşmanlığa ve elçiye karşı isyana dair konuşmayın da hayra ve çekinmeye dair konuşup danışın ve çekinin o Allah'tan ki onun tapısında toplanacaksınız.",
+      "contextual_meaning": "Ağır kusur ve saldırganlıkta dayanışma yasağı, açık-gizli kusuru terk etme, içki-kumarın yıkıcı zararı ve suizan uyarısı (2:219, 5:2, 6:120, 49:12)."
+    },
+    {
+      "surah": 68,
+      "ayah": 12,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:12",
+      "word_position": 4,
+      "target_word_uthmani": "أَثِيمٍ",
+      "target_word_rasm": "أثيم",
+      "target_word_literal_irab": "Ağır kusur ve çarpıtmada ısrarcı (أَثِيم / ٱلْأَثِيمِ — mübalağa sıfatı: 7 geçiş)",
+      "context_snippet_arabic": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Hayrı tamamıyla meneden haddini aşmış suçluya.",
+      "morphology": {
+        "lemma": ">aviym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aviym|ROOT:Avm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayrı tamamıyla meneden haddini aşmış suçluya.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 76,
+      "ayah": 24,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:24",
+      "word_position": 7,
+      "target_word_uthmani": "ءَاثِمًا",
+      "target_word_rasm": "ءاثما",
+      "target_word_literal_irab": "Ağır kusura batan / şahitliği gizleyen (ءَاثِم / ٱلْءَاثِمِينَ — ism-i fâil: 2:283, 5:106, 76:24)",
+      "context_snippet_arabic": "وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "context_snippet_turkish_tabula_rasa": "Artık sebat edip diren Rabbinin hükmüne ve uyma, onlardan suçlu, yahut nankör olana.",
+      "morphology": {
+        "lemma": "A^vim",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:A^vim|ROOT:Avm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Artık sebat edip diren Rabbinin hükmüne ve uyma, onlardan suçlu, yahut nankör olana.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    },
+    {
+      "surah": 83,
+      "ayah": 12,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:12",
+      "word_position": 7,
+      "target_word_uthmani": "أَثِيمٍ",
+      "target_word_rasm": "أثيم",
+      "target_word_literal_irab": "Ağır kusur ve çarpıtmada ısrarcı (أَثِيم / ٱلْأَثِيمِ — mübalağa sıfatı: 7 geçiş)",
+      "context_snippet_arabic": "إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve o günü, yalnız haddini aşan ve boyuna suç işleyip duran kişiler yalanlarlar.",
+      "morphology": {
+        "lemma": ">aviym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aviym|ROOT:Avm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve o günü, yalnız haddini aşan ve boyuna suç işleyip duran kişiler yalanlarlar.",
+      "contextual_meaning": "Ağır kusurda direnenlerin (أَثِيم) karşılaşacağı yaptırım karşılığı (أَثَامًا) ile esenlik yurdunda kusura itişin (تَأْثِيم) bulunmaması."
+    }
+  ]
+}

@@ -9,19 +9,20 @@ Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** 
 1. Ana sistem anayasasını oku: `PROMPT.md`
 2. Kalite sigortalarını oku: `tools/QUALITY_CONSTITUTION.md`
 3. Mevcut ilerleme durumunu kontrol et:
-   - `data/second_100_roots.json` ve `data/SECOND_100_KAVRAM.md` (aktif Faz 1 - Etap 2 listesi)
-   - `data/locked_roots.json` (kilitli ana kök sözlüğü)
-   - `data/top_100_roots.json` (tamamlanan Etap 1 listesi)
+   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **221 kök mühürlü, Faz 1 tamamlandı, Faz 2'ye hazır**)
+   - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md` (tamamlanan Etap 1 listesi: `100/100`)
+   - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md` (tamamlanan Etap 2 listesi: `100/100`)
+   - `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md` (tamamlanan Etap 2.5 kilit kavramlar listesi: `16/16`)
 
 ## 📁 Depo Yapısı
 
 - `PROMPT.md`: Tüm çalışma protokolü (10 Uzman Disiplin, Sözlükler Hakem Masası, JSON v3.0 şeması, devam motoru)
-- `data/locked_roots.json`: Mühürlenmiş tüm köklerin tam v3.0 veritabanı
+- `data/locked_roots.json`: Mühürlenmiş tüm köklerin tam v3.0 veritabanı (`221` kilitli kök)
 - `data/locked_roots_compact.json`: Hızlı okuma için sıkıştırılmış kök özeti
-- `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri
+- `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri (`221` kavram JSON dosyası)
 - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md`: İlk 100 kök indeksi (`100/100` tamamlandı)
 - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md`: İkinci 100 yeni kök indeksi (`100/100` tamamlandı)
-- `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md`: Top 200 dışında kalan 16 kilit kavram (`ث-ن-ي [Mesânî]` dahil) indeksi (aktif etap)
+- `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md`: Top 200 dışında kalan 16 kilit kavram (`ث-ن-ي [Mesânî]` dahil) indeksi (`16/16` tamamlandı, Faz 1 bitti, Faz 2 hazır)
 - `data/particles_and_prepositions.json` & `data/EDAT_VE_HARFICER_HARITASI.md`: Kur'an'daki köksüz edat, harf-i cer ve temel özel/ödünç kavramlar haritası (Faz 2 omurgası)
 - `data/quran-*.txt` & `data/quranic-corpus-morphology-0.4.txt`: Yerel Kur'an metinleri ve morfoloji korpusu
 - `tools/`: Saf Python standart kütüphanesiyle çalışan doğrulama ve üretim araçları (ek paket kurulumu gerektirmez)
@@ -37,6 +38,7 @@ python3 tools/build_kavramlar.py
 # İndeksleri ve özet dosyaları yenile
 python3 tools/generate_top_100.py
 python3 tools/generate_second_100.py
+python3 tools/generate_etap_2_5.py
 python3 tools/generate_compact_roots.py
 
 # Zorunlu sıfır hata bütünlük doğrulaması (her kök sonrası şart)

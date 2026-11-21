@@ -229,6 +229,30 @@ def verify_all():
             if expected_s2_line not in s2_md_text:
                 errors.append(f"SECOND_100_KAVRAM.md özet satırı güncel değil: '{expected_s2_line}' bekleniyordu")
 
+    # 7. etap_2_5_key_roots.json ve ETAP_2_5_KAVRAM.md tutarlılığı
+    etap25_path = os.path.join(DATA_DIR, 'etap_2_5_key_roots.json')
+    if os.path.exists(etap25_path):
+        with open(etap25_path, 'r', encoding='utf-8') as f:
+            etap25 = json.load(f)
+        e25_locked = [r for r in etap25['etap_2_5_roots'] if r['is_locked']]
+        expected_e25_locked = [r for r in etap25['etap_2_5_roots'] if r['root_arabic'] in locked_roots]
+        if len(e25_locked) != len(expected_e25_locked) or etap25['locked_count'] != len(expected_e25_locked):
+            errors.append("etap_2_5_key_roots.json mühür sayısı locked_roots.json ile uyumsuz")
+
+        e25_md_path = os.path.join(DATA_DIR, 'ETAP_2_5_KAVRAM.md')
+        if not os.path.exists(e25_md_path):
+            errors.append(f"Eksik indeks dosyası: {e25_md_path}")
+        else:
+            with open(e25_md_path, 'r', encoding='utf-8') as f:
+                e25_md_text = f.read()
+            expected_e25_line = (
+                f"**Etap 2.5 İçinde Şu Ana Kadar Mühürlenen:** "
+                f"{len(expected_e25_locked)} / {len(etap25['etap_2_5_roots'])} Kök "
+                f"(Toplam Mühürlü: {len(locked_roots)} Kök)"
+            )
+            if expected_e25_line not in e25_md_text:
+                errors.append(f"ETAP_2_5_KAVRAM.md özet satırı güncel değil: '{expected_e25_line}' bekleniyordu")
+
     if errors:
         print(f"DOĞRULAMA BAŞARISIZ! Toplam {len(errors)} hata bulundu:")
         for err in errors[:30]:
@@ -237,7 +261,7 @@ def verify_all():
 
     print(
         f"SIFIR HATA DOĞRULANDI! 6236 ayet hizalaması, {len(locked_roots)} kilitli kök v3.0 şeması, "
-        f"tüm kavram JSON dosyaları ve Top 100 indeksi %100 tutarlı ve Tabula Rasa arınmış."
+        f"tüm kavram JSON dosyaları ve Top 100 / İkinci 100 / Etap 2.5 indeksleri %100 tutarlı ve Tabula Rasa arınmış."
     )
     return 0
 
