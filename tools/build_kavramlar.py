@@ -145,7 +145,7 @@ ROOT_CONFIG = {
     'س-م-و': {
         'buckwalter': 'smw',
         'slug': 'sema_isim_smw',
-        'concept_name': 'Semâ / İsim (Üst Kozmik Katman, Tavan ve Tanımlayıcı Ad)',
+        'concept_name': 'Semâ / İsim (Üst Evrensel Katman, Tavan ve Tanımlayıcı Ad)',
         'keywords': ['gök', 'gökler', 'sema', 'semavat', 'tavan', 'isim', 'ad', 'adlandır', 'belirlenmiş', 'süre'],
     },
     'ع-ذ-ب': {
@@ -319,8 +319,8 @@ ROOT_CONFIG = {
     'م-ل-ك': {
         'buckwalter': 'mlk',
         'slug': 'mulk_melik_mlk',
-        'concept_name': 'Mülk / Melik / Kozmik Görev (Sağlam Tutup Hükümranlık Etme, Sahiplik ve Görevli Güçler)',
-        'keywords': ['mülk', 'hükümran', 'sahip', 'kozmik görevli', 'hükümdar', 'yetki', 'gücü yet', 'elinizin altında', 'köle', 'nöbetçi'],
+        'concept_name': 'Mülk / Melik (*m-l-k: Sağlam Tutup Yönetme ve Sahiplik) & Melâike (*l-ʾ-k: Buyruk Elçileri)',
+        'keywords': ['mülk', 'hükümran', 'sahip', 'buyruk elçisi', 'hükümdar', 'yetki', 'gücü yet', 'elinizin altında', 'köle', 'nöbetçi'],
     },
     'ج-ن-ن': {
         'buckwalter': 'jnn',
@@ -1663,7 +1663,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
     elif root_ar == 'أ-ي-ي':
         if lemma == "'aAyap":
             if 'FD' in f:
-                return "İki açık göstergeyi / iki kozmik işareti (ikil dişil isim, mansûb)"
+                return "İki açık göstergeyi / iki evrensel işareti (ikil dişil isim, mansûb)"
             if 'FP' in f:
                 if 'INDEF' in f:
                     if 'NOM' in f:
@@ -1692,18 +1692,18 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
         if lemma == "samaA^'":
             if 'FP' in f:
                 if 'INDEF' in f:
-                    return "Yüksek katmanlar / yedi kozmik gök düzlemi (çoğul belirsiz dişil isim, mecrûr)"
+                    return "Yüksek katmanlar / yedi evrensel gök düzlemi (çoğul belirsiz dişil isim, mecrûr)"
                 if 'NOM' in f:
-                    return "Gökler / üst kozmik katmanlar (çoğul dişil isim, merfû)"
+                    return "Gökler / üst evrensel katmanlar (çoğul dişil isim, merfû)"
                 if 'ACC' in f:
-                    return "Gökleri / üst kozmik katmanları (çoğul dişil isim, mansûb)"
-                return "Gökler / üst kozmik katmanlar ve uzay yapısı (çoğul dişil isim, mecrûr)"
+                    return "Gökleri / üst evrensel katmanları (çoğul dişil isim, mansûb)"
+                return "Gökler / üst evrensel katmanlar ve uzay yapısı (çoğul dişil isim, mecrûr)"
             if 'INDEF' in f:
-                return "Bir gök katmanı / her bir yüksek kozmik alan (tekil belirsiz dişil isim, mecrûr)"
+                return "Bir gök katmanı / her bir yüksek evrensel alan (tekil belirsiz dişil isim, mecrûr)"
             if 'NOM' in f:
                 return "Gök / üst atmosfer veya tavan düzlemi (tekil dişil isim, merfû)"
             if 'ACC' in f:
-                return "Göğü / üst kozmik yapıyı veya tavanı (tekil dişil isim, mansûb)"
+                return "Göğü / üst evrensel yapıyı veya tavanı (tekil dişil isim, mansûb)"
             return "Gök / üst katman, yağmur kaynağı veya yüksek tavan (tekil dişil isim, mecrûr)"
         elif lemma == '{som':
             if 'MP' in f:
@@ -2434,7 +2434,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
             if '1P' in f:
                 return "Ancak üstten gelen buyrukla peş peşe ineriz (V. bab muzâri fiil, 1. çoğul)"
             if '3MS' in f:
-                return "Kozmik düzen buyruğu katmanlar arasında sürekli inip işler (V. bab muzâri fiil, 3. tekil eril)"
+                return "Evrensel düzen buyruğu katmanlar arasında sürekli inip işler (V. bab muzâri fiil, 3. tekil eril)"
             return "Üstten peş peşe inip kararlı biçimde yerleşirler/üşüşürler (V. bab muzâri fiil, 3. tekil dişil)"
         elif lemma == "nazala":
             if 'IMPF' in f:
@@ -3339,14 +3339,14 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
         mood_note = ", mansûb" if 'SUBJ' in f else (", meczûm" if 'JUS' in f else "")
         if lemma == 'malak':
             if 'MP' in f:
-                return f"Evrensel düzende buyruk iletip görev yürüten kozmik görevliler ({indef_note}kırık çoğul isim `ٱلْمَلَٰٓئِكَة`, {irab})"
+                return f"Evrensel düzende buyruk iletip görev yürüten buyruk elçileri ({indef_note}kırık çoğul isim `ٱلْمَلَٰٓئِكَة`, {irab})"
             if 'MD' in f:
-                return f"Evrensel görev taşıyan iki kozmik görevli (ikil isim `مَلَكَيْنِ`, {irab})"
+                return f"Evrensel görev taşıyan iki buyruk elçisi (ikil isim `مَلَكَيْنِ`, {irab})"
             if (s, a) in ((69, 17), (89, 22)):
-                return f"Evren düzenini sıra sıra kuşatan kozmik görevliler topluluğu (topluluk tekili isim `ٱلْمَلَكُ`, {irab})"
+                return f"Evren düzenini sıra sıra kuşatan buyruk elçileri topluluğu (topluluk tekili isim `ٱلْمَلَكُ`, {irab})"
             if (s, a) == (32, 11):
-                return f"Can alma görevini devralan yetkili kozmik görevli (tekil isim `مَلَكُ`, {irab})"
-            return f"Evrensel sistemde görev yürüten tekil kozmik görevli ({indef_note}tekil isim `مَلَك`, {irab})"
+                return f"Can alma görevini devralan yetkili buyruk elçisi (tekil isim `مَلَكُ`, {irab})"
+            return f"Evrensel sistemde görev yürüten tekil buyruk elçisi ({indef_note}tekil isim `مَلَك`, {irab})"
 
         elif lemma == 'mulok':
             return f"Tüm sistemi çekip çeviren egemenlik, yönetim gücü ve yetki alanı ({indef_note}eril tekil isim `مُلْك`, {irab})"
@@ -3688,7 +3688,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
             return "Yüce yönetim meclisinden gizlice kulak hırsızlığı yapmaya çabalarlar (`يَسَّمَّعُونَ`, aslı `يَتَسَمَّعُونَ` olan V. bab idğamlı muzâri fiil, 3. çoğul eril)"
         elif lemma == 'samoE':
             if (s, a) in ((16, 78), (17, 36), (23, 78), (32, 9), (46, 26), (67, 23)):
-                return f"Her yönden gelen sesleri tek ortak havuzda toplayan işitme kanalı ve duyma donanımı (`سَمْع`, daima tekil eril masdar isim, {irab})"
+                return f"Her yönden gelen sesleri tek ortak havuzda toplayan işitme kanalı ve duyma fiziksel yapıı (`سَمْع`, daima tekil eril masdar isim, {irab})"
             if (s, a) in ((2, 7), (16, 108), (45, 23)):
                 return f"İnatçı kapanış yüzünden gerçeğe karşı kilitlenmiş işitme kapasitesi (`سَمْعِهِمْ / سَمْعِهِۦ`, tekil eril isim, {irab})"
             if (s, a) in ((41, 20), (41, 22)):
@@ -3697,7 +3697,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
         elif lemma == 'samiyE':
             tag_desc = "eril tekil sıfat" if pos == 'ADJ' else "mübalağalı ortaç isim"
             if (s, a) == (76, 2):
-                return f"Çevresindeki sesleri duyan ve söyleneni algılayıp karşılık verebilen donanımlı varlık (`سَمِيعًۢا`, {indef_note}{tag_desc}, {irab})"
+                return f"Çevresindeki sesleri duyan ve söyleneni algılayıp karşılık verebilen fiziksel yapılı varlık (`سَمِيعًۢا`, {indef_note}{tag_desc}, {irab})"
             if (s, a) == (11, 24):
                 return f"Hakikat çağrısını sağlıklı biçimde işitip kavrayan kişi (`ٱلسَّمِيعِ`, {tag_desc}, {irab})"
             if (s, a) in ((3, 38), (14, 39)):
@@ -3732,7 +3732,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
                 return f"Her yüksek geçide boşuna gösteriş anıtları mı dikip kuruyorsunuz (`أَتَبْنُونَ`, I. bab muzâri fiil, {b_pers})"
             if (s, a) == (9, 110):
                 return f"Çıkar ve fitne amaçlı gizli yapı kurdular (`بَنَوْا۟`, I. bab mâzî fiil, {b_pers})"
-            return f"Üstündeki gök kubbeyi çatlaksız, sağlam ölçülü dev bir kozmik yapı halinde inşa etti/ettik (`بَنَىٰ / بَنَيْنَا`, I. bab mâzî fiil, {b_pers})"
+            return f"Üstündeki gök kubbeyi çatlaksız, sağlam ölçülü dev bir evrensel yapı halinde inşa etti/ettik (`بَنَىٰ / بَنَيْنَا`, I. bab mâzî fiil, {b_pers})"
         elif lemma == 'bunoya`n':
             if (s, a) == (61, 4):
                 return f"Parçaları harçla sımsıkı kaynatılmış sarsılmaz tek parça duvar gibi saf düzeni (`بُنْيَٰنٌ`, {indef_note}eril isim, {irab})"
@@ -4069,7 +4069,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
             if (s, a) == (2, 263):
                 return "Yaptığı bağışın arkasından incitici tutum gelmesi (`يَتْبَعُهَآ`, I. bab muzâri fiili, 3. tekil eril)"
             if (s, a) == (79, 7):
-                return "İlk kozmik sarsıntının hemen ardından ikinci sarsıcı dalga gelir (`تَتْبَعُهَا`, I. bab muzâri fiili, 3. tekil dişil)"
+                return "İlk evrensel sarsıntının hemen ardından ikinci sarsıcı dalga gelir (`تَتْبَعُهَا`, I. bab muzâri fiili, 3. tekil dişil)"
             return f"Öndeki çağrının, kıblenin veya önderin ardından gidip izledi (`تَبِعَ / تَبِعُوا۟`, I. bab {tense} fiili, {t_pers})"
         elif lemma == 'taAbiE':
             if (s, a) == (24, 31):
@@ -4110,7 +4110,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
             if (s, a) in ((2, 179), (2, 197), (2, 269), (3, 7), (3, 190), (5, 100), (12, 111), (13, 19), (14, 52), (38, 29), (38, 43), (39, 9), (39, 18), (39, 21), (40, 54), (65, 10)):
                 return f"Olayların kabuğunu aşıp özüne eren derin akıl sahipleri (`أُو۟لُوا۟ / أُو۟لِى`, çoğul isim tamlaması başı, {irab})"
             if (s, a) in ((3, 13), (20, 54), (20, 128), (24, 44), (59, 2), (3, 18), (38, 45), (46, 35)):
-                return f"Bilgi, derin kavrayış, kararlılık ve basiret donanımı sahipleri (`أُو۟لُوا۟ / أُو۟لِى`, çoğul isim, {irab})"
+                return f"Bilgi, derin kavrayış, kararlılık ve basiret fiziksel yapıı sahipleri (`أُو۟لُوا۟ / أُو۟لِى`, çoğul isim, {irab})"
             return f"Belirli bir yakınlık, yetki, imkân, yükümlülük veya güç niteliğini kendinde taşıyanlar (`أُو۟لُوا۟ / أُو۟لِى`, çoğul isim, {irab})"
         elif lemma == "'aAl":
             if (s, a) in ((2, 49), (2, 50), (3, 11), (7, 130), (7, 141), (8, 52), (8, 54), (14, 6), (28, 8), (40, 28), (40, 45), (40, 46), (54, 41)):
@@ -5039,7 +5039,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
         elif lemma == 'taboSirap':
             return "Zihin ve görüş açıcı bir aydınlatma penceresi olarak (`تَبْصِرَةً`, II. bab masdar mef'ûlün leh mansûb)"
         elif lemma == 'musotaboSiriyn':
-            return "Gerçeği açıkça görüp kavrayacak donanımda oldukları hâlde (`مُسْتَبْصِرِينَ`, X. bab ismi fâil çoğul mansûb)"
+            return "Gerçeği açıkça görüp kavrayacak fiziksel yapıda oldukları hâlde (`مُسْتَبْصِرِينَ`, X. bab ismi fâil çoğul mansûb)"
 
     elif root_ar == 'ر-و-د':
         if lemma == '>araAda':
@@ -5180,7 +5180,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
             elif '2MP' in f:
                 return "Dilden dile alıp aktarıyordunuz (`تَلَقَّوْنَهُۥ`, V. bab malûm muzâri fiili, 2. çoğul eril)"
             elif (s, a) == (21, 103):
-                return "Kozmik görevliler onları karşılar (`وَتَتَلَقَّىٰهُمُ`, V. bab muzâri fiili; korpus etiketi `2MS`, bağlamda `3FS`)"
+                return "Buyruk elçileri onları karşılar (`وَتَتَلَقَّىٰهُمُ`, V. bab muzâri fiili; korpus etiketi `2MS`, bağlamda `3FS`)"
             return "Karşılayıp kaydeder (`يَتَلَقَّى`, V. bab malûm muzâri fiili, 3. tekil eril)"
         elif lemma == '{lotaqaY':
             if 'IMPF' in f:
@@ -5433,7 +5433,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
         if lemma == 'taqodiyr':
             if 'ACC' in features:
                 return "Kusursuzca ölçülendirip oranlayarak (`تَقْدِيرًا`, II. bab mef'ûl-i mutlak masdar mansûb)"
-            return "İnce hesaplı kozmik ölçülendirme ve düzenlemesi (`تَقْدِيرُ`, II. bab masdar merfû)"
+            return "İnce hesaplı evrensel ölçülendirme ve düzenlemesi (`تَقْدِيرُ`, II. bab masdar merfû)"
         if lemma == 'qador':
             if (s, a) in ((97, 1), (97, 2), (97, 3)):
                 return "Ölçü, değer ve hüküm gecesi (`ٱلْقَدْرِ`, marife isim mecrûr)"
@@ -6200,7 +6200,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
                 return "Şaşmaz bir hesap ve ölçü düzeniyle (`بِحُسْبَانٍ`, nekre isim mecrûr)"
             if (s, a) == (18, 40):
                 return "Gökten hesaplı ve ölçülü bir darbe (`حُسْبَانًا`, nekre isim mansûb)"
-            return "Kozmik bir hesap ve vakit ölçüsü (`حُسْبَانًا`, nekre mef'ûl mansûb)"
+            return "Evrensel bir hesap ve vakit ölçüsü (`حُسْبَانًا`, nekre mef'ûl mansûb)"
         if lemma == 'Hasob':
             if 'ACC' in features:
                 return "Sana eksiksiz yeten (`حَسْبَكَ`, ism-i inne mansûb)"
@@ -6511,7 +6511,7 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
         if lemma == 'yatafaD~ala':
             return "Size karşı artı statü ve üstünlük elde etsin (`يَتَفَضَّلَ`, V. bab mansûb muzâri 3. tekil eril)"
         if lemma == 'tafoDiyl':
-            return "Gerçek bir derece ve donanım farkıyla (`تَفْضِيلًا`, II. bab masdar mef'ûl-i mutlak mansûb)"
+            return "Gerçek bir derece ve fiziksel yapı farkıyla (`تَفْضِيلًا`, II. bab masdar mef'ûl-i mutlak mansûb)"
         if lemma == 'faD~ala':
             if 'PASS' in features:
                 return "Kendilerine fazladan pay verilenler (`فُضِّلُوا۟`, II. bab meçhul mâzî 3. çoğul)"
@@ -7630,7 +7630,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
     if root_ar == 'أ-ل-ه':
         if lemma == '<ila`h':
             if (s, a) == (21, 22):
-                return "Göklerde ve yerde Allah'tan başka sığınak/otorite odakları olsaydı kozmik düzenin çatışmayla bozulacağı gerçeği."
+                return "Göklerde ve yerde Allah'tan başka sığınak/otorite odakları olsaydı evrensel düzenin çatışmayla bozulacağı gerçeği."
             if (s, a) == (23, 91):
                 return "Birden fazla sığınak odağı olsaydı her birinin kendi yarattığıyla çekilip üstünlük kurma savaşına gireceği; tek sığınağın zorunluluğu."
             if (s, a) in [(25, 43), (45, 23)]:
@@ -7702,9 +7702,9 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             return "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
         elif lemma == 'Sal~aY`':
             if (s, a) == (33, 43):
-                return "Allah'ın ve kozmik görevlilerinin kullarını karanlıklardan aydınlığa çıkarmak için onlara yönelip arkalarında durması ve desteklemesi."
+                return "Allah'ın ve buyruk elçilerininin kullarını karanlıklardan aydınlığa çıkarmak için onlara yönelip arkalarında durması ve desteklemesi."
             elif (s, a) == (33, 56):
-                return "Allah'ın ve kozmik görevlilerin elçinin arkasında durup destek vermesi; güvene erenlerin de ona sırt dönmeyip tam bir bağlılıkla yanında durma çağrısı."
+                return "Allah'ın ve buyruk elçilerinin elçinin arkasında durup destek vermesi; güvene erenlerin de ona sırt dönmeyip tam bir bağlılıkla yanında durma çağrısı."
             elif (s, a) == (75, 31):
                 return "Sırtını dönüp kaçmanın (tevellâ) zıddı olarak hakikate yönelip davanın arkasında durmama hali."
             elif (s, a) == (96, 10):
@@ -7725,7 +7725,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             elif (s, a) == (12, 100):
                 return "Yûsuf'un ailesinin onun ulaştığı ilahi lütuf ve makam önünde saygıyla boyun eğip tevazu göstermesi."
             elif (s, a) in [(13, 15), (16, 49), (22, 18), (55, 6)]:
-                return "Göklerdeki ve yerdeki tüm varlıkların ve gölgelerinin kozmik nizama tam bir teslimiyetle boyun eğişi."
+                return "Göklerdeki ve yerdeki tüm varlıkların ve gölgelerinin evrensel nizama tam bir teslimiyetle boyun eğişi."
             elif (s, a) in [(3, 43), (4, 102), (9, 112), (22, 77), (48, 29)]:
                 return "Zihinsel ve kalbî teslimiyetin bedensel tevazu ve boyun eğişle somutlaşması."
             return "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
@@ -7838,7 +7838,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             elif (s, a) in [(4, 20), (16, 101)]:
                 return "Bir unsurun veya önceki hükmün yerine yeni bir unsurun ikame edilip yerleştirilmesi."
             elif (s, a) == (7, 143):
-                return "Dağın kendi zemininde sarsılmadan sabit kalıp kalamayacağı üzerinden kozmik sınama (7:143)."
+                return "Dağın kendi zemininde sarsılmadan sabit kalıp kalamayacağı üzerinden evrensel sınama (7:143)."
             elif 'POS:LOC' in f:
                 return "Kişinin çevreden ayrılıp belirli bir yönde/noktada yer tuttuğu somut konum (mekân zarfı)."
             return "Varlığın veya eylemin yerleşip yer tuttuğu somut mevki, duruş noktası ya da konum."
@@ -7936,7 +7936,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             if (s, a) in [(96, 4), (96, 5)]:
                 return "İnsana kalem aracılığıyla ve bilmediği her yeni aşamada zihne iz bırakarak bilgi kazandırılması (96:4-5)."
             elif (s, a) == (2, 31):
-                return "İnsana tüm varlıkları ayırt edici ad ve kavramlarıyla tanıma donanımının kazandırılması (2:31-32)."
+                return "İnsana tüm varlıkları ayırt edici ad ve kavramlarıyla tanıma fiziksel yapıının kazandırılması (2:31-32)."
             elif (s, a) == (5, 4):
                 return "Kökün fiziksel iz bırakma yönü: Eğitilen av hayvanlarının dahi yöntem öğretimiyle (tüallimûnehünne) eğitilmesi (5:4)."
             elif (s, a) == (49, 16):
@@ -8131,7 +8131,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) == (11, 44):
             return "Mesânî eşleşmesi (يَٰٓأَرْضُ ↔ يَٰسَمَآءُ): Tufan suyunu içine çekmesi emredilen alt taban ile yağışını kesen üst katmanın uyumlu hareketi (11:44)."
         elif (s, a) == (41, 11):
-            return "Kozmik yasa uyumu: Üst duman/gaz katmanıyla birlikte varoluş yasasına ister istemez yönelip katılan yer tabanı (41:11)."
+            return "Evrensel yasa uyumu: Üst duman/gaz katmanıyla birlikte varoluş yasasına ister istemez yönelip katılan yer tabanı (41:11)."
         elif (s, a) == (65, 12):
             return "Yedi gök katmanı ile tekil kalarak benzer yasalarla işleyen alt yer düzlemi (65:12)."
         elif (s, a) == (14, 48):
@@ -8148,7 +8148,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             return "Baskı altındaki dar çevreye karşı hareket imkânı sunan geniş ve açık yaşam alanı (أَرْضٌ وَٰسِعَةٌ)."
         elif (s, a) in [(99, 1), (99, 2)]:
             return "Büyük sarsıntı anında yer kabuğunun sarsılıp kendi içindeki birikmiş ağırlıkları dışa atması (99:1-2)."
-        return "Üstteki gök katmanlarının karşısındaki temel alt zemin; kozmik yeryüzü veya toplumların üzerinde eylem ürettiği coğrafî alan."
+        return "Üstteki gök katmanlarının karşısındaki temel alt zemin; evrensel yeryüzü veya toplumların üzerinde eylem ürettiği coğrafî alan."
 
     elif root_ar == 'ي-و-م':
         if (s, a) == (1, 4):
@@ -8172,15 +8172,15 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) == (14, 5):
             return "Toplumu karanlıklardan aydınlığa çıkarma göreviyle, Allah'ın tarihteki lütuf ve deneme dönemlerini (eyyâmullah) hatırlatma çağrısı (14:5)."
         elif (s, a) in [(22, 47), (32, 5)]:
-            return "Kozmik düzendeki bir dönemin (yevm), insanlığın sayısal takvimine göre bin yıla denk geldiği zaman göreliliği (22:47 ve 32:5)."
+            return "Evrensel düzendeki bir dönemin (yevm), insanlığın sayısal takvimine göre bin yıla denk geldiği zaman göreliliği (22:47 ve 32:5)."
         elif (s, a) == (30, 55):
             return "Büyük hesap saati kurulduğunda, hakikatten sapanların yeryüzünde yalnızca tek bir saat kaldıklarını kesin bir dille öne sürmesi (30:55)."
         elif (s, a) in [(41, 9), (41, 10), (41, 12)]:
-            return "Yerin ve çok katmanlı gök sisteminin ikişer ve dörder kozmik evrede ölçülüp düzenlendiği yaratılış aşamaları (41:9-12)."
+            return "Yerin ve çok katmanlı gök sisteminin ikişer ve dörder evrensel evrede ölçülüp düzenlendiği yaratılış aşamaları (41:9-12)."
         elif (s, a) == (45, 14):
             return "Allah'ın geçmişteki müdahale ve hesap günlerini ummayanların taşkınlıklarına karşı, dirençli kalarak bağışlayıcı tutum sergileme uyarısı (45:14)."
         elif (s, a) == (55, 29):
-            return "Evrendeki her varlığın O'na muhtaç olduğu ve yaratıcının 'her an ve her gün' yeni bir kozmik icraat ve oluş içinde bulunduğu gerçeği (55:29)."
+            return "Evrendeki her varlığın O'na muhtaç olduğu ve yaratıcının 'her an ve her gün' yeni bir evrensel icraat ve oluş içinde bulunduğu gerçeği (55:29)."
         elif (s, a) == (69, 7):
             return "Büyük yıkım fırtınasının Âd toplumunun üzerine aralıksız 'yedi gece ve sekiz gün' boyunca kesintisiz sürdürülmesi (69:7)."
         elif (s, a) == (70, 4):
@@ -8190,7 +8190,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if 'MP' in f or 'FP' in f:
             return "Tarihsel süreçleri, ardışık aydınlık dönemleri veya belirli gün sayılarını ifade eden çoğul zaman birimi."
         if 'MD' in f:
-            return "İki ayrı zaman dilimini, iki günlük süreyi veya iki kozmik oluş aşamasını ifade eden ikil zaman ölçüsü."
+            return "İki ayrı zaman dilimini, iki günlük süreyi veya iki evrensel oluş aşamasını ifade eden ikil zaman ölçüsü."
         return "Doğadaki aydınlık döngüyü, insan veya toplum tarihindeki kritik dönemi ya da büyük hesaplaşma evresini ifade eden temel zaman birimi."
 
     elif root_ar == 'أ-ي-ي':
@@ -8268,11 +8268,11 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) == (22, 78):
             return "Barışa ve doğru düzene teslim olan topluluğa tarihsel süreklilik içinde ortak kimlik ve ad verilmesi (22:78)."
         elif (s, a) == (41, 12):
-            return "Yedi kozmik gök katmanının (سَمَٰوَاتٍ) tam elifle yazıldığı ve tek belirsiz tekil (سَمَآءٍ) formunun geçtiği eşsiz yazım örneği; her katmana kendi işleyiş yasasının yerleştirilmesi (41:12)."
+            return "Yedi evrensel gök katmanının (سَمَٰوَاتٍ) tam elifle yazıldığı ve tek belirsiz tekil (سَمَآءٍ) formunun geçtiği eşsiz yazım örneği; her katmana kendi işleyiş yasasının yerleştirilmesi (41:12)."
         elif (s, a) == (49, 11):
             return "İnsanların birbirine kırıcı lakaplar takmasının yasaklanması ve olgunluk sonrası bozgunculuk (fısk) adıyla anılmanın kötülüğü (49:11)."
         elif (s, a) == (51, 47):
-            return "Üst kozmik yapının büyük bir güçle inşa edilip durmadan genişletilmekte olduğu yasası (51:47)."
+            return "Üst evrensel yapının büyük bir güçle inşa edilip durmadan genişletilmekte olduğu yasası (51:47)."
         elif (s, a) == (53, 27):
             return "Sonraki hesap bilincinden kopanların yüksek görevli varlıklara gerçek dışı dişil adlandırmalar (tesmiye) yakıştırması (53:27)."
         elif (s, a) in [(67, 3), (71, 15)]:
@@ -8281,7 +8281,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             return "Ödül ve esenlik ortamında 'Selsebil' diye adlandırılan berrak kaynak (76:18)."
         if lemma == "samaA^'":
             if 'FP' in f:
-                return "Yerin ve tüm alt düzeylerin üzerindeki çok katmanlı gök sistemleri ile uçsuz bucaksız kozmik düzen."
+                return "Yerin ve tüm alt düzeylerin üzerindeki çok katmanlı gök sistemleri ile uçsuz bucaksız evrensel düzen."
             return "Alt zeminin üzerindeki yüksek tavan, atmosfer katmanı, yağmur kaynağı veya genel uzay kubbesi."
         elif lemma == '{som':
             return "Bir varlığı veya hakikati belirsizlikten çıkararak bilince tanıtan ayırt edici ad, kimlik ve niteleyici başlık."
@@ -8430,7 +8430,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) in [(16, 72), (16, 81), (30, 21), (42, 11)]:
             return "Mevcut insan ve doğa dokusundan eşler, koruyucu gölgeler, barınaklar ile sevgi ve şefkat bağlarının türetilmesi (16:72, 16:81, 30:21 ve 42:11)."
         elif (s, a) in [(32, 9), (67, 23)]:
-            return "Fiziksel şekilleniş ve büyümenin üzerine insana işitme, görme ve kavrayış donanımlarının işlevsel olarak yerleştirilmesi (32:9 ve 67:23)."
+            return "Fiziksel şekilleniş ve büyümenin üzerine insana işitme, görme ve kavrayış fiziksel yapılarının işlevsel olarak yerleştirilmesi (32:9 ve 67:23)."
         elif (s, a) == (41, 10):
             return "Yeryüzüne dağ sabitlerinin yerleştirilmesi ve canlıların rızık kapasitesinin dört evrede dengeli biçimde hesaplanması (41:10)."
         elif (s, a) == (16, 124):
@@ -8444,14 +8444,14 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) == (27, 34):
             return "İşgalci yönetimlerin girdikleri kentlerin düzenini bozup saygın yurttaşları aşağılık duruma düşüren statü dönüşümü tespiti (27:34)."
         elif (s, a) == (35, 1):
-            return "Gökleri ve yeri ilk açılışla var eden (fâtır) iradenin, elçi görevi taşıyan kozmik güçleri (câil) ikişer, üçer ve dörder kanatlı işlevlerle donatması (35:1)."
+            return "Gökleri ve yeri ilk açılışla var eden (fâtır) iradenin, elçi görevi taşıyan evrensel güçleri (câil) ikişer, üçer ve dörder kanatlı işlevlerle donatması (35:1)."
         if lemma == 'jaAEil':
             return "Var olan bir yapıyı yeni bir işlev, makam, temsilcilik veya dönüşüm durumuna yerleştiren kurucu özne."
         return "Ham maddeyi yoktan yaratmaktan ziyade mevcut bir öğeyi alıp yeni bir işlev, ilişki, konum veya rol içine yerleştirme."
 
     elif root_ar == 'ر-ح-م':
         if (s, a) in [(1, 1), (1, 3), (27, 30)]:
-            return "Tüm varlıkları ön şartsız besleyen kozmik kucaklayıcılık (Rahmân) ile çaba göstereni sürekli iyileştirip koruyan özel şefkat (Rahîm) ikilisi (1:1, 1:3 ve 27:30)."
+            return "Tüm varlıkları ön şartsız besleyen evrensel kucaklayıcılık (Rahmân) ile çaba göstereni sürekli iyileştirip koruyan özel şefkat (Rahîm) ikilisi (1:1, 1:3 ve 27:30)."
         elif (s, a) in [(6, 12), (6, 54)]:
             return "Koruyucu şefkat ve onarıcı kucaklamanın dışsal bir zorunluluk değil, bizzat varoluş sisteminin kendi üzerine yazdığı temel anayasal ilke oluşu (6:12 ve 6:54)."
         elif (s, a) in [(7, 156), (40, 7)]:
@@ -8524,7 +8524,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) in [(6, 76), (6, 77), (6, 78)]:
             return "Yıldız, ay ve güneşi gözlemleyip geçiciliklerini keşfederek yanlış mutlaklaştırmalardan arınan rasyonel çıkarım (6:76-78)."
         elif (s, a) in [(21, 30), (25, 45), (24, 43), (2, 243)]:
-            return "Doğadaki kozmik süreçleri veya tarihsel örnekleri «hiç görmüyor musunuz?» sorusuyla zihinsel idrak konusu yapma."
+            return "Doğadaki evrensel süreçleri veya tarihsel örnekleri «hiç görmüyor musunuz?» sorusuyla zihinsel idrak konusu yapma."
         elif (s, a) in [(35, 8), (70, 6), (70, 7), (40, 29)]:
             return "İki nesneli kullanımla dış gerçeği değil öznel değerlendirmeyi, yanılgıyı veya otoriter görüş tekelini ifade etme (35:8, 40:29, 70:6-7)."
         elif (s, a) in [(90, 7), (96, 7), (96, 9), (105, 1), (107, 1)]:
@@ -8573,7 +8573,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) in [(21, 94), (82, 11), (19, 79), (36, 12), (43, 19), (43, 80)]:
             return "Söylenen sözlerin, atılan adımların ve ortaya konan tüm emeklerin kaybolmadan kayda geçirilmesi (21:94, 36:12, 82:11)."
         elif (s, a) in [(21, 104), (34, 44), (98, 3)]:
-            return "Yazılı tomarların dürülüp bir kozmik dönemin kapanışı (21:104) veya birden çok yazılı belge bütününü anlatan çoğul kitaplar (34:44, 98:3)."
+            return "Yazılı tomarların dürülüp bir evrensel dönemin kapanışı (21:104) veya birden çok yazılı belge bütününü anlatan çoğul kitaplar (34:44, 98:3)."
         elif (s, a) in [(2, 2), (2, 89), (5, 15), (7, 52)]:
             return "Dağınık hükümleri ve evrensel ilkeleri tek bir çelişkisiz sistemde birleştirip insanlığa sunan kılavuz kitap."
         if lemma == "kaAtib":
@@ -8689,11 +8689,11 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) in {(15, 21), (42, 27)}:
             return "Evrendeki hiçbir kaynağın ölçüsüz bırakılmadan kesin bir denge hesabıyla (`بِقَدَرٍ مَّعْلُومٍ`) aşama aşama indirilmesi yasası."
         elif (s, a) == (57, 25):
-            return "İnsanlığa adalet ölçüsü (`ٱلْكِتَٰبَ وَٱلْمِيزَانَ`) ile birlikte yüksek güç ve fayda barındıran demirin (`ٱلْحَدِيدَ`) donanım olarak indirilmesi."
+            return "İnsanlığa adalet ölçüsü (`ٱلْكِتَٰبَ وَٱلْمِيزَانَ`) ile birlikte yüksek güç ve fayda barındıran demirin (`ٱلْحَدِيدَ`) fiziksel yapı olarak indirilmesi."
         elif (s, a) in {(7, 26), (39, 6), (2, 57), (7, 160), (20, 80), (5, 112), (5, 114), (28, 24), (40, 13)}:
-            return "Giysi, çiftlik hayvanları, gökten ikram edilen besin ve temiz rızkın insanoğluna üst kaynaktan yararlı donanım olarak ulaştırılması."
+            return "Giysi, çiftlik hayvanları, gökten ikram edilen besin ve temiz rızkın insanoğluna üst kaynaktan yararlı fiziksel yapı olarak ulaştırılması."
         elif (s, a) in {(34, 2), (57, 4), (65, 12)}:
-            return "Gök katmanlarından aşağı inen ile yukarı yükselen (`يَنزِلُ ... وَمَا يَعْرُجُ`) arasındaki kesintisiz dikey kozmik akış ve düzen."
+            return "Gök katmanlarından aşağı inen ile yukarı yükselen (`يَنزِلُ ... وَمَا يَعْرُجُ`) arasındaki kesintisiz dikey evrensel akış ve düzen."
         elif (s, a) in {(3, 3), (4, 136), (6, 114), (16, 44), (17, 105), (47, 20)}:
             return "Aynı ayette II. bab (`نَزَّلَ`: parça parça, olaylara göre sindirerek indirmek) ile IV. bab (`أَنزَلَ`: topluca/genel indirmek) veya I. bab (`نَزَلَ`: yeryüzüne değip yerleşmek) arasındaki ince anlam ayrımı."
         elif (s, a) in {(17, 106), (25, 32), (76, 23)}:
@@ -8835,7 +8835,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         elif (s, a) in {(39, 32), (40, 28), (6, 21), (11, 18), (16, 116)}:
             return "Çift katlı çarpıtma: Olmayan bir yasa veya söz uydurup (`كَذَبَ` / `ٱفْتَرَىٰ`) aynı anda önündeki doğruyu reddetmek (`كَذَّبَ بِٱلصِّدْقِ`, `39:32`) ve `40:28`'deki akılcı risk analizi."
         elif s == 55 and lemma == "ka*~aba":
-            return "Rahman sûresinde evrendeki ekolojik, kozmik ve insani dengeler sıralanarak `31` kez sorulan vicdan sorusu: Hangi açık nimeti yalan sayabilirsiniz (`تُكَذِّبَانِ`)?"
+            return "Rahman sûresinde evrendeki ekolojik, evrensel ve insani dengeler sıralanarak `31` kez sorulan vicdan sorusu: Hangi açık nimeti yalan sayabilirsiniz (`تُكَذِّبَانِ`)?"
         elif (s, a) in {(5, 41), (5, 42), (9, 43), (9, 77), (9, 90), (29, 3), (58, 14), (2, 10)}:
             return "Toplumsal ilişkilerde samimiyetsizlik: Yalana ve çarpıtmaya kulak kesilme (`5:41-42`), bilerek sahte sözleşme ve bahane üretme (`9:77`, `58:14`) ile zorlukta tutarlı kalanların ayrışması (`29:3`)."
         elif lemma in {"ka*~aba", "m~uka*~ibiyn"}:
@@ -8854,7 +8854,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((6, 160), (27, 89), (27, 90), (28, 84)):
             return "Somut eylem yüküyle huzura geliş (`جَآءَ بِـ`): Güzel ve yapıcı eylemle gelene on katından fazlası verilirken yıkıcı eylemle gelen yalnızca ürettiğinin dengiyle yüzleşir (`جَآءَ بِـ` etik karşılık yasası)."
         if (s, a) in ((39, 69), (89, 22), (89, 23)):
-            return "Kozmik yargı sahnesinde elçilerin, tanıkların, görevli düzen güçlerinin ve yakıcı yıkım hesaplaşmasının tam ağırlığıyla sahneye getirilmesi (`وَجِا۟ىٓءَ`, tekil edilgen/etken zirve sahneleri)."
+            return "Evrensel yargı sahnesinde elçilerin, tanıkların, görevli düzen güçlerinin ve yakıcı yıkım hesaplaşmasının tam ağırlığıyla sahneye getirilmesi (`وَجِا۟ىٓءَ`, tekil edilgen/etken zirve sahneleri)."
         if (s, a) in ((17, 81), (34, 49), (10, 76)):
             return "Sağlam gerçeklik ağırlığıyla ortaya çıktığında temelsiz kurgu ve sahte düzenin tutunamayıp dağılması (`جَآءَ ٱلْحَقُّ`, gerçekliğin yıkıcı etkisi)."
         if (s, a) in ((6, 94), (18, 48)):
@@ -8881,7 +8881,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((109, 2), (109, 3), (109, 4), (109, 5)):
             return "109. Sûrede fiil (`أَعْبُدُ` şimdi, `عَبَدتُّمْ` geçmiş) ve kalıcı kimlik (`عَابِدٌ / عَٰبِدُونَ`) ayrımıyla, sahte odaklara bağlılık ile bilinçli bağlılık arasındaki kesin sınır çizgisi."
         if (s, a) in ((19, 93), (43, 19)):
-            return "Evrendeki bütün varlıkların ve kozmik görevlilerin ortak varoluş yasasına tabi konumda bulunması (`عَبْدًا` / `عِبَادُ ٱلرَّحْمَٰنِ`)."
+            return "Evrendeki bütün varlıkların ve buyruk elçilerinin ortak varoluş yasasına tabi konumda bulunması (`عَبْدًا` / `عِبَادُ ٱلرَّحْمَٰنِ`)."
         if (s, a) in ((18, 110), (19, 65), (39, 17), (51, 56)):
             return "Azgın otoritelere (`طَاغُوت`) ve ikincil merkezlere köle olmayı reddedip, yararlı eylem (`عَمَلًا صَٰلِحًا`) ve sebatla tek yaratıcı kaynağa bağlanma özgürlüğü."
         if (s, a) in ((10, 29), (19, 82), (43, 20), (43, 45), (46, 6)):
@@ -9220,7 +9220,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) == (25, 12):
             return "Kötü tercihin doğurduğu yakıcı alanın suçluları çok uzak bir mesafeden bile fark edip öfkeli bir uğultuyla karşılaması (`مِن مَّكَانٍۭ بَعِيدٍ`)."
         if (s, a) in ((79, 30), (95, 7)):
-            return "Kozmik kuruluş aşamalarının ardından yerin yayılıp yaşanır kılınması sırası (`بَعْدَ ذَٰلِكَ`) ve tüm bu açık düzenlerden sonra gerçeği yalanlamanın anlamsızlığı (`فَمَا يُكَذِّبُكَ بَعْدُ`)."
+            return "Evrensel kuruluş aşamalarının ardından yerin yayılıp yaşanır kılınması sırası (`بَعْدَ ذَٰلِكَ`) ve tüm bu açık düzenlerden sonra gerçeği yalanlamanın anlamsızlığı (`فَمَا يُكَذِّبُكَ بَعْدُ`)."
         if (s, a) in ((2, 176), (4, 60), (4, 116), (4, 136), (4, 167), (14, 3), (14, 18), (22, 12), (22, 53), (34, 8), (41, 52), (42, 18), (50, 3), (50, 27)):
             return "Gerçeklik merkezinden kopup giden derin savrulma (`ضَلَالٍ بَعِيدٍ`), toplum içi uzun ayrışma (`شِقَاقٍ بَعِيدٍ`) veya yeniden dirilişi imkânsız uzaklık sayma (`رَجْعٌۢ بَعِيدٌ`) yanılgısı."
         if lemma == 'buEod':
@@ -9297,7 +9297,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((2, 247), (2, 251), (2, 258), (12, 101), (38, 35), (43, 51)):
             return "Toplumsal ve siyasal yönetim yetkisi (`ٱلْمُلْك`): servete değil bilgi ve dayanıklılığa dayanan liderlik (`2:247`), miras/emanet yönetim (`12:101`, `38:35`) ve Firavun ile Nemrut gibi yöneticilerin güç kibri (`2:258`, `43:51`) ayrımı."
         if (s, a) in ((6, 75), (7, 185), (23, 88), (36, 83)):
-            return "Göklerde ve yerde işleyen kesintisiz kozmik yönetim ve denetim ağı (`مَلَكُوت`): varlığın başıboş değil tek bir sağlam otorite elinde tutulduğu bilinci."
+            return "Göklerde ve yerde işleyen kesintisiz evrensel yönetim ve denetim ağı (`مَلَكُوت`): varlığın başıboş değil tek bir sağlam otorite elinde tutulduğu bilinci."
         if (s, a) in ((17, 111), (25, 2), (25, 26), (35, 13), (67, 1)):
             return "Yönetim ve hükümranlıkta hiçbir ortağı bulunmayan tek düzen kurucu karşısında, sahte odakların bir hurma çekirdeği zarına bile (`قِطْمِير`) söz geçiremeyişi."
         if (s, a) in ((5, 17), (5, 25), (7, 188), (10, 49), (16, 73), (17, 56), (17, 100), (20, 89), (25, 3), (34, 22), (34, 42), (39, 43), (48, 11), (72, 21), (82, 19)):
@@ -9311,9 +9311,9 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((20, 114), (23, 116), (54, 55), (59, 23), (62, 1), (114, 2)):
             return "İnsanların geçici ve kusurlu iktidarlarının ötesindeki gerçek, arınmış ve sarsılmaz hükümdarlık (`ٱلْمَلِكُ ٱلْحَقُّ` / `مَلِيكٍ مُّقْتَدِرٍۭ`)."
         if (s, a) in ((2, 102), (7, 20), (12, 31), (43, 77)):
-            return "Kozmik görevlilerle ilgili yanlış algıların düzeltilmesi (`2:102` Babil, `7:20` ölümsüzlük yanılgısı, `12:31` Yusuf'a hayranlık benzetmesi) ve yıkım alanındaki baş nöbetçi uyarısı (`43:77`)."
+            return "Buyruk elçilerile ilgili yanlış algıların düzeltilmesi (`2:102` Babil, `7:20` ölümsüzlük yanılgısı, `12:31` Yusuf'a hayranlık benzetmesi) ve yıkım alanındaki baş nöbetçi uyarısı (`43:77`)."
         if lemma == 'malak':
-            return "Evren işleyişinde ve vahiy akışında buyrukları eksiksiz iletip uygulayan görevli kozmik güçler (`ٱلْمَلَٰٓئِكَة / مَلَك`)."
+            return "Evren işleyişinde ve vahiy akışında buyrukları eksiksiz iletip uygulayan görevli evrensel güçler (`ٱلْمَلَٰٓئِكَة / مَلَك`)."
         if lemma == 'mulok':
             return "Bir alanı, toplumu veya evreni sıkıca tutup yöneten egemenlik ve yönetim yetkisi (`ٱلْمُلْك`)."
         if lemma == 'ma`lik':
@@ -9409,7 +9409,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) == (24, 35):
             return "Evrensel aydınlanma tablosu: ateş (`نَار`) değmese dahi kendi saf doğasıyla parlayan ışık kaynağı, gökler ile yerin aydınlık düzeni ve katmanlı ışık üstüne ışık (`نُورٌ عَلَىٰ نُورٍ`) yasası."
         if (s, a) in ((10, 5), (25, 61), (71, 16)):
-            return "Kozmik görev bölümü (`Furûk`): Güneş yakıcı enerji kandili iken (`ضِيَاء / سِرَاج`), Ay göz yormadan zaman ve yön hesabı yaptıran yumuşak aydınlıktır (`نُور / مُنِير`)."
+            return "Evrensel görev bölümü (`Furûk`): Güneş yakıcı enerji kandili iken (`ضِيَاء / سِرَاج`), Ay göz yormadan zaman ve yön hesabı yaptıran yumuşak aydınlıktır (`نُور / مُنِير`)."
         if (s, a) == (33, 46):
             return "Rehberlik modeli: elçinin baskı kuran yahut yakıp kıran bir güç değil, yolu yumuşakça gösteren aydınlatıcı bir kandil (`سِرَاجًا مُّنِيرًا`) olması."
         if (s, a) in ((3, 184), (22, 8), (31, 20), (35, 25)):
@@ -9482,7 +9482,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((12, 31), (18, 101), (19, 98), (20, 108), (88, 11)):
             return "Doğrudan fiziksel ses ve duyum bağlamı: hafif bir adım sesi ya da tıkırtı yakalamak (`19:98`), sessiz bir fısıltı duymak (`20:108`), kırıcı ve boş gürültüden arınmış ortam (`88:11`), dedikoduyu işitmek (`12:31`) veya uyarı sesine katlanamamak (`18:101`)."
         if (s, a) in ((2, 20), (6, 46), (10, 31), (16, 78), (17, 36), (23, 78), (32, 9), (46, 26), (67, 23), (76, 2)):
-            return "İnsanın temel veri alma donanımı: doğuştan bilgisiz gelen insana verilen tekil ve ortak alıcı işitme kanalı (`سَمْع`), çoğul bakış açıları (`أَبْصَار`) ve kavrayış merkezleri (`أَفْئِدَة`). Metin, doğrulanmamış bilginin peşine düşülmemesi kaydıyla kulakla alınan her veriden sorumluluk doğacağını (`17:36`) vurgular."
+            return "İnsanın temel veri alma fiziksel yapıı: doğuştan bilgisiz gelen insana verilen tekil ve ortak alıcı işitme kanalı (`سَمْع`), çoğul bakış açıları (`أَبْصَار`) ve kavrayış merkezleri (`أَفْئِدَة`). Metin, doğrulanmamış bilginin peşine düşülmemesi kaydıyla kulakla alınan her veriden sorumluluk doğacağını (`17:36`) vurgular."
         if (s, a) in ((2, 93), (2, 285), (4, 46), (5, 7), (6, 36), (8, 21), (8, 22), (8, 23), (24, 51)):
             return "Sözün kulağa çarpmasıyla gerçekten işitmenin ayrımı: sadece dille işittik deyip direnenlerle (`2:93`, `8:21`) sesin gereğini eyleme dönüştürenler (`2:285`, `24:51`) aynı değildir. İçten bir yatkınlık bulunmuyorsa ses fiziksel olarak ulaşsa da bilinç düzeyinde duyurma (`إِسْمَاع`) gerçekleşmez (`8:23`)."
         if (s, a) in ((7, 204), (15, 18), (20, 13), (22, 73), (26, 212), (26, 223), (37, 8), (39, 18), (46, 29), (50, 37), (50, 41), (52, 38), (72, 1), (72, 9)):
@@ -9497,7 +9497,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
 
     elif root_ar == 'ب-ن-ي':
         if (s, a) in ((2, 22), (40, 64), (50, 6), (51, 47), (78, 12), (79, 27), (91, 5)):
-            return "Kozmik mimari: insanın yaşadığı yeryüzü döşeğinin üstünü çatlak ve eksik bırakmadan koruyucu bir yapı (`بِنَآء / بَنَىٰ`) olarak kurup yükseltme gerçeği."
+            return "Evrensel mimari: insanın yaşadığı yeryüzü döşeğinin üstünü çatlak ve eksik bırakmadan koruyucu bir yapı (`بِنَآء / بَنَىٰ`) olarak kurup yükseltme gerçeği."
         if (s, a) in ((9, 109), (9, 110), (16, 26), (18, 21), (26, 128), (37, 97), (38, 37), (39, 20), (40, 36), (61, 4), (66, 11)):
             return "Sağlam zemin ile kaypak zemine kurulan yapı ayrımı: erdemli ilke üzerinde yükselen dayanışma yapısı (`61:4`, `9:109`) kalıcı olurken çıkarcı bina (`9:110`), kibir kuleleri (`26:128`, `40:36`) ve temelinden çöken düzen (`16:26`) yıkıma gider."
         if (s, a) in ((2, 177), (2, 215), (4, 36), (8, 41), (9, 60), (17, 26), (30, 38), (59, 7)):
@@ -9559,7 +9559,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((2, 72), (6, 148), (9, 64), (18, 5), (24, 40), (27, 25), (47, 29), (47, 37)):
             return "Gizlilikten açığa çıkarma: örtbas edilen suçun, kalpteki gizli kinin (`47:29,37`), ağızdan çıkan ölçüsüz sözün (`18:5`) ve yerin-göğün saklılarının (`27:25`) açıkça ortaya konması."
         if (s, a) in ((3, 27), (6, 95), (7, 25), (7, 57), (10, 31), (19, 66), (20, 55), (23, 35), (27, 67), (27, 82), (30, 19), (30, 25), (34, 2), (43, 11), (46, 17), (50, 11), (50, 42), (54, 7), (57, 4), (70, 43), (71, 18)):
-            return "Yeniden diriliş çıkışı (`يَوْمُ ٱلْخُرُوجِ`): ölüden diriyi ve diriden ölüyü çıkaran kozmik döngü uyarınca toprağa dönen insanın vakti geldiğinde yerden yeniden çıkarılması."
+            return "Yeniden diriliş çıkışı (`يَوْمُ ٱلْخُرُوجِ`): ölüden diriyi ve diriden ölüyü çıkaran evrensel döngü uyarınca toprağa dönen insanın vakti geldiğinde yerden yeniden çıkarılması."
         if (s, a) in ((2, 84), (2, 85), (2, 191), (2, 217), (2, 240), (2, 246), (3, 195), (4, 75), (7, 82), (7, 88), (7, 110), (7, 123), (8, 30), (9, 13), (9, 40), (14, 13), (17, 76), (20, 57), (20, 63), (22, 40), (26, 35), (26, 167), (27, 37), (27, 56), (47, 13), (59, 2), (59, 8), (59, 11), (59, 12), (60, 1), (60, 8), (60, 9), (63, 8), (65, 1)):
             return "Sürgün ve barınma hakkı hukuku: insanların haksız yere yurtlarından sürülmesinin ağır zulüm olması (`2:217`, `22:40`, `60:9`) ve ayrılık sürecinde bile kadınların evlerinden çıkarılmaması (`2:240`, `65:1`) ilkesi."
         if (s, a) in ((2, 36), (7, 13), (7, 18), (15, 34), (15, 48), (20, 117), (26, 57), (38, 77), (51, 35)):
@@ -9697,7 +9697,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((19, 17), (21, 52), (34, 13), (13, 6), (20, 63), (20, 104), (3, 59), (43, 57), (43, 59)):
             return "Surete bürünme, heykel ve nadir örneklemeler: mesaj elçisinin insan suretine bürünmesi (`19:17`), putlaştırılan vs sanatsal heykeller (`21:52`, `34:13`), İsa'nın yaratılış örneği (`3:59`, `43:59`), ibretlik yıkım örnekleri (`13:6`) ve ideal düzen iddiası (`20:63`)."
         if (s, a) in ((17, 99), (36, 81), (65, 12), (51, 23), (38, 43), (21, 84), (56, 61), (76, 28), (47, 38), (89, 8)):
-            return "Kozmik yaratma kapasitesi ve yer değiştirme: gökleri ve yeri yaratan kudretin benzerlerini yeniden yaratmaya gücü (`36:81`), yedi gök ve yedi kat yer paralelliği (`65:12`), sözün konuşma kadar gerçek oluşu (`51:23`) ve yitirilenlerin benzeriyle telafisi (`21:84`)."
+            return "Evrensel yaratma kapasitesi ve yer değiştirme: gökleri ve yeri yaratan kudretin benzerlerini yeniden yaratmaya gücü (`36:81`), yedi gök ve yedi kat yer paralelliği (`65:12`), sözün konuşma kadar gerçek oluşu (`51:23`) ve yitirilenlerin benzeriyle telafisi (`21:84`)."
         if (s, a) in ((2, 17), (2, 26), (2, 171), (2, 261), (2, 264), (2, 265), (3, 117), (6, 122), (7, 176), (10, 24), (11, 24), (13, 17), (13, 35), (14, 18), (14, 24), (14, 25), (14, 26), (16, 75), (16, 76), (16, 112), (18, 32), (18, 45), (22, 73), (24, 35), (29, 41), (29, 43), (30, 28), (39, 27), (39, 29), (47, 15), (48, 29), (57, 20), (59, 21), (62, 5), (66, 10), (66, 11), (74, 31)):
             return "Kur'anî temsil ve Mesânî pedagojisi (`ضَرَبَ ٱللَّهُ مَثَلًا`): hakikati derin ilim sahiplerinin kavraması için doğadan ve yaşamdan çizilen somut örnek tablolar (`2:261`, `14:24-26`, `24:35`, `29:43`, `59:21`)."
         return "Tarihî ve ahlaki karşılaştırma ölçütü: geçmiş kuşakların tutum ve sonuçlarından bugüne taşınan ibret örneği (`2:214`, `43:8`, `40:30-31`, `59:15`) ve tutarsız iddialarla kurulan çarpık benzetmeler (`17:48`, `25:9`, `36:78`, `43:17`)."
@@ -9864,7 +9864,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((2, 259), (10, 46), (13, 40), (18, 19), (23, 113), (27, 72), (30, 41), (40, 77), (66, 3), (69, 44)):
             return "Zaman, bilgi ve sonuç kesiti: günün bir bölümü (`يَوْمًا أَوْ بَعْضَ يَوْمٍ` `18:19`), bilginin bir kısmını nezaketle paylaşma (`66:3`) ve yapılanların yalnızca bir kısmının uyandırıcı sonucu (`30:41`)."
         if (s, a) in ((3, 34), (3, 64), (17, 88), (23, 91), (24, 40)):
-            return "Kozmik teklik ve katman bütünlüğü: birden fazla egemen olsaydı bir kısmının diğerinin üstüne çıkma çabası (`23:91`), katmanlı karanlıklar (`24:40`) ve tek insanî soy çizgisi (`3:34`)."
+            return "Evrensel teklik ve katman bütünlüğü: birden fazla egemen olsaydı bir kısmının diğerinin üstüne çıkma çabası (`23:91`), katmanlı karanlıklar (`24:40`) ve tek insanî soy çizgisi (`3:34`)."
         return "Bütünden ayrılan kısmi kesit veya aynı bütünü paylaşanların karşılıklı etkileşimi (`بَعْض`): parça-bütün ölçütü ve `birbirine / birbirinden` ilişkisi."
 
     elif root_ar == 'ن-ص-ر':
@@ -9965,9 +9965,9 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((2, 7), (2, 17), (2, 20), (5, 71), (6, 46), (6, 110), (7, 179), (7, 195), (7, 198), (11, 20), (16, 108), (36, 9), (36, 66), (45, 23), (46, 26), (47, 23)):
             return "Duyusal alımın bilinç kilidiyle işlevsizleşmesi (`غِشَٰوَة` / `خَتَمَ` / `أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا` / `يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ`): bakmak (`ن-ظ-ر`) ile seçik kavramak (`ب-ص-ر`) arasındaki keskin Furûk."
         if (s, a) in ((16, 78), (17, 36), (23, 78), (32, 9), (67, 23)):
-            return "Üçlü epistemik donanım ve hesap sorumluluğu (`ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ`): kulak, göz ve kavrayan gönlün insana şükür ve doğruluk sorumluluğu yüklemesi (`17:36`)."
+            return "Üçlü epistemik fiziksel yapı ve hesap sorumluluğu (`ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ`): kulak, göz ve kavrayan gönlün insana şükür ve doğruluk sorumluluğu yüklemesi (`17:36`)."
         if (s, a) in ((10, 67), (17, 12), (27, 86), (40, 61)):
-            return "Gece-gündüz kozmik düzeninde seçikleştirme yasası (`ٱلنَّهَارَ مُبْصِرًا` / `ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً`): gündüzün her şeyi seçik görülebilir kılışı."
+            return "Gece-gündüz evrensel düzeninde seçikleştirme yasası (`ٱلنَّهَارَ مُبْصِرًا` / `ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً`): gündüzün her şeyi seçik görülebilir kılışı."
         if (s, a) in ((7, 203), (12, 108), (17, 59), (17, 102), (27, 13), (28, 43), (45, 20), (50, 8)):
             return "Aydınlatıcı kanıt belgeleri (`بَصَآئِرُ` / `مُبْصِرَةً` / `تَبْصِرَةً` / `عَلَىٰ بَصِيرَةٍ`): vahyin ve doğadaki kanıtların insanı kör taklitten kurtarıp açık görgülü bilince çağırması."
         if (s, a) in ((20, 96), (28, 11)):
@@ -9975,7 +9975,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((7, 201), (29, 38), (75, 14)):
             return "Öz-farkındalık ve zihinsel uyanış (`فَإِذَا هُم مُّبْصِرُونَ`, `مُسْتَبْصِرِينَ`, `عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ`): kişinin kendi gerçeğinin ve seçiminin farkında olması."
         if (s, a) in ((3, 13), (24, 44), (38, 45), (59, 2), (67, 3), (67, 4)):
-            return "Derin gözlem ve ibret çıkaran seçik görüş sahipleri (`أُو۟لِى ٱلْأَبْصَٰرِ` / `فَٱرْجِعِ ٱلْبَصَرَ`): olayları ve kozmik kusursuzluğu dikkatle inceleyen akıl."
+            return "Derin gözlem ve ibret çıkaran seçik görüş sahipleri (`أُو۟لِى ٱلْأَبْصَٰرِ` / `فَٱرْجِعِ ٱلْبَصَرَ`): olayları ve evrensel kusursuzluğu dikkatle inceleyen akıl."
         if (s, a) in ((12, 93), (12, 96), (15, 15), (16, 77), (20, 125), (24, 30), (24, 31), (53, 17), (54, 50), (68, 51), (76, 2)):
             return "İnsanî görme duyusunun sınırı, iffeti ve keskinliği (`كَلَمْحِ ٱلْبَصَرِ`, `يَغُضُّوا۟ مِنْ أَبْصَٰرِهِمْ`, `مَا زَاغَ ٱلْبَصَرُ`, `فَٱرْتَدَّ بَصِيرًا`)."
         if (s, a) in ((7, 47), (14, 42), (19, 38), (21, 97), (24, 37), (32, 12), (33, 10), (37, 175), (37, 179), (38, 63), (41, 20), (41, 22), (50, 22), (54, 7), (68, 5), (68, 43), (70, 11), (70, 44), (75, 7), (79, 9)):
@@ -10031,7 +10031,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((4, 90), (4, 91), (4, 94), (16, 28), (16, 87), (60, 1)):
             return "Barış, teslimiyet veya sevgi uzatma (`أَلْقَى ٱلسَّلَمَ / ٱلسَّلَٰمَ`, `تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ`): karşı tarafın önüne barış ve uzlaşma bırakma ya da gizlice sevgi iletme."
         if (s, a) in ((15, 19), (16, 15), (31, 10), (50, 7), (84, 4)):
-            return "Kozmik denge ve yer hareketi (`أَلْقَىٰ فِيهَا رَوَٰسِىَ`, `وَأَلْقَتْ مَا فِيهَا`): yeryüzüne sarsılmaz dağların yerleştirilmesi ve yerin içindekileri dışarı bırakması."
+            return "Evrensel denge ve yer hareketi (`أَلْقَىٰ فِيهَا رَوَٰسِىَ`, `وَأَلْقَتْ مَا فِيهَا`): yeryüzüne sarsılmaz dağların yerleştirilmesi ve yerin içindekileri dışarı bırakması."
         if (s, a) in ((7, 47), (28, 22), (10, 15)):
             return "Konumsal yönelme ve yön (`تِلْقَآءَ`): gözlerin veya yolcunun belirli bir yöne doğru çevrilmesi (`7:47`, `28:22`)."
         if (s, a) in ((2, 195), (3, 151), (8, 12), (12, 10), (12, 93), (12, 96), (17, 39), (20, 39), (20, 87), (25, 13), (28, 7), (37, 97), (41, 40), (50, 24), (50, 26), (67, 7), (67, 8)):
@@ -10088,7 +10088,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             return "Ebedî esenlik yurtlarında kesintisiz ve köklü huzur hâli (`جَنَّٰتِ / نَعِيمٌ / نَضْرَةَ ٱلنَّعِيمِ`): `5:65`, `9:21`, `37:43`, `56:12`, `76:20`, `83:22,24`."
         if lemma == 'n~aEam':
             if (s, a) in ((7, 179), (25, 44), (47, 12)):
-                return "Akıl-kalp-kulak donanımını işletmeyenlerin benzetmesi (`كَٱلْأَنْعَٰمِ`): Sadece yiyip tüketerek güdüleriyle yaşayan bilinçsizlik eleştirisi."
+                return "Akıl-kalp-kulak fiziksel yapıını işletmeyenlerin benzetmesi (`كَٱلْأَنْعَٰمِ`): Sadece yiyip tüketerek güdüleriyle yaşayan bilinçsizlik eleştirisi."
             if (s, a) in ((4, 119), (5, 1), (5, 95), (6, 136), (6, 138), (6, 139), (6, 142), (22, 28), (22, 30), (22, 34)):
                 return "Hayvanların helâl-haram sınırları ve batıl yasakların reddi (`أَنْعَٰم` `6:138-142`): Kulak yarma/hurafe tabularını yıkıp temiz paylaşım (`22:28,34`) ve dokunulmazlık (`5:95`) ilkesi."
             return "Hayvanların beslenme, süt, giyim, binek ve ısıya elverişli yaratılışı (`أَنْعَٰم` `16:5,66,80`, `23:21`, `36:71`, `40:79`, `43:12`, `79:33`, `80:32`)."
@@ -10096,7 +10096,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             if (s, a) in ((16, 112), (16, 121), (31, 20)):
                 return "Kıllet ve kesret çoğul ayrımı: Nankörlüğü yüzünden açlık-korku elbisesi giydirilen kentin (`بِأَنْعُمِ` `16:112`) ve İbrahim'in seçkin nimeti (`لِّأَنْعُمِهِ` `16:121`) ile her yere yayılan bol nimetler (`نِعَمَهُۥ` `31:20`)."
             if (s, a) in ((2, 231), (3, 103), (5, 11), (14, 28), (14, 34), (16, 72), (16, 83), (16, 114), (31, 31), (35, 3), (52, 29)):
-                return "Rasm-ı Osmânî'de zamirsiz olduğu hâlde açık tâ ile yazılan 11 özel `نِعْمَت` geçişi: nimetin tarihî/toplumsal ve kozmik sürekliliğine yapılan imlâ vurgusu (`16:18`deki kapalı `ة` ile kontrast)."
+                return "Rasm-ı Osmânî'de zamirsiz olduğu hâlde açık tâ ile yazılan 11 özel `نِعْمَت` geçişi: nimetin tarihî/toplumsal ve evrensel sürekliliğine yapılan imlâ vurgusu (`16:18`deki kapalı `ة` ile kontrast)."
             if (s, a) in ((39, 8), (39, 49)):
                 return "Darlık geçip nimet verilince nankörleşen insan psikolojisi (`نِعْمَةً`): 'Bana kendi bilgimle verildi' diyerek kaynağı unutma yanılgısı."
             if (s, a) in ((16, 53), (16, 71), (16, 81), (26, 22), (92, 19)):
@@ -10146,7 +10146,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             if (s, a) == (49, 14):
                 return "`أَسْلَمْنَا` ile `ءَامَنَّا` arasındaki ince Furûk (`49:14`): Dıştan barışçıl uyum gösterip katılmak henüz kalbe köklü güven (`إِيمَان`) yerleştiği anlamına gelmez."
             if (s, a) == (3, 83):
-                return "Kozmik yasalara uyarak evrendeki bütün varlıkların isteyerek veya zorunlu olarak bütünlüğe boyun eğişi (`أَسْلَمَ` `3:83`)."
+                return "Evrensel yasalara uyarak evrendeki bütün varlıkların isteyerek veya zorunlu olarak bütünlüğe boyun eğişi (`أَسْلَمَ` `3:83`)."
             if (s, a) in ((2, 112), (4, 125), (31, 22)):
                 return "Yüzünü/bütün yönelişini iyilik üreterek (`مُحْسِن`) tek merkeze arızasız teslim etme (`أَسْلَمَ وَجْهَهُۥ`): bölünmemiş adanma!"
             return "İradeyi, aklı ve yönelişi tek Yaratıcı'nın esenlik yasasına teslim etme (`2:131`, `3:20`, `5:44`, `6:14,71`, `16:81`, `22:34`, `27:44`, `37:103`, `39:54`, `40:66`, `48:16`, `49:17`, `72:14`)."
@@ -10207,7 +10207,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if lemma == 'miqodaAr':
             if (s, a) == (13, 8):
                 return "Evrendeki her varlık ve olayın şaşmaz matematiksel ölçekle bulunması (`وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ` `13:8`)."
-            return "Kozmik ve hesaba dönük göreceli zaman ölçeği (`مِقْدَارُهُۥ` `32:5` bin yıl; `70:4` elli bin yıl)."
+            return "Evrensel ve hesaba dönük göreceli zaman ölçeği (`مِقْدَارُهُۥ` `32:5` bin yıl; `70:4` elli bin yıl)."
         if lemma == 'm~uqotadir':
             return "Yaratılış döngüsünün ve tarihî hesaplaşmanın tam hâkimi (`مُّقْتَدِر` `18:45`, `43:42`, `54:42,55`): Büyüklük tasarrufunu elinde tutan otorite."
         if lemma == 'taqodiyr':
@@ -10316,10 +10316,10 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             if (s, a) == (75, 3):
                 return "Dağılmış kemik parçalarını bile tek tek yeniden birleştirme kudreti (`أَلَّن نَّجْمَعَ عِظَامَهُۥ` `75:3`)."
             if (s, a) == (75, 9):
-                return "Güneş ile Ay'ın aynı eksende birleştirilmesi (`وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ` `75:9`): Kozmik düzenin dönüşüm anı."
+                return "Güneş ile Ay'ın aynı eksende birleştirilmesi (`وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ` `75:9`): Evrensel düzenin dönüşüm anı."
             if (s, a) == (4, 23):
                 return "Aile yapısını koruma hukuku (`وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ` `4:23`): İki kız kardeşi aynı nikâh altında birleştirme yasağı."
-            return "Tüm insanlığı ve kozmik varlıkları tek günde bir araya toplama (`3:25`, `4:87`, `5:109`, `6:12,35`, `18:99`, `34:26`, `42:15`, `45:26`, `64:9`, `77:38`)."
+            return "Tüm insanlığı ve evrensel varlıkları tek günde bir araya toplama (`3:25`, `4:87`, `5:109`, `6:12,35`, `18:99`, `34:26`, `42:15`, `45:26`, `64:9`, `77:38`)."
         if lemma == '>ajomaEiyn':
             return "Hiçbir istisna bırakmayan kapsayıcılık tevkîdi (`أَجْمَعُونَ / أَجْمَعِينَ`): Tüm görevli varlıkların secdeye uyumu (`15:30`, `38:73`) veya sapma/hesap sorumluluğu (`7:18`, `26:95`)."
         if lemma == 'jamiyE':
@@ -10415,7 +10415,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if lemma == 'm~uTaAE':
             return "Vahyi ulaştıran güçlü ve güvenilir elçinin yüce konumu (`مُّطَاعٍ ثَمَّ أَمِينٍ` `81:21`): Zorbalıkla değil saygı ve güvenle kendisine uyulan otorite."
         if lemma == 'TaA^}iEiyn':
-            return "Göklerin ve yerin kozmik çağrıya cevabı (`أَتَيْنَا طَآئِعِينَ` `41:11`): Evrensel yasaların zorla değil tam bir iç uyumla işleyişi."
+            return "Göklerin ve yerin evrensel çağrıya cevabı (`أَتَيْنَا طَآئِعِينَ` `41:11`): Evrensel yasaların zorla değil tam bir iç uyumla işleyişi."
         if lemma == 'muT~aw~iEiyn':
             return "Toplumsal dayanışmaya gönlünden koparak bağışta bulunanları (`ٱلْمُطَّوِّعِينَ` `9:79`) küçümseyenlerin alaycı tutumunun teşhiri."
         if lemma == 'Taw~aEato':
@@ -10499,7 +10499,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
                 return "Bilimsel tutarlılık ve doğrulama ölçütü (`لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا كَثِيرًا` `4:82`): Vahiy metninin iç çelişkilerden arınmış bütünlüğü."
             if (s, a) == (30, 22):
                 return "Dillerin ve ten renklerinin çeşitliliği (`وَٱخْتِلَٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ` `30:22`): Ayrımcılık sebebi değil yaratılış zenginliği kanıtı."
-            return "Gece-gündüz döngüsünün ve kozmik mevsimlerin birbirini izleyerek değişmesi (`2:164`, `3:190`, `10:6`, `23:80`, `45:5`)."
+            return "Gece-gündüz döngüsünün ve evrensel mevsimlerin birbirini izleyerek değişmesi (`2:164`, `3:190`, `10:6`, `23:80`, `45:5`)."
         if lemma == 'xaliyfap':
             return "Yeryüzünde sorumluluk ve adalet emanetini kuşaktan kuşağa devralan temsilcilik (`2:30`, `38:26` Âdem ve Dâvûd; `6:165`, `7:69,74`, `10:14,73`, `27:62`, `35:39` insan toplulukları)."
         if lemma == 'm~uxotalif':
@@ -10705,7 +10705,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((2, 48), (2, 123), (31, 33)):
             return "Kökün en eski kefalet anlamı (`لَا تَجْزِى نَفْسٌ عَن نَفْسٍ` `2:48,123` ve `لَا يَجْزِى وَالِدٌ ... وَلَا مَوْلُودٌ هُوَ جَازٍ` `31:33`): Hesap gününde hiç kimsenin bir başkasının yerine geçip bedel ödeyememesi."
         if (s, a) in ((6, 160), (40, 40), (53, 31), (53, 41), (55, 60)):
-            return "Kozmik adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
+            return "Evrensel adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
         if (s, a) in ((12, 74), (12, 75), (5, 38)):
             return "Yeryüzü hukuku ve Yûsuf kıssası (`12:74-75` 'kimin yükünden çıkarsa onun kendisi tam karşılığıdır' kuralı, `5:38` suçun caydırıcı karşılığı)."
         if (s, a) in ((14, 51), (20, 15), (40, 17), (45, 22)):
@@ -10811,7 +10811,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if lemma == 'HusobaAn':
             if (s, a) == (18, 40):
                 return "Ölçülü gök darbesi (`حُسْبَانًا مِّنَ ٱلسَّمَآءِ` `18:40`): Kibirli bağ sahibinin bahçesini kaygan düzlüğe çeviren, gökten indirilmiş hesaplı darbe/afet."
-            return "Kozmik hesap düzeni (`6:96`, `55:5`): Güneş ve ayın şaşmaz bir matematiksel ölçü ve döngü hesabı (`حُسْبَانًا / بِحُسْبَانٍ`) ile seyretmesi."
+            return "Evrensel hesap düzeni (`6:96`, `55:5`): Güneş ve ayın şaşmaz bir matematiksel ölçü ve döngü hesabı (`حُسْبَانًا / بِحُسْبَانٍ`) ile seyretmesi."
         if lemma == 'Ha`sibiyn':
             return "En hızlı ve şaşmaz hesap görücü (`6:62`, `21:47`): Hardal tanesi ağırlığındaki en küçük eylemi dahi adalet terazilerine getirip hesap görmede Allah'ın mutlak yetkinliği."
         if lemma == 'Hasiyb':
@@ -10855,7 +10855,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             return "Kesin gerçekleşme sıfatı (`مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`): Verilmiş kararın veya sözün mutlaka fiilî gerçekliğe dönüşmesi."
         if lemma == 'faAEil':
             if (s, a) in ((21, 79), (21, 104)):
-                return "Kozmik ve tarihsel icra beyanı (`وَكُنَّا فَٰعِلِينَ / إِنَّا كُنَّا فَٰعِلِينَ` `21:79,104`): Yaratıcı Kudret'in dağları-kuşları buyruk altına almayı ve ilk yaratılışı geri çevirmeyi bizzat gerçekleştirmesi."
+                return "Evrensel ve tarihsel icra beyanı (`وَكُنَّا فَٰعِلِينَ / إِنَّا كُنَّا فَٰعِلِينَ` `21:79,104`): Yaratıcı Kudret'in dağları-kuşları buyruk altına almayı ve ilk yaratılışı geri çevirmeyi bizzat gerçekleştirmesi."
             if (s, a) == (18, 23):
                 return "Gelecek eylem iddiası sınırı (`إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا` `18:23`): İnsanın Allah'ın dilemesine bağlamadan 'yarın kesin yapacağım' dememesi."
             if (s, a) == (23, 4):
@@ -10975,7 +10975,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in ((2, 64), (4, 83), (4, 113), (24, 10), (24, 14), (24, 20), (24, 21)):
             return "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
         if (s, a) in ((2, 47), (2, 122), (2, 253), (4, 32), (4, 34), (6, 86), (7, 140), (16, 71), (17, 21), (17, 55), (17, 70), (27, 15), (45, 16)):
-            return "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+            return "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen fiziksel yapı ve sorumluluk farklılıkları."
         if (s, a) in ((2, 268), (3, 180), (4, 37), (4, 54), (9, 28), (9, 75), (9, 76), (24, 22), (24, 32), (24, 33)):
             return "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
         return "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
@@ -11096,9 +11096,9 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) == (109, 6):
             return "Karşılıklı yol ve sorumluluk ayrımı (`لَكُمْ دِينُكُمْ وَلِىَ دِينِ` `109:6`): Her tarafın kendi seçtiği itaat, yaşam ve hesap sisteminin sonucunu bizzat üstleneceği beyanı."
         if (s, a) == (9, 36):
-            return "Kozmik takvim ve evrensel denge yasası (`9:36`): On iki aylık gök döngüsü ve dört dokunulmaz ay düzeninin 'ayakta duran dosdoğru sistem (`ٱلدِّينُ ٱلْقَيِّمُ`)' diye nitelenmesi."
+            return "Evrensel takvim ve evrensel denge yasası (`9:36`): On iki aylık gök döngüsü ve dört dokunulmaz ay düzeninin 'ayakta duran dosdoğru sistem (`ٱلدِّينُ ٱلْقَيِّمُ`)' diye nitelenmesi."
         if (s, a) in ((6, 161), (12, 40), (30, 30), (30, 43)) or ((s, a) == (98, 5) and 'NOM' in features):
-            return "Fıtratla örtüşen şaşmaz yaşam sistemi (`ٱلدِّينُ ٱلْقَيِّمُ` / `فِطْرَتَ ٱللَّهِ` `30:30,43`, `12:40`, `6:161`, `98:5`): İnsanın yaratılış programıyla tam uyumlu, aracıları reddeden ayakta duran sistem."
+            return "Fıtratla örtüşen şaşmaz yaşam sistemi (`ٱلدِّينُ ٱلْقَيِّمُ` / `فِطْرَتَ ٱللَّهِ` `30:30,43`, `12:40`, `6:161`, `98:5`): İnsanın yaratılış yasasıyla tam uyumlu, aracıları reddeden ayakta duran sistem."
         if (s, a) in ((2, 193), (4, 146), (7, 29), (8, 39), (10, 22), (16, 52), (29, 65), (31, 32), (39, 2), (39, 3), (39, 11), (39, 14), (40, 14), (40, 65), (98, 5)):
             return "Yönelişi ve itaat bağını yalnız Tek Kudrete arındırmak (`مُخْلِصِينَ لَهُ ٱلدِّينَ` / `وَلَهُ ٱلدِّينُ وَاصِبًا` `16:52`, `39:2-14`, `40:14,65`): Zorlukta veya kesintisiz biçimde tüm bağlılığı yalnız Yaratıcıya tahsis etme ilkesi."
         if (s, a) in ((6, 159), (30, 32), (42, 13)):
@@ -11137,7 +11137,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) == (6, 71):
             return "Çıkış yoluna çağıran gerçek dostlar (`لَهُۥٓ أَصْحَٰبٌ يَدْعُونَهُۥ` `6:71`): Şaşkın kalmış yolcuyu güvenilir yöne davet eden sağduyulu yol arkadaşları."
         if (s, a) == (74, 31):
-            return "Ateş alanının görevli sorumluları (`أَصْحَٰبَ ٱلنَّارِ` `74:31`): Yakıcı düzenin yönetiminden sorumlu kozmik görevliler topluluğu."
+            return "Ateş alanının görevli sorumluları (`أَصْحَٰبَ ٱلنَّارِ` `74:31`): Yakıcı düzenin yönetiminden sorumlu buyruk elçileri topluluğu."
         if (s, a) == (68, 17):
             return "Dünya bahçesi sahipleri kıssası (`أَصْحَٰبَ ٱلْجَنَّةِ` `68:17`): Yoksulları mahrum bırakma kararı alıp bahçelerini kaybeden mülk sahipleri örneği."
         if (s, a) in ((56, 8), (56, 9), (56, 27), (56, 38), (56, 41), (56, 90), (56, 91), (74, 39), (90, 18), (90, 19)):
@@ -11166,7 +11166,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if lemma == '<ins':
             return "Görünür insan zümresinin gizli/örtülü varlıklarla (`ٱلْجِنّ / جَآنّ`) simetrisi (`6:112-130`, `17:88`, `51:56`, `55:33,39`, `72:5-6`): `إِنس` sözcüğünün Kur'an'daki `18` geçişinin tamamında gözden örtülü şuurlu varlıklarla yan yana gelerek yaratılış amacı ve ortak sorumlulukta buluşması."
         if (s, a) in ((4, 28), (15, 26), (16, 4), (23, 12), (32, 7), (36, 77), (50, 16), (55, 3), (55, 14), (75, 3), (76, 1), (76, 2), (80, 24), (82, 6), (86, 5), (90, 4), (95, 4), (96, 2), (96, 5)):
-            return "İnsanın biyolojik kökeni, en güzel kıvamı ve bilgi donanımı (`15:26`, `23:12`, `76:2`, `95:4`, `96:2-5`): Balçık ve karma sudan yaratılıp zayıflığına rağmen duyma-görme ve bilmediğini öğrenme yeteneğiyle şereflendirilen `ٱلْإِنسَٰن`."
+            return "İnsanın biyolojik kökeni, en güzel kıvamı ve bilgi fiziksel yapıı (`15:26`, `23:12`, `76:2`, `95:4`, `96:2-5`): Balçık ve karma sudan yaratılıp zayıflığına rağmen duyma-görme ve bilmediğini öğrenme yeteneğiyle şereflendirilen `ٱلْإِنسَٰن`."
         if (s, a) in ((12, 5), (17, 13), (17, 53), (25, 29), (29, 8), (31, 14), (33, 72), (46, 15), (53, 24), (53, 39), (59, 16), (75, 5), (75, 10), (75, 13), (75, 14), (75, 36), (79, 35), (84, 6), (89, 23), (99, 3)):
             return "İnsanın emaneti, çabası ve öz tanıklığı (`33:72`, `53:39`, `75:14`, `84:6`, `31:14`): Göklerin ve dağların çekindiği emaneti sırtlanan, anne-babaya vefayla sorumlu tutulan ve yalnızca kendi emeğinin karşılığını görecek olan bilinçli insan."
         return "Darlık-bolluk salınımında insanın aceleci ve nankör eğilimi uyarısı (`10:12`, `11:9`, `14:34`, `17:11,67,83`, `21:37`, `39:8,49`, `70:19`, `80:17`, `96:6`, `100:6`, `103:2`): Sıkıntıda yalvarıp ferahlıkta yüz çevirme ve nankörlüğe kayma zaaflarının teşhisi."
@@ -11189,7 +11189,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
                 return "Koşullu mesafe uyarısı (`وَلَا تَقْرَبُونِ` `12:60`): Yûsuf'un küçük kardeş getirilmedikçe erzak ve görüşme yakınlığı tanımayacağını bildirmesi."
             return "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
         if (s, a) in ((3, 45), (4, 172), (7, 114), (26, 42), (56, 11), (56, 88), (83, 21), (83, 28)):
-            return "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+            return "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve buyruk elçilerinin yüksek yakınlık makamı."
         if (s, a) in ((2, 186), (7, 56), (11, 61), (34, 50), (50, 16), (56, 85)):
             return "Yaratıcının insana kuşatıcı yakınlığı (`فَإِنِّى قَرِيبٌ` `2:186`, `قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ` `7:56`, `أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ` `50:16`, `56:85`): Çağrıya anında karşılık veren ve şah damarından daha yakın olan ilâhî yakınlık."
         if (s, a) in ((4, 77), (7, 185), (9, 42), (11, 81), (13, 31), (14, 44), (16, 77), (17, 51), (21, 1), (21, 97), (21, 109), (33, 63), (34, 51), (42, 17), (48, 18), (48, 27), (50, 41), (54, 1), (59, 15), (61, 13), (63, 10), (70, 7), (72, 25), (78, 40)):
@@ -11206,7 +11206,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) == (55, 20):
             return "Doğal denge sınırını ihlal etmeme yasası (`بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ` `55:20`): İki farklı su kütlesinin aralarındaki görünmez engelle birbirinin sınırına taşmadan akışı."
         if (s, a) in ((19, 92), (25, 18), (26, 211), (36, 40), (36, 69), (38, 35)):
-            return "Kozmik ve yapısal uygunsuzluk ölçüsü (`مَا / لَا يَنۢبَغِى` `19:92`, `25:18`, `26:211`, `36:40,69`, `38:35`): Güneşin aya yetişemeyeceği gibi çocuk edinmenin Rahmân'a, şiirin ise vahye asla yaraşıp uymadığı ilkesi."
+            return "Evrensel ve yapısal uygunsuzluk ölçüsü (`مَا / لَا يَنۢبَغِى` `19:92`, `25:18`, `26:211`, `36:40,69`, `38:35`): Güneşin aya yetişemeyeceği gibi çocuk edinmenin Rahmân'a, şiirin ise vahye asla yaraşıp uymadığı ilkesi."
         if (s, a) == (24, 33):
             if lemma == "bigaA^'":
                 return "İffet dışı kazanca zorlama yasağı (`عَلَى ٱلْبِغَآءِ` `24:33`): Namuslu kalmak isteyen genç kızların dünyevî çıkar uğruna iffet sınırını aşmaya zorlanmasının kesin yasağı."
@@ -11256,7 +11256,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
 
     elif root_ar == 'ح-ب-ب':
         if lemma in ('Hab~', 'Hab~ap'):
-            return "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+            return "Tohum, tahıl tanesi ve evrensel hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
         if (s, a) in ((9, 23), (14, 3), (16, 107), (41, 17)) and lemma == '{sotaHab~u':
             return "Tercih ve değer sıralaması (`ٱسْتَحَبُّوا۟` `9:23`, `14:3`, `16:107`, `41:17` X. bab): Hakikat ve gelecek kalıcı yurt yerine dünya çıkarını veya körlüğü daha sevgili seçip üstün tutma uyarısı."
         if (s, a) == (20, 39):
@@ -11281,9 +11281,9 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
 
     elif root_ar == 'س-ب-ح':
         if (s, a) in {(21, 33), (36, 40)}:
-            return "Kozmik yörünge yüzüşü (`21:33`, `36:40`): Güneş, ay ve gök cisimlerinin kendi yörüngelerinde (`felek`) akıp süzülmesi (`يَسْبَحُونَ`); kökün sudaki sürtünmesiz ve kesintisiz akış çekirdeğini kozmik ölçekte görünür kılar."
+            return "Evrensel yörünge yüzüşü (`21:33`, `36:40`): Güneş, ay ve gök cisimlerinin kendi yörüngelerinde (`felek`) akıp süzülmesi (`يَسْبَحُونَ`); kökün sudaki sürtünmesiz ve kesintisiz akış çekirdeğini evrensel ölçekte görünür kılar."
         if (s, a) in {(73, 7), (79, 3)}:
-            return "Engin akış ve hızla süzülüş (`73:7`, `79:3`): Gündüzün uzun meşguliyet akışı (`سَبْحًا طَوِيلًا`, `73:7`) ve kozmik görevlilerin emir doğrultusunda süratle yüzüp süzülüşü (`وَٱلسَّٰبِحَٰتِ سَبْحًا`, `79:3`)."
+            return "Engin akış ve hızla süzülüş (`73:7`, `79:3`): Gündüzün uzun meşguliyet akışı (`سَبْحًا طَوِيلًا`, `73:7`) ve buyruk elçilerinin emir doğrultusunda süratle yüzüp süzülüşü (`وَٱلسَّٰبِحَٰتِ سَبْحًا`, `79:3`)."
         if (s, a) in {(17, 1), (57, 1), (59, 1), (61, 1), (62, 1), (64, 1), (87, 1)}:
             return "Müsebbihât sûre açılışları (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`): Dört farklı dilbilgisel kipte (`سُبْحَٰنَ` mastar `17:1`; `سَبَّحَ` mâzî `57:1`, `59:1`, `61:1`; `يُسَبِّحُ` muzârî `62:1`, `64:1`; `سَبِّحِ` emir `87:1`) tüm göklerin ve yerin Allah'ı eksiklikten uzak tuttuğu vurgulanır."
         if (s, a) in {(17, 44), (24, 41)}:
@@ -11293,7 +11293,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) == (34, 41):
             return "Sahte tapınma odaklarından arınma (`34:41`): Sorgulanan yüksek görevlilerin, kendilerini değil görünmez varlıkları merkeze alan insanlardan bütünüyle uzak durup Allah'ın aşkınlığını (`سُبْحَٰنَكَ`) ilan etmesi."
         if (s, a) in {(2, 30), (7, 206), (21, 20), (37, 166), (39, 75), (40, 7), (41, 38), (42, 5)}:
-            return "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+            return "Buyruk elçilerinin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
         if (s, a) in {(13, 13), (21, 79), (38, 18)}:
             return "Doğa unsurlarının tesbîh eşliği (`13:13`, `21:79`, `38:18`): Gök gürültüsünün hamd ile yönelişi (`13:13`) ve dağlar ile kuşların Davud'a uyumla eşlik etmesi (`21:79`, `38:18`)."
         if (s, a) in {(21, 87), (37, 143)}:
@@ -11308,7 +11308,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
 
     elif root_ar == 'ل-ي-ل':
         if (s, a) in {(2, 164), (3, 190), (10, 6), (23, 80), (25, 62), (45, 5)}:
-            return "Gece ve gündüzün ardışık dönüşümü (`2:164`, `3:190`, `10:6`, `23:80`, `25:62`, `45:5`): Evrendeki düzenli devir (`ٱخْتِلَٰف` / `خِلْفَة`), akleden ve nimetin değerini bilmek isteyenler için başlı başına kozmik kanıttır."
+            return "Gece ve gündüzün ardışık dönüşümü (`2:164`, `3:190`, `10:6`, `23:80`, `25:62`, `45:5`): Evrendeki düzenli devir (`ٱخْتِلَٰف` / `خِلْفَة`), akleden ve nimetin değerini bilmek isteyenler için başlı başına evrensel kanıttır."
         if (s, a) in {(3, 27), (7, 54), (13, 3), (22, 61), (24, 44), (31, 29), (35, 13), (39, 5), (57, 6)}:
             return "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
         if (s, a) in {(6, 96), (10, 67), (25, 47), (27, 86), (28, 71), (28, 72), (28, 73), (40, 61), (78, 10)}:
@@ -11326,7 +11326,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in {(6, 13), (6, 60), (10, 24), (10, 27), (13, 10), (21, 42), (30, 23), (34, 33), (37, 138)}:
             return "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
         if (s, a) in {(74, 33), (81, 17), (84, 17), (89, 4), (91, 4), (92, 1), (93, 2)}:
-            return "Mekkî sûrelerde gecenin fiziksel evreleri üzerine kozmik antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
+            return "Mekkî sûrelerde gecenin fiziksel evreleri üzerine evrensel antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
         return "Gündüzün karşıtı olarak dünyayı saran karanlık, dinginlik ve odaklanma kuşağı (`ٱلَّيْل` / `لَيْلَة`)."
 
     elif root_ar == 'ل-ي-س':
@@ -11376,7 +11376,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in {(7, 20), (7, 176), (20, 120), (21, 8), (21, 34), (26, 129), (104, 3)}:
             return "Dünyevî kalıcılık yanılgısı ve yere yapışma teşhiri (`7:20,176`, `20:120`, `21:8,34`, `26:129`, `104:3`): Âdem'e uzatılan sahte `شَجَرَةِ ٱلْخُلْدِ` aldatmacası, ayetlere rağmen toprağa yapışıp alçalanın (`أَخْلَدَ`) durumu, Âd'ın kalelerle ölümsüzlük hayali (`26:129`), malıyla ölümsüzleştiğini sanan servet tutkunu (`104:3`) ve dünyada hiçbir beşere kalıcılık verilmediği yasası (`21:34`)."
         if (s, a) in {(6, 128), (11, 107), (11, 108), (25, 69), (59, 17)}:
-            return "Kozmik süre ölçüsü, ilâhî dileme şartı ve ikili hesap (`6:128`, `11:107-108`, `25:69`, `59:17`): Gökler ve yer durdukça Rabb'in dilemesi dışında kalıcılık ilkesi (`11:107-108`, `6:128`), alçaltılmış kalış (`25:69`) ve azdıranla aldananın ateşte ikili kalışı (`خَٰلِدَيْنِ` `59:17`)."
+            return "Evrensel süre ölçüsü, ilâhî dileme şartı ve ikili hesap (`6:128`, `11:107-108`, `25:69`, `59:17`): Gökler ve yer durdukça Rabb'in dilemesi dışında kalıcılık ilkesi (`11:107-108`, `6:128`), alçaltılmış kalış (`25:69`) ve azdıranla aldananın ateşte ikili kalışı (`خَٰلِدَيْنِ` `59:17`)."
         if (s, a) in {(4, 57), (4, 122), (4, 169), (5, 119), (9, 22), (9, 100), (33, 65), (64, 9), (65, 11), (72, 23), (98, 8)}:
             return "Sonsuzluk pekiştirmeli (`خَٰلِدِينَ فِيهَآ أَبَدًا`) kesin yurt hükümleri (`4:57,122,169`, `5:119`, `9:22,100`, `33:65`, `64:9`, `65:11`, `72:23`, `98:8`): Hem esenlik bahçelerinde hem ağır sorumluluk yurdunda sürekliliğin bitimsiz `أَبَدًا` zarfıyla kilitlenmesi."
         if (s, a) in {(2, 25), (2, 82), (3, 15), (3, 107), (3, 136), (3, 198), (4, 13), (5, 85), (7, 42), (9, 72), (9, 89), (10, 26), (11, 23), (14, 23), (18, 108), (20, 76), (21, 102), (23, 11), (25, 15), (25, 16), (25, 76), (29, 58), (31, 9), (39, 73), (43, 71), (46, 14), (47, 15), (48, 5), (50, 34), (56, 17), (57, 12), (58, 22), (76, 19)}:
@@ -11434,7 +11434,7 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
             return "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
         if (s, a) in {(2, 108), (3, 64), (3, 113), (4, 89), (5, 12), (5, 60), (5, 77), (8, 58), (20, 58), (21, 109), (22, 25), (28, 22), (37, 55), (38, 22), (41, 10), (44, 47), (45, 21), (60, 1)}:
             return "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
-        return "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+        return "Fiziksel, biyolojik ve mekânsal düzleme, denge ve fiziksel yapı (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
 
     if root_ar == 'ك-ي-ف':
         if (s, a) in {(3, 6), (5, 64), (30, 48)}:

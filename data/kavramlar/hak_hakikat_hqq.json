@@ -11,7 +11,7 @@
     "ibn_faris": "Mekâyîs bütün türevleri tek bir fiziksel çekirdeğe bağlar: bir yapıyı sapasağlam, eksiksiz ve bozulmaz hale getirmek (`إِحْكَامُ الشَّيْءِ وَصِحَّتُهُ`). Temelsiz ve çürük olanın (`بَاطِل`) karşıtı `حَقّ` budur.",
     "lisan_al_arab": "İbn Manzûr ve İbn Sîde'nin Muhkem'i kökü «sağlamlaşma, doğrulama, ölçü/miktar belirleme (`الْقِيَاس وَالْمِقْدَار`) ve kaçınılmaz sonuç (`ٱلْحَآقَّةُ`)» olarak çözümler: bir şey olgusal sınırına ve tam kıvamına ulaştığında `حَقَّ` olur.",
     "ragib_mufredat": "Râgıb el-İsfahânî en berrak mekanik tarifi verir: «أصل الحق المطابقة والموافقة، كمطابقة رجل الباب في حقه لدورانه على استقامة» (Hak kökünün aslı, kapının dönen alt milinin zemin oyuğuna tam oturup eksiksiz düzgün dönmesi gibi mutlak örtüşmedir). Dış gerçekliğe uyan söze, ölçüye uyan eyleme ve hak sahibine ödenen paya (`حَقّ`) denir.",
-    "arbitration_decision": "Üç otorite tam mutabıktır: `ح-ق-ق` yalnızca mistik bir slogan değil; **kapı milinin yuvaya oturması ve taşa oyulmuş sınır taşı gibi dış gerçeklikle %100 çakışan sabit doğruluk, kozmik mühendislik uyumu (`بِٱلْحَقِّ`), yazılı borç/miras/ürün payı (`6:141`, `51:19`) ve eylemlerin kaçınılmaz sonucu (`ٱلْحَآقَّةُ`)** kavramıdır."
+    "arbitration_decision": "Üç otorite tam mutabıktır: `ح-ق-ق` yalnızca mistik bir slogan değil; **kapı milinin yuvaya oturması ve taşa oyulmuş sınır taşı gibi dış gerçeklikle %100 çakışan sabit doğruluk, evrensel mühendislik uyumu (`بِٱلْحَقِّ`), yazılı borç/miras/ürün payı (`6:141`, `51:19`) ve eylemlerin kaçınılmaz sonucu (`ٱلْحَآقَّةُ`)** kavramıdır."
   },
   "semitic_cognates": {
     "proto_semitic": "*ḥaqq- / *ḥ-q-q («sert bir yüzeye oymak, kazımak, yuva/sınır çizmek → değişmez yasa, ölçü, gerçek ve hak»)",
@@ -25,7 +25,15 @@
     "roots": [
       "ب-ط-ل (`15` ortak ayet: `2:42`, `7:118`, `8:8`, `13:17`, `17:81`, `21:18`, `22:62`, `31:30`, `34:49`, `42:24`, `47:3` — Gerçekliğe tam oturan öz ve kalıcı fayda (`حَقّ`) karşısında içi boş, dayanaksız köpük gibi dağılıp sönen çürük şey (`بَاطِل`))",
       "ض-ل-ل (`16` ortak ayet: `7:30`, `10:32`, `16:36`, `38:26`, `39:41` — Sağlam rota ve doğrudan ayrıldıktan (`10:32` `فَمَاذَا بَعْدَ ٱلْحَقِّ إِلَّا ٱلضَّلَٰلُ`) sonra yaşanan yön kaybı ve sapma)",
-      "ظ-ن-ن ve ه-و-ى (`10:36`, `53:28`, `23:71`, `38:26` — Kanıtsız varsayım/sanı (`ظَنّ`) ile keyfî bencil arzu (`هَوَى`) karşısında nesnel hakikat (`حَقّ`))"
+      "ظ-ن-ن ve ه-و-ى (`10:36`, `53:28`, `23:71`, `38:26` — Kanıtsız varsayım/sanı (`ظَنّ`) ile keyfî bencil arzu (`هَوَى`) karşısında nesnel hakikat (`حَقّ`))",
+      "ج-ر-م (C-R-M (jrm) — Çift Yönlü Mesânî Karşılığı: 8:8, 10:82)",
+      "س-ح-ر (S-H-R (sHr) — Çift Yönlü Mesânî Karşılığı: 5:110, 10:76, 10:77, 27:13)",
+      "غ-ن-ي (G-N-Y (gny) — Çift Yönlü Mesânî Karşılığı: 10:36, 53:28)",
+      "غ-ي-ر (G-Y-R (gyr) — Çift Yönlü Mesânî Karşılığı: 8:53, 13:11, 47:15)",
+      "ف-ر-ي (F-R-Y (fry) — Çift Yönlü Mesânî Karşılığı: 6:93, 10:37, 12:111, 16:101)",
+      "ف-س-د (F-S-D (fsd) — Çift Yönlü Mesânî Karşılığı: 2:251, 21:22, 23:71)",
+      "ك-ذ-ب (K-Z-B — Çift Yönlü Mesânî Karşılığı: 6:5, 6:57, 6:66, 6:93)",
+      "و-ع-د (W-A-D (wEd) — Çift Yönlü Mesânî Karşılığı: 14:22, 2:268, 3:9)"
     ],
     "key_ayahs": [
       "13:17 & 21:18 & 17:81 (فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ / بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَٰطِلِ / جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَٰطِلُ — Öz/köpük denklemi ve gerçeğin sahteyi dağıtması)",
@@ -54,7 +62,7 @@
     "38:26 & 4:105 & 23:71 (فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ — Bireysel arzudan bağımsız nesnel hukuk ve adalet ölçüsü)",
     "2:42 & 18:29 & 103:3 (وَلَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَٰطِلِ / وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن شَآءَ فَلْيُؤْمِن / وَتَوَاصَوْا۟ بِٱلْحَقِّ — Özgür irade karşısında gerçeği gizlememe ve dayanışma)",
     "7:105 & 10:53 (حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ / أَحَقٌّ هُوَ — Tutarlılık borcu (`حَقِيقٌ`) ve soru/teyit ekseni)",
-    "69:1-3 & 84:1-5 & 22:62 (ٱلْحَآقَّةُ / وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ / ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ — Varoluşsal gerçeklik, kozmik itaat yasası (`وَحُقَّتْ`) ve sahtelik karşıtı temel dayanak)",
+    "69:1-3 & 84:1-5 & 22:62 (ٱلْحَآقَّةُ / وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ / ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ — Varoluşsal gerçeklik, evrensel itaat yasası (`وَحُقَّتْ`) ve sahtelik karşıtı temel dayanak)",
     "2:213 & 45:22 & 24:25 (بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ / يُوَفِّيهِمُ ٱللَّهُ دِينَهُمُ ٱلْحَقَّ — Çatışmalarda hakemlik ölçüsü ve adaletin eksiksiz tecellisi)"
   ],
   "grammar_and_branch_rules": "1) Kavram ve Hukuk Yoğunluğu (287 Geçiş / 263 Ayet): `251` İsim (`N`), `26` Fiil (`V`), `10` Sıfat (`ADJ`); toplam `7` lemma ve `23` rasm. İsimlerin %50'ye yakını mecrûr (`126` `GEN` — özellikle `77` kez `بِٱلْحَقِّ / بِحَقٍّ` ve `17` kez `بِغَيْرِ ٱلْحَقِّ / غَيْرَ ٱلْحَقِّ` kalıpları) konumundadır. 2) Fiil Üçlüsü (`26` V: `24 ACT`, `2 PASS`): I. Bab `Haq~a` (`20`: kesinleşme ve yargının sabitlenmesi; `84:2,5` `وَحُقَّتْ` edilgen), IV. Bab `yuHiq~a` (`4`: `8:7-8, 10:82, 42:24` — gerçeği fiilen doğrulayıp sahteyi silmek) ve X. Bab `{sotaHaq~a` (`2`: `5:107` — hak etmek / sorumluluğu üstlenmek). 3) Yedi Lemma Dağılımı: `Haq~` (`247`: `242 N`, `5 ADJ`), `Haq~a` (`20`), `>aHaq~` (`10`: `5 ADJ`, `5 N`), `yuHiq~a` (`4`), `HaA^q~ap` (`3`: `69:1-3`), `{sotaHaq~a` (`2`: `5:107`), `Haqiyq` (`1`: `7:105`). `10:53`'teki `أَحَقٌّ` soru edatı `أَ` ile `Haq~` isminin birleşimidir. 4) Başlıca Eşdizimler: `Alh` (`120`), `qwl` (`83`), `kwn` (`68`), `rbb` (`67`), `Amn` (`55`), `Elm` (`45`), `jyA` (`40`), `kfr` (`38`), `rsl` (`35`), `ktb` (`34`), `byn` (`34`), `Aty` (`33`), `ArD` (`30`), `nzl` (`29`), `wEd` (`23`), `Hkm` (`17`), **`Dll` (`16`)**, **`bTl` (`15`)**, `Zlm` (`15`), `k*b` (`14`), `Sdq` (`10`), `mry` (`7`), `Znn` (`5`), `hwy` (`4`).",
@@ -1036,14 +1044,14 @@
       "target_word_rasm": "ٱستحقا",
       "target_word_literal_irab": "İkisinin de haksızlığa ve sorumluluğa hak kazandığı ortaya çıkarsa (X. bab etken mâzî fiil, 3. ikil eril)",
       "context_snippet_arabic": "عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ",
-      "context_snippet_turkish_tabula_rasa": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a bağlayıcı ahit ederler.",
+      "context_snippet_turkish_tabula_rasa": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a kesin and ederler.",
       "morphology": {
         "lemma": "{sotaHaq~a",
         "pos": "V",
         "features": "STEM|POS:V|PERF|(X)|LEM:{sotaHaq~a|ROOT:Hqq|3MD"
       },
       "ayah_text_arabic_full": "فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّٰلِمِينَ",
-      "ayah_text_turkish_tabula_rasa_full": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a bağlayıcı ahit ederler.",
+      "ayah_text_turkish_tabula_rasa_full": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a kesin and ederler.",
       "contextual_meaning": "Vasiyet tanıklığında güveni boşa çıkaran haksızlık (`ٱسْتَحَقَّآ`) ortaya konunca, hakları çiğnenen mirasçıların (`ٱسْتَحَقَّ عَلَيْهِمُ`) öne geçip daha geçerli tanıklık sunması (`5:107`)."
     },
     {
@@ -1056,14 +1064,14 @@
       "target_word_rasm": "ٱستحق",
       "target_word_literal_irab": "Hakları çiğnenen ve vebal üzerlerine düşen en yakın mirasçılardan (X. bab etken mâzî fiil, 3. tekil eril)",
       "context_snippet_arabic": "مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ",
-      "context_snippet_turkish_tabula_rasa": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a bağlayıcı ahit ederler.",
+      "context_snippet_turkish_tabula_rasa": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a kesin and ederler.",
       "morphology": {
         "lemma": "{sotaHaq~a",
         "pos": "V",
         "features": "STEM|POS:V|PERF|(X)|LEM:{sotaHaq~a|ROOT:Hqq|3MS"
       },
       "ayah_text_arabic_full": "فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّٰلِمِينَ",
-      "ayah_text_turkish_tabula_rasa_full": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a bağlayıcı ahit ederler.",
+      "ayah_text_turkish_tabula_rasa_full": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a kesin and ederler.",
       "contextual_meaning": "Vasiyet tanıklığında güveni boşa çıkaran haksızlık (`ٱسْتَحَقَّآ`) ortaya konunca, hakları çiğnenen mirasçıların (`ٱسْتَحَقَّ عَلَيْهِمُ`) öne geçip daha geçerli tanıklık sunması (`5:107`)."
     },
     {
@@ -1076,14 +1084,14 @@
       "target_word_rasm": "أحق",
       "target_word_literal_irab": "Karşılaştırmada herkesten daha haklı, daha yetkin, öncelikli ve daha layık (ism-i tafdîl, merfû)",
       "context_snippet_arabic": "فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا",
-      "context_snippet_turkish_tabula_rasa": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a bağlayıcı ahit ederler.",
+      "context_snippet_turkish_tabula_rasa": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a kesin and ederler.",
       "morphology": {
         "lemma": ">aHaq~",
         "pos": "N",
         "features": "STEM|POS:N|LEM:>aHaq~|ROOT:Hqq|MS|NOM"
       },
       "ayah_text_arabic_full": "فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّٰلِمِينَ",
-      "ayah_text_turkish_tabula_rasa_full": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a bağlayıcı ahit ederler.",
+      "ayah_text_turkish_tabula_rasa_full": "O iki tanığın bir sapma ve kusuru hakkettikleri anlaşılırsa miras hakkında sahip olanlardan ve tanıklığa daha ziyade layık bulunanlardan iki kişi, onların yerine geçer, bizim tanıklığımız, onların tanıklığından daha doğrudur ve biz zulmetmedik, ettiysek zalimlerden olalım diye Allah'a kesin and ederler.",
       "contextual_meaning": "Evlilik, toplumsal liderlik, güvenlik, saygı veya tanıklıkta hangi tarafın gerçeklik ve liyakat açısından daha üstün hak sahibi olduğunun (`أَحَقُّ`) belirlenmesi (`2:228`, `2:247`, `6:81`)."
     },
     {
@@ -1296,14 +1304,14 @@
       "target_word_rasm": "ٱلحق",
       "target_word_literal_irab": "Ölçülü gerçeklikle, adalet ilkesiyle ve nesnel hakikatten (tekil eril isim, mecrûr)",
       "context_snippet_arabic": "عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَٰتِهِۦ",
-      "context_snippet_turkish_tabula_rasa": "Allah'a boş yere iftira edenden, yahut, kendisine hiçbir şey vahyedilmediği halde bana da vahyedildi diyenden ve Allah'ın indirdiği hükümlere benzer hükümleri ben de yakında indireceğim diye söylenenden daha zalim kimdir ki? kozmik görevlilerin, ellerini uzattıkları ve delillerine karşı ululuk satmak istediğinizden ve haksız olarak Allah hakkında söylediğiniz şeylerden dolayı horlukla cezalandırılacak, aşağılık bir azaba uğrayacaksınız, haydi, kurtarın bugün canlarınızı dedikleri zaman o zalimlerin, ölümün şiddetiyle nasıl kıvrandıklarını bir görmelisin.",
+      "context_snippet_turkish_tabula_rasa": "Allah'a boş yere iftira edenden, yahut, kendisine hiçbir şey vahyedilmediği halde bana da vahyedildi diyenden ve Allah'ın indirdiği hükümlere benzer hükümleri ben de yakında indireceğim diye söylenenden daha zalim kimdir ki? buyruk elçilerinin, ellerini uzattıkları ve delillerine karşı ululuk satmak istediğinizden ve haksız olarak Allah hakkında söylediğiniz şeylerden dolayı horlukla cezalandırılacak, aşağılık bir azaba uğrayacaksınız, haydi, kurtarın bugün canlarınızı dedikleri zaman o zalimlerin, ölümün şiddetiyle nasıl kıvrandıklarını bir görmelisin.",
       "morphology": {
         "lemma": "Haq~",
         "pos": "N",
         "features": "STEM|POS:N|LEM:Haq~|ROOT:Hqq|M|GEN"
       },
       "ayah_text_arabic_full": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَٰتِهِۦ تَسْتَكْبِرُونَ",
-      "ayah_text_turkish_tabula_rasa_full": "Allah'a boş yere iftira edenden, yahut, kendisine hiçbir şey vahyedilmediği halde bana da vahyedildi diyenden ve Allah'ın indirdiği hükümlere benzer hükümleri ben de yakında indireceğim diye söylenenden daha zalim kimdir ki? kozmik görevlilerin, ellerini uzattıkları ve delillerine karşı ululuk satmak istediğinizden ve haksız olarak Allah hakkında söylediğiniz şeylerden dolayı horlukla cezalandırılacak, aşağılık bir azaba uğrayacaksınız, haydi, kurtarın bugün canlarınızı dedikleri zaman o zalimlerin, ölümün şiddetiyle nasıl kıvrandıklarını bir görmelisin.",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a boş yere iftira edenden, yahut, kendisine hiçbir şey vahyedilmediği halde bana da vahyedildi diyenden ve Allah'ın indirdiği hükümlere benzer hükümleri ben de yakında indireceğim diye söylenenden daha zalim kimdir ki? buyruk elçilerinin, ellerini uzattıkları ve delillerine karşı ululuk satmak istediğinizden ve haksız olarak Allah hakkında söylediğiniz şeylerden dolayı horlukla cezalandırılacak, aşağılık bir azaba uğrayacaksınız, haydi, kurtarın bugün canlarınızı dedikleri zaman o zalimlerin, ölümün şiddetiyle nasıl kıvrandıklarını bir görmelisin.",
       "contextual_meaning": "Dış gerçeklikle birebir örtüşen sarsılmaz hakikat, tutarlı sözleşme vaadi (`وَعْدُ ٱللَّهِ حَقٌّ`) ve sapmaz doğruluk ölçüsü (`ٱلْحَقّ` / `بِٱلْحَقِّ`)."
     },
     {
@@ -1856,14 +1864,14 @@
       "target_word_rasm": "أحق",
       "target_word_literal_irab": "Karşılaştırmada herkesten daha haklı, daha yetkin, öncelikli ve daha layık (ism-i tafdîl, merfû)",
       "context_snippet_arabic": "مَرَّةٍ أَتَخْشَوْنَهُمْ فَٱللَّهُ أَحَقُّ أَن تَخْشَوْهُ إِن",
-      "context_snippet_turkish_tabula_rasa": "bağlayıcı ahitlerinden dönen ve elçiyi, ülkesinden çıkarmaya çabalayan ve size karşı ahitlerini ilkin bozan bir toplulukla savaşmaz mısınız, korkar mısınız onlardan? güven duy kendisinden korkulmaya daha layık olan Allah'tır.",
+      "context_snippet_turkish_tabula_rasa": "kesin andlarından dönen ve elçiyi, ülkesinden çıkarmaya çabalayan ve size karşı ahitlerini ilkin bozan bir toplulukla savaşmaz mısınız, korkar mısınız onlardan? güven duy kendisinden korkulmaya daha layık olan Allah'tır.",
       "morphology": {
         "lemma": ">aHaq~",
         "pos": "ADJ",
         "features": "STEM|POS:ADJ|LEM:>aHaq~|ROOT:Hqq|MS|NOM"
       },
       "ayah_text_arabic_full": "أَلَا تُقَٰتِلُونَ قَوْمًا نَّكَثُوٓا۟ أَيْمَٰنَهُمْ وَهَمُّوا۟ بِإِخْرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمْ أَوَّلَ مَرَّةٍ أَتَخْشَوْنَهُمْ فَٱللَّهُ أَحَقُّ أَن تَخْشَوْهُ إِن كُنتُم مُّؤْمِنِينَ",
-      "ayah_text_turkish_tabula_rasa_full": "bağlayıcı ahitlerinden dönen ve elçiyi, ülkesinden çıkarmaya çabalayan ve size karşı ahitlerini ilkin bozan bir toplulukla savaşmaz mısınız, korkar mısınız onlardan? güven duy kendisinden korkulmaya daha layık olan Allah'tır.",
+      "ayah_text_turkish_tabula_rasa_full": "kesin andlarından dönen ve elçiyi, ülkesinden çıkarmaya çabalayan ve size karşı ahitlerini ilkin bozan bir toplulukla savaşmaz mısınız, korkar mısınız onlardan? güven duy kendisinden korkulmaya daha layık olan Allah'tır.",
       "contextual_meaning": "Evlilik, toplumsal liderlik, güvenlik, saygı veya tanıklıkta hangi tarafın gerçeklik ve liyakat açısından daha üstün hak sahibi olduğunun (`أَحَقُّ`) belirlenmesi (`2:228`, `2:247`, `6:81`)."
     },
     {
@@ -2696,14 +2704,14 @@
       "target_word_rasm": "بٱلحق",
       "target_word_literal_irab": "Ölçülü gerçeklikle, adalet ilkesiyle ve nesnel hakikatten (tekil eril isim, mecrûr)",
       "context_snippet_arabic": "نُنَزِّلُ ٱلْمَلَٰٓئِكَةَ إِلَّا بِٱلْحَقِّ وَمَا كَانُوٓا۟ إِذًا",
-      "context_snippet_turkish_tabula_rasa": "Biz kozmik görevlileri, ancak hak ve gerçek olarak indiririz, indiririz ama o vakit de mühlet vermeyiz, göz açtırmayız gerçeğin üzerini örtenlere.",
+      "context_snippet_turkish_tabula_rasa": "Biz buyruk elçileri, ancak hak ve gerçek olarak indiririz, indiririz ama o vakit de mühlet vermeyiz, göz açtırmayız gerçeğin üzerini örtenlere.",
       "morphology": {
         "lemma": "Haq~",
         "pos": "N",
         "features": "STEM|POS:N|LEM:Haq~|ROOT:Hqq|M|GEN"
       },
       "ayah_text_arabic_full": "مَا نُنَزِّلُ ٱلْمَلَٰٓئِكَةَ إِلَّا بِٱلْحَقِّ وَمَا كَانُوٓا۟ إِذًا مُّنظَرِينَ",
-      "ayah_text_turkish_tabula_rasa_full": "Biz kozmik görevlileri, ancak hak ve gerçek olarak indiririz, indiririz ama o vakit de mühlet vermeyiz, göz açtırmayız gerçeğin üzerini örtenlere.",
+      "ayah_text_turkish_tabula_rasa_full": "Biz buyruk elçileri, ancak hak ve gerçek olarak indiririz, indiririz ama o vakit de mühlet vermeyiz, göz açtırmayız gerçeğin üzerini örtenlere.",
       "contextual_meaning": "Evrenin rastgele bir eğlence veya amaçsız oyun için değil, milimetrik ölçü, tutarlılık ve işlevsel gerçeklik yasasıyla (`بِٱلْحَقِّ`) kurulup sürdürüldüğü ilkesi."
     },
     {
@@ -4596,14 +4604,14 @@
       "target_word_rasm": "بٱلحق",
       "target_word_literal_irab": "Ölçülü gerçeklikle, adalet ilkesiyle ve nesnel hakikatten (tekil eril isim, mecrûr)",
       "context_snippet_arabic": "رَبِّهِمْ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ",
-      "context_snippet_turkish_tabula_rasa": "Ve görürsün ki, kozmik görevliler, Rablerine hamd ederek onu tenzih edip arşın çevresinde dönmedeler ve aralarında gerçek bir adaletle hükmedilmiştir ve denilmiştir ki: Hamd, alemlerin Rabbi Allah'a.",
+      "context_snippet_turkish_tabula_rasa": "Ve görürsün ki, buyruk elçileri, Rablerine hamd ederek onu tenzih edip arşın çevresinde dönmedeler ve aralarında gerçek bir adaletle hükmedilmiştir ve denilmiştir ki: Hamd, alemlerin Rabbi Allah'a.",
       "morphology": {
         "lemma": "Haq~",
         "pos": "N",
         "features": "STEM|POS:N|LEM:Haq~|ROOT:Hqq|M|GEN"
       },
       "ayah_text_arabic_full": "وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
-      "ayah_text_turkish_tabula_rasa_full": "Ve görürsün ki, kozmik görevliler, Rablerine hamd ederek onu tenzih edip arşın çevresinde dönmedeler ve aralarında gerçek bir adaletle hükmedilmiştir ve denilmiştir ki: Hamd, alemlerin Rabbi Allah'a.",
+      "ayah_text_turkish_tabula_rasa_full": "Ve görürsün ki, buyruk elçileri, Rablerine hamd ederek onu tenzih edip arşın çevresinde dönmedeler ve aralarında gerçek bir adaletle hükmedilmiştir ve denilmiştir ki: Hamd, alemlerin Rabbi Allah'a.",
       "contextual_meaning": "Dış gerçeklikle birebir örtüşen sarsılmaz hakikat, tutarlı sözleşme vaadi (`وَعْدُ ٱللَّهِ حَقٌّ`) ve sapmaz doğruluk ölçüsü (`ٱلْحَقّ` / `بِٱلْحَقِّ`)."
     },
     {

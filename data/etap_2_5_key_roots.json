@@ -1,0 +1,306 @@
+{
+  "package": "Faz 1 - Etap 2.5 (Top 200 Dışında Kalan 16 Kilit Kavram)",
+  "target_count": 16,
+  "locked_count": 1,
+  "total_tokens_in_package": 467,
+  "etap_2_5_roots": [
+    {
+      "etap_2_5_rank": 1,
+      "global_rank": 308,
+      "root_arabic": "ث-ن-ي",
+      "root_latin": "S-N-Y",
+      "buckwalter": "vny",
+      "frequency": 29,
+      "unique_ayahs": 24,
+      "rationale": "Mesânî sisteminin kendi kökü (çiftleme, karşılıklı eşleştirme, ikiye katlama)",
+      "concept_label": "Mesânî, İsnân ve Tesniye (İkiye Katlayıp Bükme, Çiftleme ve Karşılıklı Eşleşen Metin Mimarisi)",
+      "is_locked": true,
+      "sample_ayah": "2:60",
+      "top_lemmas": [
+        "{vonayon",
+        "{vonatayon",
+        "mavonaY`",
+        "vaAniY"
+      ]
+    },
+    {
+      "etap_2_5_rank": 2,
+      "global_rank": 208,
+      "root_arabic": "أ-ث-م",
+      "root_latin": "E-S-M",
+      "buckwalter": "Avm",
+      "frequency": 48,
+      "unique_ayahs": 42,
+      "rationale": "İsm (ağır kusur / Furûk: Zenb ve Cünâh farkı)",
+      "concept_label": "Analiz Bekliyor (<ivom, >aviym, A^vim, ta>oviym)",
+      "is_locked": false,
+      "sample_ayah": "2:85",
+      "top_lemmas": [
+        "<ivom",
+        ">aviym",
+        "A^vim",
+        "ta>oviym"
+      ]
+    },
+    {
+      "etap_2_5_rank": 3,
+      "global_rank": 212,
+      "root_arabic": "ع-ه-د",
+      "root_latin": "A-H-D",
+      "buckwalter": "Ehd",
+      "frequency": 46,
+      "unique_ayahs": 36,
+      "rationale": "Ahid (bağlayıcı sözleşme ve taahhüt)",
+      "concept_label": "Analiz Bekliyor (Eahod, Ea`hada, Eahida)",
+      "is_locked": false,
+      "sample_ayah": "2:27",
+      "top_lemmas": [
+        "Eahod",
+        "Ea`hada",
+        "Eahida"
+      ]
+    },
+    {
+      "etap_2_5_rank": 4,
+      "global_rank": 235,
+      "root_arabic": "ل-ع-ن",
+      "root_latin": "L-A-N",
+      "buckwalter": "lEn",
+      "frequency": 41,
+      "unique_ayahs": 36,
+      "rationale": "La'net (koruma ve esenlik alanından uzaklaştırma)",
+      "concept_label": "Analiz Bekliyor (laEana, laEonap, l~a`Einuwn, maloEuwnap)",
+      "is_locked": false,
+      "sample_ayah": "2:88",
+      "top_lemmas": [
+        "laEana",
+        "laEonap",
+        "l~a`Einuwn",
+        "maloEuwnap"
+      ]
+    },
+    {
+      "etap_2_5_rank": 5,
+      "global_rank": 238,
+      "root_arabic": "ج-ه-د",
+      "root_latin": "C-H-D",
+      "buckwalter": "jhd",
+      "frequency": 41,
+      "unique_ayahs": 36,
+      "rationale": "Cehd / Cihâd (var gücüyle çabalama ve direnç emeği)",
+      "concept_label": "Analiz Bekliyor (ja`hada, jahod, muja`hidiyn, jihaAd)",
+      "is_locked": false,
+      "sample_ayah": "2:218",
+      "top_lemmas": [
+        "ja`hada",
+        "jahod",
+        "muja`hidiyn",
+        "jihaAd"
+      ]
+    },
+    {
+      "etap_2_5_rank": 6,
+      "global_rank": 245,
+      "root_arabic": "ذ-ن-ب",
+      "root_latin": "Z-N-B",
+      "buckwalter": "*nb",
+      "frequency": 39,
+      "unique_ayahs": 37,
+      "rationale": "Zenb (iz bırakan hata/suç / Furûk: İsm farkı)",
+      "concept_label": "Analiz Bekliyor (*anb, *anuwb)",
+      "is_locked": false,
+      "sample_ayah": "3:11",
+      "top_lemmas": [
+        "*anb",
+        "*anuwb"
+      ]
+    },
+    {
+      "etap_2_5_rank": 7,
+      "global_rank": 270,
+      "root_arabic": "و-ث-ق",
+      "root_latin": "W-S-K",
+      "buckwalter": "wvq",
+      "frequency": 34,
+      "unique_ayahs": 29,
+      "rationale": "Mîsâk / Vesâk (sağlam bağla düğümleme ve kopmaz sözleşme)",
+      "concept_label": "Analiz Bekliyor (m~iyva`q, m~awoviq, wuvoqaY`, wavaAq)",
+      "is_locked": false,
+      "sample_ayah": "2:27",
+      "top_lemmas": [
+        "m~iyva`q",
+        "m~awoviq",
+        "wuvoqaY`",
+        "wavaAq"
+      ]
+    },
+    {
+      "etap_2_5_rank": 8,
+      "global_rank": 275,
+      "root_arabic": "ح-ج-ج",
+      "root_latin": "H-C-C",
+      "buckwalter": "Hjj",
+      "frequency": 33,
+      "unique_ayahs": 26,
+      "rationale": "Hacc / Hüccet (kanıtla yönelme, delil sunma ve büyük yöneliş toplanması)",
+      "concept_label": "Analiz Bekliyor (HaA^j~a, Haj~, Huj~ap, Haj~a)",
+      "is_locked": false,
+      "sample_ayah": "2:76",
+      "top_lemmas": [
+        "HaA^j~a",
+        "Haj~",
+        "Huj~ap",
+        "Haj~a"
+      ]
+    },
+    {
+      "etap_2_5_rank": 9,
+      "global_rank": 280,
+      "root_arabic": "ق-س-م",
+      "root_latin": "K-S-M",
+      "buckwalter": "qsm",
+      "frequency": 33,
+      "unique_ayahs": 31,
+      "rationale": "Kasem / Kısmet (paylaştırma ve bağlayıcı and / Furûk: Ahid ve Half farkı)",
+      "concept_label": "Analiz Bekliyor (>aqosamu, qisomap, qasamo, qasam)",
+      "is_locked": false,
+      "sample_ayah": "4:8",
+      "top_lemmas": [
+        ">aqosamu",
+        "qisomap",
+        "qasamo",
+        "qasam"
+      ]
+    },
+    {
+      "etap_2_5_rank": 10,
+      "global_rank": 282,
+      "root_arabic": "ب-ر-ر",
+      "root_latin": "B-R-R",
+      "buckwalter": "brr",
+      "frequency": 32,
+      "unique_ayahs": 30,
+      "rationale": "Birr / Berr (genişlik, dürüstlük ve kapsamlı iyilik)",
+      "concept_label": "Analiz Bekliyor (bar~, bir~, tabar~u)",
+      "is_locked": false,
+      "sample_ayah": "2:44",
+      "top_lemmas": [
+        "bar~",
+        "bir~",
+        "tabar~u"
+      ]
+    },
+    {
+      "etap_2_5_rank": 11,
+      "global_rank": 290,
+      "root_arabic": "ط-ه-ر",
+      "root_latin": "T-H-R",
+      "buckwalter": "Thr",
+      "frequency": 31,
+      "unique_ayahs": 26,
+      "rationale": "Tahâret / Tathîr (kirden arınma / Furûk: Zekât farkı)",
+      "concept_label": "Analiz Bekliyor (Tah~ara, m~uTah~arap, taTah~aro, >aTohar)",
+      "is_locked": false,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "Tah~ara",
+        "m~uTah~arap",
+        "taTah~aro",
+        ">aTohar"
+      ]
+    },
+    {
+      "etap_2_5_rank": 12,
+      "global_rank": 410,
+      "root_arabic": "ف-ط-ر",
+      "root_latin": "F-T-R",
+      "buckwalter": "fTr",
+      "frequency": 20,
+      "unique_ayahs": 19,
+      "rationale": "Fıtrat / Fâtır (ilk kez yarma, özgün yaratılış yapısı)",
+      "concept_label": "Analiz Bekliyor (faTara, faATir, fiTorat, fuTuwr)",
+      "is_locked": false,
+      "sample_ayah": "6:14",
+      "top_lemmas": [
+        "faTara",
+        "faATir",
+        "fiTorat",
+        "fuTuwr"
+      ]
+    },
+    {
+      "etap_2_5_rank": 13,
+      "global_rank": 433,
+      "root_arabic": "خ-ش-ع",
+      "root_latin": "H-S-A",
+      "buckwalter": "x$E",
+      "frequency": 17,
+      "unique_ayahs": 16,
+      "rationale": "Huşû (alçalıp yatışma, içsel saygı ve dinginlik)",
+      "concept_label": "Analiz Bekliyor (xaA$iE, xa$aEati, xu$uwE)",
+      "is_locked": false,
+      "sample_ayah": "2:45",
+      "top_lemmas": [
+        "xaA$iE",
+        "xa$aEati",
+        "xu$uwE"
+      ]
+    },
+    {
+      "etap_2_5_rank": 14,
+      "global_rank": 471,
+      "root_arabic": "ص-و-م",
+      "root_latin": "S-W-M",
+      "buckwalter": "Swm",
+      "frequency": 14,
+      "unique_ayahs": 11,
+      "rationale": "Savm / Sıyâm (tutma, durma, öz denetim ve sakınma)",
+      "concept_label": "Analiz Bekliyor (SiyaAm, yaSumo, Sawom, S~a`^}imiyn)",
+      "is_locked": false,
+      "sample_ayah": "2:183",
+      "top_lemmas": [
+        "SiyaAm",
+        "yaSumo",
+        "Sawom",
+        "S~a`^}imiyn"
+      ]
+    },
+    {
+      "etap_2_5_rank": 15,
+      "global_rank": 787,
+      "root_arabic": "ش-ر-ع",
+      "root_latin": "S-R-A",
+      "buckwalter": "$rE",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Şer' / Şerîat (suya inen açık yol, açık hukuk güzergâhı)",
+      "concept_label": "Analiz Bekliyor ($araEa, $iroEap, $ur~aE, $ariyEap)",
+      "is_locked": false,
+      "sample_ayah": "5:48",
+      "top_lemmas": [
+        "$araEa",
+        "$iroEap",
+        "$ur~aE",
+        "$ariyEap"
+      ]
+    },
+    {
+      "etap_2_5_rank": 16,
+      "global_rank": 837,
+      "root_arabic": "ن-س-خ",
+      "root_latin": "N-S-H",
+      "buckwalter": "nsx",
+      "frequency": 4,
+      "unique_ayahs": 4,
+      "rationale": "Nesh / İstinsâh (izini silip aktarma, kayıt çıkarma ve yürürlük değişimi)",
+      "concept_label": "Analiz Bekliyor (yansaxu, nusoxat, nasotansixu)",
+      "is_locked": false,
+      "sample_ayah": "2:106",
+      "top_lemmas": [
+        "yansaxu",
+        "nusoxat",
+        "nasotansixu"
+      ]
+    }
+  ]
+}

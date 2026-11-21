@@ -2,6 +2,9 @@
 """
 Tabula Rasa Geleneksel Terim Arındırma ve Denetim Motoru
 PROMPT.md §4.1 kapsamındaki tüm geleneksel/fıkhî terimleri arındırır.
+ÖNEMLİ NOT: Bu modül yalnızca Faz 1 bağlam taraması için yardımcı referans üretir;
+Faz 2'de ayetler eski Türkçe mealden kelime değiştirerek değil, doğrudan Arapça Rasm +
+Kilitli Sözlük + Edat/Harf-i Cer Haritası üzerinden sıfırdan çevrilir.
 """
 
 import re
@@ -461,24 +464,24 @@ _RAW_REPLACEMENTS = [
     (r'\bpeygamberle\b', 'elçiyle'),
     (r'\bpeygamber\w*', 'elçi'),
 
-    # Melek
-    (r'\bmeleklerimiz\b', 'kozmik görevlilerimiz'),
-    (r'\bmelekleridir\b', 'kozmik görevlileridir'),
-    (r'\bmeleklerine\b', 'kozmik görevlilerine'),
-    (r'\bmeleklerini\b', 'kozmik görevlilerini'),
-    (r'\bmeleklerden\b', 'kozmik görevlilerden'),
-    (r'\bmeleklere\b', 'kozmik görevlilere'),
-    (r'\bmelekleri\b', 'kozmik görevlileri'),
-    (r'\bmeleklerin\b', 'kozmik görevlilerin'),
-    (r'\bmeleklerdir\b', 'kozmik görevlilerdir'),
-    (r'\bmelekler\b', 'kozmik görevliler'),
-    (r'\bmelekle\b', 'kozmik görevliyle'),
-    (r'\bmelektir\b', 'kozmik görevlidir'),
-    (r'\bmeleğim\b', 'kozmik görevliyim'),
-    (r'\bmeleğin\b', 'kozmik görevlinin'),
-    (r'\bmeleğe\b', 'kozmik görevliye'),
-    (r'\bmeleği\b', 'kozmik görevlisi'),
-    (r'\bmelek\w*', 'kozmik görevli'),
+    # Melek (*l-'-k: buyruk ve haber taşıyan görevli elçi)
+    (r'\bmeleklerimiz\b', 'buyruk elçilerimiz'),
+    (r'\bmelekleridir\b', 'buyruk elçileridir'),
+    (r'\bmeleklerine\b', 'buyruk elçilerine'),
+    (r'\bmeleklerini\b', 'buyruk elçilerini'),
+    (r'\bmeleklerden\b', 'buyruk elçilerinden'),
+    (r'\bmeleklere\b', 'buyruk elçilerine'),
+    (r'\bmelekleri\b', 'buyruk elçileri'),
+    (r'\bmeleklerin\b', 'buyruk elçilerinin'),
+    (r'\bmeleklerdir\b', 'buyruk elçileridir'),
+    (r'\bmelekler\b', 'buyruk elçileri'),
+    (r'\bmelekle\b', 'buyruk elçisiyle'),
+    (r'\bmelektir\b', 'buyruk elçisidir'),
+    (r'\bmeleğim\b', 'buyruk elçisiyim'),
+    (r'\bmeleğin\b', 'buyruk elçisinin'),
+    (r'\bmeleğe\b', 'buyruk elçisine'),
+    (r'\bmeleği\b', 'buyruk elçisi'),
+    (r'\bmelek\w*', 'buyruk elçisi'),
 
     # Cin (cins* hariç)
     (r'\bcinlerdendi\b', 'görünmeyen bilinçli varlıklardandı'),
@@ -748,22 +751,22 @@ _RAW_REPLACEMENTS = [
     # Vefat
     (r'\bvefat\w*', 'sürecini tamamlama'),
 
-    # Yemin
-    (r'\byeminleştiğiniz\b', 'karşılıklı bağlayıcı ahit kurduğunuz'),
-    (r'\byeminlerinizden\b', 'bağlayıcı ahitlerinizden'),
-    (r'\byeminlerinizin\b', 'bağlayıcı ahitlerinizin'),
-    (r'\byeminlerinizi\b', 'bağlayıcı ahitlerinizi'),
-    (r'\byeminlerinden\b', 'bağlayıcı ahitlerinden'),
-    (r'\byeminlerini\b', 'bağlayıcı ahitlerini'),
-    (r'\byeminlerden\b', 'bağlayıcı ahitlerden'),
-    (r'\byeminlerin\b', 'bağlayıcı ahitlerin'),
-    (r'\byeminleri\b', 'bağlayıcı ahitleri'),
-    (r'\byeminini\b', 'bağlayıcı ahdini'),
-    (r'\byeminin\b', 'bağlayıcı ahdin'),
-    (r'\byeminde\b', 'bağlayıcı ahitte'),
-    (r'\byeminle\b', 'bağlayıcı ahitle'),
-    (r'\byemine\b', 'bağlayıcı ahde'),
-    (r'\byemin\w*', 'bağlayıcı ahit'),
+    # Yemin (ق-س-م / ح-ل-ف: 'and' — ع-ه-د 'ahit' ile Furûk ayrımını korur)
+    (r'\byeminleştiğiniz\b', 'karşılıklı kesin and içtiğiniz'),
+    (r'\byeminlerinizden\b', 'kesin andlarınızdan'),
+    (r'\byeminlerinizin\b', 'kesin andlarınızın'),
+    (r'\byeminlerinizi\b', 'kesin andlarınızı'),
+    (r'\byeminlerinden\b', 'kesin andlarından'),
+    (r'\byeminlerini\b', 'kesin andlarını'),
+    (r'\byeminlerden\b', 'kesin andlardan'),
+    (r'\byeminlerin\b', 'kesin andların'),
+    (r'\byeminleri\b', 'kesin andları'),
+    (r'\byeminini\b', 'kesin andını'),
+    (r'\byeminin\b', 'kesin andın'),
+    (r'\byeminde\b', 'kesin andda'),
+    (r'\byeminle\b', 'kesin andla'),
+    (r'\byemine\b', 'kesin anda'),
+    (r'\byemin\w*', 'kesin and'),
 
     # Ruh (ruhbaniyete hariç)
     (r'\bruhul kudüs\b', 'arındırıcı ilahi güç ve vahiy özü'),

@@ -67,6 +67,11 @@ Her kök çözümlemesi aşağıdaki 6 denetimden geçmeden kilitlenemez:
  - Özgün metin noktasız ve harekesiz ünsüz iskeletidir; harekeler sonradan eklenmiş yorumlardır.
  - İskeletin izin verdiği alternatif okumaları (Örn: `ملك` -> *Melik/Mâlik/Melek/Mülk* veya etken/edilgen) denetle. Harekeleme Mesânî veya bağlamla çelişiyorsa, Rasm-ı Osmânî iskeletinin izin verdiği alternatif okumayı kanıtlarıyla not düş.
 
+6. **İKİ YÖNLÜ ÖNYARGI YASAĞI (21. YÜZYIL JARGONU VE DÖNGÜSEL TERİM KİLİDİ):**
+ - Geleneksel dinî terimlerden kaçarken metinde de sözlüklerde de bulunmayan modern teknoloji/bilimkurgu jargonu (`fabrika ayarı`, `kalibrasyon`, `yazılım`, `donanım`, `program`, `sinyal`, `frekans`, `kozmik görevli`) KESİNLİKLE kullanılamaz.
+ - Bir kökün nihai tanımında (`unified_core_mechanism` ve `derivatives`), dini hiç bilmeyen bir okurun bilmeyeceği açıklanmamış başka Arapça dinî terimler (`tevhid`, `fıtrat`, `ahiret`, `secde`, `mescid`, `tevbe`, `hidayet`, `vesvese` vb.) döngüsel açıklama olarak bırakılamaz; sade, zamansız ve kendi kendine yeten Türkçe kullanılır.
+ - **Faz 2 Sıfırdan Çeviri Kuralı:** `data/quran-turkish.txt` ve `tools/tabula_rasa.py` yalnızca Faz 1'de bağlam tarama yardımcısıdır. Faz 2'de ayet blokları kesinlikle eski bir Türkçe mealde kelime değiştirerek değil; doğrudan **Arapça Rasm-ı Osmânî + Kilitli Sözlük (`locked_roots.json`) + Edat/Harf-i Cer Haritası (`particles_and_prepositions.json`)** üzerinden sıfırdan çevrilir.
+
 ---
 
 ## 5. MESÂNÎ (ZITLIK) HARİTASI REFERANS ÇİFTLERİ

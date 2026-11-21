@@ -26,7 +26,10 @@
     "roots": [
       "ك-ر-ه (`طَوْعًا وَكَرْهًا / طَوْعًا أَوْ كَرْهًا` — Gönüllü İsteyerek vs Zorla İsteksizce — 3:83, 9:53, 13:15, 41:11)",
       "ع-ص-ى (`سَمِعْنَا وَعَصَيْنَا` vs `سَمِعْنَا وَأَطَعْنَا` — İşitip Başkaldırma vs İşitip Gönülden Uyma — 2:285, 4:46, 5:7, 24:51, 33:36)",
-      "ع-ج-ز (`ٱسْتَطَاعَ` İmkanı Yetmek vs Aciz Kalmak `لَا يَسْتَطِيعُونَ` — 7:192, 18:97, 21:40)"
+      "ع-ج-ز (`ٱسْتَطَاعَ` İmkanı Yetmek vs Aciz Kalmak `لَا يَسْتَطِيعُونَ` — 7:192, 18:97, 21:40)",
+      "س-م-ع (S-M-A — Çift Yönlü Mesânî Karşılığı: 2:285, 5:7, 24:51, 2:93)",
+      "ع-ب-د (A-B-D — Çift Yönlü Mesânî Karşılığı: 36:60, 19:44)",
+      "و-ك-ل (W-K-L (wkl) — Çift Yönlü Mesânî Karşılığı: 33:48)"
     ],
     "key_ayahs": [
       "41:11 & 3:83 & 13:15 & 9:53 (ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ — gönüllü uyum ile zoraki isteksizlik zıtlığı)",
@@ -91,7 +94,7 @@
   "derivatives": {
     "أَطَاعَ (`72 V`, IV. bab) & يُطَاعُ (`2 V`, meçhul) & مُطَاع (`1 ADJ` `81:21`) & طَاعَة (`3 N`)": "Elçilere, hakka veya yanlış önderlere gönüllü ya da sözde uyma (`4:59,80,81`, `24:54`, `26:108`, `33:66`, `64:16`)",
     "ٱسْتَطَاعَ (`42 V`, X. bab: tam + `ت`si düşmüş `تَسْطِع / ٱسْطَٰعُوٓا۟`)": "Fiziksel, mâlî ve iradî imkân bulup başarabilmek (`3:97`, `18:78,82,97`, `64:16`)",
-    "طَوْعًا (`4 N`, `كَرْهًا` zıddı) & طَآئِعِينَ (`1 N` `41:11`) & تَطَوَّعَ (`2 V`, V. bab) & مُطَّوِّعِين (`1 N` `9:79`) & طَوَّعَتْ (`1 V`, II. bab `5:30`)": "Gönüllülük, kozmik uyum, zorunlu dışı ekstra hayır ve benliğin suça meyli (`2:158,184`, `5:30`, `9:79`, `41:11`)"
+    "طَوْعًا (`4 N`, `كَرْهًا` zıddı) & طَآئِعِينَ (`1 N` `41:11`) & تَطَوَّعَ (`2 V`, V. bab) & مُطَّوِّعِين (`1 N` `9:79`) & طَوَّعَتْ (`1 V`, II. bab `5:30`)": "Gönüllülük, evrensel uyum, zorunlu dışı ekstra hayır ve benliğin suça meyli (`2:158,184`, `5:30`, `9:79`, `41:11`)"
   },
   "ayah_occurrences": [
     {
@@ -211,7 +214,7 @@
         "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
       },
       "ayah_text_arabic_full": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
-      "ayah_text_turkish_tabula_rasa_full": "elçi de kendisine Rabbinden indirilene güven duy, güvene erenler da. Hepsi de Allah'a, kozmik görevlilerine, kitaplarına, elçilerine güven duy. elçilerinden hiçbirini öbüründen ayırmayız, duyduk demişlerdir ve itaat ettik, Rabbimiz, yarlıganma dileriz senden, varacağımız yer, tapındır senin.",
+      "ayah_text_turkish_tabula_rasa_full": "elçi de kendisine Rabbinden indirilene güven duy, güvene erenler da. Hepsi de Allah'a, buyruk elçilerine, kitaplarına, elçilerine güven duy. elçilerinden hiçbirini öbüründen ayırmayız, duyduk demişlerdir ve itaat ettik, Rabbimiz, yarlıganma dileriz senden, varacağımız yer, tapındır senin.",
       "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
     },
     {
@@ -1504,14 +1507,14 @@
       "target_word_rasm": "طاعة",
       "target_word_literal_irab": "Sözde değil eylemde belli olan bilinçli uyum (`طَاعَةٌ`, masdar-isim merfû)",
       "context_snippet_arabic": "قُل لَّا تُقْسِمُوا۟ طَاعَةٌ مَّعْرُوفَةٌ إِنَّ ٱللَّهَ",
-      "context_snippet_turkish_tabula_rasa": "... bağlayıcı ahit etmeyin, bu, zaten adet olan, gerekli bulunan bir itaatten ibaret; şüphe yok ki Allah, ne yaparsanız hepsinden haberdardır.",
+      "context_snippet_turkish_tabula_rasa": "... kesin and etmeyin, bu, zaten adet olan, gerekli bulunan bir itaatten ibaret; şüphe yok ki Allah, ne yaparsanız hepsinden haberdardır.",
       "morphology": {
         "lemma": "TaAEap",
         "pos": "N",
         "features": "STEM|POS:N|LEM:TaAEap|ROOT:TwE|F|INDEF|NOM"
       },
       "ayah_text_arabic_full": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ قُل لَّا تُقْسِمُوا۟ طَاعَةٌ مَّعْرُوفَةٌ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
-      "ayah_text_turkish_tabula_rasa_full": "Emredersen onlara, savaşa çıkacaklarına dair olanca kuvvetleriyle bağlayıcı ahit ederler elbette Allah'a de ki: bağlayıcı ahit etmeyin, bu, zaten adet olan, gerekli bulunan bir itaatten ibaret; şüphe yok ki Allah, ne yaparsanız hepsinden haberdardır.",
+      "ayah_text_turkish_tabula_rasa_full": "Emredersen onlara, savaşa çıkacaklarına dair olanca kuvvetleriyle kesin and ederler elbette Allah'a de ki: kesin and etmeyin, bu, zaten adet olan, gerekli bulunan bir itaatten ibaret; şüphe yok ki Allah, ne yaparsanız hepsinden haberdardır.",
       "contextual_meaning": "Sadece dil ucuyla söylenen yalancı uyum iddiası (`طَاعَةٌ` `4:81`, `24:53`, `47:21`): Somut sorumluluk saati gelince gizli niyetlerin ortaya çıkışı."
     },
     {
@@ -2152,7 +2155,7 @@
       },
       "ayah_text_arabic_full": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
       "ayah_text_turkish_tabula_rasa_full": "Sonra bir duman halinde olan göğü yaratmayı hükmetmiştir de ona ve yeryüzüne, dileyerekdilemeyerek meydana gelin demiştir, ikisi de, dileyerek geldik demişlerdir.",
-      "contextual_meaning": "Göklerin ve yerin kozmik çağrıya cevabı (`أَتَيْنَا طَآئِعِينَ` `41:11`): Evrensel yasaların zorla değil tam bir iç uyumla işleyişi."
+      "contextual_meaning": "Göklerin ve yerin evrensel çağrıya cevabı (`أَتَيْنَا طَآئِعِينَ` `41:11`): Evrensel yasaların zorla değil tam bir iç uyumla işleyişi."
     },
     {
       "surah": 43,
@@ -2564,14 +2567,14 @@
       "target_word_rasm": "تطع",
       "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
       "context_snippet_arabic": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
-      "context_snippet_turkish_tabula_rasa": "Ve itaat etme çok bağlayıcı ahit edenlerin, reyinde isabet bulunmayanların hiçbirine.",
+      "context_snippet_turkish_tabula_rasa": "Ve itaat etme çok kesin and edenlerin, reyinde isabet bulunmayanların hiçbirine.",
       "morphology": {
         "lemma": ">aTaAEa",
         "pos": "V",
         "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS"
       },
       "ayah_text_arabic_full": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
-      "ayah_text_turkish_tabula_rasa_full": "Ve itaat etme çok bağlayıcı ahit edenlerin, reyinde isabet bulunmayanların hiçbirine.",
+      "ayah_text_turkish_tabula_rasa_full": "Ve itaat etme çok kesin and edenlerin, reyinde isabet bulunmayanların hiçbirine.",
       "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
     },
     {

@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Kur'an Köksüz Edatlar, Harf-i Cerler ve Temel Özel/Ödünç Kavramlar Haritası (Tabula Rasa v3.0)",
+    "purpose": "Kur'an korpusundaki kelimelerin yaklaşık %35,5'i üçlü Arapça kök etiketi taşımaz (harf-i cerler, bağlaçlar, şart/istisna edatları ve özel/ödünç isimler). Faz 2'de ayetlerin eski bir Türkçe mealden değil doğrudan Arapça iskelet metinden sıfırdan çözümlenmesi için bu yapısal omurga kilitlenmiştir.",
+    "version": "3.0"
+  },
+  "prepositions_harf_i_cer": {
+    "بِـ": {
+      "latin": "bi-",
+      "core_vector": "Bitişme, yapışma, vasıta ve birliktelik (إلصاق / استعانة / سببية)",
+      "mechanical_rule": "Bir eylemin hangi araçla, hangi kanalla, hangi bedelle veya hangi somut dayanakla yapışık biçimde gerçekleştiğini gösterir. Fiilin anlamını değiştirir (Örn: ذَهَبَ = gitti vs ذَهَبَ بِـ = alıp götürdü; آمَنَ بِـ = bir dayanağa yapışıp güven kurdu vs آمَنَ لِـ = birinin sözüne güvendi).",
+      "quranic_anchors": ["1:1 (بِسْمِ)", "2:3 (يُؤْمِنُونَ بِٱلْغَيْبِ)", "2:17 (ذَهَبَ ٱللَّهُ بِنُورِهِمْ)", "2:16 (ٱشْتَرَوُا۟ ٱلضَّلَٰلَةَ بِٱلْهُدَىٰ)"]
+    },
+    "فِي": {
+      "latin": "fī",
+      "core_vector": "İçinde yer alma, kap/alan kuşatması ve süreç içi konum (ظرفية مكانية وزمانية)",
+      "mechanical_rule": "Mekân, zaman veya soyut bir durumun iç sınırlarını çizer; bir varlığın o alanın içine gömülü olduğunu belirtir. Bazen sebep veya karşılık yoğunluğu bildirir.",
+      "quranic_anchors": ["2:2 (لَا رَيْبَ فِيهِ)", "2:11 (لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ)", "2:179 (وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌ)", "30:2 (فِىٓ أَدْنَى ٱلْأَرْضِ)"]
+    },
+    "عَلَى": {
+      "latin": "ʿalā",
+      "core_vector": "Üstten basma, yükümlülük, aleyhine dönme ve kapsama (استعلاء)",
+      "mechanical_rule": "Fiziksel üstünlükten sorumluluk yüküne ve aleyhte tanıklığa uzanır. لِـ (lehine / faydasına) ile keskin Mesânî vektör zıtlığı kurar (2:286 لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ).",
+      "quranic_anchors": ["2:286 (لَهَا ... وَعَلَيْهَا)", "2:183 (كُتِبَ عَلَيْكُمُ)", "33:56 (يُصَلُّونَ عَلَى ٱلنَّبِىِّ)", "41:46 (فَلِنَفْسِهِۦ ... فَعَلَيْهَا)"]
+    },
+    "لِـ": {
+      "latin": "li- / la-",
+      "core_vector": "Aidiyet, tahsis, lehine olma ve amaç/gerekçe yönü (اختصاص / ملك / تعليل)",
+      "mechanical_rule": "Bir şeyin kime tahsis edildiğini, kimin yararına (lehine) işlediğini veya hangi amaçla yapıldığını belirler. عَلَى (aleyhine/yükümlülük) harf-i cerinin doğrudan zıt yönlü vektörüdür.",
+      "quranic_anchors": ["1:2 (ٱلْحَمْدُ لِلَّهِ)", "2:286 (لَهَا مَا كَسَبَتْ)", "51:56 (لِيَعْبُدُونِ)", "109:6 (لَكُمْ دِينُكُمْ وَلِىَ دِينِ)"]
+    },
+    "إِلَى": {
+      "latin": "ilā",
+      "core_vector": "Bitiş hedefi, varış noktası ve yönelim ucu (انتهاء الغاية)",
+      "mechanical_rule": "Hareketin, zamanın veya bilincin uzanıp vardığı hedef sınırı gösterir. مِنْ (çıkış/başlangıç noktası) harf-i cerinin doğrudan zıt yönlü eşleniğidir.",
+      "quranic_anchors": ["2:156 (إِلَيْهِ رَٰجِعُونَ)", "2:187 (إِلَى ٱلَّيْلِ)", "5:6 (إِلَى ٱلْمَرَافِقِ)", "94:8 (وَإِلَىٰ رَبِّكَ فَٱرْغَب)"]
+    },
+    "مِنْ": {
+      "latin": "min",
+      "core_vector": "Çıkış/başlangıç noktası, bütünden parça alma ve cins/kaynak belirtme (ابتداء / تبعيض / بيان جنس)",
+      "mechanical_rule": "Hareketin koptuğu kaynağı (ابتداء), bir bütünün içinden seçilen kısmı (تبعيض — örn. 2:3 مِمَّا رَزَقْنَٰهُمْ) veya maddenin türünü bildirir. Olumsuz cümlede kapsamı sıfırlayarak kesin genelleme yapar (مَا مِن دَآبَّةٍ).",
+      "quranic_anchors": ["2:3 (وَمِمَّا رَزَقْنَٰهُمْ)", "17:1 (مِنَ ٱلْمَسْجِدِ ... إِلَى)", "11:6 (وَمَا مِن دَآبَّةٍ)", "22:30 (مِنَ ٱلْأَوْثَٰنِ)"]
+    },
+    "عَنْ": {
+      "latin": "ʿan",
+      "core_vector": "Ayrılma, mesafe koyma, savuşturma ve bir şeyin ötesine geçme (مجاوزة)",
+      "mechanical_rule": "Bir merkezden uzaklaşmayı, sırt dönmeyi, vazgeçmeyi, bir konuyu sormayı veya bir kimsenin yerine bedel ödemeyi gösterir (Örn: رَغِبَ فِى = arzuladı vs رَغِبَ عَنْ = yüz çevirdi; أَعْرَضَ عَنْ = yan çevirdi).",
+      "quranic_anchors": ["2:48 (لَا تَجْزِى نَفْسٌ عَن نَّفْسٍ)", "2:130 (يَرْغَبُ عَن مِّلَّةِ)", "6:153 (فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ)", "78:1 (عَمَّ يَتَسَآءَلُونَ)"]
+    },
+    "كَـ": {
+      "latin": "ka-",
+      "core_vector": "Birebir benzetme ve nitelik denkliği (تشبيه)",
+      "mechanical_rule": "İki somut ya da soyut olgu arasında ortak özellik köprüsü kurar. 42:11 ayetinde لَيْسَ كَمِثْلِهِۦ شَىْءٌ kalıbıyla pekiştirme gücü taşır.",
+      "quranic_anchors": ["2:17 (مَثَلُهُمْ كَمَثَلِ)", "2:74 (كَٱلْحِجَارَةِ)", "42:11 (لَيْسَ كَمِثْلِهِۦ شَىْءٌ)", "105:5 (كَعَصْفٍ مَّأْكُولٍ)"]
+    },
+    "حَتَّى": {
+      "latin": "ḥattā",
+      "core_vector": "Süreçte aşamalı son sınıra veya kırılma eşiğine varış (غاية نهائية)",
+      "mechanical_rule": "Bir eylemin, durumun veya sürenin hangi kesin eşiğe kadar sürdüğünü ve o eşikte neyin kırıldığını gösterir.",
+      "quranic_anchors": ["2:187 (حَتَّىٰ يَتَبَيَّنَ لَكُمُ)", "2:214 (حَتَّىٰ يَقُولَ ٱلرَّسُولُ)", "13:11 (حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ)", "97:5 (حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ)"]
+    },
+    "مَعَ": {
+      "latin": "maʿa",
+      "core_vector": "Eşzamanlı birliktelik, destek ve omuzdaşlık (مصاحبة)",
+      "mechanical_rule": "İki varlığın aynı zamanda, aynı safta veya aynı hâl içinde birlikte bulunuşunu anlatır (zarftır; harf-i cer gibi işlev görür).",
+      "quranic_anchors": ["2:43 (مَعَ ٱلرَّٰكِعِينَ)", "2:153 (إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ)", "9:40 (إِنَّ ٱللَّهَ مَعَنَا)", "94:5 (فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا)"]
+    }
+  },
+  "logical_and_structural_particles": {
+    "وَ / فَـ / ثُمَّ": {
+      "category": "Bağlaç Furûku (Atıf Farkı)",
+      "mechanical_difference": "وَ (ve): Sıra ve hız şartı olmadan ortak birliktelik kurar. فَـ (hemen ardından / bu yüzden): Arada boşluk bırakmadan anlık ardışıklık veya doğrudan neden-sonuç ilişkisi kurar. ثُمَّ (sonra / aradan süre geçip): Belirgin zaman aralığı veya aşama basamağı koyar.",
+      "quranic_anchors": ["23:14 (ثُمَّ خَلَقْنَا ... فَخَلَقْنَا)", "80:21-22 (ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ * ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ)"]
+    },
+    "إِذَا / إِنْ / لَوْ": {
+      "category": "Şart Edatı Furûku (Olasılık Farkı)",
+      "mechanical_difference": "إِذَا: Gerçekleşmesi kesin veya olağan beklenen zaman/durum şartı ('vakti geldiğinde / olduğunda'). إِنْ: Gerçekleşmesi belirsiz, şüpheli veya ender olasılık şartı ('eğer / şayet'). لَوْ: Gerçekleşmemiş veya imkânsız varsayım şartı ('eğer öyle olsaydı').",
+      "quranic_anchors": ["5:6 (إِذَا قُمْتُمْ ... وَإِن كُنتُمْ مَّرْضَىٰ)", "21:22 (لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ)", "81:1 (إِذَا ٱلشَّمْسُ كُوِّرَتْ)"]
+    },
+    "إِنَّمَا / مَا ... إِلَّا": {
+      "category": "Sınırlama ve Hasr (Kesin Tahsis)",
+      "mechanical_difference": "Hükmü yalnız belirtilen unsura hapseder ve dışındaki tüm ihtimalleri eler ('yalnızca / ancak ve ancak'). Cümlenin odağını kesinleştiren mantıksal kilittir.",
+      "quranic_anchors": ["2:11 (إِنَّمَا نَحْنُ مُصْلِحُونَ)", "3:185 (وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ)", "18:110 (إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ)", "49:10 (إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ)"]
+    },
+    "بَلْ": {
+      "category": "İdrâb (Önceki İddiayı Boşa Çıkarıp Gerçeğe Çevirme)",
+      "mechanical_difference": "Önceki sanıyı ya tamamen iptal eder ya da onu aşıp daha derin gerçekliğe geçer ('hayır, bilakis / aksine'). Mesânî yüzleştirmelerinde ana dönüm noktasıdır.",
+      "quranic_anchors": ["2:154 (بَلْ أَحْيَآءٌ)", "21:18 (بَلْ نَقْذِفُ بِٱلْحَقِّ)", "75:5 (بَلْ يُرِيدُ ٱلْإِنسَٰنُ)", "87:16 (بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا)"]
+    },
+    "لَا / مَا / لَمْ / لَنْ": {
+      "category": "Olumsuzlama Furûku",
+      "mechanical_difference": "لَا: Genel/sürekli olumsuzluk veya yasak emri. مَا: Mevcut hâl veya geçmiş olguyu yadsıma. لَمْ: Geçmiş zamanı kesin biçimde sıfırlama ('hiç yapmadı'). لَنْ: Gelecek zamanı kesin ve vurgulu biçimde kapatma ('asla yapamayacak').",
+      "quranic_anchors": ["2:24 (فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟)", "112:3 (لَمْ يَلِدْ وَلَمْ يُولَدْ)"]
+    },
+    "قَدْ / سَـ / سَوْفَ": {
+      "category": "Kesinlik ve Zaman Uzaklığı",
+      "mechanical_difference": "قَدْ: Mâzî önünde kesinleşmiş gerçekleşme ('gerçekten oldu'), muzârî önünde ise bazen/kesinlikle vurgusu. سَـ: Yakın gelecek. سَوْفَ: Daha geniş vadeli kesin gelecek uyarısı.",
+      "quranic_anchors": ["23:1 (قَدْ أَفْلَحَ)", "91:9 (قَدْ أَفْلَحَ مَن زَكَّىٰهَا)", "102:3-4 (كَلَّا سَوْفَ تَعْلَمُونَ)"]
+    }
+  },
+  "rootless_core_concepts_in_corpus": {
+    "جَهَنَّم": {
+      "occurrences": 77,
+      "etymology_and_cognates": "İbranice גֵּי הִנֹּם (Gê-Hinnôm: Kudüs güneyindeki derin çukur/vadi) ve Süryanice ܓܶܗܰܢܳܐ (Gēhannā) kökenli, Arapçada derin kuyu/çukur (بِئْرٌ جِهِنَّامٌ) çağrışımıyla bütünleşmiş özel/ödünç kavram.",
+      "tabula_rasa_core": "İnsanların kendi bilinçli yıkım ve kibir seçimleriyle sürüklendikleri derin, yakıcı ve kuşatıcı karşılık çukuru (2:206, 8:37, 67:6-8)."
+    },
+    "تَوْرَاة": {
+      "occurrences": 18,
+      "etymology_and_cognates": "İbranice תּוֹרָה (Tōrāh, kök י-ר-ה *y-r-h: 'işaret etmek, yön göstermek, öğretmek, yasa koymak') karşılığı ödünç kitap adı.",
+      "tabula_rasa_core": "Mûsâ'ya ve İsrailoğullarına indirilmiş, içinde doğru yöneliş ve aydınlık bulunan önceki yazılı yasa ve öğreti külliyatı (3:3, 5:44)."
+    },
+    "إِنْجِيل": {
+      "occurrences": 12,
+      "etymology_and_cognates": "Yunanca εὐαγγέλιον (euangélion: 'iyi haber, müjde') -> Süryanice ܐܶܘܰܢܓܶܠܝܽܘܢ / Habeşçe wangel yoluyla Arapçaya yerleşmiş özel kitap adı.",
+      "tabula_rasa_core": "Meryem oğlu Îsâ'ya verilen, önceki yazılı yasayı doğrulayan ve içinde yol gösterici aydınlık bulunan iyi haber/müjde metni (3:3, 5:46)."
+    },
+    "وَيْل": {
+      "occurrences": 40,
+      "etymology_and_cognates": "Klasik Arapçada ağır felaket, yıkım ve çöküş ünlemi (İbn Fâris: و-ي-ل 'şiddetli acı ve yıkım çağrısı').",
+      "tabula_rasa_core": "Gerçeği çarpıtan, ölçüyü çalan, yetimi iten veya sorumluluğundan kopanların üzerine çökecek ağır yıkım ve hüsran uyarısı (2:79, 83:1, 104:1, 107:4)."
+    },
+    "ذُو / ذَات / ذَوِي": {
+      "occurrences": 116,
+      "etymology_and_cognates": "Proto-Sami *ḏū ('sahip olan, niteliği taşıyan' — Sebece ḏ-, İbranice zeh). Kur'an'da nitelik, mülkiyet ve öz-içerik bağlayıcısıdır.",
+      "tabula_rasa_core": "Bir niteliği, hakkı, genişliği veya özü bizzat üzerinde taşıyan ('sahip / taşıyan' — örn. ذُو ٱلْفَضْلِ, ذِى ٱلْقُرْبَىٰ, ذَاتِ ٱلصُّدُورِ)."
+    }
+  }
+}

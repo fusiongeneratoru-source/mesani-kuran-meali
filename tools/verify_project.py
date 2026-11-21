@@ -91,15 +91,43 @@ def verify_all():
         if hits:
             errors.append(f"Tabula Rasa kalıntısı ({s}:{a}): {hits}")
 
-    # 3. locked_roots.json v3.0 şema ve korpus tutarlılık kontrolü
+    # 3. locked_roots.json v3.0 şema, korpus, anakronizm ve Çift Yönlü Mesânî simetri kontrolü
     with open(os.path.join(DATA_DIR, 'locked_roots.json'), 'r', encoding='utf-8') as f:
         locked_json = json.load(f)
     locked_roots = locked_json.get('locked_roots', {})
+
+    anachronism_re = re.compile(
+        r'\b(?:fabrika ayarı|kalibrasyon|yazılım(?!lı)|donanım|kırmızı dur sinyali|yön sinyali|doğa sinyali|kozmik görevli\w*)\b',
+        re.IGNORECASE | re.UNICODE,
+    )
+    root_ref_re = re.compile(r'[\u0621-\u064a]-[\u0621-\u064a]-[\u0621-\u064a]')
 
     for ar_root, entry in locked_roots.items():
         for k in REQUIRED_LOCKED_KEYS:
             if k not in entry:
                 errors.append(f"locked_roots[{ar_root}] eksik anahtar: {k}")
+
+        if entry.get('rank') is None:
+            errors.append(f"locked_roots[{ar_root}] rank alanı boş (None)")
+
+        entry_dump = json.dumps(entry, ensure_ascii=False)
+        anach_hits = anachronism_re.findall(entry_dump)
+        if anach_hits:
+            errors.append(f"locked_roots[{ar_root}] 21. yüzyıl jargonu tespit edildi: {sorted(set(anach_hits))}")
+
+        for fld in ('unified_core_mechanism', 'derivatives'):
+            f_hits = find_forbidden_terms(json.dumps(entry.get(fld, ''), ensure_ascii=False))
+            if f_hits:
+                errors.append(f"locked_roots[{ar_root}].{fld} yasaklı geleneksel terim içeriyor: {sorted(set(f_hits))}")
+
+        # Çift Yönlü Mesânî Simetri Kilidi (A -> B varsa B -> A zorunlu)
+        mo_roots = entry.get('mesani_opposite', {}).get('roots', [])
+        mentioned_opps = set(root_ref_re.findall(json.dumps(mo_roots, ensure_ascii=False))) - {ar_root}
+        for opp_root in sorted(mentioned_opps):
+            if opp_root in locked_roots:
+                opp_mo = json.dumps(locked_roots[opp_root].get('mesani_opposite', {}).get('roots', []), ensure_ascii=False)
+                if ar_root not in opp_mo:
+                    errors.append(f"Mesânî tek yönlü simetri ihlali: {ar_root} -> {opp_root} (tersi eksik)")
 
         cfg = ROOT_CONFIG.get(ar_root)
         if not cfg:

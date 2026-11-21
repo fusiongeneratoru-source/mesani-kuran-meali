@@ -41,3 +41,11 @@ Bu kurallar, sistemdeki tüm kök analizlerinde (Faz 1) ve ayet blokları çöz�
 
 10. **Sözlükler Eleme ve Hakem Masası Kuralı (Sözlük Dogmatizmini Önleme):**
    - Hiçbir sözlük yazarının (İbn Fâris dahil) otoritesi dogmatize edilemez. *Mekâyîsü'l-Luğa*, *Kitâbü'l-Ayn*, *Lisânü'l-Arab*, *es-Sıhâh* ve *el-Müfredât* gibi klasik kaynakların iddiaları toplanır; Sami arkeolojisi, Çift Yönlü Mesânî, %100 Ayet Stres Testi ve harf-i cer vektör uyumu süzgecinden geçirilerek hakem masası kararı gerekçelendirilir.
+
+11. **İki Yönlü Önyargı ve Anakronizm Kilidi:**
+   - Geleneksel dinî kalıplardan kaçarken 21. yüzyıl teknoloji/bilimkurgu jargonu (`fabrika ayarı`, `kalibrasyon`, `yazılım`, `donanım`, `sinyal`, `kozmik görevli`) kullanılamaz; her zaman sade ve zamansız Türkçe tercih edilir.
+   - Bir kökün nihai tanımında açıklanmamış başka dinî terimler döngüsel olarak bırakılamaz ve iki ayrı tarihsel kök (örn. `*m-l-k` ile `*l-ʾ-k`) morfoloji etiketi yüzünden zorla tek çekirdeğe sıkıştırılamaz.
+
+12. **Otomatik Çift Yönlü Mesânî Simetri ve Sıfır Mükerrer Ayet Sigortası:**
+   - Kilitli bir A kökü, kilitli başka bir B kökünü `mesani_opposite.roots` alanında zıt kutup olarak gösteriyorsa; B kökünde de A'nın karşılıklı referansı zorunlu olarak bulunur (`verify_project.py` %100 simetriyi doğrular).
+   - Türkçe referans metninde (`data/quran-turkish.txt`) 6.236 ayetin tamamı birebir eşleşmek ve sıfır mükerrer ayet içermek zorundadır. Faz 2'de bu dosya değil, doğrudan Arapça Rasm + Kilitli Sözlük + Edat/Harf-i Cer Haritası esas alınır.
