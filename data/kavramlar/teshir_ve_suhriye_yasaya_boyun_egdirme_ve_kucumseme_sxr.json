@@ -1,0 +1,900 @@
+{
+  "root": "س-خ-ر",
+  "root_latin": "S-H-R (sxr)",
+  "concept_name": "Teshîr ve Suhriye (Varlıkları Yasaya/Hizmete Boyun Eğdirmek; İşbölümü Bağı; Küçümseyip Alaya Almak)",
+  "rank": 233,
+  "total_occurrences": 42,
+  "unique_ayahs_count": 35,
+  "unified_core_mechanism": "Bir varlığı veya kişiyi kendi başına buyruk konumundan indirip boyun eğdirmek ya da aşağı konumlandırmak: Bab II'de (`سَخَّرَ / مُسَخَّر`) doğa varlıklarını, gök cisimlerini, rüzgârı veya hayvanları ilahi yasaya ve karşılıksız hizmete/göreve bağlamak (`14:32-33`, `45:12-13`, `69:7`); zammeli isimde (`سُخْرِيًّا`: `43:32`) insanların birbirinin emeğinden yararlandığı işbölümü bağı kurmak; Bab I ve X'da (`سَخِرَ / يَسْتَسْخِرُونَ`) ve kesreli isimde (`سِخْرِيًّا`) ise birini küçümseyip alay konusu etmek (`11:38`, `23:110`, `49:11`).",
+  "physical_core": "Bir varlığı veya kimseyi kendi başına buyruk konumundan indirip boyun eğik, karşılıksız hizmet eder veya düşük/aşağı bir statüde konumlandırmak: Bab II'de varlıkları yasaya ve hizmete boyun eğdirmek (`سَخَّرَ`), Bab I'de ise bir kimseyi küçük ve aşağı görerek alay konusu etmek (`سَخِرَ`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün tek, kesintisiz ve dosdoğru aslının 'küçük düşürüp boyun eğdirme (`احتقار واستذلال`)' olduğunu saptar; hem Allah'ın gökleri ve yeri emrine boyun eğdirmesini (`ذلله لأمره وإرادته`) hem de birini küçük görerek alay etmeyi (`سخرت منه`) aynı kökten çıkarır.",
+    "lisan_al_arab": "İbn Manzûr `سَخَّرَهُ: كَلَّفَهُ عَمَلًا بِلَا أُجْرَةٍ` ('karşılıksız hizmete ve işe boyun eğdirdi') tanımını verir; `سِخْرِيًّا` (kesre ile alay) ve `سُخْرِيًّا` (zamme ile hizmet/işbirliği için birbirinden yararlanma) arasındaki ses ve anlam ayrımına dikkat çeker.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `التسخير: السياقة إلى الغرض المختص قهراً` ('bir varlığı belirli bir amaca zorunlu yasayla sevk edip boyun eğdirmek') tanımıyla Bab II'nin kozmik mekanizmasını kesinleştirir.",
+    "arbitration_decision": "Hakem Masası Kararı: Geleneksel okuma `س-خ-ر` kökünü 'emrine vermek' ve 'alay etmek' diye sanki iki alakasız kelime gibi böler. İbn Fâris'in saptadığı tek çekirdek (`احتقار واستذلال` — boyun eğdirme / aşağı konumlandırma) iki dalı tek mekanizmada birleştirir: (1) Bab II (`سَخَّرَ / مُسَخَّرَات` — 26 geçiş) güneş, ay, gece-gündüz, bulut, deniz, gemi, dağ, rüzgâr ve hayvanları kendi iradeleriyle başkaldıramayacak şekilde ilahi yasaya boyun eğdirip karşılıksız hizmete/göreve bağlamaktır (69:7'de ise aynı mekanizma yıkıcı fırtınayı Âd kavminin üzerine salmak için `عَلَىٰ` ile döner). (2) Bab I ve X (`سَخِرَ / يَسْتَسْخِرُونَ` — 13 geçiş) ile kesreli `سِخْرِيًّا` (23:110, 38:63) insanı küçümseyip alay konusu etmektir. (3) Zammeli `سُخْرِيًّا` (43:32 `لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا`) ise köleleştirme veya alay değil, insanların farklı imkân ve yetkinliklerle birbirinin emeğinden yararlanacağı karşılıklı işbölümü ve hizmet bağıdır."
+  },
+  "semitic_cognates": {
+    "note": "Klasik Arapça'da س-خ-ر kökü 'karşılıksız boyun eğdirip işe koşma / küçümseyip alay etme' anlam ikilisiyle belirginleşir; İbranice שָׂכַר (*śāḵar* 'ücretle kiralamak') Proto-Sami *s₂ sesine (Arapça ش) ve farklı 2. harfe (ك) ait olup farklı köktür; canlı aramada başka Sami dillerde doğrulanmış doğrudan eşkökenli fiil saptanmadığından zorlama yapılmadı."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ك-ب-ر [وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَٰمَةِ / لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ] (Kendini Üstün Görüp Başkasını Küçümsemek ↔ Gerçek Değerde Üstünlük ve Saygı: 2:212, 49:11)",
+      "ش-ك-ر [كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ / سَخَّرَ لَكُمُ ٱلْبَحْرَ ... وَلَعَلَّكُمْ تَشْكُرُونَ] (Varlıkların Karşılıksız Hizmete Boyun Eğdirilmesi ↔ İnsanın Bu Düzenin Değerini Bilip Karşılık Vermesi: 22:36, 45:12)",
+      "أ-م-ر [مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ / تَجْرِى بِأَمْرِهِۦ] (Yaratılışın İlahi Yasaya Tam Boyun Eğişi ↔ İnsanın Kibirle Alay Edip Direnmesi: 7:54, 16:12, 38:36, 37:14)"
+    ],
+    "key_ayahs": [
+      "7:54 & 16:12 (güneş, ay ve yıldızların O'nun buyruğuyla yasaya boyun eğdirilmiş [مُسَخَّرَٰتٌ] oluşu)",
+      "14:32-33 & 45:12-13 (göklerdeki ve yerdeki varlıkların insanın yararına hizmete boyun eğdirilmesi)",
+      "43:32 (لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا — insanların karşılıklı işbölümü ve hizmet bağıyla birbirinden yararlanması)",
+      "11:38 & 49:11 (Nûh ile alay eden elitler ve bir topluluğun başka bir topluluğu küçümseyip alaya alma yasağı)",
+      "69:7 (سَخَّرَهَا عَلَيْهِمْ — fırtınanın azgın kavmin üzerine yıkıcı yasayla salınması)"
+    ],
+    "reverse_stress_test": "Başıboş, düzensiz ve hizmet dışı kalmanın (Bab II'nin tersi) ile karşısındakine saygı duyup kıymet vermenin (Bab I'in tersi) karşıtına bakıldığında, `س-خ-ر` kökünün 'boyun eğdirip hizmete/yasaya bağlamak veya küçük görüp aşağılamak' çekirdeği tüm 42 geçişi tek eksende kilitler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "سِخْرِيًّا (S-H-R Kesreli İsim: Küçümseme ve Alay Konusu) vs سُخْرِيًّا (S-H-R Zammeli İsim: Karşılıklı İşbölümü ve Hizmet Bağı) [23:110, 38:63 vs 43:32]",
+      "لَا يَسْخَرْ (S-H-R: Başkasını Küçük Görüp Alaya Almak) vs لَا تَلْمِزُوٓا۟ (L-M-Z: İğneleyip Kusur Aramak) vs لَا تَنَابَزُوا۟ (N-B-Z: Kötü Lakap Takmak) [49:11]",
+      "سَخَّرَ (S-H-R: Karşılıksız Yasaya ve Hizmete Boyun Eğdirmek) vs سَلَّطَ (S-L-T: Üstün Güçle Musallat/Hâkim Kılmak) [45:13 vs 59:6]"
+    ],
+    "mechanical_difference": "1) Hareke farkı anlamı kesin ayırır: kesreli `سِخْرِيًّا` (23:110, 38:63) alay ve hor görmeyi, zammeli `سُخْرِيًّا` (43:32) ise insanların geçim ve hizmette birbirine karşılıklı iş gördürmesini bildirir. 2) 49:11'de `سُخْرِيَة` genel küçümseme ve alayı, `لَمْز` söz/bakışla iğnelemeyi, `تَنَابُز` ise aşağılayıcı lakap takmayı ayrıştırır. 3) `تَسْخِير` çoğunlukla fayda ve kozmik düzen için (69:7 hariç `عَلَىٰ` ile) boyun eğdirmeyi, `تَسْلِيط` ise sert güç üstünlüğünü anlatır."
+  },
+  "anchor_ayahs": [
+    "7:54 & 16:12 (مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ — güneş, ay ve yıldızların ilahi buyrukla yasaya boyun eğmiş işleyişi)",
+    "45:12-13 (سَخَّرَ لَكُمُ ٱلْبَحْرَ ... وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ — evrenin insanın yararına yasalı hizmete bağlanması)",
+    "43:32 (لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا — toplumsal işbölümü ve karşılıklı hizmet bağı)",
+    "49:11 (لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ — toplulukların birbirini küçümseyip alaya almasının yasaklanması)",
+    "11:38 & 9:79 (alay edenlere hak ettikleri karşılığın dönmesi: سَخِرَ ٱللَّهُ مِنْهُمْ)"
+  ],
+  "grammar_and_branch_rules": "1) Kozmik ve Doğal Yasaya/Hizmete Boyun Eğdirme — Bab II (`سَخَّرَ / مُسَخَّر / مُسَخَّرَات` — 25 geçiş: 2:164, 7:54, 13:2, 14:32-33, 16:12/14/79, 21:79, 22:36-37/65, 29:61, 31:20/29, 35:13, 38:18/36, 39:5, 43:13, 45:12-13): Gök cisimleri, bulutlar, kuşlar, denizler, gemiler, dağlar, rüzgâr ve bineklerin insanın yararına veya elçilerin görevine boyun eğdirilmesi. 2) Cezalandırıcı Doğa Gücünü Üzerlerine Salma — Bab II + `عَلَىٰ` (`69:7` — 1 geçiş): Fırtınanın azgın topluluğun üzerine boyun eğdirilip salınması. 3) Toplumsal İşbölümü ve Karşılıklı Hizmet Bağı (`43:32` — `سُخْرِيًّا` zammeli 1 geçiş): İnsanların farklı imkânlarla birbirine iş gördürmesi. 4) Küçümseyip Alaya Alma — Bab I & X (`2:212`, `6:10`, `9:79`, `11:38`, `21:41`, `23:110`, `37:12`, `37:14`, `38:63`, `39:56`, `49:11` — 15 geçiş): Hakikatle veya diğer insanlarla alay etme ve bu alayın sahibine geri dönmesi (`9:79 سَخِرَ ٱللَّهُ مِنْهُمْ`).",
+  "derivatives": {
+    "سَخَّرَ / سَخَّرْنَا (Bab II Fiil - 22 geçiş)": "Bir varlığı veya doğa gücünü ilahi yasaya tam boyun eğdirerek belirli bir hizmete/göreve bağlamak (لِـ ile faydaya, 69:7'de عَلَىٰ ile yıkıma).",
+    "مُسَخَّر / مُسَخَّرَات (Bab II İsm-i Mef'ûl - 4 geçiş: 2:164, 7:54, 16:12, 16:79)": "Kendi başına buyruk olmayıp ilahi buyruk ve yasaya tam boyun eğdirilmiş bulut, gök cismi ve kuşlar.",
+    "سُخْرِيًّا (Zammeli İsim - 1 geçiş: 43:32)": "İnsanların birbirinin emeğinden ve işinden yararlandığı karşılıklı hizmet ve işbölümü bağı.",
+    "سَخِرَ / يَسْخَرُ / نَسْخَرُ (Bab I Fiil - 11 geçiş)": "Karşısındakini küçük ve aşağı görüp alaya almak; 9:79 ve 11:38'de alaycıların kendilerinin küçük düşürülüp karşılık görmesi.",
+    "يَسْتَسْخِرُونَ (Bab X Fiil - 1 geçiş: 37:14)": "Kanıtlar karşısında ısrarla alay üretip birbirini alaya çağırmak.",
+    "سِخْرِيًّا / ٱلسَّٰخِرِينَ (Kesreli İsim & Bab I İsm-i Fâil - 3 geçiş: 23:110, 38:63, 39:56)": "Alay ve küçümseme nesnesi (`سِخْرِيًّا`); alaycı kesim (`ٱلسَّٰخِرِينَ`)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 164,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:164",
+      "word_position": 37,
+      "target_word_uthmani": "ٱلْمُسَخَّرِ",
+      "target_word_rasm": "ٱلمسخر",
+      "target_word_literal_irab": "Gök ile yer arasında ilahi yasaya tam boyun eğdirilmiş bulut (ٱلْمُسَخَّرِ — Bab II tekil ism-i mef'ûl: 2:164)",
+      "context_snippet_arabic": "وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yeryüzünün yaratılışında, gece ile gündüzün birbiri ardınca gelişinde, insanlara fayda vermek üzere denizde yürüyüp giden gemide, Allah'ın, gökten yağmur yağdırarak yeryüzünü, ölümünden sonra diriltmesinde, sonra da yeryüzüne, yürüyen hayvanları yaymasında, yelleri dilediği gibi estirip değiştirmesinde, gökle yer arasında emrine münkad olan bulutta, şüphe yok ki aklı erenler için varlığına, birliğine deliller var.",
+      "morphology": {
+        "lemma": "musax~ar",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(II)|LEM:musax~ar|ROOT:sxr|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yeryüzünün yaratılışında, gece ile gündüzün birbiri ardınca gelişinde, insanlara fayda vermek üzere denizde yürüyüp giden gemide, Allah'ın, gökten yağmur yağdırarak yeryüzünü, ölümünden sonra diriltmesinde, sonra da yeryüzüne, yürüyen hayvanları yaymasında, yelleri dilediği gibi estirip değiştirmesinde, gökle yer arasında emrine münkad olan bulutta, şüphe yok ki aklı erenler için varlığına, birliğine deliller var.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 2,
+      "ayah": 212,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:212",
+      "word_position": 6,
+      "target_word_uthmani": "وَيَسْخَرُونَ",
+      "target_word_rasm": "ويسخرون",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlara dünya yaşayışı, süslü gösterildi de güvene erenlerin bir kısmıyla alay ediyorlar. Fakat Allah'tan sakınan güven bağı sahipleri, kıyamet gününde onlardan üstündür. ...",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:saxira|ROOT:sxr|3MP"
+      },
+      "ayah_text_arabic_full": "زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlara dünya yaşayışı, süslü gösterildi de güvene erenlerin bir kısmıyla alay ediyorlar. Fakat Allah'tan sakınan güven bağı sahipleri, kıyamet gününde onlardan üstündür. Allah, dilediğine sayısız nimet verir.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 10,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:10",
+      "word_position": 8,
+      "target_word_uthmani": "سَخِرُوا۟",
+      "target_word_rasm": "سخروا",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Senden önceki elçilerle de alay edildi de alay edenler, alaylarının cezasına uğradılar.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:saxira|ROOT:sxr|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önceki elçilerle de alay edildi de alay edenler, alaylarının cezasına uğradılar.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 54,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:54",
+      "word_position": 23,
+      "target_word_uthmani": "مُسَخَّرَٰتٍۭ",
+      "target_word_rasm": "مسخرت",
+      "target_word_literal_irab": "İlahi buyruk ve yasaya tam boyun eğdirilmiş gök cisimleri ve kuşlar (مُسَخَّرَٰتٌ / مُسَخَّرَٰتٍ — Bab II çoğul ism-i mef'ûl: 7:54, 16:12, 16:79)",
+      "context_snippet_arabic": "وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ",
+      "context_snippet_turkish_tabula_rasa": "... aceleyle ve durmadan geceyi takib eden gündüze gecenin örtüsünü atar, o örtüyle örter onu ve güneş de onun emrine ram olmuştur, ay da, yıldızlar da. İyice bil ki yaratış da onun, buyruk da; ...",
+      "morphology": {
+        "lemma": "musax~ara`t",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:musax~ara`t|ROOT:sxr|FP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok, Rabbimiz, öyle bir Allah'tır ki gökleri ve yeryüzünü altı günde yaratmıştır da sonra Arşa hakim ve mutasarrıf olmuştur; aceleyle ve durmadan geceyi takib eden gündüze gecenin örtüsünü atar, o örtüyle örter onu ve güneş de onun emrine ram olmuştur, ay da, yıldızlar da. İyice bil ki yaratış da onun, buyruk da; alemlerin Rabbi Allah'ın şanı ne de yücedir.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 9,
+      "ayah": 79,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:79",
+      "word_position": 13,
+      "target_word_uthmani": "فَيَسْخَرُونَ",
+      "target_word_rasm": "فيسخرون",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ سَخِرَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, istekleriyle ve farz edilenden fazla tasadduk edenlerle ve güçleri neye yetiyorsa ancak o kadar verenlerle alay edip onları ayıplayanları Allah, bu hareketlerinin karşılığı olarak cezalandırır ve onlar için elemli bir azap var.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:saxira|ROOT:sxr|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, istekleriyle ve farz edilenden fazla tasadduk edenlerle ve güçleri neye yetiyorsa ancak o kadar verenlerle alay edip onları ayıplayanları Allah, bu hareketlerinin karşılığı olarak cezalandırır ve onlar için elemli bir azap var.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 79,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:79",
+      "word_position": 15,
+      "target_word_uthmani": "سَخِرَ",
+      "target_word_rasm": "سخر",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, istekleriyle ve farz edilenden fazla tasadduk edenlerle ve güçleri neye yetiyorsa ancak o kadar verenlerle alay edip onları ayıplayanları Allah, bu hareketlerinin karşılığı olarak cezalandırır ve onlar için elemli bir azap var.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:saxira|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, istekleriyle ve farz edilenden fazla tasadduk edenlerle ve güçleri neye yetiyorsa ancak o kadar verenlerle alay edip onları ayıplayanları Allah, bu hareketlerinin karşılığı olarak cezalandırır ve onlar için elemli bir azap var.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 38,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:38",
+      "word_position": 9,
+      "target_word_uthmani": "سَخِرُوا۟",
+      "target_word_rasm": "سخروا",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن",
+      "context_snippet_turkish_tabula_rasa": "Gemiyi yapmaya koyulmuştu ve kavminin ileri gelenleri, yanından geçerken alay ediyorlardı onunla, o da, alay ediyorsunuz bizimle ama diyordu, siz nasıl alay ediyorsanız biz de sizinle öyle alay edeceğiz.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:saxira|ROOT:sxr|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gemiyi yapmaya koyulmuştu ve kavminin ileri gelenleri, yanından geçerken alay ediyorlardı onunla, o da, alay ediyorsunuz bizimle ama diyordu, siz nasıl alay ediyorsanız biz de sizinle öyle alay edeceğiz.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 38,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:38",
+      "word_position": 13,
+      "target_word_uthmani": "تَسْخَرُوا۟",
+      "target_word_rasm": "تسخروا",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "مِنْهُ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ",
+      "context_snippet_turkish_tabula_rasa": "Gemiyi yapmaya koyulmuştu ve kavminin ileri gelenleri, yanından geçerken alay ediyorlardı onunla, o da, alay ediyorsunuz bizimle ama diyordu, siz nasıl alay ediyorsanız biz de sizinle öyle alay edeceğiz.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:saxira|ROOT:sxr|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gemiyi yapmaya koyulmuştu ve kavminin ileri gelenleri, yanından geçerken alay ediyorlardı onunla, o da, alay ediyorsunuz bizimle ama diyordu, siz nasıl alay ediyorsanız biz de sizinle öyle alay edeceğiz.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 38,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:38",
+      "word_position": 16,
+      "target_word_uthmani": "نَسْخَرُ",
+      "target_word_rasm": "نسخر",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gemiyi yapmaya koyulmuştu ve kavminin ileri gelenleri, yanından geçerken alay ediyorlardı onunla, o da, alay ediyorsunuz bizimle ama diyordu, siz nasıl alay ediyorsanız biz de sizinle öyle alay edeceğiz.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:saxira|ROOT:sxr|1P"
+      },
+      "ayah_text_arabic_full": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gemiyi yapmaya koyulmuştu ve kavminin ileri gelenleri, yanından geçerken alay ediyorlardı onunla, o da, alay ediyorsunuz bizimle ama diyordu, siz nasıl alay ediyorsanız biz de sizinle öyle alay edeceğiz.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 38,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:38",
+      "word_position": 19,
+      "target_word_uthmani": "تَسْخَرُونَ",
+      "target_word_rasm": "تسخرون",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gemiyi yapmaya koyulmuştu ve kavminin ileri gelenleri, yanından geçerken alay ediyorlardı onunla, o da, alay ediyorsunuz bizimle ama diyordu, siz nasıl alay ediyorsanız biz de sizinle öyle alay edeceğiz.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:saxira|ROOT:sxr|2MP"
+      },
+      "ayah_text_arabic_full": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gemiyi yapmaya koyulmuştu ve kavminin ileri gelenleri, yanından geçerken alay ediyorlardı onunla, o da, alay ediyorsunuz bizimle ama diyordu, siz nasıl alay ediyorsanız biz de sizinle öyle alay edeceğiz.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 13,
+      "ayah": 2,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:2",
+      "word_position": 12,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir Allah'tır ki görmekte olduğunuz gökleri direksiz yüceltmiştir de sonra arşa hakim ve mutasarrıf olmuştur ve güneşi ve ayı ram etmiştir, hepsi de...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْءَايَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir Allah'tır ki görmekte olduğunuz gökleri direksiz yüceltmiştir de sonra arşa hakim ve mutasarrıf olmuştur ve güneşi ve ayı ram etmiştir, hepsi de muayyen bir zamana dek yürürgider. Rabbinize kavuşacağınızı iyice anlamanız için işleri tedbir ve tasarruf edip yapan odur, delilleri bildirip açıklayan o.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 14,
+      "ayah": 32,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:32",
+      "word_position": 16,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ",
+      "context_snippet_turkish_tabula_rasa": "Bir Allah'tır ki gökleri ve yeryüzünü yaratmıştır ve gökten yağmur yağdırıp o suretle size rızık olarak meyveler bitirmiştir ve emriyle denizde akıp giden...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَسَخَّرَ لَكُمُ ٱلْأَنْهَٰرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir Allah'tır ki gökleri ve yeryüzünü yaratmıştır ve gökten yağmur yağdırıp o suretle size rızık olarak meyveler bitirmiştir ve emriyle denizde akıp giden gemileri ram etmiştir size ve ram etmiştir ırmakları size.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 14,
+      "ayah": 32,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:32",
+      "word_position": 23,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَسَخَّرَ لَكُمُ ٱلْأَنْهَٰرَ",
+      "context_snippet_turkish_tabula_rasa": "Bir Allah'tır ki gökleri ve yeryüzünü yaratmıştır ve gökten yağmur yağdırıp o suretle size rızık olarak meyveler bitirmiştir ve emriyle denizde akıp giden...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَسَخَّرَ لَكُمُ ٱلْأَنْهَٰرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir Allah'tır ki gökleri ve yeryüzünü yaratmıştır ve gökten yağmur yağdırıp o suretle size rızık olarak meyveler bitirmiştir ve emriyle denizde akıp giden gemileri ram etmiştir size ve ram etmiştir ırmakları size.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 14,
+      "ayah": 33,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:33",
+      "word_position": 1,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ",
+      "context_snippet_turkish_tabula_rasa": "Ve devir ve hizmetlerinde daim olan güneşle ayı ram etmiştir geceyle gündüzü size.",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve devir ve hizmetlerinde daim olan güneşle ayı ram etmiştir geceyle gündüzü size.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 14,
+      "ayah": 33,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:33",
+      "word_position": 6,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "context_snippet_turkish_tabula_rasa": "Ve devir ve hizmetlerinde daim olan güneşle ayı ram etmiştir geceyle gündüzü size.",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve devir ve hizmetlerinde daim olan güneşle ayı ram etmiştir geceyle gündüzü size.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 16,
+      "ayah": 12,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:12",
+      "word_position": 1,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "context_snippet_turkish_tabula_rasa": "Ve ram etmiştir size geceyle gündüzü, güneşle ayı; yıldızlar da ram olmuştur emriyle. Şüphe yok ki bunda, akıl eden topluluk için deliller var.",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ram etmiştir size geceyle gündüzü, güneşle ayı; yıldızlar da ram olmuştur emriyle. Şüphe yok ki bunda, akıl eden topluluk için deliller var.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 16,
+      "ayah": 12,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:12",
+      "word_position": 8,
+      "target_word_uthmani": "مُسَخَّرَٰتٌۢ",
+      "target_word_rasm": "مسخرت",
+      "target_word_literal_irab": "İlahi buyruk ve yasaya tam boyun eğdirilmiş gök cisimleri ve kuşlar (مُسَخَّرَٰتٌ / مُسَخَّرَٰتٍ — Bab II çoğul ism-i mef'ûl: 7:54, 16:12, 16:79)",
+      "context_snippet_arabic": "وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ إِنَّ فِى",
+      "context_snippet_turkish_tabula_rasa": "Ve ram etmiştir size geceyle gündüzü, güneşle ayı; yıldızlar da ram olmuştur emriyle. Şüphe yok ki bunda, akıl eden topluluk için deliller var.",
+      "morphology": {
+        "lemma": "musax~ara`t",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:musax~ara`t|ROOT:sxr|FP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ram etmiştir size geceyle gündüzü, güneşle ayı; yıldızlar da ram olmuştur emriyle. Şüphe yok ki bunda, akıl eden topluluk için deliller var.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 16,
+      "ayah": 14,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:14",
+      "word_position": 3,
+      "target_word_uthmani": "سَخَّرَ",
+      "target_word_rasm": "سخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki ram etmiştir size denizi ondan çıkan terütaze balıkları yemeniz, çıkardığınız ziynet eşyasını takınmanız için ve görürsün ki gemi,...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki ram etmiştir size denizi ondan çıkan terütaze balıkları yemeniz, çıkardığınız ziynet eşyasını takınmanız için ve görürsün ki gemi, denizde, suları yarayara gitmede; ram etmiştir size denizi, nasibinizi onun lutfundan arayıp bularak nimetin değerini bilip açığa vurasınız diye.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 16,
+      "ayah": 79,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:79",
+      "word_position": 5,
+      "target_word_uthmani": "مُسَخَّرَٰتٍ",
+      "target_word_rasm": "مسخرت",
+      "target_word_literal_irab": "İlahi buyruk ve yasaya tam boyun eğdirilmiş gök cisimleri ve kuşlar (مُسَخَّرَٰتٌ / مُسَخَّرَٰتٍ — Bab II çoğul ism-i mef'ûl: 7:54, 16:12, 16:79)",
+      "context_snippet_arabic": "يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍ فِى جَوِّ ٱلسَّمَآءِ",
+      "context_snippet_turkish_tabula_rasa": "Gökle yer arasında uçup duran kuşları görmezler mi? Onları boşlukta tutan, ancak Allah'tır. Şüphe yok ki bunda da güvene eren topluluğa deliller var.",
+      "morphology": {
+        "lemma": "musax~ara`t",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:musax~ara`t|ROOT:sxr|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökle yer arasında uçup duran kuşları görmezler mi? Onları boşlukta tutan, ancak Allah'tır. Şüphe yok ki bunda da güvene eren topluluğa deliller var.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 21,
+      "ayah": 41,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:41",
+      "word_position": 8,
+      "target_word_uthmani": "سَخِرُوا۟",
+      "target_word_rasm": "سخروا",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki senden önceki elçilerle de alay edilmiştir de onlarla alayları yüzünden alay ettikleri azaba uğrayıvermişlerdir.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:saxira|ROOT:sxr|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki senden önceki elçilerle de alay edilmiştir de onlarla alayları yüzünden alay ettikleri azaba uğrayıvermişlerdir.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 79,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:79",
+      "word_position": 7,
+      "target_word_uthmani": "وَسَخَّرْنَا",
+      "target_word_rasm": "وسخرنا",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ",
+      "context_snippet_turkish_tabula_rasa": "O hükmü, biz anlatmıştık Süleyman'a ve hepsine de elçilik görevi ve bilgi vermiştik ve beraberce sığınak mercii (ilâh) tenzih etmek için dağları ve kuşları,...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|1P"
+      },
+      "ayah_text_arabic_full": "فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O hükmü, biz anlatmıştık Süleyman'a ve hepsine de elçilik görevi ve bilgi vermiştik ve beraberce sığınak mercii (ilâh) tenzih etmek için dağları ve kuşları, Davud'a ram ettik ve bunları yaptık, gücümüz yeter yapmaya.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 22,
+      "ayah": 36,
+      "surah_name": "Hac",
+      "ayah_ref": "22:36",
+      "word_position": 24,
+      "target_word_uthmani": "سَخَّرْنَٰهَا",
+      "target_word_rasm": "سخرنها",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱلْقَانِعَ وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Büyük develeri de Allah'ın size meşru kıldığı yakınlaşma sunusu hayvanlar olarak yarattık, onlarda hayır ve menfaat var size. Artık onlar, ayaktayken onları...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|1P"
+      },
+      "ayah_text_arabic_full": "وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Büyük develeri de Allah'ın size meşru kıldığı yakınlaşma sunusu hayvanlar olarak yarattık, onlarda hayır ve menfaat var size. Artık onlar, ayaktayken onları boğazlayın ve Allah'ın adını anın, yanüstü düştükleri zaman da hem siz yiyin ondan, hem de yoksulluğunu bildirip isteyen ve gizleyip istemeyen yoksulları doyurun; siz nimetin değerini bilip açığa vurasınız diye böylece onları da ram ettik size.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 22,
+      "ayah": 37,
+      "surah_name": "Hac",
+      "ayah_ref": "22:37",
+      "word_position": 12,
+      "target_word_uthmani": "سَخَّرَهَا",
+      "target_word_rasm": "سخرها",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱلتَّقْوَىٰ مِنكُمْ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Onların ne etleri Allah'a ulaşır, ne kanları, fakat sizin çekinmenizdir ki ona ulaşır. Sizi doğru yola sevkettiğinden dolayı Allah'ı büyük bilmeniz için onları...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَبَشِّرِ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların ne etleri Allah'a ulaşır, ne kanları, fakat sizin çekinmenizdir ki ona ulaşır. Sizi doğru yola sevkettiğinden dolayı Allah'ı büyük bilmeniz için onları da ram etti size ve müjdele iyilik edenleri.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 22,
+      "ayah": 65,
+      "surah_name": "Hac",
+      "ayah_ref": "22:65",
+      "word_position": 5,
+      "target_word_uthmani": "سَخَّرَ",
+      "target_word_rasm": "سخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى",
+      "context_snippet_turkish_tabula_rasa": "Görmez misin, şüphe yok ki Allah, ram etmiştir size yeryüzünde ne varsa ve emriyle denizde akıp giden gemiyi ve izni olmadıkça gökyüzünü yeryüzüne yıkmaz da...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلْأَرْضِ وَٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَيُمْسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلْأَرْضِ إِلَّا بِإِذْنِهِۦٓ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmez misin, şüphe yok ki Allah, ram etmiştir size yeryüzünde ne varsa ve emriyle denizde akıp giden gemiyi ve izni olmadıkça gökyüzünü yeryüzüne yıkmaz da tutar; şüphe yok ki Allah, insanları pek esirger ve rahimdir.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 23,
+      "ayah": 110,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:110",
+      "word_position": 2,
+      "target_word_uthmani": "سِخْرِيًّا",
+      "target_word_rasm": "سخريا",
+      "target_word_literal_irab": "Küçümseme ve alay nesnesi (سِخْرِيًّا — kesreli isim: 23:110, 38:63)",
+      "context_snippet_arabic": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى",
+      "context_snippet_turkish_tabula_rasa": "Halbuki siz, onları alaya aldınız da sonunda beni anmayı unutturdu size bu hal ve siz onlara gülerdiniz.",
+      "morphology": {
+        "lemma": "sixoriy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sixoriy~|ROOT:sxr|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Halbuki siz, onları alaya aldınız da sonunda beni anmayı unutturdu size bu hal ve siz onlara gülerdiniz.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 29,
+      "ayah": 61,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:61",
+      "word_position": 7,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ لَيَقُولُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki onlara, kim yarattı gökleri ve yeryüzünü ve kim ram etti güneşi ve ayı diye sorsan Allah derler mutlaka, o halde ne diye ona kulluktan dönüp...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ لَيَقُولُنَّ ٱللَّهُ فَأَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki onlara, kim yarattı gökleri ve yeryüzünü ve kim ram etti güneşi ve ayı diye sorsan Allah derler mutlaka, o halde ne diye ona kulluktan dönüp uydurma şeylere kapılıyorlar?",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 31,
+      "ayah": 20,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:20",
+      "word_position": 5,
+      "target_word_uthmani": "سَخَّرَ",
+      "target_word_rasm": "سخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى",
+      "context_snippet_turkish_tabula_rasa": "Görmediler mi ki gerçekten de Allah, ram etti size ne varsa göklerde ve ne varsa yeryüzünde ve görünen ve gizli olan nimetlerini size yaydı, tamamladı ve...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَٰهِرَةً وَبَاطِنَةً وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَٰبٍ مُّنِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmediler mi ki gerçekten de Allah, ram etti size ne varsa göklerde ve ne varsa yeryüzünde ve görünen ve gizli olan nimetlerini size yaydı, tamamladı ve insanlar içinde, Allah hakkında mücadeleye girişen var bilgisi, delili ve aydınlatıcı bir kitabı yokken.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 31,
+      "ayah": 29,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:29",
+      "word_position": 13,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ",
+      "context_snippet_turkish_tabula_rasa": "Görmedin mi ki Allah, geceyi kısaltır, bir kısmı gündüz olur, gündüzü kısaltır, bir kısmı gece olur ve ram etmiştir güneşi ve ayı; hepsi de mukadder bir zamana kadar yollarında akıp durur ve şüphe yok ki Allah, ne yapıyorsanız hepsinden de haberdardır.",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmedin mi ki Allah, geceyi kısaltır, bir kısmı gündüz olur, gündüzü kısaltır, bir kısmı gece olur ve ram etmiştir güneşi ve ayı; hepsi de mukadder bir zamana kadar yollarında akıp durur ve şüphe yok ki Allah, ne yapıyorsanız hepsinden de haberdardır.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 35,
+      "ayah": 13,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:13",
+      "word_position": 9,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ",
+      "context_snippet_turkish_tabula_rasa": "Ve geceyi kısaltır, bir kısmı gündüz olur, gündüzü kısaltır, bir kısmı gece olur ve ram etmiştir güneşi ve ayı; hepsi de mukadder bir zamana kadar yollarında akardurur; ...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve geceyi kısaltır, bir kısmı gündüz olur, gündüzü kısaltır, bir kısmı gece olur ve ram etmiştir güneşi ve ayı; hepsi de mukadder bir zamana kadar yollarında akardurur; işte budur Rabbiniz Allah ve onundur saltanat ve tasarruf; onlar ki onu bırakıp da putlara taparlar, o putlar, çekirdeğin içindeki tek bir kıla bile sahip değildirler.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 37,
+      "ayah": 12,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:12",
+      "word_position": 3,
+      "target_word_uthmani": "وَيَسْخَرُونَ",
+      "target_word_rasm": "ويسخرون",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Belki de şaştın sen ve alay eder onlar da.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:saxira|ROOT:sxr|3MP"
+      },
+      "ayah_text_arabic_full": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Belki de şaştın sen ve alay eder onlar da.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 14,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:14",
+      "word_position": 4,
+      "target_word_uthmani": "يَسْتَسْخِرُونَ",
+      "target_word_rasm": "يستسخرون",
+      "target_word_literal_irab": "Kanıtlar karşısında ısrarla alay üretip birbirini alaya çağırırlar (يَسْتَسْخِرُونَ — Bab X muzâri fiil: 37:14)",
+      "context_snippet_arabic": "وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve bir delil gördüler mi alay etmeye kalkarlar.",
+      "morphology": {
+        "lemma": "yasotasoxiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:yasotasoxiru|ROOT:sxr|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bir delil gördüler mi alay etmeye kalkarlar.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 38,
+      "ayah": 18,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:18",
+      "word_position": 2,
+      "target_word_uthmani": "سَخَّرْنَا",
+      "target_word_rasm": "سخرنا",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe.yok ki biz, dağları ram etmiştik ona, akşam ve kuşluk çağlarında, onunla beraber Rabbi tenzih ederlerdi.",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe.yok ki biz, dağları ram etmiştik ona, akşam ve kuşluk çağlarında, onunla beraber Rabbi tenzih ederlerdi.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 38,
+      "ayah": 36,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:36",
+      "word_position": 1,
+      "target_word_uthmani": "فَسَخَّرْنَا",
+      "target_word_rasm": "فسخرنا",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى",
+      "context_snippet_turkish_tabula_rasa": "Ve ona rüzgarı ram etmiştik de emriyle dilediği yere hafif hafif esip giderdi.",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|1P"
+      },
+      "ayah_text_arabic_full": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ona rüzgarı ram etmiştik de emriyle dilediği yere hafif hafif esip giderdi.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 38,
+      "ayah": 63,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:63",
+      "word_position": 2,
+      "target_word_uthmani": "سِخْرِيًّا",
+      "target_word_rasm": "سخريا",
+      "target_word_literal_irab": "Küçümseme ve alay nesnesi (سِخْرِيًّا — kesreli isim: 23:110, 38:63)",
+      "context_snippet_arabic": "أَتَّخَذْنَٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ",
+      "context_snippet_turkish_tabula_rasa": "Onları alaya alırdururduk, yoksa gözümüzden mi kaçtılar?",
+      "morphology": {
+        "lemma": "sixoriy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sixoriy~|ROOT:sxr|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَتَّخَذْنَٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları alaya alırdururduk, yoksa gözümüzden mi kaçtılar?",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 39,
+      "ayah": 5,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:5",
+      "word_position": 13,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱلنَّهَارَ عَلَى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ",
+      "context_snippet_turkish_tabula_rasa": "... geceyi kısaltır, gündüze katar ve gündüzü kısaltır, geceye katar ve ram etmiştir güneşi ve ayı; hepsi de muayyen ve mukadder bir zamana dek akardurur; ...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeryüzünü gerçek olarak yaratmıştır; geceyi kısaltır, gündüze katar ve gündüzü kısaltır, geceye katar ve ram etmiştir güneşi ve ayı; hepsi de muayyen ve mukadder bir zamana dek akardurur; bilin ki odur üstün olan ve suçları, ceza vermeden önce ve tamamıyla örten.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 39,
+      "ayah": 56,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:56",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلسَّٰخِرِينَ",
+      "target_word_rasm": "ٱلسخرين",
+      "target_word_literal_irab": "Hakikati küçümseyip alaya alanlar kesimi (ٱلسَّٰخِرِينَ — Bab I çoğul ism-i fâil: 39:56)",
+      "context_snippet_arabic": "وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Herkesin, Allah katından bir eylem karşılığı kazanamadım, hey gidi hey ve gerçekten de alay edenlerdendim dediği.",
+      "morphology": {
+        "lemma": "s~a`xiriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:s~a`xiriyn|ROOT:sxr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أَن تَقُولَ نَفْسٌ يَٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkesin, Allah katından bir eylem karşılığı kazanamadım, hey gidi hey ve gerçekten de alay edenlerdendim dediği.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 43,
+      "ayah": 13,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:13",
+      "word_position": 14,
+      "target_word_uthmani": "سَخَّرَ",
+      "target_word_rasm": "سخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Binip oturun da sonra onların üstünde doğruldunuz mu Rabbinizin nimetini anın ve yücedir, münezzehtir noksan sıfatlardan o mabut ki ram etmiştir bunu bize,...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Binip oturun da sonra onların üstünde doğruldunuz mu Rabbinizin nimetini anın ve yücedir, münezzehtir noksan sıfatlardan o mabut ki ram etmiştir bunu bize, yoksa biz, zaptedemezdik onu deyin diye.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 43,
+      "ayah": 32,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:32",
+      "word_position": 20,
+      "target_word_uthmani": "سُخْرِيًّا",
+      "target_word_rasm": "سخريا",
+      "target_word_literal_irab": "İnsanların farklı imkânlarla birbirinin emeğinden yararlandığı karşılıklı hizmet ve işbölümü bağı (سُخْرِيًّا — zammeli isim: 43:32)",
+      "context_snippet_arabic": "لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا وَرَحْمَتُ رَبِّكَ خَيْرٌ",
+      "context_snippet_turkish_tabula_rasa": "Onlar mı Rabbinin rahmetini pay edecekler? Biziz geçimlerini, aralarında paylaştıran dünya yaşayışında ve bir kısmı, bir kısmına hizmet etsin diye bazılarını derece bakımından bazılarından üstün halkettik ve Rabbinin rahmeti, onların toplayıp biriktirdiklerinden daha hayırlıdır.",
+      "morphology": {
+        "lemma": "suxoriy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suxoriy~|ROOT:sxr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا وَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar mı Rabbinin rahmetini pay edecekler? Biziz geçimlerini, aralarında paylaştıran dünya yaşayışında ve bir kısmı, bir kısmına hizmet etsin diye bazılarını derece bakımından bazılarından üstün halkettik ve Rabbinin rahmeti, onların toplayıp biriktirdiklerinden daha hayırlıdır.",
+      "contextual_meaning": "Toplumsal işbölümü (سُخْرِيًّا — zammeli): insanların geçim ve hizmette birbirinin emeğinden yararlanacağı karşılıklı iş görme bağı."
+    },
+    {
+      "surah": 45,
+      "ayah": 12,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:12",
+      "word_position": 3,
+      "target_word_uthmani": "سَخَّرَ",
+      "target_word_rasm": "سخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir Allah'tır ki üstünde gemi, emriyle kayıp gitsin ve siz de lutfundan, ihsanından nasibinizi arayıp elde edin de şükreyleyin diye ram etmiştir denizi...",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir Allah'tır ki üstünde gemi, emriyle kayıp gitsin ve siz de lutfundan, ihsanından nasibinizi arayıp elde edin de şükreyleyin diye ram etmiştir denizi size.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 45,
+      "ayah": 13,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:13",
+      "word_position": 1,
+      "target_word_uthmani": "وَسَخَّرَ",
+      "target_word_rasm": "وسخر",
+      "target_word_literal_irab": "Gök cisimlerini, doğa güçlerini, denizleri, dağları veya binekleri ilahi yasaya ve karşılıksız hizmete boyun eğdirdi (سَخَّرَ / سَخَّرْنَا — Bab II mâzi fiil)",
+      "context_snippet_arabic": "وَسَخَّرَ لَكُم مَّا فِى",
+      "context_snippet_turkish_tabula_rasa": "Ve ram etmiştir size, ne varsa göklerde ve ne varsa yeryüzünde, hepsi de onun rahmetindendir; şüphe yok ki bunda da deliller var düşünen topluluğa.",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ram etmiştir size, ne varsa göklerde ve ne varsa yeryüzünde, hepsi de onun rahmetindendir; şüphe yok ki bunda da deliller var düşünen topluluğa.",
+      "contextual_meaning": "Kozmik ve doğal teshîr (Bab II): güneş, ay, gece-gündüz, bulut, kuş, deniz, gemi, dağ, rüzgâr ve bineklerin ilahi yasaya tam boyun eğdirilerek insanın ve yaratılışın hizmetine koşulması."
+    },
+    {
+      "surah": 49,
+      "ayah": 11,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:11",
+      "word_position": 5,
+      "target_word_uthmani": "يَسْخَرْ",
+      "target_word_rasm": "يسخر",
+      "target_word_literal_irab": "Bir kimseyi veya topluluğu küçük ve aşağı görüp alaya almak / alaycıların karşılık görmesi (سَخِرَ / يَسْخَرُونَ / نَسْخَرُ / يَسْخَرْ — Bab I fiil)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, içinizden bir topluluk, başka bir toplulukla alay etmesin, olabilir ki alay edilenler, öbürlerinden daha hayırlıdır ve kadınların bir kısmı da başka kadınlarla alay etmesin, olabilir ki alay edilen kadınlar, öbürlerinden daha hayırlıdır ve birbirinizi kınamayın ve kötü lakaplarla çağırmayın; güven duy sonra buyruktan çıkmışlara ait adlar, ne de kötüdür ve kim tövbe etmezse artık onlar, zulmedenlerin ta kendileridir.",
+      "morphology": {
+        "lemma": "saxira",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:saxira|ROOT:sxr|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَٰبِ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَٰنِ وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, içinizden bir topluluk, başka bir toplulukla alay etmesin, olabilir ki alay edilenler, öbürlerinden daha hayırlıdır ve kadınların bir kısmı da başka kadınlarla alay etmesin, olabilir ki alay edilen kadınlar, öbürlerinden daha hayırlıdır ve birbirinizi kınamayın ve kötü lakaplarla çağırmayın; güven duy sonra buyruktan çıkmışlara ait adlar, ne de kötüdür ve kim tövbe etmezse artık onlar, zulmedenlerin ta kendileridir.",
+      "contextual_meaning": "Küçümseme ve alay (Bab I, Bab X ve kesreli سِخْرِيًّا): hakikati veya diğer insanları aşağı görüp alaya alma yasağı ve alaycıların kendi tavırlarıyla yüzleşmesi."
+    },
+    {
+      "surah": 69,
+      "ayah": 7,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:7",
+      "word_position": 1,
+      "target_word_uthmani": "سَخَّرَهَا",
+      "target_word_rasm": "سخرها",
+      "target_word_literal_irab": "Yıkıcı fırtınayı azgın topluluğun aleyhine yasayla boyun eğdirip üzerlerine saldı (سَخَّرَهَا عَلَيْهِمْ — Bab II mâzi fiil: 69:7)",
+      "context_snippet_arabic": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ",
+      "context_snippet_turkish_tabula_rasa": "Onu, yedi gece ve sekiz gün, birbiri ardınca musallat etti onlara, o topluluğa baksaydın görürdün ki bu kadar zaman içinde yıkılıvermişler yerlere, sanki içleri kof hurma kütükleriymiş onlar.",
+      "morphology": {
+        "lemma": "sax~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sax~ara|ROOT:sxr|3MS"
+      },
+      "ayah_text_arabic_full": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu, yedi gece ve sekiz gün, birbiri ardınca musallat etti onlara, o topluluğa baksaydın görürdün ki bu kadar zaman içinde yıkılıvermişler yerlere, sanki içleri kof hurma kütükleriymiş onlar.",
+      "contextual_meaning": "Yıkıcı teshîr (Bab II + عَلَىٰ): fırtınanın azgın Âd kavminin aleyhine yedi gece sekiz gün boyun eğdirilip salınması."
+    }
+  ]
+}

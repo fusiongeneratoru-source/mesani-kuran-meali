@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 6 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 11 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 6 / 131 Kök (Toplam Mühürlü: 227 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 11 / 131 Kök (Toplam Mühürlü: 232 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -15,11 +15,11 @@
 | 4 | ⭐ **3A** | Teoloji ve Otorite | 246 | `س-ل-ط` | `S-L-T` | **39** | 39 | 3:151 | Sultân ve Teslît (İtirazı Susturan Kesin Kanıt, Meşruiyet Belgesi ve Fiilî Yaptırım Yetkisi) | ✅ **MÜHÜRLÜ** |
 | 5 | ⭐ **3A** | Teoloji ve Otorite | 289 | `ب-ر-ك` | `B-R-K` | **32** | 32 | 3:96 | Bereket, Tebâreke ve Mübârek (Sarsılmaz Sabitlik, Kalıcı Hayır ve Kesintisiz Verimlilik) | ✅ **MÜHÜRLÜ** |
 | 6 | ⭐ **3A** | Teoloji ve Otorite | 294 | `ب-ر-أ` | `B-R-E` | **31** | 28 | 2:54 | Bâri ve Berâet (Kusursuz Ayrıştırarak Yaratmak; Hastalıktan, Suçtan ve Yanlış Bağdan Temize Çıkmak) | ✅ **MÜHÜRLÜ** |
-| 7 | ⭐ **3A** | Teoloji ve Otorite | 295 | `خ-ل-ص` | `H-L-S` | **31** | 30 | 2:94 | İhlâs, Muhlis ve Muhlas (yabancı karışımdan tamamen arındırıp saf ve katıksız kılma) | ⏳ *Bekliyor* |
-| 8 | ⭐ **3A** | Teoloji ve Otorite | 1639 | `ص-م-د` | `S-M-D` | **1** | 1 | 112:2 | Samed (İhlâs suresinin çekirdek sıfatı: her şeyin yöneldiği, boşluğu olmayan mutlak dayanak) | ⏳ *Bekliyor* |
-| 9 | ⭐ **3A** | Teoloji ve Otorite | 1065 | `ك-ر-س` | `K-R-S` | **2** | 2 | 2:255 | Kürsî (2:255 ve 38:34: bilgi, hâkimiyet ve egemenlik kaidesi) | ⏳ *Bekliyor* |
-| 10 | ⭐ **3A** | Teoloji ve Otorite | 229 | `م-ك-ر` | `M-K-R` | **43** | 23 | 3:54 | Mekr (gizli plan ve karşı-strateji mekaniği; Keyd ile Furûk) | ⏳ *Bekliyor* |
-| 11 | ⭐ **3A** | Teoloji ve Otorite | 233 | `س-خ-ر` | `S-H-R` | **42** | 35 | 2:164 | Teshîr ve Suhriye (doğa yasalarının hizmete sunulması ile alay edip küçümseme tek kökte) | ⏳ *Bekliyor* |
+| 7 | ⭐ **3A** | Teoloji ve Otorite | 295 | `خ-ل-ص` | `H-L-S` | **31** | 30 | 2:94 | İhlâs, Hâlis ve Muhlis/Muhlas (Yabancı Karışımdan Arındırıp Saf ve Tek Merkeze Özgü Kılmak) | ✅ **MÜHÜRLÜ** |
+| 8 | ⭐ **3A** | Teoloji ve Otorite | 1639 | `ص-م-د` | `S-M-D` | **1** | 1 | 112:2 | Samed (İçi Gediksiz Yekpare Bütünlük ve Tüm Varlıkların Yönelip Dayandığı Tek Mutlak Odak) | ✅ **MÜHÜRLÜ** |
+| 9 | ⭐ **3A** | Teoloji ve Otorite | 1065 | `ك-ر-س` | `K-R-S` | **2** | 2 | 2:255 | Kürsî (Hüküm, Bilgi ve Tasarrufun İcra Edildiği Sağlam Yönetim Makamı ve Kuşatıcı Yetki Alanı) | ✅ **MÜHÜRLÜ** |
+| 10 | ⭐ **3A** | Teoloji ve Otorite | 229 | `م-ك-ر` | `M-K-R` | **43** | 23 | 3:54 | Mekr (Görünmeden İnce Düzen/Strateji Kurmak; Kötü Komplo ve İlahi Karşı Tedbir) | ✅ **MÜHÜRLÜ** |
+| 11 | ⭐ **3A** | Teoloji ve Otorite | 233 | `س-خ-ر` | `S-H-R` | **42** | 35 | 2:164 | Teshîr ve Suhriye (Varlıkları Yasaya/Hizmete Boyun Eğdirmek; İşbölümü Bağı; Küçümseyip Alaya Almak) | ✅ **MÜHÜRLÜ** |
 | 12 | ⭐ **3A** | Vahiy ve Kimlik | 215 | `ص-ر-ط` | `S-R-T` | **45** | 45 | 1:6 | Sırât (Fâtiha omurgası: geniş ana cadde; Sebîl ve Şerîat ile Furûk) | ⏳ *Bekliyor* |
 | 13 | ⭐ **3A** | Vahiy ve Kimlik | 509 | `ش-ب-ه` | `S-B-H` | **12** | 9 | 2:25 | Müteşâbih, Teşâbüh ve Şübbihe (3:7 muhkem-müteşâbih ayrımı ve 4:157 benzetilme ayeti) | ⏳ *Bekliyor* |
 | 14 | ⭐ **3A** | Vahiy ve Kimlik | 517 | `ح-ن-ف` | `H-N-F` | **12** | 12 | 2:135 | Hanîf (eğrilikten ve sapmadan doğruluk eksenine kesin yöneliş) | ⏳ *Bekliyor* |

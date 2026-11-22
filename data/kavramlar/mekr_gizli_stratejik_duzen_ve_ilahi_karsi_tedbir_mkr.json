@@ -1,0 +1,919 @@
+{
+  "root": "م-ك-ر",
+  "root_latin": "M-K-R (mkr)",
+  "concept_name": "Mekr (Görünmeden İnce Düzen/Strateji Kurmak; Kötü Komplo ve İlahi Karşı Tedbir)",
+  "rank": 229,
+  "total_occurrences": 43,
+  "unique_ayahs_count": 23,
+  "unified_core_mechanism": "Karşı tarafın fark edemeyeceği bir gizlilik ve ince kurguyla düzen/strateji kurarak onun hedefini ve gidişatını çevirmek: insanlarda kötülük, baskı veya hakikati engelleme amaçlı kurulduğunda `مَكْرُ ٱلسَّيِّئِ` (gizli komplo ve bozgun planı; `35:43`, `71:22`), Allah hakkında kullanıldığında ise zalimlerin komplolarını kendi başlarına çevirip boşa çıkaran üstün karşı düzen ve ince tedbir (`3:54`, `8:30`, `13:42`, `27:50`).",
+  "physical_core": "Birbirine dolanıp örülmüş sıkı düzen (İbn Fâris bu kök altında iki ayrı kelimeyi — `الاحتيال والخداع` gizli düzen/tedbir ile `خدالة الساق` sıkı/dolgun bacak — ayırır; Kur'an'daki tüm geçişler 1. kelime olan 'görünmeden ince bir düzen ve karşı hamle kurup karşı tarafı hedefinden çevirmek' mekanizmasındadır).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün birbirinden ayrı iki kelime barındırdığını dürüstçe belirtir: (1) Gizli düzen ve stratejik hamle (`الاحتيال والخداع`), (2) Bacağın sıkı ve dolgun olması (`خدالة الساق`).",
+    "lisan_al_arab": "İbn Manzûr `المَكْر` için 'birini fark ettirmeden yönlendirmek ve gizli düzen kurmak' tanımını verir; Allah'a nispet edildiğinde zalimlerin kurduğu gizli komplolara karşı onların hesabını bozan adil karşılık ve üstün tedbir olduğunu vurgular.",
+    "ragib_mufredat": "Râgıb el-İsfahânî belirleyici nötr tanımı kurar: `المكر صرف الغير عما يقصده بحيلة` ('bir başkasını hedeflediği şeyden ince bir düzenle/stratejiyle çevirmek') ve `مكر`'in hem övülen hem yerilen türleri bulunduğunu, Kur'an'da kötü olanın bilhassa `ٱلْمَكْرُ ٱلسَّيِّئُ` (35:43) diye kayıtlandığını gösterir.",
+    "arbitration_decision": "Hakem Masası Kararı: `مَكْر` kelimesini her yerde 'hile/tuzak' diye olumsuzlaştırmak, 3:54 ve 8:30'daki `وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ` ile 13:42'deki `فَلِلَّهِ ٱلْمَكْرُ جَمِيعًا` ayetlerinde çevirmenleri ya Allah'a 'tuzakçı' demeye ya da kök birliğini bozup keyfi çeviri yapmaya sürükler. Râgıb'ın `صرف الغير عما يقصده بحيلة` tanımı ve Kur'an'ın kötü komployu özellikle `ٱلْمَكْرُ ٱلسَّيِّئُ` (35:43) ve `مَكَرُوا۟ ٱلسَّيِّـَٔاتِ` (16:45, 35:10) şeklinde nitelemesi gerçeği açığa çıkarır: `م-ك-ر` 'karşı tarafın sezemediği ince bir düzen/strateji kurarak onun planını çevirmek'tir. İnsanlarda zulüm ve hakikati boğma amacıyla kurulduğunda 'gizli komplo/kötü düzen' (7:123, 12:31, 34:33, 71:22), Allah hakkında ise zalimlerin komplolarını fark etmedikleri yerden boşa çıkarıp kendi başlarına çeviren 'üstün karşı düzen ve ince tedbir'dir (3:54, 7:99, 8:30, 10:21, 13:42, 27:50)."
+  },
+  "semitic_cognates": {
+    "hebrew": "מָכַר (*māḵar* — satmak, ticari devir yapmak; H4376).",
+    "akkadian": "Akadca *makāru / tamkāru* ('ticaret yapmak, tüccar').",
+    "note": "Kuzeybatı ve Doğu Sami dillerindeki *m-k-r* ('ticaret/pazarlık/devir') ile Arapça م-ك-ر ('ince hesaplı düzen kurmak') ünsüzce paralel olup anlamsal olarak mesafelenmiştir; Kur'an bağlamında doğrudan 'ince ve gizli stratejik düzen kurmak' ekseninde kullanılır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "أ-م-ن [أَفَأَمِنُوا۟ مَكْرَ ٱللَّهِ فَلَا يَأْمَنُ مَكْرَ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْخَٰسِرُونَ / أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ] (Gafil Güven ve Kendinden Eminlik ↔ Beklenmedik Yerden Gelen İlahi Karşı Düzen: 7:99, 16:45)",
+      "ش-ع-ر [وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ / وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ] (Farkında Olmamak ve Sezememek ↔ Görünmeden İşleyen Karşı Düzen: 6:123, 27:50)",
+      "ص-ل-ح & ب-و-ر [وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ ... وَمَكْرُ أُو۟لَٰٓئِكَ هُوَ يَبُورُ] (Açık ve Yapıcı İşin Yükselmesi ↔ Gizli Kötü Düzenin Çürüyüp Boşa Çıkması: 35:10)"
+    ],
+    "key_ayahs": [
+      "3:54 & 8:30 (وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ — zalimlerin gizli planı ↔ Allah'ın en üstün karşı düzeni)",
+      "35:43 (وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ — kötü düzenin yalnızca kurucusunu kuşatıp çökertmesi)",
+      "13:42 (فَلِلَّهِ ٱلْمَكْرُ جَمِيعًا — tüm ince strateji ve tedbir gücü bütünüyle Allah'ındır)",
+      "7:99 & 16:45 (kötü düzen kuranların Allah'ın karşı düzeninden emin olamayışı)",
+      "27:50-51 (gizli komplo kurmaları ↔ Allah'ın onlar farkında olmadan kurduğu karşı düzen)"
+    ],
+    "reverse_stress_test": "Açık, dürüst ve yapıcı işin yükselmesinin (35:10) ve kişinin gafil güveninin (7:99) karşısına yerleştirildiğinde, `م-ك-ر` kökünün 'karşı tarafın sezemediği ince bir düzen/strateji kurarak planını çevirmek' çekirdeği hem insan komplolarını hem Allah'ın `خَيْرُ ٱلْمَٰكِرِينَ` niteliğini tek tutarlı yasayla kavrar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "مَكْر (M-K-R: Görünmeden İnce Plan ve Strateji Kurarak Yön Çevirme) vs كَيْد (K-Y-D: Bir Hedefe Karşı Düğümleyici Karşı Tedbir/Tuzak Kurma) [7:123 vs 7:183]",
+      "ٱلْمَكْرُ ٱلسَّيِّئُ (M-K-R: Kötü Amaçlı Gizli Komplo) vs ٱلِٱسْتِكْبَار (K-B-R: Yeryüzünde Büyüklük Taslayıp Tahakküm Kurma) [35:43]",
+      "يَمْكُرُونَ ٱلسَّيِّـَٔاتِ (M-K-R: Kötülük Planları Örmek) vs ٱلْعَمَلُ ٱلصَّٰلِحُ (S-L-H: Açık ve Onarıcı Eylem) [35:10]"
+    ],
+    "mechanical_difference": "1) `مَكْر` ağırlıklı olarak karşı tarafın fark etmeyeceği gizlilik ve ince kurguyla onun hedefini bozup çevirmeyi vurgular; `كَيْد` ise doğrudan bir hedefi kuşatıp etkisiz bırakmaya dönük karşı hamleyi öne çıkarır. 2) 35:43'te `ٱسْتِكْبَار` açık kibir ve üstünlük iddiasını, `مَكْرَ ٱلسَّيِّئِ` ise bu kibri sürdürmek için perde arkasında örülen kötü düzenleri ayırır."
+  },
+  "anchor_ayahs": [
+    "35:43 (وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ — ahlaki ve tarihsel yasa: kötü niyetli gizli düzen yalnızca sahibini kuşatır)",
+    "3:54 & 8:30 (وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ — elçilere karşı kurulan komplonun ilahi karşı düzenle boşa çıkarılması)",
+    "13:42 (فَلِلَّهِ ٱلْمَكْرُ جَمِيعًا — nihai tedbir ve strateji hâkimiyetinin yalnızca Allah'a ait olması)",
+    "12:31 (فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ — şehirdeki kadınların perde arkası dedikodu ve düzeni)",
+    "14:46 (وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ — dağları yerinden oynatacak kadar büyük görünse de her düzenin Allah'ın bilgisi ve karşılığı altında olması)"
+  ],
+  "grammar_and_branch_rules": "1) İlahi Karşı Düzen ve Üstün Tedbir (`3:54`, `7:99`, `8:30`, `10:21`, `13:42`, `27:50`): Allah'ın zalimlerin gizli planlarını onların sezemediği yerden boşa çıkarıp tersine çevirmesi (`وَمَكَرَ ٱللَّهُ`, `خَيْرُ ٱلْمَٰكِرِينَ`, `أَسْرَعُ مَكْرًا`, `لِلَّهِ ٱلْمَكْرُ جَمِيعًا`). 2) Elçilere ve Hakikate Karşı Kurulan Gizli Komplolar (`6:123-124`, `7:123`, `8:30`, `10:21`, `13:33`, `14:46`, `16:26`, `16:45`, `16:127`, `27:50-51`, `27:70`, `34:33`, `35:10`, `35:43`, `40:45`, `71:22`): Güç odaklarının ve kibirli önderlerin gece gündüz ördüğü ama en sonunda kendi başlarına çöken kötü düzenler. 3) Kıssa İçi Sosyal Düzen/Kumpas (`12:31`, `12:102`): Şehirdeki kadınların dedikodu düzeni ve Yûsuf'un kardeşlerinin karar birliğiyle kurduğu gizli plan.",
+  "derivatives": {
+    "مَكَرَ / يَمْكُرُ / مَكَرْنَا (Bab I Fiil - 22 geçiş)": "Karşı tarafın sezemediği ince bir düzen/strateji kurmak; insanlarda gizli komplo örmek, Allah'ta zalimlerin planını boşa çıkaran üstün karşı düzen işletmek.",
+    "مَكْر (Mastar İsim - 19 geçiş)": "Gizli ve ince kurgulu stratejik düzen; kötülük niyetiyle kurulan komplo (`مَكْرُ ٱلسَّيِّئِ`) veya bunu bozan ilahi karşı tedbir (`مَكْرُ ٱللَّهِ`).",
+    "ٱلْمَٰكِرِينَ (Bab I İsm-i Fâil Çoğul - 2 geçiş: 3:54, 8:30)": "İnce düzen ve strateji kuranlar (her iki ayette de Allah hakkında `خَيْرُ ٱلْمَٰكِرِينَ`: en üstün karşı düzen kurucu)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 3,
+      "ayah": 54,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:54",
+      "word_position": 1,
+      "target_word_uthmani": "وَمَكَرُوا۟",
+      "target_word_rasm": "ومكروا",
+      "target_word_literal_irab": "Karşılıklı düzen kurma: zalimlerin gizli komplosuna karşı Allah'ın onların sezemediği üstün karşı düzeni işletmesi (مَكَرُوا۟ / مَكَرَ / وَمَكَرْنَا — Bab I fiil)",
+      "context_snippet_arabic": "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Düzene koyuldular, Allah da düzenlerine karşılık cezalarını verdi. Allah, düzencilere ceza verenlerin hayırlısıdır.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzene koyuldular, Allah da düzenlerine karşılık cezalarını verdi. Allah, düzencilere ceza verenlerin hayırlısıdır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 3,
+      "ayah": 54,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:54",
+      "word_position": 2,
+      "target_word_uthmani": "وَمَكَرَ",
+      "target_word_rasm": "ومكر",
+      "target_word_literal_irab": "Karşılıklı düzen kurma: zalimlerin gizli komplosuna karşı Allah'ın onların sezemediği üstün karşı düzeni işletmesi (مَكَرُوا۟ / مَكَرَ / وَمَكَرْنَا — Bab I fiil)",
+      "context_snippet_arabic": "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ وَٱللَّهُ خَيْرُ",
+      "context_snippet_turkish_tabula_rasa": "Düzene koyuldular, Allah da düzenlerine karşılık cezalarını verdi. Allah, düzencilere ceza verenlerin hayırlısıdır.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzene koyuldular, Allah da düzenlerine karşılık cezalarını verdi. Allah, düzencilere ceza verenlerin hayırlısıdır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 3,
+      "ayah": 54,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:54",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمَٰكِرِينَ",
+      "target_word_rasm": "ٱلمكرين",
+      "target_word_literal_irab": "İnce düzen ve karşı strateji kuranların en üstünü/en hayırlısı (ٱلْمَٰكِرِينَ — Bab I ism-i fâil çoğul: 3:54, 8:30)",
+      "context_snippet_arabic": "ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Düzene koyuldular, Allah da düzenlerine karşılık cezalarını verdi. Allah, düzencilere ceza verenlerin hayırlısıdır.",
+      "morphology": {
+        "lemma": "ma`kiriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ma`kiriyn|ROOT:mkr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzene koyuldular, Allah da düzenlerine karşılık cezalarını verdi. Allah, düzencilere ceza verenlerin hayırlısıdır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 6,
+      "ayah": 123,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:123",
+      "word_position": 8,
+      "target_word_uthmani": "لِيَمْكُرُوا۟",
+      "target_word_rasm": "ليمكروا",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا وَمَا يَمْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve böylece her şehirde, hileler, düzenler kursunlar diye o şehrin sapma ve ağır kusur büyülttük, yücelttik, onlar ancak kendilerine karşı hilekarlıkta bulunurlar ama bilmezler.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve böylece her şehirde, hileler, düzenler kursunlar diye o şehrin sapma ve ağır kusur büyülttük, yücelttik, onlar ancak kendilerine karşı hilekarlıkta bulunurlar ama bilmezler.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 123,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:123",
+      "word_position": 11,
+      "target_word_uthmani": "يَمْكُرُونَ",
+      "target_word_rasm": "يمكرون",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "لِيَمْكُرُوا۟ فِيهَا وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Ve böylece her şehirde, hileler, düzenler kursunlar diye o şehrin sapma ve ağır kusur büyülttük, yücelttik, onlar ancak kendilerine karşı hilekarlıkta bulunurlar ama bilmezler.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve böylece her şehirde, hileler, düzenler kursunlar diye o şehrin sapma ve ağır kusur büyülttük, yücelttik, onlar ancak kendilerine karşı hilekarlıkta bulunurlar ama bilmezler.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 124,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:124",
+      "word_position": 29,
+      "target_word_uthmani": "يَمْكُرُونَ",
+      "target_word_rasm": "يمكرون",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... O suç işleyenlere, hilekarlıkları yüzünden Allah katından bir horluk ve çetin bir azap gelip çatacaktır.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا جَآءَتْهُمْ ءَايَةٌ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir ayet geldi mi, Allah'ın elçilerine geldiği gibi bize de bir ayet gelmedikçe kesin olarak güven duy derler. elçilik görevini kime vereceğini Allah bilir. O suç işleyenlere, hilekarlıkları yüzünden Allah katından bir horluk ve çetin bir azap gelip çatacaktır.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 7,
+      "ayah": 99,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:99",
+      "word_position": 2,
+      "target_word_uthmani": "مَكْرَ",
+      "target_word_rasm": "مكر",
+      "target_word_literal_irab": "Allah'ın gafil zalimleri beklemedikleri yerden kuşatan üstün karşı düzeni ve tedbiri (مَكْرَ ٱللَّهِ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "أَفَأَمِنُوا۟ مَكْرَ ٱللَّهِ فَلَا يَأْمَنُ",
+      "context_snippet_turkish_tabula_rasa": "Bütün bunlardan sonra Allah azabından emin mi olurlar? Allah azabından emin olanlar, ancak zarara uğramış topluluklardır.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَأَمِنُوا۟ مَكْرَ ٱللَّهِ فَلَا يَأْمَنُ مَكْرَ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bütün bunlardan sonra Allah azabından emin mi olurlar? Allah azabından emin olanlar, ancak zarara uğramış topluluklardır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 7,
+      "ayah": 99,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:99",
+      "word_position": 6,
+      "target_word_uthmani": "مَكْرَ",
+      "target_word_rasm": "مكر",
+      "target_word_literal_irab": "Allah'ın gafil zalimleri beklemedikleri yerden kuşatan üstün karşı düzeni ve tedbiri (مَكْرَ ٱللَّهِ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "ٱللَّهِ فَلَا يَأْمَنُ مَكْرَ ٱللَّهِ إِلَّا ٱلْقَوْمُ",
+      "context_snippet_turkish_tabula_rasa": "Bütün bunlardan sonra Allah azabından emin mi olurlar? Allah azabından emin olanlar, ancak zarara uğramış topluluklardır.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَأَمِنُوا۟ مَكْرَ ٱللَّهِ فَلَا يَأْمَنُ مَكْرَ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bütün bunlardan sonra Allah azabından emin mi olurlar? Allah azabından emin olanlar, ancak zarara uğramış topluluklardır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 7,
+      "ayah": 123,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:123",
+      "word_position": 11,
+      "target_word_uthmani": "لَمَكْرٌ",
+      "target_word_rasm": "لمكر",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "لَكُمْ إِنَّ هَٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ",
+      "context_snippet_turkish_tabula_rasa": "Firavun, ben size izin vermeden önce ona güven duy musunuz dedi, bu, şüphe yok ki halkını oradan çıkarmak için şehirde kurup düzdüğünüz bir düzen; yakında ne yapacağımı öğrenirsiniz.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّ هَٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا فَسَوْفَ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun, ben size izin vermeden önce ona güven duy musunuz dedi, bu, şüphe yok ki halkını oradan çıkarmak için şehirde kurup düzdüğünüz bir düzen; yakında ne yapacağımı öğrenirsiniz.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 7,
+      "ayah": 123,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:123",
+      "word_position": 12,
+      "target_word_uthmani": "مَّكَرْتُمُوهُ",
+      "target_word_rasm": "مكرتموه",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "إِنَّ هَٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Firavun, ben size izin vermeden önce ona güven duy musunuz dedi, bu, şüphe yok ki halkını oradan çıkarmak için şehirde kurup düzdüğünüz bir düzen; yakında ne yapacağımı öğrenirsiniz.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّ هَٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا فَسَوْفَ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun, ben size izin vermeden önce ona güven duy musunuz dedi, bu, şüphe yok ki halkını oradan çıkarmak için şehirde kurup düzdüğünüz bir düzen; yakında ne yapacağımı öğrenirsiniz.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 8,
+      "ayah": 30,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:30",
+      "word_position": 2,
+      "target_word_uthmani": "يَمْكُرُ",
+      "target_word_rasm": "يمكر",
+      "target_word_literal_irab": "Karşılıklı düzen kurma: zalimlerin gizli komplosuna karşı Allah'ın onların sezemediği üstün karşı düzeni işletmesi (مَكَرُوا۟ / مَكَرَ / وَمَكَرْنَا — Bab I fiil)",
+      "context_snippet_arabic": "وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 8,
+      "ayah": 30,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:30",
+      "word_position": 11,
+      "target_word_uthmani": "وَيَمْكُرُونَ",
+      "target_word_rasm": "ويمكرون",
+      "target_word_literal_irab": "Karşılıklı düzen kurma: zalimlerin gizli komplosuna karşı Allah'ın onların sezemediği üstün karşı düzeni işletmesi (مَكَرُوا۟ / مَكَرَ / وَمَكَرْنَا — Bab I fiil)",
+      "context_snippet_arabic": "يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 8,
+      "ayah": 30,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:30",
+      "word_position": 12,
+      "target_word_uthmani": "وَيَمْكُرُ",
+      "target_word_rasm": "ويمكر",
+      "target_word_literal_irab": "Karşılıklı düzen kurma: zalimlerin gizli komplosuna karşı Allah'ın onların sezemediği üstün karşı düzeni işletmesi (مَكَرُوا۟ / مَكَرَ / وَمَكَرْنَا — Bab I fiil)",
+      "context_snippet_arabic": "أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ",
+      "context_snippet_turkish_tabula_rasa": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 8,
+      "ayah": 30,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:30",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْمَٰكِرِينَ",
+      "target_word_rasm": "ٱلمكرين",
+      "target_word_literal_irab": "İnce düzen ve karşı strateji kuranların en üstünü/en hayırlısı (ٱلْمَٰكِرِينَ — Bab I ism-i fâil çoğul: 3:54, 8:30)",
+      "context_snippet_arabic": "ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "morphology": {
+        "lemma": "ma`kiriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ma`kiriyn|ROOT:mkr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 10,
+      "ayah": 21,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:21",
+      "word_position": 11,
+      "target_word_uthmani": "مَّكْرٌ",
+      "target_word_rasm": "مكر",
+      "target_word_literal_irab": "Ayetlere karşı kurulan gizli düzen ve Allah'ın bundan çok daha hızlı işleyen karşı tedbiri (مَّكْرٌ / مَكْرًا — mastar isim: 10:21)",
+      "context_snippet_arabic": "مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌ فِىٓ ءَايَاتِنَا قُلِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın cezası daha çabuk gelip çatar. Şüphesiz ki elçilerimiz de sizin düzenlerinizi, alaylarınızı yazmada.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌ فِىٓ ءَايَاتِنَا قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Uğradıkları sıkıntıdan sonra insanlara bir rahmet tattırdık mı bir de bakarsın ki çabucak ayetlerimizle alaya girişirler. De ki: Allah'ın cezası daha çabuk gelip çatar. Şüphesiz ki elçilerimiz de sizin düzenlerinizi, alaylarınızı yazmada.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 10,
+      "ayah": 21,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:21",
+      "word_position": 17,
+      "target_word_uthmani": "مَكْرًا",
+      "target_word_rasm": "مكرا",
+      "target_word_literal_irab": "Ayetlere karşı kurulan gizli düzen ve Allah'ın bundan çok daha hızlı işleyen karşı tedbiri (مَّكْرٌ / مَكْرًا — mastar isim: 10:21)",
+      "context_snippet_arabic": "قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا إِنَّ رُسُلَنَا يَكْتُبُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın cezası daha çabuk gelip çatar. Şüphesiz ki elçilerimiz de sizin düzenlerinizi, alaylarınızı yazmada.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌ فِىٓ ءَايَاتِنَا قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Uğradıkları sıkıntıdan sonra insanlara bir rahmet tattırdık mı bir de bakarsın ki çabucak ayetlerimizle alaya girişirler. De ki: Allah'ın cezası daha çabuk gelip çatar. Şüphesiz ki elçilerimiz de sizin düzenlerinizi, alaylarınızı yazmada.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 10,
+      "ayah": 21,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:21",
+      "word_position": 22,
+      "target_word_uthmani": "تَمْكُرُونَ",
+      "target_word_rasm": "تمكرون",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın cezası daha çabuk gelip çatar. Şüphesiz ki elçilerimiz de sizin düzenlerinizi, alaylarınızı yazmada.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌ فِىٓ ءَايَاتِنَا قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Uğradıkları sıkıntıdan sonra insanlara bir rahmet tattırdık mı bir de bakarsın ki çabucak ayetlerimizle alaya girişirler. De ki: Allah'ın cezası daha çabuk gelip çatar. Şüphesiz ki elçilerimiz de sizin düzenlerinizi, alaylarınızı yazmada.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 12,
+      "ayah": 31,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:31",
+      "word_position": 3,
+      "target_word_uthmani": "بِمَكْرِهِنَّ",
+      "target_word_rasm": "بمكرهن",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ",
+      "context_snippet_turkish_tabula_rasa": "Dedikodularını duyunca davet etti onları ve dayanacak şeyler getirdi, sofra çıkardı ve her birine birer bıçak verdi ve Yusuf'a, görün şunlara, gel dedi....",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Dedikodularını duyunca davet etti onları ve dayanacak şeyler getirdi, sofra çıkardı ve her birine birer bıçak verdi ve Yusuf'a, görün şunlara, gel dedi. Kadınlar, onu görünce şaşırdılar, meyve yerine ellerini doğradılar ve tenzih ederiz Allah'ı dediler, haşa bu insan değil, olsaolsa büyük ve şerefli bir buyruk elçisi.",
+      "contextual_meaning": "Yûsuf kıssasındaki toplumsal ve aile içi gizli düzen: şehirdeki kadınların dedikodu kumpası (12:31) ve kardeşlerin gizli planı (12:102)."
+    },
+    {
+      "surah": 12,
+      "ayah": 102,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:102",
+      "word_position": 14,
+      "target_word_uthmani": "يَمْكُرُونَ",
+      "target_word_rasm": "يمكرون",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "İşte bu, gaibe ait haberlerdendir ki sana vahyetmedeyiz. Düzene girişerek yapacakları işi kararlaştırdıkları zaman yanlarında değildin ya.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bu, gaibe ait haberlerdendir ki sana vahyetmedeyiz. Düzene girişerek yapacakları işi kararlaştırdıkları zaman yanlarında değildin ya.",
+      "contextual_meaning": "Yûsuf kıssasındaki toplumsal ve aile içi gizli düzen: şehirdeki kadınların dedikodu kumpası (12:31) ve kardeşlerin gizli planı (12:102)."
+    },
+    {
+      "surah": 13,
+      "ayah": 33,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:33",
+      "word_position": 29,
+      "target_word_uthmani": "مَكْرُهُمْ",
+      "target_word_rasm": "مكرهم",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "... Yoksa yeryüzünde bilmediği birşeyi mi haber veriyorsunuz ona, yahut da geçici bir boş laf mı ediyorsunuz? gerçeğin üzerini örten olanlara düzenleri hoş ve sevimli görünmede ancak ve yoldan çıkarılmadalar ve Allah, kimi doğru yoldan saptırırsa onu doğru yola sevkedecek yoktur.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|NOM"
+      },
+      "ayah_text_arabic_full": "أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ أَمْ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعْلَمُ فِى ٱلْأَرْضِ أَم بِظَٰهِرٍ مِّنَ ٱلْقَوْلِ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkesin yaptığı ve elde ettiği şeyi bilip görene ve karşılığını verene benzer mi onlar, tutup Allah'a eş tanıyorlar onları. De ki: Bir ad takın onlara. Yoksa yeryüzünde bilmediği birşeyi mi haber veriyorsunuz ona, yahut da geçici bir boş laf mı ediyorsunuz? gerçeğin üzerini örten olanlara düzenleri hoş ve sevimli görünmede ancak ve yoldan çıkarılmadalar ve Allah, kimi doğru yoldan saptırırsa onu doğru yola sevkedecek yoktur.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 13,
+      "ayah": 42,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:42",
+      "word_position": 2,
+      "target_word_uthmani": "مَكَرَ",
+      "target_word_rasm": "مكر",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "وَقَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan öncekiler de düzenler kurdular, iş ve tedbir, tamamıyla onundur, herkesin ne kazanacağını da bilir. gerçeğin üzerini örtenler, yakında bilirler, anlarlar, dünya yurdunun sonundaki hayır kimin.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَلِلَّهِ ٱلْمَكْرُ جَمِيعًا يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍ وَسَيَعْلَمُ ٱلْكُفَّٰرُ لِمَنْ عُقْبَى ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan öncekiler de düzenler kurdular, iş ve tedbir, tamamıyla onundur, herkesin ne kazanacağını da bilir. gerçeğin üzerini örtenler, yakında bilirler, anlarlar, dünya yurdunun sonundaki hayır kimin.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 13,
+      "ayah": 42,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:42",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمَكْرُ",
+      "target_word_rasm": "ٱلمكر",
+      "target_word_literal_irab": "Allah'ın gafil zalimleri beklemedikleri yerden kuşatan üstün karşı düzeni ve tedbiri (مَكْرَ ٱللَّهِ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "مِن قَبْلِهِمْ فَلِلَّهِ ٱلْمَكْرُ جَمِيعًا يَعْلَمُ مَا",
+      "context_snippet_turkish_tabula_rasa": "Onlardan öncekiler de düzenler kurdular, iş ve tedbir, tamamıyla onundur, herkesin ne kazanacağını da bilir. gerçeğin üzerini örtenler, yakında bilirler, anlarlar, dünya yurdunun sonundaki hayır kimin.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَلِلَّهِ ٱلْمَكْرُ جَمِيعًا يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍ وَسَيَعْلَمُ ٱلْكُفَّٰرُ لِمَنْ عُقْبَى ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan öncekiler de düzenler kurdular, iş ve tedbir, tamamıyla onundur, herkesin ne kazanacağını da bilir. gerçeğin üzerini örtenler, yakında bilirler, anlarlar, dünya yurdunun sonundaki hayır kimin.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 14,
+      "ayah": 46,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:46",
+      "word_position": 2,
+      "target_word_uthmani": "مَكَرُوا۟",
+      "target_word_rasm": "مكروا",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Düzenlerini yaptılar, düzdükleri hilelerin cezasıysa Allah katında, hatta hilelerinden dağlar bile yerinden oynasa.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzenlerini yaptılar, düzdükleri hilelerin cezasıysa Allah katında, hatta hilelerinden dağlar bile yerinden oynasa.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 14,
+      "ayah": 46,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:46",
+      "word_position": 3,
+      "target_word_uthmani": "مَكْرَهُمْ",
+      "target_word_rasm": "مكرهم",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Düzenlerini yaptılar, düzdükleri hilelerin cezasıysa Allah katında, hatta hilelerinden dağlar bile yerinden oynasa.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzenlerini yaptılar, düzdükleri hilelerin cezasıysa Allah katında, hatta hilelerinden dağlar bile yerinden oynasa.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 14,
+      "ayah": 46,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:46",
+      "word_position": 6,
+      "target_word_uthmani": "مَكْرُهُمْ",
+      "target_word_rasm": "مكرهم",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Düzenlerini yaptılar, düzdükleri hilelerin cezasıysa Allah katında, hatta hilelerinden dağlar bile yerinden oynasa.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzenlerini yaptılar, düzdükleri hilelerin cezasıysa Allah katında, hatta hilelerinden dağlar bile yerinden oynasa.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 14,
+      "ayah": 46,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:46",
+      "word_position": 9,
+      "target_word_uthmani": "مَكْرُهُمْ",
+      "target_word_rasm": "مكرهم",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ",
+      "context_snippet_turkish_tabula_rasa": "Düzenlerini yaptılar, düzdükleri hilelerin cezasıysa Allah katında, hatta hilelerinden dağlar bile yerinden oynasa.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzenlerini yaptılar, düzdükleri hilelerin cezasıysa Allah katında, hatta hilelerinden dağlar bile yerinden oynasa.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 16,
+      "ayah": 26,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:26",
+      "word_position": 2,
+      "target_word_uthmani": "مَكَرَ",
+      "target_word_rasm": "مكر",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten, onlardan önce gelip geçenler de düzenler kurdular, Allah, yapılarını temellerinden yıktı da tavan, başlarına yıkılıverdi ve hem de bu azap, anlayamadıkları bir yerden gelip çattı onlara.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MS"
+      },
+      "ayah_text_arabic_full": "قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten, onlardan önce gelip geçenler de düzenler kurdular, Allah, yapılarını temellerinden yıktı da tavan, başlarına yıkılıverdi ve hem de bu azap, anlayamadıkları bir yerden gelip çattı onlara.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 16,
+      "ayah": 45,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:45",
+      "word_position": 3,
+      "target_word_uthmani": "مَكَرُوا۟",
+      "target_word_rasm": "مكروا",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ",
+      "context_snippet_turkish_tabula_rasa": "Kötülük düzenleri kuranlar emin mi oldular Allah'ın, onları yere batırmayacağından, yahut hiç anlamadıkları bir yerden başlarına bir azap gelmeyeceğinden.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük düzenleri kuranlar emin mi oldular Allah'ın, onları yere batırmayacağından, yahut hiç anlamadıkları bir yerden başlarına bir azap gelmeyeceğinden.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 16,
+      "ayah": 127,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:127",
+      "word_position": 14,
+      "target_word_uthmani": "يَمْكُرُونَ",
+      "target_word_rasm": "يمكرون",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren, sebat edip direnmen, ancak Allah'ın vereceği başarıyla mümkündür. Sana düzen kurduklarından dolayı da daralma, sıkıntıya düşme.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren, sebat edip direnmen, ancak Allah'ın vereceği başarıyla mümkündür. Sana düzen kurduklarından dolayı da daralma, sıkıntıya düşme.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 27,
+      "ayah": 50,
+      "surah_name": "Neml",
+      "ayah_ref": "27:50",
+      "word_position": 1,
+      "target_word_uthmani": "وَمَكَرُوا۟",
+      "target_word_rasm": "ومكروا",
+      "target_word_literal_irab": "Karşılıklı düzen kurma: zalimlerin gizli komplosuna karşı Allah'ın onların sezemediği üstün karşı düzeni işletmesi (مَكَرُوا۟ / مَكَرَ / وَمَكَرْنَا — Bab I fiil)",
+      "context_snippet_arabic": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا",
+      "context_snippet_turkish_tabula_rasa": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 27,
+      "ayah": 50,
+      "surah_name": "Neml",
+      "ayah_ref": "27:50",
+      "word_position": 2,
+      "target_word_uthmani": "مَكْرًا",
+      "target_word_rasm": "مكرا",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 27,
+      "ayah": 50,
+      "surah_name": "Neml",
+      "ayah_ref": "27:50",
+      "word_position": 3,
+      "target_word_uthmani": "وَمَكَرْنَا",
+      "target_word_rasm": "ومكرنا",
+      "target_word_literal_irab": "Karşılıklı düzen kurma: zalimlerin gizli komplosuna karşı Allah'ın onların sezemediği üstün karşı düzeni işletmesi (مَكَرُوا۟ / مَكَرَ / وَمَكَرْنَا — Bab I fiil)",
+      "context_snippet_arabic": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|1P"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 27,
+      "ayah": 50,
+      "surah_name": "Neml",
+      "ayah_ref": "27:50",
+      "word_position": 4,
+      "target_word_uthmani": "مَكْرًا",
+      "target_word_rasm": "مكرا",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "contextual_meaning": "İlahi karşı düzen ve üstün tedbir: zalimlerin gizli planlarını sezemedikleri yerden boşa çıkarıp tersine çeviren üstün ilahi strateji (خَيْرُ ٱلْمَٰكِرِينَ / لِلَّهِ ٱلْمَكْرُ جَمِيعًا)."
+    },
+    {
+      "surah": 27,
+      "ayah": 51,
+      "surah_name": "Neml",
+      "ayah_ref": "27:51",
+      "word_position": 5,
+      "target_word_uthmani": "مَكْرِهِمْ",
+      "target_word_rasm": "مكرهم",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "كَيْفَ كَانَ عَٰقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَٰهُمْ وَقَوْمَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Düzenlerinin sonucu ne oldu, bak da gör; şüphe yok ki biz, onları da, topluluklarını da tamamıyla helak ettik.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَٰهُمْ وَقَوْمَهُمْ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzenlerinin sonucu ne oldu, bak da gör; şüphe yok ki biz, onları da, topluluklarını da tamamıyla helak ettik.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 27,
+      "ayah": 70,
+      "surah_name": "Neml",
+      "ayah_ref": "27:70",
+      "word_position": 9,
+      "target_word_uthmani": "يَمْكُرُونَ",
+      "target_word_rasm": "يمكرون",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve üzülme onlar için ve daralma kurdukları düzenlerden.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve üzülme onlar için ve daralma kurdukları düzenlerden.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 34,
+      "ayah": 33,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:33",
+      "word_position": 7,
+      "target_word_uthmani": "مَكْرُ",
+      "target_word_rasm": "مكر",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ",
+      "context_snippet_turkish_tabula_rasa": "Ve aşağılık sanılanlar da büyüklük satanlara, hayır derler, gecegündüz düzenler kurup duruyor ve o zamanlar, bize de Allah'a gerçeğin üzerini örten olmamızı ve ona eşler tanımamızı emrediyordunuz ve azabı görünce hepsinde de nedamet belirir ve biz de gerçeğin üzerini örten olanların boyunlarına zincirler vururuz. Onların yaptıklarına karşılık başka bir şey mi verecektik ki?",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًا وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve aşağılık sanılanlar da büyüklük satanlara, hayır derler, gecegündüz düzenler kurup duruyor ve o zamanlar, bize de Allah'a gerçeğin üzerini örten olmamızı ve ona eşler tanımamızı emrediyordunuz ve azabı görünce hepsinde de nedamet belirir ve biz de gerçeğin üzerini örten olanların boyunlarına zincirler vururuz. Onların yaptıklarına karşılık başka bir şey mi verecektik ki?",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 35,
+      "ayah": 10,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:10",
+      "word_position": 16,
+      "target_word_uthmani": "يَمْكُرُونَ",
+      "target_word_rasm": "يمكرون",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "ٱلصَّٰلِحُ يَرْفَعُهُۥ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ",
+      "context_snippet_turkish_tabula_rasa": "... güzel sözler, ona ağar, iyi işler de o sözleri yüceltir ve onlar ki düzenlerle kötülüklerde bulunurlar, onlaradır çetin bir azap ve onların düzenleri de zaten mahvolup gider.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ وَمَكْرُ أُو۟لَٰٓئِكَ هُوَ يَبُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kim yücelik, üstünlük dilerse bilsin ki bütün yücelik, üstünlük, Allah'ındır; güzel sözler, ona ağar, iyi işler de o sözleri yüceltir ve onlar ki düzenlerle kötülüklerde bulunurlar, onlaradır çetin bir azap ve onların düzenleri de zaten mahvolup gider.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 35,
+      "ayah": 10,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:10",
+      "word_position": 21,
+      "target_word_uthmani": "وَمَكْرُ",
+      "target_word_rasm": "ومكر",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "لَهُمْ عَذَابٌ شَدِيدٌ وَمَكْرُ أُو۟لَٰٓئِكَ هُوَ يَبُورُ",
+      "context_snippet_turkish_tabula_rasa": "... güzel sözler, ona ağar, iyi işler de o sözleri yüceltir ve onlar ki düzenlerle kötülüklerde bulunurlar, onlaradır çetin bir azap ve onların düzenleri de zaten mahvolup gider.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|NOM"
+      },
+      "ayah_text_arabic_full": "مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ وَمَكْرُ أُو۟لَٰٓئِكَ هُوَ يَبُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kim yücelik, üstünlük dilerse bilsin ki bütün yücelik, üstünlük, Allah'ındır; güzel sözler, ona ağar, iyi işler de o sözleri yüceltir ve onlar ki düzenlerle kötülüklerde bulunurlar, onlaradır çetin bir azap ve onların düzenleri de zaten mahvolup gider.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 35,
+      "ayah": 43,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:43",
+      "word_position": 4,
+      "target_word_uthmani": "وَمَكْرَ",
+      "target_word_rasm": "ومكر",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde ululuk satmalarını ve kötü düzenlere baş vurmalarını icabettirdi, halbuki kötü düzen, ancak sahibinindir; onlar, evvelkiler hakkında yürüyen yoldanyoradamdan başka bir şey mi bekliyorlar? Gerçekten de Allah'ın yolununyoradamının yerini hiç bir şey tutmaz ve Allah'ın yoluyoradamı, kesin olarak değişmez.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde ululuk satmalarını ve kötü düzenlere baş vurmalarını icabettirdi, halbuki kötü düzen, ancak sahibinindir; onlar, evvelkiler hakkında yürüyen yoldanyoradamdan başka bir şey mi bekliyorlar? Gerçekten de Allah'ın yolununyoradamının yerini hiç bir şey tutmaz ve Allah'ın yoluyoradamı, kesin olarak değişmez.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 35,
+      "ayah": 43,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:43",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْمَكْرُ",
+      "target_word_rasm": "ٱلمكر",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde ululuk satmalarını ve kötü düzenlere baş vurmalarını icabettirdi, halbuki kötü düzen, ancak sahibinindir; onlar, evvelkiler hakkında yürüyen yoldanyoradamdan başka bir şey mi bekliyorlar? Gerçekten de Allah'ın yolununyoradamının yerini hiç bir şey tutmaz ve Allah'ın yoluyoradamı, kesin olarak değişmez.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde ululuk satmalarını ve kötü düzenlere baş vurmalarını icabettirdi, halbuki kötü düzen, ancak sahibinindir; onlar, evvelkiler hakkında yürüyen yoldanyoradamdan başka bir şey mi bekliyorlar? Gerçekten de Allah'ın yolununyoradamının yerini hiç bir şey tutmaz ve Allah'ın yoluyoradamı, kesin olarak değişmez.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 40,
+      "ayah": 45,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:45",
+      "word_position": 5,
+      "target_word_uthmani": "مَكَرُوا۟",
+      "target_word_rasm": "مكروا",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ وَحَاقَ بِـَٔالِ فِرْعَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "Derken Allah, onların düzenlerinin kötülüklerinden korudu onu ve Firavun soyunaysa azabın kötüsü gelip çattı.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken Allah, onların düzenlerinin kötülüklerinden korudu onu ve Firavun soyunaysa azabın kötüsü gelip çattı.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 71,
+      "ayah": 22,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:22",
+      "word_position": 1,
+      "target_word_uthmani": "وَمَكَرُوا۟",
+      "target_word_rasm": "ومكروا",
+      "target_word_literal_irab": "Hakikati veya elçiyi engellemek için perde arkasında gizli komplo/kötü düzen kurmak (مَكَرَ / مَكَرُوا۟ / يَمْكُرُونَ / تَمْكُرُونَ — Bab I fiil)",
+      "context_snippet_arabic": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+      "context_snippet_turkish_tabula_rasa": "Ve pek büyük düzenler kurmaya giriştiler.",
+      "morphology": {
+        "lemma": "makara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:makara|ROOT:mkr|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve pek büyük düzenler kurmaya giriştiler.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    },
+    {
+      "surah": 71,
+      "ayah": 22,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:22",
+      "word_position": 2,
+      "target_word_uthmani": "مَكْرًا",
+      "target_word_rasm": "مكرا",
+      "target_word_literal_irab": "Perde arkasında örülen kötü niyetli komplo/gizli düzen ve onun kurucusunu çökerten akıbeti (مَكْر / مَكْرَهُمْ / ٱلْمَكْرُ — mastar isim)",
+      "context_snippet_arabic": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+      "context_snippet_turkish_tabula_rasa": "Ve pek büyük düzenler kurmaya giriştiler.",
+      "morphology": {
+        "lemma": "makor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:makor|ROOT:mkr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve pek büyük düzenler kurmaya giriştiler.",
+      "contextual_meaning": "Kötü amaçlı gizli komplo ve kendi kurucusuna dönme yasası: güç odaklarının gece gündüz kurduğu ama en sonunda yalnızca sahibini kuşatıp çürüten kötü düzenler (ٱلْمَكْرُ ٱلسَّيِّئُ)."
+    }
+  ]
+}
