@@ -31,22 +31,41 @@ def load_second_100():
         return json.load(f)
 
 
+def load_etap_3():
+    path = os.path.join(DATA_DIR, 'etap_3_key_roots.json')
+    if not os.path.exists(path):
+        return None
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
 def print_next_brief(count=1):
     s2 = load_second_100()
     roots = [r for r in s2['second_100_roots'] if not r.get('is_locked')]
+    etap_label = "İkinci 100"
+    rank_key = 'second_100_rank'
+
     if not roots:
-        print("İkinci 100 listesinin tamamı (100/100) mühürlendi! Faz 2'ye geçilebilir.")
+        e3 = load_etap_3()
+        if e3:
+            roots = [r for r in e3['etap_3_roots'] if not r.get('is_locked')]
+            etap_label = "Etap 3"
+            rank_key = 'etap_3_rank'
+
+    if not roots:
+        print("Tüm aktif etaplar mühürlendi! Faz 2'ye geçilebilir.")
         return
 
     corpus = QuranCorpus()
     targets = roots[:count]
-    print("=== WEB XHIGH İÇİN HAZIR KOMUT ===")
+    print(f"=== {etap_label.upper()} SIRADAKİ KÖK BRİFİNGİ ===")
     for item in targets:
         ar = item['root_arabic']
         lat = item['root_latin']
         bw = item['buckwalter']
-        etap = item['second_100_rank']
+        etap = item[rank_key]
         grank = item['global_rank']
+        tier_info = f" [{item['tier']} - {item['category']}]" if 'tier' in item else ""
         wg = corpus.get_root_word_groups(bw)
         suras = len(set(s for (s, a, w), _ in wg))
         stats = corpus.get_root_stats(bw)
@@ -66,7 +85,7 @@ def print_next_brief(count=1):
         lem_summary = ", ".join(f"{l} ({c})" for l, c in lem_counts.most_common())
         vf_summary = ", ".join(f"{k}:{v}" for k, v in sorted(stats['verb_forms'].items())) if stats['verb_forms'] else "0 fiil"
         print(
-            f"Etap Sıra {etap} / Genel Sıra {grank}: {ar} ({lat} / Buckwalter: {bw})\n"
+            f"{etap_label} Sıra {etap}{tier_info} / Genel Sıra {grank}: {ar} ({lat} / Buckwalter: {bw})\n"
             f"- Kesin Korpus: {stats['total_occurrences']} geçiş / {stats['unique_ayahs_count']} ayet / {suras} sure\n"
             f"- Lemmalar: {lem_summary}\n"
             f"- Fiil Babları: {vf_summary} | POS: {dict(pos_counts)}\n"
@@ -102,6 +121,8 @@ def seal_package(json_path, do_push=False):
 
     s2 = load_second_100()
     s2_by_ar = {r['root_arabic']: r for r in s2['second_100_roots']}
+    e3 = load_etap_3()
+    e3_by_ar = {r['root_arabic']: r for r in e3['etap_3_roots']} if e3 else {}
     corpus = QuranCorpus()
 
     locked_path = os.path.join(DATA_DIR, 'locked_roots.json')
@@ -117,21 +138,21 @@ def seal_package(json_path, do_push=False):
 
     sealed_roots = []
     for ar_root, entry in delta.items():
-        s2_info = s2_by_ar.get(ar_root)
+        idx_info = s2_by_ar.get(ar_root) or e3_by_ar.get(ar_root)
         if 'rank' not in entry or entry['rank'] is None:
-            if s2_info:
-                entry['rank'] = s2_info['global_rank']
+            if idx_info:
+                entry['rank'] = idx_info['global_rank']
             else:
-                raise ValueError(f"{ar_root} için 'rank' alanı eksik ve second_100_roots.json içinde bulunamadı.")
+                raise ValueError(f"{ar_root} için 'rank' alanı eksik ve aktif indekslerde bulunamadı.")
 
         spec = specs_in.get(ar_root)
         if spec:
-            if 'buckwalter' not in spec and s2_info:
-                spec['buckwalter'] = s2_info['buckwalter']
+            if 'buckwalter' not in spec and idx_info:
+                spec['buckwalter'] = idx_info['buckwalter']
             all_specs[ar_root] = spec
             bw = spec['buckwalter']
-        elif s2_info:
-            bw = s2_info['buckwalter']
+        elif idx_info:
+            bw = idx_info['buckwalter']
         else:
             raise ValueError(f"{ar_root} için 'kavram_build_spec' eksik.")
 
@@ -149,11 +170,19 @@ def seal_package(json_path, do_push=False):
 
     # Phase sayacını güncelle
     total_locked = len(locked_json['locked_roots'])
-    s2_locked = sum(1 for r in s2['second_100_roots'] if r['root_arabic'] in locked_json['locked_roots'])
-    locked_json['phase'] = (
-        f"Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 "
-        f"(Seçenek A: {s2_locked}/100 — Toplam {total_locked} Kök Mühürlü)"
-    )
+    e3_locked = sum(1 for r in e3['etap_3_roots'] if r['root_arabic'] in locked_json['locked_roots']) if e3 else 0
+    e3_total = len(e3['etap_3_roots']) if e3 else 0
+    if e3_total > 0:
+        locked_json['phase'] = (
+            f"Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) "
+            f"+ Etap 3 ({e3_locked}/{e3_total} — Toplam {total_locked} Kök Mühürlü)"
+        )
+    else:
+        s2_locked = sum(1 for r in s2['second_100_roots'] if r['root_arabic'] in locked_json['locked_roots'])
+        locked_json['phase'] = (
+            f"Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 "
+            f"(Seçenek A: {s2_locked}/100 — Toplam {total_locked} Kök Mühürlü)"
+        )
 
     with open(locked_path, 'w', encoding='utf-8') as f:
         json.dump(locked_json, f, ensure_ascii=False, indent=2)
@@ -168,17 +197,24 @@ def seal_package(json_path, do_push=False):
 
     # İndeks ve özet betiklerini çalıştır
     tools_dir = os.path.dirname(os.path.abspath(__file__))
-    for script in ['generate_top_100.py', 'generate_second_100.py', 'generate_compact_roots.py', 'verify_project.py']:
-        res = subprocess.run([sys.executable, os.path.join(tools_dir, script)], check=True)
+    for script in [
+        'generate_top_100.py',
+        'generate_second_100.py',
+        'generate_etap_2_5.py',
+        'generate_etap_3.py',
+        'generate_compact_roots.py',
+        'verify_project.py',
+    ]:
+        subprocess.run([sys.executable, os.path.join(tools_dir, script)], check=True)
 
     if do_push:
         repo_root = os.path.dirname(tools_dir)
         names = ", ".join(f"Sira {rk} {ar}" for ar, rk, _ in sealed_roots)
         env = os.environ.copy()
         env['GIT_TERMINAL_PROMPT'] = '0'
-        subprocess.run(['git', 'add', 'data/', 'tools/'], cwd=repo_root, check=True, env=env)
+        subprocess.run(['git', 'add', 'data/', 'tools/', 'README.md'], cwd=repo_root, check=True, env=env)
         subprocess.run(
-            ['git', 'commit', '-m', f"Web XHigh muhurleme: {names} ({total_locked} kok sifir hata)"],
+            ['git', 'commit', '-m', f"Etap 3 muhurleme: {names} ({total_locked} kok sifir hata)"],
             cwd=repo_root, check=True, env=env
         )
         subprocess.run(['git', 'push', 'origin', 'main'], cwd=repo_root, check=True, env=env)

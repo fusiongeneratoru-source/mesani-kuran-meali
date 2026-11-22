@@ -96,6 +96,31 @@
       "category": "Kesinlik ve Zaman Uzaklığı",
       "mechanical_difference": "قَدْ: Mâzî önünde kesinleşmiş gerçekleşme ('gerçekten oldu'), muzârî önünde ise bazen/kesinlikle vurgusu. سَـ: Yakın gelecek. سَوْفَ: Daha geniş vadeli kesin gelecek uyarısı.",
       "quranic_anchors": ["23:1 (قَدْ أَفْلَحَ)", "91:9 (قَدْ أَفْلَحَ مَن زَكَّىٰهَا)", "102:3-4 (كَلَّا سَوْفَ تَعْلَمُونَ)"]
+    },
+    "لَعَلَّ": {
+      "category": "Amaç ve Beklenen Sonuç Edatı (123 geçiş / 122 ayet)",
+      "mechanical_difference": "Geleneksel çevirilerde 'belki / umulur ki' şeklinde belirsizleştirilse de Kur'an sentaksında ilahi fiil ve emirlerden sonra doğrudan hedeflenen amacı ve beklenen sonucu bildirir ('olsun diye / ki böylece'). Yalnızca insan öznesinde gerçek belirsiz beklenti taşır.",
+      "quranic_anchors": ["2:21 (لَعَلَّكُمْ تَتَّقُونَ)", "2:73 (لَعَلَّكُمْ تَعْقِلُونَ)", "12:2 (لَعَلَّكُمْ تَعْقِلُونَ)", "28:29 (لَعَلِّىٓ ءَاتِيكُم)"]
+    },
+    "لَوْلَا": {
+      "category": "Çift İşlevli Şart ve Kınama/Teşvik Edatı (75 geçiş / 74 ayet)",
+      "mechanical_difference": "İki keskin biçimde ayrılan sentaktik işlevi vardır: (1) İsim cümlesi önünde imtinâ (engel) şartı kurar ('şayet şu olmasaydı ... olurdu': 2:64). (2) Fiil cümlesi önünde tahdîd/kınama veya şiddetli teşvik sorusu kurar ('neden yapmıyorsunuz / niçin indirilmedi?': 6:8, 27:46).",
+      "quranic_anchors": ["2:64 (فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ)", "6:8 (لَوْلَآ أُنزِلَ عَلَيْهِ)", "10:98 (فَلَوْلَا كَانَتْ قَرْيَةٌ)", "27:46 (لَوْلَا تَسْتَغْفِرُونَ ٱللَّهَ)"]
+    },
+    "كَلَّا": {
+      "category": "Sert Mesânî Reddetme ve Kesin Dönüş Kilidi (33 geçiş / 33 ayet)",
+      "mechanical_difference": "Önceki yanlış sanıyı, kibirli iddiayı veya batıl beklentiyi tek hamlede iptal eder ('asla! hayır, kesinlikle öyle değil!'). Sıklıkla hemen ardından gelen gerçek hükmü (sözün ağır gerçeğini) açar.",
+      "quranic_anchors": ["19:79 (كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ)", "23:100 (كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا)", "75:11 (كَلَّا لَا وَزَرَ)", "102:3 (كَلَّا سَوْفَ تَعْلَمُونَ)"]
+    },
+    "أَمْ / أَوْ": {
+      "category": "Soru İçi Karşıtlık (أَمْ — 137 geçiş) vs Sade Seçenek (أَوْ) Furûku",
+      "mechanical_difference": "أَوْ genel haber ve emir cümlelerinde düz seçenek veya alternatif sunar ('veya / yahut'). أَمْ ise soru yapılarında iki kutup arasında keskin yüzleştirme yapar (أَمْ muttasıla: '... mı, yoksa ... mı?') veya önceki iddiayı çürütüp şaşkınlık/kınama sorusuna geçer (أَمْ munkatı'a: 'yoksa / bilakis şu mu?').",
+      "quranic_anchors": ["2:6 (أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ)", "52:35 (أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَٰلِقُونَ)", "2:74 (كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً)"]
+    },
+    "مِنْ لَدُنْ": {
+      "category": "Doğrudan Öz Kaynaktan Aktarım Zarfı (18 geçiş / 17 ayet)",
+      "mechanical_difference": "عِنْدَ (yanında, genel yakınlık/huzur) ile Furûk oluşturur: لَدُنْ (ROOT: ldn) dışarıdan aracılı bir yakınlığı değil, doğrudan öz kaynağa bitişik, özel ve aracısız katından gelen bir ilim, rahmet veya hükmü ifade eder.",
+      "quranic_anchors": ["3:8 (وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً)", "4:40 (وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا)", "11:1 (مِن لَّدُنْ حَكِيمٍ خَبِيرٍ)", "18:65 (وَعَلَّمْنَٰهُ مِن لَّدُنَّا عِلْمًا)"]
     }
   },
   "rootless_core_concepts_in_corpus": {
@@ -123,6 +148,46 @@
       "occurrences": 116,
       "etymology_and_cognates": "Proto-Sami *ḏū ('sahip olan, niteliği taşıyan' — Sebece ḏ-, İbranice zeh). Kur'an'da nitelik, mülkiyet ve öz-içerik bağlayıcısıdır.",
       "tabula_rasa_core": "Bir niteliği, hakkı, genişliği veya özü bizzat üzerinde taşıyan ('sahip / taşıyan' — örn. ذُو ٱلْفَضْلِ, ذِى ٱلْقُرْبَىٰ, ذَاتِ ٱلصُّدُورِ)."
+    },
+    "إِبْلِيس": {
+      "occurrences": 11,
+      "etymology_and_cognates": "İki etimolojik hat: (1) Klasik Arapça `أَبْلَسَ` (`ب-ل-س` kökü: umuttan tamamen kesilip şaşkınlıkla susakalmak); (2) Akademik filolojide Yunanca διάβολος (*diábolos*: 'kara çalan, arayı bozan, iftiracı') kelimesinin Süryanice ara formu üzerinden Arapçalaşması.",
+      "tabula_rasa_core": "Âdem'e boyun eğmeyi kibirle reddedip (`2:34`, `7:11`, `18:50`) rahmet umudundan kopan özel tarihsel/simgesel figür. `ش-ط-ن` (insan veya görünmez varlıklardan her türlü saptırıcı/uzaklaştırıcı sıfat) ile Furûk taşır: İblîs tekil özel ad iken `ش-ط-ن` genel sıfat ve türdür."
+    },
+    "مَسِيح": {
+      "occurrences": 11,
+      "etymology_and_cognates": "İbranice מָשִׁיחַ (*māšîaḥ*, Strong H4899: 'yağla sürülmüş, özel görevle seçilip onaylanmış') ve Süryanice *mšîḥā* karşılığı; Arapça `م-س-ح` ('el sürmek, arındırıp düzlemek') ile ses ve anlam paralelliği taşır.",
+      "tabula_rasa_core": "Kur'an'da her zaman Meryem oğlu Îsâ'nın özel unvanı (`ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ`) olarak geçer; ilahlaştırmayı kesinlikle reddeden (`5:17`, `5:72`) seçilmiş elçi unvanıdır (`3:45`, `4:171-172`)."
+    },
+    "عَدْن": {
+      "occurrences": 11,
+      "etymology_and_cognates": "İbn Fâris (*Mu'cemü Mekâyîsi'l-Luğa*, عدن maddesi): `العين والدال والنون أصل صحيح يدل على الإقامة` ('sabit kalmak, kalıcı yerleşmek'; maden anlamındaki `مَعْدِن` de buradandır). İbranice עֵדֶן (*ʿēden*, Strong H5730-H5731: 'bolluk, hoşluk diyarı') ile paralel yankı taşır.",
+      "tabula_rasa_core": "Kur'an'da 11 kez yalnızca `جَنَّٰتُ عَدْنٍ` tamlamasında geçer: geçici konaklama değil, kalıcı yerleşim ve sarsılmaz ikamet bahçeleri (`9:72`, `13:23`, `18:31`, `98:8`)."
+    },
+    "بَرْزَخ": {
+      "occurrences": 3,
+      "etymology_and_cognates": "Klasik Arapça sözlüklerde (`Lisânü'l-Arab`) 'iki şey arasındaki engel, ayırıcı perde'; akademik etimolojide Orta Farsça / Partça kökenli ödünç sözcük olarak değerlendirilir.",
+      "tabula_rasa_core": "İki ayrı yapının birbirine karışmasını kesin biçimde önleyen aşılmaz sınır perdesi: hem tatlı ve tuzlu deniz suları arasındaki doğal engel (`25:53`, `55:20`) hem de ölümden sonra dünyaya geri dönüşü kapatan kesin duvar (`23:100`)."
+    },
+    "جِبْرِيل / مِيكَال": {
+      "occurrences": 4,
+      "etymology_and_cognates": "İbranice teoforik (El-ekli) özel adlar: גַּבְרִיאֵל (*Gavrî-ʾēl*: *gever* 'güçlü/yiğit' + *ʾĒl* -> 'Allah'ın gücü / kudretli görevlisi', 3 geçiş) ve מִיכָאֵל (*Mîḵā-ʾēl*: 'Allah'a denk kim var?', 1 geçiş).",
+      "tabula_rasa_core": "Geleneksel kanatlı mitoloji tasvirlerinden bağımsız olarak, Kur'an'da vahyi elçinin kalbine Allah'ın izniyle indiren (`2:97`) ve destek veren (`66:4`) görevli elçiler (`2:98`)."
+    },
+    "سَقَر": {
+      "occurrences": 4,
+      "etymology_and_cognates": "Klasik Arapça (`Lisânü'l-Arab`, سقر maddesi): `سَقَرَتْهُ ٱلشَّمْسُ: لَوَّحَتْهُ وَآلَمَتْ دِمَاغَهُ بِحَرِّهَا` ('güneşin kavurucu ısısının teni karartıp yakması ve sarsması'); ayrıca uzaklık anlamı da aktarılır.",
+      "tabula_rasa_core": "Hiçbir şeyi geride bırakmayan, deriyi/yüzeyi kavurup değiştiren şiddetli yakıcı karşılık alanı (`54:48`, `74:26-29`, `74:42`)."
+    },
+    "فِرْدَوْس": {
+      "occurrences": 2,
+      "etymology_and_cognates": "Eski İranca / Avestaca *pairidaēza* ('duvarla çevrili korunaklı bahçe') -> İbranice *pardēs* / Yunanca *parádeisos* / Süryanice kanalıyla Arapçaya geçmiş ödünç sözcük.",
+      "tabula_rasa_core": "Kuşatılmış, her türlü ürün ve esenliği barındıran üst düzey korunaklı bahçe konakları (`18:107`, `23:11`)."
+    },
+    "صَابِئِين / مَجُوس": {
+      "occurrences": 4,
+      "etymology_and_cognates": "`صَابِئِين` (3 geçiş: `2:62`, `5:69`, `22:17`): Arapça `ص-ب-أ` ('eski inanç yolundan çıkıp yeni bir yola yönelmek') veya Babil Aramicedeki *ṣbʿ* ('suya daldırmak/arınmak') köküne bağlanan tarihsel topluluk adı. `مَجُوس` (1 geçiş: `22:17`): Eski Farsça *maguš* ('Zerdüştî rahip/bilge sınıfı') -> Süryanice üzerinden Arapçalaşmış topluluk adı.",
+      "tabula_rasa_core": "Kur'an'ın tarihsel çoğulluk içinde andığı iki inanç topluluğu: `2:62` ve `5:69`'da Sâbiîler, Allah'a ve son güne güvenip onarıcı iş yapanlar için korku ve üzüntü olmayacağı evrensel ilkesi içinde anılır; `22:17`'de ise Mecûsîler dahil tüm gruplar arasında nihai ayrımı Allah'ın yapacağı bildirilir."
     }
   }
 }

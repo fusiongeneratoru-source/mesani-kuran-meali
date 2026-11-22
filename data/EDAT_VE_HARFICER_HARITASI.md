@@ -30,10 +30,16 @@
 * **`إِنَّمَا` / `مَا ... إِلَّا`:** Hükmü yalnızca belirtilen odağa hapseder ve dışındaki tüm ihtimalleri eler (`49:10`).
 * **`بَلْ`:** Önceki yanlış sanıyı boşa çıkarıp doğrudan gerçeğe çevirir (`2:154`, `21:18`).
 * **`لَا` / `مَا` / `لَمْ` / `لَنْ`:** `لَمْ` geçmişi kesin sıfırlar, `لَنْ` geleceği kesin kapatır (`2:24` yapamadınız ve asla yapamayacaksınız).
+* **`قَدْ` / `سَـ` / `سَوْفَ`:** `قَدْ` mâzî önünde kesinleşmiş gerçekleşme (`23:1`), `سَـ` yakın gelecek, `سَوْفَ` geniş vadeli kesin gelecek uyarısı (`102:3-4`) verir.
+* **`لَعَلَّ` (`123` geçiş):** İlahi fiil ve buyrukların ardından "belki" belirsizliği değil, amaç ve beklenen sonuç bildirir (*"olsun diye / ki böylece"*: `2:21`, `2:73`).
+* **`لَوْلَا` (`75` geçiş):** İsim cümlesi önünde engel şartı (*"şayet olmasaydı"*: `2:64`), fiil cümlesi önünde ise kınama/teşvik sorusu (*"neden yapmıyorsunuz / niçin indirilmedi?"*: `6:8`, `27:46`) kurar.
+* **`كَلَّا` (`33` geçiş):** Önceki yanlış sanıyı veya kibirli iddiayı tek hamlede kesip atan sert Mesânî reddetme kilidi (*"Asla! Hayır, kesinlikle öyle değil!"*: `23:100`, `75:11`).
+* **`أَمْ` (`137` geçiş) / `أَوْ`:** `أَوْ` düz seçenek (*"veya"*), `أَمْ` ise soru içi keskin karşıtlık (*"... mı, yoksa ... mı?"*) ya da önceki iddiayı çürüten geçiş (*"yoksa..."*: `52:35`) yapar.
+* **`مِنْ لَدُنْ` (`18` geçiş):** `عِنْدَ` ile Furûk oluşturarak dışarıdan aracılı değil, doğrudan öz kaynağından/katından verilen özel ilim, rahmet veya hükmü belirtir (`18:65`, `4:40`).
 
 ---
 
-### 3. Korpusta Kök Etiketi Taşımayan 5 Anahtar Kavram
+### 3. Korpusta Kök Etiketi Taşımayan veya Ödünç 13 Anahtar Kavram
 
 | Kavram | Geçiş | Etimoloji ve Dilsel Köken | Tabula Rasa Çekirdek Anlamı |
 | :---: | :---: | :--- | :--- |
@@ -42,3 +48,12 @@
 | **`إِنْجِيل`** | **12** | Yunanca *euangélion* -> Süryanice/Habeşçe ('iyi haber, müjde') | Îsâ'ya verilen, önceki yasayı doğrulayan aydınlatıcı iyi haber metni (`3:3`, `5:46`). |
 | **`وَيْل`** | **40** | Klasik Arapça `و-ي-ل` ('şiddetli yıkım ve çöküş ünlemi') | Gerçeği çarpıtan ve haksızlık edenleri bekleyen ağır yıkım uyarısı (`2:79`, `83:1`, `107:4`). |
 | **`ذُو / ذَات`** | **116** | Proto-Sami `*ḏū` ('sahip olan, üzerinde taşıyan') | Bir niteliği, hakkı veya öz-içeriği bizzat üzerinde taşıyan (`ذُو ٱلْفَضْلِ`, `ذَاتِ ٱلصُّدُورِ`). |
+| **`إِبْلِيس`** | **11** | Arapça `أَبْلَسَ` (`ب-ل-س`: umuttan kesilip susakalma) / Yunanca *diábolos* tartışması | Kibirle boyun eğmeyi reddedip umuttan kopan özel figür (`2:34`, `18:50`); `ش-ط-ن` genel sıfatıyla Furûk taşır. |
+| **`مَسِيح`** | **11** | İbranice *māšîaḥ* (Strong H4899: 'yağla sürülmüş, özel görevle onaylanmış') / Arapça `م-س-ح` | Meryem oğlu Îsâ'nın özel elçilik unvanı; ilahlaştırmayı kesin reddeden seçilmiş görevli (`3:45`, `5:17`). |
+| **`عَدْن`** | **11** | İbn Fâris (`ع-د-ن`: `أصل صحيح يدل على الإقامة`, kalıcı yerleşmek) / İbranice *ʿēden* | Yalnızca `جَنَّٰتُ عَدْنٍ` tamlamasında: geçici değil, kalıcı yerleşim ve sarsılmaz ikamet bahçeleri (`9:72`, `18:31`). |
+| **`بَرْزَخ`** | **3** | Klasik Arapça 'ayırıcı perde/engel' / Orta Farsça-Partça ödünç köken | İki ayrı alanın karışmasını önleyen aşılmaz sınır duvarı: iki deniz arası (`25:53`, `55:20`) ve ölüm sonrası geri dönüş engeli (`23:100`). |
+| **`جِبْرِيل / مِيكَال`** | **4** | İbranice *Gavrî-ʾēl* ('Allah'ın gücü') ve *Mîḵā-ʾēl* ('Allah'a denk kim var?') | Geleneksel mitoloji tasvirlerinden bağımsız, vahyi indiren ve destek veren görevli elçiler (`2:97-98`, `66:4`). |
+| **`سَقَر`** | **4** | Klasik Arapça `سَقَرَتْهُ ٱلشَّمْسُ` ('güneşin kavurup yakması ve sarsması') | Hiçbir şeyi bırakmayan, yüzeyi kavurup değiştiren şiddetli yakıcı karşılık alanı (`54:48`, `74:26-29`). |
+| **`فِرْدَوْس`** | **2** | Eski İranca *pairidaēza* ('duvarla çevrili korunaklı bahçe') -> *pardēs* / *parádeisos* | Kuşatılmış, her türlü esenliği barındıran üst düzey korunaklı bahçe konakları (`18:107`, `23:11`). |
+| **`صَابِئِين / مَجُوس`** | **4** | `ص-ب-أ` ('yön değiştirmek') / Aramice *ṣbʿ* ('suyla arınmak'); Eski Farsça *maguš* | Tarihsel inanç toplulukları: Sâbiîler evrensel güven ve onarıcı eylem ilkesi içinde anılır (`2:62`, `5:69`); Mecûsîlerle birlikte nihai ayrım Allah'a aittir (`22:17`). |
+

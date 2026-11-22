@@ -9,10 +9,11 @@ Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** 
 1. Ana sistem anayasasını oku: `PROMPT.md`
 2. Kalite sigortalarını oku: `tools/QUALITY_CONSTITUTION.md`
 3. Mevcut ilerleme durumunu kontrol et:
-   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **221 kök mühürlü, Faz 1 tamamlandı, Faz 2'ye hazır**)
+   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **221 kök mühürlü**, `%77,12` kapsam)
    - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md` (tamamlanan Etap 1 listesi: `100/100`)
    - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md` (tamamlanan Etap 2 listesi: `100/100`)
    - `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md` (tamamlanan Etap 2.5 kilit kavramlar listesi: `16/16`)
+   - `data/etap_3_key_roots.json` & `data/ETAP_3_KAVRAM.md` (aktif **Etap 3** listesi: Faz 2 öncesi kafa karıştıran ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** — `3A Çekirdek 55` + `3B Tam Zırh 76`)
 
 ## 📁 Depo Yapısı
 
@@ -22,8 +23,9 @@ Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** 
 - `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri (`221` kavram JSON dosyası)
 - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md`: İlk 100 kök indeksi (`100/100` tamamlandı)
 - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md`: İkinci 100 yeni kök indeksi (`100/100` tamamlandı)
-- `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md`: Top 200 dışında kalan 16 kilit kavram (`ث-ن-ي [Mesânî]` dahil) indeksi (`16/16` tamamlandı, Faz 1 bitti, Faz 2 hazır)
-- `data/particles_and_prepositions.json` & `data/EDAT_VE_HARFICER_HARITASI.md`: Kur'an'daki köksüz edat, harf-i cer ve temel özel/ödünç kavramlar haritası (Faz 2 omurgası)
+- `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md`: Top 200 dışında kalan 16 kilit kavram (`ث-ن-ي [Mesânî]` dahil) indeksi (`16/16` tamamlandı)
+- `data/etap_3_key_roots.json` & `data/ETAP_3_KAVRAM.md`: Faz 2 öncesi kafa karıştıran kavramlar ve açık Mesânî/Furûk eşlenikleri indeksi (**131 kök:** `3A` 55 çekirdek + `3B` 76 tamamlayıcı; `%83,08` kümülatif hedef)
+- `data/particles_and_prepositions.json` & `data/EDAT_VE_HARFICER_HARITASI.md`: Kur'an'daki köksüz edatlar (`10` harf-i cer, `11` yapısal/mantıksal edat) ve `13` köksüz/ödünç anahtar kavram haritası (Faz 2 omurgası)
 - `data/quran-*.txt` & `data/quranic-corpus-morphology-0.4.txt`: Yerel Kur'an metinleri ve morfoloji korpusu
 - `tools/`: Saf Python standart kütüphanesiyle çalışan doğrulama ve üretim araçları (ek paket kurulumu gerektirmez)
 
@@ -39,6 +41,7 @@ python3 tools/build_kavramlar.py
 python3 tools/generate_top_100.py
 python3 tools/generate_second_100.py
 python3 tools/generate_etap_2_5.py
+python3 tools/generate_etap_3.py
 python3 tools/generate_compact_roots.py
 
 # Zorunlu sıfır hata bütünlük doğrulaması (her kök sonrası şart)
@@ -49,7 +52,7 @@ python3 tools/verify_project.py
 
 **Antigravity Web (`antigravity.google.com` / Remote Agents)** veya bulut ortamında devam ederken:
 
-1. **Başlangıç:** Yeni bir sohbet açıldığında ajan önce `README.md`, `PROMPT.md` ve `tools/QUALITY_CONSTITUTION.md` dosyalarını okuyarak güncel ilerlemeyi (şu an **221 mühürlü kök, Faz 1 tamamlandı, Faz 2 hazır**) teyit eder.
+1. **Başlangıç:** Yeni bir sohbet açıldığında ajan önce `README.md`, `PROMPT.md` ve `tools/QUALITY_CONSTITUTION.md` dosyalarını okuyarak güncel ilerlemeyi (`data/locked_roots.json` ve `data/etap_3_key_roots.json`) teyit eder.
 2. **Zorunlu Doğrulama:** Her yeni kök, sure çözümlemesi veya dosya değişikliği sonrasında `python3 tools/verify_project.py` çalıştırılıp **SIFIR HATA** doğrulanır.
 3. **Kalıcı Kayıt ve GitHub Senkronizasyonu (ZORUNLU KURAL):** Bulut (Remote Agents) oturumları geçici bir çalışma kopyası üzerinde çalıştığından, yapılan değişikliklerin kaybolmaması için ajan **doğrulanan her görev/etap sonunda** kullanıcıya hemen hatırlatarak onay alır ve değişiklikleri GitHub deposuna (`git commit` ve `git push`) kalıcı olarak gönderir. Kullanıcı oturum başında otomatik gönderim onayı verdiyse her doğrulanan adım sonunda doğrudan GitHub'a işler.
 4. **PC ile Eşitleme:** Web oturumunda GitHub'a işlenen güncellemeler, yerel PC'ye dönüldüğünde tek adımda (`git pull`) bilgisayara çekilerek iki ortam %100 senkron tutulur.
