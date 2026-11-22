@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 5 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 60 / 131 Kök (Toplam Mühürlü: 281 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 10 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 65 / 131 Kök (Toplam Mühürlü: 286 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -69,11 +69,11 @@
 | 58 | 3B | Teoloji ve Otorite | 789 | `ب-ل-س` | `B-L-S` | **5** | 5 | 6:44 | İblâs ve Müblisûn (Tüm Umudunu ve Bahanesini Yitirip Suskun Şaşkınlıkla Donakalmak) | ✅ **MÜHÜRLÜ** |
 | 59 | 3B | Teoloji ve Otorite | 798 | `و-س-و-س` | `W-S-W-S` | **5** | 5 | 7:20 | Vesvese ve Vesvâs (Kısık, Sinsi ve Tekrarlayıcı Fısıltıyla İç Telkin ve Kuruntu) | ✅ **MÜHÜRLÜ** |
 | 60 | 3B | Vahiy ve Kimlik | 228 | `ف-ص-ل` | `F-S-L` | **43** | 42 | 2:233 | Fasl ve Tafsîl (Net Sınırla Ayırmak, Eksiksiz Ayrıntılandırmak ve Kesin Ayrışma Günü) | ✅ **MÜHÜRLÜ** |
-| 61 | 3B | Vahiy ve Kimlik | 236 | `ط-و-ف` | `T-W-F` | **41** | 35 | 2:125 | Tavâf ve Tâife (etrafında dönme, gezinme ve belirli grup/kesim) | ⏳ *Bekliyor* |
-| 62 | 3B | Vahiy ve Kimlik | 298 | `ه-ج-ر` | `H-C-R` | **31** | 27 | 2:218 | Hicret ve Hecr (göç, 4:34 uzaklaşma ve 25:30 Kur'an'ı terk edilmiş bırakma) | ⏳ *Bekliyor* |
-| 63 | 3B | Vahiy ve Kimlik | 364 | `ع-م-ر` | `A-M-R` | **24** | 19 | 2:96 | Ömür, Umre ve İmâr (yaşam süresi, bayındırlık/inşa ve ziyaret tek kökte) | ⏳ *Bekliyor* |
-| 64 | 3B | Vahiy ve Kimlik | 663 | `ن-س-ك` | `N-S-K` | **7** | 6 | 2:128 | Nüsük ve Mensek (adanmış düzenli uygulama yöntemi ve yaşam disiplini) | ⏳ *Bekliyor* |
-| 65 | 3B | Vahiy ve Kimlik | 456 | `س-ط-ر` | `S-T-R` | **16** | 16 | 6:25 | Esâtîr, Satır ve Müsaytır (satır satır yazılmış eski kayıtlar ve baskı/denetim kuran) | ⏳ *Bekliyor* |
+| 61 | 3B | Vahiy ve Kimlik | 236 | `ط-و-ف` | `T-W-F` | **41** | 35 | 2:125 | Tavâf, Tâife ve Tûfân (Merkez Çevresinde Dolaşmak, Çepeçevre Kuşatmak ve Odak Etrafında Kümelenen Kesim) | ✅ **MÜHÜRLÜ** |
+| 62 | 3B | Vahiy ve Kimlik | 298 | `ه-ج-ر` | `H-C-R` | **31** | 27 | 2:218 | Hecr ve Hicret (Bilinçli Bağ Koparma, Onurlu Mesafe ve Zulümden Özgürlük Yurduna Göç) | ✅ **MÜHÜRLÜ** |
+| 63 | 3B | Vahiy ve Kimlik | 364 | `ع-م-ر` | `A-M-R` | **24** | 19 | 2:96 | Ömür, İmâr ve Umre (Yaşam Süresi, Yeryüzünü Bayındır Kılmak ve Kadîm Evi Canlı Tutmak) | ✅ **MÜHÜRLÜ** |
+| 64 | 3B | Vahiy ve Kimlik | 663 | `ن-س-ك` | `N-S-K` | **7** | 6 | 2:128 | Nüsük ve Mensek (Bütüncül Adanmışlık, Her Topluluğun Adanmışlık Düzeni ve Paylaşılan Sunu) | ✅ **MÜHÜRLÜ** |
+| 65 | 3B | Vahiy ve Kimlik | 456 | `س-ط-ر` | `S-T-R` | **16** | 16 | 6:25 | Satr, Esâtîr ve Musaytır (Satır Satır Kaydetmek, Eski Yazılar/Söylenceler Yaftası ve Zorba Denetçi) | ✅ **MÜHÜRLÜ** |
 | 66 | 3B | Vahiy ve Kimlik | 634 | `ب-ر-ه-ن` | `B-R-H-N` | **8** | 8 | 2:111 | Burhân (Sultân ve Beyyine ile Furûk: tartışmayı bitiren somut ve rasyonel kanıt) | ⏳ *Bekliyor* |
 | 67 | 3B | Vahiy ve Kimlik | 222 | `ح-ف-ظ` | `H-F-Z` | **44** | 42 | 2:238 | Hıfz, Hafîz ve Mahfûz (korumak, gözetmek ve zayi etmemek) | ⏳ *Bekliyor* |
 | 68 | 3B | Vahiy ve Kimlik | 726 | `ل-و-ح` | `L-W-H` | **6** | 6 | 7:145 | Levh ve Elvâh (Mûsâ'nın levhaları, gemi tahtaları ve 85:22 korunan kayıt) | ⏳ *Bekliyor* |

@@ -19199,5 +19199,492 @@
       }
     ],
     "context_default": "Net sınırla ayırmak, berrakça ayrıntılandırmak veya kesin yargıyla ayırt etmek (ف-ص-ل)."
+  },
+  "ط-و-ف": {
+    "buckwalter": "Twf",
+    "slug": "tavaf_taife_ve_tufan_cevrede_dolasmak_kusatmak_ve_odak_etrafinda_kumelenen_kesim_twf",
+    "concept_name": "Tavâf, Tâife ve Tûfân (Merkez Çevresinde Dolaşmak, Çepeçevre Kuşatmak ve Odak Etrafında Kümelenen Kesim)",
+    "keywords": [
+      "tavâf",
+      "tâife",
+      "tûfân",
+      "çevrede dolaşmak",
+      "kuşatmak",
+      "kesim",
+      "grup",
+      "ev içi dolaşım"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "T~uwfaAn",
+        "label": "Kuşatıcı afet çıpası: Her yönü çepeçevre sarıp boğan büyük su baskını ve tufan (ٱلطُّوفَانَ / ٱلطُّوفَانُ — isim: 7:133, 29:14)"
+      },
+      {
+        "lemma": "Taw~a`fuwn",
+        "label": "Gündelik dolaşım çıpası: Ev içinde sürekli birbirinin etrafında dolaşıp etkileşen aile fertleri ve yardımcılar (طَوَّٰفُونَ عَلَيْكُم — mübalağa ismi: 24:58)"
+      },
+      {
+        "lemma": "yaT~aw~afa",
+        "label": "Merkez çevresinde dolaşma fiili: Safâ-Merve arasında (2:158) ve Kadîm Evin çevresinde (22:29) bilinçli çabayla dolaşmak (يَطَّوَّفَ / وَلْيَطَّوَّفُوا۟ — Bab V fiil)"
+      },
+      {
+        "lemma": "TaA^}if",
+        "ayahs": [
+          "2:125",
+          "22:26"
+        ],
+        "label": "Merkezî Ev ziyaretçileri: Kadîm Evin çevresinde dolaşarak buluşup arınan ziyaretçiler (لِلطَّآئِفِينَ — ism-i fâil çoğul)"
+      },
+      {
+        "lemma": "TaA^}if",
+        "ayahs": [
+          "7:201"
+        ],
+        "label": "Zihinsel kuşatma çıpası: Sorumluluk sahiplerinin zihninin çevresinde dönüp dokunan geçici ayartıcı dürtü (طَٰٓئِفٌ — ism-i fâil: 7:201)"
+      },
+      {
+        "lemma": "TaA^}if",
+        "label": "Gece kuşatan afet: Bahçe sahipleri uyurken bahçeyi çepeçevre saran yıkıcı afet (طَآئِفٌ مِّن رَّبِّكَ — ism-i fâil: 68:19)"
+      },
+      {
+        "lemma": "TaAfa",
+        "ayahs": [
+          "68:19"
+        ],
+        "label": "Gece kuşatma fiili: Bahçe sahiplerinin uyuduğu sırada yıkıcı afetin bahçeyi çepeçevre sarması (فَطَافَ عَلَيْهَا — Bab I fiil: 68:19)"
+      },
+      {
+        "lemma": "TaAfa",
+        "ayahs": [
+          "55:44"
+        ],
+        "label": "Azap döngüsü fiili: Ateş ile kaynar su arasında çaresizce dönüp dolaşmak (يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ — Bab I fiil: 55:44)"
+      },
+      {
+        "lemma": "TaAfa",
+        "label": "İkram dolaşımı fiili: Esenlik yurdunda altın-gümüş kaplar ve kadehlerle çevrelerinde hizmet ve ikram dolaştırılması (يُطَافُ / يَطُوفُ عَلَيْهِمْ — Bab I fiil)"
+      },
+      {
+        "lemma": "TaA^}ifap",
+        "label": "Odak etrafında kümelenen kesim: Bir inanç, görev, çatışma veya olay çevresinde halka oluşturan topluluk kesimi/grubu (طَآئِفَةٌ / طَآئِفَتَانِ — isim/sıfat)"
+      }
+    ],
+    "irab_default": "Bir merkez çevresinde dönüp dolaşmak, çepeçevre kuşatmak veya odak etrafında kümelenen kesim (ط-و-ف kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:125",
+          "2:158",
+          "22:26",
+          "22:29"
+        ],
+        "text": "Merkezî Ev ve Safâ-Merve çevresinde bilinçle dolaşmak ve buluşmak (لِلطَّآئِفِينَ / يَطَّوَّفَ)."
+      },
+      {
+        "ayahs": [
+          "24:58",
+          "37:45",
+          "43:71",
+          "52:24",
+          "55:44",
+          "56:17",
+          "76:15",
+          "76:19"
+        ],
+        "text": "Gündelik ev içi dolaşım (طَوَّٰفُونَ عَلَيْكُم) ile ahirette ikramların veya kaynar suyun çevrede dönmesi."
+      },
+      {
+        "ayahs": [
+          "7:133",
+          "7:201",
+          "29:14",
+          "68:19"
+        ],
+        "text": "Çepeçevre kuşatan tufan (ٱلطُّوفَان), gece bahçeyi saran afet ve zihne dokunan geçici ayartıcı dürtü."
+      },
+      {
+        "ayahs": [
+          "3:69",
+          "3:72",
+          "3:122",
+          "3:154",
+          "4:81",
+          "4:102",
+          "4:113",
+          "6:156",
+          "7:87",
+          "8:7",
+          "9:66",
+          "9:83",
+          "9:122",
+          "24:2",
+          "28:4",
+          "33:13",
+          "49:9",
+          "61:14",
+          "73:20"
+        ],
+        "text": "Bir amaç, tutum veya olay çevresinde kümelenen topluluk kesimi ve gruplar (طَآئِفَة / طَآئِفَتَانِ)."
+      }
+    ],
+    "context_default": "Çevrede dönüp dolaşmak, kuşatmak veya odak etrafında kümelenen kesim (ط-و-ف)."
+  },
+  "ه-ج-ر": {
+    "buckwalter": "hjr",
+    "slug": "hecr_ve_hicret_bilincli_bag_koparma_onurlu_mesafe_ve_zulmden_ozgurluge_goc_hjr",
+    "concept_name": "Hecr ve Hicret (Bilinçli Bağ Koparma, Onurlu Mesafe ve Zulümden Özgürlük Yurduna Göç)",
+    "keywords": [
+      "hicret",
+      "hecr",
+      "muhacir",
+      "mehcur",
+      "bağ koparmak",
+      "onurlu mesafe",
+      "özgürlük göçü",
+      "yatak ayrılığı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mahojuwr",
+        "label": "Ağır şikâyet çıpası: Toplumun Kur'an'ı hayatın dışına itip terk edilmiş ve işlevsiz bırakması (هَٰذَا ٱلْقُرْءَانَ مَهْجُورًا — ism-i mef'ûl: 25:30)"
+      },
+      {
+        "lemma": "hajor",
+        "label": "Zarif kopuş masdarı: Hakaret edenlerden kırıcı olmadan onurlu ve güzel bir mesafeyle ayrılmak (هَجْرًا جَمِيلًا — masdar: 73:10)"
+      },
+      {
+        "lemma": "{hojuro",
+        "ayahs": [
+          "74:5"
+        ],
+        "label": "Ahlaki arınma kopuşu: Her türlü pislik ve sapkınlıktan kesin biçimde bağ koparıp uzaklaşmak (وَٱلرُّجْزَ فَٱهْجُرْ — Bab I fiil: 74:5)"
+      },
+      {
+        "lemma": "{hojuro",
+        "ayahs": [
+          "4:34"
+        ],
+        "label": "Aile hukuku mesafesi: Evlilik krizinde şiddete değil geçici yatak ayrılığına/mesafeye başvurmak (وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ — Bab I fiil: 4:34)"
+      },
+      {
+        "lemma": "{hojuro",
+        "ayahs": [
+          "23:67"
+        ],
+        "label": "Alayla dışlama fiili: Gece sohbetlerinde büyüklük taslayarak Kur'an'ı terk edip boş sözlerle dışlamak (سَٰمِرًا تَهْجُرُونَ — Bab I fiil: 23:67)"
+      },
+      {
+        "lemma": "{hojuro",
+        "label": "Mesafe koyma fiili: İlişkiyi kesip uzaklaşmak (19:46 babanın İbrâhîm'i uzaklaştırması; 73:10 onurlu mesafe koymak — Bab I fiil)"
+      },
+      {
+        "lemma": "muha`jira`t",
+        "label": "Göç eden kadınlar çıpası: Baskı ortamından özgürlük ve güvenlik yurduna göç eden kadınların sığınma güvencesi (مُهَٰجِرَٰتٍ — Bab III ism-i fâil dişil çoğul: 60:10)"
+      },
+      {
+        "lemma": "muhaAjir",
+        "label": "Özgürlük göçmenleri: Zulüm ve baskı yurdundan kopup Allah yolunda göç edenler (ٱلْمُهَٰجِرِينَ / مُهَاجِرًا — Bab III ism-i fâil)"
+      },
+      {
+        "lemma": "haAjara",
+        "label": "Özgürlük göçü fiili: İnanç ve onuru boğan baskı yurdundan koparak Allah yolunda özgürlük ve dayanışma yurduna göç etmek (هَاجَرَ / يُهَاجِرُ — Bab III fiil)"
+      }
+    ],
+    "irab_default": "Bilinçli biçimde bağ koparmak, mesafe koymak veya zulüm yurdundan özgürlüğe göç etmek (ه-ج-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:34",
+          "19:46",
+          "73:10",
+          "74:5"
+        ],
+        "text": "Bağ koparma ve mesafe: pislikten kesin kopuş (74:5), zarif/onurlu ayrılış (73:10), geçici yatak mesafesi (4:34) ve aile içi dışlanma."
+      },
+      {
+        "ayahs": [
+          "23:67",
+          "25:30"
+        ],
+        "text": "Kur'an'ı dışlama ve terk edilmiş bırakma uyarısı (مَهْجُورًا / تَهْجُرُونَ)."
+      },
+      {
+        "ayahs": [
+          "2:218",
+          "3:195",
+          "4:89",
+          "4:97",
+          "4:100",
+          "8:72",
+          "8:74",
+          "8:75",
+          "9:20",
+          "9:100",
+          "9:117",
+          "16:41",
+          "16:110",
+          "22:58",
+          "24:22",
+          "29:26",
+          "33:6",
+          "33:50",
+          "59:8",
+          "59:9",
+          "60:10"
+        ],
+        "text": "Zulüm ve baskı ortamından kopup Allah yolunda özgürlük ve dayanışma yurduna göç etmek (هَاجَرَ / ٱلْمُهَٰجِرِينَ)."
+      }
+    ],
+    "context_default": "Bilinçli bağ koparmak, onurlu mesafe koymak veya özgürlük yurduna göç etmek (ه-ج-ر)."
+  },
+  "ع-م-ر": {
+    "buckwalter": "Emr",
+    "slug": "omur_imar_ve_umre_yasam_suresi_yeryuzunu_bayindir_kilmak_ve_kadim_evi_canli_tutmak_emr",
+    "concept_name": "Ömür, İmâr ve Umre (Yaşam Süresi, Yeryüzünü Bayındır Kılmak ve Kadîm Evi Canlı Tutmak)",
+    "keywords": [
+      "ömür",
+      "imar",
+      "umre",
+      "yeryüzünü bayındır kılmak",
+      "istimar",
+      "mamur",
+      "canlı tutmak",
+      "yaşam süresi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{sotaEomara",
+        "label": "Yeryüzü imar görevi çıpası: Sömürü anlamının tam tersine, Allah'ın insanı yeryüzünü yaşanır, üretken ve bayındır kılmakla görevlendirmesi (وَٱسْتَعْمَرَكُمْ فِيهَا — Bab X fiil: 11:61)"
+      },
+      {
+        "lemma": "Eamaru",
+        "ayahs": [
+          "9:17",
+          "9:18"
+        ],
+        "label": "Secde mekânlarını yaşatma fiili: Allah'ın mescitlerini salt taş inşaatla değil güven ve sorumluluk bilinciyle canlı tutmak (يَعْمُرُ مَسَٰجِدَ ٱللَّهِ — Bab I fiil)"
+      },
+      {
+        "lemma": "Eamaru",
+        "label": "Yeryüzünü bayındır kılma fiili: Geçmiş uygarlıkların toprağı işleyip yeryüzünü mamur ve üretken kılmaları (وَعَمَرُوهَآ — Bab I fiil: 30:9)"
+      },
+      {
+        "lemma": "EimaArap",
+        "label": "Dışsal imar kıyaslaması: Mescid-i Harâm'ın dışsal bakım ve hizmetinin tek başına hakikat çabasına denk tutulamayacağı (وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ — masdar: 9:19)"
+      },
+      {
+        "lemma": "maEomuwr",
+        "label": "Her daim canlı Ev çıpası: Sürekli ziyaret ve canlılıkla dolu, mamur Ev (وَٱلْبَيْتِ ٱلْمَعْمُورِ — ism-i mef'ûl: 52:4)"
+      },
+      {
+        "lemma": "{Eotamara",
+        "label": "Kadîm Evi ziyaret fiili: Merkezî Evi canlı tutmak üzere bilinçli ziyaret gerçekleştirmek (أَوِ ٱعْتَمَرَ — Bab VIII fiil: 2:158)"
+      },
+      {
+        "lemma": "Eumorap",
+        "label": "Bilinçli ziyaret çıpası: Kadîm Evi yalnız Allah için şenlendirip ziyaret etme düzeni (ٱلْعُمْرَةَ — isim: 2:196)"
+      },
+      {
+        "lemma": "Eamor",
+        "label": "Yaşam üzerine güçlü vurgulama: Elçinin hayatı üzerine çarpıcı vurgu (لَعَمْرُكَ — isim: 15:72)"
+      },
+      {
+        "lemma": "yuEam~aru",
+        "label": "Ömür uzatma fiili: İnsana düşünüp hatırlamaya yetecek kadar uzun yaşam süresi vermek (يُعَمَّرُ / نُعَمِّرْكُم / نُّعَمِّرْهُ — Bab II fiil)"
+      },
+      {
+        "lemma": "m~uEam~ar",
+        "label": "Uzun ömür verilen kişi: Ömrü uzatılan her insanın yaşam süresinin evrensel kayıt yasasına bağlı olması (مُّعَمَّرٍ — Bab II ism-i mef'ûl: 35:11)"
+      },
+      {
+        "lemma": "Eumur",
+        "label": "Yaşam süresi / ömür: İnsanın yeryüzünde yaşayıp doldurduğu hayat süresi ve yaşlılık çağı (عُمُرًا / ٱلْعُمُرِ / عُمُرِكَ — isim)"
+      }
+    ],
+    "irab_default": "Yaşam süresinin uzaması (ömür), yeryüzünü bayındır/canlı kılmak veya Kadîm Evi ziyaret etmek (ع-م-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:17",
+          "9:18",
+          "9:19",
+          "11:61",
+          "30:9",
+          "52:4"
+        ],
+        "text": "Yeryüzünü bayındır kılma görevi (وَٱسْتَعْمَرَكُمْ), secde mekânlarının manevi canlılığı ve her daim mamur Ev."
+      },
+      {
+        "ayahs": [
+          "2:158",
+          "2:196"
+        ],
+        "text": "Kadîm Evi canlı tutma ziyareti (ٱلْعُمْرَة / ٱعْتَمَرَ): yalnız Allah için eksiksiz tamamlamak."
+      },
+      {
+        "ayahs": [
+          "2:96",
+          "10:16",
+          "15:72",
+          "16:70",
+          "21:44",
+          "22:5",
+          "26:18",
+          "28:45",
+          "35:11",
+          "35:37",
+          "36:68"
+        ],
+        "text": "Ömür ve yaşam süresi (عُمُر / تَعْمِير): hatırlayıp uyanmaya yetecek ömür fırsatı ve yaşamın düşkün çağı."
+      }
+    ],
+    "context_default": "Ömür/yaşam süresi, yeryüzünü bayındır ve canlı kılmak veya Kadîm Evi ziyaret etmek (ع-م-ر)."
+  },
+  "ن-س-ك": {
+    "buckwalter": "nsk",
+    "slug": "nusuk_ve_mensek_butuncul_adanmislik_adanmislik_duzeni_ve_paylasilan_sunu_nsk",
+    "concept_name": "Nüsük ve Mensek (Bütüncül Adanmışlık, Her Topluluğun Adanmışlık Düzeni ve Paylaşılan Sunu)",
+    "keywords": [
+      "nüsük",
+      "mensek",
+      "menasik",
+      "adanmışlık",
+      "adanmışlık düzeni",
+      "paylaşılan sunu",
+      "adak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nusuk",
+        "ayahs": [
+          "6:162"
+        ],
+        "label": "Bütüncül adanmışlık çıpası: Yöneliş bağı, yaşam ve ölümle birlikte bütün varlığın yalnız Allah'a adanması (وَنُسُكِى — isim: 6:162)"
+      },
+      {
+        "lemma": "nusuk",
+        "label": "Paylaşılan adak sunusu: Mazeret telafisinde kendini tutma (صِيَام) veya bağışa alternatif olarak ihtiyaç sahipleriyle paylaşılan adak sunusu (أَوْ نُسُكٍ — isim: 2:196)"
+      },
+      {
+        "lemma": "naAsikuw",
+        "label": "Uygulayıcılar çıpası: Kendilerine belirlenen adanmışlık düzenini içtenlikle yerine getirenler (هُمْ نَاسِكُوهُ — ism-i fâil çoğul: 22:67)"
+      },
+      {
+        "lemma": "mansak",
+        "ayahs": [
+          "22:34",
+          "22:67"
+        ],
+        "label": "Çoğulculuk ve amaç çıpası: Her topluluğa Allah'ı anmak ve nimetini paylaşmak üzere belirlenen adanmışlık yolu ve düzeni (مَنسَكًا — isim)"
+      },
+      {
+        "lemma": "mansak",
+        "label": "Adanmışlık uygulama düzeni: İbrâhîm ve İsmâîl'in öğrenmek istediği ve tamamlanınca canlı anmaya vesile olan görev düzeni (مَنَاسِكَنَا / مَّنَٰسِكَكُمْ — çoğul isim: 2:128, 2:200)"
+      }
+    ],
+    "irab_default": "Bütünüyle Allah'a adanmak, düzenli adanmışlık yolu veya paylaşılan adak sunusu (ن-س-ك kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:162"
+        ],
+        "text": "Bütüncül adanmışlık (وَنُسُكِى): yöneliş bağı, hayat ve ölümle birlikte bütünüyle Allah'a ait olmak."
+      },
+      {
+        "ayahs": [
+          "2:128",
+          "2:196",
+          "2:200"
+        ],
+        "text": "Kadîm Ev buluşmasındaki adanmışlık düzeni (مَنَاسِك) ve telafi amaçlı paylaşılan adak sunusu (نُسُك)."
+      },
+      {
+        "ayahs": [
+          "22:34",
+          "22:67"
+        ],
+        "text": "Her topluluğa belirlenen adanmışlık düzeni (مَنسَكًا هُمْ نَاسِكُوهُ): biçimsel çekişmeden uzak, Allah'ı anma ve paylaşma odağı."
+      }
+    ],
+    "context_default": "Bütüncül Allah'a adanmışlık, adanmışlık düzeni ve paylaşılan sunu (ن-س-ك)."
+  },
+  "س-ط-ر": {
+    "buckwalter": "sTr",
+    "slug": "satr_esatir_ve_musaytir_satir_satir_yazmak_eski_soylence_yaftasi_ve_zorba_denetci_str",
+    "concept_name": "Satr, Esâtîr ve Musaytır (Satır Satır Kaydetmek, Eski Yazılar/Söylenceler Yaftası ve Zorba Denetçi)",
+    "keywords": [
+      "satır",
+      "mestur",
+      "müstatar",
+      "esâtîrü'l-evvelîn",
+      "musaytır",
+      "zorba denetçi",
+      "inanç özgürlüğü",
+      "kalıcı kayıt"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yasoTuru",
+        "label": "Fiziksel yazım çıpası: Kalemle düzgün satırlar hâlinde yazıp kalıcı kayda geçirmek (وَٱلْقَلَمِ وَمَا يَسْطُرُونَ — Bab I fiil: 68:1)"
+      },
+      {
+        "lemma": "m~usotaTar",
+        "label": "Eksiksiz kayıt çıpası: Küçük-büyük hiçbir şey dışarıda bırakılmadan satır satır kayda geçirilmiş olması (مُّسْتَطَرٌ — Bab VIII ism-i mef'ûl: 54:53)"
+      },
+      {
+        "lemma": "masoTuwr",
+        "label": "Satır satır yazılmış Kitap: İnce deriye veya ilahi yasalar bütününe düzenli satırlarla geçirilmiş kesin kayıt (مَسْطُورًا / مَّسْطُورٍ — ism-i mef'ûl: 17:58, 33:6, 52:2)"
+      },
+      {
+        "lemma": "muSayoTir",
+        "ayahs": [
+          "88:22"
+        ],
+        "label": "İnanç özgürlüğü anayasası çıpası: Elçinin görevinin insanlar üzerinde zorlayıcı denetim kuran baskıcı bir hâkim olmak değil, yalnızca hatırlatmak olması (لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ — ism-i fâil: 88:22)"
+      },
+      {
+        "lemma": "muSayoTir",
+        "label": "Mutlak hâkimiyet eleştirisi: Rabbin hazineleri üzerinde mutlak kontrol ve egemenlik iddiasında bulunmak (ٱلْمُصَۣيْطِرُونَ — ism-i fâil çoğul: 52:37)"
+      },
+      {
+        "lemma": ">asa`Tiyr",
+        "label": "Vahyi yaftalama çıpası: Hakikati örtenlerin vahyi yeni ilahi bildirim değil, 'eskilerin yazıp dizdiği geçmiş metinler/söylenceler' diye damgalaması (أَسَٰطِيرُ ٱلْأَوَّلِينَ — çoğul isim)"
+      }
+    ],
+    "irab_default": "Düzgün satırlar hâlinde yazıp kaydetmek, eski yazılı söylence veya zorlayıcı denetçi/hâkim (س-ط-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:58",
+          "33:6",
+          "52:2",
+          "54:53",
+          "68:1"
+        ],
+        "text": "Kalem ve eksiksiz yazılı kayıt (يَسْطُرُونَ / مَسْطُور / مُسْتَطَر): küçük-büyük her şeyin satır satır kayda geçirilmesi."
+      },
+      {
+        "ayahs": [
+          "6:25",
+          "8:31",
+          "16:24",
+          "23:83",
+          "25:5",
+          "27:68",
+          "46:17",
+          "68:15",
+          "83:13"
+        ],
+        "text": "Eskilerin yazıp dizdiği metinler/söylenceler ithamı (أَسَٰطِيرُ ٱلْأَوَّلِينَ): vahyi geçmişten kopyalanmış metin sayan reddiyeci yafta."
+      },
+      {
+        "ayahs": [
+          "52:37",
+          "88:22"
+        ],
+        "text": "Zorba denetçi ve baskıcı hâkimiyetin reddi (مُصَيْطِر): elçilik baskı değil özgür akla hatırlatmadır."
+      }
+    ],
+    "context_default": "Satır satır yazmak, yazılı söylence yaftası veya zorlayıcı denetçi hâkimiyet (س-ط-ر)."
   }
 }
