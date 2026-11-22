@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 25 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 80 / 131 Kök (Toplam Mühürlü: 301 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 30 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 85 / 131 Kök (Toplam Mühürlü: 306 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -89,11 +89,11 @@
 | 78 | 3B | Mesânî ve Furûk Kilidi | 527 | `ب-خ-ل` | `B-H-L` | **12** | 7 | 3:180 | Buhl (İmkânı Paylaşım Akışından Koparıp Esirgemek ve Cimriliğin Öz-Zararı) | ✅ **MÜHÜRLÜ** |
 | 79 | 3B | Mesânî ve Furûk Kilidi | 363 | `ج-ه-ل` | `C-H-L` | **24** | 24 | 2:67 | Cehl ve Cahiliye (Bilgi ve Özdenetim Yitimi, Fevri Taşkınlık ve Kabile Öfkesi) | ✅ **MÜHÜRLÜ** |
 | 80 | 3B | Mesânî ve Furûk Kilidi | 460 | `ص-م-م` | `S-M-M` | **15** | 14 | 2:18 | Samem ve Esamm (Algı Kanalını Sımsıkı Tıkamak ve Akletmeden Kör Kapanmak) | ✅ **MÜHÜRLÜ** |
-| 81 | 3B | Mesânî ve Furûk Kilidi | 625 | `ك-ن-ز` | `K-N-Z` | **9** | 7 | 9:34 | Kenz (9:34 İnfâk ana zıttı: serveti yığıp toplumun dolaşımından tıkama) | ⏳ *Bekliyor* |
-| 82 | 3B | Mesânî ve Furûk Kilidi | 255 | `ن-ك-ر` | `N-K-R` | **37** | 37 | 3:104 | Münker (Ma'rûf ana zıttı: aklın ve vicdanın yadırgayıp reddettiği yabancı/çirkin fiil) | ⏳ *Bekliyor* |
-| 83 | 3B | Mesânî ve Furûk Kilidi | 365 | `ف-ح-ش` | `F-H-S` | **24** | 23 | 2:169 | Fahşâ ve Fâhişe (ölçüyü aşıp çirkinleşen her türlü ağır taşkınlık; Münker/Bağy Furûku) | ⏳ *Bekliyor* |
-| 84 | 3B | Mesânî ve Furûk Kilidi | 376 | `س-ر-ف` | `S-R-F` | **23** | 21 | 3:147 | İsrâf (Tebzîr ile Furûk: yalnızca harcamada değil her alanda ölçüyü ve sınırı aşma) | ⏳ *Bekliyor* |
-| 85 | 3B | Mesânî ve Furûk Kilidi | 994 | `ب-ذ-ر` | `B-Z-R` | **3** | 2 | 17:26 | Tebzîr (İsrâf ile Furûk: 17:26-27 tohum gibi rastgele saçıp savurma) | ⏳ *Bekliyor* |
+| 81 | 3B | Mesânî ve Furûk Kilidi | 625 | `ك-ن-ز` | `K-N-Z` | **9** | 7 | 9:34 | Kenz (Serveti Dolaşımdan Çekip İstiflemek, Yığmak ve Emanet Birikim) | ✅ **MÜHÜRLÜ** |
+| 82 | 3B | Mesânî ve Furûk Kilidi | 255 | `ن-ك-ر` | `N-K-R` | **37** | 37 | 3:104 | Münker ve Nekîr (Tanışıklık Karşıtı Yadırgama, Yabancılaşma ve Vicdanın Reddettiği Aykırılık) | ✅ **MÜHÜRLÜ** |
+| 83 | 3B | Mesânî ve Furûk Kilidi | 365 | `ف-ح-ش` | `F-H-S` | **24** | 23 | 2:169 | Fâhişe ve Fahşâ (Ölçüyü Aşıp Çirkinliği Taşan Açık ve Gizli Ahlaki Sınır Aşımı) | ✅ **MÜHÜRLÜ** |
+| 84 | 3B | Mesânî ve Furûk Kilidi | 376 | `س-ر-ف` | `S-R-F` | **23** | 21 | 3:147 | İsraf ve Müsrif (Tüketim, Hukuk, Güç ve Benlikte Makul Ölçüyü ve Sınırı Aşmak) | ✅ **MÜHÜRLÜ** |
+| 85 | 3B | Mesânî ve Furûk Kilidi | 994 | `ب-ذ-ر` | `B-Z-R` | **3** | 2 | 17:26 | Tebzîr (İmkânı Tohum Gibi Yersiz ve Yıkıcı Alanlara Saçıp Heba Etmek) | ✅ **MÜHÜRLÜ** |
 | 86 | 3B | Mesânî ve Furûk Kilidi | 468 | `ش-ك-ك` | `S-K-K` | **15** | 15 | 4:157 | Şekk (Rayb ile Furûk: zihnin iki ihtimal arasında dengeli tereddüdü) | ⏳ *Bekliyor* |
 | 87 | 3B | Mesânî ve Furûk Kilidi | 737 | `ز-و-ر` | `Z-W-R` | **6** | 6 | 18:17 | Zûr (İfk/İftirâ/Zûr/Kezib Furûku: gerçekten sapmış eğri tanıklık ve sahte söz) | ⏳ *Bekliyor* |
 | 88 | 3B | Mesânî ve Furûk Kilidi | 560 | `ط-ب-ع` | `T-B-A` | **11** | 11 | 4:155 | Tab' (Hatm ile Furûk: tekrarlanan seçimler sonucu kalbin katılaşıp damgalanması) | ⏳ *Bekliyor* |

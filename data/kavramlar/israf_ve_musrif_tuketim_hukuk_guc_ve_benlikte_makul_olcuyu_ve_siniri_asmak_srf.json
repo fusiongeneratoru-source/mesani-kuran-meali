@@ -1,0 +1,519 @@
+{
+  "root": "س-ر-ف",
+  "root_latin": "S-R-F (srf)",
+  "concept_name": "İsraf ve Müsrif (Tüketim, Hukuk, Güç ve Benlikte Makul Ölçüyü ve Sınırı Aşmak)",
+  "rank": 376,
+  "total_occurrences": 23,
+  "unique_ayahs_count": 21,
+  "unified_core_mechanism": "Tüketimde, harcamada, hukukta, güç kullanımında, ahlakta veya kişinin kendi benliğinde belirlenmiş makul ölçüyü ve hakkı aşıp öteye taşmak (`4:6`, `6:141`, `7:31`, `25:67` tüketim, hasat ve yetim malında aşırılık vs denge [قَوَام]; `5:32`, `10:83`, `17:33`, `26:151`, `44:31` öldürmede, kısasta ve iktidarda zorba sınır aşımı; `3:147`, `39:53` kendi benliğine aşırı zarar verenlerin bağışlanma ve umut çağrısı; `7:81`, `10:12`, `20:127`, `40:28,34,43` ahlaki ve zihinsel aşırılık).",
+  "physical_core": "Belirlenmiş makul **ölçüyü, hakkı ve denge sınırını aşıp öteye taşmak (`تعدّي الحدّ ومجاوزة القصد`)** — `س-ر-ف` (23 geçiş) yalnızca yiyecek artırmak değil, **tüketimde (`6:141`, `7:31`, `25:67`), hukuk ve kısasta (`17:33` `فَلَا يُسْرِف فِّى ٱلْقَتْلِ`), iktidar zorbalığında (`10:83`, `44:31`), ahlaki ilişkide (`7:81`) ve insanın kendi özüne verdiği tahribatta (`39:53`)** denge çizgisini çiğneyen her türlü aşırılıktır!",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün tek sağlam aslının **'sınırı aşmak (`تعدي الحد`)'** ve bununla bağlantılı olarak ölçüyü gözden kaçırmak olduğunu mühürler.",
+    "lisan_al_arab": "İbn Manzûr `إِسْرَاف`ın yalnızca mal harcamada değil, insanın yaptığı her işte makul ölçüyü aşması (`مجاوزة القصد في كل فعل يفعله الإنسان`) olduğunu kaydeder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `إِسْرَاف`ı 'nicelik veya nitelikte makul sınırı aşmak (`تجاوز الحد في كل فعل`)' diye tanımlar; `17:33`te öldürmede aşırılık, `25:67`de harcamada aşırılık ve `39:53`te kişinin kendi benliğine karşı aşırılığıyla kökün bütünlüğünü gösterir.",
+    "arbitration_decision": "Hakem Masası Kararı: `س-ر-ف` (23 geçişin tamamı Bab IV ailesi!) dar 'ekonomik savurganlık' çevirisinden çıkarılıp **'ölçü ve sınır aşımı'** çekirdeğine oturtulduğunda tüm ayetler berraklaşır: (1) **Tüketim, Hasat ve Yetim Malında Ölçü (`4:6`, `6:141` [2x], `7:31` [2x], `25:67`):** Meşru rızıktan yararlanıp cimrilik (`قَتْر`) ile aşırılık (`إِسْرَاف`) ortasında dengeli durmak (`قَوَام`). (2) **Şiddet, Kısas ve Siyasal Zorbalıkta Sınır Aşımı (`5:32`, `10:83`, `17:33`, `26:151`, `44:31`):** `17:33`te mazlumun velisine bile 'öldürmede sınırı aşmasın' uyarısı; `5:32`de haksız yere cana kıyanların aşırılığı; `10:83` ve `44:31`de Firavun'un zorba aşırılığı; `26:151`de bozguncu aşırılara itaat yasağı. (3) **Kendi Özüne Aşırı Zarar Verenlere Umut Kapısı (`3:147`, `39:53`):** `39:53`te `أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ` (kendi benliğine karşı sınırı çokça aşanlar) için bile ilahi rahmet ve dönüş kapısının ardına dek açık olması. (4) **Ahlaki ve Zihinsel Aşırılık (`7:81`, `10:12`, `20:127`, `21:9`, `36:19`, `40:28,34,43`, `43:5`, `51:34`):** Yalan, kuşku, şımarıklık ve ahlaki sınır tanımazlık."
+  },
+  "semitic_cognates": {
+    "hebrew": "שָׂרַף (śārap̄: yakıp tüketmek — fonetik olarak benzer olsa da Arapça س-ر-ف Proto-Sami *s-r-p 'sınırı aşıp tüketmek/taşmak' alanında bağımsız gelişmiştir)",
+    "aramaic_syriac": "Arapça س-ر-ف (Bab IV أَسْرَفَ / إِسْرَاف / مُسْرِف) 'makul denge sınırını aşıp taşmak' anlamında tüm ahlak, hukuk ve ekonomi alanlarını kuşatır",
+    "note": "Arapçada ağaç yapraklarını aşırı kemirip tüketen kurtçuğa سُرْفَة denilmesi, kökün 'ölçüsüzce tüketip sınırı aşma' somut imgesini canlı tutar."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ق-و-م [لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا] (Ölçüyü Aşıp Taşmak ↔ Cimrilikle Aşırılık Ortasında Dengeli ve Dik Durmak [يُسْرِفُوا۟ & قَوَامًا]: 25:67)",
+      "ب-ذ-ر [وَلَا تُسْرِفُوٓا۟ / وَلَا تُبَذِّرْ تَبْذِيرًا] (Meşru Alanda Ölçüyü Aşmak ↔ İmkânı Yersiz ve Yıkıcı Yere Saçıp Heba Etmek [تُسْرِفُوٓا۟ & تُبَذِّرْ]: 6:141, 17:26)",
+      "ر-ح-م [ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ] (Kendi Benliğine Karşı Sınırı Aşmak ↔ Kuşatıcı İlahi Rahmetten Umut Kesmemek [أَسْرَفُوا۟ & رَّحْمَةِ]: 39:53)",
+      "ص-ل-ح [وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ ٱلَّذِينَ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ] (Yeryüzünde Bozgun Çıkaran Aşırılar ↔ Onarıp İyileştirmek [ٱلْمُسْرِفِينَ & يُصْلِحُونَ]: 26:151-152)"
+    ],
+    "key_ayahs": [
+      "25:67 (لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا — denge ve ölçü çıpası)",
+      "6:141, 7:31 (وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ — tüketimde ölçü çıpası)",
+      "17:33 (فَلَا يُسْرِف فِّى ٱلْقَتْلِ — hukuk ve kısasta sınır aşımı yasağı)",
+      "39:53 (ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ — kendi özüne aşırılık ve umut kapısı)",
+      "10:83, 44:31, 26:151 (إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ — zorba iktidar aşırılığı)"
+    ],
+    "reverse_stress_test": "Ölçülü denge (`قَوَام` — `25:67`), hukuki adalet (`17:33`) ve onarım (`ص-ل-ح` — `26:152`) karşısına yerleştirildiğinde, `س-ر-ف` kökünün 'belirlenmiş makul ölçüyü ve hakkı aşıp taşmak' çekirdeği tüm 23 geçişi eksiksiz kilitler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "يُسْرِفُوا۟ (S-R-F: Harcamada ve Tüketimde Makul Sınırı Aşıp Taşmak) vs يَقْتُرُوا۟ (Q-T-R: İhtiyaçları Kısmak ve Cimrilik Etmek) vs قَوَامًا (Q-W-M: İkisinin Ortasında Sağlam Denge) [25:67]",
+      "إِسْرَافًا (S-R-F: Yetim Malını Makul Ölçüyü Aşarak Tüketmek) vs بِدَارًا (B-D-R: Yetimler Büyümeden Aceleyle Yiyip Bitirme Telaşı) [4:6]"
+    ],
+    "mechanical_difference": "`25:67`de `إِسْرَاف` iki uçtan biri olan 'ölçüyü aşma'yı, `قَتْر` öbür uç olan 'kısma'yı, `قَوَام` ise sağlıklı orta dengeyi tanımlar; `17:33`te ise `إِسْرَاف`ın mal değil **adalet ve şiddet sınırını aşmak** olduğu açıkça görülür."
+  },
+  "anchor_ayahs": [
+    "25:67 (لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا — altın denge ölçütü)",
+    "17:33 (فَلَا يُسْرِف فِّى ٱلْقَتْلِ — hukukta ve kısasta sınır aşımı yasağı)",
+    "39:53 (ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ — umut ve dönüş çağrısı)",
+    "6:141, 7:31 (وَلَا تُسْرِفُوٓا۟ — tarımda ve tüketimde ölçü)",
+    "26:151, 44:31 (أَمْرَ ٱلْمُسْرِفِينَ — siyasal ve toplumsal zorba aşırılar)"
+  ],
+  "grammar_and_branch_rules": "1) Ekonomik ve Tüketim Ölçüsü (`4:6`, `6:141`, `7:31`, `25:67`): Meşru kaynakları cimrilikle aşırılık arasında dengeli kullanmak. 2) Hukuk, Şiddet ve İktidar Sınırı (`5:32`, `10:83`, `17:33`, `26:151`, `44:31`): Kısasta dahi ölçüyü aşmamak ve yeryüzünde zorba aşırılara boyun eğmemek. 3) Kişisel ve Ahlaki Aşırılık (`3:147`, `7:81`, `10:12`, `20:127`, `21:9`, `36:19`, `39:53`, `40:28,34,43`, `43:5`, `51:34`): Öz benliğe ve hakikate karşı sınırı aşmak ile `39:53`te rahmetten umut kesmeme ilkesi.",
+  "derivatives": {
+    "أَسْرَفَ / يُسْرِفُ (Bab IV Fiil - 6 geçiş)": "Tüketimde, kısasta, harcamada veya kendi benliğinde makul ölçüyü ve hakkı aşıp taşmak.",
+    "إِسْرَاف (Bab IV Masdar - 2 geçiş: 3:147, 4:6)": "İşlerde veya yetim malında ölçüyü aşıp sınırı çiğneme eylemi.",
+    "مُسْرِف (Bab IV İsm-i Fâil / Sıfat - 15 geçiş)": "Tüketimde, şiddette, iktidar kibrinde veya yalanda makul sınırı aşıp taşan aşırılık yanlısı."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 3,
+      "ayah": 147,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:147",
+      "word_position": 11,
+      "target_word_uthmani": "وَإِسْرَافَنَا",
+      "target_word_rasm": "وإسرافنا",
+      "target_word_literal_irab": "İşlerde ve yetim malında sınır aşımı: İşlerde ölçüyü kaçırmak (3:147) ve yetim malını aceleyle aşırı harcamak (4:6) (إِسْرَافَنَا / إِسْرَافًا — Bab IV masdar)",
+      "context_snippet_arabic": "ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ",
+      "context_snippet_turkish_tabula_rasa": "Sözleri ancak şuydu: Rabbimiz, yarlıga suçlarımızı, bağışla işlerimizde taşkınlık göstermemizi ve diret ayaklarımızı, yardım et bize gerçeğin üzerini örten...",
+      "morphology": {
+        "lemma": "<isoraAf",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<isoraAf|ROOT:srf|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sözleri ancak şuydu: Rabbimiz, yarlıga suçlarımızı, bağışla işlerimizde taşkınlık göstermemizi ve diret ayaklarımızı, yardım et bize gerçeğin üzerini örten kavme karşı.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 4,
+      "ayah": 6,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:6",
+      "word_position": 16,
+      "target_word_uthmani": "إِسْرَافًا",
+      "target_word_rasm": "إسرافا",
+      "target_word_literal_irab": "İşlerde ve yetim malında sınır aşımı: İşlerde ölçüyü kaçırmak (3:147) ve yetim malını aceleyle aşırı harcamak (4:6) (إِسْرَافَنَا / إِسْرَافًا — Bab IV masdar)",
+      "context_snippet_arabic": "أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Onların malını israf ederek, yahut büyüyünce geri alırlar diyerek yemeyin. Zengin olan, yetimin malına hiç dokunmasın. ...",
+      "morphology": {
+        "lemma": "<isoraAf",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<isoraAf|ROOT:srf|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimleri, nikah çağına dek deneyin, ergenlik çağına ulaştıklarını, olgunlaştıklarını gördünüz mü mallarını kendilerine verin. Onların malını israf ederek, yahut büyüyünce geri alırlar diyerek yemeyin. Zengin olan, yetimin malına hiç dokunmasın. Fakir olan, örfe uygun bir miktar yiyebilir. Mallarını geri vereceğiniz vakit bu muameleyi tanıklar huzurunda yapın. Allah, gereğince hesap sorucudur ve o, yeter.",
+      "contextual_meaning": "Hasatta, yeme-içmede, harcamada ve yetim malında cimrilik ile aşırılık arasında dengeli duruş (قَوَام)."
+    },
+    {
+      "surah": 5,
+      "ayah": 32,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:32",
+      "word_position": 40,
+      "target_word_uthmani": "لَمُسْرِفُونَ",
+      "target_word_rasm": "لمسرفون",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu yüzden şu hükmü yazdık İsrailoğullarına: Şüphe yok ki bir insanı öldürmesine, yahut yeryüzünde bozgunculuk etmesine karşılık olmayarak birisini öldüren,...",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|NOM"
+      },
+      "ayah_text_arabic_full": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu yüzden şu hükmü yazdık İsrailoğullarına: Şüphe yok ki bir insanı öldürmesine, yahut yeryüzünde bozgunculuk etmesine karşılık olmayarak birisini öldüren, bütün insanları öldürmüş gibidir ve kim, birisini kurtarır, diriltirse bütün insanları diriltmiş gibidir. Andolsun ki elçilerimiz, onlara apaçık delillerle geldiler de gene onların çoğu, bundan sonra yeryüzünde hadlerini aştılar.",
+      "contextual_meaning": "Hukukta, kısasta ve siyasal iktidarda (Firavun ve bozguncular) güç ve şiddet sınırını aşmak."
+    },
+    {
+      "surah": 6,
+      "ayah": 141,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:141",
+      "word_position": 27,
+      "target_word_uthmani": "تُسْرِفُوٓا۟",
+      "target_word_rasm": "تسرفوا",
+      "target_word_literal_irab": "Ölçüyü aşma eylemi: Tarımda, yeme-içmede, hukukta veya hakikate tutumda makul sınırı aşıp taşmak (أَسْرَفَ / تُسْرِفُوٓا۟ — Bab IV fiil)",
+      "context_snippet_arabic": "يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ",
+      "context_snippet_turkish_tabula_rasa": "... Meyve verince meyvelerinden yiyin, devşirme günü hakkını da israf etmemek şartıyla verin, şüphe yok ki o, müsrifleri sevmez.",
+      "morphology": {
+        "lemma": ">asorafa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>asorafa|ROOT:srf|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ مَعْرُوشَٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki çardaklı ve çardaksız bağları, bahçeleri, tatları çeşitli hurmaları, ekilmiş şeyleri, bir bakıma birbirine benzeyen, bir bakıma benzemeyen zeytinleri ve narları yetiştirip meydana getirir. Meyve verince meyvelerinden yiyin, devşirme günü hakkını da israf etmemek şartıyla verin, şüphe yok ki o, müsrifleri sevmez.",
+      "contextual_meaning": "Hasatta, yeme-içmede, harcamada ve yetim malında cimrilik ile aşırılık arasında dengeli duruş (قَوَام)."
+    },
+    {
+      "surah": 6,
+      "ayah": 141,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:141",
+      "word_position": 31,
+      "target_word_uthmani": "ٱلْمُسْرِفِينَ",
+      "target_word_rasm": "ٱلمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Meyve verince meyvelerinden yiyin, devşirme günü hakkını da israf etmemek şartıyla verin, şüphe yok ki o, müsrifleri sevmez.",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ مَعْرُوشَٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki çardaklı ve çardaksız bağları, bahçeleri, tatları çeşitli hurmaları, ekilmiş şeyleri, bir bakıma birbirine benzeyen, bir bakıma benzemeyen zeytinleri ve narları yetiştirip meydana getirir. Meyve verince meyvelerinden yiyin, devşirme günü hakkını da israf etmemek şartıyla verin, şüphe yok ki o, müsrifleri sevmez.",
+      "contextual_meaning": "Hasatta, yeme-içmede, harcamada ve yetim malında cimrilik ile aşırılık arasında dengeli duruş (قَوَام)."
+    },
+    {
+      "surah": 7,
+      "ayah": 31,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:31",
+      "word_position": 11,
+      "target_word_uthmani": "تُسْرِفُوٓا۟",
+      "target_word_rasm": "تسرفوا",
+      "target_word_literal_irab": "Ölçüyü aşma eylemi: Tarımda, yeme-içmede, hukukta veya hakikate tutumda makul sınırı aşıp taşmak (أَسْرَفَ / تُسْرِفُوٓا۟ — Bab IV fiil)",
+      "context_snippet_arabic": "وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ",
+      "context_snippet_turkish_tabula_rasa": "Ey Âdemoğulları, irtibat bağına duracağınız her vakit, elbisenizi giyin, süslenin ve yiyin, için, israf etmeyin, şüphe yok ki o, müsrifleri sevmez.",
+      "morphology": {
+        "lemma": ">asorafa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>asorafa|ROOT:srf|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Âdemoğulları, irtibat bağına duracağınız her vakit, elbisenizi giyin, süslenin ve yiyin, için, israf etmeyin, şüphe yok ki o, müsrifleri sevmez.",
+      "contextual_meaning": "Hasatta, yeme-içmede, harcamada ve yetim malında cimrilik ile aşırılık arasında dengeli duruş (قَوَام)."
+    },
+    {
+      "surah": 7,
+      "ayah": 31,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:31",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْمُسْرِفِينَ",
+      "target_word_rasm": "ٱلمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey Âdemoğulları, irtibat bağına duracağınız her vakit, elbisenizi giyin, süslenin ve yiyin, için, israf etmeyin, şüphe yok ki o, müsrifleri sevmez.",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Âdemoğulları, irtibat bağına duracağınız her vakit, elbisenizi giyin, süslenin ve yiyin, için, israf etmeyin, şüphe yok ki o, müsrifleri sevmez.",
+      "contextual_meaning": "Hasatta, yeme-içmede, harcamada ve yetim malında cimrilik ile aşırılık arasında dengeli duruş (قَوَام)."
+    },
+    {
+      "surah": 7,
+      "ayah": 81,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:81",
+      "word_position": 11,
+      "target_word_uthmani": "مُّسْرِفُونَ",
+      "target_word_rasm": "مسرفون",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+      "context_snippet_turkish_tabula_rasa": "Çünkü siz kadınları bırakıp şehvetle erkekleri kullanmadasınız ve siz, ancak haddini aşmış bir kavimsiniz.",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü siz kadınları bırakıp şehvetle erkekleri kullanmadasınız ve siz, ancak haddini aşmış bir kavimsiniz.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 10,
+      "ayah": 12,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:12",
+      "word_position": 24,
+      "target_word_uthmani": "لِلْمُسْرِفِينَ",
+      "target_word_rasm": "للمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "مَّسَّهُۥ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "İnsana bir zarar gelince yanüstü yatarak, yahut oturduğu halde, yahut da ayakta dua eder bize; o zararı ondan giderdik mi sanki o zarara uğramamış da o yüzden...",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا مَسَّ ٱلْإِنسَٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوْ قَاعِدًا أَوْ قَآئِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ مَرَّ كَأَن لَّمْ يَدْعُنَآ إِلَىٰ ضُرٍّ مَّسَّهُۥ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsana bir zarar gelince yanüstü yatarak, yahut oturduğu halde, yahut da ayakta dua eder bize; o zararı ondan giderdik mi sanki o zarara uğramamış da o yüzden bize dua etmemiştir, öylece dönergider. İşte aşkın hareketlerde bulunanlara, yaptıkları işler, böylece hoş görünmededir.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 10,
+      "ayah": 83,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:83",
+      "word_position": 22,
+      "target_word_uthmani": "ٱلْمُسْرِفِينَ",
+      "target_word_rasm": "ٱلمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "Firavun'un, kendilerini bir musibete uğratmasından korktukları için Musa'ya, kavminden bir soy güven duy ancak, başkaları güven duy ve gerçekten de Firavun,...",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun'un, kendilerini bir musibete uğratmasından korktukları için Musa'ya, kavminden bir soy güven duy ancak, başkaları güven duy ve gerçekten de Firavun, yeryüzünde pek yüceydi ve gerçekten o, buyruktan çıkmış kişilerdendi.",
+      "contextual_meaning": "Hukukta, kısasta ve siyasal iktidarda (Firavun ve bozguncular) güç ve şiddet sınırını aşmak."
+    },
+    {
+      "surah": 17,
+      "ayah": 33,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:33",
+      "word_position": 17,
+      "target_word_uthmani": "يُسْرِف",
+      "target_word_rasm": "يسرف",
+      "target_word_literal_irab": "Hukuk ve kısasta sınır aşımı yasağı: Haksız yere öldürülenin velisinin dahi misillemede ölçüyü aşmaması ilkesi (فَلَا يُسْرِف فِّى ٱلْقَتْلِ)",
+      "context_snippet_arabic": "لِوَلِيِّهِۦ سُلْطَٰنًا فَلَا يُسْرِف فِّى ٱلْقَتْلِ إِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Haklı olmadıkça Allah'ın haram ettiği cana kıymayın ve kim, zulümle öldürülürse mirasçısına, öldürene karşı bir kudret ve salahiyet verdik ancak öldürmede...",
+      "morphology": {
+        "lemma": ">asorafa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>asorafa|ROOT:srf|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَمَن قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِۦ سُلْطَٰنًا فَلَا يُسْرِف فِّى ٱلْقَتْلِ إِنَّهُۥ كَانَ مَنصُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Haklı olmadıkça Allah'ın haram ettiği cana kıymayın ve kim, zulümle öldürülürse mirasçısına, öldürene karşı bir kudret ve salahiyet verdik ancak öldürmede aşırı gitmemeli; şüphe yok ki yardıma da mazhar edilmiştir o.",
+      "contextual_meaning": "Hukukta, kısasta ve siyasal iktidarda (Firavun ve bozguncular) güç ve şiddet sınırını aşmak."
+    },
+    {
+      "surah": 20,
+      "ayah": 127,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:127",
+      "word_position": 4,
+      "target_word_uthmani": "أَسْرَفَ",
+      "target_word_rasm": "أسرف",
+      "target_word_literal_irab": "Ölçüyü aşma eylemi: Tarımda, yeme-içmede, hukukta veya hakikate tutumda makul sınırı aşıp taşmak (أَسْرَفَ / تُسْرِفُوٓا۟ — Bab IV fiil)",
+      "context_snippet_arabic": "وَكَذَٰلِكَ نَجْزِى مَنْ أَسْرَفَ وَلَمْ يُؤْمِنۢ بِـَٔايَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Ve işte biz, suç işlemekte ileri gidenleri ve Rabbinin ayetlerine güven duy böyle cezalandırırız; ahiret azabıysa elbette daha da çetindir, daha da sürekli.",
+      "morphology": {
+        "lemma": ">asorafa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>asorafa|ROOT:srf|3MS"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ نَجْزِى مَنْ أَسْرَفَ وَلَمْ يُؤْمِنۢ بِـَٔايَٰتِ رَبِّهِۦ وَلَعَذَابُ ٱلْءَاخِرَةِ أَشَدُّ وَأَبْقَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve işte biz, suç işlemekte ileri gidenleri ve Rabbinin ayetlerine güven duy böyle cezalandırırız; ahiret azabıysa elbette daha da çetindir, daha da sürekli.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 21,
+      "ayah": 9,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:9",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْمُسْرِفِينَ",
+      "target_word_rasm": "ٱلمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "وَمَن نَّشَآءُ وَأَهْلَكْنَا ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra vaadimizi gerçekleştirmiştik onlara da onları da kurtarmıştık, dilediklerimizi de ve güven bağı ileri gidenleri helak etmiştik.",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ صَدَقْنَٰهُمُ ٱلْوَعْدَ فَأَنجَيْنَٰهُمْ وَمَن نَّشَآءُ وَأَهْلَكْنَا ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra vaadimizi gerçekleştirmiştik onlara da onları da kurtarmıştık, dilediklerimizi de ve güven bağı ileri gidenleri helak etmiştik.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 25,
+      "ayah": 67,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:67",
+      "word_position": 5,
+      "target_word_uthmani": "يُسْرِفُوا۟",
+      "target_word_rasm": "يسرفوا",
+      "target_word_literal_irab": "Altın denge ölçütü: Harcamada ne ölçüyü aşıp taşan ne de kısan, ikisinin ortasında sağlam denge (قَوَام) kuran tutum (لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟)",
+      "context_snippet_arabic": "إِذَآ أَنفَقُوا۟ لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "Ve öyle kişilerdir onlar ki yoksullara bir şey verince ne israf ederler, ne de az verirler, ikisinin ortasını bulurlar.",
+      "morphology": {
+        "lemma": ">asorafa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>asorafa|ROOT:srf|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ إِذَآ أَنفَقُوا۟ لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve öyle kişilerdir onlar ki yoksullara bir şey verince ne israf ederler, ne de az verirler, ikisinin ortasını bulurlar.",
+      "contextual_meaning": "Hasatta, yeme-içmede, harcamada ve yetim malında cimrilik ile aşırılık arasında dengeli duruş (قَوَام)."
+    },
+    {
+      "surah": 26,
+      "ayah": 151,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:151",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْمُسْرِفِينَ",
+      "target_word_rasm": "ٱلمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "Aşırı gidenlerin emrine uymayın,",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aşırı gidenlerin emrine uymayın,",
+      "contextual_meaning": "Hukukta, kısasta ve siyasal iktidarda (Firavun ve bozguncular) güç ve şiddet sınırını aşmak."
+    },
+    {
+      "surah": 36,
+      "ayah": 19,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:19",
+      "word_position": 9,
+      "target_word_uthmani": "مُّسْرِفُونَ",
+      "target_word_rasm": "مسرفون",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar da, uğursuzluğunuz demişlerdi, kendinizden; öğüt verilirse de mi yapacaksınız bunu? Hayır, siz, haddi aşmış bir topluluksunuz.",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ طَٰٓئِرُكُم مَّعَكُمْ أَئِن ذُكِّرْتُم بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar da, uğursuzluğunuz demişlerdi, kendinizden; öğüt verilirse de mi yapacaksınız bunu? Hayır, siz, haddi aşmış bir topluluksunuz.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 39,
+      "ayah": 53,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:53",
+      "word_position": 4,
+      "target_word_uthmani": "أَسْرَفُوا۟",
+      "target_word_rasm": "أسرفوا",
+      "target_word_literal_irab": "Öz benliğe aşırılık ve umut çağrısı: Kendi benliğine karşı sınırı çokça aşmış olanların bile Allah'ın rahmetinden umut kesmemesi (ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ)",
+      "context_snippet_arabic": "قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا",
+      "context_snippet_turkish_tabula_rasa": "De ki: Ey kendi benliklerine uyup hadden aşırı hareket eden kullarım, Allah rahmetinden ümit kesmeyin; şüphe yok ki Allah, bütün suçları örter, şüphe yok ki o,...",
+      "morphology": {
+        "lemma": ">asorafa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>asorafa|ROOT:srf|3MP"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Ey kendi benliklerine uyup hadden aşırı hareket eden kullarım, Allah rahmetinden ümit kesmeyin; şüphe yok ki Allah, bütün suçları örter, şüphe yok ki o, suçları örter, rahimdir.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 40,
+      "ayah": 28,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:28",
+      "word_position": 38,
+      "target_word_uthmani": "مُسْرِفٌ",
+      "target_word_rasm": "مسرف",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "يَهْدِى مَنْ هُوَ مُسْرِفٌ كَذَّابٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve Firavun'un soyundan güvene eren ve güven duy gizleyen bir er, dedi ki: Rabbim Allah'tır dediği için mi adam öldüreceksiniz ve gerçekten de o, Rabbinizden...",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَ رَجُلٌ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ وَإِن يَكُ كَٰذِبًا فَعَلَيْهِ كَذِبُهُۥ وَإِن يَكُ صَادِقًا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌ كَذَّابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Firavun'un soyundan güvene eren ve güven duy gizleyen bir er, dedi ki: Rabbim Allah'tır dediği için mi adam öldüreceksiniz ve gerçekten de o, Rabbinizden apaçık deliller de getirmiştir size ve yalancıysa yalanı kendisine ait ve doğru söylüyorsa size vaadettiklerinin bir kısmına uğrarsınız; şüphe yok ki Allah, haddini aşan ve çok yalan söyleyen kişiyi doğru yola sevketmez.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 40,
+      "ayah": 34,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:34",
+      "word_position": 29,
+      "target_word_uthmani": "مُسْرِفٌ",
+      "target_word_rasm": "مسرف",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "ٱللَّهُ مَنْ هُوَ مُسْرِفٌ مُّرْتَابٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki daha önce Yusuf da, apaçık delillerle gelmişti de size getirdiği şey hakkında bir türlü şüpheden kurtulamamıştınız, sonunda ölünce de artık...",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَٰتِ فَمَا زِلْتُمْ فِى شَكٍّ مِّمَّا جَآءَكُم بِهِۦ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًا كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌ مُّرْتَابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki daha önce Yusuf da, apaçık delillerle gelmişti de size getirdiği şey hakkında bir türlü şüpheden kurtulamamıştınız, sonunda ölünce de artık dediniz, bundan sonra Allah, başka bir elçi göndermez kesin olarak; işte Allah, haddini aşan şüpheli kişiyi böyle saptırır.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 40,
+      "ayah": 43,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:43",
+      "word_position": 19,
+      "target_word_uthmani": "ٱلْمُسْرِفِينَ",
+      "target_word_rasm": "ٱلمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Gerçeğin ta kendisi şu ki: Siz beni, dünyada da çağırmaya salahiyetli olmayan, ahirette de salahiyetli olmayan birşeye çağırıyorsunuz ancak ve dönüp...",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌ فِى ٱلدُّنْيَا وَلَا فِى ٱلْءَاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçeğin ta kendisi şu ki: Siz beni, dünyada da çağırmaya salahiyetli olmayan, ahirette de salahiyetli olmayan birşeye çağırıyorsunuz ancak ve dönüp gideceğimiz yer, Allah tapısıdır ve şüphe yok ki haddini aşanlar, yakıcı yıkım yurdu ehlinin ta kendileridir.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 43,
+      "ayah": 5,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:5",
+      "word_position": 8,
+      "target_word_uthmani": "مُّسْرِفِينَ",
+      "target_word_rasm": "مسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "Haddi aşmış bir topluluk olduğunuzdan dolayı size Kur'an'ı bildirmekten vaz mı geçelim?",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Haddi aşmış bir topluluk olduğunuzdan dolayı size Kur'an'ı bildirmekten vaz mı geçelim?",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    },
+    {
+      "surah": 44,
+      "ayah": 31,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:31",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمُسْرِفِينَ",
+      "target_word_rasm": "ٱلمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "Firavun'dan; şüphe yok ki o haddi aşanlardan yücelik satan, ululanan biriydi.",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|GEN"
+      },
+      "ayah_text_arabic_full": "مِن فِرْعَوْنَ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun'dan; şüphe yok ki o haddi aşanlardan yücelik satan, ululanan biriydi.",
+      "contextual_meaning": "Hukukta, kısasta ve siyasal iktidarda (Firavun ve bozguncular) güç ve şiddet sınırını aşmak."
+    },
+    {
+      "surah": 51,
+      "ayah": 34,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:34",
+      "word_position": 4,
+      "target_word_uthmani": "لِلْمُسْرِفِينَ",
+      "target_word_rasm": "للمسرفين",
+      "target_word_literal_irab": "Sınır tanımayan aşırılık yanlısı: Tüketimde, şiddette, iktidar kibrinde (Firavun), ahlakta ve yalanda makul ölçüyü çiğneyenler (ٱلْمُسْرِفِينَ / مُسْرِفٌ — Bab IV ism-i fâil)",
+      "context_snippet_arabic": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "Öyle taşlar ki Rabbinin katında damgalanmış, haddi aşanlar için.",
+      "morphology": {
+        "lemma": "musorif",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:musorif|ROOT:srf|MP|GEN"
+      },
+      "ayah_text_arabic_full": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle taşlar ki Rabbinin katında damgalanmış, haddi aşanlar için.",
+      "contextual_meaning": "Ahlaki ve zihinsel sınır aşımı ile 39:53'te kendi özüne aşırı zarar verenlere açılan ilahi umut ve dönüş kapısı."
+    }
+  ]
+}
