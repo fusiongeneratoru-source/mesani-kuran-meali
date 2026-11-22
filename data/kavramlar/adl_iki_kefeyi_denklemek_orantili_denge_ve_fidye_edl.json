@@ -1,0 +1,620 @@
+{
+  "root": "ع-د-ل",
+  "root_latin": "A-D-L (Edl)",
+  "concept_name": "Adl (İki Kefeyi Eşitleyip Orantılı Denge Kurmak, Denk Fidye [Asl 1]; Eksenden Eğilip Eş Tutarak Sapmak [Asl 2])",
+  "rank": 321,
+  "total_occurrences": 28,
+  "unique_ayahs_count": 24,
+  "unified_core_mechanism": "Terazinin iki kefesini eşitleyip tam oran ve denge kurmak (`82:7` `فَعَدَلَكَ` insanı kusursuz oranla dengelemek; `4:58`, `5:8`, `16:90`, `49:9` tarafsız denge ve hakkaniyetle hükmetmek; `2:48`, `2:123`, `5:95`, `6:70` karşı kefeye konulan eşdeğer fidye/bedel); ters kutupta ise doğru eksenden yana eğilip Rabbe başka varlıkları denk tutarak sapmak (`6:1`, `6:150`, `27:60` `يَعْدِلُونَ`).",
+  "physical_core": "Yük hayvanının iki yanındaki denkleri veya terazinin iki kefesini tam eşit ağırlığa getirip doğrultmak (`82:7 فَعَدَلَكَ` — kusursuz oran ve denge kurmak; `عَدْل`: terazinin karşı kefesine konulan denk ağırlık/bedel); eksenden bir tarafa meyledip eğilmek ise aynı terazinin bozularak sapmasıdır (`6:1 بِرَبِّهِمْ يَعْدِلُونَ`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün birbirine karşıt iki sağlam asla dayandığını saptar: Asl 1 doğruluk ve denklik (`استواء`), Asl 2 eğilme ve sapma (`اعوجاج`). Hem hakkaniyetle yargılama (`الحكم بالاستواء`) hem de bir şeyin denk değeri/fidyesi (`قيمة الشيء وفداؤه`, 2:123) Asl 1'den doğar.",
+    "lisan_al_arab": "İbn Manzûr `عَدَلَ` kökünü terazide iki kefeyi dengelemek ve hayvanın iki yanındaki yük denklerini (`عِدْل`) eşitlemek somut görseliyle açıklar; `عَدْلٌ` kelimesinin hem eşit bedel/fidye hem de sapmasız denge ölçüsü olduğunu kaydeder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `عَدْل` terimini bütün alım-verim, hüküm ve paylaşım ilişkilerinde aşırılık ile eksiklik arasındaki tam eşitlik ve denge ölçüsü olarak tanımlar; `ذَوَا عَدْلٍ` ifadesinde masdarın sıfat yerine kullanılmasının 'bizzat dengenin temsilcisi' anlamında mübalağa kattığını belirtir.",
+    "arbitration_decision": "Hakem Masası Kararı: `ع-د-ل` kökünün 28 Kur'an geçişinin tamamı tek somut eksen olan **terazi kefesini eşitleme ve oran kurma** yasasıyla açılır: (1) Kozmik/biyolojik dengeleme (`82:7 فَعَدَلَكَ`), (2) yargıda, tanıklıkta, yazışmada, ailede ve toplumsal barışta tarafsız eşitlik (`2:282`, `4:3`, `4:58`, `4:129`, `4:135`, `5:8`, `5:95`, `5:106`, `6:115`, `6:152`, `7:159`, `7:181`, `16:76`, `16:90`, `42:15`, `49:9`, `65:2`), (3) karşı kefeye konulan eşdeğer bedel/fidye (`2:48`, `2:123`, `5:95`, `6:70`), (4) Asl 2 olan sapma ve yanlış denkleme: Allah ile başka varlıkları aynı kefeye koyup Rabden sapmak (`6:1`, `6:150`, `27:60`). Özellikle `2:48` ve `2:123`teki `عَدْلٌ` kelimesini 'adalet' değil, karşı kefeye konulacak **denk bedel/fidye** olarak okumak ayetin yapısını berraklaştırır."
+  },
+  "semitic_cognates": {
+    "note": "Arapça ع-د-ل kökü 'iki kefeyi/yükü denkleme, oranlama ve eksenden sapma' semantik bütünlüğüyle klasik Arapça ve Merkezî Sami alanında özgün biçimde gelişmiştir; Doğu ve Kuzeybatı Sami dillerinde kesin olarak doğrulanmış ortak bir Proto-Sami kökteş saptanmamıştır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ظ-ل-م & ب-غ-ي [إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ ... وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ] (Dengeli Eşitlik ve Hakkaniyet ↔ Sınır Aşımı, Haksızlık ve Azgınlık: 16:90, 49:9)",
+      "ج-ر-م [وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟] (Öfke ve Düşmanlığın Suça Sürüklemesi ↔ Her Koşulda Dengeli ve Tarafsız Kalmak: 5:8)",
+      "ه-و-ي [فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟] (Kör Arzunun Peşine Düşüp Sapmak ↔ Tarafsız Dengeyi Korumak: 4:135)",
+      "ح-س-ن & ج-ز-ي & ق-س-م & ق-س-ط [بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ / بِٱلْعَدْلِ وَأَقْسِطُوٓا۟] (İçsel Eşitlik ve Denge ↔ Güzelleştirici İyilik, Denk Karşılık ve Somut Pay Dağıtımı: 16:90, 49:9)",
+      "خ-ل-ق & ك-ل-ل & ح-م-د [ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ / كَلٌّ عَلَىٰ مَوْلَىٰهُ ... وَمَن يَأْمُرُ بِٱلْعَدْلِ / ٱلْحَمْدُ لِلَّهِ ... بِرَبِّهِمْ يَعْدِلُونَ] (Ölçülü Yaratılış, Yetkin Yöneticilik ve Tek Övgü ↔ Yük Olup Çaresiz Kalmak ve Rabbe Eş Koşup Sapmak: 6:1, 16:76, 82:7)"
+    ],
+    "key_ayahs": [
+      "82:7 (ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ — fiziksel çıpa: kusursuz oran ve dengeye oturtmak)",
+      "16:90 & 49:9 (بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ / فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ — toplumsal denge ve somut hak payı)",
+      "5:8 & 4:135 (Düşmanlık ve kör arzuya rağmen tarafsız dengeyi koruma buyruğu)",
+      "2:48 & 2:123 & 6:70 (لَا يُؤْخَذُ مِنْهَا عَدْلٌ / وَإِن تَعْدِلْ كُلَّ عَدْلٍ — eşdeğer fidye/bedel)",
+      "6:1 & 6:150 & 27:60 (بِرَبِّهِمْ يَعْدِلُونَ — Asl 2: Rabbe başka şeyleri denk tutarak eksenden sapmak)"
+    ],
+    "reverse_stress_test": "Haksızlık (`ظ-ل-م`), sınır aşan azgınlık (`ب-غ-ي`), düşmanlıkla suça sürüklenme (`ج-ر-م`) ve kör arzuya kapılma (`ه-و-ي`) karşısına yerleştirildiğinde, `ع-د-ل` kökünün 'iki kefeyi denkleyip doğru oran kurmak (ve tersinden yanlış denkleme ile sapmak)' çekirdeği tüm 28 geçişi tek bir tutarlı mekanizmada birleştirir."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "عَدْل (A-D-L: İçsel ve İlkesel Denge/Eşitlik) vs قِسْط / أَقْسِطُوا۟ (Q-S-T: Herkesin Somut Payını Hakkıyla Teslim Etme) [4:3, 4:135, 5:8, 49:9]",
+      "عَدْل (A-D-L: Birebir Denk Hakkaniyet) vs إِحْسَٰن (H-S-N: Hakkın Üzerine Çıkan Güzelleştirici İyilik) [16:90]",
+      "صِدْقًا (S-D-Q: Gerçekliğe Tam Uygunluk) vs عَدْلًا (A-D-L: Hükümlerde Kusursuz Denge ve Tarafsızlık) [6:115]",
+      "سَوَّىٰكَ (S-W-Y: Parçaları Uyumlu ve Düzgün Kılmak) vs عَدَلَكَ (A-D-L: Uzuvları Kusursuz Oran ve Dengede Yerleştirmek) [82:7]"
+    ],
+    "mechanical_difference": "1) `عَدْل` ile `قِسْط` aynı ayetlerde (4:3, 4:135, 5:8, 49:9) birlikte geçer: `عَدْل` terazinin iki kefesi arasındaki içsel eşitlik ve tarafsızlık dengesi (hatta 4:129'da duygusal eşitliği de içerir), `قِسْط` ise taraflara düşen somut payın ve hakkın eylemle/kurumla tam teslim edilmesidir. 2) `16:90`da `عَدْل` tam denk karşılığı, `إِحْسَٰن` ise bu dengenin üstüne eklenen gönüllü güzelliği ve iyileştirmeyi bildirir. 3) `6:115`te Rabbin sözleri haberlerinde tam gerçek (`صِدْقًا`), hükümlerinde kusursuz dengeli (`عَدْلًا`) olarak tamamlanmıştır."
+  },
+  "anchor_ayahs": [
+    "82:7 (ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ — biyolojik oran ve denge çıpası)",
+    "16:90 (إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ — toplumsal denge ilkesi)",
+    "5:8 (ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ — öfke ve düşmanlık karşısında tarafsız denge)",
+    "2:48 & 6:70 (لَا يُؤْخَذُ مِنْهَا عَدْلٌ / وَإِن تَعْدِلْ كُلَّ عَدْلٍ — eşdeğer bedel/fidye)",
+    "6:1 & 27:60 (بِرَبِّهِمْ يَعْدِلُونَ — Asl 2: eksenden sapıp Rabbe eş tutmak)"
+  ],
+  "grammar_and_branch_rules": "1) Kozmik/Biyolojik Oranlama (`82:7` — 1 geçiş): İnsanı yaratıp düzgün kıldıktan sonra kusursuz oran ve dengeye kavuşturmak. 2) Yargı, Tanıklık, Sözleşme ve Toplumsal Denge (`2:282`, `4:3`, `4:58`, `4:129`, `4:135`, `5:8`, `5:95`, `5:106`, `6:115`, `6:152`, `7:159`, `7:181`, `16:76`, `16:90`, `42:15`, `49:9`, `65:2` — 19 geçiş): Yazışmada, yargıda, ailede, sözde ve arabuluculukta tarafsız eşitliği sağlamak; güvenilir denge sahibi iki tanık (`ذَوَا عَدْلٍ`). 3) Eşdeğer Bedel ve Fidye (`2:48`, `2:123`, `5:95`, `6:70` — 5 geçiş): Hesap gününde kabul edilmeyecek kurtuluş fidyesi veya telafi yükümlülüğünün eşdeğeri (`عَدْلُ ذَٰلِكَ`). 4) Asl 2 — Yanlış Denkleme ve Eksenden Sapma (`6:1`, `6:150`, `27:60` — 3 geçiş): Hakikati örtenlerin başka varlıkları Rablerine denk tutarak doğruluk ekseninden sapmaları.",
+  "derivatives": {
+    "عَدَلَ / يَعْدِلُ / ٱعْدِلُوا۟ (Bab I Fiil - Asl 1: 11 geçiş)": "Kusursuz oran ve denge kurmak (82:7), tarafsız eşitlikle hükmetmek ve davranmak (4:3, 4:129, 4:135, 5:8, 6:152, 7:159, 7:181, 42:15) veya eşdeğer fidye sunmak (6:70).",
+    "يَعْدِلُونَ (Bab I Fiil - Asl 2: 3 geçiş: 6:1, 6:150, 27:60)": "Doğruluk ekseninden sapıp Allah'a başka varlıkları eş/denk tutmak.",
+    "عَدْل (İsim / Masdar - 14 geçiş)": "Tarafsız denge ve hakkaniyet ölçüsü (10 geçiş), güvenilir denge sahibi kişi (ذَوَا عَدْلٍ) veya karşı kefeye konulan eşdeğer bedel/fidye (4 geçiş: 2:48, 2:123, 5:95, 6:70)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 48,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:48",
+      "word_position": 16,
+      "target_word_uthmani": "عَدْلٌ",
+      "target_word_rasm": "عدل",
+      "target_word_literal_irab": "Hesap gününde karşı kefeye konulacak eşdeğer kurtuluş bedeli ve fidye (عَدْلٌ / عَدْلٍ — isim)",
+      "context_snippet_arabic": "وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Korkun o günden ki hiç kimse, bir başkasının yerine bir şey ödeyemez o gün; kimsenin kimseye şefaati kabul edilmez, kimseden karşılık da alınmaz, onlara yardım...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Korkun o günden ki hiç kimse, bir başkasının yerine bir şey ödeyemez o gün; kimsenin kimseye şefaati kabul edilmez, kimseden karşılık da alınmaz, onlara yardım da edilmez.",
+      "contextual_meaning": "Eşdeğer fidye ve bedel (عَدْل): hesap gününde karşı kefeye konulup kabul edilebilecek hiçbir kurtuluş fidyesinin olmaması."
+    },
+    {
+      "surah": 2,
+      "ayah": 123,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:123",
+      "word_position": 12,
+      "target_word_uthmani": "عَدْلٌ",
+      "target_word_rasm": "عدل",
+      "target_word_literal_irab": "Hesap gününde karşı kefeye konulacak eşdeğer kurtuluş bedeli ve fidye (عَدْلٌ / عَدْلٍ — isim)",
+      "context_snippet_arabic": "وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَٰعَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Sakının o günden ki kimse, o gün kimsenin bir şeyini ödeyemez, kimseden bir karşılık kabul edilmez, kimsenin kimseye şefaati fayda vermez, onlara yardım da...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَٰعَةٌ وَلَا هُمْ يُنصَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sakının o günden ki kimse, o gün kimsenin bir şeyini ödeyemez, kimseden bir karşılık kabul edilmez, kimsenin kimseye şefaati fayda vermez, onlara yardım da edilmez.",
+      "contextual_meaning": "Eşdeğer fidye ve bedel (عَدْل): hesap gününde karşı kefeye konulup kabul edilebilecek hiçbir kurtuluş fidyesinin olmaması."
+    },
+    {
+      "surah": 2,
+      "ayah": 282,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:282",
+      "word_position": 14,
+      "target_word_uthmani": "بِٱلْعَدْلِ",
+      "target_word_rasm": "بٱلعدل",
+      "target_word_literal_irab": "Sözleşmede, yargıda, yönetimde ve arabuluculukta ilkesel tarafsızlık ve denge ölçüsü (بِٱلْعَدْلِ / وَعَدْلًا — isim/masdar)",
+      "context_snippet_arabic": "وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ وَلَا يَأْبَ كَاتِبٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, muayyen bir müddet için borçlandığınız vakit bunu mutlaka yazın. Aranızda bir yazıcı bulunsun ve bunu dosdoğru yazsın. Yazıcı, Allah...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَٱكْتُبُوهُ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ شَيْـًٔا فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ وَلَا يُضَآرَّ كَاتِبٌ وَلَا شَهِيدٌ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَيُعَلِّمُكُمُ ٱللَّهُ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, muayyen bir müddet için borçlandığınız vakit bunu mutlaka yazın. Aranızda bir yazıcı bulunsun ve bunu dosdoğru yazsın. Yazıcı, Allah kendisine nasıl bellettiyse öylece yazmaktan çekinmesin borçlanan da yazdırsın, onu geliştiren Allah'tan çekinsin de hiçbir noktayı eksik bırakmasın. Borçlu, akılsız biriyse, yahut aklı azsa, yazdırmaya gücü yetmezse velisi, doğru olarak yazdırsın. Adamlarınızdan iki erkeği de bu muameleye tanık tutun. İki erkek olmazsa biri unuttuğu vakit öbürünün hatırlatması için razı olacağınız kimselerden bir erkekle iki kadın tanık olsun. Tanıklar da, çağrıldıkları vakit kaçınmasınlar. Az olsun, çok olsun, muayyen müddete kadar verilen borcu yazmaktan üşenmeyin. Bu, Allah katında daha ziyade adalete uyan, tanıklık için daha sağlam olan, tereddüde ve şüpheye düşmemenize daha ziyade yarayan bir şeydir. Ancak peşin alışverişte bulunuyor, malı, aranızda elden ele devrediyorsanız onu yazmamakta bir suç yok size. Alışverişte de tanık bulunsun, yazan da hiç zarar görmesin, tanık da. Zarar verirseniz bu, şüphe yok ki bir isyandır sizin için. Sakının Allah'tan, Allah size öğretmededir ve Allah, her şeyi tamamıyla bilir.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 282,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:282",
+      "word_position": 51,
+      "target_word_uthmani": "بِٱلْعَدْلِ",
+      "target_word_rasm": "بٱلعدل",
+      "target_word_literal_irab": "Sözleşmede, yargıda, yönetimde ve arabuluculukta ilkesel tarafsızlık ve denge ölçüsü (بِٱلْعَدْلِ / وَعَدْلًا — isim/masdar)",
+      "context_snippet_arabic": "هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, muayyen bir müddet için borçlandığınız vakit bunu mutlaka yazın. Aranızda bir yazıcı bulunsun ve bunu dosdoğru yazsın. Yazıcı, Allah...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَٱكْتُبُوهُ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ شَيْـًٔا فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ وَلَا يُضَآرَّ كَاتِبٌ وَلَا شَهِيدٌ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَيُعَلِّمُكُمُ ٱللَّهُ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, muayyen bir müddet için borçlandığınız vakit bunu mutlaka yazın. Aranızda bir yazıcı bulunsun ve bunu dosdoğru yazsın. Yazıcı, Allah kendisine nasıl bellettiyse öylece yazmaktan çekinmesin borçlanan da yazdırsın, onu geliştiren Allah'tan çekinsin de hiçbir noktayı eksik bırakmasın. Borçlu, akılsız biriyse, yahut aklı azsa, yazdırmaya gücü yetmezse velisi, doğru olarak yazdırsın. Adamlarınızdan iki erkeği de bu muameleye tanık tutun. İki erkek olmazsa biri unuttuğu vakit öbürünün hatırlatması için razı olacağınız kimselerden bir erkekle iki kadın tanık olsun. Tanıklar da, çağrıldıkları vakit kaçınmasınlar. Az olsun, çok olsun, muayyen müddete kadar verilen borcu yazmaktan üşenmeyin. Bu, Allah katında daha ziyade adalete uyan, tanıklık için daha sağlam olan, tereddüde ve şüpheye düşmemenize daha ziyade yarayan bir şeydir. Ancak peşin alışverişte bulunuyor, malı, aranızda elden ele devrediyorsanız onu yazmamakta bir suç yok size. Alışverişte de tanık bulunsun, yazan da hiç zarar görmesin, tanık da. Zarar verirseniz bu, şüphe yok ki bir isyandır sizin için. Sakının Allah'tan, Allah size öğretmededir ve Allah, her şeyi tamamıyla bilir.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 4,
+      "ayah": 3,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:3",
+      "word_position": 19,
+      "target_word_uthmani": "تَعْدِلُوا۟",
+      "target_word_rasm": "تعدلوا",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا",
+      "context_snippet_turkish_tabula_rasa": "... Fakat bunların arasında adaleti gözetmeyeceğinizden korkarsınız o vakit bir zevceyle, yahut sahip olduğunuz cariyelerle iktifa edin. Bu, doğruluktan sapmamanıza daha yakın ve size daha uygundur.",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+      "ayah_text_turkish_tabula_rasa_full": "Yetim kızlar hakkında adaletle muamele edemeyeceğinizden korkarsanız, beğendiğiniz, hoşunuza giden başka kadınlardan iki, üç ve dört kadın alın. Fakat bunların arasında adaleti gözetmeyeceğinizden korkarsınız o vakit bir zevceyle, yahut sahip olduğunuz cariyelerle iktifa edin. Bu, doğruluktan sapmamanıza daha yakın ve size daha uygundur.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 4,
+      "ayah": 58,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:58",
+      "word_position": 15,
+      "target_word_uthmani": "بِٱلْعَدْلِ",
+      "target_word_rasm": "بٱلعدل",
+      "target_word_literal_irab": "Sözleşmede, yargıda, yönetimde ve arabuluculukta ilkesel tarafsızlık ve denge ölçüsü (بِٱلْعَدْلِ / وَعَدْلًا — isim/masdar)",
+      "context_snippet_arabic": "ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ إِنَّ ٱللَّهَ نِعِمَّا",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Allah, emanetleri ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor. Gerçekten de Allah, size ne de güzel...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Allah, emanetleri ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor. Gerçekten de Allah, size ne de güzel öğüt vermede. Şüphe yok ki Allah, her şeyi duyar, görür.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 4,
+      "ayah": 129,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:129",
+      "word_position": 4,
+      "target_word_uthmani": "تَعْدِلُوا۟",
+      "target_word_rasm": "تعدلوا",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ",
+      "context_snippet_turkish_tabula_rasa": "Kadınlar arasında adaletle muamele etmeyi ne kadar isteseniz, bu hususa ne kadar düşseniz imkan yok, yapamazsınız, adaletle muamele edemezsiniz. Hiç olmazsa...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlar arasında adaletle muamele etmeyi ne kadar isteseniz, bu hususa ne kadar düşseniz imkan yok, yapamazsınız, adaletle muamele edemezsiniz. Hiç olmazsa onların birine tamamıyla meyledip öbürünü muallaktaymış gibi bir vaziyete düşürmeyin, uzlaşır ve sakınırsanız şüphe yok ki Allah, suçları örter rahimdir.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 4,
+      "ayah": 135,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:135",
+      "word_position": 27,
+      "target_word_uthmani": "تَعْدِلُوا۟",
+      "target_word_rasm": "تعدلوا",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah için daima adaleti tam yerine getirin ve tanıklığı o yolda yapın, hatta kendi aleyhinize, yahut anayla babanın ve yakınların aleyhine...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah için daima adaleti tam yerine getirin ve tanıklığı o yolda yapın, hatta kendi aleyhinize, yahut anayla babanın ve yakınların aleyhine bile olsa. Hatta zengin, yahut yoksul bile olsa, çünkü Allah ikisine de sizden daha ziyade sahiptir, sizden daha fazla korur onları ve siz, adaleti icra ederken kendi benliğinizin dileğine uymayın. Bir tarafı gözeterek hüküm verir, yahut birinden yüz çevirirseniz bilin ki Allah, şüphe yok, yaptıklarınızın hepsinden haberdardır.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 5,
+      "ayah": 8,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:8",
+      "word_position": 15,
+      "target_word_uthmani": "تَعْدِلُوا۟",
+      "target_word_rasm": "تعدلوا",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah için daima doğru hükmedin, adalete tam uygun tanıklıkta bulunan ve bir kavme olan kininiz, sizi adaletten alıkoymasın. Adalette...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah için daima doğru hükmedin, adalete tam uygun tanıklıkta bulunan ve bir kavme olan kininiz, sizi adaletten alıkoymasın. Adalette bulunun ki bu, sorumluluk bilinci ve korunma daha yakındır ve çekinin Allah'tan. Şüphe yok ki Allah, ne yaparsanız hepsindende haberdardır.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 5,
+      "ayah": 8,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:8",
+      "word_position": 16,
+      "target_word_uthmani": "ٱعْدِلُوا۟",
+      "target_word_rasm": "ٱعدلوا",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah için daima doğru hükmedin, adalete tam uygun tanıklıkta bulunan ve bir kavme olan kininiz, sizi adaletten alıkoymasın. Adalette...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Eadala|ROOT:Edl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah için daima doğru hükmedin, adalete tam uygun tanıklıkta bulunan ve bir kavme olan kininiz, sizi adaletten alıkoymasın. Adalette bulunun ki bu, sorumluluk bilinci ve korunma daha yakındır ve çekinin Allah'tan. Şüphe yok ki Allah, ne yaparsanız hepsindende haberdardır.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 5,
+      "ayah": 95,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:95",
+      "word_position": 22,
+      "target_word_uthmani": "عَدْلٍ",
+      "target_word_rasm": "عدل",
+      "target_word_literal_irab": "Güvenilir denge sahibi iki tanık (ذَوَا عَدْلٍ) veya telafinin eşdeğer karşılığı (عَدْلُ ذَٰلِكَ — isim)",
+      "context_snippet_arabic": "يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَٰلِغَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, ihramdayken avlanmayın; içinizden kim, bir av hayvanını bilerek öldürürse sizden iki adalet sahibinin hükmüne göre cezası, öldürdüğü...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّٰرَةٌ طَعَامُ مَسَٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ عَفَا ٱللَّهُ عَمَّا سَلَفَ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, ihramdayken avlanmayın; içinizden kim, bir av hayvanını bilerek öldürürse sizden iki adalet sahibinin hükmüne göre cezası, öldürdüğü hayvanın benzeri olan ve Ka'be'ye götürülen bir hayvanı yakınlaşma sunusu etmek, yahut işlediği suça karşılık yoksulları doyurmak, yahut da bunlara denk olacak kadar öz denetim ve sakınma tutmaktır, böylece yaptığının cezasını tatması gerektir. Allah, geçmişte işlenen suçları bağışlamıştır. Fakat bundan böyle de kim bu suçu işlerse şüphe yok ki Allah öç alır ondan ve Allah üstündür, öç alıcıdır.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 5,
+      "ayah": 95,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:95",
+      "word_position": 32,
+      "target_word_uthmani": "عَدْلُ",
+      "target_word_rasm": "عدل",
+      "target_word_literal_irab": "Güvenilir denge sahibi iki tanık (ذَوَا عَدْلٍ) veya telafinin eşdeğer karşılığı (عَدْلُ ذَٰلِكَ — isim)",
+      "context_snippet_arabic": "طَعَامُ مَسَٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, ihramdayken avlanmayın; içinizden kim, bir av hayvanını bilerek öldürürse sizden iki adalet sahibinin hükmüne göre cezası, öldürdüğü...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّٰرَةٌ طَعَامُ مَسَٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ عَفَا ٱللَّهُ عَمَّا سَلَفَ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, ihramdayken avlanmayın; içinizden kim, bir av hayvanını bilerek öldürürse sizden iki adalet sahibinin hükmüne göre cezası, öldürdüğü hayvanın benzeri olan ve Ka'be'ye götürülen bir hayvanı yakınlaşma sunusu etmek, yahut işlediği suça karşılık yoksulları doyurmak, yahut da bunlara denk olacak kadar öz denetim ve sakınma tutmaktır, böylece yaptığının cezasını tatması gerektir. Allah, geçmişte işlenen suçları bağışlamıştır. Fakat bundan böyle de kim bu suçu işlerse şüphe yok ki Allah öç alır ondan ve Allah üstündür, öç alıcıdır.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 5,
+      "ayah": 106,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:106",
+      "word_position": 14,
+      "target_word_uthmani": "عَدْلٍ",
+      "target_word_rasm": "عدل",
+      "target_word_literal_irab": "Güvenilir denge sahibi iki tanık (ذَوَا عَدْلٍ) veya telafinin eşdeğer karşılığı (عَدْلُ ذَٰلِكَ — isim)",
+      "context_snippet_arabic": "ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ",
+      "context_snippet_turkish_tabula_rasa": "... Ancak onları, irtibat bağından sonraya dek alıkoyun da akraba bile olsa Allah'ı bırakıp yerine hiçbir menfaati satın almayacağız, tanıklığımızı, Allah için gizlemeyeceğiz, gizlersek ağır sapmaya düşenlerden olalım diye Allah'a kesin and etsinler.",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, birinize ölüm gelip çatarsa aranızda vasiyet edeceğiniz zaman, sizden iki adil tanık bulunsun. Yolculuktaysanız ve gene size ölüm musibeti gelip çatacaksa sizden olmayan iki kişiyi de tanık tutabilirsiniz. Ancak onları, irtibat bağından sonraya dek alıkoyun da akraba bile olsa Allah'ı bırakıp yerine hiçbir menfaati satın almayacağız, tanıklığımızı, Allah için gizlemeyeceğiz, gizlersek ağır sapmaya düşenlerden olalım diye Allah'a kesin and etsinler.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 6,
+      "ayah": 1,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:1",
+      "word_position": 14,
+      "target_word_uthmani": "يَعْدِلُونَ",
+      "target_word_rasm": "يعدلون",
+      "target_word_literal_irab": "Asl 2 karşıt yön: Doğruluk ekseninden eğilip Rabbe başka varlıkları eş/denk tutarak sapmak (يَعْدِلُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Hamt Allah'a ki gökleri ve yeryüzünü halketti, karanlıkları ve ışığı yarattı, sonra da gerçeğin üzerini örten olanlar, taptıklarını Rableriyle denk tutarlar.",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|3MP"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hamt Allah'a ki gökleri ve yeryüzünü halketti, karanlıkları ve ışığı yarattı, sonra da gerçeğin üzerini örten olanlar, taptıklarını Rableriyle denk tutarlar.",
+      "contextual_meaning": "Asl 2 — Yanlış denkleme ve sapma (بِرَبِّهِمْ يَعْدِلُونَ): Allah ile başka varlıkları aynı kefeye koyup doğruluk ekseninden eğilmek."
+    },
+    {
+      "surah": 6,
+      "ayah": 70,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:70",
+      "word_position": 26,
+      "target_word_uthmani": "تَعْدِلْ",
+      "target_word_rasm": "تعدل",
+      "target_word_literal_irab": "Kurtuluş için karşı kefeye her türlü eşdeğer fidyeyi sunmak (تَعْدِلْ — Bab I şart fiili: 6:70)",
+      "context_snippet_arabic": "وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا",
+      "context_snippet_turkish_tabula_rasa": "yaşam sistemlerini bir oyundan, bir eğlenceden ibaret sayan ve dünya yaşayışına aldanan kişileri bırak kendi hallerine. Sen, ancak Kur'an'la öğüt ver de hiç...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّ وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ أُو۟لَٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yaşam sistemlerini bir oyundan, bir eğlenceden ibaret sayan ve dünya yaşayışına aldanan kişileri bırak kendi hallerine. Sen, ancak Kur'an'la öğüt ver de hiç kimse, kazandığı suçlar yüzünden helak olmasın. Ona, Allah'tan başka ne bir dost vardır, ne bir şefaatçi. Suçlu, varınıyoğunu, kurtuluşu için feda etse kabul edilmez. Kazançları yüzünden helak olanlar, gerçeğin üzerini örtmelerinden dolayı kaynar su içeceklerdir ve pek acı bir azap vardır onlara.",
+      "contextual_meaning": "Eşdeğer fidye ve bedel (عَدْل): hesap gününde karşı kefeye konulup kabul edilebilecek hiçbir kurtuluş fidyesinin olmaması."
+    },
+    {
+      "surah": 6,
+      "ayah": 70,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:70",
+      "word_position": 28,
+      "target_word_uthmani": "عَدْلٍ",
+      "target_word_rasm": "عدل",
+      "target_word_literal_irab": "Hesap gününde karşı kefeye konulacak eşdeğer kurtuluş bedeli ve fidye (عَدْلٌ / عَدْلٍ — isim)",
+      "context_snippet_arabic": "وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ",
+      "context_snippet_turkish_tabula_rasa": "yaşam sistemlerini bir oyundan, bir eğlenceden ibaret sayan ve dünya yaşayışına aldanan kişileri bırak kendi hallerine. Sen, ancak Kur'an'la öğüt ver de hiç...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّ وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ أُو۟لَٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yaşam sistemlerini bir oyundan, bir eğlenceden ibaret sayan ve dünya yaşayışına aldanan kişileri bırak kendi hallerine. Sen, ancak Kur'an'la öğüt ver de hiç kimse, kazandığı suçlar yüzünden helak olmasın. Ona, Allah'tan başka ne bir dost vardır, ne bir şefaatçi. Suçlu, varınıyoğunu, kurtuluşu için feda etse kabul edilmez. Kazançları yüzünden helak olanlar, gerçeğin üzerini örtmelerinden dolayı kaynar su içeceklerdir ve pek acı bir azap vardır onlara.",
+      "contextual_meaning": "Eşdeğer fidye ve bedel (عَدْل): hesap gününde karşı kefeye konulup kabul edilebilecek hiçbir kurtuluş fidyesinin olmaması."
+    },
+    {
+      "surah": 6,
+      "ayah": 115,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:115",
+      "word_position": 5,
+      "target_word_uthmani": "وَعَدْلًا",
+      "target_word_rasm": "وعدلا",
+      "target_word_literal_irab": "Sözleşmede, yargıda, yönetimde ve arabuluculukta ilkesel tarafsızlık ve denge ölçüsü (بِٱلْعَدْلِ / وَعَدْلًا — isim/masdar)",
+      "context_snippet_arabic": "كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin sözleri, gerçek olarak ve adalet üzere tamdır, tekemmül etmiştir, sözlerini değiştirecek yoktur ve odur duyan, bilen.",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin sözleri, gerçek olarak ve adalet üzere tamdır, tekemmül etmiştir, sözlerini değiştirecek yoktur ve odur duyan, bilen.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 6,
+      "ayah": 150,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:150",
+      "word_position": 27,
+      "target_word_uthmani": "يَعْدِلُونَ",
+      "target_word_rasm": "يعدلون",
+      "target_word_literal_irab": "Asl 2 karşıt yön: Doğruluk ekseninden eğilip Rabbe başka varlıkları eş/denk tutarak sapmak (يَعْدِلُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "بِٱلْءَاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Allah'ın, şunu haram ettiğine tanıklık eden şahitlerinizi getirin bakalım. Fakat gelirler de tanıklık ederlerse sen, onlarla beraber tanıklık etme ve...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|3MP"
+      },
+      "ayah_text_arabic_full": "قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَا فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Allah'ın, şunu haram ettiğine tanıklık eden şahitlerinizi getirin bakalım. Fakat gelirler de tanıklık ederlerse sen, onlarla beraber tanıklık etme ve putları, Rableriyle bir tutup ahirete güven duy ayetlerimizi yalanlayanların dileklerine uyma.",
+      "contextual_meaning": "Asl 2 — Yanlış denkleme ve sapma (بِرَبِّهِمْ يَعْدِلُونَ): Allah ile başka varlıkları aynı kefeye koyup doğruluk ekseninden eğilmek."
+    },
+    {
+      "surah": 6,
+      "ayah": 152,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:152",
+      "word_position": 23,
+      "target_word_uthmani": "فَٱعْدِلُوا۟",
+      "target_word_rasm": "فٱعدلوا",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا",
+      "context_snippet_turkish_tabula_rasa": "Ergenlik çağına gelinceye dek, en iyi bir şekilde olmadıkça yetimin malına yaklaşmayın ve ölçeği, teraziyi dosdoğru ölçüp tartın. Hiçbir kimseye, kudretinden...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Eadala|ROOT:Edl|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ergenlik çağına gelinceye dek, en iyi bir şekilde olmadıkça yetimin malına yaklaşmayın ve ölçeği, teraziyi dosdoğru ölçüp tartın. Hiçbir kimseye, kudretinden aşırı bir şey teklif edilmemiştir ve söz söylediğiniz zaman hısımınız bile olsa adaleti mutlaka gözetin ve Allah'la ettiğiniz ahde vefa edin. İşte düşünüp öğüt almanız için bunları emretmiştir size.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 7,
+      "ayah": 159,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:159",
+      "word_position": 8,
+      "target_word_uthmani": "يَعْدِلُونَ",
+      "target_word_rasm": "يعدلون",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Musa kavminden bir topluluk vardı ki halkı doğru yola sevk ederler ve adaletle muamelede bulunurlardı.",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|3MP"
+      },
+      "ayah_text_arabic_full": "وَمِن قَوْمِ مُوسَىٰٓ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa kavminden bir topluluk vardı ki halkı doğru yola sevk ederler ve adaletle muamelede bulunurlardı.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 7,
+      "ayah": 181,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:181",
+      "word_position": 7,
+      "target_word_uthmani": "يَعْدِلُونَ",
+      "target_word_rasm": "يعدلون",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yarattıklarımızdan bir topluluk var ki halkı gerçeğe irşad eder ve gerçek olarak adaletle muamelede bulunur.",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|3MP"
+      },
+      "ayah_text_arabic_full": "وَمِمَّنْ خَلَقْنَآ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yarattıklarımızdan bir topluluk var ki halkı gerçeğe irşad eder ve gerçek olarak adaletle muamelede bulunur.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 16,
+      "ayah": 76,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:76",
+      "word_position": 25,
+      "target_word_uthmani": "بِٱلْعَدْلِ",
+      "target_word_rasm": "بٱلعدل",
+      "target_word_literal_irab": "Sözleşmede, yargıda, yönetimde ve arabuluculukta ilkesel tarafsızlık ve denge ölçüsü (بِٱلْعَدْلِ / وَعَدْلًا — isim/masdar)",
+      "context_snippet_arabic": "هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ وَهُوَ عَلَىٰ صِرَٰطٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, gene iki kişiyi örnek getirir: Biri dilsizdir, hiçbir şeye gücü yetmez, sahibine bir yüktür, nereye yollasa hayırlı bir iş becerip gelemez. O, hiç...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, gene iki kişiyi örnek getirir: Biri dilsizdir, hiçbir şeye gücü yetmez, sahibine bir yüktür, nereye yollasa hayırlı bir iş becerip gelemez. O, hiç adaletle emreden ve doğru yolu tutmuş olan adamla eşit olur mu?",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 16,
+      "ayah": 90,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:90",
+      "word_position": 4,
+      "target_word_uthmani": "بِٱلْعَدْلِ",
+      "target_word_rasm": "بٱلعدل",
+      "target_word_literal_irab": "Sözleşmede, yargıda, yönetimde ve arabuluculukta ilkesel tarafsızlık ve denge ölçüsü (بِٱلْعَدْلِ / وَعَدْلًا — isim/masdar)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Allah, adaleti, lütuf ve keremde bulunmayı ve yakınlara ihtiyaçları olan şeyleri vermeyi emreder ve çirkin olan, kötü görünen şeylerle haksızlığı...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Allah, adaleti, lütuf ve keremde bulunmayı ve yakınlara ihtiyaçları olan şeyleri vermeyi emreder ve çirkin olan, kötü görünen şeylerle haksızlığı nehyeder; öğüt alasınız diye de size öğüt vermededir.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 27,
+      "ayah": 60,
+      "surah_name": "Neml",
+      "ayah_ref": "27:60",
+      "word_position": 27,
+      "target_word_uthmani": "يَعْدِلُونَ",
+      "target_word_rasm": "يعدلون",
+      "target_word_literal_irab": "Asl 2 karşıt yön: Doğruluk ekseninden eğilip Rabbe başka varlıkları eş/denk tutarak sapmak (يَعْدِلُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeryüzünü yaratan ve size gökten yağmur yağdıran mı hayırlı? Biz, o yağmurla, ağacını bile bitiremiyeceğiniz nice güzelim bahçelerdeki nebatları...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|3MP"
+      },
+      "ayah_text_arabic_full": "أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeryüzünü yaratan ve size gökten yağmur yağdıran mı hayırlı? Biz, o yağmurla, ağacını bile bitiremiyeceğiniz nice güzelim bahçelerdeki nebatları bitirmedeyiz; Allah'la beraber bir başka mabut var mı? Hayır, siz, yoldan sapmış kişilersiniz.",
+      "contextual_meaning": "Asl 2 — Yanlış denkleme ve sapma (بِرَبِّهِمْ يَعْدِلُونَ): Allah ile başka varlıkları aynı kefeye koyup doğruluk ekseninden eğilmek."
+    },
+    {
+      "surah": 42,
+      "ayah": 15,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:15",
+      "word_position": 17,
+      "target_word_uthmani": "لِأَعْدِلَ",
+      "target_word_rasm": "لأعدل",
+      "target_word_literal_irab": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)",
+      "context_snippet_arabic": "مِن كِتَٰبٍ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ٱللَّهُ رَبُّنَا",
+      "context_snippet_turkish_tabula_rasa": "Ve işte bunun için artık onları çağır ve doğru hareket et emredildiğin gibi ve uyma onların dileklerine ve de ki: Ben, kitaptan ne indirdiyse Allah, güven duy...",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eadala|ROOT:Edl|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَلِذَٰلِكَ فَٱدْعُ وَٱسْتَقِمْ كَمَآ أُمِرْتَ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ٱللَّهُ يَجْمَعُ بَيْنَنَا وَإِلَيْهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve işte bunun için artık onları çağır ve doğru hareket et emredildiğin gibi ve uyma onların dileklerine ve de ki: Ben, kitaptan ne indirdiyse Allah, güven duy ona ve bana, aranızda adaletle hükmetmem emredildi; Allah, Rabbimizdir ve Rabbiniz; bizim yaptıklarımız, bize aittir, sizin yaptıklarınız size; düşmanlık yok bizimle sizin aranızda; Allah, bir yerde toplayacak bizi ve sonunda dönüp onun tapısına varılacak.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 49,
+      "ayah": 9,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:9",
+      "word_position": 25,
+      "target_word_uthmani": "بِٱلْعَدْلِ",
+      "target_word_rasm": "بٱلعدل",
+      "target_word_literal_irab": "Sözleşmede, yargıda, yönetimde ve arabuluculukta ilkesel tarafsızlık ve denge ölçüsü (بِٱلْعَدْلِ / وَعَدْلًا — isim/masdar)",
+      "context_snippet_arabic": "فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden iki kısım, birbiriyle savaşa girişirse hemen aralarını bulun, bir bölüğü, öbürüne saldırırsa o saldırganlarla, Allah'ın emrine itaat edinceye...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden iki kısım, birbiriyle savaşa girişirse hemen aralarını bulun, bir bölüğü, öbürüne saldırırsa o saldırganlarla, Allah'ın emrine itaat edinceye dek savaşın; Allah'ın emrine itaat ederlerse adaletle aralarını bulup barıştırın ve adaletle muamele edin; şüphe yok ki Allah, adaletle muamele edenleri sever.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 65,
+      "ayah": 2,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:2",
+      "word_position": 11,
+      "target_word_uthmani": "عَدْلٍ",
+      "target_word_rasm": "عدل",
+      "target_word_literal_irab": "Güvenilir denge sahibi iki tanık (ذَوَا عَدْلٍ) veya telafinin eşdeğer karşılığı (عَدْلُ ذَٰلِكَ — isim)",
+      "context_snippet_arabic": "بِمَعْرُوفٍ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ",
+      "context_snippet_turkish_tabula_rasa": "Müddetlerini tamamlayınca da onları güzellikle alın, yahut da güzellikle ayrılın onlardan ve sizden iki tane adalet sahibi tanığı bulundurun da tanıklık...",
+      "morphology": {
+        "lemma": "Eadol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eadol|ROOT:Edl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا",
+      "ayah_text_turkish_tabula_rasa_full": "Müddetlerini tamamlayınca da onları güzellikle alın, yahut da güzellikle ayrılın onlardan ve sizden iki tane adalet sahibi tanığı bulundurun da tanıklık etsinler ve tanıklığı da Allah için doğru yapın; işte Allah'a ve ahiret gününe güven duy böylece öğüt verilmededir; ve kim, çekinirse Allah'tan, ona sıkıntıdan bir kurtuluş vesilesi yaratır.",
+      "contextual_meaning": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+    },
+    {
+      "surah": 82,
+      "ayah": 7,
+      "surah_name": "İnfitâr",
+      "ayah_ref": "82:7",
+      "word_position": 4,
+      "target_word_uthmani": "فَعَدَلَكَ",
+      "target_word_rasm": "فعدلك",
+      "target_word_literal_irab": "Fiziksel çıpa: İnsanı kusursuz oran ve dengede biçimlendirmek (فَعَدَلَكَ — Bab I mâzi fiil: 82:7)",
+      "context_snippet_arabic": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "context_snippet_turkish_tabula_rasa": "Öylesine Rab ki seni yarattı, azanı düzüp koştu da seni düzgün bir hale getirdi.",
+      "morphology": {
+        "lemma": "Eadala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eadala|ROOT:Edl|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öylesine Rab ki seni yarattı, azanı düzüp koştu da seni düzgün bir hale getirdi.",
+      "contextual_meaning": "Biyolojik oran ve denge çıpası (فَعَدَلَكَ): insanı yaratıp düzgün kıldıktan sonra kusursuz oran ve dengeye kavuşturmak."
+    }
+  ]
+}

@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 21 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 26 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 21 / 131 Kök (Toplam Mühürlü: 242 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 26 / 131 Kök (Toplam Mühürlü: 247 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -30,11 +30,11 @@
 | 19 | ⭐ **3A** | Vahiy ve Kimlik | 240 | `ف-ل-ح` | `F-L-H` | **40** | 40 | 2:5 | Felâh ve Müflihûn (Toprağı Yarıp Hasada Ermek Gibi Arınma ve Emekle Kalıcı Başarı ve Kurtuluşa Ermek) | ✅ **MÜHÜRLÜ** |
 | 20 | ⭐ **3A** | Vahiy ve Kimlik | 697 | `ح-ر-ف` | `H-R-F` | **6** | 6 | 2:75 | Tahrîf ve Harf (Keskin Kenar/Kıyı; Yan Açıya Kaymak ve Sözü Asli Yerinden Çarpıtmak) | ✅ **MÜHÜRLÜ** |
 | 21 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 216 | `ن-س-ي` | `N-S-Y` | **45** | 37 | 2:44 | Nisyân (Hafızadan Silinip Unutmak [Asl 1]; Bilinçli İhmal Edip Yüzüstü Terk Etmek [Asl 2]) | ✅ **MÜHÜRLÜ** |
-| 22 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 321 | `ع-د-ل` | `A-D-L` | **28** | 24 | 2:48 | Adl (9 Mesânî ref! Kıst ile Furûk: denk yükleme, denge ve eşdeğer karşılık) | ⏳ *Bekliyor* |
-| 23 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 353 | `ق-س-ط` | `K-S-T` | **25** | 22 | 2:282 | Kıst (Adl ile Furûk: hak payı dağıtımı; Muksit [âdil] vs Kâsıt [sapmış] zıtlığı) | ⏳ *Bekliyor* |
-| 24 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 296 | `ق-ع-د` | `K-A-D` | **31** | 26 | 2:127 | Kuûd (8 Mesânî ref! Kıyâm ana zıttı: ataletle oturup sorumluluktan geri kalma) | ⏳ *Bekliyor* |
-| 25 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 258 | `ب-ط-ل` | `B-T-L` | **36** | 34 | 2:42 | Bâtıl (7 Mesânî ref! Hakk ana zıttı: boş, dayanaksız ve hükümsüz kalan) | ⏳ *Bekliyor* |
-| 26 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 264 | `ع-ف-و` | `A-F-W` | **35** | 31 | 2:52 | Afv (7 Mesânî ref! Mağfiret Furûku ve İntikam zıttı + 2:219 ihtiyaç fazlası) | ⏳ *Bekliyor* |
+| 22 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 321 | `ع-د-ل` | `A-D-L` | **28** | 24 | 2:48 | Adl (İki Kefeyi Eşitleyip Orantılı Denge Kurmak, Denk Fidye [Asl 1]; Eksenden Eğilip Eş Tutarak Sapmak [Asl 2]) | ✅ **MÜHÜRLÜ** |
+| 23 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 353 | `ق-س-ط` | `K-S-T` | **25** | 22 | 2:282 | Kıst ve İksât (Ölçü ve Tartıyla Herkesin Somut Hak Payını Ayakta Tutmak; Bab I'de Haksız Sapma) | ✅ **MÜHÜRLÜ** |
+| 24 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 296 | `ق-ع-د` | `K-A-D` | **31** | 26 | 2:127 | Kuûd ve Kavâid (Taban Üzerine Oturup Yerleşmek, Yapı Temelleri, Mevzi Tutmak ve Mücadeleden Geri Durmak) | ✅ **MÜHÜRLÜ** |
+| 25 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 258 | `ب-ط-ل` | `B-T-L` | **36** | 34 | 2:42 | Bâtıl ve İbtâl (Sağlam Temeli ve Kalıcılığı Olmayan, Köpük Gibi Dağılıp Geçersizleşen) | ✅ **MÜHÜRLÜ** |
+| 26 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 264 | `ع-ف-و` | `A-F-W` | **35** | 31 | 2:52 | Afv (Kusur ve Hak Talebinin İzini Bütünüyle Silip Feragat Etmek; Çoğalıp Taşan İhtiyaç Fazlası) | ✅ **MÜHÜRLÜ** |
 | 27 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 237 | `ك-ر-ه` | `K-R-H` | **41** | 35 | 2:216 | İkrâh ve Kerh (6 Mesânî ref! Tav'/Meşîet zıttı ve 2:256 zorlama yasağı) | ⏳ *Bekliyor* |
 | 28 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 250 | `ه-و-ي` | `H-W-Y` | **38** | 37 | 2:87 | Hevâ ve Hâviye (5 Mesânî ref! Uçurumdan savrulma, boş arzu ve 101:9 Hâviye tek kökte) | ⏳ *Bekliyor* |
 | 29 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 343 | `ع-ج-ز` | `A-C-Z` | **26** | 25 | 5:31 | Acz ve Mu'ciz (5 Mesânî ref! Gücü yetmemek, geri kalmak ve kaçıp kurtulamamak) | ⏳ *Bekliyor* |

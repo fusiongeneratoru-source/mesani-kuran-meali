@@ -15164,5 +15164,579 @@
       }
     ],
     "context_default": "Hafızadan silinip unutmak (Asl 1) veya bir sorumluluğu/kişiyi bilinçli biçimde yüzüstü bırakıp terk etmek (Asl 2) (ن-س-ي)."
+  },
+  "ع-د-ل": {
+    "buckwalter": "Edl",
+    "slug": "adl_iki_kefeyi_denklemek_orantili_denge_ve_fidye_edl",
+    "concept_name": "Adl (İki Kefeyi Eşitleyip Orantılı Denge Kurmak, Denk Fidye [Asl 1]; Eksenden Eğilip Eş Tutarak Sapmak [Asl 2])",
+    "keywords": [
+      "denge",
+      "eşitlik",
+      "orantı",
+      "tarafsız",
+      "fidye",
+      "denk bedel",
+      "sapma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Eadala",
+        "ayahs": [
+          "82:7"
+        ],
+        "label": "Fiziksel çıpa: İnsanı kusursuz oran ve dengede biçimlendirmek (فَعَدَلَكَ — Bab I mâzi fiil: 82:7)"
+      },
+      {
+        "lemma": "Eadala",
+        "ayahs": [
+          "6:1",
+          "6:150",
+          "27:60"
+        ],
+        "label": "Asl 2 karşıt yön: Doğruluk ekseninden eğilip Rabbe başka varlıkları eş/denk tutarak sapmak (يَعْدِلُونَ — Bab I muzâri fiil)"
+      },
+      {
+        "lemma": "Eadala",
+        "ayahs": [
+          "6:70"
+        ],
+        "label": "Kurtuluş için karşı kefeye her türlü eşdeğer fidyeyi sunmak (تَعْدِلْ — Bab I şart fiili: 6:70)"
+      },
+      {
+        "lemma": "Eadala",
+        "label": "Yargıda, sözde, ailede ve toplumsal ilişkilerde iki kefeyi eşitleyip tarafsız denge kurmak (تَعْدِلُوا۟ / ٱعْدِلُوا۟ / يَعْدِلُونَ / لِأَعْدِلَ — Bab I fiil)"
+      },
+      {
+        "lemma": "Eadol",
+        "ayahs": [
+          "2:48",
+          "2:123",
+          "6:70"
+        ],
+        "label": "Hesap gününde karşı kefeye konulacak eşdeğer kurtuluş bedeli ve fidye (عَدْلٌ / عَدْلٍ — isim)"
+      },
+      {
+        "lemma": "Eadol",
+        "ayahs": [
+          "5:95",
+          "5:106",
+          "65:2"
+        ],
+        "label": "Güvenilir denge sahibi iki tanık (ذَوَا عَدْلٍ) veya telafinin eşdeğer karşılığı (عَدْلُ ذَٰلِكَ — isim)"
+      },
+      {
+        "lemma": "Eadol",
+        "label": "Sözleşmede, yargıda, yönetimde ve arabuluculukta ilkesel tarafsızlık ve denge ölçüsü (بِٱلْعَدْلِ / وَعَدْلًا — isim/masdar)"
+      }
+    ],
+    "irab_default": "İki kefeyi denkleyip doğru oran kurmak, eşdeğer bedel sunmak veya eksenden sapmak (ع-د-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "82:7"
+        ],
+        "text": "Biyolojik oran ve denge çıpası (فَعَدَلَكَ): insanı yaratıp düzgün kıldıktan sonra kusursuz oran ve dengeye kavuşturmak."
+      },
+      {
+        "ayahs": [
+          "2:48",
+          "2:123",
+          "6:70"
+        ],
+        "text": "Eşdeğer fidye ve bedel (عَدْل): hesap gününde karşı kefeye konulup kabul edilebilecek hiçbir kurtuluş fidyesinin olmaması."
+      },
+      {
+        "ayahs": [
+          "6:1",
+          "6:150",
+          "27:60"
+        ],
+        "text": "Asl 2 — Yanlış denkleme ve sapma (بِرَبِّهِمْ يَعْدِلُونَ): Allah ile başka varlıkları aynı kefeye koyup doğruluk ekseninden eğilmek."
+      },
+      {
+        "ayahs": [
+          "2:282",
+          "4:3",
+          "4:58",
+          "4:129",
+          "4:135",
+          "5:8",
+          "5:95",
+          "5:106",
+          "6:115",
+          "6:152",
+          "7:159",
+          "7:181",
+          "16:76",
+          "16:90",
+          "42:15",
+          "49:9",
+          "65:2"
+        ],
+        "text": "Toplumsal ve hukuki tarafsızlık dengesi (بِٱلْعَدْلِ / ٱعْدِلُوا۟ / ذَوَا عَدْلٍ): yazışma, yargı, tanıklık, söz, aile ve barışta öfke ve arzuya kapılmadan dengeyi ayakta tutmak."
+      }
+    ],
+    "context_default": "İki kefeyi eşitleyip doğru oran ve denge kurmak, eşdeğer bedel veya eksenden sapmak (ع-د-ل)."
+  },
+  "ق-س-ط": {
+    "buckwalter": "qsT",
+    "slug": "kist_ve_iksat_somut_hak_payini_olcuyle_ayakta_tutmak_qst",
+    "concept_name": "Kıst ve İksât (Ölçü ve Tartıyla Herkesin Somut Hak Payını Ayakta Tutmak; Bab I'de Haksız Sapma)",
+    "keywords": [
+      "hak payı",
+      "ölçü",
+      "tartı",
+      "hakkaniyet",
+      "terazi",
+      "haksız sapma",
+      "adil paylaşım"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qa`siTuwn",
+        "label": "Bab I karşıt yön: Hakkaniyet ölçüsünden saparak haksız eğilim gösterenler (ٱلْقَٰسِطُونَ — Bab I ism-i fâil: 72:14-15)"
+      },
+      {
+        "lemma": "tuqosiTu",
+        "label": "Bab IV hemze-i izâle: Haksızlığı giderip yetimlerin, tarafların ve barışçıl insanların hak paylarını eksiksiz teslim etmek (تُقْسِطُوا۟ / أَقْسِطُوٓا۟ — Bab IV fiil)"
+      },
+      {
+        "lemma": "muqosiTiyn",
+        "label": "Haksızlığı giderip somut hakkaniyeti uygulayan, Allah'ın sevdiği kimseler (ٱلْمُقْسِطِينَ — Bab IV ism-i fâil)"
+      },
+      {
+        "lemma": ">aqosaT",
+        "label": "Hakkaniyeti ve tarafların somut payını korumaya en uygun olan (أَقْسَطُ — ism-i tafdîl: 2:282, 33:5)"
+      },
+      {
+        "lemma": "qisoT",
+        "ayahs": [
+          "6:152",
+          "11:85",
+          "21:47",
+          "55:9",
+          "57:25"
+        ],
+        "label": "Ölçü, tartı ve terazide eksiksiz hak payı teslimi (بِٱلْقِسْطِ / ٱلْقِسْطَ — fiziksel/ekonomik çıpa isim)"
+      },
+      {
+        "lemma": "qisoT",
+        "label": "Evrensel, hukuki ve toplumsal düzlemde her hak sahibinin somut payını ayakta tutma ilkesi (بِٱلْقِسْطِ — isim)"
+      }
+    ],
+    "irab_default": "Somut hak payını ölçüyle teslim etmek veya Bab I'de hakkaniyetten sapmak (ق-س-ط kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:152",
+          "11:85",
+          "21:47",
+          "55:9",
+          "57:25"
+        ],
+        "text": "Ölçü, tartı ve kurumsal hakkaniyet çıpası: kile ve teraziyi eksiksiz ayakta tutmak ve insanlığın somut hak paylaşımını gerçekleştirmesi."
+      },
+      {
+        "ayahs": [
+          "3:18",
+          "3:21",
+          "4:127",
+          "4:135",
+          "5:8",
+          "7:29",
+          "10:4",
+          "10:47",
+          "10:54"
+        ],
+        "text": "Evrensel ve yargısal hakkaniyet düzeni: Allah'ın hakkaniyeti bizzat ayakta tutması, elçiler arasındaki şaşmaz hüküm ve yetim/toplum hakları için şahitlik."
+      },
+      {
+        "ayahs": [
+          "2:282",
+          "4:3",
+          "5:42",
+          "33:5",
+          "49:9",
+          "60:8"
+        ],
+        "text": "Bab IV iksât ve en hakkaniyetli yol: yazılı borç belgesi, gerçek soybağı, yetim hakkı, toplumsal barış ve barışçıl ilişki hukukunda haksızlığı gidermek."
+      },
+      {
+        "ayahs": [
+          "72:14",
+          "72:15"
+        ],
+        "text": "Bab I karşıt kutup (ٱلْقَٰسِطُونَ): teslimiyet ehline zıt olarak hakkaniyet ölçüsünden sapıp haksızlığa düşenler."
+      }
+    ],
+    "context_default": "Herkesin somut hak payını ölçüyle ayakta tutmak veya Bab I'de hakkaniyetten sapmak (ق-س-ط)."
+  },
+  "ق-ع-د": {
+    "buckwalter": "qEd",
+    "slug": "kuud_ve_kavaid_taban_uzerine_oturmak_temeller_ve_geri_durmak_qed",
+    "concept_name": "Kuûd ve Kavâid (Taban Üzerine Oturup Yerleşmek, Yapı Temelleri, Mevzi Tutmak ve Mücadeleden Geri Durmak)",
+    "keywords": [
+      "oturmak",
+      "temel",
+      "geri durmak",
+      "mevzi",
+      "pusu",
+      "makam",
+      "sabit gözetleyici"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qawaAEid",
+        "ayahs": [
+          "2:127",
+          "16:26"
+        ],
+        "label": "Bir yapının üzerine oturduğu sağlam zemin ve temel taşları (ٱلْقَوَاعِدَ / ٱلْقَوَاعِدِ — fiziksel çıpa çoğul isim)"
+      },
+      {
+        "lemma": "qawaAEid",
+        "ayahs": [
+          "24:60"
+        ],
+        "label": "Evlilik ve doğurganlık beklentisinden çekilip oturmuş yaşlı kadınlar (ٱلْقَوَٰعِدُ — çoğul isim: 24:60)"
+      },
+      {
+        "lemma": "qaEiyd",
+        "label": "İnsanın sağında ve solunda sürekli hazır oturup tanıklık eden gözetleyici (قَعِيدٌ — sıfat: 50:17)"
+      },
+      {
+        "lemma": "maqoEad",
+        "ayahs": [
+          "54:55"
+        ],
+        "label": "Güçlü ve yetkin egemenin katında onurlu doğruluk makamı (مَقْعَدِ صِدْقٍ — ism-i mekân: 54:55)"
+      },
+      {
+        "lemma": "maqoEad",
+        "label": "Savaş mevzii, dinleme mevkisi veya geride kalıp oturma yeri/hali (مَقَٰعِدَ / بِمَقْعَدِهِمْ — ism-i mekân)"
+      },
+      {
+        "lemma": "quEuwd",
+        "label": "Oturur halde bulunmak (ayakta duruş ve yatışın yanında) veya seferden geri kalıp oturmaya razı olmak (قُعُودًا / بِٱلْقُعُودِ / قُعُودٌ — masdar)"
+      },
+      {
+        "lemma": "qaAEid",
+        "ayahs": [
+          "10:12"
+        ],
+        "label": "Oturur halde bulunan (قَاعِدًا — bedensel hal ism-i fâil: 10:12)"
+      },
+      {
+        "lemma": "qaAEid",
+        "label": "Sefere ve mücadeleye kalkmayıp yerinden kıpırdamadan geride oturanlar (ٱلْقَٰعِدُونَ / ٱلْقَٰعِدِينَ — Bab I ism-i fâil)"
+      },
+      {
+        "lemma": "qaEada",
+        "ayahs": [
+          "17:22",
+          "17:29"
+        ],
+        "label": "Yanlış tercih veya savurganlık sonucu kınanmış ve tükenmiş halde çöküp kalmak (فَتَقْعُدَ — Bab I fiil)"
+      },
+      {
+        "lemma": "qaEada",
+        "ayahs": [
+          "7:16",
+          "7:86",
+          "9:5",
+          "72:9"
+        ],
+        "label": "Yol üstüne, gözetleme noktasına veya dinleme mevkisine yerleşip pusu/nöbet kurmak (لَأَقْعُدَنَّ / تَقْعُدُوا۟ / ٱقْعُدُوا۟ / نَقْعُدُ — Bab I fiil)"
+      },
+      {
+        "lemma": "qaEada",
+        "label": "Sefere katılmayıp geride oturmak veya ayetlerle alay edilen mecliste oturmak (قَعَدُوا۟ / تَقْعُدُوا۟ / ٱقْعُدُوا۟ / قَعَدَ — Bab I fiil)"
+      }
+    ],
+    "irab_default": "Bir taban üzerine oturup yerleşmek, temel olmak veya harekete kalkmayıp geri durmak (ق-ع-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:127",
+          "16:26"
+        ],
+        "text": "Yapı temelleri çıpası (ٱلْقَوَاعِد): binanın üzerine oturduğu sağlam taban taşları."
+      },
+      {
+        "ayahs": [
+          "3:191",
+          "4:103",
+          "10:12",
+          "85:6"
+        ],
+        "text": "Bedensel oturuş hali: ayakta, otururken ve yan yatarken Allah bilincini sürdürmek (veya ateş çukurunun başında oturup izlemek)."
+      },
+      {
+        "ayahs": [
+          "3:168",
+          "4:95",
+          "5:24",
+          "9:46",
+          "9:81",
+          "9:83",
+          "9:86",
+          "9:90"
+        ],
+        "text": "Mücadeleden geri durup oturma: seferber olup çaba gösterenlerle yerinden kımıldamayıp geride oturanların ayrımı."
+      },
+      {
+        "ayahs": [
+          "3:121",
+          "7:16",
+          "7:86",
+          "9:5",
+          "72:9"
+        ],
+        "text": "Mevzi, pusu ve gözetleme noktasına yerleşme: savaş mevzileri, doğru yol üstünde kurulan pusu ve göğün dinleme mevkileri."
+      },
+      {
+        "ayahs": [
+          "4:140",
+          "6:68"
+        ],
+        "text": "Mecliste oturma yasağı: ayetlerin hafife alınıp alay edildiği ortamda başka konuya geçilinceye dek oturmamak."
+      },
+      {
+        "ayahs": [
+          "17:22",
+          "17:29",
+          "24:60",
+          "50:17",
+          "54:55"
+        ],
+        "text": "Kınanmış halde çöküp kalma (17:22, 17:29), evlilik beklentisinden çekilmiş yaşlı kadınlar (24:60), sabit gözetleyici (50:17) ve doğruluk makamı (54:55)."
+      }
+    ],
+    "context_default": "Bir taban üzerine oturup yerleşmek, temel teşkil etmek veya eylemden geri durmak (ق-ع-د)."
+  },
+  "ب-ط-ل": {
+    "buckwalter": "bTl",
+    "slug": "batil_ve_ibtal_temelsiz_kopuk_gibi_gecersizlesmek_btl",
+    "concept_name": "Bâtıl ve İbtâl (Sağlam Temeli ve Kalıcılığı Olmayan, Köpük Gibi Dağılıp Geçersizleşen)",
+    "keywords": [
+      "temelsiz",
+      "geçersiz",
+      "boşa çıkma",
+      "köpük",
+      "amaçsız",
+      "haksız kazanç",
+      "çürütmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "baTala",
+        "label": "Hakikatin ortaya çıkmasıyla kurgulanmış aldatmacanın kendiliğinden boşa çıkıp dağılması (وَبَطَلَ — Bab I mâzi fiil: 7:118)"
+      },
+      {
+        "lemma": "yuboTila",
+        "label": "Bir göz boyamayı, temelsiz düzeni, yardımı veya eylemi geçersizleştirip boşa çıkarmak (تُبْطِلُوا۟ / وَيُبْطِلَ / سَيُبْطِلُهُۥٓ — Bab IV fiil)"
+      },
+      {
+        "lemma": "muboTiluwn",
+        "label": "Temelsiz iddiaların peşinden gidip gerçeği geçersizleştirmeye çalışan ve hesapta hüsrana düşenler (ٱلْمُبْطِلُونَ / مُبْطِلُونَ — Bab IV ism-i fâil)"
+      },
+      {
+        "lemma": "ba`Til",
+        "ayahs": [
+          "3:191",
+          "38:27"
+        ],
+        "label": "Amaçsız, temelsiz ve boş yere (evrenin yaratılışı hakkında reddedilen nitelik — بَٰطِلًا)"
+      },
+      {
+        "lemma": "ba`Til",
+        "ayahs": [
+          "2:188",
+          "4:29",
+          "4:161",
+          "9:34"
+        ],
+        "label": "Karşılıklı meşru ticaret ve gerçek değer üretimi dışındaki haksız ve temelsiz mal yeme yolu (بِٱلْبَٰطِلِ)"
+      },
+      {
+        "lemma": "ba`Til",
+        "label": "Sağlam ve kalıcı gerçekliğin (`حَقّ`) karşıtında köpük gibi temelsiz, özsüz ve sönüp dağılmaya mahkûm olan (ٱلْبَٰطِلُ / بَٰطِلٌ — isim)"
+      }
+    ],
+    "irab_default": "Sağlam temeli ve kalıcılığı olmayan, hakikat karşısında dağılıp geçersizleşen (ب-ط-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:17",
+          "17:81",
+          "21:18",
+          "42:24"
+        ],
+        "text": "Fiziksel çıpa ve hakikat çarpışması: selin üstündeki köpük gibi uçup giden, hakikatin darbesiyle sönüp silinen geçersizlik."
+      },
+      {
+        "ayahs": [
+          "3:191",
+          "38:27"
+        ],
+        "text": "Kozmolojik amaçlılık: göklerin ve yerin amaçsız, boş ve temelsiz (بَٰطِلًا) yaratılmamış olması."
+      },
+      {
+        "ayahs": [
+          "2:188",
+          "4:29",
+          "4:161",
+          "9:34"
+        ],
+        "text": "Ekonomik haksızlık yasağı: meşru ticaret ve gerçek karşılık dışında insanların mallarını temelsiz yollarla yememek."
+      },
+      {
+        "ayahs": [
+          "2:264",
+          "7:118",
+          "7:139",
+          "10:81",
+          "11:16",
+          "47:33"
+        ],
+        "text": "Eylemlerin ve aldatmacaların boşa çıkması: göz boyamanın çöküşü, başa kakma veya itaatsizlikle kendi çabasını geçersizleştirme."
+      },
+      {
+        "ayahs": [
+          "2:42",
+          "3:71",
+          "7:173",
+          "8:8",
+          "16:72",
+          "18:56",
+          "22:62",
+          "29:48",
+          "29:52",
+          "29:67",
+          "30:58",
+          "31:30",
+          "34:49",
+          "40:5",
+          "40:78",
+          "41:42",
+          "45:27",
+          "47:3"
+        ],
+        "text": "Ontolojik ve epistemolojik ayrım: Allah'tan başka yakarılanların temelsizliği, gerçeği batılla örtmeme ve Kur'an'a temelsizliğin yaklaşamaması."
+      }
+    ],
+    "context_default": "Temelsiz ve kalıcılıktan yoksun olmak, köpük gibi dağılıp geçersizleşmek (ب-ط-ل)."
+  },
+  "ع-ف-و": {
+    "buckwalter": "Efw",
+    "slug": "afv_izi_silip_feragat_etmek_ve_ihtiyac_fazlasi_efw",
+    "concept_name": "Afv (Kusur ve Hak Talebinin İzini Bütünüyle Silip Feragat Etmek; Çoğalıp Taşan İhtiyaç Fazlası)",
+    "keywords": [
+      "iz silmek",
+      "feragat",
+      "bağışlamak",
+      "ihtiyaç fazlası",
+      "çoğalmak",
+      "kolay gelen pay",
+      "vazgeçmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EafaA",
+        "ayahs": [
+          "7:95"
+        ],
+        "label": "Fiziksel artış kolu: Bitkinin gürleşmesi gibi sayıca ve varlıkça çoğalıp serpilmek (عَفَوا۟ — Bab I mâzi fiil: 7:95)"
+      },
+      {
+        "lemma": "Eafow",
+        "ayahs": [
+          "2:219"
+        ],
+        "label": "Ekonomik fazlalık çıpası: İhtiyaçtan artıp kolayca paylaşılabilen fazla pay (ٱلْعَفْوَ — isim: 2:219)"
+      },
+      {
+        "lemma": "Eafow",
+        "ayahs": [
+          "7:199"
+        ],
+        "label": "İnsanlara aşırı yük bindirmeden zorlanmaksızın kolayca gelen olumlu tutumu ve bağışlayıcı genişliği esas almak (ٱلْعَفْوَ — isim: 7:199)"
+      },
+      {
+        "lemma": "EafaA",
+        "ayahs": [
+          "2:178",
+          "2:237"
+        ],
+        "label": "Hukuki feragat: Kısas veya ayrılık tazminatında hak sahibinin kendi talebini gönüllü silip vazgeçmesi (عُفِىَ / يَعْفُونَ / يَعْفُوَا۟ / تَعْفُوٓا۟ — Bab I fiil)"
+      },
+      {
+        "lemma": "Eafuw~",
+        "label": "Kudreti elinde olduğu halde kusurların izini pek çok kez ve bütünüyle silip geçen (عَفُوًّا / لَعَفُوٌّ — mübalağa sıfatı)"
+      },
+      {
+        "lemma": "EaAfiyn",
+        "label": "Öfkelerini yutmanın ötesinde insanların kusur izini gönülden silip aşanlar (وَٱلْعَافِينَ — Bab I ism-i fâil: 3:134)"
+      },
+      {
+        "lemma": "EafaA",
+        "label": "Rüzgarın ayak izini silmesi gibi kusurun ve ceza talebinin izini bütünüyle silip üzerinden geçmek (عَفَا / عَفَوْنَا / فَٱعْفُ / وَيَعْفُوا۟ — Bab I fiil)"
+      }
+    ],
+    "irab_default": "Kusur ve hak talebinin izini bütünüyle silip feragat etmek veya kendiliğinden çoğalıp taşmak (ع-ف-و kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:219",
+          "7:95",
+          "7:199"
+        ],
+        "text": "Kendiliğinden çoğalma ve kolay fazlalık kolu: serpilip çoğalmak (7:95), ihtiyaç fazlasını paylaşmak (2:219) ve zorlamadan gelen kolay payı/bağışlayıcı genişliği almak (7:199)."
+      },
+      {
+        "ayahs": [
+          "2:178",
+          "2:237"
+        ],
+        "text": "Hukuki feragat kolu: kısas ve ayrılık hukukunda hak sahibinin kendi maddi veya cezai talebini gönüllü silmesi."
+      },
+      {
+        "ayahs": [
+          "2:109",
+          "3:134",
+          "3:159",
+          "5:13",
+          "24:22",
+          "42:40",
+          "64:14"
+        ],
+        "text": "İnsanlar arası onarıcı bağışlama: kınamadan sayfayı çevirmek (`ص-ف-ح`), öfkeyi aşmak ve ilişkiyi ıslah ederek (`أَصْلَحَ`) kusur izini silmek."
+      },
+      {
+        "ayahs": [
+          "2:52",
+          "2:187",
+          "2:286",
+          "3:152",
+          "3:155",
+          "4:43",
+          "4:99",
+          "4:149",
+          "4:153",
+          "5:15",
+          "5:95",
+          "5:101",
+          "9:43",
+          "9:66",
+          "22:60",
+          "42:25",
+          "42:30",
+          "42:34",
+          "58:2"
+        ],
+        "text": "İlahi iz silme ve geniş bağışlayıcılık: Allah'ın gücü yettiği halde insanların pek çok hatasını silip üzerinden geçmesi (`عَفُوّ`)."
+      }
+    ],
+    "context_default": "Kusur veya hak talebinin izini bütünüyle silip geçmek ya da kendiliğinden çoğalıp taşan fazlalık (ع-ف-و)."
   }
 }
