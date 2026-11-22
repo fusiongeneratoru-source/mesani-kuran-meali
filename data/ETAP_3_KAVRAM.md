@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 46 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 51 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 46 / 131 Kök (Toplam Mühürlü: 267 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 51 / 131 Kök (Toplam Mühürlü: 272 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -55,11 +55,11 @@
 | 44 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 1153 | `ج-ل-ب` | `C-L-B` | **2** | 2 | 17:64 | Celb ve Cilbâb (Kuvvet Toplayıp Üzerine Sürmek ve Eziyetten Koruyan Dış Giysi) | ✅ **MÜHÜRLÜ** |
 | 45 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 377 | `و-ز-ن` | `W-Z-N` | **23** | 21 | 6:152 | Vezn ve Mîzân (Kozmik Denge, Ticari Tartı, Vahiy Ölçütü ve Hesap Günü Hakikat Terazisi) | ✅ **MÜHÜRLÜ** |
 | 46 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 242 | `م-ل-أ` | `M-L-E` | **40** | 40 | 2:246 | Mel' ve Mele' (Kenarına Kadar Eksiksiz Doldurmak, Seçkin Yönetim Zümresi/Oligarşi ve Yüce Meclis) | ✅ **MÜHÜRLÜ** |
-| 47 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 756 | `و-س-ط` | `W-S-T` | **5** | 5 | 2:143 | Vasat (2:143 Ümmeten Vasatan: merkezî, dengeli ve örnek tanık topluluk) | ⏳ *Bekliyor* |
-| 48 | ⭐ **3A** | Zihin ve Akletme | 223 | `د-ب-ر` | `D-B-R` | **44** | 44 | 3:111 | Tedebbür ve Dübür (arka/sonuç; sözün arkasına, sonucuna ve bütünlüğüne bakmak) | ⏳ *Bekliyor* |
-| 49 | ⭐ **3A** | Zihin ve Akletme | 406 | `ف-ق-ه` | `F-K-H` | **20** | 20 | 4:78 | Fıkıh (derindeki inceliği yarıp kavrama ve keskin idrak) | ⏳ *Bekliyor* |
-| 50 | ⭐ **3A** | Zihin ve Akletme | 214 | `ص-د-ر` | `S-D-R` | **46** | 43 | 3:29 | Sadr (Kalp ile Furûk: dış giriş/göğüs kafesi, iç sesin ilk karşılandığı ön alan) | ⏳ *Bekliyor* |
-| 51 | ⭐ **3A** | Zihin ve Akletme | 448 | `ل-ب-ب` | `L-B-B` | **16** | 16 | 2:179 | Elbâb (kabuğu soyulmuş saf çekirdek ve arı öz sahipleri) | ⏳ *Bekliyor* |
+| 47 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 756 | `و-س-ط` | `W-S-T` | **5** | 5 | 2:143 | Vasat ve Evsat (İki Aşırı Uç Arasındaki Sağlam Merkez, Adalet, Denge ve Sağduyu) | ✅ **MÜHÜRLÜ** |
+| 48 | ⭐ **3A** | Zihin ve Akletme | 223 | `د-ب-ر` | `D-B-R` | **44** | 44 | 3:111 | Dübur, Tedbîr ve Tedebbür (Arka Taraf/Son, Sırt Dönmek, Akıbeti Gözeten Yönetim ve Derin İrdeleme) | ✅ **MÜHÜRLÜ** |
+| 49 | ⭐ **3A** | Zihin ve Akletme | 406 | `ف-ق-ه` | `F-K-H` | **20** | 20 | 4:78 | Fıkh ve Tefekkuh (Yüzeysel Algıyı Aşıp Sözün, Ayetin ve Yaşam Düzeninin Özünü Derinden Kavramak) | ✅ **MÜHÜRLÜ** |
+| 50 | ⭐ **3A** | Zihin ve Akletme | 214 | `ص-د-ر` | `S-D-R` | **46** | 43 | 3:29 | Sadr ve Sudûr (Göğüs, Kalbin Barındığı İçsel Niyet-Duygu Haznesi ve Yerinden Çıkıp Ayrılmak) | ✅ **MÜHÜRLÜ** |
+| 51 | ⭐ **3A** | Zihin ve Akletme | 448 | `ل-ب-ب` | `L-B-B` | **16** | 16 | 2:179 | Lübb ve Ülü'l-Elbâb (Kabuğundan ve Şaibelerden Arınmış Saf Öz ve Derin Akıl Sahipleri) | ✅ **MÜHÜRLÜ** |
 | 52 | ⭐ **3A** | Zaman ve Ahiret | 205 | `س-و-ع` | `S-W-A` | **49** | 44 | 6:31 | Sâat (Rank 205 en sık açık kök! Yevm ile Furûk: kopuş/kırılma eşiği ve belirleyici an) | ⏳ *Bekliyor* |
 | 53 | ⭐ **3A** | Zaman ve Ahiret | 227 | `ح-ش-ر` | `H-S-R` | **43** | 43 | 2:203 | Haşr (Ba's ve Nüşûr ile Furûk: sürülüp tek merkezde toplanma, dünya sürgünü dahil) | ⏳ *Bekliyor* |
 | 54 | ⭐ **3A** | Zaman ve Ahiret | 495 | `ح-و-ر` | `H-W-R` | **13** | 12 | 3:52 | Hûr, Havârî ve Muhâvere (parlaklık/saflık, arı destekçiler ve karşılıklı diyalog tek kökte) | ⏳ *Bekliyor* |

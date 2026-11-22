@@ -17731,5 +17731,513 @@
       }
     ],
     "context_default": "Eksiksiz doldurmak veya meclisi/iktidarı dolduran seçkin yönetim zümresi (م-ل-أ)."
+  },
+  "و-س-ط": {
+    "buckwalter": "wsT",
+    "slug": "vasat_ve_evsat_iki_uc_arasi_merkez_adalet_denge_ve_sagduyu_wst",
+    "concept_name": "Vasat ve Evsat (İki Aşırı Uç Arasındaki Sağlam Merkez, Adalet, Denge ve Sağduyu)",
+    "keywords": [
+      "vasat",
+      "orta",
+      "merkez",
+      "denge",
+      "adalet",
+      "sağduyu",
+      "ölçülü",
+      "seçkin"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "wasaTo",
+        "label": "Fiziksel merkez çıpası: Koşan atlıların bir topluluğun kenarında kalmayıp tam ortasına/kalbine dalması (فَوَسَطْنَ بِهِۦ جَمْعًا — Bab I fiil: 100:5)"
+      },
+      {
+        "lemma": "wasaT",
+        "label": "Toplumsal denge çıpası: İki aşırı uçtan uzak, adalet ve ölçülülük merkezinde durarak insanlığa tanıklık eden öncü topluluk (أُمَّةً وَسَطًا — sıfat: 2:143)"
+      },
+      {
+        "lemma": "wusoTaY`",
+        "label": "Seçkin merkez çıpası: Yöneliş ve dayanışma bağlarının en dengeli, en merkezî ve en kıymetli halkası (ٱلصَّلَوٰةِ ٱلْوُسْطَىٰ — dişil sıfat: 2:238)"
+      },
+      {
+        "lemma": ">awosaT",
+        "ayahs": [
+          "5:89"
+        ],
+        "label": "Ekonomik ölçü çıpası: İsraf ile cimrilik arasındaki adil, normal aile beslenme ölçüsü (مِنْ أَوْسَطِ مَا تُطْعِمُونَ — isim/ism-i tafdîl: 5:89)"
+      },
+      {
+        "lemma": ">awosaT",
+        "ayahs": [
+          "68:28"
+        ],
+        "label": "Sağduyu çıpası: Topluluğun en dengeli, en adil ve en aklıselim kişisi (قَالَ أَوْسَطُهُمْ — isim/ism-i tafdîl: 68:28)"
+      }
+    ],
+    "irab_default": "İki aşırı uçtan eşit uzaklıkta bulunan tam merkez, adalet, denge ve sağduyu ölçüsü (و-س-ط kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "100:5"
+        ],
+        "text": "Mekânsal merkez çıpası (فَوَسَطْنَ بِهِۦ جَمْعًا): bir topluluğun tam ortasına dalmak."
+      },
+      {
+        "ayahs": [
+          "2:143",
+          "2:238"
+        ],
+        "text": "Toplumsal adalet ve merkezî bağ (أُمَّةً وَسَطًا / ٱلصَّلَوٰةِ ٱلْوُسْطَىٰ): aşırılıktan uzak adil tanık topluluk ve en merkezî yöneliş bağı."
+      },
+      {
+        "ayahs": [
+          "5:89",
+          "68:28"
+        ],
+        "text": "Ölçülü ortalama ve sağduyu doruğu (أَوْسَط): aile beslenme ölçüsü ve topluluğun en dengeli, en sağduyulu sesi."
+      }
+    ],
+    "context_default": "İki uç arasındaki tam merkez, denge, adalet ve sağduyu (و-س-ط)."
+  },
+  "د-ب-ر": {
+    "buckwalter": "dbr",
+    "slug": "dubur_tedbir_ve_tedebbur_arka_yon_akibet_yonetimi_ve_derin_irdeleme_dbr",
+    "concept_name": "Dübur, Tedbîr ve Tedebbür (Arka Taraf/Son, Sırt Dönmek, Akıbeti Gözeten Yönetim ve Derin İrdeleme)",
+    "keywords": [
+      "tedebbür",
+      "tedbîr",
+      "dübur",
+      "arka taraf",
+      "sırt dönmek",
+      "akıbet",
+      "derin irdeleme",
+      "yönetim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "dubur",
+        "ayahs": [
+          "12:25",
+          "12:27",
+          "12:28"
+        ],
+        "label": "Fiziksel çıpa: Yûsuf'un gömleğinin önünden değil arkasından yırtılmış olması (مِن دُبُرٍ — isim)"
+      },
+      {
+        "lemma": "dubur",
+        "ayahs": [
+          "50:40"
+        ],
+        "label": "Zaman arkası: Secdelerin ve boyun eğişin hemen ardı/sonrası (وَأَدْبَٰرَ ٱلسُّجُودِ — isim çoğul: 50:40)"
+      },
+      {
+        "lemma": "dubur",
+        "label": "Arka taraf ve sırt: Savaşta veya hakikat karşısında sırtını dönüp geri çekilmek (ٱلْأَدْبَارَ / أَدْبَٰرِهِمْ / دُبُرَهُۥ — isim)"
+      },
+      {
+        "lemma": "daAbir",
+        "label": "En son kalıntı ve artçı kök: Zalim bir topluluğun geride kalan son kökünün kesilmesi (دَابِرُ / دَابِرَ — isim: 6:45, 7:72, 8:7, 15:66)"
+      },
+      {
+        "lemma": "<idoba`r",
+        "label": "Göksel çekilme zamanı: Yıldızların sabaha karşı batıp ardını dönerek çekilmesi (وَإِدْبَٰرَ ٱلنُّجُومِ — Bab IV masdar: 52:49)"
+      },
+      {
+        "lemma": ">adobara",
+        "ayahs": [
+          "74:33"
+        ],
+        "label": "Kozmik çekilme çıpası: Gecenin ardını dönüp çekilip gitmesi (وَٱلَّيْلِ إِذْ أَدْبَرَ — Bab IV fiil: 74:33)"
+      },
+      {
+        "lemma": ">adobara",
+        "label": "Hakikate sırt dönüp kibirle yüz çevirmek (أَدْبَرَ — Bab IV fiil: 70:17, 74:23, 79:22)"
+      },
+      {
+        "lemma": "mudobir",
+        "label": "Sırtını dönüp uzaklaşan veya kaçan (مُّدْبِرِينَ / مُدْبِرًا — Bab IV ism-i fâil: 9:25, 21:57, 27:10, 27:80, 28:31, 30:52, 37:90, 40:33)"
+      },
+      {
+        "lemma": "yudab~iru",
+        "label": "Kozmik yönetim çıpası: Her işin ardını ve nihai akıbetini gözeterek evrenin düzenini baştan sona çekip çevirmek (يُدَبِّرُ ٱلْأَمْرَ — Bab II fiil: 10:3, 10:31, 13:2, 32:5)"
+      },
+      {
+        "lemma": "mudab~ira`t",
+        "label": "İlahi buyruğu ve düzeni sonunu gözeterek çekip çeviren görevli güçler (فَٱلْمُدَبِّرَٰتِ أَمْرًا — Bab II ism-i fâil: 79:5)"
+      },
+      {
+        "lemma": "yatadab~aru",
+        "label": "Derin irdeleme çıpası: Kur'an'ın ve sözün yüzeyinde kalmayıp arka planına, iç tutarlılığına ve varacağı sonuçlara derinlemesine nüfuz etmek (يَتَدَبَّرُونَ / يَدَّبَّرُوا۟ / لِّيَدَّبَّرُوٓا۟ — Bab V fiil: 4:82, 23:68, 38:29, 47:24)"
+      }
+    ],
+    "irab_default": "Arka taraf ve son; sırt dönüp uzaklaşmak, işin sonunu gözeterek yönetmek veya sözün arka planını derinlemesine irdelemek (د-ب-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:111",
+          "4:47",
+          "5:21",
+          "6:45",
+          "7:72",
+          "8:7",
+          "8:15",
+          "8:16",
+          "8:50",
+          "12:25",
+          "12:27",
+          "12:28",
+          "15:65",
+          "15:66",
+          "17:46",
+          "33:15",
+          "47:25",
+          "47:27",
+          "48:22",
+          "50:40",
+          "52:49",
+          "54:45",
+          "59:12",
+          "74:33"
+        ],
+        "text": "Fiziksel arka, sırt, son kalıntı ve zamanın çekilişi: gömleğin arkası, savaşta sırt dönme, zalimlerin son kökünün kesilmesi ve gecenin/yıldızların çekilmesi."
+      },
+      {
+        "ayahs": [
+          "9:25",
+          "21:57",
+          "27:10",
+          "27:80",
+          "28:31",
+          "30:52",
+          "37:90",
+          "40:33",
+          "70:17",
+          "74:23",
+          "79:22"
+        ],
+        "text": "Sırt dönüp kaçma ve reddediş (مُدْبِر / أَدْبَرَ): Mûsâ'nın irkilip dönmesi ve kibirli toplulukların hakikate sırt dönmesi."
+      },
+      {
+        "ayahs": [
+          "10:3",
+          "10:31",
+          "13:2",
+          "32:5",
+          "79:5"
+        ],
+        "text": "Akıbeti gözeten kozmik yönetim (يُدَبِّرُ ٱلْأَمْرَ / فَٱلْمُدَبِّرَٰتِ): evrendeki düzenin baştan sona hikmetle çekip çevrilmesi."
+      },
+      {
+        "ayahs": [
+          "4:82",
+          "23:68",
+          "38:29",
+          "47:24"
+        ],
+        "text": "Kur'an üzerinde derin irdeleme (تَدَبُّر): ayetlerin arka planını, iç tutarlılığını ve sonuçlarını kilitli kalpten arınarak araştırmak."
+      }
+    ],
+    "context_default": "Arka taraf/son, akıbeti gözeten yönetim veya derin irdeleme (د-ب-ر)."
+  },
+  "ف-ق-ه": {
+    "buckwalter": "fqh",
+    "slug": "fikh_ve_tefekkuh_yuzeyi_asip_kalp_ve_akilla_derinden_kavramak_fqh",
+    "concept_name": "Fıkh ve Tefekkuh (Yüzeysel Algıyı Aşıp Sözün, Ayetin ve Yaşam Düzeninin Özünü Derinden Kavramak)",
+    "keywords": [
+      "fıkıh",
+      "derin kavrayış",
+      "anlamak",
+      "idrak",
+      "kalple kavramak",
+      "maksadı çözmek",
+      "tefekkuh"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yatafaq~ahu",
+        "label": "Sistemli derinleşme çıpası: Özel gayret ve disiplinle yaşam ve hesap sisteminde derin kavrayış kazanıp topluluğu uyarmak (لِّيَتَفَقَّهُوا۟ — Bab V fiil: 9:122)"
+      },
+      {
+        "lemma": "yafoqahu",
+        "ayahs": [
+          "4:78",
+          "11:91",
+          "18:93",
+          "20:28"
+        ],
+        "label": "Sözün maksadını kavrama çıpası: Konuşulan sözün ve mesajın ardındaki derin anlamı kavramak (يَفْقَهُوا۟ قَوْلِى / يَفْقَهُونَ حَدِيثًا — Bab I fiil)"
+      },
+      {
+        "lemma": "yafoqahu",
+        "ayahs": [
+          "17:44"
+        ],
+        "label": "Evrensel dil çıpası: Göklerde ve yerdeki her varlığın Allah'ı yüceltme işleyişini derinden kavrayamamak (لَّا تَفْقَهُونَ تَسْبِيحَهُمْ — Bab I fiil: 17:44)"
+      },
+      {
+        "lemma": "yafoqahu",
+        "ayahs": [
+          "6:65",
+          "6:98"
+        ],
+        "label": "Ayet kavrayışı çıpası: Farklı açılardan açıklanıp detaylandırılmış ayetlerin özünü idrak etmek (لِقَوْمٍ يَفْقَهُونَ — Bab I fiil)"
+      },
+      {
+        "lemma": "yafoqahu",
+        "label": "Kalple derin kavrayış ve kılıflı/mühürlü kalp eleştirisi: Yüzeyin ardındaki hakikati kalp ve akılla kavramak veya bundan yoksun kalmak (يَفْقَهُونَ / يَفْقَهُوهُ — Bab I fiil)"
+      }
+    ],
+    "irab_default": "Yüzeysel işitme ve görünüşü aşıp sözün, ayetin ve olayın ardındaki derin maksadı kavramak (ف-ق-ه kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:25",
+          "7:179",
+          "8:65",
+          "9:81",
+          "9:87",
+          "9:127",
+          "17:46",
+          "18:57",
+          "48:15",
+          "59:13",
+          "63:3",
+          "63:7"
+        ],
+        "text": "Kalp kavrayışı ve kılıflı kalp eleştirisi: kalpleri olduğu hâlde gerçeğin özünü kavramayan veya mühürlenen kesimler."
+      },
+      {
+        "ayahs": [
+          "4:78",
+          "6:65",
+          "6:98",
+          "11:91",
+          "17:44",
+          "18:93",
+          "20:28"
+        ],
+        "text": "Sözü, ayetleri ve evrenin dilini kavramak: Mûsâ'nın ve Şuayb'ın sözleri, detaylandırılan ayetler ve göklerin-yerin yüceltme dili."
+      },
+      {
+        "ayahs": [
+          "9:122"
+        ],
+        "text": "Sistemli derinleşme (لِّيَتَفَقَّهُوا۟): bir kesimin yaşam ve hesap düzeninde derin kavrayış geliştirip topluluğunu bilinçle uyarması."
+      }
+    ],
+    "context_default": "Yüzeyi aşıp kalp ve akılla derinden kavramak (ف-ق-ه)."
+  },
+  "ص-د-ر": {
+    "buckwalter": "Sdr",
+    "slug": "sadr_ve_sudur_gogus_icsel_niyet_haznesi_ve_su_basindan_ayrilmak_sdr",
+    "concept_name": "Sadr ve Sudûr (Göğüs, Kalbin Barındığı İçsel Niyet-Duygu Haznesi ve Yerinden Çıkıp Ayrılmak)",
+    "keywords": [
+      "sadr",
+      "göğüs",
+      "iç dünya",
+      "göğüs genişliği",
+      "göğüs darlığı",
+      "gizli niyet",
+      "su başından ayrılmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yuSodira",
+        "label": "Hareket çıpası: Çobanların sürülerini sulayıp su başından çekip çıkarması (حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ — Bab IV fiil: 28:23)"
+      },
+      {
+        "lemma": "yaSoduru",
+        "label": "Hareket çıpası: Hesap gününde insanların bulundukları yerden gruplar hâlinde çıkıp ayrılmaları (يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا — Bab I fiil: 99:6)"
+      },
+      {
+        "lemma": "Sador",
+        "ayahs": [
+          "3:154",
+          "22:46"
+        ],
+        "label": "Katman çıpası: Kalbin içinde barındığı dış avlu ve göğüs haznesi (ٱلْقُلُوبُ ٱلَّتِى فِى ٱلصُّدُورِ — isim)"
+      },
+      {
+        "lemma": "Sador",
+        "ayahs": [
+          "4:90",
+          "6:125",
+          "7:2",
+          "11:12",
+          "15:97",
+          "16:106",
+          "20:25",
+          "26:13",
+          "39:22",
+          "94:1"
+        ],
+        "label": "Genişlik-darlık çıpası: Hakikatle göğsün açılıp ferahlaması (شَرْحُ الصَّدْر) veya baskı, direnç ve sıkıntıyla daralıp sıkışması (ضِيق / حَرَج)"
+      },
+      {
+        "lemma": "Sador",
+        "ayahs": [
+          "7:43",
+          "9:14",
+          "10:57",
+          "15:47",
+          "29:49",
+          "114:5"
+        ],
+        "label": "Şifa, ilim ve vesvese alanı: Göğüslerdeki kin ve yaraların şifaya kavuşması, ilmin göğüslerde yerleşmesi ve ayartıcı fısıltının göğüs avlusuna yönelmesi"
+      },
+      {
+        "lemma": "Sador",
+        "label": "Gizli iç dünya haznesi: Göğüslerin ta içinde saklanan sır, niyet, korku ve kibrin Allah tarafından eksiksiz bilinmesi ve hesap günü açığa çıkarılması (بِذَاتِ ٱلصُّدُورِ / صُدُورِكُمْ — isim)"
+      }
+    ],
+    "irab_default": "İnsanın göğsü ve kalbin barındığı içsel duygu-niyet haznesi veya yerinden çıkıp ayrılmak (ص-د-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "28:23",
+          "99:6"
+        ],
+        "text": "Çıkıp ayrılma hareketi (يُصْدِرَ / يَصْدُرُ): çobanların sürüleri su başından çekmesi ve insanların hesap günü bölük bölük ayrılması."
+      },
+      {
+        "ayahs": [
+          "3:29",
+          "3:118",
+          "3:119",
+          "3:154",
+          "5:7",
+          "8:43",
+          "11:5",
+          "27:74",
+          "28:69",
+          "29:10",
+          "31:23",
+          "35:38",
+          "39:7",
+          "40:19",
+          "42:24",
+          "57:6",
+          "64:4",
+          "67:13",
+          "100:10"
+        ],
+        "text": "Göğüslerin gizlediklerinin bilinmesi (بِذَاتِ ٱلصُّدُورِ): Allah'ın insanın iç dünyasındaki her niyeti bilmesi ve hesap günü açığa çıkarması."
+      },
+      {
+        "ayahs": [
+          "4:90",
+          "6:125",
+          "7:2",
+          "11:12",
+          "15:97",
+          "16:106",
+          "20:25",
+          "26:13",
+          "39:22",
+          "94:1"
+        ],
+        "text": "Göğsün genişlemesi ve daralması: hakikatle ferahlama (شَرْح) karşısında baskı ve dirençten doğan sıkışma (ضِيق / حَرَج)."
+      },
+      {
+        "ayahs": [
+          "7:43",
+          "9:14",
+          "10:57",
+          "15:47",
+          "17:51",
+          "22:46",
+          "29:49",
+          "40:56",
+          "40:80",
+          "59:9",
+          "59:13",
+          "114:5"
+        ],
+        "text": "Şifa, ilim ve vesvese avlusu: göğüslerin içindeki kalp (22:46), kinin sökülmesi, vahyin şifası, ilim haznesi ve fısıltıların hedefi."
+      }
+    ],
+    "context_default": "Göğüs, içsel duygu-niyet haznesi veya yerinden çıkıp ayrılmak (ص-د-ر)."
+  },
+  "ل-ب-ب": {
+    "buckwalter": "lbb",
+    "slug": "lubb_ve_ulul_elbab_kabugundan_arinmis_saf_oz_ve_derin_akil_sahipleri_lbb",
+    "concept_name": "Lübb ve Ülü'l-Elbâb (Kabuğundan ve Şaibelerden Arınmış Saf Öz ve Derin Akıl Sahipleri)",
+    "keywords": [
+      "ülü'l-elbâb",
+      "lübb",
+      "saf öz",
+      "arı akıl",
+      "derin akıl",
+      "seçici bilinç",
+      "ibret",
+      "hikmet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aloba`b",
+        "ayahs": [
+          "39:18"
+        ],
+        "label": "Kesin Kur'an içi tanım çıpası: Sözü önyargısız dinleyip en güzeline ve en doğrusuna uyan seçici, arı öz/akıl sahipleri (أُو۟لُوا۟ ٱلْأَلْبَٰبِ — isim çoğul: 39:18)"
+      },
+      {
+        "lemma": ">aloba`b",
+        "ayahs": [
+          "3:190",
+          "12:111",
+          "39:21"
+        ],
+        "label": "Doğa ve tarih okuma çıpası: Göklerin, yerin, doğa döngülerinin ve geçmiş kıssaların ardındaki ders ve kanıtları kavrayan arı öz sahipleri (لِّأُو۟لِى ٱلْأَلْبَٰبِ — isim çoğul)"
+      },
+      {
+        "lemma": ">aloba`b",
+        "ayahs": [
+          "2:179",
+          "2:197",
+          "5:100",
+          "65:10"
+        ],
+        "label": "Hukuk ve nitelik çıpası: Kısasta hayatı, nicelik değil temizlik farkını ve sorumluluk bilincini kavrayan derin akıl sahipleri (يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ — isim çoğul)"
+      },
+      {
+        "lemma": ">aloba`b",
+        "label": "Hikmet ve canlı hatırlama çıpası: Vahyin, hikmetin ve ayetlerin hatırlatmasını ancak kabuktan ve önyargıdan arınmış öz sahiplerinin kavrayabilmesi (أُو۟لُوا۟ / أُو۟لِى ٱلْأَلْبَٰبِ — isim çoğul)"
+      }
+    ],
+    "irab_default": "Kabuğundan, önyargıdan ve şaibelerden arınmış saf öz ve derin akıl sahipleri (ل-ب-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:269",
+          "3:7",
+          "13:19",
+          "14:52",
+          "38:29",
+          "38:43",
+          "39:9",
+          "39:18",
+          "40:54"
+        ],
+        "text": "Vahyin hatırlatması, hikmet ve seçici bilinç: sözü dinleyip en güzeline uyan, ayetleri derinlemesine irdeleyen arı öz sahipleri."
+      },
+      {
+        "ayahs": [
+          "3:190",
+          "12:111",
+          "39:21"
+        ],
+        "text": "Doğa yasaları ve tarih bilinci: evrendeki döngülerden ve geçmiş kıssalardan ilke çıkaran derin akıl."
+      },
+      {
+        "ayahs": [
+          "2:179",
+          "2:197",
+          "5:100",
+          "65:10"
+        ],
+        "text": "Hukuk, nitelik ayrımı ve sorumluluk çağrısı: kısasta yaşam ilkesi ve çokluk değil temizlik ölçütü."
+      }
+    ],
+    "context_default": "Kabuğundan arınmış saf öz ve derin akıl sahipleri (ل-ب-ب)."
   }
 }
