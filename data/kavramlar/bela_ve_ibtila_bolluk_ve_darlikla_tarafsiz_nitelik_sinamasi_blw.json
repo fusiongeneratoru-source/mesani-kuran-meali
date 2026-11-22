@@ -1,0 +1,820 @@
+{
+  "root": "ب-ل-و",
+  "root_latin": "B-L-W (blw)",
+  "concept_name": "Belâ ve İbtilâ (Kullanımla Eskime [Asl 1]; Bolluk ve Darlıkla Gerçek Niteliği Açığa Çıkaran Tarafsız Sınama [Asl 2])",
+  "rank": 248,
+  "total_occurrences": 38,
+  "unique_ayahs_count": 35,
+  "unified_core_mechanism": "Bir şeyi fiilen kullanıp aşındırmak (`20:120` `لَّا يَبْلَىٰ` eskimeyen — Asl 1); bu fiili kullanım ve deneyim yoluyla insanın gerçek dayanıklılığını, yönelimini ve eylem kalitesini hem bolluk/nimetle (`8:17`, `27:40`, `89:15`) hem de darlık/zorlukla (`2:155`, `21:35`, `89:16`) tarafsız biçimde deneyip sınayarak açığa çıkarmak (`4:6` yetimleri sınamak; `67:2` en güzel eylemi ortaya çıkarmak; `10:30`, `86:9` hesapta gizli gerçekleri açığa vurmak).",
+  "physical_core": "Bir kumaşı veya eşyayı kullanarak aşındırıp eskimesini görmek (`20:120 لَّا يَبْلَىٰ` — eskimeyen/yıpranmayan [Asl 1]); bu fiili kullanım yoluyla bir kimsenin veya nesnenin gerçek dayanıklılığını, niteliğini ve iç yüzünü deneyip sınayarak açığa çıkarmak (`4:6 وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ` — yetimleri uygulamayla sınamak; `86:9 تُبْلَى ٱلسَّرَآئِرُ` — gizlenenlerin açığa çıkarılması [Asl 2]).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün iki asla dayandığını saptar: Asl 1 bir şeyin kullanımla eskiyip yıpranması (`إخلاق الشيء`), Asl 2 bir tür fiili sınama ve deneme (`نوع من الاختبار`) ile buradan doğan bilgi/haber açığa çıkarma (`الإخبار`). Allah'ın kulunu hem güzel hem de zorlu bir sınamayla (`بلاء حسنا وبلاء سيئا`) denediğini vurgular.",
+    "lisan_al_arab": "İbn Manzûr `بَلَوْتُهُ أَبْلُوهُ` fiilini 'denedim ve sınadım (`جَرَّبْتُهُ وَٱخْتَبَرْتُهُ`)' şeklinde tanımlar; `بَلَاء` kelimesinin hem nimet ve iyilikle hem de sıkıntı ve darlıkla yapılan tarafsız sınama için eşit biçimde kullanıldığını belgeler.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `بَلِيَ الثَّوْبُ` ('giysi eskidi') ile `بَلَوْتُهُ` ('deneyip iç yüzünü ortaya çıkardım') arasındaki bağlantıyı kurar; `بَلَاء`ın sırf felaket değil, insanın şükür veya nankörlük yönelimini (`27:40`) ve eylem kalitesini (`67:2`) açığa çıkaran her türlü hayat deneyimi olduğunu vurgular.",
+    "arbitration_decision": "Hakem Masası Kararı: Günlük dilde yalnızca 'felaket/musibet' anlamında kullanılan 'bela' kalıbı, Kur'an'ın en temel varoluş yasasını tersyüz eder! Kur'an'da `ب-ل-و` (38 geçiş) **tamamen tarafsız bir kalite ve nitelik sınamasıdır**: (1) Asl 1 (`20:120` `لَّا يَبْلَىٰ`): kullanımla aşınıp eskimeyen. (2) Nimet ve başarıyla sınama: `8:17` `بَلَآءً حَسَنًا` ('güzel bir sınama/deneyim'), `27:40` Süleyman'ın görkemli imkân karşısında 'şükür mü edeceğim yoksa nankörlük mü edeceğim diye beni sınamak için' demesi, `89:15` bolluk ve ikramla sınanma, `7:168` ve `21:35` iyilikle de kötülükle de sınanma! (3) Yaşamın yaratılış amacı: `11:7`, `18:7`, `67:2` `لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا` ('hanginizin daha güzel eylem üreteceğini sınayıp açığa çıkarmak için'). (4) Somut insan sınaması: `4:6` yetimlerin rüşdünü fiilen deneyip test etmek. (5) Ahirette iç yüzlerin açığa çıkması: `10:30` ve `86:9`."
+  },
+  "semitic_cognates": {
+    "note": "Arapça ب-ل-و / ب-ل-ي kökünde Asl 1 ('yıpranmak, eskimek' — 20:120) ile Asl 2 ('fiilen kullanıp sınayarak gerçek niteliği ortaya çıkarmak' — 37 geçiş) klasik Arapça'da tek kök altında bütünleşmiş olup, Kur'an'da özellikle 'hem bollukla hem darlıkla tarafsız nitelik sınaması' ekseni işlenir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ش-ك-ر & ك-ف-ر [لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ] (Nimet ve İmkân Sınavında Değer Bilip Karşılık Vermek ↔ Nankörlük Edip Örtmek: 27:40)",
+      "خ-ي-ر & ش-ر-ر & ح-س-ن & س-و-أ [وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً / وَبَلَوْنَٰهُم بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ / أَيُّكُمْ أَحْسَنُ عَمَلًا] (İyilik/Bolluk İle Sınanma ↔ Zorluk/Darlık İle Sınanma; En Güzel Eylemi Ortaya Çıkarma: 7:168, 11:7, 21:35, 67:2, 89:15-16)",
+      "ف-ت-ن [وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً] (Dayanıklılık ve Eylem Niteliğini Ölçen Fiili Sınama [ب-ل-و] ↔ Madeni Eritip Özü Posadan Ayıran Arıtma Potası [ف-ت-ن]: 21:35)",
+      "ع-م-ل & س-ر-ر [لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا / يَوْمَ تُبْلَى ٱلسَّرَآئِرُ] (Açık Eylemlerin Kalite Sınavı ↔ Gizli Kalmış İç Gerçeklerin Açılarak Sınanması: 11:7, 67:2, 86:9)"
+    ],
+    "key_ayahs": [
+      "21:35 & 7:168 & 89:15-16 (İyilik-kötülük ve bolluk-darlık ikilisiyle tarafsız sınama yasası)",
+      "67:2 & 11:7 & 18:7 (لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا — ölüm ve yaşamın sınama amacı)",
+      "8:17 & 27:40 (بَلَآءً حَسَنًا / لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ — nimet ve zaferin de bir `بلاء` oluşu)",
+      "4:6 (وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ — toplumsal/hukuki uygulama çıpası: yetimleri deneyip sınamak)",
+      "20:120 & 86:9 (مُلْكٍ لَّا يَبْلَىٰ — eskimeyen [Asl 1]; يَوْمَ تُبْلَى ٱلسَّرَآئِرُ — iç sırların açılıp sınanması)"
+    ],
+    "reverse_stress_test": "İyilik-kötülük (`خ-ي-ر` ↔ `ش-ر-ر`), değer bilme-nankörlük (`ش-ك-ر` ↔ `ك-ف-ر`) ve gizli-açık (`س-ر-ر` ↔ `ع-م-ل`) eksenlerine yerleştirildiğinde, `ب-ل-و` kökünün 'fiilen kullanıp deneyerek gerçek niteliği, dayanıklılığı ve yönelimi açığa çıkaran tarafsız sınama (ve Asl 1: eskime/yıpranma)' çekirdeği tüm 38 geçişte sıfır çelişkiyle kilitlenir."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "نَبْلُوكُم (B-L-W: Fiilen Deneyip Niteliği Ortaya Çıkarmak) vs فِتْنَةً (F-T-N: Altını Ateşte Eritir Gibi Özü Posadan Ayıran Pota Süreci) [21:35]",
+      "بَلَآءً حَسَنًا (B-L-W: Olumlu/Onurlandırıcı Sınav ve Deneyim) vs بَلَآءٌ عَظِيمٌ (B-L-W: Ağır ve Zorlu Büyük Sınav) [8:17 vs 2:49, 7:141, 14:6]",
+      "لِيَبْتَلِىَ مَا فِى صُدُورِكُمْ (B-L-W Bab VIII: Göğüslerdeki Niyeti Sınayıp Açığa Çıkarmak) vs لِيُمَحِّصَ مَا فِى قُلُوبِكُمْ (M-H-S: Kalplerdeki Tortuyu Arıtıp Saflaştırmak) [3:154]"
+    ],
+    "mechanical_difference": "1) `21:35`te `بَلْو` (sınama) kişinin eylem kalitesini ve tercihini ölçen deney eylemi, `فِتْنَة` ise bu deneyin ateşte arıtma potası gibi sahte ile gerçeği ayırma sonucudur. 2) `3:154`te `ٱبْتِلَاء` göğüslerde gizlenen eğilimleri fiili krizle dışa vurup sınamayı, `تَمْحِيص` ise açığa çıkan kusurları arıtarak kalbi saflaştırmayı bildirir. 3) `8:17` ile `2:49` birlikte okunduğunda `بَلَاء` kelimesinin tek başına olumlu ya da olumsuz olmadığı, niteliğini yanındaki sıfattan ve bağlamdan aldığı kesinleşir."
+  },
+  "anchor_ayahs": [
+    "67:2 & 11:7 (لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا — yaratılışın sınama yasası)",
+    "21:35 & 89:15-16 (Hem iyilik/bollukla hem zorluk/darlıkla tarafsız sınama)",
+    "8:17 & 27:40 (بَلَآءً حَسَنًا ve Süleyman'ın nimet sınavı)",
+    "4:6 (وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ — insan eliyle pratik olgunluk sınaması)",
+    "20:120 & 86:9 (لَّا يَبْلَىٰ eskimeyen egemenlik; تُبْلَى ٱلسَّرَآئِرُ gizlenenlerin sınanıp açılması)"
+  ],
+  "grammar_and_branch_rules": "1) Asl 1 — Kullanımla Eskime ve Yıpranma (`20:120` — 1 geçiş): `مُلْكٍ لَّا يَبْلَىٰ` — eskimeyip yıpranmayan egemenlik vaadi (ayartma bağlamı). 2) Evrensel Yaratılış ve Tarafsız Nitelik Sınaması (`2:155`, `3:186`, `5:48`, `5:94`, `6:165`, `7:163`, `7:168`, `11:7`, `16:92`, `18:7`, `21:35`, `23:30`, `27:40`, `47:4`, `47:31` x2, `67:2`, `68:17` x2, `76:2`, `89:15`, `89:16` — 22 geçiş): Bolluk, darlık, nimet, imkân, farklılık ve mücadele yoluyla kimin daha güzel eylem üreteceğinin açığa çıkarılması. 3) Tarihsel Büyük Sınamalar ve Güzel Sınav Deneyimi (`2:49`, `2:124`, `2:249`, `3:152`, `3:154`, `7:141`, `8:17` x2, `14:6`, `33:11`, `37:106`, `44:33` — 12 geçiş): İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve inananların ağır veya onurlandırıcı (`بَلَآءً حَسَنًا`) sınavları. 4) Sosyal/Hukuki Sınama ve Hesap Gününde Sırların Açılması (`4:6`, `10:30`, `86:9` — 3 geçiş): Yetimlerin rüşdünü uygulamayla sınamak; hesapta geçmiş eylemleri ve gizli niyetleri fiilen sınayıp açığa çıkarmak.",
+  "derivatives": {
+    "بَلَا / يَبْلُو (Bab I Fiil - Sınama: 19 geçiş)": "İyilikle veya zorlukla deneyip sınayarak gerçek niteliği, niyeti ve eylem kalitesini açığa çıkarmak (10:30, 86:9'da hesapta açığa vurmak).",
+    "يَبْلَىٰ (Bab I Fiil - Eskime: 1 geçiş: 20:120)": "Kullanımla eskiyip yıpranmak (ayartıcının 'eskimeyen egemenlik' vaadi).",
+    "أَبْلَىٰ / يُبْلِى (Bab IV Fiil - 2 geçiş: 3:186, 8:17)": "Mal-can üzerinden mutlaka sınamak (3:186) veya güzel ve onurlandırıcı bir sınav deneyimi yaşatmak (8:17).",
+    "ٱبْتَلَىٰ / يَبْتَلِى / مُبْتَلِى (Bab VIII Fiil & İsm-i Fâil - 10 geçiş)": "Derinlemesine ve fiili tecrübeyle sınayıp özü açığa çıkarmak (yetimleri denemek, nehirle, bollukla veya darlıkla sınamak).",
+    "بَلَاء (İsim - 6 geçiş: 2:49, 7:141, 8:17, 14:6, 37:106, 44:33)": "Bağlamına göre ağır ve büyük sınav ya da güzel ve onurlandırıcı deneyim (بَلَآءً حَسَنًا)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 49,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:49",
+      "word_position": 15,
+      "target_word_uthmani": "بَلَآءٌ",
+      "target_word_rasm": "بلاء",
+      "target_word_literal_irab": "İnsanın ve topluluğun dayanıklılığını açığa çıkaran büyük ve apaçık sınav (بَلَآءٌ / ٱلْبَلَٰٓؤُا۟ — isim)",
+      "context_snippet_arabic": "نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Onlar, size kötü bir surette azap ediyorlar, oğullarınızı kesiyorlar, kızlarınızı diri bırakmak istiyorlardı. Bu işte Rabbinizin bir sınaması vardı.",
+      "morphology": {
+        "lemma": "balaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:balaA^'|ROOT:blw|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hatırlayın o zamanı ki sizi Firavun'un soyundan kurtardık. Onlar, size kötü bir surette azap ediyorlar, oğullarınızı kesiyorlar, kızlarınızı diri bırakmak istiyorlardı. Bu işte Rabbinizin bir sınaması vardı.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 124,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:124",
+      "word_position": 2,
+      "target_word_uthmani": "ٱبْتَلَىٰٓ",
+      "target_word_rasm": "ٱبتلى",
+      "target_word_literal_irab": "İnsanı bollukla, darlıkla, sözlerle ve krizlerle derinlemesine deneyip iç özünü açığa çıkarmak (ٱبْتَلَىٰ / لِيَبْتَلِيَكُمْ / نَّبْتَلِيهِ / ٱبْتُلِىَ — Bab VIII fiil)",
+      "context_snippet_arabic": "وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "O zamanlar Rabbi, İbrahim'i bazı sözlerle sınadı. O, bunları yerine getirip tamamlayınca dedi ki: Ben seni insanlara imam edeceğim. İbrahim, soyumu da imam et...",
+      "morphology": {
+        "lemma": "{botalaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{botalaY`^|ROOT:blw|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍ فَأَتَمَّهُنَّ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِى قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O zamanlar Rabbi, İbrahim'i bazı sözlerle sınadı. O, bunları yerine getirip tamamlayınca dedi ki: Ben seni insanlara imam edeceğim. İbrahim, soyumu da imam et dedi. Allah, benim ahdime dedi, zalimler nail olamazlar.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 155,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:155",
+      "word_position": 1,
+      "target_word_uthmani": "وَلَنَبْلُوَنَّكُم",
+      "target_word_rasm": "ولنبلونكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki mutlaka sizi birazcık korkuyla, açlıkla, mal, can ve meyve noksanıyla sınayacağız. Müjdele sebat edip direnenleri.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|1P"
+      },
+      "ayah_text_arabic_full": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ وَبَشِّرِ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki mutlaka sizi birazcık korkuyla, açlıkla, mal, can ve meyve noksanıyla sınayacağız. Müjdele sebat edip direnenleri.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 2,
+      "ayah": 249,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:249",
+      "word_position": 8,
+      "target_word_uthmani": "مُبْتَلِيكُم",
+      "target_word_rasm": "مبتليكم",
+      "target_word_literal_irab": "Fiili koşullarla deneyip sınayan (مُبْتَلِيكُم / لَمُبْتَلِينَ — Bab VIII ism-i fâil: 2:249, 23:30)",
+      "context_snippet_arabic": "قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ",
+      "context_snippet_turkish_tabula_rasa": "Talut, orduyla harekete geçince dedi ki: Allah sizi bir ırmakla sınayacak. Kim o ırmağın suyundan içerse benden değil, onu tatmayan benden. Yalnız eliyle bir...",
+      "morphology": {
+        "lemma": "mubotaliy",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:mubotaliy|ROOT:blw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Talut, orduyla harekete geçince dedi ki: Allah sizi bir ırmakla sınayacak. Kim o ırmağın suyundan içerse benden değil, onu tatmayan benden. Yalnız eliyle bir avuç su alana söz yok. Irmağa gelince hemen hepsi içti, içlerinden pek azı içmedi. Talut ve onunla beraber bulunan güvene erenler, o ırmağı geçince, bizim bugün Calut'la ordusuna karşı duracak takatimiz yok dediler. Allah'a kavuşacaklarını umanlarsa nice azlık taife vardır ki dediler, Allah'ın izniyle çokluk taifeye üst olmuştur, Allah sebat edip direnenlerledir.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 152,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:152",
+      "word_position": 32,
+      "target_word_uthmani": "لِيَبْتَلِيَكُمْ",
+      "target_word_rasm": "ليبتليكم",
+      "target_word_literal_irab": "İnsanı bollukla, darlıkla, sözlerle ve krizlerle derinlemesine deneyip iç özünü açığa çıkarmak (ٱبْتَلَىٰ / لِيَبْتَلِيَكُمْ / نَّبْتَلِيهِ / ٱبْتُلِىَ — Bab VIII fiil)",
+      "context_snippet_arabic": "ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ وَلَقَدْ عَفَا عَنكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Sonra sizi sınamak için onlardan geri çevirdi ve gerçekten de bağışladı sizi ve Allah, güvene erenlere karşı lütuf ve ihsan sahibidir.",
+      "morphology": {
+        "lemma": "{botalaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botalaY`^|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْءَاخِرَةَ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ وَلَقَدْ عَفَا عَنكُمْ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki Allah, size ettiği vaadi doğruladı; izniyle onları bozup öldürdünüz de sonra gevşeklik gösterdiniz, verilen buyruk hakkında çekiştiniz ve sevdiğiniz şeyi size gösterdikten sonra tuttunuz, isyan ettiniz. Sizden dünyayı dileyen olduğu gibi ahireti dileyen de vardı. Sonra sizi sınamak için onlardan geri çevirdi ve gerçekten de bağışladı sizi ve Allah, güvene erenlere karşı lütuf ve ihsan sahibidir.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 154,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:154",
+      "word_position": 63,
+      "target_word_uthmani": "وَلِيَبْتَلِىَ",
+      "target_word_rasm": "وليبتلى",
+      "target_word_literal_irab": "İnsanı bollukla, darlıkla, sözlerle ve krizlerle derinlemesine deneyip iç özünü açığa çıkarmak (ٱبْتَلَىٰ / لِيَبْتَلِيَكُمْ / نَّبْتَلِيهِ / ٱبْتُلِىَ — Bab VIII fiil)",
+      "context_snippet_arabic": "ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "Bu gamdan sonra size emniyetle bir uyku verdi ki içinizden bir bölüğü sarıp kapladı. Bir bölükse can kaygısına düşmüştü. Allah hakkında, Müslümanlıktan önceki...",
+      "morphology": {
+        "lemma": "{botalaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botalaY`^|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا قُتِلْنَا هَٰهُنَا قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu gamdan sonra size emniyetle bir uyku verdi ki içinizden bir bölüğü sarıp kapladı. Bir bölükse can kaygısına düşmüştü. Allah hakkında, Müslümanlıktan önceki bilgisizlik çağında olduğu gibi haksız zanlara kapıldılar. Diyorlar ki: Bu işte nemiz var bizim? De ki: Bütün işler Allah'ındır. Onlar, sana açıklamadıklarını yüreklerinde gizliyorlar ve bu işte payımız olsaydı burada öldürülmezdik diyorlar. De ki: Evlerinizde de olsanız, öldürmeleri yazılanlar, gene çıkarlar, öldürülüp yatacakları yerlere giderlerdi ve Allah, gönüllerinizde olanları yoklamak, yüreklerinizdekini artırmak için yaptı bunu ve Allah, yüreklerinizde ne varsa hepsini bilir.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 186,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:186",
+      "word_position": 1,
+      "target_word_uthmani": "لَتُبْلَوُنَّ",
+      "target_word_rasm": "لتبلون",
+      "target_word_literal_irab": "Mal ve can konusunda mutlaka deneyip sınanmak (لَتُبْلَوُنَّ — Bab IV edilgen fiil: 3:186)",
+      "context_snippet_arabic": "لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki mallarınızla, canlarınızla sınanacaksınız, sizden önce kendilerine kitap verilenlerle sığınak merciine otoriteyi bölüşme ve ortak koşma koşanlardan...",
+      "morphology": {
+        "lemma": "yuboliYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:yuboliYa|ROOT:blw|2MP"
+      },
+      "ayah_text_arabic_full": "لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki mallarınızla, canlarınızla sınanacaksınız, sizden önce kendilerine kitap verilenlerle sığınak merciine otoriteyi bölüşme ve ortak koşma koşanlardan kötü sözler işiteceksiniz, birçok eziyetlere, zahmetlere uğrayacaksınız. sebat edip direnir ve sakınırsanız şüphe yok ki bu, hadiselere karşı gösterilen metanetten sayılır.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 4,
+      "ayah": 6,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:6",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱبْتَلُوا۟",
+      "target_word_rasm": "وٱبتلوا",
+      "target_word_literal_irab": "Toplumsal/hukuki uygulama çıpası: Yetimleri mal yönetimi olgunluğuna ulaşana dek fiilen deneyip sınamak (وَٱبْتَلُوا۟ — Bab VIII emir fiil: 4:6)",
+      "context_snippet_arabic": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا",
+      "context_snippet_turkish_tabula_rasa": "Yetimleri, nikah çağına dek deneyin, ergenlik çağına ulaştıklarını, olgunlaştıklarını gördünüz mü mallarını kendilerine verin. Onların malını israf ederek,...",
+      "morphology": {
+        "lemma": "{botalaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{botalaY`^|ROOT:blw|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimleri, nikah çağına dek deneyin, ergenlik çağına ulaştıklarını, olgunlaştıklarını gördünüz mü mallarını kendilerine verin. Onların malını israf ederek, yahut büyüyünce geri alırlar diyerek yemeyin. Zengin olan, yetimin malına hiç dokunmasın. Fakir olan, örfe uygun bir miktar yiyebilir. Mallarını geri vereceğiniz vakit bu muameleyi tanıklar huzurunda yapın. Allah, gereğince hesap sorucudur ve o, yeter.",
+      "contextual_meaning": "Hukuki/sosyal sınama çıpası (وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ): yetimleri rüşde erinceye dek uygulamayla deneyip test etmek."
+    },
+    {
+      "surah": 5,
+      "ayah": 48,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:48",
+      "word_position": 37,
+      "target_word_uthmani": "لِّيَبْلُوَكُمْ",
+      "target_word_rasm": "ليبلوكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "أُمَّةً وَٰحِدَةً وَلَٰكِن لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Sizden her birerinize bir şeriat, bir yol tayin ettik ve Allah dileseydi bir ümmet yapardı sizi, fakat size verdiği hükümler hususunda sizi sınamaktadır, siz de hayırlı işlerde yarışın artık ve hepinizin dönüp varacağı yer, Allah tapısıdır ve o, haklarında ayrılığa düştüğünüz şeyleri size haber verecektir.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَٰبِ وَمُهَيْمِنًا عَلَيْهِ فَٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ عَمَّا جَآءَكَ مِنَ ٱلْحَقِّ لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve sana da, önceki kitabı gerçekleyen ve ona, emin bir tanık olan kitabı, gerçek olarak indirdik. Artık aralarında, Allah'ın indirdiğine göre hüküm ver ve sana gelen gerçekten dönüp onların isteklerine uyma. Sizden her birerinize bir şeriat, bir yol tayin ettik ve Allah dileseydi bir ümmet yapardı sizi, fakat size verdiği hükümler hususunda sizi sınamaktadır, siz de hayırlı işlerde yarışın artık ve hepinizin dönüp varacağı yer, Allah tapısıdır ve o, haklarında ayrılığa düştüğünüz şeyleri size haber verecektir.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 5,
+      "ayah": 94,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:94",
+      "word_position": 4,
+      "target_word_uthmani": "لَيَبْلُوَنَّكُمُ",
+      "target_word_rasm": "ليبلونكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَيَبْلُوَنَّكُمُ ٱللَّهُ بِشَىْءٍ مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah, onu görmeksizin de kendisinden korkan kişiyi ayırt etmek için ellerinizin ulaşabileceği, mızraklarınızın yetişebileceği avları...",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَيَبْلُوَنَّكُمُ ٱللَّهُ بِشَىْءٍ مِّنَ ٱلصَّيْدِ تَنَالُهُۥٓ أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ ٱللَّهُ مَن يَخَافُهُۥ بِٱلْغَيْبِ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah, onu görmeksizin de kendisinden korkan kişiyi ayırt etmek için ellerinizin ulaşabileceği, mızraklarınızın yetişebileceği avları avlanma hususunda sizi sınayacak mutlaka. Bundan sonra kim aşırı hareket ederse ona pek acı bir azap var.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 6,
+      "ayah": 165,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:165",
+      "word_position": 11,
+      "target_word_uthmani": "لِّيَبْلُوَكُمْ",
+      "target_word_rasm": "ليبلوكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki sizi yeryüzüne hakim kılar ve size verdiği şeylerle sizi sınamak için bir kısmınızı, bir kısmınızdan mevki ve paye bakımından yüceltir. Şüphe yok ki Rabbin, cezaya layık olanın cezasını pek tez verir ve şüphe yok ki o, suçları örter, rahimdir.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki sizi yeryüzüne hakim kılar ve size verdiği şeylerle sizi sınamak için bir kısmınızı, bir kısmınızdan mevki ve paye bakımından yüceltir. Şüphe yok ki Rabbin, cezaya layık olanın cezasını pek tez verir ve şüphe yok ki o, suçları örter, rahimdir.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 7,
+      "ayah": 141,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:141",
+      "word_position": 15,
+      "target_word_uthmani": "بَلَآءٌ",
+      "target_word_rasm": "بلاء",
+      "target_word_literal_irab": "İnsanın ve topluluğun dayanıklılığını açığa çıkaran büyük ve apaçık sınav (بَلَآءٌ / ٱلْبَلَٰٓؤُا۟ — isim)",
+      "context_snippet_arabic": "نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Size en ağır işkenceleri yapıyorlardı, aşağılık bir hale getiriyorlardı sizi, oğullarınızı öldürüyorlar da kadınlarınızı bırakıyorlardı ve bunda da Rabbinizden büyük bir sınama vardı size.",
+      "morphology": {
+        "lemma": "balaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:balaA^'|ROOT:blw|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani sizi Firavun soyundan kurtarmıştık. Size en ağır işkenceleri yapıyorlardı, aşağılık bir hale getiriyorlardı sizi, oğullarınızı öldürüyorlar da kadınlarınızı bırakıyorlardı ve bunda da Rabbinizden büyük bir sınama vardı size.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 163,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:163",
+      "word_position": 24,
+      "target_word_uthmani": "نَبْلُوهُم",
+      "target_word_rasm": "نبلوهم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "لَا تَأْتِيهِمْ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Hani onlar, cumartesi günü, emre isyan etmişlerdi, hani cumartesi günleri, balıklar, su üstüne çıkıyordu da cumartesiden başka günlerde onlara görünmüyordu, emirden çıktıkları için biz de onları böyle sınamadaydık.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|1P"
+      },
+      "ayah_text_arabic_full": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Denize pek yakın olan o şehrin halkına neler oldu, sor onlara. Hani onlar, cumartesi günü, emre isyan etmişlerdi, hani cumartesi günleri, balıklar, su üstüne çıkıyordu da cumartesiden başka günlerde onlara görünmüyordu, emirden çıktıkları için biz de onları böyle sınamadaydık.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 7,
+      "ayah": 168,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:168",
+      "word_position": 10,
+      "target_word_uthmani": "وَبَلَوْنَٰهُم",
+      "target_word_rasm": "وبلونهم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onları, yeryüzünde takımtakım topluluklar haline getirdik, dağıttık. İçlerinde iyileri var, onlardan daha aşağı derecede bulunanları var. Belki sığınak...",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:balawo|ROOT:blw|1P"
+      },
+      "ayah_text_arabic_full": "وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları, yeryüzünde takımtakım topluluklar haline getirdik, dağıttık. İçlerinde iyileri var, onlardan daha aşağı derecede bulunanları var. Belki sığınak merciine dönerler, itaate girerler diye de onları iyiliklerle, kötülüklerle sınadık.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 8,
+      "ayah": 17,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:17",
+      "word_position": 13,
+      "target_word_uthmani": "وَلِيُبْلِىَ",
+      "target_word_rasm": "وليبلى",
+      "target_word_literal_irab": "Bab IV olumlu çıpa: İnananlara güzel ve onurlandırıcı bir sınav deneyimi yaşatmak (وَلِيُبْلِىَ ... بَلَآءً حَسَنًا — Bab IV fiil: 8:17)",
+      "context_snippet_arabic": "وَلَٰكِنَّ ٱللَّهَ رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً",
+      "context_snippet_turkish_tabula_rasa": "Onları siz öldürmediniz, fakat Allah öldürdü ve attığın zaman sen atmadın, fakat Allah attı ve böylece de kendi katından, güvene erenlere güzel bir nimet vermek, onları denemek istedi. Şüphe yok ki Allah her şeyi duyar, bilir.",
+      "morphology": {
+        "lemma": "yuboliYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yuboliYa|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ ٱللَّهَ رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları siz öldürmediniz, fakat Allah öldürdü ve attığın zaman sen atmadın, fakat Allah attı ve böylece de kendi katından, güvene erenlere güzel bir nimet vermek, onları denemek istedi. Şüphe yok ki Allah her şeyi duyar, bilir.",
+      "contextual_meaning": "Tarafsız nimet ve bolluk sınavı: güzel sınav deneyimi (`بَلَآءً حَسَنًا`), Süleyman'ın imkân sınavı ve insanın hem ikramla hem rızık darlığıyla sınanması."
+    },
+    {
+      "surah": 8,
+      "ayah": 17,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:17",
+      "word_position": 16,
+      "target_word_uthmani": "بَلَآءً",
+      "target_word_rasm": "بلاء",
+      "target_word_literal_irab": "Güzel, onurlandırıcı ve olumlu sınav deneyimi (بَلَآءً حَسَنًا — isim: 8:17)",
+      "context_snippet_arabic": "وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Onları siz öldürmediniz, fakat Allah öldürdü ve attığın zaman sen atmadın, fakat Allah attı ve böylece de kendi katından, güvene erenlere güzel bir nimet vermek, onları denemek istedi. Şüphe yok ki Allah her şeyi duyar, bilir.",
+      "morphology": {
+        "lemma": "balaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:balaA^'|ROOT:blw|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ ٱللَّهَ رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları siz öldürmediniz, fakat Allah öldürdü ve attığın zaman sen atmadın, fakat Allah attı ve böylece de kendi katından, güvene erenlere güzel bir nimet vermek, onları denemek istedi. Şüphe yok ki Allah her şeyi duyar, bilir.",
+      "contextual_meaning": "Tarafsız nimet ve bolluk sınavı: güzel sınav deneyimi (`بَلَآءً حَسَنًا`), Süleyman'ın imkân sınavı ve insanın hem ikramla hem rızık darlığıyla sınanması."
+    },
+    {
+      "surah": 10,
+      "ayah": 30,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:30",
+      "word_position": 2,
+      "target_word_uthmani": "تَبْلُوا۟",
+      "target_word_rasm": "تبلوا",
+      "target_word_literal_irab": "Hesap gününde geçmiş eylemlerin sonucunu fiilen sınayıp gizli sırların açığa vurulması (تَبْلُوا۟ / تُبْلَى — Bab I fiil)",
+      "context_snippet_arabic": "هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍ مَّآ",
+      "context_snippet_turkish_tabula_rasa": "Herkes, evvelce yaptığını bulur, cezasını çeker orada ve hepsi de gerçek mevlalarının tapısına döndürülmüştür ve iftira ettikleri şeyler de gözlerinden...",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3FS"
+      },
+      "ayah_text_arabic_full": "هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍ مَّآ أَسْلَفَتْ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkes, evvelce yaptığını bulur, cezasını çeker orada ve hepsi de gerçek mevlalarının tapısına döndürülmüştür ve iftira ettikleri şeyler de gözlerinden kaybolmuş, helak olup gitmiştir.",
+      "contextual_meaning": "Hesap gününde sınanıp açığa vurulma: herkesin önceden gönderdiğini fiilen tatması ve gizli sırların (ٱلسَّرَآئِرُ) açılıp sınanması."
+    },
+    {
+      "surah": 11,
+      "ayah": 7,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:7",
+      "word_position": 13,
+      "target_word_uthmani": "لِيَبْلُوَكُمْ",
+      "target_word_rasm": "ليبلوكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "عَرْشُهُۥ عَلَى ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki hanginiz daha iyi hareket edecek, bunu size bildirmek ve sizi sınamak için gökleri ve yeryüzünü altı günde yarattı, daha önce emri ve saltanatı, yarattığı suya cariydi. Onlara, siz ölümden sonra tekrar dirileceksiniz dersen gerçeğin üzerini örten olanlar derler ki: ...",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki hanginiz daha iyi hareket edecek, bunu size bildirmek ve sizi sınamak için gökleri ve yeryüzünü altı günde yarattı, daha önce emri ve saltanatı, yarattığı suya cariydi. Onlara, siz ölümden sonra tekrar dirileceksiniz dersen gerçeğin üzerini örten olanlar derler ki: Bu, ancak apaçık bir aldatma.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 14,
+      "ayah": 6,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:6",
+      "word_position": 23,
+      "target_word_uthmani": "بَلَآءٌ",
+      "target_word_rasm": "بلاء",
+      "target_word_literal_irab": "İnsanın ve topluluğun dayanıklılığını açığa çıkaran büyük ve apaçık sınav (بَلَآءٌ / ٱلْبَلَٰٓؤُا۟ — isim)",
+      "context_snippet_arabic": "نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... hani sizi kötü bir azapla azaplandıran, oğullarınızı kestirip kızlarınızı bırakan Firavun soyundan kurtarmıştı ve bunda Rabbinizden büyük bir sınama vardı size.",
+      "morphology": {
+        "lemma": "balaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:balaA^'|ROOT:blw|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı ki Musa, kavmine Allah'ın size nimetlerini anın demişti; hani sizi kötü bir azapla azaplandıran, oğullarınızı kestirip kızlarınızı bırakan Firavun soyundan kurtarmıştı ve bunda Rabbinizden büyük bir sınama vardı size.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 16,
+      "ayah": 92,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:92",
+      "word_position": 22,
+      "target_word_uthmani": "يَبْلُوكُمُ",
+      "target_word_rasm": "يبلوكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "مِنْ أُمَّةٍ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ بِهِۦ وَلَيُبَيِّنَنَّ",
+      "context_snippet_turkish_tabula_rasa": "İpliğini iyice büktükten sonra onu söken kadına benzemeyin. Bir topluluk diğer bir topluluktan daha çok ve üstün diye kesin andlarınızı bir düzen haline...",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَكُونُوا۟ كَٱلَّتِى نَقَضَتْ غَزْلَهَا مِنۢ بَعْدِ قُوَّةٍ أَنكَٰثًا تَتَّخِذُونَ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِىَ أَرْبَىٰ مِنْ أُمَّةٍ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ بِهِۦ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ ٱلْقِيَٰمَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İpliğini iyice büktükten sonra onu söken kadına benzemeyin. Bir topluluk diğer bir topluluktan daha çok ve üstün diye kesin andlarınızı bir düzen haline koymayın; Allah sizi bununla sınar ancak ve hakkında ayrılığa düştüğünüz şeyi de kıyamet günü, size açıklar, bildirir.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 18,
+      "ayah": 7,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:7",
+      "word_position": 8,
+      "target_word_uthmani": "لِنَبْلُوَهُمْ",
+      "target_word_rasm": "لنبلوهم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "ٱلْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا",
+      "context_snippet_turkish_tabula_rasa": "Biz, gerçekten de insanların hangisi daha iyi ve güzel iş işleyecek, bunu sınamak için yeryüzünde ne varsa, yere biz ziynet olarak halkettik onu.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِنَّا جَعَلْنَا مَا عَلَى ٱلْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz, gerçekten de insanların hangisi daha iyi ve güzel iş işleyecek, bunu sınamak için yeryüzünde ne varsa, yere biz ziynet olarak halkettik onu.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 20,
+      "ayah": 120,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:120",
+      "word_position": 13,
+      "target_word_uthmani": "يَبْلَىٰ",
+      "target_word_rasm": "يبلى",
+      "target_word_literal_irab": "Asl 1 fiziksel çıpa: Kullanılıp aşınarak eskime ve yıpranma (مُلْكٍ لَّا يَبْلَىٰ — Bab I muzâri fiil: 20:120)",
+      "context_snippet_arabic": "ٱلْخُلْدِ وَمُلْكٍ لَّا يَبْلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç, ona vesvese verdi de ey Âdem dedi, sana ebedilik ağacını ve zeval bulmayacak devleti göstereyim mi?",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS"
+      },
+      "ayah_text_arabic_full": "فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍ لَّا يَبْلَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç, ona vesvese verdi de ey Âdem dedi, sana ebedilik ağacını ve zeval bulmayacak devleti göstereyim mi?",
+      "contextual_meaning": "Asl 1 — Eskime/yıpranma çıpası (مُلْكٍ لَّا يَبْلَىٰ): ayartıcının 'eskimeyen egemenlik' vaadi."
+    },
+    {
+      "surah": 21,
+      "ayah": 35,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:35",
+      "word_position": 5,
+      "target_word_uthmani": "وَنَبْلُوكُم",
+      "target_word_rasm": "ونبلوكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً",
+      "context_snippet_turkish_tabula_rasa": "Herkes, ölümü tadacak ve sizi, bir sınama olarak hayırla, şerle de denemedeyiz ve dönüp tapımıza geleceksiniz.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|1P"
+      },
+      "ayah_text_arabic_full": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً وَإِلَيْنَا تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkes, ölümü tadacak ve sizi, bir sınama olarak hayırla, şerle de denemedeyiz ve dönüp tapımıza geleceksiniz.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 23,
+      "ayah": 30,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:30",
+      "word_position": 7,
+      "target_word_uthmani": "لَمُبْتَلِينَ",
+      "target_word_rasm": "لمبتلين",
+      "target_word_literal_irab": "Fiili koşullarla deneyip sınayan (مُبْتَلِيكُم / لَمُبْتَلِينَ — Bab VIII ism-i fâil: 2:249, 23:30)",
+      "context_snippet_arabic": "لَءَايَٰتٍ وَإِن كُنَّا لَمُبْتَلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki bundan deliller var elbet ve şüphesiz ki biz, insanları deneriz.",
+      "morphology": {
+        "lemma": "mubotaliy",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:mubotaliy|ROOT:blw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ وَإِن كُنَّا لَمُبْتَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki bundan deliller var elbet ve şüphesiz ki biz, insanları deneriz.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 27,
+      "ayah": 40,
+      "surah_name": "Neml",
+      "ayah_ref": "27:40",
+      "word_position": 24,
+      "target_word_uthmani": "لِيَبْلُوَنِىٓ",
+      "target_word_rasm": "ليبلونى",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ",
+      "context_snippet_turkish_tabula_rasa": "... Derken baktı ki taht yanında durmada, onu görünce bu dedi, Rabbimin lutfundan, ihsanından, nimetin değerini bilip açığa vurma mü edeceğim, nankör mü olacağım, beni sınamak istiyor. Fakat nimetin değerini bilip açığa vuran, mutlaka kendisini faydalandırmış olur ve nankörlük edene gelince hiç şüphe yok ki Rabbim, kullarından müstağnidir, onlara karşı lütuf ve kerem sahibidir.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitaba ait bir bilgiye sahib olansa ben dedi, gözünü yumup açmadan onu getiririm sana. Derken baktı ki taht yanında durmada, onu görünce bu dedi, Rabbimin lutfundan, ihsanından, nimetin değerini bilip açığa vurma mü edeceğim, nankör mü olacağım, beni sınamak istiyor. Fakat nimetin değerini bilip açığa vuran, mutlaka kendisini faydalandırmış olur ve nankörlük edene gelince hiç şüphe yok ki Rabbim, kullarından müstağnidir, onlara karşı lütuf ve kerem sahibidir.",
+      "contextual_meaning": "Tarafsız nimet ve bolluk sınavı: güzel sınav deneyimi (`بَلَآءً حَسَنًا`), Süleyman'ın imkân sınavı ve insanın hem ikramla hem rızık darlığıyla sınanması."
+    },
+    {
+      "surah": 33,
+      "ayah": 11,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:11",
+      "word_position": 2,
+      "target_word_uthmani": "ٱبْتُلِىَ",
+      "target_word_rasm": "ٱبتلى",
+      "target_word_literal_irab": "İnsanı bollukla, darlıkla, sözlerle ve krizlerle derinlemesine deneyip iç özünü açığa çıkarmak (ٱبْتَلَىٰ / لِيَبْتَلِيَكُمْ / نَّبْتَلِيهِ / ٱبْتُلِىَ — Bab VIII fiil)",
+      "context_snippet_arabic": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًا",
+      "context_snippet_turkish_tabula_rasa": "İşte orada, güvene erenler, bir sınanmaya uğratılmıştı ve adamakıllı da sarsılmışlardı.",
+      "morphology": {
+        "lemma": "{botalaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(VIII)|LEM:{botalaY`^|ROOT:blw|3MS"
+      },
+      "ayah_text_arabic_full": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًا شَدِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte orada, güvene erenler, bir sınanmaya uğratılmıştı ve adamakıllı da sarsılmışlardı.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 37,
+      "ayah": 106,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:106",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْبَلَٰٓؤُا۟",
+      "target_word_rasm": "ٱلبلؤا",
+      "target_word_literal_irab": "İnsanın ve topluluğun dayanıklılığını açığa çıkaran büyük ve apaçık sınav (بَلَآءٌ / ٱلْبَلَٰٓؤُا۟ — isim)",
+      "context_snippet_arabic": "إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki bu, elbette apaçık bir sınamaydı.",
+      "morphology": {
+        "lemma": "balaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:balaA^'|ROOT:blw|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki bu, elbette apaçık bir sınamaydı.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 44,
+      "ayah": 33,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:33",
+      "word_position": 6,
+      "target_word_uthmani": "بَلَٰٓؤٌا۟",
+      "target_word_rasm": "بلؤا",
+      "target_word_literal_irab": "İnsanın ve topluluğun dayanıklılığını açığa çıkaran büyük ve apaçık sınav (بَلَآءٌ / ٱلْبَلَٰٓؤُا۟ — isim)",
+      "context_snippet_arabic": "ٱلْءَايَٰتِ مَا فِيهِ بَلَٰٓؤٌا۟ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve onlara, apaçık nimetleri muhtevi deliller verdik.",
+      "morphology": {
+        "lemma": "balaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:balaA^'|ROOT:blw|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَءَاتَيْنَٰهُم مِّنَ ٱلْءَايَٰتِ مَا فِيهِ بَلَٰٓؤٌا۟ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onlara, apaçık nimetleri muhtevi deliller verdik.",
+      "contextual_meaning": "Tarihsel büyük sınamalar: İbrâhîm'in, İsrâiloğullarının, Tâlût ordusunun ve sarsıcı kriz anlarında inananların sınanması."
+    },
+    {
+      "surah": 47,
+      "ayah": 4,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:4",
+      "word_position": 28,
+      "target_word_uthmani": "لِّيَبْلُوَا۟",
+      "target_word_rasm": "ليبلوا",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "لَٱنتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ وَٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "... ve Allah dileseydi savaşsız da helak ederdi onları ve fakat bir kısmınızı, bir kısmınızla sınamak ister ve Allah yolunda öldürülenlerin yaptıklarını asla boşa çıkarmamaktadır.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَٰلَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlarla savaşa giriştiniz mi vurun boyunlarını, onları iyice yaralayıp kırdınız, bozguna uğratıp da onlara üst geldiniz mi işe sağlam yapışın, bağlayın sımsıkı tutsakları, ondan sonra da isterseniz öylece salıverirsiniz onları, isterseniz para alır da bırakırsınız savaş ağırlığını atıncaya dek, bu, böyle; ve Allah dileseydi savaşsız da helak ederdi onları ve fakat bir kısmınızı, bir kısmınızla sınamak ister ve Allah yolunda öldürülenlerin yaptıklarını asla boşa çıkarmamaktadır.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 47,
+      "ayah": 31,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:31",
+      "word_position": 1,
+      "target_word_uthmani": "وَلَنَبْلُوَنَّكُمْ",
+      "target_word_rasm": "ولنبلونكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَٰهِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki sizden savaşanları ve sebat edip direnenleri bildirmek ve gizlediklerinizi haber vermek için sizi sınamaktadır.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|1P"
+      },
+      "ayah_text_arabic_full": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki sizden savaşanları ve sebat edip direnenleri bildirmek ve gizlediklerinizi haber vermek için sizi sınamaktadır.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 47,
+      "ayah": 31,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:31",
+      "word_position": 7,
+      "target_word_uthmani": "وَنَبْلُوَا۟",
+      "target_word_rasm": "ونبلوا",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki sizden savaşanları ve sebat edip direnenleri bildirmek ve gizlediklerinizi haber vermek için sizi sınamaktadır.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki sizden savaşanları ve sebat edip direnenleri bildirmek ve gizlediklerinizi haber vermek için sizi sınamaktadır.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 67,
+      "ayah": 2,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:2",
+      "word_position": 5,
+      "target_word_uthmani": "لِيَبْلُوَكُمْ",
+      "target_word_rasm": "ليبلوكم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki yaratmıştır ölümü ve dirimi, hanginiz daha güzel işte bulunacak, sınamak için sizi ve odur üstün olan ve suçları örten.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:balawo|ROOT:blw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki yaratmıştır ölümü ve dirimi, hanginiz daha güzel işte bulunacak, sınamak için sizi ve odur üstün olan ve suçları örten.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 68,
+      "ayah": 17,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:17",
+      "word_position": 2,
+      "target_word_uthmani": "بَلَوْنَٰهُمْ",
+      "target_word_rasm": "بلونهم",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz, onları açlıkla, kıtlıkla sınarız, nitekim o bahçe sahiplerini de sınamıştık; hani, sabahleyin erkenden, bahçelerindeki mahsulü kesmeye ant içmişlerdi.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:balawo|ROOT:blw|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, onları açlıkla, kıtlıkla sınarız, nitekim o bahçe sahiplerini de sınamıştık; hani, sabahleyin erkenden, bahçelerindeki mahsulü kesmeye ant içmişlerdi.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 68,
+      "ayah": 17,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:17",
+      "word_position": 4,
+      "target_word_uthmani": "بَلَوْنَآ",
+      "target_word_rasm": "بلونا",
+      "target_word_literal_irab": "Bolluk, darlık, nimet, ölüm ve yaşam yoluyla hangisinin daha güzel eylem üreteceğini tarafsız biçimde deneyip sınamak (نَبْلُو / لِيَبْلُوَكُمْ / بَلَوْنَٰهُم — Bab I fiil)",
+      "context_snippet_arabic": "إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz, onları açlıkla, kıtlıkla sınarız, nitekim o bahçe sahiplerini de sınamıştık; hani, sabahleyin erkenden, bahçelerindeki mahsulü kesmeye ant içmişlerdi.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:balawo|ROOT:blw|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, onları açlıkla, kıtlıkla sınarız, nitekim o bahçe sahiplerini de sınamıştık; hani, sabahleyin erkenden, bahçelerindeki mahsulü kesmeye ant içmişlerdi.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 76,
+      "ayah": 2,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:2",
+      "word_position": 7,
+      "target_word_uthmani": "نَّبْتَلِيهِ",
+      "target_word_rasm": "نبتليه",
+      "target_word_literal_irab": "İnsanı bollukla, darlıkla, sözlerle ve krizlerle derinlemesine deneyip iç özünü açığa çıkarmak (ٱبْتَلَىٰ / لِيَبْتَلِيَكُمْ / نَّبْتَلِيهِ / ٱبْتُلِىَ — Bab VIII fiil)",
+      "context_snippet_arabic": "مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَٰهُ سَمِيعًۢا بَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki biz insanı, bir katre sudan, erkeklik suyuyla kadınlık suyunun rahimde birleşmesinden yarattık sınamak için, derken onu, duyar, görür bir hale getirdik.",
+      "morphology": {
+        "lemma": "{botalaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botalaY`^|ROOT:blw|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا خَلَقْنَا ٱلْإِنسَٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَٰهُ سَمِيعًۢا بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki biz insanı, bir katre sudan, erkeklik suyuyla kadınlık suyunun rahimde birleşmesinden yarattık sınamak için, derken onu, duyar, görür bir hale getirdik.",
+      "contextual_meaning": "Yaratılışın evrensel sınama yasası: ölüm, yaşam, nimet, zorluk ve toplumsal farklılıklar aracılığıyla kimin daha güzel eylem üreteceğinin açığa çıkarılması."
+    },
+    {
+      "surah": 86,
+      "ayah": 9,
+      "surah_name": "Târık",
+      "ayah_ref": "86:9",
+      "word_position": 2,
+      "target_word_uthmani": "تُبْلَى",
+      "target_word_rasm": "تبلى",
+      "target_word_literal_irab": "Hesap gününde geçmiş eylemlerin sonucunu fiilen sınayıp gizli sırların açığa vurulması (تَبْلُوا۟ / تُبْلَى — Bab I fiil)",
+      "context_snippet_arabic": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "context_snippet_turkish_tabula_rasa": "O gün, bütün gizli şeyler, meydana vurulur.",
+      "morphology": {
+        "lemma": "balawo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:balawo|ROOT:blw|3FS"
+      },
+      "ayah_text_arabic_full": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, bütün gizli şeyler, meydana vurulur.",
+      "contextual_meaning": "Hesap gününde sınanıp açığa vurulma: herkesin önceden gönderdiğini fiilen tatması ve gizli sırların (ٱلسَّرَآئِرُ) açılıp sınanması."
+    },
+    {
+      "surah": 89,
+      "ayah": 15,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:15",
+      "word_position": 5,
+      "target_word_uthmani": "ٱبْتَلَىٰهُ",
+      "target_word_rasm": "ٱبتلىه",
+      "target_word_literal_irab": "İnsanı bollukla, darlıkla, sözlerle ve krizlerle derinlemesine deneyip iç özünü açığa çıkarmak (ٱبْتَلَىٰ / لِيَبْتَلِيَكُمْ / نَّبْتَلِيهِ / ٱبْتُلِىَ — Bab VIII fiil)",
+      "context_snippet_arabic": "ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "İnsan, öyle bir mahluktur ki Rabbi, onu sınadı da büyüttü, ve nimetler verdi mi, Rabbim der, layıktım da büyüttün beni.",
+      "morphology": {
+        "lemma": "{botalaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{botalaY`^|ROOT:blw|3MS"
+      },
+      "ayah_text_arabic_full": "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan, öyle bir mahluktur ki Rabbi, onu sınadı da büyüttü, ve nimetler verdi mi, Rabbim der, layıktım da büyüttün beni.",
+      "contextual_meaning": "Tarafsız nimet ve bolluk sınavı: güzel sınav deneyimi (`بَلَآءً حَسَنًا`), Süleyman'ın imkân sınavı ve insanın hem ikramla hem rızık darlığıyla sınanması."
+    },
+    {
+      "surah": 89,
+      "ayah": 16,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:16",
+      "word_position": 4,
+      "target_word_uthmani": "ٱبْتَلَىٰهُ",
+      "target_word_rasm": "ٱبتلىه",
+      "target_word_literal_irab": "İnsanı bollukla, darlıkla, sözlerle ve krizlerle derinlemesine deneyip iç özünü açığa çıkarmak (ٱبْتَلَىٰ / لِيَبْتَلِيَكُمْ / نَّبْتَلِيهِ / ٱبْتُلِىَ — Bab VIII fiil)",
+      "context_snippet_arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ve fakat sınadı da rızkını daralttı mı, Rabbim der, alçalttı beni.",
+      "morphology": {
+        "lemma": "{botalaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{botalaY`^|ROOT:blw|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve fakat sınadı da rızkını daralttı mı, Rabbim der, alçalttı beni.",
+      "contextual_meaning": "Tarafsız nimet ve bolluk sınavı: güzel sınav deneyimi (`بَلَآءً حَسَنًا`), Süleyman'ın imkân sınavı ve insanın hem ikramla hem rızık darlığıyla sınanması."
+    }
+  ]
+}

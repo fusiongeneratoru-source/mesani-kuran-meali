@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 26 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 31 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 26 / 131 Kök (Toplam Mühürlü: 247 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 31 / 131 Kök (Toplam Mühürlü: 252 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -35,11 +35,11 @@
 | 24 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 296 | `ق-ع-د` | `K-A-D` | **31** | 26 | 2:127 | Kuûd ve Kavâid (Taban Üzerine Oturup Yerleşmek, Yapı Temelleri, Mevzi Tutmak ve Mücadeleden Geri Durmak) | ✅ **MÜHÜRLÜ** |
 | 25 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 258 | `ب-ط-ل` | `B-T-L` | **36** | 34 | 2:42 | Bâtıl ve İbtâl (Sağlam Temeli ve Kalıcılığı Olmayan, Köpük Gibi Dağılıp Geçersizleşen) | ✅ **MÜHÜRLÜ** |
 | 26 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 264 | `ع-ف-و` | `A-F-W` | **35** | 31 | 2:52 | Afv (Kusur ve Hak Talebinin İzini Bütünüyle Silip Feragat Etmek; Çoğalıp Taşan İhtiyaç Fazlası) | ✅ **MÜHÜRLÜ** |
-| 27 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 237 | `ك-ر-ه` | `K-R-H` | **41** | 35 | 2:216 | İkrâh ve Kerh (6 Mesânî ref! Tav'/Meşîet zıttı ve 2:256 zorlama yasağı) | ⏳ *Bekliyor* |
-| 28 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 250 | `ه-و-ي` | `H-W-Y` | **38** | 37 | 2:87 | Hevâ ve Hâviye (5 Mesânî ref! Uçurumdan savrulma, boş arzu ve 101:9 Hâviye tek kökte) | ⏳ *Bekliyor* |
-| 29 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 343 | `ع-ج-ز` | `A-C-Z` | **26** | 25 | 5:31 | Acz ve Mu'ciz (5 Mesânî ref! Gücü yetmemek, geri kalmak ve kaçıp kurtulamamak) | ⏳ *Bekliyor* |
-| 30 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 248 | `ب-ل-و` | `B-L-W` | **38** | 35 | 2:49 | Belâ ve İbtilâ (Fitne ile Furûk: hem iyilikle hem zorlukla sınayıp açığa çıkarma) | ⏳ *Bekliyor* |
-| 31 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 256 | `ر-ي-ب` | `R-Y-B` | **36** | 35 | 2:2 | Rayb (Şekk ile Furûk: 2:2 huzursuz edici, suçlayıcı kuşku) | ⏳ *Bekliyor* |
+| 27 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 237 | `ك-ر-ه` | `K-R-H` | **41** | 35 | 2:216 | Kerh, Kürh ve İkrâh (Ağır Zahmet, Rıza Karşıtı İticilik ve İrade Dışı Zorlama) | ✅ **MÜHÜRLÜ** |
+| 28 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 250 | `ه-و-ي` | `H-W-Y` | **38** | 37 | 2:87 | Hevâ ve Hâviye (Boşluk, Yukarıdan Aşağıya Düşüp Yuvarlanmak ve İnsanı Aşağı Çeken Kör Arzu) | ✅ **MÜHÜRLÜ** |
+| 29 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 343 | `ع-ج-ز` | `A-C-Z` | **26** | 25 | 5:31 | Acz, İ'câz ve Acûz (Arka/Alt Gövde, Geride Kalıp Güç Yetirememek ve Kaçarak Çaresiz Bırakamamak) | ✅ **MÜHÜRLÜ** |
+| 30 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 248 | `ب-ل-و` | `B-L-W` | **38** | 35 | 2:49 | Belâ ve İbtilâ (Kullanımla Eskime [Asl 1]; Bolluk ve Darlıkla Gerçek Niteliği Açığa Çıkaran Tarafsız Sınama [Asl 2]) | ✅ **MÜHÜRLÜ** |
+| 31 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 256 | `ر-ي-ب` | `R-Y-B` | **36** | 35 | 2:2 | Reyb ve İrtiyâb (İç Huzuru Bozan, Kaygı ve Töhmet Barındıran Tedirgin Edici Kuşku) | ✅ **MÜHÜRLÜ** |
 | 32 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 207 | `خ-ش-ي` | `H-S-Y` | **48** | 40 | 2:74 | Haşyet (Rank 207! Havf ve Vikâye ile Furûk: bilgiye dayalı derin ürperti ve saygı) | ⏳ *Bekliyor* |
 | 33 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 271 | `ج-ن-ح` | `C-N-H` | **34** | 32 | 2:158 | Cünâh ve Cenâh (İsm/Zenb/Cünâh Furûk üçlüsü: eğilme, kanat ve hukuki sakınca) | ⏳ *Bekliyor* |
 | 34 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 361 | `ف-ج-ر` | `F-C-R` | **24** | 21 | 2:60 | Fücûr ve Fecr (91:8 Vikâye zıttı: yarıp taşmak — şafak, pınar ve ahlaki sınır yıkımı) | ⏳ *Bekliyor* |

@@ -1,0 +1,881 @@
+{
+  "root": "ك-ر-ه",
+  "root_latin": "K-R-H (krh)",
+  "concept_name": "Kerh, Kürh ve İkrâh (Ağır Zahmet, Rıza Karşıtı İticilik ve İrade Dışı Zorlama)",
+  "rank": 237,
+  "total_occurrences": 41,
+  "unique_ayahs_count": 35,
+  "unified_core_mechanism": "İnsanın rızasına ve sevgisine aykırı düşerek bedensel/ruhsal ağır zahmet veya iticilik vermek (`46:15` `كُرْهًا` doğum zahmeti; `49:12` tiksinme; `2:216`, `4:19` ağır bulup hoşlanmamak; `17:38` `مَكْرُوهًا` Rab katında hoşnut olunmayan); Bab II'de itici kılmak (`49:7` `كَرَّهَ`); Bab IV'te ise dış baskıyla irade dışı zorlamak (`2:256`, `10:99`, `16:106`, `20:73`, `24:33` `إِكْرَاه / أَكْرَهَ`).",
+  "physical_core": "İnsanın rızasına ve sevgisine ters düşerek ona bedensel veya ruhsal ağır zahmet ve iticilik vermek (`46:15 حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا` — hamilelik ve doğumun ağır bedensel zahmeti; `49:12 فَكَرِهْتُمُوهُ` — ölü kardeş eti yemekten tiksinip irkilmek); buradan dış baskıyla istemediği şeye zorlamak (`إِكْرَاه`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün tek ve sağlam aslının 'hoşnutluğun ve sevginin karşıtı (`خلاف الرضا والمحبة`)' olduğunu saptar; savaşın şiddetine ve ağır güçlüğe `كَرِيهَة` denmesi de kökün 'ağır zahmet ve iticilik' somut temelini gösterir.",
+    "lisan_al_arab": "İbn Manzûr ince hareke ayrımını kaydeder: fethalı `كَرْه` genellikle dışarıdan gelen baskı ve zorlamayla yaşanan isteksizlik, dammeli `كُرْه` ise insanın kendi içinde yaşadığı bedensel veya ruhsal ağır zahmettir; Bab IV `إِكْرَاه` ise birini istemediği şeye zorla sürüklemektir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `كَرْه`in `طَوْع` (gönüllü yöneliş) ile `مَحَبَّة` (sevgi) ve `رِضًا` (hoşnutluk) kavramlarının karşıtı olduğunu vurgular; `2:216`da insanın kendisine ağır gelen bir şeyde hayır olabileceğini, `4:19`da eşten hoşlanmama durumunda acele edilmemesini bu kökle açıklar.",
+    "arbitration_decision": "Hakem Masası Kararı: `ك-ر-ه` kökünün 41 geçişi tek bir somut yasada birleşir: **hoşnutsuzluk, ağır zahmet ve irade dışı baskı**. Hareke ve bab farkları anlamı cerrah hassasiyetiyle böler: (1) `كُرْه` (`2:216`, `46:15`) içten yaşanan bedensel/ruhsal ağır zahmettir (annenin çocuğu güçlükle taşıyıp doğurması). (2) `كَرْه` (`3:83`, `4:19`, `9:53`, `13:15`, `41:11`) gönüllü yönelişin (`طَوْع`) karşıtı olarak dışsal zorunluluk veya irade dışı boyun eğiştir. (3) Bab IV `إِكْرَاه / أَكْرَهَ` (`2:256`, `10:99`, `16:106`, `20:73`, `24:33`) dışarıdan zorlamadır; Kur'an inanç ve bağlılık seçiminde (`2:256`, `10:99`), miras hukukunda (`4:19`) ve cinsel sömürüde (`24:33`) baskıyı kesinlikle yasaklar ve baskı altında kalan kişiyi mazur sayar (`16:106`, `20:73`, `24:33`). (4) Bab I `كَرِهَ` ve `كَارِهُون` ise insanın kişisel hoşnutsuzluğu (`4:19`, `49:12`) veya hakikatten hoşlanmamasıdır (`23:70`, `43:78`, `47:9`, `47:28`)."
+  },
+  "semitic_cognates": {
+    "note": "Arapça ك-ر-ه kökü 'ağır zahmet, rıza karşıtlığı, tiksinme ve irade dışı zorlama' semantik bütünlüğüyle klasik Arapça alanında belirginleşmiştir; Doğu ve Kuzeybatı Sami dillerinde kesin olarak doğrulanmış ortak bir Proto-Sami kökteş saptanmamıştır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ط-و-ع [أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا / ٱئْتِيَا طَوْعًا أَوْ كَرْهًا / أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًا] (Gönüllü ve İstekli Yöneliş ↔ İrade Dışı Zorunluluk veya Gönülsüzlük: 3:83, 9:53, 13:15, 41:11)",
+      "ح-ب-ب [وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ / حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ ... وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ] (Sevgiyle Çekilip Yönelmek ↔ İtici Bulup Tiksinmek: 2:216, 49:7)",
+      "ر-ض-و [وَكَرِهُوا۟ رِضْوَٰنَهُۥ] (Allah'ın Hoşnutluğu ve Rızası ↔ O'nun Rızasından Hoşlanmayıp Gönülsüz Durmak: 47:28)",
+      "ش-ي-أ & ر-و-د & د-ي-ن [لَآ إِكْرَاهَ فِى ٱلدِّينِ / وَلَوْ شَآءَ رَبُّكَ لَءَامَنَ ... أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ / وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ ... وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ] (Özgür İrade, Dileme ve Gönüllü Bağlılık Düzeni ↔ Dışarıdan Baskı ve İrade Dışı Zorlama: 2:256, 9:46, 10:99, 24:33)"
+    ],
+    "key_ayahs": [
+      "46:15 (حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا — fiziksel çıpa: bedensel ağır zahmet ve meşakkat)",
+      "2:256 & 10:99 (لَآ إِكْرَاهَ فِى ٱلدِّينِ / أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ — özgür seçim yasası ve zorlamanın reddi)",
+      "2:216 & 4:19 (İnsanın hoşlanmadığı şeyde büyük bir hayır bulunabilmesi)",
+      "3:83 & 13:15 & 41:11 (طَوْعًا وَكَرْهًا — evrensel yasalara gönüllü veya zorunlu boyun eğiş)",
+      "16:106 & 24:33 & 49:7 (Baskı altında kalanın mazuriyeti, zorlama yasağı ve kötülüğün kalbe itici kılınması)"
+    ],
+    "reverse_stress_test": "Gönüllü itaat (`ط-و-ع`), sevgi (`ح-ب-ب`), hoşnutluk (`ر-ض-و`) ve özgür irade (`ش-ي-أ`, `ر-و-د`) karşısına yerleştirildiğinde, `ك-ر-ه` kökünün 'ağır zahmet, rızasız iticilik ve irade dışı baskı/zorlama' çekirdeği tüm 41 geçişte sıfır çelişkiyle kilitlenir."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "كُرْه (K-R-H Damme: İçten Yaşanan Bedensel/Ruhsal Zahmet) vs كَرْه (K-R-H Fetha: Dışsal Zorunluluk ve İsteksizlik) [2:216, 46:15 vs 3:83, 4:19, 13:15, 41:11]",
+      "حَبَّبَ (H-B-B Bab II: Kalbe Sevdirip Çekici Kılmak) vs كَرَّهَ (K-R-H Bab II: Kalbe İtici ve Sevimsiz Kılmak) [49:7]",
+      "أُكْرِهَ (K-R-H Bab IV Edilgen: Dışarıdan Zorla Baskılanmak) vs مُطْمَئِنٌّ (T-M-N: İç Huzur ve Güvenle Sabit Kalmak) [16:106]"
+    ],
+    "mechanical_difference": "1) `46:15`te annenin taşıyıp doğurmasındaki `كُرْهًا` nefret değil, yüksek bedensel zahmet ve ağrılı yüktür; `3:83` ve `4:19`daki `كَرْهًا` ise irade dışı zorunluluktur. 2) `49:7`de güven bağının kalbe sevdirilmesi (`حَبَّبَ`) ile sapmanın itici kılınması (`كَرَّهَ`) simetrik iki kalp yönelimidir. 3) `16:106`da dışsal baskı (`أُكْرِهَ`) yalnızca dili etkileyebilir; kalp güven üzere dingin kaldıkça kişi sorumlu tutulmaz."
+  },
+  "anchor_ayahs": [
+    "46:15 (حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا — ağır bedensel zahmet çıpası)",
+    "2:256 & 10:99 (İnanç ve hayat düzeni seçiminde zorlama yasağı)",
+    "2:216 & 4:19 (Hoşlanılmayan şeyde hayır bulunması; kadınların zorla miras alınmasının yasaklanması)",
+    "16:106 & 24:33 (Dış baskı altındaki kişinin mazuriyeti ve genç kadınları zorlama yasağı)",
+    "49:7 & 49:12 (Kötülüğün kalbe itici kılınması ve gıybetten tiksinme)"
+  ],
+  "grammar_and_branch_rules": "1) İçsel/Bedensel Ağır Zahmet — `كُرْه` (`2:216`, `46:15` x2 — 3 geçiş): Hamilelik ve doğum zahmeti ile savunmanın kişiye ağır gelmesi. 2) Gönüllü ↔ Zorunlu/İsteksiz Karşıtlığı — `كَرْه` (`3:83`, `4:19`, `9:53`, `13:15`, `41:11` — 5 geçiş): Evrenin yasalara boyun eğişi, zorla miras alma yasağı ve gönülsüz harcama. 3) Dış Baskı ve Zorlama — Bab IV (`2:256`, `10:99`, `16:106`, `20:73`, `24:33` x3 — 7 geçiş): İnanç seçiminde ve sosyal ilişkilerde zorlamanın kesin yasağı ile zorlananın mazuriyeti. 4) Hakikatten veya Kötülükten Hoşlanmama — Bab I, II ve İsm-i Mef'ûl (`2:216`, `4:19` x2, `7:88`, `8:5`, `8:8`, `9:32`, `9:33`, `9:46`, `9:48`, `9:54`, `9:81`, `10:82`, `11:28`, `16:62`, `17:38`, `23:70`, `40:14`, `43:78`, `47:9`, `47:26`, `47:28`, `49:7`, `49:12`, `61:8`, `61:9` — 26 geçiş): İnsanın hoşlanmaması, Allah'ın bozguncuların çıkışından hoşlanmaması ve kötülüğün itici kılınması.",
+  "derivatives": {
+    "كَرِهَ / يَكْرَهُ (Bab I Fiil - 17 geçiş)": "Bir şeyi rızasına aykırı ve ağır bulup hoşlanmamak, tiksinmek veya benimsememek.",
+    "كَرَّهَ (Bab II Fiil - 1 geçiş: 49:7)": "Sapmayı, nankörlüğü ve başkaldırıyı kalbe itici ve sevimsiz kılmak.",
+    "أَكْرَهَ / يُكْرِهُ / إِكْرَاه (Bab IV Fiil & Masdar - 7 geçiş)": "Dışarıdan baskı uygulayarak bir kimseyi kendi rızası dışında bir şeye zorlamak (2:256, 10:99, 16:106, 20:73, 24:33).",
+    "كُرْه (Damme İsim - 3 geçiş: 2:216, 46:15)": "İçten yaşanan bedensel veya ruhsal ağır zahmet ve meşakkat.",
+    "كَرْه (Fetha İsim - 5 geçiş: 3:83, 4:19, 9:53, 13:15, 41:11)": "Gönüllü yönelişin (طَوْع) karşıtı olarak irade dışı zorunluluk veya gönülsüzlük.",
+    "كَارِهُون / كَارِهِين (Bab I İsm-i Fâil - 7 geçiş) & مَكْرُوه (Bab I İsm-i Mef'ûl - 1 geçiş: 17:38)": "İsteksiz ve gönülsüz davrananlar; Rab katında hoşnut olunmayan kötü eylem."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 216,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:216",
+      "word_position": 5,
+      "target_word_uthmani": "كُرْهٌ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "İnsanın tabiatına ve benliğine ağır gelen zorunlu yük/zahmet (كُرْهٌ — dammeli isim: 2:216)",
+      "context_snippet_arabic": "عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ وَعَسَىٰٓ أَن",
+      "context_snippet_turkish_tabula_rasa": "Hoşlanmazsınız, size ağır gelir ama düşmanlarla savaşmak, size farz edilmiştir. Bazı şeyler vardır ki hoşlanmazsınız, fakat hayırlıdır size. Bazı şeyler de...",
+      "morphology": {
+        "lemma": "kuroh",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:kuroh|ROOT:krh|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hoşlanmazsınız, size ağır gelir ama düşmanlarla savaşmak, size farz edilmiştir. Bazı şeyler vardır ki hoşlanmazsınız, fakat hayırlıdır size. Bazı şeyler de vardır, hoşlanırsınız, şerdir size. Allah bilir, siz bilmezsiniz ki.",
+      "contextual_meaning": "Ahlaki ve içsel hoşnutsuzluk: insana ağır gelen şeyde hayır olabilmesi, kadınların zorla miras alınma yasağı, kötülüğün itici kılınması ve gıybetten tiksinme."
+    },
+    {
+      "surah": 2,
+      "ayah": 216,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:216",
+      "word_position": 9,
+      "target_word_uthmani": "تَكْرَهُوا۟",
+      "target_word_rasm": "تكرهوا",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "لَّكُمْ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ",
+      "context_snippet_turkish_tabula_rasa": "Hoşlanmazsınız, size ağır gelir ama düşmanlarla savaşmak, size farz edilmiştir. Bazı şeyler vardır ki hoşlanmazsınız, fakat hayırlıdır size. Bazı şeyler de...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:kariha|ROOT:krh|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hoşlanmazsınız, size ağır gelir ama düşmanlarla savaşmak, size farz edilmiştir. Bazı şeyler vardır ki hoşlanmazsınız, fakat hayırlıdır size. Bazı şeyler de vardır, hoşlanırsınız, şerdir size. Allah bilir, siz bilmezsiniz ki.",
+      "contextual_meaning": "Ahlaki ve içsel hoşnutsuzluk: insana ağır gelen şeyde hayır olabilmesi, kadınların zorla miras alınma yasağı, kötülüğün itici kılınması ve gıybetten tiksinme."
+    },
+    {
+      "surah": 2,
+      "ayah": 256,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:256",
+      "word_position": 2,
+      "target_word_uthmani": "إِكْرَاهَ",
+      "target_word_rasm": "إكراه",
+      "target_word_literal_irab": "İnanç/hayat düzeni seçiminde veya cinsel sömürüde dışarıdan baskı ve zorlama (إِكْرَاهَ / إِكْرَٰهِهِنَّ — Bab IV masdar: 2:256, 24:33)",
+      "context_snippet_arabic": "لَآ إِكْرَاهَ فِى ٱلدِّينِ قَد",
+      "context_snippet_turkish_tabula_rasa": "yaşam sisteminde zor yok. Gerçekten de doğru yolla azgınlık apaçık meydana çıkmıştır. Kim putları gerçeğin üzerini örtüp sığınak mercii (ilâh)'ya güven duy...",
+      "morphology": {
+        "lemma": "<ikoraAh",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<ikoraAh|ROOT:krh|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَآ إِكْرَاهَ فِى ٱلدِّينِ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ فَمَن يَكْفُرْ بِٱلطَّٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "yaşam sisteminde zor yok. Gerçekten de doğru yolla azgınlık apaçık meydana çıkmıştır. Kim putları gerçeğin üzerini örtüp sığınak mercii (ilâh)'ya güven duy şüphe yok, öyle sağlam bir kulpa yapışmıştır ki hiç kopmaz o ve Allah her şeyi duyar, bilir.",
+      "contextual_meaning": "İkrâh (dış baskı ve zorlama) yasası: inanç seçiminde ve genç kadınlar üzerinde zorlamanın kesin yasağı; zorlanan kişinin mazuriyeti."
+    },
+    {
+      "surah": 3,
+      "ayah": 83,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:83",
+      "word_position": 12,
+      "target_word_uthmani": "وَكَرْهًا",
+      "target_word_rasm": "وكرها",
+      "target_word_literal_irab": "Gönüllü yönelişin (طَوْعًا) karşıtı olarak irade dışı zorunluluk veya gönülsüzlük (كَرْهًا — fethalı isim)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Artık Allah'ın yaşam sisteminden başka bir yaşam ve hesap sistemi mi arıyorlar? Göklerde ve yeryüzündekiler, istekleriyle ve zorla ona teslim olmuşlardır ve...",
+      "morphology": {
+        "lemma": "karoh",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:karoh|ROOT:krh|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık Allah'ın yaşam sisteminden başka bir yaşam ve hesap sistemi mi arıyorlar? Göklerde ve yeryüzündekiler, istekleriyle ve zorla ona teslim olmuşlardır ve her şey de, sonucu, gerisin geriye, dönüp onun tapısına varacaktır.",
+      "contextual_meaning": "Gönüllü ↔ zorunlu (طَوْعًا وَكَرْهًا) kozmik ve iradi yasası: evrenin yasaya boyun eğişi ve gönülsüz harcamanın geçersizliği."
+    },
+    {
+      "surah": 4,
+      "ayah": 19,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:19",
+      "word_position": 10,
+      "target_word_uthmani": "كَرْهًا",
+      "target_word_rasm": "كرها",
+      "target_word_literal_irab": "Gönüllü yönelişin (طَوْعًا) karşıtı olarak irade dışı zorunluluk veya gönülsüzlük (كَرْهًا — fethalı isim)",
+      "context_snippet_arabic": "أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, zorla kadınları miras olarak almanız helal değildir size. Apaçık kötülükte bulunmadıkları halde onlara verdiğinizin bir kısmını ele geçirmek...",
+      "morphology": {
+        "lemma": "karoh",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:karoh|ROOT:krh|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, zorla kadınları miras olarak almanız helal değildir size. Apaçık kötülükte bulunmadıkları halde onlara verdiğinizin bir kısmını ele geçirmek için sıkıştırmayın onları ve onlarla iyi ve güzel geçinin, onlardan hoşlanmadığınız takdirde deolabilir ki sizin hoşunuza gitmeyen bir şeyde Allah, birçok hayırlar takdir etmiştir.",
+      "contextual_meaning": "Ahlaki ve içsel hoşnutsuzluk: insana ağır gelen şeyde hayır olabilmesi, kadınların zorla miras alınma yasağı, kötülüğün itici kılınması ve gıybetten tiksinme."
+    },
+    {
+      "surah": 4,
+      "ayah": 19,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:19",
+      "word_position": 25,
+      "target_word_uthmani": "كَرِهْتُمُوهُنَّ",
+      "target_word_rasm": "كرهتموهن",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, zorla kadınları miras olarak almanız helal değildir size. Apaçık kötülükte bulunmadıkları halde onlara verdiğinizin bir kısmını ele geçirmek...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, zorla kadınları miras olarak almanız helal değildir size. Apaçık kötülükte bulunmadıkları halde onlara verdiğinizin bir kısmını ele geçirmek için sıkıştırmayın onları ve onlarla iyi ve güzel geçinin, onlardan hoşlanmadığınız takdirde deolabilir ki sizin hoşunuza gitmeyen bir şeyde Allah, birçok hayırlar takdir etmiştir.",
+      "contextual_meaning": "Ahlaki ve içsel hoşnutsuzluk: insana ağır gelen şeyde hayır olabilmesi, kadınların zorla miras alınma yasağı, kötülüğün itici kılınması ve gıybetten tiksinme."
+    },
+    {
+      "surah": 4,
+      "ayah": 19,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:19",
+      "word_position": 28,
+      "target_word_uthmani": "تَكْرَهُوا۟",
+      "target_word_rasm": "تكرهوا",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, zorla kadınları miras olarak almanız helal değildir size. Apaçık kötülükte bulunmadıkları halde onlara verdiğinizin bir kısmını ele geçirmek...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:kariha|ROOT:krh|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, zorla kadınları miras olarak almanız helal değildir size. Apaçık kötülükte bulunmadıkları halde onlara verdiğinizin bir kısmını ele geçirmek için sıkıştırmayın onları ve onlarla iyi ve güzel geçinin, onlardan hoşlanmadığınız takdirde deolabilir ki sizin hoşunuza gitmeyen bir şeyde Allah, birçok hayırlar takdir etmiştir.",
+      "contextual_meaning": "Ahlaki ve içsel hoşnutsuzluk: insana ağır gelen şeyde hayır olabilmesi, kadınların zorla miras alınma yasağı, kötülüğün itici kılınması ve gıybetten tiksinme."
+    },
+    {
+      "surah": 7,
+      "ayah": 88,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:88",
+      "word_position": 21,
+      "target_word_uthmani": "كَٰرِهِينَ",
+      "target_word_rasm": "كرهين",
+      "target_word_literal_irab": "Hakikate, infaka veya elçinin çağrısına karşı gönülsüz ve isteksiz duranlar (كَٰرِهُونَ / كَٰرِهِينَ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "قَالَ أَوَلَوْ كُنَّا كَٰرِهِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kavminin ileri gelenlerinden olup güven bağı etmeyi kibirlerine yediremeyenler, ey Şuayb dediler, mutlaka seni de, sana güvene erenleri da hep beraber ya...",
+      "morphology": {
+        "lemma": "ka`rihuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`rihuwn|ROOT:krh|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لَنُخْرِجَنَّكَ يَٰشُعَيْبُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا قَالَ أَوَلَوْ كُنَّا كَٰرِهِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kavminin ileri gelenlerinden olup güven bağı etmeyi kibirlerine yediremeyenler, ey Şuayb dediler, mutlaka seni de, sana güvene erenleri da hep beraber ya şehrimizden çıkaracağız, yahut da bizim yaşam sistemimize dönersiniz. O da dedi ki: Biz istemesek de zorla mı yapacaksınız bunu?",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 8,
+      "ayah": 5,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:5",
+      "word_position": 11,
+      "target_word_uthmani": "لَكَٰرِهُونَ",
+      "target_word_rasm": "لكرهون",
+      "target_word_literal_irab": "Hakikate, infaka veya elçinin çağrısına karşı gönülsüz ve isteksiz duranlar (كَٰرِهُونَ / كَٰرِهِينَ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ لَكَٰرِهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Nasıl ki Rabbin, seni hak uğruna evinden çıkarmıştı ve şüphe yok ki güvene erenlerin bir kısmı bundan hoşlanmamıştı.",
+      "morphology": {
+        "lemma": "ka`rihuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`rihuwn|ROOT:krh|MP|NOM"
+      },
+      "ayah_text_arabic_full": "كَمَآ أَخْرَجَكَ رَبُّكَ مِنۢ بَيْتِكَ بِٱلْحَقِّ وَإِنَّ فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ لَكَٰرِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nasıl ki Rabbin, seni hak uğruna evinden çıkarmıştı ve şüphe yok ki güvene erenlerin bir kısmı bundan hoşlanmamıştı.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 8,
+      "ayah": 8,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:8",
+      "word_position": 6,
+      "target_word_uthmani": "كَرِهَ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "وَيُبْطِلَ ٱلْبَٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Böylece de suçlular istemese de gerçeği gerçek olarak izhar etmeyi ve batılın boşluğunu bildirmeyi murad etmekteydi.",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece de suçlular istemese de gerçeği gerçek olarak izhar etmeyi ve batılın boşluğunu bildirmeyi murad etmekteydi.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 32,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:32",
+      "word_position": 14,
+      "target_word_uthmani": "كَرِهَ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "İsterler ki Allah'ın nurunu nefesleriyle söndürsünler, halbuki Allah, gerçeğin üzerini örtenler istemese de, onlara zor gelse de nurunu yüceltip itmam etmekten...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsterler ki Allah'ın nurunu nefesleriyle söndürsünler, halbuki Allah, gerçeğin üzerini örtenler istemese de, onlara zor gelse de nurunu yüceltip itmam etmekten başka hiçbir şeye razı değildir.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 33,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:33",
+      "word_position": 13,
+      "target_word_uthmani": "كَرِهَ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki otoriteyi bölüşüp ortak koşanlar istemese de, zorlarına gitse de elçisini, insanları doğru yola sevkeden apaçık ve kesin delillerle ve...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki otoriteyi bölüşüp ortak koşanlar istemese de, zorlarına gitse de elçisini, insanları doğru yola sevkeden apaçık ve kesin delillerle ve bütün dinlere üstolmak üzere gerçek dinle göndermiştir.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 46,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:46",
+      "word_position": 8,
+      "target_word_uthmani": "كَرِهَ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "لَهُۥ عُدَّةً وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Savaşa çıkmayı kursalardı elbette bir hazırlıkta bulunurlardı, fakat Allah, onların çıkmasını hoş görmedi de onları alıkoydu ve kendilerine, oturun oturanlarla...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Savaşa çıkmayı kursalardı elbette bir hazırlıkta bulunurlardı, fakat Allah, onların çıkmasını hoş görmedi de onları alıkoydu ve kendilerine, oturun oturanlarla denildi.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 48,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:48",
+      "word_position": 16,
+      "target_word_uthmani": "كَٰرِهُونَ",
+      "target_word_rasm": "كرهون",
+      "target_word_literal_irab": "Hakikate, infaka veya elçinin çağrısına karşı gönülsüz ve isteksiz duranlar (كَٰرِهُونَ / كَٰرِهِينَ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "أَمْرُ ٱللَّهِ وَهُمْ كَٰرِهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki onlar, bundan önce de fitne ve fesat peşinde koşmuşlar, işini gevşetmeye uğraşıp aleyhine düzenler kurmuşlardı da sonucu gerçek olan yardım vaadi...",
+      "morphology": {
+        "lemma": "ka`rihuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`rihuwn|ROOT:krh|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَٰرِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki onlar, bundan önce de fitne ve fesat peşinde koşmuşlar, işini gevşetmeye uğraşıp aleyhine düzenler kurmuşlardı da sonucu gerçek olan yardım vaadi gelip çatmış ve Allah'ın yaşam sistemini, onların zoruna gitse de meydana çıkmıştı.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 53,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:53",
+      "word_position": 5,
+      "target_word_uthmani": "كَرْهًا",
+      "target_word_rasm": "كرها",
+      "target_word_literal_irab": "Gönüllü yönelişin (طَوْعًا) karşıtı olarak irade dışı zorunluluk veya gönülsüzlük (كَرْهًا — fethalı isim)",
+      "context_snippet_arabic": "أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًا لَّن يُتَقَبَّلَ مِنكُمْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: İster gönül rızasiyle, ister zorla ve istemeyerek sığınak mercii (ilâh) uğrunda mal harcedin, kesin olarak bu harcayışınız kabul edilmeyecek, şüphe yok...",
+      "morphology": {
+        "lemma": "karoh",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:karoh|ROOT:krh|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًا لَّن يُتَقَبَّلَ مِنكُمْ إِنَّكُمْ كُنتُمْ قَوْمًا فَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: İster gönül rızasiyle, ister zorla ve istemeyerek sığınak mercii (ilâh) uğrunda mal harcedin, kesin olarak bu harcayışınız kabul edilmeyecek, şüphe yok ki siz, buyruktan çıkmış kötü bir topluluksunuz.",
+      "contextual_meaning": "Gönüllü ↔ zorunlu (طَوْعًا وَكَرْهًا) kozmik ve iradi yasası: evrenin yasaya boyun eğişi ve gönülsüz harcamanın geçersizliği."
+    },
+    {
+      "surah": 9,
+      "ayah": 54,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:54",
+      "word_position": 22,
+      "target_word_uthmani": "كَٰرِهُونَ",
+      "target_word_rasm": "كرهون",
+      "target_word_literal_irab": "Hakikate, infaka veya elçinin çağrısına karşı gönülsüz ve isteksiz duranlar (كَٰرِهُونَ / كَٰرِهِينَ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "يُنفِقُونَ إِلَّا وَهُمْ كَٰرِهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Mal harcayışlarının kabulüne mani olan da ancak onların Allah'ı ve elçisini gerçeğin üzerini örtüp gerçeğin üzerini örten oluşları, irtibat bağını, ancak üşene...",
+      "morphology": {
+        "lemma": "ka`rihuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`rihuwn|ROOT:krh|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَٰتُهُمْ إِلَّآ أَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأْتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمْ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمْ كَٰرِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mal harcayışlarının kabulüne mani olan da ancak onların Allah'ı ve elçisini gerçeğin üzerini örtüp gerçeğin üzerini örten oluşları, irtibat bağını, ancak üşene üşene kılışları ve zorla, istemeyerek sığınak mercii (ilâh) uğrunda mallarını verişleridir.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 81,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:81",
+      "word_position": 7,
+      "target_word_uthmani": "وَكَرِهُوٓا۟",
+      "target_word_rasm": "وكرهوا",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın elçisine muhalefet edenler, savaşa çıkmayıp oldukları yerde oturup kalmalarına sevindiler ve mallarıyla, canlarıyla, Allah yolunda savaşmak, onlara...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MP"
+      },
+      "ayah_text_arabic_full": "فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا لَّوْ كَانُوا۟ يَفْقَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın elçisine muhalefet edenler, savaşa çıkmayıp oldukları yerde oturup kalmalarına sevindiler ve mallarıyla, canlarıyla, Allah yolunda savaşmak, onlara zor ve kötü geldi de bu sıcakta savaşa çıkmayın dediler. De ki: yakıcı yıkım yurdu ateşi, daha da sıcak; bir anlasalar şunu.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 10,
+      "ayah": 82,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:82",
+      "word_position": 6,
+      "target_word_uthmani": "كَرِهَ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Suçluların zoruna gitse de Allah, sözleriyle gerçeğin gerçek olduğunu izhar eder.",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Suçluların zoruna gitse de Allah, sözleriyle gerçeğin gerçek olduğunu izhar eder.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 10,
+      "ayah": 99,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:99",
+      "word_position": 11,
+      "target_word_uthmani": "تُكْرِهُ",
+      "target_word_rasm": "تكره",
+      "target_word_literal_irab": "Dış baskı uygulayarak bir kimseyi rızası dışında bir şeye zorlamak / zorlanmak (تُكْرِهُ / أُكْرِهَ / أَكْرَهْتَنَا / تُكْرِهُوا۟ / يُكْرِههُّنَّ — Bab IV fiil)",
+      "context_snippet_arabic": "كُلُّهُمْ جَمِيعًا أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Rabbin dileseydi yeryüzünde bulunanların hepsi de güven duy. Artık güven duy diye insanları zorlayıp duracak mısın?",
+      "morphology": {
+        "lemma": ">ukoriha",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ukoriha|ROOT:krh|3FS"
+      },
+      "ayah_text_arabic_full": "وَلَوْ شَآءَ رَبُّكَ لَءَامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin dileseydi yeryüzünde bulunanların hepsi de güven duy. Artık güven duy diye insanları zorlayıp duracak mısın?",
+      "contextual_meaning": "İkrâh (dış baskı ve zorlama) yasası: inanç seçiminde ve genç kadınlar üzerinde zorlamanın kesin yasağı; zorlanan kişinin mazuriyeti."
+    },
+    {
+      "surah": 11,
+      "ayah": 28,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:28",
+      "word_position": 19,
+      "target_word_uthmani": "كَٰرِهُونَ",
+      "target_word_rasm": "كرهون",
+      "target_word_literal_irab": "Hakikate, infaka veya elçinin çağrısına karşı gönülsüz ve isteksiz duranlar (كَٰرِهُونَ / كَٰرِهِينَ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَٰرِهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Nuh, ey kavmim dedi, ya ben Rabbimden apaçık bir delille gelmişsem ve katından bana bir rahmet vermişse, fakat bunu, siz görmüyorsanız. İstemediğiniz halde...",
+      "morphology": {
+        "lemma": "ka`rihuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`rihuwn|ROOT:krh|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةً مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَٰرِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh, ey kavmim dedi, ya ben Rabbimden apaçık bir delille gelmişsem ve katından bana bir rahmet vermişse, fakat bunu, siz görmüyorsanız. İstemediğiniz halde kabul etmeniz için de sizi zorlayacak mıyım ki?",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 13,
+      "ayah": 15,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:15",
+      "word_position": 8,
+      "target_word_uthmani": "وَكَرْهًا",
+      "target_word_rasm": "وكرها",
+      "target_word_literal_irab": "Gönüllü yönelişin (طَوْعًا) karşıtı olarak irade dışı zorunluluk veya gönülsüzlük (كَرْهًا — fethalı isim)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yeryüzünde ne varsa, sabah ve akşam, isteristemez, kendileri de, gölgeleri de Allah'a boyun eğme ve teslimiyet eder.",
+      "morphology": {
+        "lemma": "karoh",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:karoh|ROOT:krh|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yeryüzünde ne varsa, sabah ve akşam, isteristemez, kendileri de, gölgeleri de Allah'a boyun eğme ve teslimiyet eder.",
+      "contextual_meaning": "Gönüllü ↔ zorunlu (طَوْعًا وَكَرْهًا) kozmik ve iradi yasası: evrenin yasaya boyun eğişi ve gönülsüz harcamanın geçersizliği."
+    },
+    {
+      "surah": 16,
+      "ayah": 62,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:62",
+      "word_position": 4,
+      "target_word_uthmani": "يَكْرَهُونَ",
+      "target_word_rasm": "يكرهون",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a, kendilerinin bile hoşlanmadıkları şeyleri atfederler ve dilleri de güzel ve hayırlı sonucun kendilerine mukadder olduğunu yalan yere söyler durur. Hiç...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:kariha|ROOT:krh|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفْرَطُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a, kendilerinin bile hoşlanmadıkları şeyleri atfederler ve dilleri de güzel ve hayırlı sonucun kendilerine mukadder olduğunu yalan yere söyler durur. Hiç şüphe yok ki onlarındır ateş ve tezcek, herkesten önce onlar girerler ateşe.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 16,
+      "ayah": 106,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:106",
+      "word_position": 9,
+      "target_word_uthmani": "أُكْرِهَ",
+      "target_word_rasm": "أكره",
+      "target_word_literal_irab": "Dış baskı uygulayarak bir kimseyi rızası dışında bir şeye zorlamak / zorlanmak (تُكْرِهُ / أُكْرِهَ / أَكْرَهْتَنَا / تُكْرِهُوا۟ / يُكْرِههُّنَّ — Bab IV fiil)",
+      "context_snippet_arabic": "إِيمَٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَٰنِ",
+      "context_snippet_turkish_tabula_rasa": "Canla, gönülle güven duy ve yüreği, güven duy yatışmışken zorla, cebirle, istemediği halde yaşam sisteminden döndüğünü söyleyenden başka güven duy sonra...",
+      "morphology": {
+        "lemma": ">ukoriha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(IV)|LEM:>ukoriha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Canla, gönülle güven duy ve yüreği, güven duy yatışmışken zorla, cebirle, istemediği halde yaşam sisteminden döndüğünü söyleyenden başka güven duy sonra Allah'ı gerçeğin üzerini örten, hatta gerçeğin üzerini örten yüreği genişleyen, hoşlanan kişi yok mu, bu çeşit kişileredir Allah'ın gazabı ve onlara pek büyük bir azap var.",
+      "contextual_meaning": "İkrâh (dış baskı ve zorlama) yasası: inanç seçiminde ve genç kadınlar üzerinde zorlamanın kesin yasağı; zorlanan kişinin mazuriyeti."
+    },
+    {
+      "surah": 17,
+      "ayah": 38,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:38",
+      "word_position": 7,
+      "target_word_uthmani": "مَكْرُوهًا",
+      "target_word_rasm": "مكروها",
+      "target_word_literal_irab": "Rab katında hoşnut olunmayan, itici bulunan kötü tutum ve eylem (مَكْرُوهًا — Bab I ism-i mef'ûl: 17:38)",
+      "context_snippet_arabic": "سَيِّئُهُۥ عِندَ رَبِّكَ مَكْرُوهًا",
+      "context_snippet_turkish_tabula_rasa": "Bunların hepsi de kötüdür ve Rabbinin katında hoşa gitmiyen şeylerdir.",
+      "morphology": {
+        "lemma": "makoruwh",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:makoruwh|ROOT:krh|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُۥ عِندَ رَبِّكَ مَكْرُوهًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunların hepsi de kötüdür ve Rabbinin katında hoşa gitmiyen şeylerdir.",
+      "contextual_meaning": "Ahlaki ve içsel hoşnutsuzluk: insana ağır gelen şeyde hayır olabilmesi, kadınların zorla miras alınma yasağı, kötülüğün itici kılınması ve gıybetten tiksinme."
+    },
+    {
+      "surah": 20,
+      "ayah": 73,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:73",
+      "word_position": 8,
+      "target_word_uthmani": "أَكْرَهْتَنَا",
+      "target_word_rasm": "أكرهتنا",
+      "target_word_literal_irab": "Dış baskı uygulayarak bir kimseyi rızası dışında bir şeye zorlamak / zorlanmak (تُكْرِهُ / أُكْرِهَ / أَكْرَهْتَنَا / تُكْرِهُوا۟ / يُكْرِههُّنَّ — Bab IV fiil)",
+      "context_snippet_arabic": "لَنَا خَطَٰيَٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de biz, hatalarımızı ve bize zorla yaptırdığın büyüden dolayı girdiğimiz sapma ve kusurları yarlıgaması için güvene erdik Rabbimize ve Allah, daha...",
+      "morphology": {
+        "lemma": ">ukoriha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>ukoriha|ROOT:krh|2MS"
+      },
+      "ayah_text_arabic_full": "إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ وَٱللَّهُ خَيْرٌ وَأَبْقَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de biz, hatalarımızı ve bize zorla yaptırdığın büyüden dolayı girdiğimiz sapma ve kusurları yarlıgaması için güvene erdik Rabbimize ve Allah, daha hayırlıdır, verdiği karşılık da daha sürekli.",
+      "contextual_meaning": "İkrâh (dış baskı ve zorlama) yasası: inanç seçiminde ve genç kadınlar üzerinde zorlamanın kesin yasağı; zorlanan kişinin mazuriyeti."
+    },
+    {
+      "surah": 23,
+      "ayah": 70,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:70",
+      "word_position": 10,
+      "target_word_uthmani": "كَٰرِهُونَ",
+      "target_word_rasm": "كرهون",
+      "target_word_literal_irab": "Hakikate, infaka veya elçinin çağrısına karşı gönülsüz ve isteksiz duranlar (كَٰرِهُونَ / كَٰرِهِينَ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa onda delilik var mı derler? Hayır, o, gerçek olan Kur'an'la gelmiştir onlara, fakat çoğu gerçeği istemez.",
+      "morphology": {
+        "lemma": "ka`rihuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`rihuwn|ROOT:krh|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa onda delilik var mı derler? Hayır, o, gerçek olan Kur'an'la gelmiştir onlara, fakat çoğu gerçeği istemez.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 29,
+      "target_word_uthmani": "تُكْرِهُوا۟",
+      "target_word_rasm": "تكرهوا",
+      "target_word_literal_irab": "Dış baskı uygulayarak bir kimseyi rızası dışında bir şeye zorlamak / zorlanmak (تُكْرِهُ / أُكْرِهَ / أَكْرَهْتَنَا / تُكْرِهُوا۟ / يُكْرِههُّنَّ — Bab IV fiil)",
+      "context_snippet_arabic": "ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ",
+      "context_snippet_turkish_tabula_rasa": "Evlenmeye güçleri yetmeyenler de Allah, onları lutfuyla zengin edinceye dek ırzlarını korusunlar. Köle ve cariyelerinizden, bir müddet içinde birden veya...",
+      "morphology": {
+        "lemma": ">ukoriha",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ukoriha|ROOT:krh|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenmeye güçleri yetmeyenler de Allah, onları lutfuyla zengin edinceye dek ırzlarını korusunlar. Köle ve cariyelerinizden, bir müddet içinde birden veya taksitle bir mal veya para karşılığı azat olmak isteyenlerin dileklerini de, bunda bir hayır olduğunu bilirseniz kabul edin ve onlara, Allah'ın size verdiği maldan verin. Cariyelerinizi, onlar da namuslu yaşamayı istedikleri halde, geçici dünya malı için kötülük yapmaya mecbur etmeyin. Zorla kötülüğe sevkedildikten sonra da şüphe yok ki Allah, onların suçlarını örter, rahimdir.",
+      "contextual_meaning": "İkrâh (dış baskı ve zorlama) yasası: inanç seçiminde ve genç kadınlar üzerinde zorlamanın kesin yasağı; zorlanan kişinin mazuriyeti."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 41,
+      "target_word_uthmani": "يُكْرِههُّنَّ",
+      "target_word_rasm": "يكرههن",
+      "target_word_literal_irab": "Dış baskı uygulayarak bir kimseyi rızası dışında bir şeye zorlamak / zorlanmak (تُكْرِهُ / أُكْرِهَ / أَكْرَهْتَنَا / تُكْرِهُوا۟ / يُكْرِههُّنَّ — Bab IV fiil)",
+      "context_snippet_arabic": "ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ",
+      "context_snippet_turkish_tabula_rasa": "Evlenmeye güçleri yetmeyenler de Allah, onları lutfuyla zengin edinceye dek ırzlarını korusunlar. Köle ve cariyelerinizden, bir müddet içinde birden veya...",
+      "morphology": {
+        "lemma": ">ukoriha",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ukoriha|ROOT:krh|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenmeye güçleri yetmeyenler de Allah, onları lutfuyla zengin edinceye dek ırzlarını korusunlar. Köle ve cariyelerinizden, bir müddet içinde birden veya taksitle bir mal veya para karşılığı azat olmak isteyenlerin dileklerini de, bunda bir hayır olduğunu bilirseniz kabul edin ve onlara, Allah'ın size verdiği maldan verin. Cariyelerinizi, onlar da namuslu yaşamayı istedikleri halde, geçici dünya malı için kötülük yapmaya mecbur etmeyin. Zorla kötülüğe sevkedildikten sonra da şüphe yok ki Allah, onların suçlarını örter, rahimdir.",
+      "contextual_meaning": "İkrâh (dış baskı ve zorlama) yasası: inanç seçiminde ve genç kadınlar üzerinde zorlamanın kesin yasağı; zorlanan kişinin mazuriyeti."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 46,
+      "target_word_uthmani": "إِكْرَٰهِهِنَّ",
+      "target_word_rasm": "إكرههن",
+      "target_word_literal_irab": "İnanç/hayat düzeni seçiminde veya cinsel sömürüde dışarıdan baskı ve zorlama (إِكْرَاهَ / إِكْرَٰهِهِنَّ — Bab IV masdar: 2:256, 24:33)",
+      "context_snippet_arabic": "ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Evlenmeye güçleri yetmeyenler de Allah, onları lutfuyla zengin edinceye dek ırzlarını korusunlar. Köle ve cariyelerinizden, bir müddet içinde birden veya...",
+      "morphology": {
+        "lemma": "<ikoraAh",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<ikoraAh|ROOT:krh|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenmeye güçleri yetmeyenler de Allah, onları lutfuyla zengin edinceye dek ırzlarını korusunlar. Köle ve cariyelerinizden, bir müddet içinde birden veya taksitle bir mal veya para karşılığı azat olmak isteyenlerin dileklerini de, bunda bir hayır olduğunu bilirseniz kabul edin ve onlara, Allah'ın size verdiği maldan verin. Cariyelerinizi, onlar da namuslu yaşamayı istedikleri halde, geçici dünya malı için kötülük yapmaya mecbur etmeyin. Zorla kötülüğe sevkedildikten sonra da şüphe yok ki Allah, onların suçlarını örter, rahimdir.",
+      "contextual_meaning": "İkrâh (dış baskı ve zorlama) yasası: inanç seçiminde ve genç kadınlar üzerinde zorlamanın kesin yasağı; zorlanan kişinin mazuriyeti."
+    },
+    {
+      "surah": 40,
+      "ayah": 14,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:14",
+      "word_position": 7,
+      "target_word_uthmani": "كَرِهَ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "لَهُ ٱلدِّينَ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Artık, yaşam sisteminde, özünüzü tamamıyla ona bağlıyarak çağırın Allah'ı gerçeğin üzerini örtenler istemese de.",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "فَٱدْعُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık, yaşam sisteminde, özünüzü tamamıyla ona bağlıyarak çağırın Allah'ı gerçeğin üzerini örtenler istemese de.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 41,
+      "ayah": 11,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:11",
+      "word_position": 13,
+      "target_word_uthmani": "كَرْهًا",
+      "target_word_rasm": "كرها",
+      "target_word_literal_irab": "Gönüllü yönelişin (طَوْعًا) karşıtı olarak irade dışı zorunluluk veya gönülsüzlük (كَرْهًا — fethalı isim)",
+      "context_snippet_arabic": "ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra bir duman halinde olan göğü yaratmayı hükmetmiştir de ona ve yeryüzüne, dileyerekdilemeyerek meydana gelin demiştir, ikisi de, dileyerek geldik...",
+      "morphology": {
+        "lemma": "karoh",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:karoh|ROOT:krh|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra bir duman halinde olan göğü yaratmayı hükmetmiştir de ona ve yeryüzüne, dileyerekdilemeyerek meydana gelin demiştir, ikisi de, dileyerek geldik demişlerdir.",
+      "contextual_meaning": "Gönüllü ↔ zorunlu (طَوْعًا وَكَرْهًا) kozmik ve iradi yasası: evrenin yasaya boyun eğişi ve gönülsüz harcamanın geçersizliği."
+    },
+    {
+      "surah": 43,
+      "ayah": 78,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:78",
+      "word_position": 7,
+      "target_word_uthmani": "كَٰرِهُونَ",
+      "target_word_rasm": "كرهون",
+      "target_word_literal_irab": "Hakikate, infaka veya elçinin çağrısına karşı gönülsüz ve isteksiz duranlar (كَٰرِهُونَ / كَٰرِهِينَ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "وَلَٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَٰرِهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki size gerçeği gönderdik ve fakat çoğunuz gerçeği hoş görmüyor, istemiyordunuz.",
+      "morphology": {
+        "lemma": "ka`rihuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`rihuwn|ROOT:krh|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَقَدْ جِئْنَٰكُم بِٱلْحَقِّ وَلَٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَٰرِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki size gerçeği gönderdik ve fakat çoğunuz gerçeği hoş görmüyor, istemiyordunuz.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 46,
+      "ayah": 15,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:15",
+      "word_position": 7,
+      "target_word_uthmani": "كُرْهًا",
+      "target_word_rasm": "كرها",
+      "target_word_literal_irab": "Fiziksel çıpa: Annenin hamilelik ve doğumda çektiği ağır bedensel zahmet (كُرْهًا — dammeli isim: 46:15)",
+      "context_snippet_arabic": "إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... anası, onu zahmetle taşımıştır ve zahmetle doğurmuştur ve gebelik müddetiyle sütten kesilme müddeti, otuz ayı tutar; sonunda ergenlik çağına gelmiştir ve kırk yaşına ermiştir de demiştir ki: ...",
+      "morphology": {
+        "lemma": "kuroh",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:kuroh|ROOT:krh|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, insana, anasınababasına iyilik etmesini emrettik; anası, onu zahmetle taşımıştır ve zahmetle doğurmuştur ve gebelik müddetiyle sütten kesilme müddeti, otuz ayı tutar; sonunda ergenlik çağına gelmiştir ve kırk yaşına ermiştir de demiştir ki: Rabbim, bana da, anamababama da verdiğin nimetine karşı şükretmeyi nasip ve müyesser et bana ve soyumdan gelenleri de doğru ve düzgün kişiler yap da hoşnut ol benden; şüphe yok ki tövbe ettim sana ve şüphe yok ki teslim olanlardanım, emrine uyanlardanım ben.",
+      "contextual_meaning": "Bedensel zahmet çıpası (كُرْهًا): annenin çocuğunu ağır zahmetle taşıyıp ağır zahmetle doğurması."
+    },
+    {
+      "surah": 46,
+      "ayah": 15,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:15",
+      "word_position": 9,
+      "target_word_uthmani": "كُرْهًا",
+      "target_word_rasm": "كرها",
+      "target_word_literal_irab": "Fiziksel çıpa: Annenin hamilelik ve doğumda çektiği ağır bedensel zahmet (كُرْهًا — dammeli isim: 46:15)",
+      "context_snippet_arabic": "أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ",
+      "context_snippet_turkish_tabula_rasa": "... anası, onu zahmetle taşımıştır ve zahmetle doğurmuştur ve gebelik müddetiyle sütten kesilme müddeti, otuz ayı tutar; sonunda ergenlik çağına gelmiştir ve kırk yaşına ermiştir de demiştir ki: ...",
+      "morphology": {
+        "lemma": "kuroh",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:kuroh|ROOT:krh|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, insana, anasınababasına iyilik etmesini emrettik; anası, onu zahmetle taşımıştır ve zahmetle doğurmuştur ve gebelik müddetiyle sütten kesilme müddeti, otuz ayı tutar; sonunda ergenlik çağına gelmiştir ve kırk yaşına ermiştir de demiştir ki: Rabbim, bana da, anamababama da verdiğin nimetine karşı şükretmeyi nasip ve müyesser et bana ve soyumdan gelenleri de doğru ve düzgün kişiler yap da hoşnut ol benden; şüphe yok ki tövbe ettim sana ve şüphe yok ki teslim olanlardanım, emrine uyanlardanım ben.",
+      "contextual_meaning": "Bedensel zahmet çıpası (كُرْهًا): annenin çocuğunu ağır zahmetle taşıyıp ağır zahmetle doğurması."
+    },
+    {
+      "surah": 47,
+      "ayah": 9,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:9",
+      "word_position": 3,
+      "target_word_uthmani": "كَرِهُوا۟",
+      "target_word_rasm": "كرهوا",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Bu da, Allah'ın indirdiğine hoşlanmadıklarındandır, artık o da, yaptıklarını mahvetmektedir.",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MP"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَٰلَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu da, Allah'ın indirdiğine hoşlanmadıklarındandır, artık o da, yaptıklarını mahvetmektedir.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 47,
+      "ayah": 26,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:26",
+      "word_position": 5,
+      "target_word_uthmani": "كَرِهُوا۟",
+      "target_word_rasm": "كرهوا",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Bu, böyledir; çünkü onlar, Allah'ın indirdiği şeyden hoşlanmayanlara, biz demişlerdir, bazı işlerde size itaat edeceğiz ve Allah'sa onların gizlice...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MP"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, böyledir; çünkü onlar, Allah'ın indirdiği şeyden hoşlanmayanlara, biz demişlerdir, bazı işlerde size itaat edeceğiz ve Allah'sa onların gizlice konuştuklarını bilmektedir.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 47,
+      "ayah": 28,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:28",
+      "word_position": 7,
+      "target_word_uthmani": "وَكَرِهُوا۟",
+      "target_word_rasm": "وكرهوا",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "مَآ أَسْخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضْوَٰنَهُۥ فَأَحْبَطَ أَعْمَٰلَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Bu, böyledir, çünkü onlar, Allah'ın gazap ettiği şeylere uymuşlar ve razılığından hoşlanmamışlardır da o da, yaptıklarını mahvetmektedir.",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MP"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَآ أَسْخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضْوَٰنَهُۥ فَأَحْبَطَ أَعْمَٰلَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, böyledir, çünkü onlar, Allah'ın gazap ettiği şeylere uymuşlar ve razılığından hoşlanmamışlardır da o da, yaptıklarını mahvetmektedir.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 49,
+      "ayah": 7,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:7",
+      "word_position": 21,
+      "target_word_uthmani": "وَكَرَّهَ",
+      "target_word_rasm": "وكره",
+      "target_word_literal_irab": "Sapmayı ve başkaldırıyı kalbe itici ve sevimsiz kılmak (وَكَرَّهَ — Bab II fiil: 49:7)",
+      "context_snippet_arabic": "وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ",
+      "context_snippet_turkish_tabula_rasa": "Ve bilin ki içinizde Allah'ın elçiyi var; işlerin çoğunda size itaat etseydi sapma ve kusura girer, helak olurdunuz ve fakat Allah, size güven duy sevdirdi ve...",
+      "morphology": {
+        "lemma": "kar~aha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:kar~aha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ لَوْ يُطِيعُكُمْ فِى كَثِيرٍ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bilin ki içinizde Allah'ın elçiyi var; işlerin çoğunda size itaat etseydi sapma ve kusura girer, helak olurdunuz ve fakat Allah, size güven duy sevdirdi ve gönüllerinizde bezedi onu ve çirkin gösterdi size gerçeğin üzerini örten ve buyruktan çıkmayı ve isyanı; işte onlardır en güzel işlerde başarı kazananlar.",
+      "contextual_meaning": "Ahlaki ve içsel hoşnutsuzluk: insana ağır gelen şeyde hayır olabilmesi, kadınların zorla miras alınma yasağı, kötülüğün itici kılınması ve gıybetten tiksinme."
+    },
+    {
+      "surah": 49,
+      "ayah": 12,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:12",
+      "word_position": 25,
+      "target_word_uthmani": "فَكَرِهْتُمُوهُ",
+      "target_word_rasm": "فكرهتموه",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, sakının fazla şüphe etmekten, şüphe yok ki bazı zan ve şüpheler suçtur ve ayıplarınızı, gizli işleri arayıp gözetmeyin ve bir kısmınız, bir...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, sakının fazla şüphe etmekten, şüphe yok ki bazı zan ve şüpheler suçtur ve ayıplarınızı, gizli işleri arayıp gözetmeyin ve bir kısmınız, bir kısmınızın gıyabında kötülüğünü de söylemesin; biriniz, ölü kardeşinin etini yemeyi sever mi? Tiksindiniz, değil mi? Ve çekinin Allah'tan, şüphe yok ki Allah, tövbeleri kabul eder, rahimdir.",
+      "contextual_meaning": "Ahlaki ve içsel hoşnutsuzluk: insana ağır gelen şeyde hayır olabilmesi, kadınların zorla miras alınma yasağı, kötülüğün itici kılınması ve gıybetten tiksinme."
+    },
+    {
+      "surah": 61,
+      "ayah": 8,
+      "surah_name": "Saff",
+      "ayah_ref": "61:8",
+      "word_position": 10,
+      "target_word_uthmani": "كَرِهَ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah nurunu, ağızlarıyla üfleyip söndürmek isterler ve Allah'sa nurunu tamamlayacak, kuvvetlendirecektir ve isterse gerçeğin üzerini örtenlerin zoruna gitsin,...",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah nurunu, ağızlarıyla üfleyip söndürmek isterler ve Allah'sa nurunu tamamlayacak, kuvvetlendirecektir ve isterse gerçeğin üzerini örtenlerin zoruna gitsin, istemesinler.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    },
+    {
+      "surah": 61,
+      "ayah": 9,
+      "surah_name": "Saff",
+      "ayah_ref": "61:9",
+      "word_position": 13,
+      "target_word_uthmani": "كَرِهَ",
+      "target_word_rasm": "كره",
+      "target_word_literal_irab": "Bir şeyi rızasına aykırı bulup hoşlanmamak, ağır bulmak veya tiksinmek (كَرِهَ / تَكْرَهُوا۟ / كَرِهُوا۟ / فَكَرِهْتُمُوهُ — Bab I fiil)",
+      "context_snippet_arabic": "ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "O, bir mabuttur ki elçisini, otoriteyi bölüşüp ortak koşan istemese de yaşam sistemini, bütün dinlere üst olsun diye doğru yolla ve gerçek dinle göndermiştir.",
+      "morphology": {
+        "lemma": "kariha",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kariha|ROOT:krh|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, bir mabuttur ki elçisini, otoriteyi bölüşüp ortak koşan istemese de yaşam sistemini, bütün dinlere üst olsun diye doğru yolla ve gerçek dinle göndermiştir.",
+      "contextual_meaning": "Hakikatten ve sorumluluktan hoşlanmama: karşıtların hoşnutsuzluğuna rağmen Allah'ın nurunu ve gerçeği tamamlaması."
+    }
+  ]
+}
