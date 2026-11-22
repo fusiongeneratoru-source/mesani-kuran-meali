@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 31 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 36 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 31 / 131 Kök (Toplam Mühürlü: 252 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 36 / 131 Kök (Toplam Mühürlü: 257 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -40,11 +40,11 @@
 | 29 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 343 | `ع-ج-ز` | `A-C-Z` | **26** | 25 | 5:31 | Acz, İ'câz ve Acûz (Arka/Alt Gövde, Geride Kalıp Güç Yetirememek ve Kaçarak Çaresiz Bırakamamak) | ✅ **MÜHÜRLÜ** |
 | 30 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 248 | `ب-ل-و` | `B-L-W` | **38** | 35 | 2:49 | Belâ ve İbtilâ (Kullanımla Eskime [Asl 1]; Bolluk ve Darlıkla Gerçek Niteliği Açığa Çıkaran Tarafsız Sınama [Asl 2]) | ✅ **MÜHÜRLÜ** |
 | 31 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 256 | `ر-ي-ب` | `R-Y-B` | **36** | 35 | 2:2 | Reyb ve İrtiyâb (İç Huzuru Bozan, Kaygı ve Töhmet Barındıran Tedirgin Edici Kuşku) | ✅ **MÜHÜRLÜ** |
-| 32 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 207 | `خ-ش-ي` | `H-S-Y` | **48** | 40 | 2:74 | Haşyet (Rank 207! Havf ve Vikâye ile Furûk: bilgiye dayalı derin ürperti ve saygı) | ⏳ *Bekliyor* |
-| 33 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 271 | `ج-ن-ح` | `C-N-H` | **34** | 32 | 2:158 | Cünâh ve Cenâh (İsm/Zenb/Cünâh Furûk üçlüsü: eğilme, kanat ve hukuki sakınca) | ⏳ *Bekliyor* |
-| 34 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 361 | `ف-ج-ر` | `F-C-R` | **24** | 21 | 2:60 | Fücûr ve Fecr (91:8 Vikâye zıttı: yarıp taşmak — şafak, pınar ve ahlaki sınır yıkımı) | ⏳ *Bekliyor* |
-| 35 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 306 | `أ-ف-ك` | `E-F-K` | **30** | 29 | 5:75 | İfk (İfk/İftirâ/Zûr/Kezib Furûku: gerçeği tersyüz edip baş aşağı çevirme) | ⏳ *Bekliyor* |
-| 36 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 631 | `خ-ت-م` | `H-T-M` | **8** | 8 | 2:7 | Hatm ve Hâtem (kalplerin mühürlenmesi mekaniği + 33:40 Hâtemü'n-Nebiyyîn) | ⏳ *Bekliyor* |
+| 32 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 207 | `خ-ش-ي` | `H-S-Y` | **48** | 40 | 2:74 | Haşyet (Yüceliği veya Sonucun Ağırlığını Bilmekten Doğan Saygılı Ürperti ve Çekinme) | ✅ **MÜHÜRLÜ** |
+| 33 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 271 | `ج-ن-ح` | `C-N-H` | **34** | 32 | 2:158 | Cenâh ve Cünâh (İki Yana Açılan Kanat, Barışa Eğilmek ve 25/25 Olumsuzlanan Hukuki Sakınca/Sorumluluk Yükü) | ✅ **MÜHÜRLÜ** |
+| 34 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 361 | `ف-ج-ر` | `F-C-R` | **24** | 21 | 2:60 | Fecr, Tefcîr ve Fücûr (Kapalı Seti Genişçe Yarıp Fışkırmak, Karanlığı Yaran Tan ve Sınır Yırtan Taşkınlık) | ✅ **MÜHÜRLÜ** |
+| 35 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 306 | `أ-ف-ك` | `E-F-K` | **30** | 29 | 5:75 | İfk ve Mü'tefikât (Altını Üstüne Çevirip Tersyüz Etmek, Yönünden Döndürmek ve Büyük Kara Çalma) | ✅ **MÜHÜRLÜ** |
+| 36 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 631 | `خ-ت-م` | `H-T-M` | **8** | 8 | 2:7 | Hatm ve Hâtem (Son Damgayla Kapatıp Kilitlemek, Tescillemek ve Süreci Sonuca Ulaştırmak) | ✅ **MÜHÜRLÜ** |
 | 37 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 402 | `ر-ب-و` | `R-B-W` | **20** | 15 | 2:265 | Ribâ (katlayıp şişiren haksız artış; 30:39 Zekâ [arınma/gelişme payı] zıttı ve toprağın kabarması) | ⏳ *Bekliyor* |
 | 38 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 374 | `ن-ك-ح` | `N-K-H` | **23** | 19 | 2:221 | Nikâh (evlilik sözleşmesi ve hukuki birleşme akdi) | ⏳ *Bekliyor* |
 | 39 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 768 | `ن-ش-ز` | `N-S-Z` | **5** | 4 | 2:259 | Nüşûz (4:34 ve 4:128: hem kadın hem erkek için evlilik bağından baş kaldırıp kopma) | ⏳ *Bekliyor* |
