@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 55 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 110 / 131 Kök (Toplam Mühürlü: 331 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 60 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 115 / 131 Kök (Toplam Mühürlü: 336 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -119,11 +119,11 @@
 | 108 | 3B | Hukuk ve Toplumsal Düzen | 619 | `غ-ن-م` | `G-N-M` | **9** | 9 | 4:94 | Ganem ve Megânim (Yeni Kazanım, Sosyal Adalet Payı ve Koyun Sürüsü) | ✅ **MÜHÜRLÜ** |
 | 109 | 3B | Hukuk ve Toplumsal Düzen | 883 | `ن-ف-ل` | `N-F-L` | **4** | 3 | 8:1 | Nâfile ve Enfâl (Standart Ölçünün Üstündeki Ek Bağış, Çaba ve Kamu Artığı) | ✅ **MÜHÜRLÜ** |
 | 110 | 3B | Hukuk ve Toplumsal Düzen | 665 | `ف-ي-أ` | `F-Y-E` | **7** | 6 | 2:226 | Fey' (Gölgenin Dönüşü, Barışa/Hukuka Dönüş ve Tekel Karşıtı Kamu İadesi) | ✅ **MÜHÜRLÜ** |
-| 111 | 3B | Hukuk ve Toplumsal Düzen | 844 | `ش-و-ر` | `S-W-R` | **4** | 4 | 2:233 | Şûrâ (ortak danışma ve toplumsal karar meşruiyeti) | ⏳ *Bekliyor* |
-| 112 | 3B | Hukuk ve Toplumsal Düzen | 657 | `ت-ر-ف` | `T-R-F` | **8** | 8 | 11:116 | Mütrefîn (toplumları yozlaştıran şımarık aşırı refah sınıfı) | ⏳ *Bekliyor* |
-| 113 | 3B | Hukuk ve Toplumsal Düzen | 372 | `ي-ت-م` | `Y-T-M` | **23** | 22 | 2:83 | Yetîm (tek/korunmasız kalmış birey ve toplumsal dayanışma sorumluluğu) | ⏳ *Bekliyor* |
-| 114 | 3B | Hukuk ve Toplumsal Düzen | 472 | `ف-ق-ر` | `F-K-R` | **14** | 14 | 2:268 | Fakîr (bel kemiği kırılmış/muhtaç; 9:60 Miskîn Furûku ve varoluşsal muhtaçlık) | ⏳ *Bekliyor* |
-| 115 | 3B | Hukuk ve Toplumsal Düzen | 452 | `خ-ب-ث` | `H-B-S` | **16** | 10 | 2:267 | Habîs (Tayyib zıttı: bozuk, çürük, zararlı ve kirli olan) | ⏳ *Bekliyor* |
+| 111 | 3B | Hukuk ve Toplumsal Düzen | 844 | `ش-و-ر` | `S-W-R` | **4** | 4 | 2:233 | Şûrâ ve Teşâvür (Gösterip Açığa Çıkarmak ve Ortak Akılla Karar Damıtmak) | ✅ **MÜHÜRLÜ** |
+| 112 | 3B | Hukuk ve Toplumsal Düzen | 657 | `ت-ر-ف` | `T-R-F` | **8** | 8 | 11:116 | Teref ve Mütref (Aşırı Lüks ve Refahla Şımarıp Adalete Direnen Seçkinler) | ✅ **MÜHÜRLÜ** |
+| 113 | 3B | Hukuk ve Toplumsal Düzen | 372 | `ي-ت-م` | `Y-T-M` | **23** | 22 | 2:83 | Yetîm (Koruyucu Dayanağını Yitirmiş Savunmasız Çocuğun Onur ve Mal Güvencesi) | ✅ **MÜHÜRLÜ** |
+| 114 | 3B | Hukuk ve Toplumsal Düzen | 472 | `ف-ق-ر` | `F-K-R` | **14** | 14 | 2:268 | Fakr ve Fakîr (Omurga Kırığı, Ontolojik Muhtaçlık ve Onurlu Sosyal Dayanışma) | ✅ **MÜHÜRLÜ** |
+| 115 | 3B | Hukuk ve Toplumsal Düzen | 452 | `خ-ب-ث` | `H-B-S` | **16** | 10 | 2:267 | Habîs ve Habâis (Temiz ve Verimli Olanın Karşıtı: Bozuk, Çorak ve Zararlı Nitelik) | ✅ **MÜHÜRLÜ** |
 | 116 | 3B | Hukuk ve Toplumsal Düzen | 584 | `ر-ج-س` | `R-C-S` | **10** | 9 | 5:90 | Rics (Tahâret zıttı: zihinsel, ahlaki ve maddi karmaşa/pislik) | ⏳ *Bekliyor* |
 | 117 | 3B | Hukuk ve Toplumsal Düzen | 385 | `ع-ر-ب` | `A-R-B` | **22** | 22 | 9:90 | Arabî, A'râb ve Urûb (apaçık duru ifade dili, göçebe topluluk ve 56:37) | ⏳ *Bekliyor* |
 | 118 | 3B | Zihin ve Akletme | 425 | `ف-ك-ر` | `F-K-R` | **18** | 18 | 2:219 | Tefekkür (Akl, Tedebbür ve Fıkıh ile Furûk: zihinde derin çözümleme) | ⏳ *Bekliyor* |

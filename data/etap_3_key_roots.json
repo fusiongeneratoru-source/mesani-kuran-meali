@@ -1,11 +1,11 @@
 {
   "package": "Faz 1 - Etap 3 (Faz 2 Öncesi Kafa Karıştıran ve Anlamı Doğrudan Belirleyen 131 Kök)",
   "target_count": 131,
-  "locked_count": 110,
+  "locked_count": 115,
   "tier_3a_target": 55,
   "tier_3a_locked": 55,
   "tier_3b_target": 76,
-  "tier_3b_locked": 55,
+  "tier_3b_locked": 60,
   "total_tokens_in_package": 2979,
   "tokens_3a": 1509,
   "tokens_3b": 1470,
@@ -2236,8 +2236,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Şûrâ (ortak danışma ve toplumsal karar meşruiyeti)",
-      "concept_label": "Analiz Bekliyor (ta$aAwur, $aAwiro, >a$aArato, $uwraY`)",
-      "is_locked": false,
+      "concept_label": "Şûrâ ve Teşâvür (Gösterip Açığa Çıkarmak ve Ortak Akılla Karar Damıtmak)",
+      "is_locked": true,
       "sample_ayah": "2:233",
       "top_lemmas": [
         "ta$aAwur",
@@ -2257,8 +2257,8 @@
       "frequency": 8,
       "unique_ayahs": 8,
       "rationale": "Mütrefîn (toplumları yozlaştıran şımarık aşırı refah sınıfı)",
-      "concept_label": "Analiz Bekliyor (mutorafiyn, >utorifu)",
-      "is_locked": false,
+      "concept_label": "Teref ve Mütref (Aşırı Lüks ve Refahla Şımarıp Adalete Direnen Seçkinler)",
+      "is_locked": true,
       "sample_ayah": "11:116",
       "top_lemmas": [
         "mutorafiyn",
@@ -2276,8 +2276,8 @@
       "frequency": 23,
       "unique_ayahs": 22,
       "rationale": "Yetîm (tek/korunmasız kalmış birey ve toplumsal dayanışma sorumluluğu)",
-      "concept_label": "Analiz Bekliyor (yatiym)",
-      "is_locked": false,
+      "concept_label": "Yetîm (Koruyucu Dayanağını Yitirmiş Savunmasız Çocuğun Onur ve Mal Güvencesi)",
+      "is_locked": true,
       "sample_ayah": "2:83",
       "top_lemmas": [
         "yatiym"
@@ -2294,8 +2294,8 @@
       "frequency": 14,
       "unique_ayahs": 14,
       "rationale": "Fakîr (bel kemiği kırılmış/muhtaç; 9:60 Miskîn Furûku ve varoluşsal muhtaçlık)",
-      "concept_label": "Analiz Bekliyor (faqiyr, faqor, faAqirap)",
-      "is_locked": false,
+      "concept_label": "Fakr ve Fakîr (Omurga Kırığı, Ontolojik Muhtaçlık ve Onurlu Sosyal Dayanışma)",
+      "is_locked": true,
       "sample_ayah": "2:268",
       "top_lemmas": [
         "faqiyr",
@@ -2314,8 +2314,8 @@
       "frequency": 16,
       "unique_ayahs": 10,
       "rationale": "Habîs (Tayyib zıttı: bozuk, çürük, zararlı ve kirli olan)",
-      "concept_label": "Analiz Bekliyor (xabiyv, xabiyvap, xabiyva`t, xabuva)",
-      "is_locked": false,
+      "concept_label": "Habîs ve Habâis (Temiz ve Verimli Olanın Karşıtı: Bozuk, Çorak ve Zararlı Nitelik)",
+      "is_locked": true,
       "sample_ayah": "2:267",
       "top_lemmas": [
         "xabiyv",

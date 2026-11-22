@@ -23324,5 +23324,331 @@
       }
     ],
     "context_default": "Doğru ve barışçıl konuma geri dönmek veya varlığı kamu yararına döndürmek (ف-ي-أ)."
+  },
+  "ش-و-ر": {
+    "buckwalter": "$wr",
+    "slug": "sura_ve_tesavur_gosterip_aciga_cikarmak_ve_ortak_akilla_karar_damitmak_swr",
+    "concept_name": "Şûrâ ve Teşâvür (Gösterip Açığa Çıkarmak ve Ortak Akılla Karar Damıtmak)",
+    "keywords": [
+      "şura",
+      "teşavür",
+      "istişare",
+      "ortak akıl",
+      "aile içi danışma",
+      "katılımcı yönetim",
+      "işaret etmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">a$aArato",
+        "label": "Somut işaretle gösterme: Meryem'in el işaretiyle dikkatleri beşikteki çocuğa yöneltmesi (فَأَشَارَتْ إِلَيْهِ — Bab IV fiil: 19:29)"
+      },
+      {
+        "lemma": "ta$aAwur",
+        "label": "Aile içi karşılıklı danışma: Anne-babanın çocuk kararını karşılıklı rıza ve müzakereyle alması (عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ — Bab VI masdar: 2:233)"
+      },
+      {
+        "lemma": "$aAwiro",
+        "label": "Liderlikte danışma emri: Kriz anında dahi toplumsal işlerde insanlarla karşılıklı görüş alışverişi yapma emri (وَشَاوِرْهُمْ فِى ٱلْأَمْرِ — Bab III emir: 3:159)"
+      },
+      {
+        "lemma": "$uwraY`",
+        "label": "Kurucu toplumsal yönetişim ilkesi: Ortak işlerin tek kişinin dayatmasıyla değil aralarında danışmayla yürütülmesi (وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ — 42:38)"
+      }
+    ],
+    "irab_default": "Bir şeyi işaretle göstermek veya bal sağar gibi karşılıklı danışmayla en isabetli ortak kararı damıtmak (ش-و-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "19:29"
+        ],
+        "text": "Bir şeye yönelip el hareketiyle onu açığa çıkarıp gösterme somut çıpası."
+      },
+      {
+        "ayahs": [
+          "2:233",
+          "3:159",
+          "42:38"
+        ],
+        "text": "Ailede eşler arası müzakereden toplum yönetimine kadar tek adam keyfîliğini reddeden ortak akıl (شُورَىٰ) ilkesi."
+      }
+    ],
+    "context_default": "İşaretle göstermek veya karşılıklı danışmayla ortak akıl üretmek (ش-و-ر)."
+  },
+  "ت-ر-ف": {
+    "buckwalter": "trf",
+    "slug": "teref_ve_mutref_asiri_luks_ve_refahla_simarip_adalete_direnen_seckinler_trf",
+    "concept_name": "Teref ve Mütref (Aşırı Lüks ve Refahla Şımarıp Adalete Direnen Seçkinler)",
+    "keywords": [
+      "teref",
+      "mütref",
+      "şımarık elitler",
+      "refah sarhoşluğu",
+      "statüko direnci",
+      "uygarlık çöküşü"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mutorafiyn",
+        "label": "Şımarık refah elitleri: Aşırı konfor ve ayrıcalıklarını korumak için her uyarıcıya ilk direnen ve kentlerin çöküşünü hızlandıran seçkin zümre (مُتْرَفُوهَآ / مُتْرَفِيهَا — Bab IV ism-i mef'ûl)"
+      },
+      {
+        "lemma": ">utorifu",
+        "label": "Lüks konfor içinde şımarmak: Bolluk ve refah içinde ahlaki sorumluluktan kopup zulme ve çöküşe sürüklenmek (أُتْرِفُوا۟ / أُتْرِفْتُمْ / أَتْرَفْنَٰهُمْ — Bab IV fiil)"
+      }
+    ],
+    "irab_default": "Aşırı bolluk ve lüks konfor içinde şımararak ahlaki sorumluluğu yitirip hakikate direnmek (ت-ر-ف kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "23:33",
+          "34:34",
+          "43:23"
+        ],
+        "text": "Tarih boyunca her hakikat uyarıcısına atalar düzeni adına ilk savaş açan şımarık refah seçkinleri (مُتْرَفُونَ)."
+      },
+      {
+        "ayahs": [
+          "11:116",
+          "17:16",
+          "21:13",
+          "23:64",
+          "56:45"
+        ],
+        "text": "Şımarık elitlerin yoldan çıkmasıyla toplumların çöküşü ve yıkım anında lüks konforun çaresizliği."
+      }
+    ],
+    "context_default": "Lüks ve refah içinde şımarıp adalete ve uyarıcılara direnmek (ت-ر-ف)."
+  },
+  "ي-ت-م": {
+    "buckwalter": "ytm",
+    "slug": "yetim_koruyucu_dayanagini_yitirmis_savunmasiz_cocugun_onur_ve_mal_guvencesi_ytm",
+    "concept_name": "Yetîm (Koruyucu Dayanağını Yitirmiş Savunmasız Çocuğun Onur ve Mal Güvencesi)",
+    "keywords": [
+      "yetim",
+      "yetim malı",
+      "rüşd eşiği",
+      "yetim onuru",
+      "adalet turnusolu",
+      "toplumsal himaye"
+    ],
+    "irab_rules": [
+      {
+        "ayahs": [
+          "4:2",
+          "4:6",
+          "4:10",
+          "6:152",
+          "17:34",
+          "18:82"
+        ],
+        "label": "Yetim malının dokunulmazlığı: Malına yalnızca iyileştirme amacıyla yaklaşmak, haksız yemenin ateş yutmak sayılması ve rüşde erince eksiksiz teslim (مَالَ ٱلْيَتِيمِ / ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ)"
+      },
+      {
+        "ayahs": [
+          "4:3",
+          "4:127"
+        ],
+        "label": "Evlilik ve vesayette adalet şartı: Yetimlerin ve yetim kızların haklarının hiçbir gerekçeyle çiğnenmeyip adaletle korunması (أَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ)"
+      },
+      {
+        "ayahs": [
+          "89:17",
+          "93:6",
+          "93:9",
+          "107:2"
+        ],
+        "label": "İnanç ve insanlık turnusolu: Yetimi ezmemek, onurlandırmak ve itip kakmayı hesap gününü yalanlamakla özdeş saymak (فَلَا تَقْهَرْ / يَدُعُّ ٱلْيَتِيمَ)"
+      },
+      {
+        "lemma": "yatiym",
+        "label": "Dayanışma ve kamu bütçesi hakkı: Bireysel paylaşımda, miras anında ve kamusal fonlarda savunmasız çocuğun öncelikli hakkı (ٱلْيَتَٰمَىٰ / يَتِيمًا)"
+      }
+    ],
+    "irab_default": "Koruyucu dayanağını yitirip tek ve savunmasız kalmış, onuru ve hakkı topluma emanet edilmiş çocuk (ي-ت-م kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:220",
+          "4:2",
+          "4:6",
+          "4:10",
+          "6:152",
+          "17:34",
+          "18:82"
+        ],
+        "text": "Yetim malının en güzel biçimde korunması, iyileştirici bakım (إِصْلَاح) ve rüşd eşiğinde şahitli teslim."
+      },
+      {
+        "ayahs": [
+          "4:3",
+          "4:127",
+          "89:17",
+          "93:6",
+          "93:9",
+          "107:2"
+        ],
+        "text": "Yetim haklarında adalet, yetimi ezmeme ve yetime onur göstermenin samimi inancın somut ölçütü olması."
+      },
+      {
+        "ayahs": [
+          "2:83",
+          "2:177",
+          "2:215",
+          "4:8",
+          "4:36",
+          "8:41",
+          "59:7",
+          "76:8",
+          "90:15"
+        ],
+        "text": "Bireysel paylaşım, kıtlıkta doyurma ve kamusal gelir dağılımında yetimlerin sabit hakkı."
+      }
+    ],
+    "context_default": "Dayanağını yitirmiş savunmasız çocuğun mal, adalet ve onur güvencesi (ي-ت-م)."
+  },
+  "ف-ق-ر": {
+    "buckwalter": "fqr",
+    "slug": "fakr_ve_fakir_omurga_kirigi_ontolojik_muhtaclik_ve_onurlu_sosyal_dayanisma_fqr",
+    "concept_name": "Fakr ve Fakîr (Omurga Kırığı, Ontolojik Muhtaçlık ve Onurlu Sosyal Dayanışma)",
+    "keywords": [
+      "fakr",
+      "fakir",
+      "fakire",
+      "bel kırıcı darbe",
+      "ontolojik muhtaçlık",
+      "onurlu yoksullar",
+      "yoksulluk korkusu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "faAqirap",
+        "label": "Somut anatomik kırılma: Bel omurunu kırıp çökertecek ağırlıkta sarsıcı felaket ve darbe (فَاقِرَةٌ — ism-i fâil: 75:25)"
+      },
+      {
+        "lemma": "faqor",
+        "label": "Yoksulluk korkusu tuzağı: Paylaşımı baltalamak ve bencilliğe sürüklemek için telkin edilen darlık korkusu (يَعِدُكُمُ ٱلْفَقْرَ — masdar: 2:268)"
+      },
+      {
+        "ayahs": [
+          "35:15",
+          "47:38",
+          "28:24",
+          "3:181"
+        ],
+        "label": "Ontolojik muhtaçlık: Allah'ın mutlak yeterliliği (غَنِىّ) karşısında bütün insanların varlıkça O'na muhtaç oluşu (أَنتُمُ ٱلْفُقَرَآءُ إِلَى ٱللَّهِ)"
+      },
+      {
+        "lemma": "faqiyr",
+        "label": "Ekonomik dayanışma ve yargı eşitliği: Onurunu koruyan veya yurdundan sürülen muhtaçların gizli/kamusal destek hakkı ve yargıda tarafsızlık (ٱلْفُقَرَآء / فَقِيرًا)"
+      }
+    ],
+    "irab_default": "Dayanak omurgasında boşluk/kırılma üzerinden ontolojik veya sosyal-ekonomik muhtaçlık (ف-ق-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "75:25"
+        ],
+        "text": "Bel kemiğini kırıp çökerten ağır felaket (فَاقِرَة) somut anatomik çıpası."
+      },
+      {
+        "ayahs": [
+          "3:181",
+          "28:24",
+          "35:15",
+          "47:38"
+        ],
+        "text": "Bütün insanların Allah'a olan ontolojik muhtaçlığı ve Allah'ın mutlak yeterliliği (غَنِىّ)."
+      },
+      {
+        "ayahs": [
+          "2:268",
+          "2:271",
+          "2:273",
+          "4:6",
+          "4:135",
+          "9:60",
+          "22:28",
+          "24:32",
+          "59:8"
+        ],
+        "text": "Yoksulluk korkusunu aşma, onurlu yoksullara gizli ve kamusal sosyal destek ile yargıda zengin-fakir eşitliği."
+      }
+    ],
+    "context_default": "Dayanak kırılması, ontolojik muhtaçlık veya onurlu sosyal destek hakkı (ف-ق-ر)."
+  },
+  "خ-ب-ث": {
+    "buckwalter": "xbv",
+    "slug": "habis_ve_habais_temiz_ve_verimli_olanin_karsiti_bozuk_corak_ve_zararli_nitelik_xbv",
+    "concept_name": "Habîs ve Habâis (Temiz ve Verimli Olanın Karşıtı: Bozuk, Çorak ve Zararlı Nitelik)",
+    "keywords": [
+      "habis",
+      "habais",
+      "tayyib karşıtı",
+      "çorak toprak",
+      "çokluğa aldanmama",
+      "zararlı yasaklar",
+      "köksüz söz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xabuva",
+        "label": "Somut tarımsal çoraklık: Bozuk ve verimsiz toprağın yalnızca cılız ve yararsız ot çıkarması (وَٱلَّذِى خَبُثَ — Bab I fiil: 7:58)"
+      },
+      {
+        "ayahs": [
+          "5:100"
+        ],
+        "label": "Nitelik-nicelik yasası: Bozuk ve değersiz olanın (ٱلْخَبِيث) sayıca çokluğunun onu asla temiz ve kaliteli (ٱلطَّيِّب) ile eşitleyememesi"
+      },
+      {
+        "ayahs": [
+          "2:267",
+          "4:2"
+        ],
+        "label": "Ekonomik dürüstlük: Çürük ve değersiz malı paylaşmaya kalkmamak ve yetimin temiz malını kötüyle değiştirmemek (ٱلْخَبِيثَ)"
+      },
+      {
+        "lemma": "xabiyvap",
+        "label": "Zararlı yasaklar ve köksüz söz: Özü gereği pis/zararlı şeylerin haram kılınması (7:157, 21:74) ve köksüz çürük ağaç gibi bozuk söz (14:26) (ٱلْخَبَٰٓئِثَ / خَبِيثَةٍ)"
+      },
+      {
+        "lemma": "xabiyva`t",
+        "label": "Çirkin söz ve davranışların eşleşmesi: Bozuk ve iftiracı sözlerin/tutumların ancak kendi cinsinden karakterlere yakışması (ٱلْخَبِيثَٰتُ — 24:26)"
+      },
+      {
+        "lemma": "xabiyv",
+        "label": "Arındırıcı ayrışma: Sınamalarla posa/bozuk olanın saf ve temizden ayrıştırılması (3:179, 8:37, 24:26) (ٱلْخَبِيث / ٱلْخَبِيثُونَ)"
+      }
+    ],
+    "irab_default": "Temiz, sağlıklı ve verimli olanın (طَيِّب) tam zıddı olarak bozuk, çorak, değersiz ve zararlı nitelik (خ-ب-ث kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:267",
+          "4:2",
+          "7:58"
+        ],
+        "text": "Çorak verimsiz toprak, çürük malın bağışlanmaması ve yetim malının bozuk malla değiştirilmemesi çıpaları."
+      },
+      {
+        "ayahs": [
+          "5:100",
+          "7:157",
+          "14:26",
+          "21:74"
+        ],
+        "text": "Çokluğun bozukluğu meşrulaştıramaması, pis/zararlı şeylerin yasaklanması ve köksüz bozuk söz örneği."
+      },
+      {
+        "ayahs": [
+          "3:179",
+          "8:37",
+          "24:26"
+        ],
+        "text": "Sınamayla bozuk olanın temizden ayrıştırılması ve çirkin söz/eylemlerin bozuk karakterlerle eşleşmesi."
+      }
+    ],
+    "context_default": "Temiz ve verimli olanın (طَيِّب) zıddı bozuk, değersiz ve zararlı nitelik (خ-ب-ث)."
   }
 }
