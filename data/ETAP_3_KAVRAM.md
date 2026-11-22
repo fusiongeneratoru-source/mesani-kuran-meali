@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 60 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 115 / 131 Kök (Toplam Mühürlü: 336 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 65 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 120 / 131 Kök (Toplam Mühürlü: 341 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -124,11 +124,11 @@
 | 113 | 3B | Hukuk ve Toplumsal Düzen | 372 | `ي-ت-م` | `Y-T-M` | **23** | 22 | 2:83 | Yetîm (Koruyucu Dayanağını Yitirmiş Savunmasız Çocuğun Onur ve Mal Güvencesi) | ✅ **MÜHÜRLÜ** |
 | 114 | 3B | Hukuk ve Toplumsal Düzen | 472 | `ف-ق-ر` | `F-K-R` | **14** | 14 | 2:268 | Fakr ve Fakîr (Omurga Kırığı, Ontolojik Muhtaçlık ve Onurlu Sosyal Dayanışma) | ✅ **MÜHÜRLÜ** |
 | 115 | 3B | Hukuk ve Toplumsal Düzen | 452 | `خ-ب-ث` | `H-B-S` | **16** | 10 | 2:267 | Habîs ve Habâis (Temiz ve Verimli Olanın Karşıtı: Bozuk, Çorak ve Zararlı Nitelik) | ✅ **MÜHÜRLÜ** |
-| 116 | 3B | Hukuk ve Toplumsal Düzen | 584 | `ر-ج-س` | `R-C-S` | **10** | 9 | 5:90 | Rics (Tahâret zıttı: zihinsel, ahlaki ve maddi karmaşa/pislik) | ⏳ *Bekliyor* |
-| 117 | 3B | Hukuk ve Toplumsal Düzen | 385 | `ع-ر-ب` | `A-R-B` | **22** | 22 | 9:90 | Arabî, A'râb ve Urûb (apaçık duru ifade dili, göçebe topluluk ve 56:37) | ⏳ *Bekliyor* |
-| 118 | 3B | Zihin ve Akletme | 425 | `ف-ك-ر` | `F-K-R` | **18** | 18 | 2:219 | Tefekkür (Akl, Tedebbür ve Fıkıh ile Furûk: zihinde derin çözümleme) | ⏳ *Bekliyor* |
-| 119 | 3B | Zihin ve Akletme | 458 | `ف-أ-د` | `F-E-D` | **16** | 15 | 6:110 | Fuâd (Kalp ve Sadr ile Furûk: ateşlenip duygulanan, algılayan canlı iç bilinç) | ⏳ *Bekliyor* |
-| 120 | 3B | Zihin ve Akletme | 387 | `ح-ج-ر` | `H-C-R` | **21** | 18 | 2:24 | Hicr ve Hacer (taş, koruma/yasak sınırı ve 89:5 frenleyici akıl) | ⏳ *Bekliyor* |
+| 116 | 3B | Hukuk ve Toplumsal Düzen | 584 | `ر-ج-س` | `R-C-S` | **10** | 9 | 5:90 | Rics (Akletmemenin Zihinsel Bulanıklığı ve Maddi-Ahlaki Kirlilik) | ✅ **MÜHÜRLÜ** |
+| 117 | 3B | Hukuk ve Toplumsal Düzen | 385 | `ع-ر-ب` | `A-R-B` | **22** | 22 | 9:90 | Arabî ve A'râb (Duru-Apaçık İfade Dili, Göçebe Sosyolojisi ve İçten Uyum) | ✅ **MÜHÜRLÜ** |
+| 118 | 3B | Zihin ve Akletme | 425 | `ف-ك-ر` | `F-K-R` | **18** | 18 | 2:219 | Tefekkür (Evren, Benlik ve Vahiy Üzerinde Bağımsız ve Derin Düşünme) | ✅ **MÜHÜRLÜ** |
+| 119 | 3B | Zihin ve Akletme | 458 | `ف-أ-د` | `F-E-D` | **16** | 15 | 6:110 | Fuâd ve Ef'ide (Duyu Verilerini İşleyen Sıcak İdrak ve Vicdan Merkezi) | ✅ **MÜHÜRLÜ** |
+| 120 | 3B | Zihin ve Akletme | 387 | `ح-ج-ر` | `H-C-R` | **21** | 18 | 2:24 | Hicr, Hacer ve Hucurât (Kuşatıp Engelleme: Kaya, Mahrem Oda ve Frenleyen Akıl) | ✅ **MÜHÜRLÜ** |
 | 121 | 3B | Zihin ve Akletme | 317 | `ي-ق-ن` | `Y-K-N` | **28** | 28 | 2:4 | Yakîn (Zann ve Rayb zıttı: durulup netleşmiş kesin bilgi ve 15:99) | ⏳ *Bekliyor* |
 | 122 | 3B | Zihin ve Akletme | 415 | `ر-ش-د` | `R-S-D` | **19** | 19 | 2:186 | Rüşd (Gayy zıttı: olgunlaşmış doğruluk, isabetli yönetim ve erginlik) | ⏳ *Bekliyor* |
 | 123 | 3B | Zihin ve Akletme | 542 | `س-ف-ه` | `S-F-H` | **11** | 10 | 2:13 | Sefâhat ve Sefîh (hafiflik, tutarsızlık ve zihinsel/ekonomik dengesizlik) | ⏳ *Bekliyor* |
