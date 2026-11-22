@@ -16888,5 +16888,440 @@
       }
     ],
     "context_default": "Son damgayla kapatıp kilitlemek, tescillemek ve sonuca ulaştırmak (خ-ت-م)."
+  },
+  "ر-ب-و": {
+    "buckwalter": "rbw",
+    "slug": "riba_ve_rebiyye_yukari_kabarmak_yetistirmek_ve_emeksiz_sisen_fazlalik_rbw",
+    "concept_name": "Ribâ ve Rabve (Yukarı Kabarıp Yükselmek, Emekle Yetiştirmek ve Emeksiz Şişen Haksız Fazlalık)",
+    "keywords": [
+      "ribâ",
+      "kabarmak",
+      "yükselmek",
+      "yüksek tepe",
+      "yetiştirmek",
+      "büyütmek",
+      "haksız fazlalık",
+      "bereket"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "rabowap",
+        "label": "Fiziksel çıpa: Çevresinden yükselmiş, suyu ve verimi bol yüksek tepe/yayla (بِرَبْوَةٍ / رَبْوَةٍ — isim: 2:265, 23:50)"
+      },
+      {
+        "lemma": "rabato",
+        "ayahs": [
+          "22:5",
+          "41:39"
+        ],
+        "label": "Fiziksel çıpa: Yağmur inince kuruyup sönmüş toprağın canlanıp yukarı kabarması (ٱهْتَزَّتْ وَرَبَتْ — Bab I fiil)"
+      },
+      {
+        "lemma": "r~aAbiy",
+        "label": "Fiziksel çıpa: Selin yüzeyinde boş yere kabarıp şişen köpük (زَبَدًا رَّابِيًا — ism-i fâil: 13:17)"
+      },
+      {
+        "lemma": "r~aAbiyap",
+        "label": "Zulüm karşısında katlanarak ağırlaşıp şiddetlenen yakalayış (أَخْذَةً رَّابِيَةً — sıfat: 69:10)"
+      },
+      {
+        "lemma": "rab~aya",
+        "label": "İnsanı küçüklüğünden alıp şefkat ve emekle büyütüp yetiştirmek (رَبَّيَانِى / نُرَبِّكَ — Bab II fiil: 17:24, 26:18)"
+      },
+      {
+        "lemma": ">arobaY`",
+        "label": "Bir topluluğun ötekinden sayıca veya güççe daha kabarık ve fazla olması (أَرْبَىٰ — ism-i tafdîl: 16:92)"
+      },
+      {
+        "lemma": "r~ibaw`A",
+        "label": "Emek ve değer üretmeksizin borçlunun darlığı üzerinden katlanarak şişirilen haksız fazlalık (ٱلرِّبَوٰا۟ — isim: 2:275-278, 3:130, 4:161)"
+      },
+      {
+        "lemma": "r~ib",
+        "label": "İnsanların malında karşılıksız artış elde etmek için verilen haksız fazlalık (رِّبًا — isim: 30:39)"
+      },
+      {
+        "lemma": "rabato",
+        "ayahs": [
+          "30:39"
+        ],
+        "label": "Malın sömürüyle yapay biçimde artması ama Allah katında gerçek anlamda artmaması (لِّيَرْبُوَا۟ / فَلَا يَرْبُوا۟ — Bab I fiil: 30:39)"
+      }
+    ],
+    "irab_default": "Yukarı doğru kabarmak, büyütüp yetiştirmek veya emeksiz şişen haksız fazlalık (ر-ب-و kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:265",
+          "13:17",
+          "22:5",
+          "23:50",
+          "41:39"
+        ],
+        "text": "Doğada yükseliş ve kabarma çıpaları (رَبْوَة / وَرَبَتْ / زَبَدًا رَّابِيًا): yüksek verimli tepe, yağmurla kabaran toprak ve sel üstünde şişen boş köpük."
+      },
+      {
+        "ayahs": [
+          "17:24",
+          "26:18"
+        ],
+        "text": "Emekle büyütüp yetiştirme (رَبَّيَانِى / نُرَبِّكَ): anne-babanın merhametle yetiştirmesi ve Firavun'un başa kalktığı büyütme."
+      },
+      {
+        "ayahs": [
+          "2:275",
+          "2:276",
+          "2:278",
+          "3:130",
+          "4:161",
+          "30:39"
+        ],
+        "text": "Ribâ ve paylaşım dengesi: emeksiz katlanarak şişen haksız fazlalığın yasaklanması, karşısında meşru alışverişin ve bereketle büyüyen dayanışma paylaşımlarının yükseltilmesi."
+      },
+      {
+        "ayahs": [
+          "16:92",
+          "69:10"
+        ],
+        "text": "Nicelik kabarıklığı ve artan şiddet: daha kalabalık bir topluluğa meyledip sözleşmeyi bozmamak (أَرْبَىٰ) ve katlanarak şiddetlenen yakalayış (أَخْذَةً رَّابِيَةً)."
+      }
+    ],
+    "context_default": "Yukarı doğru kabarmak, büyütmek veya karşılıksız şişen haksız fazlalık (ر-ب-و)."
+  },
+  "ن-ك-ح": {
+    "buckwalter": "nkH",
+    "slug": "nikah_resmi_evlilik_sozlesmesi_ve_mesru_hayat_birligi_nkh",
+    "concept_name": "Nikâh (Aleni Rıza ve Hukuki Sorumluluk Üzerine Kurulan Evlilik Sözleşmesi)",
+    "keywords": [
+      "nikâh",
+      "evlilik sözleşmesi",
+      "evlenmek",
+      "evlendirmek",
+      "evlilik bağı",
+      "olgunluk çağı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nikaAH",
+        "ayahs": [
+          "2:235",
+          "2:237"
+        ],
+        "label": "Hukuki çıpa: Bağlayıcı evlilik sözleşmesi düğümü (عُقْدَةَ ٱلنِّكَاحِ / عُقْدَةُ ٱلنِّكَاحِ — isim)"
+      },
+      {
+        "lemma": "nikaAH",
+        "ayahs": [
+          "4:6"
+        ],
+        "label": "Olgunluk çıpası: Yetimlerin evlilik sözleşmesi ve mali sorumluluk çağına erişmesi (بَلَغُوا۟ ٱلنِّكَاحَ — isim: 4:6)"
+      },
+      {
+        "lemma": "nikaAH",
+        "label": "Meşru evlilik bağı ve aile kurma imkânı (نِكَاحًا — isim: 24:33, 24:60)"
+      },
+      {
+        "lemma": "nakaHa",
+        "ayahs": [
+          "33:49"
+        ],
+        "label": "Kesin tanım çıpası: Henüz bedensel temas olmadan kurulmuş bulunan resmî evlilik akdi (إِذَا نَكَحْتُمُ ... مِن قَبْلِ أَن تَمَسُّوهُنَّ — Bab I fiil: 33:49)"
+      },
+      {
+        "lemma": "nakaHa",
+        "label": "Aleni rıza ve meşru hukuk sınırları içinde evlilik sözleşmesiyle evlenmek (تَنكِحُوا۟ / تَنكِحَ / فَٱنكِحُوا۟ / يَنكِحْنَ — Bab I fiil)"
+      },
+      {
+        "lemma": "tunkiHu",
+        "label": "Bekârların meşru evlilik bağı kurmasını sağlamak ve evlendirmek (تُنكِحُوا۟ / وَأَنكِحُوا۟ / أُنكِحَكَ — Bab IV fiil: 2:221, 24:32, 28:27)"
+      },
+      {
+        "lemma": "yasotankiHa",
+        "label": "Bir kadınla meşru evlilik sözleşmesi kurmayı dilemek (يَسْتَنكِحَهَا — Bab X fiil: 33:50)"
+      }
+    ],
+    "irab_default": "Aleni rıza ve karşılıklı hukuki sorumlulukla evlilik sözleşmesi kurmak (ن-ك-ح kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:235",
+          "2:237",
+          "33:49"
+        ],
+        "text": "Hukuki sözleşme çıpası (عُقْدَةُ ٱلنِّكَاحِ ve temas öncesi nikâh): nikâhın cinsel temas değil, doğrudan bağlayıcı evlilik akdi olduğu."
+      },
+      {
+        "ayahs": [
+          "4:6"
+        ],
+        "text": "Evlilik ve mali rüşd olgunluğu (بَلَغُوا۟ ٱلنِّكَاحَ): yetimlerin sorumluluk çağına eriştiğinde sınanarak mallarının teslimi."
+      },
+      {
+        "ayahs": [
+          "2:221",
+          "2:230",
+          "2:232",
+          "4:3",
+          "4:22",
+          "4:25",
+          "4:127",
+          "24:3",
+          "33:50",
+          "33:53",
+          "60:10"
+        ],
+        "text": "Evlilik hukuku sınırları ve rıza: kadınların evlilik iradesinin engellenmemesi, yasaklı evlilik sınırları ve değer uyumunun gözetilmesi."
+      },
+      {
+        "ayahs": [
+          "24:32",
+          "24:33",
+          "24:60",
+          "28:27"
+        ],
+        "text": "Toplumsal destek ve iffet: bekârların evlendirilmesi, imkân bulamayanların iffetini koruması ve Şuayb'ın Mûsâ'ya dürüst emek karşılığı nikâh teklifi."
+      }
+    ],
+    "context_default": "Aleni rıza ve hukuki sorumlulukla evlilik sözleşmesi kurmak (ن-ك-ح)."
+  },
+  "ن-ش-ز": {
+    "buckwalter": "n$z",
+    "slug": "nusuz_yukari_kalkip_diklesmek_ve_evlilikte_cift_yonlu_kopma_nsz",
+    "concept_name": "Nüşûz (Yerden Yukarı Kalkıp Dikleşmek ve Evlilik Sözleşmesinden Çift Yönlü Kopma)",
+    "keywords": [
+      "nüşûz",
+      "kalkmak",
+      "doğrulmak",
+      "kemikleri çatmak",
+      "diklenmek",
+      "geçimsizlik",
+      "çift yönlü kopma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nun$izu",
+        "label": "Fiziksel çıpa: Dağılmış kemikleri yerden yukarı kaldırıp birbirinin üzerine yükselterek çatmak (كَيْفَ نُنشِزُهَا — Bab IV fiil: 2:259)"
+      },
+      {
+        "lemma": "{n$uzu",
+        "label": "Bedensel çıpa: Mecliste 'kalkın/doğrulun' dendiğinde oturulan yerden hemen ayağa kalkmak (ٱنشُزُوا۟ فَٱنشُزُوا۟ — Bab I fiil: 58:11)"
+      },
+      {
+        "lemma": "nu$uwz",
+        "ayahs": [
+          "4:128"
+        ],
+        "label": "Simetri çıpası: Kocanın eşine karşı üstten bakıp diklenerek evlilik uyumundan soğuması ve kopma eğilimi (مِنۢ بَعْلِهَا نُشُوزًا — isim/masdar: 4:128)"
+      },
+      {
+        "lemma": "nu$uwz",
+        "ayahs": [
+          "4:34"
+        ],
+        "label": "Eşin evlilik sözleşmesine karşı diklenip baş kaldırma, geçimsizlik çıkarma ve kopma tehlikesi (نُشُوزَهُنَّ — isim/masdar: 4:34)"
+      }
+    ],
+    "irab_default": "Yerden yukarı kalkıp dikleşmek veya ortak uyum ve sözleşme zemininden kopup baş kaldırmak (ن-ش-ز kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:259"
+        ],
+        "text": "Fiziksel kaldırıp çatma çıpası (نُنشِزُهَا): yere serilmiş kemiklerin yukarı kaldırılıp birbirine eklemlenerek diriltilmesi."
+      },
+      {
+        "ayahs": [
+          "58:11"
+        ],
+        "text": "Bedensel doğrulma çıpası (ٱنشُزُوا۟ فَٱنشُزُوا۟): topluluk düzeni içinde kalkılması istendiğinde tereddütsüz ayağa kalkmak."
+      },
+      {
+        "ayahs": [
+          "4:34",
+          "4:128"
+        ],
+        "text": "Evlilikte çift yönlü nüşûz simetrisi: hem kadından (4:34) hem kocadan (4:128) doğabilen üstten bakıp diklenme ve sözleşmeden kopma krizinin barış ve uzlaşmayla çözümü."
+      }
+    ],
+    "context_default": "Yukarı kalkıp dikleşmek veya evlilik sözleşmesinden kopup baş kaldırmak (ن-ش-ز)."
+  },
+  "ح-ص-ن": {
+    "buckwalter": "HSn",
+    "slug": "hisn_ve_ihsan_kale_zirh_ambar_ve_iffet_dokunulmazligi_hsn",
+    "concept_name": "Hısn ve İhsân (Kale, Zırh, Ambar ve İffet-Evlilik Dokunulmazlığı Kalkanı)",
+    "keywords": [
+      "kale",
+      "hisar",
+      "zırh",
+      "tahkim",
+      "ambarlamak",
+      "iffet",
+      "korunmuş",
+      "dokunulmazlık"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "HuSuwn",
+        "label": "Mimari çıpa: Dış saldırıya karşı geçit vermeyen müstahkem kaleler ve hisarlar (حُصُونُهُم — isim çoğul: 59:2)"
+      },
+      {
+        "lemma": "m~uHaS~anap",
+        "label": "Mimari çıpa: Kalın surlarla çepeçevre tahkim edilip korunmuş kasabalar (قُرًى مُّحَصَّنَةٍ — Bab II ism-i mef'ûl: 59:14)"
+      },
+      {
+        "lemma": ">aHoSanato",
+        "ayahs": [
+          "21:80"
+        ],
+        "label": "Zırh çıpası: İnsanı savaş şiddetinden koruyan sağlam zırh giysisi (لِتُحْصِنَكُم مِّنۢ بَأْسِكُمْ — Bab IV fiil: 21:80)"
+      },
+      {
+        "lemma": ">aHoSanato",
+        "ayahs": [
+          "12:48"
+        ],
+        "label": "Tarımsal çıpa: Kıtlık yıllarında gelecek için ambarlanıp koruma altına alınan tohumluk tahıl (مِّمَّا تُحْصِنُونَ — Bab IV fiil: 12:48)"
+      },
+      {
+        "lemma": ">aHoSanato",
+        "ayahs": [
+          "21:91",
+          "66:12"
+        ],
+        "label": "Bireysel iffet çıpası: Meryem'in kendi bedenini ve iffetini kale gibi muhafaza etmesi (أَحْصَنَتْ فَرْجَهَا — Bab IV fiil)"
+      },
+      {
+        "lemma": ">aHoSanato",
+        "ayahs": [
+          "4:25"
+        ],
+        "label": "Meşru evlilik korumasına girip hukuki dokunulmazlık kazanmak (فَإِذَآ أُحْصِنَّ — Bab IV edilgen fiil: 4:25)"
+      },
+      {
+        "lemma": "taHaS~un",
+        "label": "Kişinin kendi özgür iradesiyle iffet ve korunma kalesine sığınma isteği (تَحَصُّنًا — Bab V masdar: 24:33)"
+      },
+      {
+        "lemma": "m~uHoSiniyn",
+        "label": "Meşru evlilik ve iffet kalkanıyla kendilerini sorumsuz dağınıklıktan koruyan erkekler (مُحْصِنِينَ — Bab IV ism-i fâil: 4:24, 5:5)"
+      },
+      {
+        "lemma": "muHoSana`t",
+        "label": "Evlilik bağıyla (4:24) veya özgürlük ve iffet kalesiyle (4:25, 5:5, 24:4, 24:23) koruma ve dokunulmazlık altında bulunan kadınlar (ٱلْمُحْصَنَٰت / مُحْصَنَٰت — Bab IV ism-i mef'ûl)"
+      }
+    ],
+    "irab_default": "Sağlam bir kale, zırh, ambar veya iffet-evlilik kalkanıyla çepeçevre koruyup dokunulmaz kılmak (ح-ص-ن kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:48",
+          "21:80",
+          "59:2",
+          "59:14"
+        ],
+        "text": "Maddi koruma çıpaları (حُصُون / مُّحَصَّنَة / لِتُحْصِنَكُم / تُحْصِنُونَ): kale, surlu kent, savaş zırhı ve kıtlıkta saklanan tohumluk tahıl."
+      },
+      {
+        "ayahs": [
+          "21:91",
+          "24:33",
+          "66:12"
+        ],
+        "text": "Bireysel iffet kalesi (أَحْصَنَتْ فَرْجَهَا / تَحَصُّنًا): kişinin kendi iradesiyle bedenini ve onurunu koruma altına alması."
+      },
+      {
+        "ayahs": [
+          "4:24",
+          "4:25",
+          "5:5",
+          "24:4",
+          "24:23"
+        ],
+        "text": "Evlilik ve toplumsal dokunulmazlık kalkanı (مُحْصَنَٰت / مُحْصِنِينَ): evli ve iffetli kadınların onurunun korunması, iftiraya ağır yaptırım ve erkeklerin de iffetli evlilik sorumluluğu."
+      }
+    ],
+    "context_default": "Sağlam bir kale, zırh veya iffet-evlilik kalkanıyla koruyup dokunulmaz kılmak (ح-ص-ن)."
+  },
+  "ق-ن-ت": {
+    "buckwalter": "qnt",
+    "slug": "kunut_ve_kanitin_derin_saygi_sukunet_ve_allaha_kesintisiz_baglilik_qnt",
+    "concept_name": "Kunût ve Kânitîn (Derin Saygı, Sükûnet ve Allah'a Kesintisiz Bağlılık)",
+    "keywords": [
+      "kunût",
+      "kânit",
+      "kesintisiz bağlılık",
+      "derin saygı",
+      "sükûnet",
+      "kozmik uyum",
+      "sadakat"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qaAnit",
+        "ayahs": [
+          "2:116",
+          "30:26"
+        ],
+        "label": "Kozmik çıpa: Göklerde ve yerdeki her varlığın yaratıcının yasasına sessiz, eksiksiz ve kesintisiz uyumu (كُلٌّ لَّهُۥ قَٰنِتُونَ — ism-i fâil)"
+      },
+      {
+        "lemma": "qaAnit",
+        "ayahs": [
+          "2:238",
+          "39:9"
+        ],
+        "label": "Duruş çıpası: Allah'ın huzurunda derin saygı ve sükûnetle ayakta durup gece boyu kesintisiz yönelmek (وَقُومُوا۟ لِلَّهِ قَٰنِتِينَ / قَٰنِتٌ — ism-i fâil)"
+      },
+      {
+        "lemma": "qaAnit",
+        "label": "Allah'a derin saygı, içtenlik ve süreklilikle bağlı kalan öncü şahsiyetler ve bilinçli insanlar (قَٰنِتًا / ٱلْقَٰنِتِينَ — ism-i fâil: 3:17, 16:120, 33:35, 66:12)"
+      },
+      {
+        "lemma": "qa`nita`t",
+        "ayahs": [
+          "4:34"
+        ],
+        "label": "Tabula Rasa çıpası: Kocaya kör itaat değil, Allah'ın yasasına ve aile sözleşmesine içten, saygılı ve sürekli bağlılık gösteren erdemli kadınlar (فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ — dişil ism-i fâil: 4:34)"
+      },
+      {
+        "lemma": "qa`nita`t",
+        "label": "Allah'a kesintisiz, gönülden ve saygılı bağlılık gösteren erdemli kadınlar (وَٱلْقَٰنِتَٰتِ / قَٰنِتَٰتٍ — dişil ism-i fâil: 33:35, 66:5)"
+      },
+      {
+        "lemma": "yaqonuto",
+        "label": "Derin saygı, sükûnet ve süreklilikle Allah'a ve elçisinin getirdiği hakikate bağlı kalmak (ٱقْنُتِى / يَقْنُتْ — Bab I fiil: 3:43, 33:31)"
+      }
+    ],
+    "irab_default": "Derin saygı, sükûnet ve gönülden adanmışlıkla Allah'a ve yasasına kesintisiz bağlı kalmak (ق-ن-ت kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:116",
+          "30:26"
+        ],
+        "text": "Kozmik uyum çıpası (كُلٌّ لَّهُۥ قَٰنِتُونَ): göklerde ve yerdeki her şeyin yaratılış yasasına kesintisiz boyun eğişi."
+      },
+      {
+        "ayahs": [
+          "2:238",
+          "3:17",
+          "3:43",
+          "16:120",
+          "39:9",
+          "66:12"
+        ],
+        "text": "Huzurda sükûnet ve örnek şahsiyetler: Allah'ın huzurunda saygıyla ayakta durmak, gece boyu yönelmek ve İbrâhîm ile Meryem'in kesintisiz bağlılığı."
+      },
+      {
+        "ayahs": [
+          "4:34",
+          "33:31",
+          "33:35",
+          "66:5"
+        ],
+        "text": "Eşit sadakat ve sözleşme bağlılığı: erkek ve kadınların Allah'a ve O'nun meşru aile sözleşmesine saygılı, sürekli bağlılığı."
+      }
+    ],
+    "context_default": "Derin saygı, sükûnet ve içtenlikle Allah'a kesintisiz bağlı kalmak (ق-ن-ت)."
   }
 }

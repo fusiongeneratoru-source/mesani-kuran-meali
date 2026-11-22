@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 36 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 41 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 36 / 131 Kök (Toplam Mühürlü: 257 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 41 / 131 Kök (Toplam Mühürlü: 262 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -45,11 +45,11 @@
 | 34 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 361 | `ف-ج-ر` | `F-C-R` | **24** | 21 | 2:60 | Fecr, Tefcîr ve Fücûr (Kapalı Seti Genişçe Yarıp Fışkırmak, Karanlığı Yaran Tan ve Sınır Yırtan Taşkınlık) | ✅ **MÜHÜRLÜ** |
 | 35 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 306 | `أ-ف-ك` | `E-F-K` | **30** | 29 | 5:75 | İfk ve Mü'tefikât (Altını Üstüne Çevirip Tersyüz Etmek, Yönünden Döndürmek ve Büyük Kara Çalma) | ✅ **MÜHÜRLÜ** |
 | 36 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 631 | `خ-ت-م` | `H-T-M` | **8** | 8 | 2:7 | Hatm ve Hâtem (Son Damgayla Kapatıp Kilitlemek, Tescillemek ve Süreci Sonuca Ulaştırmak) | ✅ **MÜHÜRLÜ** |
-| 37 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 402 | `ر-ب-و` | `R-B-W` | **20** | 15 | 2:265 | Ribâ (katlayıp şişiren haksız artış; 30:39 Zekâ [arınma/gelişme payı] zıttı ve toprağın kabarması) | ⏳ *Bekliyor* |
-| 38 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 374 | `ن-ك-ح` | `N-K-H` | **23** | 19 | 2:221 | Nikâh (evlilik sözleşmesi ve hukuki birleşme akdi) | ⏳ *Bekliyor* |
-| 39 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 768 | `ن-ش-ز` | `N-S-Z` | **5** | 4 | 2:259 | Nüşûz (4:34 ve 4:128: hem kadın hem erkek için evlilik bağından baş kaldırıp kopma) | ⏳ *Bekliyor* |
-| 40 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 428 | `ح-ص-ن` | `H-S-N` | **18** | 12 | 4:24 | Muhsanât ve Hısn (korunaklı kale; bağlama göre evli, özgür veya korunmuş kadınlar) | ⏳ *Bekliyor* |
-| 41 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 486 | `ق-ن-ت` | `K-N-T` | **13** | 12 | 2:116 | Kunût ve Kânitât (4:34 dahil Kur'an boyunca Allah'a sürekli, huşulu bağlılık) | ⏳ *Bekliyor* |
+| 37 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 402 | `ر-ب-و` | `R-B-W` | **20** | 15 | 2:265 | Ribâ ve Rabve (Yukarı Kabarıp Yükselmek, Emekle Yetiştirmek ve Emeksiz Şişen Haksız Fazlalık) | ✅ **MÜHÜRLÜ** |
+| 38 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 374 | `ن-ك-ح` | `N-K-H` | **23** | 19 | 2:221 | Nikâh (Aleni Rıza ve Hukuki Sorumluluk Üzerine Kurulan Evlilik Sözleşmesi) | ✅ **MÜHÜRLÜ** |
+| 39 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 768 | `ن-ش-ز` | `N-S-Z` | **5** | 4 | 2:259 | Nüşûz (Yerden Yukarı Kalkıp Dikleşmek ve Evlilik Sözleşmesinden Çift Yönlü Kopma) | ✅ **MÜHÜRLÜ** |
+| 40 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 428 | `ح-ص-ن` | `H-S-N` | **18** | 12 | 4:24 | Hısn ve İhsân (Kale, Zırh, Ambar ve İffet-Evlilik Dokunulmazlığı Kalkanı) | ✅ **MÜHÜRLÜ** |
+| 41 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 486 | `ق-ن-ت` | `K-N-T` | **13** | 12 | 2:116 | Kunût ve Kânitîn (Derin Saygı, Sükûnet ve Allah'a Kesintisiz Bağlılık) | ✅ **MÜHÜRLÜ** |
 | 42 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 664 | `خ-م-ر` | `H-M-R` | **7** | 7 | 2:219 | Hamr ve Humur (24:31 örtü ile aklı örten sarhoş edicinin tek çekirdeği: örtmek) | ⏳ *Bekliyor* |
 | 43 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 651 | `ح-ج-ب` | `H-C-B` | **8** | 8 | 7:46 | Hicâb (Kur'an boyunca giysi değil ayırıcı perde ve fiziksel/mecazi engel) | ⏳ *Bekliyor* |
 | 44 | ⭐ **3A** | Hukuk ve Toplumsal Düzen | 1153 | `ج-ل-ب` | `C-L-B` | **2** | 2 | 17:64 | Cilbâb (33:59 dış örtü ve 17:64 kök bağlantısı arkeolojisi) | ⏳ *Bekliyor* |
