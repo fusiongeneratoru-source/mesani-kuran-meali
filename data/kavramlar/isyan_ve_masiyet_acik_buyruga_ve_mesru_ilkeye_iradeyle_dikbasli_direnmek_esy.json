@@ -1,0 +1,702 @@
+{
+  "root": "ع-ص-ي",
+  "root_latin": "E-S-Y (ESy)",
+  "concept_name": "İsyan ve Masiyet (Açık Buyruğa ve Meşru İlkeye İradeyle Dikbaşlı Direnmek)",
+  "rank": 283,
+  "total_occurrences": 32,
+  "unique_ayahs_count": 32,
+  "unified_core_mechanism": "Duyup anladığı açık bir buyruğa, ilkeye veya meşru rehberliğe boyun eğmeyip iradeyle dikbaşlı biçimde direnmek ve karşı gelmek (`2:93`, `4:46` işitip direnmek; `60:12` bağlılığın yalnızca meşru ve erdemli olanda [مَعْرُوف] geçerli oluşu; `6:15`, `10:15`, `39:13` elçilerin bile ilahi hukuka karşı sorumluluğu; `19:14` anne babaya karşı dikbaşlı olmamak; `49:7`, `58:8-9` toplumsal bozgun ve başkaldırı; `66:6` ilahi görevlilerin tam uyumu).",
+  "physical_core": "Önüne konulan açık buyruğa, yola veya sorumluluğa **sertleşip dikbaşlılıkla direnmek, bağdan sıyrılıp karşı gelmek (`المخالفة والامتناع عن الطاعة`)** — bilinçsiz bir hata değil, duyup anladıktan sonra (`سَمِعْنَا وَعَصَيْنَا` — `2:93`, `4:46`) iradeyle karşı durma eylemidir; Kur'an'da `60:12`de (`فِى مَعْرُوفٍ`) bu itaat/isyan ölçütünün kör boyun eğme değil adil ve erdemli ilke (`مَعْرُوف`) çerçevesinde kurulduğu mühürlenir.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün ikinci sağlam aslının **'ayrılmak, muhalefet etmek ve itaate karşı gelmek (`الفرقة والخلاف؛ العصيان خلاف الطاعة`)'** olduğunu mühürler.",
+    "lisan_al_arab": "İbn Manzûr `عِصْيَان` ve `مَعْصِيَة`nin emre boyun eğmeyip diklenmek (`الامتناع عن الانقياد`), `عَصِيّ`in ise bu karşı koyuşu kalıcı karaktere dönüştüren inatçı kimse olduğunu kaydeder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `عِصْيَان`ı 'itaat dairesinden çıkıp buyruğa direnmek' olarak tanımlar ve `20:121`de Âdem'in unutarak yasak ağaca yönelmesiyle `73:16`da Firavun'un kibirli başkaldırısı arasındaki bağlamsal farka işaret eder.",
+    "arbitration_decision": "Hakem Masası Kararı: `ع-ص-ي` (32 geçiş) yalnızca siyasal bir 'isyan' ya da kör otoriteye karşı çıkış değil, **hakikati ve meşru ilkeyi bildiği hâlde direnme** mekanizmasıdır: (1) **Açık İlke ve Sınırları Çiğneme (18 geçiş):** `2:61,93`, `3:112,152`, `4:14,42,46`, `5:78`, `10:91`, `11:59`, `20:93,121`, `33:36`, `69:10`, `71:21`, `72:23`, `73:16`, `79:21`. (2) **Elçilerin Kendi Sorumluluk Sınırı (5 geçiş):** `6:15`, `10:15`, `11:63`, `14:36`, `39:13` — elçiler bile 'Rabb'ime karşı gelirsem büyük günün azabından korkarım' diyerek hukuk önünde istisnasız olduklarını ilan eder; `14:36`da İbrâhîm kendisine karşı gelenleri Allah'ın bağışlamasına havale eder. (3) **Meşruiyet Ölçütü ve Anne-Baba/Topluluk Etiği (6 geçiş):** `60:12` (`وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ`: bağlılığın adil ve erdemli olanla sınırlı oluşu!), `19:14` (Yahyâ'nın anne babasına karşı zorba ve dikbaşlı olmaması), `49:7`, `58:8-9` (gizli bozguncu kulislerin reddi), `26:216` (karşı gelenlerden eylem bazlı teberrî). (4) **Tam Uyum vs Sürekli Direnç (3 geçiş):** `18:69`, `19:44`, `66:6`."
+  },
+  "semitic_cognates": {
+    "hebrew": "ع-ص-ي kökü Arapçada 'buyruğa direnmek/karşı gelmek' anlamında özelleşmiştir; Aramice-Süryanice ܥܨܐ (ʿṣā: direnmek, zorlamak, karşı koymak) doğrudan eşkökenlidir",
+    "aramaic_syriac": "ܥܨܐ (ʿṣā: direnmek, dikleşmek, karşı koymak, ayak diremek)",
+    "note": "Süryanice ܥܨܐ ('direnmek, ayak diremek') ve Arapça ع-ص-ي ('buyruğa karşı gelip direnmek') doğrudan eşkökenli olup kökün 'iradeli direnç ve karşı koyuş' çekirdeğini teyit eder."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "س-م-ع [قَالُوا۟ سَمِعْنَا وَعَصَيْنَا] (Çağrıyı İşitip Anlamak ↔ Anladığı Hâlde Dikbaşlılıkla Direnmek [سَمِعْنَا & عَصَيْنَا]: 2:93, 4:46)",
+      "أ-م-ر [لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ / أَفَعَصَيْتَ أَمْرِى / وَلَآ أَعْصِى لَكَ أَمْرًا] (Açık Buyruk ve Yönetim İlkesi ↔ O Buyruğa Direnip Karşı Gelmek [أَمْر & ع-ص-ي]: 18:69, 20:93, 66:6)",
+      "ت-ب-ع [فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى وَمَنْ عَصَانِى / عَصَوْنِى وَٱتَّبَعُوا۟] (Doğru Yolu İzlemek ↔ Başkaldırıp Sapmak [تَبِعَنِى & عَصَانِى]: 14:36, 20:93, 71:21)",
+      "ب-ر-ر [وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا / وَلَا تَتَنَٰجَوْا۟ ... وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ] (Kapsayıcı İyilik ve Saygı ↔ Zorba ve Dikbaşlı Karşı Çıkış [بَرًّا & عَصِيًّا]: 19:14, 58:9)",
+      "ع-ب-د [يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّا] (Bilinçli Kulluk ve Bağlılık ↔ Rahmân'a Karşı Sürekli Başkaldırı [تَعْبُدِ & عَصِيًّا]: 19:44)"
+    ],
+    "key_ayahs": [
+      "60:12 (وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ — itaatin meşru ve erdemli olanla sınırlanması)",
+      "2:93, 4:46 (سَمِعْنَا وَعَصَيْنَا — işitip bile bile direnmek)",
+      "19:14 (وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا — anne babaya iyilik vs dikbaşlılık)",
+      "49:7 (وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ — nankörlük, yoldan çıkış ve başkaldırı)",
+      "58:8-9 (مَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ — bozguncu kulis vs iyilik konuşması)",
+      "6:15, 10:15 (إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى — elçinin dahi hukuk karşısındaki eşit sorumluluğu)"
+    ],
+    "reverse_stress_test": "Gönüllü uyum (`ط-و-ع`), takip (`ت-ب-ع`) ve kapsayıcı iyilik (`ب-ر-ر`) karşısına yerleştirildiğinde, `ع-ص-ي` kökünün 'açık ilkeye veya meşru buyruğa dikbaşlılıkla direnmek' çekirdeği tüm 32 geçişi sıfır çatlakla kilitler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ٱلْكُفْرَ (K-F-R: Hakikati Örtüp Nankörlük Etmek) vs ٱلْفُسُوقَ (F-S-Q: İlkelerin Kabuğunu Delip Yoldan Çıkmak) vs ٱلْعِصْيَانَ (E-S-Y: Açık Buyruğa Dikbaşlılıkla Direnmek) [49:7]",
+      "عَصَوا۟ (E-S-Y: Belirlenmiş Buyruğa Başkaldırmak) vs يَعْتَدُونَ (A-D-W: Hukuk ve Hak Sınırlarını Çiğneyip Saldırganlaşmak) [2:61, 3:112, 5:78]"
+    ],
+    "mechanical_difference": "`49:7`de üçlü bozulma basamağı ayrılır: `كُفْر` hakikati kökten örtmek, `فُسُوق` ahlaki çizgiden dışarı taşmak, `عِصْيَان` ise belirli bir buyruk veya sorumluluğa iradeyle karşı gelmektir."
+  },
+  "anchor_ayahs": [
+    "60:12 (وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ — erdemli ve meşru ilke çerçevesinde bağlılık)",
+    "2:93 (سَمِعْنَا وَعَصَيْنَا — işitip direnme çıpası)",
+    "49:7 (ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ — üçlü sapma basamağı)",
+    "19:14 (وَلَمْ يَكُن جَبَّارًا عَصِيًّا — zorbalık ve dikbaşlılıktan uzaklık)",
+    "58:9 (وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ — bozguncu kulis vs iyilik)",
+    "10:15 (إِنْ عَصَيْتُ رَبِّى — elçinin kendi sorumluluk bilinci)"
+  ],
+  "grammar_and_branch_rules": "1) İlahi Buyruk ve Sınırlara Başkaldırı (`2:61,93`, `3:112,152`, `4:14,42,46`, `5:78`, `10:91`, `11:59`, `20:93,121`, `33:36`, `69:10`, `71:21`, `72:23`, `73:16`, `79:21`): Açık ilke ve elçi çağrısına karşı direnmek. 2) Elçilerin Sorumluluğu ve Meşruiyet Sınırı (`6:15`, `10:15`, `11:63`, `14:36`, `26:216`, `39:13`, `60:12`): Hiç kimsenin hukuk üstü olmadığı ve itaatin `مَعْرُوف` ile çerçevelendiği. 3) Ailevi, Toplumsal ve Kozmik Düzlem (`18:69`, `19:14,44`, `49:7`, `58:8-9`, `66:6`): Dikbaşlılık, gizli bozguncu kulis ve tam uyum.",
+  "derivatives": {
+    "عَصَىٰ / يَعْصِى (Bab I Fiil - 27 geçiş)": "Açık buyruğa, ilkeye veya meşru rehberliğe iradeyle direnmek ve karşı gelmek.",
+    "عَصِيّ (Sıfat / İsim - 2 geçiş: 19:14, 19:44)": "Sürekli dikbaşlı, emre ve iyiliğe direnen karaktere sahip olan.",
+    "مَعْصِيَة / عِصْيَان (İsim - 3 geçiş: 49:7, 58:8, 58:9)": "Meşru buyruğa ve elçinin ilkeli yönetimine karşı başkaldırı ve itaatsizlik."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 61,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:61",
+      "word_position": 57,
+      "target_word_uthmani": "عَصَوا۟",
+      "target_word_rasm": "عصوا",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Evet, öyle de oldu; çünkü isyana boğulmuşlardı, çünkü aşırı gidiyorlardı.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir zaman demiştiniz ki: Ya Musa, biz bir türlü yemeğe dayanamayız. Rabbinden bizim için iste de bize yerin yetiştirdiği şeylerden versin. Yerden yeşillik, kabak, sarımsak, mercimek, soğan bitirsin. Musa demişti ki: Daha hayırlı olanı, ondan daha aşağılık bir şeyle değiştirmek mi istiyorsunuz? Mısır'a inin, orada dilediğiniz şey var. Üzerlerine aşağılık ve yoksulluk çullanmıştı, Allah'ın da gazabına uğradılar. Evet, öyle de oldu; çünkü Allah'ın delillerine güven duy, haksız yere elçileri öldürüyorlardı. Evet, öyle de oldu; çünkü isyana boğulmuşlardı, çünkü aşırı gidiyorlardı.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 2,
+      "ayah": 93,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:93",
+      "word_position": 14,
+      "target_word_uthmani": "وَعَصَيْنَا",
+      "target_word_rasm": "وعصينا",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ",
+      "context_snippet_turkish_tabula_rasa": "... Size verdiğimizi azimle tutun, dinleyin demiştik. Onlar da duyduk demişlerdi ve asi olduk. Buzağı sevgisi, küfürleri yüzünden ta iliklerine işlemişti. ...",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: O vakit sizden kesin söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimizi azimle tutun, dinleyin demiştik. Onlar da duyduk demişlerdi ve asi olduk. Buzağı sevgisi, küfürleri yüzünden ta iliklerine işlemişti. güven duy güven duy, ne de kötü ve pis şey emrediyor size.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 3,
+      "ayah": 112,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:112",
+      "word_position": 33,
+      "target_word_uthmani": "عَصَوا۟",
+      "target_word_rasm": "عصوا",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "حَقٍّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Bu da Allah'ın delillerini gerçeğin üzerini ört ve haksız yere elçileri öldürdükleri için, bu da isyan ettikleri ve hadlerini aştıkları için.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nerede bulunurlarsa bulunsunlar, aşağılık bir hale getirilmiştir onlar; ancak Allah'ın ipine ve insanların yapıştıkları ipe yapışanlar müstesna. Allah'ın gazabına uğradılar ve üstlerine miskinlik çullandı. Bu da Allah'ın delillerini gerçeğin üzerini ört ve haksız yere elçileri öldürdükleri için, bu da isyan ettikleri ve hadlerini aştıkları için.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 3,
+      "ayah": 152,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:152",
+      "word_position": 14,
+      "target_word_uthmani": "وَعَصَيْتُم",
+      "target_word_rasm": "وعصيتم",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ",
+      "context_snippet_turkish_tabula_rasa": "... izniyle onları bozup öldürdünüz de sonra gevşeklik gösterdiniz, verilen buyruk hakkında çekiştiniz ve sevdiğiniz şeyi size gösterdikten sonra tuttunuz, isyan ettiniz. Sizden dünyayı dileyen olduğu gibi ahireti dileyen de vardı. ...",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْءَاخِرَةَ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ وَلَقَدْ عَفَا عَنكُمْ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki Allah, size ettiği vaadi doğruladı; izniyle onları bozup öldürdünüz de sonra gevşeklik gösterdiniz, verilen buyruk hakkında çekiştiniz ve sevdiğiniz şeyi size gösterdikten sonra tuttunuz, isyan ettiniz. Sizden dünyayı dileyen olduğu gibi ahireti dileyen de vardı. Sonra sizi sınamak için onlardan geri çevirdi ve gerçekten de bağışladı sizi ve Allah, güvene erenlere karşı lütuf ve ihsan sahibidir.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 4,
+      "ayah": 14,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:14",
+      "word_position": 2,
+      "target_word_uthmani": "يَعْصِ",
+      "target_word_rasm": "يعص",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ",
+      "context_snippet_turkish_tabula_rasa": "Ve kim Allah'a ve Resulüne isyan eder ve sınırlarını aşarsa onu, daimi kalmak üzere, ateşe atar ve onadır horlayıcı, aşağılık bir hale getirici azap.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:EaSaA|ROOT:ESy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim Allah'a ve Resulüne isyan eder ve sınırlarını aşarsa onu, daimi kalmak üzere, ateşe atar ve onadır horlayıcı, aşağılık bir hale getirici azap.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 4,
+      "ayah": 42,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:42",
+      "word_position": 5,
+      "target_word_uthmani": "وَعَصَوُا۟",
+      "target_word_rasm": "وعصوا",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "O gün, bir gündür ki gerçeğin üzerini örtenlerle elçiye isyan edenler, yerle yeksan olmalarını ve Allah'tan hiçbir sözü gizlememiş bulunmalarını dileyecekler.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, bir gündür ki gerçeğin üzerini örtenlerle elçiye isyan edenler, yerle yeksan olmalarını ve Allah'tan hiçbir sözü gizlememiş bulunmalarını dileyecekler.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 4,
+      "ayah": 46,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:46",
+      "word_position": 10,
+      "target_word_uthmani": "وَعَصَيْنَا",
+      "target_word_rasm": "وعصينا",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ",
+      "context_snippet_turkish_tabula_rasa": "Yahudi olanlardan, sözleri yerlerinden alıp değiştirenler de var ve işittik de isyan ettik derler, işit, işitmeyesice ve dillerini eğip bükerek ve yaşam sistemini kınayarak bizi de gözet derler. İşittik ve itaat ettik, bizi de dinle ve bize de bak deselerdi onlar için daha hayırlı, daha doğru olurdu, fakat Allah, küfürleri yüzünden onları rahmetinden uzaklaştırdı, pek azından başkası güven bağı gelmez onların.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|1P"
+      },
+      "ayah_text_arabic_full": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudi olanlardan, sözleri yerlerinden alıp değiştirenler de var ve işittik de isyan ettik derler, işit, işitmeyesice ve dillerini eğip bükerek ve yaşam sistemini kınayarak bizi de gözet derler. İşittik ve itaat ettik, bizi de dinle ve bize de bak deselerdi onlar için daha hayırlı, daha doğru olurdu, fakat Allah, küfürleri yüzünden onları rahmetinden uzaklaştırdı, pek azından başkası güven bağı gelmez onların.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 5,
+      "ayah": 78,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:78",
+      "word_position": 15,
+      "target_word_uthmani": "عَصَوا۟",
+      "target_word_rasm": "عصوا",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "مَرْيَمَ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "İsrailoğullarından gerçeğin üzerini örten olanlara Davud'un diliyle de lanet edilmişti, Meryemoğlu İsa'nın diliyle de. Bu da isyan ettiklerinden ve aşırı gittiklerindendi.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "لُعِنَ ٱلَّذِينَ كَفَرُوا۟ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ وَعِيسَى ٱبْنِ مَرْيَمَ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarından gerçeğin üzerini örten olanlara Davud'un diliyle de lanet edilmişti, Meryemoğlu İsa'nın diliyle de. Bu da isyan ettiklerinden ve aşırı gittiklerindendi.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 6,
+      "ayah": 15,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:15",
+      "word_position": 5,
+      "target_word_uthmani": "عَصَيْتُ",
+      "target_word_rasm": "عصيت",
+      "target_word_literal_irab": "Elçilerin hukuk karşısındaki eşitliği: Elçilerin bizzat 'Rabb'ime karşı gelirsem büyük günün azabından korkarım' diyerek istisnasız sorumluluk ilan etmesi (إِنْ عَصَيْتُ رَبِّى)",
+      "context_snippet_arabic": "إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Ben, Rabbime isyan edersem pek büyük günün azabından korkarım.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Ben, Rabbime isyan edersem pek büyük günün azabından korkarım.",
+      "contextual_meaning": "Elçilerin dahi ilahi hukuka tabi oluşu ve bağlılığın 'meşru/erdemli olan (مَعْرُوف)' ilkesiyle çerçevelenmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 15,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:15",
+      "word_position": 35,
+      "target_word_uthmani": "عَصَيْتُ",
+      "target_word_rasm": "عصيت",
+      "target_word_literal_irab": "Elçilerin hukuk karşısındaki eşitliği: Elçilerin bizzat 'Rabb'ime karşı gelirsem büyük günün azabından korkarım' diyerek istisnasız sorumluluk ilan etmesi (إِنْ عَصَيْتُ رَبِّى)",
+      "context_snippet_arabic": "إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "... Ben onu kendiliğimden değiştiremem, ben, ancak bana vahyedilene uyarım ve şüphe yok ki ben, isyan ettiğim takdirde o pek büyük günün azabından korkarım.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|1S"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara apaçık delilleri muhtevi olan ayetlerimiz okunduğu zaman bize kavuşmayı ummayanlar, bize bundan başka bir Kur'an getir, yahut da değiştir onu dediler. De ki: Ben onu kendiliğimden değiştiremem, ben, ancak bana vahyedilene uyarım ve şüphe yok ki ben, isyan ettiğim takdirde o pek büyük günün azabından korkarım.",
+      "contextual_meaning": "Elçilerin dahi ilahi hukuka tabi oluşu ve bağlılığın 'meşru/erdemli olan (مَعْرُوف)' ilkesiyle çerçevelenmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 91,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:91",
+      "word_position": 3,
+      "target_word_uthmani": "عَصَيْتَ",
+      "target_word_rasm": "عصيت",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "ءَآلْـَٰٔنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Fakat şimdi mi? Halbuki bundan evvel isyan etmiştin, bozgunculardan olmuştun.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|2MS"
+      },
+      "ayah_text_arabic_full": "ءَآلْـَٰٔنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat şimdi mi? Halbuki bundan evvel isyan etmiştin, bozgunculardan olmuştun.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 11,
+      "ayah": 59,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:59",
+      "word_position": 6,
+      "target_word_uthmani": "وَعَصَوْا۟",
+      "target_word_rasm": "وعصوا",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "جَحَدُوا۟ بِـَٔايَٰتِ رَبِّهِمْ وَعَصَوْا۟ رُسُلَهُۥ وَٱتَّبَعُوٓا۟ أَمْرَ",
+      "context_snippet_turkish_tabula_rasa": "İşte Âd, Rablerinin delillerini bilebile gerçeğin üzerini örttüler ve elçilerine asi oldular ve her inatçı cebbar kişiye uydular.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "وَتِلْكَ عَادٌ جَحَدُوا۟ بِـَٔايَٰتِ رَبِّهِمْ وَعَصَوْا۟ رُسُلَهُۥ وَٱتَّبَعُوٓا۟ أَمْرَ كُلِّ جَبَّارٍ عَنِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte Âd, Rablerinin delillerini bilebile gerçeğin üzerini örttüler ve elçilerine asi oldular ve her inatçı cebbar kişiye uydular.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 11,
+      "ayah": 63,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:63",
+      "word_position": 18,
+      "target_word_uthmani": "عَصَيْتُهُۥ",
+      "target_word_rasm": "عصيته",
+      "target_word_literal_irab": "Elçilerin hukuk karşısındaki eşitliği: Elçilerin bizzat 'Rabb'ime karşı gelirsem büyük günün azabından korkarım' diyerek istisnasız sorumluluk ilan etmesi (إِنْ عَصَيْتُ رَبِّى)",
+      "context_snippet_arabic": "مِنَ ٱللَّهِ إِنْ عَصَيْتُهُۥ فَمَا تَزِيدُونَنِى غَيْرَ",
+      "context_snippet_turkish_tabula_rasa": "... Ona isyan edersem Allah'a karşı kim yardım edebilir bana? Ve beni boyuna ziyana sokmaktan başka bir şey de yapmıyorsunuz.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَءَاتَىٰنِى مِنْهُ رَحْمَةً فَمَن يَنصُرُنِى مِنَ ٱللَّهِ إِنْ عَصَيْتُهُۥ فَمَا تَزِيدُونَنِى غَيْرَ تَخْسِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "O, ey kavmim dedi, ya ben Rabbimden apaçık bir delille gelmişsem ve katından bana bir rahmet vermişse. Ona isyan edersem Allah'a karşı kim yardım edebilir bana? Ve beni boyuna ziyana sokmaktan başka bir şey de yapmıyorsunuz.",
+      "contextual_meaning": "Elçilerin dahi ilahi hukuka tabi oluşu ve bağlılığın 'meşru/erdemli olan (مَعْرُوف)' ilkesiyle çerçevelenmesi."
+    },
+    {
+      "surah": 14,
+      "ayah": 36,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:36",
+      "word_position": 12,
+      "target_word_uthmani": "عَصَانِى",
+      "target_word_rasm": "عصانى",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "فَإِنَّهُۥ مِنِّى وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌ رَّحِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Rabbim, şüphe yok ki onlar, insanların çoğunu doğru yoldan saptırdılar. Artık kim bana uyarsa o bendendir ve bana isyan edene gelince: Şüphe yok ki sen, suçları örtersin, rahimsin.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MS"
+      },
+      "ayah_text_arabic_full": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِّنَ ٱلنَّاسِ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbim, şüphe yok ki onlar, insanların çoğunu doğru yoldan saptırdılar. Artık kim bana uyarsa o bendendir ve bana isyan edene gelince: Şüphe yok ki sen, suçları örtersin, rahimsin.",
+      "contextual_meaning": "Elçilerin dahi ilahi hukuka tabi oluşu ve bağlılığın 'meşru/erdemli olan (مَعْرُوف)' ilkesiyle çerçevelenmesi."
+    },
+    {
+      "surah": 18,
+      "ayah": 69,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:69",
+      "word_position": 8,
+      "target_word_uthmani": "أَعْصِى",
+      "target_word_rasm": "أعصى",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "ٱللَّهُ صَابِرًا وَلَآ أَعْصِى لَكَ أَمْرًا",
+      "context_snippet_turkish_tabula_rasa": "Musa, Allah dilerse dedi, görürsün, sebat edip direneceğim ve hiçbir hususta sana isyan etmeyeceğim.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:EaSaA|ROOT:ESy|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًا وَلَآ أَعْصِى لَكَ أَمْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, Allah dilerse dedi, görürsün, sebat edip direneceğim ve hiçbir hususta sana isyan etmeyeceğim.",
+      "contextual_meaning": "Anne babaya saygı vs dikbaşlılık, bozguncu kulislerin reddi ve ilahi görevlilerin tam uyumu."
+    },
+    {
+      "surah": 19,
+      "ayah": 14,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:14",
+      "word_position": 6,
+      "target_word_uthmani": "عَصِيًّا",
+      "target_word_rasm": "عصيا",
+      "target_word_literal_irab": "Kalıcı dikbaşlılık vasfı: Anne babaya karşı zorba/dikbaşlı olmamak (19:14) ve Rahmân'a sürekli başkaldıran tutum (19:44) (عَصِيًّا — sıfat/isim)",
+      "context_snippet_arabic": "وَلَمْ يَكُن جَبَّارًا عَصِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Anasınababasına iyilik ederdi ve cebbar ve asi değildi.",
+      "morphology": {
+        "lemma": "EaSiy~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaSiy~|ROOT:ESy|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Anasınababasına iyilik ederdi ve cebbar ve asi değildi.",
+      "contextual_meaning": "Anne babaya saygı vs dikbaşlılık, bozguncu kulislerin reddi ve ilahi görevlilerin tam uyumu."
+    },
+    {
+      "surah": 19,
+      "ayah": 44,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:44",
+      "word_position": 9,
+      "target_word_uthmani": "عَصِيًّا",
+      "target_word_rasm": "عصيا",
+      "target_word_literal_irab": "Kalıcı dikbaşlılık vasfı: Anne babaya karşı zorba/dikbaşlı olmamak (19:14) ve Rahmân'a sürekli başkaldıran tutum (19:44) (عَصِيًّا — sıfat/isim)",
+      "context_snippet_arabic": "ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Ata, saptırıcı yıkıcı güç'a kulluk etme, şüphe yok ki saptırıcı yıkıcı güç, rahmana asidir.",
+      "morphology": {
+        "lemma": "EaSiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaSiy~|ROOT:ESy|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Ata, saptırıcı yıkıcı güç'a kulluk etme, şüphe yok ki saptırıcı yıkıcı güç, rahmana asidir.",
+      "contextual_meaning": "Anne babaya saygı vs dikbaşlılık, bozguncu kulislerin reddi ve ilahi görevlilerin tam uyumu."
+    },
+    {
+      "surah": 20,
+      "ayah": 93,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:93",
+      "word_position": 3,
+      "target_word_uthmani": "أَفَعَصَيْتَ",
+      "target_word_rasm": "أفعصيت",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "أَلَّا تَتَّبِعَنِ أَفَعَصَيْتَ أَمْرِى",
+      "context_snippet_turkish_tabula_rasa": "Bana uymadın, yoksa emrime isyan mı ettin?",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|2MS"
+      },
+      "ayah_text_arabic_full": "أَلَّا تَتَّبِعَنِ أَفَعَصَيْتَ أَمْرِى",
+      "ayah_text_turkish_tabula_rasa_full": "Bana uymadın, yoksa emrime isyan mı ettin?",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 20,
+      "ayah": 121,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:121",
+      "word_position": 12,
+      "target_word_uthmani": "وَعَصَىٰٓ",
+      "target_word_rasm": "وعصى",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "مِن وَرَقِ ٱلْجَنَّةِ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "İkisi de o ağacın meyvesından yediler de avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular ve Âdem,...",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MS"
+      },
+      "ayah_text_arabic_full": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "İkisi de o ağacın meyvesından yediler de avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular ve Âdem, Rabbinin emrine karşı geldi de umduğundan mahrum oldu.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 26,
+      "ayah": 216,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:216",
+      "word_position": 2,
+      "target_word_uthmani": "عَصَوْكَ",
+      "target_word_rasm": "عصوك",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ",
+      "context_snippet_turkish_tabula_rasa": "Sana isyan ederlerse de de ki: Şüphe yok ki ben, sizin yaptıklarınızdan uzağım.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana isyan ederlerse de de ki: Şüphe yok ki ben, sizin yaptıklarınızdan uzağım.",
+      "contextual_meaning": "Elçilerin dahi ilahi hukuka tabi oluşu ve bağlılığın 'meşru/erdemli olan (مَعْرُوف)' ilkesiyle çerçevelenmesi."
+    },
+    {
+      "surah": 33,
+      "ayah": 36,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:36",
+      "word_position": 18,
+      "target_word_uthmani": "يَعْصِ",
+      "target_word_rasm": "يعص",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "مِنْ أَمْرِهِمْ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ",
+      "context_snippet_turkish_tabula_rasa": "Allah ve Resulü, bir işe hükmetti mi erkek olsun, kadın olsun, hiçbir güven duy, o işi istediği gibi yapmakta muhayyer olmasına imkan yoktur ve kim, Allah'a ve elçisine isyan ederse gerçekten de apaçık bir sapıklığa düşmüş, sapıtıp gitmiştir.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:EaSaA|ROOT:ESy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَٰلًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ve Resulü, bir işe hükmetti mi erkek olsun, kadın olsun, hiçbir güven duy, o işi istediği gibi yapmakta muhayyer olmasına imkan yoktur ve kim, Allah'a ve elçisine isyan ederse gerçekten de apaçık bir sapıklığa düşmüş, sapıtıp gitmiştir.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 39,
+      "ayah": 13,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:13",
+      "word_position": 5,
+      "target_word_uthmani": "عَصَيْتُ",
+      "target_word_rasm": "عصيت",
+      "target_word_literal_irab": "Elçilerin hukuk karşısındaki eşitliği: Elçilerin bizzat 'Rabb'ime karşı gelirsem büyük günün azabından korkarım' diyerek istisnasız sorumluluk ilan etmesi (إِنْ عَصَيْتُ رَبِّى)",
+      "context_snippet_arabic": "إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve de ki: Şüphe yok ki isyan edersem Rabbime, pek büyük günün azabından korkarım ben.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve de ki: Şüphe yok ki isyan edersem Rabbime, pek büyük günün azabından korkarım ben.",
+      "contextual_meaning": "Elçilerin dahi ilahi hukuka tabi oluşu ve bağlılığın 'meşru/erdemli olan (مَعْرُوف)' ilkesiyle çerçevelenmesi."
+    },
+    {
+      "surah": 49,
+      "ayah": 7,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:7",
+      "word_position": 25,
+      "target_word_uthmani": "وَٱلْعِصْيَانَ",
+      "target_word_rasm": "وٱلعصيان",
+      "target_word_literal_irab": "Üçlü sapma basamağı: Nankörlük ve yoldan çıkışla birlikte açık buyruğa direnme tutumu (ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ — isim: 49:7)",
+      "context_snippet_arabic": "إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+      "context_snippet_turkish_tabula_rasa": "... işlerin çoğunda size itaat etseydi sapma ve kusura girer, helak olurdunuz ve fakat Allah, size güven duy sevdirdi ve gönüllerinizde bezedi onu ve çirkin gösterdi size gerçeğin üzerini örten ve buyruktan çıkmayı ve isyanı; işte onlardır en güzel işlerde başarı kazananlar.",
+      "morphology": {
+        "lemma": "EiSoyaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EiSoyaAn|ROOT:ESy|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ لَوْ يُطِيعُكُمْ فِى كَثِيرٍ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bilin ki içinizde Allah'ın elçiyi var; işlerin çoğunda size itaat etseydi sapma ve kusura girer, helak olurdunuz ve fakat Allah, size güven duy sevdirdi ve gönüllerinizde bezedi onu ve çirkin gösterdi size gerçeğin üzerini örten ve buyruktan çıkmayı ve isyanı; işte onlardır en güzel işlerde başarı kazananlar.",
+      "contextual_meaning": "Anne babaya saygı vs dikbaşlılık, bozguncu kulislerin reddi ve ilahi görevlilerin tam uyumu."
+    },
+    {
+      "surah": 58,
+      "ayah": 8,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:8",
+      "word_position": 16,
+      "target_word_uthmani": "وَمَعْصِيَتِ",
+      "target_word_rasm": "ومعصيت",
+      "target_word_literal_irab": "Bozguncu kulis başkaldırısı: Elçinin ilkeli yönetimine karşı gizli fısıldaşmalarla başkaldırı örgütlemenin reddi (وَمَعْصِيَتِ ٱلرَّسُولِ — isim: 58:8, 58:9)",
+      "context_snippet_arabic": "وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ",
+      "context_snippet_turkish_tabula_rasa": "Bakmaz mısın gizli ve fısıltıyla konuşmadan vazgeçmeleri emredilenlere, sonradan gene vazgeçmeleri emredilen şeye dönerler ve suça ve düşmanlığa ve elçiye isyana ait şeyleri gizlice konuşurlar ve senin yanına gelince de Allah'ın, sana verdiği selamdan başka bir tarzda selam verirler sana ve birbirlerine de şu söylediklerimiz yüzünden derler, Allah'ın bizi azaplandırması gerekmez miydi? yakıcı yıkım yurdu yeter onlara, oraya atılıp yanacaklardır ve gerçekten de orası, dönülüp gidilecek ne de kötü yerdir.",
+      "morphology": {
+        "lemma": "maEoSiyat",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maEoSiyat|ROOT:ESy|F|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا فَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bakmaz mısın gizli ve fısıltıyla konuşmadan vazgeçmeleri emredilenlere, sonradan gene vazgeçmeleri emredilen şeye dönerler ve suça ve düşmanlığa ve elçiye isyana ait şeyleri gizlice konuşurlar ve senin yanına gelince de Allah'ın, sana verdiği selamdan başka bir tarzda selam verirler sana ve birbirlerine de şu söylediklerimiz yüzünden derler, Allah'ın bizi azaplandırması gerekmez miydi? yakıcı yıkım yurdu yeter onlara, oraya atılıp yanacaklardır ve gerçekten de orası, dönülüp gidilecek ne de kötü yerdir.",
+      "contextual_meaning": "Anne babaya saygı vs dikbaşlılık, bozguncu kulislerin reddi ve ilahi görevlilerin tam uyumu."
+    },
+    {
+      "surah": 58,
+      "ayah": 9,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:9",
+      "word_position": 10,
+      "target_word_uthmani": "وَمَعْصِيَتِ",
+      "target_word_rasm": "ومعصيت",
+      "target_word_literal_irab": "Bozguncu kulis başkaldırısı: Elçinin ilkeli yönetimine karşı gizli fısıldaşmalarla başkaldırı örgütlemenin reddi (وَمَعْصِيَتِ ٱلرَّسُولِ — isim: 58:8, 58:9)",
+      "context_snippet_arabic": "تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, gizli konuşursanız suça ve düşmanlığa ve elçiye karşı isyana dair konuşmayın da hayra ve çekinmeye dair konuşup danışın ve çekinin o Allah'tan ki onun tapısında toplanacaksınız.",
+      "morphology": {
+        "lemma": "maEoSiyat",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maEoSiyat|ROOT:ESy|F|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَٰجَيْتُمْ فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, gizli konuşursanız suça ve düşmanlığa ve elçiye karşı isyana dair konuşmayın da hayra ve çekinmeye dair konuşup danışın ve çekinin o Allah'tan ki onun tapısında toplanacaksınız.",
+      "contextual_meaning": "Anne babaya saygı vs dikbaşlılık, bozguncu kulislerin reddi ve ilahi görevlilerin tam uyumu."
+    },
+    {
+      "surah": 60,
+      "ayah": 12,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:12",
+      "word_position": 28,
+      "target_word_uthmani": "يَعْصِينَكَ",
+      "target_word_rasm": "يعصينك",
+      "target_word_literal_irab": "Ahlaki meşruiyet sınırı: Kadınların elçiye bağlılık sözünde dahi itaatsizlik etmeme şartının 'meşru ve erdemli olan (فِى مَعْرُوفٍ)' ilkesiyle çerçevelenmesi (وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ)",
+      "context_snippet_arabic": "أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi, güvene ermiş kadınlar, hiçbir şeyi Allah'a ortak kabul etmeyip otoriteyi bölüşme ve ortak koşma koşmamak ve hırsızlık etmemek ve zinada bulunmamak ve...",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:EaSaA|ROOT:ESy|3FP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi, güvene ermiş kadınlar, hiçbir şeyi Allah'a ortak kabul etmeyip otoriteyi bölüşme ve ortak koşma koşmamak ve hırsızlık etmemek ve zinada bulunmamak ve çocuklarını öldürmemek ve kendi çocuklarından başkasını eşlerine, ben doğurdum diye tanıtıp iftira etmemek ve sana, meşru ve güzel işlerde karşı gelmemek üzere biatlaşmaya geldikleri zaman biatlaş onlarla ve onlar için Allah'tan yarlıganma dile; şüphe yok ki Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "Elçilerin dahi ilahi hukuka tabi oluşu ve bağlılığın 'meşru/erdemli olan (مَعْرُوف)' ilkesiyle çerçevelenmesi."
+    },
+    {
+      "surah": 66,
+      "ayah": 6,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:6",
+      "word_position": 16,
+      "target_word_uthmani": "يَعْصُونَ",
+      "target_word_rasm": "يعصون",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "غِلَاظٌ شِدَادٌ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, koruyun kendinizi ve ailenizi o ateşten ki yakacağı şeyler, insanlardır ve kibrit taşlarıyla da harareti ve alevi çoğalıp durur, kalpleri katı ve kuvvetli buyruk elçileri de ona memurdur ki Allah ne emrettiyse isyan etmezler ve emredildikleri şeyi işlerler.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌ شِدَادٌ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, koruyun kendinizi ve ailenizi o ateşten ki yakacağı şeyler, insanlardır ve kibrit taşlarıyla da harareti ve alevi çoğalıp durur, kalpleri katı ve kuvvetli buyruk elçileri de ona memurdur ki Allah ne emrettiyse isyan etmezler ve emredildikleri şeyi işlerler.",
+      "contextual_meaning": "Anne babaya saygı vs dikbaşlılık, bozguncu kulislerin reddi ve ilahi görevlilerin tam uyumu."
+    },
+    {
+      "surah": 69,
+      "ayah": 10,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:10",
+      "word_position": 1,
+      "target_word_uthmani": "فَعَصَوْا۟",
+      "target_word_rasm": "فعصوا",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Derken Rablerinin elçisine isyan etmişlerdi de onları gittikçe artan bir azapla helak etmişti.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً",
+      "ayah_text_turkish_tabula_rasa_full": "Derken Rablerinin elçisine isyan etmişlerdi de onları gittikçe artan bir azapla helak etmişti.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 71,
+      "ayah": 21,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:21",
+      "word_position": 5,
+      "target_word_uthmani": "عَصَوْنِى",
+      "target_word_rasm": "عصونى",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ",
+      "context_snippet_turkish_tabula_rasa": "Nuh demişti ki: Rabbim, şüphe yok ki onlar, bana isyan ettiler ve malı ve evladı, ancak ziyanını arttırıp duran kişiye uydular.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MP"
+      },
+      "ayah_text_arabic_full": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh demişti ki: Rabbim, şüphe yok ki onlar, bana isyan ettiler ve malı ve evladı, ancak ziyanını arttırıp duran kişiye uydular.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 72,
+      "ayah": 23,
+      "surah_name": "Cin",
+      "ayah_ref": "72:23",
+      "word_position": 7,
+      "target_word_uthmani": "يَعْصِ",
+      "target_word_rasm": "يعص",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "ٱللَّهِ وَرِسَٰلَٰتِهِۦ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Bana düşen, ancak Allah'tan tebliğdir ve onun hükümlerini size bildirmektir; ve kim, Allah'a ve elçisine karşı gelirse artık onun hakkıdır yakıcı yıkım yurdu...",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:EaSaA|ROOT:ESy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِلَّا بَلَٰغًا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bana düşen, ancak Allah'tan tebliğdir ve onun hükümlerini size bildirmektir; ve kim, Allah'a ve elçisine karşı gelirse artık onun hakkıdır yakıcı yıkım yurdu ateşi, ebedi olarak da kalır orada.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 73,
+      "ayah": 16,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:16",
+      "word_position": 1,
+      "target_word_uthmani": "فَعَصَىٰ",
+      "target_word_rasm": "فعصى",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Derken Firavun, elçiye isyan etmişti de onu, pek şiddetli bir surette helak etmiştik.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MS"
+      },
+      "ayah_text_arabic_full": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَٰهُ أَخْذًا وَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Derken Firavun, elçiye isyan etmişti de onu, pek şiddetli bir surette helak etmiştik.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    },
+    {
+      "surah": 79,
+      "ayah": 21,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:21",
+      "word_position": 2,
+      "target_word_uthmani": "وَعَصَىٰ",
+      "target_word_rasm": "وعصى",
+      "target_word_literal_irab": "Bilinçli karşı gelme eylemi: Duyup anladığı hâlde ilahi buyruğa ve elçinin açık çağrısına iradeyle direnmek (عَصَىٰ / يَعْصِى — Bab I fiil)",
+      "context_snippet_arabic": "فَكَذَّبَ وَعَصَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Oysa yalanlamıştı, karşı gelmişti.",
+      "morphology": {
+        "lemma": "EaSaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:EaSaA|ROOT:ESy|3MS"
+      },
+      "ayah_text_arabic_full": "فَكَذَّبَ وَعَصَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa yalanlamıştı, karşı gelmişti.",
+      "contextual_meaning": "Duyup anladığı açık ilahi buyruğa ve elçilerin çağrısına bile bile direnip karşı gelmek (سَمِعْنَا وَعَصَيْنَا)."
+    }
+  ]
+}

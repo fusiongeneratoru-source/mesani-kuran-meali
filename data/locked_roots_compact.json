@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 296,
+    "total_locked": 301,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1181,7 +1181,8 @@
         "ح-ن-ف (H-N-F (Hnf) — Çift Yönlü Mesânî Karşılığı: 2:135, 3:67, 6:79, 30:30-32)",
         "ق-س-ط (Q-S-T (qsT) — Çift Yönlü Mesânî Karşılığı: 57:25, 6:152, 11:85, 55:9)",
         "ج-ن-ح (J-N-H (jnH) — Çift Yönlü Mesânî Karşılığı: 6:38, 20:22, 28:32, 8:61)",
-        "ق-د-س (Q-D-S (qds) — Çift Yönlü Mesânî Karşılığı: 59:23, 62:1, 2:30, 16:102)"
+        "ق-د-س (Q-D-S (qds) — Çift Yönlü Mesânî Karşılığı: 59:23, 62:1, 2:30, 16:102)",
+        "ج-ه-ل (J-H-L (jhl) — Çift Yönlü Mesânî Karşılığı: 25:63, 28:55, 49:6, 48:26)"
       ]
     },
     "د-ن-و": {
@@ -3660,6 +3661,66 @@
         "ف-ط-ر [فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ] (Özgün Yaratılış Doğası ↔ Onun Değişmezliği [فِطْرَتَ & تَبْدِيلَ]: 30:30)",
         "ع-ه-د [صَدَقُوا۟ مَا عَٰهَدُوا۟ ٱللَّهَ عَلَيْهِ ... وَمَا بَدَّلُوا۟ تَبْدِيلًا] (Verilen Sözde Sadakatle Sebat Etmek ↔ Sözden Dönüp Değiştirmemek [عَٰهَدُوا۟ & بَدَّلُوا۟]: 33:23)",
         "ك-ت-ب [وَٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِن كِتَابِ رَبِّكَ لَا مُبَدِّلَ لِكَلِمَٰتِهِۦ] (Vahyedilen Kitabı Olduğu Gibi Okumak ↔ Kelimelerini Değiştirecek Kimsenin Bulunmaması [كِتَابِ & مُبَدِّلَ]: 18:27)"
+      ]
+    },
+    "ع-ص-ي": {
+      "latin": "E-S-Y (ESy)",
+      "core": "Duyup anladığı açık bir buyruğa, ilkeye veya meşru rehberliğe boyun eğmeyip iradeyle dikbaşlı biçimde direnmek ve karşı gelmek (`2:93`, `4:46` işitip direnmek; `60:12` bağlılığın yalnızca meşru ve erdemli olanda [مَعْرُوف] geçerli oluşu; `6:15`, `10:15`, `39:13` elçilerin bile ilahi hukuka karşı sorumluluğu; `19:14` anne babaya karşı dikbaşlı olmamak; `49:7`, `58:8-9` toplumsal bozgun ve başkaldırı; `66:6` ilahi görevlilerin tam uyumu).",
+      "physical": "Önüne konulan açık buyruğa, yola veya sorumluluğa **sertleşip dikbaşlılıkla direnmek, bağdan sıyrılıp karşı gelmek (`المخالفة والامتناع عن الطاعة`)** — bilinçsiz bir hata değil, duyup anladıktan sonra (`سَمِعْنَا وَعَصَيْنَا` — `2:93`, `4:46`) iradeyle karşı durma eylemidir; Kur'an'da `60:12`de (`فِى مَعْرُوفٍ`) bu itaat/isyan ölçütünün kör boyun eğme değil adil ve erdemli ilke (`مَعْرُوف`) çerçevesinde kurulduğu mühürlenir.",
+      "opposites": [
+        "س-م-ع [قَالُوا۟ سَمِعْنَا وَعَصَيْنَا] (Çağrıyı İşitip Anlamak ↔ Anladığı Hâlde Dikbaşlılıkla Direnmek [سَمِعْنَا & عَصَيْنَا]: 2:93, 4:46)",
+        "أ-م-ر [لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ / أَفَعَصَيْتَ أَمْرِى / وَلَآ أَعْصِى لَكَ أَمْرًا] (Açık Buyruk ve Yönetim İlkesi ↔ O Buyruğa Direnip Karşı Gelmek [أَمْر & ع-ص-ي]: 18:69, 20:93, 66:6)",
+        "ت-ب-ع [فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى وَمَنْ عَصَانِى / عَصَوْنِى وَٱتَّبَعُوا۟] (Doğru Yolu İzlemek ↔ Başkaldırıp Sapmak [تَبِعَنِى & عَصَانِى]: 14:36, 20:93, 71:21)",
+        "ب-ر-ر [وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا / وَلَا تَتَنَٰجَوْا۟ ... وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ] (Kapsayıcı İyilik ve Saygı ↔ Zorba ve Dikbaşlı Karşı Çıkış [بَرًّا & عَصِيًّا]: 19:14, 58:9)",
+        "ع-ب-د [يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّا] (Bilinçli Kulluk ve Bağlılık ↔ Rahmân'a Karşı Sürekli Başkaldırı [تَعْبُدِ & عَصِيًّا]: 19:44)"
+      ]
+    },
+    "ع-م-ي": {
+      "latin": "A-M-Y (Emy)",
+      "core": "Görüş, kavrayış ve basiret ışığının örtülüp kapanması (`24:61`, `48:17`, `80:2` fiziksel görme engellinin muafiyeti ve onuru; `22:46` asıl körlüğün gözlerde değil kalplerde/bilinçte oluşu; `6:50,104`, `11:24,28`, `25:73`, `41:17,44` apaçık ayetlere gözünü kapamak ve hidayet yerine körlüğü seçmek; `17:72,97`, `20:124-125`, `28:66` hesap günü yolunu ve bahanelerini yitirmek).",
+      "physical": "Görüş ve kavrayışın **tamamen örtülüp kapanması, önünü ve gerçeği seçemez hâle gelmesi (`الستر والتغطية عن البصر والبصيرة`)** — Kur'an'da fiziksel görme engeli olan kimse (`24:61`, `48:17`, `80:2`) tam bir saygı ve muafiyetle korunurken, asıl eleştirilen `عَمًى`, `22:46`da açıkça tanımlandığı gibi **gözlerin değil, hakikati bile bile görmezden gelen göğüslerdeki bilinçlerin (`ٱلْقُلُوبُ`) körleşmesidir**.",
+      "opposites": [
+        "ب-ص-ر [وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ / فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ وَمَنْ عَمِىَ فَعَلَيْهَا] (Bilinç Körlüğü ve Kapalılık ↔ Keskin Görüş ve Basiret [ٱلْأَعْمَىٰ & ٱلْبَصِيرُ]: 6:50, 6:104, 11:24, 13:16, 35:19, 40:58)",
+        "ه-د-ي [فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ / أَفَأَنتَ تَهْدِى ٱلْعُمْىَ] (Gerçeğe Gözünü Kapamak ↔ Aydınlık Rehberlik ve Doğru Yol [ٱلْعَمَىٰ & ٱلْهُدَىٰ]: 10:43, 27:81, 30:53, 41:17, 43:40)",
+        "ض-ل-ل [فَهُوَ فِى ٱلْءَاخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا / بِهَٰدِى ٱلْعُمْىِ عَن ضَلَٰلَتِهِمْ] (Bilinç Körlüğü ↔ Yolunu Yitirip Sapmak [أَعْمَىٰ & ضَلَٰلَتِهِمْ]: 17:72, 27:81, 30:53)",
+        "ر-أ-ي [وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ / وَلَٰكِن تَعْمَى ٱلْقُلُوبُ] (Görmek ve Kavramak ↔ Bilincin Örtülüp Körleşmesi [ر-أ-ي & تَعْمَى]: 22:46)",
+        "ع-ق-ل [صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَعْقِلُونَ] (Bağ Kurup Akletmek ↔ Duyu ve Kavrayışı Kapatmak [عُمْىٌ & يَعْقِلُونَ]: 2:171)",
+        "ص-م-م [فَعَمُوا۟ وَصَمُّوا۟ / لَمْ يَخِرُّوا۟ عَلَيْهَا صُمًّا وَعُمْيَانًا] (Gözünü Kapamak ↔ Kulağını Tıkamak — İkili Bilinç Kapalılığı [عُمْىٌ & صُمٌّ]: 2:18, 5:71, 25:73, 47:23)"
+      ]
+    },
+    "ب-خ-ل": {
+      "latin": "B-X-L (bxl)",
+      "core": "Allah'ın lütfundan elde edilen imkânı paylaşım ve dayanışma akışından koparıp sımsıkı tutarak esirgemek (`47:38` cimrilik edenin yalnızca kendi özünden esirgemesi; `3:180` paylaşılmayan servetin boyna dolanan prangaya dönüşmesi; `4:37`, `57:24` hem cimrilik edip hem topluma cimriliği öğütlemek; `9:76`, `92:8` lütuf gelince sözünden dönmek ve kendini müstağni sanmak).",
+      "physical": "Elindeki imkânı, bilgiyi veya lütfu **paylaşım akışından koparıp sımsıkı tutarak esirgemek (`منع المقتنى والإمساك عن العطاء والإنفاق`)** — Kur'an'da `ب-خ-ل` yalnızca bireysel para tutma huyu değil, `3:180`de boyna dolanan pranga, `4:37` ve `57:24`te topluma paylaşmamayı emreden ideolojik bencillik, `47:38`de ise **kişinin aslında Allah'tan değil kendi öz benliğinden esirgemesi (`يَبْخَلُ عَن نَّفْسِهِۦ`)** yasasıdır.",
+      "opposites": [
+        "أ-ت-ي [يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ / فَأَمَّا مَنْ أَعْطَىٰ ... وَأَمَّا مَنۢ بَخِلَ] (Allah'ın Verdiği İmkânı Paylaşmak ↔ Verileni Sımsıkı Tutup Esirgemek [ءَاتَىٰهُمُ & يَبْخَلُونَ]: 3:180, 9:76, 92:5-8)",
+        "خ-ي-ر [وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ ... هُوَ خَيْرًا لَّهُم بَلْ هُوَ شَرٌّ لَّهُمْ] (Cimriliği Kendine Hayır Sanmak ↔ Bunun Kişinin Özüne Zarar/Şer Olması [يَبْخَلُونَ & خَيْرًا]: 3:180)",
+        "ف-ض-ل [بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ / فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟] (Allah'ın Geniş Lütfu ve Artı Değeri ↔ Lütfu Daraltıp Paylaşmaktan Kaçınmak [فَضْلِهِۦ & بَخِلُوا۟]: 3:180, 4:37, 9:76)",
+        "ح-م-د [فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ] (İnsanın Cimriliği ve Kaçışı ↔ Allah'ın Hiçbir Şeye Muhtaç Olmayan Övgüye Lâyık Zenginliği [يَبْخَلُونَ & ٱلْحَمِيدُ]: 57:24)",
+        "ك-ث-ر [إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ / فَمِنكُم مَّن يَبْخَلُ] (Mal Yığıp Çoğaltma Hırsı ↔ Paylaşma Çağrısında Elini Sıkmak [ك-ث-ر & تَبْخَلُوا۟]: 47:37-38)"
+      ]
+    },
+    "ج-ه-ل": {
+      "latin": "J-H-L (jhl)",
+      "core": "Doğrulanmış bilgi ve ağırbaşlı özdenetimden koparak bilgisizliğe, fevri taşkınlığa, kaba saldırganlığa ve ölçüsüzlüğe savrulmak (`2:273` nötr bilgi yokluğu; `49:6`, `4:17`, `6:54`, `16:119` doğrulamadan veya dürtüye kapılarak fevri hata yapmak; `25:63`, `28:55`, `7:199` kaba taşkınlara esenlikle mesafe koymak; `3:154`, `5:50`, `33:33`, `48:26` temelsiz kuruntu, keyfî hukuk, teşhir ve kabileci öfke zihniyeti; `33:72` insanın ölçüsüz ve aceleci yönü).",
+      "physical": "Hem **bilgi ve kavrayıştan yoksun olmak (`خلاف العلم`)**, hem de İbn Fâris'in vurguladığı ikinci köklü eksenle **dinginlik, özdenetim ve ölçülülüğü yitirip fevri taşkınlığa, kabalığa ve saldırganlığa savrulmak (`الخفة وخلاف الطمأنينة والحلم`)** — Arapçada `جَهْل`, yalnızca `عِلْم`in (bilginin) değil aynı zamanda `حِلْم`in (ağırbaşlı özdenetimin) de zıddıdır! Bu yüzden Kur'an'da `جَاهِلِيَّة` bir okuryazarlık eksikliği değil, **kabileci öfke (`48:26`), keyfî hukuk (`5:50`), temelsiz kuruntu (`3:154`) ve fevri saldırganlık (`25:63`, `49:6`)** kültürüdür.",
+      "opposites": [
+        "ع-ل-م [أَلَآ إِنَّ ٱلْعِلْمَ عِندَ ٱللَّهِ ... وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ] (Sağlam ve Doğrulanmış Bilgi ↔ Bilgisizlik ve Fevri Taşkınlık [ٱلْعِلْمَ & تَجْهَلُونَ]: 46:23, 6:111)",
+        "ع-ر-ف [خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَٰهِلِينَ / يَحْسَبُهُمُ ٱلْجَاهِلُ ... تَعْرِفُهُم] (Bilinen Erdem, Tanıma ve Sağduyu ↔ Bilgisiz ve Taşkın Tutum [ٱلْعُرْفِ / تَعْرِفُهُم & ٱلْجَٰهِلِينَ]: 2:273, 7:199)",
+        "ح-ك-م [أَفَحُكْمَ ٱلْجَٰهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًا] (Keyfî Kabile ve Taşkınlık Hükmü ↔ Adil ve Hikmetli İlahi Hüküm [ٱلْجَٰهِلِيَّةِ & حُكْمًا]: 5:50)",
+        "ع-م-ل [يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ] (Fevri Taşkınlıkla Kötü Eylem Üretmek ↔ Bilinçli Dönüş ve Onarım [عَمِلُوا۟ & بِجَهَٰلَةٍ]: 4:17, 6:54, 16:119)",
+        "س-ل-م [وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ قَالُوا۟ سَلَٰمًا / سَلَٰمٌ عَلَيْكُمْ لَا نَبْتَغِى ٱلْجَٰهِلِينَ] (Kaba ve Taşkın Sataşma ↔ Dinginlik ve Esenlik Duruşu [ٱلْجَٰهِلُونَ & سَلَٰمًا]: 25:63, 28:55)"
+      ]
+    },
+    "ص-م-م": {
+      "latin": "S-M-M (Smm)",
+      "core": "Geçiş ve işitme kanalını sımsıkı tıkayarak hakikat çağrısına ve akletmeye bilinçli biçimde kapanmak (`2:18,171`, `6:39`, `8:22` aklı işletmeyi reddeden bilinç tıkanıklığı; `25:73` ayetlere kör ve sağır kapanmadan uyanık bilinçle yaklaşmak; `10:42`, `21:45`, `27:80`, `30:52`, `43:40` sırt çevirene zorla duyurulamayacağı; `5:71`, `11:24`, `17:97`, `47:23` iradeli tıkanıklık ve bozgunculuğun sonucu).",
+      "physical": "Bir geçidin, deliğin veya kanalın **sımsıkı kapanıp tıkanması (`تضام الشيء وزوال الخرق والسَّمّ`)** — şişenin ağzını tıkayan tıpa (`صِمَام`) ve boşluksuz yekpare sert kaya (`حجر أصم`) hep bu köktendir! Kur'an'da `ص-م-م` (15 geçişin TAMAMI) doğuştan fiziksel işitme engeli değil, **insanın aklını kullanmayı reddederek (`لَا يَعْقِلُونَ` — `2:171`, `8:22`, `10:42`) hakikat çağrısına karşı algı kanalını sımsıkı tıkamasıdır**.",
+      "opposites": [
+        "س-م-ع [أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ / وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ / كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ] (Algı Kanalını Tıkamak ↔ Uyanık Biçimde Dinleyip Anlamak [ٱلصُّمُّ & ٱلسَّمِيعِ]: 10:42, 11:24, 21:45, 27:80, 30:52, 43:40)",
+        "ع-ق-ل [صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَعْقِلُونَ / ٱلصُّمُّ ٱلْبُكْمُ ٱلَّذِينَ لَا يَعْقِلُونَ] (Sımsıkı Tıkanmış Algı ↔ Düşünüp Bağ Kurarak Akletmek [ٱلصُّمُّ & يَعْقِلُونَ]: 2:171, 8:22, 10:42)",
+        "أ-ذ-ن [وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ / صُمًّا وَعُمْيَانًا] (Açık Kulak ve İzinli Dinleyiş ↔ Tıkanmış İşitme Kanalı [أ-ذ-ن & ٱلصُّمَّ]: 25:73, 27:80)",
+        "ع-م-ي [فَعَمُوا۟ وَصَمُّوا۟ / لَمْ يَخِرُّوا۟ عَلَيْهَا صُمًّا وَعُمْيَانًا / فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ] (İşitme Kanalını Tıkamak ↔ Görüş ve Basireti Kapatmak [صُمًّا & عُمْيَانًا]: 2:18, 5:71, 11:24, 25:73, 47:23)"
       ]
     }
   }
