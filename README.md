@@ -9,22 +9,22 @@ Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** 
 1. Ana sistem anayasasını oku: `PROMPT.md`
 2. Kalite sigortalarını oku: `tools/QUALITY_CONSTITUTION.md`
 3. Mevcut ilerleme durumunu kontrol et:
-   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **221 kök mühürlü**, `%77,12` kapsam)
+   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **276 kök mühürlü**, `%80,14` kapsam)
    - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md` (tamamlanan Etap 1 listesi: `100/100`)
    - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md` (tamamlanan Etap 2 listesi: `100/100`)
    - `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md` (tamamlanan Etap 2.5 kilit kavramlar listesi: `16/16`)
-   - `data/etap_3_key_roots.json` & `data/ETAP_3_KAVRAM.md` (aktif **Etap 3** listesi: Faz 2 öncesi kafa karıştıran ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** — `3A Çekirdek 55` + `3B Tam Zırh 76`)
+   - `data/etap_3_key_roots.json` & `data/ETAP_3_KAVRAM.md` (aktif **Etap 3** listesi: Faz 2 öncesi kafa karıştıran ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** — **Etap 3A Çekirdek `55/55` [%100] TAMAMLANDI**, Etap 3B Tam Zırh `0/76`)
 
 ## 📁 Depo Yapısı
 
 - `PROMPT.md`: Tüm çalışma protokolü (10 Uzman Disiplin, Sözlükler Hakem Masası, JSON v3.0 şeması, devam motoru)
-- `data/locked_roots.json`: Mühürlenmiş tüm köklerin tam v3.0 veritabanı (`221` kilitli kök)
+- `data/locked_roots.json`: Mühürlenmiş tüm köklerin tam v3.0 veritabanı (`276` kilitli kök)
 - `data/locked_roots_compact.json`: Hızlı okuma için sıkıştırılmış kök özeti
-- `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri (`221` kavram JSON dosyası)
+- `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri (`276` kavram JSON dosyası)
 - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md`: İlk 100 kök indeksi (`100/100` tamamlandı)
 - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md`: İkinci 100 yeni kök indeksi (`100/100` tamamlandı)
 - `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md`: Top 200 dışında kalan 16 kilit kavram (`ث-ن-ي [Mesânî]` dahil) indeksi (`16/16` tamamlandı)
-- `data/etap_3_key_roots.json` & `data/ETAP_3_KAVRAM.md`: Faz 2 öncesi kafa karıştıran kavramlar ve açık Mesânî/Furûk eşlenikleri indeksi (**131 kök:** `3A` 55 çekirdek + `3B` 76 tamamlayıcı; `%83,08` kümülatif hedef)
+- `data/etap_3_key_roots.json` & `data/ETAP_3_KAVRAM.md`: Faz 2 öncesi kafa karıştıran kavramlar ve açık Mesânî/Furûk eşlenikleri indeksi (**131 kök:** `3A: 55/55` tamamlandı [`%80,14`], `3B: 0/76` sıradaki hedef [`%83,08`])
 - `data/particles_and_prepositions.json` & `data/EDAT_VE_HARFICER_HARITASI.md`: Kur'an'daki köksüz edatlar (`10` harf-i cer, `11` yapısal/mantıksal edat) ve `13` köksüz/ödünç anahtar kavram haritası (Faz 2 omurgası)
 - `data/quran-*.txt` & `data/quranic-corpus-morphology-0.4.txt`: Yerel Kur'an metinleri ve morfoloji korpusu
 - `tools/`: Saf Python standart kütüphanesiyle çalışan doğrulama ve üretim araçları (ek paket kurulumu gerektirmez)
