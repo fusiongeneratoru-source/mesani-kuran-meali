@@ -13098,5 +13098,162 @@
       }
     ],
     "context_default": "Eski/bozucu olanı söküp yerine sağlamını koymak veya olguyu/metni eksiksiz sicile aktarmak (ن-س-خ)."
+  },
+  "ط-غ-ي": {
+    "buckwalter": "Tgy",
+    "slug": "tagut_tugyan_siniri_asip_tasmak_tgy",
+    "concept_name": "Tâğût ve Tuğyân (Doğal Yatak, Ölçü ve Meşruiyet Sınırını Aşıp Taşmak; Zorba Sahte Otorite)",
+    "keywords": [
+      "azgın",
+      "taşkın",
+      "haddi aş",
+      "sınırı aş",
+      "tağut",
+      "tâğût",
+      "tuğyan",
+      "kabarıp taş",
+      "zorba",
+      "azıt"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "TagaY`",
+        "ayahs": [
+          "69:11"
+        ],
+        "label": "Yatağını ve kıyısını aşıp taştı (طَغَا — Bab I mâzi fiil; fâili ٱلْمَآءُ [su], kökün fiziksel çıpası)"
+      },
+      {
+        "lemma": "TagaY`",
+        "ayahs": [
+          "53:17"
+        ],
+        "label": "Hedef sınırını aşıp taşmadı (مَا طَغَىٰ — Bab I olumsuz mâzi fiil; fâili ٱلْبَصَرُ [göz/bakış])"
+      },
+      {
+        "lemma": "TagaY`",
+        "ayahs": [
+          "55:8",
+          "20:81",
+          "11:112"
+        ],
+        "label": "Ölçü ve denge sınırını aşmayın (لَا تَطْغَوْا۟ — Bab I nehiy/meczûm muzâri fiil; mîzân, rızık ve istikamette taşkınlık yasağı)"
+      },
+      {
+        "lemma": "TagaY`",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Ölçü ve hukuk sınırını aşıp taşkınlaştı (طَغَىٰ / طَغَوْا۟ — Bab I mâzi fiil; Firavun, zorba kavimler veya sınır tanımaz insan)"
+      },
+      {
+        "lemma": "TagaY`",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Sınırı aşıp taşkınlaşır / taşkınlık etmesi (يَطْغَىٰ / لَيَطْغَىٰٓ — Bab I muzâri fiil; 20:45, 96:6)"
+      },
+      {
+        "lemma": ">aTogayo",
+        "label": "Onu ben sınır dışına sürükleyip azdırmadım (مَآ أَطْغَيْتُهُۥ — Bab IV ettirgen mâzi fiil: 50:27)"
+      },
+      {
+        "lemma": "T~a`guwt",
+        "label": "Haddini aşıp meşruiyet dışı hüküm ve bağlılık dayatan zorba otorite (ٱلطَّٰغُوت — tekil/çoğul/eril/dişil ortak isim: 2:256-257, 4:51/60/76, 5:60, 16:36, 39:17)"
+      },
+      {
+        "lemma": "Tugoya`n",
+        "label": "Süreğen sınır aşımı, frensiz azgınlık ve taşkınlık hâli (طُغْيَٰن — mastar: 2:15, 5:64/68, 6:110, 7:186, 10:11, 17:60, 18:80, 23:75)"
+      },
+      {
+        "lemma": "Ta`giyn",
+        "label": "Sınırları çiğneyip taşkınlaşanlar (طَٰغِينَ / طَاغُونَ — çoğul ism-i fâil/sıfat: 37:30, 38:55, 51:53, 52:32, 68:31, 78:22)"
+      },
+      {
+        "lemma": "T~aAgiyap",
+        "label": "Tüm doğal ölçüleri aşan yıkıcı taşkın sarsıntı/olay (ٱلطَّاغِيَةِ — dişil ism-i fâil: 69:5)"
+      },
+      {
+        "lemma": "TagowaY`",
+        "label": "Kendi sınır tanımaz azgınlığı ve taşkınlığı (طَغْوَىٰهَآ — mastar isim: 91:11)"
+      },
+      {
+        "lemma": ">aTogaY`",
+        "label": "Sınır aşmada ve taşkınlıkta daha ileri olan (أَطْغَىٰ — ism-i tafdîl: 53:52)"
+      }
+    ],
+    "irab_default": "Belirlenmiş yatak, ölçü veya meşruiyet sınırını aşıp taşmak (ط-غ-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "69:11",
+          "53:17",
+          "69:5"
+        ],
+        "text": "Fiziksel ve duyusal çıpa kullanımı: suyun yatağını aşıp taşması (69:11), bakışın hedef sınırını aşmaması (53:17) ve Semûd'u vuran ölçüyü aşmış yıkıcı olay (69:5)."
+      },
+      {
+        "ayahs": [
+          "55:8",
+          "20:81",
+          "11:112"
+        ],
+        "text": "Ölçü, rızık ve istikamette sınır aşımı yasağı: kozmik ve toplumsal mîzânda taşmamak (55:8), verilen temiz rızıkta ölçüyü bozmamak (20:81) ve dosdoğru durup haddi aşmamak (11:112)."
+      },
+      {
+        "ayahs": [
+          "20:24",
+          "20:43",
+          "20:45",
+          "79:17",
+          "89:11",
+          "53:52",
+          "91:11",
+          "37:30",
+          "51:53",
+          "52:32",
+          "68:31"
+        ],
+        "text": "Siyasal ve toplumsal zorbalık: Firavun'un, Nûh kavminin, Semûd'un ve ülkelerde bozgunculuğu artıran sınır tanımaz toplulukların haddi aşan zorbalığı (طَغَىٰ / طَاغُونَ / طَغْوَىٰ)."
+      },
+      {
+        "ayahs": [
+          "96:6",
+          "79:37",
+          "50:27",
+          "38:55",
+          "78:22"
+        ],
+        "text": "Bireysel sınır aşımı ve nihai karşılığı: insanın kendini muhtaçsız görüp taşkınlaşması (96:6), bireysel seçim sorumluluğu (50:27, 79:37) ve sınırları çiğneyenlerin varacağı kötü dönüş yeri (38:55, 78:22)."
+      },
+      {
+        "ayahs": [
+          "2:15",
+          "5:64",
+          "5:68",
+          "6:110",
+          "7:186",
+          "10:11",
+          "17:60",
+          "18:80",
+          "23:75"
+        ],
+        "text": "Süreğen taşkınlık hâli (طُغْيَان): gerçeği örtmeye direnenlerin kendi sınır aşımı karanlıkları içinde şaşkınca bocalamaları ve hakikat karşısında azgınlıklarının artması."
+      },
+      {
+        "ayahs": [
+          "2:256",
+          "2:257",
+          "4:51",
+          "4:60",
+          "4:76",
+          "5:60",
+          "16:36",
+          "39:17"
+        ],
+        "text": "Tâğût (ٱلطَّٰغُوت): haddini aşarak Allah'ın ölçüsü dışında yargı (4:60), yönlendirme (2:257), savaş (4:76) ve bağlılık (5:60, 16:36, 39:17) dayatan her türlü zorba otorite ve sahte sistemin reddedilmesi."
+      }
+    ],
+    "context_default": "Belirlenmiş doğal yatak, ölçü, denge veya meşruiyet sınırını aşıp taşmak; haddi aşan zorba otoriteye dönüşmek (ط-غ-ي)."
   }
 }
