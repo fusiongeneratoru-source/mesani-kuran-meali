@@ -45,11 +45,11 @@ python3 tools/generate_compact_roots.py
 python3 tools/verify_project.py
 ```
 
-## 🌐 Web (Antigravity Agent Preview) Çalışma Ayarları
+## 🌐 Web (Antigravity Remote Agents / Agent Preview) Çalışma ve Senkronizasyon Kuralları
 
-Google AI Studio üzerindeki **Antigravity Agent Preview** ortamında devam ederken:
+**Antigravity Web (`antigravity.google.com` / Remote Agents)** veya bulut ortamında devam ederken:
 
-1. **Tools:** `Code execution`, `Grounding with Google Search`, `URL context` ve `Filesystem tools` açık olmalıdır.
-2. **Environment -> Sources:** Bu GitHub deposu kaynak olarak eklenir.
-3. **System instructions:** `PROMPT.md` içeriği doğrudan yapıştırılabilir veya ajandan depo kökündeki `PROMPT.md` dosyasını okuyarak kaldığı yerden devam etmesi istenir.
-4. **Senkronizasyon:** Yapılan değişikliklerin kalıcı olması için oturum sonunda güncellenen dosyalar depoya kaydedilir (`git commit` / `git push`) veya dışa aktarılıp PC kopyasına işlenir.
+1. **Başlangıç:** Yeni bir sohbet açıldığında ajan önce `README.md`, `PROMPT.md` ve `tools/QUALITY_CONSTITUTION.md` dosyalarını okuyarak güncel ilerlemeyi (şu an **221 mühürlü kök, Faz 1 tamamlandı, Faz 2 hazır**) teyit eder.
+2. **Zorunlu Doğrulama:** Her yeni kök, sure çözümlemesi veya dosya değişikliği sonrasında `python3 tools/verify_project.py` çalıştırılıp **SIFIR HATA** doğrulanır.
+3. **Kalıcı Kayıt ve GitHub Senkronizasyonu (ZORUNLU KURAL):** Bulut (Remote Agents) oturumları geçici bir çalışma kopyası üzerinde çalıştığından, yapılan değişikliklerin kaybolmaması için ajan **doğrulanan her görev/etap sonunda** kullanıcıya hemen hatırlatarak onay alır ve değişiklikleri GitHub deposuna (`git commit` ve `git push`) kalıcı olarak gönderir. Kullanıcı oturum başında otomatik gönderim onayı verdiyse her doğrulanan adım sonunda doğrudan GitHub'a işler.
+4. **PC ile Eşitleme:** Web oturumunda GitHub'a işlenen güncellemeler, yerel PC'ye dönüldüğünde tek adımda (`git pull`) bilgisayara çekilerek iki ortam %100 senkron tutulur.
