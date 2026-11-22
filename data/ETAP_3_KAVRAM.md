@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 11 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 16 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 11 / 131 Kök (Toplam Mühürlü: 232 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 16 / 131 Kök (Toplam Mühürlü: 237 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -20,11 +20,11 @@
 | 9 | ⭐ **3A** | Teoloji ve Otorite | 1065 | `ك-ر-س` | `K-R-S` | **2** | 2 | 2:255 | Kürsî (Hüküm, Bilgi ve Tasarrufun İcra Edildiği Sağlam Yönetim Makamı ve Kuşatıcı Yetki Alanı) | ✅ **MÜHÜRLÜ** |
 | 10 | ⭐ **3A** | Teoloji ve Otorite | 229 | `م-ك-ر` | `M-K-R` | **43** | 23 | 3:54 | Mekr (Görünmeden İnce Düzen/Strateji Kurmak; Kötü Komplo ve İlahi Karşı Tedbir) | ✅ **MÜHÜRLÜ** |
 | 11 | ⭐ **3A** | Teoloji ve Otorite | 233 | `س-خ-ر` | `S-H-R` | **42** | 35 | 2:164 | Teshîr ve Suhriye (Varlıkları Yasaya/Hizmete Boyun Eğdirmek; İşbölümü Bağı; Küçümseyip Alaya Almak) | ✅ **MÜHÜRLÜ** |
-| 12 | ⭐ **3A** | Vahiy ve Kimlik | 215 | `ص-ر-ط` | `S-R-T` | **45** | 45 | 1:6 | Sırât (Fâtiha omurgası: geniş ana cadde; Sebîl ve Şerîat ile Furûk) | ⏳ *Bekliyor* |
-| 13 | ⭐ **3A** | Vahiy ve Kimlik | 509 | `ش-ب-ه` | `S-B-H` | **12** | 9 | 2:25 | Müteşâbih, Teşâbüh ve Şübbihe (3:7 muhkem-müteşâbih ayrımı ve 4:157 benzetilme ayeti) | ⏳ *Bekliyor* |
-| 14 | ⭐ **3A** | Vahiy ve Kimlik | 517 | `ح-ن-ف` | `H-N-F` | **12** | 12 | 2:135 | Hanîf (eğrilikten ve sapmadan doğruluk eksenine kesin yöneliş) | ⏳ *Bekliyor* |
-| 15 | ⭐ **3A** | Vahiy ve Kimlik | 421 | `م-ل-ل` | `M-L-L` | **18** | 16 | 2:120 | Millet (yazdırılan ve izlenen yaşam yolu/sistemi; İbrâhîm yolu) | ⏳ *Bekliyor* |
-| 16 | ⭐ **3A** | Vahiy ve Kimlik | 241 | `ش-ع-ر` | `S-A-R` | **40** | 40 | 2:9 | Şuûr, Şâir ve Şeâir (ince farkındalık, şiir ve ortak semboller/nişaneler tek kökte) | ⏳ *Bekliyor* |
+| 12 | ⭐ **3A** | Vahiy ve Kimlik | 215 | `ص-ر-ط` | `S-R-T` | **45** | 45 | 1:6 | Sırât (Çatallanmayan, Açık, Geniş ve Daima Tekil Ana Yol / Ana Güzergâh) | ✅ **MÜHÜRLÜ** |
+| 13 | ⭐ **3A** | Vahiy ve Kimlik | 509 | `ش-ب-ه` | `S-B-H` | **12** | 9 | 2:25 | Müteşâbih ve Teşâbüh (Nitelikçe Benzeşmek; İç Tutarlılık Uyumu ve Ayırt Etme Belirsizliği) | ✅ **MÜHÜRLÜ** |
+| 14 | ⭐ **3A** | Vahiy ve Kimlik | 517 | `ح-ن-ف` | `H-N-F` | **12** | 12 | 2:135 | Hanîf (Tüm Sapma, Ortak Koşma ve Hizipçi Kalıplardan Kopup Tek Yaratıcı'ya Dosdoğru Yönelmek) | ✅ **MÜHÜRLÜ** |
+| 15 | ⭐ **3A** | Vahiy ve Kimlik | 421 | `م-ل-ل` | `M-L-L` | **18** | 16 | 2:120 | Millet ve İmlâl (Sözleşmeyi Dikte Ettirmek; İlan Edilmiş Ortak Öğreti ve Yaşam Çizgisi) | ✅ **MÜHÜRLÜ** |
+| 16 | ⭐ **3A** | Vahiy ve Kimlik | 241 | `ش-ع-ر` | `S-A-R` | **40** | 40 | 2:9 | Şuûr, Şeâir ve Şiir (Kıl İnceliğinde Sezmek; Bilinç Nişaneleri; Hayal Örgülü Söz ve Kıl) | ✅ **MÜHÜRLÜ** |
 | 17 | ⭐ **3A** | Vahiy ve Kimlik | 259 | `ح-د-ث` | `H-D-S` | **36** | 36 | 2:76 | Hadîs (yeni ortaya çıkan söz ve anlatı; Kur'an'ın kendisine Ahsenü'l-Hadîs demesi) | ⏳ *Bekliyor* |
 | 18 | ⭐ **3A** | Vahiy ve Kimlik | 303 | `ق-ص-ص` | `K-S-S` | **30** | 25 | 2:178 | Kıssa ve Kısâs (iz sürmek ve birebir denklikle takip etmek — anlatı ile hukuk tek kökte) | ⏳ *Bekliyor* |
 | 19 | ⭐ **3A** | Vahiy ve Kimlik | 240 | `ف-ل-ح` | `F-L-H` | **40** | 40 | 2:5 | Felâh ve Müflihûn (toprağı yarıp filizlendirmek gibi çabayla sonuç ve kurtuluş hasat etmek) | ⏳ *Bekliyor* |

@@ -1,0 +1,866 @@
+{
+  "root": "ش-ع-ر",
+  "root_latin": "S-A-R ($Er)",
+  "concept_name": "Şuûr, Şeâir ve Şiir (Kıl İnceliğinde Sezmek; Bilinç Nişaneleri; Hayal Örgülü Söz ve Kıl)",
+  "rank": 241,
+  "total_occurrences": 40,
+  "unique_ayahs_count": 40,
+  "unified_core_mechanism": "İki bağlantılı asıl: (1) Deride biten ince kıl (`16:80` `أَشْعَارِهَا`); (2) Kıl inceliğindeki en hassas ipucunu ve arka planı sezmek/fark etmek (`يَشْعُرُونَ` — 25 geçiş, `يُشْعِرُ` — 2 geçiş), derin farkındalık uyandıran ilahi nişane ve bilinç durağı (`شَعَائِرَ ٱللَّهِ`, `ٱلْمَشْعَرِ ٱلْحَرَامِ` — 5 geçiş), ince sezgi/hayal kurgusuyla söylenen söz (`شِعْر / شَاعِر` — 7 geçiş) ve parlak Sirius yıldızı (`ٱلشِّعْرَىٰ` — `53:49`).",
+  "physical_core": "İki köklü fiziksel zemin: (1) Hayvan ve insan derisinde biten ince kıl/tüy (`16:80 وَأَشْعَارِهَآ` — keçilerin kılları); (2) Kıl inceliğindeki en hassas, gizli veya ince ayrıntıyı sezmek, farkına varmak ve bilinç uyandıran nişane koymak (`شُعُور`, `شَعَائِر`, `مَشْعَر`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün bilinen iki asla ayrıldığını kaydeder: (1) Ciltte bitip yerleşen kıl/tüy/bitki yoğunluğu (matbu baskıda `ثبات` / şerhlerde `نبات` olarak geçer; `شَعَر`, iç gömlek `شِعار`), (2) İnce kavrayış ve fark etme bilinci (`علم` — `شعرت بالشيء`, ince sezişle söz ören `شاعر`, bilinç nişanesi `شعيرة`).",
+    "lisan_al_arab": "İbn Manzûr `شَعَرَ بِهِ: فَطِنَ لَهُ وَعَلِمَهُ عِلْمًا دَقِيقًا` ('bir şeyi kıl inceliğinde sezdi ve ince bilgiyle fark etti') tanımını verir; `شَعَائِر` kelimesini 'belirli bir amaç ve bilinç için özel nişaneyle işaretlenmiş alametler' olarak açıklar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî iki asıl arasındaki somut köprüyü kurar: `شعرت أصبت الشعر، ومنه استعير شعرت كذا` ('kıla isabet ettim / kıl kadar ince noktayı yakaladım; buradan en ince ayrıntıyı sezmek anlamına taşındı') ve 16:80'deki `وَأَشْعَارِهَآ` (kılları) fiziksel çıpasını başa koyar.",
+    "arbitration_decision": "Hakem Masası Kararı: 16:80'deki `وَأَشْعَارِهَآ` (kılları) çıpası ile Râgıb'ın 'kıl inceliğindeki noktayı yakalamak' tespiti 40 geçişin tamamını berraklaştırır: (1) `يَشْعُرُونَ / تَشْعُرُونَ` (25 geçişin tamamı olumsuz veya şartlı!) yalnızca yüzeysel bilgi eksikliği değil, kişinin burnunun dibindeki gerçeği ve kendi eyleminin sonucunu kıl kadar bile **sezemeyip fark edememesi**dir (`2:9`, `2:12`, `27:18`, `49:2`). (2) `شَعَائِرَ ٱللَّهِ` (4 geçiş) ve `ٱلْمَشْعَرِ ٱلْحَرَامِ` (2:198) körü körüne tekrarlanan soğuk ritüeller değil, insanda derin farkındalık ve Allah bilinci uyandıran **seçkin nişaneler ve bilinç odakları**dır (`22:32` kalplerin sakınması/bilincinden doğar). (3) `شِعْر / شَاعِر` (7 geçiş) ince sezgi ve hayal kurgusuyla söz örmeyi ifade eder; Kur'an kendi vahyini hayalci ve sözü eylemine uymayan şairlikten (`26:224-226`, `36:69`, `69:41`) kesin biçimde ayırır. (4) `ٱلشِّعْرَىٰ` (53:49) cahiliye döneminde kutsanan parlak Sirius yıldızının özel adıdır."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "Proto-Sami *śaʕr- ('kıl, tüy' — Proto-Sami *s₂ ses yasasına göre Arapça ش = İbranice שׂ).",
+    "hebrew": "İbranice שֵׂעָר (*śēʿār* — kıl, saç).",
+    "syriac": "Klasik Süryanice ܣܰܥܪܳܐ (*saʿrā* — kıl, tüy).",
+    "akkadian": "Akadca *šārtum* ('kıl, tüy, post').",
+    "geez": "Ge'ez ሥዕርት (*śəʕərt* — saç, kıl).",
+    "note": "Asl 1 ('kıl/tüy': 16:80) tüm Sami ailesinde ortak Proto-Sami mirasıdır; Asl 2 ('kıl inceliğinde sezmek, bilinç nişanesi, şiir') Arapça'da bu fiziksel incelikten derinleşerek açılmıştır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ق-ر-أ & ذ-ك-ر [وَمَا عَلَّمْنَٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ] (Hayal Kurgulu Şiir Sözü ↔ Açık Bilinç Hatırlatması ve Kur'an Okuması: 36:69, 69:41)",
+      "ع-ل-م [يَعْلَمُونَ ↔ لَا يَشْعُرُونَ / لَوْ تَشْعُرُونَ] (Kuşatıcı Bilgi ↔ En İnce İpucunu Bile Sezemeyen Gaflet: 2:12-13, 27:65)",
+      "غ-و-ي [وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ] (Sözü Eylemine Uymayıp Her Vadide Savrulan Şairler ↔ Hakikate Sadık ve Yapıcı Kimseler: 26:224-227)",
+      "م-ك-ر (M-K-R (mkr) — Çift Yönlü Mesânî Karşılığı)"
+    ],
+    "key_ayahs": [
+      "16:80 (وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ — Asl 1 fiziksel çıpa: hayvanların yün, tüy ve kılları)",
+      "2:9 & 2:12 & 2:154 (وَمَا يَشْعُرُونَ / وَلَٰكِن لَّا تَشْعُرُونَ — kıl inceliğindeki gerçeği fark edememek)",
+      "22:32 (وَمَن يُعَظِّمْ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقْوَى ٱلْقُلُوبِ — Allah'ın bilinç nişanelerine saygı)",
+      "36:69 & 69:41 (vahyin şair sözünden [ٱلشِّعْرَ / قَوْلِ شَاعِرٍ] kesin biçimde ayrılması)",
+      "53:49 (وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ — Sirius yıldızının da tek Rabbi Allah'tır)"
+    ],
+    "reverse_stress_test": "Açık vahiy okumasıyla (ق-ر-أ 36:69) ve kapsamlı bilgiyle (ع-ل-م 27:65) karşılaştırıldığında, `ش-ع-ر` kökünün 'kıl/tüy (Asl 1) ve kıl inceliğindeki ayrıntıyı sezme, bilinç nişanesi koyma, duygu/hayal inceliğiyle söz örme (Asl 2)' ikili yapısı tüm 40 geçişi eksiksiz kavrar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "أَصْوَافِهَا (S-W-F: Koyun Yünü) vs أَوْبَارِهَا (W-B-R: Deve Tüyü) vs أَشْعَارِهَآ (S-A-R: Keçi Kılı) [16:80]",
+      "ٱلشِّعْرَ (S-A-R: Duygu ve Hayal Örgülü Şiir Sözü) vs ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ (Z-K-R / Q-R-A: Hakikati Hatırlatan Açık Okuma) [36:69]",
+      "قَوْلِ شَاعِرٍ (S-A-R: Hayalci Şair Sözü) vs قَوْلِ كَاهِنٍ (K-H-N: Gaipten Haber İddialı Kâhin Sözü) [69:41-42]"
+    ],
+    "mechanical_difference": "1) 16:80 üç hayvansal lifi doğalarına göre tam ayırır: yün (`أصواف`), deve tüyü (`أوبار`) ve sert ince kıl (`أشعار`). 2) 36:69 ve 69:41-42'de vahiy hem ölçülü hayal sözünden (`شاعر`) hem de kâhin kehanetinden (`كاهن`) ayrılır. 3) Kur'an'da `شَعَرَ` akli/delilli bilme olan `عَلِمَ`den farklı olarak ince bir ipucunu anında sezme ve fark etme duyusunu bildirir."
+  },
+  "anchor_ayahs": [
+    "16:80 (وَأَشْعَارِهَآ — Asl 1 fiziksel çıpa: hayvan kılları)",
+    "2:9 & 2:12 & 27:18 (وَمَا يَشْعُرُونَ / وَهُمْ لَا يَشْعُرُونَ — en ince gerçeği ve etkiyi sezememek)",
+    "18:19 (وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا — Bab IV: hiç kimseye en ufak bir ipucu bile sezdirmesin)",
+    "2:158 & 2:198 & 22:32 (شَعَٰٓئِرَ ٱللَّهِ / ٱلْمَشْعَرِ ٱلْحَرَامِ — Allah'ın bilinç uyandıran nişaneleri ve dokunulmaz bilinç durağı)",
+    "26:224 & 36:69 & 53:49 (شُعَرَاء / ٱلشِّعْرَ / ٱلشِّعْرَىٰ — şairlerin savrulması, vahyin şiirden ayrımı ve Sirius yıldızı)"
+  ],
+  "grammar_and_branch_rules": "1) İnce Sezgi ve Farkındalık Eksikliği — Bab I (`يَشْعُرُونَ / تَشْعُرُونَ` — 25 geçiş): Kur'an'daki tüm Bab I kullanımları olumsuz veya şartlıdır (`لَا يَشْعُرُونَ / لَوْ تَشْعُرُونَ`); kişinin kendi aldanışını, yaklaşan akıbeti veya öte yaşam gerçekliğini fark edemeyişini vurgular. 2) İpucu Verme / Fark Ettirme — Bab IV (`6:109`, `18:19` — 2 geçiş): Bir gerçeği veya gizli konumu başkasına sezdirmek. 3) Bilinç Uyandıran Nişaneler (`2:158`, `2:198`, `5:2`, `22:32`, `22:36` — 5 geçiş): `شَعَائِرَ ٱللَّهِ` (Safâ-Merve ve adanan büyükbaşlar gibi sorumluluk bilinci uyandıran nişaneler) ile `ٱلْمَشْعَرِ ٱلْحَرَامِ` (dokunulmaz bilinç durağı). 4) Şiir ve Şairler (`21:5`, `26:224`, `36:69`, `37:36`, `52:30`, `69:41` — 6 geçiş): Vahyin hayal kurgulu şair sözünden ayrılması. 5) Fiziksel Kıl ve Gök Cismi (`16:80` `أَشْعَارِهَا`, `53:49` `ٱلشِّعْرَىٰ` — 2 geçiş).",
+  "derivatives": {
+    "يَشْعُرُونَ / تَشْعُرُونَ (Bab I Fiil - 25 geçiş)": "En ince ipucunu ve arka plandaki gerçeği sezmek, farkına varmak (tamamı olumsuz/şartlı bağlamda: farkında olmamak).",
+    "يُشْعِرُكُمْ / يُشْعِرَنَّ (Bab IV Fiil - 2 geçiş: 6:109, 18:19)": "Bir gerçeği fark ettirmek veya bir konumu başkasına sezdirmek.",
+    "شَعَائِر / ٱلْمَشْعَر (İsim & İsm-i Mekân - 5 geçiş: 2:158, 2:198, 5:2, 22:32, 22:36)": "Allah'ın bilinç ve sorumluluk uyandıran seçkin nişaneleri (`شَعَائِر`) ve dokunulmaz farkındalık durağı (`ٱلْمَشْعَرِ ٱلْحَرَامِ`).",
+    "أَشْعَار (İsim Çoğul - 1 geçiş: 16:80)": "Hayvanların (keçilerin) döşeme ve eşya yapılan kılları.",
+    "ٱلشِّعْر / شَاعِر / ٱلشُّعَرَاء (İsim & İsm-i Fâil - 6 geçiş)": "Duygu ve hayal örgülü ölçülü söz (`ٱلشِّعْر`) ve bunu söyleyen kimse (`شَاعِر / شُعَرَاء`).",
+    "ٱلشِّعْرَىٰ (Özel İsim - 1 geçiş: 53:49)": "Eski Arapların kutsadığı parlak Sirius (Şi'râ) yıldızı."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 9,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:9",
+      "word_position": 10,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ı ve güven duy kandırırlar sanki Halbuki haberleri yok, ancak kendilerini kandırırlar.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "يُخَٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ı ve güven duy kandırırlar sanki Halbuki haberleri yok, ancak kendilerini kandırırlar.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 2,
+      "ayah": 12,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:12",
+      "word_position": 7,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "ٱلْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bilin ki onlardır fesatçılar ama anlamazlar.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bilin ki onlardır fesatçılar ama anlamazlar.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 2,
+      "ayah": 154,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:154",
+      "word_position": 13,
+      "target_word_uthmani": "تَشْعُرُونَ",
+      "target_word_rasm": "تشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "أَحْيَآءٌ وَلَٰكِن لَّا تَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah yolunda öldürülenlere de ölü demeyin. Onlar diridir ama siz anlamazsınız.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ بَلْ أَحْيَآءٌ وَلَٰكِن لَّا تَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda öldürülenlere de ölü demeyin. Onlar diridir ama siz anlamazsınız.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 2,
+      "ayah": 158,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:158",
+      "word_position": 5,
+      "target_word_uthmani": "شَعَآئِرِ",
+      "target_word_rasm": "شعائر",
+      "target_word_literal_irab": "İnsanda derin Allah bilinci ve sorumluluk uyandıran seçkin nişaneler (شَعَآئِرِ / شَعَٰٓئِرَ — çoğul isim: 2:158, 5:2, 22:32, 22:36)",
+      "context_snippet_arabic": "ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ فَمَنْ حَجَّ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Safa ve Merve, Allah alametlerindendir. Artık kim büyük yöneliş toplanması veya umre etmek için Ka'be'yi tavaf edip Safa ve Merve arasında koşarsa...",
+      "morphology": {
+        "lemma": "$aEa`^}ir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aEa`^}ir|ROOT:$Er|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا وَمَن تَطَوَّعَ خَيْرًا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Safa ve Merve, Allah alametlerindendir. Artık kim büyük yöneliş toplanması veya umre etmek için Ka'be'yi tavaf edip Safa ve Merve arasında koşarsa suçsuzdur. Kim gönlünden koparak hayır işlerse şüphe yok ki Allah, ona mükafatta bulunur ve her şeyi de bilir.",
+      "contextual_meaning": "Allah'ın bilinç nişaneleri (شَعَائِر) ve dokunulmaz farkındalık durağı (ٱلْمَشْعَرِ ٱلْحَرَامِ): kalplerin uyanık sorumluluk bilincini canlı tutan saygın işaretler."
+    },
+    {
+      "surah": 2,
+      "ayah": 198,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:198",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْمَشْعَرِ",
+      "target_word_rasm": "ٱلمشعر",
+      "target_word_literal_irab": "Allah'ın bilinciyle anıldığı dokunulmaz farkındalık durağı (ٱلْمَشْعَرِ ٱلْحَرَامِ — ism-i mekân: 2:198)",
+      "context_snippet_arabic": "فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ وَٱذْكُرُوهُ كَمَا",
+      "context_snippet_turkish_tabula_rasa": "Rabbinizden rızık fazlalığı isteyerek ticarette bulunmanızda bir beis yok. Arafat'tan seller gibi boşanıp hep beraber inince de Meş'arülHaram'da Allah'ı anın....",
+      "morphology": {
+        "lemma": "ma$oEar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:ma$oEar|ROOT:$Er|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ فَإِذَآ أَفَضْتُم مِّنْ عَرَفَٰتٍ فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ وَإِن كُنتُم مِّن قَبْلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinizden rızık fazlalığı isteyerek ticarette bulunmanızda bir beis yok. Arafat'tan seller gibi boşanıp hep beraber inince de Meş'arülHaram'da Allah'ı anın. Hem de o, size doğru yolu nasıl gösterdi, onu anmanızı nasıl bellettiyse öyle anın. Bundan önce gerçekten de sapıklardandınız ya.",
+      "contextual_meaning": "Allah'ın bilinç nişaneleri (شَعَائِر) ve dokunulmaz farkındalık durağı (ٱلْمَشْعَرِ ٱلْحَرَامِ): kalplerin uyanık sorumluluk bilincini canlı tutan saygın işaretler."
+    },
+    {
+      "surah": 3,
+      "ayah": 69,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:69",
+      "word_position": 13,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Halbuki sizi değil, ancak kendilerini yoldan çıkarırlar, kendileri sapıklığa düşerler de farkında değillerdir.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinin bir bölüğü, yolunuzu sapıtmak ister. Halbuki sizi değil, ancak kendilerini yoldan çıkarırlar, kendileri sapıklığa düşerler de farkında değillerdir.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 6,
+      "target_word_uthmani": "شَعَٰٓئِرَ",
+      "target_word_rasm": "شعئر",
+      "target_word_literal_irab": "İnsanda derin Allah bilinci ve sorumluluk uyandıran seçkin nişaneler (شَعَآئِرِ / شَعَٰٓئِرَ — çoğul isim: 2:158, 5:2, 22:32, 22:36)",
+      "context_snippet_arabic": "ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah'a kulluk ve yönelişe vesile olan, büyük yöneliş toplanması töreni yapılan yerlerin ve savaşın haram edildiği ayların hürmetini koruyun, büyük yöneliş toplanması yakınlaşma sunusu, yakınlaşma sunusu edilecekleri belli olsun diye boynuna bir şey takılan hayvanlara, Rablerinden bir lütfe ve razılığa ulaşmak için Beytül Haram'ı ziyarete gelenlere hürmetsizlik etmeyin. İhramdan çıkınca avlanın. ...",
+      "morphology": {
+        "lemma": "$aEa`^}ir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aEa`^}ir|ROOT:$Er|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah'a kulluk ve yönelişe vesile olan, büyük yöneliş toplanması töreni yapılan yerlerin ve savaşın haram edildiği ayların hürmetini koruyun, büyük yöneliş toplanması yakınlaşma sunusu, yakınlaşma sunusu edilecekleri belli olsun diye boynuna bir şey takılan hayvanlara, Rablerinden bir lütfe ve razılığa ulaşmak için Beytül Haram'ı ziyarete gelenlere hürmetsizlik etmeyin. İhramdan çıkınca avlanın. Sizi dokunulmaz teslimiyet odağı'dan meneden kavme karşı beslediğiniz kin aşırı hareket etmenize, tecavüzde bulunmanıza sebep olmasın. İyilik etmek ve kötülükten sakınmak hususunda birbirinize yardım edin, suç işlemek ve düşmanlık etmek için yardımlaşmayın ve Allah'tan sakının, şüphe yok ki Allah'ın cezası, çok çetindir.",
+      "contextual_meaning": "Allah'ın bilinç nişaneleri (شَعَائِر) ve dokunulmaz farkındalık durağı (ٱلْمَشْعَرِ ٱلْحَرَامِ): kalplerin uyanık sorumluluk bilincini canlı tutan saygın işaretler."
+    },
+    {
+      "surah": 6,
+      "ayah": 26,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:26",
+      "word_position": 11,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar hem insanları uzaklaştırırlar ondan, hem kendileri uzaklaşırlar. Onlar anlamadan ancak kendilerini helak ederler.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar hem insanları uzaklaştırırlar ondan, hem kendileri uzaklaşırlar. Onlar anlamadan ancak kendilerini helak ederler.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 6,
+      "ayah": 109,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:109",
+      "word_position": 16,
+      "target_word_uthmani": "يُشْعِرُكُمْ",
+      "target_word_rasm": "يشعركم",
+      "target_word_literal_irab": "Bir gerçeği fark ettirmek veya gizli durumu başkasına sezdirmek (يُشْعِرُكُمْ / يُشْعِرَنَّ — Bab IV muzâri fiil: 6:109, 18:19)",
+      "context_snippet_arabic": "عِندَ ٱللَّهِ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, kendilerine bir delil gelirse güven duy dair çok sıkı kesin and ettiler. De ki: Deliller, Allah katındadır, fakat delil gelse de güven duy anlamaz...",
+      "morphology": {
+        "lemma": "yu$oEiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yu$oEiru|ROOT:$Er|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌ لَّيُؤْمِنُنَّ بِهَا قُلْ إِنَّمَا ٱلْءَايَٰتُ عِندَ ٱللَّهِ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, kendilerine bir delil gelirse güven duy dair çok sıkı kesin and ettiler. De ki: Deliller, Allah katındadır, fakat delil gelse de güven duy anlamaz mısınız?",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 6,
+      "ayah": 123,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:123",
+      "word_position": 15,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve böylece her şehirde, hileler, düzenler kursunlar diye o şehrin sapma ve ağır kusur büyülttük, yücelttik, onlar ancak kendilerine karşı hilekarlıkta...",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve böylece her şehirde, hileler, düzenler kursunlar diye o şehrin sapma ve ağır kusur büyülttük, yücelttik, onlar ancak kendilerine karşı hilekarlıkta bulunurlar ama bilmezler.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 7,
+      "ayah": 95,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:95",
+      "word_position": 18,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra da kötülük yerine iyilik verdik, çoğaldılar ve atalarımız da malca zarara uğramışlardı, genişliğe kavuşmuşlardı, bu, böyledir dediler de ansızın onları...",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ بَدَّلْنَا مَكَانَ ٱلسَّيِّئَةِ ٱلْحَسَنَةَ حَتَّىٰ عَفَوا۟ وَّقَالُوا۟ قَدْ مَسَّ ءَابَآءَنَا ٱلضَّرَّآءُ وَٱلسَّرَّآءُ فَأَخَذْنَٰهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra da kötülük yerine iyilik verdik, çoğaldılar ve atalarımız da malca zarara uğramışlardı, genişliğe kavuşmuşlardı, bu, böyledir dediler de ansızın onları azaba uğrattık, anlamadılar bile.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 12,
+      "ayah": 15,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:15",
+      "word_position": 17,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "هَٰذَا وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sonucu onu götürüp kuyuya atmaya hep beraber karar verdikleri zaman ona, andolsun ki farkında bile olmadıkları bir anda şu yaptıklarını haber vereceksin onlara diye vahyetmiştik.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonucu onu götürüp kuyuya atmaya hep beraber karar verdikleri zaman ona, andolsun ki farkında bile olmadıkları bir anda şu yaptıklarını haber vereceksin onlara diye vahyetmiştik.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 12,
+      "ayah": 107,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:107",
+      "word_position": 14,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa onlar, herkesi gelip kaplayacak Allah azabından, yahut hiç haberleri yokken ansızın gelip çatacak kıyametten emin mi oluyorlar?",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa onlar, herkesi gelip kaplayacak Allah azabından, yahut hiç haberleri yokken ansızın gelip çatacak kıyametten emin mi oluyorlar?",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 16,
+      "ayah": 21,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:21",
+      "word_position": 5,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ölülerdir onlar, diriler değil, ne vakit diriltilecekler, ondan da haberleri yok.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ölülerdir onlar, diriler değil, ne vakit diriltilecekler, ondan da haberleri yok.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 16,
+      "ayah": 26,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:26",
+      "word_position": 21,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten, onlardan önce gelip geçenler de düzenler kurdular, Allah, yapılarını temellerinden yıktı da tavan, başlarına yıkılıverdi ve hem de bu azap, anlayamadıkları bir yerden gelip çattı onlara.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten, onlardan önce gelip geçenler de düzenler kurdular, Allah, yapılarını temellerinden yıktı da tavan, başlarına yıkılıverdi ve hem de bu azap, anlayamadıkları bir yerden gelip çattı onlara.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 16,
+      "ayah": 45,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:45",
+      "word_position": 16,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kötülük düzenleri kuranlar emin mi oldular Allah'ın, onları yere batırmayacağından, yahut hiç anlamadıkları bir yerden başlarına bir azap gelmeyeceğinden.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük düzenleri kuranlar emin mi oldular Allah'ın, onları yere batırmayacağından, yahut hiç anlamadıkları bir yerden başlarına bir azap gelmeyeceğinden.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 16,
+      "ayah": 80,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:80",
+      "word_position": 21,
+      "target_word_uthmani": "وَأَشْعَارِهَآ",
+      "target_word_rasm": "وأشعارها",
+      "target_word_literal_irab": "Hayvanların döşeme ve eşya yapılan kılları (وَأَشْعَارِهَآ — Asl 1 çoğul isim: 16:80)",
+      "context_snippet_arabic": "وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَٰثًا وَمَتَٰعًا إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, evlerinizi oturma ve dinlenme yeri yaptı ve davarların derilerinden, göç gününüzde de, konak gününüzde de taşıyabileceğiniz çadırlar yapmanızı...",
+      "morphology": {
+        "lemma": "$~iEor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$~iEor|ROOT:$Er|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَٰمِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَٰثًا وَمَتَٰعًا إِلَىٰ حِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, evlerinizi oturma ve dinlenme yeri yaptı ve davarların derilerinden, göç gününüzde de, konak gününüzde de taşıyabileceğiniz çadırlar yapmanızı sağladı ve yünlerinden, yapağılarından, tüylerinden bir zamana dek kullanacağınız ve alıp satacağınız eşyalar meydana getirmenizi temin etti.",
+      "contextual_meaning": "Fiziksel ve kozmik çıpalar: hayvan kıllarından yapılan eşyalar (16:80) ve Sirius (Şi'râ) yıldızının Rabbi olan Allah (53:49)."
+    },
+    {
+      "surah": 18,
+      "ayah": 19,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:19",
+      "word_position": 36,
+      "target_word_uthmani": "يُشْعِرَنَّ",
+      "target_word_rasm": "يشعرن",
+      "target_word_literal_irab": "Bir gerçeği fark ettirmek veya gizli durumu başkasına sezdirmek (يُشْعِرُكُمْ / يُشْعِرَنَّ — Bab IV muzâri fiil: 6:109, 18:19)",
+      "context_snippet_arabic": "مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "context_snippet_turkish_tabula_rasa": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir...",
+      "morphology": {
+        "lemma": "yu$oEiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yu$oEiru|ROOT:$Er|3MS"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir kısmını uykuyla geçirmişiz dediler ve Rabbiniz, daha iyi bilir dediler, ne kadar kaldığınızı, hele şimdi birinizi şu gümüş parayla şehre yollayın da yiyeceklerin hangisi daha temizse bir miktar alsın, bir rızık getirsin size, ancak çok ihtiyatlı davransın ve hiçbir kimse sizi duyup anlamasın.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 21,
+      "ayah": 5,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:5",
+      "word_position": 9,
+      "target_word_uthmani": "شَاعِرٌ",
+      "target_word_rasm": "شاعر",
+      "target_word_literal_irab": "İnce sezgi ve hayal kurgusuyla söz ören, vahiy elçisinden ayrılan şair(ler) (شَاعِرٌ / وَٱلشُّعَرَآءُ — ism-i fâil: 21:5, 26:224, 37:36, 52:30, 69:41)",
+      "context_snippet_arabic": "ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِـَٔايَةٍ كَمَآ",
+      "context_snippet_turkish_tabula_rasa": "... Bu sözler, saçmasapan rüyadan ibaret, belki de kendisi uyduruyor bunları, hatta o, bir şair. Değilse neden evvelkilere gönderildiği gibi bize bir apaçık gösterge gösteremiyor?",
+      "morphology": {
+        "lemma": "$aAEir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aAEir|ROOT:$Er|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بَلْ قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِـَٔايَةٍ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hatta derler ki: Bu sözler, saçmasapan rüyadan ibaret, belki de kendisi uyduruyor bunları, hatta o, bir şair. Değilse neden evvelkilere gönderildiği gibi bize bir apaçık gösterge gösteremiyor?",
+      "contextual_meaning": "Vahyin şiirden kesin ayrımı: elçiye yöneltilen 'şair' yaftasının reddi ve sözü eylemine uymayıp her vadide savrulan şairlerin eleştirisi."
+    },
+    {
+      "surah": 22,
+      "ayah": 32,
+      "surah_name": "Hac",
+      "ayah_ref": "22:32",
+      "word_position": 4,
+      "target_word_uthmani": "شَعَٰٓئِرَ",
+      "target_word_rasm": "شعئر",
+      "target_word_literal_irab": "İnsanda derin Allah bilinci ve sorumluluk uyandıran seçkin nişaneler (شَعَآئِرِ / شَعَٰٓئِرَ — çoğul isim: 2:158, 5:2, 22:32, 22:36)",
+      "context_snippet_arabic": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن",
+      "context_snippet_turkish_tabula_rasa": "İşte böyledir bu ve kim Allah yaşam sisteminin hükümlerini ulularsa şüphe yok ki bu hareket, yüreklerdeki çekinme duygusundandır.",
+      "morphology": {
+        "lemma": "$aEa`^}ir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aEa`^}ir|ROOT:$Er|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقْوَى ٱلْقُلُوبِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böyledir bu ve kim Allah yaşam sisteminin hükümlerini ulularsa şüphe yok ki bu hareket, yüreklerdeki çekinme duygusundandır.",
+      "contextual_meaning": "Allah'ın bilinç nişaneleri (شَعَائِر) ve dokunulmaz farkındalık durağı (ٱلْمَشْعَرِ ٱلْحَرَامِ): kalplerin uyanık sorumluluk bilincini canlı tutan saygın işaretler."
+    },
+    {
+      "surah": 22,
+      "ayah": 36,
+      "surah_name": "Hac",
+      "ayah_ref": "22:36",
+      "word_position": 5,
+      "target_word_uthmani": "شَعَٰٓئِرِ",
+      "target_word_rasm": "شعئر",
+      "target_word_literal_irab": "İnsanda derin Allah bilinci ve sorumluluk uyandıran seçkin nişaneler (شَعَآئِرِ / شَعَٰٓئِرَ — çoğul isim: 2:158, 5:2, 22:32, 22:36)",
+      "context_snippet_arabic": "جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Büyük develeri de Allah'ın size meşru kıldığı yakınlaşma sunusu hayvanlar olarak yarattık, onlarda hayır ve menfaat var size. Artık onlar, ayaktayken onları boğazlayın ve Allah'ın adını anın, yanüstü düştükleri zaman da hem siz yiyin ondan, hem de yoksulluğunu bildirip isteyen ve gizleyip istemeyen yoksulları doyurun; ...",
+      "morphology": {
+        "lemma": "$aEa`^}ir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aEa`^}ir|ROOT:$Er|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Büyük develeri de Allah'ın size meşru kıldığı yakınlaşma sunusu hayvanlar olarak yarattık, onlarda hayır ve menfaat var size. Artık onlar, ayaktayken onları boğazlayın ve Allah'ın adını anın, yanüstü düştükleri zaman da hem siz yiyin ondan, hem de yoksulluğunu bildirip isteyen ve gizleyip istemeyen yoksulları doyurun; siz nimetin değerini bilip açığa vurasınız diye böylece onları da ram ettik size.",
+      "contextual_meaning": "Allah'ın bilinç nişaneleri (شَعَائِر) ve dokunulmaz farkındalık durağı (ٱلْمَشْعَرِ ٱلْحَرَامِ): kalplerin uyanık sorumluluk bilincini canlı tutan saygın işaretler."
+    },
+    {
+      "surah": 23,
+      "ayah": 56,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:56",
+      "word_position": 7,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "ٱلْخَيْرَٰتِ بَل لَّا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Hayırlara ulaşıvermelerini sağlamadayız, hayır, anlamıyorlar.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ بَل لَّا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayırlara ulaşıvermelerini sağlamadayız, hayır, anlamıyorlar.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 26,
+      "ayah": 113,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:113",
+      "word_position": 7,
+      "target_word_uthmani": "تَشْعُرُونَ",
+      "target_word_rasm": "تشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "عَلَىٰ رَبِّى لَوْ تَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onların hesabı ancak Rabbime aittir eğer anlarsanız.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|2MP"
+      },
+      "ayah_text_arabic_full": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى لَوْ تَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların hesabı ancak Rabbime aittir eğer anlarsanız.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 26,
+      "ayah": 202,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:202",
+      "word_position": 5,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ansızın gelip çatar onlara ve onlar anlamazlar bile.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "فَيَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ansızın gelip çatar onlara ve onlar anlamazlar bile.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 26,
+      "ayah": 224,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:224",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلشُّعَرَآءُ",
+      "target_word_rasm": "وٱلشعراء",
+      "target_word_literal_irab": "İnce sezgi ve hayal kurgusuyla söz ören, vahiy elçisinden ayrılan şair(ler) (شَاعِرٌ / وَٱلشُّعَرَآءُ — ism-i fâil: 21:5, 26:224, 37:36, 52:30, 69:41)",
+      "context_snippet_arabic": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ",
+      "context_snippet_turkish_tabula_rasa": "Ve şairlere de akılsızlar ve ziyankarlar uyar.",
+      "morphology": {
+        "lemma": "$aAEir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aAEir|ROOT:$Er|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şairlere de akılsızlar ve ziyankarlar uyar.",
+      "contextual_meaning": "Vahyin şiirden kesin ayrımı: elçiye yöneltilen 'şair' yaftasının reddi ve sözü eylemine uymayıp her vadide savrulan şairlerin eleştirisi."
+    },
+    {
+      "surah": 27,
+      "ayah": 18,
+      "surah_name": "Neml",
+      "ayah_ref": "27:18",
+      "word_position": 19,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sonunda bir karınca vadisine geldikleri zaman bir karınca, ey karıncalar dedi, yuvalarınıza girin de Süleyman ve orduları, bilmeden çiğnemesinler sizi.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda bir karınca vadisine geldikleri zaman bir karınca, ey karıncalar dedi, yuvalarınıza girin de Süleyman ve orduları, bilmeden çiğnemesinler sizi.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 27,
+      "ayah": 50,
+      "surah_name": "Neml",
+      "ayah_ref": "27:50",
+      "word_position": 7,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 27,
+      "ayah": 65,
+      "surah_name": "Neml",
+      "ayah_ref": "27:65",
+      "word_position": 12,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "إِلَّا ٱللَّهُ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Göklerde ve yeryüzünde bulunanların hiçbiri, gizli şeyi bilemez, ancak Allah bilir ve onlar da ne vakit tekrar diriltileceklerini bilemezler",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Göklerde ve yeryüzünde bulunanların hiçbiri, gizli şeyi bilemez, ancak Allah bilir ve onlar da ne vakit tekrar diriltileceklerini bilemezler",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 28,
+      "ayah": 9,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:9",
+      "word_position": 18,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Firavun'un karısı dedi ki: Senin de gözünü aydınlatır bu, benim de, öldürme bunu, umarım ki bize faydası dokunur, yahut da evlat ederiz onu kendimize ve...",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّى وَلَكَ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun'un karısı dedi ki: Senin de gözünü aydınlatır bu, benim de, öldürme bunu, umarım ki bize faydası dokunur, yahut da evlat ederiz onu kendimize ve onların, hiçbir şeyden haberleri yoktu.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 28,
+      "ayah": 11,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:11",
+      "word_position": 10,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "جُنُبٍ وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve kız kardeşine, sen dedi gözetle onu; o da, öbürleri anlamadan uzaktan gözetledi.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kız kardeşine, sen dedi gözetle onu; o da, öbürleri anlamadan uzaktan gözetledi.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 29,
+      "ayah": 53,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:53",
+      "word_position": 12,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve senden, azabın çarçabuk gelmesini isterler ve muayyen bir zamanı olmasaydı azap, gelip çatardı onlara ve azap, onlara apansız gelecek ve onların haberleri...",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَلَوْلَآ أَجَلٌ مُّسَمًّى لَّجَآءَهُمُ ٱلْعَذَابُ وَلَيَأْتِيَنَّهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve senden, azabın çarçabuk gelmesini isterler ve muayyen bir zamanı olmasaydı azap, gelip çatardı onlara ve azap, onlara apansız gelecek ve onların haberleri bile olmayacak.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 36,
+      "ayah": 69,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:69",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلشِّعْرَ",
+      "target_word_rasm": "ٱلشعر",
+      "target_word_literal_irab": "Elçiye öğretilmeyen ve yakışmayan duygu/hayal örgülü şiir sözü (ٱلشِّعْرَ — Asl 2 tekil isim: 36:69)",
+      "context_snippet_arabic": "وَمَا عَلَّمْنَٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz, ona şiir belletmedik ve bu, ona yakışmaz da; bu, ancak bir öğüttür ve her şeyi açıklayan Kur'an.",
+      "morphology": {
+        "lemma": "$~iEor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$~iEor|ROOT:$Er|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا عَلَّمْنَٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, ona şiir belletmedik ve bu, ona yakışmaz da; bu, ancak bir öğüttür ve her şeyi açıklayan Kur'an.",
+      "contextual_meaning": "Vahyin şiirden kesin ayrımı: elçiye yöneltilen 'şair' yaftasının reddi ve sözü eylemine uymayıp her vadide savrulan şairlerin eleştirisi."
+    },
+    {
+      "surah": 37,
+      "ayah": 36,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:36",
+      "word_position": 5,
+      "target_word_uthmani": "لِشَاعِرٍ",
+      "target_word_rasm": "لشاعر",
+      "target_word_literal_irab": "İnce sezgi ve hayal kurgusuyla söz ören, vahiy elçisinden ayrılan şair(ler) (شَاعِرٌ / وَٱلشُّعَرَآءُ — ism-i fâil: 21:5, 26:224, 37:36, 52:30, 69:41)",
+      "context_snippet_arabic": "أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz derlerdi, deli bir şair için mabutlarımızı bırakalım mı?",
+      "morphology": {
+        "lemma": "$aAEir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aAEir|ROOT:$Er|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz derlerdi, deli bir şair için mabutlarımızı bırakalım mı?",
+      "contextual_meaning": "Vahyin şiirden kesin ayrımı: elçiye yöneltilen 'şair' yaftasının reddi ve sözü eylemine uymayıp her vadide savrulan şairlerin eleştirisi."
+    },
+    {
+      "surah": 39,
+      "ayah": 25,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:25",
+      "word_position": 10,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan öncekiler de yalanladılar da azap, hiç anlamadıkları, ummadıkları yerden gelip çatıverdi onlara.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan öncekiler de yalanladılar da azap, hiç anlamadıkları, ummadıkları yerden gelip çatıverdi onlara.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 39,
+      "ayah": 55,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:55",
+      "word_position": 16,
+      "target_word_uthmani": "تَشْعُرُونَ",
+      "target_word_rasm": "تشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "بَغْتَةً وَأَنتُمْ لَا تَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve uyun Rabbinizden size indirilen en güzel kitaba, Kur'an'a, ansızın ve siz hiç anlamadan size azap gelip çatmadan önce.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةً وَأَنتُمْ لَا تَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve uyun Rabbinizden size indirilen en güzel kitaba, Kur'an'a, ansızın ve siz hiç anlamadan size azap gelip çatmadan önce.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 43,
+      "ayah": 66,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:66",
+      "word_position": 10,
+      "target_word_uthmani": "يَشْعُرُونَ",
+      "target_word_rasm": "يشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, kıyametin kopmasından başka bir şey mi bekliyorlar ki ansızın kopuverir başlarına ve onlar, anlamazlar bile.",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|3MP"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, kıyametin kopmasından başka bir şey mi bekliyorlar ki ansızın kopuverir başlarına ve onlar, anlamazlar bile.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 49,
+      "ayah": 2,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:2",
+      "word_position": 22,
+      "target_word_uthmani": "تَشْعُرُونَ",
+      "target_word_rasm": "تشعرون",
+      "target_word_literal_irab": "Kıl inceliğindeki gerçeği, kendi aldanışını veya yaklaşan sonucu sezmek/farkında olmak (يَشْعُرُونَ / تَشْعُرُونَ — Bab I muzâri fiil)",
+      "context_snippet_arabic": "أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, seslerinizi, elçinin sesinden daha üstün bir tarzda yükseltmeyin ve onunla, yüksek sesle konuşmayın, birbirinizle konuştuğunuz gibi, sonra...",
+      "morphology": {
+        "lemma": "ya$oEuru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ya$oEuru|ROOT:$Er|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, seslerinizi, elçinin sesinden daha üstün bir tarzda yükseltmeyin ve onunla, yüksek sesle konuşmayın, birbirinizle konuştuğunuz gibi, sonra yaptıklarınız mahvolup gider de anlamazsınız bile.",
+      "contextual_meaning": "İnce sezgi ve farkındalık (Bab I & IV): kişinin kendi bozgununu, gizli gerçeği veya ansızın gelecek sonucu hiç sezememesi (وَمَا يَشْعُرُونَ) ve sır saklama inceliği (18:19)."
+    },
+    {
+      "surah": 52,
+      "ayah": 30,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:30",
+      "word_position": 3,
+      "target_word_uthmani": "شَاعِرٌ",
+      "target_word_rasm": "شاعر",
+      "target_word_literal_irab": "İnce sezgi ve hayal kurgusuyla söz ören, vahiy elçisinden ayrılan şair(ler) (شَاعِرٌ / وَٱلشُّعَرَآءُ — ism-i fâil: 21:5, 26:224, 37:36, 52:30, 69:41)",
+      "context_snippet_arabic": "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa onlar, bir şair ki ölmesini, zamanın kötülüklerine uğramasını gözetiyoruz mu diyorlar?",
+      "morphology": {
+        "lemma": "$aAEir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aAEir|ROOT:$Er|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa onlar, bir şair ki ölmesini, zamanın kötülüklerine uğramasını gözetiyoruz mu diyorlar?",
+      "contextual_meaning": "Vahyin şiirden kesin ayrımı: elçiye yöneltilen 'şair' yaftasının reddi ve sözü eylemine uymayıp her vadide savrulan şairlerin eleştirisi."
+    },
+    {
+      "surah": 53,
+      "ayah": 49,
+      "surah_name": "Necm",
+      "ayah_ref": "53:49",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلشِّعْرَىٰ",
+      "target_word_rasm": "ٱلشعرى",
+      "target_word_literal_irab": "Cahiliyede kutsanan parlak Sirius (Şi'râ) yıldızı (ٱلشِّعْرَىٰ — özel isim: 53:49)",
+      "context_snippet_arabic": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ve şüphe yok ki odur Şi'ra yıldızının Rabbi.",
+      "morphology": {
+        "lemma": "$~iEoraY`",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:$~iEoraY`|ROOT:$Er|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şüphe yok ki odur Şi'ra yıldızının Rabbi.",
+      "contextual_meaning": "Fiziksel ve kozmik çıpalar: hayvan kıllarından yapılan eşyalar (16:80) ve Sirius (Şi'râ) yıldızının Rabbi olan Allah (53:49)."
+    },
+    {
+      "surah": 69,
+      "ayah": 41,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:41",
+      "word_position": 4,
+      "target_word_uthmani": "شَاعِرٍ",
+      "target_word_rasm": "شاعر",
+      "target_word_literal_irab": "İnce sezgi ve hayal kurgusuyla söz ören, vahiy elçisinden ayrılan şair(ler) (شَاعِرٌ / وَٱلشُّعَرَآءُ — ism-i fâil: 21:5, 26:224, 37:36, 52:30, 69:41)",
+      "context_snippet_arabic": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve bu, şair sözü değil, ne de az güven duy.",
+      "morphology": {
+        "lemma": "$aAEir",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$aAEir|ROOT:$Er|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bu, şair sözü değil, ne de az güven duy.",
+      "contextual_meaning": "Vahyin şiirden kesin ayrımı: elçiye yöneltilen 'şair' yaftasının reddi ve sözü eylemine uymayıp her vadide savrulan şairlerin eleştirisi."
+    }
+  ]
+}
