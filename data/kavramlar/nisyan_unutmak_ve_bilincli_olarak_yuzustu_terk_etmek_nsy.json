@@ -1,0 +1,964 @@
+{
+  "root": "ن-س-ي",
+  "root_latin": "N-S-Y (nsy)",
+  "concept_name": "Nisyân (Hafızadan Silinip Unutmak [Asl 1]; Bilinçli İhmal Edip Yüzüstü Terk Etmek [Asl 2])",
+  "rank": 216,
+  "total_occurrences": 45,
+  "unique_ayahs_count": 37,
+  "unified_core_mechanism": "İbn Fâris'in iki sağlam aslıyla: (1) Bir bilginin veya olayın hafızadan silinip zihinden düşmesi (`2:286`, `18:61-63`, `87:6`; Allah bundan mutlak münezzehtir: `19:64`, `20:52`); (2) Bir sorumluluğu, ahdi, iyiliği veya kişiyi önemsemeyip bilinçli olarak geride ve yüzüstü bırakmak/terk etmek (`19:23` `نَسْيًا مَّنسِيًّا`, `2:44`, `2:237`, `5:13-14`, `9:67`, `32:14`, `59:19` — Allah'ın zalimleri `فَنَسِيَهُمْ / نَنسَىٰهُمْ` diye karşılıklandırması da bu 2. asıl gereği onları himayesiz terk etmesidir).",
+  "physical_core": "İki köklü fiziksel/zihinsel zemin: (1) Bir şeyin bilinçten ve hafızadan silinip gitmesi (`إغفال الشيء` — 18:61 balığı unuttular, 2:286 yanılıp unutursak); (2) Değer vermeyip geride ve yüzüstü bırakmak, terk etmek (`ترك شيء` — 19:23 göçenlerin konak yerinde değersiz görüp ardında bıraktığı şey `نَسْيًا مَّنسِيًّا`, 9:67 `نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün birbirini tamamlayan iki sağlam aslını kesin biçimde ayırır: (1) Bir şeyden gafil kalıp onu hafızadan kaçırmak (`إغفال الشيء`), (2) Bir şeyi bilinçli olarak geride bırakıp terk etmek (`ترك شيء`).",
+    "lisan_al_arab": "İbn Manzûr `نَسْي` kelimesinin aslen 'göç edenlerin konak yerinde değersiz görüp ardında bıraktıkları eşya' (`ما سقط من منازل المرتحلين`) olduğunu kaydeder (19:23 `نَسْيًا مَّنسِيًّا`); 9:67 ve 7:51 gibi Allah'a nispet edilen kullanımların kesinlikle 'zihinsel unutma' değil 'terk etme ve yüzüstü bırakma' (`الترك`) olduğunu vurgular.",
+    "ragib_mufredat": "Râgıb el-İsfahânî belirleyici sentezi yapar: `النسيان هو ترك الإنسان ضبط ما استودع، إما لضعف قلبه، وإما عن غفلة، وإما عن قصد حتى ينحذف عن القلب ذكره` ('emanet edileni muhafaza etmeyi bırakmak: ya hafıza zayıflığından, ya gafletten ya da kasıtlı ihmalden dolayı').",
+    "arbitration_decision": "Hakem Masası Kararı: `ن-س-ي` kökünde İbn Fâris'in iki aslını ayırmamak ağır teolojik çelişki üretir: bir yanda `19:64` (`وَمَا كَانَ رَبُّكَ نَسِيًّا`) ve `20:52` (`لَا يَضِلُّ رَبِّى وَلَا يَنسَى`) Allah'ın asla unutmadığını bildirirken, diğer yanda `7:51`, `9:67`, `20:126`, `32:14` ve `45:34` ayetleri Allah hakkında `فَنَسِيَهُمْ / نَنسَىٰهُمْ / نَسِينَٰكُمْ` der! İki asıl ayrıldığında çelişki sıfırlanır: (1) **Asl 1 — Zihinsel Unutma/Hafıza Kaybı:** Allah bundan mutlak münezzehtir (19:64, 20:52); insanda ise mazur görülebilen dalgınlık ve hafıza kaybıdır (`2:286`, `18:24/61/63/73`, `87:6`). (2) **Asl 2 — Bilinçli İhmal ve Yüzüstü Terk Etme (`التَّرْك`):** İnsanın ahdi, hesap gününü, iyiliği veya kendi öz sorumluluğunu bile bile arkasına atıp terk etmesidir (`2:44`, `2:237`, `5:13-14`, `20:115`, `28:77`, `36:78`, `59:19`); Allah'ın zalimleri `نَنسَىٰهُمْ / فَنَسِيَهُمْ` diye karşılıklandırması da onları bilgi kaybıyla değil, aynen yaptıkları gibi himayesiz ve yüzüstü **terk etmesidir** (`7:51`, `9:67`, `32:14`, `45:34`)."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "Proto-Batı Sami *n-š-y ('unutmak, arkada bırakmak' — Proto-Sami *s₁ ses yasasına göre Arapça س = İbranice שׁ).",
+    "hebrew": "İbranice נָשָׁה (*nāšā* — unutmak, zihinden düşürmek).",
+    "geez": "Ge'ez ናሕሰየ (*naḥsäyä* — unutmak, ihmal etmek).",
+    "note": "Proto-Sami *s₁ ses yasasına tam uygun biçimde Arapça س ve İbranice שׁ eşleşmesi kökün en kadim Sami katmanında var olduğunu doğrular."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ذ-ك-ر [وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ / وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ / فَأَنسَىٰهُمْ ذِكْرَ ٱللَّهِ] (Zihinde ve Yaşamda Canlı Tutup Hatırlamak ↔ Unutup İhmal Ederek Terk Etmek: 5:13, 18:24, 25:18, 58:19)",
+      "ع-ل-م & ك-ت-ب & ض-ل-ل [عِلْمُهَا عِندَ رَبِّى فِى كِتَٰبٍ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى / أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ] (Kayıtlı Eksiksiz Bilgi ve Şaşmazlık ↔ İnsanın Unutkanlığı ve Şaşması: 20:52, 58:6)",
+      "ع-ه-د & و-ث-ق [وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ / أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ] (Verilen Sözü ve Sağlam Antlaşmayı Tutmak ↔ İhmal Edip Terk Etmek: 5:14, 20:115)",
+      "ق-ر-أ & ت-ل-و [سَنُقْرِئُكَ فَلَا تَنسَىٰٓ / وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَٰبَ] (Kitabı Okuyup Özünde Yaşamak ↔ Okuduğu Hâlde Kendi Özünü Unutup İhmal Etmek: 2:44, 87:6)",
+      "ل-ق-ي & أ-ن-س & س-م-و [بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَآ إِنَّا نَسِينَٰكُمْ / نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ] (Buluşma Bilinciyle İnsani Farkındalığını ve Yüce Hedefini Korumak ↔ Allah'ı ve Buluşmayı Terk Edip Kendi Özüne Yabancılaşmak: 7:51, 32:14, 45:34, 59:19)"
+    ],
+    "key_ayahs": [
+      "19:23 (وَكُنتُ نَسْيًا مَّنسِيًّا — fiziksel çıpa: konak yerinde geride bırakılıp unutulmuş önemsiz şey)",
+      "19:64 & 20:52 (وَمَا كَانَ رَبُّكَ نَسِيًّا / لَا يَضِلُّ رَبِّى وَلَا يَنسَى — Allah'ın zihinsel unutmadan mutlak münezzehliği)",
+      "9:67 & 7:51 & 32:14 & 45:34 (نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ / نَنسَىٰهُمْ كَمَا نَسُوا۟ — Asl 2 `الترك`: yüzüstü bırakanların yüzüstü bırakılması)",
+      "2:286 & 18:61-63 & 87:6 (Asl 1 zihinsel unutma: yanılıp unutmada sorumluluk affı, balığın unutulması ve Kur'an'ın unutturulmaması)",
+      "59:19 (نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ — Allah'ı ihmal edip terk edenlerin kendi özlerine yabancılaştırılması)"
+    ],
+    "reverse_stress_test": "Canlı tutmanın (`ذ-ك-ر`), kayıtlı bilginin (`ع-ل-م`, `ك-ت-ب`) ve ahde bağlılığın (`ع-ه-د`, `و-ث-ق`) tam tersi alındığında, `ن-س-ي` kökünün iki sağlam aslı (Asl 1: hafızadan silinme; Asl 2: bilinçli ihmal ve yüzüstü terk etme) 45 geçişin tamamını sıfır çelişkiyle açıklar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "نَّسِينَآ (N-S-Y Asl 1: Zihinsel Unutma / Hafızadan Kaçırma) vs أَخْطَأْنَا (H-T-A: Kasıtsız Yanılgı ve İsabet Ettirememe) [2:286]",
+      "لَا يَضِلُّ (D-L-L: Yolu/Gerçeği Şaşırmaz) vs لَا يَنسَى (N-S-Y: Bildiğini Hafızadan Kaçırmaz/Kaybetmez) [20:52]",
+      "أَحْصَىٰهُ (H-S-Y: Tek Tek Sayıp Kayda Geçirdi) vs وَنَسُوهُ (N-S-Y: Onlar İse Unutup Arkalarına Attılar) [58:6]",
+      "نَنسَخْ (N-S-H: Bir Hükmü/Ayeti Kaldırıp Değiştirmek) vs نُنسِهَا (N-S-Y Bab IV: Hafızadan/Uygulamadan Düşürüp Unutturmak) [2:106]"
+    ],
+    "mechanical_difference": "1) 2:286'da `نَسِينَا` bilgiyi hatırlayamamayı, `أَخْطَأْنَا` ise kasıtsız yanlış uygulama yapmayı ayırır. 2) 2:106'da `نَسْخ` yürürlükteki ayet/işareti dönüştürüp yenilemeyi, `إِنْسَاء` (Bab IV `نُنسِهَا`) ise onu bellekten ve gündemden düşürüp yerine daha hayırlısını veya dengini getirmeyi ifade eder. 3) 20:115'te Âdem'in `فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا` durumu salt bellek kaybı değil, ahdi tutma kararlılığının zayıflayıp onu terk etmesidir."
+  },
+  "anchor_ayahs": [
+    "19:23 (وَكُنتُ نَسْيًا مَّنسِيًّا — fiziksel çıpa: geride bırakılmış, adı sanı anılmayan önemsiz şey)",
+    "19:64 & 20:52 (وَمَا كَانَ رَبُّكَ نَسِيًّا / لَا يَضِلُّ رَبِّى وَلَا يَنسَى — Allah hakkında unutkanlığın kesin reddi)",
+    "9:67 & 7:51 & 32:14 & 45:34 (نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ — Asl 2: bilinçli olarak yüzüstü bırakana aynı karşılığın verilmesi)",
+    "59:19 (نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ — Allah'ı terk etmenin kendi özüne yabancılaşma üretmesi)",
+    "2:286 & 87:6 (Asl 1: insani unutma affı ve okutulan vahyin unutulmaması güvencesi)"
+  ],
+  "grammar_and_branch_rules": "1) Asl 1 — Zihinsel Unutma ve Unutturma (`2:106`, `2:286`, `6:68`, `12:42`, `18:24`, `18:61`, `18:63` [x2], `18:73`, `19:64`, `20:52`, `58:6`, `87:6` — 13 geçiş): İnsani bellek kaybı, ayartıcının zihni dağıtması (`فَأَنسَىٰهُ`), bir ayeti gündemden düşürme (`نُنسِهَا`) ve Allah'ın asla unutmaması. 2) Asl 2 — İnsanın Sorumluluğu, Ahdi, Allah'ı ve Hesap Gününü Bilinçli Terk Etmesi (`2:44`, `2:237`, `5:13`, `5:14`, `6:41`, `6:44`, `7:51`, `7:53`, `7:165`, `9:67`, `18:57`, `20:88`, `20:115`, `20:126`, `23:110`, `25:18`, `28:77`, `32:14`, `36:78`, `38:26`, `39:8`, `45:34`, `58:19`, `59:19` [x2] — 25 geçiş): Hatırlatılanı, kendi özünü, fazileti, yaratılışını veya ahireti görmezden gelip terk etmek. 3) Asl 2 — İlahi Karşılık Olarak Yüzüstü Bırakma (`7:51`, `9:67`, `20:126`, `32:14`, `45:34` — 5 geçiş): Allah'ı ve hesap gününü terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması (`نَنسَىٰهُمْ / فَنَسِيَهُمْ / تُنسَىٰ / نَسِينَٰكُمْ`). 4) Fiziksel Terk Edilmişlik Çıpa İsimleri (`19:23` — 2 geçiş: `نَسْيًا مَّنسِيًّا`).",
+  "derivatives": {
+    "نَسِىَ / نَسُوا۟ / تَنسَىٰ / نَنسَىٰهُمْ (Bab I Fiil - 35 geçiş)": "Hafızadan silinip unutmak (Asl 1) veya önemsemeyip bilinçli olarak ihmal etmek, geride ve yüzüstü bırakmak/terk etmek (Asl 2).",
+    "أَنسَىٰ / يُنسِى / نُنسِهَا (Bab IV Fiil - 7 geçiş: 2:106, 6:68, 12:42, 18:63, 23:110, 58:19, 59:19)": "Bir gerçeği zihinden düşürüp unutturmak veya bir kimseyi kendi özüne/bilincine yabancılaştırmak.",
+    "نَسْيًا مَّنسِيًّا (İsim & İsm-i Mef'ûl - 2 geçiş: 19:23)": "Konak yerinde ardında bırakılıp adı sanı anılmayan, tamamen unutulup terk edilmiş şey.",
+    "نَسِيًّا (Mübalağalı Sıfat - 1 geçiş: 19:64)": "Unutkanlık vasfı taşıyan (Allah hakkında kesinlikle olumsuzlanır: `وَمَا كَانَ رَبُّكَ نَسِيًّا`)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 44,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:44",
+      "word_position": 4,
+      "target_word_uthmani": "وَتَنسَوْنَ",
+      "target_word_rasm": "وتنسون",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlara iyilik etmelerini emrediyorsunuz da kendinizi unutuyor musunuz? Ve kitabı okumaktasınız siz. Aklınız mı yok, düşünmez misiniz?",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nasiYa|ROOT:nsy|2MP"
+      },
+      "ayah_text_arabic_full": "أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَٰبَ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlara iyilik etmelerini emrediyorsunuz da kendinizi unutuyor musunuz? Ve kitabı okumaktasınız siz. Aklınız mı yok, düşünmez misiniz?",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 106,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:106",
+      "word_position": 6,
+      "target_word_uthmani": "نُنسِهَا",
+      "target_word_rasm": "ننسها",
+      "target_word_literal_irab": "Bir ayeti gündemden ve hafızadan düşürüp yerine daha hayırlısını veya dengini getirmek (نُنسِهَا — Bab IV meczûm fiil: 2:106)",
+      "context_snippet_arabic": "مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَآ",
+      "context_snippet_turkish_tabula_rasa": "Bir ayetin hükmünü değiştirir, yahut geri bırakırsak ya ondan hayırlısını getiririz, yahut onun eşidini. Bilmez misin ki Allah'ın her şeye gücü yeter.",
+      "morphology": {
+        "lemma": ">ansaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ansaY`|ROOT:nsy|1P|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "مَا نَنسَخْ مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَآ أَوْ مِثْلِهَآ أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir ayetin hükmünü değiştirir, yahut geri bırakırsak ya ondan hayırlısını getiririz, yahut onun eşidini. Bilmez misin ki Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 2,
+      "ayah": 237,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:237",
+      "word_position": 28,
+      "target_word_uthmani": "تَنسَوُا۟",
+      "target_word_rasm": "تنسوا",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "أَقْرَبُ لِلتَّقْوَىٰ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Sizin bağışlamanız, sorumluluk bilinci ve korunma daha yakındır. Aranızdaki üstünlüğü unutmayın. Şüphe yok ki Allah, yaptıklarınızı görür.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nasiYa|ROOT:nsy|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara dokunmadan boşarsanız nikah parası kesmiş olduğunuz takdirde kabul ettiğiniz paranın yarısını vermeniz gerek. Ancak kadın, hakkını bağışlar, yahut nikahın düğümü kimin elindeyse o, bu hakkı bahşederse bu ayrı. Sizin bağışlamanız, sorumluluk bilinci ve korunma daha yakındır. Aranızdaki üstünlüğü unutmayın. Şüphe yok ki Allah, yaptıklarınızı görür.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 286,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:286",
+      "word_position": 17,
+      "target_word_uthmani": "نَّسِينَآ",
+      "target_word_rasm": "نسينا",
+      "target_word_literal_irab": "Hafızadan silinmek veya zihinsel olarak unutmak (Asl 1 Bab I fiil; 20:52'de Allah için kesin ret)",
+      "context_snippet_arabic": "لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا",
+      "context_snippet_turkish_tabula_rasa": "... Herkesin kazandığı eylem karşılığı kendisine aittir, elde ettiği suç gene kendisine ait. Rabbimiz, bizi muaheze etme unuttuysak, yahut yanıldıysak. Rabbimiz, bize ağır yük yükleme bizden öncekilere yüklediğin gibi. ...",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|1P"
+      },
+      "ayah_text_arabic_full": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hiç kimseye gücünün yeteceğinden fazla bir şey teklif etmez. Herkesin kazandığı eylem karşılığı kendisine aittir, elde ettiği suç gene kendisine ait. Rabbimiz, bizi muaheze etme unuttuysak, yahut yanıldıysak. Rabbimiz, bize ağır yük yükleme bizden öncekilere yüklediğin gibi. Rabbimiz, yükleme gücümüzün yetmeyeceği şeyi. Bağışla bizi, yarlıga bizi, acı bize, sensin yardımcımız, artık yardım et bize güven duy karşı.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 5,
+      "ayah": 13,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:13",
+      "word_position": 12,
+      "target_word_uthmani": "وَنَسُوا۟",
+      "target_word_rasm": "ونسوا",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ahitlerini bozdukları, verdikleri sözden döndükleri için lanet ettik onlara ve kalplerini katılaştırdık. Onlar, sözlerin yerini değiştirirler, kendilerine...",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ahitlerini bozdukları, verdikleri sözden döndükleri için lanet ettik onlara ve kalplerini katılaştırdık. Onlar, sözlerin yerini değiştirirler, kendilerine verilen öğütten bir hisse de almazlar. Pek azı müstesna daima hainliklerini duyarsın, gene de bağışla onları, geç suçlarından. Şüphe yok ki Allah, iyilik edenleri sever.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 5,
+      "ayah": 14,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:14",
+      "word_position": 8,
+      "target_word_uthmani": "فَنَسُوا۟",
+      "target_word_rasm": "فنسوا",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Onlardan, biz Nasraniyiz diyenler de var, onlardan da söz aldık, fakat kendilerine verilen öğütten hisse almayı unuttular, biz de kıyamete dek aralarına düşmanlık ve kin saldık. Allah, onların neler yaptığını bildirecek.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan, biz Nasraniyiz diyenler de var, onlardan da söz aldık, fakat kendilerine verilen öğütten hisse almayı unuttular, biz de kıyamete dek aralarına düşmanlık ve kin saldık. Allah, onların neler yaptığını bildirecek.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 6,
+      "ayah": 41,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:41",
+      "word_position": 10,
+      "target_word_uthmani": "وَتَنسَوْنَ",
+      "target_word_rasm": "وتنسون",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "... ancak onu çağırırsınız, o da dilerse duanızı kabul eder de uğradığınız belayı açıp giderir ve otoriteyi bölüşme ve ortak koşma koştuklarınızı unutur, gidersiniz.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nasiYa|ROOT:nsy|2MP"
+      },
+      "ayah_text_arabic_full": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; ancak onu çağırırsınız, o da dilerse duanızı kabul eder de uğradığınız belayı açıp giderir ve otoriteyi bölüşme ve ortak koşma koştuklarınızı unutur, gidersiniz.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 6,
+      "ayah": 44,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:44",
+      "word_position": 2,
+      "target_word_uthmani": "نَسُوا۟",
+      "target_word_rasm": "نسوا",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Derken söylenenleri, verilen öğütleri unuttukları zaman her şeyin kapılarını açtık onlara ve onlar, kendilerine verilen şeylerle genişliğe ulaştıkları gibi hemen ve ansızın onları tutup alıverdik de bütün umduklarından mahrum oldular.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ حَتَّىٰٓ إِذَا فَرِحُوا۟ بِمَآ أُوتُوٓا۟ أَخَذْنَٰهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken söylenenleri, verilen öğütleri unuttukları zaman her şeyin kapılarını açtık onlara ve onlar, kendilerine verilen şeylerle genişliğe ulaştıkları gibi hemen ve ansızın onları tutup alıverdik de bütün umduklarından mahrum oldular.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 6,
+      "ayah": 68,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:68",
+      "word_position": 15,
+      "target_word_uthmani": "يُنسِيَنَّكَ",
+      "target_word_rasm": "ينسينك",
+      "target_word_literal_irab": "Ayartıcının veya alaycılığın bir gerçeği ve Allah bilincini zihinden düşürüp unutturması (يُنسِيَنَّكَ / فَأَنسَىٰهُ / أَنسَىٰنِيهُ / أَنسَوْكُمْ / فَأَنسَىٰهُمْ — Bab IV fiil)",
+      "context_snippet_arabic": "حَدِيثٍ غَيْرِهِۦ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَٰنُ فَلَا تَقْعُدْ",
+      "context_snippet_turkish_tabula_rasa": "... saptırıcı yıkıcı güç, bunu sana unutturursa hatırladıktan sonra artık zulmeden kavimle oturma.",
+      "morphology": {
+        "lemma": ">ansaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ansaY`|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Âyetlerimize dair münasebetsiz sözlere daldıklarını görünce bir başka bahse girişinceye dek yüz çevir onlardan. saptırıcı yıkıcı güç, bunu sana unutturursa hatırladıktan sonra artık zulmeden kavimle oturma.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 7,
+      "ayah": 51,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:51",
+      "word_position": 10,
+      "target_word_uthmani": "نَنسَىٰهُمْ",
+      "target_word_rasm": "ننسىهم",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "ٱلْحَيَوٰةُ ٱلدُّنْيَا فَٱلْيَوْمَ نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlar, nasıl bugüne kavuşacaklarını unutup bilebile ayetlerimizi gerçeğin üzerini ört biz de bugün onları unuturuz.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nasiYa|ROOT:nsy|1P"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا فَٱلْيَوْمَ نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَٰذَا وَمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, yaşam sistemlerini eğlence ve oyun saymışlardır, dünya yaşayışı, onları aldatmıştır. Onlar, nasıl bugüne kavuşacaklarını unutup bilebile ayetlerimizi gerçeğin üzerini ört biz de bugün onları unuturuz.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 7,
+      "ayah": 51,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:51",
+      "word_position": 12,
+      "target_word_uthmani": "نَسُوا۟",
+      "target_word_rasm": "نسوا",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "فَٱلْيَوْمَ نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "... Onlar, nasıl bugüne kavuşacaklarını unutup bilebile ayetlerimizi gerçeğin üzerini ört biz de bugün onları unuturuz.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا فَٱلْيَوْمَ نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَٰذَا وَمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, yaşam sistemlerini eğlence ve oyun saymışlardır, dünya yaşayışı, onları aldatmıştır. Onlar, nasıl bugüne kavuşacaklarını unutup bilebile ayetlerimizi gerçeğin üzerini ört biz de bugün onları unuturuz.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 7,
+      "ayah": 53,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:53",
+      "word_position": 10,
+      "target_word_uthmani": "نَسُوهُ",
+      "target_word_rasm": "نسوه",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "تَأْوِيلُهُۥ يَقُولُ ٱلَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, kitapta söylenenlerin gelip çıkmasını mı bekliyorlar ancak? Bir gün o söylenen şeyler, o sözlerin sonucu gelecek de evvelce onu unutanlar, gerçekten de Rabbimizin elçileri diyecekler, hak olarak gelmişlerdi; şimdi şefaatçilerden biri varmı ki şefaat etsin bize, yahut da tekrar dünyaya dönmemize imkan verilse de oradayken yaptığımız işlerden başka işler yapsak. ...",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّا تَأْوِيلَهُۥ يَوْمَ يَأْتِى تَأْوِيلُهُۥ يَقُولُ ٱلَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ فَهَل لَّنَا مِن شُفَعَآءَ فَيَشْفَعُوا۟ لَنَآ أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ قَدْ خَسِرُوٓا۟ أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, kitapta söylenenlerin gelip çıkmasını mı bekliyorlar ancak? Bir gün o söylenen şeyler, o sözlerin sonucu gelecek de evvelce onu unutanlar, gerçekten de Rabbimizin elçileri diyecekler, hak olarak gelmişlerdi; şimdi şefaatçilerden biri varmı ki şefaat etsin bize, yahut da tekrar dünyaya dönmemize imkan verilse de oradayken yaptığımız işlerden başka işler yapsak. Gerçekten de kendilerine yazık etmişlerdir, aslı yokken güvene erip durdukları mabutla da onları bırakmış, kaybolup gitmiştir.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 7,
+      "ayah": 165,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:165",
+      "word_position": 2,
+      "target_word_uthmani": "نَسُوا۟",
+      "target_word_rasm": "نسوا",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "Öğütçülerin öğütlerini unuttukları zaman biz de, onları kötülükten nehyedenleri kurtardık, zulmedenleriyse, emirden çıktıkları için pek şiddetli bir azaba uğrattık.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦٓ أَنجَيْنَا ٱلَّذِينَ يَنْهَوْنَ عَنِ ٱلسُّوٓءِ وَأَخَذْنَا ٱلَّذِينَ ظَلَمُوا۟ بِعَذَابٍۭ بَـِٔيسٍۭ بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öğütçülerin öğütlerini unuttukları zaman biz de, onları kötülükten nehyedenleri kurtardık, zulmedenleriyse, emirden çıktıkları için pek şiddetli bir azaba uğrattık.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 9,
+      "ayah": 67,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:67",
+      "word_position": 13,
+      "target_word_uthmani": "نَسُوا۟",
+      "target_word_rasm": "نسوا",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... kötülüğü emrederler, halkı iyilikten vazgeçirmeye uğraşırlar ve ellerini yumarlar. Onlar Allah'ı unuttular da o da onları unuttu. Şüphe yok ki iki çıkışlı kaypak buyruktan çıkan kötü kişilerin ta kendileri.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ بَعْضُهُم مِّنۢ بَعْضٍ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ إِنَّ ٱلْمُنَٰفِقِينَ هُمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nifak sahibi erkeklerle kadınların hepsi de birbirindendir, aynıdır; kötülüğü emrederler, halkı iyilikten vazgeçirmeye uğraşırlar ve ellerini yumarlar. Onlar Allah'ı unuttular da o da onları unuttu. Şüphe yok ki iki çıkışlı kaypak buyruktan çıkan kötü kişilerin ta kendileri.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 9,
+      "ayah": 67,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:67",
+      "word_position": 15,
+      "target_word_uthmani": "فَنَسِيَهُمْ",
+      "target_word_rasm": "فنسيهم",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "أَيْدِيَهُمْ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ إِنَّ ٱلْمُنَٰفِقِينَ هُمُ",
+      "context_snippet_turkish_tabula_rasa": "... kötülüğü emrederler, halkı iyilikten vazgeçirmeye uğraşırlar ve ellerini yumarlar. Onlar Allah'ı unuttular da o da onları unuttu. Şüphe yok ki iki çıkışlı kaypak buyruktan çıkan kötü kişilerin ta kendileri.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ بَعْضُهُم مِّنۢ بَعْضٍ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ إِنَّ ٱلْمُنَٰفِقِينَ هُمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nifak sahibi erkeklerle kadınların hepsi de birbirindendir, aynıdır; kötülüğü emrederler, halkı iyilikten vazgeçirmeye uğraşırlar ve ellerini yumarlar. Onlar Allah'ı unuttular da o da onları unuttu. Şüphe yok ki iki çıkışlı kaypak buyruktan çıkan kötü kişilerin ta kendileri.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 12,
+      "ayah": 42,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:42",
+      "word_position": 10,
+      "target_word_uthmani": "فَأَنسَىٰهُ",
+      "target_word_rasm": "فأنسىه",
+      "target_word_literal_irab": "Ayartıcının veya alaycılığın bir gerçeği ve Allah bilincini zihinden düşürüp unutturması (يُنسِيَنَّكَ / فَأَنسَىٰهُ / أَنسَىٰنِيهُ / أَنسَوْكُمْ / فَأَنسَىٰهُمْ — Bab IV fiil)",
+      "context_snippet_arabic": "ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ",
+      "context_snippet_turkish_tabula_rasa": "... Fakat saptırıcı yıkıcı güç, efendisine bunu anlatmayı unutturdu ona ve bu yüzden daha nice yıllar zindanda kaldı.",
+      "morphology": {
+        "lemma": ">ansaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>ansaY`|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onlardan, kurtulacağını sandığına beni dedi, efendine anlat. Fakat saptırıcı yıkıcı güç, efendisine bunu anlatmayı unutturdu ona ve bu yüzden daha nice yıllar zindanda kaldı.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 18,
+      "ayah": 24,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:24",
+      "word_position": 8,
+      "target_word_uthmani": "نَسِيتَ",
+      "target_word_rasm": "نسيت",
+      "target_word_literal_irab": "Hafızadan silinmek veya zihinsel olarak unutmak (Asl 1 Bab I fiil; 20:52'de Allah için kesin ret)",
+      "context_snippet_arabic": "وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن",
+      "context_snippet_turkish_tabula_rasa": "Ancak Allah dilerse yaparım de ve birşeyi unutunca Rabbini an ve de ki: Umarım, Rabbim, beni bundan daha ziyade hayra ve doğruya yakın birşeye erdirir ve başarı verir bana.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|2MS"
+      },
+      "ayah_text_arabic_full": "إِلَّآ أَن يَشَآءَ ٱللَّهُ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak Allah dilerse yaparım de ve birşeyi unutunca Rabbini an ve de ki: Umarım, Rabbim, beni bundan daha ziyade hayra ve doğruya yakın birşeye erdirir ve başarı verir bana.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 18,
+      "ayah": 57,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:57",
+      "word_position": 9,
+      "target_word_uthmani": "وَنَسِىَ",
+      "target_word_rasm": "ونسى",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "رَبِّهِۦ فَأَعْرَضَ عَنْهَا وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin ayetleriyle kendisine öğütler verildiği halde onlardan yüz çeviren ve elleriyle hazırladığı şeyi unutan kişiden daha zalim kimdir ki? Gerçekten de biz, onların anlamamaları için gönüllerine perdeler gerdik ve kulaklarını ağırlaştırdık ve onları doğru yola çağırsan da imkan yok doğru yola gelmez onlar.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَٰتِ رَبِّهِۦ فَأَعْرَضَ عَنْهَا وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا وَإِن تَدْعُهُمْ إِلَى ٱلْهُدَىٰ فَلَن يَهْتَدُوٓا۟ إِذًا أَبَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin ayetleriyle kendisine öğütler verildiği halde onlardan yüz çeviren ve elleriyle hazırladığı şeyi unutan kişiden daha zalim kimdir ki? Gerçekten de biz, onların anlamamaları için gönüllerine perdeler gerdik ve kulaklarını ağırlaştırdık ve onları doğru yola çağırsan da imkan yok doğru yola gelmez onlar.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 18,
+      "ayah": 61,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:61",
+      "word_position": 5,
+      "target_word_uthmani": "نَسِيَا",
+      "target_word_rasm": "نسيا",
+      "target_word_literal_irab": "Hafızadan silinmek veya zihinsel olarak unutmak (Asl 1 Bab I fiil; 20:52'de Allah için kesin ret)",
+      "context_snippet_arabic": "بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "İki denizin kavuştuğu yere vardıkları zaman balıklarını unutmuşlardı; balık, denize atlamış, dalıp bir yol tutmuş gitmişti.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MD"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ سَرَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "İki denizin kavuştuğu yere vardıkları zaman balıklarını unutmuşlardı; balık, denize atlamış, dalıp bir yol tutmuş gitmişti.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 18,
+      "ayah": 63,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:63",
+      "word_position": 8,
+      "target_word_uthmani": "نَسِيتُ",
+      "target_word_rasm": "نسيت",
+      "target_word_literal_irab": "Hafızadan silinmek veya zihinsel olarak unutmak (Asl 1 Bab I fiil; 20:52'de Allah için kesin ret)",
+      "context_snippet_arabic": "إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ",
+      "context_snippet_turkish_tabula_rasa": "Arkadaşı, gördün mü dedi, kayanın üstünde oturduğumuz zaman balığı unutmuştum; onu bana unutturan ve sana söylememe mani olan da ancak saptırıcı yıkıcı güç'dır; ...",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Arkadaşı, gördün mü dedi, kayanın üstünde oturduğumuz zaman balığı unutmuştum; onu bana unutturan ve sana söylememe mani olan da ancak saptırıcı yıkıcı güç'dır; balık, şaşılacak bir surette denizde bir yoldur tuttu, dalıp gitti.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 18,
+      "ayah": 63,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:63",
+      "word_position": 11,
+      "target_word_uthmani": "أَنسَىٰنِيهُ",
+      "target_word_rasm": "أنسىنيه",
+      "target_word_literal_irab": "Ayartıcının veya alaycılığın bir gerçeği ve Allah bilincini zihinden düşürüp unutturması (يُنسِيَنَّكَ / فَأَنسَىٰهُ / أَنسَىٰنِيهُ / أَنسَوْكُمْ / فَأَنسَىٰهُمْ — Bab IV fiil)",
+      "context_snippet_arabic": "نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ",
+      "context_snippet_turkish_tabula_rasa": "Arkadaşı, gördün mü dedi, kayanın üstünde oturduğumuz zaman balığı unutmuştum; onu bana unutturan ve sana söylememe mani olan da ancak saptırıcı yıkıcı güç'dır; ...",
+      "morphology": {
+        "lemma": ">ansaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>ansaY`|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Arkadaşı, gördün mü dedi, kayanın üstünde oturduğumuz zaman balığı unutmuştum; onu bana unutturan ve sana söylememe mani olan da ancak saptırıcı yıkıcı güç'dır; balık, şaşılacak bir surette denizde bir yoldur tuttu, dalıp gitti.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 18,
+      "ayah": 73,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:73",
+      "word_position": 5,
+      "target_word_uthmani": "نَسِيتُ",
+      "target_word_rasm": "نسيت",
+      "target_word_literal_irab": "Hafızadan silinmek veya zihinsel olarak unutmak (Asl 1 Bab I fiil; 20:52'de Allah için kesin ret)",
+      "context_snippet_arabic": "لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Musa, unuttum dedi, bu yüzden azarlama beni ve şu arkadaşlığımızda ağır bir yük yükleme bana.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, unuttum dedi, bu yüzden azarlama beni ve şu arkadaşlığımızda ağır bir yük yükleme bana.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 19,
+      "ayah": 23,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:23",
+      "word_position": 12,
+      "target_word_uthmani": "نَسْيًا",
+      "target_word_rasm": "نسيا",
+      "target_word_literal_irab": "Konak yerinde ardında bırakılmış, adı sanı anılmayan önemsiz şey (نَسْيًا — fiziksel çıpa isim: 19:23)",
+      "context_snippet_arabic": "قَبْلَ هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Derken doğum sancısı, onu bir hurma ağacının dibine sevketti de keşke dedi, bundan önce ölseydim de unutulup gitseydim.",
+      "morphology": {
+        "lemma": "nasoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:nasoy|ROOT:nsy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Derken doğum sancısı, onu bir hurma ağacının dibine sevketti de keşke dedi, bundan önce ölseydim de unutulup gitseydim.",
+      "contextual_meaning": "Fiziksel terk edilmişlik çıpası (نَسْيًا مَّنسِيًّا): göç edenlerin ardında bırakıp tamamen unuttuğu önemsiz nesne."
+    },
+    {
+      "surah": 19,
+      "ayah": 23,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:23",
+      "word_position": 13,
+      "target_word_uthmani": "مَّنسِيًّا",
+      "target_word_rasm": "منسيا",
+      "target_word_literal_irab": "Bütünüyle unutulup geride terk edilmiş olan (مَّنسِيًّا — Bab I ism-i mef'ûl: 19:23)",
+      "context_snippet_arabic": "هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Derken doğum sancısı, onu bir hurma ağacının dibine sevketti de keşke dedi, bundan önce ölseydim de unutulup gitseydim.",
+      "morphology": {
+        "lemma": "m~ansiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:m~ansiy~|ROOT:nsy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Derken doğum sancısı, onu bir hurma ağacının dibine sevketti de keşke dedi, bundan önce ölseydim de unutulup gitseydim.",
+      "contextual_meaning": "Fiziksel terk edilmişlik çıpası (نَسْيًا مَّنسِيًّا): göç edenlerin ardında bırakıp tamamen unuttuğu önemsiz nesne."
+    },
+    {
+      "surah": 19,
+      "ayah": 64,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:64",
+      "word_position": 18,
+      "target_word_uthmani": "نَسِيًّا",
+      "target_word_rasm": "نسيا",
+      "target_word_literal_irab": "Unutkan olan (Allah hakkında kesinlikle olumsuzlanır: وَمَا كَانَ رَبُّكَ نَسِيًّا — sıfat: 19:64)",
+      "context_snippet_arabic": "وَمَا كَانَ رَبُّكَ نَسِيًّا",
+      "context_snippet_turkish_tabula_rasa": "... onundur ne varsa ilerimizde ve ne varsa gerimizde ve ne varsa ikisi arasında ve Rabbin, hiçbir şeyi unutmaz.",
+      "morphology": {
+        "lemma": "nasiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:nasiy~|ROOT:nsy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ وَمَا كَانَ رَبُّكَ نَسِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz buyruk elçileri, ancak Rabbinin emriyle inebiliriz; onundur ne varsa ilerimizde ve ne varsa gerimizde ve ne varsa ikisi arasında ve Rabbin, hiçbir şeyi unutmaz.",
+      "contextual_meaning": "Allah'ın mutlak bellek ve kayıt kusursuzluğu: Rabbinin asla şaşmaması ve asla zihinsel unutkanlık taşımaması."
+    },
+    {
+      "surah": 20,
+      "ayah": 52,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:52",
+      "word_position": 11,
+      "target_word_uthmani": "يَنسَى",
+      "target_word_rasm": "ينسى",
+      "target_word_literal_irab": "Hafızadan silinmek veya zihinsel olarak unutmak (Asl 1 Bab I fiil; 20:52'de Allah için kesin ret)",
+      "context_snippet_arabic": "يَضِلُّ رَبِّى وَلَا يَنسَى",
+      "context_snippet_turkish_tabula_rasa": "Musa, onlara ait bilgi de dedi, Rabbimin katındadır, yazılmıştır; ne yanılır Rabbim, ne unutur.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nasiYa|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَٰبٍ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, onlara ait bilgi de dedi, Rabbimin katındadır, yazılmıştır; ne yanılır Rabbim, ne unutur.",
+      "contextual_meaning": "Allah'ın mutlak bellek ve kayıt kusursuzluğu: Rabbinin asla şaşmaması ve asla zihinsel unutkanlık taşımaması."
+    },
+    {
+      "surah": 20,
+      "ayah": 88,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:88",
+      "word_position": 12,
+      "target_word_uthmani": "فَنَسِىَ",
+      "target_word_rasm": "فنسى",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ فَنَسِىَ",
+      "context_snippet_turkish_tabula_rasa": "O, onlara bir buzağı heykeli yapmıştı ki böğürmedeydi. O ve ona uyanlar işte bu dediler, sizin de mabudunuz, Musa'nın da mabudu, fakat Musa, unuttu bunu.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ فَنَسِىَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, onlara bir buzağı heykeli yapmıştı ki böğürmedeydi. O ve ona uyanlar işte bu dediler, sizin de mabudunuz, Musa'nın da mabudu, fakat Musa, unuttu bunu.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 20,
+      "ayah": 115,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:115",
+      "word_position": 7,
+      "target_word_uthmani": "فَنَسِىَ",
+      "target_word_rasm": "فنسى",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki daha önce Âdem'le de ahitleşmiştik de unutmuştu ve onu, bilerek, isteyerek sapma ve ağır kusur işleyen bir adam olarak da bulmamıştık.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki daha önce Âdem'le de ahitleşmiştik de unutmuştu ve onu, bilerek, isteyerek sapma ve ağır kusur işleyen bir adam olarak da bulmamıştık.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 20,
+      "ayah": 126,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:126",
+      "word_position": 5,
+      "target_word_uthmani": "فَنَسِيتَهَا",
+      "target_word_rasm": "فنسيتها",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "كَذَٰلِكَ أَتَتْكَ ءَايَٰتُنَا فَنَسِيتَهَا وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Böylece der, sana delillerim geldi de unutuverdin onları, işte sen de tıpkı o çeşit unutulmadasın bugün.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَٰتُنَا فَنَسِيتَهَا وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece der, sana delillerim geldi de unutuverdin onları, işte sen de tıpkı o çeşit unutulmadasın bugün.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 20,
+      "ayah": 126,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:126",
+      "word_position": 8,
+      "target_word_uthmani": "تُنسَىٰ",
+      "target_word_rasm": "تنسى",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "فَنَسِيتَهَا وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Böylece der, sana delillerim geldi de unutuverdin onları, işte sen de tıpkı o çeşit unutulmadasın bugün.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:nasiYa|ROOT:nsy|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَٰتُنَا فَنَسِيتَهَا وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece der, sana delillerim geldi de unutuverdin onları, işte sen de tıpkı o çeşit unutulmadasın bugün.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 23,
+      "ayah": 110,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:110",
+      "word_position": 4,
+      "target_word_uthmani": "أَنسَوْكُمْ",
+      "target_word_rasm": "أنسوكم",
+      "target_word_literal_irab": "Ayartıcının veya alaycılığın bir gerçeği ve Allah bilincini zihinden düşürüp unutturması (يُنسِيَنَّكَ / فَأَنسَىٰهُ / أَنسَىٰنِيهُ / أَنسَوْكُمْ / فَأَنسَىٰهُمْ — Bab IV fiil)",
+      "context_snippet_arabic": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Halbuki siz, onları alaya aldınız da sonunda beni anmayı unutturdu size bu hal ve siz onlara gülerdiniz.",
+      "morphology": {
+        "lemma": ">ansaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>ansaY`|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Halbuki siz, onları alaya aldınız da sonunda beni anmayı unutturdu size bu hal ve siz onlara gülerdiniz.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 25,
+      "ayah": 18,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:18",
+      "word_position": 17,
+      "target_word_uthmani": "نَسُوا۟",
+      "target_word_rasm": "نسوا",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا",
+      "context_snippet_turkish_tabula_rasa": "... fakat sen, onları da, atalarını da nimetler vererek yaşattın, sonunda seni anmayı unuttular ve helake müstahak bir topluluk oldular.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سُبْحَٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Diyecekler ki: Tenzih ederiz seni, senden başka dost ve yardımcı kabul etmek bize yaraşmaz; fakat sen, onları da, atalarını da nimetler vererek yaşattın, sonunda seni anmayı unuttular ve helake müstahak bir topluluk oldular.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 28,
+      "ayah": 77,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:77",
+      "word_position": 8,
+      "target_word_uthmani": "تَنسَ",
+      "target_word_rasm": "تنس",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "ٱلدَّارَ ٱلْءَاخِرَةَ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın sana verdiği malmenal yüzünden ahiret yurdunu aramaya bak ve dünyadaki nasibini de unutma ve Allah sana nasıl ihsan ettiyse sen de ihsan et ve yeryüzünde bozgunculuk etmeye kalkışma; şüphe yok ki Allah, bozguncuları sevmez.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nasiYa|ROOT:nsy|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın sana verdiği malmenal yüzünden ahiret yurdunu aramaya bak ve dünyadaki nasibini de unutma ve Allah sana nasıl ihsan ettiyse sen de ihsan et ve yeryüzünde bozgunculuk etmeye kalkışma; şüphe yok ki Allah, bozguncuları sevmez.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 32,
+      "ayah": 14,
+      "surah_name": "Secde",
+      "ayah_ref": "32:14",
+      "word_position": 3,
+      "target_word_uthmani": "نَسِيتُمْ",
+      "target_word_rasm": "نسيتم",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَآ",
+      "context_snippet_turkish_tabula_rasa": "Tadın azabı, şu güne ulaşacağınızı unuttuğunuzdan dolayı, şüphe etmeyin ki biz de unuttuk sizi ve tadın ebedi olarak azabı yaptıklarınıza karşılık.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|2MP"
+      },
+      "ayah_text_arabic_full": "فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَآ إِنَّا نَسِينَٰكُمْ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tadın azabı, şu güne ulaşacağınızı unuttuğunuzdan dolayı, şüphe etmeyin ki biz de unuttuk sizi ve tadın ebedi olarak azabı yaptıklarınıza karşılık.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 32,
+      "ayah": 14,
+      "surah_name": "Secde",
+      "ayah_ref": "32:14",
+      "word_position": 8,
+      "target_word_uthmani": "نَسِينَٰكُمْ",
+      "target_word_rasm": "نسينكم",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "يَوْمِكُمْ هَٰذَآ إِنَّا نَسِينَٰكُمْ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ",
+      "context_snippet_turkish_tabula_rasa": "Tadın azabı, şu güne ulaşacağınızı unuttuğunuzdan dolayı, şüphe etmeyin ki biz de unuttuk sizi ve tadın ebedi olarak azabı yaptıklarınıza karşılık.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|1P"
+      },
+      "ayah_text_arabic_full": "فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَآ إِنَّا نَسِينَٰكُمْ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tadın azabı, şu güne ulaşacağınızı unuttuğunuzdan dolayı, şüphe etmeyin ki biz de unuttuk sizi ve tadın ebedi olarak azabı yaptıklarınıza karşılık.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 36,
+      "ayah": 78,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:78",
+      "word_position": 4,
+      "target_word_uthmani": "وَنَسِىَ",
+      "target_word_rasm": "ونسى",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ قَالَ مَن",
+      "context_snippet_turkish_tabula_rasa": "Ve bize bir örnek getirmede ve yaratılışını da unutmada, çürüyüp dağılmış kemikleri kim diriltir demede.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bize bir örnek getirmede ve yaratılışını da unutmada, çürüyüp dağılmış kemikleri kim diriltir demede.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 38,
+      "ayah": 26,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:26",
+      "word_position": 28,
+      "target_word_uthmani": "نَسُوا۟",
+      "target_word_rasm": "نسوا",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah yolundan sapanlaraysa şiddetli bir azap var soru gününü unuttuklarından.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰدَاوُۥدُ إِنَّا جَعَلْنَٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Davud, biz seni yeryüzüne hakim ettik, artık insanlar arasında, adaletle hükmet ve dileğine uyma ki seni Allah yolundan saptırır; Allah yolundan sapanlaraysa şiddetli bir azap var soru gününü unuttuklarından.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 39,
+      "ayah": 8,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:8",
+      "word_position": 14,
+      "target_word_uthmani": "نَسِىَ",
+      "target_word_rasm": "نسى",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "خَوَّلَهُۥ نِعْمَةً مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "İnsan bir zarara uğrarsa tamamıyla Rabbine dönerek dua eder, sonra, ona bir nimet verdi mi önceden ona dua ettiğini unutur insan ve halkı, onun yolundan çıkarmak için Allah'a da eşler kabul eder; de ki: ...",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةً مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِۦ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan bir zarara uğrarsa tamamıyla Rabbine dönerek dua eder, sonra, ona bir nimet verdi mi önceden ona dua ettiğini unutur insan ve halkı, onun yolundan çıkarmak için Allah'a da eşler kabul eder; de ki: gerçeğin üzerini örten bir müddet geçin bakalım; hiç şüphe yok ki sen, yakıcı yıkım yurdu ehlindensin.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 45,
+      "ayah": 34,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:34",
+      "word_position": 3,
+      "target_word_uthmani": "نَنسَىٰكُمْ",
+      "target_word_rasm": "ننسىكم",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ",
+      "context_snippet_turkish_tabula_rasa": "Ve denir ki: Siz nasıl bugüne kavuşacağınızı unuttuysanız bugün de biz, sizi unuttuk ve yurdunuz ateştir ve size bir yardımcı da yoktur.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nasiYa|ROOT:nsy|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve denir ki: Siz nasıl bugüne kavuşacağınızı unuttuysanız bugün de biz, sizi unuttuk ve yurdunuz ateştir ve size bir yardımcı da yoktur.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 45,
+      "ayah": 34,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:34",
+      "word_position": 5,
+      "target_word_uthmani": "نَسِيتُمْ",
+      "target_word_rasm": "نسيتم",
+      "target_word_literal_irab": "Bilinçli olarak Allah'ı ve hesap gününü terk etmek ve buna denk karşılık olarak o gün yüzüstü bırakılmak (Asl 2 `الترك` Bab I etken/edilgen fiil)",
+      "context_snippet_arabic": "ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "Ve denir ki: Siz nasıl bugüne kavuşacağınızı unuttuysanız bugün de biz, sizi unuttuk ve yurdunuz ateştir ve size bir yardımcı da yoktur.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|2MP"
+      },
+      "ayah_text_arabic_full": "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve denir ki: Siz nasıl bugüne kavuşacağınızı unuttuysanız bugün de biz, sizi unuttuk ve yurdunuz ateştir ve size bir yardımcı da yoktur.",
+      "contextual_meaning": "Asl 2 — Karşılıklı yüzüstü bırakma (التَّرْك): Allah'ı, ayetleri ve hesap gününü bilinçli biçimde terk edenlerin hesap gününde himayesiz ve yüzüstü bırakılması."
+    },
+    {
+      "surah": 58,
+      "ayah": 6,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:6",
+      "word_position": 10,
+      "target_word_uthmani": "وَنَسُوهُ",
+      "target_word_rasm": "ونسوه",
+      "target_word_literal_irab": "Hafızadan silinmek veya zihinsel olarak unutmak (Asl 1 Bab I fiil; 20:52'de Allah için kesin ret)",
+      "context_snippet_arabic": "عَمِلُوٓا۟ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ وَٱللَّهُ عَلَىٰ كُلِّ",
+      "context_snippet_turkish_tabula_rasa": "... onlar, unutmuşlardır ama Allah birbir hesaplamış, tespit etmiştir ve Allah, her şeye tanıktır.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, Allah, onların hepsini de diriltip toplar da neler yaptılarsa haber verir onlara; onlar, unutmuşlardır ama Allah birbir hesaplamış, tespit etmiştir ve Allah, her şeye tanıktır.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    },
+    {
+      "surah": 58,
+      "ayah": 19,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:19",
+      "word_position": 4,
+      "target_word_uthmani": "فَأَنسَىٰهُمْ",
+      "target_word_rasm": "فأنسىهم",
+      "target_word_literal_irab": "Ayartıcının veya alaycılığın bir gerçeği ve Allah bilincini zihinden düşürüp unutturması (يُنسِيَنَّكَ / فَأَنسَىٰهُ / أَنسَىٰنِيهُ / أَنسَوْكُمْ / فَأَنسَىٰهُمْ — Bab IV fiil)",
+      "context_snippet_arabic": "ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَٰنُ فَأَنسَىٰهُمْ ذِكْرَ ٱللَّهِ أُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç, üstlerine saldırmıştır, üst olmuştur da onlara Allah'ı anmayı unutturmuştur; onlardır saptırıcı yıkıcı güç'ın fırkası; ...",
+      "morphology": {
+        "lemma": ">ansaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>ansaY`|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَٰنُ فَأَنسَىٰهُمْ ذِكْرَ ٱللَّهِ أُو۟لَٰٓئِكَ حِزْبُ ٱلشَّيْطَٰنِ أَلَآ إِنَّ حِزْبَ ٱلشَّيْطَٰنِ هُمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç, üstlerine saldırmıştır, üst olmuştur da onlara Allah'ı anmayı unutturmuştur; onlardır saptırıcı yıkıcı güç'ın fırkası; bilin ki şüphe yok, saptırıcı yıkıcı güç'ın fırkası, ziyan edenlerin ta kendisidir.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 59,
+      "ayah": 19,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:19",
+      "word_position": 4,
+      "target_word_uthmani": "نَسُوا۟",
+      "target_word_rasm": "نسوا",
+      "target_word_literal_irab": "Ahdi, sorumluluğu, kendi özünü, fazileti veya yaratılış gerçeğini bilinçli olarak ihmal edip terk etmek (Asl 2 Bab I fiil)",
+      "context_snippet_arabic": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ve o kişilere benzemeyin ki Allah'ı unutmuşlar da o da, kendilerini unutturmuştur onlara; onlardır, buyruktan çıkanların ta kendileri.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nasiYa|ROOT:nsy|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ أُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve o kişilere benzemeyin ki Allah'ı unutmuşlar da o da, kendilerini unutturmuştur onlara; onlardır, buyruktan çıkanların ta kendileri.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 59,
+      "ayah": 19,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:19",
+      "word_position": 6,
+      "target_word_uthmani": "فَأَنسَىٰهُمْ",
+      "target_word_rasm": "فأنسىهم",
+      "target_word_literal_irab": "Allah'ı terk edenleri kendi özlerine ve sorumluluklarına yabancılaştırması (فَأَنسَىٰهُمْ أَنفُسَهُمْ — Bab IV mâzi fiil: 59:19)",
+      "context_snippet_arabic": "كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ أُو۟لَٰٓئِكَ هُمُ",
+      "context_snippet_turkish_tabula_rasa": "Ve o kişilere benzemeyin ki Allah'ı unutmuşlar da o da, kendilerini unutturmuştur onlara; onlardır, buyruktan çıkanların ta kendileri.",
+      "morphology": {
+        "lemma": ">ansaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>ansaY`|ROOT:nsy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ أُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve o kişilere benzemeyin ki Allah'ı unutmuşlar da o da, kendilerini unutturmuştur onlara; onlardır, buyruktan çıkanların ta kendileri.",
+      "contextual_meaning": "Asl 2 — Ahlaki ve bilinçsel terk: ahdi, hatırlatılanı, aradaki fazileti, dünya payını, kendi özünü veya Allah bilincini bile bile ihmal edip arkaya atmak."
+    },
+    {
+      "surah": 87,
+      "ayah": 6,
+      "surah_name": "A'lâ",
+      "ayah_ref": "87:6",
+      "word_position": 3,
+      "target_word_uthmani": "تَنسَىٰٓ",
+      "target_word_rasm": "تنسى",
+      "target_word_literal_irab": "Hafızadan silinmek veya zihinsel olarak unutmak (Asl 1 Bab I fiil; 20:52'de Allah için kesin ret)",
+      "context_snippet_arabic": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Seni okutacağız da unutmayacaksın.",
+      "morphology": {
+        "lemma": "nasiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nasiYa|ROOT:nsy|2MS"
+      },
+      "ayah_text_arabic_full": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni okutacağız da unutmayacaksın.",
+      "contextual_meaning": "Asl 1 — Zihinsel unutma ve unutturma: mazur insani unutma (2:286, 18:73), yol azığının unutulması (18:61-63), ayartıcı dalgınlık (6:68, 12:42) ve Kur'an'ın korunması (87:6)."
+    }
+  ]
+}

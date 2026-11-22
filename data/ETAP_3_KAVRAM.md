@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 16 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 21 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 16 / 131 Kök (Toplam Mühürlü: 237 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 21 / 131 Kök (Toplam Mühürlü: 242 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -25,11 +25,11 @@
 | 14 | ⭐ **3A** | Vahiy ve Kimlik | 517 | `ح-ن-ف` | `H-N-F` | **12** | 12 | 2:135 | Hanîf (Tüm Sapma, Ortak Koşma ve Hizipçi Kalıplardan Kopup Tek Yaratıcı'ya Dosdoğru Yönelmek) | ✅ **MÜHÜRLÜ** |
 | 15 | ⭐ **3A** | Vahiy ve Kimlik | 421 | `م-ل-ل` | `M-L-L` | **18** | 16 | 2:120 | Millet ve İmlâl (Sözleşmeyi Dikte Ettirmek; İlan Edilmiş Ortak Öğreti ve Yaşam Çizgisi) | ✅ **MÜHÜRLÜ** |
 | 16 | ⭐ **3A** | Vahiy ve Kimlik | 241 | `ش-ع-ر` | `S-A-R` | **40** | 40 | 2:9 | Şuûr, Şeâir ve Şiir (Kıl İnceliğinde Sezmek; Bilinç Nişaneleri; Hayal Örgülü Söz ve Kıl) | ✅ **MÜHÜRLÜ** |
-| 17 | ⭐ **3A** | Vahiy ve Kimlik | 259 | `ح-د-ث` | `H-D-S` | **36** | 36 | 2:76 | Hadîs (yeni ortaya çıkan söz ve anlatı; Kur'an'ın kendisine Ahsenü'l-Hadîs demesi) | ⏳ *Bekliyor* |
-| 18 | ⭐ **3A** | Vahiy ve Kimlik | 303 | `ق-ص-ص` | `K-S-S` | **30** | 25 | 2:178 | Kıssa ve Kısâs (iz sürmek ve birebir denklikle takip etmek — anlatı ile hukuk tek kökte) | ⏳ *Bekliyor* |
-| 19 | ⭐ **3A** | Vahiy ve Kimlik | 240 | `ف-ل-ح` | `F-L-H` | **40** | 40 | 2:5 | Felâh ve Müflihûn (toprağı yarıp filizlendirmek gibi çabayla sonuç ve kurtuluş hasat etmek) | ⏳ *Bekliyor* |
-| 20 | ⭐ **3A** | Vahiy ve Kimlik | 697 | `ح-ر-ف` | `H-R-F` | **6** | 6 | 2:75 | Tahrîf ve Harf (sözü bağlamından/ucundan kaydırıp saptırmak ve kıyıda durmak) | ⏳ *Bekliyor* |
-| 21 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 216 | `ن-س-ي` | `N-S-Y` | **45** | 37 | 2:44 | Nisyân (11 Mesânî ref! Zikir zıttı: unutkanlık ile bilinçli terk edip önemsememe) | ⏳ *Bekliyor* |
+| 17 | ⭐ **3A** | Vahiy ve Kimlik | 259 | `ح-د-ث` | `H-D-S` | **36** | 36 | 2:76 | Hadîs ve İhdâs (Yeni/Taze Ortaya Çıkmak; Canlı Söz, Haber ve Kur'an'ın En Güzel Hitabı) | ✅ **MÜHÜRLÜ** |
+| 18 | ⭐ **3A** | Vahiy ve Kimlik | 303 | `ق-ص-ص` | `K-S-S` | **30** | 25 | 2:178 | Kıssa ve Kısas (Bırakılan İzi Adım Adım Takip Etmek; Gerçek Tarih Aktarımı ve Denk Hukuki Karşılık) | ✅ **MÜHÜRLÜ** |
+| 19 | ⭐ **3A** | Vahiy ve Kimlik | 240 | `ف-ل-ح` | `F-L-H` | **40** | 40 | 2:5 | Felâh ve Müflihûn (Toprağı Yarıp Hasada Ermek Gibi Arınma ve Emekle Kalıcı Başarı ve Kurtuluşa Ermek) | ✅ **MÜHÜRLÜ** |
+| 20 | ⭐ **3A** | Vahiy ve Kimlik | 697 | `ح-ر-ف` | `H-R-F` | **6** | 6 | 2:75 | Tahrîf ve Harf (Keskin Kenar/Kıyı; Yan Açıya Kaymak ve Sözü Asli Yerinden Çarpıtmak) | ✅ **MÜHÜRLÜ** |
+| 21 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 216 | `ن-س-ي` | `N-S-Y` | **45** | 37 | 2:44 | Nisyân (Hafızadan Silinip Unutmak [Asl 1]; Bilinçli İhmal Edip Yüzüstü Terk Etmek [Asl 2]) | ✅ **MÜHÜRLÜ** |
 | 22 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 321 | `ع-د-ل` | `A-D-L` | **28** | 24 | 2:48 | Adl (9 Mesânî ref! Kıst ile Furûk: denk yükleme, denge ve eşdeğer karşılık) | ⏳ *Bekliyor* |
 | 23 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 353 | `ق-س-ط` | `K-S-T` | **25** | 22 | 2:282 | Kıst (Adl ile Furûk: hak payı dağıtımı; Muksit [âdil] vs Kâsıt [sapmış] zıtlığı) | ⏳ *Bekliyor* |
 | 24 | ⭐ **3A** | Mesânî ve Furûk Kilidi | 296 | `ق-ع-د` | `K-A-D` | **31** | 26 | 2:127 | Kuûd (8 Mesânî ref! Kıyâm ana zıttı: ataletle oturup sorumluluktan geri kalma) | ⏳ *Bekliyor* |
