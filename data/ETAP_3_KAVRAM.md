@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 65 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 120 / 131 Kök (Toplam Mühürlü: 341 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 70 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 125 / 131 Kök (Toplam Mühürlü: 346 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -129,11 +129,11 @@
 | 118 | 3B | Zihin ve Akletme | 425 | `ف-ك-ر` | `F-K-R` | **18** | 18 | 2:219 | Tefekkür (Evren, Benlik ve Vahiy Üzerinde Bağımsız ve Derin Düşünme) | ✅ **MÜHÜRLÜ** |
 | 119 | 3B | Zihin ve Akletme | 458 | `ف-أ-د` | `F-E-D` | **16** | 15 | 6:110 | Fuâd ve Ef'ide (Duyu Verilerini İşleyen Sıcak İdrak ve Vicdan Merkezi) | ✅ **MÜHÜRLÜ** |
 | 120 | 3B | Zihin ve Akletme | 387 | `ح-ج-ر` | `H-C-R` | **21** | 18 | 2:24 | Hicr, Hacer ve Hucurât (Kuşatıp Engelleme: Kaya, Mahrem Oda ve Frenleyen Akıl) | ✅ **MÜHÜRLÜ** |
-| 121 | 3B | Zihin ve Akletme | 317 | `ي-ق-ن` | `Y-K-N` | **28** | 28 | 2:4 | Yakîn (Zann ve Rayb zıttı: durulup netleşmiş kesin bilgi ve 15:99) | ⏳ *Bekliyor* |
-| 122 | 3B | Zihin ve Akletme | 415 | `ر-ش-د` | `R-S-D` | **19** | 19 | 2:186 | Rüşd (Gayy zıttı: olgunlaşmış doğruluk, isabetli yönetim ve erginlik) | ⏳ *Bekliyor* |
-| 123 | 3B | Zihin ve Akletme | 542 | `س-ف-ه` | `S-F-H` | **11** | 10 | 2:13 | Sefâhat ve Sefîh (hafiflik, tutarsızlık ve zihinsel/ekonomik dengesizlik) | ⏳ *Bekliyor* |
-| 124 | 3B | Zihin ve Akletme | 355 | `ل-س-ن` | `L-S-N` | **25** | 24 | 3:78 | Lisân (dil, ifade sistemi ve toplumsal söz/anlatı) | ⏳ *Bekliyor* |
-| 125 | 3B | Zihin ve Akletme | 491 | `ط-م-ن` | `T-M-N` | **13** | 12 | 2:260 | İtminân ve Mutmainne (Rayb zıttı: çalkantıdan durulup güvenle yatışmak) | ⏳ *Bekliyor* |
+| 121 | 3B | Zihin ve Akletme | 317 | `ي-ق-ن` | `Y-K-N` | **28** | 28 | 2:4 | Yakîn (Kuşkudan Arınmış Delilli Kesinlik, Üç Bilgi Basamağı ve Kesin Son) | ✅ **MÜHÜRLÜ** |
+| 122 | 3B | Zihin ve Akletme | 415 | `ر-ش-د` | `R-S-D` | **19** | 19 | 2:186 | Rüşd ve Reşâd (Dosdoğru İstikamet, Hukuki-Mali Olgunluk ve Sağduyu) | ✅ **MÜHÜRLÜ** |
+| 123 | 3B | Zihin ve Akletme | 542 | `س-ف-ه` | `S-F-H` | **11** | 10 | 2:13 | Sefeh ve Sefîh (Muhakeme Ağırlığını Yitirmiş Sorumsuz Hafiflik ve Dengesizlik) | ✅ **MÜHÜRLÜ** |
+| 124 | 3B | Zihin ve Akletme | 355 | `ل-س-ن` | `L-S-N` | **25** | 24 | 3:78 | Lisân (Konuşma Organı, Ana Dil Çeşitliliği ve Sözün Ahlaki Sorumluluğu) | ✅ **MÜHÜRLÜ** |
+| 125 | 3B | Zihin ve Akletme | 491 | `ط-م-ن` | `T-M-N` | **13** | 12 | 2:260 | İtmi'nân ve Mutmain (Çalkantı Sonrası Derin Dinginlik, Kanıtla Tatmin ve Güvenlik) | ✅ **MÜHÜRLÜ** |
 | 126 | 3B | Zaman ve Ahiret | 398 | `ن-ش-ر` | `N-S-R` | **21** | 20 | 17:13 | Nüşûr ve İnşâr (dürülü olanı yayıp açma: rüzgâr, kayıt defteri ve diriliş) | ⏳ *Bekliyor* |
 | 127 | 3B | Zaman ve Ahiret | 416 | `ص-و-ر` | `S-W-R` | **19** | 17 | 2:260 | Sûr, Sûret ve Musavvir (biçimlendirme ve 6:73 kıyamette üflenen Sûr) | ⏳ *Bekliyor* |
 | 128 | 3B | Zaman ve Ahiret | 405 | `ن-ف-خ` | `N-F-H` | **20** | 18 | 3:49 | Nefh (üfleme: insana diriltici soluk aktarımı, 3:49 ve Sûr'a üflenmesi) | ⏳ *Bekliyor* |
