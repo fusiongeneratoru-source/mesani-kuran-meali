@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 35 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 90 / 131 Kök (Toplam Mühürlü: 311 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 40 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 95 / 131 Kök (Toplam Mühürlü: 316 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -99,11 +99,11 @@
 | 88 | 3B | Mesânî ve Furûk Kilidi | 560 | `ط-ب-ع` | `T-B-A` | **11** | 11 | 4:155 | Tab' (İradi İnat ve Kibir Sonucu Kalbin Damgalanıp Kapanması) | ✅ **MÜHÜRLÜ** |
 | 89 | 3B | Mesânî ve Furûk Kilidi | 392 | `ح-ل-م` | `H-L-M` | **21** | 20 | 2:225 | Hilm ve Hulum (Acele Etmeyen Olgun Sükûnet, Ergenlik Eşiği ve Düş) | ✅ **MÜHÜRLÜ** |
 | 90 | 3B | Mesânî ve Furûk Kilidi | 441 | `ن-ق-م` | `N-K-M` | **17** | 16 | 3:4 | Nakm ve İntikâm (Haksız Kınama/Kusurlama ve Zulme Karşı Adil Yaptırım) | ✅ **MÜHÜRLÜ** |
-| 91 | 3B | Mesânî ve Furûk Kilidi | 211 | `ك-ر-م` | `K-R-M` | **47** | 46 | 4:31 | Kerem ve İkrâm (Rank 211! 89:15-16 İhânet zıttı: onurlu değer, cömertlik ve saygınlık) | ⏳ *Bekliyor* |
-| 92 | 3B | Mesânî ve Furûk Kilidi | 340 | `ه-و-ن` | `H-W-N` | **26** | 26 | 2:90 | Hevn ve İhânet (89:15-16 İkrâm zıttı: alçaltma/horluk ile 25:63 sükûnetli yürüyüş) | ⏳ *Bekliyor* |
-| 93 | 3B | Mesânî ve Furûk Kilidi | 610 | `ز-ي-غ` | `Z-Y-G` | **9** | 8 | 3:7 | Zeyğ (Kıyâm zıttı ve 3:7: doğru eksenden bilinçli meyil ve kayma) | ⏳ *Bekliyor* |
-| 94 | 3B | Mesânî ve Furûk Kilidi | 615 | `ع-و-ج` | `A-W-C` | **9** | 9 | 3:99 | İvec (18:1-2 Kayyim zıttı: yapısal çarpıklık, eğrilik ve tutarsızlık) | ⏳ *Bekliyor* |
-| 95 | 3B | Mesânî ve Furûk Kilidi | 483 | `أ-ب-ي` | `E-B-Y` | **13** | 12 | 2:34 | İbâ (Rükû zıttı ve 2:34: inatla direnip reddetme) | ⏳ *Bekliyor* |
+| 91 | 3B | Mesânî ve Furûk Kilidi | 211 | `ك-ر-م` | `K-R-M` | **47** | 46 | 4:31 | Kerem ve Kerîm (Özde Değer, Evrensel İnsan Onuru ve Karşılıksız Cömertlik) | ✅ **MÜHÜRLÜ** |
+| 92 | 3B | Mesânî ve Furûk Kilidi | 340 | `ه-و-ن` | `H-W-N` | **26** | 26 | 2:90 | Hevn, Heyyin ve Hûn (Dingin Tevazu, Kolaylık ve Kibrin Karşılığı Alçalma) | ✅ **MÜHÜRLÜ** |
+| 93 | 3B | Mesânî ve Furûk Kilidi | 610 | `ز-ي-غ` | `Z-Y-G` | **9** | 8 | 3:7 | Zeyğ (Gözün ve Kalbin Doğru Eksenden Yana Eğilip Kayması) | ✅ **MÜHÜRLÜ** |
+| 94 | 3B | Mesânî ve Furûk Kilidi | 615 | `ع-و-ج` | `A-W-C` | **9** | 9 | 3:99 | İvec (Arazide, Metinde ve Yolda Eğrilik, Çukurluk ve Çarpıklık) | ✅ **MÜHÜRLÜ** |
+| 95 | 3B | Mesânî ve Furûk Kilidi | 483 | `أ-ب-ي` | `E-B-Y` | **13** | 12 | 2:34 | İbâ (Kesin İradeyle Kaçınmak, Yanaşmamak ve Geri Çevirmek) | ✅ **MÜHÜRLÜ** |
 | 96 | 3B | Mesânî ve Furûk Kilidi | 587 | `ع-ت-و` | `A-T-W` | **10** | 9 | 7:77 | Utuvv (Rükû zıttı: haddini aşıp sertleşerek diklenme) | ⏳ *Bekliyor* |
 | 97 | 3B | Hukuk ve Toplumsal Düzen | 213 | `ز-ي-ن` | `Z-Y-N` | **46** | 43 | 2:212 | Zînet ve Tezyîn (24:31 görünen güzellik/süs ile kötü eylemlerin süslü gösterilmesi) | ⏳ *Bekliyor* |
 | 98 | 3B | Hukuk ve Toplumsal Düzen | 920 | `ع-و-ر` | `A-W-R` | **4** | 3 | 24:31 | Avret (24:31, 24:58, 33:13: korunmasız açıklık, gedik ve mahremiyet aralığı) | ⏳ *Bekliyor* |
