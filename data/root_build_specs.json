@@ -13255,5 +13255,543 @@
       }
     ],
     "context_default": "Belirlenmiş doğal yatak, ölçü, denge veya meşruiyet sınırını aşıp taşmak; haddi aşan zorba otoriteye dönüşmek (ط-غ-ي)."
+  },
+  "ش-ف-ع": {
+    "buckwalter": "$fE",
+    "slug": "sefaat_sefi_ciftlemek_omuz_vermek_sfe",
+    "concept_name": "Şefâat, Şefî ve Şef' (Tek Olanı Çiftlemek, Omuz Verip Destek Olmak ve Aracılık Sınırları)",
+    "keywords": [
+      "şefaat",
+      "aracı",
+      "destek",
+      "çift",
+      "yardım",
+      "şefî",
+      "omuz",
+      "aracılık"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$~afoE",
+        "label": "Çift olan / eşlenmiş ikili yapı (ٱلشَّفْعِ — 89:3; tek olan ٱلْوَتْرِ karşısında kökün fiziksel çıpası)"
+      },
+      {
+        "lemma": "ya$ofaEu",
+        "ayahs": [
+          "4:85"
+        ],
+        "label": "İyi veya kötü bir işe destek çıkıp omuz verirse (يَشْفَعْ — Bab I şart muzâri fiil: 4:85)"
+      },
+      {
+        "lemma": "ya$ofaEu",
+        "label": "Katında izin ve rıza ile destek/aracılık eder (يَشْفَعُ / يَشْفَعُونَ / فَيَشْفَعُوا۟ — Bab I muzâri fiil: 2:255, 7:53, 21:28)"
+      },
+      {
+        "lemma": "$afa`Eap",
+        "ayahs": [
+          "4:85"
+        ],
+        "label": "İyi veya kötü bir eyleme omuz verip destek çıkma (شَفَٰعَةً — mef'ûl-i mutlak mastar: 4:85)"
+      },
+      {
+        "lemma": "$afa`Eap",
+        "label": "Destek, aracılık ve onay yetkisi (شَفَٰعَةٌ / ٱلشَّفَٰعَةُ — mastar isim: 2:48, 2:123, 2:254, 19:87, 20:109, 34:23, 36:23, 39:44, 43:86, 53:26, 74:48)"
+      },
+      {
+        "lemma": "$afiyE",
+        "label": "Yanına eklenip destek olan aracı/omuzdaş (شَفِيعٌ / شُفَعَآء — sıfat-ı müşebbehe / çoğul isim: 6:51, 6:70, 6:94, 7:53, 10:3, 10:18, 30:13, 32:4, 39:43, 40:18)"
+      },
+      {
+        "lemma": "$a`fiEiyn",
+        "label": "Destek çıkıp aracılık edecek olanlar (شَٰفِعِينَ / ٱلشَّٰفِعِينَ — çoğul ism-i fâil: 26:100, 74:48)"
+      }
+    ],
+    "irab_default": "Tek olanı çiftlemek, omuz verip destek ve aracılık sunmak (ش-ف-ع kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "89:3"
+        ],
+        "text": "Kökün fiziksel ve matematiksel çıpası: çift olan (ٱلشَّفْع) ile tek olanın (ٱلْوَتْر) karşıtlığı."
+      },
+      {
+        "ayahs": [
+          "4:85"
+        ],
+        "text": "Dünyevi toplumsal destek ilkesi: iyi bir işe omuz verenin olumlu bir payı (نَصِيب), kötü bir işe destek olanın ise eşit sorumluluk yükü (كِفْل) alması."
+      },
+      {
+        "ayahs": [
+          "2:48",
+          "2:123",
+          "2:254",
+          "6:51",
+          "6:70",
+          "6:94",
+          "7:53",
+          "10:18",
+          "26:100",
+          "30:13",
+          "32:4",
+          "36:23",
+          "39:43",
+          "40:18",
+          "74:48"
+        ],
+        "text": "Bireysel sorumluluğu bozan sahte destekçi ve aracılık beklentilerinin hesap gününde kesin biçimde geçersiz kalması (tek başınalık ve sorumluluk yasası)."
+      },
+      {
+        "ayahs": [
+          "2:255",
+          "10:3",
+          "19:87",
+          "20:109",
+          "21:28",
+          "34:23",
+          "39:44",
+          "43:86",
+          "53:26"
+        ],
+        "text": "Tüm destek ve onay yetkisinin bütünüyle Allah'a ait olması (39:44) ve yalnız O'nun izni, rızası, ahdi ile hakikat tanıklığı çerçevesinde işlemesi."
+      }
+    ],
+    "context_default": "Tek olanın yanına eklenip çiftleşmek, destekçi ve aracı olmak; bu yetkinin ilahi sınırları (ش-ف-ع)."
+  },
+  "ع-ر-ش": {
+    "buckwalter": "Er$",
+    "slug": "ars_yukseltilmis_yapi_ve_egemenlik_merkezi_ers",
+    "concept_name": "Arş ve Urûş (Yerden Yükseltilmiş İskeletli Yapı/Çardak ve Evrensel Egemenlik Merkezi)",
+    "keywords": [
+      "arş",
+      "çardak",
+      "tavan",
+      "taht",
+      "çatı",
+      "kurdukları",
+      "egemenlik",
+      "yüksek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaEori$u",
+        "label": "Çardak, kovan veya yüksek çatılı yapı kuruyorlar (يَعْرِشُونَ — Bab I muzâri fiil: 7:137, 16:68)"
+      },
+      {
+        "lemma": "m~aEoruw$a`t",
+        "label": "Çardak ve iskele üzerine yükseltilmiş bahçeler (مَّعْرُوشَٰتٍ — Bab I dişil çoğul ism-i mef'ûl: 6:141)"
+      },
+      {
+        "lemma": "Earo$",
+        "ayahs": [
+          "2:259",
+          "18:42",
+          "22:45"
+        ],
+        "label": "Yıkılıp üzerine çöktüğü çatıları ve bağ çardakları (عُرُوشِهَا — çoğul isim: 2:259, 18:42, 22:45)"
+      },
+      {
+        "lemma": "Earo$",
+        "ayahs": [
+          "12:100",
+          "27:23",
+          "27:38",
+          "27:41",
+          "27:42"
+        ],
+        "label": "Beşerî devlet yönetim ve egemenlik makamı/tahtı (عَرْش — tekil isim: Yûsuf 12:100 ve Sebe melikesi 27:23-42)"
+      },
+      {
+        "lemma": "Earo$",
+        "label": "Gökleri ve yeri kuşatan yüce ilahi egemenlik ve yönetim merkezi (ٱلْعَرْش — tekil isim: 7:54, 10:3, 11:7, 20:5, 21:22, 57:4, 85:15)"
+      }
+    ],
+    "irab_default": "Yerden yükseltilmiş iskeletli yapı, çardak veya yüce egemenlik merkezi (ع-ر-ش kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:141",
+          "7:137",
+          "16:68",
+          "2:259",
+          "18:42",
+          "22:45"
+        ],
+        "text": "Kökün somut mimari ve tarımsal çıpaları: çardaklı/çardaksız bahçeler (6:141), arı kovanı/çardaklar (16:68), Firavun'un yükselttiği yapılar (7:137) ve çatıları üzerine çökmüş kentler/bağlar (2:259, 18:42, 22:45)."
+      },
+      {
+        "ayahs": [
+          "12:100",
+          "27:23",
+          "27:38",
+          "27:41",
+          "27:42"
+        ],
+        "text": "Beşerî devlet yönetimi ve yüksek egemenlik makamı: Yûsuf'un anne-babasını yükselttiği makam (12:100) ve Sebe melikesinin büyük yönetim tahtı (27:23-42)."
+      },
+      {
+        "ayahs": [
+          "7:54",
+          "10:3",
+          "11:7",
+          "13:2",
+          "20:5",
+          "25:59",
+          "32:4",
+          "57:4"
+        ],
+        "text": "Göklerin ve yerin yaratılış aşamalarının ardından evrenin yönetim ve düzen merkezine tam hâkimiyetle yerleşmek (ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُدَبِّرُ ٱلْأَمْرَ)."
+      },
+      {
+        "ayahs": [
+          "9:129",
+          "17:42",
+          "21:22",
+          "23:86",
+          "23:116",
+          "27:26",
+          "39:75",
+          "40:7",
+          "40:15",
+          "43:82",
+          "69:17",
+          "81:20",
+          "85:15"
+        ],
+        "text": "Çok başlılığı ve bozulmayı reddeden tek merkezli yüce kozmik egemenlik sahibi (رَبُّ ٱلْعَرْشِ / ذُو ٱلْعَرْشِ) ve o düzeni taşıyıp çevreleyen görevli güçler."
+      }
+    ],
+    "context_default": "Yerden yükseltilmiş iskeletli yapı/çardak ve evreni kuşatan yüce egemenlik merkezi (ع-ر-ش)."
+  },
+  "س-ل-ط": {
+    "buckwalter": "slT",
+    "slug": "sultan_kesin_kanit_ve_yetki_kudreti_slt",
+    "concept_name": "Sultân ve Teslît (İtirazı Susturan Kesin Kanıt, Meşruiyet Belgesi ve Fiilî Yaptırım Yetkisi)",
+    "keywords": [
+      "kanıt",
+      "delil",
+      "yetki",
+      "sultan",
+      "güç",
+      "hüküm",
+      "üstün",
+      "belge"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sal~aTa",
+        "label": "Bir tarafı diğeri üzerinde fiilî üstünlük ve yetki sahibi kılar/kılardı (لَسَلَّطَهُمْ / يُسَلِّطُ — Bab II fiil: 4:90, 59:6)"
+      },
+      {
+        "lemma": "suloTa`n",
+        "ayahs": [
+          "14:22",
+          "15:42",
+          "16:99",
+          "16:100",
+          "17:65",
+          "34:21",
+          "37:30"
+        ],
+        "label": "Başkasının özgür iradesi üzerinde zorlayıcı yaptırım ve egemenlik yetkisi (سُلْطَٰن — isim; saptırıcının böyle bir yetkisinin bulunmaması)"
+      },
+      {
+        "lemma": "suloTa`n",
+        "ayahs": [
+          "4:91",
+          "4:144",
+          "17:33",
+          "17:80",
+          "28:35",
+          "55:33",
+          "69:29"
+        ],
+        "label": "Hukuki/meşru takip yetkisi, destekleyici güç veya kozmik geçiş kudreti (سُلْطَٰن / سُلْطَٰنِيَهْ — isim)"
+      },
+      {
+        "lemma": "suloTa`n",
+        "label": "Tartışmayı bitiren apaçık kanıt, delil ve indirilmiş meşruiyet belgesi (سُلْطَٰنٍ مُّبِينٍ / سُلْطَٰنًا — isim: 3:151, 11:96, 12:40, 27:21, 53:23)"
+      }
+    ],
+    "irab_default": "Baskın geçerlilik taşıyan kesin kanıt, hukuki yetki veya yaptırım kudreti (س-ل-ط kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:151",
+          "6:81",
+          "7:33",
+          "7:71",
+          "10:68",
+          "12:40",
+          "18:15",
+          "22:71",
+          "30:35",
+          "37:156",
+          "40:35",
+          "40:56",
+          "52:38",
+          "53:23"
+        ],
+        "text": "Epistemolojik kanıt yasası: Allah'ın hakkında hiçbir kesin delil ve meşruiyet belgesi (سُلْطَان) indirmediği dayanaksız zanlara ve uydurmalara karşı apaçık kanıt talebi."
+      },
+      {
+        "ayahs": [
+          "4:153",
+          "11:96",
+          "14:10",
+          "14:11",
+          "23:45",
+          "27:21",
+          "40:23",
+          "44:19",
+          "51:38"
+        ],
+        "text": "Elçilere verilen ve Süleyman'ın Hüdhüd'den istediği (27:21) itirazı kesen apaçık kanıt ve geçerli gerekçe belgesi (بِسُلْطَٰنٍ مُّبِينٍ)."
+      },
+      {
+        "ayahs": [
+          "14:22",
+          "15:42",
+          "16:99",
+          "16:100",
+          "17:65",
+          "34:21",
+          "37:30"
+        ],
+        "text": "Özgür irade sınırları: saptırıcının ve yanlış önderlerin insanlar üzerinde zorlayıcı hiçbir yaptırım yetkisinin (سُلْطَان) bulunmadığının ilanı."
+      },
+      {
+        "ayahs": [
+          "4:90",
+          "4:91",
+          "4:144",
+          "17:33",
+          "17:80",
+          "28:35",
+          "55:33",
+          "59:6",
+          "69:29"
+        ],
+        "text": "Hukuki takip yetkisi (17:33), meşru savunma/üstünlük (4:90-91, 28:35, 59:6), gök-yer sınırlarını aşma kudreti (55:33) ve hesapta tükenen dünyevi güç (69:29)."
+      }
+    ],
+    "context_default": "Tartışmayı bitiren kesin kanıt, meşruiyet belgesi ve üstün yetki/yaptırım gücü (س-ل-ط)."
+  },
+  "ب-ر-ك": {
+    "buckwalter": "brk",
+    "slug": "bereket_tebareke_mubarek_kalici_hayir_ve_verim_brk",
+    "concept_name": "Bereket, Tebâreke ve Mübârek (Sarsılmaz Sabitlik, Kalıcı Hayır ve Kesintisiz Verimlilik)",
+    "keywords": [
+      "bereket",
+      "mübarek",
+      "verim",
+      "kutlu",
+      "yüce",
+      "feyiz",
+      "kalıcı",
+      "bolluk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tabaAraka",
+        "label": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)"
+      },
+      {
+        "lemma": "ba`raka",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Kalıcı hayır ve verimlilikle donatıldı (بُورِكَ — Bab III edilgen mâzi fiil: 27:8)"
+      },
+      {
+        "lemma": "ba`raka",
+        "label": "Kalıcı hayır ve kesintisiz verimlilik yerleştirdi/yerleştirdik (بَٰرَكَ / بَٰرَكْنَا — Bab III etken mâzi fiil: 7:137, 17:1, 21:71, 21:81, 34:18, 37:113, 41:10)"
+      },
+      {
+        "lemma": "mubaArak",
+        "label": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)"
+      },
+      {
+        "lemma": "m~uba`rakap",
+        "label": "Kalıcı hayır ve verimlilikle donatılmış (مُبَٰرَكَة — Bab III dişil ism-i mef'ûl: 24:35, 24:61, 28:30, 44:3)"
+      },
+      {
+        "lemma": "baraka`t",
+        "label": "Gökten, yerden ve ilahi kattan açılan kalıcı verimlilik ve hayır akışları (بَرَكَٰت — çoğul isim: 7:96, 11:48, 11:73)"
+      }
+    ],
+    "irab_default": "Köklü biçimde sabitlenen kalıcı hayır ve kesintisiz verimlilik (ب-ر-ك kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "50:9",
+          "41:10",
+          "24:35",
+          "7:96"
+        ],
+        "text": "Doğal ve ekolojik çıpalar: bahçeler bitiren verimli yağmur (50:9), yeryüzüne yerleştirilen kalıcı gıda verimliliği (41:10), uzun ömürlü zeytin ağacı (24:35) ve gökten-yerden açılan verimlilik akışları (7:96)."
+      },
+      {
+        "ayahs": [
+          "7:54",
+          "23:14",
+          "25:1",
+          "25:10",
+          "25:61",
+          "40:64",
+          "43:85",
+          "55:78",
+          "67:1"
+        ],
+        "text": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+      },
+      {
+        "ayahs": [
+          "6:92",
+          "6:155",
+          "21:50",
+          "38:29",
+          "44:3"
+        ],
+        "text": "Vahiy ve kitap bağlamı: derin düşünülsün diye indirilen, kalıcı bilinç ve hayır üreten kitap/zikir ve onun indirildiği verimli gece."
+      },
+      {
+        "ayahs": [
+          "3:96",
+          "7:137",
+          "11:48",
+          "11:73",
+          "17:1",
+          "19:31",
+          "21:71",
+          "21:81",
+          "23:29",
+          "24:61",
+          "27:8",
+          "28:30",
+          "34:18",
+          "37:113"
+        ],
+        "text": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+      }
+    ],
+    "context_default": "Sarsılmaz biçimde sabitlenen, eksilmeden yaşam ve fayda üreten kalıcı hayır ve verimlilik (ب-ر-ك)."
+  },
+  "ب-ر-أ": {
+    "buckwalter": "brA",
+    "slug": "bari_beraet_kusursuz_yaratis_ve_temize_cikma_bra",
+    "concept_name": "Bâri ve Berâet (Kusursuz Ayrıştırarak Yaratmak; Hastalıktan, Suçtan ve Yanlış Bağdan Temize Çıkmak)",
+    "keywords": [
+      "uzak",
+      "berî",
+      "ilişik",
+      "suçsuz",
+      "yarat",
+      "akla",
+      "iyileş",
+      "temize",
+      "bâri",
+      "beraat"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "baAri}",
+        "label": "Varlıkları kusursuz ve ayırt edilmiş biçimde varlığa çıkaran (بَارِئِكُمْ / ٱلْبَارِئُ — Asl 1 ism-i fâil: 2:54, 59:24)"
+      },
+      {
+        "lemma": "n~abora>a",
+        "label": "Onu pürüzsüz biçimde varlığa çıkarmamızdan önce (أَن نَّبْرَأَهَآ — Asl 1 Bab I muzâri fiil: 57:22)"
+      },
+      {
+        "lemma": "bariy~ap",
+        "label": "Yaratılmış bütün canlı/insan topluluğu (ٱلْبَرِيَّةِ — Asl 1 isim: 98:6-7)"
+      },
+      {
+        "lemma": "tubori}u",
+        "label": "Hastalığı bedenden sıyırıp iyileştirirsin/iyileştiririm (أُبْرِئُ / تُبْرِئُ — Asl 2 Bab IV muzâri fiil: 3:49, 5:110)"
+      },
+      {
+        "lemma": "bar~a>a",
+        "label": "Suç, kusur veya iftiradan temize çıkardı/çıkarırım (أُبَرِّئُ / فَبَرَّأَهُ — Asl 2 Bab II fiil: 12:53, 33:69)"
+      },
+      {
+        "lemma": "mubar~a'uwn",
+        "label": "Yakıştırılan iftiradan temize çıkarılmış olanlar (مُبَرَّءُونَ — Asl 2 Bab II çoğul ism-i mef'ûl: 24:26)"
+      },
+      {
+        "lemma": "tabar~a>a",
+        "label": "Tüm sorumluluk bağını kesin biçimde kesip uzaklaştı/uzaklaşırız (تَبَرَّأَ / فَنَتَبَرَّأَ / تَبَرَّأْنَآ — Asl 2 Bab V fiil: 2:166-167, 9:114, 28:63)"
+      },
+      {
+        "lemma": "baraA^'ap",
+        "label": "Kesin ilişik kesme bildirimi veya sorumluluk muafiyeti (بَرَآءَةٌ — Asl 2 mastar isim: 9:1, 54:43)"
+      },
+      {
+        "lemma": "baraA^'",
+        "label": "Tamamen uzak ve ilişiksiz (بَرَآءٌ — Asl 2 mastar/sıfat: 43:26)"
+      },
+      {
+        "lemma": "bariY^'",
+        "ayahs": [
+          "4:112"
+        ],
+        "label": "Hiçbir kusur bağı bulunmayan suçsuz ve temiz kimse (بَرِيٓـًٔا — Asl 2 isim: 4:112)"
+      },
+      {
+        "lemma": "bariY^'",
+        "label": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)"
+      }
+    ],
+    "irab_default": "Kusursuz ayrıştırarak yaratmak veya hastalık/suç/yanlış bağdan sıyrılıp temize çıkmak (ب-ر-أ kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:54",
+          "57:22",
+          "59:24",
+          "98:6",
+          "98:7"
+        ],
+        "text": "Asl 1 — Kusursuz ayrıştırarak yaratma: varlıkları karışıklıktan uzak biçimde var eden (ٱلْبَارِئُ / بَارِئِكُمْ / نَّبْرَأَهَآ) ve yaratılmış tüm insan topluluğu (ٱلْبَرِيَّة)."
+      },
+      {
+        "ayahs": [
+          "3:49",
+          "5:110"
+        ],
+        "text": "Asl 2 (Tıbbi Şifa) — Bab IV: doğuştan körlük ve alaca hastalığını bedenden sıyırıp Allah'ın izniyle iyileştirmek (أُبْرِئُ / تُبْرِئُ)."
+      },
+      {
+        "ayahs": [
+          "4:112",
+          "12:53",
+          "24:26",
+          "33:69"
+        ],
+        "text": "Asl 2 (Hukuki Aklanma) — Masumiyet ve temize çıkma: suçsuz kişiye iftira atma yasağı (4:112), öz-eleştiri (12:53) ve temiz kimselerin/Mûsâ'nın iftiradan aklanması (24:26, 33:69)."
+      },
+      {
+        "ayahs": [
+          "2:166",
+          "2:167",
+          "6:19",
+          "6:78",
+          "8:48",
+          "9:1",
+          "9:3",
+          "9:114",
+          "10:41",
+          "11:35",
+          "11:54",
+          "26:216",
+          "28:63",
+          "43:26",
+          "54:43",
+          "59:16",
+          "60:4"
+        ],
+        "text": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+      }
+    ],
+    "context_default": "Varlıkları kusursuz ayrıştırarak yaratmak (Asl 1) veya hastalıktan, suçtan ve yanlış sorumluluk bağından sıyrılıp temize çıkmak (Asl 2) (ب-ر-أ)."
   }
 }

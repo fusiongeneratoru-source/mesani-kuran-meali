@@ -3,18 +3,18 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 1 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 6 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 1 / 131 Kök (Toplam Mühürlü: 222 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 6 / 131 Kök (Toplam Mühürlü: 227 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | 1 | ⭐ **3A** | Teoloji ve Otorite | 243 | `ط-غ-ي` | `T-G-Y` | **39** | 39 | 2:15 | Tâğût ve Tuğyân (Doğal Yatak, Ölçü ve Meşruiyet Sınırını Aşıp Taşmak; Zorba Sahte Otorite) | ✅ **MÜHÜRLÜ** |
-| 2 | ⭐ **3A** | Teoloji ve Otorite | 293 | `ش-ف-ع` | `S-F-A` | **31** | 26 | 2:48 | Şefâat ve Şefî (çiftlemek, omuz vermek ve destek/aracılık sınırları) | ⏳ *Bekliyor* |
-| 3 | ⭐ **3A** | Teoloji ve Otorite | 278 | `ع-ر-ش` | `A-R-S` | **33** | 32 | 2:259 | Arş (çardak/çatı kurma kökünden evrensel yönetim ve egemenlik merkezi) | ⏳ *Bekliyor* |
-| 4 | ⭐ **3A** | Teoloji ve Otorite | 246 | `س-ل-ط` | `S-L-T` | **39** | 39 | 3:151 | Sultân (kesin kanıt, delile dayalı yetki ve hüküm geçerliliği) | ⏳ *Bekliyor* |
-| 5 | ⭐ **3A** | Teoloji ve Otorite | 289 | `ب-ر-ك` | `B-R-K` | **32** | 32 | 3:96 | Bereket, Tebâreke ve Mübârek (sarsılmaz sabitlik, kalıcılık ve kesintisiz verimlilik) | ⏳ *Bekliyor* |
-| 6 | ⭐ **3A** | Teoloji ve Otorite | 294 | `ب-ر-أ` | `B-R-E` | **31** | 28 | 2:54 | Bâri ve Berâet (pürüzsüz yaratış [Halaka/Fatara Furûku] ve sorumluluktan/bağdan temize çıkma) | ⏳ *Bekliyor* |
+| 2 | ⭐ **3A** | Teoloji ve Otorite | 293 | `ش-ف-ع` | `S-F-A` | **31** | 26 | 2:48 | Şefâat, Şefî ve Şef' (Tek Olanı Çiftlemek, Omuz Verip Destek Olmak ve Aracılık Sınırları) | ✅ **MÜHÜRLÜ** |
+| 3 | ⭐ **3A** | Teoloji ve Otorite | 278 | `ع-ر-ش` | `A-R-S` | **33** | 32 | 2:259 | Arş ve Urûş (Yerden Yükseltilmiş İskeletli Yapı/Çardak ve Evrensel Egemenlik Merkezi) | ✅ **MÜHÜRLÜ** |
+| 4 | ⭐ **3A** | Teoloji ve Otorite | 246 | `س-ل-ط` | `S-L-T` | **39** | 39 | 3:151 | Sultân ve Teslît (İtirazı Susturan Kesin Kanıt, Meşruiyet Belgesi ve Fiilî Yaptırım Yetkisi) | ✅ **MÜHÜRLÜ** |
+| 5 | ⭐ **3A** | Teoloji ve Otorite | 289 | `ب-ر-ك` | `B-R-K` | **32** | 32 | 3:96 | Bereket, Tebâreke ve Mübârek (Sarsılmaz Sabitlik, Kalıcı Hayır ve Kesintisiz Verimlilik) | ✅ **MÜHÜRLÜ** |
+| 6 | ⭐ **3A** | Teoloji ve Otorite | 294 | `ب-ر-أ` | `B-R-E` | **31** | 28 | 2:54 | Bâri ve Berâet (Kusursuz Ayrıştırarak Yaratmak; Hastalıktan, Suçtan ve Yanlış Bağdan Temize Çıkmak) | ✅ **MÜHÜRLÜ** |
 | 7 | ⭐ **3A** | Teoloji ve Otorite | 295 | `خ-ل-ص` | `H-L-S` | **31** | 30 | 2:94 | İhlâs, Muhlis ve Muhlas (yabancı karışımdan tamamen arındırıp saf ve katıksız kılma) | ⏳ *Bekliyor* |
 | 8 | ⭐ **3A** | Teoloji ve Otorite | 1639 | `ص-م-د` | `S-M-D` | **1** | 1 | 112:2 | Samed (İhlâs suresinin çekirdek sıfatı: her şeyin yöneldiği, boşluğu olmayan mutlak dayanak) | ⏳ *Bekliyor* |
 | 9 | ⭐ **3A** | Teoloji ve Otorite | 1065 | `ك-ر-س` | `K-R-S` | **2** | 2 | 2:255 | Kürsî (2:255 ve 38:34: bilgi, hâkimiyet ve egemenlik kaidesi) | ⏳ *Bekliyor* |

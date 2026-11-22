@@ -1,0 +1,680 @@
+{
+  "root": "ب-ر-أ",
+  "root_latin": "B-R-E (brA)",
+  "concept_name": "Bâri ve Berâet (Kusursuz Ayrıştırarak Yaratmak; Hastalıktan, Suçtan ve Yanlış Bağdan Temize Çıkmak)",
+  "rank": 294,
+  "total_occurrences": 31,
+  "unique_ayahs_count": 28,
+  "unified_core_mechanism": "İbn Fâris'in saptadığı iki köklü ancak 'ayrıştırma ve pürüzden sıyırma' noktasında buluşan çift eksen: **(1) Asl 1 — Kusursuz Ayrıştırarak Yaratma (`بَارِئ / نَّبْرَأَهَا / ٱلْبَرِيَّة`):** Varlıkları karışıklıktan ve kusurdan uzak biçimde bağımsız varlığa çıkarma (`2:54`, `57:22`, `59:24`, `98:6-7`); **(2) Asl 2 — Sıyrılıp Temize Çıkma ve Bağı Kesme (`بَرِيء / بَرَاءَة / تَبَرَّأَ / بَرَّأَ / أَبْرَأَ`):** Hastalıktan kurtarıp şifa verme (`3:49`, `5:110`), suç ve iftiradan aklanma (`4:112`, `12:53`, `24:26`, `33:69`), başkasının suçu veya antlaşma ihlaliyle tüm sorumluluk bağını kesin olarak kesip uzaklaşma (`9:1`, `10:41`, `2:166`, `60:4`).",
+  "physical_core": "İbn Fâris'in tespit ettiği iki köklü ve birbiriyle 'ayırt edip pürüzden sıyırma' noktasında kesişen asıl: (1) Bir varlığı ötekilerden kusursuz biçimde ayrıştırıp varlığa çıkarmak (`بَرَأَ / بَارِئ`); (2) Bir hastalıktan, lekeden, suçtan veya yanlış sorumluluk bağından tamamen sıyrılıp uzaklaşmak (`بَرِئَ / تَبَرَّأَ / أَبْرَأَ`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris açıkça iki asıl kaydeder (PROMPT §3.1 gereği ayrı belirtilir): (1) Yaratmak (`الخلق`, `البارئ`); (2) Bir şeyden uzaklaşıp sıyrılmak ve ayrılmak (`التباعد من الشيء ومزايلته`).",
+    "lisan_al_arab": "İbn Manzûr ve Zeccâc iki asıl arasındaki mekanik köprüyü kurar: `البرء خلق على صفة ... لأن البرء من تبرئة الشيء من الشيء` — yaratılanı birbirinden ayırt edip kusursuz biçimde ortaya çıkarmak ile hastalıktan/suçtan sıyrılıp temize çıkmak aynı 'ayrıştırma ve pürüzden arındırma' hareketine dayanır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `البراءة` kavramının hastalıktan kurtulma (3:49), suçsuzluğun kanıtlanması (4:112, 33:69) ve yanlış yoldan ilişik kesme (9:1, 10:41) eksenlerini ayrıntılar.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in iki aslı zorla tek kalıba sıkıştırılmadan açıkça ayrılır ve ortak 'kusursuz ayrıştırma / pürüzsüz ayırma' bağı gösterilir: (1) Asl 1 (`بَارِئ` 2:54, 59:24; `نَّبْرَأَهَا` 57:22; `ٱلْبَرِيَّة` 98:6-7): Hammaddeyi ölçülendiren `خَالِق` ve dış biçim veren `مُصَوِّر` arasında yer alarak (`59:24`), varlıkları birbirine karıştırmadan pürüzsüz ve özgün biçimde ayrıştırıp var etme; (2) Asl 2 (`أُبْرِئُ` 3:49, 5:110; `بَرَّأَ` 12:53, 24:26, 33:69; `بَرِيء / بَرَاءَة / تَبَرَّأَ` 4:112, 9:1, 10:41, 60:4): Hastalıktan sıyırıp iyileştirme, suçsuzluğu aklama ve yanlış eylem/sözleşme ihlalinden sorumluluk bağını kesin biçimde ayırma."
+  },
+  "semitic_cognates": {
+    "hebrew": "İbranice בָּרָא (*bārāʾ*, Strong H1254: 'kesip şekillendirerek kusursuz yaratmak' — Tekvin 1:1; yalnızca ilahi yaratış için kullanılır), İbn Fâris'in 1. aslıyla (`الخلق`) birebir eşkökenlidir.",
+    "note": "Asl 2 ('hastalıktan/suçtan sıyrılıp temize çıkma ve uzaklaşma') Arapçada genişçe gelişmiştir; iki asıl arasında köken ayrımı gözetilerek dürüstçe raporlanmıştır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "و-ل-ي & ت-ب-ع [إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ / وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ] (Peşine Düşüp Bağlılık ve Velayet Kurmak ↔ Sorumluluk Bağlarını Kesip Uzaklaşmak: 2:166-167, 60:4)",
+      "إ-ث-م & ذ-ن-ب [وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا] (Suç ve Ağır Kusur İşlemek ↔ Suçsuz ve Temiz Olmak [بَرِيء]: 4:112, 11:35)",
+      "ص-ح-ب (S-H-B — Çift Yönlü Mesânî Karşılığı: 2:166-167, 9:114, 59:16)",
+      "ذ-ن-ب (Z-N-B (*nb) — Çift Yönlü Mesânî Karşılığı: 4:112, 11:35, 24:26)"
+    ],
+    "key_ayahs": [
+      "4:112 (suç işleyip onu suçsuz birinin [بَرِيٓـًٔا] üzerine atmak)",
+      "2:166-167 (dünyada izlenenlerin hesap günü izleyenlerden kesin bağ koparması تَبَرَّأَ)",
+      "10:41 (herkesin kendi eyleminden sorumlu olup diğerinin eyleminden uzak/berî olması)",
+      "59:24 (ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ — üç yaratış aşamasının aynı ayet içi Furûku)"
+    ],
+    "reverse_stress_test": "Bir suçla lekelenmenin (4:112), yanlış bir grubun sorumluluğuna ortak/bağlı olmanın (2:166, 10:41, 60:4) ve hastalıkla malul kalmanın (3:49) tam tersi alındığında Asl 2 ('suçtan, hastalıktan ve yanlış sorumluluk bağından tamamen sıyrılıp temize çıkmak'); kusurlu/karışık oluşumun tersi alındığında ise Asl 1 ('varlıkları pürüzsüz ve ayırt edilmiş biçimde yaratmak') 31 geçişin tamamında sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ٱلْخَٰلِقُ (H-L-K: Ölçü ve Planla Var Etme) vs ٱلْبَارِئُ (B-R-E: Varlıkları Birbirinden Kusursuz Ayrıştırıp Canlılıkla Ortaya Çıkarma) vs ٱلْمُصَوِّرُ (S-W-R: Özgün Dış Biçim ve Form Verme) [59:24]",
+      "بَرِيٓـًٔا (B-R-E: Suçtan Tamamen Uzak ve Temiz Kişi) vs إِثْمًا / خَطِيٓـَٔةً (E-S-M / H-T-E: Kusur ve Ağır Suç) vs بُهْتَٰنًا (B-H-T: Şaşkına Çeviren İftira) [4:112]",
+      "تَبَرَّأَ (B-R-E: Sorumluluk Bağından Kesin Ayrılış) vs عَدُوّ (A-D-W: Açık Düşmanlık) [9:114]"
+    ],
+    "mechanical_difference": "1) 59:24'te yaratışın üç aşaması asla eşanlamlı değildir: خ-ل-ق ölçülü tasarım ve var etmeyi, ب-ر-أ her bir varlığı karışıklıktan ve kusurdan arı biçimde bağımsız varlığa ayırmayı, ص-و-ر ise nihai biçim/suret vermeyi kodlar. 2) 4:112'de بَرِيء hiçbir kusur bağı olmayan masumu, إِثْم/خَطِيئَة ise fiilî suçu ayırır. 3) 10:41 ve 11:35'te `بَرِيءٌ مِمَّا` kalıbı başkasının eyleminin vebalini reddeden bireysel sorumluluk sınırını çizer."
+  },
+  "anchor_ayahs": [
+    "59:24 & 57:22 (ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ / مِن قَبْلِ أَن نَّبْرَأَهَآ — Asl 1 çıpası: pürüzsüz ve ayrıştırılmış varlığa çıkarma)",
+    "3:49 & 5:110 (وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ — tıbbi/fiziksel çıpa: hastalıktan sıyırıp iyileştirme)",
+    "4:112 & 33:69 (يَرْمِ بِهِۦ بَرِيٓـًٔا / فَبَرَّأَهُ ٱللَّهُ — hukuki çıpa: suçsuz olmak ve iftiradan aklanmak)",
+    "10:41 & 11:35 (أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌ مِّمَّا تَعْمَلُونَ — bireysel sorumluluk sınırı çıpası)",
+    "9:1 & 2:166-167 (بَرَآءَةٌ مِّنَ ٱللَّهِ / إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ — sözleşme feshi ve ilişik kesme)"
+  ],
+  "grammar_and_branch_rules": "1) Asl 1 — Yaratış (6 geçiş: `2:54` [2 kez], `57:22`, `59:24`, `98:6-7`): `بَارِئ` (pürüzsüz yaratan), Bab I `نَّبْرَأَهَآ` (varlığa çıkarmadan önce), `ٱلْبَرِيَّة` (yaratılmış bütün insanlar/varlıklar). 2) Bab IV — Hastalıktan İyileştirme (2 geçiş: `3:49`, `5:110`): `أُبْرِئُ / تُبْرِئُ` (illeti bedenden sıyırıp iyileştirmek). 3) Bab II — İftira ve Suçtan Aklama (3 geçiş: `12:53`, `24:26`, `33:69`): Kişiyi kendisine yöneltilen ithamdan temize çıkarmak (`فَبَرَّأَهُ ٱللَّهُ`, `مُبَرَّءُونَ`, `وَمَآ أُبَرِّئُ نَفْسِىٓ`). 4) Bab V & İsimler — Sorumluluk Bağından Kesin Uzaklaşma / Muafiyet (20 geçiş: `2:166-167`, `4:112`, `6:19`, `6:78`, `8:48`, `9:1`, `9:3`, `9:114`, `10:41`, `11:35`, `11:54`, `26:216`, `28:63`, `43:26`, `54:43`, `59:16`, `60:4`): `مِن` ile suçtan, sözleşme bozanlardan veya sahte önderlerden kesin ayrılık.",
+  "derivatives": {
+    "بَارِئ / نَبْرَأَ / بَرِيَّة (Asl 1 - 6 geçiş)": "Varlıkları kusursuz ve ayırt edilmiş biçimde varlığa çıkarmak; yaratılmış bütün canlı/insan topluluğu (2:54, 57:22, 59:24, 98:6-7).",
+    "أَبْرَأَ / يُبْرِئُ (Bab IV Fiil - 2 geçiş: 3:49, 5:110)": "Hastalığı bedenden sıyırıp uzaklaştırarak iyileştirmek.",
+    "بَرَّأَ / مُبَرَّءُون (Bab II Fiil & İsm-i Mef'ûl - 3 geçiş: 12:53, 24:26, 33:69)": "Suçtan, kusurdan veya iftiradan temize çıkarıp aklamak.",
+    "بَرِيء / بُرَءَاء / بَرَاء / بَرَاءَة (İsim & Sıfat - 15 geçiş)": "Suçsuz ve temiz kişi (4:112); başkasının eyleminden ve bozulmuş sözleşmeden kesin sorumluluk ayrılığı veya muafiyet (9:1, 10:41, 54:43).",
+    "تَبَرَّأَ (Bab V Fiil - 5 geçiş: 2:166-167, 9:114, 28:63)": "Bir kişi, grup veya sapkın tutumla tüm ilişiği kesin biçimde kesip uzaklaşmak."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 54,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:54",
+      "word_position": 13,
+      "target_word_uthmani": "بَارِئِكُمْ",
+      "target_word_rasm": "بارئكم",
+      "target_word_literal_irab": "Varlıkları kusursuz ve ayırt edilmiş biçimde varlığa çıkaran (بَارِئِكُمْ / ٱلْبَارِئُ — Asl 1 ism-i fâil: 2:54, 59:24)",
+      "context_snippet_arabic": "ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hani Musa, kavmine, siz buzağıya kapılmakla gerçekten kendinize zulmettiniz; tertemiz yaratıcınıza tövbe edin de kendi benliklerinizi öldürün. ...",
+      "morphology": {
+        "lemma": "baAri}",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:baAri}|ROOT:brA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani Musa, kavmine, siz buzağıya kapılmakla gerçekten kendinize zulmettiniz; tertemiz yaratıcınıza tövbe edin de kendi benliklerinizi öldürün. Bu, yaratıcınız katında sizin için çok hayırlıdır demişti de Allah, bu yüzden tövbenizi kabul etmişti. Şüphe yok ki o, tövbeleri kabul eden rahimdir.",
+      "contextual_meaning": "Asl 1 — Kusursuz ayrıştırarak yaratma: varlıkları karışıklıktan uzak biçimde var eden (ٱلْبَارِئُ / بَارِئِكُمْ / نَّبْرَأَهَآ) ve yaratılmış tüm insan topluluğu (ٱلْبَرِيَّة)."
+    },
+    {
+      "surah": 2,
+      "ayah": 54,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:54",
+      "word_position": 20,
+      "target_word_uthmani": "بَارِئِكُمْ",
+      "target_word_rasm": "بارئكم",
+      "target_word_literal_irab": "Varlıkları kusursuz ve ayırt edilmiş biçimde varlığa çıkaran (بَارِئِكُمْ / ٱلْبَارِئُ — Asl 1 ism-i fâil: 2:54, 59:24)",
+      "context_snippet_arabic": "خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Hani Musa, kavmine, siz buzağıya kapılmakla gerçekten kendinize zulmettiniz; tertemiz yaratıcınıza tövbe edin de kendi benliklerinizi öldürün. ...",
+      "morphology": {
+        "lemma": "baAri}",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:baAri}|ROOT:brA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani Musa, kavmine, siz buzağıya kapılmakla gerçekten kendinize zulmettiniz; tertemiz yaratıcınıza tövbe edin de kendi benliklerinizi öldürün. Bu, yaratıcınız katında sizin için çok hayırlıdır demişti de Allah, bu yüzden tövbenizi kabul etmişti. Şüphe yok ki o, tövbeleri kabul eden rahimdir.",
+      "contextual_meaning": "Asl 1 — Kusursuz ayrıştırarak yaratma: varlıkları karışıklıktan uzak biçimde var eden (ٱلْبَارِئُ / بَارِئِكُمْ / نَّبْرَأَهَآ) ve yaratılmış tüm insan topluluğu (ٱلْبَرِيَّة)."
+    },
+    {
+      "surah": 2,
+      "ayah": 166,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:166",
+      "word_position": 2,
+      "target_word_uthmani": "تَبَرَّأَ",
+      "target_word_rasm": "تبرأ",
+      "target_word_literal_irab": "Tüm sorumluluk bağını kesin biçimde kesip uzaklaştı/uzaklaşırız (تَبَرَّأَ / فَنَتَبَرَّأَ / تَبَرَّأْنَآ — Asl 2 Bab V fiil: 2:166-167, 9:114, 28:63)",
+      "context_snippet_arabic": "إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "O vakit kendilerine uyulanlar, azabı görerek kendilerine uyanlardan kaçınır, uzaklaşırlar, aralarındaki vesile ve sebepler de tamamıyla kesilir gider.",
+      "morphology": {
+        "lemma": "tabar~a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(V)|LEM:tabar~a>a|ROOT:brA|3MS"
+      },
+      "ayah_text_arabic_full": "إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ",
+      "ayah_text_turkish_tabula_rasa_full": "O vakit kendilerine uyulanlar, azabı görerek kendilerine uyanlardan kaçınır, uzaklaşırlar, aralarındaki vesile ve sebepler de tamamıyla kesilir gider.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 167,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:167",
+      "word_position": 8,
+      "target_word_uthmani": "فَنَتَبَرَّأَ",
+      "target_word_rasm": "فنتبرأ",
+      "target_word_literal_irab": "Tüm sorumluluk bağını kesin biçimde kesip uzaklaştı/uzaklaşırız (تَبَرَّأَ / فَنَتَبَرَّأَ / تَبَرَّأْنَآ — Asl 2 Bab V fiil: 2:166-167, 9:114, 28:63)",
+      "context_snippet_arabic": "أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Onlara uyanlar da muhakkak derler ki: Keşke bir kere daha dünyaya dönseydik de onlar bizden nasıl kaçındıysa biz de onlardan kaçınsaydık, çekinseydik. İşte...",
+      "morphology": {
+        "lemma": "tabar~a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(V)|LEM:tabar~a>a|ROOT:brA|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ وَمَا هُم بِخَٰرِجِينَ مِنَ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara uyanlar da muhakkak derler ki: Keşke bir kere daha dünyaya dönseydik de onlar bizden nasıl kaçındıysa biz de onlardan kaçınsaydık, çekinseydik. İşte Allah, onlara yaptıkları işleri, üstlerine çöken bir hasretten ibaret olarak gösterir. Onlar, ateşten dışarı çıkamazlar.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 167,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:167",
+      "word_position": 11,
+      "target_word_uthmani": "تَبَرَّءُوا۟",
+      "target_word_rasm": "تبرءوا",
+      "target_word_literal_irab": "Tüm sorumluluk bağını kesin biçimde kesip uzaklaştı/uzaklaşırız (تَبَرَّأَ / فَنَتَبَرَّأَ / تَبَرَّأْنَآ — Asl 2 Bab V fiil: 2:166-167, 9:114, 28:63)",
+      "context_snippet_arabic": "فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا كَذَٰلِكَ يُرِيهِمُ",
+      "context_snippet_turkish_tabula_rasa": "Onlara uyanlar da muhakkak derler ki: Keşke bir kere daha dünyaya dönseydik de onlar bizden nasıl kaçındıysa biz de onlardan kaçınsaydık, çekinseydik. İşte...",
+      "morphology": {
+        "lemma": "tabar~a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(V)|LEM:tabar~a>a|ROOT:brA|2MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ وَمَا هُم بِخَٰرِجِينَ مِنَ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara uyanlar da muhakkak derler ki: Keşke bir kere daha dünyaya dönseydik de onlar bizden nasıl kaçındıysa biz de onlardan kaçınsaydık, çekinseydik. İşte Allah, onlara yaptıkları işleri, üstlerine çöken bir hasretten ibaret olarak gösterir. Onlar, ateşten dışarı çıkamazlar.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 3,
+      "ayah": 49,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:49",
+      "word_position": 24,
+      "target_word_uthmani": "وَأُبْرِئُ",
+      "target_word_rasm": "وأبرئ",
+      "target_word_literal_irab": "Hastalığı bedenden sıyırıp iyileştirirsin/iyileştiririm (أُبْرِئُ / تُبْرِئُ — Asl 2 Bab IV muzâri fiil: 3:49, 5:110)",
+      "context_snippet_arabic": "طَيْرًۢا بِإِذْنِ ٱللَّهِ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ",
+      "context_snippet_turkish_tabula_rasa": "... Anadan doğma körü körlükten kurtarırım, abraş illetine tutulmuşu, Allah'ın izniyle iyileştiririm ve Allah'ın izniyle ölüyü diriltirim, evlerinizde yediklerinizi, sakladıklarınızı size bildiririm. güven duy şüphe yok ki, bunlar size delildir.",
+      "morphology": {
+        "lemma": "tubori}u",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:tubori}u|ROOT:brA|1S"
+      },
+      "ayah_text_arabic_full": "وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarına elçi olarak gönderir, o da onlara der ki: Ben, Rabbinizden delille geldim size. Balçığı yoğurur, kuş şekline sokar, ona üflerim, Allah'ın izniyle kuş olur. Anadan doğma körü körlükten kurtarırım, abraş illetine tutulmuşu, Allah'ın izniyle iyileştiririm ve Allah'ın izniyle ölüyü diriltirim, evlerinizde yediklerinizi, sakladıklarınızı size bildiririm. güven duy şüphe yok ki, bunlar size delildir.",
+      "contextual_meaning": "Asl 2 (Tıbbi Şifa) — Bab IV: doğuştan körlük ve alaca hastalığını bedenden sıyırıp Allah'ın izniyle iyileştirmek (أُبْرِئُ / تُبْرِئُ)."
+    },
+    {
+      "surah": 4,
+      "ayah": 112,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:112",
+      "word_position": 9,
+      "target_word_uthmani": "بَرِيٓـًٔا",
+      "target_word_rasm": "بريـا",
+      "target_word_literal_irab": "Hiçbir kusur bağı bulunmayan suçsuz ve temiz kimse (بَرِيٓـًٔا — Asl 2 isim: 4:112)",
+      "context_snippet_arabic": "ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا",
+      "context_snippet_turkish_tabula_rasa": "Kim bir hatada bulunur, yahut suç işler de onu bir suçsuza isnat ederse iftirada bulunmuş, apaçık bir sapma ve kusuru yüklenmiş olur.",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim bir hatada bulunur, yahut suç işler de onu bir suçsuza isnat ederse iftirada bulunmuş, apaçık bir sapma ve kusuru yüklenmiş olur.",
+      "contextual_meaning": "Asl 2 (Hukuki Aklanma) — Masumiyet ve temize çıkma: suçsuz kişiye iftira atma yasağı (4:112), öz-eleştiri (12:53) ve temiz kimselerin/Mûsâ'nın iftiradan aklanması (24:26, 33:69)."
+    },
+    {
+      "surah": 5,
+      "ayah": 110,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:110",
+      "word_position": 39,
+      "target_word_uthmani": "وَتُبْرِئُ",
+      "target_word_rasm": "وتبرئ",
+      "target_word_literal_irab": "Hastalığı bedenden sıyırıp iyileştirirsin/iyileştiririm (أُبْرِئُ / تُبْرِئُ — Asl 2 Bab IV muzâri fiil: 3:49, 5:110)",
+      "context_snippet_arabic": "فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى",
+      "context_snippet_turkish_tabula_rasa": "An o zamanı ki Allah ey Meryemoğlu İsa, hatırla sana ve annene verdiğim nimetimi demişti, hatırla ki seni RuhülKudüs'le kuvvetlendirdim de beşikteyken de...",
+      "morphology": {
+        "lemma": "tubori}u",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:tubori}u|ROOT:brA|2MS"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı ki Allah ey Meryemoğlu İsa, hatırla sana ve annene verdiğim nimetimi demişti, hatırla ki seni RuhülKudüs'le kuvvetlendirdim de beşikteyken de insanlarla konuştun, olgunluk çağında da. Hani sana kitabı, hikmeti, Tevratı ve İncil'i öğretmiştim. Hani topraktan kuş şeklinde bir şey yapardın iznimle de ona üfürürdün, o da iznimle kuş olurdu ve anadan doğma körün gözünü açar, abraş illetine uğrayanı o illetten kurtarırdın iznimle ve hani ölüyü, iznimle mezardan çıkarmış, diriltmiştin. Hani, İsrailoğullarına apaçık delillerle geldiğin zaman onlardan gerçeğin üzerini örten olanlar, bu ancak açık bir büyü demişlerdi de ben seni kurtarmıştım onların elinden.",
+      "contextual_meaning": "Asl 2 (Tıbbi Şifa) — Bab IV: doğuştan körlük ve alaca hastalığını bedenden sıyırıp Allah'ın izniyle iyileştirmek (أُبْرِئُ / تُبْرِئُ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 19,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:19",
+      "word_position": 35,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "إِلَٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: En büyük tanıklık nedir, hangisidir? De ki: Allah, gerçek tanıktır benimle sizin aranızda ve bana bu Kur'an, sizi ve kime ulaşırsa onu korkutmam için...",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَٰدَةً قُلِ ٱللَّهُ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ وَأُوحِىَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ قُل لَّآ أَشْهَدُ قُلْ إِنَّمَا هُوَ إِلَٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: En büyük tanıklık nedir, hangisidir? De ki: Allah, gerçek tanıktır benimle sizin aranızda ve bana bu Kur'an, sizi ve kime ulaşırsa onu korkutmam için vahyedildi. Siz, Allah'la beraber tapılacak başka bir mabud olduğuna mı tanıklık ediyorsunuz? De ki: Ben tanıklık etmem. De ki: O, ancak tek mabuttur ve benim, sizin ona eş tuttuklarınızla hiçbir ilgim yok.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 78,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:78",
+      "word_position": 15,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "قَالَ يَٰقَوْمِ إِنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Derken güneşin ışıklar saçarak doğduğunu görmüş, Rabbim bu demişti, bu daha büyük. Fakat güneş de batıp gidince ey kavim demişti, benim, sizin otoriteyi...",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةً قَالَ هَٰذَا رَبِّى هَٰذَآ أَكْبَرُ فَلَمَّآ أَفَلَتْ قَالَ يَٰقَوْمِ إِنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken güneşin ışıklar saçarak doğduğunu görmüş, Rabbim bu demişti, bu daha büyük. Fakat güneş de batıp gidince ey kavim demişti, benim, sizin otoriteyi bölüşme ve ortak koşma koştuğunuz şeylerle hiçbir ilgim yok.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 8,
+      "ayah": 48,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:48",
+      "word_position": 24,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌ مِّنكُمْ إِنِّىٓ أَرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Hani o zaman saptırıcı yıkıcı güç, onların yaptıklarını, kendilerine süslü ve hoş göstermişti de bugün insanlardan size üstün olacak yoktur, ben de şüphe yok...",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ وَإِنِّى جَارٌ لَّكُمْ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani o zaman saptırıcı yıkıcı güç, onların yaptıklarını, kendilerine süslü ve hoş göstermişti de bugün insanlardan size üstün olacak yoktur, ben de şüphe yok ki size yardımcıyım demişti. Fakat iki ordu da görününce geri dönüp ben demişti, şüphe yok, sizden uzağım, çünkü ben, sizin görmediklerinizi görmedeyim ve Allah'tan korkmadayım ve Allah'ın cezası pek çetindir.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 9,
+      "ayah": 1,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:1",
+      "word_position": 1,
+      "target_word_uthmani": "بَرَآءَةٌ",
+      "target_word_rasm": "براءة",
+      "target_word_literal_irab": "Kesin ilişik kesme bildirimi veya sorumluluk muafiyeti (بَرَآءَةٌ — Asl 2 mastar isim: 9:1, 54:43)",
+      "context_snippet_arabic": "بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "Allah ve Resulü, kendileriyle ahitleştiğiniz otoriteyi bölüşüp ortak koşanlardan beridir.",
+      "morphology": {
+        "lemma": "baraA^'ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baraA^'ap|ROOT:brA|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ve Resulü, kendileriyle ahitleştiğiniz otoriteyi bölüşüp ortak koşanlardan beridir.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 9,
+      "ayah": 3,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:3",
+      "word_position": 12,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ وَرَسُولُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanmasını ekber günü, Allah'tan ve elçisinden insanlara bir ilandır bu: Şüphe yok ki Allah ve elçiyi, otoriteyi bölüşüp ortak koşanlardan...",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ وَرَسُولُهُۥ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ وَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanmasını ekber günü, Allah'tan ve elçisinden insanlara bir ilandır bu: Şüphe yok ki Allah ve elçiyi, otoriteyi bölüşüp ortak koşanlardan beridir. Artık tövbe ederseniz bu, daha hayırlıdır size. Fakat gene yüz çevirirseniz iyice bilin ki siz hiç şüphe yok, Allah'ı aciz bırakamazsınız ve gerçeğin üzerini örten olanlara pek acıklı azapla müjde ver.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 9,
+      "ayah": 114,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:114",
+      "word_position": 17,
+      "target_word_uthmani": "تَبَرَّأَ",
+      "target_word_rasm": "تبرأ",
+      "target_word_literal_irab": "Tüm sorumluluk bağını kesin biçimde kesip uzaklaştı/uzaklaşırız (تَبَرَّأَ / فَنَتَبَرَّأَ / تَبَرَّأْنَآ — Asl 2 Bab V fiil: 2:166-167, 9:114, 28:63)",
+      "context_snippet_arabic": "أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ إِنَّ إِبْرَٰهِيمَ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim'in, atası için yarlıganma dilemesi, ancak ona vaadettiğini tutmak içindi. Fakat onun, Allah düşmanı olduğu kendisince iyice anlaşıldığı zaman ondan...",
+      "morphology": {
+        "lemma": "tabar~a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(V)|LEM:tabar~a>a|ROOT:brA|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim'in, atası için yarlıganma dilemesi, ancak ona vaadettiğini tutmak içindi. Fakat onun, Allah düşmanı olduğu kendisince iyice anlaşıldığı zaman ondan vazgeçti. Şüphe yok ki İbrahim, çok ağlayıp dua eden, insanlara fazlasıyla merhamet eden bir zattı.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 10,
+      "ayah": 41,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:41",
+      "word_position": 9,
+      "target_word_uthmani": "بَرِيٓـُٔونَ",
+      "target_word_rasm": "بريـون",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "وَلَكُمْ عَمَلُكُمْ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠",
+      "context_snippet_turkish_tabula_rasa": "Seni yalanlarlarsa sen de de ki: Benim yaptığım iş bana ait, sizin yaptıklarınız size. Siz, benim yaptığımdan uzaksınız, ben de sizin yaptıklarınızdan uzağım.",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni yalanlarlarsa sen de de ki: Benim yaptığım iş bana ait, sizin yaptıklarınız size. Siz, benim yaptığımdan uzaksınız, ben de sizin yaptıklarınızdan uzağım.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 10,
+      "ayah": 41,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:41",
+      "word_position": 13,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Seni yalanlarlarsa sen de de ki: Benim yaptığım iş bana ait, sizin yaptıklarınız size. Siz, benim yaptığımdan uzaksınız, ben de sizin yaptıklarınızdan uzağım.",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni yalanlarlarsa sen de de ki: Benim yaptığım iş bana ait, sizin yaptıklarınız size. Siz, benim yaptığımdan uzaksınız, ben de sizin yaptıklarınızdan uzağım.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 11,
+      "ayah": 35,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:35",
+      "word_position": 10,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "فَعَلَىَّ إِجْرَامِى وَأَنَا۠ بَرِىٓءٌ مِّمَّا تُجْرِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa kendisi uyduruyor bunları mı diyorlar. De ki: Eğer uyduruyorsam benim suçum, bana ait ve ben sizin yaptığınız suçlardan uzağım.",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَعَلَىَّ إِجْرَامِى وَأَنَا۠ بَرِىٓءٌ مِّمَّا تُجْرِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa kendisi uyduruyor bunları mı diyorlar. De ki: Eğer uyduruyorsam benim suçum, bana ait ve ben sizin yaptığınız suçlardan uzağım.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 11,
+      "ayah": 54,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:54",
+      "word_position": 14,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "ٱللَّهَ وَٱشْهَدُوٓا۟ أَنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "sığınak mercii (ilâh) bir kısmı seni fena çarpmış deriz de başka bir şeycik demeyiz. O, şüphe yok ki dedi, ben Allah'ı tanık tutmadayım, siz de tanık olun, ben...",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِن نَّقُولُ إِلَّا ٱعْتَرَىٰكَ بَعْضُ ءَالِهَتِنَا بِسُوٓءٍ قَالَ إِنِّىٓ أُشْهِدُ ٱللَّهَ وَٱشْهَدُوٓا۟ أَنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sığınak mercii (ilâh) bir kısmı seni fena çarpmış deriz de başka bir şeycik demeyiz. O, şüphe yok ki dedi, ben Allah'ı tanık tutmadayım, siz de tanık olun, ben sizin otoriteyi bölüşme ve ortak koşma koştuğunuz şeylerden tamamıyla uzağım.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 12,
+      "ayah": 53,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:53",
+      "word_position": 2,
+      "target_word_uthmani": "أُبَرِّئُ",
+      "target_word_rasm": "أبرئ",
+      "target_word_literal_irab": "Suç, kusur veya iftiradan temize çıkardı/çıkarırım (أُبَرِّئُ / فَبَرَّأَهُ — Asl 2 Bab II fiil: 12:53, 33:69)",
+      "context_snippet_arabic": "وَمَآ أُبَرِّئُ نَفْسِىٓ إِنَّ ٱلنَّفْسَ",
+      "context_snippet_turkish_tabula_rasa": "Ve ben kendimi, hiç kötülükte bulunmam diye tamamıyla temize çıkaramam, ancak Rabbim acırsa kötülük yapmam. Şüphe yok ki Rabbim, suçları örter, rahimdir.",
+      "morphology": {
+        "lemma": "bar~a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:bar~a>a|ROOT:brA|1S"
+      },
+      "ayah_text_arabic_full": "وَمَآ أُبَرِّئُ نَفْسِىٓ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ben kendimi, hiç kötülükte bulunmam diye tamamıyla temize çıkaramam, ancak Rabbim acırsa kötülük yapmam. Şüphe yok ki Rabbim, suçları örter, rahimdir.",
+      "contextual_meaning": "Asl 2 (Hukuki Aklanma) — Masumiyet ve temize çıkma: suçsuz kişiye iftira atma yasağı (4:112), öz-eleştiri (12:53) ve temiz kimselerin/Mûsâ'nın iftiradan aklanması (24:26, 33:69)."
+    },
+    {
+      "surah": 24,
+      "ayah": 26,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:26",
+      "word_position": 10,
+      "target_word_uthmani": "مُبَرَّءُونَ",
+      "target_word_rasm": "مبرءون",
+      "target_word_literal_irab": "Yakıştırılan iftiradan temize çıkarılmış olanlar (مُبَرَّءُونَ — Asl 2 Bab II çoğul ism-i mef'ûl: 24:26)",
+      "context_snippet_arabic": "وَٱلطَّيِّبُونَ لِلطَّيِّبَٰتِ أُو۟لَٰٓئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ لَهُم",
+      "context_snippet_turkish_tabula_rasa": "... onlar, öbürlerinin söyledikleri sözlerden uzaktır, onlarındır yarlıganma ve güzelim bir rızık.",
+      "morphology": {
+        "lemma": "mubar~a'uwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:mubar~a'uwn|ROOT:brA|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلْخَبِيثَٰتُ لِلْخَبِيثِينَ وَٱلْخَبِيثُونَ لِلْخَبِيثَٰتِ وَٱلطَّيِّبَٰتُ لِلطَّيِّبِينَ وَٱلطَّيِّبُونَ لِلطَّيِّبَٰتِ أُو۟لَٰٓئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Pis kadınlar, pis erkeklerindir ve pis erkekler, pis kadınların ve temiz kadınlar, temiz erkeklerindir ve temiz erkekler, temiz kadınların; onlar, öbürlerinin söyledikleri sözlerden uzaktır, onlarındır yarlıganma ve güzelim bir rızık.",
+      "contextual_meaning": "Asl 2 (Hukuki Aklanma) — Masumiyet ve temize çıkma: suçsuz kişiye iftira atma yasağı (4:112), öz-eleştiri (12:53) ve temiz kimselerin/Mûsâ'nın iftiradan aklanması (24:26, 33:69)."
+    },
+    {
+      "surah": 26,
+      "ayah": 216,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:216",
+      "word_position": 5,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sana isyan ederlerse de de ki: Şüphe yok ki ben, sizin yaptıklarınızdan uzağım.",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana isyan ederlerse de de ki: Şüphe yok ki ben, sizin yaptıklarınızdan uzağım.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 28,
+      "ayah": 63,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:63",
+      "word_position": 13,
+      "target_word_uthmani": "تَبَرَّأْنَآ",
+      "target_word_rasm": "تبرأنا",
+      "target_word_literal_irab": "Tüm sorumluluk bağını kesin biçimde kesip uzaklaştı/uzaklaşırız (تَبَرَّأَ / فَنَتَبَرَّأَ / تَبَرَّأْنَآ — Asl 2 Bab V fiil: 2:166-167, 9:114, 28:63)",
+      "context_snippet_arabic": "أَغْوَيْنَٰهُمْ كَمَا غَوَيْنَا تَبَرَّأْنَآ إِلَيْكَ مَا كَانُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Azap edeceğimize dair söylediğimiz sözü hakedenler, Rabbimiz derler, işte şunlar, azdırdığımız kişiler, biz nasıl azmışsak onları da öyle azdırdık. Onlardan uzaklaştık, tapına geldik; onlar, bize tapmıyorlardı zaten.",
+      "morphology": {
+        "lemma": "tabar~a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(V)|LEM:tabar~a>a|ROOT:brA|1P"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ رَبَّنَا هَٰٓؤُلَآءِ ٱلَّذِينَ أَغْوَيْنَآ أَغْوَيْنَٰهُمْ كَمَا غَوَيْنَا تَبَرَّأْنَآ إِلَيْكَ مَا كَانُوٓا۟ إِيَّانَا يَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Azap edeceğimize dair söylediğimiz sözü hakedenler, Rabbimiz derler, işte şunlar, azdırdığımız kişiler, biz nasıl azmışsak onları da öyle azdırdık. Onlardan uzaklaştık, tapına geldik; onlar, bize tapmıyorlardı zaten.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 33,
+      "ayah": 69,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:69",
+      "word_position": 9,
+      "target_word_uthmani": "فَبَرَّأَهُ",
+      "target_word_rasm": "فبرأه",
+      "target_word_literal_irab": "Suç, kusur veya iftiradan temize çıkardı/çıkarırım (أُبَرِّئُ / فَبَرَّأَهُ — Asl 2 Bab II fiil: 12:53, 33:69)",
+      "context_snippet_arabic": "كَٱلَّذِينَ ءَاذَوْا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Allah, onu, onların söyledikleri şeylerden temize çıkardı, uzaklaştırdı tamamıyla ve o, Allah katında pek değerliydi.",
+      "morphology": {
+        "lemma": "bar~a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:bar~a>a|ROOT:brA|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ ءَاذَوْا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ وَكَانَ عِندَ ٱللَّهِ وَجِيهًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Musa'yı incitenlere benzemeyin; Allah, onu, onların söyledikleri şeylerden temize çıkardı, uzaklaştırdı tamamıyla ve o, Allah katında pek değerliydi.",
+      "contextual_meaning": "Asl 2 (Hukuki Aklanma) — Masumiyet ve temize çıkma: suçsuz kişiye iftira atma yasağı (4:112), öz-eleştiri (12:53) ve temiz kimselerin/Mûsâ'nın iftiradan aklanması (24:26, 33:69)."
+    },
+    {
+      "surah": 43,
+      "ayah": 26,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:26",
+      "word_position": 7,
+      "target_word_uthmani": "بَرَآءٌ",
+      "target_word_rasm": "براء",
+      "target_word_literal_irab": "Tamamen uzak ve ilişiksiz (بَرَآءٌ — Asl 2 mastar/sıfat: 43:26)",
+      "context_snippet_arabic": "لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌ مِّمَّا تَعْبُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve an o zamanı ki hani İbrahim, atasına ve kavmine demişti: Şüphe yok ki ben, sizin kulluk ettiklerinizden tamamıyla uzağım.",
+      "morphology": {
+        "lemma": "baraA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baraA^'|ROOT:brA|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌ مِّمَّا تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve an o zamanı ki hani İbrahim, atasına ve kavmine demişti: Şüphe yok ki ben, sizin kulluk ettiklerinizden tamamıyla uzağım.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 54,
+      "ayah": 43,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:43",
+      "word_position": 7,
+      "target_word_uthmani": "بَرَآءَةٌ",
+      "target_word_rasm": "براءة",
+      "target_word_literal_irab": "Kesin ilişik kesme bildirimi veya sorumluluk muafiyeti (بَرَآءَةٌ — Asl 2 mastar isim: 9:1, 54:43)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ",
+      "context_snippet_turkish_tabula_rasa": "Sizin gerçeğin üzerini örten, onlardan hayırlı mı, yoksa kitaplarda bir kurtuluş mu var size?",
+      "morphology": {
+        "lemma": "baraA^'ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baraA^'ap|ROOT:brA|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizin gerçeğin üzerini örten, onlardan hayırlı mı, yoksa kitaplarda bir kurtuluş mu var size?",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 57,
+      "ayah": 22,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:22",
+      "word_position": 16,
+      "target_word_uthmani": "نَّبْرَأَهَآ",
+      "target_word_rasm": "نبرأها",
+      "target_word_literal_irab": "Onu pürüzsüz biçimde varlığa çıkarmamızdan önce (أَن نَّبْرَأَهَآ — Asl 1 Bab I muzâri fiil: 57:22)",
+      "context_snippet_arabic": "مِّن قَبْلِ أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzüne, yahut canlarınıza gelip çatan hiçbir felaket yoktur ki biz, onları yaratmadan önce onu, bir kitapta tespit etmemiş olalım; şüphe yok ki bu, Allah'a pek kolaydır.",
+      "morphology": {
+        "lemma": "n~abora>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~abora>a|ROOT:brA|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzüne, yahut canlarınıza gelip çatan hiçbir felaket yoktur ki biz, onları yaratmadan önce onu, bir kitapta tespit etmemiş olalım; şüphe yok ki bu, Allah'a pek kolaydır.",
+      "contextual_meaning": "Asl 1 — Kusursuz ayrıştırarak yaratma: varlıkları karışıklıktan uzak biçimde var eden (ٱلْبَارِئُ / بَارِئِكُمْ / نَّبْرَأَهَآ) ve yaratılmış tüm insan topluluğu (ٱلْبَرِيَّة)."
+    },
+    {
+      "surah": 59,
+      "ayah": 16,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:16",
+      "word_position": 11,
+      "target_word_uthmani": "بَرِىٓءٌ",
+      "target_word_rasm": "برىء",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "كَفَرَ قَالَ إِنِّى بَرِىٓءٌ مِّنكَ إِنِّىٓ أَخَافُ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç gibi, hani insana, gerçeğin üzerini örten ol der de insan gerçeğin üzerini örten oldu muydu, şüphe yok ki der, ben senden tamamıyla...",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç gibi, hani insana, gerçeğin üzerini örten ol der de insan gerçeğin üzerini örten oldu muydu, şüphe yok ki der, ben senden tamamıyla uzağım, şüphe yok ki ben, alemlerin Rabbi Allah'tan korkarım.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 59,
+      "ayah": 24,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:24",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْبَارِئُ",
+      "target_word_rasm": "ٱلبارئ",
+      "target_word_literal_irab": "Varlıkları kusursuz ve ayırt edilmiş biçimde varlığa çıkaran (بَارِئِكُمْ / ٱلْبَارِئُ — Asl 1 ism-i fâil: 2:54, 59:24)",
+      "context_snippet_arabic": "هُوَ ٱللَّهُ ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ لَهُ ٱلْأَسْمَآءُ",
+      "context_snippet_turkish_tabula_rasa": "O Allah, yaratandır, varedip olgunlaştırandır, suret verendir, onundur bütün güzel adlar; tenzih eder onu ne varsa göklerde ve ne varsa yeryüzünde ve odur üstün, hüküm ve hikmet sahibi.",
+      "morphology": {
+        "lemma": "baAri}",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:baAri}|ROOT:brA|M|NOM"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱللَّهُ ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "O Allah, yaratandır, varedip olgunlaştırandır, suret verendir, onundur bütün güzel adlar; tenzih eder onu ne varsa göklerde ve ne varsa yeryüzünde ve odur üstün, hüküm ve hikmet sahibi.",
+      "contextual_meaning": "Asl 1 — Kusursuz ayrıştırarak yaratma: varlıkları karışıklıktan uzak biçimde var eden (ٱلْبَارِئُ / بَارِئِكُمْ / نَّبْرَأَهَآ) ve yaratılmış tüm insan topluluğu (ٱلْبَرِيَّة)."
+    },
+    {
+      "surah": 60,
+      "ayah": 4,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:4",
+      "word_position": 14,
+      "target_word_uthmani": "بُرَءَٰٓؤُا۟",
+      "target_word_rasm": "برءؤا",
+      "target_word_literal_irab": "Başkasının suçu, ortak koşması veya eyleminden tamamen uzak ve ilişiksiz (بَرِىٓءٌ / بَرِيٓـُٔونَ / بُرَءَٰٓؤُا۟ — Asl 2 isim/sıfat: 6:19, 6:78, 8:48, 9:3, 10:41, 11:35, 11:54, 26:216, 59:16, 60:4)",
+      "context_snippet_arabic": "قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de İbrahim'de ve onunla beraber bulunanlarda güzel bir örnek var size; hani kavimlerine demişlerdi ki: Şüphe yok ki biz, sizden ve Allah'tan başka...",
+      "morphology": {
+        "lemma": "bariY^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariY^'|ROOT:brA|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de İbrahim'de ve onunla beraber bulunanlarda güzel bir örnek var size; hani kavimlerine demişlerdi ki: Şüphe yok ki biz, sizden ve Allah'tan başka kulluk ettiklerinizden tamamıyla uzağız, gerçeğin üzerini ört sizi ve aramızla aranızda, bir Allah'a siz de güven duy dek ebedi bir düşmanlık ve nefret belirmiştir; ancak İbrahim'in, atasına, elbette senin için yarlıganma dileyeceğim ve fakat Allah'tan sana gelecek hiçbirşeyi de menedemem sözü başka; Rabbimiz, sana dayandık ve sana yöneldik ve dönüpgeleceğimiz yer de senin tapın.",
+      "contextual_meaning": "Asl 2 (Sorumluluk ve İlişik Kesme) — Yanlış eylemden, ortak koşmadan, antlaşmayı bozan taraflardan veya hesap günü sahte önderlerden kesin biçimde bağ koparma (بَرِيء / بَرَاءَة / تَبَرَّأَ)."
+    },
+    {
+      "surah": 98,
+      "ayah": 6,
+      "surah_name": "Beyyine",
+      "ayah_ref": "98:6",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْبَرِيَّةِ",
+      "target_word_rasm": "ٱلبرية",
+      "target_word_literal_irab": "Yaratılmış bütün canlı/insan topluluğu (ٱلْبَرِيَّةِ — Asl 1 isim: 98:6-7)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinden gerçeğin üzerini örten olanlar ve otoriteyi bölüşme ve ortak koşma koşanlar, şüphe yok ki yakıcı yıkım yurdu ateşindedir, ebedidir onlar orada, onlardır yaratılmışların en kötüleri.",
+      "morphology": {
+        "lemma": "bariy~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariy~ap|ROOT:brA|F|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden gerçeğin üzerini örten olanlar ve otoriteyi bölüşme ve ortak koşma koşanlar, şüphe yok ki yakıcı yıkım yurdu ateşindedir, ebedidir onlar orada, onlardır yaratılmışların en kötüleri.",
+      "contextual_meaning": "Asl 1 — Kusursuz ayrıştırarak yaratma: varlıkları karışıklıktan uzak biçimde var eden (ٱلْبَارِئُ / بَارِئِكُمْ / نَّبْرَأَهَآ) ve yaratılmış tüm insan topluluğu (ٱلْبَرِيَّة)."
+    },
+    {
+      "surah": 98,
+      "ayah": 7,
+      "surah_name": "Beyyine",
+      "ayah_ref": "98:7",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْبَرِيَّةِ",
+      "target_word_rasm": "ٱلبرية",
+      "target_word_literal_irab": "Yaratılmış bütün canlı/insan topluluğu (ٱلْبَرِيَّةِ — Asl 1 isim: 98:6-7)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler ve iyi işlerde bulunanlarsa: Onlardır şüphe yok ki yaratılmışların en hayırlıları.",
+      "morphology": {
+        "lemma": "bariy~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bariy~ap|ROOT:brA|F|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler ve iyi işlerde bulunanlarsa: Onlardır şüphe yok ki yaratılmışların en hayırlıları.",
+      "contextual_meaning": "Asl 1 — Kusursuz ayrıştırarak yaratma: varlıkları karışıklıktan uzak biçimde var eden (ٱلْبَارِئُ / بَارِئِكُمْ / نَّبْرَأَهَآ) ve yaratılmış tüm insan topluluğu (ٱلْبَرِيَّة)."
+    }
+  ]
+}

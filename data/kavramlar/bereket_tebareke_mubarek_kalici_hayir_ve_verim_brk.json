@@ -1,0 +1,699 @@
+{
+  "root": "ب-ر-ك",
+  "root_latin": "B-R-K (brk)",
+  "concept_name": "Bereket, Tebâreke ve Mübârek (Sarsılmaz Sabitlik, Kalıcı Hayır ve Kesintisiz Verimlilik)",
+  "rank": 289,
+  "total_occurrences": 32,
+  "unique_ayahs_count": 32,
+  "unified_core_mechanism": "Geçici ve sönümlü olmayıp köklü biçimde sabitlenen, eksilmeden yaşam, fayda ve verimlilik üretmeye devam eden kalıcı hayır (`بَرَكَة / مُبَارَك`): doğada yaşam fışkırtan yağmur, toprak ve ağaç (`50:9`, `41:10`, `24:35`), toplumda yol gösterici merkez, elçi, kitap ve selam (`3:96`, `19:31`, `38:29`, `24:61`), Bab VI (`تَبَارَكَ`) kalıbında ise yalnızca Allah'ın sonsuzca sabit, yüce ve kesintisiz hayır kaynağı oluşudur (`7:54`, `25:1`, `67:1`).",
+  "physical_core": "Devenin göğsünü yere koyup sarsılmaz biçimde çökmesi (بَرَكَ) ve suyun havuzda birikip kalıcılaşması (بِرْكَة) gibi bir varlığın, hayrın veya verimin geçici olmayıp köklü biçimde sabitlenmesi ve kesintisiz artması.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün tek bir asla dayandığını belirtir: 'bir şeyin sabit ve kalıcı yerleşmesi (ثبات الشيء)'.",
+    "lisan_al_arab": "İbn Manzûr devenin göğsünü yere dayayıp çökmesi (`بُرُوك`), su birikintisi havuzu (`بِرْكَة`) ve hayrın eksilmeden yerleşip çoğalması (`النماء والزيادة وثبوت الخير`) anlamlarını tek fiziksel sabitlik ekseninde toplar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `البركة ثبوت الخير الإلهي في الشيء` ('ilahi hayrın bir şeyde kalıcı olarak yerleşmesi') tanımıyla kavramı tılsımlı uğur algısından tamamen arındırır.",
+    "arbitration_decision": "Hakem Masası Kararı: 50:9 (`مَآءً مُّبَٰرَكًا` — bahçeler ve ekinler bitiren kalıcı verimli yağmur), 24:35 (`شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ` — uzun ömürlü ve verimli zeytin ağacı) ve 41:10 (`وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا` — yeryüzüne dağlar koyup gıdalarını ölçülü ve kalıcı biçimde yerleştirmesi) ayetleri, ب-ر-ك'in 'büyüsel tılsım/uğur' değil **hayat veren kalıcı sabitlik ve kesintisiz verimlilik** olduğunu kesinleştirir. Kur'an'da Bab VI `تَبَارَكَ` (9 geçiş) istisnasız yalnız Allah'a tahsis edilerek her türlü kalıcı hayır ve yaratılışın sarsılmaz kaynağının O olduğunu vurgular."
+  },
+  "semitic_cognates": {
+    "hebrew": "İbranice בָּרַךְ (*bārak*, Strong H1288: '1. diz çöküp yerleşmek; 2. hayır ve verimlilikle donatmak, kutsamak' — Tekvin 1:22 'verimli olun ve çoğalın' bağlamında). Ayrıca *berek* ('diz') ve *bərēkâ* ('su havuzu') aynı Semitik `*b-r-k` ailesindendir.",
+    "note": "İbranice *bārak*'ın hem 'çökmek/yerleşmek' hem 'verimli kılıp çoğaltmak' (Tekvin 1:22) anlamları, İbn Fâris'in 'ثبات الشيء' tespitiyle birebir örtüşür."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ل-ع-ن [لَعَنَهُ ٱللَّهُ ... ↔ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ / بَٰرَكْنَا عَلَيْهِ] (Koruma ve Esenlikten Uzaklaştırma ↔ Üzerine Kalıcı Hayır ve Verimlilik Yerleştirme: 11:48, 11:73, 37:113)",
+      "ك-ذ-ب & خ-س-ر [وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰٓ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَفَتَحْنَا عَلَيْهِم بَرَكَٰتٍ مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ وَلَٰكِن كَذَّبُوا۟] (Gerçeği Yalanlayıp Yıkıma Uğramak ↔ Gökten ve Yerden Kalıcı Verimlilik Kapılarının Açılması: 7:96)",
+      "ه-ل-ك & د-م-ر [وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ ... وَأَوْرَثْنَا ٱلْقَوْمَ ... ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا] (Zorbalığın Tüketici Yıkımı ↔ Kalıcı Verimlilikle Donatılmış Yurt: 7:137)"
+    ],
+    "key_ayahs": [
+      "7:96 (güvenen ve korunan kentlere gökten-yerden açılan kalıcı verimlilikler بَرَكَٰت ↔ yalanlama كَذَّبُوا۟ sonucu yakalanış)",
+      "7:137 (Firavun'un yapılarının yıkılması ↔ kalıcı verimlilikle donatılmış topraklara mirasçı kılınma)",
+      "41:10 (yeryüzüne kalıcı verimlilik yerleştirip بَٰرَكَ فِيهَا gıdalarını ölçülendirme)",
+      "50:9 (yaşam ve ürün fışkırtan kalıcı verimli yağmur مَآءً مُّبَٰرَكًا)"
+    ],
+    "reverse_stress_test": "Uzaklaştırılıp yoksun bırakılmanın (ل-ع-ن), yalanlama sonucu nimetin kesilip çökmesinin (7:96) ve geçici yıkımın (7:137) tam tersi alındığında; ب-ر-ك kökünün 'kalıcı biçimde yerleşen, eksilmeden yaşam ve fayda üreten sarsılmaz hayır ve verimlilik' çekirdeği 32 geçişin tamamında sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "مُبَارَك (B-R-K: Kalıcı Fayda ve Verimlilik Taşıyan) vs طَيِّب (T-Y-B: Temiz, Sağlıklı ve Hoş Nitelikli) [24:61]",
+      "بَرَكَٰت (B-R-K: Kalıcı Olarak Yerleşip Çoğalan Hayır ve Verim) vs سَلَٰم (S-L-M: Güvenlik, Zararsızlık ve Esenlik) [11:48]",
+      "بَرَكَٰت (B-R-K: Kalıcı Verim ve Bolluk) vs رَحْمَت (R-H-M: Kuşatıcı Şefkat ve Koruma) [11:73]",
+      "بَٰرَكَ فِيهَا (B-R-K: Yeryüzünü Sürekli Yaşam Üreten Kalıcı Verimlilikle Donatmak) vs قَدَّرَ فِيهَآ أَقْوَٰتَهَا (K-D-R: Besin Paylarını Ölçüyle Hesaplamak) [41:10]"
+    ],
+    "mechanical_difference": "1) 24:61'de selamlaşmanın `مُبَٰرَكَةً طَيِّبَةً` olması hem kalıcı toplumsal fayda doğurmasını (ب-ر-ك) hem de temiz/hoş olmasını (ط-ي-ب) ayırır. 2) 11:48 ve 11:73'te سَلَٰم güvenlik/zararsızlığı, رَحْمَت kuşatıcı şefkati, بَرَكَٰت ise bu zeminde kalıcı olarak filizlenip artan verimliliği belirtir. 3) 41:10'da بَٰرَكَ toprağın sürekli yaşam destekleme kapasitesini, قَدَّرَ ise besin dağılımının ölçülendirilmesini ayrıştırır."
+  },
+  "anchor_ayahs": [
+    "50:9 (وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ — doğa çıpası: bahçeler ve hasat fışkırtan verimli yağmur)",
+    "41:10 (وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا — ekoloji çıpası: yeryüzüne kalıcı beslenme verimliliği yerleştirmek)",
+    "24:35 (شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ — bitki çıpası: uzun ömürlü ve çok yönlü fayda üreten zeytin ağacı)",
+    "38:29 (كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ مُبَٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَٰتِهِۦ — metin çıpası: kalıcı bilinç ve fayda üreten kitap)",
+    "7:54 & 25:1 & 67:1 (تَبَارَكَ ٱللَّهُ — Bab VI çıpası: tüm yaratılış ve hayrın sonsuzca sabit ve taşkın kaynağı)"
+  ],
+  "grammar_and_branch_rules": "1) Bab VI (`تَبَارَكَ / تَبَٰرَكَ` — 9 geçiş: `7:54`, `23:14`, `25:1`, `25:10`, `25:61`, `40:64`, `43:85`, `55:78`, `67:1`): Kur'an'da yalnız Allah ve O'nun adı hakkında kullanılır; hayrı, yaratıcılığı ve yüceliği sınırsızca sabit ve taşkın olmak. 2) Bab III Fiil (`بَٰرَكَ / بُورِكَ` — 8 geçiş: `7:137`, `17:1`, `21:71`, `21:81`, `27:8`, `34:18`, `37:113`, `41:10`): Belirli bir coğrafyaya, topluma veya elçi soyuna kalıcı verimlilik ve hayır yerleştirmek. 3) Bab III İsm-i Mef'ûl (`مُبَارَك / مُبَارَكَة` — 12 geçiş: `3:96`, `6:92`, `6:155`, `19:31`, `21:50`, `23:29`, `24:35`, `24:61`, `28:30`, `38:29`, `44:3`, `50:9`): Kalıcı fayda ve verimlilikle donatılmış kitap, yağmur, ağaç, gece, yer, selam veya elçi. 4) Çoğul İsim (`بَرَكَٰت` — 3 geçiş: `7:96`, `11:48`, `11:73`): Gökten, yerden ve Allah katından açılan kesintisiz verimlilik ve hayır akışları.",
+  "derivatives": {
+    "تَبَارَكَ (Bab VI Fiil - 9 geçiş)": "Yalnızca Allah için: hayrı, yüceliği ve yaratıcı verimi sonsuzca sabit ve eksilmez olan (7:54, 25:1, 67:1).",
+    "بَارَكَ / بُورِكَ (Bab III Fiil - 8 geçiş)": "Bir yere, yeryüzüne veya nesle kalıcı hayır ve kesintisiz verimlilik yerleştirmek (41:10, 17:1, 37:113).",
+    "مُبَارَك / مُبَارَكَة (İsm-i Mef'ûl - 12 geçiş)": "Kalıcı hayır, yaşam ve fayda üreten verimli varlık, metin, zaman veya mekân (50:9, 38:29, 24:35, 3:96).",
+    "بَرَكَات (Çoğul İsim - 3 geçiş)": "Gökten ve yerden açılan kesintisiz verimlilik ve kalıcı hayır akışları (7:96, 11:48, 11:73)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 3,
+      "ayah": 96,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:96",
+      "word_position": 8,
+      "target_word_uthmani": "مُبَارَكًا",
+      "target_word_rasm": "مباركا",
+      "target_word_literal_irab": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)",
+      "context_snippet_arabic": "لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki ilk kurulan ev, Mekke'deki evdir. Kutludur ve alemlere doğru yolu gösterir.",
+      "morphology": {
+        "lemma": "mubaArak",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(III)|LEM:mubaArak|ROOT:brk|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki ilk kurulan ev, Mekke'deki evdir. Kutludur ve alemlere doğru yolu gösterir.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 6,
+      "ayah": 92,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:92",
+      "word_position": 4,
+      "target_word_uthmani": "مُبَارَكٌ",
+      "target_word_rasm": "مبارك",
+      "target_word_literal_irab": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)",
+      "context_snippet_arabic": "وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌ مُّصَدِّقُ ٱلَّذِى بَيْنَ",
+      "context_snippet_turkish_tabula_rasa": "Sana, şehirlerin anası olan Mekke halkını ve çevresindeki bütün insanları korkutmak, sığınak mercii (ilâh) azabını onlara haber vermek için bu kutlu ve onlarda bulunan kitapları gerçekleyici kitabı indirdik ve ahirete güvene erenler, irtibat ve yöneliş bağlarını daima kılarak bu kitaba da güven duyup emin olurlar.",
+      "morphology": {
+        "lemma": "mubaArak",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(III)|LEM:mubaArak|ROOT:brk|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْءَاخِرَةِ يُؤْمِنُونَ بِهِۦ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, şehirlerin anası olan Mekke halkını ve çevresindeki bütün insanları korkutmak, sığınak mercii (ilâh) azabını onlara haber vermek için bu kutlu ve onlarda bulunan kitapları gerçekleyici kitabı indirdik ve ahirete güvene erenler, irtibat ve yöneliş bağlarını daima kılarak bu kitaba da güven duyup emin olurlar.",
+      "contextual_meaning": "Vahiy ve kitap bağlamı: derin düşünülsün diye indirilen, kalıcı bilinç ve hayır üreten kitap/zikir ve onun indirildiği verimli gece."
+    },
+    {
+      "surah": 6,
+      "ayah": 155,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:155",
+      "word_position": 4,
+      "target_word_uthmani": "مُبَارَكٌ",
+      "target_word_rasm": "مبارك",
+      "target_word_literal_irab": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)",
+      "context_snippet_arabic": "وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Bu kitabıysa kutlu olarak indirdik, artık ona uyun ve çekinin de rahmete kavuşanlara katılın.",
+      "morphology": {
+        "lemma": "mubaArak",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(III)|LEM:mubaArak|ROOT:brk|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu kitabıysa kutlu olarak indirdik, artık ona uyun ve çekinin de rahmete kavuşanlara katılın.",
+      "contextual_meaning": "Vahiy ve kitap bağlamı: derin düşünülsün diye indirilen, kalıcı bilinç ve hayır üreten kitap/zikir ve onun indirildiği verimli gece."
+    },
+    {
+      "surah": 7,
+      "ayah": 54,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:54",
+      "word_position": 29,
+      "target_word_uthmani": "تَبَارَكَ",
+      "target_word_rasm": "تبارك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... İyice bil ki yaratış da onun, buyruk da; alemlerin Rabbi Allah'ın şanı ne de yücedir.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok, Rabbimiz, öyle bir Allah'tır ki gökleri ve yeryüzünü altı günde yaratmıştır da sonra Arşa hakim ve mutasarrıf olmuştur; aceleyle ve durmadan geceyi takib eden gündüze gecenin örtüsünü atar, o örtüyle örter onu ve güneş de onun emrine ram olmuştur, ay da, yıldızlar da. İyice bil ki yaratış da onun, buyruk da; alemlerin Rabbi Allah'ın şanı ne de yücedir.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    },
+    {
+      "surah": 7,
+      "ayah": 96,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:96",
+      "word_position": 9,
+      "target_word_uthmani": "بَرَكَٰتٍ",
+      "target_word_rasm": "بركت",
+      "target_word_literal_irab": "Gökten, yerden ve ilahi kattan açılan kalıcı verimlilik ve hayır akışları (بَرَكَٰت — çoğul isim: 7:96, 11:48, 11:73)",
+      "context_snippet_arabic": "وَٱتَّقَوْا۟ لَفَتَحْنَا عَلَيْهِم بَرَكَٰتٍ مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Memleketlerin halkı güven duy ve çekinselerdi gökyüzünden üstlerine bereket yağdırır, yeryüzünden bereket fışkırtırdık, fakat gerçeğin üzerini örttüler de kazandıkları suç yüzünden onları azaba uğrattık.",
+      "morphology": {
+        "lemma": "baraka`t",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baraka`t|ROOT:brk|FP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰٓ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَفَتَحْنَا عَلَيْهِم بَرَكَٰتٍ مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ وَلَٰكِن كَذَّبُوا۟ فَأَخَذْنَٰهُم بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Memleketlerin halkı güven duy ve çekinselerdi gökyüzünden üstlerine bereket yağdırır, yeryüzünden bereket fışkırtırdık, fakat gerçeğin üzerini örttüler de kazandıkları suç yüzünden onları azaba uğrattık.",
+      "contextual_meaning": "Doğal ve ekolojik çıpalar: bahçeler bitiren verimli yağmur (50:9), yeryüzüne yerleştirilen kalıcı gıda verimliliği (41:10), uzun ömürlü zeytin ağacı (24:35) ve gökten-yerden açılan verimlilik akışları (7:96)."
+    },
+    {
+      "surah": 7,
+      "ayah": 137,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:137",
+      "word_position": 10,
+      "target_word_uthmani": "بَٰرَكْنَا",
+      "target_word_rasm": "بركنا",
+      "target_word_literal_irab": "Kalıcı hayır ve kesintisiz verimlilik yerleştirdi/yerleştirdik (بَٰرَكَ / بَٰرَكْنَا — Bab III etken mâzi fiil: 7:137, 17:1, 21:71, 21:81, 34:18, 37:113, 41:10)",
+      "context_snippet_arabic": "ٱلْأَرْضِ وَمَغَٰرِبَهَا ٱلَّتِى بَٰرَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ",
+      "context_snippet_turkish_tabula_rasa": "Zayıf, horhakir bir hale getirilen kavme, yeryüzünün feyiz ve bereket ihsan ettiğimiz doğularını da, batılarını da miras olarak verdik ve sebat edip direndiklerinden dolayı Rabbinin, İsrailoğullarına verdiği güzel söz, tamamlandı, yerine geldi ve Firavun'la kavminin yaptıklarını, yükselttiklerini yıkıp mahvettik.",
+      "morphology": {
+        "lemma": "ba`raka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ba`raka|ROOT:brk|1P"
+      },
+      "ayah_text_arabic_full": "وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَٰرِقَ ٱلْأَرْضِ وَمَغَٰرِبَهَا ٱلَّتِى بَٰرَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zayıf, horhakir bir hale getirilen kavme, yeryüzünün feyiz ve bereket ihsan ettiğimiz doğularını da, batılarını da miras olarak verdik ve sebat edip direndiklerinden dolayı Rabbinin, İsrailoğullarına verdiği güzel söz, tamamlandı, yerine geldi ve Firavun'la kavminin yaptıklarını, yükselttiklerini yıkıp mahvettik.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 11,
+      "ayah": 48,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:48",
+      "word_position": 6,
+      "target_word_uthmani": "وَبَرَكَٰتٍ",
+      "target_word_rasm": "وبركت",
+      "target_word_literal_irab": "Gökten, yerden ve ilahi kattan açılan kalıcı verimlilik ve hayır akışları (بَرَكَٰت — çoğul isim: 7:96, 11:48, 11:73)",
+      "context_snippet_arabic": "ٱهْبِطْ بِسَلَٰمٍ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ",
+      "context_snippet_turkish_tabula_rasa": "... Nuh, sana ve seninle beraber bulunanlardan türeyecek ümmetlere bizden gönderilen esenlikler ve bereketlerle in gemiden. Onlardan türeyecek ümmetler içinde öyleleri de var ki onları da bir müddet faydalandıracak, geçindireceğiz de sonra bizden elemli bir azaba uğrayacaktır onlar.",
+      "morphology": {
+        "lemma": "baraka`t",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baraka`t|ROOT:brk|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Dendi ki: Nuh, sana ve seninle beraber bulunanlardan türeyecek ümmetlere bizden gönderilen esenlikler ve bereketlerle in gemiden. Onlardan türeyecek ümmetler içinde öyleleri de var ki onları da bir müddet faydalandıracak, geçindireceğiz de sonra bizden elemli bir azaba uğrayacaktır onlar.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 11,
+      "ayah": 73,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:73",
+      "word_position": 8,
+      "target_word_uthmani": "وَبَرَكَٰتُهُۥ",
+      "target_word_rasm": "وبركته",
+      "target_word_literal_irab": "Gökten, yerden ve ilahi kattan açılan kalıcı verimlilik ve hayır akışları (بَرَكَٰت — çoğul isim: 7:96, 11:48, 11:73)",
+      "context_snippet_arabic": "ٱللَّهِ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, Allah'ın işine mi şaşıyorsun dediler, ey Ehli Beyt, Allah'ın rahmeti ve bereketleri size; şüphe yok ki o, övülmeye layık, kullara müstahak olmadan ihsanda bulunan bir sığınak merciidir.",
+      "morphology": {
+        "lemma": "baraka`t",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baraka`t|ROOT:brk|FP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ إِنَّهُۥ حَمِيدٌ مَّجِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Allah'ın işine mi şaşıyorsun dediler, ey Ehli Beyt, Allah'ın rahmeti ve bereketleri size; şüphe yok ki o, övülmeye layık, kullara müstahak olmadan ihsanda bulunan bir sığınak merciidir.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 17,
+      "ayah": 1,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:1",
+      "word_position": 13,
+      "target_word_uthmani": "بَٰرَكْنَا",
+      "target_word_rasm": "بركنا",
+      "target_word_literal_irab": "Kalıcı hayır ve kesintisiz verimlilik yerleştirdi/yerleştirdik (بَٰرَكَ / بَٰرَكْنَا — Bab III etken mâzi fiil: 7:137, 17:1, 21:71, 21:81, 34:18, 37:113, 41:10)",
+      "context_snippet_arabic": "ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Noksan sıfatlardan münezzehtir kulunu geceleyin dokunulmaz teslimiyet odağı'dan çevresini kutladığımız Mescidi Aksa' ya götüren, ayetlerimizden bir kısmını ona...",
+      "morphology": {
+        "lemma": "ba`raka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ba`raka|ROOT:brk|1P"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Noksan sıfatlardan münezzehtir kulunu geceleyin dokunulmaz teslimiyet odağı'dan çevresini kutladığımız Mescidi Aksa' ya götüren, ayetlerimizden bir kısmını ona da gösterelim diye, şüphe yok ki o, her şeyi duyar, görür.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 19,
+      "ayah": 31,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:31",
+      "word_position": 2,
+      "target_word_uthmani": "مُبَارَكًا",
+      "target_word_rasm": "مباركا",
+      "target_word_literal_irab": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)",
+      "context_snippet_arabic": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ",
+      "context_snippet_turkish_tabula_rasa": "Ve Nerede olursam olayım kutlamıştır beni ve diri oldukça irtibat bağını ayakta tutmamı, arınma ve gelişme payı vermemi emretmiştir bana.",
+      "morphology": {
+        "lemma": "mubaArak",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(III)|LEM:mubaArak|ROOT:brk|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Nerede olursam olayım kutlamıştır beni ve diri oldukça irtibat bağını ayakta tutmamı, arınma ve gelişme payı vermemi emretmiştir bana.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 21,
+      "ayah": 50,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:50",
+      "word_position": 3,
+      "target_word_uthmani": "مُّبَارَكٌ",
+      "target_word_rasm": "مبارك",
+      "target_word_literal_irab": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)",
+      "context_snippet_arabic": "وَهَٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَٰهُ أَفَأَنتُمْ لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ve bu da kutlu Kur'an'dır, bunu da indirdik; gerçeğin üzerini örtme mı edeceksiniz onu?",
+      "morphology": {
+        "lemma": "mubaArak",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(III)|LEM:mubaArak|ROOT:brk|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَهَٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَٰهُ أَفَأَنتُمْ لَهُۥ مُنكِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bu da kutlu Kur'an'dır, bunu da indirdik; gerçeğin üzerini örtme mı edeceksiniz onu?",
+      "contextual_meaning": "Vahiy ve kitap bağlamı: derin düşünülsün diye indirilen, kalıcı bilinç ve hayır üreten kitap/zikir ve onun indirildiği verimli gece."
+    },
+    {
+      "surah": 21,
+      "ayah": 71,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:71",
+      "word_position": 6,
+      "target_word_uthmani": "بَٰرَكْنَا",
+      "target_word_rasm": "بركنا",
+      "target_word_literal_irab": "Kalıcı hayır ve kesintisiz verimlilik yerleştirdi/yerleştirdik (بَٰرَكَ / بَٰرَكْنَا — Bab III etken mâzi fiil: 7:137, 17:1, 21:71, 21:81, 34:18, 37:113, 41:10)",
+      "context_snippet_arabic": "إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا لِلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onu da, Lut'u da kurtarıp alemlere kutlu ettiğimiz yere ulaştırdık.",
+      "morphology": {
+        "lemma": "ba`raka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ba`raka|ROOT:brk|1P"
+      },
+      "ayah_text_arabic_full": "وَنَجَّيْنَٰهُ وَلُوطًا إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا لِلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu da, Lut'u da kurtarıp alemlere kutlu ettiğimiz yere ulaştırdık.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 21,
+      "ayah": 81,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:81",
+      "word_position": 9,
+      "target_word_uthmani": "بَٰرَكْنَا",
+      "target_word_rasm": "بركنا",
+      "target_word_literal_irab": "Kalıcı hayır ve kesintisiz verimlilik yerleştirdi/yerleştirdik (بَٰرَكَ / بَٰرَكْنَا — Bab III etken mâzi fiil: 7:137, 17:1, 21:71, 21:81, 34:18, 37:113, 41:10)",
+      "context_snippet_arabic": "إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا وَكُنَّا بِكُلِّ",
+      "context_snippet_turkish_tabula_rasa": "Ve Süleyman'a kasırga gibi esen rüzgarı ram ettik, emriyle, kutladığımız yere esip giderdi ve biz her şeyi biliriz.",
+      "morphology": {
+        "lemma": "ba`raka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ba`raka|ROOT:brk|1P"
+      },
+      "ayah_text_arabic_full": "وَلِسُلَيْمَٰنَ ٱلرِّيحَ عَاصِفَةً تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا وَكُنَّا بِكُلِّ شَىْءٍ عَٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Süleyman'a kasırga gibi esen rüzgarı ram ettik, emriyle, kutladığımız yere esip giderdi ve biz her şeyi biliriz.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 23,
+      "ayah": 14,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:14",
+      "word_position": 18,
+      "target_word_uthmani": "فَتَبَارَكَ",
+      "target_word_rasm": "فتبارك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَٰلِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra o bir katre suyu kan pıhtısı haline getirdik, derken kan pıhtısını bir parça et haline soktuk, derken ette kemikler yarattık, derken kemiklere et giydirdik, sonra da onu başka bir yaratılışla meydana getirdik; ne yücedir şanı yaratıcıların en güzeli Allah'ın.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَٰلِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra o bir katre suyu kan pıhtısı haline getirdik, derken kan pıhtısını bir parça et haline soktuk, derken ette kemikler yarattık, derken kemiklere et giydirdik, sonra da onu başka bir yaratılışla meydana getirdik; ne yücedir şanı yaratıcıların en güzeli Allah'ın.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    },
+    {
+      "surah": 23,
+      "ayah": 29,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:29",
+      "word_position": 5,
+      "target_word_uthmani": "مُّبَارَكًا",
+      "target_word_rasm": "مباركا",
+      "target_word_literal_irab": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)",
+      "context_snippet_arabic": "رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve de ki: Rabbim, beni kutlulukla indir ve sensin indirenlerin en hayırlısı.",
+      "morphology": {
+        "lemma": "mubaArak",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(III)|LEM:mubaArak|ROOT:brk|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve de ki: Rabbim, beni kutlulukla indir ve sensin indirenlerin en hayırlısı.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 24,
+      "ayah": 35,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:35",
+      "word_position": 20,
+      "target_word_uthmani": "مُّبَٰرَكَةٍ",
+      "target_word_rasm": "مبركة",
+      "target_word_literal_irab": "Kalıcı hayır ve verimlilikle donatılmış (مُبَٰرَكَة — Bab III dişil ism-i mef'ûl: 24:35, 24:61, 28:30, 44:3)",
+      "context_snippet_arabic": "يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ",
+      "context_snippet_turkish_tabula_rasa": "... Işığının örneği, kandil konan bir yere benzer, orada bir kandil var, kandil, bir sırça içinde, sırça da parılparıl parlayan bir yıldız sanki; doğuda da olmayan, batıda da olmayan kutlu zeytin ağacından yakılmış; ateş dokunmadan da yağı, hemen ışık verecek; ...",
+      "morphology": {
+        "lemma": "m~uba`rakap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~uba`rakap|ROOT:brk|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ışığıdır göklerin ve yeryüzünün. Işığının örneği, kandil konan bir yere benzer, orada bir kandil var, kandil, bir sırça içinde, sırça da parılparıl parlayan bir yıldız sanki; doğuda da olmayan, batıda da olmayan kutlu zeytin ağacından yakılmış;ateş dokunmadan da yağı, hemen ışık verecek; nur üstüne nur. Allah, doğru yolu gösterir nuruyla dilediğine ve Allah, örnekler getirir insanlara ve Allah, her şeyi bilir.",
+      "contextual_meaning": "Doğal ve ekolojik çıpalar: bahçeler bitiren verimli yağmur (50:9), yeryüzüne yerleştirilen kalıcı gıda verimliliği (41:10), uzun ömürlü zeytin ağacı (24:35) ve gökten-yerden açılan verimlilik akışları (7:96)."
+    },
+    {
+      "surah": 24,
+      "ayah": 61,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:61",
+      "word_position": 68,
+      "target_word_uthmani": "مُبَٰرَكَةً",
+      "target_word_rasm": "مبركة",
+      "target_word_literal_irab": "Kalıcı hayır ve verimlilikle donatılmış (مُبَٰرَكَة — Bab III dişil ism-i mef'ûl: 24:35, 24:61, 28:30, 44:3)",
+      "context_snippet_arabic": "مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ",
+      "context_snippet_turkish_tabula_rasa": "... Evlere girince, Allah tarafından kutlu ve temiz bir sağlık, esenlik vesilesi olmak üzere selam verin ev halkına. İşte Allah, aklınız ersin, düşünüp anlayın diye delillerini böyle açıklar size.",
+      "morphology": {
+        "lemma": "m~uba`rakap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~uba`rakap|ROOT:brk|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Köre vebal yok, topala vebal yok, hastaya vebal yok size de vebal yok evlerinizde, yahut babalarınızın evlerinde. Yahut analarınızın evlerinde, yahut erkek kardeşlerinizin evlerinde, yahut kız kardeşlerinizin evlerinde, yahut amcalarınızın evlerinde, yahut halalarınızın evlerinde, yahut dayılarınızın evlerinde, yahut teyzelerinizin evlerinde, yahut anahtarlarına sahib olduğunuz evlerde, yahut da dostunuzun evlerinde yemek yemenizde; toplu olarak, yahut ayrıayrı yemek yemenizde de bir vebal yok. Evlere girince, Allah tarafından kutlu ve temiz bir sağlık, esenlik vesilesi olmak üzere selam verin ev halkına. İşte Allah, aklınız ersin, düşünüp anlayın diye delillerini böyle açıklar size.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 25,
+      "ayah": 1,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:1",
+      "word_position": 1,
+      "target_word_uthmani": "تَبَارَكَ",
+      "target_word_rasm": "تبارك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ",
+      "context_snippet_turkish_tabula_rasa": "Ne yücedir şanı, Furkan'ı alemleri korkutmak üzere kuluna indirenin.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَٰلَمِينَ نَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ne yücedir şanı, Furkan'ı alemleri korkutmak üzere kuluna indirenin.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    },
+    {
+      "surah": 25,
+      "ayah": 10,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:10",
+      "word_position": 1,
+      "target_word_uthmani": "تَبَارَكَ",
+      "target_word_rasm": "تبارك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ",
+      "context_snippet_turkish_tabula_rasa": "Ne yücedir şanı ki dilerse bunlardan daha da hayırlı esenlik bahçeleri verir sana, kıyılarından ırmaklar akar ve köşkler kurar senin için.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًا مِّن ذَٰلِكَ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَيَجْعَل لَّكَ قُصُورًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Ne yücedir şanı ki dilerse bunlardan daha da hayırlı esenlik bahçeleri verir sana, kıyılarından ırmaklar akar ve köşkler kurar senin için.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    },
+    {
+      "surah": 25,
+      "ayah": 61,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:61",
+      "word_position": 1,
+      "target_word_uthmani": "تَبَارَكَ",
+      "target_word_rasm": "تبارك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "تَبَارَكَ ٱلَّذِى جَعَلَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Ne yücedir şanı gökte burçlar yaratanın ve orada bir ışık ve aydınlatıcı bir ay halk edenin.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ne yücedir şanı gökte burçlar yaratanın ve orada bir ışık ve aydınlatıcı bir ay halk edenin.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    },
+    {
+      "surah": 27,
+      "ayah": 8,
+      "surah_name": "Neml",
+      "ayah_ref": "27:8",
+      "word_position": 5,
+      "target_word_uthmani": "بُورِكَ",
+      "target_word_rasm": "بورك",
+      "target_word_literal_irab": "Kalıcı hayır ve verimlilikle donatıldı (بُورِكَ — Bab III edilgen mâzi fiil: 27:8)",
+      "context_snippet_arabic": "جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Oraya gelince nida edildi: Ateşteki buyruk elçileri de gerçekten kutlanmıştır, çevresindeki Musa da ve münezzehtir noksan sıfatlardan alemlerin Rabbi Allah.",
+      "morphology": {
+        "lemma": "ba`raka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(III)|LEM:ba`raka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَٰنَ ٱللَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oraya gelince nida edildi: Ateşteki buyruk elçileri de gerçekten kutlanmıştır, çevresindeki Musa da ve münezzehtir noksan sıfatlardan alemlerin Rabbi Allah.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 28,
+      "ayah": 30,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:30",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْمُبَٰرَكَةِ",
+      "target_word_rasm": "ٱلمبركة",
+      "target_word_literal_irab": "Kalıcı hayır ve verimlilikle donatılmış (مُبَٰرَكَة — Bab III dişil ism-i mef'ûl: 24:35, 24:61, 28:30, 44:3)",
+      "context_snippet_arabic": "ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن",
+      "context_snippet_turkish_tabula_rasa": "Oraya gelince kutlu yerde bulunan vadinin sağ tarafındaki ağaçtan kendisine nida edildi: Ey Musa, şüphe yok ki ben, alemlerin Rabbi Allah'ım.",
+      "morphology": {
+        "lemma": "m~uba`rakap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:m~uba`rakap|ROOT:brk|F|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oraya gelince kutlu yerde bulunan vadinin sağ tarafındaki ağaçtan kendisine nida edildi: Ey Musa, şüphe yok ki ben, alemlerin Rabbi Allah'ım.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 34,
+      "ayah": 18,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:18",
+      "word_position": 6,
+      "target_word_uthmani": "بَٰرَكْنَا",
+      "target_word_rasm": "بركنا",
+      "target_word_literal_irab": "Kalıcı hayır ve kesintisiz verimlilik yerleştirdi/yerleştirdik (بَٰرَكَ / بَٰرَكْنَا — Bab III etken mâzi fiil: 7:137, 17:1, 21:71, 21:81, 34:18, 37:113, 41:10)",
+      "context_snippet_arabic": "وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَٰرَكْنَا فِيهَا قُرًى ظَٰهِرَةً",
+      "context_snippet_turkish_tabula_rasa": "Onların şehirleriyle kutladığımız şehirler arasında, adeta birbirine bitişik nice şehirler halketmiştik ve o şehirlere gidip gelmeyi kolay bir hale...",
+      "morphology": {
+        "lemma": "ba`raka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ba`raka|ROOT:brk|1P"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَٰرَكْنَا فِيهَا قُرًى ظَٰهِرَةً وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların şehirleriyle kutladığımız şehirler arasında, adeta birbirine bitişik nice şehirler halketmiştik ve o şehirlere gidip gelmeyi kolay bir hale getirmiştik; demiştik ki: Geceleri, gündüzleri emniyet içinde gezin, dolaşın oralarda.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 37,
+      "ayah": 113,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:113",
+      "word_position": 1,
+      "target_word_uthmani": "وَبَٰرَكْنَا",
+      "target_word_rasm": "وبركنا",
+      "target_word_literal_irab": "Kalıcı hayır ve kesintisiz verimlilik yerleştirdi/yerleştirdik (بَٰرَكَ / بَٰرَكْنَا — Bab III etken mâzi fiil: 7:137, 17:1, 21:71, 21:81, 34:18, 37:113, 41:10)",
+      "context_snippet_arabic": "وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ",
+      "context_snippet_turkish_tabula_rasa": "Onu da kutladık, İshak'ı da ve ikisinin de soyundan iyilik eden de var, apaçık kendi benliğine zulmeden de.",
+      "morphology": {
+        "lemma": "ba`raka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ba`raka|ROOT:brk|1P"
+      },
+      "ayah_text_arabic_full": "وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu da kutladık, İshak'ı da ve ikisinin de soyundan iyilik eden de var, apaçık kendi benliğine zulmeden de.",
+      "contextual_meaning": "Mekân, elçi, nesil ve toplumsal ilişki verimliliği: Bekke merkezi (3:96), çevresi verimli kılınan Mescid-i Aksâ ve yurtlar (7:137, 17:1, 21:71, 34:18), elçiler/nesiller (11:48/73, 19:31, 37:113) ve temiz/verimli selamlaşma (24:61)."
+    },
+    {
+      "surah": 38,
+      "ayah": 29,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:29",
+      "word_position": 4,
+      "target_word_uthmani": "مُبَٰرَكٌ",
+      "target_word_rasm": "مبرك",
+      "target_word_literal_irab": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)",
+      "context_snippet_arabic": "كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ مُبَٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَٰتِهِۦ وَلِيَتَذَكَّرَ",
+      "context_snippet_turkish_tabula_rasa": "Bir kitaptır bu ki onu, kutlu olarak sana indirdik, ayetlerini iyice bir düşünsünler aklı başında olanlar ve ondan öğüt alsınlar diye.",
+      "morphology": {
+        "lemma": "mubaArak",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(III)|LEM:mubaArak|ROOT:brk|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ مُبَٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir kitaptır bu ki onu, kutlu olarak sana indirdik, ayetlerini iyice bir düşünsünler aklı başında olanlar ve ondan öğüt alsınlar diye.",
+      "contextual_meaning": "Vahiy ve kitap bağlamı: derin düşünülsün diye indirilen, kalıcı bilinç ve hayır üreten kitap/zikir ve onun indirildiği verimli gece."
+    },
+    {
+      "surah": 40,
+      "ayah": 64,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:64",
+      "word_position": 18,
+      "target_word_uthmani": "فَتَبَارَكَ",
+      "target_word_rasm": "فتبارك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... işte budur Rabbiniz; ne yücedir alemlerin Rabbi Allah.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ قَرَارًا وَٱلسَّمَآءَ بِنَآءً وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir Allah'tır ki yeryüzünü, size karar edecek bir yurt, göğü de bir kubbe olarak yaratmıştır ve size suret vermiştir, suretinizi de en güzel bir şekle sokmuştur ve sizi, tertemiz şeylerle rızıklandırmıştır; işte budur Rabbiniz; ne yücedir alemlerin Rabbi Allah.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    },
+    {
+      "surah": 41,
+      "ayah": 10,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:10",
+      "word_position": 6,
+      "target_word_uthmani": "وَبَٰرَكَ",
+      "target_word_rasm": "وبرك",
+      "target_word_literal_irab": "Kalıcı hayır ve kesintisiz verimlilik yerleştirdi/yerleştirdik (بَٰرَكَ / بَٰرَكْنَا — Bab III etken mâzi fiil: 7:137, 17:1, 21:71, 21:81, 34:18, 37:113, 41:10)",
+      "context_snippet_arabic": "رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ",
+      "context_snippet_turkish_tabula_rasa": "Ve yeryüzünün üstünde metin dağlar yaratmıştır ve kutlamıştır orasını, bereket ihsan etmiştir ve rızık olacak şeyleri takdir etmiştir de meydana getirmiştir bunları orada, tam dört gün içinde, dileyenler için hepsi de eşittir.",
+      "morphology": {
+        "lemma": "ba`raka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ba`raka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve yeryüzünün üstünde metin dağlar yaratmıştır ve kutlamıştır orasını, bereket ihsan etmiştir ve rızık olacak şeyleri takdir etmiştir de meydana getirmiştir bunları orada, tam dört gün içinde, dileyenler için hepsi de eşittir.",
+      "contextual_meaning": "Doğal ve ekolojik çıpalar: bahçeler bitiren verimli yağmur (50:9), yeryüzüne yerleştirilen kalıcı gıda verimliliği (41:10), uzun ömürlü zeytin ağacı (24:35) ve gökten-yerden açılan verimlilik akışları (7:96)."
+    },
+    {
+      "surah": 43,
+      "ayah": 85,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:85",
+      "word_position": 1,
+      "target_word_uthmani": "وَتَبَارَكَ",
+      "target_word_rasm": "وتبارك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "وَتَبَارَكَ ٱلَّذِى لَهُۥ مُلْكُ",
+      "context_snippet_turkish_tabula_rasa": "Ve yücedir o ki onundur saltanatı ve tedbiri göklerin ve yeryüzünün ve ikisinin arasındakilerin ve onun katındadır kıyametin ne vakit kopacağına ait bilgi ve hep dönüp onun tapısına varacaksınız.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "وَتَبَارَكَ ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَعِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَإِلَيْهِ تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve yücedir o ki onundur saltanatı ve tedbiri göklerin ve yeryüzünün ve ikisinin arasındakilerin ve onun katındadır kıyametin ne vakit kopacağına ait bilgi ve hep dönüp onun tapısına varacaksınız.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    },
+    {
+      "surah": 44,
+      "ayah": 3,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:3",
+      "word_position": 5,
+      "target_word_uthmani": "مُّبَٰرَكَةٍ",
+      "target_word_rasm": "مبركة",
+      "target_word_literal_irab": "Kalıcı hayır ve verimlilikle donatılmış (مُبَٰرَكَة — Bab III dişil ism-i mef'ûl: 24:35, 24:61, 28:30, 44:3)",
+      "context_snippet_arabic": "أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ إِنَّا كُنَّا مُنذِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki biz onu, kutlu bir gecede indirdik, şüphe yok ki biz, insanları korkuturuz.",
+      "morphology": {
+        "lemma": "m~uba`rakap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~uba`rakap|ROOT:brk|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ إِنَّا كُنَّا مُنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki biz onu, kutlu bir gecede indirdik, şüphe yok ki biz, insanları korkuturuz.",
+      "contextual_meaning": "Vahiy ve kitap bağlamı: derin düşünülsün diye indirilen, kalıcı bilinç ve hayır üreten kitap/zikir ve onun indirildiği verimli gece."
+    },
+    {
+      "surah": 50,
+      "ayah": 9,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:9",
+      "word_position": 5,
+      "target_word_uthmani": "مُّبَٰرَكًا",
+      "target_word_rasm": "مبركا",
+      "target_word_literal_irab": "Kalıcı fayda ve yaşam verimliliği taşıyan (مُبَارَك / مُبَٰرَك — Bab III eril ism-i mef'ûl: 3:96, 6:92, 6:155, 19:31, 21:50, 23:29, 38:29, 50:9)",
+      "context_snippet_arabic": "مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve gökten de kutlu bir yağmur yağdırmadayız da o sayede bağlar, bahçeler ve biçilecek taneler, yeşertip bitirmedeyiz.",
+      "morphology": {
+        "lemma": "mubaArak",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(III)|LEM:mubaArak|ROOT:brk|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gökten de kutlu bir yağmur yağdırmadayız da o sayede bağlar, bahçeler ve biçilecek taneler, yeşertip bitirmedeyiz.",
+      "contextual_meaning": "Doğal ve ekolojik çıpalar: bahçeler bitiren verimli yağmur (50:9), yeryüzüne yerleştirilen kalıcı gıda verimliliği (41:10), uzun ömürlü zeytin ağacı (24:35) ve gökten-yerden açılan verimlilik akışları (7:96)."
+    },
+    {
+      "surah": 55,
+      "ayah": 78,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:78",
+      "word_position": 1,
+      "target_word_uthmani": "تَبَٰرَكَ",
+      "target_word_rasm": "تبرك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى",
+      "context_snippet_turkish_tabula_rasa": "Ululuk ve kerem ıssı Rabbinin adının şanı, pek yücedir.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ululuk ve kerem ıssı Rabbinin adının şanı, pek yücedir.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    },
+    {
+      "surah": 67,
+      "ayah": 1,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:1",
+      "word_position": 1,
+      "target_word_uthmani": "تَبَٰرَكَ",
+      "target_word_rasm": "تبرك",
+      "target_word_literal_irab": "Hayrı, yaratıcılığı ve yüceliği sonsuzca sabit ve eksilmez olan Allah (تَبَارَكَ / تَبَٰرَكَ — Bab VI fiil; yalnız Allah'a tahsisli)",
+      "context_snippet_arabic": "تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ",
+      "context_snippet_turkish_tabula_rasa": "Saltanat, tasarruf ve tedbir, elinde olan mabudun şanı yücedir, münezzehtir ve onun her şeye gücü yeter.",
+      "morphology": {
+        "lemma": "tabaAraka",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tabaAraka|ROOT:brk|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Saltanat, tasarruf ve tedbir, elinde olan mabudun şanı yücedir, münezzehtir ve onun her şeye gücü yeter.",
+      "contextual_meaning": "Yalnız Allah'a tahsis edilen Bab VI (تَبَارَكَ): tüm yaratılışın, mülkün ve hakikat ölçüsünün sonsuzca sabit, yüce ve kesintisiz hayır kaynağı."
+    }
+  ]
+}
