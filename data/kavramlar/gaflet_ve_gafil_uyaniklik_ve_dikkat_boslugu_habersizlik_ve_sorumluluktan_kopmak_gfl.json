@@ -1,0 +1,762 @@
+{
+  "root": "غ-ف-ل",
+  "root_latin": "G-F-L (gfl)",
+  "concept_name": "Gaflet ve Gâfil (Uyanıklık ve Dikkat Boşluğu, Habersizlik ve Sorumluluktan Kopmak)",
+  "rank": 265,
+  "total_occurrences": 35,
+  "unique_ayahs_count": 35,
+  "unified_core_mechanism": "Uyanıklık ve dikkati bırakarak bir şeyin farkında olmamak, habersiz kalmak veya sorumluluk ve ayetlere karşı kayıtsızlaşmak (`4:102`, `28:15` dikkat boşluğu ve halkın farkında olmadığı an; `12:3`, `24:23` masum habersizlik; 11 geçişte Allah'ın hiçbir eylemden habersiz ve kayıtsız olmaması; `7:179`, `18:28`, `21:1`, `30:7`, `50:22` ayetlere, zikre ve hesaba karşı bilinç uyuşukluğu).",
+  "physical_core": "Uyanıklık ve dikkati bırakarak **bir şeyin farkında olmamak, gözden kaçırmak veya sorumluluktan kayıtsızca uzak kalmak (`ترك الشيء سهواً وقلة التيقظ والتحفظ`)** — kökün kendisi öncelikle 'dikkat ve bilgi boşluğu'dur: `4:102`de silahlardan dikkati ayırmak, `28:15`te halkın farkında olmadığı an, `12:3`te elçinin vahiy öncesi kıssadan habersizliği ve `24:23`te kötülükten habersiz masum kadınlar (`ٱلْغَٰفِلَٰتِ`) bu nötr çekirdeği kanıtlar; kınanan gaflet ise apaçık ayetlere ve hesaba karşı uyanıklığı yitirip kayıtsızlaşmaktır.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün sağlam aslının **'bir şeyi dalgınlıkla ve bazen de bilinçli biçimde bırakıp ilgisiz kalmak (`ترك الشيء سهواً وربما كان عن عمد`)'** olduğunu mühürler; Bab I `غَفَلَ`nin farkında olmadan bırakmak, Bab IV `أَغْفَلَ`nin ise hatırlarken/bilerek bırakmak ayrımını kaydeder.",
+    "lisan_al_arab": "İbn Manzûr `غَفْلَة`nin dikkatsizlik ve işaretsizlik (`أرض غُفل`: üzerinde işaret ve iz bulunmayan arazi) ile bağlantısını vurgular; dikkat, koruma ve uyanıklığın kaybını anlatır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `غَفْلَة`yi 'korunma ve uyanıklık azlığından dolayı insana arız olan dalgınlık ve farkındalık kaybı (`سهو يعتري الإنسان من قلة التحفظ والتيقظ`)' diye tanımlar; `12:3` ve `24:23`teki bilgi yokluğu/masumiyet kullanımlarını kınanan `7:179` ve `21:1`den titizlikle ayırır.",
+    "arbitration_decision": "Hakem Masası Kararı: `غ-ف-ل` (35 geçiş) her yerde olumsuz bir 'tembellik' damgası değildir! Kökün **farkındalık ve dikkat boşluğu** çekirdeği dört bağlamı ayırır: (1) **Mutlak İlahi Uyanıklık (11 geçiş):** `2:74,85,140,144,149`, `3:99`, `6:132`, `11:123`, `14:42`, `23:17`, `27:93` — Allah yaratımdan ve yapılanlardan asla habersiz/kayıtsız değildir. (2) **Nötr Bilgisizlik, Dikkat Boşluğu ve Masumiyet (7 geçiş):** `4:102` (silahlardan dikkati ayırmak), `6:131,156`, `12:3,13`, `24:23` (`ٱلْغَٰفِلَٰتِ`: kötülükten habersiz masum kadınlar), `28:15` (`حِينِ غَفْلَةٍ`: halkın farkında olmadığı an), `36:6`, `10:29`, `46:5`. (3) **Ayetlere ve Hesaba Karşı Kınanan Bilinç Uyuşukluğu (13 geçiş):** `7:136,146,172,179,205`, `10:7,92`, `16:108`, `19:39`, `21:1,97`, `30:7`, `50:22` — duyu ve akıl imkânlarını işletmeyip gerçeklerden kopmak. (4) **Hevesin Sonucu Olan Duyarsızlık (`18:28`):** `أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا` — kendi hevesini izleyen ve ölçüyü taşan kalbin Zikr'e karşı körleşmesi."
+  },
+  "semitic_cognates": {
+    "aramaic_syriac": "Arapçada غ-ف-ل ('işaretsiz/fark edilmemiş kalmak, dikkatten kaçırmak') biçiminde yoğunlaşmış özgü kök",
+    "note": "Klasik Arapça أرض غُفل ('işaretsiz/yol izi belirsiz arazi') kullanımında görüldüğü üzere kök, işaret ve uyanık dikkat eksikliğinden kaynaklanan 'habersizlik ve kayıtsızlık' zeminini korur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ع-ل-م [يَعْلَمُونَ ظَٰهِرًا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْءَاخِرَةِ هُمْ غَٰفِلُونَ] (Yüzeysel Bilgiye Odaklanmak ↔ Derin Hakikate ve Ahirete Karşı Uyanıklığı Yitirmek [يَعْلَمُونَ & غَٰفِلُونَ]: 30:7)",
+      "ذ-ك-ر [وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ / مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا] (Uyanık Hatırlama ve Bilinç ↔ Zihinsel Kopuş ve Kayıtsızlık [ذِكْرِنَا & غَٰفِلِينَ]: 7:205, 18:28)",
+      "ر-أ-ي [وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا / فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌ] (Gaflet Örtüsü İçinde Görmemek ↔ Örtünün Kalkıp Keskin Görüşle Yüzleşmek [غَفْلَةٍ & بَصَرُكَ]: 50:22)",
+      "ن-ظ-ر [وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا ... أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ] (Gözlem ve Dikkatli Bakış ↔ Duyuları İşletmeyen Uyuşukluk [ن-ظ-ر & ٱلْغَٰفِلُونَ]: 7:179)",
+      "ح-س-ب [ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ / وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا] (Hesap Bilinci ve Takip ↔ Hesaptan Kayıtsız Kalmak [حِسَابُهُمْ & غَفْلَةٍ]: 14:42, 21:1)",
+      "أ-ن-س [لَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ... أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ] (Bilinçli İnsan Sorumluluğu ↔ Algısını Kapatan Gaflet [ٱلْإِنسِ & ٱلْغَٰفِلُونَ]: 7:179)",
+      "ع-د-د [يَعْلَمُ عَدَدَ كُلِّ شَىْءٍ / وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ] (Tek Tek Sayıp Gözetmek ↔ Kayıtsız ve Habersiz Kalmak [ع-د-د & غَٰفِلٍ]: 2:74, 14:42)"
+    ],
+    "key_ayahs": [
+      "4:102, 28:15 (لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ / عَلَىٰ حِينِ غَفْلَةٍ — nötr dikkat boşluğu çıpası)",
+      "24:23 (ٱلْمُحْصَنَٰتِ ٱلْغَٰفِلَٰتِ — kötülükten habersiz masumiyet çıpası)",
+      "2:74, 14:42, 23:17 (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ — Allah'ın mutlak uyanıklığı)",
+      "7:179, 21:1, 30:7, 50:22 (هُمُ ٱلْغَٰفِلُونَ / فِى غَفْلَةٍ — ayetlere ve hesaba karşı bilinç uyuşukluğu)",
+      "18:28 (مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا — hevese uymanın doğurduğu duyarsızlık)"
+    ],
+    "reverse_stress_test": "Uyanık hatırlama (`ذ-ك-ر`), keskin görüş (`ب-ص-ر`) ve eksiksiz takip (`ح-س-ب`) karşısına yerleştirildiğinde, `غ-ف-ل` kökünün 'farkındalık ve dikkat boşluğu, habersizlik veya sorumluluktan kayıtsız kopuş' çekirdeği tüm 35 geçişi eksiksiz kilitler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "يَعْلَمُونَ ظَٰهِرًا (A-L-M: Dünya Yaşamının Yalnızca Dış Yüzeyini Bilmek) vs عَنِ ٱلْءَاخِرَةِ هُمْ غَٰفِلُونَ (G-F-L: Derin Amaç ve Ahiret Gerçeğine Karşı Tamamen Kayıtsız Kalmak) [30:7]",
+      "فِى غَفْلَةٍ (G-F-L: Uyanıklık ve Farkındalık Boşluğu) vs مُّعْرِضُونَ (A-R-D: Bilinçli Biçimde Sırt Dönüp Uzaklaşmak) [21:1]"
+    ],
+    "mechanical_difference": "`30:7`de teknik/yüzeysel bilgi ile varoluşsal gafletin bir arada bulunabileceği, `21:1`de ise `غَفْلَة`nin (uyuşukluk/farkındalık kaybı) `إِعْرَاض`a (yüz çevirmeye) zemin hazırladığı görülür."
+  },
+  "anchor_ayahs": [
+    "4:102 (لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ — dikkat boşluğu fiziksel çıpası)",
+    "24:23 (ٱلْمُحْصَنَٰتِ ٱلْغَٰفِلَٰتِ — kötülükten habersiz masum kadınlar)",
+    "14:42 (وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعْمَلُ ٱلظَّٰلِمُونَ — ilahi uyanıklık ve adalet)",
+    "7:179 (أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ — duyularını işletmeyen gaflet)",
+    "50:22 (لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ — gaflet örtüsünün kalkması)"
+  ],
+  "grammar_and_branch_rules": "1) İlahi Uyanıklık Vurgusu (`2:74,85,140,144,149`, `3:99`, `6:132`, `11:123`, `14:42`, `23:17`, `27:93`): Allah'ın hiçbir eylemden ve yaratımdan asla habersiz/kayıtsız olmadığı. 2) Nötr Habersizlik, Dikkat Boşluğu ve Masumiyet (`4:102`, `6:131,156`, `10:29`, `12:3,13`, `24:23`, `28:15`, `36:6`, `46:5`): Kötülükten habersiz masumiyet (`24:23`) ve bilgi/dikkat yokluğu. 3) Bilinç Uyuşukluğu ve Ayetlere Kayıtsızlık (`7:136,146,172,179,205`, `10:7,92`, `16:108`, `18:28`, `19:39`, `21:1,97`, `30:7`, `50:22`): Hakikate ve yaklaşan hesaba karşı algıyı kapatmak.",
+  "derivatives": {
+    "تَغْفُلُونَ (Bab I Fiil - 1 geçiş: 4:102)": "Tehlike anında savunma araçlarından dikkati ayırıp gafil avlanmak.",
+    "أَغْفَلْنَا (Bab IV Fiil - 1 geçiş: 18:28)": "Hevesine uyup ölçüyü taşan kalbi Zikr'e karşı duyarsız ve kayıtsız hâlde bırakmak.",
+    "غَافِل / غَافِلَات (İsm-i Fâil / Sıfat - 28 geçiş)": "Habersiz/kayıtsız kalan (Allah için 11 kez kesinlikle olumsuzlanır; 24:23'te kötülükten habersiz masum kadınlar; diğer bağlamlarda ayetlere karşı uyanıklığını yitirenler).",
+    "غَفْلَة (İsim - 5 geçiş)": "Dikkat ve farkındalık boşluğu (28:15) ile yaklaşan hesap karşısındaki derin bilinç uyuşukluğu (19:39, 21:1,97, 50:22)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 74,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:74",
+      "word_position": 35,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Öylesi de var ki Allah korkusundan yerlere yuvarlanır. Allah, yaptığınızdan gafil değil ki.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama bundan sonra kalpleriniz katılaştı, taşa döndü, Hatta taştan da katı bir hale geldi. Çünkü öyle taşlar var ki içinden nehirler kaynar. Öylesi var ki çatladı mı bağrından su fışkırır. Öylesi de var ki Allah korkusundan yerlere yuvarlanır. Allah, yaptığınızdan gafil değil ki.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 85,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:85",
+      "word_position": 47,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Yoksa kitabın bir kısmına güven duy, bir kısmına güven duy musunuz? İçinizde bunları yapanların kazancı, dünya hayatında ancak horluktan ibaret, kıyamet günüyse onlar daha çetin bir azaba atılırlar. Allah, yaptıklarınızdan gafil değildir ki.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ ٱلْقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra da sizler, o kişilersiniz ki birbirinizi öldürüyorsunuz. Bir bölüğünüzü yerinden yurdundan çıkarıyorsunuz. Onların aleyhinde, kötülükte, düşmanlıkta bulunmak üzere birleşiyorsunuz. Elinize esir düşerlerse onlara karşılık esirler veriyor, gene onları yurtlarına sokmuyorsunuz. Halbuki onları yurtlarından çıkarmak bile haramdı size. Yoksa kitabın bir kısmına güven duy, bir kısmına güven duy musunuz? İçinizde bunları yapanların kazancı, dünya hayatında ancak horluktan ibaret, kıyamet günüyse onlar daha çetin bir azaba atılırlar. Allah, yaptıklarınızdan gafil değildir ki.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 140,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:140",
+      "word_position": 28,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Siz mi daha iyi bilirsiniz, Allah mı? Allah'ın bildiği, bildirdiği şeyi bilerek gizleyenden daha zalim kim var? Allah, yaptıklarınızdan gafildeğildir ki.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَمْ تَقُولُونَ إِنَّ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطَ كَانُوا۟ هُودًا أَوْ نَصَٰرَىٰ قُلْ ءَأَنتُمْ أَعْلَمُ أَمِ ٱللَّهُ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَٰدَةً عِندَهُۥ مِنَ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa İbrahim de, İsmail de, İshak da, Yakup da, oğulları da Yahudi, yahut Nasraniydi mi diyorsunuz? De ki: Siz mi daha iyi bilirsiniz, Allah mı? Allah'ın bildiği, bildirdiği şeyi bilerek gizleyenden daha zalim kim var? Allah, yaptıklarınızdan gafildeğildir ki.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 144,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:144",
+      "word_position": 32,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Kendilerine kitap verilenler de bilirler ki bu, Rablerinden gelmiştir, yerindedir, gerçektir ve Allah, onların yaptıklarından gafil değildir.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de yüzünü göğe çevirip arandığını görmekteyiz. Seni, razı olacağın bir kıbleye yönelteceğiz. Hadi, yüzünü dokunulmaz teslimiyet odağı'a çevir. Siz de Nerede bulunursanız bulunun, yüzlerinizi o tarafa döndürün. Kendilerine kitap verilenler de bilirler ki bu, Rablerinden gelmiştir, yerindedir, gerçektir ve Allah, onların yaptıklarından gafil değildir.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 149,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:149",
+      "word_position": 15,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "رَّبِّكَ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Bu emir şüphesiz gerçektir, Rabbindendir ve Allah yaptığınız şeylerden gafil değildir.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَإِنَّهُۥ لَلْحَقُّ مِن رَّبِّكَ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nerede bulunursan bulun, hemen yüzünü dokunulmaz teslimiyet odağı'a doğru çevir. Bu emir şüphesiz gerçektir, Rabbindendir ve Allah yaptığınız şeylerden gafil değildir.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 3,
+      "ayah": 99,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:99",
+      "word_position": 17,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "شُهَدَآءُ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Ey kitap ehli, kendiniz de tanıksınız, öyle olduğu halde gene zor zoruna ne diye bir eğrilik bulmaya yeltenir de güvene erenleri, Allah yolundan döndürmeye çalışırsınız? Allah'sa yaptıklarınızdan gafil değildir ki.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Ey kitap ehli, kendiniz de tanıksınız, öyle olduğu halde gene zor zoruna ne diye bir eğrilik bulmaya yeltenir de güvene erenleri, Allah yolundan döndürmeye çalışırsınız? Allah'sa yaptıklarınızdan gafil değildir ki.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 4,
+      "ayah": 102,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:102",
+      "word_position": 32,
+      "target_word_uthmani": "تَغْفُلُونَ",
+      "target_word_rasm": "تغفلون",
+      "target_word_literal_irab": "Fiziksel dikkat boşluğu: Tehlike anında silah ve malzemelerden dikkati ayırıp gafil avlanmak (لَوْ تَغْفُلُونَ — Bab I fiil: 4:102)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtenler, birdenbire üstünüze bir saldırışta bulunmak için sizin silahlarınızdan, eşyanızdan gafil olmanızı isterler. Ancak yağmurdan dolayı müşkülata uğrarsanız, yahut hastaysanız silahlarınızı çıkarmada vebal yok size, fakat ihtiyatlı davranın; ...",
+      "morphology": {
+        "lemma": "tagofulu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:tagofulu|ROOT:gfl|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ وَخُذُوا۟ حِذْرَكُمْ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların içinde bulunur da irtibat bağını yönetip ayakta tutarsan onların bir kısmı seninle beraber ve silahları yanlarında olarak irtibat ve sorumluluk bağını ayakta tutsun, boyun eğip teslim oldular mi öbür kısmı, arkanızda dursun. Sonra irtibat bağını ayakta tutmayan takım gelsin, seninle irtibat ve sorumluluk bağını ayakta tutsun, kalkanlarını, silahlarını üstlerinde bulundursunlar. gerçeğin üzerini örtenler, birdenbire üstünüze bir saldırışta bulunmak için sizin silahlarınızdan, eşyanızdan gafil olmanızı isterler. Ancak yağmurdan dolayı müşkülata uğrarsanız, yahut hastaysanız silahlarınızı çıkarmada vebal yok size, fakat ihtiyatlı davranın; şüphe yok ki Allah, gerçeğin üzerini örtenlere aşağılatıcı bir azap hazırlamıştır.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 131,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:131",
+      "word_position": 10,
+      "target_word_uthmani": "غَٰفِلُونَ",
+      "target_word_rasm": "غفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu da, halkının hiçbir şeyden haberi olmayan şehirleri, Rabbinin zulümle helak etmeyeceğinden dolayıdır.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu da, halkının hiçbir şeyden haberi olmayan şehirleri, Rabbinin zulümle helak etmeyeceğinden dolayıdır.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 132,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:132",
+      "word_position": 7,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "عَمِلُوا۟ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Herkesin, yaptığına göre dereceleri var ve Rabbin, onların yaptıklarından gafil değildir.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلِكُلٍّ دَرَجَٰتٌ مِّمَّا عَمِلُوا۟ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkesin, yaptığına göre dereceleri var ve Rabbin, onların yaptıklarından gafil değildir.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 156,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:156",
+      "word_position": 14,
+      "target_word_uthmani": "لَغَٰفِلِينَ",
+      "target_word_rasm": "لغفلين",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "كُنَّا عَن دِرَاسَتِهِمْ لَغَٰفِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Hiç şüphe yok ki bizden önce ancak iki taifeye kitap indirildi ve bizse onu okumaktan acizdik, bir şey anlamıyorduk demeyesiniz.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiç şüphe yok ki bizden önce ancak iki taifeye kitap indirildi ve bizse onu okumaktan acizdik, bir şey anlamıyorduk demeyesiniz.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 7,
+      "ayah": 136,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:136",
+      "word_position": 11,
+      "target_word_uthmani": "غَٰفِلِينَ",
+      "target_word_rasm": "غفلين",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "بِـَٔايَٰتِنَا وَكَانُوا۟ عَنْهَا غَٰفِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sonucu öc aldık onlardan ve delillerimizi yalanladıkları, onlardan gaflet ettikleri için hepsini de denize garkettik.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟ عَنْهَا غَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonucu öc aldık onlardan ve delillerimizi yalanladıkları, onlardan gaflet ettikleri için hepsini de denize garkettik.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 7,
+      "ayah": 146,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:146",
+      "word_position": 36,
+      "target_word_uthmani": "غَٰفِلِينَ",
+      "target_word_rasm": "غفلين",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "بِـَٔايَٰتِنَا وَكَانُوا۟ عَنْهَا غَٰفِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "... bu da ayetlerimizi yalan saymalarından ve onlardan gaflet etmelerinden ileri gelir.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "سَأَصْرِفُ عَنْ ءَايَٰتِىَ ٱلَّذِينَ يَتَكَبَّرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا وَإِن يَرَوْا۟ سَبِيلَ ٱلرُّشْدِ لَا يَتَّخِذُوهُ سَبِيلًا وَإِن يَرَوْا۟ سَبِيلَ ٱلْغَىِّ يَتَّخِذُوهُ سَبِيلًا ذَٰلِكَ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟ عَنْهَا غَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde haksız yere ululuk satanlara ayetlerimizi idrak ettirmeyeceğiz, zaten onlar, hangi delili görseler güven duyup teslim olmazlar, doğru yolu görseler o yola gitmezler, fakat azgınlık yolunu gördüler mi hemen o yola gitmeye koyulurlar; bu da ayetlerimizi yalan saymalarından ve onlardan gaflet etmelerinden ileri gelir.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 7,
+      "ayah": 172,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:172",
+      "word_position": 26,
+      "target_word_uthmani": "غَٰفِلِينَ",
+      "target_word_rasm": "غفلين",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "كُنَّا عَنْ هَٰذَا غَٰفِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Hani Rabbin Âdemoğullarının sırtlarından zürriyetlerini izhar etmişti de kendilerini kendilerine tanık tutarak ben, Rabbiniz değil miyim demişti; onlar da...",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا۟ بَلَىٰ شَهِدْنَآ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَٰمَةِ إِنَّا كُنَّا عَنْ هَٰذَا غَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani Rabbin Âdemoğullarının sırtlarından zürriyetlerini izhar etmişti de kendilerini kendilerine tanık tutarak ben, Rabbiniz değil miyim demişti; onlar da evet, tanığız, Rabbimizsin demişlerdi. Bu da kıyamet günü bizim bundan haberimiz yoktu dememeniz.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 7,
+      "ayah": 179,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:179",
+      "word_position": 30,
+      "target_word_uthmani": "ٱلْغَٰفِلُونَ",
+      "target_word_rasm": "ٱلغفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "أَضَلُّ أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlar dört ayaklı hayvanlara benzerler, hatta daha da sapıktır onlar. Onlardır gaflette kalanların ta kendileri.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ أُو۟لَٰٓئِكَ كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki biz, görünmeyen bilinçli varlıkların ve insanların çoğunu yakıcı yıkım yurdu için yarattık; onların kalpleri vardır; düşünmezler onunla; gözleri vardır, görmezler o gözlerle; kulakları vardır, duymazlar o kulaklarla. Onlar dört ayaklı hayvanlara benzerler, hatta daha da sapıktır onlar. Onlardır gaflette kalanların ta kendileri.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 7,
+      "ayah": 205,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:205",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْغَٰفِلِينَ",
+      "target_word_rasm": "ٱلغفلين",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sabah ve akşam çağları, yalvarıp yakararak ve ondan korkarak, fakat fazla bağırmamak şartıyla ve içinden gelerek an Rabbini ve gaflet edenlerden olma.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah ve akşam çağları, yalvarıp yakararak ve ondan korkarak, fakat fazla bağırmamak şartıyla ve içinden gelerek an Rabbini ve gaflet edenlerden olma.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 10,
+      "ayah": 7,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:7",
+      "word_position": 15,
+      "target_word_uthmani": "غَٰفِلُونَ",
+      "target_word_rasm": "غفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "هُمْ عَنْ ءَايَٰتِنَا غَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki bize kavuşacaklarını ummayanlar ve dünya yaşayışına razı olup yürekleri onunla yatışanlar ve delillerimizden gaflet edenler.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا وَرَضُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱطْمَأَنُّوا۟ بِهَا وَٱلَّذِينَ هُمْ عَنْ ءَايَٰتِنَا غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki bize kavuşacaklarını ummayanlar ve dünya yaşayışına razı olup yürekleri onunla yatışanlar ve delillerimizden gaflet edenler.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 10,
+      "ayah": 29,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:29",
+      "word_position": 10,
+      "target_word_uthmani": "لَغَٰفِلِينَ",
+      "target_word_rasm": "لغفلين",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "كُنَّا عَنْ عِبَادَتِكُمْ لَغَٰفِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok, bizimle sizin aranızda Allah tanıktır ki sizin kulluğunuzdan haberimiz bile yoktu.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok, bizimle sizin aranızda Allah tanıktır ki sizin kulluğunuzdan haberimiz bile yoktu.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 10,
+      "ayah": 92,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:92",
+      "word_position": 14,
+      "target_word_uthmani": "لَغَٰفِلُونَ",
+      "target_word_rasm": "لغفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "ٱلنَّاسِ عَنْ ءَايَٰتِنَا لَغَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "O halde bugün biz de, senden sonra gelenlere ibret olasın diye yalnız cesedini kurtaracağız ve şüphe yok ki insanların çoğu, bizim delillerimizden gaflettedir.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ عَنْ ءَايَٰتِنَا لَغَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O halde bugün biz de, senden sonra gelenlere ibret olasın diye yalnız cesedini kurtaracağız ve şüphe yok ki insanların çoğu, bizim delillerimizden gaflettedir.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 11,
+      "ayah": 123,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:123",
+      "word_position": 14,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "عَلَيْهِ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve göklerle yeryüzünde gaibe ait olan, bilinmeyen her şey, Allah'ındır ve bütün işler, dönüp ona varır, artık ona kulluk et ve ona dayan. Rabbin, yaptığınız şeylerden gafil değildir.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِلَيْهِ يُرْجَعُ ٱلْأَمْرُ كُلُّهُۥ فَٱعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve göklerle yeryüzünde gaibe ait olan, bilinmeyen her şey, Allah'ındır ve bütün işler, dönüp ona varır, artık ona kulluk et ve ona dayan. Rabbin, yaptığınız şeylerden gafil değildir.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 12,
+      "ayah": 3,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:3",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْغَٰفِلِينَ",
+      "target_word_rasm": "ٱلغفلين",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sana bu Kur'an'ı vahyederek kıssaların en güzelini hikaye edeceğiz ve bundan önce sen elbette onu bilmeyenlerdendin.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana bu Kur'an'ı vahyederek kıssaların en güzelini hikaye edeceğiz ve bundan önce sen elbette onu bilmeyenlerdendin.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 12,
+      "ayah": 13,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:13",
+      "word_position": 13,
+      "target_word_uthmani": "غَٰفِلُونَ",
+      "target_word_rasm": "غفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yakup, onu götürür, giderseniz kederlenirim ben ve korkarım ki siz, ondan gaflet edersiniz de gelip kurt yer onu demişti.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yakup, onu götürür, giderseniz kederlenirim ben ve korkarım ki siz, ondan gaflet edersiniz de gelip kurt yer onu demişti.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 14,
+      "ayah": 42,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:42",
+      "word_position": 4,
+      "target_word_uthmani": "غَٰفِلًا",
+      "target_word_rasm": "غفلا",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعْمَلُ ٱلظَّٰلِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Zalimlerin yaptıklarından gafil sanma Allah'ı sakın; ancak onların cezasını, gözlerin dikilip kalacağı güne tehir etmede.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعْمَلُ ٱلظَّٰلِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلْأَبْصَٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Zalimlerin yaptıklarından gafil sanma Allah'ı sakın; ancak onların cezasını, gözlerin dikilip kalacağı güne tehir etmede.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 16,
+      "ayah": 108,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:108",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْغَٰفِلُونَ",
+      "target_word_rasm": "ٱلغفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "وَأَبْصَٰرِهِمْ وَأُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, öyle kişilerdir ki Allah, onların kalplerini, kulaklarını, gözlerini mühürlemiştir ve onlardır gaflet edenlerin ta kendileri.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَٰرِهِمْ وَأُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, öyle kişilerdir ki Allah, onların kalplerini, kulaklarını, gözlerini mühürlemiştir ve onlardır gaflet edenlerin ta kendileri.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 18,
+      "ayah": 28,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:28",
+      "word_position": 22,
+      "target_word_uthmani": "أَغْفَلْنَا",
+      "target_word_rasm": "أغفلنا",
+      "target_word_literal_irab": "Hevesin doğurduğu duyarsızlık: Kendi hevesine uyup ölçüyü taşan kalbin Zikr'e karşı duyarsız bırakılması (مَنْ أَغْفَلْنَا قَلْبَهُۥ — Bab IV fiil: 18:28)",
+      "context_snippet_arabic": "وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا",
+      "context_snippet_turkish_tabula_rasa": "Sabah, akşam, rızasını dileyerek Rablerine dua edenlerle beraber sebat edip diren ve dünya yaşayışının ziynetini dileyenlere uyup ayırma gözlerini onlardan ve bizi anmamaları için gönüllerine gaflet verdiğimiz heva ve heveslerine uymuş ve işi hadden aşıp taşmış kişiye itaat etme.",
+      "morphology": {
+        "lemma": ">agofalo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>agofalo|ROOT:gfl|1P"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah, akşam, rızasını dileyerek Rablerine dua edenlerle beraber sebat edip diren ve dünya yaşayışının ziynetini dileyenlere uyup ayırma gözlerini onlardan ve bizi anmamaları için gönüllerine gaflet verdiğimiz heva ve heveslerine uymuş ve işi hadden aşıp taşmış kişiye itaat etme.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 19,
+      "ayah": 39,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:39",
+      "word_position": 9,
+      "target_word_uthmani": "غَفْلَةٍ",
+      "target_word_rasm": "غفلة",
+      "target_word_literal_irab": "Farkındalık boşluğu ve uyuşukluk: Halkın farkında olmadığı an (28:15) ile yaklaşan hesaba karşı derin bilinç uyuşukluğu (غَفْلَةٍ — isim)",
+      "context_snippet_arabic": "ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onları hasret günüyle korkut; iş olup biter o zaman ve onlar, şimdi gaflettedir ve onlar, güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": "gafolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gafolap|ROOT:gfl|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları hasret günüyle korkut; iş olup biter o zaman ve onlar, şimdi gaflettedir ve onlar, güven duyup teslim olmazlar.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 21,
+      "ayah": 1,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:1",
+      "word_position": 6,
+      "target_word_uthmani": "غَفْلَةٍ",
+      "target_word_rasm": "غفلة",
+      "target_word_literal_irab": "Farkındalık boşluğu ve uyuşukluk: Halkın farkında olmadığı an (28:15) ile yaklaşan hesaba karşı derin bilinç uyuşukluğu (غَفْلَةٍ — isim)",
+      "context_snippet_arabic": "حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ",
+      "context_snippet_turkish_tabula_rasa": "İnsanların hesap günü yaklaştı da hala onlar gaflet içinde, yüz çevirmedeler.",
+      "morphology": {
+        "lemma": "gafolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gafolap|ROOT:gfl|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanların hesap günü yaklaştı da hala onlar gaflet içinde, yüz çevirmedeler.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 21,
+      "ayah": 97,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:97",
+      "word_position": 14,
+      "target_word_uthmani": "غَفْلَةٍ",
+      "target_word_rasm": "غفلة",
+      "target_word_literal_irab": "Farkındalık boşluğu ve uyuşukluk: Halkın farkında olmadığı an (28:15) ile yaklaşan hesaba karşı derin bilinç uyuşukluğu (غَفْلَةٍ — isim)",
+      "context_snippet_arabic": "قَدْ كُنَّا فِى غَفْلَةٍ مِّنْ هَٰذَا بَلْ",
+      "context_snippet_turkish_tabula_rasa": "Ve gerçek vait yaklaşınca işte o zaman gerçeğin üzerini örten olanlar, gözlerini dikip kalacaklar ve yazıklar olsun bize diyecekler, bundan gafildik, hatta zalimdik biz.",
+      "morphology": {
+        "lemma": "gafolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gafolap|ROOT:gfl|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gerçek vait yaklaşınca işte o zaman gerçeğin üzerini örten olanlar, gözlerini dikip kalacaklar ve yazıklar olsun bize diyecekler, bundan gafildik, hatta zalimdik biz.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 23,
+      "ayah": 17,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:17",
+      "word_position": 10,
+      "target_word_uthmani": "غَٰفِلِينَ",
+      "target_word_rasm": "غفلين",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "كُنَّا عَنِ ٱلْخَلْقِ غَٰفِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki üstünüzde yedi yol yarattık ve bu yaratıştan gafil değiliz biz.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki üstünüzde yedi yol yarattık ve bu yaratıştan gafil değiliz biz.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 24,
+      "ayah": 23,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:23",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْغَٰفِلَٰتِ",
+      "target_word_rasm": "ٱلغفلت",
+      "target_word_literal_irab": "Masumiyet çıpası: Kötülükten ve iftiradan tamamen habersiz, namuslu ve saf kadınlar (ٱلْمُحْصَنَٰتِ ٱلْغَٰفِلَٰتِ — sıfat: 24:23)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ٱلْغَٰفِلَٰتِ ٱلْمُؤْمِنَٰتِ لُعِنُوا۟ فِى",
+      "context_snippet_turkish_tabula_rasa": "Hiçbir şeyden haberi olmayan hür, namuslu, güvene ermiş kadınlara iftira edenlere, dünyada da lanet edilmiştir, ahirette de ve onlaradır pek büyük azap.",
+      "morphology": {
+        "lemma": "ga`fila`t",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:ga`fila`t|ROOT:gfl|FP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ٱلْغَٰفِلَٰتِ ٱلْمُؤْمِنَٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir şeyden haberi olmayan hür, namuslu, güvene ermiş kadınlara iftira edenlere, dünyada da lanet edilmiştir, ahirette de ve onlaradır pek büyük azap.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 27,
+      "ayah": 93,
+      "surah_name": "Neml",
+      "ayah_ref": "27:93",
+      "word_position": 9,
+      "target_word_uthmani": "بِغَٰفِلٍ",
+      "target_word_rasm": "بغفل",
+      "target_word_literal_irab": "Mutlak ilahi uyanıklık: Allah'ın yaratımdan ve insanların yaptıklarından asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ / غَٰفِلًا / غَٰفِلِينَ)",
+      "context_snippet_arabic": "فَتَعْرِفُونَهَا وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve de ki: Hamd Allah'a, yakında delillerini gösterecek size ve siz de tanıyacaksınız onları ve Rabbin, ne yaptığınızdan gafil değildir.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَقُلِ ٱلْحَمْدُ لِلَّهِ سَيُرِيكُمْ ءَايَٰتِهِۦ فَتَعْرِفُونَهَا وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve de ki: Hamd Allah'a, yakında delillerini gösterecek size ve siz de tanıyacaksınız onları ve Rabbin, ne yaptığınızdan gafil değildir.",
+      "contextual_meaning": "Allah'ın yaratımdan ve yapılan hiçbir eylemden asla habersiz/kayıtsız kalmaması (وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ)."
+    },
+    {
+      "surah": 28,
+      "ayah": 15,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:15",
+      "word_position": 5,
+      "target_word_uthmani": "غَفْلَةٍ",
+      "target_word_rasm": "غفلة",
+      "target_word_literal_irab": "Farkındalık boşluğu ve uyuşukluk: Halkın farkında olmadığı an (28:15) ile yaklaşan hesaba karşı derin bilinç uyuşukluğu (غَفْلَةٍ — isim)",
+      "context_snippet_arabic": "ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ",
+      "context_snippet_turkish_tabula_rasa": "Halkı, gaflete dalmış, öğle uykusundayken şehre girdi de orada iki adamın kavga etmekte olduğunu gördü; bu, kendi taraftarlarındandı, öbürü, düşmanlarından. ...",
+      "morphology": {
+        "lemma": "gafolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gafolap|ROOT:gfl|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنْ عَدُوِّهِۦ فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ إِنَّهُۥ عَدُوٌّ مُّضِلٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Halkı, gaflete dalmış, öğle uykusundayken şehre girdi de orada iki adamın kavga etmekte olduğunu gördü; bu, kendi taraftarlarındandı, öbürü, düşmanlarından. Derken, taraftarlarından olan, düşmanlarından olana karşı Musa'dan yardım istedi, o da düşmanlarından olan kişinin göğsüne bir yumruk indirdi de işini bitiriverdi; bu iş dedi, saptırıcı yıkıcı güç'ın işlerinden; şüphe yok ki o, insanı apaçık sapıklığa sevkeden bir düşman.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 30,
+      "ayah": 7,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:7",
+      "word_position": 10,
+      "target_word_uthmani": "غَٰفِلُونَ",
+      "target_word_rasm": "غفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "عَنِ ٱلْءَاخِرَةِ هُمْ غَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dünya yaşayışının yalnız dış yüzünü bilirler ve onlar, ahiretten gafil olanlardır.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "يَعْلَمُونَ ظَٰهِرًا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْءَاخِرَةِ هُمْ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dünya yaşayışının yalnız dış yüzünü bilirler ve onlar, ahiretten gafil olanlardır.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    },
+    {
+      "surah": 36,
+      "ayah": 6,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:6",
+      "word_position": 7,
+      "target_word_uthmani": "غَٰفِلُونَ",
+      "target_word_rasm": "غفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Korkutman için, ataları korkutulmamış topluluğu; onlardır gafil olanlar.",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Korkutman için, ataları korkutulmamış topluluğu; onlardır gafil olanlar.",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 46,
+      "ayah": 5,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:5",
+      "word_position": 18,
+      "target_word_uthmani": "غَٰفِلُونَ",
+      "target_word_rasm": "غفلون",
+      "target_word_literal_irab": "Farkında olmayan veya ayetlere kayıtsız kalan özne: Nötr bilgi yokluğu (6:131, 12:3) ile ayetlere ve ahirete karşı algısını kapatanlar (غَٰفِلُونَ / غَٰفِلِينَ — ism-i fâil)",
+      "context_snippet_arabic": "وَهُمْ عَن دُعَآئِهِمْ غَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ı bırakıp da kıyamet günü, kendisine cevap vermeyecek olan ve kendisine tapanlardan haberleri bile bulunmayan şeylere tapandan daha sapık kimdir ki?",
+      "morphology": {
+        "lemma": "ga`fil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ga`fil|ROOT:gfl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ı bırakıp da kıyamet günü, kendisine cevap vermeyecek olan ve kendisine tapanlardan haberleri bile bulunmayan şeylere tapandan daha sapık kimdir ki?",
+      "contextual_meaning": "Nötr habersizlik, dikkat boşluğu (4:102, 28:15) ve kötülükten habersiz masumiyet (24:23 ٱلْغَٰفِلَٰتِ)."
+    },
+    {
+      "surah": 50,
+      "ayah": 22,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:22",
+      "word_position": 4,
+      "target_word_uthmani": "غَفْلَةٍ",
+      "target_word_rasm": "غفلة",
+      "target_word_literal_irab": "Farkındalık boşluğu ve uyuşukluk: Halkın farkında olmadığı an (28:15) ile yaklaşan hesaba karşı derin bilinç uyuşukluğu (غَفْلَةٍ — isim)",
+      "context_snippet_arabic": "لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki gafletteydin bundan, derken perdeyi kaldırdık gözünden, artık gözün keskin bugün.",
+      "morphology": {
+        "lemma": "gafolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gafolap|ROOT:gfl|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki gafletteydin bundan, derken perdeyi kaldırdık gözünden, artık gözün keskin bugün.",
+      "contextual_meaning": "Apaçık ayetlere, zikre, ahirete ve yaklaşan hesaba karşı algıyı kapatıp bilinç uyuşukluğuna düşmek."
+    }
+  ]
+}

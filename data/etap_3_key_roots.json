@@ -1,11 +1,11 @@
 {
   "package": "Faz 1 - Etap 3 (Faz 2 Öncesi Kafa Karıştıran ve Anlamı Doğrudan Belirleyen 131 Kök)",
   "target_count": 131,
-  "locked_count": 70,
+  "locked_count": 75,
   "tier_3a_target": 55,
   "tier_3a_locked": 55,
   "tier_3b_target": 76,
-  "tier_3b_locked": 15,
+  "tier_3b_locked": 20,
   "total_tokens_in_package": 2979,
   "tokens_3a": 1509,
   "tokens_3b": 1470,
@@ -1436,8 +1436,8 @@
       "frequency": 35,
       "unique_ayahs": 35,
       "rationale": "Gaflet (7 Mesânî ref! Zikir/İlim zıttı: işaretlere kasten kapanma ve aymazlık)",
-      "concept_label": "Analiz Bekliyor (ga`fil, gafolap, tagofulu, >agofalo)",
-      "is_locked": false,
+      "concept_label": "Gaflet ve Gâfil (Uyanıklık ve Dikkat Boşluğu, Habersizlik ve Sorumluluktan Kopmak)",
+      "is_locked": true,
       "sample_ayah": "2:74",
       "top_lemmas": [
         "ga`fil",
@@ -1457,8 +1457,8 @@
       "frequency": 21,
       "unique_ayahs": 20,
       "rationale": "Ketm (6 Mesânî ref! 3:187 Beyân zıttı: açık bilgiyi saklayıp gizleme)",
-      "concept_label": "Analiz Bekliyor (katama)",
-      "is_locked": false,
+      "concept_label": "Ketm (Bilinen Gerçeği, Vahyi, Tanıklığı veya Olguyu Kasıtlı Biçimde Bastırıp Saklamak)",
+      "is_locked": true,
       "sample_ayah": "2:33",
       "top_lemmas": [
         "katama"
@@ -1475,8 +1475,8 @@
       "frequency": 34,
       "unique_ayahs": 31,
       "rationale": "İhfâ (6 Mesânî ref! Zuhûr zıttı: örtüp görünmez kılma; Ketm ile Furûk)",
-      "concept_label": "Analiz Bekliyor (>uxofiYa, yaxofaY`, yasotaxofu, xufoyap)",
-      "is_locked": false,
+      "concept_label": "Hafâ ve İhfâ (Gözden ve Sesten Perdelenmek, Gösterişsiz İçtenlik ve Gizlemek)",
+      "is_locked": true,
       "sample_ayah": "2:271",
       "top_lemmas": [
         ">uxofiYa",
@@ -1496,8 +1496,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Nakz (6 Mesânî ref! Ahid/Mîsâk/Kıyâm zıttı: örülü bağı çözüp bozmak)",
-      "concept_label": "Analiz Bekliyor (naqaDato, naqoD, >anqaDa)",
-      "is_locked": false,
+      "concept_label": "Nakd (Sağlam Örülmüş İpliği ve Sözleşmeyi Çözüp Dağıtmak ve Yükle Çatırdamak)",
+      "is_locked": true,
       "sample_ayah": "2:27",
       "top_lemmas": [
         "naqaDato",
@@ -1516,8 +1516,8 @@
       "frequency": 44,
       "unique_ayahs": 40,
       "rationale": "Tebdîl ve İstibdâl (6 Mesânî ref! Değiştirip yerine başkasını koyma; Nesh ile Furûk)",
-      "concept_label": "Analiz Bekliyor (bad~ala, tabodiyl, yasotabodilo, yatabad~ali)",
-      "is_locked": false,
+      "concept_label": "Bedel ve Tebdîl (Gidenin Yerine Karşılık Geçirmek, İkame ve Yasaların Değişmezliği)",
+      "is_locked": true,
       "sample_ayah": "2:59",
       "top_lemmas": [
         "bad~ala",

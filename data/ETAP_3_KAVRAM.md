@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 15 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 70 / 131 Kök (Toplam Mühürlü: 291 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 20 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 75 / 131 Kök (Toplam Mühürlü: 296 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -79,11 +79,11 @@
 | 68 | 3B | Vahiy ve Kimlik | 726 | `ل-و-ح` | `L-W-H` | **6** | 6 | 7:145 | Levh ve Elvâh (Geniş Düz Yüzey, Yazılı Levha, Gemi Kalası ve Kavurarak Belirmek) | ✅ **MÜHÜRLÜ** |
 | 69 | 3B | Vahiy ve Kimlik | 598 | `س-ب-ت` | `S-B-T` | **9** | 7 | 2:65 | Sebt ve Subât (Aktif İşi Kesip Dinginlik ve Yenilenme Molasına Geçmek) | ✅ **MÜHÜRLÜ** |
 | 70 | 3B | Vahiy ve Kimlik | 389 | `ه-و-د` | `H-W-D` | **21** | 21 | 2:62 | Hevd ve Hûd (Dingin Pişmanlıkla Dönüş, Tarihî Yahudi Topluluğu ve Elçi Hûd) | ✅ **MÜHÜRLÜ** |
-| 71 | 3B | Mesânî ve Furûk Kilidi | 265 | `غ-ف-ل` | `G-F-L` | **35** | 35 | 2:74 | Gaflet (7 Mesânî ref! Zikir/İlim zıttı: işaretlere kasten kapanma ve aymazlık) | ⏳ *Bekliyor* |
-| 72 | 3B | Mesânî ve Furûk Kilidi | 388 | `ك-ت-م` | `K-T-M` | **21** | 20 | 2:33 | Ketm (6 Mesânî ref! 3:187 Beyân zıttı: açık bilgiyi saklayıp gizleme) | ⏳ *Bekliyor* |
-| 73 | 3B | Mesânî ve Furûk Kilidi | 272 | `خ-ف-ي` | `H-F-Y` | **34** | 31 | 2:271 | İhfâ (6 Mesânî ref! Zuhûr zıttı: örtüp görünmez kılma; Ketm ile Furûk) | ⏳ *Bekliyor* |
-| 74 | 3B | Mesânî ve Furûk Kilidi | 596 | `ن-ق-ض` | `N-K-D` | **9** | 9 | 2:27 | Nakz (6 Mesânî ref! Ahid/Mîsâk/Kıyâm zıttı: örülü bağı çözüp bozmak) | ⏳ *Bekliyor* |
-| 75 | 3B | Mesânî ve Furûk Kilidi | 219 | `ب-د-ل` | `B-D-L` | **44** | 40 | 2:59 | Tebdîl ve İstibdâl (6 Mesânî ref! Değiştirip yerine başkasını koyma; Nesh ile Furûk) | ⏳ *Bekliyor* |
+| 71 | 3B | Mesânî ve Furûk Kilidi | 265 | `غ-ف-ل` | `G-F-L` | **35** | 35 | 2:74 | Gaflet ve Gâfil (Uyanıklık ve Dikkat Boşluğu, Habersizlik ve Sorumluluktan Kopmak) | ✅ **MÜHÜRLÜ** |
+| 72 | 3B | Mesânî ve Furûk Kilidi | 388 | `ك-ت-م` | `K-T-M` | **21** | 20 | 2:33 | Ketm (Bilinen Gerçeği, Vahyi, Tanıklığı veya Olguyu Kasıtlı Biçimde Bastırıp Saklamak) | ✅ **MÜHÜRLÜ** |
+| 73 | 3B | Mesânî ve Furûk Kilidi | 272 | `خ-ف-ي` | `H-F-Y` | **34** | 31 | 2:271 | Hafâ ve İhfâ (Gözden ve Sesten Perdelenmek, Gösterişsiz İçtenlik ve Gizlemek) | ✅ **MÜHÜRLÜ** |
+| 74 | 3B | Mesânî ve Furûk Kilidi | 596 | `ن-ق-ض` | `N-K-D` | **9** | 9 | 2:27 | Nakd (Sağlam Örülmüş İpliği ve Sözleşmeyi Çözüp Dağıtmak ve Yükle Çatırdamak) | ✅ **MÜHÜRLÜ** |
+| 75 | 3B | Mesânî ve Furûk Kilidi | 219 | `ب-د-ل` | `B-D-L` | **44** | 40 | 2:59 | Bedel ve Tebdîl (Gidenin Yerine Karşılık Geçirmek, İkame ve Yasaların Değişmezliği) | ✅ **MÜHÜRLÜ** |
 | 76 | 3B | Mesânî ve Furûk Kilidi | 283 | `ع-ص-ي` | `A-S-Y` | **32** | 32 | 2:61 | İsyân (5 Mesânî ref! Tav'/İtaat zıttı: sopa gibi dikilip boyun eğmeme) | ⏳ *Bekliyor* |
 | 77 | 3B | Mesânî ve Furûk Kilidi | 273 | `ع-م-ي` | `A-M-Y` | **33** | 30 | 2:18 | Amâ (5 Mesânî ref! Basar zıttı: fiziksel ve bilinç düzeyinde körlük) | ⏳ *Bekliyor* |
 | 78 | 3B | Mesânî ve Furûk Kilidi | 527 | `ب-خ-ل` | `B-H-L` | **12** | 7 | 3:180 | Buhl (5 Mesânî ref! İnfâk/İtâ zıttı: kaynağı elde tutup dolaşımdan esirgeme) | ⏳ *Bekliyor* |
