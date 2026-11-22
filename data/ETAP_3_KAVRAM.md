@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 40 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 95 / 131 Kök (Toplam Mühürlü: 316 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 45 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 100 / 131 Kök (Toplam Mühürlü: 321 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -104,11 +104,11 @@
 | 93 | 3B | Mesânî ve Furûk Kilidi | 610 | `ز-ي-غ` | `Z-Y-G` | **9** | 8 | 3:7 | Zeyğ (Gözün ve Kalbin Doğru Eksenden Yana Eğilip Kayması) | ✅ **MÜHÜRLÜ** |
 | 94 | 3B | Mesânî ve Furûk Kilidi | 615 | `ع-و-ج` | `A-W-C` | **9** | 9 | 3:99 | İvec (Arazide, Metinde ve Yolda Eğrilik, Çukurluk ve Çarpıklık) | ✅ **MÜHÜRLÜ** |
 | 95 | 3B | Mesânî ve Furûk Kilidi | 483 | `أ-ب-ي` | `E-B-Y` | **13** | 12 | 2:34 | İbâ (Kesin İradeyle Kaçınmak, Yanaşmamak ve Geri Çevirmek) | ✅ **MÜHÜRLÜ** |
-| 96 | 3B | Mesânî ve Furûk Kilidi | 587 | `ع-ت-و` | `A-T-W` | **10** | 9 | 7:77 | Utuvv (Rükû zıttı: haddini aşıp sertleşerek diklenme) | ⏳ *Bekliyor* |
-| 97 | 3B | Hukuk ve Toplumsal Düzen | 213 | `ز-ي-ن` | `Z-Y-N` | **46** | 43 | 2:212 | Zînet ve Tezyîn (24:31 görünen güzellik/süs ile kötü eylemlerin süslü gösterilmesi) | ⏳ *Bekliyor* |
-| 98 | 3B | Hukuk ve Toplumsal Düzen | 920 | `ع-و-ر` | `A-W-R` | **4** | 3 | 24:31 | Avret (24:31, 24:58, 33:13: korunmasız açıklık, gedik ve mahremiyet aralığı) | ⏳ *Bekliyor* |
-| 99 | 3B | Hukuk ve Toplumsal Düzen | 630 | `ف-ر-ج` | `F-R-C` | **9** | 9 | 21:91 | Ferc (77:9 yarılma/açıklık ile 23:5 mahremiyet koruma tek çekirdeği) | ⏳ *Bekliyor* |
-| 100 | 3B | Hukuk ve Toplumsal Düzen | 375 | `ط-ل-ق` | `T-L-K` | **23** | 21 | 2:227 | Talâk ve İntilâk (bağdan çözüp salıverme: boşanma hukuku ve serbestçe yola koyulma) | ⏳ *Bekliyor* |
+| 96 | 3B | Mesânî ve Furûk Kilidi | 587 | `ع-ت-و` | `A-T-W` | **10** | 9 | 7:77 | Utüv (Eğilmez Katılıkla Kibirli Diklenme ve Dizginlenmez Taşkınlık) | ✅ **MÜHÜRLÜ** |
+| 97 | 3B | Hukuk ve Toplumsal Düzen | 213 | `ز-ي-ن` | `Z-Y-N` | **46** | 43 | 2:212 | Ziynet ve Tezyîn (Estetik Güzellik, Geçici Cazibe ve Kötülüğü Süslü Görme) | ✅ **MÜHÜRLÜ** |
+| 98 | 3B | Hukuk ve Toplumsal Düzen | 920 | `ع-و-ر` | `A-W-R` | **4** | 3 | 24:31 | Avret (Açıkta Kalan Savunmasız Gedik ve Korunması Gereken Mahremiyet Alanı) | ✅ **MÜHÜRLÜ** |
+| 99 | 3B | Hukuk ve Toplumsal Düzen | 630 | `ف-ر-ج` | `F-R-C` | **9** | 9 | 21:91 | Ferc ve Furûc (Kozmik Çatlak/Yarık ve Eşit İffet-Mahremiyet Sınırı) | ✅ **MÜHÜRLÜ** |
+| 100 | 3B | Hukuk ve Toplumsal Düzen | 375 | `ط-ل-ق` | `T-L-K` | **23** | 21 | 2:227 | Talâk ve İntilâk (Bağdan Çözülüp Açılmak, Yola Koyulmak ve Onurlu Boşanma Hukuku) | ✅ **MÜHÜRLÜ** |
 | 101 | 3B | Hukuk ve Toplumsal Düzen | 465 | `ب-ي-ع` | `B-Y-A` | **15** | 11 | 2:254 | Bey' ve Bîat (ticari alışveriş ile toplumsal/siyasal bağlılık akdinin ortak kökü) | ⏳ *Bekliyor* |
 | 102 | 3B | Hukuk ve Toplumsal Düzen | 366 | `ر-ق-ب` | `R-K-B` | **24** | 20 | 2:177 | Rekabe ve Rakîb (boyunduruk/kölelik çözme hukuku ve dikkatle gözetleme) | ⏳ *Bekliyor* |
 | 103 | 3B | Hukuk ve Toplumsal Düzen | 698 | `أ-س-ر` | `E-S-R` | **6** | 6 | 2:85 | Esîr ve Esr (savaş esirleri hukuku ve bedensel eklem bağı) | ⏳ *Bekliyor* |
