@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 352 mühürlü kökten (`%83,08`) sonra, meal aşamasına geçmeden önce ceza-aile-ibadet hukuku düğümlerini, kısa sure kilitlerini ve en yüksek açık Mesânî referanslarını kapatan **48 kritik kök** (714 geçiş) mühürlenerek toplam sözlük **400 kilitli köke (`%84,51` kümülatif kapsam)** ulaştırılır.
-> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 5 / 48 Kök (Toplam Mühürlü: 357 Kök | Güncel Kapsam: %83,24)
+> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 10 / 48 Kök (Toplam Mühürlü: 362 Kök | Güncel Kapsam: %83,37)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -12,11 +12,11 @@
 | 3 | Hukuk ve Ceza | 627 | `ز-ن-ي` | `Z-N-Y` | **9** | 5 | 17:32 | Zinâ (Meşru Evlilik Sözleşmesi Dışında Cinsel İlişkiye Girme İhlali ve Toplumsal Sınır) | ✅ **MÜHÜRLÜ** |
 | 4 | Hukuk ve Ceza | 500 | `ج-ل-د` | `C-L-D` | **13** | 9 | 4:56 | Cild ve Celde (Bedeni Saran Sağlam ve Duyarlı Deri ile Doğrudan Deriye Uygulanan Vuruş Yaptırımı) | ✅ **MÜHÜRLÜ** |
 | 5 | Hukuk ve Ceza | 474 | `ر-ج-م` | `R-C-M` | **14** | 14 | 3:36 | Recm ve Racîm (Taşlayarak Kovup Dışlamak ve Bilinmeyen Üzerine Delilsiz Zan Savurmak) | ✅ **MÜHÜRLÜ** |
-| 6 | Hukuk ve Ceza | 329 | `م-ن-ن` | `M-N-N` | **27** | 25 | 2:57 | Menn ve Memnûn (47:4 savaş esirini karşılıksız salıverme, 2:264 başa kakma yasağı ve kesintisiz lütuf) | ⏳ *Bekliyor* |
-| 7 | Hukuk ve Ceza | 485 | `ف-د-ي` | `F-D-Y` | **13** | 13 | 2:85 | Fidye ve İftidâ (2:184 oruç fidyesi, 47:4 esir fidyesi ve 37:107 İbrâhîm kıssasındaki büyük kurtuluş bedeli) | ⏳ *Bekliyor* |
-| 8 | Hukuk ve Ceza | 668 | `ع-ق-د` | `A-K-D` | **7** | 7 | 2:235 | Akd ve Ukûd (5:1 bağlayıcı sözleşmeler, 2:235-237 nikâh düğümü ve 113:4 düğümler tek çekirdekte) | ⏳ *Bekliyor* |
-| 9 | Hukuk ve Ceza | 865 | `س-ح-ت` | `S-H-T` | **4** | 4 | 5:42 | Suht (5:42, 5:62-63 kökünden kazıyıp tüketen haram kazanç, rüşvet ve hukuksuz sömürü) | ⏳ *Bekliyor* |
-| 10 | Hukuk ve Ceza | 489 | `ق-ر-ض` | `K-R-D` | **13** | 7 | 2:245 | Karz-ı Hasen (18:17 makas gibi kesip geçme somut çıpası + toplum yararına karşılıksız dayanışma ödüncü) | ⏳ *Bekliyor* |
+| 6 | Hukuk ve Ceza | 329 | `م-ن-ن` | `M-N-N` | **27** | 25 | 2:57 | Menn ve Memnûn (Karşılıksız Lütuf, Esir Özgürleştirme, Başa Kakma Yasağı ve Kesintisiz Ödül) | ✅ **MÜHÜRLÜ** |
+| 7 | Hukuk ve Ceza | 485 | `ف-د-ي` | `F-D-Y` | **13** | 13 | 2:85 | Fidye ve Fidâ (Bir Canı, Özgürlüğü veya Sorumluluğu Korumak İçin Yerine Bedel Koyup Kurtarmak) | ✅ **MÜHÜRLÜ** |
+| 8 | Hukuk ve Ceza | 668 | `ع-ق-د` | `A-K-D` | **7** | 7 | 2:235 | Akd ve Ukde (İki Ucu Sıkıca Düğümleyip Bağlamak, Sözleşme Sadakati ve Evlilik Bağı) | ✅ **MÜHÜRLÜ** |
+| 9 | Hukuk ve Ceza | 865 | `س-ح-ت` | `S-H-T` | **4** | 4 | 5:42 | Suht ve İshât (Kökünden Kazıyıp Silip Süpürmek, Adaleti Kemiren Rüşvet ve Haram Kazanç) | ✅ **MÜHÜRLÜ** |
+| 10 | Hukuk ve Ceza | 489 | `ق-ر-ض` | `K-R-D` | **13** | 7 | 2:245 | Kard ve İkrâd (Kenarından Sıyırıp Kesmek ve Kendi Varlığından Pay Ayırıp Güzel Ödünç Sunmak) | ✅ **MÜHÜRLÜ** |
 | 11 | Aile ve Mahremiyet | 843 | `ح-ي-ض` | `H-Y-D` | **4** | 2 | 2:222 | Mahîd (2:222 pislik değil geçici rahatsızlık [أَذًى] ve 65:4 bekleme süresi hukuku) | ⏳ *Bekliyor* |
 | 12 | Aile ve Mahremiyet | 675 | `ب-ر-ج` | `B-R-C` | **7** | 6 | 4:78 | Teberrüc ve Bürûc (24:60, 33:33 gösterişli sergilenme vs gökteki yüksek kuleler/burçlar tek fizikte) | ⏳ *Bekliyor* |
 | 13 | Aile ve Mahremiyet | 919 | `غ-ض-ض` | `G-D-D` | **4** | 4 | 24:30 | Gadd (24:30-31 erkek-kadın eşit bakış kısması ve 31:19 sesi alçaltıp kibar konuşma) | ⏳ *Bekliyor* |

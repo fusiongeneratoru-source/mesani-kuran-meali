@@ -25447,5 +25447,398 @@
       }
     ],
     "context_default": "Taş atmak, taşlayarak kovup dışlamak veya bilinmeyen hakkında delilsiz zan savurmak (ر-ج-م)."
+  },
+  "م-ن-ن": {
+    "buckwalter": "mnn",
+    "slug": "menn_ve_memnun_karsiliksiz_lutuf_esir_ozgurlestirme_basa_kakma_ve_kesintisiz_odul_mnn",
+    "concept_name": "Menn ve Memnûn (Karşılıksız Lütuf, Esir Özgürleştirme, Başa Kakma Yasağı ve Kesintisiz Ödül)",
+    "keywords": [
+      "lütuf",
+      "karşılıksız bağış",
+      "başa kakma",
+      "esir özgürleştirme",
+      "kesintisiz ödül",
+      "menn",
+      "ölüm felaketi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "man~a",
+        "ayahs": [
+          "3:164",
+          "4:94",
+          "6:53",
+          "12:90",
+          "14:11",
+          "20:37",
+          "28:5",
+          "28:82",
+          "37:114",
+          "52:27"
+        ],
+        "label": "İlahi karşılıksız lütuf: Allah'ın elçilere, ezilenlere (28:5) ve güvene erenlere karşılıksız iyilik bağışlaması (مَنَّ / نَّمُنَّ / يَمُنُّ — Bab I fiil)"
+      },
+      {
+        "lemma": "man~a",
+        "ayahs": [
+          "38:39"
+        ],
+        "label": "Karşılıksız bağış yetkisi: Hesapsızca karşılıksız verip bağışlamak veya elde tutmak (فَٱمْنُنْ أَوْ أَمْسِكْ — Bab I emir)"
+      },
+      {
+        "lemma": "man~a",
+        "ayahs": [
+          "26:22",
+          "49:17",
+          "74:6"
+        ],
+        "label": "Başa kakma ve karşılık bekleme yasağı: Yapılan iyiliği veya teslimiyeti başa kakmak ve fazlasını bekleyerek vermek; asıl lütuf sahibinin Allah olması (تَمُنُّهَا / يَمُنُّونَ / تَمُنُّوا۟ / يَمُنُّ / تَمْنُن — Bab I fiil)"
+      },
+      {
+        "lemma": "man~",
+        "ayahs": [
+          "47:4"
+        ],
+        "label": "Savaş esirini bedelsiz özgürleştirme: Savaş esirlerini hiçbir karşılık almadan iyilikle salıvermek (مَنًّۢا — mastar/isim)"
+      },
+      {
+        "lemma": "man~",
+        "ayahs": [
+          "2:262",
+          "2:264"
+        ],
+        "label": "Paylaşımı iptal eden başa kakma: Harcanan malı ve yardımı başa kakarak minnet yükleme yasağı (مَنًّا / بِٱلْمَنِّ — mastar/isim)"
+      },
+      {
+        "lemma": "man~",
+        "ayahs": [
+          "2:57",
+          "7:160",
+          "20:80"
+        ],
+        "label": "Çölde indirilen karşılıksız besin: İsrailoğullarına gökten indirilen menn nimeti (ٱلْمَنَّ — isim)"
+      },
+      {
+        "lemma": "mamonuwn",
+        "label": "Kesintisiz kalıcı ödül: Asla kesilip koparılmayan, tükenmeyen emek karşılığı (أَجْرٌ غَيْرُ مَمْنُونٍ — ism-i mef'ûl: 41:8, 68:3, 84:25, 95:6)"
+      },
+      {
+        "lemma": "manuwn",
+        "label": "Ömrü kesip koparan felaket: Zamanın ve ölümün ömrü kesen sarsıntısı (رَيْبَ ٱلْمَنُونِ — isim: 52:30)"
+      }
+    ],
+    "irab_default": "Karşılıksız iyilik ve lütuf bağışlamak (yozlaştığında başa kakmak) veya süreci kesip koparmak (م-ن-ن kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:57",
+          "3:164",
+          "4:94",
+          "6:53",
+          "7:160",
+          "12:90",
+          "14:11",
+          "20:37",
+          "20:80",
+          "28:5",
+          "28:82",
+          "37:114",
+          "38:39",
+          "52:27"
+        ],
+        "text": "İlahi lütuf ve karşılıksız bağış: ezilenlere, elçilere ve güvene erenlere sunulan karşılıksız iyilik ile çölde indirilen menn besini."
+      },
+      {
+        "ayahs": [
+          "47:4"
+        ],
+        "text": "Savaş esirliği hukuku (فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً): esirlerin köleleştirilmesi değil, ya karşılıksız özgürleştirilmesi ya da bedelle serbest bırakılması."
+      },
+      {
+        "ayahs": [
+          "2:262",
+          "2:264",
+          "26:22",
+          "49:17",
+          "74:6"
+        ],
+        "text": "Başa kakma ve çıkarcı iyilik yasağı: yapılan paylaşımı veya teslimiyeti karşı tarafın yüzüne vurarak değerini iptal etmemek."
+      },
+      {
+        "ayahs": [
+          "41:8",
+          "52:30",
+          "68:3",
+          "84:25",
+          "95:6"
+        ],
+        "text": "Kesip koparma aslı: asla kesintiye uğramayan kalıcı ödül (غَيْرُ مَمْنُونٍ) ve ömrü kesen ölüm/zaman felaketi (ٱلْمَنُون)."
+      }
+    ],
+    "context_default": "Karşılıksız lütuf ve özgürleştirme bağışı (yozlaştığında başa kakma) veya kesip koparma (م-ن-ن)."
+  },
+  "ف-د-ي": {
+    "buckwalter": "fdy",
+    "slug": "fidye_ve_fida_can_ve_ozgurluk_icin_bedel_koyup_kurtarmak_fdy",
+    "concept_name": "Fidye ve Fidâ (Bir Canı, Özgürlüğü veya Sorumluluğu Korumak İçin Yerine Bedel Koyup Kurtarmak)",
+    "keywords": [
+      "fidye",
+      "kurtuluş bedeli",
+      "esir özgürleştirme",
+      "telafi bedeli",
+      "boşanma bedeli",
+      "ahirette fidye yokluğu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fadayo",
+        "label": "Canı koruyan büyük karşılık: İbrâhîm'in oğlunun canının büyük bir kesimle kurtarılması (وَفَدَيْنَٰهُ — Bab I fiil: 37:107)"
+      },
+      {
+        "lemma": "tufa`du",
+        "label": "Esirleri bedelle kurtarma: Esir düşenleri karşılıklı bedel ödeyerek özgürleştirmek (تُفَٰدُوهُمْ — Bab III fiil: 2:85)"
+      },
+      {
+        "lemma": "fidaA^'",
+        "label": "Savaş esiri kurtuluş bedeli: Esirlerin karşılık veya değişim yoluyla serbest bırakılması (فِدَآءً — isim: 47:4)"
+      },
+      {
+        "lemma": "fidoyap",
+        "ayahs": [
+          "2:184",
+          "2:196"
+        ],
+        "label": "Kolaylaştırıcı telafi bedeli: Zorlanma veya hastalık durumunda yoksulu doyurma ya da alternatif sorumluluk bedeli (فِدْيَةٌ / فَفِدْيَةٌ — isim)"
+      },
+      {
+        "lemma": "fidoyap",
+        "ayahs": [
+          "57:15"
+        ],
+        "label": "Ahirette fidye kapısının kapanması: Hesap gününde hiç kimseden kurtuluş bedeli alınmaması (لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ — isim)"
+      },
+      {
+        "lemma": "{fotadaY`",
+        "ayahs": [
+          "2:229"
+        ],
+        "label": "Aile hukukunda özgürleşme bedeli: Kadının malî bir karşılık iade ederek evlilik bağından ayrılma hakkı (فِيمَا ٱفْتَدَتْ بِهِۦ — Bab VIII fiil)"
+      },
+      {
+        "lemma": "{fotadaY`",
+        "ayahs": [
+          "3:91",
+          "5:36",
+          "10:54",
+          "13:18",
+          "39:47",
+          "70:11"
+        ],
+        "label": "Ahirette bedelle kurtulma çaresizliği: Dünya dolusu altın veya çocuklarını bile verse hesap gününde azaptan fidye ile kurtulamama (ٱفْتَدَىٰ / لِيَفْتَدُوا۟ / لَٱفْتَدَتْ / لَٱفْتَدَوْا۟ / يَفْتَدِى — Bab VIII fiil)"
+      }
+    ],
+    "irab_default": "Bir canı, özgürlüğü veya sorumluluğu korumak için yerine bedel koyup kurtarmak (ف-د-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:85",
+          "47:4"
+        ],
+        "text": "Esir özgürleştirme hukuku: esirlerin bedel veya karşılıklı anlaşmayla serbest bırakılması."
+      },
+      {
+        "ayahs": [
+          "2:184",
+          "2:196",
+          "2:229",
+          "37:107"
+        ],
+        "text": "Dünyada telafi, boşanma özgürlüğü ve can koruma: yoksulu doyurma telafisi, kadının malî iadeyle ayrılma hakkı ve İbrâhîm'in oğlunun kurtarılması."
+      },
+      {
+        "ayahs": [
+          "3:91",
+          "5:36",
+          "10:54",
+          "13:18",
+          "39:47",
+          "57:15",
+          "70:11"
+        ],
+        "text": "Ahirette fidye yokluğu: hesap gününde bütün dünya servetini veya en yakınlarını bile verse hiçbir kurtuluş bedelinin kabul edilmemesi."
+      }
+    ],
+    "context_default": "Bir canı, özgürlüğü veya sorumluluğu korumak için yerine bedel koyup kurtarmak (ف-د-ي)."
+  },
+  "ع-ق-د": {
+    "buckwalter": "Eqd",
+    "slug": "akd_ve_ukde_sikica_dugumleyip_baglamak_ve_sozlesme_vefasi_eqd",
+    "concept_name": "Akd ve Ukde (İki Ucu Sıkıca Düğümleyip Bağlamak, Sözleşme Sadakati ve Evlilik Bağı)",
+    "keywords": [
+      "sözleşme",
+      "akit",
+      "düğüm",
+      "bağlamak",
+      "evlilik bağı",
+      "kesin and",
+      "düğümlere üfleme"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Euquwd",
+        "label": "Sözleşme sadakati buyruğu: Tarafları hukuken ve ahlaken bağlayan bütün akitleri eksiksiz yerine getirmek (بِٱلْعُقُودِ — isim çoğul: 5:1)"
+      },
+      {
+        "lemma": "Eaqadato",
+        "label": "Anlaşmalı dayanışma bağı: Kesin and ve sözleşmeyle hak ve dayanışma bağı kurulan kimseler (عَقَدَتْ أَيْمَٰنُكُمْ — Bab I fiil: 4:33)"
+      },
+      {
+        "lemma": "Eaq~ad",
+        "label": "Bilinçli düğümlenen kesin and: Kasıtsız boş sözün aksine iradeyle sağlamca bağlanan kesin andlar (عَقَّدتُّمُ ٱلْأَيْمَٰنَ — Bab II fiil: 5:89)"
+      },
+      {
+        "lemma": "Euqodap",
+        "ayahs": [
+          "2:235",
+          "2:237"
+        ],
+        "label": "Evlilik sözleşmesi bağı: Bekleme süresi dolmadan bağlanmaması gereken ve hukuk doğuran evlilik düğümü (عُقْدَةَ ٱلنِّكَاحِ — isim)"
+      },
+      {
+        "lemma": "Euqodap",
+        "ayahs": [
+          "20:27"
+        ],
+        "label": "Somut dil düğümü çıpası: Mûsâ'nın konuşmasını engelleyen dildeki düğümün çözülmesi yakarışı (عُقْدَةً مِّن لِّسَانِى — isim)"
+      },
+      {
+        "lemma": "Euqodap",
+        "ayahs": [
+          "113:4"
+        ],
+        "label": "Düğümlere/bağlara gizlice üfleme: Kurulu sağlam düğümlere ve bağlara gizlice fesat üfleyen kötülük odakları (فِى ٱلْعُقَدِ — isim çoğul)"
+      }
+    ],
+    "irab_default": "İki ucu sıkıca düğümleyip sağlam ve bağlayıcı biçimde kenetlemek (ع-ق-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:235",
+          "2:237",
+          "4:33",
+          "5:1",
+          "5:89"
+        ],
+        "text": "Hukuki sözleşme ve bağlayıcı ahitler: bütün akitlere vefa, evlilik sözleşmesi düğümü ve bilinçli biçimde bağlanan kesin andlar."
+      },
+      {
+        "ayahs": [
+          "20:27",
+          "113:4"
+        ],
+        "text": "Somut düğüm çıpası ve düğümlere fesat üfleme: dildeki düğümün çözülmesi ve düğümlere/kurulu bağlara gizlice üfleyen kötülükten sığınma."
+      }
+    ],
+    "context_default": "İki ucu sıkıca düğümleyip sağlam ve bağlayıcı biçimde kenetlemek (ع-ق-د)."
+  },
+  "س-ح-ت": {
+    "buckwalter": "sHt",
+    "slug": "suht_ve_ishat_kokunden_kaziyip_tuketmek_rusvet_ve_haram_kazanc_sht",
+    "concept_name": "Suht ve İshât (Kökünden Kazıyıp Silip Süpürmek, Adaleti Kemiren Rüşvet ve Haram Kazanç)",
+    "keywords": [
+      "rüşvet",
+      "haram kazanç",
+      "yolsuzluk",
+      "hukuksuz sömürü",
+      "kökünü kazımak",
+      "suht"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yusoHita",
+        "label": "Kökünü kazıyıp silip süpürme çıpası: Allah'a karşı yalan uyduranların kökünü kazıyıp yok eden azap (فَيُسْحِتَكُم — Bab IV fiil: 20:61)"
+      },
+      {
+        "lemma": "s~uHot",
+        "ayahs": [
+          "5:42"
+        ],
+        "label": "Yalan ve rüşvet ikizliği: Yalana hevesle kulak veren ve rüşvet/haram kazancı oburca yiyen yozlaşma (أَكَّٰلُونَ لِلسُّحْتِ — isim)"
+      },
+      {
+        "lemma": "s~uHot",
+        "ayahs": [
+          "5:62",
+          "5:63"
+        ],
+        "label": "Yolsuzluk ve bilginlerin sorumluluğu: Ağır kusur ve saldırganlıkla birlikte haram rüşvet kazancı yeme ve bilginlerin buna sessiz kalmasının kınanması (ٱلسُّحْتَ — isim)"
+      }
+    ],
+    "irab_default": "Kökünden kazıyıp yok etmek veya adaleti ve bereketi kemiren rüşvet/haram kazanç (س-ح-ت kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "20:61"
+        ],
+        "text": "Somut kök kazıma çıpası (فَيُسْحِتَكُم): Allah'a yalan iftira etmenin sonucu olarak kökü kazıyıp silip süpüren azap."
+      },
+      {
+        "ayahs": [
+          "5:42",
+          "5:62",
+          "5:63"
+        ],
+        "text": "Rüşvet, yolsuzluk ve haram sömürü kazancı (ٱلسُّحْت): yalan ve saldırganlıkla birleşen hukuksuz kazanç yeme ve buna engel olmayan bilginlerin kınanması."
+      }
+    ],
+    "context_default": "Kökünden kazıyıp silip süpürmek; adaleti ve bereketi kemiren rüşvet ve haram kazanç (س-ح-ت)."
+  },
+  "ق-ر-ض": {
+    "buckwalter": "qrD",
+    "slug": "kard_ve_ikrad_pay_kesip_ayirmak_siyirip_gecmek_ve_guzel_odunc_qrd",
+    "concept_name": "Kard ve İkrâd (Kenarından Sıyırıp Kesmek ve Kendi Varlığından Pay Ayırıp Güzel Ödünç Sunmak)",
+    "keywords": [
+      "güzel ödünç",
+      "karz-ı hasen",
+      "pay ayırmak",
+      "sıyırıp geçmek",
+      "toplumsal dayanışma",
+      "faizsiz paylaşım"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "t~aqoriDu",
+        "label": "Somut doğa çıpası: Güneşin batarken mağara gençlerini yakmadan sol yandan makas gibi sıyırıp/kesip geçmesi (تَّقْرِضُهُمْ — Bab I fiil: 18:17)"
+      },
+      {
+        "lemma": ">aqoraDu",
+        "label": "Güzel ödünç verme eylemi: Kendi malından bir pay kesip ayırarak yoksullar ve kamu yararı için Allah yolunda gönüllü ödünç sunmak (يُقْرِضُ / أَقْرَضْتُمُ / أَقْرَضُوا۟ / تُقْرِضُوا۟ / أَقْرِضُوا۟ — Bab IV fiil: 2:245, 5:12, 57:11, 57:18, 64:17, 73:20)"
+      },
+      {
+        "lemma": "qaroD",
+        "label": "Katlanan karşılıklı güzel ödünç: Gönül hoşnutluğuyla, faizsiz ve başa kakmadan ayrılan, karşılığı Allah tarafından kat kat ödenecek kaynak (قَرْضًا حَسَنًا — mastar/isim: 2:245, 5:12, 57:11, 57:18, 64:17, 73:20)"
+      }
+    ],
+    "irab_default": "Kenarından sıyırıp keserek geçmek veya kendi malından pay ayırıp Allah yolunda güzel ödünç sunmak (ق-ر-ض kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:17"
+        ],
+        "text": "Somut fiziksel çıpa (تَّقْرِضُهُمْ): güneşin batarken mağara gençlerinin sol yanından dokunmadan sıyırıp keserek geçmesi."
+      },
+      {
+        "ayahs": [
+          "2:245",
+          "5:12",
+          "57:11",
+          "57:18",
+          "64:17",
+          "73:20"
+        ],
+        "text": "Allah'a güzel ödünç (قَرْضًا حَسَنًا): kendi varlığından pay kesip ayırarak toplumsal dayanışma ve kamu yararına sunulan, karşılığı kat kat ödenecek faizsiz gönüllü paylaşım."
+      }
+    ],
+    "context_default": "Sıyırıp keserek geçmek veya kendi malından pay ayırıp Allah yolunda güzel ödünç sunmak (ق-ر-ض)."
   }
 }

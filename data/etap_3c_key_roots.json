@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3C (Son Mayın Temizliği, Hukuk-Ritüel-Kısa Sure Kilitleri ve Açık Mesânî Zırhı — 48 Kök)",
   "target_count": 48,
-  "locked_count": 5,
+  "locked_count": 10,
   "total_tokens_in_package": 714,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 83.24,
+  "current_coverage_pct": 83.37,
   "target_coverage_pct": 84.51,
   "etap_3c_roots": [
     {
@@ -116,8 +116,8 @@
       "frequency": 27,
       "unique_ayahs": 25,
       "rationale": "Menn ve Memnûn (47:4 savaş esirini karşılıksız salıverme, 2:264 başa kakma yasağı ve kesintisiz lütuf)",
-      "concept_label": "Analiz Bekliyor (man~a, man~, mamonuwn, manuwn)",
-      "is_locked": false,
+      "concept_label": "Menn ve Memnûn (Karşılıksız Lütuf, Esir Özgürleştirme, Başa Kakma Yasağı ve Kesintisiz Ödül)",
+      "is_locked": true,
       "sample_ayah": "2:57",
       "top_lemmas": [
         "man~a",
@@ -136,8 +136,8 @@
       "frequency": 13,
       "unique_ayahs": 13,
       "rationale": "Fidye ve İftidâ (2:184 oruç fidyesi, 47:4 esir fidyesi ve 37:107 İbrâhîm kıssasındaki büyük kurtuluş bedeli)",
-      "concept_label": "Analiz Bekliyor ({fotadaY`, fidoyap, tufa`du, fadayo)",
-      "is_locked": false,
+      "concept_label": "Fidye ve Fidâ (Bir Canı, Özgürlüğü veya Sorumluluğu Korumak İçin Yerine Bedel Koyup Kurtarmak)",
+      "is_locked": true,
       "sample_ayah": "2:85",
       "top_lemmas": [
         "{fotadaY`",
@@ -156,8 +156,8 @@
       "frequency": 7,
       "unique_ayahs": 7,
       "rationale": "Akd ve Ukûd (5:1 bağlayıcı sözleşmeler, 2:235-237 nikâh düğümü ve 113:4 düğümler tek çekirdekte)",
-      "concept_label": "Analiz Bekliyor (Euqodap, Eaqadato, Euquwd, Eaq~ad)",
-      "is_locked": false,
+      "concept_label": "Akd ve Ukde (İki Ucu Sıkıca Düğümleyip Bağlamak, Sözleşme Sadakati ve Evlilik Bağı)",
+      "is_locked": true,
       "sample_ayah": "2:235",
       "top_lemmas": [
         "Euqodap",
@@ -176,8 +176,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Suht (5:42, 5:62-63 kökünden kazıyıp tüketen haram kazanç, rüşvet ve hukuksuz sömürü)",
-      "concept_label": "Analiz Bekliyor (s~uHot, yusoHita)",
-      "is_locked": false,
+      "concept_label": "Suht ve İshât (Kökünden Kazıyıp Silip Süpürmek, Adaleti Kemiren Rüşvet ve Haram Kazanç)",
+      "is_locked": true,
       "sample_ayah": "5:42",
       "top_lemmas": [
         "s~uHot",
@@ -194,8 +194,8 @@
       "frequency": 13,
       "unique_ayahs": 7,
       "rationale": "Karz-ı Hasen (18:17 makas gibi kesip geçme somut çıpası + toplum yararına karşılıksız dayanışma ödüncü)",
-      "concept_label": "Analiz Bekliyor (>aqoraDu, qaroD, t~aqoriDu)",
-      "is_locked": false,
+      "concept_label": "Kard ve İkrâd (Kenarından Sıyırıp Kesmek ve Kendi Varlığından Pay Ayırıp Güzel Ödünç Sunmak)",
+      "is_locked": true,
       "sample_ayah": "2:245",
       "top_lemmas": [
         ">aqoraDu",
