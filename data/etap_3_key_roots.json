@@ -1,11 +1,11 @@
 {
   "package": "Faz 1 - Etap 3 (Faz 2 Öncesi Kafa Karıştıran ve Anlamı Doğrudan Belirleyen 131 Kök)",
   "target_count": 131,
-  "locked_count": 85,
+  "locked_count": 90,
   "tier_3a_target": 55,
   "tier_3a_locked": 55,
   "tier_3b_target": 76,
-  "tier_3b_locked": 30,
+  "tier_3b_locked": 35,
   "total_tokens_in_package": 2979,
   "tokens_3a": 1509,
   "tokens_3b": 1470,
@@ -1738,8 +1738,8 @@
       "frequency": 15,
       "unique_ayahs": 15,
       "rationale": "Şekk (Rayb ile Furûk: zihnin iki ihtimal arasında dengeli tereddüdü)",
-      "concept_label": "Analiz Bekliyor ($ak~)",
-      "is_locked": false,
+      "concept_label": "Şekk (İki İhtimal Arasında Askıda Kalan Kararsız Tereddüt ve Kuşku)",
+      "is_locked": true,
       "sample_ayah": "4:157",
       "top_lemmas": [
         "$ak~"
@@ -1756,8 +1756,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Zûr (İfk/İftirâ/Zûr/Kezib Furûku: gerçekten sapmış eğri tanıklık ve sahte söz)",
-      "concept_label": "Analiz Bekliyor (z~uwr, t~aza`waru, zuro)",
-      "is_locked": false,
+      "concept_label": "Zûr ve Ziyaret (Düz Hattan Yana Eğilme, Uğrama ve Çarpık Yalan Söz)",
+      "is_locked": true,
       "sample_ayah": "18:17",
       "top_lemmas": [
         "z~uwr",
@@ -1776,8 +1776,8 @@
       "frequency": 11,
       "unique_ayahs": 11,
       "rationale": "Tab' (Hatm ile Furûk: tekrarlanan seçimler sonucu kalbin katılaşıp damgalanması)",
-      "concept_label": "Analiz Bekliyor (TabaEa)",
-      "is_locked": false,
+      "concept_label": "Tab' (İradi İnat ve Kibir Sonucu Kalbin Damgalanıp Kapanması)",
+      "is_locked": true,
       "sample_ayah": "4:155",
       "top_lemmas": [
         "TabaEa"
@@ -1794,8 +1794,8 @@
       "frequency": 21,
       "unique_ayahs": 20,
       "rationale": "Hilm, Halîm ve Hulum (Cehl zıttı: öfkeye kapılmayan dingin denge ve akıl olgunluğu)",
-      "concept_label": "Analiz Bekliyor (Haliym, Hulum)",
-      "is_locked": false,
+      "concept_label": "Hilm ve Hulum (Acele Etmeyen Olgun Sükûnet, Ergenlik Eşiği ve Düş)",
+      "is_locked": true,
       "sample_ayah": "2:225",
       "top_lemmas": [
         "Haliym",
@@ -1813,8 +1813,8 @@
       "frequency": 17,
       "unique_ayahs": 16,
       "rationale": "İntikâm (5:95 Afv zıttı: ağır suç karşısında kesin yaptırım ve karşılık)",
-      "concept_label": "Analiz Bekliyor ({ntaqamo, {ntiqaAm, naqamu, muntaqimuwn)",
-      "is_locked": false,
+      "concept_label": "Nakm ve İntikâm (Haksız Kınama/Kusurlama ve Zulme Karşı Adil Yaptırım)",
+      "is_locked": true,
       "sample_ayah": "3:4",
       "top_lemmas": [
         "{ntaqamo",
