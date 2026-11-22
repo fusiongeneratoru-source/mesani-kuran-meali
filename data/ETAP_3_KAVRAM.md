@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 70 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 125 / 131 Kök (Toplam Mühürlü: 346 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 76 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 131 / 131 Kök (Toplam Mühürlü: 352 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -134,9 +134,9 @@
 | 123 | 3B | Zihin ve Akletme | 542 | `س-ف-ه` | `S-F-H` | **11** | 10 | 2:13 | Sefeh ve Sefîh (Muhakeme Ağırlığını Yitirmiş Sorumsuz Hafiflik ve Dengesizlik) | ✅ **MÜHÜRLÜ** |
 | 124 | 3B | Zihin ve Akletme | 355 | `ل-س-ن` | `L-S-N` | **25** | 24 | 3:78 | Lisân (Konuşma Organı, Ana Dil Çeşitliliği ve Sözün Ahlaki Sorumluluğu) | ✅ **MÜHÜRLÜ** |
 | 125 | 3B | Zihin ve Akletme | 491 | `ط-م-ن` | `T-M-N` | **13** | 12 | 2:260 | İtmi'nân ve Mutmain (Çalkantı Sonrası Derin Dinginlik, Kanıtla Tatmin ve Güvenlik) | ✅ **MÜHÜRLÜ** |
-| 126 | 3B | Zaman ve Ahiret | 398 | `ن-ش-ر` | `N-S-R` | **21** | 20 | 17:13 | Nüşûr ve İnşâr (dürülü olanı yayıp açma: rüzgâr, kayıt defteri ve diriliş) | ⏳ *Bekliyor* |
-| 127 | 3B | Zaman ve Ahiret | 416 | `ص-و-ر` | `S-W-R` | **19** | 17 | 2:260 | Sûr, Sûret ve Musavvir (biçimlendirme ve 6:73 kıyamette üflenen Sûr) | ⏳ *Bekliyor* |
-| 128 | 3B | Zaman ve Ahiret | 405 | `ن-ف-خ` | `N-F-H` | **20** | 18 | 3:49 | Nefh (üfleme: insana diriltici soluk aktarımı, 3:49 ve Sûr'a üflenmesi) | ⏳ *Bekliyor* |
-| 129 | 3B | Zaman ve Ahiret | 341 | `ج-ح-م` | `C-H-M` | **26** | 26 | 2:119 | Cahîm (yakıcı karşılık çukuru ve Nâr ile Furûk: yoğun tutuşmuş kor alev) | ⏳ *Bekliyor* |
-| 130 | 3B | Zaman ve Ahiret | 418 | `س-ع-ر` | `S-A-R` | **19** | 19 | 4:10 | Saîr ve Suur (çılgınca harlanan ateş ve 54:24 zihinsel sarsıntı) | ⏳ *Bekliyor* |
-| 131 | 3B | Zaman ve Ahiret | 370 | `ل-ب-س` | `L-B-S` | **23** | 20 | 2:42 | Libâs ve Lebs (örtü/giysi ile 2:42 gerçeği bâtıla karıştırıp bulanıklaştırma) | ⏳ *Bekliyor* |
+| 126 | 3B | Zaman ve Ahiret | 398 | `ن-ش-ر` | `N-S-R` | **21** | 20 | 17:13 | Neşr ve Nüşûr (Dürülmüşü Açıp Yaymak, Diriliş ve Yeryüzüne Dağılmak) | ✅ **MÜHÜRLÜ** |
+| 127 | 3B | Zaman ve Ahiret | 416 | `ص-و-ر` | `S-W-R` | **19** | 17 | 2:260 | Sûr ve Tasvîr (Kendine Alıştırmak, Özgün Biçim Tasarımı ve Kıyamet Çağrısı) | ✅ **MÜHÜRLÜ** |
+| 128 | 3B | Zaman ve Ahiret | 405 | `ن-ف-خ` | `N-F-H` | **20** | 18 | 3:49 | Nefh (Körükle Üfleme, İlahi Yaşam Soluğu ve Kıyamet Çağrısı Üflemesi) | ✅ **MÜHÜRLÜ** |
+| 129 | 3B | Zaman ve Ahiret | 341 | `ج-ح-م` | `C-H-M` | **26** | 26 | 2:119 | Cahîm (Yüksek Hararette Kor Hâlinde Harlanan Şiddetli Ateş Ocağı) | ✅ **MÜHÜRLÜ** |
+| 130 | 3B | Zaman ve Ahiret | 418 | `س-ع-ر` | `S-A-R` | **19** | 19 | 4:10 | Saîr ve Suur (Körüklenip Harlanan Alevli Ateş ve Tutuşmuş Çılgınlık) | ✅ **MÜHÜRLÜ** |
+| 131 | 3B | Zaman ve Ahiret | 370 | `ل-ب-س` | `L-B-S` | **23** | 20 | 2:42 | Libâs ve Lebs (Koruyucu Örtü/Eşlik/Zırh ve Gerçeği Yalanla Karıştırmak) | ✅ **MÜHÜRLÜ** |

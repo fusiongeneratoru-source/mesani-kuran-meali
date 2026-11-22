@@ -24478,5 +24478,510 @@
       }
     ],
     "context_default": "Korku ve çalkantı sonrası derin dinginlik, kanıtla tatmin veya toplumsal güvenlik (ط-م-ن)."
+  },
+  "ن-ش-ر": {
+    "buckwalter": "n$r",
+    "slug": "nesr_ve_nusur_durulmusu_acip_yaymak_dirilis_ve_yeryuzune_dagilmak_nsr",
+    "concept_name": "Neşr ve Nüşûr (Dürülmüşü Açıp Yaymak, Diriliş ve Yeryüzüne Dağılmak)",
+    "keywords": [
+      "neşr",
+      "nüşur",
+      "intişar",
+      "parşömenin açılması",
+      "gündüz uyanışı",
+      "yeniden diriliş",
+      "yeryüzüne yayılıp çalışma"
+    ],
+    "irab_rules": [
+      {
+        "ayahs": [
+          "17:13",
+          "52:3",
+          "74:52",
+          "81:10"
+        ],
+        "label": "Dürülmüş kayıtların açılması: Parşömenin, sayfaların ve insanın eylem sicilinin okunmak üzere açılıp serilmesi (فِى رَقٍّ مَّنشُورٍ / وَإِذَا ٱلصُّحُفُ نُشِرَتْ)"
+      },
+      {
+        "ayahs": [
+          "25:47"
+        ],
+        "label": "Gündelik uyanış modeli: Gecenin örtüsü ve uyku durgunluğunun ardından gündüzün insanı yeniden açıp hayata yayması (وَجَعَلَ ٱلنَّهَارَ نُشُورًا)"
+      },
+      {
+        "lemma": ">an$ara",
+        "label": "Yağmurla ve kıyamette yeniden diriltip açmak: Kurak ölü beldeyi suyla canlandırmak ve ölümden sonra insanı yeniden diriltmek (فَأَنشَرْنَا / أَنشَرَهُۥ — Bab IV fiil: 21:21, 43:11, 80:22)"
+      },
+      {
+        "lemma": "tanta$iru",
+        "label": "Yeryüzüne dağılıp çalışmak: Cuma çağrısından ve yemekten sonra yeryüzüne yayılıp rızık aramak ve üretmek (فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ — Bab VIII fiil: 30:20, 33:53, 62:10)"
+      },
+      {
+        "ayahs": [
+          "18:16",
+          "42:28"
+        ],
+        "label": "Rahmetin açılıp yayılması: Allah'ın umutsuzluk ve sığınma anında rahmetini genişçe yayması (يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِۦ)"
+      },
+      {
+        "lemma": "nu$uwr",
+        "label": "Yeniden diriliş ve açılış: Baharda ölü toprağın canlanması gibi insanın ölümden sonra yeniden hayata açılması (ٱلنُّشُور)"
+      }
+    ],
+    "irab_default": "Dürülmüş, kapanmış veya durgunlaşmış olanı açıp sermek, yaymak ve yeniden canlandırmak (ن-ش-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:13",
+          "52:3",
+          "74:52",
+          "81:10"
+        ],
+        "text": "Dürülmüş parşömen, kitap ve hesap sayfalarının okunmak üzere açılıp serilmesi somut çıpası."
+      },
+      {
+        "ayahs": [
+          "21:21",
+          "25:3",
+          "25:40",
+          "25:47",
+          "35:9",
+          "43:11",
+          "44:35",
+          "67:15",
+          "80:22"
+        ],
+        "text": "Her sabahki uyanış ve baharda ölü toprağın yağmurla canlanması üzerinden örneklenen büyük yeniden diriliş (نُشُور)."
+      },
+      {
+        "ayahs": [
+          "18:16",
+          "30:20",
+          "33:53",
+          "42:28",
+          "54:7",
+          "62:10",
+          "77:3"
+        ],
+        "text": "İnsanların yeryüzüne dağılıp çalışması, rahmetin bolca yayılması ve bulutları/rüzgârları yayan güçler."
+      }
+    ],
+    "context_default": "Dürülmüş veya durgun olanı açıp sermek, yaymak ve yeniden canlandırmak (ن-ش-ر)."
+  },
+  "ص-و-ر": {
+    "buckwalter": "Swr",
+    "slug": "sur_ve_tasvir_kendine_alistirmak_ozgun_bicim_tasarimi_ve_kiyamet_cagrisi_swr",
+    "concept_name": "Sûr ve Tasvîr (Kendine Alıştırmak, Özgün Biçim Tasarımı ve Kıyamet Çağrısı)",
+    "keywords": [
+      "sur",
+      "suret",
+      "tasvir",
+      "musavvir",
+      "kendine alıştırmak",
+      "özgün biçim",
+      "kıyamet çağrısı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Suro",
+        "label": "Kendine meylettirip alıştırmak: İbrâhîm'in dört kuşu parçalayıp kesmesi değil, kendine yaklaştırıp sesine alıştırması (فَصُرْهُنَّ إِلَيْكَ — Bab I emir fiili: 2:260)"
+      },
+      {
+        "lemma": "Saw~ara",
+        "label": "Özgün ve en güzel biçimlendirme: Rahimlerde ve yaratılışta her canlıya estetik denge ve ayırt edici biçim tasarlamak (يُصَوِّرُكُمْ / وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ — Bab II fiil: 3:6, 7:11, 40:64, 64:3)"
+      },
+      {
+        "lemma": "muSaw~ir",
+        "label": "Biçim ve kimlik tasarlayıcısı: Yaratılışta her varlığa kendine özgü biçim ve kimlik veren ilahi sıfat (ٱلْمُصَوِّرُ — Bab II ism-i fâil: 59:24)"
+      },
+      {
+        "lemma": "Suwrap",
+        "label": "Özgün biçim ve estetik suret: İnsanın yaratılışta kavuşturulduğu en güzel yapı ve biçim (صُوَرَكُمْ / صُورَةٍ — 40:64, 64:3, 82:8)"
+      },
+      {
+        "lemma": "S~uwr",
+        "label": "Kıyamet çağrı borazanı: Mevcut dönemin kapanışını ve diriliş toplanmasını ilan eden kozmik çağrı (يُنفَخُ فِى ٱلصُّورِ — 10 geçiş)"
+      }
+    ],
+    "irab_default": "Kendine doğru eğip alıştırmak (2:260), yaratılışta özgün güzel biçim tasarlamak ve kıyamet çağrı borazanı (ص-و-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:260"
+        ],
+        "text": "İbrâhîm'in dört kuşu kendine yaklaştırıp alıştırması (فَصُرْهُنَّ إِلَيْكَ) üzerinden diriliş ve toplanma temsili."
+      },
+      {
+        "ayahs": [
+          "3:6",
+          "7:11",
+          "40:64",
+          "59:24",
+          "64:3",
+          "82:8"
+        ],
+        "text": "Ana rahminde ve yaratılışta insana özgün, simetrik ve en güzel biçimi veren tasvir ve musavvirlik."
+      },
+      {
+        "ayahs": [
+          "6:73",
+          "18:99",
+          "20:102",
+          "23:101",
+          "27:87",
+          "36:51",
+          "39:68",
+          "50:20",
+          "69:13",
+          "78:18"
+        ],
+        "text": "Kıyamette mevcut düzenin kapanışını ve insanlığın yeniden toplanmasını ilan eden kozmik Sûr çağrısı."
+      }
+    ],
+    "context_default": "Kendine meylettirip alıştırmak, güzel biçim vermek veya kıyamet çağrı borazanı (ص-و-ر)."
+  },
+  "ن-ف-خ": {
+    "buckwalter": "nfx",
+    "slug": "nefh_korukle_ufleme_ilahi_yasam_solugu_ve_kiyamet_cagrisi_nfx",
+    "concept_name": "Nefh (Körükle Üfleme, İlahi Yaşam Soluğu ve Kıyamet Çağrısı Üflemesi)",
+    "keywords": [
+      "nefh",
+      "nefha",
+      "körükle üfleme",
+      "ilahi yaşam soluğu",
+      "sura üflenmesi",
+      "canlandırma"
+    ],
+    "irab_rules": [
+      {
+        "ayahs": [
+          "18:96"
+        ],
+        "label": "Somut körükle üfleme çıpası: Zülkarneyn'in demir kütlelerini eritip kor ateş yapmak için işçilere hava üfletmesi (قَالَ ٱنفُخُوا۟ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًا)"
+      },
+      {
+        "ayahs": [
+          "15:29",
+          "32:9",
+          "38:72"
+        ],
+        "label": "İnsana ilahi yaşam ve bilinç soluğu: Beden dengelendikten sonra işitme, görme ve kavrayış bilinciyle birlikte ilahi yaşam soluğu aktarılması (سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ)"
+      },
+      {
+        "ayahs": [
+          "21:91",
+          "66:12"
+        ],
+        "label": "Meryem'e ilahi yaşam soluğu: İffetini koruyan Meryem'e Allah katından yaşam soluğu üflenerek gebeliğin gerçekleşmesi (فَنَفَخْنَا فِيهَا مِن رُّوحِنَا)"
+      },
+      {
+        "ayahs": [
+          "3:49",
+          "5:110"
+        ],
+        "label": "İlahi izinle olağanüstü işaret: Îsâ'nın çamur kuş biçimine yalnızca Allah'ın izniyle soluk üflemesi (فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ)"
+      },
+      {
+        "lemma": "nafoxap",
+        "label": "Tek ve sarsıcı kıyamet üflemesi: Mevcut dönemi kapatan kesin kozmik üfleme (نَفْخَةٌ وَٰحِدَةٌ — 69:13)"
+      },
+      {
+        "lemma": "nafaxa",
+        "label": "Kıyamette Sûr'a üflenmesi: Birinci üflemeyle mevcut düzenin kapanması ve ikinci üflemeyle tüm insanların dirilip ayağa kalkması (نُفِخَ فِى ٱلصُّورِ — Bab I edilgen fiil)"
+      }
+    ],
+    "irab_default": "Güçlü hava/soluk akımı iterek ateşi tutuşturmak, yaşam ve bilinç soluğu üflemek veya kozmik çağrıyı yankılandırmak (ن-ف-خ kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:96"
+        ],
+        "text": "Demir blokları eritmek için körüklerle hava üfleme somut fiziksel çıpası."
+      },
+      {
+        "ayahs": [
+          "3:49",
+          "5:110",
+          "15:29",
+          "21:91",
+          "32:9",
+          "38:72",
+          "66:12"
+        ],
+        "text": "İnsanın ve Meryem'in yaratılışında ilahi yaşam-bilinç soluğu üflenmesi ve Îsâ'nın Allah'ın izniyle kuş biçimine üflemesi."
+      },
+      {
+        "ayahs": [
+          "6:73",
+          "18:99",
+          "20:102",
+          "23:101",
+          "27:87",
+          "36:51",
+          "39:68",
+          "50:20",
+          "69:13",
+          "78:18"
+        ],
+        "text": "Kıyamette Sûr'a üflenerek mevcut kozmik düzenin kapanması ve dirilişin başlaması."
+      }
+    ],
+    "context_default": "Güçlü hava akımı veya yaşam soluğu üflemek (ن-ف-خ)."
+  },
+  "ج-ح-م": {
+    "buckwalter": "jHm",
+    "slug": "cahim_yuksek_hararetle_kor_halinde_harlanan_siddetli_ates_ocagi_jhm",
+    "concept_name": "Cahîm (Yüksek Hararette Kor Hâlinde Harlanan Şiddetli Ateş Ocağı)",
+    "keywords": [
+      "cahim",
+      "korlu ateş ocağı",
+      "şiddetli ateş fırını",
+      "harlı ateş",
+      "kavurucu karşılık"
+    ],
+    "irab_rules": [
+      {
+        "ayahs": [
+          "37:97"
+        ],
+        "label": "Somut dünyevi ateş fırını çıpası: Putperest kavmin İbrâhîm'i içine atmak için yüksek duvarlarla kurduğu dev korlu ateş ocağı (ٱبْنُوا۟ لَهُۥ بُنْيَٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ)"
+      },
+      {
+        "ayahs": [
+          "81:12",
+          "26:91",
+          "79:36",
+          "102:6"
+        ],
+        "label": "Harlandırılıp gözler önüne serilen kor ocağı: Kıyamet sahnesinde şiddetle alevlendirilip apaçık görülen ateş ocağı (وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ / وَبُرِّزَتِ ٱلْجَحِيمُ)"
+      },
+      {
+        "ayahs": [
+          "40:7",
+          "44:56",
+          "52:18"
+        ],
+        "label": "Kavurucu ateş azabından korunma: Bilinçli sakınanların ve yolunu izleyenlerin ilahi korumayla uzak tutulduğu ateş azabı (وَقِهِمْ عَذَابَ ٱلْجَحِيمِ)"
+      },
+      {
+        "lemma": "jaHiym",
+        "label": "Yalanlayan ve sınır yırtanların kavurucu karşılığı: Ayetleri yalanlayıp zorbalıkla hakkı çiğneyenlerin (ٱلْفُجَّار) içine düştüğü harlı kor ocağı (ٱلْجَحِيم)"
+      }
+    ],
+    "irab_default": "Üst üste yığılmış korlarla yüksek hararette harlanan şiddetli ateş ocağı/fırını (ج-ح-م kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "37:97"
+        ],
+        "text": "İbrâhîm için örülüp yakılan dünyevi devasa ateş fırını (kelimenin somut fiziksel anlam çıpası)."
+      },
+      {
+        "ayahs": [
+          "2:119",
+          "5:10",
+          "5:86",
+          "9:113",
+          "22:51",
+          "26:91",
+          "37:23",
+          "37:55",
+          "37:64",
+          "37:68",
+          "37:163",
+          "40:7",
+          "44:47",
+          "44:56",
+          "52:18",
+          "56:94",
+          "57:19",
+          "69:31",
+          "73:12",
+          "79:36",
+          "79:39",
+          "81:12",
+          "82:14",
+          "83:16",
+          "102:6"
+        ],
+        "text": "Ayetleri yalanlayıp ahlaki sınırları yırtanların hesap gününde yüzleşeceği harlandırılmış korlu ateş ocağı."
+      }
+    ],
+    "context_default": "Yüksek hararetle kor hâlinde harlanan şiddetli ateş ocağı (ج-ح-م)."
+  },
+  "س-ع-ر": {
+    "buckwalter": "sEr",
+    "slug": "sair_ve_suur_koruklenip_harlanan_alevli_ates_ve_tutusmus_cilginlik_ser",
+    "concept_name": "Saîr ve Suur (Körüklenip Harlanan Alevli Ateş ve Tutuşmuş Çılgınlık)",
+    "keywords": [
+      "sair",
+      "suur",
+      "tesir",
+      "harlandırılmış alev",
+      "akletmeme itirafı",
+      "tutuşmuş çılgınlık"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "suE~irato",
+        "label": "Alevlerin şiddetle harlandırılması: Korlu ateş ocağının körüklenip tutuşturularak yükseltilmesi (وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ — Bab II edilgen fiil: 81:12)"
+      },
+      {
+        "ayahs": [
+          "17:97"
+        ],
+        "label": "Sönmeye karşı harlanan alev çıpası: Ateş yatışmaya yüz tuttukça alevinin yeniden körüklenip artırılması (كُلَّمَا خَبَتْ زِدْنَٰهُمْ سَعِيرًا)"
+      },
+      {
+        "ayahs": [
+          "67:10",
+          "67:11"
+        ],
+        "label": "Dinlememe ve akletmeme itirafı: Dinleyip aklını işletmeyi reddedenlerin düştüğü alevli karşılık (لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ)"
+      },
+      {
+        "lemma": "suEur",
+        "label": "Tutuşmuş zihinsel çılgınlık ve alevli yıkım: Doğru yoldan sapmayla birleşen dengesiz çılgınlık ve alevli helak (فِى ضَلَٰلٍ وَسُعُرٍ — 54:24, 54:47)"
+      },
+      {
+        "lemma": "saEiyr",
+        "label": "Harlı alevli ateş: Yetim malı yiyenlerin (4:10), ayartıcıya uyanların ve hakkı yalanlayanların sürüklendiği yükselen alevli ateş (سَعِير)"
+      }
+    ],
+    "irab_default": "Körüklenip tutuşarak alevi yükselen harlı ateş ve tutuşmuş çılgınlık/yıkım (س-ع-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:97",
+          "81:12"
+        ],
+        "text": "Sönmeye yüz tutmaya karşı alevlerin körüklenip harlandırılması somut yanma çıpası."
+      },
+      {
+        "ayahs": [
+          "4:10",
+          "4:55",
+          "22:4",
+          "25:11",
+          "31:21",
+          "33:64",
+          "34:12",
+          "35:6",
+          "42:7",
+          "48:13",
+          "67:5",
+          "67:10",
+          "67:11",
+          "76:4",
+          "84:12"
+        ],
+        "text": "Yetim hakkı yemenin, ayartıcıya uymanın ve dinleyip aklını işletmemenin sonucu olan harlı alevli karşılık."
+      },
+      {
+        "ayahs": [
+          "54:24",
+          "54:47"
+        ],
+        "text": "Sapma ile birlikte anılan tutuşmuş zihinsel çılgınlık ve alevli yıkım (ضَلَٰلٍ وَسُعُرٍ)."
+      }
+    ],
+    "context_default": "Alevlenip harlanarak yükselen ateş veya tutuşmuş çılgınlık/yıkım (س-ع-ر)."
+  },
+  "ل-ب-س": {
+    "buckwalter": "lbs",
+    "slug": "libas_ve_lebs_koruyucu_ortu_eslik_zirh_ve_gercegi_yalanla_karistirmak_lbs",
+    "concept_name": "Libâs ve Lebs (Koruyucu Örtü/Eşlik/Zırh ve Gerçeği Yalanla Karıştırmak)",
+    "keywords": [
+      "libas",
+      "lebus",
+      "lebs",
+      "eşlerin karşılıklı örtüsü",
+      "bilinçli sakınma örtüsü",
+      "gece örtüsü",
+      "zırh",
+      "hakkı batılla karıştırmak"
+    ],
+    "irab_rules": [
+      {
+        "ayahs": [
+          "2:187"
+        ],
+        "label": "Eşlerin eşit ve karşılıklı koruyucu örtüsü: Kadın ve erkeğin birbirini koruyan, ısıtan, sarmalayan ve kusurunu örten karşılıklı örtüsü olması (هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ)"
+      },
+      {
+        "ayahs": [
+          "7:26",
+          "7:27"
+        ],
+        "label": "Beden giysisi ve bilinçli sakınma örtüsü: Mahremiyeti örten dış giysiden daha hayırlı olan içsel bilinçli sakınma örtüsü (لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ ... وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ)"
+      },
+      {
+        "lemma": "labuws",
+        "label": "Koruyucu zırh sanatı: Dâvûd'a öğretilen, insanları savaş şiddetinden koruyan örme zırh (صَنْعَةَ لَبُوسٍ لَّكُمْ لِتُحْصِنَكُم — 21:80)"
+      },
+      {
+        "ayahs": [
+          "25:47",
+          "78:10",
+          "16:112"
+        ],
+        "label": "Kuşatan kozmik veya toplumsal örtü: Gecenin yeryüzünü sarıp dinlendiren örtüsü (25:47, 78:10) ve nankör kenti çepeçevre saran açlık-korku örtüsü (16:112)"
+      },
+      {
+        "ayahs": [
+          "2:42",
+          "3:71",
+          "6:82"
+        ],
+        "label": "Hakkı batılla örtüp karıştırma ve imana zulüm bulaştırma yasağı: Gerçeğin üzerine yalan örtüsü çekip bulandırmamak ve imana zulüm karıştırmamak (لَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَٰطِلِ / وَلَمْ يَلْبِسُوٓا۟ إِيمَٰنَهُم بِظُلْمٍ)"
+      },
+      {
+        "lemma": "labos",
+        "label": "Zihinsel karmaşa ve bulanıklık: Yeni yaratılış gerçeği karşısında bulanık karmaşa içinde bocalamak (فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ — 50:15)"
+      },
+      {
+        "lemma": "labaso",
+        "label": "Giyinmek veya örtüp karıştırmak: Süslü/ipek giysi kuşanmak (16:14, 18:31, 35:12, 44:53) veya hiziplere bölüp gerçeği/yaşam düzenini bulandırmak (6:9, 6:65, 6:137)"
+      }
+    ],
+    "irab_default": "Çepeçevre sarıp koruyucu örtü olmak (giysi/eş/gece/zırh/sakınma) veya gerçeği yalanla örtüp karıştırmak (ل-ب-س kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:187",
+          "7:26",
+          "7:27",
+          "16:14",
+          "18:31",
+          "21:80",
+          "22:23",
+          "25:47",
+          "35:12",
+          "35:33",
+          "44:53",
+          "78:10"
+        ],
+        "text": "Eşlerin eşit koruyucu örtüsü, bilinçli sakınma örtüsü, gece örtüsü, koruyucu zırh ve nimet giysileri."
+      },
+      {
+        "ayahs": [
+          "16:112"
+        ],
+        "text": "Nimetlere nankörlük eden kenti çepeçevre saran açlık ve korku örtüsü."
+      },
+      {
+        "ayahs": [
+          "2:42",
+          "3:71",
+          "6:9",
+          "6:65",
+          "6:82",
+          "6:137",
+          "50:15"
+        ],
+        "text": "Gerçeği batılla örtüp karıştırma yasağı, imana zulüm bulaştırmama, hizipleşme ve zihin karmaşası (لَبْس)."
+      }
+    ],
+    "context_default": "Çepeçevre sarıp koruyan örtü/giysi veya gerçeği yalanla örtüp karıştırma (ل-ب-س)."
   }
 }
