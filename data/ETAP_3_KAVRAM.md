@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 45 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 100 / 131 Kök (Toplam Mühürlü: 321 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 50 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 105 / 131 Kök (Toplam Mühürlü: 326 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -109,11 +109,11 @@
 | 98 | 3B | Hukuk ve Toplumsal Düzen | 920 | `ع-و-ر` | `A-W-R` | **4** | 3 | 24:31 | Avret (Açıkta Kalan Savunmasız Gedik ve Korunması Gereken Mahremiyet Alanı) | ✅ **MÜHÜRLÜ** |
 | 99 | 3B | Hukuk ve Toplumsal Düzen | 630 | `ف-ر-ج` | `F-R-C` | **9** | 9 | 21:91 | Ferc ve Furûc (Kozmik Çatlak/Yarık ve Eşit İffet-Mahremiyet Sınırı) | ✅ **MÜHÜRLÜ** |
 | 100 | 3B | Hukuk ve Toplumsal Düzen | 375 | `ط-ل-ق` | `T-L-K` | **23** | 21 | 2:227 | Talâk ve İntilâk (Bağdan Çözülüp Açılmak, Yola Koyulmak ve Onurlu Boşanma Hukuku) | ✅ **MÜHÜRLÜ** |
-| 101 | 3B | Hukuk ve Toplumsal Düzen | 465 | `ب-ي-ع` | `B-Y-A` | **15** | 11 | 2:254 | Bey' ve Bîat (ticari alışveriş ile toplumsal/siyasal bağlılık akdinin ortak kökü) | ⏳ *Bekliyor* |
-| 102 | 3B | Hukuk ve Toplumsal Düzen | 366 | `ر-ق-ب` | `R-K-B` | **24** | 20 | 2:177 | Rekabe ve Rakîb (boyunduruk/kölelik çözme hukuku ve dikkatle gözetleme) | ⏳ *Bekliyor* |
-| 103 | 3B | Hukuk ve Toplumsal Düzen | 698 | `أ-س-ر` | `E-S-R` | **6** | 6 | 2:85 | Esîr ve Esr (savaş esirleri hukuku ve bedensel eklem bağı) | ⏳ *Bekliyor* |
-| 104 | 3B | Hukuk ve Toplumsal Düzen | 351 | `ح-د-د` | `H-D-D` | **25** | 20 | 2:187 | Hudûd ve Hadîd (koruyucu sınır çizgileri, demir ve keskinlik) | ⏳ *Bekliyor* |
-| 105 | 3B | Hukuk ve Toplumsal Düzen | 267 | `و-ر-ث` | `W-R-S` | **35** | 34 | 2:233 | Mîrâs ve Vâris (miras hukuku ve yeryüzüne/kitaba mirasçı kılınma sorumluluğu) | ⏳ *Bekliyor* |
+| 101 | 3B | Hukuk ve Toplumsal Düzen | 465 | `ب-ي-ع` | `B-Y-A` | **15** | 11 | 2:254 | Bey' ve Biat (Karşılıklı Rızaya Dayalı Ticaret ve Özgür İradeli Toplumsal Sözleşme) | ✅ **MÜHÜRLÜ** |
+| 102 | 3B | Hukuk ve Toplumsal Düzen | 366 | `ر-ق-ب` | `R-K-B` | **24** | 20 | 2:177 | Rakîb ve Rakabe (Uyanık Gözetim, Denetim ve Tutsak Boyunları Özgürleştirme) | ✅ **MÜHÜRLÜ** |
+| 103 | 3B | Hukuk ve Toplumsal Düzen | 698 | `أ-س-ر` | `E-S-R` | **6** | 6 | 2:85 | Esr ve Esîr (Bağlayıp Kenetlemek, Beden Bağları ve Savaş Tutsağına Merhamet) | ✅ **MÜHÜRLÜ** |
+| 104 | 3B | Hukuk ve Toplumsal Düzen | 351 | `ح-د-د` | `H-D-D` | **25** | 20 | 2:187 | Hudûd ve Hadîd (Hakları Koruyan İlahi Sınırlar, Demir ve Keskinlik) | ✅ **MÜHÜRLÜ** |
+| 105 | 3B | Hukuk ve Toplumsal Düzen | 267 | `و-ر-ث` | `W-R-S` | **35** | 34 | 2:233 | Mîrâs ve Vâris (Adil Aile Devri, Yeryüzünün Salihlere Devri ve Tek Kalıcı Vâris) | ✅ **MÜHÜRLÜ** |
 | 106 | 3B | Hukuk ve Toplumsal Düzen | 286 | `و-ص-ي` | `W-S-Y` | **32** | 21 | 2:132 | Vasiyet ve Tavsiye (bağlayıcı miras bildirimi ve nesiller arası ahlaki emanet) | ⏳ *Bekliyor* |
 | 107 | 3B | Hukuk ve Toplumsal Düzen | 555 | `ح-ر-ب` | `H-R-B` | **11** | 11 | 2:279 | Harb ve Mihrâb (silahlı çatışma ile korunaklı sığınma/yöneliş odası tek kökte) | ⏳ *Bekliyor* |
 | 108 | 3B | Hukuk ve Toplumsal Düzen | 619 | `غ-ن-م` | `G-N-M` | **9** | 9 | 4:94 | Ganîmet ve Ganem (savaş kazanımı ve sürü/varlık) | ⏳ *Bekliyor* |
