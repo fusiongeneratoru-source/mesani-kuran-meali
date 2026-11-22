@@ -18239,5 +18239,504 @@
       }
     ],
     "context_default": "Kabuğundan arınmış saf öz ve derin akıl sahipleri (ل-ب-ب)."
+  },
+  "س-و-ع": {
+    "buckwalter": "swE",
+    "slug": "saat_zaman_kesiti_kisa_an_ve_ani_buyuk_kopus_hesap_ani_swe",
+    "concept_name": "Saat (Zaman Kesiti, Kısa An ve Dünya Süresini Kesen Ani Büyük Kopuş Anı)",
+    "keywords": [
+      "saat",
+      "büyük kopuş anı",
+      "kısa zaman kesiti",
+      "vade",
+      "anilik",
+      "güçlük anı",
+      "suva"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "suwaAE",
+        "label": "Özel ad çıpası: Nûh kavminin bırakmayı reddettiği putlardan birinin tarihî adı (سُوَاعًا — özel ad: 71:23)"
+      },
+      {
+        "lemma": "saAEap",
+        "ayahs": [
+          "30:55"
+        ],
+        "label": "Çifte kullanım çıpası: Büyük kopuş Anının (ٱلسَّاعَةُ) gelip çatmasıyla suçluların bütün dünya yaşamlarını yalnızca kısacık bir zaman kesiti (سَاعَةٍ) gibi algılaması (30:55)"
+      },
+      {
+        "lemma": "saAEap",
+        "ayahs": [
+          "7:34",
+          "10:49",
+          "16:61",
+          "34:30"
+        ],
+        "label": "Vade kesiti çıpası: Belirlenmiş süre geldiğinde ne bir an ertelenebilmek ne bir an öne alınabilmek (سَاعَةً — kısa zaman kesiti)"
+      },
+      {
+        "lemma": "saAEap",
+        "ayahs": [
+          "9:117"
+        ],
+        "label": "Tarihsel an çıpası: Zorlu sefer ve darlık vaktinde elçiye bağlı kalmak (فِى سَاعَةِ ٱلْعُسْرَةِ — isim: 9:117)"
+      },
+      {
+        "lemma": "saAEap",
+        "ayahs": [
+          "10:45",
+          "46:35"
+        ],
+        "label": "Zaman algısı çıpası: Yeniden diriliş anında bütün dünya ömrünün gündüzün kısacık bir saati gibi görünmesi (سَاعَةً مِّنَ ٱلنَّهَارِ)"
+      },
+      {
+        "lemma": "saAEap",
+        "ayahs": [
+          "7:187",
+          "31:34",
+          "33:63",
+          "41:47",
+          "43:85",
+          "79:42"
+        ],
+        "label": "Mutlak bilgi çıpası: Büyük kopuş Anının ne zaman gelip çatacağı bilgisinin yalnızca Allah katında tutulması (عِلْمُ ٱلسَّاعَةِ)"
+      },
+      {
+        "lemma": "saAEap",
+        "ayahs": [
+          "6:31",
+          "12:107",
+          "16:77",
+          "22:55",
+          "43:66",
+          "47:18"
+        ],
+        "label": "Anilik ve hız çıpası: Büyük kopuş Anının hiç beklenmedik anda ansızın (بَغْتَةً) ve göz açıp kapayıncaya dek (كَلَمْحِ ٱلْبَصَرِ) gerçekleşmesi"
+      },
+      {
+        "lemma": "saAEap",
+        "label": "Kesin büyük kopuş Anı: Dünya düzenini kapatıp kesin ayrışma ve hesap sürecini başlatan kaçınılmaz buluşma Anı (ٱلسَّاعَة — belirli isim)"
+      }
+    ],
+    "irab_default": "Zaman akışı içindeki kısa kesit/an veya dünya süresini aniden kesen büyük Kopuş ve Hesap Anı (س-و-ع kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:34",
+          "9:117",
+          "10:45",
+          "10:49",
+          "16:61",
+          "34:30",
+          "46:35"
+        ],
+        "text": "Kısa zaman dilimi / an (سَاعَة): belirlenmiş süreden bir an sapmama, güçlük vakti ve dünya ömrünün kısalığı."
+      },
+      {
+        "ayahs": [
+          "7:187",
+          "31:34",
+          "33:63",
+          "41:47",
+          "42:17",
+          "43:61",
+          "43:85",
+          "79:42"
+        ],
+        "text": "Büyük Anın zaman bilgisinin yalnız Allah katında olması ve yakınlığı (عِلْمُ ٱلسَّاعَةِ)."
+      },
+      {
+        "ayahs": [
+          "6:31",
+          "12:107",
+          "16:77",
+          "22:1",
+          "22:55",
+          "43:66",
+          "47:18",
+          "54:1",
+          "54:46"
+        ],
+        "text": "Aniden (بَغْتَةً) ve göz açıp kapayıncaya dek gelip çatan büyük sarsıntı ve kopuş Anı."
+      },
+      {
+        "ayahs": [
+          "6:40",
+          "15:85",
+          "18:21",
+          "18:36",
+          "19:75",
+          "20:15",
+          "21:49",
+          "22:7",
+          "25:11",
+          "30:12",
+          "30:14",
+          "30:55",
+          "34:3",
+          "40:46",
+          "40:59",
+          "41:50",
+          "42:18",
+          "45:27",
+          "45:32"
+        ],
+        "text": "Şüphe barındırmayan kesin buluşma ve ayrışma Anı (وَيَوْمَ تَقُومُ ٱلسَّاعَةُ / لَا رَيْبَ فِيهَا)."
+      },
+      {
+        "ayahs": [
+          "71:23"
+        ],
+        "text": "Özel ad: Nûh kavminin bırakmayı reddettiği putlardan biri (سُوَاعًا)."
+      }
+    ],
+    "context_default": "Zaman kesiti/an veya büyük Kopuş ve Hesap Anı (س-و-ع)."
+  },
+  "ح-ش-ر": {
+    "buckwalter": "H$r",
+    "slug": "hasr_yerinden_kaldirip_tek_merkeze_sevk_ederek_bir_araya_toplamak_hshr",
+    "concept_name": "Haşr (Yerinden Harekete Geçirip Tek Merkeze Sevk Ederek Eksiksiz Bir Araya Toplamak)",
+    "keywords": [
+      "haşr",
+      "toplamak",
+      "sevk etmek",
+      "toplayıcı görevliler",
+      "toplu sürgün",
+      "hesap toplanması",
+      "onurlu heyet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Ha`$iriyn",
+        "label": "Dünyevi toplama çıpası: Firavun'un kentlerden uzmanları ve halkı toplamak üzere gönderdiği toplayıcı görevliler (حَٰشِرِينَ — ism-i fâil çoğul: 7:111, 26:36, 26:53)"
+      },
+      {
+        "lemma": "maHo$uwrap",
+        "label": "Canlılar toplama çıpası: Dâvûd ile birlikte tek bir uyum içinde toplanan kuşlar (مَحْشُورَةً — ism-i mef'ûl: 38:19)"
+      },
+      {
+        "lemma": "Ha$or",
+        "ayahs": [
+          "59:2"
+        ],
+        "label": "Tarihsel sürgün/toplanma çıpası: Bir topluluğun yurtlarından topluca çıkarılıp sevk edildiği ilk toplanma (لِأَوَّلِ ٱلْحَشْرِ — masdar: 59:2)"
+      },
+      {
+        "lemma": "Ha$or",
+        "ayahs": [
+          "50:44"
+        ],
+        "label": "Kozmik toplama masdarı: Yerin yarılmasıyla insanların hızla ve Allah için pek kolay biçimde toplanması (حَشْرٌ عَلَيْنَا يَسِيرٌ — masdar: 50:44)"
+      },
+      {
+        "lemma": "Ha$ara",
+        "ayahs": [
+          "20:59",
+          "27:17",
+          "79:23"
+        ],
+        "label": "Dünyevi fiil çıpası: Halkın kuşluk vakti toplanması, Süleyman'ın birliklerinin sevk edilmesi ve Firavun'un kitleyi toplaması (Bab I fiil)"
+      },
+      {
+        "lemma": "Ha$ara",
+        "ayahs": [
+          "6:38",
+          "81:5"
+        ],
+        "label": "Tüm canlılar çıpası: Yeryüzündeki bütün canlı topluluklarının ve yaban hayvanlarının bir araya toplanması (Bab I fiil)"
+      },
+      {
+        "lemma": "Ha$ara",
+        "ayahs": [
+          "19:85"
+        ],
+        "label": "Onurlu heyet çıpası: Sorumluluk bilinciyle korunanların Rahmân'ın huzuruna onurlu bir konuk heyeti (وَفْدًا) hâlinde toplanması (Bab I fiil: 19:85)"
+      },
+      {
+        "lemma": "Ha$ara",
+        "ayahs": [
+          "3:12",
+          "8:36",
+          "17:97",
+          "19:68",
+          "20:102",
+          "20:124",
+          "20:125",
+          "25:34",
+          "37:22",
+          "41:19"
+        ],
+        "label": "Sorumluluk ve yaptırım toplanması: Sapanların, zalimlerin ve hakikati örtenlerin yüzüstü, kör veya ateş yurduna sevk edilerek toplanması (Bab I fiil)"
+      },
+      {
+        "lemma": "Ha$ara",
+        "label": "Eksiksiz kozmik hesap toplanması: Tek bir kişi bile dışarıda bırakılmaksızın tüm insanlığın Rabbin huzuruna sevk edilip bir araya toplanması (حَشَرَ / يُحْشَرُ — Bab I fiil)"
+      }
+    ],
+    "irab_default": "Yerinden harekete geçirip tek bir merkeze sevk ederek bir araya toplamak (ح-ش-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:111",
+          "20:59",
+          "26:36",
+          "26:53",
+          "27:17",
+          "38:19",
+          "59:2",
+          "79:23"
+        ],
+        "text": "Dünyevi ve tarihsel toplama/sevk: kent toplayıcıları, Süleyman'ın orduları, Dâvûd ile toplanan kuşlar, ilk toplu çıkarılış (59:2)."
+      },
+      {
+        "ayahs": [
+          "6:38",
+          "6:111",
+          "18:47",
+          "50:44",
+          "81:5"
+        ],
+        "text": "Eksiksiz evrensel toplanma: tek bir kişi bırakmadan tüm insanların, yaban hayvanlarının ve bütün canlı topluluklarının toplanması."
+      },
+      {
+        "ayahs": [
+          "19:85"
+        ],
+        "text": "Onurlu heyet (وَفْدًا): sorumluluk bilinciyle korunanların Rahmân'ın huzuruna saygın biçimde toplanması."
+      },
+      {
+        "ayahs": [
+          "3:12",
+          "8:36",
+          "17:97",
+          "19:68",
+          "20:102",
+          "20:124",
+          "20:125",
+          "25:34",
+          "37:22",
+          "41:19"
+        ],
+        "text": "Sapanların ve zalimlerin yüzüstü, kör veya ateş yurduna sevk edilerek toplanması."
+      },
+      {
+        "ayahs": [
+          "2:203",
+          "3:158",
+          "4:172",
+          "5:96",
+          "6:22",
+          "6:51",
+          "6:72",
+          "6:128",
+          "8:24",
+          "10:28",
+          "10:45",
+          "15:25",
+          "23:79",
+          "25:17",
+          "27:83",
+          "34:40",
+          "46:6",
+          "58:9",
+          "67:24"
+        ],
+        "text": "Tüm insanlığın ve toplulukların hesap vermek üzere Allah'ın huzurunda bir araya toplanması (إِلَيْهِ تُحْشَرُونَ)."
+      }
+    ],
+    "context_default": "Yerinden harekete geçirip tek bir merkeze sevk ederek bir araya toplamak (ح-ش-ر)."
+  },
+  "ح-و-ر": {
+    "buckwalter": "Hwr",
+    "slug": "havar_hur_ve_havariyyun_geri_donmek_karsilikli_diyalog_dupduru_arinmis_esler_ve_sadik_yoldaslar_hwr",
+    "concept_name": "Havâr, Hûr ve Havâriyyûn (Geri Dönmek, Karşılıklı Diyalog, Dupduru Arınmış Eşler ve Sadık Yol Arkadaşları)",
+    "keywords": [
+      "hûr",
+      "havâriyyûn",
+      "geri dönmek",
+      "karşılıklı diyalog",
+      "söyleşi",
+      "dupduru eşler",
+      "sadık yoldaşlar"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaHuwra",
+        "label": "Geri dönüş çekirdek çıpası: Şımarık kişinin Rabbine asla geri dönmeyeceğini sanması (أَن لَّن يَحُورَ — Bab I fiil: 84:14)"
+      },
+      {
+        "lemma": "yuHaAwiru",
+        "label": "Karşılıklı diyalog çıpası: İki arkadaşın sözü karşılıklı çevirip söyleşmesi ve tartışması (وَهُوَ يُحَاوِرُهُۥٓ — Bab III fiil: 18:34, 18:37)"
+      },
+      {
+        "lemma": "taHaAwur",
+        "label": "Söyleşi masdarı: Allah'ın iki kişi arasındaki karşılıklı konuşmayı eksiksiz işitmesi (تَحَاوُرَكُمَآ — Bab VI masdar: 58:1)"
+      },
+      {
+        "lemma": "Huwr",
+        "label": "Cinsiyetsiz ortak çoğul çıpası: Hem eril أَحْوَر hem dişil حَوْرَاء sıfatının ortak çoğulu — dupduru bakışlı, berrak ve arınmış eşler/yoldaşlar (حُور — sıfat çoğulu: 44:54, 52:20, 55:72, 56:22)"
+      },
+      {
+        "lemma": "HawaAriy~uwn",
+        "label": "Sadık yoldaşlık çıpası: Îsâ'nın lekesiz, arınmış, sadık yol arkadaşları ve Allah yolundaki yardımcıları (ٱلْحَوَارِيُّونَ — isim çoğulu: 3:52, 5:111, 5:112, 61:14)"
+      }
+    ],
+    "irab_default": "Geri dönmek, karşılıklı söz çevirip söyleşmek, dupduru arınmış eşler veya sadık yol arkadaşları (ح-و-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "84:14"
+        ],
+        "text": "Geri dönüş çıpası (يَحُورَ): insanın Rabbine asla geri dönmeyeceğini sanma yanılgısı."
+      },
+      {
+        "ayahs": [
+          "18:34",
+          "18:37",
+          "58:1"
+        ],
+        "text": "Karşılıklı söyleşi ve diyalog (يُحَاوِرُهُۥٓ / تَحَاوُرَكُمَآ): sözü karşılıklı çevirerek konuşmak."
+      },
+      {
+        "ayahs": [
+          "44:54",
+          "52:20",
+          "55:72",
+          "56:22"
+        ],
+        "text": "Dupduru bakışlı, arınmış eşler/yoldaşlar (حُور): cinsiyet ayırmayan ortak çoğul sıfatıyla esenlik yurdundaki berrak eşleşme."
+      },
+      {
+        "ayahs": [
+          "3:52",
+          "5:111",
+          "5:112",
+          "61:14"
+        ],
+        "text": "Îsâ'nın arınmış, sadık yol arkadaşları ve Allah yolundaki yardımcıları (ٱلْحَوَارِيُّونَ)."
+      }
+    ],
+    "context_default": "Geri dönmek, karşılıklı söyleşi, dupduru arınmış eşler veya sadık yol arkadaşları (ح-و-ر)."
+  },
+  "ث-و-ب": {
+    "buckwalter": "vwb",
+    "slug": "mesabe_donen_karsilik_ve_siyab_geri_donmek_eylemin_karsiligi_ve_giysi_vwb",
+    "concept_name": "Mesâbe, Dönen Karşılık (ثَوَاب) ve Siyâb (Geri Dönmek, Eylemin Sahibine Geri Dönen Karşılığı ve Sürekli Dönülüp Giyilen Giysi)",
+    "keywords": [
+      "geri dönen karşılık",
+      "mesâbe",
+      "dönüş merkezi",
+      "siyâb",
+      "giysi",
+      "etki-tepki yasası",
+      "duruşu arındırmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mavaAbap",
+        "label": "Mekânsal dönüş çıpası: Merkezî Evin insanlar için tekrar tekrar dönülüp buluşulan bir güven merkezi kılınması (مَثَابَةً لِّلنَّاسِ — yer ismi: 2:125)"
+      },
+      {
+        "lemma": ">ava`ba",
+        "ayahs": [
+          "3:153"
+        ],
+        "label": "Olumsuz karşılık fiil çıpası: İtaatsizliğin sonucu olarak keder üstüne kederle karşılık döndürülmesi (فَأَثَٰبَكُمْ غَمًّۢا بِغَمٍّ — Bab IV fiil: 3:153)"
+      },
+      {
+        "lemma": ">ava`ba",
+        "ayahs": [
+          "5:85",
+          "48:18"
+        ],
+        "label": "Güzel karşılık fiil çıpası: Sadık söz ve bağlılığın karşılığı olarak esenlik bahçeleri ve yakın zafer döndürülmesi (فَأَثَٰبَهُمُ / وَأَثَٰبَهُمْ — Bab IV fiil)"
+      },
+      {
+        "lemma": "vuw~iba",
+        "label": "Olumsuz karşılık Bab II çıpası: Hakikati örtenlerin yaptıklarının geri dönen karşılığını eksiksiz bulmaları (هَلْ ثُوِّبَ ٱلْكُفَّارُ — Bab II edilgen fiil: 83:36)"
+      },
+      {
+        "lemma": "mavuwbap",
+        "ayahs": [
+          "5:60"
+        ],
+        "label": "Kötü dönüş karşılığı çıpası: Geri dönen karşılık bakımından en kötü akıbet (بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً — isim: 5:60)"
+      },
+      {
+        "lemma": "mavuwbap",
+        "ayahs": [
+          "2:103"
+        ],
+        "label": "Güzel dönüş karşılığı çıpası: Güvenip sorumlu davrananlar için Allah katından dönen daha hayırlı karşılık (لَمَثُوبَةٌ مِّنْ عِندِ ٱللَّهِ خَيْرٌ — isim: 2:103)"
+      },
+      {
+        "lemma": "viyaAb",
+        "ayahs": [
+          "74:4"
+        ],
+        "label": "Arındırma buyruğu çıpası: Hem dış giysiyi hem de kişisel duruşu ve karakteri arındırmak (وَثِيَابَكَ فَطَهِّرْ — çoğul isim: 74:4)"
+      },
+      {
+        "lemma": "viyaAb",
+        "label": "Giysi çıpası: İnsanın sürekli dönüp büründüğü gündelik dış giysileri, gizlenmek için örtünülen elbise veya ahiret giysisi (ثِيَاب — çoğul isim)"
+      },
+      {
+        "lemma": "vawaAb",
+        "label": "Eylemin geri dönen karşılığı: Hem dünya hem sonraki hayatta kalıcı erdemli eylemlerin sahibine Allah katından geri dönen karşılığı (ثَوَاب — isim)"
+      }
+    ],
+    "irab_default": "Tekrar geri dönmek; yapılan eylemin sahibine geri dönen karşılığı, dönüş merkezi veya giysi (ث-و-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:125"
+        ],
+        "text": "Dönüş ve güven merkezi (مَثَابَة): insanların tekrar tekrar dönüp buluştukları Merkezî Ev."
+      },
+      {
+        "ayahs": [
+          "3:153",
+          "5:60",
+          "83:36"
+        ],
+        "text": "Olumsuz ve acı geri dönüş karşılığı: keder üstüne keder döndürmek, en kötü dönüş karşılığı ve hakikati örtenlerin yaptıklarının karşılığını bulması."
+      },
+      {
+        "ayahs": [
+          "2:103",
+          "3:145",
+          "3:148",
+          "3:195",
+          "4:134",
+          "5:85",
+          "18:44",
+          "18:46",
+          "19:76",
+          "28:80",
+          "48:18"
+        ],
+        "text": "Erdemli eylemin geri dönen en güzel karşılığı (حُسْنُ ٱلثَّوَابِ): dünya ve sonraki hayat karşılığı, esenlik bahçeleri ve yakın fetih."
+      },
+      {
+        "ayahs": [
+          "18:31"
+        ],
+        "text": "Çifte kullanım çıpası: yeşil ipek giysiler (ثِيَابًا) ile eylemin en güzel dönüş karşılığı (نِعْمَ ٱلثَّوَابُ) aynı ayette."
+      },
+      {
+        "ayahs": [
+          "11:5",
+          "22:19",
+          "24:58",
+          "24:60",
+          "71:7",
+          "74:4",
+          "76:21"
+        ],
+        "text": "Giysi (ثِيَاب): gündelik dış giysiler, örtünerek gizlenmeye çalışmak, ahiret giysisi ve giysiyi/duruşu arındırma buyruğu (74:4)."
+      }
+    ],
+    "context_default": "Geri dönmek; eylemin sahibine geri dönen karşılığı veya sürekli dönülüp giyilen giysi (ث-و-ب)."
   }
 }

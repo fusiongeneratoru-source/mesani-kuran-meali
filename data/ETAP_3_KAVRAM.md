@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
-> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 51 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
+> - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 51 / 131 Kök (Toplam Mühürlü: 272 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 55 / 131 Kök (Toplam Mühürlü: 276 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -60,10 +60,10 @@
 | 49 | ⭐ **3A** | Zihin ve Akletme | 406 | `ف-ق-ه` | `F-K-H` | **20** | 20 | 4:78 | Fıkh ve Tefekkuh (Yüzeysel Algıyı Aşıp Sözün, Ayetin ve Yaşam Düzeninin Özünü Derinden Kavramak) | ✅ **MÜHÜRLÜ** |
 | 50 | ⭐ **3A** | Zihin ve Akletme | 214 | `ص-د-ر` | `S-D-R` | **46** | 43 | 3:29 | Sadr ve Sudûr (Göğüs, Kalbin Barındığı İçsel Niyet-Duygu Haznesi ve Yerinden Çıkıp Ayrılmak) | ✅ **MÜHÜRLÜ** |
 | 51 | ⭐ **3A** | Zihin ve Akletme | 448 | `ل-ب-ب` | `L-B-B` | **16** | 16 | 2:179 | Lübb ve Ülü'l-Elbâb (Kabuğundan ve Şaibelerden Arınmış Saf Öz ve Derin Akıl Sahipleri) | ✅ **MÜHÜRLÜ** |
-| 52 | ⭐ **3A** | Zaman ve Ahiret | 205 | `س-و-ع` | `S-W-A` | **49** | 44 | 6:31 | Sâat (Rank 205 en sık açık kök! Yevm ile Furûk: kopuş/kırılma eşiği ve belirleyici an) | ⏳ *Bekliyor* |
-| 53 | ⭐ **3A** | Zaman ve Ahiret | 227 | `ح-ش-ر` | `H-S-R` | **43** | 43 | 2:203 | Haşr (Ba's ve Nüşûr ile Furûk: sürülüp tek merkezde toplanma, dünya sürgünü dahil) | ⏳ *Bekliyor* |
-| 54 | ⭐ **3A** | Zaman ve Ahiret | 495 | `ح-و-ر` | `H-W-R` | **13** | 12 | 3:52 | Hûr, Havârî ve Muhâvere (parlaklık/saflık, arı destekçiler ve karşılıklı diyalog tek kökte) | ⏳ *Bekliyor* |
-| 55 | ⭐ **3A** | Zaman ve Ahiret | 324 | `ث-و-ب` | `S-W-B` | **28** | 23 | 2:103 | Mesâbe, Siyâb ve Geri Dönen Karşılık (hem olumlu hem 83:36 olumsuz geri dönüş + giysi + güvenli merkez) | ⏳ *Bekliyor* |
+| 52 | ⭐ **3A** | Zaman ve Ahiret | 205 | `س-و-ع` | `S-W-A` | **49** | 44 | 6:31 | Saat (Zaman Kesiti, Kısa An ve Dünya Süresini Kesen Ani Büyük Kopuş Anı) | ✅ **MÜHÜRLÜ** |
+| 53 | ⭐ **3A** | Zaman ve Ahiret | 227 | `ح-ش-ر` | `H-S-R` | **43** | 43 | 2:203 | Haşr (Yerinden Harekete Geçirip Tek Merkeze Sevk Ederek Eksiksiz Bir Araya Toplamak) | ✅ **MÜHÜRLÜ** |
+| 54 | ⭐ **3A** | Zaman ve Ahiret | 495 | `ح-و-ر` | `H-W-R` | **13** | 12 | 3:52 | Havâr, Hûr ve Havâriyyûn (Geri Dönmek, Karşılıklı Diyalog, Dupduru Arınmış Eşler ve Sadık Yol Arkadaşları) | ✅ **MÜHÜRLÜ** |
+| 55 | ⭐ **3A** | Zaman ve Ahiret | 324 | `ث-و-ب` | `S-W-B` | **28** | 23 | 2:103 | Mesâbe, Dönen Karşılık (ثَوَاب) ve Siyâb (Geri Dönmek, Eylemin Sahibine Geri Dönen Karşılığı ve Sürekli Dönülüp Giyilen Giysi) | ✅ **MÜHÜRLÜ** |
 | 56 | 3B | Teoloji ve Otorite | 268 | `ك-ي-د` | `K-Y-D` | **35** | 29 | 3:120 | Keyd (ince plan ve karşı hamle; Mekr ile aynı ayet içi Furûk) | ⏳ *Bekliyor* |
 | 57 | 3B | Teoloji ve Otorite | 569 | `ق-د-س` | `K-D-S` | **10** | 10 | 2:30 | Kuddûs ve Mukaddes (her türlü kirden ve eksiklikten arı, berrak alan) | ⏳ *Bekliyor* |
 | 58 | 3B | Teoloji ve Otorite | 789 | `ب-ل-س` | `B-L-S` | **5** | 5 | 6:44 | İblâs (ümitsizliğe gömülüp şaşkınlıkla susakalmak; İblîs bağlantısı) | ⏳ *Bekliyor* |
