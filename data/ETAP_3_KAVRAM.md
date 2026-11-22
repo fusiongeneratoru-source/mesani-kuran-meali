@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 0 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 55 / 131 Kök (Toplam Mühürlü: 276 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 5 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 60 / 131 Kök (Toplam Mühürlü: 281 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -64,11 +64,11 @@
 | 53 | ⭐ **3A** | Zaman ve Ahiret | 227 | `ح-ش-ر` | `H-S-R` | **43** | 43 | 2:203 | Haşr (Yerinden Harekete Geçirip Tek Merkeze Sevk Ederek Eksiksiz Bir Araya Toplamak) | ✅ **MÜHÜRLÜ** |
 | 54 | ⭐ **3A** | Zaman ve Ahiret | 495 | `ح-و-ر` | `H-W-R` | **13** | 12 | 3:52 | Havâr, Hûr ve Havâriyyûn (Geri Dönmek, Karşılıklı Diyalog, Dupduru Arınmış Eşler ve Sadık Yol Arkadaşları) | ✅ **MÜHÜRLÜ** |
 | 55 | ⭐ **3A** | Zaman ve Ahiret | 324 | `ث-و-ب` | `S-W-B` | **28** | 23 | 2:103 | Mesâbe, Dönen Karşılık (ثَوَاب) ve Siyâb (Geri Dönmek, Eylemin Sahibine Geri Dönen Karşılığı ve Sürekli Dönülüp Giyilen Giysi) | ✅ **MÜHÜRLÜ** |
-| 56 | 3B | Teoloji ve Otorite | 268 | `ك-ي-د` | `K-Y-D` | **35** | 29 | 3:120 | Keyd (ince plan ve karşı hamle; Mekr ile aynı ayet içi Furûk) | ⏳ *Bekliyor* |
-| 57 | 3B | Teoloji ve Otorite | 569 | `ق-د-س` | `K-D-S` | **10** | 10 | 2:30 | Kuddûs ve Mukaddes (her türlü kirden ve eksiklikten arı, berrak alan) | ⏳ *Bekliyor* |
-| 58 | 3B | Teoloji ve Otorite | 789 | `ب-ل-س` | `B-L-S` | **5** | 5 | 6:44 | İblâs (ümitsizliğe gömülüp şaşkınlıkla susakalmak; İblîs bağlantısı) | ⏳ *Bekliyor* |
-| 59 | 3B | Teoloji ve Otorite | 798 | `و-س-و-س` | `W-S-W-S` | **5** | 5 | 7:20 | Vesvese ve Vesvâs (Nâs suresi ve 50:16: zihinde yinelenen sinsi iç ses/dürtü) | ⏳ *Bekliyor* |
-| 60 | 3B | Vahiy ve Kimlik | 228 | `ف-ص-ل` | `F-S-L` | **43** | 42 | 2:233 | Fasl ve Tafsîl (ayırıp netleştirme, metnin kendi kendini açıklaması ve ayrım günü) | ⏳ *Bekliyor* |
+| 56 | 3B | Teoloji ve Otorite | 268 | `ك-ي-د` | `K-Y-D` | **35** | 29 | 3:120 | Keyd (Yoğun Çabayla İnce Strateji, Karşı Hamle veya Tuzak Kurmak) | ✅ **MÜHÜRLÜ** |
+| 57 | 3B | Teoloji ve Otorite | 569 | `ق-د-س` | `K-D-S` | **10** | 10 | 2:30 | Kuds ve Kuddûs (Her Türlü Kusur ve Şaibeden Mutlak Arınmışlık ve Seçkin Berraklık) | ✅ **MÜHÜRLÜ** |
+| 58 | 3B | Teoloji ve Otorite | 789 | `ب-ل-س` | `B-L-S` | **5** | 5 | 6:44 | İblâs ve Müblisûn (Tüm Umudunu ve Bahanesini Yitirip Suskun Şaşkınlıkla Donakalmak) | ✅ **MÜHÜRLÜ** |
+| 59 | 3B | Teoloji ve Otorite | 798 | `و-س-و-س` | `W-S-W-S` | **5** | 5 | 7:20 | Vesvese ve Vesvâs (Kısık, Sinsi ve Tekrarlayıcı Fısıltıyla İç Telkin ve Kuruntu) | ✅ **MÜHÜRLÜ** |
+| 60 | 3B | Vahiy ve Kimlik | 228 | `ف-ص-ل` | `F-S-L` | **43** | 42 | 2:233 | Fasl ve Tafsîl (Net Sınırla Ayırmak, Eksiksiz Ayrıntılandırmak ve Kesin Ayrışma Günü) | ✅ **MÜHÜRLÜ** |
 | 61 | 3B | Vahiy ve Kimlik | 236 | `ط-و-ف` | `T-W-F` | **41** | 35 | 2:125 | Tavâf ve Tâife (etrafında dönme, gezinme ve belirli grup/kesim) | ⏳ *Bekliyor* |
 | 62 | 3B | Vahiy ve Kimlik | 298 | `ه-ج-ر` | `H-C-R` | **31** | 27 | 2:218 | Hicret ve Hecr (göç, 4:34 uzaklaşma ve 25:30 Kur'an'ı terk edilmiş bırakma) | ⏳ *Bekliyor* |
 | 63 | 3B | Vahiy ve Kimlik | 364 | `ع-م-ر` | `A-M-R` | **24** | 19 | 2:96 | Ömür, Umre ve İmâr (yaşam süresi, bayındırlık/inşa ve ziyaret tek kökte) | ⏳ *Bekliyor* |
