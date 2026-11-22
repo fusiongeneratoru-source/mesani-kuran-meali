@@ -4,8 +4,8 @@
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
-> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 10 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 65 / 131 Kök (Toplam Mühürlü: 286 Kök)
+> - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 15 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 70 / 131 Kök (Toplam Mühürlü: 291 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -74,11 +74,11 @@
 | 63 | 3B | Vahiy ve Kimlik | 364 | `ع-م-ر` | `A-M-R` | **24** | 19 | 2:96 | Ömür, İmâr ve Umre (Yaşam Süresi, Yeryüzünü Bayındır Kılmak ve Kadîm Evi Canlı Tutmak) | ✅ **MÜHÜRLÜ** |
 | 64 | 3B | Vahiy ve Kimlik | 663 | `ن-س-ك` | `N-S-K` | **7** | 6 | 2:128 | Nüsük ve Mensek (Bütüncül Adanmışlık, Her Topluluğun Adanmışlık Düzeni ve Paylaşılan Sunu) | ✅ **MÜHÜRLÜ** |
 | 65 | 3B | Vahiy ve Kimlik | 456 | `س-ط-ر` | `S-T-R` | **16** | 16 | 6:25 | Satr, Esâtîr ve Musaytır (Satır Satır Kaydetmek, Eski Yazılar/Söylenceler Yaftası ve Zorba Denetçi) | ✅ **MÜHÜRLÜ** |
-| 66 | 3B | Vahiy ve Kimlik | 634 | `ب-ر-ه-ن` | `B-R-H-N` | **8** | 8 | 2:111 | Burhân (Sultân ve Beyyine ile Furûk: tartışmayı bitiren somut ve rasyonel kanıt) | ⏳ *Bekliyor* |
-| 67 | 3B | Vahiy ve Kimlik | 222 | `ح-ف-ظ` | `H-F-Z` | **44** | 42 | 2:238 | Hıfz, Hafîz ve Mahfûz (korumak, gözetmek ve zayi etmemek) | ⏳ *Bekliyor* |
-| 68 | 3B | Vahiy ve Kimlik | 726 | `ل-و-ح` | `L-W-H` | **6** | 6 | 7:145 | Levh ve Elvâh (Mûsâ'nın levhaları, gemi tahtaları ve 85:22 korunan kayıt) | ⏳ *Bekliyor* |
-| 69 | 3B | Vahiy ve Kimlik | 598 | `س-ب-ت` | `S-B-T` | **9** | 7 | 2:65 | Sebt ve Sübât (kesinti, çalışma arası ve 78:9 dinlenme uykusu tek kökte) | ⏳ *Bekliyor* |
-| 70 | 3B | Vahiy ve Kimlik | 389 | `ه-و-د` | `H-W-D` | **21** | 21 | 2:62 | Hâdû ve Hûd (7:156 yönelip dönme eylemi ve tarihsel topluluk adlandırması) | ⏳ *Bekliyor* |
+| 66 | 3B | Vahiy ve Kimlik | 634 | `ب-ر-ه-ن` | `B-R-H-N` | **8** | 8 | 2:111 | Burhan (Kuruntuyu Dağıtan Işık Gibi Berrak ve Sınanabilir Kesin Kanıt) | ✅ **MÜHÜRLÜ** |
+| 67 | 3B | Vahiy ve Kimlik | 222 | `ح-ف-ظ` | `H-F-Z` | **44** | 42 | 2:238 | Hıfz ve Hafîz (Kayıp ve Bozulmaya Karşı Uyanık Gözetim, Emanet ve Koruma) | ✅ **MÜHÜRLÜ** |
+| 68 | 3B | Vahiy ve Kimlik | 726 | `ل-و-ح` | `L-W-H` | **6** | 6 | 7:145 | Levh ve Elvâh (Geniş Düz Yüzey, Yazılı Levha, Gemi Kalası ve Kavurarak Belirmek) | ✅ **MÜHÜRLÜ** |
+| 69 | 3B | Vahiy ve Kimlik | 598 | `س-ب-ت` | `S-B-T` | **9** | 7 | 2:65 | Sebt ve Subât (Aktif İşi Kesip Dinginlik ve Yenilenme Molasına Geçmek) | ✅ **MÜHÜRLÜ** |
+| 70 | 3B | Vahiy ve Kimlik | 389 | `ه-و-د` | `H-W-D` | **21** | 21 | 2:62 | Hevd ve Hûd (Dingin Pişmanlıkla Dönüş, Tarihî Yahudi Topluluğu ve Elçi Hûd) | ✅ **MÜHÜRLÜ** |
 | 71 | 3B | Mesânî ve Furûk Kilidi | 265 | `غ-ف-ل` | `G-F-L` | **35** | 35 | 2:74 | Gaflet (7 Mesânî ref! Zikir/İlim zıttı: işaretlere kasten kapanma ve aymazlık) | ⏳ *Bekliyor* |
 | 72 | 3B | Mesânî ve Furûk Kilidi | 388 | `ك-ت-م` | `K-T-M` | **21** | 20 | 2:33 | Ketm (6 Mesânî ref! 3:187 Beyân zıttı: açık bilgiyi saklayıp gizleme) | ⏳ *Bekliyor* |
 | 73 | 3B | Mesânî ve Furûk Kilidi | 272 | `خ-ف-ي` | `H-F-Y` | **34** | 31 | 2:271 | İhfâ (6 Mesânî ref! Zuhûr zıttı: örtüp görünmez kılma; Ketm ile Furûk) | ⏳ *Bekliyor* |
