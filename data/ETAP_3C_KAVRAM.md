@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 352 mühürlü kökten (`%83,08`) sonra, meal aşamasına geçmeden önce ceza-aile-ibadet hukuku düğümlerini, kısa sure kilitlerini ve en yüksek açık Mesânî referanslarını kapatan **48 kritik kök** (714 geçiş) mühürlenerek toplam sözlük **400 kilitli köke (`%84,51` kümülatif kapsam)** ulaştırılır.
-> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 40 / 48 Kök (Toplam Mühürlü: 392 Kök | Güncel Kapsam: %84,08)
+> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 48 / 48 Kök (Toplam Mühürlü: 400 Kök | Güncel Kapsam: %84,51)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -47,11 +47,11 @@
 | 38 | Zihin, Etik ve Mesânî | 550 | `ل-غ-و` | `L-G-W` | **11** | 11 | 2:225 | Lağv (Ağırlığı, Faydası ve Bağlayıcılığı Olmayan Boş Söz ve Anlamsız Yaygara) | ✅ **MÜHÜRLÜ** |
 | 39 | Zihin, Etik ve Mesânî | 457 | `ل-ه-و` | `L-H-W` | **16** | 15 | 6:32 | Lehv ve İlhâ (İnsanı Asıl Önemli ve Kalıcı Hedeften Koparıp Geçici Şeylerle Oyalamak) | ✅ **MÜHÜRLÜ** |
 | 40 | Zihin, Etik ve Mesânî | 409 | `ل-ع-ب` | `L-A-B` | **20** | 20 | 5:57 | La'ib (Kalıcı Doğrultusu Olmayan Amaçsız Oyun ve Varoluşsal Hakikat Karşıtlığı) | ✅ **MÜHÜRLÜ** |
-| 41 | Açık Mesânî Kilidi | 210 | `ع-ج-ل` | `A-C-L` | **47** | 44 | 2:51 | Acel ve İcl (5 açık Mesânî ref! Sabır/Ecel zıttı acelecilik + buzağı [عِجْل] iki ayrı asıl hakemliği) | ⏳ *Bekliyor* |
-| 42 | Açık Mesânî Kilidi | 224 | `ت-ر-ك` | `T-R-K` | **43** | 37 | 2:17 | Terk (5 açık Mesânî ref! Alıkoyma/Sahiplenme zıttı olarak geride bırakmak, miras/iz bırakmak) | ⏳ *Bekliyor* |
-| 43 | Açık Mesânî Kilidi | 352 | `ب-س-ط` | `B-S-T` | **25** | 23 | 2:245 | Bast (4 açık Mesânî ref! Kadr/Daraltma zıttı: rızkı, eli ve bilgiyi genişletip açıp yaymak) | ⏳ *Bekliyor* |
-| 44 | Açık Mesânî Kilidi | 437 | `م-ن-ع` | `M-N-A` | **17** | 17 | 2:114 | Men' (4 açık Mesânî ref! İ'tâ/Verme zıttı: hayrı ve hakkı engellemek, cimrilik ve koruma) | ⏳ *Bekliyor* |
-| 45 | Açık Mesânî Kilidi | 573 | `ن-ق-ص` | `N-K-S` | **10** | 10 | 2:155 | Naks (4 açık Mesânî ref! Ziyâde/Vefâ zıttı: ölçüde, emekte, ömürde ve hakta eksiltme) | ⏳ *Bekliyor* |
-| 46 | Açık Mesânî Kilidi | 348 | `ح-ض-ر` | `H-D-R` | **25** | 25 | 2:133 | Hudûr ve Muhtazar (4 açık Mesânî ref! Gıyab zıttı: ölüm, vasiyet, hesap ve tanıklıkta hazır bulunmak) | ⏳ *Bekliyor* |
-| 47 | Açık Mesânî Kilidi | 362 | `ذ-ل-ل` | `Z-L-L` | **24** | 23 | 2:61 | Züll ve Tezlîl (3 açık Mesânî ref! İzzet/Kibir zıttı: boyun eğdirilen doğa, anne-babaya tevazu kanadı ve alçalma) | ⏳ *Bekliyor* |
-| 48 | Açık Mesânî Kilidi | 382 | `غ-و-ي` | `G-W-Y` | **22** | 18 | 2:256 | Gayy ve İğvâ (3 açık Mesânî ref! Rüşd zıttı: saptırıcı cazibeyle doğru istikameti yitirip çukura düşme) | ⏳ *Bekliyor* |
+| 41 | Açık Mesânî Kilidi | 210 | `ع-ج-ل` | `A-C-L` | **47** | 44 | 2:51 | Acele, Âcile ve İcl (Vakti Gelmeden Acele Etmek, Peşin Geçici Dünya ve İkinci Asıl: Buzağı) | ✅ **MÜHÜRLÜ** |
+| 42 | Açık Mesânî Kilidi | 224 | `ت-ر-ك` | `T-R-K` | **43** | 37 | 2:17 | Terk (El Çekip Geride veya Kendi Hâlinde Bırakmak: Miras Hukuku, İbret İzi ve Başıboş Bırakılmama) | ✅ **MÜHÜRLÜ** |
+| 43 | Açık Mesânî Kilidi | 352 | `ب-س-ط` | `B-S-T` | **25** | 23 | 2:245 | Bast ve Bisât (Kapalı Olanı Enine-Boyuna Açıp Yaymak: Rızık Genişliği, El Uzatma ve Harcama Dengesi) | ✅ **MÜHÜRLÜ** |
+| 44 | Açık Mesânî Kilidi | 437 | `م-ن-ع` | `M-N-A` | **17** | 17 | 2:114 | Men ve Mennâ (Vermenin Zıttı: İyiliği ve Gündelik Yardımı Esirgeyip Engellemek ve Koruyucu Engel) | ✅ **MÜHÜRLÜ** |
+| 45 | Açık Mesânî Kilidi | 573 | `ن-ق-ص` | `N-K-S` | **10** | 10 | 2:155 | Naks (Artırmanın ve Eksiksiz Tam Ödemenin Zıttı: Ölçüden, Haktan, Süreden ve Bütünden Eksiltmek) | ✅ **MÜHÜRLÜ** |
+| 46 | Açık Mesânî Kilidi | 348 | `ح-ض-ر` | `H-D-R` | **25** | 25 | 2:133 | Hudûr ve İhdâr (Yokluğun Zıttı: Olay Yerinde Hazır Bulunmak, Ölümün Çatması ve Hesap Huzuruna Hazır Edilmek) | ✅ **MÜHÜRLÜ** |
+| 47 | Açık Mesânî Kilidi | 362 | `ذ-ل-ل` | `Z-L-L` | **24** | 23 | 2:61 | Züll, Zillet ve Tezlîl (Sertliğin Kırılıp Yumuşaması: Uysal Doğa, Şefkatli Alçakgönüllülük ve İzzet Zıttı Zillet) | ✅ **MÜHÜRLÜ** |
+| 48 | Açık Mesânî Kilidi | 382 | `غ-و-ي` | `G-W-Y` | **22** | 18 | 2:256 | Gayy ve İğvâ (Olgun Sağduyunun Zıttı: Tutku ve Aldanışla Karanlık Sapma, Azgınlık ve Hüsran) | ✅ **MÜHÜRLÜ** |

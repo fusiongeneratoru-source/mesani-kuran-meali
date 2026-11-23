@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3C (Son Mayın Temizliği, Hukuk-Ritüel-Kısa Sure Kilitleri ve Açık Mesânî Zırhı — 48 Kök)",
   "target_count": 48,
-  "locked_count": 40,
+  "locked_count": 48,
   "total_tokens_in_package": 714,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 84.08,
+  "current_coverage_pct": 84.51,
   "target_coverage_pct": 84.51,
   "etap_3c_roots": [
     {
@@ -779,8 +779,8 @@
       "frequency": 47,
       "unique_ayahs": 44,
       "rationale": "Acel ve İcl (5 açık Mesânî ref! Sabır/Ecel zıttı acelecilik + buzağı [عِجْل] iki ayrı asıl hakemliği)",
-      "concept_label": "Analiz Bekliyor ({sotaEojala, Eijol, Eajila, Eaj~ala)",
-      "is_locked": false,
+      "concept_label": "Acele, Âcile ve İcl (Vakti Gelmeden Acele Etmek, Peşin Geçici Dünya ve İkinci Asıl: Buzağı)",
+      "is_locked": true,
       "sample_ayah": "2:51",
       "top_lemmas": [
         "{sotaEojala",
@@ -799,8 +799,8 @@
       "frequency": 43,
       "unique_ayahs": 37,
       "rationale": "Terk (5 açık Mesânî ref! Alıkoyma/Sahiplenme zıttı olarak geride bırakmak, miras/iz bırakmak)",
-      "concept_label": "Analiz Bekliyor (taraka, taArik)",
-      "is_locked": false,
+      "concept_label": "Terk (El Çekip Geride veya Kendi Hâlinde Bırakmak: Miras Hukuku, İbret İzi ve Başıboş Bırakılmama)",
+      "is_locked": true,
       "sample_ayah": "2:17",
       "top_lemmas": [
         "taraka",
@@ -817,8 +817,8 @@
       "frequency": 25,
       "unique_ayahs": 23,
       "rationale": "Bast (4 açık Mesânî ref! Kadr/Daraltma zıttı: rızkı, eli ve bilgiyi genişletip açıp yaymak)",
-      "concept_label": "Analiz Bekliyor (basaTa, ba`siT, baSTap, mabosuwTataAn)",
-      "is_locked": false,
+      "concept_label": "Bast ve Bisât (Kapalı Olanı Enine-Boyuna Açıp Yaymak: Rızık Genişliği, El Uzatma ve Harcama Dengesi)",
+      "is_locked": true,
       "sample_ayah": "2:245",
       "top_lemmas": [
         "basaTa",
@@ -837,8 +837,8 @@
       "frequency": 17,
       "unique_ayahs": 17,
       "rationale": "Men' (4 açık Mesânî ref! İ'tâ/Verme zıttı: hayrı ve hakkı engellemek, cimrilik ve koruma)",
-      "concept_label": "Analiz Bekliyor (m~anaEa, m~an~aAE, mamonuwEap, m~aAniEat)",
-      "is_locked": false,
+      "concept_label": "Men ve Mennâ (Vermenin Zıttı: İyiliği ve Gündelik Yardımı Esirgeyip Engellemek ve Koruyucu Engel)",
+      "is_locked": true,
       "sample_ayah": "2:114",
       "top_lemmas": [
         "m~anaEa",
@@ -857,8 +857,8 @@
       "frequency": 10,
       "unique_ayahs": 10,
       "rationale": "Naks (4 açık Mesânî ref! Ziyâde/Vefâ zıttı: ölçüde, emekte, ömürde ve hakta eksiltme)",
-      "concept_label": "Analiz Bekliyor (yunqaSu, naqoS, manquwS)",
-      "is_locked": false,
+      "concept_label": "Naks (Artırmanın ve Eksiksiz Tam Ödemenin Zıttı: Ölçüden, Haktan, Süreden ve Bütünden Eksiltmek)",
+      "is_locked": true,
       "sample_ayah": "2:155",
       "top_lemmas": [
         "yunqaSu",
@@ -876,8 +876,8 @@
       "frequency": 25,
       "unique_ayahs": 25,
       "rationale": "Hudûr ve Muhtazar (4 açık Mesânî ref! Gıyab zıttı: ölüm, vasiyet, hesap ve tanıklıkta hazır bulunmak)",
-      "concept_label": "Analiz Bekliyor (m~uHoDar, HaDara, >aHoDarato, HaADirap)",
-      "is_locked": false,
+      "concept_label": "Hudûr ve İhdâr (Yokluğun Zıttı: Olay Yerinde Hazır Bulunmak, Ölümün Çatması ve Hesap Huzuruna Hazır Edilmek)",
+      "is_locked": true,
       "sample_ayah": "2:133",
       "top_lemmas": [
         "m~uHoDar",
@@ -896,8 +896,8 @@
       "frequency": 24,
       "unique_ayahs": 23,
       "rationale": "Züll ve Tezlîl (3 açık Mesânî ref! İzzet/Kibir zıttı: boyun eğdirilen doğa, anne-babaya tevazu kanadı ve alçalma)",
-      "concept_label": "Analiz Bekliyor (*il~ap, >a*il~ap, *~ul~, *aluwl)",
-      "is_locked": false,
+      "concept_label": "Züll, Zillet ve Tezlîl (Sertliğin Kırılıp Yumuşaması: Uysal Doğa, Şefkatli Alçakgönüllülük ve İzzet Zıttı Zillet)",
+      "is_locked": true,
       "sample_ayah": "2:61",
       "top_lemmas": [
         "*il~ap",
@@ -916,8 +916,8 @@
       "frequency": 22,
       "unique_ayahs": 18,
       "rationale": "Gayy ve İğvâ (3 açık Mesânî ref! Rüşd zıttı: saptırıcı cazibeyle doğru istikameti yitirip çukura düşme)",
-      "concept_label": "Analiz Bekliyor (>agowayo, ga`wiyn, gay~, gawaY`)",
-      "is_locked": false,
+      "concept_label": "Gayy ve İğvâ (Olgun Sağduyunun Zıttı: Tutku ve Aldanışla Karanlık Sapma, Azgınlık ve Hüsran)",
+      "is_locked": true,
       "sample_ayah": "2:256",
       "top_lemmas": [
         ">agowayo",
