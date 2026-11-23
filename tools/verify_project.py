@@ -100,7 +100,7 @@ def verify_all():
         r'\b(?:fabrika ayarı|kalibrasyon|yazılım(?!lı)|donanım|kırmızı dur sinyali|yön sinyali|doğa sinyali|kozmik görevli\w*)\b',
         re.IGNORECASE | re.UNICODE,
     )
-    root_ref_re = re.compile(r'[\u0621-\u064a]-[\u0621-\u064a]-[\u0621-\u064a]')
+    root_ref_re = re.compile(r'[\u0621-\u064a]-[\u0621-\u064a]-[\u0621-\u064a](?:-[\u0621-\u064a])?')
 
     for ar_root, entry in locked_roots.items():
         for k in REQUIRED_LOCKED_KEYS:

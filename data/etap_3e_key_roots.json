@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3E (Kısa Sure Son Tekil Kilitleri, Açık Mesânî/Furûk Uçları ve 500. Kök Tam Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 10,
+  "locked_count": 20,
   "total_tokens_in_package": 789,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 86.97,
+  "current_coverage_pct": 87.09,
   "target_coverage_pct": 88.5,
   "etap_3e_roots": [
     {
@@ -195,8 +195,8 @@
       "frequency": 3,
       "unique_ayahs": 3,
       "rationale": "Hümeze, Hemmâz ve Hemezât (104:1 Hümeze Sûresi, 68:11, 23:97 arkadan çekiştirip kıran ve dürtüp kışkırtmalar)",
-      "concept_label": "Analiz Bekliyor (hamaza`t, ham~aAz, humazap)",
-      "is_locked": false,
+      "concept_label": "Hemz, Hemmâz ve Hümeze (Dürtüp Kışkırtmak ve Çekiştirip Onur Kırmak)",
+      "is_locked": true,
       "sample_ayah": "23:97",
       "top_lemmas": [
         "hamaza`t",
@@ -214,8 +214,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Lümeze (104:1 Hümeze Sûresi, 9:58, 9:79, 49:11 kaş-göz ve sözle insanları ayıplayıp alaya almak)",
-      "concept_label": "Analiz Bekliyor (yalomizu, l~umazap)",
-      "is_locked": false,
+      "concept_label": "Lemz ve Lümeze (İma ve Sözle Kusur Arayıp Ayıplamak)",
+      "is_locked": true,
       "sample_ayah": "9:58",
       "top_lemmas": [
         "yalomizu",
@@ -232,8 +232,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Kâriah (101:1-3 Kâria Sûresi kilidi ve 13:31 şiddetle çarpıp sarsan felaket/uyanış)",
-      "concept_label": "Analiz Bekliyor (qaAriEap)",
-      "is_locked": false,
+      "concept_label": "Kâriah (Şiddetle Çarpıp Sarsan Büyük Darbe ve Uyanış)",
+      "is_locked": true,
       "sample_ayah": "13:31",
       "top_lemmas": [
         "qaAriEap"
@@ -249,8 +249,8 @@
       "frequency": 6,
       "unique_ayahs": 4,
       "rationale": "Zilzâl ve Zelzele (99:1 Zilzâl Sûresi kilidi, 2:214, 22:1, 33:11 yerin ve gönüllerin şiddetle sarsılması)",
-      "concept_label": "Analiz Bekliyor (zulozilu, zilozaAl, zalozalap)",
-      "is_locked": false,
+      "concept_label": "Zilzâl ve Zelzele (Yerin ve Gönüllerin Art Arda Şiddetle Sarsılması)",
+      "is_locked": true,
       "sample_ayah": "2:214",
       "top_lemmas": [
         "zulozilu",
@@ -268,8 +268,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Suhuf ve Sıhâf (98:2 Beyyine Sûresi, 87:18-19, 80:13, 74:52, 53:36 arınmış yazılı vahyî sayfalar)",
-      "concept_label": "Analiz Bekliyor (SuHuf, SiHaAf)",
-      "is_locked": false,
+      "concept_label": "Suhuf ve Sıhâf (Açık Yazılı Kayıt Sayfaları ve Geniş Sunum Kapları)",
+      "is_locked": true,
       "sample_ayah": "20:133",
       "top_lemmas": [
         "SuHuf",
@@ -286,8 +286,8 @@
       "frequency": 3,
       "unique_ayahs": 3,
       "rationale": "Hızlân ve Mahzûl (5 açık Mesânî ref! ن-ص-ر [yardım] kökünün doğrudan zıddı: 3:160, 17:22, 25:29 yardımsız/yüzüstü bırakmak)",
-      "concept_label": "Analiz Bekliyor (yaxo*ulo, m~axo*uwl, xa*uwl)",
-      "is_locked": false,
+      "concept_label": "Hızlân ve Mahzûl (Yardımı Kesip Yüzüstü Bırakmak)",
+      "is_locked": true,
       "sample_ayah": "3:160",
       "top_lemmas": [
         "yaxo*ulo",
@@ -305,8 +305,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Feşel (4 Mesânî + 2 Furûk ref! ث-ب-ت ve ص-ب-ر zıddı: 3:122, 3:152, 8:43, 8:46 gevşeyip yılgınlığa ve moral çöküntüsüne düşmek)",
-      "concept_label": "Analiz Bekliyor (fa$ilo)",
-      "is_locked": false,
+      "concept_label": "Feşel (Kritik Anda İradenin Gevşeyip Direncin Çözülmesi)",
+      "is_locked": true,
       "sample_ayah": "3:122",
       "top_lemmas": [
         "fa$ilo"
@@ -322,8 +322,8 @@
       "frequency": 7,
       "unique_ayahs": 6,
       "rationale": "Kasvet ve Kâsiye (4 açık Mesânî ref! ل-ي-ن ve خ-ش-ع zıddı: 2:74, 5:13, 39:22, 57:16 kalplerin taşlaşıp katılaşması)",
-      "concept_label": "Analiz Bekliyor (qasato, qa`siyap, qasowap)",
-      "is_locked": false,
+      "concept_label": "Kasvet ve Kâsiye (Kalbin Taşlaşıp Hakikate Karşı Katılaşması)",
+      "is_locked": true,
       "sample_ayah": "2:74",
       "top_lemmas": [
         "qasato",
@@ -341,8 +341,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Kasd ve Muktesıd (4 açık Mesânî ref! 16:9, 31:19, 35:32 aşırılık ve gevşeklik arasındaki dengeli orta yürüyüş)",
-      "concept_label": "Analiz Bekliyor (m~uqotaSid, m~uqotaSidap, qaASid, qaSod)",
-      "is_locked": false,
+      "concept_label": "Kasd ve Muktesıd (Sapmayan Doğru Yön ve Ölçülü Orta Denge)",
+      "is_locked": true,
       "sample_ayah": "5:66",
       "top_lemmas": [
         "m~uqotaSid",
@@ -361,8 +361,8 @@
       "frequency": 13,
       "unique_ayahs": 11,
       "rationale": "Ye's ve Yeûs (4 Mesânî + 1 Furûk ref! ر-ج-و zıddı ve ق-ن-ط eşleniği: 12:87, 41:49, 60:13 umudunu tamamen kesmek)",
-      "concept_label": "Analiz Bekliyor (ya}isa, ya_#uws, {sotayo_#asa)",
-      "is_locked": false,
+      "concept_label": "Ye's ve Yeûs (Beklentiyi ve Umut Bağını Tamamen Kesmek)",
+      "is_locked": true,
       "sample_ayah": "5:3",
       "top_lemmas": [
         "ya}isa",
@@ -530,7 +530,7 @@
       "buckwalter": "bgD",
       "frequency": 5,
       "unique_ayahs": 5,
-      "rationale": "Bağdâ' (3 açık Mesânî ref! ح-ب-ب ve و-د-د zıddı: 3:118, 5:14, 5:64, 5:91, 60:4 taşان nefret ve düşmanlık)",
+      "rationale": "Bağdâ' (3 açık Mesânî ref! ح-ب-ب ve و-د-د zıddı: 3:118, 5:14, 5:64, 5:91, 60:4 taşan nefret ve düşmanlık)",
       "concept_label": "Analiz Bekliyor (bagoDaA^')",
       "is_locked": false,
       "sample_ayah": "3:118",

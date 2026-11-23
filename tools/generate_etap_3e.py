@@ -56,7 +56,7 @@ ETAP_3E_ROOTS_SPEC = [
     ('Eln', 'Açık Mesânî Eşleniği', 'İ\'lân ve Alâniye (3 açık Mesânî ref! س-ر-ر [gizlemek] kökünün doğrudan zıddı: 2:77, 13:22, 14:31, 35:29 açığa vurmak)'),
     ('jhr', 'Açık Mesânî Eşleniği', 'Cehr ve Cehreh (3 açık Mesânî ref! س-ر-ر ve خ-ف-ت zıddı: 6:3, 7:205, 17:110, 20:7, 67:13 sözü açıktan ve yüksek sesle söylemek)'),
     ('DyE', 'Açık Mesânî Eşleniği', 'İdâa (3 açık Mesânî ref! ح-ف-ظ zıddı: 3:195, 12:90, 18:30 yapılan güzel emeği zayi etmemek ve 19:59 salâtı zayi etmek)'),
-    ('bgD', 'Açık Mesânî Eşleniği', 'Bağdâ\' (3 açık Mesânî ref! ح-ب-ب ve و-د-د zıddı: 3:118, 5:14, 5:64, 5:91, 60:4 taşان nefret ve düşmanlık)'),
+    ('bgD', 'Açık Mesânî Eşleniği', 'Bağdâ\' (3 açık Mesânî ref! ح-ب-ب ve و-د-د zıddı: 3:118, 5:14, 5:64, 5:91, 60:4 taşan nefret ve düşmanlık)'),
     ('Dyq', 'Açık Mesânî Eşleniği', 'Dîk ve Dayyik (2 Mesânî + 2 Furûk ref! و-س-ع ve ش-ر-ح zıddı: 6:125, 9:25, 9:118, 15:97 göğsün ve yeryüzünün daralması)'),
 
     # Kategori 4: Açık Mesânî/Furûk Eşlenikleri III ve Doktrinel Mayınlı Kökler (10 kök: 3E-7 & 3E-8)
