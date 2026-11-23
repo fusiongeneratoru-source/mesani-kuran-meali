@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3F (Kısa Sureler %100 Tam Kilit Genişletmesi [15 Sure], 3 Açık Mesânî Tepe Uçları ve %90+ Kök Kapsamı Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 0,
+  "locked_count": 10,
   "total_tokens_in_package": 870,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 88.5,
+  "current_coverage_pct": 88.71,
   "target_coverage_pct": 90.24,
   "etap_3f_roots": [
     {
@@ -17,8 +17,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Şettâ ve Eştât (Sure 99 Zilzâl son kilidi + 2 açık Mesânî ref! ج-م-ع zıddı: 99:6 bölük bölük, 59:14 dağınık kalpler)",
-      "concept_label": "Analiz Bekliyor ($at~aY`, >a$otaAt)",
-      "is_locked": false,
+      "concept_label": "Şetât ve Şettâ (Ayrı Parçalara, Öbeklere ve Türlere Dağılıp Ayrışmak)",
+      "is_locked": true,
       "sample_ayah": "20:53",
       "top_lemmas": [
         "$at~aY`",
@@ -35,8 +35,8 @@
       "frequency": 8,
       "unique_ayahs": 8,
       "rationale": "Kabr, Makâbir ve Ekbera (Sure 102 Tekâsür son kilidi + Sure 100, 82: mezarlar ve 80:21 insanı kabre koyup örtmek)",
-      "concept_label": "Analiz Bekliyor (qabor, >aqobara, maqaAbir)",
-      "is_locked": false,
+      "concept_label": "Kabr ve İkbâr (Toprak Altı Gömüt / Mezar ve Gömülme Onuru)",
+      "is_locked": true,
       "sample_ayah": "9:84",
       "top_lemmas": [
         "qabor",
@@ -54,8 +54,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Asr, Mu'sırât ve Ya'sıru (Sure 103 Asr son kilidi + 12:49, 78:14 sıkıp özünü çıkaran zaman/çağ ve yağmur yüklü bulutlar)",
-      "concept_label": "Analiz Bekliyor (yaEoSiru, <iEoSaAr, muEoSira`t, EaSor)",
-      "is_locked": false,
+      "concept_label": "Asr ve İ'sâr (Akıp Giden Çağ ve Baskıyla Sıkıp Özünü/Suyunu Çıkarmak)",
+      "is_locked": true,
       "sample_ayah": "2:266",
       "top_lemmas": [
         "yaEoSiru",
@@ -74,8 +74,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Fevc ve Efvâc (Sure 110 Nasr son kilidi + 27:83, 67:8, 78:18 dalga dalga akın eden kalabalık insan grupları)",
-      "concept_label": "Analiz Bekliyor (fawoj)",
-      "is_locked": false,
+      "concept_label": "Fevc ve Efvâc (Dalga Dalga Hareket Eden Kalabalık Bölük ve Kafileler)",
+      "is_locked": true,
       "sample_ayah": "27:83",
       "top_lemmas": [
         "fawoj"
@@ -91,8 +91,8 @@
       "frequency": 8,
       "unique_ayahs": 8,
       "rationale": "Rağbet ve Râğib (Sure 94 İnşirâh kilidi + 2 açık Mesânî ref! ر-ه-ب zıddı: 94:8 yalnızca Rabbine yönelip arzulamak)",
-      "concept_label": "Analiz Bekliyor (yarogabu, raAgib, ragab)",
-      "is_locked": false,
+      "concept_label": "Rağbet (Gönülden Arzu ile Yönelmek veya Yüz Çevirip Soğumak)",
+      "is_locked": true,
       "sample_ayah": "2:130",
       "top_lemmas": [
         "yarogabu",
@@ -110,8 +110,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Ferâğ ve Efrağa (Sure 94 İnşirâh son kilidi + 2:250, 18:96, 55:31 bir işi bitirip boşalmak ve üzerlerine sabır/bakır boşaltmak)",
-      "concept_label": "Analiz Bekliyor (>aforigo, farago, fa`rig)",
-      "is_locked": false,
+      "concept_label": "Ferâğ ve İfrâğ (Boşalıp Alan Açmak ve Kabından Bolca Boşaltıp Dökmek)",
+      "is_locked": true,
       "sample_ayah": "2:250",
       "top_lemmas": [
         ">aforigo",
@@ -129,8 +129,8 @@
       "frequency": 21,
       "unique_ayahs": 17,
       "rationale": "Şehr ve Eşhur (Sure 97 Kadir kilidi + 21 geçiş: 2:185, 9:36, 97:3 gökyüzünde belirginleşen kamerî ay birimi)",
-      "concept_label": "Analiz Bekliyor ($ahor)",
-      "is_locked": false,
+      "concept_label": "Şehr (Hilal Döngüsüne Dayalı Açık ve Ölçülebilir Kamerî Ay Birimi)",
+      "is_locked": true,
       "sample_ayah": "2:185",
       "top_lemmas": [
         "$ahor"
@@ -146,8 +146,8 @@
       "frequency": 19,
       "unique_ayahs": 18,
       "rationale": "Tulû', Matla' ve İttılâ' (Sure 97 Kadir son kilidi + Sure 104 Hümeze, 19 geçiş: doğup yükselmek, gönüllere işlemek, muttali olmak)",
-      "concept_label": "Analiz Bekliyor (T~alaEa, TaloE, TalaEat, TuluwE)",
-      "is_locked": false,
+      "concept_label": "Tulû, Tal' ve İttılâ (Ufuktan Doğmak, Tomurcuk Belirmesi ve Üstten Bakıp Vakıf Olmak)",
+      "is_locked": true,
       "sample_ayah": "3:179",
       "top_lemmas": [
         "T~alaEa",
@@ -166,8 +166,8 @@
       "frequency": 28,
       "unique_ayahs": 28,
       "rationale": "Ebeden (Sure 98 Beyyine kilidi + 28 geçiş: uzun ve kesintisiz süreklilik — \"ebedîlik\" doktrinel ayrımı)",
-      "concept_label": "Analiz Bekliyor (>abadFA)",
-      "is_locked": false,
+      "concept_label": "Ebed / Ebeden (Bağlamı Boyunca Kesintisiz Uzayan Süre ve Asla Kaydı)",
+      "is_locked": true,
       "sample_ayah": "2:95",
       "top_lemmas": [
         ">abadFA"
@@ -183,8 +183,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Fekk ve Münfekkîn (Sure 98 Beyyine son kilidi + Sure 90:13: 98:1 ayrılıp kopmamak, 90:13 esir boynunu bağından çözüp kurtarmak)",
-      "concept_label": "Analiz Bekliyor (fak~, munfak~iyn)",
-      "is_locked": false,
+      "concept_label": "Fekk ve İnfi̇kâk (Boyunduruğu Açıp Çözmek ve Yapışık Hâlden Ayrılmak)",
+      "is_locked": true,
       "sample_ayah": "90:13",
       "top_lemmas": [
         "fak~",

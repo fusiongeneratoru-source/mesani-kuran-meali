@@ -3,20 +3,20 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 500 mühürlü kökten (`%88,50`) sonra, 8 kısa sureyi daha `%100` kilitleyen kökler (Sure 94, 96, 97, 98, 99, 102, 103, 110 → **15 tam kilitli sure**), 3 açık Mesânî referanslı tüm tepe uçlar (6/6), kritik doktrinel/çok-asıllı mayınlar ve kalan en yüksek frekanslı çekirdek kökler (**50 kök** / 870 geçiş) mühürlenerek toplam sözlük **550 kilitli köke (`%90,24` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%93,70`'i)** ulaştırılır.
-> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 0 / 50 Kök (Toplam Mühürlü: 500 Kök | Güncel Kapsam: %88,50)
+> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 510 Kök | Güncel Kapsam: %88,71)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
-| 1 | Kısa Sure %100 Kilidi | 827 | `ش-ت-ت` | `S-T-T` | **5** | 5 | 20:53 | Şettâ ve Eştât (Sure 99 Zilzâl son kilidi + 2 açık Mesânî ref! ج-م-ع zıddı: 99:6 bölük bölük, 59:14 dağınık kalpler) | ⏳ *Bekliyor* |
-| 2 | Kısa Sure %100 Kilidi | 655 | `ق-ب-ر` | `K-B-R` | **8** | 8 | 9:84 | Kabr, Makâbir ve Ekbera (Sure 102 Tekâsür son kilidi + Sure 100, 82: mezarlar ve 80:21 insanı kabre koyup örtmek) | ⏳ *Bekliyor* |
-| 3 | Kısa Sure %100 Kilidi | 770 | `ع-ص-ر` | `A-S-R` | **5** | 5 | 2:266 | Asr, Mu'sırât ve Ya'sıru (Sure 103 Asr son kilidi + 12:49, 78:14 sıkıp özünü çıkaran zaman/çağ ve yağmur yüklü bulutlar) | ⏳ *Bekliyor* |
-| 4 | Kısa Sure %100 Kilidi | 833 | `ف-و-ج` | `F-W-C` | **5** | 5 | 27:83 | Fevc ve Efvâc (Sure 110 Nasr son kilidi + 27:83, 67:8, 78:18 dalga dalga akın eden kalabalık insan grupları) | ⏳ *Bekliyor* |
-| 5 | Kısa Sure %100 Kilidi | 635 | `ر-غ-ب` | `R-G-B` | **8** | 8 | 2:130 | Rağbet ve Râğib (Sure 94 İnşirâh kilidi + 2 açık Mesânî ref! ر-ه-ب zıddı: 94:8 yalnızca Rabbine yönelip arzulamak) | ⏳ *Bekliyor* |
-| 6 | Kısa Sure %100 Kilidi | 705 | `ف-ر-غ` | `F-R-G` | **6** | 6 | 2:250 | Ferâğ ve Efrağa (Sure 94 İnşirâh son kilidi + 2:250, 18:96, 55:31 bir işi bitirip boşalmak ve üzerlerine sabır/bakır boşaltmak) | ⏳ *Bekliyor* |
-| 7 | Kısa Sure %100 Kilidi | 391 | `ش-ه-ر` | `S-H-R` | **21** | 17 | 2:185 | Şehr ve Eşhur (Sure 97 Kadir kilidi + 21 geçiş: 2:185, 9:36, 97:3 gökyüzünde belirginleşen kamerî ay birimi) | ⏳ *Bekliyor* |
-| 8 | Kısa Sure %100 Kilidi | 417 | `ط-ل-ع` | `T-L-A` | **19** | 18 | 3:179 | Tulû', Matla' ve İttılâ' (Sure 97 Kadir son kilidi + Sure 104 Hümeze, 19 geçiş: doğup yükselmek, gönüllere işlemek, muttali olmak) | ⏳ *Bekliyor* |
-| 9 | Kısa Sure %100 Kilidi | 323 | `أ-ب-د` | `E-B-D` | **28** | 28 | 2:95 | Ebeden (Sure 98 Beyyine kilidi + 28 geçiş: uzun ve kesintisiz süreklilik — "ebedîlik" doktrinel ayrımı) | ⏳ *Bekliyor* |
-| 10 | Kısa Sure %100 Kilidi | 1247 | `ف-ك-ك` | `F-K-K` | **2** | 2 | 90:13 | Fekk ve Münfekkîn (Sure 98 Beyyine son kilidi + Sure 90:13: 98:1 ayrılıp kopmamak, 90:13 esir boynunu bağından çözüp kurtarmak) | ⏳ *Bekliyor* |
+| 1 | Kısa Sure %100 Kilidi | 827 | `ش-ت-ت` | `S-T-T` | **5** | 5 | 20:53 | Şetât ve Şettâ (Ayrı Parçalara, Öbeklere ve Türlere Dağılıp Ayrışmak) | ✅ **MÜHÜRLÜ** |
+| 2 | Kısa Sure %100 Kilidi | 655 | `ق-ب-ر` | `K-B-R` | **8** | 8 | 9:84 | Kabr ve İkbâr (Toprak Altı Gömüt / Mezar ve Gömülme Onuru) | ✅ **MÜHÜRLÜ** |
+| 3 | Kısa Sure %100 Kilidi | 770 | `ع-ص-ر` | `A-S-R` | **5** | 5 | 2:266 | Asr ve İ'sâr (Akıp Giden Çağ ve Baskıyla Sıkıp Özünü/Suyunu Çıkarmak) | ✅ **MÜHÜRLÜ** |
+| 4 | Kısa Sure %100 Kilidi | 833 | `ف-و-ج` | `F-W-C` | **5** | 5 | 27:83 | Fevc ve Efvâc (Dalga Dalga Hareket Eden Kalabalık Bölük ve Kafileler) | ✅ **MÜHÜRLÜ** |
+| 5 | Kısa Sure %100 Kilidi | 635 | `ر-غ-ب` | `R-G-B` | **8** | 8 | 2:130 | Rağbet (Gönülden Arzu ile Yönelmek veya Yüz Çevirip Soğumak) | ✅ **MÜHÜRLÜ** |
+| 6 | Kısa Sure %100 Kilidi | 705 | `ف-ر-غ` | `F-R-G` | **6** | 6 | 2:250 | Ferâğ ve İfrâğ (Boşalıp Alan Açmak ve Kabından Bolca Boşaltıp Dökmek) | ✅ **MÜHÜRLÜ** |
+| 7 | Kısa Sure %100 Kilidi | 391 | `ش-ه-ر` | `S-H-R` | **21** | 17 | 2:185 | Şehr (Hilal Döngüsüne Dayalı Açık ve Ölçülebilir Kamerî Ay Birimi) | ✅ **MÜHÜRLÜ** |
+| 8 | Kısa Sure %100 Kilidi | 417 | `ط-ل-ع` | `T-L-A` | **19** | 18 | 3:179 | Tulû, Tal' ve İttılâ (Ufuktan Doğmak, Tomurcuk Belirmesi ve Üstten Bakıp Vakıf Olmak) | ✅ **MÜHÜRLÜ** |
+| 9 | Kısa Sure %100 Kilidi | 323 | `أ-ب-د` | `E-B-D` | **28** | 28 | 2:95 | Ebed / Ebeden (Bağlamı Boyunca Kesintisiz Uzayan Süre ve Asla Kaydı) | ✅ **MÜHÜRLÜ** |
+| 10 | Kısa Sure %100 Kilidi | 1247 | `ف-ك-ك` | `F-K-K` | **2** | 2 | 90:13 | Fekk ve İnfi̇kâk (Boyunduruğu Açıp Çözmek ve Yapışık Hâlden Ayrılmak) | ✅ **MÜHÜRLÜ** |
 | 11 | Kısa Sure & Tepe Mesânî | 890 | `ن-ص-ي` | `N-S-Y` | **4** | 4 | 11:56 | Nâsiye (Sure 96 Alak kilidi + 11:56, 55:41: alın perçemi / karar merkezi — 96:15-16 yalancı ve hatalı alın) | ⏳ *Bekliyor* |
 | 12 | Kısa Sure & Tepe Mesânî | 1624 | `س-ف-ع` | `S-F-A` | **1** | 1 | 96:15 | Sef' (Sure 96 Alak kilidi: 96:15 alnından sertçe tutup sürükleyip yakalamak) | ⏳ *Bekliyor* |
 | 13 | Kısa Sure & Tepe Mesânî | 1625 | `ز-ب-ن` | `Z-B-N` | **1** | 1 | 96:18 | Zebâniye (Sure 96 Alak son kilidi: 96:18 itip geri püskürten görevli güçler — ünlü geleneksel mitoloji mayını) | ⏳ *Bekliyor* |

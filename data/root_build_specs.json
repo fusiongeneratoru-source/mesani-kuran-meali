@@ -35951,5 +35951,702 @@
       }
     ],
     "context_default": "Çepeçevre kuşatmak ve bilgiyle tam kavramak (ح-و-ط)."
+  },
+  "ش-ت-ت": {
+    "buckwalter": "$tt",
+    "slug": "setat_ve_setta_ayri_parcalara_ve_turlere_dagilip_ayrismak_stt",
+    "concept_name": "Şetât ve Şettâ (Ayrı Parçalara, Öbeklere ve Türlere Dağılıp Ayrışmak)",
+    "keywords": [
+      "setat",
+      "setta",
+      "estat",
+      "daginik",
+      "ayri",
+      "cesit cesit"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$at~aY`",
+        "pos": "ADJ",
+        "label": "Birbirinden ayrı ve çeşit çeşit bitki türleri (شَتَّىٰ — 20:53, çoğul sıfat)"
+      },
+      {
+        "lemma": "$at~aY`",
+        "pos": "N",
+        "label": "Tek eksende toplanmayıp ayrı yönlere dağılmış ve parçalı (شَتَّىٰ / لَشَتَّىٰ — 59:14, 92:4, yüklem/isim)"
+      },
+      {
+        "lemma": ">a$otaAt",
+        "pos": "N",
+        "label": "Topluca değil ayrı ayrı, birbirinden ayrışmış öbekler hâlinde (أَشْتَاتًا — 24:61, 99:6, çoğul hâl tümleci)"
+      }
+    ],
+    "irab_default": "Tek eksende toplanmayıp ayrı parçalara, öbeklere veya türlere dağılıp ayrışmak (ش-ت-ت kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "20:53"
+        ],
+        "text": "Doğal çeşitlilik: gökten inen suyla yeryüzünden çeşit çeşit ayrı bitki türlerinin çıkarılması."
+      },
+      {
+        "ayahs": [
+          "24:61",
+          "59:14"
+        ],
+        "text": "Sosyal düzen ve iç parçalanmışlık: aile/dost evlerinde topluca veya ayrı ayrı yeme serbestliği (24:61) ve dıştan bütün sanılıp gönülleri paramparça olanların çelişkisi (59:14)."
+      },
+      {
+        "ayahs": [
+          "92:4",
+          "99:6"
+        ],
+        "text": "Ahlaki çaba ve hesap ayrışması: insan çabalarının ayrı hedeflere bölünmesi (92:4) ve hesap günü insanların ayrı öbekler hâlinde çıkışı (99:6)."
+      }
+    ],
+    "context_default": "Ayrı parçalara, öbeklere veya türlere dağılıp ayrışmak (ش-ت-ت)."
+  },
+  "ق-ب-ر": {
+    "buckwalter": "qbr",
+    "slug": "kabr_ve_ikbar_toprak_alti_gomut_ve_gomulme_onuru_qbr",
+    "concept_name": "Kabr ve İkbâr (Toprak Altı Gömüt / Mezar ve Gömülme Onuru)",
+    "keywords": [
+      "kabr",
+      "kabir",
+      "kubur",
+      "mekabir",
+      "ikbar",
+      "mezar",
+      "gomut"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aqobara",
+        "pos": "V",
+        "label": "Ölüm sonrası insan için toprağa gömülme düzeni ve gömüt yeri var etmek (فَأَقْبَرَهُۥ — 80:21, Form IV fiil)"
+      },
+      {
+        "lemma": "maqaAbir",
+        "pos": "N",
+        "label": "İnsanların çoğaltma yarışı sonunda uğradıkları mezarlıklar (ٱلْمَقَابِرَ — 102:2, ism-i mekân çoğulu)"
+      },
+      {
+        "lemma": "qabor",
+        "ayahs": [
+          "9:84"
+        ],
+        "label": "Hakikati örten iki yüzlünün mezarı başında durmama sınırı (قَبْرِهِۦٓ — tekil isim)"
+      },
+      {
+        "lemma": "qabor",
+        "label": "İçindekilerin yeniden kaldırılıp altüst edileceği toprak altı gömütler, mezarlar (ٱلْقُبُورِ / ٱلْقُبُورُ — çoğul isim)"
+      }
+    ],
+    "irab_default": "Toprak altı gömüt, mezar ve insanın gömülme onuru (ق-ب-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "80:21",
+          "102:2"
+        ],
+        "text": "İnsan onuru ve dünya hayatının geçiciliği: Allah'ın insanı öldürüp gömüt sahibi kılması (80:21) ve çoğaltma hırsının insanı mezarlıklara varıncaya dek oyalaması (102:2)."
+      },
+      {
+        "ayahs": [
+          "22:7",
+          "82:4",
+          "100:9"
+        ],
+        "text": "Diriliş ve mezarların altüst olması: Allah'ın mezarlardakileri diriltip kaldırması (22:7) ve hesap anında gömütlerin altüst edilip dışarı dökülmesi (82:4, 100:9)."
+      },
+      {
+        "ayahs": [
+          "9:84",
+          "35:22",
+          "60:13"
+        ],
+        "text": "Sınır ve benzetme: iki yüzlülerin mezarı başında durulmaması (9:84), gönlü kapalı olanların mezardaki sessiz ölülere benzetilmesi (35:22) ve ümitsizlik örneği (60:13)."
+      }
+    ],
+    "context_default": "Toprak altı gömüt / mezar ve gömülme düzeni (ق-ب-ر)."
+  },
+  "ع-ص-ر": {
+    "buckwalter": "ESr",
+    "slug": "asr_ve_iasar_akip_giden_cag_ve_baskiyla_sikip_ozunu_cikarmak_esr",
+    "concept_name": "Asr ve İ'sâr (Akıp Giden Çağ ve Baskıyla Sıkıp Özünü/Suyunu Çıkarmak)",
+    "keywords": [
+      "asr",
+      "yasiru",
+      "isar",
+      "musirat",
+      "cag",
+      "zaman",
+      "sikmak",
+      "kasirga"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EaSor",
+        "pos": "N",
+        "label": "[Asıl 1] Akıp giden zaman, çağ ve günün son vakti (وَٱلْعَصْرِ — 103:1, isim)"
+      },
+      {
+        "lemma": "yaEoSiru",
+        "pos": "V",
+        "label": "[Asıl 2] Meyve ve ürünleri baskıyla sıkıp özsuyunu çıkarmak (أَعْصِرُ / يَعْصِرُونَ — 12:36, 12:49, Form I muzârî)"
+      },
+      {
+        "lemma": "muEoSira`t",
+        "pos": "N",
+        "label": "[Asıl 2] Yağmurla dolup suyunu sıkarak boşaltan yoğun bulutlar (ٱلْمُعْصِرَٰتِ — 78:14, Form IV ism-i fâil çoğulu)"
+      },
+      {
+        "lemma": "<iEoSaAr",
+        "pos": "N",
+        "label": "[Asıl 2] Havayı ve tozu sıkıştırıp sütun hâlinde savuran ateşli kasırga (إِعْصَارٌ — 2:266, isim)"
+      }
+    ],
+    "irab_default": "Akıp giden çağ/zaman (Asıl 1) veya baskıyla sıkıp özsu/yağmur çıkarmak ve kasırga (Asıl 2) (ع-ص-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "103:1"
+        ],
+        "text": "Birinci asıl — akıp giden zaman ve çağ: insanın zaman içinde kayba düşmemesi için zamana getirilen tanıklık (103:1)."
+      },
+      {
+        "ayahs": [
+          "12:36",
+          "12:49"
+        ],
+        "text": "İkinci asıl — meyve ve ürün sıkmak: Yûsuf kıssasında rüyada üzüm sıkmak (12:36) ve kıtlık sonrası bolluk yılında insanların bolca ürün sıkması (12:49)."
+      },
+      {
+        "ayahs": [
+          "2:266",
+          "78:14"
+        ],
+        "text": "İkinci asıl — atmosferik sıkıştırma ve boşaltma: yağmuru şarıl şarıl boşaltan yoğun bulutlar (78:14) ve bahçeyi kavuran ateşli kasırga (2:266)."
+      }
+    ],
+    "context_default": "Akıp giden çağ (Asıl 1) veya baskıyla sıkma/kasırga (Asıl 2) (ع-ص-ر)."
+  },
+  "ف-و-ج": {
+    "buckwalter": "fwj",
+    "slug": "fevc_ve_efvac_dalga_dalga_hareket_eden_kalabalik_kafileler_fwj",
+    "concept_name": "Fevc ve Efvâc (Dalga Dalga Hareket Eden Kalabalık Bölük ve Kafileler)",
+    "keywords": [
+      "fevc",
+      "efvac",
+      "kafile",
+      "boluk",
+      "dalga dalga",
+      "akin akin"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fawoj",
+        "ayahs": [
+          "78:18",
+          "110:2"
+        ],
+        "label": "Dalga dalga, akın akın ve kalabalık kafileler hâlinde (أَفْوَاجًا — çoğul hâl tümleci)"
+      },
+      {
+        "lemma": "fawoj",
+        "label": "Topluca sevk edilen veya peş peşe giren kalabalık insan bölüğü/kafilesi (فَوْجًا / فَوْجٌ — 27:83, 38:59, 67:8, tekil isim)"
+      }
+    ],
+    "irab_default": "Toplu hâlde hareket eden kalabalık insan kafilesi veya bölüğü (ف-و-ج kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "27:83",
+          "38:59",
+          "67:8",
+          "78:18"
+        ],
+        "text": "Hesap günü toplu sevkiyat ve akış: her topluluktan yalanlayan bir bölüğün derlenmesi (27:83), yakıcı yurda dalıp giren ve atılan kafileler (38:59, 67:8) ve sûr üflendiğinde insanların dalga dalga gelmesi (78:18)."
+      },
+      {
+        "ayahs": [
+          "110:2"
+        ],
+        "text": "Tarihsel yöneliş akını: zafer ve açılım geldiğinde insanların Allah'ın yaşam sistemine dalga dalga, akın akın girmesi (110:2)."
+      }
+    ],
+    "context_default": "Dalga dalga hareket eden kalabalık bölük ve kafileler (ف-و-ج)."
+  },
+  "ر-غ-ب": {
+    "buckwalter": "rgb",
+    "slug": "ragbet_gonulden_arzu_ile_yonelmek_veya_yuz_cevirip_sogumak_rgb",
+    "concept_name": "Rağbet (Gönülden Arzu ile Yönelmek veya Yüz Çevirip Soğumak)",
+    "keywords": [
+      "ragbet",
+      "ragib",
+      "regab",
+      "yonelm",
+      "arzu",
+      "yuz cevirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yarogabu",
+        "ayahs": [
+          "94:8"
+        ],
+        "label": "Tüm içsel arzu ve yönelişiyle yalnız Rabbine yönelmek (وَإِلَىٰ رَبِّكَ فَٱرْغَب — Form I emir + إِلَىٰ)"
+      },
+      {
+        "lemma": "yarogabu",
+        "ayahs": [
+          "2:130",
+          "9:120"
+        ],
+        "label": "Bir çizgiden yüz çevirip soğumak veya kendini geri çekmek (يَرْغَبُ عَن / وَلَا يَرْغَبُوا۟ عَن — Form I muzârî + عَن)"
+      },
+      {
+        "lemma": "yarogabu",
+        "ayahs": [
+          "4:127"
+        ],
+        "label": "Yetim kadınlarla evlenmeye meyletmek veya haklarını vermemek için uzak durmak (وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ — Form I muzârî, iki yönlü hazif)"
+      },
+      {
+        "lemma": "raAgib",
+        "ayahs": [
+          "19:46"
+        ],
+        "label": "Bir şeyden yüz çevirip soğumuş olan (أَرَاغِبٌ أَنتَ عَنْ — ism-i fâil + عَن)"
+      },
+      {
+        "lemma": "raAgib",
+        "label": "Gönülden umut ve arzuyla Allah'a yönelenler (إِلَى ٱللَّهِ / رَبِّنَا رَٰغِبُونَ — 9:59, 68:32, ism-i fâil + إِلَىٰ)"
+      },
+      {
+        "lemma": "ragab",
+        "label": "Umut ve derin içsel istekle (رَغَبًا وَرَهَبًا — 21:90, mastar/hâl)"
+      }
+    ],
+    "irab_default": "Gönülden arzuyla yönelmek (إِلَىٰ) veya yüz çevirip soğumak (عَن) (ر-غ-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:59",
+          "21:90",
+          "68:32",
+          "94:8"
+        ],
+        "text": "Yalnız Rabbe yönelen saf arzu ve umut (إِلَىٰ / رَغَبًا): tüm beklentiyi Allah'a bağlamak (9:59, 68:32, 94:8) ve arzu ile çekinme dengesi içinde yakarmak (21:90)."
+      },
+      {
+        "ayahs": [
+          "2:130",
+          "9:120",
+          "19:46"
+        ],
+        "text": "Yüz çevirme ve soğuma (عَن): İbrâhim'in çizgisinden yüz çevirmenin beyinsizliği (2:130), İbrâhim'in sahte sığınaklardan soğuması (19:46) ve elçinin yanından kendi canını sakınıp ayrılmama uyarısı (9:120)."
+      },
+      {
+        "ayahs": [
+          "4:127"
+        ],
+        "text": "Yetim kadınların hukuku: haklarını eksiksiz gözetmeden evlenme arzusu veya çekinmesine karşı adalet uyarısı (4:127)."
+      }
+    ],
+    "context_default": "Gönülden arzuyla yönelmek veya yüz çevirip soğumak (ر-غ-ب)."
+  },
+  "ف-ر-غ": {
+    "buckwalter": "frg",
+    "slug": "ferag_ve_ifrag_bosalip_alan_acmak_ve_kabindan_bolca_dokmek_frg",
+    "concept_name": "Ferâğ ve İfrâğ (Boşalıp Alan Açmak ve Kabından Bolca Boşaltıp Dökmek)",
+    "keywords": [
+      "ferag",
+      "ifrag",
+      "farig",
+      "bosalmak",
+      "dokmek",
+      "bosa cikmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aforigo",
+        "ayahs": [
+          "18:96"
+        ],
+        "label": "Kızgın demir kütlesinin üzerine erimiş bakır boşaltıp dökmek (أُفْرِغْ عَلَيْهِ قِطْرًا — Form IV muzârî)"
+      },
+      {
+        "lemma": ">aforigo",
+        "label": "Zor anda üzerimize kova boşaltır gibi bolca sebat ve direnç dök yakarışı (أَفْرِغْ عَلَيْنَا صَبْرًا — 2:250, 7:126, Form IV emir)"
+      },
+      {
+        "lemma": "fa`rig",
+        "label": "Mûsâ'nın annesinin yüreğinin şok ve kaygıyla başka her şeyden boşalıp kalması (فَٰرِغًا — 28:10, ism-i fâil)"
+      },
+      {
+        "lemma": "farago",
+        "ayahs": [
+          "55:31"
+        ],
+        "label": "İki ağırlıklı topluluğun hesabına doğrudan ve kesin biçimde yönelmek (سَنَفْرُغُ لَكُمْ — Form I muzârî + لِـ)"
+      },
+      {
+        "lemma": "farago",
+        "label": "Bir görevi tamamlayıp meşguliyetten boşa çıkmak (فَإِذَا فَرَغْتَ — 94:7, Form I mâzî)"
+      }
+    ],
+    "irab_default": "Boşalıp alan açmak (Form I) veya dolu kabı boşaltıp üzerine dökmek (Form IV) (ف-ر-غ kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:250",
+          "7:126",
+          "18:96"
+        ],
+        "text": "Boşaltıp dökme (Form IV أَفْرَغَ عَلَىٰ): demir set üzerine erimiş bakır dökmek (18:96) ve sınama anında üzerlerine bolca sebat ve direnç dökülmesi için yakarış (2:250, 7:126)."
+      },
+      {
+        "ayahs": [
+          "28:10",
+          "55:31",
+          "94:7"
+        ],
+        "text": "Boşalma ve yeni yöneliş (Form I & ism-i fâil): Mûsâ'nın annesinin yüreğinin boşalması (28:10), bir iş bitince hemen yeni çabaya dikilme buyruğu (94:7) ve ilahi hesabın kesin yönelişi (55:31)."
+      }
+    ],
+    "context_default": "Boşalıp alan açmak veya üzerine bolca boşaltıp dökmek (ف-ر-غ)."
+  },
+  "ش-ه-ر": {
+    "buckwalter": "$hr",
+    "slug": "sehr_hilal_dongusune_dayali_kameri_ay_birimi_shr",
+    "concept_name": "Şehr (Hilal Döngüsüne Dayalı Açık ve Ölçülebilir Kamerî Ay Birimi)",
+    "keywords": [
+      "sehr",
+      "eshur",
+      "suhur",
+      "kameri ay",
+      "hilal",
+      "haram aylar"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$ahor",
+        "ayahs": [
+          "2:194",
+          "2:217",
+          "5:2",
+          "5:97",
+          "9:5"
+        ],
+        "label": "Şiddet ve saldırının yasaklandığı dokunulmaz barış ayı / ayları (ٱلشَّهْرُ ٱلْحَرَامُ / ٱلْأَشْهُرُ ٱلْحُرُمُ — isim)"
+      },
+      {
+        "lemma": "$ahor",
+        "ayahs": [
+          "9:36"
+        ],
+        "label": "Allah'ın yaratılış yasasında bir yılın on iki kamerî ayı (عِدَّةَ ٱلشُّهُورِ ... ٱثْنَا عَشَرَ شَهْرًا — çokluk çoğulu ve tekil)"
+      },
+      {
+        "lemma": "$ahor",
+        "ayahs": [
+          "2:185",
+          "97:3"
+        ],
+        "label": "Vahiy ve öz denetim ayı Ramazan (2:185) ve Kadir gecesinin bin aydan üstünlüğü (97:3) (شَهْر — isim)"
+      },
+      {
+        "lemma": "$ahor",
+        "ayahs": [
+          "4:92",
+          "58:4"
+        ],
+        "label": "Art arda iki kamerî ay öz denetim kefareti (شَهْرَيْنِ مُتَتَابِعَيْنِ — ikil isim)"
+      },
+      {
+        "lemma": "$ahor",
+        "ayahs": [
+          "2:197",
+          "2:226",
+          "2:234",
+          "9:2",
+          "65:4"
+        ],
+        "label": "Büyük toplanma, barış mühleti veya aile bekleme süresi olan sayılı kamerî aylar (أَشْهُر — azlık çoğulu)"
+      },
+      {
+        "lemma": "$ahor",
+        "label": "Biyolojik gelişim süresi (46:15 otuz ay) veya rüzgârla kat edilen bir aylık mesafe (34:12) (شَهْر — isim)"
+      }
+    ],
+    "irab_default": "Hilal döngüsüyle ölçülen kamerî ay birimi (ش-ه-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:194",
+          "2:217",
+          "5:2",
+          "5:97",
+          "9:2",
+          "9:5",
+          "9:36"
+        ],
+        "text": "Kozmik 12 ay yasası ve dokunulmaz barış ayları: yaratılış yasasında ayların on iki olması, bunların dördünün dokunulmaz kılınması ve barış/mühlet sınırlarının korunması."
+      },
+      {
+        "ayahs": [
+          "2:185",
+          "2:197",
+          "97:3"
+        ],
+        "text": "Vahiy, öz denetim ve büyük toplanma takvimi: Kur'an'ın indirildiği Ramazan ayı (2:185), büyük yöneliş toplanmasının bilinen ayları (2:197) ve Kadir gecesinin bin aydan üstünlüğü (97:3)."
+      },
+      {
+        "ayahs": [
+          "2:226",
+          "2:234",
+          "4:92",
+          "34:12",
+          "46:15",
+          "58:4",
+          "65:4"
+        ],
+        "text": "Hukuki, biyolojik ve mekânsal süre ölçüsü: aile bekleme süreleri (2:226, 2:234, 65:4), iki aylık kefaret (4:92, 58:4), gebelik-emzirme süresi olan otuz ay (46:15) ve bir aylık rüzgâr mesafesi (34:12)."
+      }
+    ],
+    "context_default": "Hilal döngüsüne dayalı kamerî ay birimi (ش-ه-ر)."
+  },
+  "ط-ل-ع": {
+    "buckwalter": "TlE",
+    "slug": "tulu_tal_ve_ittila_ufuktan_dogmak_tomurcuk_belirmesi_ve_vakif_olmak_tle",
+    "concept_name": "Tulû, Tal' ve İttılâ (Ufuktan Doğmak, Tomurcuk Belirmesi ve Üstten Bakıp Vakıf Olmak)",
+    "keywords": [
+      "tulu",
+      "tal",
+      "ittila",
+      "matla",
+      "dogmak",
+      "tomurcuk",
+      "vakif olmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "TalaEat",
+        "pos": "V",
+        "label": "Güneşin ufuktan yükselip doğması (طَلَعَت / تَطْلُعُ — 18:17, 18:90, Form I fiil)"
+      },
+      {
+        "lemma": "TuluwE",
+        "pos": "N",
+        "label": "Güneşin doğuş anı (قَبْلَ طُلُوعِ ٱلشَّمْسِ — 20:130, 50:39, mastar)"
+      },
+      {
+        "lemma": "maToliE",
+        "pos": "N",
+        "label": "Güneşin doğduğu ufuk bölgesi (مَطْلِعَ ٱلشَّمْسِ — 18:90, ism-i mekân)"
+      },
+      {
+        "lemma": "maTolaE",
+        "pos": "N",
+        "label": "Tan yerinin ağarıp doğduğu vakit (مَطْلَعِ ٱلْفَجْرِ — 97:5, ism-i zaman)"
+      },
+      {
+        "lemma": "TaloE",
+        "pos": "N",
+        "label": "Hurma veya zakkum ağacının kılıfından ilk beliren tomurcuğu ve salkımı (طَلْع — 6:99, 26:148, 37:65, 50:10, isim)"
+      },
+      {
+        "lemma": "yuToliEa",
+        "pos": "V",
+        "label": "Gizli/görünmeyen alana vakıf kılmak, önüne açıp göstermek (لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ — 3:179, Form IV fiil)"
+      },
+      {
+        "lemma": "T~alaEa",
+        "ayahs": [
+          "104:7"
+        ],
+        "label": "Yakıcı ateşin ta gönüllere dek tırmanıp nüfuz etmesi (تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ — Form VIII muzârî)"
+      },
+      {
+        "lemma": "T~alaEa",
+        "label": "Yüksekten bakıp görmek, bir duruma/ihanete veya görünmeyene vakıf olmak (ٱطَّلَعَ / تَطَّلِعُ / أَطَّلِعُ — Form VIII fiil)"
+      },
+      {
+        "lemma": "m~uT~aliEuwn",
+        "pos": "N",
+        "label": "Yukarıdan aşağıya bakıp görmek isteyenler (مُطَّلِعُونَ — 37:54, Form VIII ism-i fâil)"
+      }
+    ],
+    "irab_default": "Ufuktan/kılıftan yükselip belirmek ve yüksekten bakıp vakıf olmak (ط-ل-ع kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:17",
+          "18:90",
+          "20:130",
+          "50:39",
+          "97:5"
+        ],
+        "text": "Kozmik doğuş, yer ve vakit: güneşin doğması ve doğuş bölgesi (18:17, 18:90), güneş doğmadan önce anma ve yüceltme (20:130, 50:39) ve tan ağarıncaya dek esenlik (97:5)."
+      },
+      {
+        "ayahs": [
+          "6:99",
+          "26:148",
+          "37:65",
+          "50:10"
+        ],
+        "text": "Botanik ilk beliriş (طَلْع): hurma ağaçlarının bereketli, yumuşak ve düzenli dizilmiş tomurcuk salkımları (6:99, 26:148, 50:10) ile zakkum ağacının ürkütücü tomurcukları (37:65)."
+      },
+      {
+        "ayahs": [
+          "3:179",
+          "5:13",
+          "18:18",
+          "19:78",
+          "28:38",
+          "37:54",
+          "37:55",
+          "40:37",
+          "104:7"
+        ],
+        "text": "Üstten bakma, vakıf olma ve erişme (Form IV & VIII): görünmeyene vakıf kılma/olma sınırı (3:179, 19:78), ihanete ve mağara gençlerine tanıklık (5:13, 18:18), Firavun'un kule kibri (28:38, 40:37), aşağıya bakıp eski arkadaşını görme (37:54-55) ve ateşin gönüllere dek erişmesi (104:7)."
+      }
+    ],
+    "context_default": "Ufuktan doğmak, tomurcuk belirmesi ve üstten bakıp vakıf olmak (ط-ل-ع)."
+  },
+  "أ-ب-د": {
+    "buckwalter": "Abd",
+    "slug": "ebed_baglami_boyunca_kesintisiz_uzayan_sure_ve_asla_kaydi_abd",
+    "concept_name": "Ebed / Ebeden (Bağlamı Boyunca Kesintisiz Uzayan Süre ve Asla Kaydı)",
+    "keywords": [
+      "ebed",
+      "ebeden",
+      "sureklilik",
+      "asla",
+      "kesintisiz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">abadFA",
+        "ayahs": [
+          "4:57",
+          "4:122",
+          "4:169",
+          "5:119",
+          "9:22",
+          "9:100",
+          "18:3",
+          "33:65",
+          "64:9",
+          "65:11",
+          "72:23",
+          "98:8"
+        ],
+        "label": "Öte hayatta kesintiye uğramaksızın sürüp giden uzun süreklilik (خَٰلِدِينَ / مَّٰكِثِينَ فِيهَآ أَبَدًا — zaman zarfı)"
+      },
+      {
+        "lemma": ">abadFA",
+        "ayahs": [
+          "5:24",
+          "24:4",
+          "60:4"
+        ],
+        "label": "Söz konusu şart veya bağlam sürdükçe hiç kesilmeden / asla (أَبَدًا مَّا دَامُوا۟ / أَبَدًا حَتَّىٰ / أَبَدًا إِلَّا — şarta bağlı zaman zarfı)"
+      },
+      {
+        "lemma": ">abadFA",
+        "label": "Ömür ve bağlam boyunca hiçbir zaman, asla (أَبَدًا — olumsuz zaman zarfı)"
+      }
+    ],
+    "irab_default": "Bağlamı boyunca kesintisiz uzayan zaman boyutu / asla (أ-ب-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:57",
+          "4:122",
+          "4:169",
+          "5:119",
+          "9:22",
+          "9:100",
+          "18:3",
+          "33:65",
+          "64:9",
+          "65:11",
+          "72:23",
+          "98:8"
+        ],
+        "text": "Öte hayat sürekliliği: esenlik bahçelerinde ve yakıcı yıkım yurdunda kesintiye uğramadan sürüp giden kalış."
+      },
+      {
+        "ayahs": [
+          "5:24",
+          "24:4",
+          "60:4"
+        ],
+        "text": "Şarta ve bağlama bağlı kesintisizlik: 'onlar orada kaldıkça asla' (5:24), 'düzelip dönenler hariç asla' (24:4-5) ve 'yalnız Allah'a güveninceye kadar sürekli' (60:4) örnekleri."
+      },
+      {
+        "ayahs": [
+          "2:95",
+          "9:83",
+          "9:84",
+          "9:108",
+          "18:20",
+          "18:35",
+          "18:57",
+          "24:17",
+          "24:21",
+          "33:53",
+          "48:12",
+          "59:11",
+          "62:7"
+        ],
+        "text": "Dünya hayatı, hukuk ve kesin olumsuzlama: ölümü asla isteyememe (2:95, 62:7), iki yüzlülere ve zarar odaklarına kesin mesafe (9:83-84, 9:108), elçinin eşleriyle evlenme yasağı (33:53), iftiraya asla dönmeme (24:17), Allah'ın lütfu olmadan arınamama (24:21) ve sahte kalıcılık/başarı kuruntularının reddi (18:20,35,57, 48:12, 59:11)."
+      }
+    ],
+    "context_default": "Bağlamı boyunca kesintisiz uzayan süre / asla (أ-ب-د)."
+  },
+  "ف-ك-ك": {
+    "buckwalter": "fkk",
+    "slug": "fekk_ve_infikak_boyundurugu_acip_cozmek_ve_bagindan_ayrilmak_fkk",
+    "concept_name": "Fekk ve İnfi̇kâk (Boyunduruğu Açıp Çözmek ve Yapışık Hâlden Ayrılmak)",
+    "keywords": [
+      "fekk",
+      "infikak",
+      "munfekk",
+      "cozmek",
+      "ozgurlestirmek",
+      "ayrilmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fak~",
+        "pos": "N",
+        "label": "Boyundaki esaret ve bağımlılık bağını açıp çözmek (فَكُّ رَقَبَةٍ — 90:13, mastar)"
+      },
+      {
+        "lemma": "munfak~iyn",
+        "pos": "N",
+        "label": "Saplanıp kaldıkları tutumdan çözülüp ayrılanlar (مُنفَكِّينَ — 98:1, Form VII ism-i fâil)"
+      }
+    ],
+    "irab_default": "Kapalı veya kenetli bağı açıp çözmek ve ayrılmak (ف-ك-ك kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "90:13"
+        ],
+        "text": "Sarp yokuşu aşmanın ilk adımı: boyunduruk ve esaret altındaki bir boynun kilidini açıp çözerek özgürleştirmek (90:13)."
+      },
+      {
+        "ayahs": [
+          "98:1"
+        ],
+        "text": "Apaçık kanıtla gelen çözülme: gerçeği örtenlerin apaçık kanıt gelinceye dek saplandıkları durumdan çözülüp ayrılmamaları (98:1)."
+      }
+    ],
+    "context_default": "Kapalı bağı açıp çözmek ve ayrılmak (ف-ك-ك)."
   }
 }
