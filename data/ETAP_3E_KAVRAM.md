@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 450 mühürlü kökten (`%86,92`) sonra, meal aşamasına geçmeden önce kısa surelerin (98-114) kalan son tekil kavram kilitlerini, mühürlü köklerin referans verdiği açık Mesânî/Furûk eşleniklerini ve 25+ geçişli doktrinel/çekirdek kavramları kapatan **50 kritik kök** (789 geçiş) mühürlenerek toplam sözlük **500 kilitli köke (`%88,50` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%92,58`'i)** ulaştırılır.
-> **Etap 3E İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 480 Kök | Güncel Kapsam: %87,44)
+> **Etap 3E İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 490 Kök | Güncel Kapsam: %87,87)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -37,16 +37,16 @@
 | 28 | Açık Mesânî Eşleniği | 572 | `ض-ي-ع` | `D-Y-A` | **10** | 10 | 2:143 | İdâa (Emeği, Hakkı veya Sorumluluğu İhmal Edip Boşa Çıkarmak) | ✅ **MÜHÜRLÜ** |
 | 29 | Açık Mesânî Eşleniği | 773 | `ب-غ-ض` | `B-G-D` | **5** | 5 | 3:118 | Bağdâ (Sevginin Zıddı Şiddetli Tiksinti ve Derin Nefret) | ✅ **MÜHÜRLÜ** |
 | 30 | Açık Mesânî Eşleniği | 506 | `ض-ي-ق` | `D-Y-K` | **13** | 12 | 6:125 | Dîk ve Dayk (Genişliğin Zıddı Alan ve Göğüs Daralması) | ✅ **MÜHÜRLÜ** |
-| 31 | Mesânî & Doktrinel Zırh | 299 | `غ-ل-ب` | `G-L-B` | **31** | 28 | 2:249 | Galebe, Gâlib ve Mağlûb (2 açık Mesânî ref! 5:23, 8:65, 12:21, 30:2-3, 58:21 üstün gelmek ve yenilgiye uğramak) | ⏳ *Bekliyor* |
-| 32 | Mesânî & Doktrinel Zırh | 334 | `غ-ر-ر` | `G-R-R` | **27** | 21 | 3:24 | Gurûr ve Garûr (2 açık Mesânî ref! 3:185, 31:33, 35:5, 57:14, 82:6 aldatıcı kuruntu/avuntu ve ayartıcı aldanış) | ⏳ *Bekliyor* |
-| 33 | Mesânî & Doktrinel Zırh | 442 | `أ-و-ب` | `E-W-B` | **17** | 17 | 3:14 | Evvâb ve Meâb (2 açık Mesânî ref! 13:29, 34:10, 38:17-49, 50:32 her fırsatta gönülden Rabbine dönen ve güzel dönüş yeri) | ⏳ *Bekliyor* |
-| 34 | Mesânî & Doktrinel Zırh | 451 | `ح-ب-ط` | `H-B-T` | **16** | 16 | 2:217 | Habt ve İhbât (2 açık Mesânî ref! 2:217, 3:22, 5:5, 39:65, 47:28, 49:2 zehirli ot yemiş hayvan gibi amellerin şişip boşa gitmesi) | ⏳ *Bekliyor* |
-| 35 | Mesânî & Doktrinel Zırh | 528 | `د-ر-ك` | `D-R-K` | **12** | 11 | 4:78 | İdrâk, Tedârük ve Derk (3 açık Furûk ref! 4:145 en alt basamak, 6:103 gözlerin O'nu kuşatamaması ve 10:90 yetişip yakalamak) | ⏳ *Bekliyor* |
-| 36 | Mesânî & Doktrinel Zırh | 617 | `و-ه-ن` | `W-H-N` | **9** | 8 | 3:139 | Vehn ve Evhen (2 açık Mesânî ref! ق-و-ي zıddı: 3:139, 3:146, 19:4, 29:41, 31:14 gevşeyip güçten düşmek ve en çürük ev) | ⏳ *Bekliyor* |
-| 37 | Mesânî & Doktrinel Zırh | 356 | `ص-ل-ي` | `S-L-Y` | **25** | 25 | 4:10 | Saly ve Istılâ' (111:3 Tebbet, 88:4, 4:10, 27:7 ateşe girip yaslanmak/ısınmak — ص-ل-و [salât] köküyle karışıklığı önleyen kilit!) | ⏳ *Bekliyor* |
-| 38 | Mesânî & Doktrinel Zırh | 350 | `ب-ط-ن` | `B-T-N` | **25** | 25 | 2:174 | Batn, Bâtın ve Bıtâne (ظ-ه-ر [Zâhir] kökünün doğrudan Mesânî eşleniği: 6:120, 6:151, 31:20, 57:3,13 iç yüz ve 3:118 sırdaş) | ⏳ *Bekliyor* |
-| 39 | Mesânî & Doktrinel Zırh | 344 | `ش-ر-ي` | `S-R-Y` | **25** | 23 | 2:16 | Şirâ' ve İştirâ' (ب-ي-ع eşleniği: 2:16, 2:90, 2:102, 2:207, 9:111 bir bedel karşılığında canını/emeğini veya hidayeti satmak/satın almak) | ⏳ *Bekliyor* |
-| 40 | Mesânî & Doktrinel Zırh | 354 | `و-ه-ب` | `W-H-B` | **25** | 22 | 3:8 | Hibe ve el-Vehhâb (3:8, 3:38, 19:5, 38:9,35 hiçbir karşılık beklemeksizin gönülden bağışlamak) | ⏳ *Bekliyor* |
+| 31 | Mesânî & Doktrinel Zırh | 299 | `غ-ل-ب` | `G-L-B` | **31** | 28 | 2:249 | Galebe ve Gulb (Kuvvet ve Gürlükle Üstün Basmak) | ✅ **MÜHÜRLÜ** |
+| 32 | Mesânî & Doktrinel Zırh | 334 | `غ-ر-ر` | `G-R-R` | **27** | 21 | 3:24 | Gurûr ve Garûr (Parlak Yanılsama ve Sahte Güvenle Aldatmak) | ✅ **MÜHÜRLÜ** |
+| 33 | Mesânî & Doktrinel Zırh | 442 | `أ-و-ب` | `E-W-B` | **17** | 17 | 3:14 | Evb, Evvâb ve Meâb (Asıl Merkeze Gönülden ve Yankılı Dönüş) | ✅ **MÜHÜRLÜ** |
+| 34 | Mesânî & Doktrinel Zırh | 451 | `ح-ب-ط` | `H-B-T` | **16** | 16 | 2:217 | Hubût ve İhbât (Temeli Bozulan Eylemin İçten Çöküp Boşa Çıkması) | ✅ **MÜHÜRLÜ** |
+| 35 | Mesânî & Doktrinel Zırh | 528 | `د-ر-ك` | `D-R-K` | **12** | 11 | 4:78 | İdrâk ve Derek (Peşinden Yetişip Ulaşmak ve Ardışık Kademelenme) | ✅ **MÜHÜRLÜ** |
+| 36 | Mesânî & Doktrinel Zırh | 617 | `و-ه-ن` | `W-H-N` | **9** | 8 | 3:139 | Vehn ve Evhen (Yapı ve İradenin Gevşeyip Kırılganlaşması) | ✅ **MÜHÜRLÜ** |
+| 37 | Mesânî & Doktrinel Zırh | 356 | `ص-ل-ي` | `S-L-Y` | **25** | 25 | 4:10 | Saly ve Istılâ (Ateşin Hararetine Maruz Kalıp Isınmak veya Kavrulmak) | ✅ **MÜHÜRLÜ** |
+| 38 | Mesânî & Doktrinel Zırh | 350 | `ب-ط-ن` | `B-T-N` | **25** | 25 | 2:174 | Batn ve Bâtın (Dış Yüzeyin Karşıtı İç Boşluk ve Gizli Derinlik) | ✅ **MÜHÜRLÜ** |
+| 39 | Mesânî & Doktrinel Zırh | 344 | `ش-ر-ي` | `S-R-Y` | **25** | 23 | 2:16 | Şirâ ve İştirâ (İki Değer Arasında Karşılıklı Takas: Satmak ve Satın Almak) | ✅ **MÜHÜRLÜ** |
+| 40 | Mesânî & Doktrinel Zırh | 354 | `و-ه-ب` | `W-H-B` | **25** | 22 | 3:8 | Hibe ve Vehhâb (Bedelsiz ve Karşılıksız Saf Lütuf Bağışı) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 217 | `و-ذ-ر` | `W-Z-R` | **45** | 43 | 2:234 | Zer ve Yezaru (45 geçişle henüz mühürlenmemiş #1 en yüksek frekanslı kök! 6:70, 62:9, 74:11, 75:20 bırakıp terk etmek) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 276 | `ك-ف-ي` | `K-F-Y` | **33** | 32 | 2:137 | Kifâyet ve Kâfî (33 geçiş: 4:6, 13:43, 29:51, 33:3,39, 39:36 "Allah kuluna yetmez mi?" ve koruyup başkasına muhtaç bırakmamak) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 281 | `م-د-د` | `M-D-D` | **32** | 29 | 2:15 | Medd, İmdâd ve Meded (32 geçiş: 104:9 Hümeze, 3:125, 17:20, 19:75, 25:45, 31:27 uzatmak, süre ve kesintisiz destek vermek) | ⏳ *Bekliyor* |

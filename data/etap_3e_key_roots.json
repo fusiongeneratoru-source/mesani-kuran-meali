@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3E (Kısa Sure Son Tekil Kilitleri, Açık Mesânî/Furûk Uçları ve 500. Kök Tam Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 30,
+  "locked_count": 40,
   "total_tokens_in_package": 789,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 87.44,
+  "current_coverage_pct": 87.87,
   "target_coverage_pct": 88.5,
   "etap_3e_roots": [
     {
@@ -568,8 +568,8 @@
       "frequency": 31,
       "unique_ayahs": 28,
       "rationale": "Galebe, Gâlib ve Mağlûb (2 açık Mesânî ref! 5:23, 8:65, 12:21, 30:2-3, 58:21 üstün gelmek ve yenilgiye uğramak)",
-      "concept_label": "Analiz Bekliyor (galabu, gaAlib, galab, magoluwb)",
-      "is_locked": false,
+      "concept_label": "Galebe ve Gulb (Kuvvet ve Gürlükle Üstün Basmak)",
+      "is_locked": true,
       "sample_ayah": "2:249",
       "top_lemmas": [
         "galabu",
@@ -588,8 +588,8 @@
       "frequency": 27,
       "unique_ayahs": 21,
       "rationale": "Gurûr ve Garûr (2 açık Mesânî ref! 3:185, 31:33, 35:5, 57:14, 82:6 aldatıcı kuruntu/avuntu ve ayartıcı aldanış)",
-      "concept_label": "Analiz Bekliyor (gar~a, guruwr, garuwr)",
-      "is_locked": false,
+      "concept_label": "Gurûr ve Garûr (Parlak Yanılsama ve Sahte Güvenle Aldatmak)",
+      "is_locked": true,
       "sample_ayah": "3:24",
       "top_lemmas": [
         "gar~a",
@@ -607,8 +607,8 @@
       "frequency": 17,
       "unique_ayahs": 17,
       "rationale": "Evvâb ve Meâb (2 açık Mesânî ref! 13:29, 34:10, 38:17-49, 50:32 her fırsatta gönülden Rabbine dönen ve güzel dönüş yeri)",
-      "concept_label": "Analiz Bekliyor (ma_#aAb, >aw~aAb, >aw~ibi, <iyaAb)",
-      "is_locked": false,
+      "concept_label": "Evb, Evvâb ve Meâb (Asıl Merkeze Gönülden ve Yankılı Dönüş)",
+      "is_locked": true,
       "sample_ayah": "3:14",
       "top_lemmas": [
         "ma_#aAb",
@@ -627,8 +627,8 @@
       "frequency": 16,
       "unique_ayahs": 16,
       "rationale": "Habt ve İhbât (2 açık Mesânî ref! 2:217, 3:22, 5:5, 39:65, 47:28, 49:2 zehirli ot yemiş hayvan gibi amellerin şişip boşa gitmesi)",
-      "concept_label": "Analiz Bekliyor (HabiTa, >aHobaTa)",
-      "is_locked": false,
+      "concept_label": "Hubût ve İhbât (Temeli Bozulan Eylemin İçten Çöküp Boşa Çıkması)",
+      "is_locked": true,
       "sample_ayah": "2:217",
       "top_lemmas": [
         "HabiTa",
@@ -645,8 +645,8 @@
       "frequency": 12,
       "unique_ayahs": 11,
       "rationale": "İdrâk, Tedârük ve Derk (3 açık Furûk ref! 4:145 en alt basamak, 6:103 gözlerin O'nu kuşatamaması ve 10:90 yetişip yakalamak)",
-      "concept_label": "Analiz Bekliyor (>adoraka, {d~a`raka, d~arok, darak)",
-      "is_locked": false,
+      "concept_label": "İdrâk ve Derek (Peşinden Yetişip Ulaşmak ve Ardışık Kademelenme)",
+      "is_locked": true,
       "sample_ayah": "4:78",
       "top_lemmas": [
         ">adoraka",
@@ -665,8 +665,8 @@
       "frequency": 9,
       "unique_ayahs": 8,
       "rationale": "Vehn ve Evhen (2 açık Mesânî ref! ق-و-ي zıddı: 3:139, 3:146, 19:4, 29:41, 31:14 gevşeyip güçten düşmek ve en çürük ev)",
-      "concept_label": "Analiz Bekliyor (wahana, wahon, muwhin, >awohan)",
-      "is_locked": false,
+      "concept_label": "Vehn ve Evhen (Yapı ve İradenin Gevşeyip Kırılganlaşması)",
+      "is_locked": true,
       "sample_ayah": "3:139",
       "top_lemmas": [
         "wahana",
@@ -685,8 +685,8 @@
       "frequency": 25,
       "unique_ayahs": 25,
       "rationale": "Saly ve Istılâ' (111:3 Tebbet, 88:4, 4:10, 27:7 ateşe girip yaslanmak/ısınmak — ص-ل-و [salât] köküyle karışıklığı önleyen kilit!)",
-      "concept_label": "Analiz Bekliyor (yaSolaY, >uSoliy, taSoTalu, SaAluwA)",
-      "is_locked": false,
+      "concept_label": "Saly ve Istılâ (Ateşin Hararetine Maruz Kalıp Isınmak veya Kavrulmak)",
+      "is_locked": true,
       "sample_ayah": "4:10",
       "top_lemmas": [
         "yaSolaY",
@@ -705,8 +705,8 @@
       "frequency": 25,
       "unique_ayahs": 25,
       "rationale": "Batn, Bâtın ve Bıtâne (ظ-ه-ر [Zâhir] kökünün doğrudan Mesânî eşleniği: 6:120, 6:151, 31:20, 57:3,13 iç yüz ve 3:118 sırdaş)",
-      "concept_label": "Analiz Bekliyor (baTon, baATin, biTaAnap, baTana)",
-      "is_locked": false,
+      "concept_label": "Batn ve Bâtın (Dış Yüzeyin Karşıtı İç Boşluk ve Gizli Derinlik)",
+      "is_locked": true,
       "sample_ayah": "2:174",
       "top_lemmas": [
         "baTon",
@@ -725,8 +725,8 @@
       "frequency": 25,
       "unique_ayahs": 23,
       "rationale": "Şirâ' ve İştirâ' (ب-ي-ع eşleniği: 2:16, 2:90, 2:102, 2:207, 9:111 bir bedel karşılığında canını/emeğini veya hidayeti satmak/satın almak)",
-      "concept_label": "Analiz Bekliyor ({$otaraY`, $ara)",
-      "is_locked": false,
+      "concept_label": "Şirâ ve İştirâ (İki Değer Arasında Karşılıklı Takas: Satmak ve Satın Almak)",
+      "is_locked": true,
       "sample_ayah": "2:16",
       "top_lemmas": [
         "{$otaraY`",
@@ -743,8 +743,8 @@
       "frequency": 25,
       "unique_ayahs": 22,
       "rationale": "Hibe ve el-Vehhâb (3:8, 3:38, 19:5, 38:9,35 hiçbir karşılık beklemeksizin gönülden bağışlamak)",
-      "concept_label": "Analiz Bekliyor (wahaba, wah~aAb)",
-      "is_locked": false,
+      "concept_label": "Hibe ve Vehhâb (Bedelsiz ve Karşılıksız Saf Lütuf Bağışı)",
+      "is_locked": true,
       "sample_ayah": "3:8",
       "top_lemmas": [
         "wahaba",

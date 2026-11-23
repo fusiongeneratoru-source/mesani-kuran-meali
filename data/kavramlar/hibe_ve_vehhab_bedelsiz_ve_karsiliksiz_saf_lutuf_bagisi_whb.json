@@ -1,0 +1,573 @@
+{
+  "root": "و-ه-ب",
+  "root_latin": "W-H-B (whb)",
+  "concept_name": "Hibe ve Vehhâb (Bedelsiz ve Karşılıksız Saf Lütuf Bağışı)",
+  "rank": 356,
+  "total_occurrences": 25,
+  "unique_ayahs_count": 22,
+  "unified_core_mechanism": "Hiçbir bedel, borç veya mecburi karşılık beklemeden bir değeri saf rahmet ve cömertlik olarak bağışlamak (`إِعْطَاءٌ بِغَيْرِ عِوَضٍ`): (1) Sebeplerin tükendiği anlarda dilediğine karşılıksız evlat, nesil ve aile bağışlamak (`3:38`, `6:84`, `14:39`, `19:5,19,49`, `21:72,90`, `25:74`, `29:27`, `37:100`, `38:30,43`, `42:49`); (2) Doğrudan ilahi katından rahmet, kardeş desteği, hikmet/hüküm ve benzersiz yönetim bağışlamak (`3:8`, `19:50,53`, `26:21,83`, `38:35`); (3) Allah'ın kesintisiz ve karşılıksız bağışlayıcı `ٱلْوَهَّاب` niteliği (`3:8`, `38:9`, `38:35`); (4) İnsani düzlemde mehir bedeli gözetmeden gönüllü bağış (`33:50`).",
+  "physical_core": "Hiçbir bedel, borç veya mecburi karşılık gözetmeksizin bir değeri saf cömertlik ve lütuf olarak birine bağışlayıp vermek (إِعْطَاءُ الشَّيْءِ بِغَيْرِ عِوَضٍ وَلَا مُقَابِلٍ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 6, s. 147): Madde altında birbiriyle kıyaslanmayan kelimeler bulunduğunu dürüstçe kaydeder ve ilk ana kullanım olarak `وَهَبْتُ الشَّيْءَ أَهَبُهُ هِبَةً` ('bir şeyi karşılıksız hibe etmek/bağışlamak') ile `اتَّهَبْتُ الْهِبَةَ` ('bağışı kabul etmek') kullanımlarını verir.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `الْهِبَةُ` hiçbir karşılık ve bedel beklemeksizin mülk veya lütuf aktarmaktır (`الْعَطِيَّةُ الْخَالِيَةُ عَنِ الْأَعْوَاضِ وَالْأَغْرَاضِ`); `الْوَهَّابُ` ise kesintisiz, cömert ve karşılıksız bağışta bulunan Allah'tır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `أَعْطَى` ve `آتَى` genel vermeyi (bazen hak edilmiş ücret veya karşılık olarak) anlatırken, `وَهَبَ` özellikle hiçbir bedel veya mecburiyet olmaksızın doğrudan lütuf ve rahmetten kaynaklanan bağışı (`مِن لَّدُنكَ` / `مِن رَّحْمَتِنَا`) bildirir; bu yüzden Kur'an'da yaşlılık ve kısırlık gibi sebeplerin tükendiği anlarda evlat bahşedilişi daima `وَهَبَ` ile anlatılır (`3:38`, `14:39`, `19:5`, `21:90`, `42:49`).",
+    "arbitration_decision": "Hakem Masası Kararı: `و-ه-ب` kökünün çekirdeği 'bedelsiz ve karşılıksız lütuf bağışı'dır (`بِغَيْرِ عِوَضٍ`). Kur'an'daki 25 geçişin 24'ü Allah'ın karşılıksız ikramını (evlat/nesil, rahmet, hikmet/hüküm, yönetim ve `ٱلْوَهَّاب` ismi), 1'i ise (`33:50`) bir kadının mehir bedeli gözetmeksizin kendi gönlüyle kendini elçiye bağışlama hâlini anlatarak bedelsizlik çekirdeğini %100 doğrular."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*w-h-b ('vermek, bağışlamak').",
+    "aramaic": "Kitâb-ı Mukaddes Aramicesi יְהַב (`yəhaḇ`, Strong H3052: 'vermek, bağışlamak, teslim etmek').",
+    "hebrew": "יָהַב (`yāhaḇ`, Strong H3051: 'vermek, bahşetmek' — Kuzeybatı Sami dillerinde kelime başı `*w-` → `y-` düzenli ses yasasıyla birebir eşkökenli).",
+    "note": "Arapça `وَهَبَ` ile Aramice `יְהַב` ve İbranice `יָהַב` arasındaki düzenli `*w-` ↔ `y-` denkliği, kökün en eski Sami katmanından beri 'karşılıksız verme/bağışlama' çekirdeğini taşıdığını kanıtlar."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ن-ف-ل [وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ نَافِلَةً] (Beklenenin Ötesinde Fazladan İkram ve Ek Lütuf ↔ Karşılıksız Saf Bağışta Bulunmak: 21:72)",
+      "م-ن-ع [أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ] (İmkânı ve Rahmeti Kısıtlayıp Engellemek ↔ Sınırsızca ve Karşılıksız Bağışlamak: 38:9)",
+      "ب-خ-ل [وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ ٱلْوَهَّابُ] (Elindekini Kıskanıp Esirgemek ↔ Bedel Beklemeden Cömertçe Bağışlamak: 3:8, 38:9, 38:35)"
+    ],
+    "key_ayahs": [
+      "3:8",
+      "3:38",
+      "14:39",
+      "19:50",
+      "21:72",
+      "25:74",
+      "26:21",
+      "33:50",
+      "38:9",
+      "38:35",
+      "42:49"
+    ],
+    "reverse_stress_test": "`38:9`'da rahmet hazinelerini kendi tekelinde tutup başkalarına kapatmaya kalkan zihniyete karşı Allah'ın `ٱلْوَهَّاب` (karşılıksız bolca bağışlayan) ismi getirilerek `م-ن-ع` ve `ب-خ-ل` zıddında, `21:72`'de ise `نَافِلَةً` (istenenin de ötesinde ek ikram) ile paralelinde kökün 'karşılıksız cömert bağış' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "أ-ت-ي (29:27 وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ ... وَءَاتَيْنَٰهُ أَجْرَهُۥ — وَهَبْنَا hiçbir bedele bağlı olmayan saf lütuf bağışını, ءَاتَيْنَٰهُ أَجْرَهُۥ ise emeğin ve sadakatin hak edilmiş karşılığını vermeyi ayırır)",
+      "ج-ع-ل (19:49 وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ وَكُلًّا جَعَلْنَا نَبِيًّا; 25:74 هَبْ لَنَا ... وَٱجْعَلْنَا — وَهَبَ o varlığın ve nimetin karşılıksız ihsanını, جَعَلَ ise o kişiye belirli bir konum ve görev atamasını ayırır)"
+    ],
+    "mechanical_difference": "`29:27` en berrak Furûk çıpasıdır: aynı ayette evlat/nesil `وَهَبْنَا` (karşılıksız saf bağış), hak edilmiş ödül ise `ءَاتَيْنَٰهُ أَجْرَهُۥ` (emeğin karşılığını teslim etme) fiiliyle ayrıştırılır!"
+  },
+  "anchor_ayahs": [
+    "3:8",
+    "3:38",
+    "6:84",
+    "14:39",
+    "19:5",
+    "19:50",
+    "21:72",
+    "25:74",
+    "26:21",
+    "29:27",
+    "33:50",
+    "38:9",
+    "38:35",
+    "42:49"
+  ],
+  "grammar_and_branch_rules": "22 Form I fiilin (`وَهَبَ / يَهَبُ / هَبْ`) tamamı `لِـ` ile bağışın yöneldiği kişiyi alır; `هَبْ` emri 7 ayette elçilerin ve güven kuranların acziyet içinde Allah'ın karşılıksız lütfuna yakarış kalıbıdır (`3:8`, `3:38`, `19:5`, `25:74`, `26:83`, `37:100`, `38:35`). `ٱلْوَهَّاب` (`فَعَّال`, 3 geçiş) yalnız Allah'a mahsus mutlak bağışlayıcılığı kodlar.",
+  "derivatives": {
+    "وَهَبَ / يَهَبُ / هَبْ": "Hiçbir bedel veya karşılık beklemeden saf lütuf ve cömertlikle bağışlamak (3:8, 3:38, 19:50, 26:21, 33:50, 42:49)",
+    "ٱلْوَهَّاب": "Karşılıksız, kesintisiz ve sınırsız biçimde bolca bağışlayan (3:8, 38:9, 38:35)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 3,
+      "ayah": 8,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:8",
+      "word_position": 8,
+      "target_word_uthmani": "وَهَبْ",
+      "target_word_rasm": "وهب",
+      "target_word_literal_irab": "Kendi katından rahmet, temiz nesil, hikmet veya imkân bağışla (هَبْ — Form I emir/dua)",
+      "context_snippet_arabic": "بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbimiz, bizi doğru yola sevk ettikten sonra kalplerimizi saptırma ve kendi katından bize rahmet bağışla, şüphe yok ki sen, fazlasıyla bağışlayansın.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:wahaba|ROOT:whb|2MS"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbimiz, bizi doğru yola sevk ettikten sonra kalplerimizi saptırma ve kendi katından bize rahmet bağışla, şüphe yok ki sen, fazlasıyla bağışlayansın.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 3,
+      "ayah": 8,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:8",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْوَهَّابُ",
+      "target_word_rasm": "ٱلوهاب",
+      "target_word_literal_irab": "Şüphesiz karşılıksız ve kesintisiz bolca bağışlayan sensin (ٱلْوَهَّابُ — فَعَّال mübalağalı isim, merfû)",
+      "context_snippet_arabic": "رَحْمَةً إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "context_snippet_turkish_tabula_rasa": "Rabbimiz, bizi doğru yola sevk ettikten sonra kalplerimizi saptırma ve kendi katından bize rahmet bağışla, şüphe yok ki sen, fazlasıyla bağışlayansın.",
+      "morphology": {
+        "lemma": "wah~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:wah~aAb|ROOT:whb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbimiz, bizi doğru yola sevk ettikten sonra kalplerimizi saptırma ve kendi katından bize rahmet bağışla, şüphe yok ki sen, fazlasıyla bağışlayansın.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 3,
+      "ayah": 38,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:38",
+      "word_position": 7,
+      "target_word_uthmani": "هَبْ",
+      "target_word_rasm": "هب",
+      "target_word_literal_irab": "Kendi katından rahmet, temiz nesil, hikmet veya imkân bağışla (هَبْ — Form I emir/dua)",
+      "context_snippet_arabic": "رَبَّهُۥ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ",
+      "context_snippet_turkish_tabula_rasa": "Zekeriyya, orada Rabbine dua etmiş, ya Rabbi demişti, sen katından tertemiz bir soy ver bana, muhakkak ki duaları duyansın sen.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:wahaba|ROOT:whb|2MS"
+      },
+      "ayah_text_arabic_full": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ ٱلدُّعَآءِ",
+      "ayah_text_turkish_tabula_rasa_full": "Zekeriyya, orada Rabbine dua etmiş, ya Rabbi demişti, sen katından tertemiz bir soy ver bana, muhakkak ki duaları duyansın sen.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 6,
+      "ayah": 84,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:84",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَهَبْنَا",
+      "target_word_rasm": "ووهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ",
+      "context_snippet_turkish_tabula_rasa": "Ona İshak'ı ve Yakup'u verdik, hepsine de doğru yolu ihsan ettik. Daha önce Nuh'u ve soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u doğru...",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ كُلًّا هَدَيْنَا وَنُوحًا هَدَيْنَا مِن قَبْلُ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَٰرُونَ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona İshak'ı ve Yakup'u verdik, hepsine de doğru yolu ihsan ettik. Daha önce Nuh'u ve soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u doğru yola sevketmiştik ve biz, iyilik edenleri böylece mükafatlandırırız.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 14,
+      "ayah": 39,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:39",
+      "word_position": 4,
+      "target_word_uthmani": "وَهَبَ",
+      "target_word_rasm": "وهب",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ",
+      "context_snippet_turkish_tabula_rasa": "Hamd Allah'a ki ihtiyarlığımda bana İsmail'i ve İshak'ı verdi. Şüphe yok ki Rabbim, duayı mutlaka duyar.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَٰعِيلَ وَإِسْحَٰقَ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+      "ayah_text_turkish_tabula_rasa_full": "Hamd Allah'a ki ihtiyarlığımda bana İsmail'i ve İshak'ı verdi. Şüphe yok ki Rabbim, duayı mutlaka duyar.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 19,
+      "ayah": 5,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:5",
+      "word_position": 9,
+      "target_word_uthmani": "فَهَبْ",
+      "target_word_rasm": "فهب",
+      "target_word_literal_irab": "Kendi katından rahmet, temiz nesil, hikmet veya imkân bağışla (هَبْ — Form I emir/dua)",
+      "context_snippet_arabic": "وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ",
+      "context_snippet_turkish_tabula_rasa": "Benden sonra yerime geçecek, mirasıma konacak yakınlarımdan endişelenmekteyim, karım da kısır, sen bana katından bir oğul ihsan et de.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:wahaba|ROOT:whb|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Benden sonra yerime geçecek, mirasıma konacak yakınlarımdan endişelenmekteyim, karım da kısır, sen bana katından bir oğul ihsan et de.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 19,
+      "ayah": 19,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:19",
+      "word_position": 6,
+      "target_word_uthmani": "لِأَهَبَ",
+      "target_word_rasm": "لأهب",
+      "target_word_literal_irab": "Dilediğine karşılıksız kız veya erkek evlat bağışlamak (لِأَهَبَ / يَهَبُ — Form I muzârî)",
+      "context_snippet_arabic": "أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًا زَكِيًّا",
+      "context_snippet_turkish_tabula_rasa": "canlandırıcı hayat ve vahiy özü, ben demişti, ancak Rabbinin bir elçisiyim, sana bir erkek çocuk vermeye geldim.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wahaba|ROOT:whb|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًا زَكِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "canlandırıcı hayat ve vahiy özü, ben demişti, ancak Rabbinin bir elçisiyim, sana bir erkek çocuk vermeye geldim.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 19,
+      "ayah": 49,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:49",
+      "word_position": 8,
+      "target_word_uthmani": "وَهَبْنَا",
+      "target_word_rasm": "وهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ",
+      "context_snippet_turkish_tabula_rasa": "Onların ve Allah'tan başka kulluk ettikleri şeyleri bırakınca ona İshak'ı ve Yakup'u verdik ve hepsini de elçi ettik.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ وَكُلًّا جَعَلْنَا نَبِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların ve Allah'tan başka kulluk ettikleri şeyleri bırakınca ona İshak'ı ve Yakup'u verdik ve hepsini de elçi ettik.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 19,
+      "ayah": 50,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:50",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَهَبْنَا",
+      "target_word_rasm": "ووهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "وَوَهَبْنَا لَهُم مِّن رَّحْمَتِنَا",
+      "context_snippet_turkish_tabula_rasa": "Ve onlara rahmetimizden ihsanlar ettik, gerçek şöhretlerini yaydık, adlarını yücelttik.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُم مِّن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onlara rahmetimizden ihsanlar ettik, gerçek şöhretlerini yaydık, adlarını yücelttik.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 19,
+      "ayah": 53,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:53",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَهَبْنَا",
+      "target_word_rasm": "ووهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ",
+      "context_snippet_turkish_tabula_rasa": "Rahmetimizden bir lütuf olarak kardeşi Harun'u da elçi ettik.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Rahmetimizden bir lütuf olarak kardeşi Harun'u da elçi ettik.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 21,
+      "ayah": 72,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:72",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَهَبْنَا",
+      "target_word_rasm": "ووهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ",
+      "context_snippet_turkish_tabula_rasa": "Ve ona İshak'ı verdik, Yakup'u da istemeden ihsan ettik ve hepsini de temiz ve iyi kişiler kıldık.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ نَافِلَةً وَكُلًّا جَعَلْنَا صَٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ona İshak'ı verdik, Yakup'u da istemeden ihsan ettik ve hepsini de temiz ve iyi kişiler kıldık.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 21,
+      "ayah": 90,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:90",
+      "word_position": 3,
+      "target_word_uthmani": "وَوَهَبْنَا",
+      "target_word_rasm": "ووهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا",
+      "context_snippet_turkish_tabula_rasa": "Derken duasını kabul etmiştik onun ve ona Yahya'yı vermiştik ve karısının kısırlığını gidermiştik, doğurmaya kabiliyet vermiştik. Onlar, hayırlı işlerde...",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ إِنَّهُمْ كَانُوا۟ يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا۟ لَنَا خَٰشِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken duasını kabul etmiştik onun ve ona Yahya'yı vermiştik ve karısının kısırlığını gidermiştik, doğurmaya kabiliyet vermiştik. Onlar, hayırlı işlerde koşuşurlar, yarışırlar ve umarak, korkarak bize dua ederlerdi ve onlar, bize karşı gönül alçaklığı gösterirlerdi.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 25,
+      "ayah": 74,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:74",
+      "word_position": 4,
+      "target_word_uthmani": "هَبْ",
+      "target_word_rasm": "هب",
+      "target_word_literal_irab": "Kendi katından rahmet, temiz nesil, hikmet veya imkân bağışla (هَبْ — Form I emir/dua)",
+      "context_snippet_arabic": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا",
+      "context_snippet_turkish_tabula_rasa": "Ve öyle kişilerdir onlar ki Rabbimiz derler, eşlerimizden, soylarımızdan, gözlerimizi aydınlatacak kişiler ihsan et bize ve bizi, çekinenlere rehber kıl.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:wahaba|ROOT:whb|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve öyle kişilerdir onlar ki Rabbimiz derler, eşlerimizden, soylarımızdan, gözlerimizi aydınlatacak kişiler ihsan et bize ve bizi, çekinenlere rehber kıl.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 26,
+      "ayah": 21,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:21",
+      "word_position": 5,
+      "target_word_uthmani": "فَوَهَبَ",
+      "target_word_rasm": "فوهب",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًا",
+      "context_snippet_turkish_tabula_rasa": "Korktuğumdan da hemen kaçtım sizden, derken Rabbim bana elçilik görevi verdi ve beni, elçiler zümresine aldı.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|3MS"
+      },
+      "ayah_text_arabic_full": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًا وَجَعَلَنِى مِنَ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Korktuğumdan da hemen kaçtım sizden, derken Rabbim bana elçilik görevi verdi ve beni, elçiler zümresine aldı.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 26,
+      "ayah": 83,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:83",
+      "word_position": 2,
+      "target_word_uthmani": "هَبْ",
+      "target_word_rasm": "هب",
+      "target_word_literal_irab": "Kendi katından rahmet, temiz nesil, hikmet veya imkân bağışla (هَبْ — Form I emir/dua)",
+      "context_snippet_arabic": "رَبِّ هَبْ لِى حُكْمًا وَأَلْحِقْنِى",
+      "context_snippet_turkish_tabula_rasa": "Rabbim, bana elçilik görevi ver ve beni temiz kişilere kat.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:wahaba|ROOT:whb|2MS"
+      },
+      "ayah_text_arabic_full": "رَبِّ هَبْ لِى حُكْمًا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbim, bana elçilik görevi ver ve beni temiz kişilere kat.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 29,
+      "ayah": 27,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:27",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَهَبْنَا",
+      "target_word_rasm": "ووهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ",
+      "context_snippet_turkish_tabula_rasa": "Ve ona İshak ve Yakup'u verdik ve soyuna, elçilik görevi ve kitap ihsan ettik ve dünyada, mükafatını verdik onun ve şüphe yok ki o, ahirette de elbette temiz...",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ وَءَاتَيْنَٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ona İshak ve Yakup'u verdik ve soyuna, elçilik görevi ve kitap ihsan ettik ve dünyada, mükafatını verdik onun ve şüphe yok ki o, ahirette de elbette temiz kişilerdendir.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 33,
+      "ayah": 50,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:50",
+      "word_position": 31,
+      "target_word_uthmani": "وَهَبَتْ",
+      "target_word_rasm": "وهبت",
+      "target_word_literal_irab": "Mehir bedeli gözetmeden kendi gönlüyle kendini bağışlarsa (وَهَبَتْ — Form I mâzî müennes)",
+      "context_snippet_arabic": "وَٱمْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi, mehirlerini verdiğin eşlerini ve Allah'ın ganimet olarak sana ihsan ettiği ve senin de temellük ettiğin cariyeleri, amcanın, halanın, dayının ve...",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|3FS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةً لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi, mehirlerini verdiğin eşlerini ve Allah'ın ganimet olarak sana ihsan ettiği ve senin de temellük ettiğin cariyeleri, amcanın, halanın, dayının ve teyzenin, seninle beraber yurdundan göçen kızlarını helal ettik sana. Bir de güvene eren bir kadın, kendisini elçiye bağışlar da elçi de dilediği takdirde onu nikahla almak isterse bu, yalnız sana helaldir, başka güvene erenlere değil. Sana bir güçlük olmasın diye onlara, eşleri ve sahip oldukları cariyeleri hakkında ne farz ettiğimizi de gerçekten bildirdik ve Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "İnsani düzlemde bedelsiz bağış: bir kadının mehir bedeli olmaksızın kendi iradesiyle kendini elçiye bağışlamasına ilişkin özel hukuki düzenleme (إِن وَهَبَتْ نَفْسَهَا - 33:50)."
+    },
+    {
+      "surah": 37,
+      "ayah": 100,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:100",
+      "word_position": 2,
+      "target_word_uthmani": "هَبْ",
+      "target_word_rasm": "هب",
+      "target_word_literal_irab": "Kendi katından rahmet, temiz nesil, hikmet veya imkân bağışla (هَبْ — Form I emir/dua)",
+      "context_snippet_arabic": "رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbim, bana temiz kişilerden olmak şartıyla bir oğul ihsan et.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:wahaba|ROOT:whb|2MS"
+      },
+      "ayah_text_arabic_full": "رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbim, bana temiz kişilerden olmak şartıyla bir oğul ihsan et.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 38,
+      "ayah": 9,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:9",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْوَهَّابِ",
+      "target_word_rasm": "ٱلوهاب",
+      "target_word_literal_irab": "Rahmet hazinelerinin sahibi, karşılıksız bolca bağışlayan (ٱلْعَزِيزِ ٱلْوَهَّابِ — mübalağalı sıfat, mecrûr)",
+      "context_snippet_arabic": "رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa üstün ve vergisi bol Rabbinin hazineleri, onların yanında mı?",
+      "morphology": {
+        "lemma": "wah~aAb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:wah~aAb|ROOT:whb|MS|GEN"
+      },
+      "ayah_text_arabic_full": "أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa üstün ve vergisi bol Rabbinin hazineleri, onların yanında mı?",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 38,
+      "ayah": 30,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:30",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَهَبْنَا",
+      "target_word_rasm": "ووهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "وَوَهَبْنَا لِدَاوُۥدَ سُلَيْمَٰنَ نِعْمَ",
+      "context_snippet_turkish_tabula_rasa": "Ve Davud'a.Süleyman'ı ihsan ettik, ne güzel bir kuldu, şüphe yok ki o, daima Rabbine dönen, tövbe eden bir kuldu.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لِدَاوُۥدَ سُلَيْمَٰنَ نِعْمَ ٱلْعَبْدُ إِنَّهُۥٓ أَوَّابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Davud'a.Süleyman'ı ihsan ettik, ne güzel bir kuldu, şüphe yok ki o, daima Rabbine dönen, tövbe eden bir kuldu.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 38,
+      "ayah": 35,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:35",
+      "word_position": 5,
+      "target_word_uthmani": "وَهَبْ",
+      "target_word_rasm": "وهب",
+      "target_word_literal_irab": "Kendi katından rahmet, temiz nesil, hikmet veya imkân bağışla (هَبْ — Form I emir/dua)",
+      "context_snippet_arabic": "رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا",
+      "context_snippet_turkish_tabula_rasa": "Rabbim demişti, beni yarlıga ve bana öyle bir saltanat ver ki benden sonra hiçbir kimse nail olamasın o saltanata, şüphe yok ki senin vergin, ihsanın, boldur.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:wahaba|ROOT:whb|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbim demişti, beni yarlıga ve bana öyle bir saltanat ver ki benden sonra hiçbir kimse nail olamasın o saltanata, şüphe yok ki senin vergin, ihsanın, boldur.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 38,
+      "ayah": 35,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:35",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْوَهَّابُ",
+      "target_word_rasm": "ٱلوهاب",
+      "target_word_literal_irab": "Şüphesiz karşılıksız ve kesintisiz bolca bağışlayan sensin (ٱلْوَهَّابُ — فَعَّال mübalağalı isim, merfû)",
+      "context_snippet_arabic": "بَعْدِىٓ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "context_snippet_turkish_tabula_rasa": "Rabbim demişti, beni yarlıga ve bana öyle bir saltanat ver ki benden sonra hiçbir kimse nail olamasın o saltanata, şüphe yok ki senin vergin, ihsanın, boldur.",
+      "morphology": {
+        "lemma": "wah~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:wah~aAb|ROOT:whb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbim demişti, beni yarlıga ve bana öyle bir saltanat ver ki benden sonra hiçbir kimse nail olamasın o saltanata, şüphe yok ki senin vergin, ihsanın, boldur.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 38,
+      "ayah": 43,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:43",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَهَبْنَا",
+      "target_word_rasm": "ووهبنا",
+      "target_word_literal_irab": "Elçilere karşılıksız evlat, kardeş desteği, rahmet, hikmet veya aile bağışladık / bağışladı (وَهَبَ / وَهَبْنَا — Form I mâzî)",
+      "context_snippet_arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم",
+      "context_snippet_turkish_tabula_rasa": "Ve ona ailesini de ve onlarla beraber daha bir mislini de, bizden bir rahmet ve aklı başında.olanlara da bir öğüt ve ibret olmak üzere verdik.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wahaba|ROOT:whb|1P"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ona ailesini de ve onlarla beraber daha bir mislini de, bizden bir rahmet ve aklı başında.olanlara da bir öğüt ve ibret olmak üzere verdik.",
+      "contextual_meaning": "Rahmet, hikmet, kardeş desteği ve yönetim bağışı: kalplerin sapmaması için rahmet yakarışı (3:8), Mûsâ'ya Hârûn'un ve hikmetin verilmesi (19:53, 26:21), Süleymân ve Eyyûb'a bağış (38:35, 38:43) ve Allah'ın ٱلْوَهَّاب ismi (3:8, 38:9, 38:35)."
+    },
+    {
+      "surah": 42,
+      "ayah": 49,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:49",
+      "word_position": 8,
+      "target_word_uthmani": "يَهَبُ",
+      "target_word_rasm": "يهب",
+      "target_word_literal_irab": "Dilediğine karşılıksız kız veya erkek evlat bağışlamak (لِأَهَبَ / يَهَبُ — Form I muzârî)",
+      "context_snippet_arabic": "يَخْلُقُ مَا يَشَآءُ يَهَبُ لِمَن يَشَآءُ إِنَٰثًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ındır göklerin ve yeryüzünün saltanatı ve tedbiri, dilediğini yaratır, dilediğine kız evlat verir ve dilediğine oğlan evlat.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wahaba|ROOT:whb|3MS"
+      },
+      "ayah_text_arabic_full": "لِّلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَخْلُقُ مَا يَشَآءُ يَهَبُ لِمَن يَشَآءُ إِنَٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ındır göklerin ve yeryüzünün saltanatı ve tedbiri, dilediğini yaratır, dilediğine kız evlat verir ve dilediğine oğlan evlat.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    },
+    {
+      "surah": 42,
+      "ayah": 49,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:49",
+      "word_position": 12,
+      "target_word_uthmani": "وَيَهَبُ",
+      "target_word_rasm": "ويهب",
+      "target_word_literal_irab": "Dilediğine karşılıksız kız veya erkek evlat bağışlamak (لِأَهَبَ / يَهَبُ — Form I muzârî)",
+      "context_snippet_arabic": "لِمَن يَشَآءُ إِنَٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ındır göklerin ve yeryüzünün saltanatı ve tedbiri, dilediğini yaratır, dilediğine kız evlat verir ve dilediğine oğlan evlat.",
+      "morphology": {
+        "lemma": "wahaba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wahaba|ROOT:whb|3MS"
+      },
+      "ayah_text_arabic_full": "لِّلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَخْلُقُ مَا يَشَآءُ يَهَبُ لِمَن يَشَآءُ إِنَٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ındır göklerin ve yeryüzünün saltanatı ve tedbiri, dilediğini yaratır, dilediğine kız evlat verir ve dilediğine oğlan evlat.",
+      "contextual_meaning": "Karşılıksız nesil ve evlat bağışı: yaşlılık veya kısırlık sınırlarına rağmen İbrâhim, Zekeriyyâ, Meryem ve Dâvûd'a temiz evlatlar bağışlanması ile Allah'ın dilediğine kız veya erkek çocuk ihsan etmesi (42:49)."
+    }
+  ]
+}
