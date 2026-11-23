@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 500 mühürlü kökten (`%88,50`) sonra, 8 kısa sureyi daha `%100` kilitleyen kökler (Sure 94, 96, 97, 98, 99, 102, 103, 110 → **15 tam kilitli sure**), 3 açık Mesânî referanslı tüm tepe uçlar (6/6), kritik doktrinel/çok-asıllı mayınlar ve kalan en yüksek frekanslı çekirdek kökler (**50 kök** / 870 geçiş) mühürlenerek toplam sözlük **550 kilitli köke (`%90,24` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%93,70`'i)** ulaştırılır.
-> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 520 Kök | Güncel Kapsam: %88,79)
+> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 530 Kök | Güncel Kapsam: %89,06)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -27,16 +27,16 @@
 | 18 | Kısa Sure & Tepe Mesânî | 820 | `ن-ف-د` | `N-F-D` | **5** | 4 | 16:96 | Nefâd (Birikimin ve Kaynağın Harcanarak Tükenip Kesilmesi) | ✅ **MÜHÜRLÜ** |
 | 19 | Kısa Sure & Tepe Mesânî | 1534 | `ف-ن-ي` | `F-N-Y` | **1** | 1 | 55:26 | Fenâ ve Fânî (Varlığın Kesilip Gelip Geçici Olması) | ✅ **MÜHÜRLÜ** |
 | 20 | Kısa Sure & Tepe Mesânî | 696 | `ن-د-د` | `N-D-D` | **6** | 6 | 2:22 | Nidd ve Endâd (Karşı Kutupta Dikilen Rakip Eşler ve Denkler) | ✅ **MÜHÜRLÜ** |
-| 21 | Açık Mesânî & Doktrin | 492 | `ص-غ-ر` | `S-G-R` | **13** | 13 | 2:282 | Sağîr, Sağîra ve Sâğirûn (2 Mesânî + 2 Furûk ref! ك-ب-ر ve ع-ظ-م zıddı: 18:49 küçük-büyük her kayıt, 7:13 küçülmüş olarak) | ⏳ *Bekliyor* |
-| 22 | Açık Mesânî & Doktrin | 397 | `ح-م-م` | `H-M-M` | **21** | 20 | 6:70 | Hamîm ve Yahmûm (2 Mesânî + 1 Furûk ref! 21 geçiş: kaynar yakıcı su VE candan yakın dost çift kolu!) | ⏳ *Bekliyor* |
-| 23 | Açık Mesânî & Doktrin | 730 | `ش-ف-ي` | `S-F-Y` | **6** | 6 | 9:14 | Şifâ' ve Yeşfî (2 Mesânî + 1 Furûk ref! 10:57, 16:69, 17:82, 26:80, 41:44 gönüllere ve bedenlere onarıcı şifa) | ⏳ *Bekliyor* |
-| 24 | Açık Mesânî & Doktrin | 532 | `ش-ي-ع` | `S-Y-A` | **12** | 11 | 6:65 | Şîa, Şiye' ve Teşîa (2 açık Mesânî ref! 6:65, 6:159, 28:4, 30:32 fırkalara bölünmek ve 24:19 çirkinliğin yayılması) | ⏳ *Bekliyor* |
-| 25 | Açık Mesânî & Doktrin | 535 | `ع-ذ-ر` | `A-Z-R` | **12** | 11 | 7:164 | Uzr, Ma'zire ve İ'tizâr (2 açık Mesânî ref! 7:164, 9:90, 18:76, 77:6 geçerli mazeret sunmak ve bahaneler üretmek) | ⏳ *Bekliyor* |
-| 26 | Açık Mesânî & Doktrin | 576 | `ع-ز-ل` | `A-Z-L` | **10** | 10 | 2:222 | İ'tizâl ve Ma'zil (2 açık Mesânî ref! 2:222, 11:42, 18:16, 19:48-49, 26:212 kenara çekilip uzaklaşmak) | ⏳ *Bekliyor* |
-| 27 | Açık Mesânî & Doktrin | 588 | `د-م-ر` | `D-M-R` | **10** | 8 | 7:137 | Tedmîr (2 açık Mesânî ref! 7:137, 17:16, 25:36, 46:25, 47:10 kökten yıkıp tarumar etmek) | ⏳ *Bekliyor* |
-| 28 | Açık Mesânî & Doktrin | 606 | `ب-ر-ز` | `B-R-Z` | **9** | 9 | 2:250 | Burûz ve Bârize (2 açık Mesânî ref! 2:250, 3:154, 14:21, 18:47, 40:16 açık düzlüğe ve ortaya çıkmak) | ⏳ *Bekliyor* |
-| 29 | Açık Mesânî & Doktrin | 394 | `س-ن-ن` | `S-N-N` | **21** | 15 | 3:137 | Sünnet, Mesnûn ve Sinn (21 geçiş — DEV doktrinel kök! Allah'ın değişmez yasası [33:62, 35:43], şekillenmiş balçık [15:26], diş [5:45]) | ⏳ *Bekliyor* |
-| 30 | Açık Mesânî & Doktrin | 390 | `م-ن-ي` | `M-N-Y` | **21** | 18 | 2:78 | Ümniyye, Emânî, Temennî ve Menî (1 Mesânî + 2 Furûk ref! 21 geçiş: kuruntu/okuma [2:78, 22:52] ve menî/ölçü [53:46, 75:37]) | ⏳ *Bekliyor* |
+| 21 | Açık Mesânî & Doktrin | 492 | `ص-غ-ر` | `S-G-R` | **13** | 13 | 2:282 | Sıgar ve Sagâr (Nicel/Yaşsal Küçüklük ve Kibrin Kırılıp Alçalması) | ✅ **MÜHÜRLÜ** |
+| 22 | Açık Mesânî & Doktrin | 397 | `ح-م-م` | `H-M-M` | **21** | 20 | 6:70 | Hamîm ve Yahmûm (Kaynar Su, Candan Sıcak Dost ve Kapkara Duman) | ✅ **MÜHÜRLÜ** |
+| 23 | Açık Mesânî & Doktrin | 730 | `ش-ف-ي` | `S-F-Y` | **6** | 6 | 9:14 | Şifâ (Hastalığı ve Göğüslerdeki Yarayı Giderip Esenliğe Kavuşturmak) | ✅ **MÜHÜRLÜ** |
+| 24 | Açık Mesânî & Doktrin | 532 | `ش-ي-ع` | `S-Y-A` | **12** | 11 | 6:65 | Şî'a, Şiya' ve Şuyû' (Taraftar Grubu, Hizipleşme ve Ortalığa Yayılmak) | ✅ **MÜHÜRLÜ** |
+| 25 | Açık Mesânî & Doktrin | 535 | `ع-ذ-ر` | `A-Z-R` | **12** | 11 | 7:164 | Uzr, Ma'zire ve İ'tizâr (Haklı Aklanma Gerekçesi ve Bahane/Özür Beyanı) | ✅ **MÜHÜRLÜ** |
+| 26 | Açık Mesânî & Doktrin | 576 | `ع-ز-ل` | `A-Z-L` | **10** | 10 | 2:222 | Azl ve İ'tizâl (Kenara Ayırmak, Uzak Durmak ve Bilinçli Ayrışmak) | ✅ **MÜHÜRLÜ** |
+| 27 | Açık Mesânî & Doktrin | 588 | `د-م-ر` | `D-M-R` | **10** | 8 | 7:137 | Tedmîr (Ansızın Bastırıp Yapıyı ve Yurdu Yerle Bir Etmek) | ✅ **MÜHÜRLÜ** |
+| 28 | Açık Mesânî & Doktrin | 606 | `ب-ر-ز` | `B-R-Z` | **9** | 9 | 2:250 | Burûz ve Tebrîz (Örtüden Sıyrılıp Engelsiz Açık Alana Çıkmak ve Belirmek) | ✅ **MÜHÜRLÜ** |
+| 29 | Açık Mesânî & Doktrin | 394 | `س-ن-ن` | `S-N-N` | **21** | 15 | 3:137 | Sünnet, Mesnûn ve Sinn (Değişmez İlahî Yasa, Biçimlenmiş Balçık ve Diş) | ✅ **MÜHÜRLÜ** |
+| 30 | Açık Mesânî & Doktrin | 390 | `م-ن-ي` | `M-N-Y` | **21** | 18 | 2:78 | Temennî, Emânî ve Menî (Zihinsel Kurgu/Arzu ve Ölçüyle Akıtılan Üreme Sıvısı) | ✅ **MÜHÜRLÜ** |
 | 31 | Doktrinel & Çok Asıllı | 254 | `أ-ل-و` | `E-L-W` | **37** | 37 | 2:226 | Âlâ', Îlâ' ve Ye'lû (37 geçiş — 3 ayrı kol! Rahmân suresi 31x "nimet/güzellikler", 2:226 eşlerden uzaklaşma yemini, 3:118 geri durmama) | ⏳ *Bekliyor* |
 | 32 | Doktrinel & Çok Asıllı | 262 | `ق-ر-ن` | `K-R-N` | **36** | 34 | 4:38 | Karîn, Karn, Mukarrenîn ve Zü'l-Karneyn (36 geçiş: yakın eş/yoldaş [43:36, 50:23], nesil/çağ [6:6], zincirle bağlananlar [14:49]) | ⏳ *Bekliyor* |
 | 33 | Doktrinel & Çok Asıllı | 261 | `أ-و-ي` | `E-W-Y` | **36** | 36 | 3:151 | Me'vâ, Îvâ ve Evâ (36 geçiş | 1M+2F + Sure 93 Duhâ: barındırıp sığınak sağlamak [93:6, 8:72, 18:10] ve nihai barınak [79:39-41]) | ⏳ *Bekliyor* |

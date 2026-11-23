@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3F (Kısa Sureler %100 Tam Kilit Genişletmesi [15 Sure], 3 Açık Mesânî Tepe Uçları ve %90+ Kök Kapsamı Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 20,
+  "locked_count": 30,
   "total_tokens_in_package": 870,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 88.79,
+  "current_coverage_pct": 89.06,
   "target_coverage_pct": 90.24,
   "etap_3f_roots": [
     {
@@ -378,8 +378,8 @@
       "frequency": 13,
       "unique_ayahs": 13,
       "rationale": "Sağîr, Sağîra ve Sâğirûn (2 Mesânî + 2 Furûk ref! ك-ب-ر ve ع-ظ-م zıddı: 18:49 küçük-büyük her kayıt, 7:13 küçülmüş olarak)",
-      "concept_label": "Analiz Bekliyor (Sa`giruwn, Sagiyr, Sagiyrap, >aSogar)",
-      "is_locked": false,
+      "concept_label": "Sıgar ve Sagâr (Nicel/Yaşsal Küçüklük ve Kibrin Kırılıp Alçalması)",
+      "is_locked": true,
       "sample_ayah": "2:282",
       "top_lemmas": [
         "Sa`giruwn",
@@ -398,8 +398,8 @@
       "frequency": 21,
       "unique_ayahs": 20,
       "rationale": "Hamîm ve Yahmûm (2 Mesânî + 1 Furûk ref! 21 geçiş: kaynar yakıcı su VE candan yakın dost çift kolu!)",
-      "concept_label": "Analiz Bekliyor (Hamiym, yaHomuwm)",
-      "is_locked": false,
+      "concept_label": "Hamîm ve Yahmûm (Kaynar Su, Candan Sıcak Dost ve Kapkara Duman)",
+      "is_locked": true,
       "sample_ayah": "6:70",
       "top_lemmas": [
         "Hamiym",
@@ -416,8 +416,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Şifâ' ve Yeşfî (2 Mesânî + 1 Furûk ref! 10:57, 16:69, 17:82, 26:80, 41:44 gönüllere ve bedenlere onarıcı şifa)",
-      "concept_label": "Analiz Bekliyor ($ifaA^', ya$ofi)",
-      "is_locked": false,
+      "concept_label": "Şifâ (Hastalığı ve Göğüslerdeki Yarayı Giderip Esenliğe Kavuşturmak)",
+      "is_locked": true,
       "sample_ayah": "9:14",
       "top_lemmas": [
         "$ifaA^'",
@@ -434,8 +434,8 @@
       "frequency": 12,
       "unique_ayahs": 11,
       "rationale": "Şîa, Şiye' ve Teşîa (2 açık Mesânî ref! 6:65, 6:159, 28:4, 30:32 fırkalara bölünmek ve 24:19 çirkinliğin yayılması)",
-      "concept_label": "Analiz Bekliyor ($iyEap, ta$iyEa)",
-      "is_locked": false,
+      "concept_label": "Şî'a, Şiya' ve Şuyû' (Taraftar Grubu, Hizipleşme ve Ortalığa Yayılmak)",
+      "is_locked": true,
       "sample_ayah": "6:65",
       "top_lemmas": [
         "$iyEap",
@@ -452,8 +452,8 @@
       "frequency": 12,
       "unique_ayahs": 11,
       "rationale": "Uzr, Ma'zire ve İ'tizâr (2 açık Mesânî ref! 7:164, 9:90, 18:76, 77:6 geçerli mazeret sunmak ve bahaneler üretmek)",
-      "concept_label": "Analiz Bekliyor (yaEota*iru, maEo*irap, Eu*or, muEa*~iruwn)",
-      "is_locked": false,
+      "concept_label": "Uzr, Ma'zire ve İ'tizâr (Haklı Aklanma Gerekçesi ve Bahane/Özür Beyanı)",
+      "is_locked": true,
       "sample_ayah": "7:164",
       "top_lemmas": [
         "yaEota*iru",
@@ -472,8 +472,8 @@
       "frequency": 10,
       "unique_ayahs": 10,
       "rationale": "İ'tizâl ve Ma'zil (2 açık Mesânî ref! 2:222, 11:42, 18:16, 19:48-49, 26:212 kenara çekilip uzaklaşmak)",
-      "concept_label": "Analiz Bekliyor ({Eotazala, maEozil, maEozuwluwn, Eazalo)",
-      "is_locked": false,
+      "concept_label": "Azl ve İ'tizâl (Kenara Ayırmak, Uzak Durmak ve Bilinçli Ayrışmak)",
+      "is_locked": true,
       "sample_ayah": "2:222",
       "top_lemmas": [
         "{Eotazala",
@@ -492,8 +492,8 @@
       "frequency": 10,
       "unique_ayahs": 8,
       "rationale": "Tedmîr (2 açık Mesânî ref! 7:137, 17:16, 25:36, 46:25, 47:10 kökten yıkıp tarumar etmek)",
-      "concept_label": "Analiz Bekliyor (dam~ara, tadomiyr)",
-      "is_locked": false,
+      "concept_label": "Tedmîr (Ansızın Bastırıp Yapıyı ve Yurdu Yerle Bir Etmek)",
+      "is_locked": true,
       "sample_ayah": "7:137",
       "top_lemmas": [
         "dam~ara",
@@ -510,8 +510,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Burûz ve Bârize (2 açık Mesânî ref! 2:250, 3:154, 14:21, 18:47, 40:16 açık düzlüğe ve ortaya çıkmak)",
-      "concept_label": "Analiz Bekliyor (baraza, bur~izati, baArizap, ba`rizuwn)",
-      "is_locked": false,
+      "concept_label": "Burûz ve Tebrîz (Örtüden Sıyrılıp Engelsiz Açık Alana Çıkmak ve Belirmek)",
+      "is_locked": true,
       "sample_ayah": "2:250",
       "top_lemmas": [
         "baraza",
@@ -530,8 +530,8 @@
       "frequency": 21,
       "unique_ayahs": 15,
       "rationale": "Sünnet, Mesnûn ve Sinn (21 geçiş — DEV doktrinel kök! Allah'ın değişmez yasası [33:62, 35:43], şekillenmiş balçık [15:26], diş [5:45])",
-      "concept_label": "Analiz Bekliyor (sun~ap, m~asonuwn, s~in~)",
-      "is_locked": false,
+      "concept_label": "Sünnet, Mesnûn ve Sinn (Değişmez İlahî Yasa, Biçimlenmiş Balçık ve Diş)",
+      "is_locked": true,
       "sample_ayah": "3:137",
       "top_lemmas": [
         "sun~ap",
@@ -549,8 +549,8 @@
       "frequency": 21,
       "unique_ayahs": 18,
       "rationale": "Ümniyye, Emânî, Temennî ve Menî (1 Mesânî + 2 Furûk ref! 21 geçiş: kuruntu/okuma [2:78, 22:52] ve menî/ölçü [53:46, 75:37])",
-      "concept_label": "Analiz Bekliyor (>umoniy~at, yataman~a, taman~aY`^, yumonaY`)",
-      "is_locked": false,
+      "concept_label": "Temennî, Emânî ve Menî (Zihinsel Kurgu/Arzu ve Ölçüyle Akıtılan Üreme Sıvısı)",
+      "is_locked": true,
       "sample_ayah": "2:78",
       "top_lemmas": [
         ">umoniy~at",
