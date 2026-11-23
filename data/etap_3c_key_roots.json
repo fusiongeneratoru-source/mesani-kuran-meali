@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3C (Son Mayın Temizliği, Hukuk-Ritüel-Kısa Sure Kilitleri ve Açık Mesânî Zırhı — 48 Kök)",
   "target_count": 48,
-  "locked_count": 30,
+  "locked_count": 40,
   "total_tokens_in_package": 714,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 83.93,
+  "current_coverage_pct": 84.08,
   "target_coverage_pct": 84.51,
   "etap_3c_roots": [
     {
@@ -600,8 +600,8 @@
       "frequency": 15,
       "unique_ayahs": 11,
       "rationale": "Harac (22:78, 5:6, 4:65, 33:37-38 dinde darlık ve baskı yokluğu ilkesi — göğsün daralması çıpası)",
-      "concept_label": "Analiz Bekliyor (Haraj)",
-      "is_locked": false,
+      "concept_label": "Harac (Nefes Aldırmayan Sıkışık Boğucu Darlık — Yaşam Düzeninde ve Engelli/Hasta Haklarında Baskının Kaldırılması)",
+      "is_locked": true,
       "sample_ayah": "4:65",
       "top_lemmas": [
         "Haraj"
@@ -617,8 +617,8 @@
       "frequency": 8,
       "unique_ayahs": 8,
       "rationale": "Bühtân (2:258 şaşırıp donakalma somut çıpası + masumu şoke eden ağır iftira — İfk/Zûr/Kezib Furûku)",
-      "concept_label": "Analiz Bekliyor (buhota`n, buhita)",
-      "is_locked": false,
+      "concept_label": "Beht ve Bühtân (Cevap Veremez Hâlde Şoke Edip Dondurmak ve Masumu Donduran Ağır İftira)",
+      "is_locked": true,
       "sample_ayah": "2:258",
       "top_lemmas": [
         "buhota`n",
@@ -635,8 +635,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Necs (9:28 tek geçiş: bedensel/ırksal değil, ortak koşmadan doğan inançsal-ahlaki kirlilik)",
-      "concept_label": "Analiz Bekliyor (najas)",
-      "is_locked": false,
+      "concept_label": "Neces (Arınmışlığın Zıttı Manevi ve Kurumsal Kirlilik — Bedensel Dokunulmazlık Değil Putperest Zihniyetin Dışlanması)",
+      "is_locked": true,
       "sample_ayah": "9:28",
       "top_lemmas": [
         "najas"
@@ -652,8 +652,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Nahr (108:2 tek geçiş: Kevser suresinde dik durup yönelme / kurban paylaşımı filolojik hakemliği)",
-      "concept_label": "Analiz Bekliyor ({noHaro)",
-      "is_locked": false,
+      "concept_label": "Nahr (Göğüs Çukuruna Yönelmek: Yalnızca Rab Adına Cömertçe Kesip Paylaşmak ve Göğsünü Kararlılıkla Doğrultmak)",
+      "is_locked": true,
       "sample_ayah": "108:2",
       "top_lemmas": [
         "{noHaro"
@@ -669,8 +669,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Mâûn (107:7 tek geçiş: en temel komşuluk yardımı ve toplumsal dayanışmayı engelleme eleştirisi)",
-      "concept_label": "Analiz Bekliyor (maAEuwn)",
-      "is_locked": false,
+      "concept_label": "Mâûn (Toplumda Su Gibi Kolayca Akıp Dolaşması Gereken Gündelik Temel Yardım ve Ortak Kullanım Araçları)",
+      "is_locked": true,
       "sample_ayah": "107:7",
       "top_lemmas": [
         "maAEuwn"
@@ -686,8 +686,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Nefs / Neffâsât (113:4 tek geçiş: düğümlere üfleyerek bağları ve anlaşmaları zehirleyen gizli fitne)",
-      "concept_label": "Analiz Bekliyor (n~af~a`va`t)",
-      "is_locked": false,
+      "concept_label": "Neffâsât (En Hafif Fısıltı ve Nefesle Düğümlere ve Kurulu Sağlam Bağlara Zehir/Fesat Üflemek)",
+      "is_locked": true,
       "sample_ayah": "113:4",
       "top_lemmas": [
         "n~af~a`va`t"
@@ -703,8 +703,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Hukub ve Ahkâb (18:60 uzun çağlar + 78:23 sonsuzluk değil uzun dönemler/çağlar boyu kalış!)",
-      "concept_label": "Analiz Bekliyor (Huqub, >aHoqaAb)",
-      "is_locked": false,
+      "concept_label": "Hukub ve Ahkâb (Yılların Biriktiği Uzun Çağ/Devir ve Art Arda Gelen Uzun Çağlar)",
+      "is_locked": true,
       "sample_ayah": "18:60",
       "top_lemmas": [
         "Huqub",
@@ -721,8 +721,8 @@
       "frequency": 11,
       "unique_ayahs": 11,
       "rationale": "Lağv (2:225 kasıtsız söz, 23:3/25:72 anlamsız boş sözden onurla yüz çevirme ve 41:26 gürültü çıkarma)",
-      "concept_label": "Analiz Bekliyor (lagow, {loga, la`giyap)",
-      "is_locked": false,
+      "concept_label": "Lağv (Ağırlığı, Faydası ve Bağlayıcılığı Olmayan Boş Söz ve Anlamsız Yaygara)",
+      "is_locked": true,
       "sample_ayah": "2:225",
       "top_lemmas": [
         "lagow",
@@ -740,8 +740,8 @@
       "frequency": 16,
       "unique_ayahs": 15,
       "rationale": "Lehv (asıl amaçtan koparan oyalanma, 31:6 boş söz ticareti ve 62:11 ticaret-eğlenceye dağılma)",
-      "concept_label": "Analiz Bekliyor (lahow, >alohaY`, laAhiyap, talah~aY`)",
-      "is_locked": false,
+      "concept_label": "Lehv ve İlhâ (İnsanı Asıl Önemli ve Kalıcı Hedeften Koparıp Geçici Şeylerle Oyalamak)",
+      "is_locked": true,
       "sample_ayah": "6:32",
       "top_lemmas": [
         "lahow",
@@ -760,8 +760,8 @@
       "frequency": 20,
       "unique_ayahs": 20,
       "rationale": "Laib (ciddiyetsiz oyun — lehv vs laib aynı ayet içi Furûku: 6:32, 29:64, 47:36, 57:20)",
-      "concept_label": "Analiz Bekliyor (yaloEabo, laEib, la`Eibiyn)",
-      "is_locked": false,
+      "concept_label": "La'ib (Kalıcı Doğrultusu Olmayan Amaçsız Oyun ve Varoluşsal Hakikat Karşıtlığı)",
+      "is_locked": true,
       "sample_ayah": "5:57",
       "top_lemmas": [
         "yaloEabo",

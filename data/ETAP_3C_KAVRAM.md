@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 352 mühürlü kökten (`%83,08`) sonra, meal aşamasına geçmeden önce ceza-aile-ibadet hukuku düğümlerini, kısa sure kilitlerini ve en yüksek açık Mesânî referanslarını kapatan **48 kritik kök** (714 geçiş) mühürlenerek toplam sözlük **400 kilitli köke (`%84,51` kümülatif kapsam)** ulaştırılır.
-> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 30 / 48 Kök (Toplam Mühürlü: 382 Kök | Güncel Kapsam: %83,93)
+> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 40 / 48 Kök (Toplam Mühürlü: 392 Kök | Güncel Kapsam: %84,08)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -37,16 +37,16 @@
 | 28 | İbadet ve Teoloji | 674 | `س-ك-ر` | `S-K-R` | **7** | 6 | 4:43 | Sekr ve Sekre (Bakışın ve Bilincin Önünün Tıkanıp Sersemlemesi — Bilinç Berraklığı Yasası) | ✅ **MÜHÜRLÜ** |
 | 29 | İbadet ve Teoloji | 559 | `ق-ص-ر` | `K-S-R` | **11** | 11 | 4:101 | Kasr ve Taksîr (Sınır Çekerek Kısaltmak, Geri Durmak, Bakışı Odaklamak ve Surlu Köşk/Saray) | ✅ **MÜHÜRLÜ** |
 | 30 | İbadet ve Teoloji | 597 | `ذ-ب-ح` | `Z-B-H` | **9** | 9 | 2:49 | Zebh ve Tezbîh (Boğazı Yarıp Kesmek: Firavun Katliamı, Sunak Yasağı ve İnsan Canının Kurtarılması) | ✅ **MÜHÜRLÜ** |
-| 31 | Zihin, Etik ve Mesânî | 466 | `ح-ر-ج` | `H-R-C` | **15** | 11 | 4:65 | Harac (22:78, 5:6, 4:65, 33:37-38 dinde darlık ve baskı yokluğu ilkesi — göğsün daralması çıpası) | ⏳ *Bekliyor* |
-| 32 | Zihin, Etik ve Mesânî | 637 | `ب-ه-ت` | `B-H-T` | **8** | 8 | 2:258 | Bühtân (2:258 şaşırıp donakalma somut çıpası + masumu şoke eden ağır iftira — İfk/Zûr/Kezib Furûku) | ⏳ *Bekliyor* |
-| 33 | Kısa Sure ve Ritüel | 1323 | `ن-ج-س` | `N-C-S` | **1** | 1 | 9:28 | Necs (9:28 tek geçiş: bedensel/ırksal değil, ortak koşmadan doğan inançsal-ahlaki kirlilik) | ⏳ *Bekliyor* |
-| 34 | Kısa Sure ve Ritüel | 1635 | `ن-ح-ر` | `N-H-R` | **1** | 1 | 108:2 | Nahr (108:2 tek geçiş: Kevser suresinde dik durup yönelme / kurban paylaşımı filolojik hakemliği) | ⏳ *Bekliyor* |
-| 35 | Kısa Sure ve Ritüel | 1634 | `م-ع-ن` | `M-A-N` | **1** | 1 | 107:7 | Mâûn (107:7 tek geçiş: en temel komşuluk yardımı ve toplumsal dayanışmayı engelleme eleştirisi) | ⏳ *Bekliyor* |
-| 36 | Kısa Sure ve Ritüel | 1642 | `ن-ف-ث` | `N-F-S` | **1** | 1 | 113:4 | Nefs / Neffâsât (113:4 tek geçiş: düğümlere üfleyerek bağları ve anlaşmaları zehirleyen gizli fitne) | ⏳ *Bekliyor* |
-| 37 | İbadet ve Teoloji | 1167 | `ح-ق-ب` | `H-K-B` | **2** | 2 | 18:60 | Hukub ve Ahkâb (18:60 uzun çağlar + 78:23 sonsuzluk değil uzun dönemler/çağlar boyu kalış!) | ⏳ *Bekliyor* |
-| 38 | Zihin, Etik ve Mesânî | 550 | `ل-غ-و` | `L-G-W` | **11** | 11 | 2:225 | Lağv (2:225 kasıtsız söz, 23:3/25:72 anlamsız boş sözden onurla yüz çevirme ve 41:26 gürültü çıkarma) | ⏳ *Bekliyor* |
-| 39 | Zihin, Etik ve Mesânî | 457 | `ل-ه-و` | `L-H-W` | **16** | 15 | 6:32 | Lehv (asıl amaçtan koparan oyalanma, 31:6 boş söz ticareti ve 62:11 ticaret-eğlenceye dağılma) | ⏳ *Bekliyor* |
-| 40 | Zihin, Etik ve Mesânî | 409 | `ل-ع-ب` | `L-A-B` | **20** | 20 | 5:57 | Laib (ciddiyetsiz oyun — lehv vs laib aynı ayet içi Furûku: 6:32, 29:64, 47:36, 57:20) | ⏳ *Bekliyor* |
+| 31 | Zihin, Etik ve Mesânî | 466 | `ح-ر-ج` | `H-R-C` | **15** | 11 | 4:65 | Harac (Nefes Aldırmayan Sıkışık Boğucu Darlık — Yaşam Düzeninde ve Engelli/Hasta Haklarında Baskının Kaldırılması) | ✅ **MÜHÜRLÜ** |
+| 32 | Zihin, Etik ve Mesânî | 637 | `ب-ه-ت` | `B-H-T` | **8** | 8 | 2:258 | Beht ve Bühtân (Cevap Veremez Hâlde Şoke Edip Dondurmak ve Masumu Donduran Ağır İftira) | ✅ **MÜHÜRLÜ** |
+| 33 | Kısa Sure ve Ritüel | 1323 | `ن-ج-س` | `N-C-S` | **1** | 1 | 9:28 | Neces (Arınmışlığın Zıttı Manevi ve Kurumsal Kirlilik — Bedensel Dokunulmazlık Değil Putperest Zihniyetin Dışlanması) | ✅ **MÜHÜRLÜ** |
+| 34 | Kısa Sure ve Ritüel | 1635 | `ن-ح-ر` | `N-H-R` | **1** | 1 | 108:2 | Nahr (Göğüs Çukuruna Yönelmek: Yalnızca Rab Adına Cömertçe Kesip Paylaşmak ve Göğsünü Kararlılıkla Doğrultmak) | ✅ **MÜHÜRLÜ** |
+| 35 | Kısa Sure ve Ritüel | 1634 | `م-ع-ن` | `M-A-N` | **1** | 1 | 107:7 | Mâûn (Toplumda Su Gibi Kolayca Akıp Dolaşması Gereken Gündelik Temel Yardım ve Ortak Kullanım Araçları) | ✅ **MÜHÜRLÜ** |
+| 36 | Kısa Sure ve Ritüel | 1642 | `ن-ف-ث` | `N-F-S` | **1** | 1 | 113:4 | Neffâsât (En Hafif Fısıltı ve Nefesle Düğümlere ve Kurulu Sağlam Bağlara Zehir/Fesat Üflemek) | ✅ **MÜHÜRLÜ** |
+| 37 | İbadet ve Teoloji | 1167 | `ح-ق-ب` | `H-K-B` | **2** | 2 | 18:60 | Hukub ve Ahkâb (Yılların Biriktiği Uzun Çağ/Devir ve Art Arda Gelen Uzun Çağlar) | ✅ **MÜHÜRLÜ** |
+| 38 | Zihin, Etik ve Mesânî | 550 | `ل-غ-و` | `L-G-W` | **11** | 11 | 2:225 | Lağv (Ağırlığı, Faydası ve Bağlayıcılığı Olmayan Boş Söz ve Anlamsız Yaygara) | ✅ **MÜHÜRLÜ** |
+| 39 | Zihin, Etik ve Mesânî | 457 | `ل-ه-و` | `L-H-W` | **16** | 15 | 6:32 | Lehv ve İlhâ (İnsanı Asıl Önemli ve Kalıcı Hedeften Koparıp Geçici Şeylerle Oyalamak) | ✅ **MÜHÜRLÜ** |
+| 40 | Zihin, Etik ve Mesânî | 409 | `ل-ع-ب` | `L-A-B` | **20** | 20 | 5:57 | La'ib (Kalıcı Doğrultusu Olmayan Amaçsız Oyun ve Varoluşsal Hakikat Karşıtlığı) | ✅ **MÜHÜRLÜ** |
 | 41 | Açık Mesânî Kilidi | 210 | `ع-ج-ل` | `A-C-L` | **47** | 44 | 2:51 | Acel ve İcl (5 açık Mesânî ref! Sabır/Ecel zıttı acelecilik + buzağı [عِجْل] iki ayrı asıl hakemliği) | ⏳ *Bekliyor* |
 | 42 | Açık Mesânî Kilidi | 224 | `ت-ر-ك` | `T-R-K` | **43** | 37 | 2:17 | Terk (5 açık Mesânî ref! Alıkoyma/Sahiplenme zıttı olarak geride bırakmak, miras/iz bırakmak) | ⏳ *Bekliyor* |
 | 43 | Açık Mesânî Kilidi | 352 | `ب-س-ط` | `B-S-T` | **25** | 23 | 2:245 | Bast (4 açık Mesânî ref! Kadr/Daraltma zıttı: rızkı, eli ve bilgiyi genişletip açıp yaymak) | ⏳ *Bekliyor* |
