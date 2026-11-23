@@ -1,0 +1,648 @@
+{
+  "root": "ر-ف-ع",
+  "root_latin": "R-F-A (rfE)",
+  "concept_name": "Ref' ve Merfû' (Zeminden Yukarı Kaldırmak, Gök Kubbeyi ve Temelleri Yükseltmek, Dereceyi Yukarı Taşımak)",
+  "rank": 309,
+  "total_occurrences": 29,
+  "unique_ayahs_count": 29,
+  "unified_core_mechanism": "Yerde duran bir yapıyı, tavanı, sesi veya bilinç ve sorumluluk derecesini zeminden yukarı kaldırmak: evin temellerini yükseltmek (2:127), gök kubbeyi yüksek tavan olarak kaldırmak (13:2, 52:5, 55:7, 88:18), temiz sözü dürüst eylemle yükseltmek (35:10) ve bilgi sahiplerinin derecelerini yukarı taşımak (58:11).",
+  "physical_core": "Yerde duran bir cismi, yapı temellerini veya tavanı zeminden yukarı doğru kaldırmak ve yükseltmek (خِلَافُ الوَضْعِ): evin temellerini yükseltmek (2:127), gök kubbeyi yüksek tavan olarak kaldırmak (13:2, 52:5, 55:7), sesi yükseltmek (49:2) ve bilinç/onur derecelerini yukarı taşımak (6:83, 58:11, 94:4).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ر-ف-ع` kökünün tamamı tek bir sahih asla dayanır; o da aşağı indirip yere koymanın (`وَضْع`) tam zıddı olarak bir şeyi yukarı kaldırmaktır (`أصل واحد يدل على خلاف الوضع`). Yüksek yapıya `البِنَاءُ الرَّفِيع` denmesi bundandır.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `الرَّفْع` hem fiziksel cisimlerde (binayı, tavanı, dağı yukarı kaldırmak) hem de ses ve makam/derecede (`رَفْعُ الصَّوْتِ وَالقَدْرِ`) aşağı indirmenin (`الوَضْع / الخَفْض`) tam karşıtıdır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الرَّفْع` bazen `2:127` (`يَرْفَعُ إِبْرَٰهِيمُ ٱلْقَوَاعِدَ`) ve `88:18` (`وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ`) gibi fiziksel yapının yükseltilmesinde, bazen de `58:11` ve `35:10` gibi konum, bilgi ve temiz eylemin yüceltilmesinde kullanılır.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in tanımladığı 'zeminden yukarı kaldırmak ve yükseltmek (`خِلَافُ الوَضْعِ`)' çekirdeği, Kur'an'daki 29 geçişi tek bir dikey yükselme mekanizmasında birleştirir: (1) Somut mimari ve kozmik düzlemde Kâbe'nin temellerinin (`2:127`) ve gök kubbenin yüksek bir tavan olarak kaldırılması (`13:2`, `52:5`, `55:7`, `79:28`, `88:18`), (2) Fiziksel ses düzleminde seslerin elçinin sesinin üstüne yükseltilmemesi (`49:2`), (3) Ahlaki ve bilişsel düzlemde temiz sözü dürüst eylemin yükseltmesi (`35:10`), bilgi sahiplerinin derecelerinin yükseltilmesi (`58:11`) ve yere çakılıp kalanın (`أَخْلَدَ إِلَى ٱلْأَرْضِ` `7:176`) aksine bilincin yukarı taşınması."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*r-p-ʿ` kökü: Eski Güney Arapçası (Saba) `rfʿ` ('binayı yükseltmek, yukarı kaldırmak, sunmak'), Habeşçe (Ge'ez) `rafaʿa` ('yukarı kaldırmak, taşımak') ve Aramice `רְפַע` (*rəfaʿ*: 'yükseltmek, kabartmak') ile doğrudan eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "و-ض-ع [وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ ... فِيهَا سُرُرٌ مَّرْفُوعَةٌ وَأَكْوَابٌ مَّوْضُوعَةٌ ... وَوَضَعْنَا عَنكَ وِزْرَكَ ... وَرَفَعْنَا لَكَ ذِكْرَكَ] (Yukarı Kaldırıp Yükseltmek [رَفَعَ / مَّرْفُوعَةٌ] ↔ Aşağı İndirip Zemine Yerleştirmek [وَضَعَ / مَّوْضُوعَةٌ]: 55:7, 88:13-14, 94:2-4)",
+      "خ-ل-د [وَلَوْ شِئْنَا لَرَفَعْنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخْلَدَ إِلَى ٱلْأَرْضِ] (Ayetlerle Bilinci Yukarı Kaldırmak [لَرَفَعْنَٰهُ بِهَا] ↔ Toprağa/Alçak Çıkarlara Çakılıp Kalmak [أَخْلَدَ إِلَى ٱلْأَرْضِ]: 7:176)",
+      "غ-ض-ض [لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ ... إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ] (Sesi Yukarı Kaldırıp Yükseltmek [تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ] ↔ Sesi Saygıyla Kısıp Alçaltmak [يَغُضُّونَ أَصْوَٰتَهُمْ]: 49:2-3)",
+      "ن-ش-ز [وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَٰتٍ] (Yerinden Kalkıp Hareketlenmek [ٱنشُزُوا۟] ↔ Güvenenleri ve Bilgi Sahiplerini Derecelerle Yukarı Kaldırmak [يَرْفَعِ]: 58:11)",
+      "س-ف-ل [يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ ... ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ] (Bilinç ve Bilgiyle Dereceleri Yukarı Kaldırmak [يَرْفَعِ] ↔ Aşağıların En Aşağısına Dibe Yuvarlanmak [أَسْفَلَ سَٰفِلِينَ]: 58:11, 95:5)"
+    ],
+    "key_ayahs": [
+      "2:127",
+      "7:176",
+      "13:2",
+      "35:10",
+      "49:2-3",
+      "55:7",
+      "56:3",
+      "58:11",
+      "88:13-18",
+      "94:2-4"
+    ],
+    "reverse_stress_test": "7:176'da `وَلَوْ شِئْنَا لَرَفَعْنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخْلَدَ إِلَى ٱلْأَرْضِ` (dileseydik onu ayetlerimizle yukarı kaldırırdık, fakat o yere/toprağa çakılıp kaldı), 55:7'de `وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ` ve 49:2-3'te `لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ ... يَغُضُّونَ أَصْوَٰتَهُمْ` karşıtlıkları yer alır. Yere koymak (`و-ض-ع`), toprağa çakılıp alçalmak (`خ-ل-د` / `س-ف-ل`) ve sesi kısmak (`غ-ض-ض`) tersine çevrildiğinde, `ر-ف-ع` kökünün 'zeminden yukarı kaldırmak ve dereceyi yükseltmek' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ص-ع-د (35:10 إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ — صُعُود temiz sözün kendi doğasıyla yukarı doğru ağması/tırmanması iken, رَفْع dürüst ve onarıcı eylemin o sözü taşıyıp yukarı kaldırmasıdır)"
+    ],
+    "mechanical_difference": "`35:10`'da `يَصْعَدُ` (`ص-ع-د`) ile `يَرْفَعُهُۥ` (`ر-ف-ع`) aynı cümlede buluşur: `صُعُود` bir şeyin kendi akışıyla yukarı tırmanması, `رَفْع` ise bir taşıyıcı gücün (onarıcı eylemin) onu yukarı kaldırmasıdır."
+  },
+  "anchor_ayahs": [
+    "2:127",
+    "7:176",
+    "13:2",
+    "35:10",
+    "49:2",
+    "52:5",
+    "55:7",
+    "58:11",
+    "88:18",
+    "94:4"
+  ],
+  "grammar_and_branch_rules": "Bab I (`رَفَعَ / يَرْفَعُ`) somut nesnelerle bina temellerinin (`2:127`), gök kubbenin (`13:2`, `55:7`, `79:28`, `88:18`), dağın (`2:63`, `4:154`) ve sesin (`49:2`) yukarı kaldırılmasını; `دَرَجَٰتٍ` ile birlikte insanların bilgi ve sınama derecelerinin yükseltilmesini (`6:83`, `6:165`, `12:76`, `43:32`, `58:11`); ism-i mef'ûl `مَرْفُوع / مَرْفُوعَة` (`52:5`, `56:34`, `80:14`, `88:13`) ise yükseltilmiş tavanı, döşekleri ve arınmış sahifeleri ifade eder.",
+  "derivatives": {
+    "رَفَعَ / يَرْفَعُ / نَرْفَعُ": "Zeminden yukarı kaldırmak, göğü ve yapı temellerini yükseltmek, dereceyi yukarı taşımak (2:127, 6:83, 13:2, 35:10, 55:7, 58:11, 94:4)",
+    "رَافِعُكَ / رَّافِعَةٌ": "Yukarı kaldırıp yücelten, dereceyi yükselten (3:55, 56:3)",
+    "رَفِيعُ ٱلدَّرَجَٰتِ": "Dereceleri pek yüksek olan (40:15)",
+    "مَّرْفُوعٍ / مَّرْفُوعَةٌ": "Yukarı kaldırılmış yüksek tavan, taht ve yüceltilmiş sahifeler (52:5, 56:34, 80:14, 88:13)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 63,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:63",
+      "word_position": 4,
+      "target_word_uthmani": "وَرَفَعْنَا",
+      "target_word_rasm": "ورفعنا",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Gene bir vakit sizden söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimiz kitabı azimle alın, sakınanlardan olmak için de içindeki emirleri anın...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gene bir vakit sizden söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimiz kitabı azimle alın, sakınanlardan olmak için de içindeki emirleri anın demiştik.",
+      "contextual_meaning": "Evin temellerini ve bilinç evlerini inşa edip yükseltmek, dağı başların üstüne kaldırmak, anne-babayı tahta çıkarmak ve sesi yükseltmemek."
+    },
+    {
+      "surah": 2,
+      "ayah": 93,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:93",
+      "word_position": 4,
+      "target_word_uthmani": "وَرَفَعْنَا",
+      "target_word_rasm": "ورفعنا",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟",
+      "context_snippet_turkish_tabula_rasa": "De ki: O vakit sizden kesin söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimizi azimle tutun, dinleyin demiştik. Onlar da duyduk demişlerdi ve asi...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: O vakit sizden kesin söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimizi azimle tutun, dinleyin demiştik. Onlar da duyduk demişlerdi ve asi olduk. Buzağı sevgisi, küfürleri yüzünden ta iliklerine işlemişti. güven duy güven duy, ne de kötü ve pis şey emrediyor size.",
+      "contextual_meaning": "Evin temellerini ve bilinç evlerini inşa edip yükseltmek, dağı başların üstüne kaldırmak, anne-babayı tahta çıkarmak ve sesi yükseltmemek."
+    },
+    {
+      "surah": 2,
+      "ayah": 127,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:127",
+      "word_position": 2,
+      "target_word_uthmani": "يَرْفَعُ",
+      "target_word_rasm": "يرفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "O vakit İbrahim ve İsmail Kabe'nin temel duvarlarını yükselttiler de Rabbimiz dediler, bu evi yaptık, sen kabul et. Şüphe yok ki sen, her şeyi duyansın,...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "O vakit İbrahim ve İsmail Kabe'nin temel duvarlarını yükselttiler de Rabbimiz dediler, bu evi yaptık, sen kabul et. Şüphe yok ki sen, her şeyi duyansın, bilensin.",
+      "contextual_meaning": "Evin temellerini ve bilinç evlerini inşa edip yükseltmek, dağı başların üstüne kaldırmak, anne-babayı tahta çıkarmak ve sesi yükseltmemek."
+    },
+    {
+      "surah": 2,
+      "ayah": 253,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:253",
+      "word_position": 11,
+      "target_word_uthmani": "وَرَفَعَ",
+      "target_word_rasm": "ورفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ بَعْضَهُمْ دَرَجَٰتٍ وَءَاتَيْنَا",
+      "context_snippet_turkish_tabula_rasa": "O elçilerden bazısını bazısına üstün ettik. Onlardan Allah'la konuşan var, bazılarının da derecelerini yüceltmiştir. Meryemoğlu İsa'ya apaçık deliller verdik,...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ بَعْضَهُمْ دَرَجَٰتٍ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ وَلَٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "O elçilerden bazısını bazısına üstün ettik. Onlardan Allah'la konuşan var, bazılarının da derecelerini yüceltmiştir. Meryemoğlu İsa'ya apaçık deliller verdik, onu, arındırıcı ilahi güç ve vahiy özü'le kuvvetlendirdik. Allah dileseydi onlardan sonrakiler, kendilerine apaçık deliller geldikten sonra artık birbirlerini öldürmezlerdi. Ama gene de aykırılığa düştüler. İçlerinde güvene eren var, güven duy var. Allah dileseydi birbirlerini öldürmezlerdi, fakat Allah dilediğini, dilediği gibi yapar.",
+      "contextual_meaning": "Bilgi, derin kavrayış ve sorumluluk sınaması bakımından insanların derecelerinin birbirinin üzerine yükseltilmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 55,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:55",
+      "word_position": 7,
+      "target_word_uthmani": "وَرَافِعُكَ",
+      "target_word_rasm": "ورافعك",
+      "target_word_literal_irab": "Seni kendisine doğru yukarı kaldırıp yüceltecek olan (وَرَافِعُكَ إِلَىَّ — Bab I ism-i fâil: 3:55)",
+      "context_snippet_arabic": "يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Hani o zaman Allah ya İsa demişti, seni öldürecek de benim, kendime yüceltecek de, gerçeğin üzerini örtenlerden kurtarıp arıtacak da. Sana uyanları kıyamete...",
+      "morphology": {
+        "lemma": "raAfiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAfiE|ROOT:rfE|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani o zaman Allah ya İsa demişti, seni öldürecek de benim, kendime yüceltecek de, gerçeğin üzerini örtenlerden kurtarıp arıtacak da. Sana uyanları kıyamete dek gerçeğin üzerini örtenlere üst edeceğim. Sonra, dönüp geleceğiniz yer, benim tapımdır, aranızda, aykırılığa düştüğünüz şeylerin hükmünü de ben vereceğim.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 4,
+      "ayah": 154,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:154",
+      "word_position": 1,
+      "target_word_uthmani": "وَرَفَعْنَا",
+      "target_word_rasm": "ورفعنا",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Ettikleri ahdi yerine getirsinler diye Tur dağını, oldukları yerin üstünde yüceltmiş ve onlara, şehrin kapısından boyun eğme ve teslimiyet ederek girin...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ettikleri ahdi yerine getirsinler diye Tur dağını, oldukları yerin üstünde yüceltmiş ve onlara, şehrin kapısından boyun eğme ve teslimiyet ederek girin demiştik ve cumartesi günü demiştik, haddi aşmayın ve onlardan pek kuvvetli bir söz almıştık.",
+      "contextual_meaning": "Evin temellerini ve bilinç evlerini inşa edip yükseltmek, dağı başların üstüne kaldırmak, anne-babayı tahta çıkarmak ve sesi yükseltmemek."
+    },
+    {
+      "surah": 4,
+      "ayah": 158,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:158",
+      "word_position": 2,
+      "target_word_uthmani": "رَّفَعَهُ",
+      "target_word_rasm": "رفعه",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "Allah onu kendisine yüceltti ve Allah, üstündür, hüküm ve hikmet sahibidir.",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onu kendisine yüceltti ve Allah, üstündür, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 6,
+      "ayah": 83,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:83",
+      "word_position": 7,
+      "target_word_uthmani": "نَرْفَعُ",
+      "target_word_rasm": "نرفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "إِبْرَٰهِيمَ عَلَىٰ قَوْمِهِۦ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "İşte, İbrahim'e, kavmine serdetmek için verdiğimiz kesin deliller bunlardı, dilediğimiz kişinin derecesini katkat yüceltiriz biz. Şüphe yok ki Rabbin hüküm ve...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "وَتِلْكَ حُجَّتُنَآ ءَاتَيْنَٰهَآ إِبْرَٰهِيمَ عَلَىٰ قَوْمِهِۦ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte, İbrahim'e, kavmine serdetmek için verdiğimiz kesin deliller bunlardı, dilediğimiz kişinin derecesini katkat yüceltiriz biz. Şüphe yok ki Rabbin hüküm ve hikmet sahibidir, her şeyi bilir.",
+      "contextual_meaning": "Bilgi, derin kavrayış ve sorumluluk sınaması bakımından insanların derecelerinin birbirinin üzerine yükseltilmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 165,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:165",
+      "word_position": 6,
+      "target_word_uthmani": "وَرَفَعَ",
+      "target_word_rasm": "ورفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "جَعَلَكُمْ خَلَٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki sizi yeryüzüne hakim kılar ve size verdiği şeylerle sizi sınamak için bir kısmınızı, bir kısmınızdan mevki ve paye bakımından yüceltir....",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki sizi yeryüzüne hakim kılar ve size verdiği şeylerle sizi sınamak için bir kısmınızı, bir kısmınızdan mevki ve paye bakımından yüceltir. Şüphe yok ki Rabbin, cezaya layık olanın cezasını pek tez verir ve şüphe yok ki o, suçları örter, rahimdir.",
+      "contextual_meaning": "Bilgi, derin kavrayış ve sorumluluk sınaması bakımından insanların derecelerinin birbirinin üzerine yükseltilmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 176,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:176",
+      "word_position": 3,
+      "target_word_uthmani": "لَرَفَعْنَٰهُ",
+      "target_word_rasm": "لرفعنه",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَلَوْ شِئْنَا لَرَفَعْنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخْلَدَ",
+      "context_snippet_turkish_tabula_rasa": "Dileseydik onu, delillerimizle yüceltirdik, fakat o, yeryüzüne sarıldı ve kendi isteğine uydu. O tıpkı köpeğe benzer; üstüne varıp kovsan da dilini çıkarıp...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "وَلَوْ شِئْنَا لَرَفَعْنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخْلَدَ إِلَى ٱلْأَرْضِ وَٱتَّبَعَ هَوَىٰهُ فَمَثَلُهُۥ كَمَثَلِ ٱلْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث ذَّٰلِكَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱقْصُصِ ٱلْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dileseydik onu, delillerimizle yüceltirdik, fakat o, yeryüzüne sarıldı ve kendi isteğine uydu. O tıpkı köpeğe benzer; üstüne varıp kovsan da dilini çıkarıp solur, kendi haline bıraksan da dilini çıkarıp solur. İşte bu hal, delillerimizi yalanlayan topluluğun haline benzer; sen geçmişlerin hallerini anlat onlara da belki iyice bir düşünürler.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 12,
+      "ayah": 76,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:76",
+      "word_position": 25,
+      "target_word_uthmani": "نَرْفَعُ",
+      "target_word_rasm": "نرفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "أَن يَشَآءَ ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf, kardeşinin yükünden önce onların yüklerini araştırmaya başladı, sonra da yitiğini kardeşinin yükünden çıkardı. Yusuf'a, böyle bir düzende bulunmasını...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf, kardeşinin yükünden önce onların yüklerini araştırmaya başladı, sonra da yitiğini kardeşinin yükünden çıkardı. Yusuf'a, böyle bir düzende bulunmasını emrettik, yoksa Allah dilemedikçe padişahın yaşam sistemince kardeşini esir edemezdi; dilediğimizin derecelerini yüceltiriz ve her bilgi sahibinin üstünde bir bilen var.",
+      "contextual_meaning": "Bilgi, derin kavrayış ve sorumluluk sınaması bakımından insanların derecelerinin birbirinin üzerine yükseltilmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 100,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:100",
+      "word_position": 1,
+      "target_word_uthmani": "وَرَفَعَ",
+      "target_word_rasm": "ورفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ",
+      "context_snippet_turkish_tabula_rasa": "Anasıyla babasını tahta çıkartıp oturttu ve hepsi de ona karşı boyun eğip teslim oldular. Babacığım dedi, evvelce gördüğüm rüya, bu işte, Rabbim onu...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Anasıyla babasını tahta çıkartıp oturttu ve hepsi de ona karşı boyun eğip teslim oldular. Babacığım dedi, evvelce gördüğüm rüya, bu işte, Rabbim onu gerçekleştirdi ve beni zindandan çıkararak lutfetti bana; saptırıcı yıkıcı güç, benimle kardeşlerimin arasını bozduktan sonra da sizi çölden getirdi. Şüphe yok ki Rabbim, dilediği şeyi tedbir edip lütfüyle meydana getirir; şüphe yok ki o her şeyi bilir, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Evin temellerini ve bilinç evlerini inşa edip yükseltmek, dağı başların üstüne kaldırmak, anne-babayı tahta çıkarmak ve sesi yükseltmemek."
+    },
+    {
+      "surah": 13,
+      "ayah": 2,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:2",
+      "word_position": 3,
+      "target_word_uthmani": "رَفَعَ",
+      "target_word_rasm": "رفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir Allah'tır ki görmekte olduğunuz gökleri direksiz yüceltmiştir de sonra arşa hakim ve mutasarrıf olmuştur ve güneşi ve ayı ram etmiştir, hepsi de...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْءَايَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir Allah'tır ki görmekte olduğunuz gökleri direksiz yüceltmiştir de sonra arşa hakim ve mutasarrıf olmuştur ve güneşi ve ayı ram etmiştir, hepsi de muayyen bir zamana dek yürürgider. Rabbinize kavuşacağınızı iyice anlamanız için işleri tedbir ve tasarruf edip yapan odur, delilleri bildirip açıklayan o.",
+      "contextual_meaning": "Gök kubbenin görünür direkler olmaksızın yüksek bir tavan olarak yukarı kaldırılıp dengede tutulması."
+    },
+    {
+      "surah": 19,
+      "ayah": 57,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:57",
+      "word_position": 1,
+      "target_word_uthmani": "وَرَفَعْنَٰهُ",
+      "target_word_rasm": "ورفعنه",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Biz onu pek yüce bir mevkie yükselttik.",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onu pek yüce bir mevkie yükselttik.",
+      "contextual_meaning": "Zeminden yukarı kaldırmak, yapıyı veya tavanı yükseltmek ve dereceyi yukarı taşımak (ر-ف-ع)."
+    },
+    {
+      "surah": 24,
+      "ayah": 36,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:36",
+      "word_position": 6,
+      "target_word_uthmani": "تُرْفَعَ",
+      "target_word_rasm": "ترفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "أَذِنَ ٱللَّهُ أَن تُرْفَعَ وَيُذْكَرَ فِيهَا ٱسْمُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Bu ışık, o evlerdedir ki Allah, oralarda adının yüceltilmesine ve anılmasına izin vermiştir ve oralarda, sabahakşam onu tenzih edenler vardır.",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:rafaEa|ROOT:rfE|3FS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فِى بُيُوتٍ أَذِنَ ٱللَّهُ أَن تُرْفَعَ وَيُذْكَرَ فِيهَا ٱسْمُهُۥ يُسَبِّحُ لَهُۥ فِيهَا بِٱلْغُدُوِّ وَٱلْءَاصَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu ışık, o evlerdedir ki Allah, oralarda adının yüceltilmesine ve anılmasına izin vermiştir ve oralarda, sabahakşam onu tenzih edenler vardır.",
+      "contextual_meaning": "Evin temellerini ve bilinç evlerini inşa edip yükseltmek, dağı başların üstüne kaldırmak, anne-babayı tahta çıkarmak ve sesi yükseltmemek."
+    },
+    {
+      "surah": 35,
+      "ayah": 10,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:10",
+      "word_position": 14,
+      "target_word_uthmani": "يَرْفَعُهُۥ",
+      "target_word_rasm": "يرفعه",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ",
+      "context_snippet_turkish_tabula_rasa": "Kim yücelik, üstünlük dilerse bilsin ki bütün yücelik, üstünlük, Allah'ındır; güzel sözler, ona ağar, iyi işler de o sözleri yüceltir ve onlar ki düzenlerle...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ وَمَكْرُ أُو۟لَٰٓئِكَ هُوَ يَبُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kim yücelik, üstünlük dilerse bilsin ki bütün yücelik, üstünlük, Allah'ındır; güzel sözler, ona ağar, iyi işler de o sözleri yüceltir ve onlar ki düzenlerle kötülüklerde bulunurlar, onlaradır çetin bir azap ve onların düzenleri de zaten mahvolup gider.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 40,
+      "ayah": 15,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:15",
+      "word_position": 1,
+      "target_word_uthmani": "رَفِيعُ",
+      "target_word_rasm": "رفيع",
+      "target_word_literal_irab": "Dereceleri pek yüksek olan (رَفِيعُ ٱلدَّرَجَٰتِ — sıfat-ı müşebbehe: 40:15)",
+      "context_snippet_arabic": "رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ",
+      "context_snippet_turkish_tabula_rasa": "Dostlarının derecelerini yüceltir, arşın sahibidir; kavuşma gününden korkutmak için kullarından dilediğine canlandırıcı hayat ve vahiy özü'u, emriyle indirir.",
+      "morphology": {
+        "lemma": "rafiyE",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:rafiyE|ROOT:rfE|MS|NOM"
+      },
+      "ayah_text_arabic_full": "رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Dostlarının derecelerini yüceltir, arşın sahibidir; kavuşma gününden korkutmak için kullarından dilediğine canlandırıcı hayat ve vahiy özü'u, emriyle indirir.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 43,
+      "ayah": 32,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:32",
+      "word_position": 12,
+      "target_word_uthmani": "وَرَفَعْنَا",
+      "target_word_rasm": "ورفعنا",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlar mı Rabbinin rahmetini pay edecekler? Biziz geçimlerini, aralarında paylaştıran dünya yaşayışında ve bir kısmı, bir kısmına hizmet etsin diye bazılarını...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا وَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar mı Rabbinin rahmetini pay edecekler? Biziz geçimlerini, aralarında paylaştıran dünya yaşayışında ve bir kısmı, bir kısmına hizmet etsin diye bazılarını derece bakımından bazılarından üstün halkettik ve Rabbinin rahmeti, onların toplayıp biriktirdiklerinden daha hayırlıdır.",
+      "contextual_meaning": "Bilgi, derin kavrayış ve sorumluluk sınaması bakımından insanların derecelerinin birbirinin üzerine yükseltilmesi."
+    },
+    {
+      "surah": 49,
+      "ayah": 2,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:2",
+      "word_position": 5,
+      "target_word_uthmani": "تَرْفَعُوٓا۟",
+      "target_word_rasm": "ترفعوا",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, seslerinizi, elçinin sesinden daha üstün bir tarzda yükseltmeyin ve onunla, yüksek sesle konuşmayın, birbirinizle konuştuğunuz gibi, sonra...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:rafaEa|ROOT:rfE|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, seslerinizi, elçinin sesinden daha üstün bir tarzda yükseltmeyin ve onunla, yüksek sesle konuşmayın, birbirinizle konuştuğunuz gibi, sonra yaptıklarınız mahvolup gider de anlamazsınız bile.",
+      "contextual_meaning": "Evin temellerini ve bilinç evlerini inşa edip yükseltmek, dağı başların üstüne kaldırmak, anne-babayı tahta çıkarmak ve sesi yükseltmemek."
+    },
+    {
+      "surah": 52,
+      "ayah": 5,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:5",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْمَرْفُوعِ",
+      "target_word_rasm": "ٱلمرفوع",
+      "target_word_literal_irab": "Yukarı kaldırılmış yüksek tavan (وَٱلسَّقْفِ ٱلْمَرْفُوعِ — Bab I ism-i mef'ûl: 52:5)",
+      "context_snippet_arabic": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+      "context_snippet_turkish_tabula_rasa": "Ve yüceltilmiş tavana.",
+      "morphology": {
+        "lemma": "marofuwE",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:marofuwE|ROOT:rfE|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve yüceltilmiş tavana.",
+      "contextual_meaning": "Gök kubbenin görünür direkler olmaksızın yüksek bir tavan olarak yukarı kaldırılıp dengede tutulması."
+    },
+    {
+      "surah": 55,
+      "ayah": 7,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:7",
+      "word_position": 2,
+      "target_word_uthmani": "رَفَعَهَا",
+      "target_word_rasm": "رفعها",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "context_snippet_turkish_tabula_rasa": "Ve göğü yüceltti ve ölçüyü koydu.",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve göğü yüceltti ve ölçüyü koydu.",
+      "contextual_meaning": "Gök kubbenin görünür direkler olmaksızın yüksek bir tavan olarak yukarı kaldırılıp dengede tutulması."
+    },
+    {
+      "surah": 56,
+      "ayah": 3,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:3",
+      "word_position": 2,
+      "target_word_uthmani": "رَّافِعَةٌ",
+      "target_word_rasm": "رافعة",
+      "target_word_literal_irab": "Kiminin konum ve derecesini yukarı kaldıran (رَّافِعَةٌ — Bab I ism-i fâil: 56:3)",
+      "context_snippet_arabic": "خَافِضَةٌ رَّافِعَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Halkı alçaltır, yüceltir.",
+      "morphology": {
+        "lemma": "r~aAfiEap",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:r~aAfiEap|ROOT:rfE|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "خَافِضَةٌ رَّافِعَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Halkı alçaltır, yüceltir.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 56,
+      "ayah": 34,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:34",
+      "word_position": 2,
+      "target_word_uthmani": "مَّرْفُوعَةٍ",
+      "target_word_rasm": "مرفوعة",
+      "target_word_literal_irab": "Yukarı kaldırılmış yüksek tahtlar, döşekler ve yüceltilmiş sahifeler (مَّرْفُوعَةٌ — Bab I ism-i mef'ûl: 56:34, 80:14, 88:13)",
+      "context_snippet_arabic": "وَفُرُشٍ مَّرْفُوعَةٍ",
+      "context_snippet_turkish_tabula_rasa": "ve yüksek döşekler.",
+      "morphology": {
+        "lemma": "m~arofuwEap",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:m~arofuwEap|ROOT:rfE|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَفُرُشٍ مَّرْفُوعَةٍ",
+      "ayah_text_turkish_tabula_rasa_full": "ve yüksek döşekler.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 58,
+      "ayah": 11,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:11",
+      "word_position": 18,
+      "target_word_uthmani": "يَرْفَعِ",
+      "target_word_rasm": "يرفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, meclislerde, size yer açın denince, yer açın artık, genişletin meclisi de Allah da size genişlik versin ve kalkın, şuraya geçin dendiği...",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:rafaEa|ROOT:rfE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَٰتٍ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, meclislerde, size yer açın denince, yer açın artık, genişletin meclisi de Allah da size genişlik versin ve kalkın, şuraya geçin dendiği zaman kalkın, geçin; Allah da, içinizden, gerçekten güvene erenleri de yükseltsin, kendilerine bilgi verilenleri de derecederece yüceltsin ve Allah, ne yapıyorsanız hepsinden de haberdardır.",
+      "contextual_meaning": "Bilgi, derin kavrayış ve sorumluluk sınaması bakımından insanların derecelerinin birbirinin üzerine yükseltilmesi."
+    },
+    {
+      "surah": 79,
+      "ayah": 28,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:28",
+      "word_position": 1,
+      "target_word_uthmani": "رَفَعَ",
+      "target_word_rasm": "رفع",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Tavanını yücelti, düzüp koştu.",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|3MS"
+      },
+      "ayah_text_arabic_full": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Tavanını yücelti, düzüp koştu.",
+      "contextual_meaning": "Gök kubbenin görünür direkler olmaksızın yüksek bir tavan olarak yukarı kaldırılıp dengede tutulması."
+    },
+    {
+      "surah": 80,
+      "ayah": 14,
+      "surah_name": "Abese",
+      "ayah_ref": "80:14",
+      "word_position": 1,
+      "target_word_uthmani": "مَّرْفُوعَةٍ",
+      "target_word_rasm": "مرفوعة",
+      "target_word_literal_irab": "Yukarı kaldırılmış yüksek tahtlar, döşekler ve yüceltilmiş sahifeler (مَّرْفُوعَةٌ — Bab I ism-i mef'ûl: 56:34, 80:14, 88:13)",
+      "context_snippet_arabic": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+      "context_snippet_turkish_tabula_rasa": "Yüceltilmiştir, arıtılmıştır.",
+      "morphology": {
+        "lemma": "m~arofuwEap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|LEM:m~arofuwEap|ROOT:rfE|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüceltilmiştir, arıtılmıştır.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 88,
+      "ayah": 13,
+      "surah_name": "Gāşiye",
+      "ayah_ref": "88:13",
+      "word_position": 3,
+      "target_word_uthmani": "مَّرْفُوعَةٌ",
+      "target_word_rasm": "مرفوعة",
+      "target_word_literal_irab": "Yukarı kaldırılmış yüksek tahtlar, döşekler ve yüceltilmiş sahifeler (مَّرْفُوعَةٌ — Bab I ism-i mef'ûl: 56:34, 80:14, 88:13)",
+      "context_snippet_arabic": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Orada yükseltilmiş tahtlar.",
+      "morphology": {
+        "lemma": "m~arofuwEap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|LEM:m~arofuwEap|ROOT:rfE|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada yükseltilmiş tahtlar.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    },
+    {
+      "surah": 88,
+      "ayah": 18,
+      "surah_name": "Gāşiye",
+      "ayah_ref": "88:18",
+      "word_position": 4,
+      "target_word_uthmani": "رُفِعَتْ",
+      "target_word_rasm": "رفعت",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "context_snippet_turkish_tabula_rasa": "Ve göğe, nasıl da yüceltilmiş?",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:rafaEa|ROOT:rfE|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve göğe, nasıl da yüceltilmiş?",
+      "contextual_meaning": "Gök kubbenin görünür direkler olmaksızın yüksek bir tavan olarak yukarı kaldırılıp dengede tutulması."
+    },
+    {
+      "surah": 94,
+      "ayah": 4,
+      "surah_name": "İnşirâh",
+      "ayah_ref": "94:4",
+      "word_position": 1,
+      "target_word_uthmani": "وَرَفَعْنَا",
+      "target_word_rasm": "ورفعنا",
+      "target_word_literal_irab": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)",
+      "context_snippet_arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "context_snippet_turkish_tabula_rasa": "Ve adını yücelttik.",
+      "morphology": {
+        "lemma": "rafaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:rafaEa|ROOT:rfE|1P"
+      },
+      "ayah_text_arabic_full": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve adını yücelttik.",
+      "contextual_meaning": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+    }
+  ]
+}

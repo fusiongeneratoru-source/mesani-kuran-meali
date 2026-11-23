@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3D (Fâtiha & Kısa Sure Tam Kilidi, Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar — 50 Kök)",
   "target_count": 50,
-  "locked_count": 10,
+  "locked_count": 20,
   "total_tokens_in_package": 1205,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 84.78,
+  "current_coverage_pct": 85.2,
   "target_coverage_pct": 86.92,
   "etap_3d_roots": [
     {
@@ -207,8 +207,8 @@
       "frequency": 26,
       "unique_ayahs": 24,
       "rationale": "Vad' ve Mevzı' (94:2 İnşirâh yükü indirme, 55:7 mîzânı koyma, 3:96 ilk kurulan ev ve 4:46 sözü bağlamından kaydırma)",
-      "concept_label": "Analiz Bekliyor (waDaEa, m~awaADiE, >awoDaEu, m~awoDuwEap)",
-      "is_locked": false,
+      "concept_label": "Vad' ve Mevâdı' (Aşağı İndirip Zemine Yerleştirmek, Ağır Yükü Bırakmak ve Doğal Anlam Odakları)",
+      "is_locked": true,
       "sample_ayah": "3:36",
       "top_lemmas": [
         "waDaEa",
@@ -227,8 +227,8 @@
       "frequency": 29,
       "unique_ayahs": 29,
       "rationale": "Ref' ve Merfû' (94:4 İnşirâh, 55:7 göğü yükseltme, 2:127 temelleri yükseltme — و-ض-ع ve خ-ف-ض zıttı, 2 açık Mesânî ref!)",
-      "concept_label": "Analiz Bekliyor (rafaEa, m~arofuwEap, raAfiE, rafiyE)",
-      "is_locked": false,
+      "concept_label": "Ref' ve Merfû' (Zeminden Yukarı Kaldırmak, Gök Kubbeyi ve Temelleri Yükseltmek, Dereceyi Yukarı Taşımak)",
+      "is_locked": true,
       "sample_ayah": "2:63",
       "top_lemmas": [
         "rafaEa",
@@ -247,8 +247,8 @@
       "frequency": 10,
       "unique_ayahs": 9,
       "rationale": "Esfel-i Sâfilîn ve Süflâ (95:5 Tîn suresi kilidi, 4:145, 9:40 en alt tabaka — ع-ل-و zıttı, 2 açık Mesânî ref!)",
-      "concept_label": "Analiz Bekliyor (>asofal, saAfil, s~ufolaY`)",
-      "is_locked": false,
+      "concept_label": "Esfel, Sâfilîn ve Süflâ (Yüksekliğin Zıddı Olarak En Alt Tabanda Kalmak ve Dibe Yuvarlanmak)",
+      "is_locked": true,
       "sample_ayah": "4:145",
       "top_lemmas": [
         ">asofal",
@@ -266,8 +266,8 @@
       "frequency": 28,
       "unique_ayahs": 26,
       "rationale": "Miskâl, Sakîl ve Sekalân (99:7-8 Zilzâl, 101:6 Kâria ağır tartılar, 73:5 ağır söz — خ-ف-ف zıttı, 2 açık Mesânî ref!)",
-      "concept_label": "Analiz Bekliyor (mivoqaAl, v~aqalaAn, vaqiyl, vaqulato)",
-      "is_locked": false,
+      "concept_label": "Mis̱kâl, S̱ekalân ve S̱akîl (Tartıda Ağır Basmak, Kütle ve Sorumluluk Ağırlığı Taşımak)",
+      "is_locked": true,
       "sample_ayah": "4:40",
       "top_lemmas": [
         "mivoqaAl",
@@ -286,8 +286,8 @@
       "frequency": 38,
       "unique_ayahs": 36,
       "rationale": "Zerre ve Zürriyet (99:7-8 Zilzâl zerre ağırlığı, 4:40 ve 7:172 saçılıp yayılan soy/kuşaklar tek çekirdekte!)",
-      "concept_label": "Analiz Bekliyor (*ur~iy~ap, *ar~ap, *ur~iy~a`t)",
-      "is_locked": false,
+      "concept_label": "Ẕerre ve Ẕürriyyet (En İnce Toz Taneciği ve Bir Kökten Saçılıp Yayılan Soy Kuşakları)",
+      "is_locked": true,
       "sample_ayah": "2:124",
       "top_lemmas": [
         "*ur~iy~ap",
@@ -305,8 +305,8 @@
       "frequency": 14,
       "unique_ayahs": 12,
       "rationale": "İ'tâ ve Atâ' (108:1 Kevser, 92:5 Leyl, 93:5 Duhâ el uzatıp bolca vermek — م-ن-ع ve ب-خ-ل Mesânî zıttı!)",
-      "concept_label": "Analiz Bekliyor (>aEoTaY`, EaTaA^', taEaATaY`)",
-      "is_locked": false,
+      "concept_label": "İʿṭâʾ, ʿAṭâʾ ve Teʿâṭî (El Uzatıp Bizzat Sunmak, Kesintisiz Bağış ve Bir İşe Cüretle El Atmak)",
+      "is_locked": true,
       "sample_ayah": "9:29",
       "top_lemmas": [
         ">aEoTaY`",
@@ -324,8 +324,8 @@
       "frequency": 22,
       "unique_ayahs": 20,
       "rationale": "Hata ve Hatîe (96:16 Alak suçlu perçem, 2:286, 4:92 hedefi şaşıran kasıtsız hata vs yerleşik suç kuşatması)",
-      "concept_label": "Analiz Bekliyor (xaTiy^_#ap, xa`Ti_#iyn, >axoTa>o, xaTa_#)",
-      "is_locked": false,
+      "concept_label": "Haṭaʾ, Haṭîʾeh ve Hâṭiʾîn (Doğru Hedefi Iskalayıp Yanılmak ve Doğru İlkeden Saparak Kusur İşlemek)",
+      "is_locked": true,
       "sample_ayah": "2:58",
       "top_lemmas": [
         "xaTiy^_#ap",
@@ -344,8 +344,8 @@
       "frequency": 29,
       "unique_ayahs": 28,
       "rationale": "Dirâyet ve Edra (97:2 Kadr, 101:3 Kâria, 104:5 Hümeze, 90:12 Beled \"sana bildiren nedir?\" kavrayış anahtarı)",
-      "concept_label": "Analiz Bekliyor (>adoraY`, tadoriY)",
-      "is_locked": false,
+      "concept_label": "Dirâyet, Edrâ ve Tedrî (İz Sürüp İpuçlarıyla İç Yüzünü Kestirip Kavramak ve Mahiyetini Kavratmak)",
+      "is_locked": true,
       "sample_ayah": "4:11",
       "top_lemmas": [
         ">adoraY`",
@@ -362,8 +362,8 @@
       "frequency": 10,
       "unique_ayahs": 10,
       "rationale": "Kahr ve Kahhâr (93:9 Duhâ yetimi ezmeme buyruğu ve mutlak boyun eğdirici üstünlük sıfatı el-Kahhâr)",
-      "concept_label": "Analiz Bekliyor (qah~aAr, qaAhir, taqoharo)",
-      "is_locked": false,
+      "concept_label": "Kahhâr, Kâhir ve Kahr (Direnci Kırıp Mutlak Üstünlükle Boyun Eğdirmek ve Zayıfı Güçle Ezmemek)",
+      "is_locked": true,
       "sample_ayah": "6:18",
       "top_lemmas": [
         "qah~aAr",
@@ -381,8 +381,8 @@
       "frequency": 4,
       "unique_ayahs": 3,
       "rationale": "Tebb ve Tetbîb (111:1 Tebbet suresi kilidi, 11:101, 40:37 kesintisiz kayıp, hüsran ve çöküş)",
-      "concept_label": "Analiz Bekliyor (tab~a, tatobiyb, tabaAb)",
-      "is_locked": false,
+      "concept_label": "Tebb, Tebâb ve Tetbîb (Gücü Kesilip Tamamen Boşa Çıkmak ve Hüsranlı Tükenişe Uğramak)",
+      "is_locked": true,
       "sample_ayah": "11:101",
       "top_lemmas": [
         "tab~a",

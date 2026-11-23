@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 400 mühürlü kökten (`%84,51`) sonra, meal aşamasına geçmeden önce Fâtiha suresinin tamamını, kısa surelerin (93-114) kalan çekirdek düğümlerini, 3+ açık Mesânî referanslarını ve en yüksek frekanslı mühürsüz kavramları kapatan **50 kritik kök** (1205 geçiş) mühürlenerek toplam sözlük **450 kilitli köke (`%86,92` kümülatif kapsam)** ulaştırılır.
-> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 410 Kök | Güncel Kapsam: %84,78)
+> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 420 Kök | Güncel Kapsam: %85,20)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -17,16 +17,16 @@
 | 8 | Fâtiha ve Kısa Sure Kilidi | 521 | `ع-س-ر` | `A-S-R` | **12** | 12 | 2:185 | Usr ve Usre (Kolaylığın [Yüsr] Zıttı: Sıkışık Zorluk, Ödeme Darlığı ve Her Zorlukla Birlikte Gelen Kolaylık Yasası) | ✅ **MÜHÜRLÜ** |
 | 9 | Fâtiha ve Kısa Sure Kilidi | 797 | `ش-ر-ح` | `S-R-H` | **5** | 5 | 6:125 | Şerh ve İnşirâh (Göğsü/İç Bilinç Merkezini Boğucu Darlıktan Kurtarıp Işığa, Barışa ve Özgüvene Açıp Genişletmek) | ✅ **MÜHÜRLÜ** |
 | 10 | Fâtiha ve Kısa Sure Kilidi | 380 | `أ-ل-ف` | `E-L-F` | **22** | 19 | 2:96 | Îlâf, Te'lîf ve Elf (Dağınık Parçaları ve Düşman Kalpleri Birbirine Isındırıp Kaynaştırmak, Güvenli Uzlaşı ve Bin Sayısı) | ✅ **MÜHÜRLÜ** |
-| 11 | Kısa Sure ve Kozmik Denge | 342 | `و-ض-ع` | `W-D-A` | **26** | 24 | 3:36 | Vad' ve Mevzı' (94:2 İnşirâh yükü indirme, 55:7 mîzânı koyma, 3:96 ilk kurulan ev ve 4:46 sözü bağlamından kaydırma) | ⏳ *Bekliyor* |
-| 12 | Kısa Sure ve Kozmik Denge | 309 | `ر-ف-ع` | `R-F-A` | **29** | 29 | 2:63 | Ref' ve Merfû' (94:4 İnşirâh, 55:7 göğü yükseltme, 2:127 temelleri yükseltme — و-ض-ع ve خ-ف-ض zıttı, 2 açık Mesânî ref!) | ⏳ *Bekliyor* |
-| 13 | Kısa Sure ve Kozmik Denge | 582 | `س-ف-ل` | `S-F-L` | **10** | 9 | 4:145 | Esfel-i Sâfilîn ve Süflâ (95:5 Tîn suresi kilidi, 4:145, 9:40 en alt tabaka — ع-ل-و zıttı, 2 açık Mesânî ref!) | ⏳ *Bekliyor* |
-| 14 | Kısa Sure ve Kozmik Denge | 326 | `ث-ق-ل` | `S-K-L` | **28** | 26 | 4:40 | Miskâl, Sakîl ve Sekalân (99:7-8 Zilzâl, 101:6 Kâria ağır tartılar, 73:5 ağır söz — خ-ف-ف zıttı, 2 açık Mesânî ref!) | ⏳ *Bekliyor* |
-| 15 | Kısa Sure ve Kozmik Denge | 252 | `ذ-ر-ر` | `Z-R-R` | **38** | 36 | 2:124 | Zerre ve Zürriyet (99:7-8 Zilzâl zerre ağırlığı, 4:40 ve 7:172 saçılıp yayılan soy/kuşaklar tek çekirdekte!) | ⏳ *Bekliyor* |
-| 16 | Kısa Sure ve Kozmik Denge | 481 | `ع-ط-و` | `A-T-W` | **14** | 12 | 9:29 | İ'tâ ve Atâ' (108:1 Kevser, 92:5 Leyl, 93:5 Duhâ el uzatıp bolca vermek — م-ن-ع ve ب-خ-ل Mesânî zıttı!) | ⏳ *Bekliyor* |
-| 17 | Kısa Sure ve Kozmik Denge | 379 | `خ-ط-أ` | `H-T-E` | **22** | 20 | 2:58 | Hata ve Hatîe (96:16 Alak suçlu perçem, 2:286, 4:92 hedefi şaşıran kasıtsız hata vs yerleşik suç kuşatması) | ⏳ *Bekliyor* |
-| 18 | Kısa Sure ve Kozmik Denge | 316 | `د-ر-ي` | `D-R-Y` | **29** | 28 | 4:11 | Dirâyet ve Edra (97:2 Kadr, 101:3 Kâria, 104:5 Hümeze, 90:12 Beled "sana bildiren nedir?" kavrayış anahtarı) | ⏳ *Bekliyor* |
-| 19 | Kısa Sure ve Kozmik Denge | 586 | `ق-ه-ر` | `K-H-R` | **10** | 10 | 6:18 | Kahr ve Kahhâr (93:9 Duhâ yetimi ezmeme buyruğu ve mutlak boyun eğdirici üstünlük sıfatı el-Kahhâr) | ⏳ *Bekliyor* |
-| 20 | Kısa Sure ve Kozmik Denge | 895 | `ت-ب-ب` | `T-B-B` | **4** | 3 | 11:101 | Tebb ve Tetbîb (111:1 Tebbet suresi kilidi, 11:101, 40:37 kesintisiz kayıp, hüsran ve çöküş) | ⏳ *Bekliyor* |
+| 11 | Kısa Sure ve Kozmik Denge | 342 | `و-ض-ع` | `W-D-A` | **26** | 24 | 3:36 | Vad' ve Mevâdı' (Aşağı İndirip Zemine Yerleştirmek, Ağır Yükü Bırakmak ve Doğal Anlam Odakları) | ✅ **MÜHÜRLÜ** |
+| 12 | Kısa Sure ve Kozmik Denge | 309 | `ر-ف-ع` | `R-F-A` | **29** | 29 | 2:63 | Ref' ve Merfû' (Zeminden Yukarı Kaldırmak, Gök Kubbeyi ve Temelleri Yükseltmek, Dereceyi Yukarı Taşımak) | ✅ **MÜHÜRLÜ** |
+| 13 | Kısa Sure ve Kozmik Denge | 582 | `س-ف-ل` | `S-F-L` | **10** | 9 | 4:145 | Esfel, Sâfilîn ve Süflâ (Yüksekliğin Zıddı Olarak En Alt Tabanda Kalmak ve Dibe Yuvarlanmak) | ✅ **MÜHÜRLÜ** |
+| 14 | Kısa Sure ve Kozmik Denge | 326 | `ث-ق-ل` | `S-K-L` | **28** | 26 | 4:40 | Mis̱kâl, S̱ekalân ve S̱akîl (Tartıda Ağır Basmak, Kütle ve Sorumluluk Ağırlığı Taşımak) | ✅ **MÜHÜRLÜ** |
+| 15 | Kısa Sure ve Kozmik Denge | 252 | `ذ-ر-ر` | `Z-R-R` | **38** | 36 | 2:124 | Ẕerre ve Ẕürriyyet (En İnce Toz Taneciği ve Bir Kökten Saçılıp Yayılan Soy Kuşakları) | ✅ **MÜHÜRLÜ** |
+| 16 | Kısa Sure ve Kozmik Denge | 481 | `ع-ط-و` | `A-T-W` | **14** | 12 | 9:29 | İʿṭâʾ, ʿAṭâʾ ve Teʿâṭî (El Uzatıp Bizzat Sunmak, Kesintisiz Bağış ve Bir İşe Cüretle El Atmak) | ✅ **MÜHÜRLÜ** |
+| 17 | Kısa Sure ve Kozmik Denge | 379 | `خ-ط-أ` | `H-T-E` | **22** | 20 | 2:58 | Haṭaʾ, Haṭîʾeh ve Hâṭiʾîn (Doğru Hedefi Iskalayıp Yanılmak ve Doğru İlkeden Saparak Kusur İşlemek) | ✅ **MÜHÜRLÜ** |
+| 18 | Kısa Sure ve Kozmik Denge | 316 | `د-ر-ي` | `D-R-Y` | **29** | 28 | 4:11 | Dirâyet, Edrâ ve Tedrî (İz Sürüp İpuçlarıyla İç Yüzünü Kestirip Kavramak ve Mahiyetini Kavratmak) | ✅ **MÜHÜRLÜ** |
+| 19 | Kısa Sure ve Kozmik Denge | 586 | `ق-ه-ر` | `K-H-R` | **10** | 10 | 6:18 | Kahhâr, Kâhir ve Kahr (Direnci Kırıp Mutlak Üstünlükle Boyun Eğdirmek ve Zayıfı Güçle Ezmemek) | ✅ **MÜHÜRLÜ** |
+| 20 | Kısa Sure ve Kozmik Denge | 895 | `ت-ب-ب` | `T-B-B` | **4** | 3 | 11:101 | Tebb, Tebâb ve Tetbîb (Gücü Kesilip Tamamen Boşa Çıkmak ve Hüsranlı Tükenişe Uğramak) | ✅ **MÜHÜRLÜ** |
 | 21 | Açık Mesânî Kilidi | 206 | `ط-ع-م` | `T-A-M` | **48** | 41 | 2:61 | Taâm ve İt'âm (5 açık Mesânî ref! 107:3 Mâûn, 90:14 Beled, 106:4 Kureyş, 76:8-9 yoksulu doyurmak ve tatmak) | ⏳ *Bekliyor* |
 | 22 | Açık Mesânî Kilidi | 566 | `ف-ر-ر` | `F-R-R` | **11** | 10 | 18:18 | Firâr ve Meferr (5 açık Mesânî ref! 51:50 Allah'a kaçış vs 80:34, 75:10, 62:8 sorumluluktan ve ölümden kaçış) | ⏳ *Bekliyor* |
 | 23 | Açık Mesânî Kilidi | 225 | `ف-و-ق` | `F-W-K` | **43** | 41 | 2:26 | Fevk, Fevâk ve İfâka (4 açık Mesânî ref! ت-ح-ت ve س-ف-ل zıttı üstte olmak, 7:143 ayılıp kendine gelmek) | ⏳ *Bekliyor* |

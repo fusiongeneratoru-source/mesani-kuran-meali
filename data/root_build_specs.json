@@ -29109,5 +29109,721 @@
       }
     ],
     "context_default": "Dağınık parçaları ve kalpleri birbirine ısındırıp kaynaştırmak, güvenli uzlaşı ve bin sayısı (أ-ل-ف)."
+  },
+  "و-ض-ع": {
+    "buckwalter": "wDE",
+    "slug": "vad_ve_mevadi_asagi_indirip_zemine_yerlestirmek_ve_yuku_birakmak_wde",
+    "concept_name": "Vad' ve Mevâdı' (Aşağı İndirip Zemine Yerleştirmek, Ağır Yükü Bırakmak ve Doğal Anlam Odakları)",
+    "keywords": [
+      "vad",
+      "mevadi",
+      "mevdua",
+      "yerleştirmek",
+      "yükü indirmek",
+      "doğurmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "waDaEa",
+        "label": "Aşağı indirip zemine yerleştirmek (55:7, 55:10), sırttaki ağır yükü indirmek (7:157, 94:2), gebelik yükünü doğurup bırakmak (3:36, 35:11) ve örtüyü çıkarmak (24:60) (وَضَعَ / تَضَعُ / وَضَعْنَا — Bab I fiil)"
+      },
+      {
+        "lemma": "m~awaADiE",
+        "label": "Kelimelerin veya yıldızların oturduğu doğal yerleşim odakları ve mevziler (مَوَاضِعِهِ / مَوَاضِعَ — çoğul mekân ismi: 4:46, 5:13, 5:41, 56:75)"
+      },
+      {
+        "lemma": ">awoDaEu",
+        "label": "Bozgunculuk çıkarmak için bineklerini hızla koşturup aranıza daldırdılar (وَلَأَوْضَعُوا۟ — Bab IV mazi fiil: 9:47)"
+      },
+      {
+        "lemma": "m~awoDuwEap",
+        "label": "Önlerine indirilip yerli yerine konulmuş olan (مَّوْضُوعَةٌ — Bab I ism-i mef'ûl: 88:14)"
+      }
+    ],
+    "irab_default": "Aşağı indirip zemine yerleştirmek, taşınan yükü bırakmak ve doğal yerine oturtmak (و-ض-ع kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:96",
+          "21:47",
+          "55:7",
+          "55:10",
+          "18:49",
+          "88:14"
+        ],
+        "text": "Kozmik ölçünün (mîzân), yeryüzünün, insanlık için kurulan ilk evin, adalet terazilerinin ve kadehlerin zemine yerleştirilmesi (el-vad')."
+      },
+      {
+        "ayahs": [
+          "7:157",
+          "94:2",
+          "47:4"
+        ],
+        "text": "İnsanın belini büken ağır sorumluluk yükünün (vizr), toplumları ezen boyundurukların ve savaş yüklerinin indirilip kaldırılması."
+      },
+      {
+        "ayahs": [
+          "2:233",
+          "3:36",
+          "22:2",
+          "24:58",
+          "24:60",
+          "35:11",
+          "41:47",
+          "46:15",
+          "65:4",
+          "65:6"
+        ],
+        "text": "Annelerin karınlarında taşıdıkları gebelik yükünü doğurup bırakmaları ve dinlenme vakitlerinde dış giysilerin çıkarılıp bırakılması."
+      },
+      {
+        "ayahs": [
+          "4:46",
+          "5:13",
+          "5:41",
+          "56:75",
+          "9:47"
+        ],
+        "text": "Yıldızların düştüğü yörünge mevzileri ile kelimelerin oturduğu doğal anlam odakları (mevâdı') ve bozguncuların saflar arasında binek koşturması (9:47)."
+      }
+    ],
+    "context_default": "Aşağı indirip zemine yerleştirmek, taşınan yükü bırakmak ve doğal yerine oturtmak (و-ض-ع)."
+  },
+  "ر-ف-ع": {
+    "buckwalter": "rfE",
+    "slug": "ref_ve_merfu_zeminden_yukari_kaldirmak_ve_dereceyi_yukseltmek_rfe",
+    "concept_name": "Ref' ve Merfû' (Zeminden Yukarı Kaldırmak, Gök Kubbeyi ve Temelleri Yükseltmek, Dereceyi Yukarı Taşımak)",
+    "keywords": [
+      "ref",
+      "merfu",
+      "rafi",
+      "refi",
+      "yükseltmek",
+      "yukarı kaldırmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "rafaEa",
+        "label": "Gök kubbeyi ve yapı temellerini zeminden yukarı kaldırmak (2:127, 13:2, 55:7), sesi yükseltmek (49:2) ve temiz eylem ile bilinç derecelerini yukarı taşımak (35:10, 58:11, 94:4) (رَفَعَ / يَرْفَعُ / نَرْفَعُ — Bab I fiil)"
+      },
+      {
+        "lemma": "m~arofuwEap",
+        "label": "Yukarı kaldırılmış yüksek tahtlar, döşekler ve yüceltilmiş sahifeler (مَّرْفُوعَةٌ — Bab I ism-i mef'ûl: 56:34, 80:14, 88:13)"
+      },
+      {
+        "lemma": "marofuwE",
+        "label": "Yukarı kaldırılmış yüksek tavan (وَٱلسَّقْفِ ٱلْمَرْفُوعِ — Bab I ism-i mef'ûl: 52:5)"
+      },
+      {
+        "lemma": "raAfiE",
+        "label": "Seni kendisine doğru yukarı kaldırıp yüceltecek olan (وَرَافِعُكَ إِلَىَّ — Bab I ism-i fâil: 3:55)"
+      },
+      {
+        "lemma": "r~aAfiEap",
+        "label": "Kiminin konum ve derecesini yukarı kaldıran (رَّافِعَةٌ — Bab I ism-i fâil: 56:3)"
+      },
+      {
+        "lemma": "rafiyE",
+        "label": "Dereceleri pek yüksek olan (رَفِيعُ ٱلدَّرَجَٰتِ — sıfat-ı müşebbehe: 40:15)"
+      }
+    ],
+    "irab_default": "Zeminden yukarı kaldırmak, yapıyı veya tavanı yükseltmek ve dereceyi yukarı taşımak (ر-ف-ع kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:2",
+          "52:5",
+          "55:7",
+          "79:28",
+          "88:18"
+        ],
+        "text": "Gök kubbenin görünür direkler olmaksızın yüksek bir tavan olarak yukarı kaldırılıp dengede tutulması."
+      },
+      {
+        "ayahs": [
+          "2:63",
+          "2:93",
+          "2:127",
+          "4:154",
+          "12:100",
+          "24:36",
+          "49:2"
+        ],
+        "text": "Evin temellerini ve bilinç evlerini inşa edip yükseltmek, dağı başların üstüne kaldırmak, anne-babayı tahta çıkarmak ve sesi yükseltmemek."
+      },
+      {
+        "ayahs": [
+          "2:253",
+          "6:83",
+          "6:165",
+          "12:76",
+          "43:32",
+          "58:11"
+        ],
+        "text": "Bilgi, derin kavrayış ve sorumluluk sınaması bakımından insanların derecelerinin birbirinin üzerine yükseltilmesi."
+      },
+      {
+        "ayahs": [
+          "3:55",
+          "4:158",
+          "7:176",
+          "35:10",
+          "40:15",
+          "56:3",
+          "56:34",
+          "80:14",
+          "88:13",
+          "94:4"
+        ],
+        "text": "Temiz sözün dürüst eylemle yükselmesi, elçilerin onurunun ve anılışının yüceltilmesi ve arınmış sahifelerin yüksek konumu."
+      }
+    ],
+    "context_default": "Zeminden yukarı kaldırmak, yapıyı veya tavanı yükseltmek ve dereceyi yukarı taşımak (ر-ف-ع)."
+  },
+  "س-ف-ل": {
+    "buckwalter": "sfl",
+    "slug": "esfel_safilin_ve_sufla_en_alt_tabanda_kalmak_ve_dibe_yuvarlanmak_sfl",
+    "concept_name": "Esfel, Sâfilîn ve Süflâ (Yüksekliğin Zıddı Olarak En Alt Tabanda Kalmak ve Dibe Yuvarlanmak)",
+    "keywords": [
+      "esfel",
+      "safilin",
+      "sufla",
+      "esfele safilin",
+      "alt taban",
+      "alçalmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">asofal",
+        "label": "Daha aşağıda olan vadi yamacı (8:42, 33:10), ateşin en alt dip tabakası (4:145), ayakların en altı (41:29) ve aşağıların en aşağısı (95:5) (أَسْفَلَ / ٱلْأَسْفَلِ — ism-i tafdîl)"
+      },
+      {
+        "lemma": "saAfil",
+        "label": "Altüst edilen kentin en alt tabanı (11:82, 15:74) ve dibe yuvarlananlar (95:5) (سَافِلَهَا / سَٰفِلِينَ — Bab I ism-i fâil)"
+      },
+      {
+        "lemma": "s~ufolaY`",
+        "label": "En alçakta ve en dipte kalan söz/plan (ٱلسُّفْلَىٰ — müennes ism-i tafdîl: 9:40)"
+      }
+    ],
+    "irab_default": "Yüksekliğin (عُلُوّ) zıddı olarak en alt tabanda kalmak ve dibe yuvarlanmak (س-ف-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:145",
+          "41:29",
+          "95:5"
+        ],
+        "text": "En güzel kıvamda yaratılan insanın bilincini bozarak aşağıların en aşağısına (esfele sâfilîn) yuvarlanması ve ateşin en dip katmanı."
+      },
+      {
+        "ayahs": [
+          "9:40",
+          "11:82",
+          "15:74"
+        ],
+        "text": "Gerçeği örtenlerin sözünün en alçakta (es-süflâ) kalması ve azgınlaşan kentin üst kısmının en alt tabana (sâfilehâ) çevrilmesi."
+      },
+      {
+        "ayahs": [
+          "8:42",
+          "33:10"
+        ],
+        "text": "Kervanın vadinin daha alçak yamacında yer alması ve kuşatma sırasında vadinin aşağı tarafından gelen gruplar."
+      }
+    ],
+    "context_default": "Yüksekliğin zıddı olarak en alt tabanda kalmak ve dibe yuvarlanmak (س-ف-ل)."
+  },
+  "ث-ق-ل": {
+    "buckwalter": "vql",
+    "slug": "miskal_sekalan_ve_sakil_tartida_agir_basmak_ve_sorumluluk_agirligi_vql",
+    "concept_name": "Mis̱kâl, S̱ekalân ve S̱akîl (Tartıda Ağır Basmak, Kütle ve Sorumluluk Ağırlığı Taşımak)",
+    "keywords": [
+      "miskal",
+      "sekalan",
+      "sakil",
+      "eskal",
+      "ağırlık",
+      "tartı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mivoqaAl",
+        "label": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)"
+      },
+      {
+        "lemma": "v~aqalaAn",
+        "label": "Yeryüzünde bilinç ve sorumluluk ağırlığı taşıyan iki büyük kütle (ٱلثَّقَلَانِ — 55:31) ile taşınan ağır yükler ve yerin içindeki ağırlıklar (أَثْقَال — 16:7, 29:13, 99:2)"
+      },
+      {
+        "lemma": "vaqiyl",
+        "label": "Sorumluluğu ağır söz (73:5), ağır bir gün (76:27), yağmur yüklü ağır bulutlar (13:12) ve ağır yüklü olanlar (9:41) (ثَقِيلًا / ثِقَالًا / ٱلثِّقَالَ — sıfat)"
+      },
+      {
+        "lemma": "vaqulato",
+        "label": "Hesap gününde değer üreten eylem tartılarının ağır basması (7:8, 23:102, 101:6) ve saatin göklerde ve yerde ağır gelmesi (7:187) (ثَقُلَتْ — Bab I mazi fiil)"
+      },
+      {
+        "lemma": ">avoqalat",
+        "label": "Gebelik yükünün ilerleyip kadını ağırlaştırması (أَثْقَلَت — Bab IV mazi fiil: 7:189)"
+      },
+      {
+        "lemma": "{v~aAqalo",
+        "label": "Seferberlik çağrısında bütün ağırlığınızı vererek yere/toprağa çakılıp ağırlaştınız (ٱثَّاقَلْتُمْ — Bab VI mazi fiil: 9:38)"
+      },
+      {
+        "lemma": "muvoqalap",
+        "label": "Ağır sorumluluk yükü altında ezilmiş olan benlik (مُثْقَلَةٌ — Bab IV ism-i mef'ûl: 35:18)"
+      },
+      {
+        "lemma": "m~uvoqaluwn",
+        "label": "Ağır borç ve yük altında ezilmiş olanlar (مُّثْقَلُونَ — Bab IV ism-i mef'ûl: 52:40, 68:46)"
+      }
+    ],
+    "irab_default": "Tartıda ağır basmak, kütle ve sorumluluk ağırlığı taşımak veya yere çakılıp ağırlaşmak (ث-ق-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:40",
+          "10:61",
+          "21:47",
+          "31:16",
+          "34:3",
+          "34:22",
+          "99:7",
+          "99:8"
+        ],
+        "text": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+      },
+      {
+        "ayahs": [
+          "7:8",
+          "7:187",
+          "23:102",
+          "76:27",
+          "101:6"
+        ],
+        "text": "Hesap gününde değer üreten eylem tartılarının ağır basması (sakulat) ve o ağır günün sarsıcı bilinci."
+      },
+      {
+        "ayahs": [
+          "16:7",
+          "29:13",
+          "55:31",
+          "73:5",
+          "99:2"
+        ],
+        "text": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük kütle (es-sekalân), vahyedilen sorumluluğu ağır söz (kavlen sakîlâ) ve taşınan ağır yükler (eskâl)."
+      },
+      {
+        "ayahs": [
+          "7:189",
+          "9:38",
+          "9:41",
+          "13:12",
+          "35:18",
+          "52:40",
+          "68:46"
+        ],
+        "text": "Seferberlikte toprağa çakılıp ağırlaşmak, yağmur yüklü ağır bulutlar, gebeliğin ağırlaşması ve kimsenin başkasının ağır yükünü taşımaması."
+      }
+    ],
+    "context_default": "Tartıda ağır basmak, kütle ve sorumluluk ağırlığı taşımak, yere çakılıp ağırlaşmak (ث-ق-ل)."
+  },
+  "ذ-ر-ر": {
+    "buckwalter": "*rr",
+    "slug": "zerre_ve_zurriyyet_en_ince_tanecik_ve_kokten_yayilan_soy_kusaklari_zrr",
+    "concept_name": "Ẕerre ve Ẕürriyyet (En İnce Toz Taneciği ve Bir Kökten Saçılıp Yayılan Soy Kuşakları)",
+    "keywords": [
+      "zerre",
+      "zürriyet",
+      "nesil",
+      "kuşak",
+      "soy",
+      "tanecik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "*ar~ap",
+        "label": "Güneş ışığında görünen en ince toz taneciği, en küçük madde birimi (ذَرَّةٍ — isim: 4:40, 10:61, 34:3, 34:22, 99:7, 99:8)"
+      },
+      {
+        "lemma": "*ur~iy~ap",
+        "label": "Bir kökten yeryüzüne tohum gibi saçılıp yayılan soy, nesil ve yeni kuşak (ذُرِّيَّة / ذُرِّيَّتِهِ — isim: 28 geçiş)"
+      },
+      {
+        "lemma": "*ur~iy~a`t",
+        "label": "Art arda yayılan soy kuşakları ve nesiller (ذُرِّيَّٰتِهِمْ / ذُرِّيَّٰتِنَا — çoğul isim: 6:133, 13:23, 36:41, 52:21)"
+      }
+    ],
+    "irab_default": "En ince zerre halinde olmak ve bir kökten saçılıp yayılan soy kuşakları (ذ-ر-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:40",
+          "10:61",
+          "34:3",
+          "34:22",
+          "99:7",
+          "99:8"
+        ],
+        "text": "Evrendeki en ince toz taneciği (zerreh) büyüklüğündeki bir maddenin veya eylemin bile kozmik kayıtta tartılıp karşılık bulması."
+      },
+      {
+        "ayahs": [
+          "2:124",
+          "2:128",
+          "3:34",
+          "3:36",
+          "3:38",
+          "6:84",
+          "6:87",
+          "14:35",
+          "14:37",
+          "14:40",
+          "17:3",
+          "19:5",
+          "19:58",
+          "29:27",
+          "37:77",
+          "37:113",
+          "57:26"
+        ],
+        "text": "Nûh, İbrâhîm ve diğer öncü elçilerin soyundan yayılan kuşaklar (zürriyyet); ancak ahdin sadece soy bağıyla değil adalet ve dürüstlükle yürümesi."
+      },
+      {
+        "ayahs": [
+          "4:9",
+          "6:133",
+          "7:172",
+          "7:173",
+          "13:23",
+          "17:62",
+          "18:50",
+          "25:74",
+          "36:41",
+          "40:8",
+          "46:15",
+          "52:21"
+        ],
+        "text": "Âdemoğullarının kuşaktan kuşağa devam eden varoluş tanıklığı, geride zayıf nesiller bırakmaktan sakınma bilinci ve arınmış kuşakların bir araya getirilmesi."
+      }
+    ],
+    "context_default": "En ince zerre halinde olmak ve bir kökten saçılıp yayılan soy kuşakları (ذ-ر-ر)."
+  },
+  "ع-ط-و": {
+    "buckwalter": "ETw",
+    "slug": "ita_ata_ve_teati_el_uzatip_sunmak_kesintisiz_bagis_ve_ise_el_atmak_etw",
+    "concept_name": "İʿṭâʾ, ʿAṭâʾ ve Teʿâṭî (El Uzatıp Bizzat Sunmak, Kesintisiz Bağış ve Bir İşe Cüretle El Atmak)",
+    "keywords": [
+      "ita",
+      "ata",
+      "teati",
+      "sunmak",
+      "bağış",
+      "kevser"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aEoTaY`",
+        "label": "El uzatıp bizzat sunmak, her varlığa kendi yaratılış yapısını vermek (20:50), bol nimeti bahşetmek (93:5, 108:1), malını paylaşmak (92:5) ve eliyle teslim etmek (9:29) (أَعْطَىٰ / أَعْطَيْنَٰكَ / يُعْطِيكَ — Bab IV fiil)"
+      },
+      {
+        "lemma": "EaTaA^'",
+        "label": "Uzatılıp sunulan kesintisiz bağış ve varoluş ikramı (عَطَآءً / عَطَآءُ / عَطَآؤُنَا — mastar/isim: 11:108, 17:20, 38:39, 78:36)"
+      },
+      {
+        "lemma": "taEaATaY`",
+        "label": "Hakkı olmayan suça cüretle el uzatıp kılıcı kavradı (فَتَعَاطَىٰ — Bab VI mazi fiil: 54:29)"
+      }
+    ],
+    "irab_default": "El uzatıp bizzat sunmak, kesintisiz bağış bahşetmek veya bir işe cüretle el atmak (ع-ط-و kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:108",
+          "17:20",
+          "20:50",
+          "38:39",
+          "78:36",
+          "93:5",
+          "108:1"
+        ],
+        "text": "Her varlığa kendi yaratılış yapısının sunulması (a'tâ külle şey'in halkahû), Rabbin kesintisiz bağışı (atâ) ve tükenmez iyiliğin (Kevser) bahşedilmesi."
+      },
+      {
+        "ayahs": [
+          "9:29",
+          "9:58",
+          "53:34",
+          "92:5"
+        ],
+        "text": "İmkanlarını cömertçe uzatıp paylaşan ile azıcık verip elini çeken kimsenin karşıtlığı ve kamu tazminatını eliyle teslim etmek."
+      },
+      {
+        "ayahs": [
+          "54:29"
+        ],
+        "text": "Semûd toplumunun azgın elebaşısının kılıca cüretle el uzatıp (te'âtâ) uyarı belgesi olan deveyi biçmesi."
+      }
+    ],
+    "context_default": "El uzatıp bizzat sunmak, kesintisiz bağış bahşetmek veya bir işe cüretle el atmak (ع-ط-و)."
+  },
+  "خ-ط-أ": {
+    "buckwalter": "xTA",
+    "slug": "hata_hatie_ve_hatiin_dogru_hedefi_iskalamak_ve_ilkeden_sapmak_xta",
+    "concept_name": "Haṭaʾ, Haṭîʾeh ve Hâṭiʾîn (Doğru Hedefi Iskalayıp Yanılmak ve Doğru İlkeden Saparak Kusur İşlemek)",
+    "keywords": [
+      "hata",
+      "hatie",
+      "hataya",
+      "hatiin",
+      "yanılmak",
+      "hedefi ıskalamak",
+      "sapma kusuru"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">axoTa>o",
+        "label": "Kasıt (عَمْد) olmaksızın doğru hedefi şaşırıp yanıldığımızda (أَخْطَأْنَا / أَخْطَأْتُم — Bab IV mazi fiil: 2:286, 33:5)"
+      },
+      {
+        "lemma": "xaTa_#",
+        "label": "Kasıtsız yanlışlıkla, istemeden hedefi şaşırarak (خَطَـًٔا — mastar/hâl: 4:92)"
+      },
+      {
+        "lemma": "xiTo_#",
+        "label": "Doğru ilkeden bilerek ayrılma, ağır sapma suçu (خِطْـًٔا كَبِيرًا — Bab I isim: 17:31)"
+      },
+      {
+        "lemma": "xaTiy^_#ap",
+        "label": "Doğru ilkeden sapma kusuru ve yerleşik ihlaller (خَطِيٓـَٔةً / خَطَٰيَٰكُمْ / خَطَٰيَٰنَآ — isim: 2:58, 2:81, 4:112, 7:161, 20:73, 26:51, 29:12)"
+      },
+      {
+        "lemma": "xaTiy^_#a`t",
+        "label": "Sapma kusurları ve yanlışlıklar (خَطِيٓـَٰٔتِكُمْ / خَطِيٓـَٰٔتِهِمْ — çoğul isim: 7:161, 71:25)"
+      },
+      {
+        "lemma": "xa`Ti_#iyn",
+        "label": "Bilerek doğru yoldan sapanlar ve kusur işleyenler (خَٰطِـِٔينَ / ٱلْخَٰطِـُٔونَ — Bab I ism-i fâil: 12:29, 12:91, 12:97, 28:8, 69:37)"
+      },
+      {
+        "lemma": "xaATi}ap",
+        "label": "Doğru yoldan sapan kusurlu perçem ve sapma fiili (ٱلْخَاطِئَةِ / خَاطِئَةٍ — müennes ism-i fâil: 69:9, 96:16)"
+      }
+    ],
+    "irab_default": "Doğru hedefi ıskalayıp yanılmak veya doğru ilkeden saparak kusur işlemek (خ-ط-أ kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:286",
+          "4:92",
+          "33:5"
+        ],
+        "text": "Kasıt (amd) olmaksızın insanın dikkatsizlikle hedefi şaşırıp yanılması (hataen / ahtaa) ile kasıtlı eylemler arasındaki hukuki ve ahlaki ayrım."
+      },
+      {
+        "ayahs": [
+          "12:29",
+          "12:91",
+          "12:97",
+          "17:31",
+          "28:8",
+          "69:9",
+          "69:37",
+          "96:16"
+        ],
+        "text": "Bilerek doğru yoldan sapanlar (hâtıîn), yalancı ve sapkın perçem (nâsıyeten kâzibeten hâtıeh) ve çocukları öldürmenin büyük bir sapma suçu (hıt'en kebîrâ) olması."
+      },
+      {
+        "ayahs": [
+          "2:58",
+          "2:81",
+          "4:112",
+          "7:161",
+          "20:73",
+          "26:51",
+          "29:12",
+          "71:25"
+        ],
+        "text": "Sapma kusurunun (hatîeh) insanı çepeçevre kuşatması, suçu masum birinin üzerine atmak ve hatadan dönenlerin sapma kusurlarının örtülüp bağışlanması."
+      }
+    ],
+    "context_default": "Doğru hedefi ıskalayıp yanılmak veya doğru ilkeden saparak kusur işlemek (خ-ط-أ)."
+  },
+  "د-ر-ي": {
+    "buckwalter": "dry",
+    "slug": "dirayet_edra_ve_tedri_ipuclariyla_ic_yuzunu_kestirip_kavramak_dry",
+    "concept_name": "Dirâyet, Edrâ ve Tedrî (İz Sürüp İpuçlarıyla İç Yüzünü Kestirip Kavramak ve Mahiyetini Kavratmak)",
+    "keywords": [
+      "dirayet",
+      "edra",
+      "ma edrake",
+      "tedri",
+      "ipucuyla kavramak",
+      "kestirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">adoraY`",
+        "label": "İnsanın kendi ipuçlarıyla erişemeyeceği derin bir gerçeğin mahiyetini kavratıp bildirmek (وَمَآ أَدْرَىٰكَ / وَمَا يُدْرِيكَ / وَلَآ أَدْرَىٰكُم — Bab IV fiil: 17 geçiş)"
+      },
+      {
+        "lemma": "tadoriY",
+        "label": "Mevcut ipuçlarıyla bir işin iç yüzünü veya yarını kestirip kavramak (تَدْرِى / تَدْرُونَ / نَدْرِى / أَدْرِىٓ — Bab I muzâri fiil: 12 geçiş)"
+      }
+    ],
+    "irab_default": "İz sürüp ipuçlarıyla bir şeyin iç yüzünü kestirip kavramak ve mahiyetini kavratmak (د-ر-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "69:3",
+          "74:27",
+          "77:14",
+          "82:17",
+          "82:18",
+          "83:8",
+          "83:19",
+          "86:2",
+          "90:12",
+          "97:2",
+          "101:3",
+          "101:10",
+          "104:5"
+        ],
+        "text": "İnsanın alışılmış deneyim ve ipuçlarıyla kavrayamayacağı büyük kozmik ve ahlaki gerçekleri tanımlayan 've mâ edrâke mâ...' (onun ne olduğunu sana ne kavratabilir ki?) bildirimleri."
+      },
+      {
+        "ayahs": [
+          "10:16",
+          "33:63",
+          "42:17",
+          "42:52",
+          "80:3"
+        ],
+        "text": "Vahiy olmasaydı elçinin bile kitabın mahiyetini kestiremeyeceği ve saatin yakınlığını veya muhatabın arınma ihtimalini insanın kendi tahminiyle bilemeyeceği."
+      },
+      {
+        "ayahs": [
+          "4:11",
+          "21:109",
+          "21:111",
+          "29:66",
+          "31:34",
+          "45:32",
+          "60:1",
+          "65:1",
+          "72:10",
+          "72:25"
+        ],
+        "text": "Hiçbir benliğin yarın ne kazanacağını, hangi yerde öleceğini veya karşılaşılan bir durumun ardından Allah'ın nasıl bir yeni çıkış yolu yaratacağını önceden kestirememesi."
+      }
+    ],
+    "context_default": "İz sürüp ipuçlarıyla bir şeyin iç yüzünü kestirip kavramak ve mahiyetini kavratmak (د-ر-ي)."
+  },
+  "ق-ه-ر": {
+    "buckwalter": "qhr",
+    "slug": "kahhar_kahir_ve_kahr_mutlak_ustunlukle_boyun_egdirmek_ve_ezmemek_qhr",
+    "concept_name": "Kahhâr, Kâhir ve Kahr (Direnci Kırıp Mutlak Üstünlükle Boyun Eğdirmek ve Zayıfı Güçle Ezmemek)",
+    "keywords": [
+      "kahhar",
+      "kahir",
+      "kahr",
+      "boyun eğdirmek",
+      "egemen",
+      "yetimi ezmemek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qah~aAr",
+        "label": "Evrendeki her şeye yasalarıyla mutlak biçimde boyun eğdiren karşı konulmaz Egemen (ٱلْقَهَّارُ / ٱلْقَهَّارِ — mübâlağalı ism-i fâil: 12:39, 13:16, 14:48, 38:65, 39:4, 40:16)"
+      },
+      {
+        "lemma": "qaAhir",
+        "label": "Kullarının üstünde mutlak üstünlük sahibi olan (6:18, 6:61) ve Firavun'un halk üzerinde zorba egemenlik iddiası (7:127) (ٱلْقَاهِرُ / قَٰهِرُونَ — Bab I ism-i fâil)"
+      },
+      {
+        "lemma": "taqoharo",
+        "label": "Savunmasız yetimi sakın güç kullanarak ezip sindirme (فَلَا تَقْهَرْ — Bab I nehy-i hâzır fiil: 93:9)"
+      }
+    ],
+    "irab_default": "Direnci kırıp mutlak üstünlükle boyun eğdirmek veya zayıfı güçle ezip sindirmek (ق-ه-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:39",
+          "13:16",
+          "14:48",
+          "38:65",
+          "39:4",
+          "40:16"
+        ],
+        "text": "Dağınık ve uydurma otoritelerin karşısında bütün evrene yasalarıyla boyun eğdiren Tek ve Karşı Konulmaz Egemen (el-Vâhidü'l-Kahhâr)."
+      },
+      {
+        "ayahs": [
+          "6:18",
+          "6:61"
+        ],
+        "text": "Kullarının üzerinde uyku, yaşam ve ölüm yasalarıyla mutlak üstünlük sahibi olan (el-Kâhir)."
+      },
+      {
+        "ayahs": [
+          "7:127",
+          "93:9"
+        ],
+        "text": "Savunmasız yetimi güç kullanarak ezip sindirme yasağı (fe-lâ takher) ve Firavun yönetiminin halkı ezme iddiası."
+      }
+    ],
+    "context_default": "Direnci kırıp mutlak üstünlükle boyun eğdirmek veya zayıfı güçle ezip sindirmek (ق-ه-ر)."
+  },
+  "ت-ب-ب": {
+    "buckwalter": "tbb",
+    "slug": "tebb_tebab_ve_tetbib_gucu_kesilip_bosa_cikmak_ve_tukenise_ugramak_tbb",
+    "concept_name": "Tebb, Tebâb ve Tetbîb (Gücü Kesilip Tamamen Boşa Çıkmak ve Hüsranlı Tükenişe Uğramak)",
+    "keywords": [
+      "tebbet",
+      "tebab",
+      "tetbib",
+      "boşa çıkmak",
+      "tükeniş",
+      "hüsran"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tab~a",
+        "label": "İki eli (tüm güç ve girişimleri) kesilip boşa çıktı ve kendisi de tükenişe uğradı (تَبَّتْ ... وَتَبَّ — Bab I mazi fiil: 111:1)"
+      },
+      {
+        "lemma": "tabaAb",
+        "label": "Tam bir boşa çıkış, kesintisiz hüsran ve yıkım (فِى تَبَابٍ — Bab I mastar: 40:37)"
+      },
+      {
+        "lemma": "tatobiyb",
+        "label": "Tükenişe sürükleme, hüsran ve yıkıma uğratma (تَتْبِيبٍ — Bab II mastar: 11:101)"
+      }
+    ],
+    "irab_default": "Gücü kesilip tamamen boşa çıkmak, tükenişe ve hüsranlı yıkıma uğramak (ت-ب-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "111:1"
+        ],
+        "text": "Serveti ve gücüyle hakikati boğacağını sanan Ebû Leheb'in iki elinin (tüm güç ve girişimlerinin) kesilip boşa çıkması ve tükenişe uğraması."
+      },
+      {
+        "ayahs": [
+          "40:37"
+        ],
+        "text": "Kibirle kuleler dikip elçiyi yalancı çıkarmak isteyen Firavun'un tuzağının yalnızca tam bir boşa çıkış ve yıkım (tebâb) içinde kalması."
+      },
+      {
+        "ayahs": [
+          "11:101"
+        ],
+        "text": "Allah'ın yasası geldiğinde, O'nun berisinden çağrılan sahte odakların sahiplerine tükeniş ve yıkımdan (tetbîb) başka hiçbir şey katmaması."
+      }
+    ],
+    "context_default": "Gücü kesilip tamamen boşa çıkmak, tükenişe ve hüsranlı yıkıma uğramak (ت-ب-ب)."
   }
 }

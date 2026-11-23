@@ -1,0 +1,631 @@
+{
+  "root": "ث-ق-ل",
+  "root_latin": "TH-K-L (vql)",
+  "concept_name": "Mis̱kâl, S̱ekalân ve S̱akîl (Tartıda Ağır Basmak, Kütle ve Sorumluluk Ağırlığı Taşımak)",
+  "rank": 326,
+  "total_occurrences": 28,
+  "unique_ayahs_count": 26,
+  "unified_core_mechanism": "Hafifliğin (خِفَّة) zıddı olarak tartıda ağır basmak, kütle ve sorumluluk ağırlığı taşımak veya ağırlığını verip yere çakılmak: zerre ağırlığı ölçüsü (مِثْقَال — 99:7-8), tartıların ağır basması (ثَقُلَتْ — 7:8, 101:6), sorumluluk ağırlığı taşıyan iki bilinç kütlesi (ٱلثَّقَلَانِ — 55:31), ağır söz (73:5) ve toprağa çakılıp ağırlaşmak (9:38).",
+  "physical_core": "Hafifliğin (الخِفَّة) tam karşıtı olarak bir cismin terazide ağır basması, kütlesiyle bulunduğu yeri bastırması ve taşıyanı zorlayan fiziksel ağırlık: terazi kefesinin ağır basması (7:8, 101:6), su yüklü ağır bulutlar (13:12), zerre ağırlığı ölçüsü (مِثْقَال) ve sorumluluk ağırlığı taşıyan iki büyük kütle (ٱلثَّقَلَانِ — 55:31).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ث-ق-ل` kökünün tamamı tek bir sahih asla dayanır; o da hafifliğin (`الخِفَّة`) tam zıddı olan ağırlıktır (`الثِّقَلُ خِلَافُ الخِفَّة`). `55:31`'deki `الثَّقَلَان` kelimesi de yeryüzünün onlarla ağırlaşması veya yeryüzü üzerindekilerin değer/sorumluluk ağırlığı bakımından en ağır iki kütle olmaları sebebiyle bu kökten türemiştir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `الثِّقَل` hafifliğin (`الخِفَّة`) karşıtıdır; `المِثْقَال` bir şeyin kendisiyle tartıldığı ağırlık ölçüsüdür; `الأَثْقَال` taşınan ağır yükler ve yerin içindeki ağırlıklardır (`99:2`); `اثَّاقَلَ إِلَى الأَرْضِ` (`9:38`) ise ağırlığını yere verip çakılıp kalmaktır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الثِّقَل` ve `الخِفَّة` öncelikle somut cisimlerin tartıdaki ağırlık ve hafifliği için kullanılır (`13:12`, `7:8`), ardından bilişsel ve ahlaki sorumluluk ağırlığı (`73:5` `قَوْلًا ثَقِيلًا`, `55:31` `ٱلثَّقَلَانِ`) için kullanılır.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris ve Râgıb'ın ortaya koyduğu 'tartıda ağır basmak, kütle ve sorumluluk ağırlığı taşımak (`خِلَافُ الخِفَّة`)' çekirdeği, Kur'an'daki tüm türevleri aydınlatır ve özellikle `55:31`'deki `أَيُّهَ ٱلثَّقَلَانِ` ifadesini ezbere çevirilerden kurtararak 'ey yeryüzünde bilinç ve sorumluluk ağırlığı taşıyan iki büyük kütle' olarak kök mekanizmasına bağlar."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*ṯ-q-l` kökü: İbranice שָׁקַל (`šāqal` Strong H8254: 'terazide tartmak, ağırlığını ölçmek') ve שֶׁקֶל (`šeqel` Strong H8255: 'tartı ağırlığı birimi'), Aramice/Süryanice `תְּקַל / ܬܩܠ` (*təqal*: 'tartmak, ağır gelmek'), Ugaritçe `ṯql` ve Akadca `šaqālu / šiqlu` ('tartmak, ağırlık ölçüsü') ile tüm Sami dillerinde birebir eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "خ-ف-ف [فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ ... وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ ... حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ فَلَمَّآ أَثْقَلَت ... ٱنفِرُوا۟ خِفَافًا وَثِقَالًا] (Tartıda Ağır Basmak ve Yükle Ağırlaşmak [ثَقُلَتْ / أَثْقَلَت / ثِقَالًا] ↔ Tartıda Hafif Kalmak ve Hafif Olmak [خَفَّتْ / خَفِيفًا / خِفَافًا]: 7:8-9, 7:189, 9:41, 23:102-103, 101:6-8)",
+      "ق-ل-ل [وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ ... مِثْقَالَ ذَرَّةٍ] (Ağır Yük Altında Ezilmek ve Tartı Ağırlığı [مُثْقَلَة / مِثْقَال] ↔ Azlık ve Eksiklik [ق-ل-ل]: 4:40, 35:18)",
+      "و-ز-ر [وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا ... وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ] (Ağır Yük Altında Ezilen ve Taşınan Ağırlıklar [مُثْقَلَة / أَثْقَال] ↔ Sorumluluk Yükü Taşımak [وِزْر / وَازِرَة]: 29:12-13, 35:18)"
+    ],
+    "key_ayahs": [
+      "4:40",
+      "7:8-9",
+      "7:189",
+      "9:38-41",
+      "13:12",
+      "29:13",
+      "35:18",
+      "55:31",
+      "73:5",
+      "99:2-8",
+      "101:6-8"
+    ],
+    "reverse_stress_test": "7:8-9, 23:102-103 ve 101:6-8'de `ثَقُلَتْ مَوَٰزِينُهُۥ` (tartıları ağır basan) ile `خَفَّتْ مَوَٰزِينُهُۥ` (tartıları hafif kalan); 7:189'da `حَمْلًا خَفِيفًا` ile `فَلَمَّآ أَثْقَلَت`; 9:41'de ise `خِفَافًا وَثِقَالًا` doğrudan karşı karşıya konmuştur. Hafiflik (`خ-ف-ف`) tersine çevrildiğinde, `ث-ق-ل` kökünün 'tartıda ağır basmak, kütle ve sorumluluk ağırlığı taşımak' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ح-م-ل (7:189 حَمَلَتْ حَمْلًا خَفِيفًا ... فَلَمَّآ أَثْقَلَت ve 35:18 وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا — حَمْل bir şeyi yüklenip taşımak iken, ثِقَل / إِثْقَال taşınan o yükün kütlesiyle taşıyanı ağırlaştırıp bastırmasıdır)"
+    ],
+    "mechanical_difference": "`7:189`, `16:7`, `29:13` ve `35:18`'de `ح-م-ل` ile `ث-ق-ل` birlikte çalışır: `حَمْل` yükü sırtlanma eylemidir (hafif de olabilir: `حَمْلًا خَفِيفًا`); `ثِقَل` ise yükün yüksek özgül ağırlığı ve teraziyi aşağı bastıran kütlesidir."
+  },
+  "anchor_ayahs": [
+    "4:40",
+    "7:8",
+    "7:189",
+    "9:38",
+    "13:12",
+    "29:13",
+    "35:18",
+    "55:31",
+    "73:5",
+    "99:2",
+    "99:7-8",
+    "101:6"
+  ],
+  "grammar_and_branch_rules": "Ölçü ismi `مِثْقَال` (8 geçiş) en küçük tartı ağırlığını; Bab I `ثَقُلَتْ` (4 geçiş) terazi kefelerinin veya saatin ağır basmasını; Bab IV `أَثْقَلَت / مُثْقَلَة / مُّثْقَلُونَ` (4 geçiş) yük veya borç altında ağırlaşmayı; Bab VI `ٱثَّاقَلْتُمْ` (`9:38`) yere mıhlanıp ağırlaşmayı; `ٱلثَّقَلَانِ` (`55:31`) ve `أَثْقَال` (5 geçiş) ise sorumluluk ağırlığı taşıyan iki kütleyi ve ağır yükleri ifade eder.",
+  "derivatives": {
+    "مِثْقَالَ / مِثْقَالُ": "Tartı ağırlığı, bir şeyin terazideki kütle karşılığı (4:40, 10:61, 21:47, 31:16, 34:3, 34:22, 99:7, 99:8)",
+    "ثَقُلَتْ / أَثْقَلَت": "Tartıda ağır bastı, taşıdığı yükle ağırlaştı (7:8, 7:187, 7:189, 23:102, 101:6)",
+    "ٱثَّاقَلْتُمْ": "Bütün ağırlığınızı vererek yere/toprağa çakılıp ağırlaştınız (9:38)",
+    "ٱلثَّقَلَانِ / أَثْقَال": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük bilinç kütlesi (55:31); taşınan ağır yükler ve yerin içindeki ağırlıklar (16:7, 29:13, 99:2)",
+    "ثَقِيلًا / ثِقَالًا / ٱلثِّقَالَ": "Sorumluluğu ağır söz ve gün; yağmur veya yükle ağırlaşmış olanlar (9:41, 13:12, 73:5, 76:27)",
+    "مُثْقَلَةٌ / مُّثْقَلُونَ": "Ağır sorumluluk veya borç yükü altında ezilmiş olanlar (35:18, 52:40, 68:46)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 4,
+      "ayah": 40,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:40",
+      "word_position": 5,
+      "target_word_uthmani": "مِثْقَالَ",
+      "target_word_rasm": "مثقال",
+      "target_word_literal_irab": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)",
+      "context_snippet_arabic": "ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Allah zerre kadar zulmetmez. Zerre miktarı iyilik bile olsa onu katkat arttırır ve yapana, kendi katından büyük bir mükafat verir.",
+      "morphology": {
+        "lemma": "mivoqaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Allah zerre kadar zulmetmez. Zerre miktarı iyilik bile olsa onu katkat arttırır ve yapana, kendi katından büyük bir mükafat verir.",
+      "contextual_meaning": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+    },
+    {
+      "surah": 7,
+      "ayah": 8,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:8",
+      "word_position": 5,
+      "target_word_uthmani": "ثَقُلَتْ",
+      "target_word_rasm": "ثقلت",
+      "target_word_literal_irab": "Hesap gününde değer üreten eylem tartılarının ağır basması (7:8, 23:102, 101:6) ve saatin göklerde ve yerde ağır gelmesi (7:187) (ثَقُلَتْ — Bab I mazi fiil)",
+      "context_snippet_arabic": "يَوْمَئِذٍ ٱلْحَقُّ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ",
+      "context_snippet_turkish_tabula_rasa": "O gün tartı olacak, gerçektir bu. Kimlerin iyi amelleri, terazide ağır gelirse onlardır kurtulanlar, muratlarına erenler.",
+      "morphology": {
+        "lemma": "vaqulato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:vaqulato|ROOT:vql|3FS"
+      },
+      "ayah_text_arabic_full": "وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün tartı olacak, gerçektir bu. Kimlerin iyi amelleri, terazide ağır gelirse onlardır kurtulanlar, muratlarına erenler.",
+      "contextual_meaning": "Hesap gününde değer üreten eylem tartılarının ağır basması (sakulat) ve o ağır günün sarsıcı bilinci."
+    },
+    {
+      "surah": 7,
+      "ayah": 57,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:57",
+      "word_position": 13,
+      "target_word_uthmani": "ثِقَالًا",
+      "target_word_rasm": "ثقالا",
+      "target_word_literal_irab": "Sorumluluğu ağır söz (73:5), ağır bir gün (76:27), yağmur yüklü ağır bulutlar (13:12) ve ağır yüklü olanlar (9:41) (ثَقِيلًا / ثِقَالًا / ٱلثِّقَالَ — sıfat)",
+      "context_snippet_arabic": "إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki rahmetinden önce müjdeci olarak rüzgarları yollar. Sonucu rüzgarlar, ağır yağmur bulutlarını yüklenince onları ölmüş bir ülkeye sevk...",
+      "morphology": {
+        "lemma": "vaqiyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:vaqiyl|ROOT:vql|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki rahmetinden önce müjdeci olarak rüzgarları yollar. Sonucu rüzgarlar, ağır yağmur bulutlarını yüklenince onları ölmüş bir ülkeye sevk ederiz, oraya böylece yağmur yağdırırız da her çeşit meyveler yetiştiririz. Düşünün de ibret almaya bakın, çünkü biz, ölüyü de işte böyle diriltiriz.",
+      "contextual_meaning": "Tartıda ağır basmak, kütle ve sorumluluk ağırlığı taşımak, yere çakılıp ağırlaşmak (ث-ق-ل)."
+    },
+    {
+      "surah": 7,
+      "ayah": 187,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:187",
+      "word_position": 16,
+      "target_word_uthmani": "ثَقُلَتْ",
+      "target_word_rasm": "ثقلت",
+      "target_word_literal_irab": "Hesap gününde değer üreten eylem tartılarının ağır basması (7:8, 23:102, 101:6) ve saatin göklerde ve yerde ağır gelmesi (7:187) (ثَقُلَتْ — Bab I mazi fiil)",
+      "context_snippet_arabic": "لِوَقْتِهَآ إِلَّا هُوَ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Senden kıyametin ne vakit kopacağını sorarlar. De ki: Onu ancak Rabbim bilir. Vakti geldi mi onu ancak o izhar eder; göklere de ağır basmıştır, yeryüzüne de ve...",
+      "morphology": {
+        "lemma": "vaqulato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:vaqulato|ROOT:vql|3FS"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى لَا يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden kıyametin ne vakit kopacağını sorarlar. De ki: Onu ancak Rabbim bilir. Vakti geldi mi onu ancak o izhar eder; göklere de ağır basmıştır, yeryüzüne de ve size ancak ansızın gelip çatar. Biliyormuşsun da gizliyorsun gibi sana soruyorlar, de ki: Onu ancak Allah bilir, fakat insanların çoğu anlamaz bunu.",
+      "contextual_meaning": "Hesap gününde değer üreten eylem tartılarının ağır basması (sakulat) ve o ağır günün sarsıcı bilinci."
+    },
+    {
+      "surah": 7,
+      "ayah": 189,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:189",
+      "word_position": 20,
+      "target_word_uthmani": "أَثْقَلَت",
+      "target_word_rasm": "أثقلت",
+      "target_word_literal_irab": "Gebelik yükünün ilerleyip kadını ağırlaştırması (أَثْقَلَت — Bab IV mazi fiil: 7:189)",
+      "context_snippet_arabic": "فَمَرَّتْ بِهِۦ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki sizi tek bir kişiden yarattı, ülfet ve ünsiyet etmesi için ondan da eşini halketti. Derken erkek eşine yaklaşınca eşi, hafif bir yük...",
+      "morphology": {
+        "lemma": ">avoqalat",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>avoqalat|ROOT:vql|3FS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki sizi tek bir kişiden yarattı, ülfet ve ünsiyet etmesi için ondan da eşini halketti. Derken erkek eşine yaklaşınca eşi, hafif bir yük taşımıya ve onunla gidip gelmeye başladı. O yük ağırlaşınca ikisi de, bize azası tam ve iyi birevlat verirsen şüphe yok ki biz de nimetin değerini bilip açığa vuranlardan oluruz diye Rablerine dua ettiler.",
+      "contextual_meaning": "Seferberlikte toprağa çakılıp ağırlaşmak, yağmur yüklü ağır bulutlar, gebeliğin ağırlaşması ve kimsenin başkasının ağır yükünü taşımaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 38,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:38",
+      "word_position": 13,
+      "target_word_uthmani": "ٱثَّاقَلْتُمْ",
+      "target_word_rasm": "ٱثاقلتم",
+      "target_word_literal_irab": "Seferberlik çağrısında bütün ağırlığınızı vererek yere/toprağa çakılıp ağırlaştınız (ٱثَّاقَلْتُمْ — Bab VI mazi fiil: 9:38)",
+      "context_snippet_arabic": "فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ أَرَضِيتُم",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, size ne oldu da Allah yolunda savaşa çıkın dendiği zaman olduğunuz yerde mıhlanıp kaldınız. Âhireti bıraktınız da dünya yaşayışına mı razı...",
+      "morphology": {
+        "lemma": "{v~aAqalo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:{v~aAqalo|ROOT:vql|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ فَمَا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, size ne oldu da Allah yolunda savaşa çıkın dendiği zaman olduğunuz yerde mıhlanıp kaldınız. Âhireti bıraktınız da dünya yaşayışına mı razı oldunuz? Fakat dünya hayatının faydası, ahirete nispetle pek azdır.",
+      "contextual_meaning": "Seferberlikte toprağa çakılıp ağırlaşmak, yağmur yüklü ağır bulutlar, gebeliğin ağırlaşması ve kimsenin başkasının ağır yükünü taşımaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 41,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:41",
+      "word_position": 3,
+      "target_word_uthmani": "وَثِقَالًا",
+      "target_word_rasm": "وثقالا",
+      "target_word_literal_irab": "Sorumluluğu ağır söz (73:5), ağır bir gün (76:27), yağmur yüklü ağır bulutlar (13:12) ve ağır yüklü olanlar (9:41) (ثَقِيلًا / ثِقَالًا / ٱلثِّقَالَ — sıfat)",
+      "context_snippet_arabic": "ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Genciniz, ihtiyarınız, hep beraber savaşa çıkın ve mallarınızla, canlarınızla Allah yolunda savaşın, bilirseniz bu, sizin için daha hayırlıdır.",
+      "morphology": {
+        "lemma": "vaqiyl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaqiyl|ROOT:vql|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Genciniz, ihtiyarınız, hep beraber savaşa çıkın ve mallarınızla, canlarınızla Allah yolunda savaşın, bilirseniz bu, sizin için daha hayırlıdır.",
+      "contextual_meaning": "Seferberlikte toprağa çakılıp ağırlaşmak, yağmur yüklü ağır bulutlar, gebeliğin ağırlaşması ve kimsenin başkasının ağır yükünü taşımaması."
+    },
+    {
+      "surah": 10,
+      "ayah": 61,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:61",
+      "word_position": 26,
+      "target_word_uthmani": "مِّثْقَالِ",
+      "target_word_rasm": "مثقال",
+      "target_word_literal_irab": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)",
+      "context_snippet_arabic": "عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Hiçbir işe girişmezsin, onun vahyettiği Kur'an'dan hiçbir ayet okumazsın ve siz hiçbir iş işlemezsiniz ki o işe koyulduğunuz zaman biz, sizi görmeyelim, tanık...",
+      "morphology": {
+        "lemma": "mivoqaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا تَكُونُ فِى شَأْنٍ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ وَلَآ أَصْغَرَ مِن ذَٰلِكَ وَلَآ أَكْبَرَ إِلَّا فِى كِتَٰبٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir işe girişmezsin, onun vahyettiği Kur'an'dan hiçbir ayet okumazsın ve siz hiçbir iş işlemezsiniz ki o işe koyulduğunuz zaman biz, sizi görmeyelim, tanık olmayalım ve yeryüzünde ve gökte zerre miktarı bir şey bile yoktur ki Rabbinden gizli kalsın; bundan daha da küçük, daha da büyük hiçbir şey yoktur ki apaçık kitapta tespit edilmiş olmasın.",
+      "contextual_meaning": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+    },
+    {
+      "surah": 13,
+      "ayah": 12,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:12",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلثِّقَالَ",
+      "target_word_rasm": "ٱلثقال",
+      "target_word_literal_irab": "Sorumluluğu ağır söz (73:5), ağır bir gün (76:27), yağmur yüklü ağır bulutlar (13:12) ve ağır yüklü olanlar (9:41) (ثَقِيلًا / ثِقَالًا / ٱلثِّقَالَ — sıfat)",
+      "context_snippet_arabic": "وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir sığınak merciidir ki sizi korkutan ve umduran şimşeği o çaktırır ve yağmurla dolu ağır bulutları o meydana getirir.",
+      "morphology": {
+        "lemma": "vaqiyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:vaqiyl|ROOT:vql|MP|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir sığınak merciidir ki sizi korkutan ve umduran şimşeği o çaktırır ve yağmurla dolu ağır bulutları o meydana getirir.",
+      "contextual_meaning": "Seferberlikte toprağa çakılıp ağırlaşmak, yağmur yüklü ağır bulutlar, gebeliğin ağırlaşması ve kimsenin başkasının ağır yükünü taşımaması."
+    },
+    {
+      "surah": 16,
+      "ayah": 7,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:7",
+      "word_position": 2,
+      "target_word_uthmani": "أَثْقَالَكُمْ",
+      "target_word_rasm": "أثقالكم",
+      "target_word_literal_irab": "Yeryüzünde bilinç ve sorumluluk ağırlığı taşıyan iki büyük kütle (ٱلثَّقَلَانِ — 55:31) ile taşınan ağır yükler ve yerin içindeki ağırlıklar (أَثْقَال — 16:7, 29:13, 99:2)",
+      "context_snippet_arabic": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَّمْ",
+      "context_snippet_turkish_tabula_rasa": "Kendinize meşakkatler vererek ancak varabileceğiniz şehirlere de yüklerinizi taşırlar; şüphe yok ki Rabbiniz mutlaka esirgeyicidir, rahimdir.",
+      "morphology": {
+        "lemma": "v~aqalaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:v~aqalaAn|ROOT:vql|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَّمْ تَكُونُوا۟ بَٰلِغِيهِ إِلَّا بِشِقِّ ٱلْأَنفُسِ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendinize meşakkatler vererek ancak varabileceğiniz şehirlere de yüklerinizi taşırlar; şüphe yok ki Rabbiniz mutlaka esirgeyicidir, rahimdir.",
+      "contextual_meaning": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük kütle (es-sekalân), vahyedilen sorumluluğu ağır söz (kavlen sakîlâ) ve taşınan ağır yükler (eskâl)."
+    },
+    {
+      "surah": 21,
+      "ayah": 47,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:47",
+      "word_position": 12,
+      "target_word_uthmani": "مِثْقَالَ",
+      "target_word_rasm": "مثقال",
+      "target_word_literal_irab": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)",
+      "context_snippet_arabic": "شَيْـًٔا وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ",
+      "context_snippet_turkish_tabula_rasa": "Kıyamet günü, adalet terazilerini kuracağız, hiçbir kimse hiçbir şeyde haksızlığa uğramıyacak, hatta hardal tanesi ağırlığında bir işin bile karşılığını...",
+      "morphology": {
+        "lemma": "mivoqaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kıyamet günü, adalet terazilerini kuracağız, hiçbir kimse hiçbir şeyde haksızlığa uğramıyacak, hatta hardal tanesi ağırlığında bir işin bile karşılığını vereceğiz, bizim hesap görüşümüz yeter.",
+      "contextual_meaning": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+    },
+    {
+      "surah": 23,
+      "ayah": 102,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:102",
+      "word_position": 2,
+      "target_word_uthmani": "ثَقُلَتْ",
+      "target_word_rasm": "ثقلت",
+      "target_word_literal_irab": "Hesap gününde değer üreten eylem tartılarının ağır basması (7:8, 23:102, 101:6) ve saatin göklerde ve yerde ağır gelmesi (7:187) (ثَقُلَتْ — Bab I mazi fiil)",
+      "context_snippet_arabic": "فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ",
+      "context_snippet_turkish_tabula_rasa": "Kimin iyilikleri ağır gelirse o çeşit kişilerdir kurtulanlar, muratlarına erenler.",
+      "morphology": {
+        "lemma": "vaqulato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:vaqulato|ROOT:vql|3FS"
+      },
+      "ayah_text_arabic_full": "فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kimin iyilikleri ağır gelirse o çeşit kişilerdir kurtulanlar, muratlarına erenler.",
+      "contextual_meaning": "Hesap gününde değer üreten eylem tartılarının ağır basması (sakulat) ve o ağır günün sarsıcı bilinci."
+    },
+    {
+      "surah": 29,
+      "ayah": 13,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:13",
+      "word_position": 2,
+      "target_word_uthmani": "أَثْقَالَهُمْ",
+      "target_word_rasm": "أثقالهم",
+      "target_word_literal_irab": "Yeryüzünde bilinç ve sorumluluk ağırlığı taşıyan iki büyük kütle (ٱلثَّقَلَانِ — 55:31) ile taşınan ağır yükler ve yerin içindeki ağırlıklar (أَثْقَال — 16:7, 29:13, 99:2)",
+      "context_snippet_arabic": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, elbette kendi yüklerini de yüklenecekler, o yüklerle beraber başka yükleri de ve kıyamet gününde de iftira ettikleri şeyler, elbette sorulacak onlardan.",
+      "morphology": {
+        "lemma": "v~aqalaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:v~aqalaAn|ROOT:vql|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَٰمَةِ عَمَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, elbette kendi yüklerini de yüklenecekler, o yüklerle beraber başka yükleri de ve kıyamet gününde de iftira ettikleri şeyler, elbette sorulacak onlardan.",
+      "contextual_meaning": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük kütle (es-sekalân), vahyedilen sorumluluğu ağır söz (kavlen sakîlâ) ve taşınan ağır yükler (eskâl)."
+    },
+    {
+      "surah": 29,
+      "ayah": 13,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:13",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَثْقَالًا",
+      "target_word_rasm": "وأثقالا",
+      "target_word_literal_irab": "Yeryüzünde bilinç ve sorumluluk ağırlığı taşıyan iki büyük kütle (ٱلثَّقَلَانِ — 55:31) ile taşınan ağır yükler ve yerin içindeki ağırlıklar (أَثْقَال — 16:7, 29:13, 99:2)",
+      "context_snippet_arabic": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, elbette kendi yüklerini de yüklenecekler, o yüklerle beraber başka yükleri de ve kıyamet gününde de iftira ettikleri şeyler, elbette sorulacak onlardan.",
+      "morphology": {
+        "lemma": "v~aqalaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:v~aqalaAn|ROOT:vql|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَٰمَةِ عَمَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, elbette kendi yüklerini de yüklenecekler, o yüklerle beraber başka yükleri de ve kıyamet gününde de iftira ettikleri şeyler, elbette sorulacak onlardan.",
+      "contextual_meaning": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük kütle (es-sekalân), vahyedilen sorumluluğu ağır söz (kavlen sakîlâ) ve taşınan ağır yükler (eskâl)."
+    },
+    {
+      "surah": 29,
+      "ayah": 13,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:13",
+      "word_position": 5,
+      "target_word_uthmani": "أَثْقَالِهِمْ",
+      "target_word_rasm": "أثقالهم",
+      "target_word_literal_irab": "Yeryüzünde bilinç ve sorumluluk ağırlığı taşıyan iki büyük kütle (ٱلثَّقَلَانِ — 55:31) ile taşınan ağır yükler ve yerin içindeki ağırlıklar (أَثْقَال — 16:7, 29:13, 99:2)",
+      "context_snippet_arabic": "أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَٰمَةِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, elbette kendi yüklerini de yüklenecekler, o yüklerle beraber başka yükleri de ve kıyamet gününde de iftira ettikleri şeyler, elbette sorulacak onlardan.",
+      "morphology": {
+        "lemma": "v~aqalaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:v~aqalaAn|ROOT:vql|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَٰمَةِ عَمَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, elbette kendi yüklerini de yüklenecekler, o yüklerle beraber başka yükleri de ve kıyamet gününde de iftira ettikleri şeyler, elbette sorulacak onlardan.",
+      "contextual_meaning": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük kütle (es-sekalân), vahyedilen sorumluluğu ağır söz (kavlen sakîlâ) ve taşınan ağır yükler (eskâl)."
+    },
+    {
+      "surah": 31,
+      "ayah": 16,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:16",
+      "word_position": 5,
+      "target_word_uthmani": "مِثْقَالَ",
+      "target_word_rasm": "مثقال",
+      "target_word_literal_irab": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)",
+      "context_snippet_arabic": "إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey oğulcağızım, yaptığın hayır veya şer, bir hardal tanesi kadar bile olsa, o da bir taş içinde, yahut göklerde, yahut da yeryüzünde bulunsa Allah, onu gene...",
+      "morphology": {
+        "lemma": "mivoqaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey oğulcağızım, yaptığın hayır veya şer, bir hardal tanesi kadar bile olsa, o da bir taş içinde, yahut göklerde, yahut da yeryüzünde bulunsa Allah, onu gene meydana çıkarır; şüphe yok ki Allah'ın lütfü boldur, o, her şeyden haberdardır.",
+      "contextual_meaning": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+    },
+    {
+      "surah": 34,
+      "ayah": 3,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:3",
+      "word_position": 16,
+      "target_word_uthmani": "مِثْقَالُ",
+      "target_word_rasm": "مثقال",
+      "target_word_literal_irab": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)",
+      "context_snippet_arabic": "لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِى ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar dediler ki: Kıyamet kopmayacak; de ki: Hayır, gizli şeyleri bilen Rabbime andolsun ki kopacak kıyamet başınıza; zerre kadar bir...",
+      "morphology": {
+        "lemma": "mivoqaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَأْتِينَا ٱلسَّاعَةُ قُلْ بَلَىٰ وَرَبِّى لَتَأْتِيَنَّكُمْ عَٰلِمِ ٱلْغَيْبِ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَلَآ أَصْغَرُ مِن ذَٰلِكَ وَلَآ أَكْبَرُ إِلَّا فِى كِتَٰبٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar dediler ki: Kıyamet kopmayacak; de ki: Hayır, gizli şeyleri bilen Rabbime andolsun ki kopacak kıyamet başınıza; zerre kadar bir şey bile gizli kalmaz ondan; göklerde olsun, yeryüzünde bulunsun, bundan da küçük olsun, bundan da büyük olsun, hepsi de apaçık kitaptadır.",
+      "contextual_meaning": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+    },
+    {
+      "surah": 34,
+      "ayah": 22,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:22",
+      "word_position": 10,
+      "target_word_uthmani": "مِثْقَالَ",
+      "target_word_rasm": "مثقال",
+      "target_word_literal_irab": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)",
+      "context_snippet_arabic": "ٱللَّهِ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Çağırın Allah'tan başka mabut sandıklarınızı; göklerde ve yeryüzünde bir zerre kadar bile bir şeyleri yoktur onların ve ne eşlikleri, ortaklıkları var...",
+      "morphology": {
+        "lemma": "mivoqaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Çağırın Allah'tan başka mabut sandıklarınızı; göklerde ve yeryüzünde bir zerre kadar bile bir şeyleri yoktur onların ve ne eşlikleri, ortaklıkları var sığınak mercii (ilâh), ne de onun, bunlardan bir yardımcısı var.",
+      "contextual_meaning": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+    },
+    {
+      "surah": 35,
+      "ayah": 18,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:18",
+      "word_position": 8,
+      "target_word_uthmani": "مُثْقَلَةٌ",
+      "target_word_rasm": "مثقلة",
+      "target_word_literal_irab": "Ağır sorumluluk yükü altında ezilmiş olan benlik (مُثْقَلَةٌ — Bab IV ism-i mef'ûl: 35:18)",
+      "context_snippet_arabic": "أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا",
+      "context_snippet_turkish_tabula_rasa": "Ve hiçbir suçlu, bir başkasının yükünü yüklenmez ve ağır bir yük taşıyan, onu yüklenmesi için bir başkasını çağırsa, çağırdığı, akrabası bile olsa o yükün bir...",
+      "morphology": {
+        "lemma": "muvoqalap",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:muvoqalap|ROOT:vql|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve hiçbir suçlu, bir başkasının yükünü yüklenmez ve ağır bir yük taşıyan, onu yüklenmesi için bir başkasını çağırsa, çağırdığı, akrabası bile olsa o yükün bir kısmını bile yüklenemez. Sen, gizli olduğu, görmedikleri halde Rablerinden korkanları ve irtibat bağını kurup sürdürenleri korkutabilirsin ancak ve kim, temiz bir hale gelirse faydası, ancak kendisinedir ve dönüp varılacak yer, Allah tapısıdır.",
+      "contextual_meaning": "Seferberlikte toprağa çakılıp ağırlaşmak, yağmur yüklü ağır bulutlar, gebeliğin ağırlaşması ve kimsenin başkasının ağır yükünü taşımaması."
+    },
+    {
+      "surah": 52,
+      "ayah": 40,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:40",
+      "word_position": 7,
+      "target_word_uthmani": "مُّثْقَلُونَ",
+      "target_word_rasm": "مثقلون",
+      "target_word_literal_irab": "Ağır borç ve yük altında ezilmiş olanlar (مُّثْقَلُونَ — Bab IV ism-i mef'ûl: 52:40, 68:46)",
+      "context_snippet_arabic": "فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa onlardan ücret istiyorsun da bu yüzden ağır bir borca mı giriyorlar?",
+      "morphology": {
+        "lemma": "m~uvoqaluwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:m~uvoqaluwn|ROOT:vql|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa onlardan ücret istiyorsun da bu yüzden ağır bir borca mı giriyorlar?",
+      "contextual_meaning": "Seferberlikte toprağa çakılıp ağırlaşmak, yağmur yüklü ağır bulutlar, gebeliğin ağırlaşması ve kimsenin başkasının ağır yükünü taşımaması."
+    },
+    {
+      "surah": 55,
+      "ayah": 31,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:31",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلثَّقَلَانِ",
+      "target_word_rasm": "ٱلثقلان",
+      "target_word_literal_irab": "Yeryüzünde bilinç ve sorumluluk ağırlığı taşıyan iki büyük kütle (ٱلثَّقَلَانِ — 55:31) ile taşınan ağır yükler ve yerin içindeki ağırlıklar (أَثْقَال — 16:7, 29:13, 99:2)",
+      "context_snippet_arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "context_snippet_turkish_tabula_rasa": "Ey iki ağır topluluk, insanlar ve görünmeyen bilinçli varlıklar, yakında hesabınıza bakacağız.",
+      "morphology": {
+        "lemma": "v~aqalaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:v~aqalaAn|ROOT:vql|MD|NOM"
+      },
+      "ayah_text_arabic_full": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey iki ağır topluluk, insanlar ve görünmeyen bilinçli varlıklar, yakında hesabınıza bakacağız.",
+      "contextual_meaning": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük kütle (es-sekalân), vahyedilen sorumluluğu ağır söz (kavlen sakîlâ) ve taşınan ağır yükler (eskâl)."
+    },
+    {
+      "surah": 68,
+      "ayah": 46,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:46",
+      "word_position": 7,
+      "target_word_uthmani": "مُّثْقَلُونَ",
+      "target_word_rasm": "مثقلون",
+      "target_word_literal_irab": "Ağır borç ve yük altında ezilmiş olanlar (مُّثْقَلُونَ — Bab IV ism-i mef'ûl: 52:40, 68:46)",
+      "context_snippet_arabic": "فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa onlardan ücret istiyorsun da derken onlar da ağır bir borç altında mı kaldılar?",
+      "morphology": {
+        "lemma": "m~uvoqaluwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:m~uvoqaluwn|ROOT:vql|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa onlardan ücret istiyorsun da derken onlar da ağır bir borç altında mı kaldılar?",
+      "contextual_meaning": "Seferberlikte toprağa çakılıp ağırlaşmak, yağmur yüklü ağır bulutlar, gebeliğin ağırlaşması ve kimsenin başkasının ağır yükünü taşımaması."
+    },
+    {
+      "surah": 73,
+      "ayah": 5,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:5",
+      "word_position": 5,
+      "target_word_uthmani": "ثَقِيلًا",
+      "target_word_rasm": "ثقيلا",
+      "target_word_literal_irab": "Sorumluluğu ağır söz (73:5), ağır bir gün (76:27), yağmur yüklü ağır bulutlar (13:12) ve ağır yüklü olanlar (9:41) (ثَقِيلًا / ثِقَالًا / ٱلثِّقَالَ — sıfat)",
+      "context_snippet_arabic": "سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de sana ağır bir şey vahyedeceğiz.",
+      "morphology": {
+        "lemma": "vaqiyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:vaqiyl|ROOT:vql|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de sana ağır bir şey vahyedeceğiz.",
+      "contextual_meaning": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük kütle (es-sekalân), vahyedilen sorumluluğu ağır söz (kavlen sakîlâ) ve taşınan ağır yükler (eskâl)."
+    },
+    {
+      "surah": 76,
+      "ayah": 27,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:27",
+      "word_position": 8,
+      "target_word_uthmani": "ثَقِيلًا",
+      "target_word_rasm": "ثقيلا",
+      "target_word_literal_irab": "Sorumluluğu ağır söz (73:5), ağır bir gün (76:27), yağmur yüklü ağır bulutlar (13:12) ve ağır yüklü olanlar (9:41) (ثَقِيلًا / ثِقَالًا / ٱلثِّقَالَ — sıfat)",
+      "context_snippet_arabic": "وَيَذَرُونَ وَرَآءَهُمْ يَوْمًا ثَقِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki bunlar çabucak gelipgeçeni severler de o ağır günü artlarına atar, bırakırgiderler.",
+      "morphology": {
+        "lemma": "vaqiyl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:vaqiyl|ROOT:vql|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰٓؤُلَآءِ يُحِبُّونَ ٱلْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ يَوْمًا ثَقِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki bunlar çabucak gelipgeçeni severler de o ağır günü artlarına atar, bırakırgiderler.",
+      "contextual_meaning": "Hesap gününde değer üreten eylem tartılarının ağır basması (sakulat) ve o ağır günün sarsıcı bilinci."
+    },
+    {
+      "surah": 99,
+      "ayah": 2,
+      "surah_name": "Zilzâl",
+      "ayah_ref": "99:2",
+      "word_position": 3,
+      "target_word_uthmani": "أَثْقَالَهَا",
+      "target_word_rasm": "أثقالها",
+      "target_word_literal_irab": "Yeryüzünde bilinç ve sorumluluk ağırlığı taşıyan iki büyük kütle (ٱلثَّقَلَانِ — 55:31) ile taşınan ağır yükler ve yerin içindeki ağırlıklar (أَثْقَال — 16:7, 29:13, 99:2)",
+      "context_snippet_arabic": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "context_snippet_turkish_tabula_rasa": "Ve yeryüzü, ağırlıklarını çıkarınca.",
+      "morphology": {
+        "lemma": "v~aqalaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:v~aqalaAn|ROOT:vql|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve yeryüzü, ağırlıklarını çıkarınca.",
+      "contextual_meaning": "Yeryüzünde sorumluluk ağırlığı taşıyan iki büyük kütle (es-sekalân), vahyedilen sorumluluğu ağır söz (kavlen sakîlâ) ve taşınan ağır yükler (eskâl)."
+    },
+    {
+      "surah": 99,
+      "ayah": 7,
+      "surah_name": "Zilzâl",
+      "ayah_ref": "99:7",
+      "word_position": 3,
+      "target_word_uthmani": "مِثْقَالَ",
+      "target_word_rasm": "مثقال",
+      "target_word_literal_irab": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)",
+      "context_snippet_arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Artık kim, bir zerre ağırlığı hayır yapmışsa görür onu.",
+      "morphology": {
+        "lemma": "mivoqaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık kim, bir zerre ağırlığı hayır yapmışsa görür onu.",
+      "contextual_meaning": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+    },
+    {
+      "surah": 99,
+      "ayah": 8,
+      "surah_name": "Zilzâl",
+      "ayah_ref": "99:8",
+      "word_position": 3,
+      "target_word_uthmani": "مِثْقَالَ",
+      "target_word_rasm": "مثقال",
+      "target_word_literal_irab": "Zerre veya hardal tanesi kadar bir şeyin terazideki tartı ağırlığı ve kütle karşılığı (مِثْقَالَ / مِثْقَالُ — ölçü ismi: 8 geçiş)",
+      "context_snippet_arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ve kim, bir zerre ağırlığı şer yapmışsa görür onu.",
+      "morphology": {
+        "lemma": "mivoqaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mivoqaAl|ROOT:vql|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim, bir zerre ağırlığı şer yapmışsa görür onu.",
+      "contextual_meaning": "Kozmik kayıt ve adalet terazisinde zerre veya hardal tanesi tartı ağırlığınca (miskâl) hiçbir eylemin gözden kaçmaması."
+    },
+    {
+      "surah": 101,
+      "ayah": 6,
+      "surah_name": "Kāria",
+      "ayah_ref": "101:6",
+      "word_position": 3,
+      "target_word_uthmani": "ثَقُلَتْ",
+      "target_word_rasm": "ثقلت",
+      "target_word_literal_irab": "Hesap gününde değer üreten eylem tartılarının ağır basması (7:8, 23:102, 101:6) ve saatin göklerde ve yerde ağır gelmesi (7:187) (ثَقُلَتْ — Bab I mazi fiil)",
+      "context_snippet_arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Artık kimin ki terazilerindeki tartısı ağır gelir.",
+      "morphology": {
+        "lemma": "vaqulato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:vaqulato|ROOT:vql|3FS"
+      },
+      "ayah_text_arabic_full": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık kimin ki terazilerindeki tartısı ağır gelir.",
+      "contextual_meaning": "Hesap gününde değer üreten eylem tartılarının ağır basması (sakulat) ve o ağır günün sarsıcı bilinci."
+    }
+  ]
+}

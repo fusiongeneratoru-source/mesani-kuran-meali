@@ -11460,8 +11460,12 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
     raise ValueError(f"Açıklama üretilemedi: root={root_ar}, lemma={lemma}, ref={s}:{a}")
 
 
+_CACHED_PURIFIED_TURKISH = None
+
+
 def build_root(ar_root, corpus=None, locked_roots_data=None, purified_turkish=None):
     """Tek bir kilitli kök için `data/kavramlar/<slug>.json` dosyasını üretir."""
+    global _CACHED_PURIFIED_TURKISH
     cfg = ROOT_CONFIG[ar_root]
     bw_root = cfg['buckwalter']
 
@@ -11471,8 +11475,10 @@ def build_root(ar_root, corpus=None, locked_roots_data=None, purified_turkish=No
         with open(os.path.join(DATA_DIR, 'locked_roots.json'), 'r', encoding='utf-8') as f:
             locked_roots_data = json.load(f)
     if purified_turkish is None:
-        raw_tr = load_verses(os.path.join(DATA_DIR, 'quran-turkish.txt'))
-        purified_turkish = {ref: purify_tabula_rasa(txt) for ref, txt in raw_tr.items()}
+        if _CACHED_PURIFIED_TURKISH is None:
+            raw_tr = load_verses(os.path.join(DATA_DIR, 'quran-turkish.txt'))
+            _CACHED_PURIFIED_TURKISH = {ref: purify_tabula_rasa(txt) for ref, txt in raw_tr.items()}
+        purified_turkish = _CACHED_PURIFIED_TURKISH
 
     locked_data = locked_roots_data['locked_roots'][ar_root]
     word_groups = corpus.get_root_word_groups(bw_root)
