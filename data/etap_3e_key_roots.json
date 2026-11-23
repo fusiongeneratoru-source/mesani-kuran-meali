@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3E (Kısa Sure Son Tekil Kilitleri, Açık Mesânî/Furûk Uçları ve 500. Kök Tam Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 40,
+  "locked_count": 50,
   "total_tokens_in_package": 789,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 87.87,
+  "current_coverage_pct": 88.5,
   "target_coverage_pct": 88.5,
   "etap_3e_roots": [
     {
@@ -761,8 +761,8 @@
       "frequency": 45,
       "unique_ayahs": 43,
       "rationale": "Zer ve Yezaru (45 geçişle henüz mühürlenmemiş #1 en yüksek frekanslı kök! 6:70, 62:9, 74:11, 75:20 bırakıp terk etmek)",
-      "concept_label": "Analiz Bekliyor (ya*ara)",
-      "is_locked": false,
+      "concept_label": "Vezer / Yezeru / Zer (Elini Çekip Bırakmak ve Kendi Hâline Terk Etmek)",
+      "is_locked": true,
       "sample_ayah": "2:234",
       "top_lemmas": [
         "ya*ara"
@@ -778,8 +778,8 @@
       "frequency": 33,
       "unique_ayahs": 32,
       "rationale": "Kifâyet ve Kâfî (33 geçiş: 4:6, 13:43, 29:51, 33:3,39, 39:36 \"Allah kuluna yetmez mi?\" ve koruyup başkasına muhtaç bırakmamak)",
-      "concept_label": "Analiz Bekliyor (kafaY`, kaAf)",
-      "is_locked": false,
+      "concept_label": "Kifâyet ve Kâfî (Ek Destek Gerektirmeyen Tam Yeterlilik ve Koruyup Savmak)",
+      "is_locked": true,
       "sample_ayah": "2:137",
       "top_lemmas": [
         "kafaY`",
@@ -796,8 +796,8 @@
       "frequency": 32,
       "unique_ayahs": 29,
       "rationale": "Medd, İmdâd ve Meded (32 geçiş: 104:9 Hümeze, 3:125, 17:20, 19:75, 25:45, 31:27 uzatmak, süre ve kesintisiz destek vermek)",
-      "concept_label": "Analiz Bekliyor (mad~a, >amad~a, mad~, m~amoduwd)",
-      "is_locked": false,
+      "concept_label": "Medd ve İmdâd (Boylamasına Yayıp Uzatmak ve Kesintisiz Takviye Eklemek)",
+      "is_locked": true,
       "sample_ayah": "2:15",
       "top_lemmas": [
         "mad~a",
@@ -816,8 +816,8 @@
       "frequency": 32,
       "unique_ayahs": 31,
       "rationale": "Müvârât, Mûriyât ve Verâ' (32 geçiş: 100:2 Âdiyât kıvılcım çakmak, 5:31, 7:20,26 gizleyip örtmek ve arkada/ötede olan)",
-      "concept_label": "Analiz Bekliyor (waraA^', wu,riYa, tawaArato, tuwru)",
-      "is_locked": false,
+      "concept_label": "Verâ, Muvârât ve Îrâ (Perde Ardında Örtüp Gizlemek, Öte Yan ve Kıvılcım Çakmak)",
+      "is_locked": true,
       "sample_ayah": "2:91",
       "top_lemmas": [
         "waraA^'",
@@ -836,8 +836,8 @@
       "frequency": 30,
       "unique_ayahs": 29,
       "rationale": "Sarf ve Tasrîf (30 geçiş: 6:16, 12:24,34, 17:41,89, 18:54, 25:50 kötülüğü savuşturup çevirmek ve ayetleri çok yönlü açıklamak)",
-      "concept_label": "Analiz Bekliyor (Sarafa, Sar~afo, taSoriyf, {nSarafu)",
-      "is_locked": false,
+      "concept_label": "Sarf ve Tasrîf (Yönünü Çevirip Döndürmek ve Farklı Açılardan Sunmak)",
+      "is_locked": true,
       "sample_ayah": "2:164",
       "top_lemmas": [
         "Sarafa",
@@ -856,8 +856,8 @@
       "frequency": 29,
       "unique_ayahs": 26,
       "rationale": "Gaşy, İğşâ' ve Gâşiye (29 geçiş: 88:1 Gâşiye Sûresi, 91:4, 92:1, 2:7, 24:40, 53:16 gece veya perde gibi her yanı bürüyüp kaplamak)",
-      "concept_label": "Analiz Bekliyor (ga$iya, >ugo$iyato, ga`$iyap, ga$~aY`)",
-      "is_locked": false,
+      "concept_label": "Gişâve ve Gâşiye (Üzerini Örtü ve Dalga Gibi Bürüyüp Kaplamak)",
+      "is_locked": true,
       "sample_ayah": "2:7",
       "top_lemmas": [
         "ga$iya",
@@ -876,8 +876,8 @@
       "frequency": 29,
       "unique_ayahs": 29,
       "rationale": "Masîr ve Sayrûret (29 geçiş: 2:126, 2:285, 3:28, 42:53 \"işlerin evrilip varacağı son dönüş durağı [وَإِلَيْكَ ٱلْمَصِيرُ]\")",
-      "concept_label": "Analiz Bekliyor (maSiyr, taSiyru)",
-      "is_locked": false,
+      "concept_label": "Masîr ve Sayrûret (Bütün Süreçlerin Akıp Vardığı Nihai Durak ve Akıbet)",
+      "is_locked": true,
       "sample_ayah": "2:126",
       "top_lemmas": [
         "maSiyr",
@@ -894,8 +894,8 @@
       "frequency": 29,
       "unique_ayahs": 27,
       "rationale": "Cidâl ve Mücâdele (29 geçiş: 16:125, 18:54, 29:46, 58:1 ipi sıkıca bükmekten hareketle en güzel yolla kanıt ortaya koymak vs kısır çekişme)",
-      "concept_label": "Analiz Bekliyor (ja`dalu, jidaAl, jadal)",
-      "is_locked": false,
+      "concept_label": "Cedel ve Mücâdele (Sözü Büküp Karşılıklı Çekiştirmek ve Savunma Mücadelesi)",
+      "is_locked": true,
       "sample_ayah": "2:197",
       "top_lemmas": [
         "ja`dalu",
@@ -913,8 +913,8 @@
       "frequency": 28,
       "unique_ayahs": 27,
       "rationale": "Recâ' ve Mürcûn (28 geçiş: خ-و-ف ve ي-أ-س eşleniği; 2:218, 18:110, 29:5, 33:21, 71:13 Allah'a kavuşmayı umup beklemek)",
-      "concept_label": "Analiz Bekliyor (yarojuwA@, turojiY, murojawon, marojuw~)",
-      "is_locked": false,
+      "concept_label": "Recâ, Ercâ ve İrcâ (Bilinçli Umut Beklentisi, Çevre Kenarı ve Erteleme)",
+      "is_locked": true,
       "sample_ayah": "2:218",
       "top_lemmas": [
         "yarojuwA@",
@@ -933,8 +933,8 @@
       "frequency": 28,
       "unique_ayahs": 27,
       "rationale": "İhâta ve Muhît (28 geçiş: 2:19, 2:255, 18:68,91, 41:54, 65:12, 85:20 ilahi bilgi ve kudretin her şeyi çepeçevre kuşatması)",
-      "concept_label": "Analiz Bekliyor (>aHaATa, muHiyT, muHiyTap)",
-      "is_locked": false,
+      "concept_label": "İhâta ve Muhît (Çepeçevre Kuşatmak ve Bilgiyle Tam Kavramak)",
+      "is_locked": true,
       "sample_ayah": "2:19",
       "top_lemmas": [
         ">aHaATa",

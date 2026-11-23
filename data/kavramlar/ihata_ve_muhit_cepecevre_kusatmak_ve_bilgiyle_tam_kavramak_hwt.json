@@ -1,0 +1,633 @@
+{
+  "root": "ح-و-ط",
+  "root_latin": "H-W-T (HwT)",
+  "concept_name": "İhâta ve Muhît (Çepeçevre Kuşatmak ve Bilgiyle Tam Kavramak)",
+  "rank": 320,
+  "total_occurrences": 28,
+  "unique_ayahs_count": 27,
+  "unified_core_mechanism": "Dört bir yanını çepeçevre dönüp kuşatarak hiçbir açık veya kaçış boşluğu bırakmamak (`إِطَافَةُ الشَّيْءِ بِالشَّيْءِ`): (1) Bilgi ve derin kavrayış kuşatması — Allah'ın her şeyi ilimle ve iç yüzüyle kuşatması (`18:91`, `65:12`, `72:28`), insanın ise ilahi ilmi kuşatamaması (`2:255`, `20:110`), bilgisini kuşatmadığı şeyi aceleyle yalanlaması (`10:39`, `27:84`), iç yüzünü bilmediği olaya dayanıp direnememesi (`18:68`) ve Hüdhüd'ün Süleyman'ın bilmediği bir haberi kavraması (`27:22`); (2) Mutlak ilahi kuşatma ve gözetim — Allah'ın yapılan her işi, insanları ve hakikati örtenleri çepeçevre kuşatması (`2:19`, `3:120`, `4:108,126`, `8:47`, `11:92`, `17:60`, `41:54`, `48:21`, `85:20`); (3) Fiziksel ve ahlaki kuşatılmışlık — insanın kendi yanlışıyla dört yandan sarılması (`2:81`), fırtınada dalgaların veya engelin kuşatması (`10:22`, `12:66`), bahçenin çepeçevre yıkıma uğraması (`18:42`) ve kuşatıcı azap günü/duvarları (`9:49`, `11:84`, `18:29`, `29:54`).",
+  "physical_core": "Bir alanın, nesnenin veya konunun dört bir yanını duvar gibi çepeçevre dönüp kuşatmak; hiçbir boşluk ve kaçış açığı bırakmadan sarmak (إِطَافَةُ الشَّيْءِ بِالشَّيْءِ مِنْ جَمِيعِ جَوَانِبِهِ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 2, s. 120): Kökün tek bir somut temele dayandığını (`كَلِمَةٌ وَاحِدَةٌ`) vurgular: bir şeyin başka bir şeyin etrafını çepeçevre dönüp çevrelemesi (`الشَّيْءُ يُطِيفُ بِالشَّيْءِ`); bahçeyi veya evi çevreleyen duvara `حَائِط` denmesi bu somut imgedendir.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `حَاطَهُ وَأَحَاطَ بِهِ` bir şeyi dört bir yanından kuşatmak, korumak veya kaçış yollarını kapatacak biçimde sarmaktır; bilgi bağlamında `أَحَاطَ بِهِ عِلْمًا` bir meselenin bütün köşe ve yönlerini eksiksiz kavramaktır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*, s. 265-266): `الْإِحَاطَةُ` iki ana alanda işler: (1) Cisim veya güç kuşatması — duvarın/çemberin bir yeri sarması (`10:22`, `18:29`, `18:42`, `48:21`), (2) Bilgi ve kavrayış kuşatması — zihnin veya ilahi ilmin bir gerçeği her yönüyle bütünüyle kavraması (`2:255`, `10:39`, `18:68,91`, `20:110`, `27:22,84`, `65:12`).",
+    "arbitration_decision": "Hakem Masası Kararı: Kur'an'daki 28 geçişin tamamı Form IV (`أَحَاطَ / مُحِيط`) kalıbında ve `بِـ` harf-i ceri ile çalışır. İbn Fâris'in 'çepeçevre dönüp çevreleme (`يُطِيفُ بِالشَّيْءِ`)' çekirdeği, hem epistemolojik kuşatmayı (`65:12` `أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا`, `2:255` insan bilgisinin sınırı) hem de varoluşsal/fiziksel kuşatmayı (`2:81` insanı saran kendi yanlışı, `10:22` dalgaların kuşatması, `18:29` ateş duvarları, `85:20` ilahi kuşatma) tek bir 'açık nokta bırakmayan çember' mekaniğinde birleştirir."
+  },
+  "semitic_cognates": {
+    "note": "Diğer Sami dillerinde kesin doğrulanmış eşkökenli bulunmadı; Arapçada `حَائِط` (çevre duvarı), `إِحَاطَة` (çepeçevre sarma ve tam kavrama) ve `مُحِيط` (her yanı kuşatan) sözcükleriyle tek bir somut geometrik çekirdek oluşturur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ن-ج-و [وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ ... لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ] (Dört Yandan Kaçışsız Kuşatılmak ↔ Kuşatmayı Yarıp Kurtulmak: 10:22)",
+      "ع-ل-م [وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ / أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا] (İnsanın Sınırlı Bilgisi ↔ Allah'ın Her Şeyi Çepeçevre Kavrayan Mutlak Bilgisi: 2:255, 10:39, 20:110, 27:84, 65:12)",
+      "و-ر-ي [وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌ / وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ] (Sırt Çevirip Gözden Uzaklaştırmak ↔ Öte Yandan Çepeçevre Kuşatılmış Olmak: 11:92, 85:20)"
+    ],
+    "key_ayahs": [
+      "2:19",
+      "2:81",
+      "2:255",
+      "4:108",
+      "10:22",
+      "10:39",
+      "11:92",
+      "18:29",
+      "18:42",
+      "18:68",
+      "27:22",
+      "65:12",
+      "85:20"
+    ],
+    "reverse_stress_test": "`10:22`'de dalgalarla dört yandan sarılıp kaçışsız kalmak (`أُحِيطَ بِهِمْ`) kurtarılma talebiyle (`أَنجَيْتَنَا`), `2:255` ve `20:110`'da ise insan bilgisinin kuşatamaması (`وَلَا يُحِيطُونَ`) Allah'ın mutlak kuşatıcılığıyla (`65:12` `أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا`) karşılıklı test edilir."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "و-س-ع (2:255 وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ ... وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ — إِحَاطَة bir şeyin sınırlarını dıştan çepeçevre sarıp kavramayı, وَسِعَ ise iç hacminin tüm varlığı içine alacak genişlikte olmasını ayırır)",
+      "ح-ص-ي (72:28 وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَىْءٍ عَدَدًۢا — أَحَاطَ bütüncül ve çepeçevre kavramayı, أَحْصَىٰ ise tek tek tane hesabı sayıp kayıt altına almayı ayırır)"
+    ],
+    "mechanical_difference": "`غ-ش-و` bir şeyin üstünü örtü veya dalga gibi bürüyüp kapatmayı; `ح-و-ط` ise bir duvar/çember gibi her yönden çevresini sararak hiçbir kaçış veya bilgi açığı bırakmamayı vurgular."
+  },
+  "anchor_ayahs": [
+    "2:19",
+    "2:81",
+    "2:255",
+    "4:108",
+    "10:22",
+    "10:39",
+    "11:92",
+    "18:29",
+    "18:42",
+    "18:68",
+    "27:22",
+    "65:12",
+    "72:28",
+    "85:20"
+  ],
+  "grammar_and_branch_rules": "28 geçişin tamamı Form IV (`أَحَاطَ / يُحِيطُ` 17 fiil; `مُحِيط / مُحِيطَة` 11 ism-i fâil) kalıbındadır ve daima `بِـ` harf-i ceri ile nesnesine bağlanır. Edilgen `أُحِيطَ بِهِمْ / بِثَمَرِهِۦ` (`10:22`, `12:66`, `18:42`) kaçışsız biçimde çepeçevre sarılma ve helak/engel hâlini bildirir.",
+  "derivatives": {
+    "أَحَاطَ / يُحِيطُ": "Her yönden çepeçevre kuşatmak; bir konuyu hiçbir açığı kalmayacak biçimde bilgiyle bütünüyle kavramak (2:81, 2:255, 10:39, 18:29, 18:68, 27:22, 65:12)",
+    "أُحِيطَ / يُحَاطُ": "Dört yandan kaçışsız biçimde sarılıp kuşatılmak veya çepeçevre yıkıma uğramak (10:22, 12:66, 18:42)",
+    "مُحِيط / مُحِيطَة": "Hiçbir açık nokta bırakmadan her yanı çepeçevre kuşatan (2:19, 4:108, 4:126, 9:49, 11:84, 41:54, 85:20)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 19,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:19",
+      "word_position": 18,
+      "target_word_uthmani": "مُحِيطٌۢ",
+      "target_word_rasm": "محيط",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "حَذَرَ ٱلْمَوْتِ وَٱللَّهُ مُحِيطٌۢ بِٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yahut da gökten boşana boşana yağan yağmura tutulmuşa benzerler; orada karanlıklar var, gök gürlemede, şimşek çakmada. Ölüm korkusuyla yıldırımların sesini...",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَوْ كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَٰبِعَهُمْ فِىٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ وَٱللَّهُ مُحِيطٌۢ بِٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut da gökten boşana boşana yağan yağmura tutulmuşa benzerler; orada karanlıklar var, gök gürlemede, şimşek çakmada. Ölüm korkusuyla yıldırımların sesini duymamak için parmaklarıyla kulaklarını tıkarlar. Allah'sa güven duy çepçevre kaplamış, kavramıştır.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 2,
+      "ayah": 81,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:81",
+      "word_position": 5,
+      "target_word_uthmani": "وَأَحَٰطَتْ",
+      "target_word_rasm": "وأحطت",
+      "target_word_literal_irab": "Dört bir yanından duvar veya çember gibi çepeçevre sarıp kuşatmak (أَحَاطَ / أَحَٰطَتْ — Form IV etken)",
+      "context_snippet_arabic": "مَن كَسَبَ سَيِّئَةً وَأَحَٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "Hayır, iş öyle değil; kim bir sapma ve ağır kusur kazandı, vebali kendisini sardı, kapladıysa işte o çeşit adamlardır ateş ehli. Onlar, ateşte ebedi kalırlar.",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|3FS"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ مَن كَسَبَ سَيِّئَةً وَأَحَٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır, iş öyle değil; kim bir sapma ve ağır kusur kazandı, vebali kendisini sardı, kapladıysa işte o çeşit adamlardır ateş ehli. Onlar, ateşte ebedi kalırlar.",
+      "contextual_meaning": "Fiziksel ve ahlaki kaçışsız kuşatılmışlık: insanın kendi yanlışıyla dört yandan sarılması (2:81), dalgalar ve engellerle kuşatılma (10:22, 12:66), bahçenin çepeçevre yıkıma uğraması (18:42) ve kuşatıcı ateş/gün (9:49, 11:84, 18:29, 29:54)."
+    },
+    {
+      "surah": 2,
+      "ayah": 255,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:255",
+      "word_position": 34,
+      "target_word_uthmani": "يُحِيطُونَ",
+      "target_word_rasm": "يحيطون",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir Allah ki ondan başka yoktur tapacak. Diridir, her an yarattıklarını tedbir ve tasarruf edip durur. Ne uyuklamaya kapılır, ne uykuya dalar. Onundur ne...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHaATa|ROOT:HwT|3MP"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir Allah ki ondan başka yoktur tapacak. Diridir, her an yarattıklarını tedbir ve tasarruf edip durur. Ne uyuklamaya kapılır, ne uykuya dalar. Onundur ne varsa göklerde ve yeryüzünde. Kimdir izni olmadıkça onun yanında şefaate kalkışacak? Önlerindekini de bilir, artlarındakini de. Onun bilgisinden, dilediği miktardan başka hiçbir şeyi kavrayamazlar. Kürsüsü gökleri de kaplayıp kucaklamıştır, yeryüzünü de. Göğü, yeri korumak, ona ağır da gelmez. O'dur çok yüce ve çok ulu.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 3,
+      "ayah": 120,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:120",
+      "word_position": 21,
+      "target_word_uthmani": "مُحِيطٌ",
+      "target_word_rasm": "محيط",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ",
+      "context_snippet_turkish_tabula_rasa": "Size bir iyilik gelse tasalanırlar, kötülük gelse ferahlanırlar. sebat edip direnir ve sakınırsanız düzenleri size hiçbir hususta zarar vermez ve Allah, şüphe...",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Size bir iyilik gelse tasalanırlar, kötülük gelse ferahlanırlar. sebat edip direnir ve sakınırsanız düzenleri size hiçbir hususta zarar vermez ve Allah, şüphe yok ki ne yaparlarsa hepsini de kavramıştır.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 4,
+      "ayah": 108,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:108",
+      "word_position": 21,
+      "target_word_uthmani": "مُحِيطًا",
+      "target_word_rasm": "محيطا",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+      "context_snippet_turkish_tabula_rasa": "İnsanlardan gizlerler de Allah'tan gizlemezler, halbuki sığınak merciinin razı olmadığı sözü geceleyin söylerler, düzenler düzerlerken de o, onlarlaydı ve...",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlardan gizlerler de Allah'tan gizlemezler, halbuki sığınak merciinin razı olmadığı sözü geceleyin söylerler, düzenler düzerlerken de o, onlarlaydı ve Allah, onların bütün yaptıklarını kavrar.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 4,
+      "ayah": 126,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:126",
+      "word_position": 12,
+      "target_word_uthmani": "مُّحِيطًا",
+      "target_word_rasm": "محيطا",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "ٱللَّهُ بِكُلِّ شَىْءٍ مُّحِيطًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ındır ne varsa göklerde ve ne varsa yeryüzünde ve Allah, her şeyi kavramış, kuşatmıştır.",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ مُّحِيطًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ındır ne varsa göklerde ve ne varsa yeryüzünde ve Allah, her şeyi kavramış, kuşatmıştır.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 8,
+      "ayah": 47,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:47",
+      "word_position": 17,
+      "target_word_uthmani": "مُحِيطٌ",
+      "target_word_rasm": "محيط",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ",
+      "context_snippet_turkish_tabula_rasa": "Ülkelerinden böbürlenmek ve halka gösteriş yapmak için çıkanlara ve insanları Allah yolundan menedenlere benzemeyin ve Allah onların bütün yaptıklarını...",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِم بَطَرًا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ülkelerinden böbürlenmek ve halka gösteriş yapmak için çıkanlara ve insanları Allah yolundan menedenlere benzemeyin ve Allah onların bütün yaptıklarını bilgisiyle kavramıştır.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 9,
+      "ayah": 49,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:49",
+      "word_position": 14,
+      "target_word_uthmani": "لَمُحِيطَةٌۢ",
+      "target_word_rasm": "لمحيطة",
+      "target_word_literal_irab": "Hakikati örtenleri her yönden çepeçevre sarıp kuşatan ateş (لَمُحِيطَةٌۢ — 9:49, 29:54, Form IV dişil ism-i fâil)",
+      "context_snippet_arabic": "سَقَطُوا۟ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan bana izin ver de bir muhalefete, bir fitneye düşürme beni diyenler de var. Bil ki onlar, muhalefetin tam içine düşmüşlerdir ve şüphe yok ki yakıcı...",
+      "morphology": {
+        "lemma": "muHiyTap",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyTap|ROOT:HwT|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِنْهُم مَّن يَقُولُ ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan bana izin ver de bir muhalefete, bir fitneye düşürme beni diyenler de var. Bil ki onlar, muhalefetin tam içine düşmüşlerdir ve şüphe yok ki yakıcı yıkım yurdu, gerçeğin üzerini örtenleri muhakkak surette tamamıyla kavramış, kuşatmıştır.",
+      "contextual_meaning": "Fiziksel ve ahlaki kaçışsız kuşatılmışlık: insanın kendi yanlışıyla dört yandan sarılması (2:81), dalgalar ve engellerle kuşatılma (10:22, 12:66), bahçenin çepeçevre yıkıma uğraması (18:42) ve kuşatıcı ateş/gün (9:49, 11:84, 18:29, 29:54)."
+    },
+    {
+      "surah": 10,
+      "ayah": 22,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:22",
+      "word_position": 28,
+      "target_word_uthmani": "أُحِيطَ",
+      "target_word_rasm": "أحيط",
+      "target_word_literal_irab": "Dört yandan kaçışsız biçimde kuşatılmak veya çepeçevre yıkıma uğramak (أُحِيطَ بِهِمْ / أَن يُحَاطَ بِكُمْ / وَأُحِيطَ بِثَمَرِهِۦ — Form IV edilgen)",
+      "context_snippet_arabic": "مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki sizi karada ve denizde gezdirir. Hatta gemide bulunduğunuz ve güzel, temiz bir yel, gemileri sürüp akıttığı ve içindekiler ferahlayıp...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(IV)|LEM:>aHaATa|ROOT:HwT|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki sizi karada ve denizde gezdirir. Hatta gemide bulunduğunuz ve güzel, temiz bir yel, gemileri sürüp akıttığı ve içindekiler ferahlayıp sevindiği sırada birden şiddetli bir fırtınadır kopar, denizin her yanından dalgalar köpürüp saldırır, gemidekiler, çepçevre o dalgalarla kuşatılmış sanırlar kendilerini. İhlasla Allah'a dua ederler, bizi bundan kurtarırsan nimetin değerini bilip açığa vuranlardan olacağız derler.",
+      "contextual_meaning": "Fiziksel ve ahlaki kaçışsız kuşatılmışlık: insanın kendi yanlışıyla dört yandan sarılması (2:81), dalgalar ve engellerle kuşatılma (10:22, 12:66), bahçenin çepeçevre yıkıma uğraması (18:42) ve kuşatıcı ateş/gün (9:49, 11:84, 18:29, 29:54)."
+    },
+    {
+      "surah": 10,
+      "ayah": 39,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:39",
+      "word_position": 5,
+      "target_word_uthmani": "يُحِيطُوا۟",
+      "target_word_rasm": "يحيطوا",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "كَذَّبُوا۟ بِمَا لَمْ يُحِيطُوا۟ بِعِلْمِهِۦ وَلَمَّا يَأْتِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Hayır, onlar bilgileriyle kavrayamadıkları ve henüz zuhur etmeyen vaitleri yalanladılar. Tıpkı bunun gibi evvelce gelip geçen ümmetler de elçilerini...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHaATa|ROOT:HwT|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "بَلْ كَذَّبُوا۟ بِمَا لَمْ يُحِيطُوا۟ بِعِلْمِهِۦ وَلَمَّا يَأْتِهِمْ تَأْوِيلُهُۥ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır, onlar bilgileriyle kavrayamadıkları ve henüz zuhur etmeyen vaitleri yalanladılar. Tıpkı bunun gibi evvelce gelip geçen ümmetler de elçilerini yalanlamışlardı. Bak da gör, zulmedenlerin sonları neye varmış, nice olmuş.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 11,
+      "ayah": 84,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:84",
+      "word_position": 26,
+      "target_word_uthmani": "مُّحِيطٍ",
+      "target_word_rasm": "محيط",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ",
+      "context_snippet_turkish_tabula_rasa": "Medyen'e de, kardeşleri Şuayb'i göndermiştik de ey kavmim demişti, Allah'a kulluk edin, ondan başka bir mabudunuz yok. Ölçeğitartıyı eksik tutmayın, çünkü ben...",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen'e de, kardeşleri Şuayb'i göndermiştik de ey kavmim demişti, Allah'a kulluk edin, ondan başka bir mabudunuz yok. Ölçeğitartıyı eksik tutmayın, çünkü ben gerçekten de hayırlara uğradığınızı görmedeyim ve şüphe yok ki ben, bir gün sizi çepeçevre kuşatıverecek bir azaba uğramanızdan korkuyorum.",
+      "contextual_meaning": "Fiziksel ve ahlaki kaçışsız kuşatılmışlık: insanın kendi yanlışıyla dört yandan sarılması (2:81), dalgalar ve engellerle kuşatılma (10:22, 12:66), bahçenin çepeçevre yıkıma uğraması (18:42) ve kuşatıcı ateş/gün (9:49, 11:84, 18:29, 29:54)."
+    },
+    {
+      "surah": 11,
+      "ayah": 92,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:92",
+      "word_position": 15,
+      "target_word_uthmani": "مُحِيطٌ",
+      "target_word_rasm": "محيط",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌ",
+      "context_snippet_turkish_tabula_rasa": "Şuayb, ey kavmim dedi, kabilem, sizce Allah'tan daha fazla mı saygıya değer ki onu ardınıza attınız? Şüphe yok ki Rabbim, bütün yaptıklarınızı kavrar.",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şuayb, ey kavmim dedi, kabilem, sizce Allah'tan daha fazla mı saygıya değer ki onu ardınıza attınız? Şüphe yok ki Rabbim, bütün yaptıklarınızı kavrar.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 12,
+      "ayah": 66,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:66",
+      "word_position": 14,
+      "target_word_uthmani": "يُحَاطَ",
+      "target_word_rasm": "يحاط",
+      "target_word_literal_irab": "Dört yandan kaçışsız biçimde kuşatılmak veya çepeçevre yıkıma uğramak (أُحِيطَ بِهِمْ / أَن يُحَاطَ بِكُمْ / وَأُحِيطَ بِثَمَرِهِۦ — Form IV edilgen)",
+      "context_snippet_arabic": "بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ فَلَمَّآ ءَاتَوْهُ",
+      "context_snippet_turkish_tabula_rasa": "Etrafınız kuşatılmadıkça dedi, onu mutlaka geri getireceğinize dair Allah adına bir söz vermezseniz sizinle imkanı yok göndermem onu. Onlar, söz verince de bu...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:>aHaATa|ROOT:HwT|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Etrafınız kuşatılmadıkça dedi, onu mutlaka geri getireceğinize dair Allah adına bir söz vermezseniz sizinle imkanı yok göndermem onu. Onlar, söz verince de bu dediklerimize Allah tanık olsun dedi.",
+      "contextual_meaning": "Fiziksel ve ahlaki kaçışsız kuşatılmışlık: insanın kendi yanlışıyla dört yandan sarılması (2:81), dalgalar ve engellerle kuşatılma (10:22, 12:66), bahçenin çepeçevre yıkıma uğraması (18:42) ve kuşatıcı ateş/gün (9:49, 11:84, 18:29, 29:54)."
+    },
+    {
+      "surah": 17,
+      "ayah": 60,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:60",
+      "word_position": 6,
+      "target_word_uthmani": "أَحَاطَ",
+      "target_word_rasm": "أحاط",
+      "target_word_literal_irab": "Dört bir yanından duvar veya çember gibi çepeçevre sarıp kuşatmak (أَحَاطَ / أَحَٰطَتْ — Form IV etken)",
+      "context_snippet_arabic": "لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ وَمَا جَعَلْنَا",
+      "context_snippet_turkish_tabula_rasa": "An o zamanı, hani sana demiştik ki hiç şüphe yok, Rabbin, insanları çepeçevre kuşatmıştır ve biz sana gösterdiğimiz rüyayı da, Kur'an 'daki lanetlenmiş ağacı...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı, hani sana demiştik ki hiç şüphe yok, Rabbin, insanları çepeçevre kuşatmıştır ve biz sana gösterdiğimiz rüyayı da, Kur'an 'daki lanetlenmiş ağacı da ancak insanları sınamak için gösterdik ve onları korkutmadayız, fakat bu, ancak onların taşkınlıklarını arttırmada.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 18,
+      "ayah": 29,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:29",
+      "word_position": 15,
+      "target_word_uthmani": "أَحَاطَ",
+      "target_word_rasm": "أحاط",
+      "target_word_literal_irab": "Dört bir yanından duvar veya çember gibi çepeçevre sarıp kuşatmak (أَحَاطَ / أَحَٰطَتْ — Form IV etken)",
+      "context_snippet_arabic": "أَعْتَدْنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا وَإِن",
+      "context_snippet_turkish_tabula_rasa": "Ve de ki: Kur'an Rabbinizden hak ve gerçek olarak inmiştir, artık dileyen güven duy, dileyen gerçeğin üzerini ört. Şüphe yok ki biz, zalimlere öyle bir ateş...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|3MS"
+      },
+      "ayah_text_arabic_full": "وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ إِنَّآ أَعْتَدْنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve de ki: Kur'an Rabbinizden hak ve gerçek olarak inmiştir, artık dileyen güven duy, dileyen gerçeğin üzerini ört. Şüphe yok ki biz, zalimlere öyle bir ateş hazırladık ki etrafındaki duvarlar, onları çepeçevre kuşatır, susayıp su istedikleri zaman irin gibi bir su sunulur onlara ve bu su, yüzlerini bile yakıp kavurur, ne de kötü bir sudur ve orası, ne de kötü dayanılacak, oturulacak yerdir.",
+      "contextual_meaning": "Fiziksel ve ahlaki kaçışsız kuşatılmışlık: insanın kendi yanlışıyla dört yandan sarılması (2:81), dalgalar ve engellerle kuşatılma (10:22, 12:66), bahçenin çepeçevre yıkıma uğraması (18:42) ve kuşatıcı ateş/gün (9:49, 11:84, 18:29, 29:54)."
+    },
+    {
+      "surah": 18,
+      "ayah": 42,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:42",
+      "word_position": 1,
+      "target_word_uthmani": "وَأُحِيطَ",
+      "target_word_rasm": "وأحيط",
+      "target_word_literal_irab": "Dört yandan kaçışsız biçimde kuşatılmak veya çepeçevre yıkıma uğramak (أُحِيطَ بِهِمْ / أَن يُحَاطَ بِكُمْ / وَأُحِيطَ بِثَمَرِهِۦ — Form IV edilgen)",
+      "context_snippet_arabic": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ",
+      "context_snippet_turkish_tabula_rasa": "Derken serveti mahvoldu da çardakları çökmüş, yerle bir olmuş bağında ellerini uğuşturarak keşke Rabbime hiçbir varlığı eş, ortak olarak tanımasaydım demeye...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(IV)|LEM:>aHaATa|ROOT:HwT|3MS"
+      },
+      "ayah_text_arabic_full": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Derken serveti mahvoldu da çardakları çökmüş, yerle bir olmuş bağında ellerini uğuşturarak keşke Rabbime hiçbir varlığı eş, ortak olarak tanımasaydım demeye başladı.",
+      "contextual_meaning": "Fiziksel ve ahlaki kaçışsız kuşatılmışlık: insanın kendi yanlışıyla dört yandan sarılması (2:81), dalgalar ve engellerle kuşatılma (10:22, 12:66), bahçenin çepeçevre yıkıma uğraması (18:42) ve kuşatıcı ateş/gün (9:49, 11:84, 18:29, 29:54)."
+    },
+    {
+      "surah": 18,
+      "ayah": 68,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:68",
+      "word_position": 6,
+      "target_word_uthmani": "تُحِطْ",
+      "target_word_rasm": "تحط",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًا",
+      "context_snippet_turkish_tabula_rasa": "İç yüzünü kavramana imkan olmayan birşeye nasıl sebat edip direnebilirsin ki?",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHaATa|ROOT:HwT|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "İç yüzünü kavramana imkan olmayan birşeye nasıl sebat edip direnebilirsin ki?",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 18,
+      "ayah": 91,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:91",
+      "word_position": 3,
+      "target_word_uthmani": "أَحَطْنَا",
+      "target_word_rasm": "أحطنا",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "كَذَٰلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْرًا",
+      "context_snippet_turkish_tabula_rasa": "Böyleydi işte bu, gerçekten de nesi var, nesi yoksa bilgimiz hepsine şamildir, hepsinden de haberdarız.",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|1P"
+      },
+      "ayah_text_arabic_full": "كَذَٰلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Böyleydi işte bu, gerçekten de nesi var, nesi yoksa bilgimiz hepsine şamildir, hepsinden de haberdarız.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 20,
+      "ayah": 110,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:110",
+      "word_position": 8,
+      "target_word_uthmani": "يُحِيطُونَ",
+      "target_word_rasm": "يحيطون",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِۦ عِلْمًا",
+      "context_snippet_turkish_tabula_rasa": "Önlerinde ne varsa onu da bilir, artlarında ne varsa onu da ve onların bilgisi, bunu ihata edemez.",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHaATa|ROOT:HwT|3MP"
+      },
+      "ayah_text_arabic_full": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِۦ عِلْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Önlerinde ne varsa onu da bilir, artlarında ne varsa onu da ve onların bilgisi, bunu ihata edemez.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 27,
+      "ayah": 22,
+      "surah_name": "Neml",
+      "ayah_ref": "27:22",
+      "word_position": 5,
+      "target_word_uthmani": "أَحَطتُ",
+      "target_word_rasm": "أحطت",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ",
+      "context_snippet_turkish_tabula_rasa": "Derken hüthüt, çok geçmeden geldi de dedi ki: Senin henüz bilmediğin birşeyi öğrendim ve sana doğru bir haberle Sebe'den geliyorum.",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|1S"
+      },
+      "ayah_text_arabic_full": "فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن سَبَإٍۭ بِنَبَإٍ يَقِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken hüthüt, çok geçmeden geldi de dedi ki: Senin henüz bilmediğin birşeyi öğrendim ve sana doğru bir haberle Sebe'den geliyorum.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 27,
+      "ayah": 22,
+      "surah_name": "Neml",
+      "ayah_ref": "27:22",
+      "word_position": 8,
+      "target_word_uthmani": "تُحِطْ",
+      "target_word_rasm": "تحط",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن",
+      "context_snippet_turkish_tabula_rasa": "Derken hüthüt, çok geçmeden geldi de dedi ki: Senin henüz bilmediğin birşeyi öğrendim ve sana doğru bir haberle Sebe'den geliyorum.",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHaATa|ROOT:HwT|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن سَبَإٍۭ بِنَبَإٍ يَقِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken hüthüt, çok geçmeden geldi de dedi ki: Senin henüz bilmediğin birşeyi öğrendim ve sana doğru bir haberle Sebe'den geliyorum.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 27,
+      "ayah": 84,
+      "surah_name": "Neml",
+      "ayah_ref": "27:84",
+      "word_position": 8,
+      "target_word_uthmani": "تُحِيطُوا۟",
+      "target_word_rasm": "تحيطوا",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "أَكَذَّبْتُم بِـَٔايَٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا",
+      "context_snippet_turkish_tabula_rasa": "Sonunda, onlar geldi mi, delillerimi bir bilgi edinip kavramadığınız halde yalanladınız mı, neydi o yaptığınız der.",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHaATa|ROOT:HwT|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda, onlar geldi mi, delillerimi bir bilgi edinip kavramadığınız halde yalanladınız mı, neydi o yaptığınız der.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 29,
+      "ayah": 54,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:54",
+      "word_position": 5,
+      "target_word_uthmani": "لَمُحِيطَةٌۢ",
+      "target_word_rasm": "لمحيطة",
+      "target_word_literal_irab": "Hakikati örtenleri her yönden çepeçevre sarıp kuşatan ateş (لَمُحِيطَةٌۢ — 9:49, 29:54, Form IV dişil ism-i fâil)",
+      "context_snippet_arabic": "بِٱلْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Senden, azabın, çabucak gelmesini isterler ve şüphe yok yakıcı yıkım yurdu elbette gerçeğin üzerini örtenleri kuşatmıştır zaten.",
+      "morphology": {
+        "lemma": "muHiyTap",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyTap|ROOT:HwT|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden, azabın, çabucak gelmesini isterler ve şüphe yok yakıcı yıkım yurdu elbette gerçeğin üzerini örtenleri kuşatmıştır zaten.",
+      "contextual_meaning": "Fiziksel ve ahlaki kaçışsız kuşatılmışlık: insanın kendi yanlışıyla dört yandan sarılması (2:81), dalgalar ve engellerle kuşatılma (10:22, 12:66), bahçenin çepeçevre yıkıma uğraması (18:42) ve kuşatıcı ateş/gün (9:49, 11:84, 18:29, 29:54)."
+    },
+    {
+      "surah": 41,
+      "ayah": 54,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:54",
+      "word_position": 12,
+      "target_word_uthmani": "مُّحِيطٌۢ",
+      "target_word_rasm": "محيط",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "إِنَّهُۥ بِكُلِّ شَىْءٍ مُّحِيطٌۢ",
+      "context_snippet_turkish_tabula_rasa": "İyice bil ki onlar, şüphe yok, Rablerine kavuşacaklarından şüphe etmedeler; iyice bil ki şüphe yok, o, her şeyi kuşatmış, kavramıştır.",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ أَلَآ إِنَّهُۥ بِكُلِّ شَىْءٍ مُّحِيطٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "İyice bil ki onlar, şüphe yok, Rablerine kavuşacaklarından şüphe etmedeler; iyice bil ki şüphe yok, o, her şeyi kuşatmış, kavramıştır.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 48,
+      "ayah": 21,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:21",
+      "word_position": 6,
+      "target_word_uthmani": "أَحَاطَ",
+      "target_word_rasm": "أحاط",
+      "target_word_literal_irab": "Dört bir yanından duvar veya çember gibi çepeçevre sarıp kuşatmak (أَحَاطَ / أَحَٰطَتْ — Form IV etken)",
+      "context_snippet_arabic": "تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "Ve daha başka ganimetler de vaadetmiştir ki siz, henüz onları elde edemezsiniz, andolsun ki Allah, bilgisiyle onları kavrayıp kuşatmıştır ve Allah'ın, her şeye...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|3MS"
+      },
+      "ayah_text_arabic_full": "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve daha başka ganimetler de vaadetmiştir ki siz, henüz onları elde edemezsiniz, andolsun ki Allah, bilgisiyle onları kavrayıp kuşatmıştır ve Allah'ın, her şeye gücü yeter.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    },
+    {
+      "surah": 65,
+      "ayah": 12,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:12",
+      "word_position": 22,
+      "target_word_uthmani": "أَحَاطَ",
+      "target_word_rasm": "أحاط",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+      "context_snippet_turkish_tabula_rasa": "Bir Allah'tır ki yaratmıştır yedi göğü ve yeryüzünü de onun misli olarak yedi kat halketmiştir; bunların arasında, emri, inip durmadadır Allah'ın, şüphesiz,...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir Allah'tır ki yaratmıştır yedi göğü ve yeryüzünü de onun misli olarak yedi kat halketmiştir; bunların arasında, emri, inip durmadadır Allah'ın, şüphesiz, her şeye gücü yettiğini bilmeniz ve şüphe yok ki Allah'ın bilgisinin, gerçekten de her şeyi kavradığını, kuşattığını anlamanız için.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 72,
+      "ayah": 28,
+      "surah_name": "Cin",
+      "ayah_ref": "72:28",
+      "word_position": 7,
+      "target_word_uthmani": "وَأَحَاطَ",
+      "target_word_rasm": "وأحاط",
+      "target_word_literal_irab": "Bir gerçeği hiçbir açığı kalmayacak biçimde bilgi ve derin kavrayışla çepeçevre kuşatmak (أَحَاطَ / يُحِيطُونَ عِلْمًا / خُبْرًا — Form IV etken)",
+      "context_snippet_arabic": "أَبْلَغُوا۟ رِسَٰلَٰتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de Rablerinin elçiliklerini hakkıyla yaptıklarını, hükümlerini tebliğ ettiklerini bilsin diye ve onların her halini de bilgisiyle kavramış,...",
+      "morphology": {
+        "lemma": ">aHaATa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHaATa|ROOT:HwT|3MS"
+      },
+      "ayah_text_arabic_full": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا۟ رِسَٰلَٰتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَىْءٍ عَدَدًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de Rablerinin elçiliklerini hakkıyla yaptıklarını, hükümlerini tebliğ ettiklerini bilsin diye ve onların her halini de bilgisiyle kavramış, kuşatmıştır ve her şeyi, birbir sayıp tespit etmiştir.",
+      "contextual_meaning": "Bilgi ve kavrayış kuşatması (epistemolojik ihâta): Allah'ın her şeyi ilim ve iç yüzüyle eksiksiz kuşatması (18:91, 65:12, 72:28), insanın ilahi ilmi kuşatamaması (2:255, 20:110), kavrayamadığı ayetleri yalanlaması (10:39, 27:84), iç yüzünü bilmediği olaya dayanamaması (18:68) ve Hüdhüd'ün haberi kavraması (27:22)."
+    },
+    {
+      "surah": 85,
+      "ayah": 20,
+      "surah_name": "Bürûc",
+      "ayah_ref": "85:20",
+      "word_position": 4,
+      "target_word_uthmani": "مُّحِيطٌۢ",
+      "target_word_rasm": "محيط",
+      "target_word_literal_irab": "Yapılan her işi, her varlığı ve hakikati örtenleri hiçbir açık bırakmadan çepeçevre kuşatan (مُحِيطٌ / مُحِيطًا — Form IV ism-i fâil)",
+      "context_snippet_arabic": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah'sa yaptıkları işin ardından onları kavramış, kuşatmıştır.",
+      "morphology": {
+        "lemma": "muHiyT",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muHiyT|ROOT:HwT|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah'sa yaptıkları işin ardından onları kavramış, kuşatmıştır.",
+      "contextual_meaning": "Mutlak ilahi kuşatma ve gözetim (مُحِيط): Allah'ın her şeyi, yapılan tüm eylemleri, insanları ve arkadan hakikati örtenleri çepeçevre kuşatması."
+    }
+  ]
+}

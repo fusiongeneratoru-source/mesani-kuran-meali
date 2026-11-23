@@ -1,0 +1,652 @@
+{
+  "root": "ج-د-ل",
+  "root_latin": "J-D-L (jdl)",
+  "concept_name": "Cedel ve Mücâdele (Sözü Büküp Karşılıklı Çekiştirmek ve Savunma Mücadelesi)",
+  "rank": 312,
+  "total_occurrences": 29,
+  "unique_ayahs_count": 27,
+  "unified_core_mechanism": "İp büker gibi sözü ve kanıtı sıkıca büküp karşılıklı çekiştirmek (`جَدْلُ الْحَبْلِ -> مُرَاجَعَةُ الْكَلَامِ`): (1) Yapıcı müzakere ve hak savunusu — en güzel üslupla fikir mücadelesi (`16:125`, `29:46`), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (`11:74`), eşinin mağduriyeti için hak arama savunusu (`58:1`), hesap gününde her benliğin kendisini savunması (`16:111`) ve haksızlara arka çıkmama uyarısı (`4:107,109`); (2) Yıkıcı safsata ve kanıtsız çekişme — insanın en çok tartışmaya eğilimli varlık olması (`18:54`), hakikat apaçık ortaya çıktıktan sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için cedelleşmek (`6:25,121`, `7:71`, `8:6`, `11:32`, `13:13`, `18:56`, `22:3,8,68`, `31:20`, `40:4,5,35,56,69`, `42:35`, `43:58`) ve büyük yıllık toplanma (`حَجّ`) ortamında çekişmenin yasaklanması (`2:197`).",
+  "physical_core": "İpi sıkıca büküp örmek gibi sözü ve argümanı sıkıca bükerek karşılıklı çekiştirmek; fikir ve duruşu hararetle savunup bilek güreşine tutuşmak (اسْتِحْكَامُ الشَّيْءِ فِي اسْتِرْسَالٍ وَامْتِدَادُ الْخُصُومَةِ وَمُرَاجَعَةُ الْكَلَامِ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 1, s. 433): Kökün tek sahih çekirdeğinin 'bir şeyin uzayıp giden akışı içinde sıkıca bükülüp sağlamlaşması (`اسْتِحْكَامُ الشَّيْءِ فِي اسْتِرْسَالٍ`)' ve bundan doğan 'çekişmenin uzayıp sözün karşılıklı döndürülmesi (`امْتِدَادُ الْخُصُومَةِ وَمُرَاجَعَةُ الْكَلَامِ`)' olduğunu belirler.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `جَدَلَ الْحَبْلَ` ipin tellerini sıkıca büküp örmektir (`فَتَلَهُ فَتْلًا شَدِيدًا`); `الْمُجَادَلَةُ` iki tarafın tıpkı sıkı bükülmüş bir ipi iki ucundan çekiştirmesi gibi karşılıklı argümanla birbirini kendi konumuna çevirmeye uğraşmasıdır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*, s. 189): `الْجَدَلُ` fikir mücadelesinde karşısındakini büküp alt etme çabasıdır; kökeni `جَدْلُ الْحَبْلِ` (ip bükmek) olduğu için nötr bir araçtır: hakikat ve en güzel üslupla yapılırsa övülür (`16:125`, `29:46`, `58:1`), bilgisizce ve hakikati çürütmek için yapılırsa yerilir (`18:56`, `22:3`, `40:35`).",
+    "arbitration_decision": "Hakem Masası Kararı: `ج-د-ل` doğası gereği 'kötü kavga' demek değildir; somut 'ipi sıkıca bükme' çekirdeğinden gelen yoğun, ısrarlı ve karşılıklı söz mücadelesidir (`Form III`). Kur'an'da bağlama göre iki kutupta çalışır: (1) Hak arayışı ve yapıcı müzakere (`11:74`, `16:125`, `29:46`, `58:1`), (2) Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi (`18:54,56`, `22:3,8`, `40:4,5,35,56`, `43:58`)."
+  },
+  "semitic_cognates": {
+    "aramaic": "גְּדַל (gəḏal — Yahudi Aramicesi: 'bükmek, örmek, saç/ip örmek')",
+    "syriac": "ܓܕܰܠ (gḏal — Süryanice: 'halat/ip bükmek, sıkıca örmek')",
+    "note": "Aramice ve Süryanice 'ip bükmek/örmek' anlamları, İbn Fâris ve İbn Manzûr'un Arapça `جَدْلُ الْحَبْلِ` fiziksel çekirdeğini dış Sami tanıklığıyla doğrudan doğrular."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ح-ج-ج [لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ / يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ] (Açık Kanıt ve Sağlam Dayanak Sunmak ↔ Sözü Büküp Karşılıklı Çekiştirerek Cedelleşmek: 40:4-5, 40:35, 40:56)",
+      "س-ل-م [وَلَا تُجَٰدِلُوٓا۟ أَهْلَ ٱلْكِتَٰبِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ ... وَنَحْنُ لَهُۥ مُسْلِمُونَ] (Karşılıklı Çekişme ve Söz Bilek Güreşi ↔ Ortak Hakikate Gönülden Teslimiyet ve Esenlik: 29:46)"
+    ],
+    "key_ayahs": [
+      "2:197",
+      "4:107",
+      "8:6",
+      "11:74",
+      "16:111",
+      "16:125",
+      "18:54",
+      "18:56",
+      "22:8",
+      "29:46",
+      "40:35",
+      "43:58",
+      "58:1"
+    ],
+    "reverse_stress_test": "`29:46`'da 'en güzel biçim dışında tartışmayın ... biz O'na teslim olanlarız' (`وَلَا تُجَٰدِلُوٓا۟ ... وَنَحْنُ لَهُۥ مُسْلِمُونَ`) dengesi ve `40:35,56`'da kanıtsız çekişmenin (`بِغَيْرِ سُلْطَٰنٍ`) kökeninde kibir bulunması, `ج-د-ل`'nin 'karşılıklı bükme/çekiştirme' mekaniğini eksiksiz kanıtlar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ح-و-ر (58:1 تُجَٰدِلُكَ فِى زَوْجِهَا ... وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ — تُجَٰدِلُكَ kadının hakkını ararken ısrarlı ve hararetli savunusunu, تَحَاوُر ise iki taraf arasında karşılıklı söz alışverişini ve diyaloğu ayırır)",
+      "خ-ص-م (43:58 مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا بَلْ هُمْ قَوْمٌ خَصِمُونَ — جَدَل sözü büküp tartışma çıkarma eylemini, خَصِمُونَ ise kavgacı ve husumetçi karakter yapısını ayırır)"
+    ],
+    "mechanical_difference": "`ح-و-ر` karşılıklı konuşup söz döndürmeyi (diyalog), `ح-ج-ج` kesin kanıt koymayı, `ج-د-ل` ise iki tarafın sıkı bükülmüş bir ip gibi argümanla birbirini kendi tarafına çekmeye çalıştığı yoğun tartışma ve savunmayı bildirir."
+  },
+  "anchor_ayahs": [
+    "2:197",
+    "4:107",
+    "8:6",
+    "11:74",
+    "16:111",
+    "16:125",
+    "18:54",
+    "18:56",
+    "22:8",
+    "29:46",
+    "40:35",
+    "43:58",
+    "58:1"
+  ],
+  "grammar_and_branch_rules": "25 fiilin tamamı karşılıklılık ve ısrar bildiren Form III (`جَٰدَلَ / يُجَٰدِلُ`) kalıbındadır. `عَن` ile kullanıldığında birini savunmayı (`4:107,109`, `16:111`), `فِى` ile bir konuda tartışmayı (`8:6`, `22:3`, `40:4`, `58:1`), `بِـ` ile tartışmanın yöntemini (`16:125` `بِٱلَّتِى هِىَ أَحْسَنُ`, `18:56` `بِٱلْبَٰطِلِ`) belirler.",
+  "derivatives": {
+    "جَٰدَلَ / يُجَٰدِلُ": "Karşılıklı söz bükerek yoğun biçimde tartışmak, hak aramak veya birini savunmak (4:107, 11:74, 16:125, 18:56, 29:46, 40:35, 58:1)",
+    "جِدَال / جَدَل": "Karşılıklı çekişmeli tartışma, fikir bilek güreşi ve inatçı cedelleşme (2:197, 11:32, 18:54, 43:58)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 197,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:197",
+      "word_position": 13,
+      "target_word_uthmani": "جِدَالَ",
+      "target_word_rasm": "جدال",
+      "target_word_literal_irab": "Karşılıklı çekişmeli tartışma ve söz mücadelesi (جِدَالَ / جِدَٰلَنَا — 2:197, 11:32, Form III mastar)",
+      "context_snippet_arabic": "وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanması, malum aylarda olur. Kim o aylarda büyük yöneliş toplanmasına niyet ederse bilsin ki büyük yöneliş toplanmasında ne kadınla buluşma...",
+      "morphology": {
+        "lemma": "jidaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jidaAl|ROOT:jdl|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanması, malum aylarda olur. Kim o aylarda büyük yöneliş toplanmasına niyet ederse bilsin ki büyük yöneliş toplanmasında ne kadınla buluşma vardır, ne kötülükte bulunma, ne de kavga ve dövüş. Hayra dair ne işlerseniz Allah bilir. Yol azığı hazırlayın. Şüphe yok ki azıkların hayırlısı da sakınıp çekinmedir. Ey aklı eren temiz kişiler, sakının benden.",
+      "contextual_meaning": "İnsanın tartışmacı doğası ve çekişme yasağı: insanın en çok tartışmaya yatkın varlık olması (18:54) ve büyük yıllık buluşma (`حَجّ`) zamanında çekişmenin yasaklanması (2:197)."
+    },
+    {
+      "surah": 4,
+      "ayah": 107,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:107",
+      "word_position": 2,
+      "target_word_uthmani": "تُجَٰدِلْ",
+      "target_word_rasm": "تجدل",
+      "target_word_literal_irab": "Bir kişiyi, toplumu veya kendi benliğini savunmak adına hararetle mücadele yürütmek (تُجَٰدِلُ عَن / يُجَٰدِلُنَا فِى — Form III fiil)",
+      "context_snippet_arabic": "وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ",
+      "context_snippet_turkish_tabula_rasa": "kendi benliklerine hainlik edenlerden yana çıkıp uğraşma; şüphe yok ki Allah, hainlikte ileri giden suçluları sevmez.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "kendi benliklerine hainlik edenlerden yana çıkıp uğraşma; şüphe yok ki Allah, hainlikte ileri giden suçluları sevmez.",
+      "contextual_meaning": "Yapıcı müzakere, hak arama ve savunma sorumluluğu: en güzel üslupla fikir mücadelesi (16:125, 29:46), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (11:74), kadının eşi hakkında hak arayışı (58:1), hesap günü her benliğin kendini savunması (16:111) ve hainleri savunmama uyarısı (4:107, 4:109)."
+    },
+    {
+      "surah": 4,
+      "ayah": 109,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:109",
+      "word_position": 3,
+      "target_word_uthmani": "جَٰدَلْتُمْ",
+      "target_word_rasm": "جدلتم",
+      "target_word_literal_irab": "Bir kişiyi, toplumu veya kendi benliğini savunmak adına hararetle mücadele yürütmek (تُجَٰدِلُ عَن / يُجَٰدِلُنَا فِى — Form III fiil)",
+      "context_snippet_arabic": "هَٰٓأَنتُمْ هَٰٓؤُلَآءِ جَٰدَلْتُمْ عَنْهُمْ فِى ٱلْحَيَوٰةِ",
+      "context_snippet_turkish_tabula_rasa": "İşte siz o kişilersiniz ki dünya hayatında onları tuttunuz, onlar için uğraştınız; fakat kıyamet gününde, Allah'a karşı kim savunacak onları, yahut kim...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ja`dalu|ROOT:jdl|2MP"
+      },
+      "ayah_text_arabic_full": "هَٰٓأَنتُمْ هَٰٓؤُلَآءِ جَٰدَلْتُمْ عَنْهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا فَمَن يُجَٰدِلُ ٱللَّهَ عَنْهُمْ يَوْمَ ٱلْقِيَٰمَةِ أَم مَّن يَكُونُ عَلَيْهِمْ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte siz o kişilersiniz ki dünya hayatında onları tuttunuz, onlar için uğraştınız; fakat kıyamet gününde, Allah'a karşı kim savunacak onları, yahut kim koruyacak onları?",
+      "contextual_meaning": "Yapıcı müzakere, hak arama ve savunma sorumluluğu: en güzel üslupla fikir mücadelesi (16:125, 29:46), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (11:74), kadının eşi hakkında hak arayışı (58:1), hesap günü her benliğin kendini savunması (16:111) ve hainleri savunmama uyarısı (4:107, 4:109)."
+    },
+    {
+      "surah": 4,
+      "ayah": 109,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:109",
+      "word_position": 9,
+      "target_word_uthmani": "يُجَٰدِلُ",
+      "target_word_rasm": "يجدل",
+      "target_word_literal_irab": "Bir kişiyi, toplumu veya kendi benliğini savunmak adına hararetle mücadele yürütmek (تُجَٰدِلُ عَن / يُجَٰدِلُنَا فِى — Form III fiil)",
+      "context_snippet_arabic": "ٱلْحَيَوٰةِ ٱلدُّنْيَا فَمَن يُجَٰدِلُ ٱللَّهَ عَنْهُمْ يَوْمَ",
+      "context_snippet_turkish_tabula_rasa": "İşte siz o kişilersiniz ki dünya hayatında onları tuttunuz, onlar için uğraştınız; fakat kıyamet gününde, Allah'a karşı kim savunacak onları, yahut kim...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MS"
+      },
+      "ayah_text_arabic_full": "هَٰٓأَنتُمْ هَٰٓؤُلَآءِ جَٰدَلْتُمْ عَنْهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا فَمَن يُجَٰدِلُ ٱللَّهَ عَنْهُمْ يَوْمَ ٱلْقِيَٰمَةِ أَم مَّن يَكُونُ عَلَيْهِمْ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte siz o kişilersiniz ki dünya hayatında onları tuttunuz, onlar için uğraştınız; fakat kıyamet gününde, Allah'a karşı kim savunacak onları, yahut kim koruyacak onları?",
+      "contextual_meaning": "Yapıcı müzakere, hak arama ve savunma sorumluluğu: en güzel üslupla fikir mücadelesi (16:125, 29:46), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (11:74), kadının eşi hakkında hak arayışı (58:1), hesap günü her benliğin kendini savunması (16:111) ve hainleri savunmama uyarısı (4:107, 4:109)."
+    },
+    {
+      "surah": 6,
+      "ayah": 25,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:25",
+      "word_position": 24,
+      "target_word_uthmani": "يُجَٰدِلُونَكَ",
+      "target_word_rasm": "يجدلونك",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Onlardan seni dinleyenler de var ve biz, dinledikleri sözleri anlamamaları için kalplerini perdeleriz, kulaklarını ağırlaştırırız da bütün delilleri görseler...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا حَتَّىٰٓ إِذَا جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan seni dinleyenler de var ve biz, dinledikleri sözleri anlamamaları için kalplerini perdeleriz, kulaklarını ağırlaştırırız da bütün delilleri görseler gene de güven duyup teslim olmazlar onlara. Nihayet de yanına geldiler mi çekişmeye başlarlar seninle ve bunlar, ancak evvelce gelip geçenlere ait masallar derler.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 6,
+      "ayah": 121,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:121",
+      "word_position": 16,
+      "target_word_uthmani": "لِيُجَٰدِلُوكُمْ",
+      "target_word_rasm": "ليجدلوكم",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَٰدِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın adı anılarak kesilmeyen hayvanları yemeyin ve şüphe yok ki kötülüktür bu ve şüphe yok ki saptırıcı yıkıcı güçler, sizinle çekişmeleri için dostlarına...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَٰدِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın adı anılarak kesilmeyen hayvanları yemeyin ve şüphe yok ki kötülüktür bu ve şüphe yok ki saptırıcı yıkıcı güçler, sizinle çekişmeleri için dostlarına telkinde bulunurlar, onlara uyarsanız siz de otoriteyi bölüşme ve ortak koşma koşanlardan olursunuz.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 7,
+      "ayah": 71,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:71",
+      "word_position": 9,
+      "target_word_uthmani": "أَتُجَٰدِلُونَنِى",
+      "target_word_rasm": "أتجدلوننى",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "رَّبِّكُمْ رِجْسٌ وَغَضَبٌ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ",
+      "context_snippet_turkish_tabula_rasa": "O, Rabbinizden azaba ve gazaba uğramayı hakettiniz dedi, Allah'ın, haklarında hiçbir delil indirmediği ve ancak sizin ve atalarınızın taktığı birtakım adlar...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, Rabbinizden azaba ve gazaba uğramayı hakettiniz dedi, Allah'ın, haklarında hiçbir delil indirmediği ve ancak sizin ve atalarınızın taktığı birtakım adlar için benimle çekişmeye kalkıyorsunuz demek, o halde bekleyin, şüphe yok ki ben de sizinle beraber bekleyenlerdenim.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 8,
+      "ayah": 6,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:6",
+      "word_position": 1,
+      "target_word_uthmani": "يُجَٰدِلُونَكَ",
+      "target_word_rasm": "يجدلونك",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "يُجَٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَمَا",
+      "context_snippet_turkish_tabula_rasa": "Gerçek, apaçık meydana çıktıktan sonra bile bu hususta, gözleri bakabaka ölüme sürükleniyorlarmış gibi seninle çekişmeye kalkışıyorlardı.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "يُجَٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçek, apaçık meydana çıktıktan sonra bile bu hususta, gözleri bakabaka ölüme sürükleniyorlarmış gibi seninle çekişmeye kalkışıyorlardı.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 11,
+      "ayah": 32,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:32",
+      "word_position": 4,
+      "target_word_uthmani": "جَٰدَلْتَنَا",
+      "target_word_rasm": "جدلتنا",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "قَالُوا۟ يَٰنُوحُ قَدْ جَٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا",
+      "context_snippet_turkish_tabula_rasa": "Ya Nuh dediler, gerçekten de bizimle uğraşmadasın ve uğraşmanda ileri de gittin, gerçeklerdensen hadi, tehdit edip durduğun azaba uğrat bizi.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ja`dalu|ROOT:jdl|2MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰنُوحُ قَدْ جَٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ya Nuh dediler, gerçekten de bizimle uğraşmadasın ve uğraşmanda ileri de gittin, gerçeklerdensen hadi, tehdit edip durduğun azaba uğrat bizi.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 11,
+      "ayah": 32,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:32",
+      "word_position": 6,
+      "target_word_uthmani": "جِدَٰلَنَا",
+      "target_word_rasm": "جدلنا",
+      "target_word_literal_irab": "Karşılıklı çekişmeli tartışma ve söz mücadelesi (جِدَالَ / جِدَٰلَنَا — 2:197, 11:32, Form III mastar)",
+      "context_snippet_arabic": "قَدْ جَٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ",
+      "context_snippet_turkish_tabula_rasa": "Ya Nuh dediler, gerçekten de bizimle uğraşmadasın ve uğraşmanda ileri de gittin, gerçeklerdensen hadi, tehdit edip durduğun azaba uğrat bizi.",
+      "morphology": {
+        "lemma": "jidaAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jidaAl|ROOT:jdl|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰنُوحُ قَدْ جَٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ya Nuh dediler, gerçekten de bizimle uğraşmadasın ve uğraşmanda ileri de gittin, gerçeklerdensen hadi, tehdit edip durduğun azaba uğrat bizi.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 11,
+      "ayah": 74,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:74",
+      "word_position": 8,
+      "target_word_uthmani": "يُجَٰدِلُنَا",
+      "target_word_rasm": "يجدلنا",
+      "target_word_literal_irab": "Bir kişiyi, toplumu veya kendi benliğini savunmak adına hararetle mücadele yürütmek (تُجَٰدِلُ عَن / يُجَٰدِلُنَا فِى — Form III fiil)",
+      "context_snippet_arabic": "ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ لُوطٍ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim'in korkusu yatışıp müjdelenince Lut kavmi hakkında bizimle mücadeleye girişmişti.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ لُوطٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim'in korkusu yatışıp müjdelenince Lut kavmi hakkında bizimle mücadeleye girişmişti.",
+      "contextual_meaning": "Yapıcı müzakere, hak arama ve savunma sorumluluğu: en güzel üslupla fikir mücadelesi (16:125, 29:46), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (11:74), kadının eşi hakkında hak arayışı (58:1), hesap günü her benliğin kendini savunması (16:111) ve hainleri savunmama uyarısı (4:107, 4:109)."
+    },
+    {
+      "surah": 13,
+      "ayah": 13,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:13",
+      "word_position": 14,
+      "target_word_uthmani": "يُجَٰدِلُونَ",
+      "target_word_rasm": "يجدلون",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "مَن يَشَآءُ وَهُمْ يُجَٰدِلُونَ فِى ٱللَّهِ وَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "Gök gürültüsü, hamdederek tenzih eder onu, buyruk elçileri de korkularından tenzih ederler ve yıldırımları yollar da dilediğine isabet ettirir ve hala da...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "Gök gürültüsü, hamdederek tenzih eder onu, buyruk elçileri de korkularından tenzih ederler ve yıldırımları yollar da dilediğine isabet ettirir ve hala da onlar, Allah hakkında çekişip dururlar ve onun birdenbire gelen azabı pek kuvvetlidir, pek çetin.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 16,
+      "ayah": 111,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:111",
+      "word_position": 5,
+      "target_word_uthmani": "تُجَٰدِلُ",
+      "target_word_rasm": "تجدل",
+      "target_word_literal_irab": "Bir kişiyi, toplumu veya kendi benliğini savunmak adına hararetle mücadele yürütmek (تُجَٰدِلُ عَن / يُجَٰدِلُنَا فِى — Form III fiil)",
+      "context_snippet_arabic": "تَأْتِى كُلُّ نَفْسٍ تُجَٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Bir gün gelir ki herkes, ancak canıyla uğraşır ve herkese, ne yaptıysa karşılığı tastamam verilir ve onlar, zulüm görmezler.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3FS"
+      },
+      "ayah_text_arabic_full": "يَوْمَ تَأْتِى كُلُّ نَفْسٍ تُجَٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir gün gelir ki herkes, ancak canıyla uğraşır ve herkese, ne yaptıysa karşılığı tastamam verilir ve onlar, zulüm görmezler.",
+      "contextual_meaning": "Yapıcı müzakere, hak arama ve savunma sorumluluğu: en güzel üslupla fikir mücadelesi (16:125, 29:46), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (11:74), kadının eşi hakkında hak arayışı (58:1), hesap günü her benliğin kendini savunması (16:111) ve hainleri savunmama uyarısı (4:107, 4:109)."
+    },
+    {
+      "surah": 16,
+      "ayah": 125,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:125",
+      "word_position": 8,
+      "target_word_uthmani": "وَجَٰدِلْهُم",
+      "target_word_rasm": "وجدلهم",
+      "target_word_literal_irab": "Yapıcı ve en güzel üslupla fikir mücadelesi yürütmek (جَٰدِلْهُم / لَا تُجَٰدِلُوٓا۟... إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ — Form III fiil)",
+      "context_snippet_arabic": "بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ وَجَٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin yoluna hikmetle ve güzel öğütle çağır ve onlarla en güzel bir tarzda münakaşa ve mübahasede bulun. Şüphe yok ki Rabbin, kendi yolundan sapanları daha...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(III)|LEM:ja`dalu|ROOT:jdl|2MS"
+      },
+      "ayah_text_arabic_full": "ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ وَجَٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin yoluna hikmetle ve güzel öğütle çağır ve onlarla en güzel bir tarzda münakaşa ve mübahasede bulun. Şüphe yok ki Rabbin, kendi yolundan sapanları daha iyi bilir ve o, daha iyi bilir doğru yolu tutanları.",
+      "contextual_meaning": "Yapıcı müzakere, hak arama ve savunma sorumluluğu: en güzel üslupla fikir mücadelesi (16:125, 29:46), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (11:74), kadının eşi hakkında hak arayışı (58:1), hesap günü her benliğin kendini savunması (16:111) ve hainleri savunmama uyarısı (4:107, 4:109)."
+    },
+    {
+      "surah": 18,
+      "ayah": 54,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:54",
+      "word_position": 14,
+      "target_word_uthmani": "جَدَلًا",
+      "target_word_rasm": "جدلا",
+      "target_word_literal_irab": "Tartışmacılık eğilimi ve sırf çekişme çıkarma amacı (جَدَلًا — 18:54, 43:58, Form I mastar)",
+      "context_snippet_arabic": "ٱلْإِنسَٰنُ أَكْثَرَ شَىْءٍ جَدَلًا",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki biz bu Kur'an'da, insanlara her çeşit örneği tekrartekrar açıkça anlatmadayız ve insan, her mahluktan daha fazla mücadelecidir.",
+      "morphology": {
+        "lemma": "jadal",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jadal|ROOT:jdl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِلنَّاسِ مِن كُلِّ مَثَلٍ وَكَانَ ٱلْإِنسَٰنُ أَكْثَرَ شَىْءٍ جَدَلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki biz bu Kur'an'da, insanlara her çeşit örneği tekrartekrar açıkça anlatmadayız ve insan, her mahluktan daha fazla mücadelecidir.",
+      "contextual_meaning": "İnsanın tartışmacı doğası ve çekişme yasağı: insanın en çok tartışmaya yatkın varlık olması (18:54) ve büyük yıllık buluşma (`حَجّ`) zamanında çekişmenin yasaklanması (2:197)."
+    },
+    {
+      "surah": 18,
+      "ayah": 56,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:56",
+      "word_position": 7,
+      "target_word_uthmani": "وَيُجَٰدِلُ",
+      "target_word_rasm": "ويجدل",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ وَيُجَٰدِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَٰطِلِ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz, elçileri ancak müjdeci, korkutucu olarak göndeririz. gerçeğin üzerini örten olanlar, hakkı batılla gidermek için çalışırlar, çekişirler, ayetlerimizi...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ وَيُجَٰدِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَمَآ أُنذِرُوا۟ هُزُوًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, elçileri ancak müjdeci, korkutucu olarak göndeririz. gerçeğin üzerini örten olanlar, hakkı batılla gidermek için çalışırlar, çekişirler, ayetlerimizi ve kendilerine verilen korkulu haberleri alaya alırlar.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 22,
+      "ayah": 3,
+      "surah_name": "Hac",
+      "ayah_ref": "22:3",
+      "word_position": 4,
+      "target_word_uthmani": "يُجَٰدِلُ",
+      "target_word_rasm": "يجدل",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlardan öylesi de var ki bilgisi olmadığı halde Allah hakkında münakaşaya girişir ve her azgın saptırıcı yıkıcı gücün peşine düşer.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MS"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّبِعُ كُلَّ شَيْطَٰنٍ مَّرِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlardan öylesi de var ki bilgisi olmadığı halde Allah hakkında münakaşaya girişir ve her azgın saptırıcı yıkıcı gücün peşine düşer.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 22,
+      "ayah": 8,
+      "surah_name": "Hac",
+      "ayah_ref": "22:8",
+      "word_position": 4,
+      "target_word_uthmani": "يُجَٰدِلُ",
+      "target_word_rasm": "يجدل",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "Ve insanlardan, bilgisi ve aydınlatıcı bir kitabı olmadığı halde Allah hakkında münakaşaya girişen var.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MS"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَٰبٍ مُّنِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve insanlardan, bilgisi ve aydınlatıcı bir kitabı olmadığı halde Allah hakkında münakaşaya girişen var.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 22,
+      "ayah": 68,
+      "surah_name": "Hac",
+      "ayah_ref": "22:68",
+      "word_position": 2,
+      "target_word_uthmani": "جَٰدَلُوكَ",
+      "target_word_rasm": "جدلوك",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "Seninle mücadele ederlerse artık Allah de, ne yaptığınızı bilir.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Seninle mücadele ederlerse artık Allah de, ne yaptığınızı bilir.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 29,
+      "ayah": 46,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:46",
+      "word_position": 2,
+      "target_word_uthmani": "تُجَٰدِلُوٓا۟",
+      "target_word_rasm": "تجدلوا",
+      "target_word_literal_irab": "Yapıcı ve en güzel üslupla fikir mücadelesi yürütmek (جَٰدِلْهُم / لَا تُجَٰدِلُوٓا۟... إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ — Form III fiil)",
+      "context_snippet_arabic": "وَلَا تُجَٰدِلُوٓا۟ أَهْلَ ٱلْكِتَٰبِ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Ve kitap ehliyle, ancak en güzel bir tarzda mücadele edin; yalnız içlerinden zulmedenler müstesna ve deyin ki: güvene erdik bize indirilene de, size indirilene...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُجَٰدِلُوٓا۟ أَهْلَ ٱلْكِتَٰبِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ وَقُولُوٓا۟ ءَامَنَّا بِٱلَّذِىٓ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَٰهُنَا وَإِلَٰهُكُمْ وَٰحِدٌ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kitap ehliyle, ancak en güzel bir tarzda mücadele edin; yalnız içlerinden zulmedenler müstesna ve deyin ki: güvene erdik bize indirilene de, size indirilene de ve mabudumuz ve mabudunuz birdir ve biz, ona teslim olmuşuz.",
+      "contextual_meaning": "Yapıcı müzakere, hak arama ve savunma sorumluluğu: en güzel üslupla fikir mücadelesi (16:125, 29:46), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (11:74), kadının eşi hakkında hak arayışı (58:1), hesap günü her benliğin kendini savunması (16:111) ve hainleri savunmama uyarısı (4:107, 4:109)."
+    },
+    {
+      "surah": 31,
+      "ayah": 20,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:20",
+      "word_position": 21,
+      "target_word_uthmani": "يُجَٰدِلُ",
+      "target_word_rasm": "يجدل",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "Görmediler mi ki gerçekten de Allah, ram etti size ne varsa göklerde ve ne varsa yeryüzünde ve görünen ve gizli olan nimetlerini size yaydı, tamamladı ve...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَٰهِرَةً وَبَاطِنَةً وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَٰبٍ مُّنِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmediler mi ki gerçekten de Allah, ram etti size ne varsa göklerde ve ne varsa yeryüzünde ve görünen ve gizli olan nimetlerini size yaydı, tamamladı ve insanlar içinde, Allah hakkında mücadeleye girişen var bilgisi, delili ve aydınlatıcı bir kitabı yokken.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 40,
+      "ayah": 4,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:4",
+      "word_position": 2,
+      "target_word_uthmani": "يُجَٰدِلُ",
+      "target_word_rasm": "يجدل",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "مَا يُجَٰدِلُ فِىٓ ءَايَٰتِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın delilleri hakkında, ancak gerçeğin üzerini örten olanlar çekişirler, onların, şehirlerde dönüp dolaşmaları aldatmasın seni.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MS"
+      },
+      "ayah_text_arabic_full": "مَا يُجَٰدِلُ فِىٓ ءَايَٰتِ ٱللَّهِ إِلَّا ٱلَّذِينَ كَفَرُوا۟ فَلَا يَغْرُرْكَ تَقَلُّبُهُمْ فِى ٱلْبِلَٰدِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın delilleri hakkında, ancak gerçeğin üzerini örten olanlar çekişirler, onların, şehirlerde dönüp dolaşmaları aldatmasın seni.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 40,
+      "ayah": 5,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:5",
+      "word_position": 13,
+      "target_word_uthmani": "وَجَٰدَلُوا۟",
+      "target_word_rasm": "وجدلوا",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ وَجَٰدَلُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan önce de Nuh kavmi, yalanladı, onlardan sonraysa bölükbölük halk ve her ümmet, elçisini yalanlamayı kendine iş edindi, buna kasdetti, onu öldürmek...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَٱلْأَحْزَابُ مِنۢ بَعْدِهِمْ وَهَمَّتْ كُلُّ أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ وَجَٰدَلُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ فَأَخَذْتُهُمْ فَكَيْفَ كَانَ عِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan önce de Nuh kavmi, yalanladı, onlardan sonraysa bölükbölük halk ve her ümmet, elçisini yalanlamayı kendine iş edindi, buna kasdetti, onu öldürmek istedi ve gerçeği boşa çıkarmak için boş şeylere dayanarak çekiştiler, derken onları helakediverdim; azap nasıl olurmuş, görsünler.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 40,
+      "ayah": 35,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:35",
+      "word_position": 2,
+      "target_word_uthmani": "يُجَٰدِلُونَ",
+      "target_word_rasm": "يجدلون",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Öyle kişilerdir onlar ki kendilerine hiçbir kesin delil gelmediği halde Allah'ın delilleri hakkında çekişmiye girişirler; Allah katında da bir nefrete ve buğza...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle kişilerdir onlar ki kendilerine hiçbir kesin delil gelmediği halde Allah'ın delilleri hakkında çekişmiye girişirler; Allah katında da bir nefrete ve buğza uğrarlar, güvene erenler katında da; Allah, her kibirli ve cebbar kişinin gönlünü böyle mühürler işte.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 40,
+      "ayah": 56,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:56",
+      "word_position": 3,
+      "target_word_uthmani": "يُجَٰدِلُونَ",
+      "target_word_rasm": "يجدلون",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ayetleri hakkında, kendilerine hiçbir kesin delil gelmemişken çekişmeye girişenlerin gönüllerinde, ancak ulaşmalarına imkan olmayan bir büyüklenme...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ إِن فِى صُدُورِهِمْ إِلَّا كِبْرٌ مَّا هُم بِبَٰلِغِيهِ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ayetleri hakkında, kendilerine hiçbir kesin delil gelmemişken çekişmeye girişenlerin gönüllerinde, ancak ulaşmalarına imkan olmayan bir büyüklenme duygusu var; artık Allah'a sığın, şüphe yok ki o, duyar, görür.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 40,
+      "ayah": 69,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:69",
+      "word_position": 5,
+      "target_word_uthmani": "يُجَٰدِلُونَ",
+      "target_word_rasm": "يجدلون",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "تَرَ إِلَى ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Görmedin mi Allah'ın delilleri hakkında çekişmeye girişenleri, nereye gitmedeler, neye kapılmadalar?",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ أَنَّىٰ يُصْرَفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmedin mi Allah'ın delilleri hakkında çekişmeye girişenleri, nereye gitmedeler, neye kapılmadalar?",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 42,
+      "ayah": 35,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:35",
+      "word_position": 3,
+      "target_word_uthmani": "يُجَٰدِلُونَ",
+      "target_word_rasm": "يجدلون",
+      "target_word_literal_irab": "Bilgisizce, kanıtsız biçimde veya boş sözle Allah'ın ayetleri hakkında çekişmeli tartışmaya girişmek (يُجَٰدِلُ / يُجَٰدِلُونَ — Form III fiil)",
+      "context_snippet_arabic": "وَيَعْلَمَ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِنَا مَا",
+      "context_snippet_turkish_tabula_rasa": "Delillerimiz hakkında cedelleşmeye kalkışanlar, bilsinler ki onlara hiçbir yer yok ki kaçıp da kurtulsunlar.",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَعْلَمَ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِنَا مَا لَهُم مِّن مَّحِيصٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Delillerimiz hakkında cedelleşmeye kalkışanlar, bilsinler ki onlara hiçbir yer yok ki kaçıp da kurtulsunlar.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 43,
+      "ayah": 58,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:58",
+      "word_position": 10,
+      "target_word_uthmani": "جَدَلًۢا",
+      "target_word_rasm": "جدلا",
+      "target_word_literal_irab": "Tartışmacılık eğilimi ve sırf çekişme çıkarma amacı (جَدَلًا — 18:54, 43:58, Form I mastar)",
+      "context_snippet_arabic": "ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا بَلْ هُمْ قَوْمٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve bizim mabutlarımız mı hayırlı, yoksa o mu dediler, onlar, bu örneği ancak çekişmek için getirdiler; zaten de onlar düşmanlık ededuran bir topluluktur.",
+      "morphology": {
+        "lemma": "jadal",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jadal|ROOT:jdl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوٓا۟ ءَأَٰلِهَتُنَا خَيْرٌ أَمْ هُوَ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا بَلْ هُمْ قَوْمٌ خَصِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bizim mabutlarımız mı hayırlı, yoksa o mu dediler, onlar, bu örneği ancak çekişmek için getirdiler; zaten de onlar düşmanlık ededuran bir topluluktur.",
+      "contextual_meaning": "Bilgisiz, kanıtsız ve kibir kaynaklı safsata çekişmesi: hakikat apaçık belirdikten sonra bile bilgisizce, kibirle ve boş sözle hakikati çürütmek için Allah'ın ayetleri hakkında cedelleşmek."
+    },
+    {
+      "surah": 58,
+      "ayah": 1,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:1",
+      "word_position": 6,
+      "target_word_uthmani": "تُجَٰدِلُكَ",
+      "target_word_rasm": "تجدلك",
+      "target_word_literal_irab": "Bir kişiyi, toplumu veya kendi benliğini savunmak adına hararetle mücadele yürütmek (تُجَٰدِلُ عَن / يُجَٰدِلُنَا فِى — Form III fiil)",
+      "context_snippet_arabic": "ٱللَّهُ قَوْلَ ٱلَّتِى تُجَٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de Allah, seninle, kocası hakkında çekişirken Allah'a şikayette bulunan kadının sözünü işitti ve Allah sizin konuşmanızı duyuyordu; şüphe yok ki...",
+      "morphology": {
+        "lemma": "ja`dalu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:ja`dalu|ROOT:jdl|2MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de Allah, seninle, kocası hakkında çekişirken Allah'a şikayette bulunan kadının sözünü işitti ve Allah sizin konuşmanızı duyuyordu; şüphe yok ki Allah, duyar, görür.",
+      "contextual_meaning": "Yapıcı müzakere, hak arama ve savunma sorumluluğu: en güzel üslupla fikir mücadelesi (16:125, 29:46), İbrâhim'in Lût kavmi için yakarışlı mücadelesi (11:74), kadının eşi hakkında hak arayışı (58:1), hesap günü her benliğin kendini savunması (16:111) ve hainleri savunmama uyarısı (4:107, 4:109)."
+    }
+  ]
+}

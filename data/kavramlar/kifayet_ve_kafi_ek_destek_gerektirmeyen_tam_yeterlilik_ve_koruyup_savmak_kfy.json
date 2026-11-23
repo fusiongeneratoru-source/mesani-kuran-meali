@@ -1,0 +1,730 @@
+{
+  "root": "ك-ف-ي",
+  "root_latin": "K-F-Y (kfy)",
+  "concept_name": "Kifâyet ve Kâfî (Ek Destek Gerektirmeyen Tam Yeterlilik ve Koruyup Savmak)",
+  "rank": 279,
+  "total_occurrences": 33,
+  "unique_ayahs_count": 32,
+  "unified_core_mechanism": "Üzerine ek destek gerektirmeyecek biçimde tam yetmek ve karşıdan gelen yükü eksiksiz savmak (`الْحَسْبُ الَّذِي لَا مُسْتَزَادَ فِيهِ`): (1) İlahi tam yeterlilik — Allah'ın şahit (`4:79,166`, `10:29`, `13:43`, `17:96`, `29:52`, `41:53`, `46:8`, `48:28`), iş üstlenici (`4:81,132,171`, `17:65`, `33:3,48`), hesap görücü (`4:6`, `21:47`, `33:39`), bilici ve haberdar (`4:70`, `17:17`, `25:58`), dost, yol gösterici ve destekçi (`4:45`, `25:31`) olarak başka hiçbir ek güce gerek bırakmadan yetmesi; (2) Tehlikeyi ve yükü savmak — Allah'ın elçisini ve güvenenleri düşman baskısına, alaycılara ve savaş yüküne karşı tamamen koruyup yetmesi (`2:137`, `15:95`, `33:25`, `39:36`); (3) Kanıt ve öz-yargılama yeterliliği — indirilen kitabın ve ilahi takviyenin yetmesi (`3:124`, `29:51`), insanın kendi kaydı karşısında bizzat kendisinin hesap görücü olarak yetmesi (`17:14`), açık suçun veya yakıcı ateşin karşılık olarak yetmesi (`4:50`, `4:55`).",
+  "physical_core": "Üzerine hiçbir ekleme veya dış destek gerektirmeyecek düzeyde tam yetmek; bir ihtiyacı veya karşıdan gelen yükü eksiksiz biçimde karşılayıp savmak (الْحَسْبُ الَّذِي لَا مُسْتَزَادَ فِيهِ وَالْقِيَامُ بِالْأَمْرِ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 5, s. 188): Kökün tek sahih çekirdeğinin 'artık fazlasına veya ilaveye gerek bırakmayan tam yeterlilik (`الْحَسْبُ الَّذِي لَا مُسْتَزَادَ فِيهِ`)' olduğunu kaydeder; bir işi tam üstlenip yerine getirmeye `كَفَى كِفَايَةً`, kişiye yeten azığa `الْكُفْيَة` denir.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `كَفَاهُ الْأَمْرَ` o işin gerektirdiği bütün sorumluluğu üstlenip kişiyi başka bir arayıştan veya tehditten kurtarmaktır (`أَغْنَاهُ عَنْ غَيْرِهِ وَقَامَ مَقَامَهُ`); `كَفَى بِٱللَّهِ` kalıbındaki `بِـ` harfi yeterliliğin kesinliğini pekiştirir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*, s. 716): `الْكِفَايَةُ` amaçlanan ihtiyacı eksiksiz karşılayacak miktardır (`مَا فِيهِ سَدُّ الْخَلَّةِ وَبُلُوغُ الْمُرَادِ`); `33:25`'te Allah'ın savaş yükünü güvenip bağlananların üzerinden kaldırmasını ve `17:14`'te insanın kendi defteri karşısında bizzat kendisinin hesap görücü olarak yetmesini bu eksiksiz yeterliliğe bağlar.",
+    "arbitration_decision": "Hakem Masası Kararı: `ك-ف-ي` yalnızca 'az çok idare etmek' değil, İbn Fâris'in tanımıyla 'üzerine hiçbir eklemeye lüzum bırakmayan tam yeterlilik (`لَا مُسْتَزَادَ فِيهِ`)' demektir. Bu sebeple Kur'an'da iki yüzlü işler: (1) Tek başına tam yeten mercî (`كَفَىٰ بِٱللَّهِ شَهِيدًا / وَكِيلًا / حَسِيبًا / نَصِيرًا`, `17:14` `كَفَىٰ بِنَفْسِكَ... حَسِيبًا`), (2) Karşıt tehdit veya yükü eksiksiz biçimde göğüsleyip savmak (`2:137`, `15:95`, `33:25`, `39:36`)."
+  },
+  "semitic_cognates": {
+    "note": "Diğer Sami dillerinde doğrudan doğrulanmış eşkökenli bulunmadı; Arapçada `كِفَايَة` (tam yeterlilik) ve `كُفْيَة` (yeten azık) kavramlarıyla tek bir berrak kök ailesi oluşturur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ف-ق-ر [وَمَن كَانَ فَقِيرًا ... وَكَفَىٰ بِٱللَّهِ حَسِيبًا / أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ] (Eksiklik ve Muhtaçlık Hâli ↔ Başka Destek Gerektirmeyen Tam Yeterlilik: 4:6, 39:36)",
+      "ن-ق-ص [أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ] (Eksilmek ve Noksan Kalmak ↔ Üzerine İlave Gerektirmeyen Tam Yetme: 29:51, 41:53)",
+      "و-ك-ل [وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا] (İşi Güvenle Bir Mercie Bırakmak ↔ O Merciin İşi Tek Başına Eksiksiz Karşılaması: 4:81, 4:132, 17:65, 33:3, 33:48)"
+    ],
+    "key_ayahs": [
+      "2:137",
+      "4:6",
+      "4:45",
+      "4:81",
+      "15:95",
+      "17:14",
+      "29:51",
+      "33:3",
+      "33:25",
+      "39:36",
+      "41:53",
+      "48:28"
+    ],
+    "reverse_stress_test": "`39:36`'daki `أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ` ('Allah kuluna yetmiyor mu ki seni O'nun berisindekilerle korkutuyorlar?') sorusu ve `33:3`'teki `وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا` çifti, `ك-ف-ي`'nin dış tehditleri ve ihtiyaçları tek başına eksiksiz kapatan mekaniğini kanıtlar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "و-ك-ل (4:81, 33:3, 33:48 وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا — تَوَكُّل kulun işi güvenle üstleniciye devretme eylemini, كَفَىٰ ise üstlenicinin başka hiçbir ek güce lüzum bırakmayan mutlak yeterliliğini ayırır)",
+      "م-د-د (3:124 أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم — إِمْدَاد dışarıdan gelen ardışık takviye desteğini, كِفَايَة ise bu takviyenin ihtiyacı tamamen kapatıp fazlasına gerek bırakmamasını ayırır)"
+    ],
+    "mechanical_difference": "`ح-س-ب` hesap ve denklik açısından yeterli gelmeyi ölçerken, `ك-ف-ي` bir ihtiyacı, tanıklığı veya karşıt saldırıyı dışarıdan ek destek gerektirmeden bütünüyle karşılayıp savmayı anlatır."
+  },
+  "anchor_ayahs": [
+    "2:137",
+    "3:124",
+    "4:6",
+    "4:45",
+    "4:81",
+    "15:95",
+    "17:14",
+    "21:47",
+    "29:51",
+    "33:25",
+    "39:36",
+    "41:53"
+  ],
+  "grammar_and_branch_rules": "32 Form I fiil geçişinin 26'sı `كَفَىٰ بِـ + temyiz` kalıbındadır (`بِـ` pekiştirme harfidir; faili tekit eder). Çift nesneli kullanımlarda (`2:137` `فَسَيَكْفِيكَهُمُ`, `15:95` `كَفَيْنَٰكَ ٱلْمُسْتَهْزِءِينَ`, `33:25` `كَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ`) birinci nesne korunanı, ikinci nesne savuşturulan tehlikeyi gösterir. Tekil ism-i fâil `بِكَافٍ` (`39:36`) aynı geçişliliği korur.",
+  "derivatives": {
+    "كَفَىٰ بِـ": "Başka hiçbir ilaveye veya desteğe gerek bırakmayacak biçimde tek başına tam yetmek (4:6, 4:45, 4:81, 17:14, 21:47, 48:28)",
+    "كَفَىٰ / يَكْفِى": "Bir ihtiyacı bütünüyle karşılamak; bir tehdit veya yükü göğüsleyip birini ondan kurtarmak (2:137, 3:124, 15:95, 29:51, 33:25)",
+    "كَافٍ": "Kulunun her ihtiyacına ve savunmasına eksiksiz yeten (39:36)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 137,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:137",
+      "word_position": 15,
+      "target_word_uthmani": "فَسَيَكْفِيكَهُمُ",
+      "target_word_rasm": "فسيكفيكهم",
+      "target_word_literal_irab": "Düşman baskısını, alaycıları veya savaş yükünü göğüsleyip eksiksiz savmak (فَسَيَكْفِيكَهُمُ / كَفَيْنَٰكَ / وَكَفَى ٱللَّهُ... ٱلْقِتَالَ — Form I geçişli fiil)",
+      "context_snippet_arabic": "هُمْ فِى شِقَاقٍ فَسَيَكْفِيكَهُمُ ٱللَّهُ وَهُوَ ٱلسَّمِيعُ",
+      "context_snippet_turkish_tabula_rasa": "Sizin güven bağı ettiğiniz gibi güvene ererlerse mutlaka doğru yolu buldular demektir. Fakat yüz çevirdiler mi onlar, ancak ayrılık, aykırılık içindedir....",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "فَإِنْ ءَامَنُوا۟ بِمِثْلِ مَآ ءَامَنتُم بِهِۦ فَقَدِ ٱهْتَدَوا۟ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا هُمْ فِى شِقَاقٍ فَسَيَكْفِيكَهُمُ ٱللَّهُ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizin güven bağı ettiğiniz gibi güvene ererlerse mutlaka doğru yolu buldular demektir. Fakat yüz çevirdiler mi onlar, ancak ayrılık, aykırılık içindedir. Onlara karşı koymak için sana, Allah yeter ve o, her şeyi duyandır, bilendir.",
+      "contextual_meaning": "Tehlikeyi ve yükü eksiksiz göğüsleyip savmak: Allah'ın elçisini ve güvenenleri düşman baskısına, alaycılara ve savaş yüküne karşı bizzat koruyup yetmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 124,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:124",
+      "word_position": 5,
+      "target_word_uthmani": "يَكْفِيَكُمْ",
+      "target_word_rasm": "يكفيكم",
+      "target_word_literal_irab": "Ek bir talebe yer bırakmayacak düzeyde yetmiyor mu (أَلَن يَكْفِيَكُمْ / أَوَلَمْ يَكْفِهِمْ / أَوَلَمْ يَكْفِ — Form I muzârî)",
+      "context_snippet_arabic": "تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم",
+      "context_snippet_turkish_tabula_rasa": "Hani sen o zaman güvene erenlere demiştin ki: Rabbiniz, size yardım için üç bin buyruk elçisi indirecek, yetmez mi size?",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:kafaY`|ROOT:kfy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَٰثَةِ ءَالَٰفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ مُنزَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani sen o zaman güvene erenlere demiştin ki: Rabbiniz, size yardım için üç bin buyruk elçisi indirecek, yetmez mi size?",
+      "contextual_meaning": "Kanıt, öz-hesap ve karşılık yeterliliği: indirilen kitabın ve ilahi takviyenin yetmesi (3:124, 29:51), hesap günü kişinin kendi benliğinin hesap görücü olarak yetmesi (17:14) ve açık suçun veya ateşin karşılık olarak yetmesi (4:50, 4:55)."
+    },
+    {
+      "surah": 4,
+      "ayah": 6,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:6",
+      "word_position": 35,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "context_snippet_turkish_tabula_rasa": "Yetimleri, nikah çağına dek deneyin, ergenlik çağına ulaştıklarını, olgunlaştıklarını gördünüz mü mallarını kendilerine verin. Onların malını israf ederek,...",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimleri, nikah çağına dek deneyin, ergenlik çağına ulaştıklarını, olgunlaştıklarını gördünüz mü mallarını kendilerine verin. Onların malını israf ederek, yahut büyüyünce geri alırlar diyerek yemeyin. Zengin olan, yetimin malına hiç dokunmasın. Fakir olan, örfe uygun bir miktar yiyebilir. Mallarını geri vereceğiniz vakit bu muameleyi tanıklar huzurunda yapın. Allah, gereğince hesap sorucudur ve o, yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 4,
+      "ayah": 45,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:45",
+      "word_position": 4,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, sizin düşmanlarınızı daha iyi bilir ve dost olarak da Allah yeter, yardımcı olarak da Allah yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ بِٱللَّهِ نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, sizin düşmanlarınızı daha iyi bilir ve dost olarak da Allah yeter, yardımcı olarak da Allah yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 4,
+      "ayah": 45,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:45",
+      "word_position": 7,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ بِٱللَّهِ نَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, sizin düşmanlarınızı daha iyi bilir ve dost olarak da Allah yeter, yardımcı olarak da Allah yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ بِٱللَّهِ نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, sizin düşmanlarınızı daha iyi bilir ve dost olarak da Allah yeter, yardımcı olarak da Allah yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 4,
+      "ayah": 50,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:50",
+      "word_position": 7,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "عَلَى ٱللَّهِ ٱلْكَذِبَ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا",
+      "context_snippet_turkish_tabula_rasa": "Hele bak, Allah'a nasıl iftira ediyor, ona yalan isnat ediyorlar ve yeter bu apaçık suç onlara.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hele bak, Allah'a nasıl iftira ediyor, ona yalan isnat ediyorlar ve yeter bu apaçık suç onlara.",
+      "contextual_meaning": "Kanıt, öz-hesap ve karşılık yeterliliği: indirilen kitabın ve ilahi takviyenin yetmesi (3:124, 29:51), hesap günü kişinin kendi benliğinin hesap görücü olarak yetmesi (17:14) ve açık suçun veya ateşin karşılık olarak yetmesi (4:50, 4:55)."
+    },
+    {
+      "surah": 4,
+      "ayah": 55,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:55",
+      "word_position": 9,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "مَّن صَدَّ عَنْهُ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Onlardan, ona güvene eren da var, ondan yüz çeviren de ve bunlara alevli, yakıp kavuran yakıcı yıkım yurdu yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "فَمِنْهُم مَّنْ ءَامَنَ بِهِۦ وَمِنْهُم مَّن صَدَّ عَنْهُ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan, ona güvene eren da var, ondan yüz çeviren de ve bunlara alevli, yakıp kavuran yakıcı yıkım yurdu yeter.",
+      "contextual_meaning": "Kanıt, öz-hesap ve karşılık yeterliliği: indirilen kitabın ve ilahi takviyenin yetmesi (3:124, 29:51), hesap günü kişinin kendi benliğinin hesap görücü olarak yetmesi (17:14) ve açık suçun veya ateşin karşılık olarak yetmesi (4:50, 4:55)."
+    },
+    {
+      "surah": 4,
+      "ayah": 70,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:70",
+      "word_position": 5,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "ٱلْفَضْلُ مِنَ ٱللَّهِ وَكَفَىٰ بِٱللَّهِ عَلِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Bu lütuf ve ihsan, Allah'tandır ve Allah'ın her şeyi bilmesi yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ ٱلْفَضْلُ مِنَ ٱللَّهِ وَكَفَىٰ بِٱللَّهِ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu lütuf ve ihsan, Allah'tandır ve Allah'ın her şeyi bilmesi yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 4,
+      "ayah": 79,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:79",
+      "word_position": 16,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "وَأَرْسَلْنَٰكَ لِلنَّاسِ رَسُولًا وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+      "context_snippet_turkish_tabula_rasa": "Sana gelen iyiliğe ait şey Allah'tandır, kötülüğe ait olansa kendi benliğinden ve biz seni insanlara elçi olarak gönderdik, buna tanık olarak Allah yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "مَّآ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ ٱللَّهِ وَمَآ أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ وَأَرْسَلْنَٰكَ لِلنَّاسِ رَسُولًا وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana gelen iyiliğe ait şey Allah'tandır, kötülüğe ait olansa kendi benliğinden ve biz seni insanlara elçi olarak gönderdik, buna tanık olarak Allah yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 4,
+      "ayah": 81,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:81",
+      "word_position": 22,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Bizden itaat etmek derlerse de yanından ayrıldılar mı onların bir kısmı, geceleyin senin dediğinden bambaşka şeyler kurar, Allah da onların kurduklarını yazar....",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bizden itaat etmek derlerse de yanından ayrıldılar mı onların bir kısmı, geceleyin senin dediğinden bambaşka şeyler kurar, Allah da onların kurduklarını yazar. Yüz çevir onlardan de dayan Allah'a, Allah yeter koruyucu olarak.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 4,
+      "ayah": 132,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:132",
+      "word_position": 8,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah'ındır ne varsa göklerde ve ne varsa yeryüzünde ve koruyucu olarak Allah yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah'ındır ne varsa göklerde ve ne varsa yeryüzünde ve koruyucu olarak Allah yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 4,
+      "ayah": 166,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:166",
+      "word_position": 11,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "بِعِلْمِهِۦ وَٱلْمَلَٰٓئِكَةُ يَشْهَدُونَ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+      "context_snippet_turkish_tabula_rasa": "Fakat Allah, sana indirdiği kitapla tanıklık eder ki onu, bilerek indirmiştir ve buyruk elçileri de tanıklık ederler ve tanık olarak Allah yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "لَّٰكِنِ ٱللَّهُ يَشْهَدُ بِمَآ أَنزَلَ إِلَيْكَ أَنزَلَهُۥ بِعِلْمِهِۦ وَٱلْمَلَٰٓئِكَةُ يَشْهَدُونَ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat Allah, sana indirdiği kitapla tanıklık eder ki onu, bilerek indirmiştir ve buyruk elçileri de tanıklık ederler ve tanık olarak Allah yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 4,
+      "ayah": 171,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:171",
+      "word_position": 51,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Ey kitap ehli, yaşam sisteminizde aşırı gitmeyin ve Allah hakkında gerçek olanı söyleyin. Meryemoğlu Mesih İsa, ancak Allah'ın elçi ve Meryem'e ilga ettiği...",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا لَّكُمْ إِنَّمَا ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey kitap ehli, yaşam sisteminizde aşırı gitmeyin ve Allah hakkında gerçek olanı söyleyin. Meryemoğlu Mesih İsa, ancak Allah'ın elçi ve Meryem'e ilga ettiği kelimesidir ve kendisine ait bir canlandırıcı hayat ve vahiy özüdür. Artık güvene erin Allah'a ve elçilerine ve sığınak mercii (ilâh) üçtür demeyin, vazgeçin bundan, bu hayırlıdır size. Allah, ancak tek sığınak merciidir, oğul sahibi olmaktan münezzehtir ve onundur ne varsa göklerde ve ne varsa yeryüzünde ve koruyucu olarak Allah yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 10,
+      "ayah": 29,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:29",
+      "word_position": 1,
+      "target_word_uthmani": "فَكَفَىٰ",
+      "target_word_rasm": "فكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok, bizimle sizin aranızda Allah tanıktır ki sizin kulluğunuzdan haberimiz bile yoktu.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok, bizimle sizin aranızda Allah tanıktır ki sizin kulluğunuzdan haberimiz bile yoktu.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 13,
+      "ayah": 43,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:43",
+      "word_position": 7,
+      "target_word_uthmani": "كَفَىٰ",
+      "target_word_rasm": "كفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "لَسْتَ مُرْسَلًا قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler, sen elçi değilsin derler; de ki: Sizinle aramda tanık olarak Allah ve kitap bilgisine sahip olan yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًا قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, sen elçi değilsin derler; de ki: Sizinle aramda tanık olarak Allah ve kitap bilgisine sahip olan yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 15,
+      "ayah": 95,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:95",
+      "word_position": 2,
+      "target_word_uthmani": "كَفَيْنَٰكَ",
+      "target_word_rasm": "كفينك",
+      "target_word_literal_irab": "Düşman baskısını, alaycıları veya savaş yükünü göğüsleyip eksiksiz savmak (فَسَيَكْفِيكَهُمُ / كَفَيْنَٰكَ / وَكَفَى ٱللَّهُ... ٱلْقِتَالَ — Form I geçişli fiil)",
+      "context_snippet_arabic": "إِنَّا كَفَيْنَٰكَ ٱلْمُسْتَهْزِءِينَ",
+      "context_snippet_turkish_tabula_rasa": "O alaycılara karşı biz yeteriz sana.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَفَيْنَٰكَ ٱلْمُسْتَهْزِءِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O alaycılara karşı biz yeteriz sana.",
+      "contextual_meaning": "Tehlikeyi ve yükü eksiksiz göğüsleyip savmak: Allah'ın elçisini ve güvenenleri düşman baskısına, alaycılara ve savaş yüküne karşı bizzat koruyup yetmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 14,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:14",
+      "word_position": 3,
+      "target_word_uthmani": "كَفَىٰ",
+      "target_word_rasm": "كفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ",
+      "context_snippet_turkish_tabula_rasa": "Oku kitabını, bugün hesap görmek için sen yetersin sana.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Oku kitabını, bugün hesap görmek için sen yetersin sana.",
+      "contextual_meaning": "Kanıt, öz-hesap ve karşılık yeterliliği: indirilen kitabın ve ilahi takviyenin yetmesi (3:124, 29:51), hesap günü kişinin kendi benliğinin hesap görücü olarak yetmesi (17:14) ve açık suçun veya ateşin karşılık olarak yetmesi (4:50, 4:55)."
+    },
+    {
+      "surah": 17,
+      "ayah": 17,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:17",
+      "word_position": 8,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "مِنۢ بَعْدِ نُوحٍ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Nuh'tan sonra nice toplulukları helak ettik. Rabbin, kullarının suçlarından haberdardır, görür onları ve bu, yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَكَمْ أَهْلَكْنَا مِنَ ٱلْقُرُونِ مِنۢ بَعْدِ نُوحٍ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh'tan sonra nice toplulukları helak ettik. Rabbin, kullarının suçlarından haberdardır, görür onları ve bu, yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 17,
+      "ayah": 65,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:65",
+      "word_position": 7,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "لَكَ عَلَيْهِمْ سُلْطَٰنٌ وَكَفَىٰ بِرَبِّكَ وَكِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki gerçek kullarımın üstünde hiçbir hükmün yoktur, onlara karşı hiçbir gücün olmaz senin ve Rabbin, koruyucu olarak yeter onlara.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌ وَكَفَىٰ بِرَبِّكَ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki gerçek kullarımın üstünde hiçbir hükmün yoktur, onlara karşı hiçbir gücün olmaz senin ve Rabbin, koruyucu olarak yeter onlara.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 17,
+      "ayah": 96,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:96",
+      "word_position": 2,
+      "target_word_uthmani": "كَفَىٰ",
+      "target_word_rasm": "كفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى",
+      "context_snippet_turkish_tabula_rasa": "De ki: Benimle sizin aranızda tanık olarak Allah yeter; şüphe yok ki o, kullarından haberdardır, onları görür.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Benimle sizin aranızda tanık olarak Allah yeter; şüphe yok ki o, kullarından haberdardır, onları görür.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 21,
+      "ayah": 47,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:47",
+      "word_position": 18,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kıyamet günü, adalet terazilerini kuracağız, hiçbir kimse hiçbir şeyde haksızlığa uğramıyacak, hatta hardal tanesi ağırlığında bir işin bile karşılığını...",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kıyamet günü, adalet terazilerini kuracağız, hiçbir kimse hiçbir şeyde haksızlığa uğramıyacak, hatta hardal tanesi ağırlığında bir işin bile karşılığını vereceğiz, bizim hesap görüşümüz yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 25,
+      "ayah": 31,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:31",
+      "word_position": 8,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "عَدُوًّا مِّنَ ٱلْمُجْرِمِينَ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Ve biz böylece her elçiye, mücrimlerden düşmanlar halkettik ve doğru yolu göstermek için de Rabbin yeter sana, yardım etmek için de.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا مِّنَ ٱلْمُجْرِمِينَ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz böylece her elçiye, mücrimlerden düşmanlar halkettik ve doğru yolu göstermek için de Rabbin yeter sana, yardım etmek için de.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 25,
+      "ayah": 58,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:58",
+      "word_position": 9,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Ve dayan o daimi diriye ki hiç ölmez ve ona hamd ederek şanını tenzih et ve kullarının suçlarından haberdar olması yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve dayan o daimi diriye ki hiç ölmez ve ona hamd ederek şanını tenzih et ve kullarının suçlarından haberdar olması yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 29,
+      "ayah": 51,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:51",
+      "word_position": 2,
+      "target_word_uthmani": "يَكْفِهِمْ",
+      "target_word_rasm": "يكفهم",
+      "target_word_literal_irab": "Ek bir talebe yer bırakmayacak düzeyde yetmiyor mu (أَلَن يَكْفِيَكُمْ / أَوَلَمْ يَكْفِهِمْ / أَوَلَمْ يَكْفِ — Form I muzârî)",
+      "context_snippet_arabic": "أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara yetmez mi ki şüphe yok, sana kitap indirdik, onlara okunup durmada; şüphe yok ki bu kitapta elbette güvene eren topluluğa hem rahmet var, hem öğüt.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:kafaY`|ROOT:kfy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ يُتْلَىٰ عَلَيْهِمْ إِنَّ فِى ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara yetmez mi ki şüphe yok, sana kitap indirdik, onlara okunup durmada; şüphe yok ki bu kitapta elbette güvene eren topluluğa hem rahmet var, hem öğüt.",
+      "contextual_meaning": "Kanıt, öz-hesap ve karşılık yeterliliği: indirilen kitabın ve ilahi takviyenin yetmesi (3:124, 29:51), hesap günü kişinin kendi benliğinin hesap görücü olarak yetmesi (17:14) ve açık suçun veya ateşin karşılık olarak yetmesi (4:50, 4:55)."
+    },
+    {
+      "surah": 29,
+      "ayah": 52,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:52",
+      "word_position": 2,
+      "target_word_uthmani": "كَفَىٰ",
+      "target_word_rasm": "كفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "قُلْ كَفَىٰ بِٱللَّهِ بَيْنِى وَبَيْنَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Aramda ve aranızda tanık olarak Allah yeter; bilir ne varsa göklerde ve yeryüzünde ve batıla güvene erip Allah'a gerçeğin üzerini örten olanlara...",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ كَفَىٰ بِٱللَّهِ بَيْنِى وَبَيْنَكُمْ شَهِيدًا يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلَّذِينَ ءَامَنُوا۟ بِٱلْبَٰطِلِ وَكَفَرُوا۟ بِٱللَّهِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Aramda ve aranızda tanık olarak Allah yeter; bilir ne varsa göklerde ve yeryüzünde ve batıla güvene erip Allah'a gerçeğin üzerini örten olanlara gelince: Onlardır ziyan edenlerin ta kendileri.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 33,
+      "ayah": 3,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:3",
+      "word_position": 4,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Ve dayan Allah'a ve Allah yeter koruyucu olarak.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve dayan Allah'a ve Allah yeter koruyucu olarak.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 33,
+      "ayah": 25,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:25",
+      "word_position": 9,
+      "target_word_uthmani": "وَكَفَى",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Düşman baskısını, alaycıları veya savaş yükünü göğüsleyip eksiksiz savmak (فَسَيَكْفِيكَهُمُ / كَفَيْنَٰكَ / وَكَفَى ٱللَّهُ... ٱلْقِتَالَ — Form I geçişli fiil)",
+      "context_snippet_arabic": "لَمْ يَنَالُوا۟ خَيْرًا وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, gerçeğin üzerini örtenleri, hiddetleriyle, şiddetleriyle defetti, onlar hiçbir hayra nail olamadan; ve Allah, savaş için yetti güvene erenlere ve...",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ بِغَيْظِهِمْ لَمْ يَنَالُوا۟ خَيْرًا وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, gerçeğin üzerini örtenleri, hiddetleriyle, şiddetleriyle defetti, onlar hiçbir hayra nail olamadan; ve Allah, savaş için yetti güvene erenlere ve Allah, pek kuvvetlidir, üstündür.",
+      "contextual_meaning": "Tehlikeyi ve yükü eksiksiz göğüsleyip savmak: Allah'ın elçisini ve güvenenleri düşman baskısına, alaycılara ve savaş yüküne karşı bizzat koruyup yetmesi."
+    },
+    {
+      "surah": 33,
+      "ayah": 39,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:39",
+      "word_position": 11,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "أَحَدًا إِلَّا ٱللَّهَ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "context_snippet_turkish_tabula_rasa": "O gelip geçen elçiler, öyle kişilerdi ki Allah'ın elçiliğini yapıp hükümlerini tebliğ ederler ve ondan korkarlar ve Allah'tan başka hiçbir kimseden...",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُبَلِّغُونَ رِسَٰلَٰتِ ٱللَّهِ وَيَخْشَوْنَهُۥ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا ٱللَّهَ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "O gelip geçen elçiler, öyle kişilerdi ki Allah'ın elçiliğini yapıp hükümlerini tebliğ ederler ve ondan korkarlar ve Allah'tan başka hiçbir kimseden korkmazlardı ve hesap görmeye de Allah yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 33,
+      "ayah": 48,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:48",
+      "word_position": 10,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Ve itaat etme gerçeğin üzerini örtenlerle iki çıkışlı kaypaklara ve eziyetlerine aldırış etme ve dayan Allah'a ve koruyucu olarak Allah, yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve itaat etme gerçeğin üzerini örtenlerle iki çıkışlı kaypaklara ve eziyetlerine aldırış etme ve dayan Allah'a ve koruyucu olarak Allah, yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 39,
+      "ayah": 36,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:36",
+      "word_position": 3,
+      "target_word_uthmani": "بِكَافٍ",
+      "target_word_rasm": "بكاف",
+      "target_word_literal_irab": "Kulunun tüm ihtiyacına ve savunmasına eksiksiz yeten (بِكَافٍ عَبْدَهُۥ — 39:36, ism-i fâil)",
+      "context_snippet_arabic": "أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ وَيُخَوِّفُونَكَ بِٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, yetmez mi kuluna? Ve seni, ondan başka mabut saydıklarıyla mı korkutuyorlar? Ve Allah kimi doğru yoldan saptırırsa ona yol gösterecek yoktur.",
+      "morphology": {
+        "lemma": "kaAf",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:kaAf|ROOT:kfy|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, yetmez mi kuluna? Ve seni, ondan başka mabut saydıklarıyla mı korkutuyorlar? Ve Allah kimi doğru yoldan saptırırsa ona yol gösterecek yoktur.",
+      "contextual_meaning": "Tehlikeyi ve yükü eksiksiz göğüsleyip savmak: Allah'ın elçisini ve güvenenleri düşman baskısına, alaycılara ve savaş yüküne karşı bizzat koruyup yetmesi."
+    },
+    {
+      "surah": 41,
+      "ayah": 53,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:53",
+      "word_position": 13,
+      "target_word_uthmani": "يَكْفِ",
+      "target_word_rasm": "يكف",
+      "target_word_literal_irab": "Ek bir talebe yer bırakmayacak düzeyde yetmiyor mu (أَلَن يَكْفِيَكُمْ / أَوَلَمْ يَكْفِهِمْ / أَوَلَمْ يَكْفِ — Form I muzârî)",
+      "context_snippet_arabic": "أَنَّهُ ٱلْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Yakında delillerimizi, alemde de göstereceğiz, kendi varlıklarında da, böylece sonucu, onlarca da apaçık anlaşılacaktır ki o, gerçektir şüphesiz; Rabbinin, her...",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:kafaY`|ROOT:kfy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "سَنُرِيهِمْ ءَايَٰتِنَا فِى ٱلْءَافَاقِ وَفِىٓ أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ ٱلْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yakında delillerimizi, alemde de göstereceğiz, kendi varlıklarında da, böylece sonucu, onlarca da apaçık anlaşılacaktır ki o, gerçektir şüphesiz; Rabbinin, her şeye tanık olması, yetmez mi sana?",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 46,
+      "ayah": 8,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:8",
+      "word_position": 18,
+      "target_word_uthmani": "كَفَىٰ",
+      "target_word_rasm": "كفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "بِمَا تُفِيضُونَ فِيهِ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى",
+      "context_snippet_turkish_tabula_rasa": "Yoksa bunu, kendisi uyduruyor mu derler? De ki: Ben uyduruyorsam Allah'ın azabından hiçbir şeyi gideremezsiniz benden; o, Kur'an hakkında neler dediğinizi daha...",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa bunu, kendisi uyduruyor mu derler? De ki: Ben uyduruyorsam Allah'ın azabından hiçbir şeyi gideremezsiniz benden; o, Kur'an hakkında neler dediğinizi daha iyi bilir; benimle sizin aranızda tanık olarak o yeter ve odur suçları örten, rahim.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    },
+    {
+      "surah": 48,
+      "ayah": 28,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:28",
+      "word_position": 12,
+      "target_word_uthmani": "وَكَفَىٰ",
+      "target_word_rasm": "وكفى",
+      "target_word_literal_irab": "Başka hiçbir ilaveye ve dış desteğe gerek bırakmayacak biçimde tek başına tam yetmek (كَفَىٰ بِـ — Form I mâzî)",
+      "context_snippet_arabic": "عَلَى ٱلدِّينِ كُلِّهِۦ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur o ki elçisini, doğru yolu göstermek üzere gerçek dinle, bütün dinlere üstün olmak için göndermiştir ve Allah'ın tanıklığı yeter.",
+      "morphology": {
+        "lemma": "kafaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:kafaY`|ROOT:kfy|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur o ki elçisini, doğru yolu göstermek üzere gerçek dinle, bütün dinlere üstün olmak için göndermiştir ve Allah'ın tanıklığı yeter.",
+      "contextual_meaning": "Tek başına tam yeten ilahi merci (كَفَىٰ بِٱللَّهِ): şahit, iş üstlenici, hesap görücü, bilici, dost, yol gösterici ve yardımcı olarak başka hiçbir ek güce gerek bırakmayan ilahi yeterlilik."
+    }
+  ]
+}

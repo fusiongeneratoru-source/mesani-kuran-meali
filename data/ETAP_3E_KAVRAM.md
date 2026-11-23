@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 450 mühürlü kökten (`%86,92`) sonra, meal aşamasına geçmeden önce kısa surelerin (98-114) kalan son tekil kavram kilitlerini, mühürlü köklerin referans verdiği açık Mesânî/Furûk eşleniklerini ve 25+ geçişli doktrinel/çekirdek kavramları kapatan **50 kritik kök** (789 geçiş) mühürlenerek toplam sözlük **500 kilitli köke (`%88,50` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%92,58`'i)** ulaştırılır.
-> **Etap 3E İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 490 Kök | Güncel Kapsam: %87,87)
+> **Etap 3E İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 500 Kök | Güncel Kapsam: %88,50)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -47,13 +47,13 @@
 | 38 | Mesânî & Doktrinel Zırh | 350 | `ب-ط-ن` | `B-T-N` | **25** | 25 | 2:174 | Batn ve Bâtın (Dış Yüzeyin Karşıtı İç Boşluk ve Gizli Derinlik) | ✅ **MÜHÜRLÜ** |
 | 39 | Mesânî & Doktrinel Zırh | 344 | `ش-ر-ي` | `S-R-Y` | **25** | 23 | 2:16 | Şirâ ve İştirâ (İki Değer Arasında Karşılıklı Takas: Satmak ve Satın Almak) | ✅ **MÜHÜRLÜ** |
 | 40 | Mesânî & Doktrinel Zırh | 354 | `و-ه-ب` | `W-H-B` | **25** | 22 | 3:8 | Hibe ve Vehhâb (Bedelsiz ve Karşılıksız Saf Lütuf Bağışı) | ✅ **MÜHÜRLÜ** |
-| 41 | Yüksek Frekanslı Çekirdek | 217 | `و-ذ-ر` | `W-Z-R` | **45** | 43 | 2:234 | Zer ve Yezaru (45 geçişle henüz mühürlenmemiş #1 en yüksek frekanslı kök! 6:70, 62:9, 74:11, 75:20 bırakıp terk etmek) | ⏳ *Bekliyor* |
-| 42 | Yüksek Frekanslı Çekirdek | 276 | `ك-ف-ي` | `K-F-Y` | **33** | 32 | 2:137 | Kifâyet ve Kâfî (33 geçiş: 4:6, 13:43, 29:51, 33:3,39, 39:36 "Allah kuluna yetmez mi?" ve koruyup başkasına muhtaç bırakmamak) | ⏳ *Bekliyor* |
-| 43 | Yüksek Frekanslı Çekirdek | 281 | `م-د-د` | `M-D-D` | **32** | 29 | 2:15 | Medd, İmdâd ve Meded (32 geçiş: 104:9 Hümeze, 3:125, 17:20, 19:75, 25:45, 31:27 uzatmak, süre ve kesintisiz destek vermek) | ⏳ *Bekliyor* |
-| 44 | Yüksek Frekanslı Çekirdek | 284 | `و-ر-ي` | `W-R-Y` | **32** | 31 | 2:91 | Müvârât, Mûriyât ve Verâ' (32 geçiş: 100:2 Âdiyât kıvılcım çakmak, 5:31, 7:20,26 gizleyip örtmek ve arkada/ötede olan) | ⏳ *Bekliyor* |
-| 45 | Yüksek Frekanslı Çekirdek | 302 | `ص-ر-ف` | `S-R-F` | **30** | 29 | 2:164 | Sarf ve Tasrîf (30 geçiş: 6:16, 12:24,34, 17:41,89, 18:54, 25:50 kötülüğü savuşturup çevirmek ve ayetleri çok yönlü açıklamak) | ⏳ *Bekliyor* |
-| 46 | Yüksek Frekanslı Çekirdek | 307 | `غ-ش-و` | `G-S-W` | **29** | 26 | 2:7 | Gaşy, İğşâ' ve Gâşiye (29 geçiş: 88:1 Gâşiye Sûresi, 91:4, 92:1, 2:7, 24:40, 53:16 gece veya perde gibi her yanı bürüyüp kaplamak) | ⏳ *Bekliyor* |
-| 47 | Yüksek Frekanslı Çekirdek | 311 | `ص-ي-ر` | `S-Y-R` | **29** | 29 | 2:126 | Masîr ve Sayrûret (29 geçiş: 2:126, 2:285, 3:28, 42:53 "işlerin evrilip varacağı son dönüş durağı [وَإِلَيْكَ ٱلْمَصِيرُ]") | ⏳ *Bekliyor* |
-| 48 | Yüksek Frekanslı Çekirdek | 312 | `ج-د-ل` | `C-D-L` | **29** | 27 | 2:197 | Cidâl ve Mücâdele (29 geçiş: 16:125, 18:54, 29:46, 58:1 ipi sıkıca bükmekten hareketle en güzel yolla kanıt ortaya koymak vs kısır çekişme) | ⏳ *Bekliyor* |
-| 49 | Yüksek Frekanslı Çekirdek | 325 | `ر-ج-و` | `R-C-W` | **28** | 27 | 2:218 | Recâ' ve Mürcûn (28 geçiş: خ-و-ف ve ي-أ-س eşleniği; 2:218, 18:110, 29:5, 33:21, 71:13 Allah'a kavuşmayı umup beklemek) | ⏳ *Bekliyor* |
-| 50 | Yüksek Frekanslı Çekirdek | 319 | `ح-و-ط` | `H-W-T` | **28** | 27 | 2:19 | İhâta ve Muhît (28 geçiş: 2:19, 2:255, 18:68,91, 41:54, 65:12, 85:20 ilahi bilgi ve kudretin her şeyi çepeçevre kuşatması) | ⏳ *Bekliyor* |
+| 41 | Yüksek Frekanslı Çekirdek | 217 | `و-ذ-ر` | `W-Z-R` | **45** | 43 | 2:234 | Vezer / Yezeru / Zer (Elini Çekip Bırakmak ve Kendi Hâline Terk Etmek) | ✅ **MÜHÜRLÜ** |
+| 42 | Yüksek Frekanslı Çekirdek | 276 | `ك-ف-ي` | `K-F-Y` | **33** | 32 | 2:137 | Kifâyet ve Kâfî (Ek Destek Gerektirmeyen Tam Yeterlilik ve Koruyup Savmak) | ✅ **MÜHÜRLÜ** |
+| 43 | Yüksek Frekanslı Çekirdek | 281 | `م-د-د` | `M-D-D` | **32** | 29 | 2:15 | Medd ve İmdâd (Boylamasına Yayıp Uzatmak ve Kesintisiz Takviye Eklemek) | ✅ **MÜHÜRLÜ** |
+| 44 | Yüksek Frekanslı Çekirdek | 284 | `و-ر-ي` | `W-R-Y` | **32** | 31 | 2:91 | Verâ, Muvârât ve Îrâ (Perde Ardında Örtüp Gizlemek, Öte Yan ve Kıvılcım Çakmak) | ✅ **MÜHÜRLÜ** |
+| 45 | Yüksek Frekanslı Çekirdek | 302 | `ص-ر-ف` | `S-R-F` | **30** | 29 | 2:164 | Sarf ve Tasrîf (Yönünü Çevirip Döndürmek ve Farklı Açılardan Sunmak) | ✅ **MÜHÜRLÜ** |
+| 46 | Yüksek Frekanslı Çekirdek | 307 | `غ-ش-و` | `G-S-W` | **29** | 26 | 2:7 | Gişâve ve Gâşiye (Üzerini Örtü ve Dalga Gibi Bürüyüp Kaplamak) | ✅ **MÜHÜRLÜ** |
+| 47 | Yüksek Frekanslı Çekirdek | 311 | `ص-ي-ر` | `S-Y-R` | **29** | 29 | 2:126 | Masîr ve Sayrûret (Bütün Süreçlerin Akıp Vardığı Nihai Durak ve Akıbet) | ✅ **MÜHÜRLÜ** |
+| 48 | Yüksek Frekanslı Çekirdek | 312 | `ج-د-ل` | `C-D-L` | **29** | 27 | 2:197 | Cedel ve Mücâdele (Sözü Büküp Karşılıklı Çekiştirmek ve Savunma Mücadelesi) | ✅ **MÜHÜRLÜ** |
+| 49 | Yüksek Frekanslı Çekirdek | 325 | `ر-ج-و` | `R-C-W` | **28** | 27 | 2:218 | Recâ, Ercâ ve İrcâ (Bilinçli Umut Beklentisi, Çevre Kenarı ve Erteleme) | ✅ **MÜHÜRLÜ** |
+| 50 | Yüksek Frekanslı Çekirdek | 319 | `ح-و-ط` | `H-W-T` | **28** | 27 | 2:19 | İhâta ve Muhît (Çepeçevre Kuşatmak ve Bilgiyle Tam Kavramak) | ✅ **MÜHÜRLÜ** |

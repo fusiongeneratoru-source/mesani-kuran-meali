@@ -1,0 +1,651 @@
+{
+  "root": "ص-ي-ر",
+  "root_latin": "S-Y-R (Syr)",
+  "concept_name": "Masîr ve Sayrûret (Bütün Süreçlerin Akıp Vardığı Nihai Durak ve Akıbet)",
+  "rank": 307,
+  "total_occurrences": 29,
+  "unique_ayahs_count": 29,
+  "unified_core_mechanism": "Bütün süreç, tercih ve yolculukların nihayetinde akıp vardığı son durak ve dönüşüm noktası (`الْمَآلُ وَالْمَرْجِعُ`): (1) Kozmik ve egemenlik merkezine varış — göklerin, yerin ve işlerin tamamının sonunda Allah'a varması (`2:285`, `3:28`, `5:18`, `22:48`, `24:42`, `31:14`, `35:18`, `40:3`, `42:15`, `42:53`, `50:43`, `60:4`, `64:3`); (2) Tercihlerin varış durağı — haksızlık, düşmanlık ve ikiyüzlülüğün sürüklendiği kötü son durak (`2:126`, `3:162`, `4:97,115`, `8:16`, `9:73`, `14:30`, `22:72`, `24:57`, `48:6`, `57:15`, `58:8`, `64:10`, `66:9`, `67:6`) karşısında sorumluluk bilinci taşıyanların esenlik bahçesindeki varış durağı (`25:15`).",
+  "physical_core": "Bir sürecin, yolun veya varlığın bütün aşamalardan geçerek nihayetinde akıp vardığı son durak, dönüşüm noktası ve akıbet (الْمَآلُ وَالْمَرْجِعُ وَعَاقِبَةُ الْأَمْرِ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 3, s. 326): Kökün tek sahih çekirdeğinin 'nihai varış yeri ve dönüş noktası (`الْمَآلُ وَالْمَرْجِعُ`)' olduğunu belirtir; sürünün sonunda toplanıp döndüğü ağıla `صِيرَة`, bir işin vardığı son noktaya `صَيُّورُ الْأَمْرِ` denmesini bu tek asla bağlar.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `صَارَ إِلَيْهِ` uzun veya kısa bir seyir sonunda o noktaya erişip dönüşmektir (`رَجَعَ وَانْتَهَى إِلَيْهِ`); `الْمَصِيرُ` hem dönüş sürecini hem de varılan son durağı ve akıbeti ifade eder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*, s. 497): `الصَّيْرُورَةُ` bir hâlden başka bir hâle veya bir konumdan nihai konuma geçiş yapmaktır (`الِانْتِقَالُ مِنْ حَالٍ إِلَى حَالٍ`); `42:53`'teki `تَصِيرُ ٱلْأُمُورُ` bütün işlerin en sonunda Allah'ın kesin hükmüne varacağını bildirir.",
+    "arbitration_decision": "Hakem Masası Kararı: `ص-ي-ر`, Kur'an'da %96,5 oranında `مَصِير` (28/29 geçiş) ve bir kez `تَصِيرُ` (`42:53`) olarak geçer. Sadece 'olmak' değil, bir yolculuğun ve seçimler zincirinin sonunda 'kaçınılmaz olarak varılan son durak ve akıbet (`الْمَآلُ وَالْمَرْجِعُ`)' demektir. `مَصِير`'in 12 kez doğrudan Allah'a (`إِلَى ٱللَّهِ ٱلْمَصِيرُ`), 15 kez ateş azabına, 1 kez de sürekli esenlik bahçesine (`25:15`) bağlanması, varış yerini belirleyen şeyin insanın tercih rotası olduğunu gösterir."
+  },
+  "semitic_cognates": {
+    "note": "Diğer Sami dillerinde kesin doğrulanmış eşkökenli bulunmadı; Arapçada süreç sonunda bir hâle veya son durağa erişme (`صَيْرُورَة / مَصِير`) fikrini taşıyan berrak bir ecvef-i yâî köktür."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-د-أ [خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ... وَإِلَيْهِ ٱلْمَصِيرُ / نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ] (İlk Başlangıç ve Çıkış Noktası ↔ Sürecin Sonunda Varılan Nihai Durak: 42:53, 50:43, 64:3)",
+      "ك-و-ن [كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا] (Hâlihazırda Var Olmak ve Sürmek ↔ Bir Süreç Sonunda Dönüşüp Varılan Nihai Akıbet: 25:15, 42:53)"
+    ],
+    "key_ayahs": [
+      "2:126",
+      "2:285",
+      "3:28",
+      "4:97",
+      "14:30",
+      "24:42",
+      "25:15",
+      "31:14",
+      "35:18",
+      "42:53",
+      "50:43",
+      "60:4",
+      "64:3"
+    ],
+    "reverse_stress_test": "`64:3`'te gökleri, yeri ve insan suretini yaratan başlangıç (`خَلَقَ ... وَصَوَّرَكُمْ`) ile nihai varış noktası (`وَإِلَيْهِ ٱلْمَصِيرُ`) ve `50:43`'te hayat verip öldürme döngüsüyle `وَإِلَيْنَا ٱلْمَصِيرُ` kapanışı, `ص-ي-ر`'nin tüm varlık yayını kapatan 'son durak' mekaniğini doğrular."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "أ-و-ي (3:162, 4:97, 8:16, 9:73, 24:57, 57:15, 66:9 مَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ — مَأْوَىٰ içine sığınılıp barınılan yeri, مَصِير ise bütün yolların sonunda varılan nihai akıbet ve son durağı ayırır)",
+      "ج-ز-ي (25:15 كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا — جَزَاء yapılan eylemlerin hak edilmiş karşılığını, مَصِير ise bu karşılıkla varılan kalıcı son durağı ayırır)",
+      "ن-و-ب (60:4 وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ — إِنَابَة dünyada iradeli ve bilinçli yönelişi, مَصِير ise herkesin sonunda varacağı kaçınılmaz nihai dönüş durağını ayırır)"
+    ],
+    "mechanical_difference": "`ر-ج-ع` çıktığı başlangıç noktasına geri dönmeye odaklanırken, `ص-ي-ر` bir süreç ve dönüşüm çizgisinin en sonunda akıp ulaştığı nihai hâl ve varış durağını (`الْمَآلُ وَالْعَاقِبَةُ`) vurgular."
+  },
+  "anchor_ayahs": [
+    "2:126",
+    "2:285",
+    "3:28",
+    "4:97",
+    "14:30",
+    "24:42",
+    "25:15",
+    "31:14",
+    "35:18",
+    "42:53",
+    "50:43",
+    "60:4",
+    "64:3"
+  ],
+  "grammar_and_branch_rules": "Tekil Form I muzârî `تَصِيرُ` (`42:53`) `إِلَىٰ` ile bütün işlerin Allah'a varıp sonuçlandığını bildirir. 28 `مَصِير` geçişi (mîmli mastar / ism-i mekân) hem kesin dönüşü (`إِلَى ٱللَّهِ ٱلْمَصِيرُ`) hem de seçimin sonucundaki varış yerini (`بِئْسَ ٱلْمَصِيرُ`, `سَآءَتْ مَصِيرًا`, `جَزَآءً وَمَصِيرًا`) ifade eder.",
+  "derivatives": {
+    "تَصِيرُ": "Süreç sonunda dönüp varmak, nihai merciine ulaşmak (42:53)",
+    "مَصِير": "Bütün yol ve seçimlerin sonunda varılan nihai durak, varış noktası ve akıbet (2:126, 2:285, 24:42, 25:15, 50:43, 64:3)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 126,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:126",
+      "word_position": 30,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "O zaman İbrahim, Ya Rabbi dedi, bu şehri emniyetli bir yer et. Buradakilerden Allah'a ve son güne güvene erenleri meyvelarla rızıklandır. Allah, gerçeğin...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "O zaman İbrahim, Ya Rabbi dedi, bu şehri emniyetli bir yer et. Buradakilerden Allah'a ve son güne güvene erenleri meyvelarla rızıklandır. Allah, gerçeğin üzerini örten olanı da bir müddet rızıklandıracağım da sonra zorla onu, ateşle azaba uğratacağım. Oraya gidiş, ne yaman bir sonuçtur, ne kötü bir gidiştir dedi.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 2,
+      "ayah": 285,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:285",
+      "word_position": 27,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "elçi de kendisine Rabbinden indirilene güven duy, güvene erenler da. Hepsi de Allah'a, buyruk elçilerine, kitaplarına, elçilerine güven duy. elçilerinden...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "elçi de kendisine Rabbinden indirilene güven duy, güvene erenler da. Hepsi de Allah'a, buyruk elçilerine, kitaplarına, elçilerine güven duy. elçilerinden hiçbirini öbüründen ayırmayız, duyduk demişlerdir ve itaat ettik, Rabbimiz, yarlıganma dileriz senden, varacağımız yer, tapındır senin.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 28,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:28",
+      "word_position": 27,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "نَفْسَهُۥ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler güvene erenleri bırakıp da gerçeğin üzerini örtenleri dost edinmesinler. Bu işi yapan, Allah'tan bir şey beklemesin, fakat gerçeğin üzerini...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةً وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler güvene erenleri bırakıp da gerçeğin üzerini örtenleri dost edinmesinler. Bu işi yapan, Allah'tan bir şey beklemesin, fakat gerçeğin üzerini örtenlerden çekinmeniz gerekse o başka. Allah, kendisinden sakınmanızı emretmektedir ve dönüp varılacak yer de Allah tapısıdır.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 162,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:162",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "وَمَأْوَىٰهُ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Allah rızasına uyanla Allah'ın hışmına uğrayıp yurdu yakıcı yıkım yurdu olan bir olur mu hiç? Ve orası, dönülüp varılan ne kötü bir yerdir.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah rızasına uyanla Allah'ın hışmına uğrayıp yurdu yakıcı yıkım yurdu olan bir olur mu hiç? Ve orası, dönülüp varılan ne kötü bir yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 4,
+      "ayah": 97,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:97",
+      "word_position": 27,
+      "target_word_uthmani": "مَصِيرًا",
+      "target_word_rasm": "مصيرا",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "مَأْوَىٰهُمْ جَهَنَّمُ وَسَآءَتْ مَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "buyruk elçileri, kendi benliklerine zulmedenlerin canlarını alırken ne haldeydiniz derler. Onlar da, yeryüzünde derler, aciz kişilerdik biz. buyruk elçileri,...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةً فَتُهَاجِرُوا۟ فِيهَا فَأُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ وَسَآءَتْ مَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "buyruk elçileri, kendi benliklerine zulmedenlerin canlarını alırken ne haldeydiniz derler. Onlar da, yeryüzünde derler, aciz kişilerdik biz. buyruk elçileri, Allah'ın yeri geniş değil miydi derler, siz de hicret edeydiniz. İşte onlardır yurtları yakıcı yıkım yurdu olanlar ve orası, ne de kötü bir yurttur.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 4,
+      "ayah": 115,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:115",
+      "word_position": 20,
+      "target_word_uthmani": "مَصِيرًا",
+      "target_word_rasm": "مصيرا",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "وَنُصْلِهِۦ جَهَنَّمَ وَسَآءَتْ مَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Kendisince doğru yol apaçık belli olduktan sonra elçiye aykırı hareket eden ve güvene erenlerin yolundan başka bir yola giden kişiyi döndüğü yolda bırakırız ve...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ وَسَآءَتْ مَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisince doğru yol apaçık belli olduktan sonra elçiye aykırı hareket eden ve güvene erenlerin yolundan başka bir yola giden kişiyi döndüğü yolda bırakırız ve yakıcı yıkım yurduna atarız; orası, ne de kötü yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 5,
+      "ayah": 18,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:18",
+      "word_position": 30,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "وَمَا بَيْنَهُمَا وَإِلَيْهِ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Yahudiler ve Nasraniler, biz Allah'ın oğullarıyız ve sevgilileriyiz dediler. De ki: Öyleyse neden sapma ve kusurlarınızdan dolayı size azap ediyor? Hayır, siz,...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَإِلَيْهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudiler ve Nasraniler, biz Allah'ın oğullarıyız ve sevgilileriyiz dediler. De ki: Öyleyse neden sapma ve kusurlarınızdan dolayı size azap ediyor? Hayır, siz, ancak onun yarattığı insanlardansınız; o, dilediğini yarlıgar, dilediğine azap eder ve Allah'ındır göklerin, yeryüzünün ve ikisinin arasında bulunanların saltanatı ve her iş, ona aittir.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 8,
+      "ayah": 16,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:16",
+      "word_position": 20,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "وَمَأْوَىٰهُ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ve kim, tekrar savaşmak için bir tarafa çekilmek, yahut bir bölüğe ulaşmak niyetinde olmadan öyle bir günde onlara arka çevirir, dönerse muhakkak Allah'ın...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَن يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍ فَقَدْ بَآءَ بِغَضَبٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim, tekrar savaşmak için bir tarafa çekilmek, yahut bir bölüğe ulaşmak niyetinde olmadan öyle bir günde onlara arka çevirir, dönerse muhakkak Allah'ın gazabına uğrayacaktır, yurdu yakıcı yıkım yurdudur ve orası, dönüp varılacak ne kötü bir yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 9,
+      "ayah": 73,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:73",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi, gerçeğin üzerini örtenlerle ve iki çıkışlı kaypak savaş, onlara karşı şiddetli davran. Onların yurdu yakıcı yıkım yurdudur ve orası, ne de kötü...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ جَٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi, gerçeğin üzerini örtenlerle ve iki çıkışlı kaypak savaş, onlara karşı şiddetli davran. Onların yurdu yakıcı yıkım yurdudur ve orası, ne de kötü dönülüp varılacak bir yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 14,
+      "ayah": 30,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:30",
+      "word_position": 10,
+      "target_word_uthmani": "مَصِيرَكُمْ",
+      "target_word_rasm": "مصيركم",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, halkı onun yolundan çıkarıp saptırmak için Allah'a benzerler kabul ettiler. De ki: Geçinin şimdilik, çünkü gerçekten de dönüp varacağınız yurt ateştir.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلُوا۟ لِلَّهِ أَندَادًا لِّيُضِلُّوا۟ عَن سَبِيلِهِۦ قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, halkı onun yolundan çıkarıp saptırmak için Allah'a benzerler kabul ettiler. De ki: Geçinin şimdilik, çünkü gerçekten de dönüp varacağınız yurt ateştir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 22,
+      "ayah": 48,
+      "surah_name": "Hac",
+      "ayah_ref": "22:48",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ve nice şehir var ki halkı zalim olduğundan mühlet verdik onlara da sonra helak ediverdim ve dönüp gelecekleri yer de benim tapımdır.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve nice şehir var ki halkı zalim olduğundan mühlet verdik onlara da sonra helak ediverdim ve dönüp gelecekleri yer de benim tapımdır.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 22,
+      "ayah": 72,
+      "surah_name": "Hac",
+      "ayah_ref": "22:72",
+      "word_position": 29,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Onlara apaçık ayetlerimizi okudun mu yüzlerinde gerçeğin üzerini örtme alametleri belirir, görüp tanırsın sen de; neredeyse ayetlerimizi onlara okuyanlara...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara apaçık ayetlerimizi okudun mu yüzlerinde gerçeğin üzerini örtme alametleri belirir, görüp tanırsın sen de; neredeyse ayetlerimizi onlara okuyanlara saldırıverecekler. De ki: Bundan daha şer, daha da beter bir şey haber vereyim mi size: Ateş. Allah, gerçeğin üzerini örten olanlara vaadetmiştir onu ve orası, dönüp gidilecek ne de kötü yer.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 24,
+      "ayah": 42,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:42",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "وَٱلْأَرْضِ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah'ındır göklerin ve yeryüzünün saltanatı ve tedbiri ve her şey, dönüp Allah tapısına varır.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah'ındır göklerin ve yeryüzünün saltanatı ve tedbiri ve her şey, dönüp Allah tapısına varır.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 24,
+      "ayah": 57,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:57",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "وَمَأْوَىٰهُمُ ٱلنَّارُ وَلَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar, hiç ummasınlar ki yeryüzünde Allah'ı aciz bırakacaklar ve yurtları ateştir onların ve dönüp varılacak ne de kötü yerdir orası.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "لَا تَحْسَبَنَّ ٱلَّذِينَ كَفَرُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ وَمَأْوَىٰهُمُ ٱلنَّارُ وَلَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar, hiç ummasınlar ki yeryüzünde Allah'ı aciz bırakacaklar ve yurtları ateştir onların ve dönüp varılacak ne de kötü yerdir orası.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 25,
+      "ayah": 15,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:15",
+      "word_position": 13,
+      "target_word_uthmani": "وَمَصِيرًا",
+      "target_word_rasm": "ومصيرا",
+      "target_word_literal_irab": "Sorumluluk bilinci taşıyanlar için ödül ve kalıcı varış durağı (جَزَآءً وَمَصِيرًا — mansûb isim)",
+      "context_snippet_arabic": "كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "De ki: Bu mu daha hayırlıdır, yoksa çekinenlere vaadedilen ebedilik esenlik bahçesini mi? Bu, onlara bir mükafattır ve dönüp varacakları yer.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ ٱلْخُلْدِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Bu mu daha hayırlıdır, yoksa çekinenlere vaadedilen ebedilik esenlik bahçesini mi? Bu, onlara bir mükafattır ve dönüp varacakları yer.",
+      "contextual_meaning": "Sorumluluk bilincinin ödül ve varış durağı: kalıcı esenlik bahçesinin hem karşılık hem de nihai varış yeri olması."
+    },
+    {
+      "surah": 31,
+      "ayah": 14,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:14",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz, insana, anasınababasına itaat etmesini tavsiye ettik; anası, yaratılışı zayıf olduğu halde gebelikle büsbütün zayıflamış, fakat gene de onu taşımıştı...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, insana, anasınababasına itaat etmesini tavsiye ettik; anası, yaratılışı zayıf olduğu halde gebelikle büsbütün zayıflamış, fakat gene de onu taşımıştı ve gebelikle sütten kesme müddeti, iki yıl sürmüştü; artık nimetin değerini bilip açığa vur bana ve ananla babana; dönüp geleceğin yer, benim tapımdır.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 35,
+      "ayah": 18,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:18",
+      "word_position": 34,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ve hiçbir suçlu, bir başkasının yükünü yüklenmez ve ağır bir yük taşıyan, onu yüklenmesi için bir başkasını çağırsa, çağırdığı, akrabası bile olsa o yükün bir...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve hiçbir suçlu, bir başkasının yükünü yüklenmez ve ağır bir yük taşıyan, onu yüklenmesi için bir başkasını çağırsa, çağırdığı, akrabası bile olsa o yükün bir kısmını bile yüklenemez. Sen, gizli olduğu, görmedikleri halde Rablerinden korkanları ve irtibat bağını kurup sürdürenleri korkutabilirsin ancak ve kim, temiz bir hale gelirse faydası, ancak kendisinedir ve dönüp varılacak yer, Allah tapısıdır.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 40,
+      "ayah": 3,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:3",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "إِلَّا هُوَ إِلَيْهِ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Odur suçları örten ve tövbeleri kabul eden ve azabı şiddetli olan ve kullarına nimetler ihsan eden; yoktur ondan başka tapacak ve dönüp varılacak yer, onun...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ لَآ إِلَٰهَ إِلَّا هُوَ إِلَيْهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Odur suçları örten ve tövbeleri kabul eden ve azabı şiddetli olan ve kullarına nimetler ihsan eden; yoktur ondan başka tapacak ve dönüp varılacak yer, onun tapısıdır ancak.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 42,
+      "ayah": 15,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:15",
+      "word_position": 34,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "يَجْمَعُ بَيْنَنَا وَإِلَيْهِ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ve işte bunun için artık onları çağır ve doğru hareket et emredildiğin gibi ve uyma onların dileklerine ve de ki: Ben, kitaptan ne indirdiyse Allah, güven duy...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "فَلِذَٰلِكَ فَٱدْعُ وَٱسْتَقِمْ كَمَآ أُمِرْتَ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ٱللَّهُ يَجْمَعُ بَيْنَنَا وَإِلَيْهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve işte bunun için artık onları çağır ve doğru hareket et emredildiğin gibi ve uyma onların dileklerine ve de ki: Ben, kitaptan ne indirdiyse Allah, güven duy ona ve bana, aranızda adaletle hükmetmem emredildi; Allah, Rabbimizdir ve Rabbiniz; bizim yaptıklarımız, bize aittir, sizin yaptıklarınız size; düşmanlık yok bizimle sizin aranızda; Allah, bir yerde toplayacak bizi ve sonunda dönüp onun tapısına varılacak.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 42,
+      "ayah": 53,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:53",
+      "word_position": 14,
+      "target_word_uthmani": "تَصِيرُ",
+      "target_word_rasm": "تصير",
+      "target_word_literal_irab": "Bütün işlerin ve süreçlerin nihayetinde dönüp Allah'a varması (تَصِيرُ ٱلْأُمُورُ — 42:53, Form I muzârî)",
+      "context_snippet_arabic": "أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ",
+      "context_snippet_turkish_tabula_rasa": "O yoluna Allah'ın ki onundur ne varsa göklerde ve ne varsa yeryüzünde; iyice bilin ki bütün işler, dönüp Allah tapısına varır.",
+      "morphology": {
+        "lemma": "taSiyru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taSiyru|ROOT:Syr|3FS"
+      },
+      "ayah_text_arabic_full": "صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "O yoluna Allah'ın ki onundur ne varsa göklerde ve ne varsa yeryüzünde; iyice bilin ki bütün işler, dönüp Allah tapısına varır.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 48,
+      "ayah": 6,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:6",
+      "word_position": 21,
+      "target_word_uthmani": "مَصِيرًا",
+      "target_word_rasm": "مصيرا",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, erkek ve kadın iki çıkışlı kaypakları ve erkek ve kadın otoriteyi bölüşme ve ortak koşma koşanları azaplandırsın diye, kötülük, dönüp başlarına...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, erkek ve kadın iki çıkışlı kaypakları ve erkek ve kadın otoriteyi bölüşme ve ortak koşma koşanları azaplandırsın diye, kötülük, dönüp başlarına gelesi helak olasılar ve Allah gazap etmiştir onlara ve lanetlemiştir onları ve hazırlamıştır onlara yakıcı yıkım yurdunu ve orası, gidilecek ne de kötü yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 50,
+      "ayah": 43,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:43",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki biz diriltiriz ve biz öldürürüz ve dönülüp gelinecek tapı, bizim tapımızdır.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki biz diriltiriz ve biz öldürürüz ve dönülüp gelinecek tapı, bizim tapımızdır.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 57,
+      "ayah": 15,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:15",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "هِىَ مَوْلَىٰكُمْ وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Artık bugün ne sizden, azaptan kurtulmanız için bir şey alınır, ne gerçeğin üzerini örten olanlardan ve yurdunuz ateştir sizin, odur size layık olan ve orası,...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ مَأْوَىٰكُمُ ٱلنَّارُ هِىَ مَوْلَىٰكُمْ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık bugün ne sizden, azaptan kurtulmanız için bir şey alınır, ne gerçeğin üzerini örten olanlardan ve yurdunuz ateştir sizin, odur size layık olan ve orası, dönüp gidilecek ne de kötü yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 58,
+      "ayah": 8,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:8",
+      "word_position": 38,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "جَهَنَّمُ يَصْلَوْنَهَا فَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Bakmaz mısın gizli ve fısıltıyla konuşmadan vazgeçmeleri emredilenlere, sonradan gene vazgeçmeleri emredilen şeye dönerler ve suça ve düşmanlığa ve elçiye...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا فَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bakmaz mısın gizli ve fısıltıyla konuşmadan vazgeçmeleri emredilenlere, sonradan gene vazgeçmeleri emredilen şeye dönerler ve suça ve düşmanlığa ve elçiye isyana ait şeyleri gizlice konuşurlar ve senin yanına gelince de Allah'ın, sana verdiği selamdan başka bir tarzda selam verirler sana ve birbirlerine de şu söylediklerimiz yüzünden derler, Allah'ın bizi azaplandırması gerekmez miydi? yakıcı yıkım yurdu yeter onlara, oraya atılıp yanacaklardır ve gerçekten de orası, dönülüp gidilecek ne de kötü yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 60,
+      "ayah": 4,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:4",
+      "word_position": 52,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de İbrahim'de ve onunla beraber bulunanlarda güzel bir örnek var size; hani kavimlerine demişlerdi ki: Şüphe yok ki biz, sizden ve Allah'tan başka...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de İbrahim'de ve onunla beraber bulunanlarda güzel bir örnek var size; hani kavimlerine demişlerdi ki: Şüphe yok ki biz, sizden ve Allah'tan başka kulluk ettiklerinizden tamamıyla uzağız, gerçeğin üzerini ört sizi ve aramızla aranızda, bir Allah'a siz de güven duy dek ebedi bir düşmanlık ve nefret belirmiştir; ancak İbrahim'in, atasına, elbette senin için yarlıganma dileyeceğim ve fakat Allah'tan sana gelecek hiçbirşeyi de menedemem sözü başka; Rabbimiz, sana dayandık ve sana yöneldik ve dönüpgeleceğimiz yer de senin tapın.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 64,
+      "ayah": 3,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:3",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Bütün varlığın ve sorumluluğun nihai varış noktası yalnızca Allah'tır (إِلَى ٱللَّهِ / إِلَيْهِ ٱلْمَصِيرُ — mastar-ı mîmî / ism-i mekân)",
+      "context_snippet_arabic": "فَأَحْسَنَ صُوَرَكُمْ وَإِلَيْهِ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Yaratmıştır gökleri ve yeryüzünü gerçek olarak ve size suret vermiştir ve suretinizi de en güzel bir tarzda meydana getirmiştir ve sonunda da dönülüp gidilecek...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَإِلَيْهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaratmıştır gökleri ve yeryüzünü gerçek olarak ve size suret vermiştir ve suretinizi de en güzel bir tarzda meydana getirmiştir ve sonunda da dönülüp gidilecek yer, onun tapısıdır.",
+      "contextual_meaning": "Bütün varlığın ve işlerin nihai varış noktası Allah'tır: yaratılış, egemenlik, diriltme, öldürme ve bütün işlerin en sonunda Allah'a varıp sonuçlanması."
+    },
+    {
+      "surah": 64,
+      "ayah": 10,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:10",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ve gerçeğin üzerini örten olan ve delillerimizi yalanlayanlarsa yakıcı yıkım yurdu ehlidirler, ebedi kalırlar orada ve orası, dönüp varılacak ne kötü yerdir.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ خَٰلِدِينَ فِيهَا وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gerçeğin üzerini örten olan ve delillerimizi yalanlayanlarsa yakıcı yıkım yurdu ehlidirler, ebedi kalırlar orada ve orası, dönüp varılacak ne kötü yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 66,
+      "ayah": 9,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:9",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi, savaş gerçeğin üzerini örtenlerle ve iki çıkışlı kaypak ve sert davran onlara ve yurtları yakıcı yıkım yurdudur onların ve orası, dönülüp gidilecek ne...",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ جَٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi, savaş gerçeğin üzerini örtenlerle ve iki çıkışlı kaypak ve sert davran onlara ve yurtları yakıcı yıkım yurdudur onların ve orası, dönülüp gidilecek ne kötü yerdir.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    },
+    {
+      "surah": 67,
+      "ayah": 6,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:6",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمَصِيرُ",
+      "target_word_rasm": "ٱلمصير",
+      "target_word_literal_irab": "Yanlış tercihlerin sonunda sürüklenip varılan kötü son durak (وَبِئْسَ ٱلْمَصِيرُ / وَسَآءَتْ مَصِيرًا / مَصِيرَكُمْ — ism-i mekân)",
+      "context_snippet_arabic": "عَذَابُ جَهَنَّمَ وَبِئْسَ ٱلْمَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Ve Rablerine gerçeğin üzerini örten olanlara yakıcı yıkım yurdu azabı var ve yakıcı yıkım yurdu, dönülüp varılacak ne de kötü yer.",
+      "morphology": {
+        "lemma": "maSiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maSiyr|ROOT:Syr|NOM"
+      },
+      "ayah_text_arabic_full": "وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Rablerine gerçeğin üzerini örten olanlara yakıcı yıkım yurdu azabı var ve yakıcı yıkım yurdu, dönülüp varılacak ne de kötü yer.",
+      "contextual_meaning": "Yanlış tercihlerin sürüklendiği kötü son durak: haksızlık, yalanlama, gizli düşmanlık ve ikiyüzlülüğün nihayetinde vardığı ateş durağı."
+    }
+  ]
+}
