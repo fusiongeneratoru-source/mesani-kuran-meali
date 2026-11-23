@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3C (Son Mayın Temizliği, Hukuk-Ritüel-Kısa Sure Kilitleri ve Açık Mesânî Zırhı — 48 Kök)",
   "target_count": 48,
-  "locked_count": 10,
+  "locked_count": 20,
   "total_tokens_in_package": 714,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 83.37,
+  "current_coverage_pct": 83.62,
   "target_coverage_pct": 84.51,
   "etap_3c_roots": [
     {
@@ -213,8 +213,8 @@
       "frequency": 4,
       "unique_ayahs": 2,
       "rationale": "Mahîd (2:222 pislik değil geçici rahatsızlık [أَذًى] ve 65:4 bekleme süresi hukuku)",
-      "concept_label": "Analiz Bekliyor (maHiyD, yaHiDo)",
-      "is_locked": false,
+      "concept_label": "Hayz ve Mahîz (Doğal Aylık Kanama Süreci — Dışlama Değil Geçici Bedensel Rahatsızlık)",
+      "is_locked": true,
       "sample_ayah": "2:222",
       "top_lemmas": [
         "maHiyD",
@@ -231,8 +231,8 @@
       "frequency": 7,
       "unique_ayahs": 6,
       "rationale": "Teberrüc ve Bürûc (24:60, 33:33 gösterişli sergilenme vs gökteki yüksek kuleler/burçlar tek fizikte)",
-      "concept_label": "Analiz Bekliyor (buruwj, mutabar~ija`t, tabar~ajo, tabar~uj)",
-      "is_locked": false,
+      "concept_label": "Burc ve Teberrüc (Yüksekçe Öne Fırlayıp Göze Çarpmak: Kule, Göksel Burç ve Gösterişçi Sergileme)",
+      "is_locked": true,
       "sample_ayah": "4:78",
       "top_lemmas": [
         "buruwj",
@@ -251,8 +251,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Gadd (24:30-31 erkek-kadın eşit bakış kısması ve 31:19 sesi alçaltıp kibar konuşma)",
-      "concept_label": "Analiz Bekliyor (yaguD~u)",
-      "is_locked": false,
+      "concept_label": "Gadd (Bakışın ve Sesin Taşkınlığını Ölçülü Biçimde Kısıp Dizginlemek)",
+      "is_locked": true,
       "sample_ayah": "24:30",
       "top_lemmas": [
         "yaguD~u"
@@ -268,8 +268,8 @@
       "frequency": 3,
       "unique_ayahs": 3,
       "rationale": "Ceyb ve Cüyûb (24:31 yaka/göğüs açıklığı + 27:12, 28:32 Mûsâ'nın elini koynuna sokması çıpası)",
-      "concept_label": "Analiz Bekliyor (jayob)",
-      "is_locked": false,
+      "concept_label": "Ceyb (Giysinin Yaka ve Göğüs Açıklığı / Koyun)",
+      "is_locked": true,
       "sample_ayah": "24:31",
       "top_lemmas": [
         "jayob"
@@ -285,8 +285,8 @@
       "frequency": 25,
       "unique_ayahs": 24,
       "rationale": "Va'z ve Mev'iza (4:34 ilk aşama öğüt + Kur'an'ın gönülleri yumuşatan uyarısı — 4:34 kilidini tamamlar)",
-      "concept_label": "Analiz Bekliyor (waEaZo, m~awoEiZap, wa`EiZiyn)",
-      "is_locked": false,
+      "concept_label": "Va'z ve Mev'ıza (Vicdanı ve Aklı Uyandırarak İyiliği ve Akıbeti Hatırlatan Bilinçli Öğüt)",
+      "is_locked": true,
       "sample_ayah": "2:66",
       "top_lemmas": [
         "waEaZo",
@@ -304,8 +304,8 @@
       "frequency": 27,
       "unique_ayahs": 24,
       "rationale": "İmsâk (2:229-231 boşanmada iyilikle tutma, 35:2 rahmeti tutan yok — 3 açık Mesânî referansı!)",
-      "concept_label": "Analiz Bekliyor (>amosaka, {sotamosaka, <imosaAk, yumas~iku)",
-      "is_locked": false,
+      "concept_label": "İmsâk ve İstimsâk (Sımsıkı Tutup Alıkoymak, Evlilikte Zarar İçin Tutmama ve Kopmaz Kulpa Sarılma)",
+      "is_locked": true,
       "sample_ayah": "2:229",
       "top_lemmas": [
         ">amosaka",
@@ -324,8 +324,8 @@
       "frequency": 7,
       "unique_ayahs": 5,
       "rationale": "Tesrîh (2:229, 2:231, 33:28, 33:49 boşanmada incitmeden güzellikle salıverme ve 16:6 sürüyü salma)",
-      "concept_label": "Analiz Bekliyor (sar~iHu, saraAH, tasoriyH, tasoraHu)",
-      "is_locked": false,
+      "concept_label": "Serh ve Tesrîh (Darlıktan Genişliğe ve Özgürlüğe İncitmeden, Güzellikle Salıvermek)",
+      "is_locked": true,
       "sample_ayah": "2:229",
       "top_lemmas": [
         "sar~iHu",
@@ -344,8 +344,8 @@
       "frequency": 11,
       "unique_ayahs": 6,
       "rationale": "Radâa (2:233 iki yıl emzirme hakkı ve anne ücreti, 4:23 süt akrabalığı, 65:6 boşanma sonrası emzirme)",
-      "concept_label": "Analiz Bekliyor (>aroDaEato, r~aDaAEap, yuroDiEo, tasotaroDiEu)",
-      "is_locked": false,
+      "concept_label": "Radâa ve İrdâ (Anne Sütüyle Emzirme, Anne Emeğinin Ücreti ve Süt Akrabalığı)",
+      "is_locked": true,
       "sample_ayah": "2:233",
       "top_lemmas": [
         ">aroDaEato",
@@ -364,8 +364,8 @@
       "frequency": 28,
       "unique_ayahs": 25,
       "rationale": "Şikâk ve Şakk (4:35 aile içi hakemli geçimsizlik çözümü, hizip yarılması ve toprağın yarılması)",
-      "concept_label": "Analiz Bekliyor ($iqaAq, $aA^q~u, {n$aq~a, ya$~aq~aqu)",
-      "is_locked": false,
+      "concept_label": "Şakk ve Şikâk (Bütünü Ortadan Yarıp Çatlatmak, Ayrı Cepheye Bölünmek ve Yıpratıcı Zahmet)",
+      "is_locked": true,
       "sample_ayah": "2:74",
       "top_lemmas": [
         "$iqaAq",
@@ -384,8 +384,8 @@
       "frequency": 10,
       "unique_ayahs": 10,
       "rationale": "Kefâlet ve Kifl (3:37 Meryem'in himayesi, 4:85 iyi-kötü aracılık payı, 57:28 çift pay ve Zülkifl)",
-      "concept_label": "Analiz Bekliyor (kifol, yakofulu, kaf~ala, kafiyl)",
-      "is_locked": false,
+      "concept_label": "Kefâlet ve Kifl (Koruyucu Bakım Üstlenmek, Ahitte Güvence Olmak ve Eşdeğer Sorumluluk/Rahmet Payı)",
+      "is_locked": true,
       "sample_ayah": "3:37",
       "top_lemmas": [
         "kifol",

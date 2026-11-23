@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 352 mühürlü kökten (`%83,08`) sonra, meal aşamasına geçmeden önce ceza-aile-ibadet hukuku düğümlerini, kısa sure kilitlerini ve en yüksek açık Mesânî referanslarını kapatan **48 kritik kök** (714 geçiş) mühürlenerek toplam sözlük **400 kilitli köke (`%84,51` kümülatif kapsam)** ulaştırılır.
-> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 10 / 48 Kök (Toplam Mühürlü: 362 Kök | Güncel Kapsam: %83,37)
+> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 20 / 48 Kök (Toplam Mühürlü: 372 Kök | Güncel Kapsam: %83,62)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -17,16 +17,16 @@
 | 8 | Hukuk ve Ceza | 668 | `ع-ق-د` | `A-K-D` | **7** | 7 | 2:235 | Akd ve Ukde (İki Ucu Sıkıca Düğümleyip Bağlamak, Sözleşme Sadakati ve Evlilik Bağı) | ✅ **MÜHÜRLÜ** |
 | 9 | Hukuk ve Ceza | 865 | `س-ح-ت` | `S-H-T` | **4** | 4 | 5:42 | Suht ve İshât (Kökünden Kazıyıp Silip Süpürmek, Adaleti Kemiren Rüşvet ve Haram Kazanç) | ✅ **MÜHÜRLÜ** |
 | 10 | Hukuk ve Ceza | 489 | `ق-ر-ض` | `K-R-D` | **13** | 7 | 2:245 | Kard ve İkrâd (Kenarından Sıyırıp Kesmek ve Kendi Varlığından Pay Ayırıp Güzel Ödünç Sunmak) | ✅ **MÜHÜRLÜ** |
-| 11 | Aile ve Mahremiyet | 843 | `ح-ي-ض` | `H-Y-D` | **4** | 2 | 2:222 | Mahîd (2:222 pislik değil geçici rahatsızlık [أَذًى] ve 65:4 bekleme süresi hukuku) | ⏳ *Bekliyor* |
-| 12 | Aile ve Mahremiyet | 675 | `ب-ر-ج` | `B-R-C` | **7** | 6 | 4:78 | Teberrüc ve Bürûc (24:60, 33:33 gösterişli sergilenme vs gökteki yüksek kuleler/burçlar tek fizikte) | ⏳ *Bekliyor* |
-| 13 | Aile ve Mahremiyet | 919 | `غ-ض-ض` | `G-D-D` | **4** | 4 | 24:30 | Gadd (24:30-31 erkek-kadın eşit bakış kısması ve 31:19 sesi alçaltıp kibar konuşma) | ⏳ *Bekliyor* |
-| 14 | Aile ve Mahremiyet | 1021 | `ج-ي-ب` | `C-Y-B` | **3** | 3 | 24:31 | Ceyb ve Cüyûb (24:31 yaka/göğüs açıklığı + 27:12, 28:32 Mûsâ'nın elini koynuna sokması çıpası) | ⏳ *Bekliyor* |
-| 15 | Aile ve Mahremiyet | 347 | `و-ع-ظ` | `W-A-Z` | **25** | 24 | 2:66 | Va'z ve Mev'iza (4:34 ilk aşama öğüt + Kur'an'ın gönülleri yumuşatan uyarısı — 4:34 kilidini tamamlar) | ⏳ *Bekliyor* |
-| 16 | Aile ve Mahremiyet | 333 | `م-س-ك` | `M-S-K` | **27** | 24 | 2:229 | İmsâk (2:229-231 boşanmada iyilikle tutma, 35:2 rahmeti tutan yok — 3 açık Mesânî referansı!) | ⏳ *Bekliyor* |
-| 17 | Aile ve Mahremiyet | 667 | `س-ر-ح` | `S-R-H` | **7** | 5 | 2:229 | Tesrîh (2:229, 2:231, 33:28, 33:49 boşanmada incitmeden güzellikle salıverme ve 16:6 sürüyü salma) | ⏳ *Bekliyor* |
-| 18 | Aile ve Mahremiyet | 551 | `ر-ض-ع` | `R-D-A` | **11** | 6 | 2:233 | Radâa (2:233 iki yıl emzirme hakkı ve anne ücreti, 4:23 süt akrabalığı, 65:6 boşanma sonrası emzirme) | ⏳ *Bekliyor* |
-| 19 | Aile ve Mahremiyet | 322 | `ش-ق-ق` | `S-K-K` | **28** | 25 | 2:74 | Şikâk ve Şakk (4:35 aile içi hakemli geçimsizlik çözümü, hizip yarılması ve toprağın yarılması) | ⏳ *Bekliyor* |
-| 20 | Aile ve Mahremiyet | 579 | `ك-ف-ل` | `K-F-L` | **10** | 10 | 3:37 | Kefâlet ve Kifl (3:37 Meryem'in himayesi, 4:85 iyi-kötü aracılık payı, 57:28 çift pay ve Zülkifl) | ⏳ *Bekliyor* |
+| 11 | Aile ve Mahremiyet | 843 | `ح-ي-ض` | `H-Y-D` | **4** | 2 | 2:222 | Hayz ve Mahîz (Doğal Aylık Kanama Süreci — Dışlama Değil Geçici Bedensel Rahatsızlık) | ✅ **MÜHÜRLÜ** |
+| 12 | Aile ve Mahremiyet | 675 | `ب-ر-ج` | `B-R-C` | **7** | 6 | 4:78 | Burc ve Teberrüc (Yüksekçe Öne Fırlayıp Göze Çarpmak: Kule, Göksel Burç ve Gösterişçi Sergileme) | ✅ **MÜHÜRLÜ** |
+| 13 | Aile ve Mahremiyet | 919 | `غ-ض-ض` | `G-D-D` | **4** | 4 | 24:30 | Gadd (Bakışın ve Sesin Taşkınlığını Ölçülü Biçimde Kısıp Dizginlemek) | ✅ **MÜHÜRLÜ** |
+| 14 | Aile ve Mahremiyet | 1021 | `ج-ي-ب` | `C-Y-B` | **3** | 3 | 24:31 | Ceyb (Giysinin Yaka ve Göğüs Açıklığı / Koyun) | ✅ **MÜHÜRLÜ** |
+| 15 | Aile ve Mahremiyet | 347 | `و-ع-ظ` | `W-A-Z` | **25** | 24 | 2:66 | Va'z ve Mev'ıza (Vicdanı ve Aklı Uyandırarak İyiliği ve Akıbeti Hatırlatan Bilinçli Öğüt) | ✅ **MÜHÜRLÜ** |
+| 16 | Aile ve Mahremiyet | 333 | `م-س-ك` | `M-S-K` | **27** | 24 | 2:229 | İmsâk ve İstimsâk (Sımsıkı Tutup Alıkoymak, Evlilikte Zarar İçin Tutmama ve Kopmaz Kulpa Sarılma) | ✅ **MÜHÜRLÜ** |
+| 17 | Aile ve Mahremiyet | 667 | `س-ر-ح` | `S-R-H` | **7** | 5 | 2:229 | Serh ve Tesrîh (Darlıktan Genişliğe ve Özgürlüğe İncitmeden, Güzellikle Salıvermek) | ✅ **MÜHÜRLÜ** |
+| 18 | Aile ve Mahremiyet | 551 | `ر-ض-ع` | `R-D-A` | **11** | 6 | 2:233 | Radâa ve İrdâ (Anne Sütüyle Emzirme, Anne Emeğinin Ücreti ve Süt Akrabalığı) | ✅ **MÜHÜRLÜ** |
+| 19 | Aile ve Mahremiyet | 322 | `ش-ق-ق` | `S-K-K` | **28** | 25 | 2:74 | Şakk ve Şikâk (Bütünü Ortadan Yarıp Çatlatmak, Ayrı Cepheye Bölünmek ve Yıpratıcı Zahmet) | ✅ **MÜHÜRLÜ** |
+| 20 | Aile ve Mahremiyet | 579 | `ك-ف-ل` | `K-F-L` | **10** | 10 | 3:37 | Kefâlet ve Kifl (Koruyucu Bakım Üstlenmek, Ahitte Güvence Olmak ve Eşdeğer Sorumluluk/Rahmet Payı) | ✅ **MÜHÜRLÜ** |
 | 21 | İbadet ve Teoloji | 858 | `غ-س-ل` | `G-S-L` | **4** | 4 | 4:43 | Gasl (5:6 abdest yıkama ayeti, 4:43 boy abdesti, 38:42 soğuk yıkanma suyu ve 69:36 gıslîn) | ⏳ *Bekliyor* |
 | 22 | İbadet ve Teoloji | 859 | `م-س-ح` | `M-S-H` | **4** | 3 | 4:43 | Mesh (5:6 başı ve ayakları sıvazlama, 4:43 teyemmüm ve 38:33 Süleymân'ın atlarını sıvazlaması) | ⏳ *Bekliyor* |
 | 23 | İbadet ve Teoloji | 511 | `ر-ه-ب` | `R-H-B` | **12** | 12 | 2:40 | Rahb ve Ruhbâniyye (57:27 sonradan uydurulan ruhbanlık, 9:31 rahipler, 8:60 terör değil caydırıcılık) | ⏳ *Bekliyor* |
