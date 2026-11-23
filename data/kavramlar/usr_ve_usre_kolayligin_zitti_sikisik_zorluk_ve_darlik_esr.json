@@ -1,0 +1,304 @@
+{
+  "root": "ع-س-ر",
+  "root_latin": "A-S-R (Esr)",
+  "concept_name": "Usr ve Usre (Kolaylığın [Yüsr] Zıttı: Sıkışık Zorluk, Ödeme Darlığı ve Her Zorlukla Birlikte Gelen Kolaylık Yasası)",
+  "rank": 521,
+  "total_occurrences": 12,
+  "unique_ayahs_count": 12,
+  "unified_core_mechanism": "Kolaylığın (يُسْر) tam zıttı olarak bir işin, geçimin, ödemenin veya çıkış yolunun sıkışıp çetinleşmesi: geçici yaşam/mali darlığı (عُسْر / عُسْرَة — 2:280, 9:117, 94:5-6), tarafların birbirine güçlük çıkarması (تَعَاسُر — 65:6) ve gerçeği yalanlayanların sürüklendiği çetin hesap çıkmazı (عَسِير / ٱلْعُسْرَىٰ — 74:9, 92:10).",
+  "physical_core": "Düğümün veya geçidin sıkışıp katılaşarak akışa ve harekete geçit vermemesi (الصُّعُوبَةُ وَالشِّدَّةُ وَضِيقُ المَخْرَجِ); engelsiz akış ve kolaylığın (يُسْر) tam zıttı olan sıkışık zorluk ve darlık (عُسْر / عُسْرَة).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ع-س-ر` kökünün tek sahih aslı zorluk, çetinlik ve sıkışıklıktır (`أصل صحيح واحد يدل على صعوبة وشدة`). `العُسْر` kolaylığın (`اليُسْر`) tam zıttıdır; henüz uysallaştırılmamış sert deveye `عَسِير`, doğumda veya borçta sıkışıp zorlanmaya `عَسُرَ / أَعْسَرَ` denir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `العُسْر` ve `العُسْرَة` darlık, güçlük ve eldeki imkânın kıtlığıdır (`ضيق الحال وقلة ذات اليد`); `تَعَاسَرَ القَوْمُ` (`65:6`) ise tarafların birbirine güçlük çıkarıp uzlaşamamasıdır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `العُسْر` işin sıkışıp zorlaşması ve `اليُسْر` kavramının tam karşıtıdır; `94:5-6`'da `ٱلْعُسْر` marife (belirli/tek), `يُسْرًا` ise nekre (iki ayrı kolaylık) olarak gelerek tek bir zorluğun iki kolaylığa asla galip gelemeyeceğini bildirir.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris ve Râgıb'ın tespit ettiği 'akışın sıkışıp zorlaşması (`عُسْر` ↔ `يُسْر`)' çekirdeği, Kur'an'ın hem hukuk/ekonomi hem de psikoloji yasasını tek eksende kilitler: İlahi sistem asla insanı sıkıştırıp bunaltmak (`2:185` `وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ`, `18:73`) istemez; borçta darlığa düşene (`ذُو عُسْرَةٍ` `2:280`) kolaylığa çıkana dek süre tanınır, boşanmada taraflar birbirine zorluk çıkarmaz (`تَعَاسَرْتُمْ` `65:6`) ve her darlıkla (`ٱلْعُسْر`) birlikte mutlaka çözüm ve kolaylık (`يُسْرًا` `94:5-6`, `65:7`) vardır."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami sibilant ses yasası (`Arapça س [s] = İbranice שׁ [š]`): İbranice/Aramice `ע-צ-ר` (`ʿ-ṣ-r` Strong H6113: 'tutmak, sıkıştırmak, kısıtlamak, kapatmak') ile yakın ses/anlam ailesindedir; Klasik Arapça ve Sebece içinde `ʿ-s-r` ('zorluk, sıkışıklık, darlık') olarak tam yerleşiktir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ي-س-ر [يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ / فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ ... فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ / إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا] (Engellerin Kalkıp Kolaylaşması [ٱلْيُسْر / ٱلْيُسْرَىٰ / مَيْسَرَة] ↔ Sıkışık Zorluk ve Çetin Darlık [ٱلْعُسْر / ٱلْعُسْرَىٰ / عُسْرَة]: 2:185, 2:280, 65:7, 92:7-10, 94:5-6)",
+      "ر-ض-ع [وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ] (Anne-Babanın Uzlaşmayıp Birbirine Zorluk Çıkarması [تَعَاسَرْتُمْ] ↔ Çocuğun Beslenme Hakkının Başka Bir Emziriciyle Çözüme Kavuşturulması [فَسَتُرْضِعُ]: 65:6)",
+      "و-س-ع [لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ... سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا] (İmkân ve Kapasite Genişliği [سَعَة] ↔ Mali Darlık ve Sıkışıklık [عُسْر]: 65:7)"
+    ],
+    "key_ayahs": [
+      "2:185",
+      "2:280",
+      "9:117",
+      "18:73",
+      "65:6-7",
+      "74:9",
+      "92:10",
+      "94:5-6"
+    ],
+    "reverse_stress_test": "Kur'an'da `ع-س-ر` kökü 12 geçişinin 8'inde doğrudan aynı ayet veya ardışık ayet içinde `ي-س-ر` kökünün (`2:185`, `2:280`, `65:7`, `74:9-10`, `92:7-10`, `94:5-6`) tam Mesânî zıttı olarak kilitlenmiştir! `ي-س-ر` kökünün 'düğümün çözülüp akışın ve çözümün kolaylaşması' çekirdeği tam tersine çevrildiğinde; `ع-س-ر` kökünün 'imkânın, ilişkinin veya çıkış yolunun sıkışıp zorlaşması' çekirdeği %100 sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ح-ر-ج (22:78 مَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ vs 2:185 وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ — حَرَج çıkışsız sıkışık çalılık gibi nefes aldırmayan boğucu darlık iken, عُسْر bir işin, ödemenin veya sürecin yürütülmesindeki güçlük ve çetinliktir)",
+      "ض-ي-ق (65:6-7 وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ... وَإِن تَعَاسَرْتُمْ ... بَعْدَ عُسْرٍ يُسْرًا — ضِيق alanın ve şartların daraltılması iken, عُسْر/تَعَاسُر mali veya uzlaşımsal zorluktur)"
+    ],
+    "mechanical_difference": "`94:5-6`'da `فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا` sentaksında `ٱلْعُسْرِ` iki kez marife (`ٱلْـ` takısıyla aynı tekil zorluğa işaret ederek), `يُسْرًا` ise iki kez nekre (her seferinde yeni ve bağımsız bir kolaylık olarak) gelir; además `بَعْدَ` (sonra) değil `مَعَ` (birlikte) edatı kullanılarak çözüm ve kolaylık tohumunun bizzat zorluğun içinde/yanında bulunduğu bildirilir."
+  },
+  "anchor_ayahs": [
+    "2:185",
+    "2:280",
+    "9:117",
+    "18:73",
+    "65:6",
+    "65:7",
+    "92:10",
+    "94:5-6"
+  ],
+  "grammar_and_branch_rules": "Mastar `ٱلْعُسْر / عُسْرًا` (`2:185`, `18:73`, `65:7`, `94:5-6`) genel güçlük ve darlığı; `عُسْرَة` (`2:280`, `9:117`) somut mali/askeri kıtlık ve ödeme darlığı durumunu; sıfat `عَسِير / عَسِر` (`25:26`, `54:8`, `74:9`) ve ism-i tafdîl `ٱلْعُسْرَىٰ` (`92:10`) hakikate sırt dönenlerin karşılaşacağı çetin çıkmazı; Bab VI `تَعَاسَرْتُمْ` (`65:6`) ise karşılıklı zorluk çıkarmayı ifade eder.",
+  "derivatives": {
+    "ٱلْعُسْر / عُسْرًا": "Kolaylığın (يُسْر) zıttı olan sıkışık zorluk ve güçlük (2:185, 18:73, 65:7, 94:5-6)",
+    "عُسْرَةٍ / ٱلْعُسْرَةِ": "Ödeme darlığı ve ağır zorluk/kıtlık vakti (2:280, 9:117)",
+    "عَسِيرٌ / عَسِرٌ": "Çıkışı olmayan çok çetin ve zorlu (25:26, 54:8, 74:9)",
+    "لِلْعُسْرَىٰ": "En zorlu ve sıkışık çıkmaz (92:10)",
+    "تَعَاسَرْتُمْ": "Karşılıklı güçlük çıkarıp uzlaşamamak (65:6)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 185,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:185",
+      "word_position": 35,
+      "target_word_uthmani": "ٱلْعُسْرَ",
+      "target_word_rasm": "ٱلعسر",
+      "target_word_literal_irab": "Kolaylığın (يُسْر) zıttı olan sıkışık zorluk ve darlık; ilahi sistemin zorluk istememesi (2:185, 18:73) ve her zorlukla birlikte kolaylık bulunması (65:7, 94:5-6) (ٱلْعُسْرَ / عُسْرًا / عُسْرٍ / ٱلْعُسْرِ — mastar/isim)",
+      "context_snippet_arabic": "وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ramazan ayı, bir aydır ki insanlara doğruyu bildiren, doğruluğa ait apaçık delillerden ibaret olan, hakla batılı ayırt eden Kur'an, bu ayda indirildi. Sizden...",
+      "morphology": {
+        "lemma": "Eusor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eusor|ROOT:Esr|M|ACC"
+      },
+      "ayah_text_arabic_full": "شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ramazan ayı, bir aydır ki insanlara doğruyu bildiren, doğruluğa ait apaçık delillerden ibaret olan, hakla batılı ayırt eden Kur'an, bu ayda indirildi. Sizden kim, bu aya erişirse öz denetim ve sakınmasını tutsun. Hasta olan ve yolcu bulunan, hastalığında, yolculuğunda öz denetim ve sakınmasını yer, sonra yediği günler kadar tutar. Allah sizin için kolaylık diler, güçlük değil. Bu da sayıyı tamamlamanız, Allah'ın size doğru yolu göstermesine karşılık onu ululamanız içindir, böylece de ona nimetin değerini bilip açığa vurmuş olabilirsiniz.",
+      "contextual_meaning": "Yüsr ↔ Usr (يُسْر ↔ عُسْر) hukuk ve yaşam yasası: Allah'ın insan için zorluk istememesi, ödeme darlığı çekene süre tanınması ve her zorlukla birlikte mutlaka kolaylık bulunması."
+    },
+    {
+      "surah": 2,
+      "ayah": 280,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:280",
+      "word_position": 4,
+      "target_word_uthmani": "عُسْرَةٍ",
+      "target_word_rasm": "عسرة",
+      "target_word_literal_irab": "Borçlunun içinde bulunduğu ödeme darlığı (2:280) ve ağır kıtlık/zorluk saati (9:117) (عُسْرَةٍ / ٱلْعُسْرَةِ — isim)",
+      "context_snippet_arabic": "وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Borçlu dardaysa genişleyinceye dek mühlet verin ona. Borcunuzu sadaka olarak bağışlarsanız bu, bilseniz, sizin için daha hayırlıdır.",
+      "morphology": {
+        "lemma": "Eusorap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eusorap|ROOT:Esr|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ وَأَن تَصَدَّقُوا۟ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Borçlu dardaysa genişleyinceye dek mühlet verin ona. Borcunuzu sadaka olarak bağışlarsanız bu, bilseniz, sizin için daha hayırlıdır.",
+      "contextual_meaning": "Yüsr ↔ Usr (يُسْر ↔ عُسْر) hukuk ve yaşam yasası: Allah'ın insan için zorluk istememesi, ödeme darlığı çekene süre tanınması ve her zorlukla birlikte mutlaka kolaylık bulunması."
+    },
+    {
+      "surah": 9,
+      "ayah": 117,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:117",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْعُسْرَةِ",
+      "target_word_rasm": "ٱلعسرة",
+      "target_word_literal_irab": "Borçlunun içinde bulunduğu ödeme darlığı (2:280) ve ağır kıtlık/zorluk saati (9:117) (عُسْرَةٍ / ٱلْعُسْرَةِ — isim)",
+      "context_snippet_arabic": "ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا",
+      "context_snippet_turkish_tabula_rasa": "Allah, elçiyi ve içlerinden bir bölüğünün gönlü nerdeyse güven bağı dönecekken güçlük anında elçiye uyan muhacirlerle ensarı tövbeye muvaffak etti ve onların...",
+      "morphology": {
+        "lemma": "Eusorap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eusorap|ROOT:Esr|F|GEN"
+      },
+      "ayah_text_arabic_full": "لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ وَٱلْمُهَٰجِرِينَ وَٱلْأَنصَارِ ٱلَّذِينَ ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ إِنَّهُۥ بِهِمْ رَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, elçiyi ve içlerinden bir bölüğünün gönlü nerdeyse güven bağı dönecekken güçlük anında elçiye uyan muhacirlerle ensarı tövbeye muvaffak etti ve onların tövbelerini kabul eyledi. Şüphe yok ki o, onları fazlasıyle esirger, rahimdir.",
+      "contextual_meaning": "Yüsr ↔ Usr (يُسْر ↔ عُسْر) hukuk ve yaşam yasası: Allah'ın insan için zorluk istememesi, ödeme darlığı çekene süre tanınması ve her zorlukla birlikte mutlaka kolaylık bulunması."
+    },
+    {
+      "surah": 18,
+      "ayah": 73,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:73",
+      "word_position": 10,
+      "target_word_uthmani": "عُسْرًا",
+      "target_word_rasm": "عسرا",
+      "target_word_literal_irab": "Kolaylığın (يُسْر) zıttı olan sıkışık zorluk ve darlık; ilahi sistemin zorluk istememesi (2:185, 18:73) ve her zorlukla birlikte kolaylık bulunması (65:7, 94:5-6) (ٱلْعُسْرَ / عُسْرًا / عُسْرٍ / ٱلْعُسْرِ — mastar/isim)",
+      "context_snippet_arabic": "تُرْهِقْنِى مِنْ أَمْرِى عُسْرًا",
+      "context_snippet_turkish_tabula_rasa": "Musa, unuttum dedi, bu yüzden azarlama beni ve şu arkadaşlığımızda ağır bir yük yükleme bana.",
+      "morphology": {
+        "lemma": "Eusor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eusor|ROOT:Esr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, unuttum dedi, bu yüzden azarlama beni ve şu arkadaşlığımızda ağır bir yük yükleme bana.",
+      "contextual_meaning": "Yüsr ↔ Usr (يُسْر ↔ عُسْر) hukuk ve yaşam yasası: Allah'ın insan için zorluk istememesi, ödeme darlığı çekene süre tanınması ve her zorlukla birlikte mutlaka kolaylık bulunması."
+    },
+    {
+      "surah": 25,
+      "ayah": 26,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:26",
+      "word_position": 9,
+      "target_word_uthmani": "عَسِيرًا",
+      "target_word_rasm": "عسيرا",
+      "target_word_literal_irab": "Gerçeği örtenler için çıkış yolu tıkanmış çok çetin ve zorlu hesap günü (عَسِيرًا / عَسِيرٌ — sıfat: 25:26, 74:9)",
+      "context_snippet_arabic": "يَوْمًا عَلَى ٱلْكَٰفِرِينَ عَسِيرًا",
+      "context_snippet_turkish_tabula_rasa": "O gün, saltanat ve tasarruf, gerçekten de rahmanındır ve gerçeğin üzerini örtenlere, çok güç bir gündür o.",
+      "morphology": {
+        "lemma": "Easiyr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Easiyr|ROOT:Esr|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ لِلرَّحْمَٰنِ وَكَانَ يَوْمًا عَلَى ٱلْكَٰفِرِينَ عَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, saltanat ve tasarruf, gerçekten de rahmanındır ve gerçeğin üzerini örtenlere, çok güç bir gündür o.",
+      "contextual_meaning": "Cimrilik edip hakikati yalanlayanların kendi elleriyle sürüklendikleri çetin hesap günü (عَسِير) ve en zorlu çıkmaz (ٱلْعُسْرَىٰ)."
+    },
+    {
+      "surah": 54,
+      "ayah": 8,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:8",
+      "word_position": 8,
+      "target_word_uthmani": "عَسِرٌ",
+      "target_word_rasm": "عسر",
+      "target_word_literal_irab": "Diriliş çağrısı karşısında 'bu çok çetin ve zorlu bir gündür' yakınması (يَوْمٌ عَسِرٌ — sıfat: 54:8)",
+      "context_snippet_arabic": "ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ",
+      "context_snippet_turkish_tabula_rasa": "Yönelirler çağırana; gerçeğin üzerini örtenler, bugün derler, ne de zorlu gün.",
+      "morphology": {
+        "lemma": "Easir",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Easir|ROOT:Esr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مُّهْطِعِينَ إِلَى ٱلدَّاعِ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yönelirler çağırana; gerçeğin üzerini örtenler, bugün derler, ne de zorlu gün.",
+      "contextual_meaning": "Cimrilik edip hakikati yalanlayanların kendi elleriyle sürüklendikleri çetin hesap günü (عَسِير) ve en zorlu çıkmaz (ٱلْعُسْرَىٰ)."
+    },
+    {
+      "surah": 65,
+      "ayah": 6,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:6",
+      "word_position": 29,
+      "target_word_uthmani": "تَعَاسَرْتُمْ",
+      "target_word_rasm": "تعاسرتم",
+      "target_word_literal_irab": "Boşanmış anne-babanın çocuğun emzirilmesi şartlarında birbirine güçlük çıkarıp uzlaşamaması (وَإِن تَعَاسَرْتُمْ — Bab VI fiil: 65:6)",
+      "context_snippet_arabic": "بَيْنَكُم بِمَعْرُوفٍ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Onları, gücünüz yeterse oturduğunuz yerin bir kısmında oturtun ve onları sıkıştırarak zararlandırmayın ve gebeyseler doğuruncaya dek doyurun onları ve...",
+      "morphology": {
+        "lemma": "taEaAsaro",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:taEaAsaro|ROOT:Esr|2MP"
+      },
+      "ayah_text_arabic_full": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ وَإِن كُنَّ أُو۟لَٰتِ حَمْلٍ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları, gücünüz yeterse oturduğunuz yerin bir kısmında oturtun ve onları sıkıştırarak zararlandırmayın ve gebeyseler doğuruncaya dek doyurun onları ve çocuklarınızı emziriyorlarsa da artık ücretlerini verin ve karıkoca; güzelce danışıp görüşerek yapın bu işleri ve bir güçlük çıkarsa çocuğu başka bir kadın emzirir artık.",
+      "contextual_meaning": "Yüsr ↔ Usr (يُسْر ↔ عُسْر) hukuk ve yaşam yasası: Allah'ın insan için zorluk istememesi, ödeme darlığı çekene süre tanınması ve her zorlukla birlikte mutlaka kolaylık bulunması."
+    },
+    {
+      "surah": 65,
+      "ayah": 7,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:7",
+      "word_position": 24,
+      "target_word_uthmani": "عُسْرٍ",
+      "target_word_rasm": "عسر",
+      "target_word_literal_irab": "Kolaylığın (يُسْر) zıttı olan sıkışık zorluk ve darlık; ilahi sistemin zorluk istememesi (2:185, 18:73) ve her zorlukla birlikte kolaylık bulunması (65:7, 94:5-6) (ٱلْعُسْرَ / عُسْرًا / عُسْرٍ / ٱلْعُسْرِ — mastar/isim)",
+      "context_snippet_arabic": "سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "context_snippet_turkish_tabula_rasa": "Vaktihali yerinde ve eli geniş olan, vaktinehaline göre nafaka versin ve rızkı dar olana gelince, Allah, kendisine ne verirse onun bir kısmını nafaka olarak...",
+      "morphology": {
+        "lemma": "Eusor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eusor|ROOT:Esr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Vaktihali yerinde ve eli geniş olan, vaktinehaline göre nafaka versin ve rızkı dar olana gelince, Allah, kendisine ne verirse onun bir kısmını nafaka olarak versin; Allah, hiç kimseye, kendi verdiği miktardan daha fazla bir şey teklif etmez; Allah, güçlükten sonra bir kolaylık verecektir.",
+      "contextual_meaning": "Yüsr ↔ Usr (يُسْر ↔ عُسْر) hukuk ve yaşam yasası: Allah'ın insan için zorluk istememesi, ödeme darlığı çekene süre tanınması ve her zorlukla birlikte mutlaka kolaylık bulunması."
+    },
+    {
+      "surah": 74,
+      "ayah": 9,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:9",
+      "word_position": 4,
+      "target_word_uthmani": "عَسِيرٌ",
+      "target_word_rasm": "عسير",
+      "target_word_literal_irab": "Gerçeği örtenler için çıkış yolu tıkanmış çok çetin ve zorlu hesap günü (عَسِيرًا / عَسِيرٌ — sıfat: 25:26, 74:9)",
+      "context_snippet_arabic": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Artık o gündür pek güç bir gün.",
+      "morphology": {
+        "lemma": "Easiyr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Easiyr|ROOT:Esr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık o gündür pek güç bir gün.",
+      "contextual_meaning": "Cimrilik edip hakikati yalanlayanların kendi elleriyle sürüklendikleri çetin hesap günü (عَسِير) ve en zorlu çıkmaz (ٱلْعُسْرَىٰ)."
+    },
+    {
+      "surah": 92,
+      "ayah": 10,
+      "surah_name": "Leyl",
+      "ayah_ref": "92:10",
+      "word_position": 2,
+      "target_word_uthmani": "لِلْعُسْرَىٰ",
+      "target_word_rasm": "للعسرى",
+      "target_word_literal_irab": "Cimrilik edip güzelliği yalanlayanın sürükleneceği en sıkışık ve zorlu çıkmaz (فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ — ism-i tafdîl: 92:10)",
+      "context_snippet_arabic": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Artık ona da en güç yolu kolaylaştırırız.",
+      "morphology": {
+        "lemma": "EusoraY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EusoraY`|ROOT:Esr|F|GEN"
+      },
+      "ayah_text_arabic_full": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık ona da en güç yolu kolaylaştırırız.",
+      "contextual_meaning": "Cimrilik edip hakikati yalanlayanların kendi elleriyle sürüklendikleri çetin hesap günü (عَسِير) ve en zorlu çıkmaz (ٱلْعُسْرَىٰ)."
+    },
+    {
+      "surah": 94,
+      "ayah": 5,
+      "surah_name": "İnşirâh",
+      "ayah_ref": "94:5",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْعُسْرِ",
+      "target_word_rasm": "ٱلعسر",
+      "target_word_literal_irab": "Kolaylığın (يُسْر) zıttı olan sıkışık zorluk ve darlık; ilahi sistemin zorluk istememesi (2:185, 18:73) ve her zorlukla birlikte kolaylık bulunması (65:7, 94:5-6) (ٱلْعُسْرَ / عُسْرًا / عُسْرٍ / ٱلْعُسْرِ — mastar/isim)",
+      "context_snippet_arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "context_snippet_turkish_tabula_rasa": "Artık şüphe yok ki her güçlükle beraber bir de kolaylık var.",
+      "morphology": {
+        "lemma": "Eusor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eusor|ROOT:Esr|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Artık şüphe yok ki her güçlükle beraber bir de kolaylık var.",
+      "contextual_meaning": "Yüsr ↔ Usr (يُسْر ↔ عُسْر) hukuk ve yaşam yasası: Allah'ın insan için zorluk istememesi, ödeme darlığı çekene süre tanınması ve her zorlukla birlikte mutlaka kolaylık bulunması."
+    },
+    {
+      "surah": 94,
+      "ayah": 6,
+      "surah_name": "İnşirâh",
+      "ayah_ref": "94:6",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْعُسْرِ",
+      "target_word_rasm": "ٱلعسر",
+      "target_word_literal_irab": "Kolaylığın (يُسْر) zıttı olan sıkışık zorluk ve darlık; ilahi sistemin zorluk istememesi (2:185, 18:73) ve her zorlukla birlikte kolaylık bulunması (65:7, 94:5-6) (ٱلْعُسْرَ / عُسْرًا / عُسْرٍ / ٱلْعُسْرِ — mastar/isim)",
+      "context_snippet_arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki her güçlükle beraber bir de kolaylık var.",
+      "morphology": {
+        "lemma": "Eusor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Eusor|ROOT:Esr|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki her güçlükle beraber bir de kolaylık var.",
+      "contextual_meaning": "Yüsr ↔ Usr (يُسْر ↔ عُسْر) hukuk ve yaşam yasası: Allah'ın insan için zorluk istememesi, ödeme darlığı çekene süre tanınması ve her zorlukla birlikte mutlaka kolaylık bulunması."
+    }
+  ]
+}

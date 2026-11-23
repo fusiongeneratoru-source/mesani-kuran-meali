@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3D (Fâtiha & Kısa Sure Tam Kilidi, Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar — 50 Kök)",
   "target_count": 50,
-  "locked_count": 5,
+  "locked_count": 10,
   "total_tokens_in_package": 1205,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 84.68,
+  "current_coverage_pct": 84.78,
   "target_coverage_pct": 86.92,
   "etap_3d_roots": [
     {
@@ -114,8 +114,8 @@
       "frequency": 7,
       "unique_ayahs": 6,
       "rationale": "Alak, Alaka ve Muallaka (96:2 Alak suresi tutunan/asılı embriyo ve 4:129 askıda bırakılan eş)",
-      "concept_label": "Analiz Bekliyor (Ealaqap, muEal~aqap, Ealaq)",
-      "is_locked": false,
+      "concept_label": "Alak, Alaka ve Muallaka (Dayanağa Tutunup Asılı Kalan Embriyo Aşaması ve Eşleri Askıda Bırakmama Yasası)",
+      "is_locked": true,
       "sample_ayah": "4:129",
       "top_lemmas": [
         "Ealaqap",
@@ -133,8 +133,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Kalem ve Aklâm (96:4 Alak suresi, 68:1 Kalem suresi ve 31:27 yontulmuş kayıt/yazı kalemi)",
-      "concept_label": "Analiz Bekliyor (qalam)",
-      "is_locked": false,
+      "concept_label": "Kalem ve Aklâm (Ucu Yontulmuş Yazı Kalemi, Kalıcı Bilgi Kaydı ve İşaretli Kura Çubukları)",
+      "is_locked": true,
       "sample_ayah": "3:44",
       "top_lemmas": [
         "qalam"
@@ -150,8 +150,8 @@
       "frequency": 12,
       "unique_ayahs": 12,
       "rationale": "Usr ve Usre (94:5-6 İnşirâh suresi, 2:185, 65:7 sıkışık zorluk — ي-س-ر [Yüsr] kökünün doğrudan Mesânî zıttı!)",
-      "concept_label": "Analiz Bekliyor (Eusor, Eusorap, Easiyr, Easir)",
-      "is_locked": false,
+      "concept_label": "Usr ve Usre (Kolaylığın [Yüsr] Zıttı: Sıkışık Zorluk, Ödeme Darlığı ve Her Zorlukla Birlikte Gelen Kolaylık Yasası)",
+      "is_locked": true,
       "sample_ayah": "2:185",
       "top_lemmas": [
         "Eusor",
@@ -170,8 +170,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Şerh-i Sadr (94:1 İnşirâh, 6:125, 20:25, 39:22 göğsü açıp ferahlatmak — ض-ي-ق ve ح-ر-ج Mesânî zıttı!)",
-      "concept_label": "Analiz Bekliyor ($araHa)",
-      "is_locked": false,
+      "concept_label": "Şerh ve İnşirâh (Göğsü/İç Bilinç Merkezini Boğucu Darlıktan Kurtarıp Işığa, Barışa ve Özgüvene Açıp Genişletmek)",
+      "is_locked": true,
       "sample_ayah": "6:125",
       "top_lemmas": [
         "$araHa"
@@ -187,8 +187,8 @@
       "frequency": 22,
       "unique_ayahs": 19,
       "rationale": "Îlâf, Te'lîf ve Elf (106:1-2 Kureyş suresi güvenlik-uzlaşı bağı, 3:103 kalpleri kaynaştırma ve bin sayısı)",
-      "concept_label": "Analiz Bekliyor (>alof, >al~afa, <ila`f, mu&al~afap)",
-      "is_locked": false,
+      "concept_label": "Îlâf, Te'lîf ve Elf (Dağınık Parçaları ve Düşman Kalpleri Birbirine Isındırıp Kaynaştırmak, Güvenli Uzlaşı ve Bin Sayısı)",
+      "is_locked": true,
       "sample_ayah": "2:96",
       "top_lemmas": [
         ">alof",

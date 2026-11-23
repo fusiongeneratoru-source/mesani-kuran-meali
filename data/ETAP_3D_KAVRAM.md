@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 400 mühürlü kökten (`%84,51`) sonra, meal aşamasına geçmeden önce Fâtiha suresinin tamamını, kısa surelerin (93-114) kalan çekirdek düğümlerini, 3+ açık Mesânî referanslarını ve en yüksek frekanslı mühürsüz kavramları kapatan **50 kritik kök** (1205 geçiş) mühürlenerek toplam sözlük **450 kilitli köke (`%86,92` kümülatif kapsam)** ulaştırılır.
-> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 5 / 50 Kök (Toplam Mühürlü: 405 Kök | Güncel Kapsam: %84,68)
+> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 410 Kök | Güncel Kapsam: %84,78)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -12,11 +12,11 @@
 | 3 | Fâtiha ve Kısa Sure Kilidi | 435 | `ع-و-ذ` | `A-W-Z` | **17** | 17 | 2:67 | İstiâze ve Maâz (Yıkıcı Tehlike, Ahlaki Ayartma ve Saptırıcı Dürtüye Karşı Sağlam Kaleye Sığınmak) | ✅ **MÜHÜRLÜ** |
 | 4 | Fâtiha ve Kısa Sure Kilidi | 297 | `ش-ر-ر` | `S-R-R` | **31** | 30 | 2:216 | Şerr ve Şerer (Yapıcı İyiliğin [Hayr] Zıttı: Kıvılcım Gibi Yayılıp Tahribat Saçan Zarar ve Kötülük) | ✅ **MÜHÜRLÜ** |
 | 5 | Fâtiha ve Kısa Sure Kilidi | 754 | `ح-س-د` | `H-S-D` | **5** | 4 | 2:109 | Hased ve Hâsid (Kabuğu Soyup Kurutmak Gibi Başkasındaki İlahi Lütfu Kemiren Yıkıcı Kıskançlık) | ✅ **MÜHÜRLÜ** |
-| 6 | Fâtiha ve Kısa Sure Kilidi | 677 | `ع-ل-ق` | `A-L-K` | **7** | 6 | 4:129 | Alak, Alaka ve Muallaka (96:2 Alak suresi tutunan/asılı embriyo ve 4:129 askıda bırakılan eş) | ⏳ *Bekliyor* |
-| 7 | Fâtiha ve Kısa Sure Kilidi | 848 | `ق-ل-م` | `K-L-M` | **4** | 4 | 3:44 | Kalem ve Aklâm (96:4 Alak suresi, 68:1 Kalem suresi ve 31:27 yontulmuş kayıt/yazı kalemi) | ⏳ *Bekliyor* |
-| 8 | Fâtiha ve Kısa Sure Kilidi | 521 | `ع-س-ر` | `A-S-R` | **12** | 12 | 2:185 | Usr ve Usre (94:5-6 İnşirâh suresi, 2:185, 65:7 sıkışık zorluk — ي-س-ر [Yüsr] kökünün doğrudan Mesânî zıttı!) | ⏳ *Bekliyor* |
-| 9 | Fâtiha ve Kısa Sure Kilidi | 797 | `ش-ر-ح` | `S-R-H` | **5** | 5 | 6:125 | Şerh-i Sadr (94:1 İnşirâh, 6:125, 20:25, 39:22 göğsü açıp ferahlatmak — ض-ي-ق ve ح-ر-ج Mesânî zıttı!) | ⏳ *Bekliyor* |
-| 10 | Fâtiha ve Kısa Sure Kilidi | 380 | `أ-ل-ف` | `E-L-F` | **22** | 19 | 2:96 | Îlâf, Te'lîf ve Elf (106:1-2 Kureyş suresi güvenlik-uzlaşı bağı, 3:103 kalpleri kaynaştırma ve bin sayısı) | ⏳ *Bekliyor* |
+| 6 | Fâtiha ve Kısa Sure Kilidi | 677 | `ع-ل-ق` | `A-L-K` | **7** | 6 | 4:129 | Alak, Alaka ve Muallaka (Dayanağa Tutunup Asılı Kalan Embriyo Aşaması ve Eşleri Askıda Bırakmama Yasası) | ✅ **MÜHÜRLÜ** |
+| 7 | Fâtiha ve Kısa Sure Kilidi | 848 | `ق-ل-م` | `K-L-M` | **4** | 4 | 3:44 | Kalem ve Aklâm (Ucu Yontulmuş Yazı Kalemi, Kalıcı Bilgi Kaydı ve İşaretli Kura Çubukları) | ✅ **MÜHÜRLÜ** |
+| 8 | Fâtiha ve Kısa Sure Kilidi | 521 | `ع-س-ر` | `A-S-R` | **12** | 12 | 2:185 | Usr ve Usre (Kolaylığın [Yüsr] Zıttı: Sıkışık Zorluk, Ödeme Darlığı ve Her Zorlukla Birlikte Gelen Kolaylık Yasası) | ✅ **MÜHÜRLÜ** |
+| 9 | Fâtiha ve Kısa Sure Kilidi | 797 | `ش-ر-ح` | `S-R-H` | **5** | 5 | 6:125 | Şerh ve İnşirâh (Göğsü/İç Bilinç Merkezini Boğucu Darlıktan Kurtarıp Işığa, Barışa ve Özgüvene Açıp Genişletmek) | ✅ **MÜHÜRLÜ** |
+| 10 | Fâtiha ve Kısa Sure Kilidi | 380 | `أ-ل-ف` | `E-L-F` | **22** | 19 | 2:96 | Îlâf, Te'lîf ve Elf (Dağınık Parçaları ve Düşman Kalpleri Birbirine Isındırıp Kaynaştırmak, Güvenli Uzlaşı ve Bin Sayısı) | ✅ **MÜHÜRLÜ** |
 | 11 | Kısa Sure ve Kozmik Denge | 342 | `و-ض-ع` | `W-D-A` | **26** | 24 | 3:36 | Vad' ve Mevzı' (94:2 İnşirâh yükü indirme, 55:7 mîzânı koyma, 3:96 ilk kurulan ev ve 4:46 sözü bağlamından kaydırma) | ⏳ *Bekliyor* |
 | 12 | Kısa Sure ve Kozmik Denge | 309 | `ر-ف-ع` | `R-F-A` | **29** | 29 | 2:63 | Ref' ve Merfû' (94:4 İnşirâh, 55:7 göğü yükseltme, 2:127 temelleri yükseltme — و-ض-ع ve خ-ف-ض zıttı, 2 açık Mesânî ref!) | ⏳ *Bekliyor* |
 | 13 | Kısa Sure ve Kozmik Denge | 582 | `س-ف-ل` | `S-F-L` | **10** | 9 | 4:145 | Esfel-i Sâfilîn ve Süflâ (95:5 Tîn suresi kilidi, 4:145, 9:40 en alt tabaka — ع-ل-و zıttı, 2 açık Mesânî ref!) | ⏳ *Bekliyor* |
