@@ -1,0 +1,437 @@
+{
+  "root": "ث-ب-ت",
+  "root_latin": "TH-B-T (vbt)",
+  "concept_name": "S̱ebât, Tes̱bît ve S̱âbit (Kök Salıp Sarsılmadan Sağlam Durmak, Ayakları ve Kalbi Pekiştirmek)",
+  "rank": 426,
+  "total_occurrences": 18,
+  "unique_ayahs_count": 17,
+  "unified_core_mechanism": "Kökün toprağa veya ayağın zemine kaymadan, sarsılmadan sağlamca yerleşip durması (الثُّبُوتُ) ve sarsıntı karşısında ayakları, kalbi ve hükmü sağlamlaştırıp pekiştirmek (التَّثْبِيتُ وَالإِثْبَاتُ): kökü sağlam ağaç ve sağlam söz (14:24, 14:27), ayağın sağlam bastıktan sonra kaymaması (16:94), direnişte ayakların sabitlenmesi (2:250, 8:45, 47:7), vahyin kalbi pekiştirmesi (11:120, 16:102, 17:74, 25:32) ve hükmün sabit kılınması (13:39).",
+  "physical_core": "Bir ağacın kökünün toprağa veya ayağın zemine kaymadan, sarsılmadan sağlamca yerleşip durması (دَوَامُ الشَّيْءِ وَاستِقْرَارُهُ فِي مَوْضِعِهِ): kökü toprağa sağlamca yerleşmiş güzel ağaç (أَصْلُهَا ثَابِتٌ — 14:24), ayağın sağlam bastıktan sonra kaymaması (16:94), ayakların sabitlenmesi (ثَبِّتْ أَقْدَامَنَا — 2:250, 47:7) ve kalbin vahiyle pekiştirilmesi (11:120, 25:32).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ث-ب-ت` kökünün tamamı tek bir sahih asla dayanır; o da bir şeyin sarsılmadan yerinde durması ve devamlılığıdır (`كلمة واحدة وهي دوام الشيء، ثبت ثباتا وثبوتا`).",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `الثَّبَات` ve `الثُّبُوت` kayıp sarsılmanın (`الزَّلَل` ve `الزَّوَال`) tam karşıtıdır; `8:30`'daki `لِيُثْبِتُوكَ` ise birini bağlayarak veya yaralayarak yerinden kımıldayamaz hale getirmektir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الثَّبَات` bir şeyin bulunduğu yerde kökleşip sağlam durmasıdır (`14:24`, `16:94`); Bab II `تَثْبِيت` ise hem zorluk anında ayakların (`2:250`, `3:147`, `8:11`, `47:7`) hem de vahiy ve infakla kalbin/benliğin (`2:265`, `11:120`, `25:32`) sağlamlaştırılmasıdır.",
+    "arbitration_decision": "Hakem Masası Kararı: `14:24-27`'deki güzel söz / güzel ağaç benzetmesi (`كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ ... يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ`) ile `14:26`'daki köksüz koparılmış ağaç (`ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍ`) karşıtlığı, `ث-ب-ت` kökünün fiziksel ve bilişsel mekanizmasını tek tabloda birleştirir: (1) Fiziksel düzlemde kökün toprağa ve ayağın zemine kaymadan yerleşmesi (`14:24`, `16:94`), (2) Bilişsel ve psikolojik düzlemde vahyin parça parça indirilerek gönlü sağlamlaştırması (`لِنُثَبِّتَ بِهِۦ فُؤَادَكَ` — `11:120`, `16:102`, `25:32`) ve infakın benlikte içsel tutarlılık (`تَثْبِيتًا مِّنْ أَنفُسِهِمْ` `2:265`) üretmesi."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*ṯ-b-t` kökü: Eski Güney Arapçası (Saba) `ṯbt` ('sağlam durmak, sabitlemek, kalıcı kılmak') ve Nebatî/Aramice `תبت` (*tbt*: 'sabit, yerleşik') ile doğrudan eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ز-ل-ل [فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا] (Ayağın Zemine Sağlamca Yerleşip Sabit Durması [ثُبُوتِهَا] ↔ Ayağın Kayıp Sarsılması [فَتَزِلَّ]: 16:94)",
+      "م-ح-و [يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُۥٓ أُمُّ ٱلْكِتَٰبِ] (Hükmü ve Yazıyı Sağlamca Sabit Kılmak [وَيُثْبِتُ] ↔ Silip Ortadan Kaldırmak [يَمْحُوا۟]: 13:39)",
+      "ر-ك-ن [وَلَوْلَآ أَن ثَبَّتْنَٰكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْـًٔا قَلِيلًا] (Hakikat Üzerinde Sağlamlaştırıp Pekiştirmek [ثَبَّتْنَٰكَ] ↔ Baskı Karşısında Onlara Doğru Meyledip Kaymak [تَرْكَنُ إِلَيْهِمْ]: 17:74)",
+      "ك-ت-ب (ك-ت-ب ↔ ث-ب-ت Mesânî simetrisi)",
+      "ق-ل-ب (ق-ل-ب ↔ ث-ب-ت Mesânî simetrisi)",
+      "ف-أ-د (ف-أ-د ↔ ث-ب-ت Mesânî simetrisi)"
+    ],
+    "key_ayahs": [
+      "2:250",
+      "2:265",
+      "3:147",
+      "4:66",
+      "8:11-12",
+      "8:30",
+      "8:45",
+      "11:120",
+      "13:39",
+      "14:24-27",
+      "16:94",
+      "16:102",
+      "17:74",
+      "25:32",
+      "47:7"
+    ],
+    "reverse_stress_test": "16:94'te `فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا` (`ز-ل-ل`: ayağın kayması ↔ `ث-ب-ت`: sağlam durması), 13:39'da `يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ` (`م-ح-و`: silmek ↔ `ث-ب-ت`: sabit kılmak) ve 17:74'te `وَلَوْلَآ أَن ثَبَّتْنَٰكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ` (`ر-ك-ن`: meyledip kaymak) karşıtlıkları yer alır. Kaymak (`ز-ل-ل` / `ر-ك-ن`) ve silinmek (`م-ح-و`) tersine çevrildiğinde, `ث-ب-ت` kökünün 'kök salıp sarsılmadan sağlam durmak ve pekiştirmek' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ق-ر-ر (14:24-26 أَصْلُهَا ثَابِتٌ ... مَا لَهَا مِن قَرَارٍ — قَرَار bir şeyin yerleştiği zemin ve dinginlik yeri iken, ثَابِت o zemine kök salarak rüzgâr ve sarsıntılara karşı yerinden oynamayan sağlamlıktır)"
+    ],
+    "mechanical_difference": "`14:24-27` ayetlerinde `ثَابِت` ağacın toprağa tutunan kök sağlamlığını ve sözün sarsılmaz kanıt gücünü (`بِٱلْقَوْلِ ٱلثَّابِتِ`), `يُثَبِّتُ` ise o sağlam sözün insan bilincini hem dünyada hem ahirette sarsılmaz kılmasını ifade eder."
+  },
+  "anchor_ayahs": [
+    "2:250",
+    "2:265",
+    "8:11",
+    "8:30",
+    "8:45",
+    "11:120",
+    "13:39",
+    "14:24",
+    "14:27",
+    "16:94",
+    "17:74",
+    "25:32",
+    "47:7"
+  ],
+  "grammar_and_branch_rules": "Bab II (`ثَبِّتْ / يُثَبِّتُ / تَثْبِيتًا` — 12 geçiş) ayakları, kalbi ve benliği sarsıntıya karşı sağlamlaştırıp pekiştirmeyi; Bab I (`فَٱثْبُتُوا۟ / ثُبُوت / ثَابِت` — 4 geçiş) yerinde sağlamca durmayı ve köklü sağlamlığı; Bab IV (`يُثْبِتُ / لِيُثْبِتُوكَ` — 2 geçiş) ise hükmü sabit kılmayı (`13:39`) veya birini bağlayıp hareketsiz bırakmayı (`8:30`) ifade eder.",
+  "derivatives": {
+    "ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ": "Sarsıntı ve baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (2:250, 3:147, 8:11-12, 11:120, 14:27, 16:102, 17:74, 25:32, 47:7)",
+    "تَثْبِيتًا": "Benliklerinde içsel tutarlılık ve sağlamlık kazandırmak için (2:265, 4:66)",
+    "ثَابِتٌ /ٱلثَّابِتِ / ثُبُوتِهَا / فَٱثْبُتُوا۟": "Kökü sağlamca yerleşmiş olan; sarsılmadan sağlam durmak (8:45, 14:24, 14:27, 16:94)",
+    "وَيُثْبِتُ / لِيُثْبِتُوكَ": "Hükmü sabit kılmak (13:39); hareket edemez biçimde bağlayıp hapsetmek (8:30)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 250,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:250",
+      "word_position": 10,
+      "target_word_uthmani": "وَثَبِّتْ",
+      "target_word_rasm": "وثبت",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Calut'la ordusuna karşı çıkınca da Rabbimiz dediler, sen bize sebat ve direnç ver, ayaklarımızı diret, bizi gerçeğin üzerini örtenlere üstün et.",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:vab~ato|ROOT:vbt|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Calut'la ordusuna karşı çıkınca da Rabbimiz dediler, sen bize sebat ve direnç ver, ayaklarımızı diret, bizi gerçeğin üzerini örtenlere üstün et.",
+      "contextual_meaning": "Zorluk ve direniş anında ayakların kaymadan zemine sağlam basması ve Allah'ın güvenenlerin adımlarını sağlamlaştırması (sebbit akdâmenâ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 265,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:265",
+      "word_position": 8,
+      "target_word_uthmani": "وَتَثْبِيتًا",
+      "target_word_rasm": "وتثبيتا",
+      "target_word_literal_irab": "Benliklerinde içsel tutarlılık ve sağlamlık kazandırmak için (تَثْبِيتًا مِّنْ أَنفُسِهِمْ — Bab II mastar: 2:265, 4:66)",
+      "context_snippet_arabic": "ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ",
+      "context_snippet_turkish_tabula_rasa": "Mallarını, sığınak mercii (ilâh) rızasını kazanmak ve özlerindekini yerli bir hale getirip kendilerine mal etmek için verenlerse bir tepedeki bahçeye...",
+      "morphology": {
+        "lemma": "tavobiyt",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:tavobiyt|ROOT:vbt|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını, sığınak mercii (ilâh) rızasını kazanmak ve özlerindekini yerli bir hale getirip kendilerine mal etmek için verenlerse bir tepedeki bahçeye benzerler; bolbol yağan yağmur, o bahçenin meyvelerini iki misline çıkarır. Hatta bu çeşit yağmur yağmasa bile mutlaka bir çisentiye kavuşur orası ve Allah, bütün yaptıklarınızı görür.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 3,
+      "ayah": 147,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:147",
+      "word_position": 14,
+      "target_word_uthmani": "وَثَبِّتْ",
+      "target_word_rasm": "وثبت",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Sözleri ancak şuydu: Rabbimiz, yarlıga suçlarımızı, bağışla işlerimizde taşkınlık göstermemizi ve diret ayaklarımızı, yardım et bize gerçeğin üzerini örten...",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:vab~ato|ROOT:vbt|2MS"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sözleri ancak şuydu: Rabbimiz, yarlıga suçlarımızı, bağışla işlerimizde taşkınlık göstermemizi ve diret ayaklarımızı, yardım et bize gerçeğin üzerini örten kavme karşı.",
+      "contextual_meaning": "Zorluk ve direniş anında ayakların kaymadan zemine sağlam basması ve Allah'ın güvenenlerin adımlarını sağlamlaştırması (sebbit akdâmenâ)."
+    },
+    {
+      "surah": 4,
+      "ayah": 66,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:66",
+      "word_position": 27,
+      "target_word_uthmani": "تَثْبِيتًا",
+      "target_word_rasm": "تثبيتا",
+      "target_word_literal_irab": "Benliklerinde içsel tutarlılık ve sağlamlık kazandırmak için (تَثْبِيتًا مِّنْ أَنفُسِهِمْ — Bab II mastar: 2:265, 4:66)",
+      "context_snippet_arabic": "خَيْرًا لَّهُمْ وَأَشَدَّ تَثْبِيتًا",
+      "context_snippet_turkish_tabula_rasa": "Biz onlara, kendinizi öldürün, yahut ülkenizden çıkın diye emretseydik, bunu onlara farz etmiş olsaydık ancak içlerinden pek azı bunu yapardı. Halbuki...",
+      "morphology": {
+        "lemma": "tavobiyt",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:tavobiyt|ROOT:vbt|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًا لَّهُمْ وَأَشَدَّ تَثْبِيتًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onlara, kendinizi öldürün, yahut ülkenizden çıkın diye emretseydik, bunu onlara farz etmiş olsaydık ancak içlerinden pek azı bunu yapardı. Halbuki kendilerine verilen öğüdü tutsalar, deneni yapsalardı bu, hem onlara daha hayırlı olurdu, hem de güven duy kökleştirirdi.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 8,
+      "ayah": 11,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:11",
+      "word_position": 20,
+      "target_word_uthmani": "وَيُثَبِّتَ",
+      "target_word_rasm": "ويثبت",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ ٱلْأَقْدَامَ",
+      "context_snippet_turkish_tabula_rasa": "Hani bir emniyet vermek için sizi hafif bir uykuya daldırmıştı ve sizi arıtmak, sizden saptırıcı yıkıcı güç'ın pisliğini gidermek, yüreklerinizi...",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:vab~ato|ROOT:vbt|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِذْ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ ٱلسَّمَآءِ مَآءً لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَٰنِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ ٱلْأَقْدَامَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani bir emniyet vermek için sizi hafif bir uykuya daldırmıştı ve sizi arıtmak, sizden saptırıcı yıkıcı güç'ın pisliğini gidermek, yüreklerinizi sağlamlaştırmak ve ayaklarınızı pekiştirip metanetinizi arttırmak için de gökten bir yağmur yağdırmıştı.",
+      "contextual_meaning": "Zorluk ve direniş anında ayakların kaymadan zemine sağlam basması ve Allah'ın güvenenlerin adımlarını sağlamlaştırması (sebbit akdâmenâ)."
+    },
+    {
+      "surah": 8,
+      "ayah": 12,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:12",
+      "word_position": 8,
+      "target_word_uthmani": "فَثَبِّتُوا۟",
+      "target_word_rasm": "فثبتوا",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى",
+      "context_snippet_turkish_tabula_rasa": "Hani Rabbin, şüphe yok ki ben, sizinleyim, güvene erenleri sebat ettirin, gerçeğin üzerini örtenlerin yüreklerine korku salacağım, hadi vurun boyunlarını, vurun onların ellerine, ayaklarına diye buyruk elçilerine vahyetmedeydi.",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:vab~ato|ROOT:vbt|2MP"
+      },
+      "ayah_text_arabic_full": "إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani Rabbin, şüphe yok ki ben, sizinleyim, güvene erenleri sebat ettirin, gerçeğin üzerini örtenlerin yüreklerine korku salacağım, hadi vurun boyunlarını, vurun onların ellerine, ayaklarına diye buyruk elçilerine vahyetmedeydi.",
+      "contextual_meaning": "Zorluk ve direniş anında ayakların kaymadan zemine sağlam basması ve Allah'ın güvenenlerin adımlarını sağlamlaştırması (sebbit akdâmenâ)."
+    },
+    {
+      "surah": 8,
+      "ayah": 30,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:30",
+      "word_position": 6,
+      "target_word_uthmani": "لِيُثْبِتُوكَ",
+      "target_word_rasm": "ليثبتوك",
+      "target_word_literal_irab": "Dilediği hükmü sabit kılmak (13:39) veya birini hareket edemez biçimde bağlayıp hapsetmek (8:30) (وَيُثْبِتُ / لِيُثْبِتُوكَ — Bab IV muzâri fiil)",
+      "context_snippet_arabic": "بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ",
+      "context_snippet_turkish_tabula_rasa": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu...",
+      "morphology": {
+        "lemma": "yuvobitu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yuvobitu|ROOT:vbt|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani bir zaman, gerçeğin üzerini örten olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır.",
+      "contextual_meaning": "Allah'ın dilediği hükmü silip dilediğini sabit kılması (13:39) ve Mekke ileri gelenlerinin elçiyi bağlayıp hapsetme (liyüsbitûke - 8:30) planı."
+    },
+    {
+      "surah": 8,
+      "ayah": 45,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:45",
+      "word_position": 7,
+      "target_word_uthmani": "فَٱثْبُتُوا۟",
+      "target_word_rasm": "فٱثبتوا",
+      "target_word_literal_irab": "Zorluk ve çatışma anında sarsılmadan sağlam durun (فَٱثْبُتُوا۟ — Bab I emir fiil: 8:45)",
+      "context_snippet_arabic": "إِذَا لَقِيتُمْ فِئَةً فَٱثْبُتُوا۟ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, bir toplulukla karşılaştınız mı mutlaka sebat edin ve Allah'ı çok anın da kurtulun muradınıza erişin.",
+      "morphology": {
+        "lemma": "{vobutu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:{vobutu|ROOT:vbt|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا لَقِيتُمْ فِئَةً فَٱثْبُتُوا۟ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, bir toplulukla karşılaştınız mı mutlaka sebat edin ve Allah'ı çok anın da kurtulun muradınıza erişin.",
+      "contextual_meaning": "Zorluk ve direniş anında ayakların kaymadan zemine sağlam basması ve Allah'ın güvenenlerin adımlarını sağlamlaştırması (sebbit akdâmenâ)."
+    },
+    {
+      "surah": 11,
+      "ayah": 120,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:120",
+      "word_position": 8,
+      "target_word_uthmani": "نُثَبِّتُ",
+      "target_word_rasm": "نثبت",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ وَجَآءَكَ",
+      "context_snippet_turkish_tabula_rasa": "elçilere ait haberlerin hepsinden, gönlünü yatıştıracak olanlarını, sana hikaye ediyoruz ve bu kıssalarda, sana gerçek haberler, güvene erenlere da öğüt ve...",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:vab~ato|ROOT:vbt|1P"
+      },
+      "ayah_text_arabic_full": "وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ وَجَآءَكَ فِى هَٰذِهِ ٱلْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "elçilere ait haberlerin hepsinden, gönlünü yatıştıracak olanlarını, sana hikaye ediyoruz ve bu kıssalarda, sana gerçek haberler, güvene erenlere da öğüt ve ibret var.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 13,
+      "ayah": 39,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:39",
+      "word_position": 5,
+      "target_word_uthmani": "وَيُثْبِتُ",
+      "target_word_rasm": "ويثبت",
+      "target_word_literal_irab": "Dilediği hükmü sabit kılmak (13:39) veya birini hareket edemez biçimde bağlayıp hapsetmek (8:30) (وَيُثْبِتُ / لِيُثْبِتُوكَ — Bab IV muzâri fiil)",
+      "context_snippet_arabic": "ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُۥٓ أُمُّ ٱلْكِتَٰبِ",
+      "context_snippet_turkish_tabula_rasa": "Allah, dilediğini bozar, dilediğini yazar ve kitabın aslı, esası, onun katındadır.",
+      "morphology": {
+        "lemma": "yuvobitu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yuvobitu|ROOT:vbt|3MS"
+      },
+      "ayah_text_arabic_full": "يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُۥٓ أُمُّ ٱلْكِتَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, dilediğini bozar, dilediğini yazar ve kitabın aslı, esası, onun katındadır.",
+      "contextual_meaning": "Allah'ın dilediği hükmü silip dilediğini sabit kılması (13:39) ve Mekke ileri gelenlerinin elçiyi bağlayıp hapsetme (liyüsbitûke - 8:30) planı."
+    },
+    {
+      "surah": 14,
+      "ayah": 24,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:24",
+      "word_position": 12,
+      "target_word_uthmani": "ثَابِتٌ",
+      "target_word_rasm": "ثابت",
+      "target_word_literal_irab": "Kökü toprağa sağlamca yerleşmiş güzel ağaç (14:24) ve kanıtı sarsılmaz sağlam söz (14:27) (ثَابِتٌ / ٱلثَّابِتِ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ",
+      "context_snippet_turkish_tabula_rasa": "Görmedin mi Allah nasıl örnek getirmede, temiz söz, tertemiz bir ağaca benzer; kökü sabittir, dalları, budakları gökte.",
+      "morphology": {
+        "lemma": "vaAbit",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:vaAbit|ROOT:vbt|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmedin mi Allah nasıl örnek getirmede, temiz söz, tertemiz bir ağaca benzer; kökü sabittir, dalları, budakları gökte.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 14,
+      "ayah": 27,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:27",
+      "word_position": 1,
+      "target_word_uthmani": "يُثَبِّتُ",
+      "target_word_rasm": "يثبت",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah, güvene erenlere dünya yaşayışında da, ahirette de o sabit sözle sebat verir ve zulmedenleri saptırır ve Allah, dilediğini yapar.",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:vab~ato|ROOT:vbt|3MS"
+      },
+      "ayah_text_arabic_full": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güvene erenlere dünya yaşayışında da, ahirette de o sabit sözle sebat verir ve zulmedenleri saptırır ve Allah, dilediğini yapar.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 14,
+      "ayah": 27,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:27",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلثَّابِتِ",
+      "target_word_rasm": "ٱلثابت",
+      "target_word_literal_irab": "Kökü toprağa sağlamca yerleşmiş güzel ağaç (14:24) ve kanıtı sarsılmaz sağlam söz (14:27) (ثَابِتٌ / ٱلثَّابِتِ — Bab I ism-i fâil)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "Allah, güvene erenlere dünya yaşayışında da, ahirette de o sabit sözle sebat verir ve zulmedenleri saptırır ve Allah, dilediğini yapar.",
+      "morphology": {
+        "lemma": "vaAbit",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:vaAbit|ROOT:vbt|M|GEN"
+      },
+      "ayah_text_arabic_full": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güvene erenlere dünya yaşayışında da, ahirette de o sabit sözle sebat verir ve zulmedenleri saptırır ve Allah, dilediğini yapar.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 16,
+      "ayah": 94,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:94",
+      "word_position": 9,
+      "target_word_uthmani": "ثُبُوتِهَا",
+      "target_word_rasm": "ثبوتها",
+      "target_word_literal_irab": "Ayağın zemine sağlamca yerleşip durmasından sonra (بَعْدَ ثُبُوتِهَا — Bab I mastar: 16:94)",
+      "context_snippet_arabic": "فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "kesin andlarınızı, birbirinizi aldatmaya vasıta edinmeyin, sonra ayağınız adamakıllı pekişip yerleştikten sonra kayıverir ve halkı, Allah yolundan menetmenize...",
+      "morphology": {
+        "lemma": "vubuwt",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vubuwt|ROOT:vbt|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَتَّخِذُوٓا۟ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ وَلَكُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "kesin andlarınızı, birbirinizi aldatmaya vasıta edinmeyin, sonra ayağınız adamakıllı pekişip yerleştikten sonra kayıverir ve halkı, Allah yolundan menetmenize karşılık kötülüğe uğrarsınız ve hakkınız olur pek büyük azap.",
+      "contextual_meaning": "Zorluk ve direniş anında ayakların kaymadan zemine sağlam basması ve Allah'ın güvenenlerin adımlarını sağlamlaştırması (sebbit akdâmenâ)."
+    },
+    {
+      "surah": 16,
+      "ayah": 102,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:102",
+      "word_position": 8,
+      "target_word_uthmani": "لِيُثَبِّتَ",
+      "target_word_rasm": "ليثبت",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "مِن رَّبِّكَ بِٱلْحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُوا۟ وَهُدًى",
+      "context_snippet_turkish_tabula_rasa": "De ki: Onu, güvene erenlerin güven duy sağlamlaştırmak için Müslümanlara hidayet ve müjde olarak RuhülKudüs, Rabbinden hak ve gerçek olarak indirmiştir.",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:vab~ato|ROOT:vbt|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قُلْ نَزَّلَهُۥ رُوحُ ٱلْقُدُسِ مِن رَّبِّكَ بِٱلْحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُوا۟ وَهُدًى وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Onu, güvene erenlerin güven duy sağlamlaştırmak için Müslümanlara hidayet ve müjde olarak RuhülKudüs, Rabbinden hak ve gerçek olarak indirmiştir.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 17,
+      "ayah": 74,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:74",
+      "word_position": 3,
+      "target_word_uthmani": "ثَبَّتْنَٰكَ",
+      "target_word_rasm": "ثبتنك",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَلَوْلَآ أَن ثَبَّتْنَٰكَ لَقَدْ كِدتَّ تَرْكَنُ",
+      "context_snippet_turkish_tabula_rasa": "Sana sebat etme kabiliyeti vermeseydik andolsun ki birazcık meyledecektin onlara.",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:vab~ato|ROOT:vbt|1P"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَآ أَن ثَبَّتْنَٰكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْـًٔا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana sebat etme kabiliyeti vermeseydik andolsun ki birazcık meyledecektin onlara.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 25,
+      "ayah": 32,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:32",
+      "word_position": 11,
+      "target_word_uthmani": "لِنُثَبِّتَ",
+      "target_word_rasm": "لنثبت",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "جُمْلَةً وَٰحِدَةً كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ وَرَتَّلْنَٰهُ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar, ona Kur'an dediler, birden ve toplu olarak indirilseydi ya. Biz, onu, gönlüne iyice yerleştirmen için böyle indirdik ve onu...",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:vab~ato|ROOT:vbt|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ وَرَتَّلْنَٰهُ تَرْتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar, ona Kur'an dediler, birden ve toplu olarak indirilseydi ya. Biz, onu, gönlüne iyice yerleştirmen için böyle indirdik ve onu ayetayet ayırdık, birbiri ardınca indirdik.",
+      "contextual_meaning": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+    },
+    {
+      "surah": 47,
+      "ayah": 7,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:7",
+      "word_position": 8,
+      "target_word_uthmani": "وَيُثَبِّتْ",
+      "target_word_rasm": "ويثبت",
+      "target_word_literal_irab": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)",
+      "context_snippet_arabic": "تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, siz yardım ederseniz Allah'a, o da yardım eder size ve ayaklarınızı diretir, size sebat verir.",
+      "morphology": {
+        "lemma": "vab~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:vab~ato|ROOT:vbt|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, siz yardım ederseniz Allah'a, o da yardım eder size ve ayaklarınızı diretir, size sebat verir.",
+      "contextual_meaning": "Zorluk ve direniş anında ayakların kaymadan zemine sağlam basması ve Allah'ın güvenenlerin adımlarını sağlamlaştırması (sebbit akdâmenâ)."
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "root": "ج-و-ب",
+  "root_latin": "C-V-B (jwb)",
+  "concept_name": "İcâbet, İsticâbet ve Cevâb (Kayayı/Engeli Yarıp Çağrıya ve Yakarışa Olumlu Karşılık Vermek)",
+  "rank": 226,
+  "total_occurrences": 43,
+  "unique_ayahs_count": 41,
+  "unified_core_mechanism": "Sert kayayı veya engeli yarıp geçit açmak (خَرْقُ الشَّيْءِ — جَابُوا۟ ٱلصَّخْرَ 89:9) ve aradaki engeli aşarak bir çağrıya, soruya veya yakarışa olumlu karşılık vermek (إِجَابَة / اِسْتِجَابَة / جَوَاب): Allah'ın yakaranın çağrısına çok yakın olup yanıt vermesi (2:186, 11:61, 27:62, 40:60), insanın diriltici vahiy çağrısına karşılık vermesi (8:24, 42:38) ve sahte odakların hiçbir çağrıya yanıt verememesi (13:14, 35:14, 46:5).",
+  "physical_core": "Sert bir zemini, kayayı veya kumaşı yarıp delerek içinden geçit/oyuk açmak (خَرْقُ الشَّيْءِ وَقَطْعُهُ): Semûd kavminin vadideki kayaları yarıp oyması (جَابُوا۟ ٱلصَّخْرَ — 89:9); buradan hareketle sözün aradaki engeli ve sessizliği yarıp muhataba ulaşarak karşılık bulması (جَوَاب / إِجَابَة / اِسْتِجَابَة — 2:186, 8:24).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ج-و-ب` kökünün tamamı tek bir sahih asla dayanır; o da bir şeyi yarıp delmek ve boydan boya kesip geçmektir (`أصل واحد وهو خرق الشيء`). Araziyi yarıp geçmeye `جُبْتُ الأَرْضَ`, gömleğin yakasını oyup açmaya `جُبْتُ القَمِيصَ` denir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `الجَوْب` bir şeyi yarıp oymaktır (`89:9` `جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ`); sözdeki `الجَوَاب`, `الإِجَابَة` ve `الِاسْتِجَابَة` de aradaki mesafeyi yarıp soruyu/çağrıyı keserek yerine ulaşan karşılıktır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الجَوْب` yarmak ve kesip geçmektir (`89:9`); `الجَوَاب` ise soran veya çağıran kimsenin sözüne doğru yol açıp ulaşan karşılıktır (`2:186`, `27:62`, `40:60`).",
+    "arbitration_decision": "Hakem Masası Kararı: `89:9`'daki `{وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ}` ayeti kökün fiziksel çıpasını doğrudan Mushaf içinde korur: nasıl ki kayayı yarmak (`جَوْب`) kapalı taşı açıp içinde barınak oluşturursa, çağrıya icabet etmek (`إِجَابَة / اِسْتِجَابَة` — 36 ayet) de tıkanıklığı ve sağır duvarları yarıp çağrıyı eyleme dönüştürmektir. Bu yüzden yalnız dinleyenler çağrıya karşılık verir (`إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ` — `6:36`); Allah'tan başka çağrılan sahte odaklar ise hiçbir çağrıya karşılık veremez (`13:14`, `35:14`, `46:5`)."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*g-w-b` kökü: İbranice גּוּב (`gūb` Strong H1461: 'yarıp kazmak, toprağı sürmek') ve גֵּب (`gēb` Strong H1356: 'oyulmuş çukur/sarnıç'), Aramice/Süryanice `גּוּב / ܓܘܒ` (*gūb*: 'yarmak; yanıtlamak/karşılık vermek') ve Eski Güney Arapçası `gwb` ('oymak; cevap vermek') ile birebir eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "د-ع-و [وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا۟ لِى ... وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ] (Çağrıda Bulunup Yönelmek [دَعْوَةَ ٱلدَّاعِ / ٱدْعُونِىٓ] ↔ Çağrıya Olumlu Karşılık Verip Yanıtlamak [أُجِيبُ / فَلْيَسْتَجِيبُوا۟ / أَسْتَجِبْ]: 2:186, 8:24, 13:14, 27:62, 35:14, 40:60, 46:5)",
+      "ه-و-ي [فَإِن لَّمْ يَسْتَجِيبُوا۟ لَكَ فَٱعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَآءَهُمْ] (Hakikat Çağrısına Olumlu Karşılık Vermek [يَسْتَجِيبُوا۟ لَكَ] ↔ Kendi Boş Arzu ve Tutkularının Peşine Düşmek [يَتَّبِعُونَ أَهْوَآءَهُمْ]: 28:50)",
+      "س-أ-ل (س-أ-ل ↔ ج-و-ب Mesânî simetrisi)",
+      "ن-د-و (ن-د-و ↔ ج-و-ب Mesânî simetrisi)"
+    ],
+    "key_ayahs": [
+      "2:186",
+      "3:195",
+      "6:36",
+      "8:24",
+      "11:61",
+      "13:14",
+      "21:76-90",
+      "27:62",
+      "28:50",
+      "35:14",
+      "40:60",
+      "42:38",
+      "46:5",
+      "89:9"
+    ],
+    "reverse_stress_test": "2:186'da `أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا۟ لِى`, 8:24'te `ٱسْتَجِيبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ` ve 40:60'ta `ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ` ayetleri `د-ع-و` (çağrı) ile `ج-و-ب` (çağrıya karşılık vermek) arasındaki çift yönlü bağı kurar; 28:50'de ise çağrıya karşılık vermemenin (`فَإِن لَّمْ يَسْتَجِيبُوا۟ لَكَ`) tek alternatifinin kendi keyfi tutkularına uymak (`يَتَّبِعُونَ أَهْوَآءَهُمْ`) olduğu bildirilir. Çağrı (`د-ع-و`) ve keyfi tutkular (`ه-و-ي`) ekseninde `ج-و-ب` kökünün 'engeli yarıp çağrıya karşılık vermek' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "س-م-ع (6:36 إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ve 35:14 إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ — سَمْع çağrıyı işitip algılamak iken, اِسْتِجَابَة işitilen o çağrıya harekete geçerek olumlu karşılık vermektir)"
+    ],
+    "mechanical_difference": "`35:14`'teki `وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ` (işitseler bile size karşılık veremezler) ve `2:186`'daki `أُجِيبُ` (Bab IV: doğrudan yanıtlarım) ile `فَلْيَسْتَجِيبُوا۟ لِى` (Bab X: çağrıma içtenlikle yönelip karşılık versinler) kullanımı kökün mekanik inceliğini gösterir."
+  },
+  "anchor_ayahs": [
+    "2:186",
+    "6:36",
+    "8:24",
+    "11:61",
+    "13:14",
+    "21:88",
+    "27:62",
+    "28:50",
+    "40:60",
+    "42:38",
+    "89:9"
+  ],
+  "grammar_and_branch_rules": "Bab I `جَابُوا۟` (`89:9`) vadideki kayayı yarıp oymayı; Bab IV (`أُجِيبُ / يُجِيبُ / مُّجِيب` — 10 geçiş) ve `جَوَاب` (4 geçiş) çağrıyı veya soruyu yanıtlamayı; Bab X (`ٱسْتَجَابَ / يَسْتَجِيبُ` — 28 geçiş) ise çağrıya içtenlikle yönelip fiilen icabet etmeyi ifade eder.",
+  "derivatives": {
+    "ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟": "Yapılan çağrıya ve yakarışa olumlu karşılık verip icabet etmek (2:186, 3:172, 6:36, 8:24, 13:14, 21:76, 28:50, 40:60, 42:38)",
+    "أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟": "Çağrıyı ve duayı karşılıksız bırakmayıp yanıtlamak (2:186, 5:109, 10:89, 14:44, 27:62, 28:65, 46:31-32)",
+    "جَوَابَ / مُّجِيبٌ": "Verilen karşılık ve yanıt (7:82, 27:56, 29:24, 29:29); çağrıyı yanıtlayan (11:61, 37:75)",
+    "جَابُوا۟ ٱلصَّخْرَ": "Vadideki sert kayaları yarıp oyarak barınaklar açtılar (89:9)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 186,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:186",
+      "word_position": 7,
+      "target_word_uthmani": "أُجِيبُ",
+      "target_word_rasm": "أجيب",
+      "target_word_literal_irab": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)",
+      "context_snippet_arabic": "عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا",
+      "context_snippet_turkish_tabula_rasa": "... Beni çağıran, bana dua eden kişiye çağırdığı, dua ettiği anda icabet ederim. Artık onlar da benim çağırmama koşsunlar, bana güven duy da doğru yolu bulsunlar.",
+      "morphology": {
+        "lemma": ">ujiybat",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ujiybat|ROOT:jwb|1S"
+      },
+      "ayah_text_arabic_full": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kullarım, sana beni sorarlarsa bilsinler ki ben, muhakkak onlara pek yakınım. Beni çağıran, bana dua eden kişiye çağırdığı, dua ettiği anda icabet ederim. Artık onlar da benim çağırmama koşsunlar, bana güven duy da doğru yolu bulsunlar.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 2,
+      "ayah": 186,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:186",
+      "word_position": 12,
+      "target_word_uthmani": "فَلْيَسْتَجِيبُوا۟",
+      "target_word_rasm": "فليستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى",
+      "context_snippet_turkish_tabula_rasa": "... Beni çağıran, bana dua eden kişiye çağırdığı, dua ettiği anda icabet ederim. Artık onlar da benim çağırmama koşsunlar, bana güven duy da doğru yolu bulsunlar.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kullarım, sana beni sorarlarsa bilsinler ki ben, muhakkak onlara pek yakınım. Beni çağıran, bana dua eden kişiye çağırdığı, dua ettiği anda icabet ederim. Artık onlar da benim çağırmama koşsunlar, bana güven duy da doğru yolu bulsunlar.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 3,
+      "ayah": 172,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:172",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتَجَابُوا۟",
+      "target_word_rasm": "ٱستجابوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ",
+      "context_snippet_turkish_tabula_rasa": "Yaralandıktan sonra bile Allah'ın ve elçinin davetine icabet edenlere, hele onların içinden iyiliklerde bulunup sakınanlara pek büyük bir ecir var.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaralandıktan sonra bile Allah'ın ve elçinin davetine icabet edenlere, hele onların içinden iyiliklerde bulunup sakınanlara pek büyük bir ecir var.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 3,
+      "ayah": 195,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:195",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱسْتَجَابَ",
+      "target_word_rasm": "فٱستجاب",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de Rableri, dualarını kabul etti, ben, erkek olsun, kadın olsun, içinizden iyilik yapanın iyiliğini boşa çıkarmam, bazınız bazınızdan meydana...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|3MS"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ بَعْضُكُم مِّنۢ بَعْضٍ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de Rableri, dualarını kabul etti, ben, erkek olsun, kadın olsun, içinizden iyilik yapanın iyiliğini boşa çıkarmam, bazınız bazınızdan meydana gelmedir ve hepiniz birsiniz bence. Ama benim yolumda göçenlerin, yurtlarından çıkarılanların, eziyete uğrayanların, savaşıp vuruşanların, vurulup ölenlerin kusurlarını, andolsun ki mutlaka örteceğim ve onları, kıyılarından ırmaklar akan esenlik bahçelerine sokacağım, Allah katından mükafattır bu, daha güzel mükafat da gene Allah katında.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 5,
+      "ayah": 109,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:109",
+      "word_position": 7,
+      "target_word_uthmani": "أُجِبْتُمْ",
+      "target_word_rasm": "أجبتم",
+      "target_word_literal_irab": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)",
+      "context_snippet_arabic": "ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ قَالُوا۟ لَا عِلْمَ",
+      "context_snippet_turkish_tabula_rasa": "O gün Allah, bütün elçileri toplayacak da ne cevap verildi size diyecek. Diyecekler ki: Bilgimiz yok bizim, şüphe yok ki sensin gizli şeyleri hakkıyla bilen.",
+      "morphology": {
+        "lemma": ">ujiybat",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(IV)|LEM:>ujiybat|ROOT:jwb|2MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ قَالُوا۟ لَا عِلْمَ لَنَآ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün Allah, bütün elçileri toplayacak da ne cevap verildi size diyecek. Diyecekler ki: Bilgimiz yok bizim, şüphe yok ki sensin gizli şeyleri hakkıyla bilen.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 6,
+      "ayah": 36,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:36",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَجِيبُ",
+      "target_word_rasm": "يستجيب",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ وَٱلْمَوْتَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Senin davetine ancak seni dinleyenler icabet eder. Ölüleriyse Allah diriltir de sonra gene dönüp onun tapısına varırlar.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senin davetine ancak seni dinleyenler icabet eder. Ölüleriyse Allah diriltir de sonra gene dönüp onun tapısına varırlar.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 7,
+      "ayah": 82,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:82",
+      "word_position": 3,
+      "target_word_uthmani": "جَوَابَ",
+      "target_word_rasm": "جواب",
+      "target_word_literal_irab": "Söze veya uyarıya verilen karşılık ve yanıt (جَوَابَ — isim: 7:82, 27:56, 29:24, 29:29)",
+      "context_snippet_arabic": "وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن",
+      "context_snippet_turkish_tabula_rasa": "Kavminin cevabı ancak şu söz olmuştu, onları şehrinizden çıkarın demişlerdi, onlar pek fazla temiz olmak isteyen kişiler.",
+      "morphology": {
+        "lemma": "jawaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jawaAb|ROOT:jwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوهُم مِّن قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kavminin cevabı ancak şu söz olmuştu, onları şehrinizden çıkarın demişlerdi, onlar pek fazla temiz olmak isteyen kişiler.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 194,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:194",
+      "word_position": 10,
+      "target_word_uthmani": "فَلْيَسْتَجِيبُوا۟",
+      "target_word_rasm": "فليستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "عِبَادٌ أَمْثَالُكُمْ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟ لَكُمْ إِن كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'tan başka çağırdıklarınızın hepsi de sizin gibi kuldur. Sözünüz gerçekse çağırın da cevap versinler size.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟ لَكُمْ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'tan başka çağırdıklarınızın hepsi de sizin gibi kuldur. Sözünüz gerçekse çağırın da cevap versinler size.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 8,
+      "ayah": 9,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:9",
+      "word_position": 4,
+      "target_word_uthmani": "فَٱسْتَجَابَ",
+      "target_word_rasm": "فٱستجاب",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم",
+      "context_snippet_turkish_tabula_rasa": "Hani, siz, Rabbinizden imdat istemiştiniz de Rabbiniz, şüphe yok ki ben, birbiri ardınca binlerce buyruk elçisiyle size yardım edeceğim diye duanızı kabul...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|3MS"
+      },
+      "ayah_text_arabic_full": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ مُرْدِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani, siz, Rabbinizden imdat istemiştiniz de Rabbiniz, şüphe yok ki ben, birbiri ardınca binlerce buyruk elçisiyle size yardım edeceğim diye duanızı kabul etmişti.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 8,
+      "ayah": 24,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:24",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْتَجِيبُوا۟",
+      "target_word_rasm": "ٱستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَجِيبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, sizi diriltecek, size can verecek şeylere çağırdıkları zaman Allah'a ve elçiye icabet edin ve bilin ki Allah, hiç şüphe yok, insanın kendisiyle kalbinin arasına girer ve hiç şüphe yok ki onun tapısında toplanacaksınız.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(X)|LEM:{sotajaAba|ROOT:jwb|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَجِيبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَحُولُ بَيْنَ ٱلْمَرْءِ وَقَلْبِهِۦ وَأَنَّهُۥٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, sizi diriltecek, size can verecek şeylere çağırdıkları zaman Allah'a ve elçiye icabet edin ve bilin ki Allah, hiç şüphe yok, insanın kendisiyle kalbinin arasına girer ve hiç şüphe yok ki onun tapısında toplanacaksınız.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 10,
+      "ayah": 89,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:89",
+      "word_position": 3,
+      "target_word_uthmani": "أُجِيبَت",
+      "target_word_rasm": "أجيبت",
+      "target_word_literal_irab": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)",
+      "context_snippet_arabic": "قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا",
+      "context_snippet_turkish_tabula_rasa": "sığınak mercii (ilâh), ikinizin de duası kabul edilmiştir dedi, artık doğru hareket etmekte devam edin ve sakın ha bilmezlerin yoluna gitmeyin.",
+      "morphology": {
+        "lemma": ">ujiybat",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(IV)|LEM:>ujiybat|ROOT:jwb|3FS"
+      },
+      "ayah_text_arabic_full": "قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sığınak mercii (ilâh), ikinizin de duası kabul edilmiştir dedi, artık doğru hareket etmekte devam edin ve sakın ha bilmezlerin yoluna gitmeyin.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 11,
+      "ayah": 14,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:14",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَجِيبُوا۟",
+      "target_word_rasm": "يستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "فَإِلَّمْ يَسْتَجِيبُوا۟ لَكُمْ فَٱعْلَمُوٓا۟ أَنَّمَآ",
+      "context_snippet_turkish_tabula_rasa": "Fakat davetinize icabet etmezlerse artık iyice bilin ki o, ancak Allah'ın bilgisiyle indirilmiştir ve ondan başka hiçbir tapacak yoktur. Hala mı Müslüman olmuyorsunuz?",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَإِلَّمْ يَسْتَجِيبُوا۟ لَكُمْ فَٱعْلَمُوٓا۟ أَنَّمَآ أُنزِلَ بِعِلْمِ ٱللَّهِ وَأَن لَّآ إِلَٰهَ إِلَّا هُوَ فَهَلْ أَنتُم مُّسْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat davetinize icabet etmezlerse artık iyice bilin ki o, ancak Allah'ın bilgisiyle indirilmiştir ve ondan başka hiçbir tapacak yoktur. Hala mı Müslüman olmuyorsunuz?",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 61,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:61",
+      "word_position": 27,
+      "target_word_uthmani": "مُّجِيبٌ",
+      "target_word_rasm": "مجيب",
+      "target_word_literal_irab": "Kullarının çağrısına çok yakın olup en güzel şekilde yanıtlayan (قَرِيبٌ مُّجِيبٌ / نِعْمَ ٱلْمُجِيبُونَ — Bab IV ism-i fâil: 11:61, 37:75)",
+      "context_snippet_arabic": "إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
+      "context_snippet_turkish_tabula_rasa": "Semud kavmine de kardeşleri Salih'i göndermiştik. Ey kavmim demişti, Allah'a kulluk edin, ondan başka bir mabudunuz yok. Sizi yeryüzünden yaratıp meydana...",
+      "morphology": {
+        "lemma": "m~ujiyb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:m~ujiyb|ROOT:jwb|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud kavmine de kardeşleri Salih'i göndermiştik. Ey kavmim demişti, Allah'a kulluk edin, ondan başka bir mabudunuz yok. Sizi yeryüzünden yaratıp meydana getirdi ve orayı imara memur etti sizi; artık ondan yarlıganma dileyin, sonra da tövbe edin ona. Şüphe yok ki Rabbim, yakındır, duaları kabul eder.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 12,
+      "ayah": 34,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:34",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱسْتَجَابَ",
+      "target_word_rasm": "فٱستجاب",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbi de artık onun duasını kabul etti ve düzenlerini defetti ondan; şüphe yok ki o, duyar, bilir.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|3MS"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbi de artık onun duasını kabul etti ve düzenlerini defetti ondan; şüphe yok ki o, duyar, bilir.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 13,
+      "ayah": 14,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:14",
+      "word_position": 9,
+      "target_word_uthmani": "يَسْتَجِيبُونَ",
+      "target_word_rasm": "يستجيبون",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "مِن دُونِهِۦ لَا يَسْتَجِيبُونَ لَهُم بِشَىْءٍ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Gerçek dua, ancak onadır. Ondan başkalarına dua edenlerin duaları kabul edilmez. Bu çeşit adam, ağzına gelsin diye suya ellerini uzatmış, bekleyip duran adama...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP"
+      },
+      "ayah_text_arabic_full": "لَهُۥ دَعْوَةُ ٱلْحَقِّ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَسْتَجِيبُونَ لَهُم بِشَىْءٍ إِلَّا كَبَٰسِطِ كَفَّيْهِ إِلَى ٱلْمَآءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَٰلِغِهِۦ وَمَا دُعَآءُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçek dua, ancak onadır. Ondan başkalarına dua edenlerin duaları kabul edilmez. Bu çeşit adam, ağzına gelsin diye suya ellerini uzatmış, bekleyip duran adama benzer, su ağzına gelmez onun ve gerçeğin üzerini örtenlerin duası, sapıklıkta kalmadan başka bir şey değildir.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 13,
+      "ayah": 18,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:18",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتَجَابُوا۟",
+      "target_word_rasm": "ٱستجابوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "لِلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمُ ٱلْحُسْنَىٰ وَٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Rablerinin davetine icabet edenlere güzel bir mükafat var; fakat icabet etmeyenlere gelince: ...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP"
+      },
+      "ayah_text_arabic_full": "لِلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمُ ٱلْحُسْنَىٰ وَٱلَّذِينَ لَمْ يَسْتَجِيبُوا۟ لَهُۥ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ سُوٓءُ ٱلْحِسَابِ وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمِهَادُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerinin davetine icabet edenlere güzel bir mükafat var; fakat icabet etmeyenlere gelince: O çeşit adamlar, yeryüzünde ne varsa hepsine sahip olsalar ve bir misli daha malları olsa da kurtulmak için hepsini feda etseler gene onlar için kötü bir soru var, yurtları yakıcı yıkım yurdudur ve orası ne de kötü yataktır ya.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 13,
+      "ayah": 18,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:18",
+      "word_position": 7,
+      "target_word_uthmani": "يَسْتَجِيبُوا۟",
+      "target_word_rasm": "يستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "ٱلْحُسْنَىٰ وَٱلَّذِينَ لَمْ يَسْتَجِيبُوا۟ لَهُۥ لَوْ أَنَّ",
+      "context_snippet_turkish_tabula_rasa": "Rablerinin davetine icabet edenlere güzel bir mükafat var; fakat icabet etmeyenlere gelince: ...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لِلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمُ ٱلْحُسْنَىٰ وَٱلَّذِينَ لَمْ يَسْتَجِيبُوا۟ لَهُۥ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ سُوٓءُ ٱلْحِسَابِ وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمِهَادُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerinin davetine icabet edenlere güzel bir mükafat var; fakat icabet etmeyenlere gelince: O çeşit adamlar, yeryüzünde ne varsa hepsine sahip olsalar ve bir misli daha malları olsa da kurtulmak için hepsini feda etseler gene onlar için kötü bir soru var, yurtları yakıcı yıkım yurdudur ve orası ne de kötü yataktır ya.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 14,
+      "ayah": 22,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:22",
+      "word_position": 22,
+      "target_word_uthmani": "فَٱسْتَجَبْتُمْ",
+      "target_word_rasm": "فٱستجبتم",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى فَلَا تَلُومُونِى",
+      "context_snippet_turkish_tabula_rasa": "... Ben de size vaat ettim ama vaadimde durmadım ve zaten de size karşı bir gücümkuvvetim yoktu, ancak sizi davet ettim, siz de icabet ettiniz bana; beni kınamayın, kendinizi kınayın. ...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|2MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلشَّيْطَٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ إِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İş olup bitince saptırıcı yıkıcı güç der ki: Şüphe yok ki Allah, gerçek olarak vaitte bulundu size. Ben de size vaat ettim ama vaadimde durmadım ve zaten de size karşı bir gücümkuvvetim yoktu, ancak sizi davet ettim, siz de icabet ettiniz bana; beni kınamayın, kendinizi kınayın. Artık ne benim size bir yardımım dokunabilir, ne sizin bana bir yardımınız dokunabilir. Zaten daha önceden de beni ona eş tutmanızı tanımamıştım ben. Şüphe yok ki zulmedenlere elemli bir azap var.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 14,
+      "ayah": 44,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:44",
+      "word_position": 14,
+      "target_word_uthmani": "نُّجِبْ",
+      "target_word_rasm": "نجب",
+      "target_word_literal_irab": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)",
+      "context_snippet_arabic": "إِلَىٰٓ أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ",
+      "context_snippet_turkish_tabula_rasa": "... Rabbimiz, yakın bir zamanadek bırak bizi, tekrar dünyaya dönelim de davetine icabet edelim ve elçilere uyalım. Siz değil misiniz daha önce, bize bir zeval yoktur diye kesin and edenler?",
+      "morphology": {
+        "lemma": ">ujiybat",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ujiybat|ROOT:jwb|1P|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine azabın gelip çatacağı o günü haber ver, korkut insanları. Zulmedenler diyecekler ki: Rabbimiz, yakın bir zamanadek bırak bizi, tekrar dünyaya dönelim de davetine icabet edelim ve elçilere uyalım. Siz değil misiniz daha önce, bize bir zeval yoktur diye kesin and edenler?",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 17,
+      "ayah": 52,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:52",
+      "word_position": 3,
+      "target_word_uthmani": "فَتَسْتَجِيبُونَ",
+      "target_word_rasm": "فتستجيبون",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن",
+      "context_snippet_turkish_tabula_rasa": "O gün sizi çağıracak, hamd ederek icabet edeceksiniz ona ve sanacaksınız ki pek az bir müddet kalmışsınız dünyada.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|2MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "O gün sizi çağıracak, hamd ederek icabet edeceksiniz ona ve sanacaksınız ki pek az bir müddet kalmışsınız dünyada.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 18,
+      "ayah": 52,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:52",
+      "word_position": 9,
+      "target_word_uthmani": "يَسْتَجِيبُوا۟",
+      "target_word_rasm": "يستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَجَعَلْنَا بَيْنَهُم",
+      "context_snippet_turkish_tabula_rasa": "Ve o gün bana eş ve ortak sandıklarınızı çağırın der de çağırırlar ama onlar icabet etmez ve aralarına yakıcı yıkım yurdunda derin bir uçurum koymuşuzdur.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَيَوْمَ يَقُولُ نَادُوا۟ شُرَكَآءِىَ ٱلَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve o gün bana eş ve ortak sandıklarınızı çağırın der de çağırırlar ama onlar icabet etmez ve aralarına yakıcı yıkım yurdunda derin bir uçurum koymuşuzdur.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 76,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:76",
+      "word_position": 6,
+      "target_word_uthmani": "فَٱسْتَجَبْنَا",
+      "target_word_rasm": "فٱستجبنا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ve Nuh da bundan önce hani nida etmişti de duasını kabul etmiştik, onu ve ailesini, yürekleri bile yakan pek büyük bir dertten kurtarmıştık.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|1P"
+      },
+      "ayah_text_arabic_full": "وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Nuh da bundan önce hani nida etmişti de duasını kabul etmiştik, onu ve ailesini, yürekleri bile yakan pek büyük bir dertten kurtarmıştık.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 21,
+      "ayah": 84,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:84",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱسْتَجَبْنَا",
+      "target_word_rasm": "فٱستجبنا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا",
+      "context_snippet_turkish_tabula_rasa": "Derken duasını kabul ettik de ne zarara uğradıysa giderdik ve katımızdan rahmet ve boyun eğme ve kulluk edenlere ibret olmak üzere ona ailesini ve onlarla...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|1P"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ وَءَاتَيْنَٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَٰبِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken duasını kabul ettik de ne zarara uğradıysa giderdik ve katımızdan rahmet ve boyun eğme ve kulluk edenlere ibret olmak üzere ona ailesini ve onlarla beraber daha da bir mislini verdik.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 21,
+      "ayah": 88,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:88",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱسْتَجَبْنَا",
+      "target_word_rasm": "فٱستجبنا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Derken duasını kabul etmiştik onun ve gamdan kurtarmıştık onu ve böyle kurtarırız insanları.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|1P"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken duasını kabul etmiştik onun ve gamdan kurtarmıştık onu ve böyle kurtarırız insanları.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 21,
+      "ayah": 90,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:90",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱسْتَجَبْنَا",
+      "target_word_rasm": "فٱستجبنا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Derken duasını kabul etmiştik onun ve ona Yahya'yı vermiştik ve karısının kısırlığını gidermiştik, doğurmaya kabiliyet vermiştik. Onlar, hayırlı işlerde...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|1P"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ إِنَّهُمْ كَانُوا۟ يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا۟ لَنَا خَٰشِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken duasını kabul etmiştik onun ve ona Yahya'yı vermiştik ve karısının kısırlığını gidermiştik, doğurmaya kabiliyet vermiştik. Onlar, hayırlı işlerde koşuşurlar, yarışırlar ve umarak, korkarak bize dua ederlerdi ve onlar, bize karşı gönül alçaklığı gösterirlerdi.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 27,
+      "ayah": 56,
+      "surah_name": "Neml",
+      "ayah_ref": "27:56",
+      "word_position": 3,
+      "target_word_uthmani": "جَوَابَ",
+      "target_word_rasm": "جواب",
+      "target_word_literal_irab": "Söze veya uyarıya verilen karşılık ve yanıt (جَوَابَ — isim: 7:82, 27:56, 29:24, 29:29)",
+      "context_snippet_arabic": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن",
+      "context_snippet_turkish_tabula_rasa": "Kavminin cevabı, Lut'u ve soyunu şehrinizden çıkarın, hiç şüphe yok ki onlar, temizliğe pek düşkün bir topluluk sözünden başka bir söz değildi.",
+      "morphology": {
+        "lemma": "jawaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jawaAb|ROOT:jwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kavminin cevabı, Lut'u ve soyunu şehrinizden çıkarın, hiç şüphe yok ki onlar, temizliğe pek düşkün bir topluluk sözünden başka bir söz değildi.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 27,
+      "ayah": 62,
+      "surah_name": "Neml",
+      "ayah_ref": "27:62",
+      "word_position": 2,
+      "target_word_uthmani": "يُجِيبُ",
+      "target_word_rasm": "يجيب",
+      "target_word_literal_irab": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)",
+      "context_snippet_arabic": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa darda kalana, dua ettiği zaman icabet eden ve kötülüğü gideren ve sizi, yeryüzüne sahip kılan mı hayırlı? Allah'la beraber bir başka mabut var mı? Ne de az düşünmedesiniz.",
+      "morphology": {
+        "lemma": ">ujiybat",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ujiybat|ROOT:jwb|3MS"
+      },
+      "ayah_text_arabic_full": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ أَءِلَٰهٌ مَّعَ ٱللَّهِ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa darda kalana, dua ettiği zaman icabet eden ve kötülüğü gideren ve sizi, yeryüzüne sahip kılan mı hayırlı? Allah'la beraber bir başka mabut var mı? Ne de az düşünmedesiniz.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 28,
+      "ayah": 50,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:50",
+      "word_position": 3,
+      "target_word_uthmani": "يَسْتَجِيبُوا۟",
+      "target_word_rasm": "يستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "فَإِن لَّمْ يَسْتَجِيبُوا۟ لَكَ فَٱعْلَمْ أَنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "Bunu kabul etmezlerse artık bil ki onlar, ancak kendi dileklerine uyuyorlar ve Allah'ın hidayetini bırakıp kendi dileğine uyan kişiden daha sapık kimdir ki?...",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَإِن لَّمْ يَسْتَجِيبُوا۟ لَكَ فَٱعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَآءَهُمْ وَمَنْ أَضَلُّ مِمَّنِ ٱتَّبَعَ هَوَىٰهُ بِغَيْرِ هُدًى مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunu kabul etmezlerse artık bil ki onlar, ancak kendi dileklerine uyuyorlar ve Allah'ın hidayetini bırakıp kendi dileğine uyan kişiden daha sapık kimdir ki? Şüphe yok ki Allah, zalim topluluğu doğru yola sevketmez.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 28,
+      "ayah": 64,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:64",
+      "word_position": 6,
+      "target_word_uthmani": "يَسْتَجِيبُوا۟",
+      "target_word_rasm": "يستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ",
+      "context_snippet_turkish_tabula_rasa": "Ve çağırın otoriteyi bölüşme ve ortak koşma koştuğunuz şeyleri denir, onlar da çağırırlar, fakat icabet etmezler onlara ve azabı görürler; ne olurdu doğru yolu bulsalardı.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve çağırın otoriteyi bölüşme ve ortak koşma koştuğunuz şeyleri denir, onlar da çağırırlar, fakat icabet etmezler onlara ve azabı görürler; ne olurdu doğru yolu bulsalardı.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 65,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:65",
+      "word_position": 5,
+      "target_word_uthmani": "أَجَبْتُمُ",
+      "target_word_rasm": "أجبتم",
+      "target_word_literal_irab": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)",
+      "context_snippet_arabic": "يُنَادِيهِمْ فَيَقُولُ مَاذَآ أَجَبْتُمُ ٱلْمُرْسَلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve o gün onlara nida eder de ne cevap verdiniz der, gönderilen elçilere?",
+      "morphology": {
+        "lemma": ">ujiybat",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>ujiybat|ROOT:jwb|2MP"
+      },
+      "ayah_text_arabic_full": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَآ أَجَبْتُمُ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve o gün onlara nida eder de ne cevap verdiniz der, gönderilen elçilere?",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 29,
+      "ayah": 24,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:24",
+      "word_position": 3,
+      "target_word_uthmani": "جَوَابَ",
+      "target_word_rasm": "جواب",
+      "target_word_literal_irab": "Söze veya uyarıya verilen karşılık ve yanıt (جَوَابَ — isim: 7:82, 27:56, 29:24, 29:29)",
+      "context_snippet_arabic": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن",
+      "context_snippet_turkish_tabula_rasa": "Kavminin cevabı, ancak onu öldürün, yahut yakın sözü olmuştu da Allah, onu ateşten kurtarmıştı; şüphe yok ki bunda elbette deliller var güvene erenlere.",
+      "morphology": {
+        "lemma": "jawaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jawaAb|ROOT:jwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kavminin cevabı, ancak onu öldürün, yahut yakın sözü olmuştu da Allah, onu ateşten kurtarmıştı; şüphe yok ki bunda elbette deliller var güvene erenlere.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 29,
+      "ayah": 29,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:29",
+      "word_position": 12,
+      "target_word_uthmani": "جَوَابَ",
+      "target_word_rasm": "جواب",
+      "target_word_literal_irab": "Söze veya uyarıya verilen karşılık ve yanıt (جَوَابَ — isim: 7:82, 27:56, 29:24, 29:29)",
+      "context_snippet_arabic": "ٱلْمُنكَرَ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن",
+      "context_snippet_turkish_tabula_rasa": "Siz, boyuna erkeklerle mi temas edecek, meşru yolu mu kesecek, meclislerinizde hep kötü işlerde mi bulunacaksınız? Kavminin cevabı, ancak eğer doğru...",
+      "morphology": {
+        "lemma": "jawaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jawaAb|ROOT:jwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz, boyuna erkeklerle mi temas edecek, meşru yolu mu kesecek, meclislerinizde hep kötü işlerde mi bulunacaksınız? Kavminin cevabı, ancak eğer doğru söyleyenlerdensen Allah azabını getir bize sözü olmuştu.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 35,
+      "ayah": 14,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:14",
+      "word_position": 9,
+      "target_word_uthmani": "ٱسْتَجَابُوا۟",
+      "target_word_rasm": "ٱستجابوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ وَيَوْمَ ٱلْقِيَٰمَةِ",
+      "context_snippet_turkish_tabula_rasa": "Onları çağırsanız çağırışınızı duymazlar, imkan olsa da duysalar cevap veremezler size ve kıyamet gününde de otoriteyi bölüşme ve ortak koşma koşmanızı gerçeğin üzerini örterler ve hiçbir şey, her şeyden haberdar olan gibi haber veremez sana.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP"
+      },
+      "ayah_text_arabic_full": "إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ وَيَوْمَ ٱلْقِيَٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları çağırsanız çağırışınızı duymazlar, imkan olsa da duysalar cevap veremezler size ve kıyamet gününde de otoriteyi bölüşme ve ortak koşma koşmanızı gerçeğin üzerini örterler ve hiçbir şey, her şeyden haberdar olan gibi haber veremez sana.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 75,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:75",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْمُجِيبُونَ",
+      "target_word_rasm": "ٱلمجيبون",
+      "target_word_literal_irab": "Kullarının çağrısına çok yakın olup en güzel şekilde yanıtlayan (قَرِيبٌ مُّجِيبٌ / نِعْمَ ٱلْمُجِيبُونَ — Bab IV ism-i fâil: 11:61, 37:75)",
+      "context_snippet_arabic": "نَادَىٰنَا نُوحٌ فَلَنِعْمَ ٱلْمُجِيبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki Nuh, bize nida etmişti, biz de ne güzel icabet etmiştik.",
+      "morphology": {
+        "lemma": "m~ujiyb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:m~ujiyb|ROOT:jwb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ نَادَىٰنَا نُوحٌ فَلَنِعْمَ ٱلْمُجِيبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki Nuh, bize nida etmişti, biz de ne güzel icabet etmiştik.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 40,
+      "ayah": 60,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:60",
+      "word_position": 4,
+      "target_word_uthmani": "أَسْتَجِبْ",
+      "target_word_rasm": "أستجب",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ إِنَّ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve Rabbiniz dedi ki: Çağırın beni, icabet edeyim size; şüphe yok ki bana kulluk etmekten, ululuk satarak çekinenler, aşağılık bir halde yakıcı yıkım yurduna gireceklerdir.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|1S|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Rabbiniz dedi ki: Çağırın beni, icabet edeyim size; şüphe yok ki bana kulluk etmekten, ululuk satarak çekinenler, aşağılık bir halde yakıcı yıkım yurduna gireceklerdir.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 42,
+      "ayah": 16,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:16",
+      "word_position": 8,
+      "target_word_uthmani": "ٱسْتُجِيبَ",
+      "target_word_rasm": "ٱستجيب",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Halk tarafından, ona icabet edildikten sonra Allah hakkında cedelleşmeye girişenlerin gösterdikleri düşmanlık, Rableri katında boştur ve onlaradır gazep ve onlaradır çetin bir azap.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(X)|LEM:{sotajaAba|ROOT:jwb|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Halk tarafından, ona icabet edildikten sonra Allah hakkında cedelleşmeye girişenlerin gösterdikleri düşmanlık, Rableri katında boştur ve onlaradır gazep ve onlaradır çetin bir azap.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 42,
+      "ayah": 26,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:26",
+      "word_position": 1,
+      "target_word_uthmani": "وَيَسْتَجِيبُ",
+      "target_word_rasm": "ويستجيب",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "güvene eren ve iyi işlerde bulunanların dileklerine icabet eder ve onlar hakkındaki ihsan ve keremini, lütfüyle arttırır ve gerçeğin üzerini örtenlere gelince: Onlaradır çetin azap.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MS"
+      },
+      "ayah_text_arabic_full": "وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَٱلْكَٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren ve iyi işlerde bulunanların dileklerine icabet eder ve onlar hakkındaki ihsan ve keremini, lütfüyle arttırır ve gerçeğin üzerini örtenlere gelince: Onlaradır çetin azap.",
+      "contextual_meaning": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+    },
+    {
+      "surah": 42,
+      "ayah": 38,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:38",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتَجَابُوا۟",
+      "target_word_rasm": "ٱستجابوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ",
+      "context_snippet_turkish_tabula_rasa": "Ve Rablerinin davetine icabet edenlere ve irtibat bağını kurup sürdürenlere ve işlerini, aralarında danışarak yapanlara ve onları rızıklandırdığımız şeylerin bir kısmını ayırıp yoksulları doyuranlara, hayra harcayanlara.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotajaAba|ROOT:jwb|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Rablerinin davetine icabet edenlere ve irtibat bağını kurup sürdürenlere ve işlerini, aralarında danışarak yapanlara ve onları rızıklandırdığımız şeylerin bir kısmını ayırıp yoksulları doyuranlara, hayra harcayanlara.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 42,
+      "ayah": 47,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:47",
+      "word_position": 1,
+      "target_word_uthmani": "ٱسْتَجِيبُوا۟",
+      "target_word_rasm": "ٱستجيبوا",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinizin davetine icabet edin reddine imkan olmayan gün Allah tarafından gelip çatmadan; o gün, ne kaçıp sığınılacak bir yer var size ve ne suçlarını gerçeğin üzerini örtmeye mecal var size.",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(X)|LEM:{sotajaAba|ROOT:jwb|2MP"
+      },
+      "ayah_text_arabic_full": "ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinizin davetine icabet edin reddine imkan olmayan gün Allah tarafından gelip çatmadan; o gün, ne kaçıp sığınılacak bir yer var size ve ne suçlarını gerçeğin üzerini örtmeye mecal var size.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 46,
+      "ayah": 5,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:5",
+      "word_position": 10,
+      "target_word_uthmani": "يَسْتَجِيبُ",
+      "target_word_rasm": "يستجيب",
+      "target_word_literal_irab": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)",
+      "context_snippet_arabic": "ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ı bırakıp da kıyamet günü, kendisine cevap vermeyecek olan ve kendisine tapanlardan haberleri bile bulunmayan şeylere tapandan daha sapık kimdir ki?",
+      "morphology": {
+        "lemma": "{sotajaAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotajaAba|ROOT:jwb|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ı bırakıp da kıyamet günü, kendisine cevap vermeyecek olan ve kendisine tapanlardan haberleri bile bulunmayan şeylere tapandan daha sapık kimdir ki?",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    },
+    {
+      "surah": 46,
+      "ayah": 31,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:31",
+      "word_position": 2,
+      "target_word_uthmani": "أَجِيبُوا۟",
+      "target_word_rasm": "أجيبوا",
+      "target_word_literal_irab": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)",
+      "context_snippet_arabic": "يَٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey kavmimiz, icabet edin Allah'a çağırana ve güvene erin ona da suçlarınızın bir kısmını örtsün ve sizi korusun elemli azaptan.",
+      "morphology": {
+        "lemma": ">ujiybat",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>ujiybat|ROOT:jwb|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey kavmimiz, icabet edin Allah'a çağırana ve güvene erin ona da suçlarınızın bir kısmını örtsün ve sizi korusun elemli azaptan.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 46,
+      "ayah": 32,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:32",
+      "word_position": 3,
+      "target_word_uthmani": "يُجِبْ",
+      "target_word_rasm": "يجب",
+      "target_word_literal_irab": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)",
+      "context_snippet_arabic": "وَمَن لَّا يُجِبْ دَاعِىَ ٱللَّهِ فَلَيْسَ",
+      "context_snippet_turkish_tabula_rasa": "Ve kim icabet etmezse Allah'a çağırana, artık o, yeryüzünde Allah'ı aciz bırakamaz ve ondan başka yardımcılar da yoktur ona; bu çeşit kişilerdir apaçık sapıklığa düşenler.",
+      "morphology": {
+        "lemma": ">ujiybat",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>ujiybat|ROOT:jwb|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن لَّا يُجِبْ دَاعِىَ ٱللَّهِ فَلَيْسَ بِمُعْجِزٍ فِى ٱلْأَرْضِ وَلَيْسَ لَهُۥ مِن دُونِهِۦٓ أَوْلِيَآءُ أُو۟لَٰٓئِكَ فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim icabet etmezse Allah'a çağırana, artık o, yeryüzünde Allah'ı aciz bırakamaz ve ondan başka yardımcılar da yoktur ona; bu çeşit kişilerdir apaçık sapıklığa düşenler.",
+      "contextual_meaning": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+    },
+    {
+      "surah": 89,
+      "ayah": 9,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:9",
+      "word_position": 3,
+      "target_word_uthmani": "جَابُوا۟",
+      "target_word_rasm": "جابوا",
+      "target_word_literal_irab": "Vadideki sert kayaları yarıp oyarak barınaklar açtılar (جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ — Bab I mazi fiil: 89:9)",
+      "context_snippet_arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "context_snippet_turkish_tabula_rasa": "Ve vadileri oyan, kayaları kesen Semud'a.",
+      "morphology": {
+        "lemma": "jaAbu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:jaAbu|ROOT:jwb|3MP"
+      },
+      "ayah_text_arabic_full": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve vadileri oyan, kayaları kesen Semud'a.",
+      "contextual_meaning": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+    }
+  ]
+}

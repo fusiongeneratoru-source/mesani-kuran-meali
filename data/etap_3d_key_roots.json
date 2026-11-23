@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3D (Fâtiha & Kısa Sure Tam Kilidi, Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar — 50 Kök)",
   "target_count": 50,
-  "locked_count": 30,
+  "locked_count": 40,
   "total_tokens_in_package": 1205,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 85.7,
+  "current_coverage_pct": 86.19,
   "target_coverage_pct": 86.92,
   "etap_3d_roots": [
     {
@@ -590,8 +590,8 @@
       "frequency": 48,
       "unique_ayahs": 48,
       "rationale": "Takdîm, Kadem ve İstikdâm (2 açık Mesânî ref! أ-خ-ر zıttı: 82:5, 75:13 önden göndermek ve sağlam duruş adımı)",
-      "concept_label": "Analiz Bekliyor (qad~ama, qadam, yasotaqodimu, qadiym)",
-      "is_locked": false,
+      "concept_label": "Takdîm, Kadem ve İstikdâm (Ayakla İleri Adım Atmak, Öne Geçmek ve Yarın İçin Önden Göndermek)",
+      "is_locked": true,
       "sample_ayah": "2:95",
       "top_lemmas": [
         "qad~ama",
@@ -610,8 +610,8 @@
       "frequency": 43,
       "unique_ayahs": 41,
       "rationale": "İsticâbe ve Cevâb (2 açık Mesânî ref! 89:9 kayayı delip oymak somut çıpası + 2:186, 8:24 çağrıya karşılık vermek)",
-      "concept_label": "Analiz Bekliyor ({sotajaAba, >ujiybat, jawaAb, m~ujiyb)",
-      "is_locked": false,
+      "concept_label": "İcâbet, İsticâbet ve Cevâb (Kayayı/Engeli Yarıp Çağrıya ve Yakarışa Olumlu Karşılık Vermek)",
+      "is_locked": true,
       "sample_ayah": "2:186",
       "top_lemmas": [
         "{sotajaAba",
@@ -630,8 +630,8 @@
       "frequency": 37,
       "unique_ayahs": 35,
       "rationale": "Sebk, Sâbikûn ve İstibâk (2 açık Mesânî ref! 56:10, 35:32, 23:61 hayırda ve sorumlulukta öne geçip yarışmak)",
-      "concept_label": "Analiz Bekliyor (sabaqa, saAbiq, {sotabaqa, masobuwqiyn)",
-      "is_locked": false,
+      "concept_label": "Sabk, Sâbikûn ve İstibâk (Koşuda ve Hayırlarda Yarışıp Öne Geçmek ve Önceden Geçmiş Yasa)",
+      "is_locked": true,
       "sample_ayah": "2:148",
       "top_lemmas": [
         "sabaqa",
@@ -650,8 +650,8 @@
       "frequency": 29,
       "unique_ayahs": 28,
       "rationale": "Meveddet ve Vedûd (2 açık Mesânî ref! ع-د-و ve ب-غ-ض zıttı: 30:21, 60:7, 85:14 kazık gibi köklü sevgi ve dostluk bağı)",
-      "concept_label": "Analiz Bekliyor (wad~a, m~awad~ap, waduwd, wud~)",
-      "is_locked": false,
+      "concept_label": "Meveddet, Vedûd ve Vüdd (Gönlü Bağlayan Sıcak Sevgi Bağı ve İçtenlikle Arzulamak)",
+      "is_locked": true,
       "sample_ayah": "2:96",
       "top_lemmas": [
         "wad~a",
@@ -670,8 +670,8 @@
       "frequency": 21,
       "unique_ayahs": 21,
       "rationale": "Bakâ, Bâkî ve Bâkıyât (2 açık Mesânî ref! ف-ن-ي ve ن-ف-د zıttı: 16:96, 18:46, 55:27 yok olmayıp geride kalıcı olan)",
-      "concept_label": "Analiz Bekliyor (>aboqaY`^, baqiy~at, baqiYa, ba`qiya`t)",
-      "is_locked": false,
+      "concept_label": "Beḳâʾ, Bâḳıyât ve Baḳıyyeh (Yok Olmanın Zıddı Olarak Kalıcı Olmak ve Geriye Kalan Sağlam Değer)",
+      "is_locked": true,
       "sample_ayah": "2:248",
       "top_lemmas": [
         ">aboqaY`^",
@@ -690,8 +690,8 @@
       "frequency": 18,
       "unique_ayahs": 17,
       "rationale": "Sebât ve Tesbît (2 açık Mesânî ref! ز-ل-ل ve ز-ي-غ zıttı: 14:27, 2:250, 47:7 sarsılmaz biçimde yerinde sabitlenmek)",
-      "concept_label": "Analiz Bekliyor (vab~ato, tavobiyt, yuvobitu, vaAbit)",
-      "is_locked": false,
+      "concept_label": "S̱ebât, Tes̱bît ve S̱âbit (Kök Salıp Sarsılmadan Sağlam Durmak, Ayakları ve Kalbi Pekiştirmek)",
+      "is_locked": true,
       "sample_ayah": "2:250",
       "top_lemmas": [
         "vab~ato",
@@ -710,8 +710,8 @@
       "frequency": 16,
       "unique_ayahs": 13,
       "rationale": "Gıll, Gulûl ve Ağlâl (2 açık Mesânî ref! 7:157 boyundaki pranga/boyunduruk, 59:10 kalpteki gizli kin ve 3:161 kamu malı ihaneti)",
-      "concept_label": "Analiz Bekliyor (gil~, gal~a, magoluwlap)",
-      "is_locked": false,
+      "concept_label": "Ağlâl, Ġıll ve Ġulûl (Boyunları Kilitleyen Boyunduruk, Göğse Sızan Gizli Kin ve Emanetten Gizlice Aşırmak)",
+      "is_locked": true,
       "sample_ayah": "3:161",
       "top_lemmas": [
         "gil~",
@@ -729,8 +729,8 @@
       "frequency": 15,
       "unique_ayahs": 11,
       "rationale": "Hürr, Tahrîr ve Harr (2 açık Mesânî ref! 90:13, 4:92, 5:89 boyunduruktan özgürleştirme/köle azadı, 3:35 adanmış özgür kul)",
-      "concept_label": "Analiz Bekliyor (taHoriyr, Har~, Hariyr, Hur~)",
-      "is_locked": false,
+      "concept_label": "Taḥrîr, Ḥürr ve Ḥarr (Boyunduruktan Kurtarıp Özgürleştirmek, Özgür Birey, Saf İpek ve Yakıcı Sıcak)",
+      "is_locked": true,
       "sample_ayah": "2:178",
       "top_lemmas": [
         "taHoriyr",
@@ -749,8 +749,8 @@
       "frequency": 7,
       "unique_ayahs": 6,
       "rationale": "Neks ve Enkâs (2 açık Mesânî ref! 16:92 bükülmüş ipi çözüp dağıtmak somut çıpası + 48:10, 9:12 verilen ahdi bozmak)",
-      "concept_label": "Analiz Bekliyor (n~akava, >anka`v)",
-      "is_locked": false,
+      "concept_label": "Neks̱ ve Enkâs̱ (Sağlamca Bükülmüş İpi ve Bağlanmış Ahdi Çözüp Lif Lif Dağıtmak)",
+      "is_locked": true,
       "sample_ayah": "7:135",
       "top_lemmas": [
         "n~akava",
@@ -767,8 +767,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Kunût ve Kânit (2 açık Mesânî ref! ر-ج-و ve ط-م-ع zıttı: 39:53, 15:56, 30:36 rahmetten tamamen umut kesip kurumak)",
-      "concept_label": "Analiz Bekliyor (qanaTu, qa`niTiyn, qanuwT)",
-      "is_locked": false,
+      "concept_label": "Ḳunûṭ ve Ḳânıṭ (Sıkıntı veya Hata Karşısında Rahmetten Ümidi Tamamen Kesip Çökmek)",
+      "is_locked": true,
       "sample_ayah": "15:55",
       "top_lemmas": [
         "qanaTu",

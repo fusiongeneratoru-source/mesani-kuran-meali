@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 400 mühürlü kökten (`%84,51`) sonra, meal aşamasına geçmeden önce Fâtiha suresinin tamamını, kısa surelerin (93-114) kalan çekirdek düğümlerini, 3+ açık Mesânî referanslarını ve en yüksek frekanslı mühürsüz kavramları kapatan **50 kritik kök** (1205 geçiş) mühürlenerek toplam sözlük **450 kilitli köke (`%86,92` kümülatif kapsam)** ulaştırılır.
-> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 430 Kök | Güncel Kapsam: %85,70)
+> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 440 Kök | Güncel Kapsam: %86,19)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -37,16 +37,16 @@
 | 28 | Açık Mesânî Kilidi | 469 | `ب-د-أ` | `B-D-E` | **15** | 14 | 7:29 | Bedʾ ve İbdâʾ (Yaratılışı ve Bir Süreci İlk Adımından Açıp Başlatmak) | ✅ **MÜHÜRLÜ** |
 | 29 | Açık Mesânî Kilidi | 510 | `و-ص-ل` | `W-S-L` | **12** | 10 | 2:27 | Vaṣl ve Tevṣîl (Kopukluk Bırakmadan Birbirine Bağlayıp Sürdürmek ve Hedefe Ulaştırmak) | ✅ **MÜHÜRLÜ** |
 | 30 | Açık Mesânî Kilidi | 794 | `ف-ر-د` | `F-R-D` | **5** | 5 | 6:94 | Ferd ve Furâdâ (Kalabalıktan ve Dış Dayanaklardan Sıyrılıp Tek Başına ve Teker Teker Olmak) | ✅ **MÜHÜRLÜ** |
-| 31 | Ahit, Sabitlik ve Özgürlük | 209 | `ق-د-م` | `K-D-M` | **48** | 48 | 2:95 | Takdîm, Kadem ve İstikdâm (2 açık Mesânî ref! أ-خ-ر zıttı: 82:5, 75:13 önden göndermek ve sağlam duruş adımı) | ⏳ *Bekliyor* |
-| 32 | Ahit, Sabitlik ve Özgürlük | 226 | `ج-و-ب` | `C-W-B` | **43** | 41 | 2:186 | İsticâbe ve Cevâb (2 açık Mesânî ref! 89:9 kayayı delip oymak somut çıpası + 2:186, 8:24 çağrıya karşılık vermek) | ⏳ *Bekliyor* |
-| 33 | Ahit, Sabitlik ve Özgürlük | 253 | `س-ب-ق` | `S-B-K` | **37** | 35 | 2:148 | Sebk, Sâbikûn ve İstibâk (2 açık Mesânî ref! 56:10, 35:32, 23:61 hayırda ve sorumlulukta öne geçip yarışmak) | ⏳ *Bekliyor* |
-| 34 | Ahit, Sabitlik ve Özgürlük | 310 | `و-د-د` | `W-D-D` | **29** | 28 | 2:96 | Meveddet ve Vedûd (2 açık Mesânî ref! ع-د-و ve ب-غ-ض zıttı: 30:21, 60:7, 85:14 kazık gibi köklü sevgi ve dostluk bağı) | ⏳ *Bekliyor* |
-| 35 | Ahit, Sabitlik ve Özgürlük | 393 | `ب-ق-ي` | `B-K-Y` | **21** | 21 | 2:248 | Bakâ, Bâkî ve Bâkıyât (2 açık Mesânî ref! ف-ن-ي ve ن-ف-د zıttı: 16:96, 18:46, 55:27 yok olmayıp geride kalıcı olan) | ⏳ *Bekliyor* |
-| 36 | Ahit, Sabitlik ve Özgürlük | 426 | `ث-ب-ت` | `S-B-T` | **18** | 17 | 2:250 | Sebât ve Tesbît (2 açık Mesânî ref! ز-ل-ل ve ز-ي-غ zıttı: 14:27, 2:250, 47:7 sarsılmaz biçimde yerinde sabitlenmek) | ⏳ *Bekliyor* |
-| 37 | Ahit, Sabitlik ve Özgürlük | 454 | `غ-ل-ل` | `G-L-L` | **16** | 13 | 3:161 | Gıll, Gulûl ve Ağlâl (2 açık Mesânî ref! 7:157 boyundaki pranga/boyunduruk, 59:10 kalpteki gizli kin ve 3:161 kamu malı ihaneti) | ⏳ *Bekliyor* |
-| 38 | Ahit, Sabitlik ve Özgürlük | 462 | `ح-ر-ر` | `H-R-R` | **15** | 11 | 2:178 | Hürr, Tahrîr ve Harr (2 açık Mesânî ref! 90:13, 4:92, 5:89 boyunduruktan özgürleştirme/köle azadı, 3:35 adanmış özgür kul) | ⏳ *Bekliyor* |
-| 39 | Ahit, Sabitlik ve Özgürlük | 683 | `ن-ك-ث` | `N-K-S` | **7** | 6 | 7:135 | Neks ve Enkâs (2 açık Mesânî ref! 16:92 bükülmüş ipi çözüp dağıtmak somut çıpası + 48:10, 9:12 verilen ahdi bozmak) | ⏳ *Bekliyor* |
-| 40 | Ahit, Sabitlik ve Özgürlük | 735 | `ق-ن-ط` | `K-N-T` | **6** | 6 | 15:55 | Kunût ve Kânit (2 açık Mesânî ref! ر-ج-و ve ط-م-ع zıttı: 39:53, 15:56, 30:36 rahmetten tamamen umut kesip kurumak) | ⏳ *Bekliyor* |
+| 31 | Ahit, Sabitlik ve Özgürlük | 209 | `ق-د-م` | `K-D-M` | **48** | 48 | 2:95 | Takdîm, Kadem ve İstikdâm (Ayakla İleri Adım Atmak, Öne Geçmek ve Yarın İçin Önden Göndermek) | ✅ **MÜHÜRLÜ** |
+| 32 | Ahit, Sabitlik ve Özgürlük | 226 | `ج-و-ب` | `C-W-B` | **43** | 41 | 2:186 | İcâbet, İsticâbet ve Cevâb (Kayayı/Engeli Yarıp Çağrıya ve Yakarışa Olumlu Karşılık Vermek) | ✅ **MÜHÜRLÜ** |
+| 33 | Ahit, Sabitlik ve Özgürlük | 253 | `س-ب-ق` | `S-B-K` | **37** | 35 | 2:148 | Sabk, Sâbikûn ve İstibâk (Koşuda ve Hayırlarda Yarışıp Öne Geçmek ve Önceden Geçmiş Yasa) | ✅ **MÜHÜRLÜ** |
+| 34 | Ahit, Sabitlik ve Özgürlük | 310 | `و-د-د` | `W-D-D` | **29** | 28 | 2:96 | Meveddet, Vedûd ve Vüdd (Gönlü Bağlayan Sıcak Sevgi Bağı ve İçtenlikle Arzulamak) | ✅ **MÜHÜRLÜ** |
+| 35 | Ahit, Sabitlik ve Özgürlük | 393 | `ب-ق-ي` | `B-K-Y` | **21** | 21 | 2:248 | Beḳâʾ, Bâḳıyât ve Baḳıyyeh (Yok Olmanın Zıddı Olarak Kalıcı Olmak ve Geriye Kalan Sağlam Değer) | ✅ **MÜHÜRLÜ** |
+| 36 | Ahit, Sabitlik ve Özgürlük | 426 | `ث-ب-ت` | `S-B-T` | **18** | 17 | 2:250 | S̱ebât, Tes̱bît ve S̱âbit (Kök Salıp Sarsılmadan Sağlam Durmak, Ayakları ve Kalbi Pekiştirmek) | ✅ **MÜHÜRLÜ** |
+| 37 | Ahit, Sabitlik ve Özgürlük | 454 | `غ-ل-ل` | `G-L-L` | **16** | 13 | 3:161 | Ağlâl, Ġıll ve Ġulûl (Boyunları Kilitleyen Boyunduruk, Göğse Sızan Gizli Kin ve Emanetten Gizlice Aşırmak) | ✅ **MÜHÜRLÜ** |
+| 38 | Ahit, Sabitlik ve Özgürlük | 462 | `ح-ر-ر` | `H-R-R` | **15** | 11 | 2:178 | Taḥrîr, Ḥürr ve Ḥarr (Boyunduruktan Kurtarıp Özgürleştirmek, Özgür Birey, Saf İpek ve Yakıcı Sıcak) | ✅ **MÜHÜRLÜ** |
+| 39 | Ahit, Sabitlik ve Özgürlük | 683 | `ن-ك-ث` | `N-K-S` | **7** | 6 | 7:135 | Neks̱ ve Enkâs̱ (Sağlamca Bükülmüş İpi ve Bağlanmış Ahdi Çözüp Lif Lif Dağıtmak) | ✅ **MÜHÜRLÜ** |
+| 40 | Ahit, Sabitlik ve Özgürlük | 735 | `ق-ن-ط` | `K-N-T` | **6** | 6 | 15:55 | Ḳunûṭ ve Ḳânıṭ (Sıkıntı veya Hata Karşısında Rahmetten Ümidi Tamamen Kesip Çökmek) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 220 | `س-ر-ر` | `S-R-R` | **44** | 43 | 2:69 | Sırr, İsrâr, Mesrûr ve Sürür (1 açık Mesânî ref! ع-ل-ن ve ج-ه-ر zıttı gizlemek/sır + içten parlayan sevinç ve tahtlar) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 232 | `ق-و-ي` | `K-W-Y` | **42** | 39 | 2:63 | Kuvvet, Kaviyy ve Mukvîn (1 açık Mesânî ref! ض-ع-ف [Za'f] kökünün doğrudan Mesânî zıttı: bükülmüş halat sağlamlığı ve güç) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 234 | `ص-د-د` | `S-D-D` | **42** | 41 | 2:217 | Sadd ve Sudûd (1 açık Mesânî ref! 4:61, 22:25 hak yoldan ve ortak mabedden geri çevirip engellemek ve yüz çevirmek) | ⏳ *Bekliyor* |

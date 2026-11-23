@@ -30526,5 +30526,762 @@
       }
     ],
     "context_default": "Kalabalıktan ve dış dayanaklardan sıyrılıp tek başına ve teker teker olmak (ف-ر-د)."
+  },
+  "ق-د-م": {
+    "buckwalter": "qdm",
+    "slug": "takdim_kadem_ve_istikdam_ileri_adim_atmak_ve_onden_gondermek_qdm",
+    "concept_name": "Takdîm, Kadem ve İstikdâm (Ayakla İleri Adım Atmak, Öne Geçmek ve Yarın İçin Önden Göndermek)",
+    "keywords": [
+      "takdim",
+      "kadem",
+      "akdam",
+      "kadim",
+      "istikdam",
+      "önden göndermek",
+      "ayak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qad~ama",
+        "label": "İnsanın kendi elleriyle yarını ve geleceği için önceden hazırlayıp ileri göndermesi veya önüne geçmesi (قَدَّمَ / قَدَّمَتْ / قَدَّمْتُمْ / تُقَدِّمُوا۟ — Bab II fiil: 27 geçiş)"
+      },
+      {
+        "lemma": "qadam",
+        "label": "İnsanı ileriye taşıyan ayak/adım (2:250, 3:147, 8:11, 16:94, 41:29, 47:7, 55:41) ve doğrulukla önceden ortaya konulmuş sağlam birikim (10:2) (قَدَمَ / أَقْدَامَ — isim: 8 geçiş)"
+      },
+      {
+        "lemma": "yasotaqodimu",
+        "label": "Belirlenen süreyi bir saat bile öne çekememek (وَلَا يَسْتَقْدِمُونَ — Bab X muzâri fiil: 7:34, 10:49, 16:61, 34:30)"
+      },
+      {
+        "lemma": "musotaqodimiyn",
+        "label": "Öne geçen önceki kuşaklar ve öncüler (ٱلْمُسْتَقْدِمِينَ — Bab X ism-i fâil: 15:24)"
+      },
+      {
+        "lemma": "qadiym",
+        "label": "Zaman bakımından eski olan (ٱلْقَدِيمِ / قَدِيمٌ — sıfat-ı müşebbehe: 12:95, 36:39, 46:11)"
+      },
+      {
+        "lemma": ">aqodamuwn",
+        "label": "Daha önce gelip geçmiş eski atalar (وَءَابَآؤُكُمُ ٱلْأَقْدَمُونَ — ism-i tafdîl: 26:76)"
+      },
+      {
+        "lemma": "qadimo",
+        "label": "Topluluğunun önüne düşüp onları ateşe götürür (11:98) ve yaptıkları işlerin üzerine vardık (25:23) (يَقْدُمُ / قَدِمْنَآ — Bab I fiil)"
+      },
+      {
+        "lemma": "taqad~ama",
+        "label": "Geçmişte önden yapılanlar (48:2) ve geride kalmanın karşıtı olarak ileriye doğru adım atmak (74:37) (تَقَدَّمَ / يَتَقَدَّمَ — Bab V fiil)"
+      }
+    ],
+    "irab_default": "Ayakla ileri adım atmak, öne geçmek ve kendi geleceği için önden hazırlayıp göndermek (ق-د-م kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:95",
+          "2:110",
+          "2:223",
+          "3:182",
+          "4:62",
+          "5:80",
+          "8:51",
+          "12:48",
+          "18:57",
+          "22:10",
+          "28:47",
+          "30:36",
+          "36:12",
+          "38:60",
+          "38:61",
+          "42:48",
+          "50:28",
+          "58:12",
+          "58:13",
+          "59:18",
+          "62:7",
+          "73:20",
+          "75:13",
+          "78:40",
+          "82:5",
+          "89:24"
+        ],
+        "text": "İnsanın hesap gününde karşılaşacağı her sonucun, kendi ellerinin yarını için önceden hazırlayıp ileri gönderdiği (mâ kaddemet yedâhü) eylemler olması."
+      },
+      {
+        "ayahs": [
+          "2:250",
+          "3:147",
+          "8:11",
+          "10:2",
+          "16:94",
+          "41:29",
+          "47:7",
+          "55:41"
+        ],
+        "text": "Zorluk ve direniş anında ayakların (akdâm) sarsılmadan yere sağlam basması ve güvenenler için Rableri katında doğruluk birikimi (kademe sıdkın - 10:2) bulunması."
+      },
+      {
+        "ayahs": [
+          "7:34",
+          "10:49",
+          "11:98",
+          "12:95",
+          "15:24",
+          "16:61",
+          "25:23",
+          "26:76",
+          "34:30",
+          "36:39",
+          "46:11",
+          "48:2",
+          "49:1",
+          "74:37"
+        ],
+        "text": "Belirlenen sürenin öne çekilememesi (lâ yestakdimûn), Allah ve Elçisinin önüne geçmeme ilkesi (49:1) ve insanın ileri adım atma iradesi (74:37)."
+      }
+    ],
+    "context_default": "Ayakla ileri adım atmak, öne geçmek ve kendi geleceği için önden hazırlayıp göndermek (ق-د-م)."
+  },
+  "ج-و-ب": {
+    "buckwalter": "jwb",
+    "slug": "icabet_isticabet_ve_cevap_kayayi_yarip_cagriya_karsilik_vermek_jwb",
+    "concept_name": "İcâbet, İsticâbet ve Cevâb (Kayayı/Engeli Yarıp Çağrıya ve Yakarışa Olumlu Karşılık Vermek)",
+    "keywords": [
+      "icabet",
+      "isticabet",
+      "cevap",
+      "mücib",
+      "çağrıya karşılık vermek",
+      "kayayı oymak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{sotajaAba",
+        "label": "Yapılan çağrıya veya yakarışa yönelerek olumlu karşılık verip icabet etmek (ٱسْتَجَابَ / ٱسْتَجَابُوا۟ / يَسْتَجِيبُ / فَلْيَسْتَجِيبُوا۟ — Bab X fiil: 28 geçiş)"
+      },
+      {
+        "lemma": ">ujiybat",
+        "label": "Çağrıyı ve yakarışı karşılıksız bırakmayıp yanıtlamak (أُجِيبُ / أُجِيبَت / يُجِيبُ / فَأَجِيبُوا۟ — Bab IV fiil: 8 geçiş)"
+      },
+      {
+        "lemma": "jawaAb",
+        "label": "Söze veya uyarıya verilen karşılık ve yanıt (جَوَابَ — isim: 7:82, 27:56, 29:24, 29:29)"
+      },
+      {
+        "lemma": "m~ujiyb",
+        "label": "Kullarının çağrısına çok yakın olup en güzel şekilde yanıtlayan (قَرِيبٌ مُّجِيبٌ / نِعْمَ ٱلْمُجِيبُونَ — Bab IV ism-i fâil: 11:61, 37:75)"
+      },
+      {
+        "lemma": "jaAbu",
+        "label": "Vadideki sert kayaları yarıp oyarak barınaklar açtılar (جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ — Bab I mazi fiil: 89:9)"
+      }
+    ],
+    "irab_default": "Engeli yarıp bir çağrıya, soruya veya yakarışa olumlu karşılık vermek (ج-و-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:186",
+          "3:195",
+          "8:9",
+          "10:89",
+          "11:61",
+          "12:34",
+          "21:76",
+          "21:84",
+          "21:88",
+          "21:90",
+          "27:62",
+          "37:75",
+          "40:60",
+          "42:26"
+        ],
+        "text": "Allah'ın yakaran kuluna çok yakın olup darda kalanın ve samimiyetle yönelenin çağrısına doğrudan karşılık vermesi (ücîbü da'vete'd-dâ' / estecib leküm)."
+      },
+      {
+        "ayahs": [
+          "3:172",
+          "5:109",
+          "6:36",
+          "8:24",
+          "13:18",
+          "14:44",
+          "28:50",
+          "28:65",
+          "42:38",
+          "42:47",
+          "46:31",
+          "46:32"
+        ],
+        "text": "İnsana hayat veren vahiy çağrısına can kulağıyla dinleyerek olumlu karşılık verenler ile çağrıya sırt çevirip kendi tutkularına uyanların karşıtlığı."
+      },
+      {
+        "ayahs": [
+          "7:82",
+          "7:194",
+          "11:14",
+          "13:14",
+          "14:22",
+          "17:52",
+          "18:52",
+          "27:56",
+          "28:64",
+          "29:24",
+          "29:29",
+          "35:14",
+          "42:16",
+          "46:5",
+          "89:9"
+        ],
+        "text": "Vadideki kayaları yarıp oyan Semûd (89:9), elçilere verilen zorba cevaplar ve Allah'tan başka çağrılan sahte odakların hiçbir çağrıya karşılık verememesi."
+      }
+    ],
+    "context_default": "Engeli yarıp bir çağrıya, soruya veya yakarışa olumlu karşılık vermek (ج-و-ب)."
+  },
+  "س-ب-ق": {
+    "buckwalter": "sbq",
+    "slug": "sabk_sabikun_ve_istibak_yarisip_one_gecmek_ve_hayirda_onculuk_sbq",
+    "concept_name": "Sabk, Sâbikûn ve İstibâk (Koşuda ve Hayırlarda Yarışıp Öne Geçmek ve Önceden Geçmiş Yasa)",
+    "keywords": [
+      "sabk",
+      "sabikun",
+      "istibak",
+      "festebikul hayrat",
+      "öne geçmek",
+      "yarışmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sabaqa",
+        "label": "Zamanda veya eylemde daha önce geçmek, önceden verilmiş ilahi söz/yasa (كَلِمَةٌ سَبَقَتْ) ve ilahi yasayı aşıp kaçamamak (سَبَقَ / سَبَقَتْ / سَبَقُونَا / يَسْبِقُونَ — Bab I fiil: 20 geçiş)"
+      },
+      {
+        "lemma": "saAbiq",
+        "label": "Hayırlarda ve imanda en önde giden öncüler (9:100, 23:61, 35:32, 56:10), yörüngede birbirinin önüne geçemeyen gece ve gündüz (36:40) ve yasayı aşıp kaçamayanlar (29:39) (ٱلسَّٰبِقُونَ / سَابِقٌ — Bab I ism-i fâil: 7 geçiş)"
+      },
+      {
+        "lemma": "{sotabaqa",
+        "label": "Hayırlarda, kapıya varmada veya koşuda birbirini geçmek için yarışmak (فَٱسْتَبِقُوا۟ / ٱسْتَبَقَا / نَسْتَبِقُ — Bab VIII fiil: 2:148, 5:48, 12:17, 12:25, 36:66)"
+      },
+      {
+        "lemma": "masobuwqiyn",
+        "label": "Önüne geçilip aciz bırakılacak olanlar (وَمَا نَحْنُ بِمَسْبُوقِينَ — Bab I ism-i mef'ûl: 56:60, 70:41)"
+      },
+      {
+        "lemma": "saAbiqu",
+        "label": "Rabbinizden bir bağışlanmaya doğru birbirinizle yarışıp öne geçin (سَابِقُوٓا۟ — Bab III emir fiil: 57:21)"
+      },
+      {
+        "lemma": "s~a`biqa`t",
+        "label": "Yarışıp en öne geçenler (فَٱلسَّٰبِقَٰتِ — çoğul ism-i fâil: 79:4)"
+      },
+      {
+        "lemma": "saboq",
+        "label": "Hızla yarışıp öne geçmekle (سَبْقًا — Bab I مef'ûl-ü mutlak mastar: 79:4)"
+      }
+    ],
+    "irab_default": "Koşuda, zamanda veya hayır yarışında başkalarını geride bırakıp öne geçmek (س-ب-ق kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:148",
+          "5:48",
+          "9:100",
+          "23:61",
+          "35:32",
+          "56:10",
+          "57:21",
+          "59:10",
+          "79:4"
+        ],
+        "text": "Hayırlarda ve onarıcı işlerde birbirini geçmek üzere yarışma çağrısı (festebiku'l-hayrât / sâbikû) ve imanda en önde giden öncüler (es-sâbikûn)."
+      },
+      {
+        "ayahs": [
+          "8:59",
+          "15:5",
+          "21:27",
+          "23:43",
+          "29:4",
+          "29:39",
+          "36:40",
+          "56:60",
+          "70:41"
+        ],
+        "text": "Hiçbir topluluğun belirlenen süresinin önüne geçememesi, gecenin gündüzün önüne geçememesi ve kötülük yapanların Allah'ın yasasını aşıp kaçamayacağı."
+      },
+      {
+        "ayahs": [
+          "7:80",
+          "8:68",
+          "10:19",
+          "11:40",
+          "11:110",
+          "12:17",
+          "12:25",
+          "20:99",
+          "20:129",
+          "21:101",
+          "23:27",
+          "29:28",
+          "36:66",
+          "37:171",
+          "41:45",
+          "42:14",
+          "46:11"
+        ],
+        "text": "Fiziksel koşu ve kapıya varma yarışı (12:17, 12:25) ile daha önce geçmiş ilahi hüküm ve söz (kelimetün sebakat)."
+      }
+    ],
+    "context_default": "Koşuda, zamanda veya hayır yarışında başkalarını geride bırakıp öne geçmek (س-ب-ق)."
+  },
+  "و-د-د": {
+    "buckwalter": "wdd",
+    "slug": "meveddet_vedud_ve_vudd_sicak_sevgi_bagi_ve_gonulden_arzulamak_wdd",
+    "concept_name": "Meveddet, Vedûd ve Vüdd (Gönlü Bağlayan Sıcak Sevgi Bağı ve İçtenlikle Arzulamak)",
+    "keywords": [
+      "meveddet",
+      "vedud",
+      "vüdd",
+      "sevgi",
+      "dostluk",
+      "arzulamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "wad~a",
+        "label": "Bir şeyin gerçekleşmesini gönülden arzulayıp temenni etmek (2:96, 2:109, 4:42, 15:2, 70:11) veya karşılıklı sevgi ve dostluk bağı kurmak (58:22) (وَدَّ / وَدُّوا۟ / يَوَدُّ / يُوَآدُّونَ — Bab I ve Bab III fiil: 17 geçiş)"
+      },
+      {
+        "lemma": "m~awad~ap",
+        "label": "Eşler, yakınlar ve insanlar arasında kurulan dışa yansıyan sıcak sevgi ve dostluk bağı (مَّوَدَّةً / ٱلْمَوَدَّةِ — مîmli mastar/isim: 8 geçiş)"
+      },
+      {
+        "lemma": "waduwd",
+        "label": "Kullarını içtenlikle seven ve sevgisini ikramıyla gösteren (رَحِيمٌ وَدُودٌ / ٱلْغَفُورُ ٱلْوَدُودُ — mübâlağalı sıfat: 11:90, 85:14)"
+      },
+      {
+        "lemma": "wud~",
+        "label": "Gönüllerde yerleşik içten sevgi (سَيَجْعَلُ لَهُمُ ٱلرَّحْمَٰنُ وُدًّا — isim: 19:96)"
+      },
+      {
+        "lemma": "wad~",
+        "label": "Nûh kavminin sevgi ve bağlılık kazığı olarak putlaştırdığı Vedd (لَا تَذَرُنَّ وَدًّا — özel isim: 71:23)"
+      }
+    ],
+    "irab_default": "Gönlü bağlayan sıcak sevgi bağı kurmak ve bir şeyin olmasını içtenlikle arzulamak (و-د-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:73",
+          "5:82",
+          "11:90",
+          "19:96",
+          "29:25",
+          "30:21",
+          "42:23",
+          "58:22",
+          "60:1",
+          "60:7",
+          "71:23",
+          "85:14"
+        ],
+        "text": "Kullarını içtenlikle seven el-Vedûd, eşler ve toplumlar arasına yerleştirilen sıcak sevgi bağı (meveddet) ve dürüst davrananlar için gönüllerde kurulan sevgi (vüdd)."
+      },
+      {
+        "ayahs": [
+          "2:96",
+          "2:105",
+          "2:109",
+          "2:266",
+          "3:30",
+          "3:69",
+          "3:118",
+          "4:42",
+          "4:89",
+          "4:102",
+          "8:7",
+          "15:2",
+          "33:20",
+          "60:2",
+          "68:9",
+          "70:11"
+        ],
+        "text": "Dünyaya tutkulu olanların bin yıl yaşamayı arzulaması, gerçeği örtmekte diretenlerin hesap günü tüm sevdiklerini fidye vermeyi veya teslim olmuş olmayı temenni etmesi (yeveddü)."
+      }
+    ],
+    "context_default": "Gönlü bağlayan sıcak sevgi bağı kurmak ve bir şeyin olmasını içtenlikle arzulamak (و-د-د)."
+  },
+  "ب-ق-ي": {
+    "buckwalter": "bqy",
+    "slug": "beka_bakiyat_ve_bakiyye_tukenmeyip_kalici_olmak_ve_geriye_kalan_deger_bqy",
+    "concept_name": "Beḳâʾ, Bâḳıyât ve Baḳıyyeh (Yok Olmanın Zıddı Olarak Kalıcı Olmak ve Geriye Kalan Sağlam Değer)",
+    "keywords": [
+      "beka",
+      "baki",
+      "bakiyat",
+      "bakiyye",
+      "ebka",
+      "kalıcı olmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aboqaY`^",
+        "label": "Yok olup gitmeyen, çok daha kalıcı ve sürekli olan (وَأَبْقَىٰ — ism-i tafdîl: 20:71, 20:73, 20:127, 20:131, 28:60, 42:36, 87:17)"
+      },
+      {
+        "lemma": "baqiy~at",
+        "label": "Geriye kalan helal ve bereketli pay (2:248, 11:86) ile yeryüzünde bozgunculuğu önleyen sağduyu ve erdem sahibi kalıcı kadro (11:116) (بَقِيَّتُ / بَقِيَّةٍ — isim)"
+      },
+      {
+        "lemma": "baqiYa",
+        "label": "Geriye kalmak ve yok olmayıp varlığını sürdürmek (2:278, 55:27) veya geriye kimseyi sağ bırakmamak (53:51) (بَقِىَ / وَيَبْقَىٰ / فَمَآ أَبْقَىٰ — Bab I ve Bab IV fiil)"
+      },
+      {
+        "lemma": "ba`qiya`t",
+        "label": "Geçici dünya süslerinin aksine meyvesi kalıcı olan onarıcı eylemler (وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ — çoğul ism-i fâil: 18:46, 19:76)"
+      },
+      {
+        "lemma": "baAqiyn",
+        "label": "Geriye kalanlar ve soyu kalıcı kılınanlar (ٱلْبَٰقِينَ — çoğul ism-i fâil: 26:120, 37:77)"
+      },
+      {
+        "lemma": "baAqiyap",
+        "label": "Ardından gelen kuşaklar arasında kalıcı bir tevhid sözü (43:28) ve geriye kalan tek bir kalıntı (69:8) (بَاقِيَةً / بَاقِيَةٍ — müennes ism-i fâil)"
+      },
+      {
+        "lemma": "baAq",
+        "label": "Tükenmeyip sonsuza dek kalıcı olan (وَمَا عِندَ ٱللَّهِ بَاقٍ — Bab I ism-i fâil: 16:96)"
+      },
+      {
+        "lemma": "tuboqiY",
+        "label": "Yakıp kavurduğundan geriye hiçbir şey bırakmaz (لَا تُبْقِى وَلَا تَذَرُ — Bab IV muzâri fiil: 74:28)"
+      }
+    ],
+    "irab_default": "Yok olup tükenmenin zıddı olarak varlığını sürdürmek, kalıcı olmak ve geriye kalan sağlam değer (ب-ق-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "16:96",
+          "18:46",
+          "19:76",
+          "20:71",
+          "20:73",
+          "20:127",
+          "20:131",
+          "28:60",
+          "42:36",
+          "55:27",
+          "87:17"
+        ],
+        "text": "Her şey yok olurken yalnız Rabbin zatının ve katındakinin kalıcı (bâk) olması; kalıcı onarıcı eylemlerin (el-bâkıyâtü's-sâlihât) ve ahiretin daha iyi ve daha kalıcı (hayrun ve ebkâ) olması."
+      },
+      {
+        "ayahs": [
+          "2:248",
+          "2:278",
+          "11:86",
+          "11:116",
+          "43:28"
+        ],
+        "text": "Faizden geriye kalanın terk edilmesi, Allah'ın bıraktığı helal payın (bakıyyetullâh) üstünlüğü, kuşaklar boyu kalıcı söz ve bozgunculuğu önleyen sağduyu sahibi kalıcı erdemliler (ulû bakıyyeh)."
+      },
+      {
+        "ayahs": [
+          "26:120",
+          "37:77",
+          "53:51",
+          "69:8",
+          "74:28"
+        ],
+        "text": "Nûh'un soyunun kalıcı kılınması ile azgınlaşan toplumların geride tek bir kalıntı bile bırakılmadan yıkıma uğraması."
+      }
+    ],
+    "context_default": "Yok olup tükenmenin zıddı olarak varlığını sürdürmek, kalıcı olmak ve geriye kalan sağlam değer (ب-ق-ي)."
+  },
+  "ث-ب-ت": {
+    "buckwalter": "vbt",
+    "slug": "sebat_tesbit_ve_sabit_kok_salip_saglam_durmak_ve_pekistirmek_vbt",
+    "concept_name": "S̱ebât, Tes̱bît ve S̱âbit (Kök Salıp Sarsılmadan Sağlam Durmak, Ayakları ve Kalbi Pekiştirmek)",
+    "keywords": [
+      "sebat",
+      "tesbit",
+      "sabit",
+      "sübut",
+      "sağlam durmak",
+      "pekiştirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "vab~ato",
+        "label": "Sarsıntı, korku veya baskı karşısında ayakları, kalbi ve duruşu sağlamlaştırıp pekiştirmek (ثَبِّتْ / نُثَبِّتُ / يُثَبِّتُ / ثَبَّتْنَٰكَ — Bab II fiil: 10 geçiş)"
+      },
+      {
+        "lemma": "tavobiyt",
+        "label": "Benliklerinde içsel tutarlılık ve sağlamlık kazandırmak için (تَثْبِيتًا مِّنْ أَنفُسِهِمْ — Bab II mastar: 2:265, 4:66)"
+      },
+      {
+        "lemma": "vaAbit",
+        "label": "Kökü toprağa sağlamca yerleşmiş güzel ağaç (14:24) ve kanıtı sarsılmaz sağlam söz (14:27) (ثَابِتٌ / ٱلثَّابِتِ — Bab I ism-i fâil)"
+      },
+      {
+        "lemma": "yuvobitu",
+        "label": "Dilediği hükmü sabit kılmak (13:39) veya birini hareket edemez biçimde bağlayıp hapsetmek (8:30) (وَيُثْبِتُ / لِيُثْبِتُوكَ — Bab IV muzâri fiil)"
+      },
+      {
+        "lemma": "{vobutu",
+        "label": "Zorluk ve çatışma anında sarsılmadan sağlam durun (فَٱثْبُتُوا۟ — Bab I emir fiil: 8:45)"
+      },
+      {
+        "lemma": "vubuwt",
+        "label": "Ayağın zemine sağlamca yerleşip durmasından sonra (بَعْدَ ثُبُوتِهَا — Bab I mastar: 16:94)"
+      }
+    ],
+    "irab_default": "Kök salıp sarsılmadan sağlam durmak, ayakları ve kalbi pekiştirmek (ث-ب-ت kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:250",
+          "3:147",
+          "8:11",
+          "8:12",
+          "8:45",
+          "16:94",
+          "47:7"
+        ],
+        "text": "Zorluk ve direniş anında ayakların kaymadan zemine sağlam basması ve Allah'ın güvenenlerin adımlarını sağlamlaştırması (sebbit akdâmenâ)."
+      },
+      {
+        "ayahs": [
+          "2:265",
+          "4:66",
+          "11:120",
+          "14:24",
+          "14:27",
+          "16:102",
+          "17:74",
+          "25:32"
+        ],
+        "text": "Kökü toprağa sağlamca yerleşmiş güzel ağaç gibi olan sağlam söz (el-kavlü's-sâbit) ve vahyin parça parça indirilerek kalbi ve karakteri pekiştirmesi (linüsebbitü bihî fuâdek)."
+      },
+      {
+        "ayahs": [
+          "8:30",
+          "13:39"
+        ],
+        "text": "Allah'ın dilediği hükmü silip dilediğini sabit kılması (13:39) ve Mekke ileri gelenlerinin elçiyi bağlayıp hapsetme (liyüsbitûke - 8:30) planı."
+      }
+    ],
+    "context_default": "Kök salıp sarsılmadan sağlam durmak, ayakları ve kalbi pekiştirmek (ث-ب-ت)."
+  },
+  "غ-ل-ل": {
+    "buckwalter": "gll",
+    "slug": "aglal_gill_ve_gulul_boyunduruk_gogse_sizan_kin_ve_gizlice_asirmak_gll",
+    "concept_name": "Ağlâl, Ġıll ve Ġulûl (Boyunları Kilitleyen Boyunduruk, Göğse Sızan Gizli Kin ve Emanetten Gizlice Aşırmak)",
+    "keywords": [
+      "aglal",
+      "gıll",
+      "gulul",
+      "mağlule",
+      "boyunduruk",
+      "gizli kin"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "gil~",
+        "label": "Boyunlara geçirilen boyunduruk halkaları (ٱلْأَغْلَٰلَ / أَغْلَٰلًا — 7:157, 13:5, 34:33, 36:8, 40:71, 76:4) ve göğsün içine sızıp yerleşen gizli kin (غِلٍّ / غِلًّا — 7:43, 15:47, 59:10)"
+      },
+      {
+        "lemma": "gal~a",
+        "label": "Kamu emanetinden gizlice kendi yüküne sokuşturup zimmete geçirmek (3:161 [3x]) veya eli boyundurukla bağlamak (5:64, 69:30) (يَغُلَّ / يَغْلُلْ / غَلَّ / غُلَّتْ / فَغُلُّوهُ — Bab I fiil)"
+      },
+      {
+        "lemma": "magoluwlap",
+        "label": "Eli cimrilikle boynuna prangalanmış olan (مَغْلُولَةٌ / مَغْلُولَةً — Bab I ism-i mef'ûl: 5:64, 17:29)"
+      }
+    ],
+    "irab_default": "Dar bir aralığa girip kilitlenmek: boyundurukla bağlamak, göğse sızan gizli kin ve emanetten gizlice aşırmak (غ-ل-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:64",
+          "7:157",
+          "13:5",
+          "17:29",
+          "34:33",
+          "36:8",
+          "40:71",
+          "69:30",
+          "76:4"
+        ],
+        "text": "Elçinin toplumların boynundaki ağır yük ve boyundurukları (ağlâl) indirip kaldırması (7:157), cimrilikle eli boyna prangalamama ilkesi (17:29) ve kibirle boyunları kilitlenenler."
+      },
+      {
+        "ayahs": [
+          "7:43",
+          "15:47",
+          "59:10"
+        ],
+        "text": "Arınmışların göğüslerinin içine sızmış her türlü gizli kin ve hasedin (gıll) sökülüp atılarak tam bir kardeşlik kurulması."
+      },
+      {
+        "ayahs": [
+          "3:161"
+        ],
+        "text": "Hiçbir elçinin kamu malından ve emanetten gizlice bir şeyi kendi yüküne sokuşturup zimmetine geçirmesinin (en yeğulle) mümkün olmaması."
+      }
+    ],
+    "context_default": "Boyundurukla bağlamak, göğse sızan gizli kin ve emanetten gizlice aşırmak (غ-ل-ل)."
+  },
+  "ح-ر-ر": {
+    "buckwalter": "Hrr",
+    "slug": "tahrir_hurr_ve_harr_boyunduruktan_kurtarip_ozgurlestirmek_ve_yakici_sicak_hrr",
+    "concept_name": "Taḥrîr, Ḥürr ve Ḥarr (Boyunduruktan Kurtarıp Özgürleştirmek, Özgür Birey, Saf İpek ve Yakıcı Sıcak)",
+    "keywords": [
+      "tahrir",
+      "hür",
+      "muharrer",
+      "harir",
+      "harur",
+      "özgürleştirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "taHoriyr",
+        "label": "Boyunduruk altındaki bir insanı kölelikten kurtarıp özgürlüğüne kavuşturmak (تَحْرِيرُ رَقَبَةٍ — Bab II mastar: 4:92 [3x], 5:89, 58:3)"
+      },
+      {
+        "lemma": "muHar~ar",
+        "label": "Dünyevi kulluk bağlarından azat edilip yalnızca Allah'a adanmış olarak (مُحَرَّرًا — Bab II ism-i mef'ûl: 3:35)"
+      },
+      {
+        "lemma": "Hur~",
+        "label": "Başkasının boyunduruğu altında olmayan özgür birey (ٱلْحُرُّ بِٱلْحُرِّ — sıfat/isim: 2:178 [2x])"
+      },
+      {
+        "lemma": "Hariyr",
+        "label": "Katışıksız, saf ve yumuşak ipek giysi (حَرِيرٌ / حَرِيرًا — isim: 22:23, 35:33, 76:12)"
+      },
+      {
+        "lemma": "Har~",
+        "label": "Güneşin ve ateşin yakıcı sıcağı (فِى ٱلْحَرِّ / ٱلْحَرَّ — isim: 9:81 [2x], 16:81)"
+      },
+      {
+        "lemma": "Haruwr",
+        "label": "Kavurucu sıcak ve yakıcı rüzgâr (وَلَا ٱلْحَرُورُ — isim: 35:21)"
+      }
+    ],
+    "irab_default": "Boyunduruktan kurtarıp özgürleştirmek, özgür ve saf olmak veya yakıcı sıcaklık (ح-ر-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:178",
+          "3:35",
+          "4:92",
+          "5:89",
+          "58:3"
+        ],
+        "text": "Hukuki ve ahlaki onarımın (kefaretin) ilk şartı olarak boyunduruk altındaki bir insanı özgürlüğüne kavuşturmak (tahrîru rakabeh), bireysel ceza sorumluluğu (el-hürru bi'l-hürr) ve dünyevi kulluklardan azat edilmiş adanmışlık (muharrerâ)."
+      },
+      {
+        "ayahs": [
+          "9:81",
+          "16:81",
+          "22:23",
+          "35:21",
+          "35:33",
+          "76:12"
+        ],
+        "text": "Gölge ile kavurucu sıcağın (el-harûr) bir olmaması, sıcaktan koruyan giysiler ve arınmışların saf ipek (harîr) giysileri."
+      }
+    ],
+    "context_default": "Boyunduruktan kurtarıp özgürleştirmek, özgür ve saf olmak veya yakıcı sıcaklık (ح-ر-ر)."
+  },
+  "ن-ك-ث": {
+    "buckwalter": "nkv",
+    "slug": "neks_ve_enkas_bukulmus_ipi_ve_baglanmis_ahdi_cozup_bozmak_nkv",
+    "concept_name": "Neks̱ ve Enkâs̱ (Sağlamca Bükülmüş İpi ve Bağlanmış Ahdi Çözüp Lif Lif Dağıtmak)",
+    "keywords": [
+      "neks",
+      "enkas",
+      "ahdi bozmak",
+      "ipliği çözmek",
+      "yenküsü"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "n~akava",
+        "label": "Sağlamca bağlanmış ahdi, antlaşmayı ve verilen sözü çözüp bozmak (نَّكَثَ / نَّكَثُوٓا۟ / يَنكُثُ / يَنكُثُونَ — Bab I fiil: 7:135, 9:12, 9:13, 43:50, 48:10 [2x])"
+      },
+      {
+        "lemma": ">anka`v",
+        "label": "Sağlamca eğirilip bükülmüş ipliğin çözülüp darmadağın edilmiş lifleri/tiftikleri (أَنكَٰثًا — çoğul isim: 16:92)"
+      }
+    ],
+    "irab_default": "Sağlamca bükülmüş ipi veya bağlanmış ahdi çözüp lif lif dağıtmak (ن-ك-ث kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "16:92",
+          "48:10"
+        ],
+        "text": "Ahdi bozmanın, sağlamca eğirdiği ipliğini çözüp darmadağın lifler (enkâsâ) haline getirmek gibi olduğu ve sözünü bozanın yalnızca kendi benliğinin aleyhine bozduğu (فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ)."
+      },
+      {
+        "ayahs": [
+          "7:135",
+          "9:12",
+          "9:13",
+          "43:50"
+        ],
+        "text": "Sıkıntı kalkınca veya çıkarları gerektirdiğinde verdikleri bağlayıcı sözleri ve antlaşmaları çözüp bozanların tutarsızlığı."
+      }
+    ],
+    "context_default": "Sağlamca bükülmüş ipi veya bağlanmış ahdi çözüp lif lif dağıtmak (ن-ك-ث)."
+  },
+  "ق-ن-ط": {
+    "buckwalter": "qnT",
+    "slug": "kunut_ve_kanit_hayirdan_ve_rahmetten_umidi_kesip_cokmek_qnt",
+    "concept_name": "Ḳunûṭ ve Ḳânıṭ (Sıkıntı veya Hata Karşısında Rahmetten Ümidi Tamamen Kesip Çökmek)",
+    "keywords": [
+      "kunut",
+      "kanıt",
+      "la taknetu",
+      "ümidi kesmek",
+      "rahmet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qanaTu",
+        "label": "Kuraklık, sıkıntı veya işlenen hatalar karşısında ilahi rahmetten ümidi tamamen kesip çökmek (قَنَطُوا۟ / تَقْنَطُوا۟ / يَقْنَطُ / يَقْنَطُونَ — Bab I fiil: 15:56, 30:36, 39:53, 42:28)"
+      },
+      {
+        "lemma": "qa`niTiyn",
+        "label": "Ümidini tamamen kesip karamsarlığa çökenler (مِّنَ ٱلْقَٰنِطِينَ — Bab I ism-i fâil: 15:55)"
+      },
+      {
+        "lemma": "qanuwT",
+        "label": "Kendisine bir sıkıntı dokunduğunda hemen ümidini kesip çöken (فَيَـُٔوسٌ قَنُوطٌ — mübâlağalı sıfat: 41:49)"
+      }
+    ],
+    "irab_default": "Hayırdan ve ilahi rahmetten ümidi tamamen keserek derin bir çöküntüye gömülmek (ق-ن-ط kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "15:55",
+          "15:56",
+          "39:53",
+          "42:28"
+        ],
+        "text": "Kuraklıkta ümitler tamamen kesildikten sonra yağmuru indirip rahmetini yayan Allah'ın kuşatıcı rahmetinden, ne kadar hata işlenmiş olursa olsun asla ümit kesmeme çağrısı (lâ taknetû min rahmetillâh)."
+      },
+      {
+        "ayahs": [
+          "30:36",
+          "41:49"
+        ],
+        "text": "İnsanın nimeti tadınca şımarıkça sevinmesi, kendi elleriyle yaptığı yüzünden bir sıkıntı dokunduğunda ise hemen ümidini kesip çökmesi (fe-yeûsün kanût)."
+      }
+    ],
+    "context_default": "Hayırdan ve ilahi rahmetten ümidi tamamen keserek derin bir çöküntüye gömülmek (ق-ن-ط)."
   }
 }
