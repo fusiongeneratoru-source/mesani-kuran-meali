@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 500 mühürlü kökten (`%88,50`) sonra, 8 kısa sureyi daha `%100` kilitleyen kökler (Sure 94, 96, 97, 98, 99, 102, 103, 110 → **15 tam kilitli sure**), 3 açık Mesânî referanslı tüm tepe uçlar (6/6), kritik doktrinel/çok-asıllı mayınlar ve kalan en yüksek frekanslı çekirdek kökler (**50 kök** / 870 geçiş) mühürlenerek toplam sözlük **550 kilitli köke (`%90,24` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%93,70`'i)** ulaştırılır.
-> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 510 Kök | Güncel Kapsam: %88,71)
+> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 520 Kök | Güncel Kapsam: %88,79)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -17,16 +17,16 @@
 | 8 | Kısa Sure %100 Kilidi | 417 | `ط-ل-ع` | `T-L-A` | **19** | 18 | 3:179 | Tulû, Tal' ve İttılâ (Ufuktan Doğmak, Tomurcuk Belirmesi ve Üstten Bakıp Vakıf Olmak) | ✅ **MÜHÜRLÜ** |
 | 9 | Kısa Sure %100 Kilidi | 323 | `أ-ب-د` | `E-B-D` | **28** | 28 | 2:95 | Ebed / Ebeden (Bağlamı Boyunca Kesintisiz Uzayan Süre ve Asla Kaydı) | ✅ **MÜHÜRLÜ** |
 | 10 | Kısa Sure %100 Kilidi | 1247 | `ف-ك-ك` | `F-K-K` | **2** | 2 | 90:13 | Fekk ve İnfi̇kâk (Boyunduruğu Açıp Çözmek ve Yapışık Hâlden Ayrılmak) | ✅ **MÜHÜRLÜ** |
-| 11 | Kısa Sure & Tepe Mesânî | 890 | `ن-ص-ي` | `N-S-Y` | **4** | 4 | 11:56 | Nâsiye (Sure 96 Alak kilidi + 11:56, 55:41: alın perçemi / karar merkezi — 96:15-16 yalancı ve hatalı alın) | ⏳ *Bekliyor* |
-| 12 | Kısa Sure & Tepe Mesânî | 1624 | `س-ف-ع` | `S-F-A` | **1** | 1 | 96:15 | Sef' (Sure 96 Alak kilidi: 96:15 alnından sertçe tutup sürükleyip yakalamak) | ⏳ *Bekliyor* |
-| 13 | Kısa Sure & Tepe Mesânî | 1625 | `ز-ب-ن` | `Z-B-N` | **1** | 1 | 96:18 | Zebâniye (Sure 96 Alak son kilidi: 96:18 itip geri püskürten görevli güçler — ünlü geleneksel mitoloji mayını) | ⏳ *Bekliyor* |
-| 14 | Kısa Sure & Tepe Mesânî | 988 | `م-ح-و` | `M-H-W` | **3** | 3 | 13:39 | Mahv (3 açık Mesânî + 1 Furûk ref! ث-ب-ت zıddı: 13:39 "Allah dilediğini siler, dilediğini sabitler", 17:12 gece ayetini silmek) | ⏳ *Bekliyor* |
-| 15 | Kısa Sure & Tepe Mesânî | 601 | `ع-ك-ف` | `A-K-F` | **9** | 9 | 2:125 | Ukûf, Âkif ve Ma'kûf (3 açık Mesânî ref! 2:125, 2:187, 7:138, 21:52 bir şeye veya mekâna sebatla bağlanıp kapanmak) | ⏳ *Bekliyor* |
-| 16 | Kısa Sure & Tepe Mesânî | 758 | `ج-و-ع` | `C-W-A` | **5** | 5 | 2:155 | Cû' (3 açık Mesânî ref + Sure 106 Kureyş & 88 Gâşiye: 106:4 açlıktan doyurmak, 2:155, 16:112, 20:118) | ⏳ *Bekliyor* |
-| 17 | Kısa Sure & Tepe Mesânî | 815 | `ب-و-ر` | `B-W-R` | **5** | 5 | 14:28 | Bûr ve Bevâr (3 açık Mesânî ref! 14:28 helak yurdu, 35:10, 35:29 kesada uğrayıp çürümeyen ticaret) | ⏳ *Bekliyor* |
-| 18 | Kısa Sure & Tepe Mesânî | 820 | `ن-ف-د` | `N-F-D` | **5** | 4 | 16:96 | Nefâd (3 açık Mesânî ref! ب-ق-ي zıddı: 16:96 yanınızdaki tükenir, 18:109, 31:27, 38:54 tükenmez rızık) | ⏳ *Bekliyor* |
-| 19 | Kısa Sure & Tepe Mesânî | 1534 | `ف-ن-ي` | `F-N-Y` | **1** | 1 | 55:26 | Fânî (3 açık Mesânî ref! ب-ق-ي zıddı: 55:26 "üzerindeki her şey tükenip yok olucudur") | ⏳ *Bekliyor* |
-| 20 | Kısa Sure & Tepe Mesânî | 696 | `ن-د-د` | `N-D-D` | **6** | 6 | 2:22 | Endâd (1 Mesânî + 3 Furûk ref! 2:22, 2:165, 14:30, 39:8, 41:9 Allah'a rakip eş ve denkler koşmak) | ⏳ *Bekliyor* |
+| 11 | Kısa Sure & Tepe Mesânî | 890 | `ن-ص-ي` | `N-S-Y` | **4** | 4 | 11:56 | Nâsiye ve Nevâsî (Başın Ön Üst Tepesi ve Alın Perçemi) | ✅ **MÜHÜRLÜ** |
+| 12 | Kısa Sure & Tepe Mesânî | 1624 | `س-ف-ع` | `S-F-A` | **1** | 1 | 96:15 | Sef' (El ile Şiddetle Kavrayıp Çekmek ve Sürüklemek) | ✅ **MÜHÜRLÜ** |
+| 13 | Kısa Sure & Tepe Mesânî | 1625 | `ز-ب-ن` | `Z-B-N` | **1** | 1 | 96:18 | Zebâniye (Şiddetle İtip Püskürten ve Süren İnfaz Güçleri) | ✅ **MÜHÜRLÜ** |
+| 14 | Kısa Sure & Tepe Mesânî | 988 | `م-ح-و` | `M-H-W` | **3** | 3 | 13:39 | Mahv (İzini, Işığını veya Hükmünü Silip Gidermek) | ✅ **MÜHÜRLÜ** |
+| 15 | Kısa Sure & Tepe Mesânî | 601 | `ع-ك-ف` | `A-K-F` | **9** | 9 | 2:125 | Ukûf, Âkif ve Ma'kûf (Ayrılmadan Bağlanmak, Odaklanmak ve Alıkonulmak) | ✅ **MÜHÜRLÜ** |
+| 16 | Kısa Sure & Tepe Mesânî | 758 | `ج-و-ع` | `C-W-A` | **5** | 5 | 2:155 | Cû' (Besin Yoksunluğu, Açlık ve Kıtlık) | ✅ **MÜHÜRLÜ** |
+| 17 | Kısa Sure & Tepe Mesânî | 815 | `ب-و-ر` | `B-W-R` | **5** | 5 | 14:28 | Bevâr ve Bûr (Kesata Düşmek, Boşa Çıkmak ve Çöküp Yıkılmak) | ✅ **MÜHÜRLÜ** |
+| 18 | Kısa Sure & Tepe Mesânî | 820 | `ن-ف-د` | `N-F-D` | **5** | 4 | 16:96 | Nefâd (Birikimin ve Kaynağın Harcanarak Tükenip Kesilmesi) | ✅ **MÜHÜRLÜ** |
+| 19 | Kısa Sure & Tepe Mesânî | 1534 | `ف-ن-ي` | `F-N-Y` | **1** | 1 | 55:26 | Fenâ ve Fânî (Varlığın Kesilip Gelip Geçici Olması) | ✅ **MÜHÜRLÜ** |
+| 20 | Kısa Sure & Tepe Mesânî | 696 | `ن-د-د` | `N-D-D` | **6** | 6 | 2:22 | Nidd ve Endâd (Karşı Kutupta Dikilen Rakip Eşler ve Denkler) | ✅ **MÜHÜRLÜ** |
 | 21 | Açık Mesânî & Doktrin | 492 | `ص-غ-ر` | `S-G-R` | **13** | 13 | 2:282 | Sağîr, Sağîra ve Sâğirûn (2 Mesânî + 2 Furûk ref! ك-ب-ر ve ع-ظ-م zıddı: 18:49 küçük-büyük her kayıt, 7:13 küçülmüş olarak) | ⏳ *Bekliyor* |
 | 22 | Açık Mesânî & Doktrin | 397 | `ح-م-م` | `H-M-M` | **21** | 20 | 6:70 | Hamîm ve Yahmûm (2 Mesânî + 1 Furûk ref! 21 geçiş: kaynar yakıcı su VE candan yakın dost çift kolu!) | ⏳ *Bekliyor* |
 | 23 | Açık Mesânî & Doktrin | 730 | `ش-ف-ي` | `S-F-Y` | **6** | 6 | 9:14 | Şifâ' ve Yeşfî (2 Mesânî + 1 Furûk ref! 10:57, 16:69, 17:82, 26:80, 41:44 gönüllere ve bedenlere onarıcı şifa) | ⏳ *Bekliyor* |

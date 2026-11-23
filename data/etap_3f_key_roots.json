@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3F (Kısa Sureler %100 Tam Kilit Genişletmesi [15 Sure], 3 Açık Mesânî Tepe Uçları ve %90+ Kök Kapsamı Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 10,
+  "locked_count": 20,
   "total_tokens_in_package": 870,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 88.71,
+  "current_coverage_pct": 88.79,
   "target_coverage_pct": 90.24,
   "etap_3f_roots": [
     {
@@ -201,8 +201,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Nâsiye (Sure 96 Alak kilidi + 11:56, 55:41: alın perçemi / karar merkezi — 96:15-16 yalancı ve hatalı alın)",
-      "concept_label": "Analiz Bekliyor (naASiyap, n~awa`SiY)",
-      "is_locked": false,
+      "concept_label": "Nâsiye ve Nevâsî (Başın Ön Üst Tepesi ve Alın Perçemi)",
+      "is_locked": true,
       "sample_ayah": "11:56",
       "top_lemmas": [
         "naASiyap",
@@ -219,8 +219,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Sef' (Sure 96 Alak kilidi: 96:15 alnından sertçe tutup sürükleyip yakalamak)",
-      "concept_label": "Analiz Bekliyor (nasofaEF[)",
-      "is_locked": false,
+      "concept_label": "Sef' (El ile Şiddetle Kavrayıp Çekmek ve Sürüklemek)",
+      "is_locked": true,
       "sample_ayah": "96:15",
       "top_lemmas": [
         "nasofaEF["
@@ -236,8 +236,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Zebâniye (Sure 96 Alak son kilidi: 96:18 itip geri püskürten görevli güçler — ünlü geleneksel mitoloji mayını)",
-      "concept_label": "Analiz Bekliyor (z~abaAniyap)",
-      "is_locked": false,
+      "concept_label": "Zebâniye (Şiddetle İtip Püskürten ve Süren İnfaz Güçleri)",
+      "is_locked": true,
       "sample_ayah": "96:18",
       "top_lemmas": [
         "z~abaAniyap"
@@ -253,8 +253,8 @@
       "frequency": 3,
       "unique_ayahs": 3,
       "rationale": "Mahv (3 açık Mesânî + 1 Furûk ref! ث-ب-ت zıddı: 13:39 \"Allah dilediğini siler, dilediğini sabitler\", 17:12 gece ayetini silmek)",
-      "concept_label": "Analiz Bekliyor (maHawo)",
-      "is_locked": false,
+      "concept_label": "Mahv (İzini, Işığını veya Hükmünü Silip Gidermek)",
+      "is_locked": true,
       "sample_ayah": "13:39",
       "top_lemmas": [
         "maHawo"
@@ -270,8 +270,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Ukûf, Âkif ve Ma'kûf (3 açık Mesânî ref! 2:125, 2:187, 7:138, 21:52 bir şeye veya mekâna sebatla bağlanıp kapanmak)",
-      "concept_label": "Analiz Bekliyor (EaAkif, yaEokufu, maEokuwf)",
-      "is_locked": false,
+      "concept_label": "Ukûf, Âkif ve Ma'kûf (Ayrılmadan Bağlanmak, Odaklanmak ve Alıkonulmak)",
+      "is_locked": true,
       "sample_ayah": "2:125",
       "top_lemmas": [
         "EaAkif",
@@ -289,8 +289,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Cû' (3 açık Mesânî ref + Sure 106 Kureyş & 88 Gâşiye: 106:4 açlıktan doyurmak, 2:155, 16:112, 20:118)",
-      "concept_label": "Analiz Bekliyor (juwE, tajuwEa)",
-      "is_locked": false,
+      "concept_label": "Cû' (Besin Yoksunluğu, Açlık ve Kıtlık)",
+      "is_locked": true,
       "sample_ayah": "2:155",
       "top_lemmas": [
         "juwE",
@@ -307,8 +307,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Bûr ve Bevâr (3 açık Mesânî ref! 14:28 helak yurdu, 35:10, 35:29 kesada uğrayıp çürümeyen ticaret)",
-      "concept_label": "Analiz Bekliyor (buwr, yabuwru, bawaAr)",
-      "is_locked": false,
+      "concept_label": "Bevâr ve Bûr (Kesata Düşmek, Boşa Çıkmak ve Çöküp Yıkılmak)",
+      "is_locked": true,
       "sample_ayah": "14:28",
       "top_lemmas": [
         "buwr",
@@ -326,8 +326,8 @@
       "frequency": 5,
       "unique_ayahs": 4,
       "rationale": "Nefâd (3 açık Mesânî ref! ب-ق-ي zıddı: 16:96 yanınızdaki tükenir, 18:109, 31:27, 38:54 tükenmez rızık)",
-      "concept_label": "Analiz Bekliyor (nafida, n~afaAd)",
-      "is_locked": false,
+      "concept_label": "Nefâd (Birikimin ve Kaynağın Harcanarak Tükenip Kesilmesi)",
+      "is_locked": true,
       "sample_ayah": "16:96",
       "top_lemmas": [
         "nafida",
@@ -344,8 +344,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Fânî (3 açık Mesânî ref! ب-ق-ي zıddı: 55:26 \"üzerindeki her şey tükenip yok olucudur\")",
-      "concept_label": "Analiz Bekliyor (faAn)",
-      "is_locked": false,
+      "concept_label": "Fenâ ve Fânî (Varlığın Kesilip Gelip Geçici Olması)",
+      "is_locked": true,
       "sample_ayah": "55:26",
       "top_lemmas": [
         "faAn"
@@ -361,8 +361,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Endâd (1 Mesânî + 3 Furûk ref! 2:22, 2:165, 14:30, 39:8, 41:9 Allah'a rakip eş ve denkler koşmak)",
-      "concept_label": "Analiz Bekliyor (>andaAd)",
-      "is_locked": false,
+      "concept_label": "Nidd ve Endâd (Karşı Kutupta Dikilen Rakip Eşler ve Denkler)",
+      "is_locked": true,
       "sample_ayah": "2:22",
       "top_lemmas": [
         ">andaAd"
