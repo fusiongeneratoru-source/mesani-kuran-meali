@@ -1,0 +1,921 @@
+{
+  "root": "ص-د-د",
+  "root_latin": "S-D-D (Sdd)",
+  "concept_name": "Ṣadd ve Ṣudûd (Yüz Çevirip Yan Çizmek ve İnsanları Doğru Yoldan Çevirip Engellemek)",
+  "rank": 234,
+  "total_occurrences": 42,
+  "unique_ayahs_count": 41,
+  "unified_core_mechanism": "Yüzünü ve yanını bir tarafa kırıp dönerek yüz çevirmek (الإِعْرَاضُ وَالمَيْلُ إِلَى أَحَدِ الجَانِبَيْنِ — 4:61, 63:5) ve başkasının önünü keserek onu doğru yoldan, Allah'ı anmaktan veya ortak mabedden geri çevirip engellemek (العُدُولُ وَالمَنْعُ: صَدٌّ عَن سَبِيلِ ٱللَّهِ — 2:217, 5:91, 8:36, 22:25, 48:25).",
+  "physical_core": "Yüzünü ve yanını (صَدّ: yanak/boyun yanı) bir yana kırıp dönmek (الإِعْرَاضُ وَالمَيْلُ إِلَى أَحَدِ الجَانِبَيْنِ) ve başkasının önünü keserek onu gitmekte olduğu yoldan geri çevirip alıkoymak (العُدُولُ وَالمَنْعُ): (1) Geçişsiz olarak haktan yüz çevirip yan çizmek (يَصُدُّونَ عَنكَ صُدُودًا — 4:61, 63:5), (2) Geçişli olarak insanları Allah'ın yolundan ve ortak mabedden engellemek (صَدُّوا۟ عَن سَبِيلِ ٱللَّهِ — 2:217, 22:25, 48:25).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ص-د-د` babının tamamına yakını 'yüz çevirmek ve yoldan saptırıp alıkoymak (`إِعْرَاضٌ وَعُدُولٌ`)' anlamına döner: `الصَّدّ` bir yana meylederek yüz çevirmektir (`صَدَّ يَصُدُّ، وَهُوَ مَيْلٌ إِلَى أَحَدِ الجَانِبَيْنِ`); geçişli olarak `صَدَدْتُ فُلَانًا عَنِ الأَمْرِ` denildiğinde ise 'onu o işten/yoldan çevirip engelledim' demektir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): Geçişsiz mastarı `صُدُود` (`4:61` `يَصُدُّونَ عَنكَ صُدُودًا` — yüz çevirmek), geçişli mastarı ise `صَدّ`dir (`2:217` `وَصَدٌّ عَن سَبِيلِ ٱللَّهِ` — yoldan alıkoymak). `43:57`'deki `يَصِدُّونَ` yaygara koparıp gülüşerek yüz çevirmektir; `14:16`'daki `صَدِيد` ise içenin tiksinip yüz çevirdiği irinli/kaynar sudur.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الصَّدّ` hem geçişsiz olarak haktan yan çizmek (`4:61`, `63:5`) hem de geçişli olarak başkalarını Allah yolundan alıkoymak (`2:217`, `3:99`, `8:36`) anlamında kullanılır.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris ve klasik dilcilerin ortaya koyduğu geçişsiz (`صُدُود`: kendisi yüz çevirmek) ve geçişli (`صَدّ`: başkasını yoldan çevirip engellemek) ayrımı, Kur'an'daki 42 geçişin tamamını çözer: (1) İki yüzlülerin Allah'ın indirdiğine ve elçiye çağrıldıklarında başlarını çevirip kibirle yan çizmeleri (`4:61`, `63:5`), (2) Zulüm ve çıkar odaklarının hem mallarını hem yalan sözlerini insanları Allah yolundan ve Mescid-i Harâm'dan engellemek (`صَدٌّ عَن سَبِيلِ ٱللَّهِ`) için kullanmaları (`2:217`, `8:36`, `9:34`, `22:25`, `48:25`, `58:16`, `63:2`) ve düzmece süslerle doğru yoldan alıkonanların (`صُدُّوا۟ عَنِ ٱلسَّبِيلِ` `13:33`, `40:37`) durumu."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*ṣ-d-d` kökü: İbranice צַד (`ṣaḏ` Strong H6654: 'yan, böğür, taraf') ve צָדַד (`ṣāḏaḏ`: 'yana dönmek, yan çizmek'), Aramice/Süryanice `צַד / ܨܕ` (*ṣad*: 'yan, kenar; bir yana dönmek') ve Akadca `ṣaddu` ile doğrudan eşkökenlidir; İbn Fâris'in 'bir yana meyledip yüz çevirmek (`مَيْلٌ إِلَى أَحَدِ الجَانِبَيْنِ`)' tanımının somut anatomik ('yan/böğür') kökenini kanıtlar."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ه-د-ي [وَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ فَهُمْ لَا يَهْتَدُونَ ... وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ وَمَا كَانُوا۟ مُهْتَدِينَ ... وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ] (Yoldan Çevirip Alıkoymak [فَصَدَّهُمْ / وَصُدُّوا۟ / لَيَصُدُّونَهُمْ] ↔ Doğru Yolu Bulup İlerlemek [يَهْتَدُونَ / مُهْتَدِينَ]: 13:33, 27:24, 34:32, 40:37, 43:37)",
+      "أ-ت-ي [وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا ... ثُمَّ جَآءُوكَ ... وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ] (Çağrıya Gelmek [تَعَالَوْا۟ / جَآءُوكَ] ↔ Başını Çevirip Büsbütün Yan Çizmek [يَصُدُّونَ عَنكَ صُدُودًا]: 4:61-62, 63:5)",
+      "س-ب-ل (Yüzünü ve yanını bir tarafa kırıp dönerek yüz çevirmek (الإِعْرَاضُ وَالمَيْلُ إِلَى أَحَد ↔ **Temelde «yukarıdan veya kaynaktan serbestçe akıp ileri doğru engelsiz uzanan yol ve geçi: 4:76 & 7:146 & 6:153 (فِى سَبِيلِ ٱللَّهِ / فِى سَبِيلِ ٱلطَّٰغُوتِ / سَبِيلَ ٱلرُّشْدِ / سَبِيلَ ٱلْغَىِّ / وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ: Tek bütün rota ile saptıran parçalı yan yollar karşıtlığı), 2:217 & 3:99 & 7:45 & 11:19 (يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا: Açık geçidin önünü tıkayıp eğriltme eylemi), 2:108 & 5:12 & 5:77 & 28:22 (ضَلَّ سَوَآءَ ٱلسَّبِيلِ / يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ: Dengeli ana rotayı yitirmek ile bulmak arasındaki zıtlık))",
+      "د-خ-ل (Yüzünü ve yanını bir tarafa kırıp dönerek yüz çevirmek (الإِعْرَاضُ وَالمَيْلُ إِلَى أَحَد ↔ Kökün 126 geçişlik ağını tek fiziksel ilke birleştirir: 17:80 (وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍ — IV. bab giriş-çıkış ekseni), 5:22 (لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ — çıkış şartlı giriş), 27:12 (وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ — bedensel sokma ve çıkarma olağanüstü kanıt işareti))",
+      "ب-ل-غ (Yüzünü ve yanını bir tarafa kırıp dönerek yüz çevirmek (الإِعْرَاضُ وَالمَيْلُ إِلَى أَحَد ↔ Bir varlığın, zamanın, büyüme sürecinin, sözün veya emanet mesajın aradaki mesafeyi ve aşa: 48:25 (وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ), 13:40 & 42:48 (فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ وَعَلَيْنَا ٱلْحِسَابُ / فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا إِنْ عَلَيْكَ إِلَّا ٱلْبَلَٰغُ), 13:14 (لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَٰلِغِهِۦ))",
+      "م-و-ه (Yüzünü ve yanını bir tarafa kırıp dönerek yüz çevirmek (الإِعْرَاضُ وَالمَيْلُ إِلَى أَحَد ↔ Canlılığın kozmolojik ve biyolojik yapı temelini kuran, gökten ölçülü biçimde inip ölü top: 21:30 (وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ), 47:15 (فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ ... وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ), 67:30 (إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ))"
+    ],
+    "key_ayahs": [
+      "2:217",
+      "3:99",
+      "4:61",
+      "5:2",
+      "8:36",
+      "9:34",
+      "13:33",
+      "16:94",
+      "22:25",
+      "27:24",
+      "34:32",
+      "40:37",
+      "43:37",
+      "47:1",
+      "48:25",
+      "63:5"
+    ],
+    "reverse_stress_test": "27:24, 13:33 ve 43:37'de `فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ` / `وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ` doğrudan `فَهُمْ لَا يَهْتَدُونَ` / `مُّهْتَدُونَ` (`ه-د-ي`: doğru yolu bulup ilerlemek) ile, 4:61-62 ve 63:5'te ise `تَعَالَوْا۟ / جَآءُوكَ` (`أ-ت-ي`: çağrıya gelmek) doğrudan `يَصُدُّونَ عَنكَ صُدُودًا` (büsbütün yüz çevirip yan çizmek) ile karşı karşıya konmuştur. Doğru yolda ilerlemek (`ه-د-ي`) ve çağrıya yönelmek (`أ-ت-ي`) tersine çevrildiğinde, `ص-د-د` kökünün 'yüz çevirmek ve yoldan çevirip engellemek' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ب-غ-ي (3:99, 7:45, 7:86, 11:19, 14:3 تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا — صَدّ insanları doğru yoldan fiilen veya psikolojik olarak geri çevirip engellemek, بَغْيُ العِوَج ise o dosdoğru yolu eğri ve kusurlu göstermeye çalışmaktır)"
+    ],
+    "mechanical_difference": "Beş ayette (`3:99`, `7:45`, `7:86`, `11:19`, `14:3`) `يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ` ile `يَبْغُونَهَا عِوَجًا` birlikte kullanılarak yoldan engelleme (`صَدّ`) eyleminin zihinsel aracının 'doğru yolu eğri gösterme çabası' olduğu açıklanmıştır."
+  },
+  "anchor_ayahs": [
+    "2:217",
+    "3:99",
+    "4:61",
+    "5:2",
+    "8:36",
+    "9:34",
+    "13:33",
+    "14:16",
+    "16:94",
+    "22:25",
+    "27:24",
+    "34:32",
+    "43:37",
+    "43:57",
+    "48:25",
+    "63:5"
+  ],
+  "grammar_and_branch_rules": "Bab I (`صَدَّ / يَصُدُّونَ`) `عَنْ` harf-i ceriyle veya doğrudan nesneyle kullanıldığında 'yoldan çevirip engellemeyi' (mastarı `صَدّ` — `2:217`, `4:160`), nesnesiz kullanıldığında ise 'yüz çevirip yan çizmeyi' (mastarı `صُدُودًا` — `4:61`) ifade eder. `43:57`'deki `يَصِدُّونَ` yaygarayla yan çizmeyi, `14:16`'daki `صَدِيد` ise tiksinilip yüz çevrilen irinli suyu gösterir.",
+  "derivatives": {
+    "صَدَّ / صَدُّوا۟ / يَصُدُّونَ / صُدُّوا۟": "Doğru yoldan geri çevirip engellemek (2:217, 3:99, 8:36, 22:25, 48:25) veya haktan yüz çevirip yan çizmek (4:61, 63:5)",
+    "صَدٌّ / بِصَدِّهِمْ / صُدُودًا": "Allah yolundan engelleme (2:217, 4:160) ve büsbütün yüz çevirip yan çizme (4:61)",
+    "يَصِدُّونَ": "Yaygara koparıp gülüşerek haktan yan çizmek (43:57)",
+    "صَدِيدٍ": "İçenin tiksinip yüz çevirdiği irinli/kaynar su (14:16)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 217,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:217",
+      "word_position": 11,
+      "target_word_uthmani": "وَصَدٌّ",
+      "target_word_rasm": "وصد",
+      "target_word_literal_irab": "Allah'ın yolundan ve Mescid-i Harâm'dan alıkoyup engellemek (وَصَدٌّ عَن سَبِيلِ ٱللَّهِ / وَبِصَدِّهِمْ — Bab I geçişli mastar: 2:217, 4:160)",
+      "context_snippet_arabic": "قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Sana, savaş haram olan ayda savaşı soruyorlar. De ki: O ayda savaş büyük bir sapma ve kusurdur. Fakat insanları Allah yolundan çıkarmak, onu gerçeğin üzerini...",
+      "morphology": {
+        "lemma": "Sad~",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:Sad~|ROOT:Sdd|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, savaş haram olan ayda savaşı soruyorlar. De ki: O ayda savaş büyük bir sapma ve kusurdur. Fakat insanları Allah yolundan çıkarmak, onu gerçeğin üzerini örtmek, halkı dokunulmaz teslimiyet odağı'dan menetmek ve mescit ehlini, oradan çıkarmak, Allah katında daha büyük bir sapma ve kusurdur. Fitneyse adam öldürmeden de beterdir. Gücü yeterse sizi yaşam sisteminizden döndürmedikçe sizinle savaştan geri kalmaz onlar. Sizden birisi yaşam sisteminden döndü de gerçeğin üzerini örten olarak öldü mü işlediği hayırlı işler, dünyada da heder olup gitmiş demektir, ahirette de. Onlardır ateş ehli, orada da ebediyen kalırlar.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 3,
+      "ayah": 99,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:99",
+      "word_position": 5,
+      "target_word_uthmani": "تَصُدُّونَ",
+      "target_word_rasm": "تصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Ey kitap ehli, kendiniz de tanıksınız, öyle olduğu halde gene zor zoruna ne diye bir eğrilik bulmaya yeltenir de güvene erenleri, Allah yolundan...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Ey kitap ehli, kendiniz de tanıksınız, öyle olduğu halde gene zor zoruna ne diye bir eğrilik bulmaya yeltenir de güvene erenleri, Allah yolundan döndürmeye çalışırsınız? Allah'sa yaptıklarınızdan gafil değildir ki.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 4,
+      "ayah": 55,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:55",
+      "word_position": 7,
+      "target_word_uthmani": "صَدَّ",
+      "target_word_rasm": "صد",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "بِهِۦ وَمِنْهُم مَّن صَدَّ عَنْهُ وَكَفَىٰ بِجَهَنَّمَ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan, ona güvene eren da var, ondan yüz çeviren de ve bunlara alevli, yakıp kavuran yakıcı yıkım yurdu yeter.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MS"
+      },
+      "ayah_text_arabic_full": "فَمِنْهُم مَّنْ ءَامَنَ بِهِۦ وَمِنْهُم مَّن صَدَّ عَنْهُ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan, ona güvene eren da var, ondan yüz çeviren de ve bunlara alevli, yakıp kavuran yakıcı yıkım yurdu yeter.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 4,
+      "ayah": 61,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:61",
+      "word_position": 13,
+      "target_word_uthmani": "يَصُدُّونَ",
+      "target_word_rasm": "يصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا",
+      "context_snippet_turkish_tabula_rasa": "Onlara, Allah'ın indirdiğine ve elçiye gelin dendi mi görürsün ki iki çıkışlı kaypaklar, senden tamamıyla uzaklaşırlar.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, Allah'ın indirdiğine ve elçiye gelin dendi mi görürsün ki iki çıkışlı kaypaklar, senden tamamıyla uzaklaşırlar.",
+      "contextual_meaning": "İki yüzlülerin ve kibirlenenlerin Allah'ın indirdiğine çağrıldıklarında başlarını çevirip büsbütün yan çizmeleri (yesuddûne anke sudûdâ - 4:61, 63:5), yaygara koparmaları (43:57) ve her inatçı zorbanın karşılaşacağı irinli su (sadîd - 14:16)."
+    },
+    {
+      "surah": 4,
+      "ayah": 61,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:61",
+      "word_position": 15,
+      "target_word_uthmani": "صُدُودًا",
+      "target_word_rasm": "صدودا",
+      "target_word_literal_irab": "Hakka ve elçinin hakemliğine çağrıldığında büsbütün yüz çevirip yan çizmek (يَصُدُّونَ عَنكَ صُدُودًا — Bab I geçişsiz mastar: 4:61)",
+      "context_snippet_arabic": "ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا",
+      "context_snippet_turkish_tabula_rasa": "Onlara, Allah'ın indirdiğine ve elçiye gelin dendi mi görürsün ki iki çıkışlı kaypaklar, senden tamamıyla uzaklaşırlar.",
+      "morphology": {
+        "lemma": "Suduwd",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:Suduwd|ROOT:Sdd|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, Allah'ın indirdiğine ve elçiye gelin dendi mi görürsün ki iki çıkışlı kaypaklar, senden tamamıyla uzaklaşırlar.",
+      "contextual_meaning": "İki yüzlülerin ve kibirlenenlerin Allah'ın indirdiğine çağrıldıklarında başlarını çevirip büsbütün yan çizmeleri (yesuddûne anke sudûdâ - 4:61, 63:5), yaygara koparmaları (43:57) ve her inatçı zorbanın karşılaşacağı irinli su (sadîd - 14:16)."
+    },
+    {
+      "surah": 4,
+      "ayah": 160,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:160",
+      "word_position": 10,
+      "target_word_uthmani": "وَبِصَدِّهِمْ",
+      "target_word_rasm": "وبصدهم",
+      "target_word_literal_irab": "Allah'ın yolundan ve Mescid-i Harâm'dan alıkoyup engellemek (وَصَدٌّ عَن سَبِيلِ ٱللَّهِ / وَبِصَدِّهِمْ — Bab I geçişli mastar: 2:217, 4:160)",
+      "context_snippet_arabic": "طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Yahudi olanlardan meydana gelen zulüm yüzünden de onlara helal edilen tertemiz şeyleri haram ettik ve bu, halkın çoğunu Allah yolunda menetmeleri.",
+      "morphology": {
+        "lemma": "Sad~",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:Sad~|ROOT:Sdd|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudi olanlardan meydana gelen zulüm yüzünden de onlara helal edilen tertemiz şeyleri haram ettik ve bu, halkın çoğunu Allah yolunda menetmeleri.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 4,
+      "ayah": 167,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:167",
+      "word_position": 4,
+      "target_word_uthmani": "وَصَدُّوا۟",
+      "target_word_rasm": "وصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar ve halkı Allah yolundan çıkaranlarsa öylesine sapıtmışlardır ki tuttukları yol, doğru yoldan pek uzaktır.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَٰلًۢا بَعِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar ve halkı Allah yolundan çıkaranlarsa öylesine sapıtmışlardır ki tuttukları yol, doğru yoldan pek uzaktır.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 32,
+      "target_word_uthmani": "صَدُّوكُمْ",
+      "target_word_rasm": "صدوكم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah'a kulluk ve yönelişe vesile olan, büyük yöneliş toplanması töreni yapılan yerlerin ve savaşın haram edildiği ayların hürmetini...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah'a kulluk ve yönelişe vesile olan, büyük yöneliş toplanması töreni yapılan yerlerin ve savaşın haram edildiği ayların hürmetini koruyun, büyük yöneliş toplanması yakınlaşma sunusu, yakınlaşma sunusu edilecekleri belli olsun diye boynuna bir şey takılan hayvanlara, Rablerinden bir lütfe ve razılığa ulaşmak için Beytül Haram'ı ziyarete gelenlere hürmetsizlik etmeyin. İhramdan çıkınca avlanın. Sizi dokunulmaz teslimiyet odağı'dan meneden kavme karşı beslediğiniz kin aşırı hareket etmenize, tecavüzde bulunmanıza sebep olmasın. İyilik etmek ve kötülükten sakınmak hususunda birbirinize yardım edin, suç işlemek ve düşmanlık etmek için yardımlaşmayın ve Allah'tan sakının, şüphe yok ki Allah'ın cezası, çok çetindir.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 5,
+      "ayah": 91,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:91",
+      "word_position": 12,
+      "target_word_uthmani": "وَيَصُدَّكُمْ",
+      "target_word_rasm": "ويصدكم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "فِى ٱلْخَمْرِ وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç, şarap ve kumarla sizin aranıza düşmanlık ve kin salmak ister ancak, vazgeçtiniz artık değil mi?",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا يُرِيدُ ٱلشَّيْطَٰنُ أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ فِى ٱلْخَمْرِ وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِ فَهَلْ أَنتُم مُّنتَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç, şarap ve kumarla sizin aranıza düşmanlık ve kin salmak ister ancak, vazgeçtiniz artık değil mi?",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 7,
+      "ayah": 45,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:45",
+      "word_position": 2,
+      "target_word_uthmani": "يَصُدُّونَ",
+      "target_word_rasm": "يصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "O zalimlere ki halkı Allah yolundan menederlerdi o yolun eğri bir hale gelmesini isterlerdi ve onlar ahireti gerçeğin üzerini ört.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْءَاخِرَةِ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O zalimlere ki halkı Allah yolundan menederlerdi o yolun eğri bir hale gelmesini isterlerdi ve onlar ahireti gerçeğin üzerini ört.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 7,
+      "ayah": 86,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:86",
+      "word_position": 6,
+      "target_word_uthmani": "وَتَصُدُّونَ",
+      "target_word_rasm": "وتصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenleri tehdit ederek Allah yolundan menetmek ve o yolun eğri bir hale gelmesini sağlamak için her yolun başında oturup pusu kurmaya kalkmayın ve...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ وَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenleri tehdit ederek Allah yolundan menetmek ve o yolun eğri bir hale gelmesini sağlamak için her yolun başında oturup pusu kurmaya kalkmayın ve hatırlayın o zamanı ki azlıktınız, o sizi çoğalttı. Bozgunculukta bulunanların sonuçları ne olmuş, ne hale gelmişler, bakın da görün.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 8,
+      "ayah": 34,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:34",
+      "word_position": 7,
+      "target_word_uthmani": "يَصُدُّونَ",
+      "target_word_rasm": "يصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+      "context_snippet_turkish_tabula_rasa": "Ne diye Allah onları azaplandırmasın ki onlar, hizmetine layık olmadıkları halde halkı dokunulmaz teslimiyet odağı'dan menediyorlar, onun hizmetine layık...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟ أَوْلِيَآءَهُۥٓ إِنْ أَوْلِيَآؤُهُۥٓ إِلَّا ٱلْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ne diye Allah onları azaplandırmasın ki onlar, hizmetine layık olmadıkları halde halkı dokunulmaz teslimiyet odağı'dan menediyorlar, onun hizmetine layık olanlar, ancak çekinenlerdir, fakat çoğu bilmez bunu.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 8,
+      "ayah": 36,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:36",
+      "word_position": 6,
+      "target_word_uthmani": "لِيَصُدُّوا۟",
+      "target_word_rasm": "ليصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "كَفَرُوا۟ يُنفِقُونَ أَمْوَٰلَهُمْ لِيَصُدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki gerçeğin üzerini örten olanlar, mallarını ancak halkı Allah yolundan alıkoymak için harcarlar. Harcayacaklar da, sonra o harcadıkları mallar,...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنفِقُونَ أَمْوَٰلَهُمْ لِيَصُدُّوا۟ عَن سَبِيلِ ٱللَّهِ فَسَيُنفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ وَٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ يُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki gerçeğin üzerini örten olanlar, mallarını ancak halkı Allah yolundan alıkoymak için harcarlar. Harcayacaklar da, sonra o harcadıkları mallar, kendilerine bir iç acısı olacak, sonra da alt edilecekler ve gerçeğin üzerini örten olanlar yakıcı yıkım yurduna götürülecekler, orada toplanacaklar.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 8,
+      "ayah": 47,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:47",
+      "word_position": 10,
+      "target_word_uthmani": "وَيَصُدُّونَ",
+      "target_word_rasm": "ويصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "بَطَرًا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Ülkelerinden böbürlenmek ve halka gösteriş yapmak için çıkanlara ve insanları Allah yolundan menedenlere benzemeyin ve Allah onların bütün yaptıklarını...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِم بَطَرًا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ülkelerinden böbürlenmek ve halka gösteriş yapmak için çıkanlara ve insanları Allah yolundan menedenlere benzemeyin ve Allah onların bütün yaptıklarını bilgisiyle kavramıştır.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 9,
+      "ayah": 9,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:9",
+      "word_position": 6,
+      "target_word_uthmani": "فَصَدُّوا۟",
+      "target_word_rasm": "فصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ إِنَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ayetlerini satarlar da karşılık olarak pek az ve adi bir şey elde ederler ve halkı Allah yolundan menederler. Gerçekten de yaptıkları şey, ne de kötü...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱشْتَرَوْا۟ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ayetlerini satarlar da karşılık olarak pek az ve adi bir şey elde ederler ve halkı Allah yolundan menederler. Gerçekten de yaptıkları şey, ne de kötü şeydir.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 9,
+      "ayah": 34,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:34",
+      "word_position": 13,
+      "target_word_uthmani": "وَيَصُدُّونَ",
+      "target_word_rasm": "ويصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, o bilginlerle rahiplerin çoğu, boş sebeplerle insanların mallarını yerler ve halkı Allah yolundan menederler. Altını, gümüşü biriktirip...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, o bilginlerle rahiplerin çoğu, boş sebeplerle insanların mallarını yerler ve halkı Allah yolundan menederler. Altını, gümüşü biriktirip Allah yolunda harcamayanları elemli bir azapla müjdele.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 11,
+      "ayah": 19,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:19",
+      "word_position": 2,
+      "target_word_uthmani": "يَصُدُّونَ",
+      "target_word_rasm": "يصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, halkı Allah yolundan menederler ve o yoldan saptırmak isterler, onlar ahiret gerçeğin üzerini örtenlerin ta kendileridir.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, halkı Allah yolundan menederler ve o yoldan saptırmak isterler, onlar ahiret gerçeğin üzerini örtenlerin ta kendileridir.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 13,
+      "ayah": 33,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:33",
+      "word_position": 30,
+      "target_word_uthmani": "وَصُدُّوا۟",
+      "target_word_rasm": "وصدوا",
+      "target_word_literal_irab": "Kötü işleri kendilerine süslü gösterilerek doğru yoldan alıkondular (وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ — Bab I meçhul fiil: 13:33)",
+      "context_snippet_arabic": "لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ وَمَن",
+      "context_snippet_turkish_tabula_rasa": "Herkesin yaptığı ve elde ettiği şeyi bilip görene ve karşılığını verene benzer mi onlar, tutup Allah'a eş tanıyorlar onları. De ki: Bir ad takın onlara. Yoksa...",
+      "morphology": {
+        "lemma": "Sud~u",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:Sud~u|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ أَمْ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعْلَمُ فِى ٱلْأَرْضِ أَم بِظَٰهِرٍ مِّنَ ٱلْقَوْلِ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkesin yaptığı ve elde ettiği şeyi bilip görene ve karşılığını verene benzer mi onlar, tutup Allah'a eş tanıyorlar onları. De ki: Bir ad takın onlara. Yoksa yeryüzünde bilmediği birşeyi mi haber veriyorsunuz ona, yahut da geçici bir boş laf mı ediyorsunuz? gerçeğin üzerini örten olanlara düzenleri hoş ve sevimli görünmede ancak ve yoldan çıkarılmadalar ve Allah, kimi doğru yoldan saptırırsa onu doğru yola sevkedecek yoktur.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 14,
+      "ayah": 3,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:3",
+      "word_position": 7,
+      "target_word_uthmani": "وَيَصُدُّونَ",
+      "target_word_rasm": "ويصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar dünya yaşayışını ahiretten üstün tutup severler, halkı Allah yolundan menederler ve o yolu eğriltmek isterler. Onlardır pek uzak bir sapıklığa dalanlar.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا أُو۟لَٰٓئِكَ فِى ضَلَٰلٍۭ بَعِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar dünya yaşayışını ahiretten üstün tutup severler, halkı Allah yolundan menederler ve o yolu eğriltmek isterler. Onlardır pek uzak bir sapıklığa dalanlar.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 14,
+      "ayah": 10,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:10",
+      "word_position": 26,
+      "target_word_uthmani": "تَصُدُّونَا",
+      "target_word_rasm": "تصدونا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ",
+      "context_snippet_turkish_tabula_rasa": "elçileri, Allah'tan şüphe edilir mi dediler, gökleri ve yeryüzünü yaratandır o; suçlarınızı örtmek ve muayyen vakte dek size mühlet vermek için çağırmada sizi....",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَٰنٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "elçileri, Allah'tan şüphe edilir mi dediler, gökleri ve yeryüzünü yaratandır o; suçlarınızı örtmek ve muayyen vakte dek size mühlet vermek için çağırmada sizi. Siz de dediler, bizim gibi insansanız ancak; bizi atalarımızın taptıklarından vazgeçirmek istiyorsunuz, öyleyse apaçık bir delil gösterin bize.",
+      "contextual_meaning": "İki yüzlülerin ve kibirlenenlerin Allah'ın indirdiğine çağrıldıklarında başlarını çevirip büsbütün yan çizmeleri (yesuddûne anke sudûdâ - 4:61, 63:5), yaygara koparmaları (43:57) ve her inatçı zorbanın karşılaşacağı irinli su (sadîd - 14:16)."
+    },
+    {
+      "surah": 14,
+      "ayah": 16,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:16",
+      "word_position": 7,
+      "target_word_uthmani": "صَدِيدٍ",
+      "target_word_rasm": "صديد",
+      "target_word_literal_irab": "Zorbaların içmekten tiksinip yüz çevirdiği irinli/kaynar su (مِّن مَّآءٍ صَدِيدٍ — isim/sıfat: 14:16)",
+      "context_snippet_arabic": "وَيُسْقَىٰ مِن مَّآءٍ صَدِيدٍ",
+      "context_snippet_turkish_tabula_rasa": "Önünde de yakıcı yıkım yurdu var, orada kanlı, irinli su içirilecek ona.",
+      "morphology": {
+        "lemma": "Sadiyd",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Sadiyd|ROOT:Sdd|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسْقَىٰ مِن مَّآءٍ صَدِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Önünde de yakıcı yıkım yurdu var, orada kanlı, irinli su içirilecek ona.",
+      "contextual_meaning": "İki yüzlülerin ve kibirlenenlerin Allah'ın indirdiğine çağrıldıklarında başlarını çevirip büsbütün yan çizmeleri (yesuddûne anke sudûdâ - 4:61, 63:5), yaygara koparmaları (43:57) ve her inatçı zorbanın karşılaşacağı irinli su (sadîd - 14:16)."
+    },
+    {
+      "surah": 16,
+      "ayah": 88,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:88",
+      "word_position": 3,
+      "target_word_uthmani": "وَصَدُّوا۟",
+      "target_word_rasm": "وصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olup halkı Allah yolundan menedenleri, yaptıkları bozgunculuk yüzünden azap üstüne azap katarak cezalandırırız.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ زِدْنَٰهُمْ عَذَابًا فَوْقَ ٱلْعَذَابِ بِمَا كَانُوا۟ يُفْسِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olup halkı Allah yolundan menedenleri, yaptıkları bozgunculuk yüzünden azap üstüne azap katarak cezalandırırız.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 16,
+      "ayah": 94,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:94",
+      "word_position": 13,
+      "target_word_uthmani": "صَدَدتُّمْ",
+      "target_word_rasm": "صددتم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "kesin andlarınızı, birbirinizi aldatmaya vasıta edinmeyin, sonra ayağınız adamakıllı pekişip yerleştikten sonra kayıverir ve halkı, Allah yolundan menetmenize...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَتَّخِذُوٓا۟ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ وَلَكُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "kesin andlarınızı, birbirinizi aldatmaya vasıta edinmeyin, sonra ayağınız adamakıllı pekişip yerleştikten sonra kayıverir ve halkı, Allah yolundan menetmenize karşılık kötülüğe uğrarsınız ve hakkınız olur pek büyük azap.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 20,
+      "ayah": 16,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:16",
+      "word_position": 2,
+      "target_word_uthmani": "يَصُدَّنَّكَ",
+      "target_word_rasm": "يصدنك",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا",
+      "context_snippet_turkish_tabula_rasa": "Ona güven duy ve havasına uyup giden, sakın seni güven duy çevirmesin, yoksa helak olursun sen de.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona güven duy ve havasına uyup giden, sakın seni güven duy çevirmesin, yoksa helak olursun sen de.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 22,
+      "ayah": 25,
+      "surah_name": "Hac",
+      "ayah_ref": "22:25",
+      "word_position": 4,
+      "target_word_uthmani": "وَيَصُدُّونَ",
+      "target_word_rasm": "ويصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar ve halkı Allah'ın yolundan çıkaranlar ve insanlar için boyun eğme ve kulluk yeri olarak halkettiğimiz ve orada yurt tutanla...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar ve halkı Allah'ın yolundan çıkaranlar ve insanlar için boyun eğme ve kulluk yeri olarak halkettiğimiz ve orada yurt tutanla orayı ziyaret için gelen hakkında aynı hükümleri yürüttüğümüz dokunulmaz teslimiyet odağı'dan men edenlerse. Ve kim orada nehy edilmiş birşeyi zulmederek yapmak isterse ona elemli azabı tattırırız.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 27,
+      "ayah": 24,
+      "surah_name": "Neml",
+      "ayah_ref": "27:24",
+      "word_position": 12,
+      "target_word_uthmani": "فَصَدَّهُمْ",
+      "target_word_rasm": "فصدهم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ فَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onu ve kavmini, Allah'ı bırakıp güneşe boyun eğme ve teslimiyet eder buldum ve saptırıcı yıkıcı güç, yaptıklarını bezemiş de yoldan çıkarmış onları ve onlar,...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MS"
+      },
+      "ayah_text_arabic_full": "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ ٱللَّهِ وَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ فَهُمْ لَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu ve kavmini, Allah'ı bırakıp güneşe boyun eğme ve teslimiyet eder buldum ve saptırıcı yıkıcı güç, yaptıklarını bezemiş de yoldan çıkarmış onları ve onlar, doğru yolu bulamıyorlar.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 27,
+      "ayah": 43,
+      "surah_name": "Neml",
+      "ayah_ref": "27:43",
+      "word_position": 1,
+      "target_word_uthmani": "وَصَدَّهَا",
+      "target_word_rasm": "وصدها",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَصَدَّهَا مَا كَانَت تَّعْبُدُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ı bırakıp da kulluk ettiği şeyler, onu yoldan çıkarmıştı; şüphe yok ki o, gerçeğin üzerini örtenler topluluğundandı.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MS"
+      },
+      "ayah_text_arabic_full": "وَصَدَّهَا مَا كَانَت تَّعْبُدُ مِن دُونِ ٱللَّهِ إِنَّهَا كَانَتْ مِن قَوْمٍ كَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ı bırakıp da kulluk ettiği şeyler, onu yoldan çıkarmıştı; şüphe yok ki o, gerçeğin üzerini örtenler topluluğundandı.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 28,
+      "ayah": 87,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:87",
+      "word_position": 2,
+      "target_word_uthmani": "يَصُدُّنَّكَ",
+      "target_word_rasm": "يصدنك",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَلَا يَصُدُّنَّكَ عَنْ ءَايَٰتِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Ve sakın sana indirildikten sonra seni Allah'ın ayetlerinden çevirmesinler ve Rabbine çağır halkı ve sakın otoriteyi bölüşme ve ortak koşma koşanlardan olma.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَا يَصُدُّنَّكَ عَنْ ءَايَٰتِ ٱللَّهِ بَعْدَ إِذْ أُنزِلَتْ إِلَيْكَ وَٱدْعُ إِلَىٰ رَبِّكَ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve sakın sana indirildikten sonra seni Allah'ın ayetlerinden çevirmesinler ve Rabbine çağır halkı ve sakın otoriteyi bölüşme ve ortak koşma koşanlardan olma.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 29,
+      "ayah": 38,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:38",
+      "word_position": 12,
+      "target_word_uthmani": "فَصَدَّهُمْ",
+      "target_word_rasm": "فصدهم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ وَكَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ve Âd'le Semud'u da helak etmiştik ve gerçekten de yerlerinden apaçık anlamaktasınız ve saptırıcı yıkıcı güç, onların yaptıklarını, bezemişti kendilerine ve...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MS"
+      },
+      "ayah_text_arabic_full": "وَعَادًا وَثَمُودَا۟ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَٰكِنِهِمْ وَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ وَكَانُوا۟ مُسْتَبْصِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Âd'le Semud'u da helak etmiştik ve gerçekten de yerlerinden apaçık anlamaktasınız ve saptırıcı yıkıcı güç, onların yaptıklarını, bezemişti kendilerine ve gerçeği gördükleri halde yoldan çelmişti onları.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 34,
+      "ayah": 32,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:32",
+      "word_position": 7,
+      "target_word_uthmani": "صَدَدْنَٰكُمْ",
+      "target_word_rasm": "صددنكم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "لِلَّذِينَ ٱسْتُضْعِفُوٓا۟ أَنَحْنُ صَدَدْنَٰكُمْ عَنِ ٱلْهُدَىٰ بَعْدَ",
+      "context_snippet_turkish_tabula_rasa": "Ululuk satanlarsa aşağılık sanılanlara biz mi derler, sizi doğru yoldan çıkardık, o doğru yol, size bildirildikten sonra? Hayır, siz suçlusunuz.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|1P"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ لِلَّذِينَ ٱسْتُضْعِفُوٓا۟ أَنَحْنُ صَدَدْنَٰكُمْ عَنِ ٱلْهُدَىٰ بَعْدَ إِذْ جَآءَكُم بَلْ كُنتُم مُّجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ululuk satanlarsa aşağılık sanılanlara biz mi derler, sizi doğru yoldan çıkardık, o doğru yol, size bildirildikten sonra? Hayır, siz suçlusunuz.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 34,
+      "ayah": 43,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:43",
+      "word_position": 13,
+      "target_word_uthmani": "يَصُدَّكُمْ",
+      "target_word_rasm": "يصدكم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, apaçık ayetlerimizi okuduğun zaman bu adam derler, sizi atalarınızın kulluk ettiği şeylerden vazgeçirmek isteyen birisi ancak ve bu derler, uydurulmuş...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ قَالُوا۟ مَا هَٰذَآ إِلَّا رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُوا۟ مَا هَٰذَآ إِلَّآ إِفْكٌ مُّفْتَرًى وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, apaçık ayetlerimizi okuduğun zaman bu adam derler, sizi atalarınızın kulluk ettiği şeylerden vazgeçirmek isteyen birisi ancak ve bu derler, uydurulmuş düzme bir şey ancak ve gerçeğin üzerini örten olanlar, onlara gerçeğe ait bir şey geldi mi, bu derler, apaçık bir büyü ancak.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 40,
+      "ayah": 37,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:37",
+      "word_position": 15,
+      "target_word_uthmani": "وَصُدَّ",
+      "target_word_rasm": "وصد",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Göklerin kapılarına ve derken Musa'nın mabudunu anlamış olurum ve gerçekten de sanıyorum ki o, yalancı ve Firavun'a, kötü işi, böyle bezendi de böyle çıkarıldı...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:Sad~a|ROOT:Sdd|3MS"
+      },
+      "ayah_text_arabic_full": "أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًا وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin kapılarına ve derken Musa'nın mabudunu anlamış olurum ve gerçekten de sanıyorum ki o, yalancı ve Firavun'a, kötü işi, böyle bezendi de böyle çıkarıldı yoldan ve Firavun'un düzeni, ancak ziyana uğradı, boşa çıktı.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 43,
+      "ayah": 37,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:37",
+      "word_position": 2,
+      "target_word_uthmani": "لَيَصُدُّونَهُمْ",
+      "target_word_rasm": "ليصدونهم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve şüphe yok ki saptırıcı yıkıcı güçler, onları yoldan çıkarır ve şüphe yok ki doğru yolu bulduklarını sanırlar.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şüphe yok ki saptırıcı yıkıcı güçler, onları yoldan çıkarır ve şüphe yok ki doğru yolu bulduklarını sanırlar.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 43,
+      "ayah": 57,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:57",
+      "word_position": 9,
+      "target_word_uthmani": "يَصِدُّونَ",
+      "target_word_rasm": "يصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+      "context_snippet_turkish_tabula_rasa": "Meryemoğlu örnek getirilince kavmin hemen bağrışmaya başladı.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryemoğlu örnek getirilince kavmin hemen bağrışmaya başladı.",
+      "contextual_meaning": "İki yüzlülerin ve kibirlenenlerin Allah'ın indirdiğine çağrıldıklarında başlarını çevirip büsbütün yan çizmeleri (yesuddûne anke sudûdâ - 4:61, 63:5), yaygara koparmaları (43:57) ve her inatçı zorbanın karşılaşacağı irinli su (sadîd - 14:16)."
+    },
+    {
+      "surah": 43,
+      "ayah": 62,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:62",
+      "word_position": 2,
+      "target_word_uthmani": "يَصُدَّنَّكُمُ",
+      "target_word_rasm": "يصدنكم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَٰنُ إِنَّهُۥ لَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ve saptırıcı yıkıcı güç, sizi yoldan çıkarmasın; şüphe yok ki o, size apaçık bir düşmandır.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَٰنُ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve saptırıcı yıkıcı güç, sizi yoldan çıkarmasın; şüphe yok ki o, size apaçık bir düşmandır.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 47,
+      "ayah": 1,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:1",
+      "word_position": 3,
+      "target_word_uthmani": "وَصَدُّوا۟",
+      "target_word_rasm": "وصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanların ve halkı, Allah yolundan çıkaranların, hayır sanarak yaptıklarını boşa çıkarmaktadır.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَٰلَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanların ve halkı, Allah yolundan çıkaranların, hayır sanarak yaptıklarını boşa çıkarmaktadır.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 47,
+      "ayah": 32,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:32",
+      "word_position": 4,
+      "target_word_uthmani": "وَصَدُّوا۟",
+      "target_word_rasm": "وصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar ve halkı, Allah yolundan çıkaranlar ve doğru yol, kendilerince de apaçık olarak anlaşıldıktan sonra elçiye karşı gelenler,...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَسَيُحْبِطُ أَعْمَٰلَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar ve halkı, Allah yolundan çıkaranlar ve doğru yol, kendilerince de apaçık olarak anlaşıldıktan sonra elçiye karşı gelenler, Allah'a hiçbir zarar veremezler ve görürler ki Allah, onların yaptıklarını yakında, mahvetmektedir.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 47,
+      "ayah": 34,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:34",
+      "word_position": 4,
+      "target_word_uthmani": "وَصَدُّوا۟",
+      "target_word_rasm": "وصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar ve halkı Allah yolundan çıkaranlar, sonra da gerçeğin üzerini örten olarak ölenler yok mu? Allah, kesin olarak onları...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar ve halkı Allah yolundan çıkaranlar, sonra da gerçeğin üzerini örten olarak ölenler yok mu? Allah, kesin olarak onları yarlıgamamaktadır.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 48,
+      "ayah": 25,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:25",
+      "word_position": 4,
+      "target_word_uthmani": "وَصَدُّوكُمْ",
+      "target_word_rasm": "وصدوكم",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, gerçeğin üzerini örten olan ve sizi dokunulmaz teslimiyet odağı'dan meneden ve yakınlaşma sunusu, yerlerine ulaştırmayan kişilerdi ve Mekke'de, sizin...",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, gerçeğin üzerini örten olan ve sizi dokunulmaz teslimiyet odağı'dan meneden ve yakınlaşma sunusu, yerlerine ulaştırmayan kişilerdi ve Mekke'de, sizin bilmediğiniz ve bilgisizlik yüzünden çiğneyip geçeceğiniz ve bu yüzden de sapma ve kusura gireceğiniz güvene ermiş erkekler ve güvene ermiş kadınlar olmasaydı sizi Mekke'ye sokardı, fakat Allah, dilediğini rahmetine ithal etsin diye, onlardan ellerinizi çekti sizin; birbirlerinden seçilip ayrılmış olsalardı, onlardan gerçeğin üzerini örten olanları elbette elemli bir azapla azaplandırırdık.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 58,
+      "ayah": 16,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:16",
+      "word_position": 4,
+      "target_word_uthmani": "فَصَدُّوا۟",
+      "target_word_rasm": "فصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "kesin andlarını bir kalkan edinmedeler de halkı Allah yolunda menetmedeler, onlaradır artık aşağılatıcı bir azap.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ فَلَهُمْ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "kesin andlarını bir kalkan edinmedeler de halkı Allah yolunda menetmedeler, onlaradır artık aşağılatıcı bir azap.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 63,
+      "ayah": 2,
+      "surah_name": "Münâfikūn",
+      "ayah_ref": "63:2",
+      "word_position": 4,
+      "target_word_uthmani": "فَصَدُّوا۟",
+      "target_word_rasm": "فصدوا",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Antlarını kalkan edinmişler de halkı, Allah yolundan çıkarmışlardır; şüphe yok ki ne de kötüdür bu yaptıkları şey.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Antlarını kalkan edinmişler de halkı, Allah yolundan çıkarmışlardır; şüphe yok ki ne de kötüdür bu yaptıkları şey.",
+      "contextual_meaning": "İnsanları Allah'ın yolundan, zikrinden ve tüm insanlığa açık Mescid-i Harâm'dan geri çevirip engellemek (saddün an sebîlillâh); doğru yolu eğri göstermeye çalışmak ve bu uğurda harcanan malların ve kurulan tuzakların boşa çıkması."
+    },
+    {
+      "surah": 63,
+      "ayah": 5,
+      "surah_name": "Münâfikūn",
+      "ayah_ref": "63:5",
+      "word_position": 12,
+      "target_word_uthmani": "يَصُدُّونَ",
+      "target_word_rasm": "يصدون",
+      "target_word_literal_irab": "İnsanları Allah'ın yolundan, anılmasından ve ortak mabedden geri çevirip engellemek (3:99, 5:2, 8:36, 22:25, 48:25) veya hakka çağrıldığında yüz çevirip yan çizmek (4:61, 43:57, 63:5) (صَدَّ / صَدُّوا۟ / يَصُدُّونَ — Bab I ve Bab II fiil: 37 geçiş)",
+      "context_snippet_arabic": "لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve onlara, gelin de Allah'ın elçiyi size yarlıganma dilesin denirse başlarını sallarlar alay ederek ve görürsün ki ululuk satarak dönüp gitmedeler.",
+      "morphology": {
+        "lemma": "Sad~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sad~a|ROOT:Sdd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onlara, gelin de Allah'ın elçiyi size yarlıganma dilesin denirse başlarını sallarlar alay ederek ve görürsün ki ululuk satarak dönüp gitmedeler.",
+      "contextual_meaning": "İki yüzlülerin ve kibirlenenlerin Allah'ın indirdiğine çağrıldıklarında başlarını çevirip büsbütün yan çizmeleri (yesuddûne anke sudûdâ - 4:61, 63:5), yaygara koparmaları (43:57) ve her inatçı zorbanın karşılaşacağı irinli su (sadîd - 14:16)."
+    }
+  ]
+}

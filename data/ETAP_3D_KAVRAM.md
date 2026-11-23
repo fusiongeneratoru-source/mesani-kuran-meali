@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 400 mühürlü kökten (`%84,51`) sonra, meal aşamasına geçmeden önce Fâtiha suresinin tamamını, kısa surelerin (93-114) kalan çekirdek düğümlerini, 3+ açık Mesânî referanslarını ve en yüksek frekanslı mühürsüz kavramları kapatan **50 kritik kök** (1205 geçiş) mühürlenerek toplam sözlük **450 kilitli köke (`%86,92` kümülatif kapsam)** ulaştırılır.
-> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 440 Kök | Güncel Kapsam: %86,19)
+> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 450 Kök | Güncel Kapsam: %86,92)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -47,13 +47,13 @@
 | 38 | Ahit, Sabitlik ve Özgürlük | 462 | `ح-ر-ر` | `H-R-R` | **15** | 11 | 2:178 | Taḥrîr, Ḥürr ve Ḥarr (Boyunduruktan Kurtarıp Özgürleştirmek, Özgür Birey, Saf İpek ve Yakıcı Sıcak) | ✅ **MÜHÜRLÜ** |
 | 39 | Ahit, Sabitlik ve Özgürlük | 683 | `ن-ك-ث` | `N-K-S` | **7** | 6 | 7:135 | Neks̱ ve Enkâs̱ (Sağlamca Bükülmüş İpi ve Bağlanmış Ahdi Çözüp Lif Lif Dağıtmak) | ✅ **MÜHÜRLÜ** |
 | 40 | Ahit, Sabitlik ve Özgürlük | 735 | `ق-ن-ط` | `K-N-T` | **6** | 6 | 15:55 | Ḳunûṭ ve Ḳânıṭ (Sıkıntı veya Hata Karşısında Rahmetten Ümidi Tamamen Kesip Çökmek) | ✅ **MÜHÜRLÜ** |
-| 41 | Yüksek Frekanslı Çekirdek | 220 | `س-ر-ر` | `S-R-R` | **44** | 43 | 2:69 | Sırr, İsrâr, Mesrûr ve Sürür (1 açık Mesânî ref! ع-ل-ن ve ج-ه-ر zıttı gizlemek/sır + içten parlayan sevinç ve tahtlar) | ⏳ *Bekliyor* |
-| 42 | Yüksek Frekanslı Çekirdek | 232 | `ق-و-ي` | `K-W-Y` | **42** | 39 | 2:63 | Kuvvet, Kaviyy ve Mukvîn (1 açık Mesânî ref! ض-ع-ف [Za'f] kökünün doğrudan Mesânî zıttı: bükülmüş halat sağlamlığı ve güç) | ⏳ *Bekliyor* |
-| 43 | Yüksek Frekanslı Çekirdek | 234 | `ص-د-د` | `S-D-D` | **42** | 41 | 2:217 | Sadd ve Sudûd (1 açık Mesânî ref! 4:61, 22:25 hak yoldan ve ortak mabedden geri çevirip engellemek ve yüz çevirmek) | ⏳ *Bekliyor* |
-| 44 | Yüksek Frekanslı Çekirdek | 247 | `ق-ر-ر` | `K-R-R` | **38** | 37 | 2:36 | Karâr, Müstekarr ve İkrâr (1 açık Mesânî ref! 6:98 yerleşip durulma yeri, 25:74 göz aydınlığı ve 2:84 ahdi onaylamak) | ⏳ *Bekliyor* |
-| 45 | Yüksek Frekanslı Çekirdek | 249 | `ف-ت-ح` | `F-T-H` | **38** | 33 | 2:76 | Feth, Fettâh ve Mefâtih (1 açık Mesânî ref! 7:89, 26:118 kilitli düğümü hak ile açıp hüküm vermek ve 6:59 gaybın anahtarları) | ⏳ *Bekliyor* |
-| 46 | Yüksek Frekanslı Çekirdek | 251 | `م-ر-أ` | `M-R-E` | **38** | 37 | 2:102 | Mer', İmru' ve İmra'e (4:4 boğazdan rahat geçen afiyetli pay [هَنِيٓـًٔا مَّرِيٓـًٔا] + birey/kişi sorumluluğu ve eş/kadın) | ⏳ *Bekliyor* |
-| 47 | Yüksek Frekanslı Çekirdek | 279 | `ج-ن-ب` | `C-N-B` | **33** | 31 | 3:191 | Cenb, İctinâb ve Cünüb (1 açık Mesânî ref! yan/kenar, 4:36 komşu, 16:36/22:30 pislik ve tâğûttan uzak durmak ve 4:43/5:6 cünüplük) | ⏳ *Bekliyor* |
-| 48 | Yüksek Frekanslı Çekirdek | 285 | `و-س-ع` | `W-S-A` | **32** | 29 | 2:115 | Vüs'at ve Vâsi' (2:286, 65:7 kimseye kapasitesinin/gücünün [وُسْعَهَا] üstünde yük yüklenmemesi yasası ve kuşatıcı genişlik) | ⏳ *Bekliyor* |
-| 49 | Yüksek Frekanslı Çekirdek | 301 | `س-ع-ي` | `S-A-Y` | **30** | 28 | 2:114 | Sa'y (53:39 "insan için yalnızca kendi çabası vardır" yasası, 2:205, 62:9 bilinçli ve kararlı emek yürüyüşü) | ⏳ *Bekliyor* |
-| 50 | Yüksek Frekanslı Çekirdek | 315 | `ف-و-ز` | `F-W-Z` | **29** | 27 | 3:185 | Fevz ve Fâizûn (خ-س-ر [Hüsrân] kökünün doğrudan Mesânî eşleniği: yıkımdan kurtulup büyük başarıya ve esenliğe ulaşmak) | ⏳ *Bekliyor* |
+| 41 | Yüksek Frekanslı Çekirdek | 220 | `س-ر-ر` | `S-R-R` | **44** | 43 | 2:69 | Sırr, İsrâr, Sürûr ve Sürür (Sözü ve Niyeti İçte Gizlemek, Kalbin Özündeki Sevinç ve Yüksek Tahtlar) | ✅ **MÜHÜRLÜ** |
+| 42 | Yüksek Frekanslı Çekirdek | 232 | `ق-و-ي` | `K-W-Y` | **42** | 39 | 2:63 | Ḳuvvet, Ḳaviyy ve Muḳvîn (Bükülmüş Halat Sağlamlığı, Zaafın Karşıtı Olan Güç ve Kararlılık) | ✅ **MÜHÜRLÜ** |
+| 43 | Yüksek Frekanslı Çekirdek | 234 | `ص-د-د` | `S-D-D` | **42** | 41 | 2:217 | Ṣadd ve Ṣudûd (Yüz Çevirip Yan Çizmek ve İnsanları Doğru Yoldan Çevirip Engellemek) | ✅ **MÜHÜRLÜ** |
+| 44 | Yüksek Frekanslı Çekirdek | 247 | `ق-ر-ر` | `K-R-R` | **38** | 37 | 2:36 | Ḳarâr, Müsteḳarr, İḳrâr ve Ḳurretü ʿAyn (Sarsılmadan Yerleşip Durulmak, Hakkı Onaylamak ve Göz Aydınlığı) | ✅ **MÜHÜRLÜ** |
+| 45 | Yüksek Frekanslı Çekirdek | 249 | `ف-ت-ح` | `F-T-H` | **38** | 33 | 2:76 | Fetḥ, Fettâḥ ve Mefâtiḥ (Kapalı ve Kilitli Olanı Açmak, Gaybın Anahtarları, Rahmet ve Hak İle Hüküm) | ✅ **MÜHÜRLÜ** |
+| 46 | Yüksek Frekanslı Çekirdek | 251 | `م-ر-أ` | `M-R-E` | **38** | 37 | 2:102 | Merʾ, İmruʾ, İmraʾeh ve Merîʾ (Boğazdan Rahat Geçen Afiyetli Pay ve Bireysel Sorumluluk Sahibi Kişi/Kadın) | ✅ **MÜHÜRLÜ** |
+| 47 | Yüksek Frekanslı Çekirdek | 279 | `ج-ن-ب` | `C-N-B` | **33** | 31 | 3:191 | Cenb, İctinâb, Cânib ve Cünüb (Bedenin Yanı, Dağın Yamacı ve Tâğût İle Kötülükten Uzak Bir Kenara Çekilmek) | ✅ **MÜHÜRLÜ** |
+| 48 | Yüksek Frekanslı Çekirdek | 285 | `و-س-ع` | `W-S-A` | **32** | 29 | 2:115 | Vüsʿ, Vâsiʿ ve Seʿah (Darlığın Karşıtı Olan Kuşatıcı Genişlik ve İnsanın Taşıyabileceği Doğal Kapasite) | ✅ **MÜHÜRLÜ** |
+| 49 | Yüksek Frekanslı Çekirdek | 301 | `س-ع-ي` | `S-A-Y` | **30** | 28 | 2:114 | Saʿy (Hedefe Yönelik Hızlı ve Kararlı Yürüyüş ile İnsanın Ortaya Koyduğu Bilinçli Çaba ve Emek) | ✅ **MÜHÜRLÜ** |
+| 50 | Yüksek Frekanslı Çekirdek | 315 | `ف-و-ز` | `F-W-Z` | **29** | 27 | 3:185 | Fevz, Fâʾizûn ve Mefâz (Yıkım ve Tehlikeden Kurtulup Esenlikle En Büyük Başarıya Ulaşmak) | ✅ **MÜHÜRLÜ** |

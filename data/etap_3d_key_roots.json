@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3D (Fâtiha & Kısa Sure Tam Kilidi, Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar — 50 Kök)",
   "target_count": 50,
-  "locked_count": 40,
+  "locked_count": 50,
   "total_tokens_in_package": 1205,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 86.19,
+  "current_coverage_pct": 86.92,
   "target_coverage_pct": 86.92,
   "etap_3d_roots": [
     {
@@ -786,8 +786,8 @@
       "frequency": 44,
       "unique_ayahs": 43,
       "rationale": "Sırr, İsrâr, Mesrûr ve Sürür (1 açık Mesânî ref! ع-ل-ن ve ج-ه-ر zıttı gizlemek/sır + içten parlayan sevinç ve tahtlar)",
-      "concept_label": "Analiz Bekliyor (>asar~a, sir~, surur, s~ar~aA^')",
-      "is_locked": false,
+      "concept_label": "Sırr, İsrâr, Sürûr ve Sürür (Sözü ve Niyeti İçte Gizlemek, Kalbin Özündeki Sevinç ve Yüksek Tahtlar)",
+      "is_locked": true,
       "sample_ayah": "2:69",
       "top_lemmas": [
         ">asar~a",
@@ -806,8 +806,8 @@
       "frequency": 42,
       "unique_ayahs": 39,
       "rationale": "Kuvvet, Kaviyy ve Mukvîn (1 açık Mesânî ref! ض-ع-ف [Za'f] kökünün doğrudan Mesânî zıttı: bükülmüş halat sağlamlığı ve güç)",
-      "concept_label": "Analiz Bekliyor (quw~ap, qawiY~, muqowiyn)",
-      "is_locked": false,
+      "concept_label": "Ḳuvvet, Ḳaviyy ve Muḳvîn (Bükülmüş Halat Sağlamlığı, Zaafın Karşıtı Olan Güç ve Kararlılık)",
+      "is_locked": true,
       "sample_ayah": "2:63",
       "top_lemmas": [
         "quw~ap",
@@ -825,8 +825,8 @@
       "frequency": 42,
       "unique_ayahs": 41,
       "rationale": "Sadd ve Sudûd (1 açık Mesânî ref! 4:61, 22:25 hak yoldan ve ortak mabedden geri çevirip engellemek ve yüz çevirmek)",
-      "concept_label": "Analiz Bekliyor (Sad~a, Sad~, Suduwd, Sud~u)",
-      "is_locked": false,
+      "concept_label": "Ṣadd ve Ṣudûd (Yüz Çevirip Yan Çizmek ve İnsanları Doğru Yoldan Çevirip Engellemek)",
+      "is_locked": true,
       "sample_ayah": "2:217",
       "top_lemmas": [
         "Sad~a",
@@ -845,8 +845,8 @@
       "frequency": 38,
       "unique_ayahs": 37,
       "rationale": "Karâr, Müstekarr ve İkrâr (1 açık Mesânî ref! 6:98 yerleşip durulma yeri, 25:74 göz aydınlığı ve 2:84 ahdi onaylamak)",
-      "concept_label": "Analiz Bekliyor (musotaqar~, qaraAr, taqar~a, >aqoraro)",
-      "is_locked": false,
+      "concept_label": "Ḳarâr, Müsteḳarr, İḳrâr ve Ḳurretü ʿAyn (Sarsılmadan Yerleşip Durulmak, Hakkı Onaylamak ve Göz Aydınlığı)",
+      "is_locked": true,
       "sample_ayah": "2:36",
       "top_lemmas": [
         "musotaqar~",
@@ -865,8 +865,8 @@
       "frequency": 38,
       "unique_ayahs": 33,
       "rationale": "Feth, Fettâh ve Mefâtih (1 açık Mesânî ref! 7:89, 26:118 kilitli düğümü hak ile açıp hüküm vermek ve 6:59 gaybın anahtarları)",
-      "concept_label": "Analiz Bekliyor (fataHa, fatoH, {sotafotaHu, mafaAtiH)",
-      "is_locked": false,
+      "concept_label": "Fetḥ, Fettâḥ ve Mefâtiḥ (Kapalı ve Kilitli Olanı Açmak, Gaybın Anahtarları, Rahmet ve Hak İle Hüküm)",
+      "is_locked": true,
       "sample_ayah": "2:76",
       "top_lemmas": [
         "fataHa",
@@ -885,8 +885,8 @@
       "frequency": 38,
       "unique_ayahs": 37,
       "rationale": "Mer', İmru' ve İmra'e (4:4 boğazdan rahat geçen afiyetli pay [هَنِيٓـًٔا مَّرِيٓـًٔا] + birey/kişi sorumluluğu ve eş/kadın)",
-      "concept_label": "Analiz Bekliyor ({mora>at, {mori}, maro', m~ariy^_#)",
-      "is_locked": false,
+      "concept_label": "Merʾ, İmruʾ, İmraʾeh ve Merîʾ (Boğazdan Rahat Geçen Afiyetli Pay ve Bireysel Sorumluluk Sahibi Kişi/Kadın)",
+      "is_locked": true,
       "sample_ayah": "2:102",
       "top_lemmas": [
         "{mora>at",
@@ -905,8 +905,8 @@
       "frequency": 33,
       "unique_ayahs": 31,
       "rationale": "Cenb, İctinâb ve Cünüb (1 açık Mesânî ref! yan/kenar, 4:36 komşu, 16:36/22:30 pislik ve tâğûttan uzak durmak ve 4:43/5:6 cünüplük)",
-      "concept_label": "Analiz Bekliyor ({jotanabu, jaAnib, janb, junub)",
-      "is_locked": false,
+      "concept_label": "Cenb, İctinâb, Cânib ve Cünüb (Bedenin Yanı, Dağın Yamacı ve Tâğût İle Kötülükten Uzak Bir Kenara Çekilmek)",
+      "is_locked": true,
       "sample_ayah": "3:191",
       "top_lemmas": [
         "{jotanabu",
@@ -925,8 +925,8 @@
       "frequency": 32,
       "unique_ayahs": 29,
       "rationale": "Vüs'at ve Vâsi' (2:286, 65:7 kimseye kapasitesinin/gücünün [وُسْعَهَا] üstünde yük yüklenmemesi yasası ve kuşatıcı genişlik)",
-      "concept_label": "Analiz Bekliyor (wa`siE, saEap, wasiEa, wusoE)",
-      "is_locked": false,
+      "concept_label": "Vüsʿ, Vâsiʿ ve Seʿah (Darlığın Karşıtı Olan Kuşatıcı Genişlik ve İnsanın Taşıyabileceği Doğal Kapasite)",
+      "is_locked": true,
       "sample_ayah": "2:115",
       "top_lemmas": [
         "wa`siE",
@@ -945,8 +945,8 @@
       "frequency": 30,
       "unique_ayahs": 28,
       "rationale": "Sa'y (53:39 \"insan için yalnızca kendi çabası vardır\" yasası, 2:205, 62:9 bilinçli ve kararlı emek yürüyüşü)",
-      "concept_label": "Analiz Bekliyor (saEaY`, saEoy)",
-      "is_locked": false,
+      "concept_label": "Saʿy (Hedefe Yönelik Hızlı ve Kararlı Yürüyüş ile İnsanın Ortaya Koyduğu Bilinçli Çaba ve Emek)",
+      "is_locked": true,
       "sample_ayah": "2:114",
       "top_lemmas": [
         "saEaY`",
@@ -963,8 +963,8 @@
       "frequency": 29,
       "unique_ayahs": 27,
       "rationale": "Fevz ve Fâizûn (خ-س-ر [Hüsrân] kökünün doğrudan Mesânî eşleniği: yıkımdan kurtulup büyük başarıya ve esenliğe ulaşmak)",
-      "concept_label": "Analiz Bekliyor (fawoz, faA^}izuwn, faAza, mafaAzap)",
-      "is_locked": false,
+      "concept_label": "Fevz, Fâʾizûn ve Mefâz (Yıkım ve Tehlikeden Kurtulup Esenlikle En Büyük Başarıya Ulaşmak)",
+      "is_locked": true,
       "sample_ayah": "3:185",
       "top_lemmas": [
         "fawoz",
