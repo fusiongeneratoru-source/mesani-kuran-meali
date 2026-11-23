@@ -38025,5 +38025,955 @@
       }
     ],
     "context_default": "Zihinsel arzu/kurgu veya ölçüyle akıtılan üreme sıvısı (م-ن-ي)."
+  },
+  "أ-ل-و": {
+    "buckwalter": "Alw",
+    "slug": "ala_ve_ila_somut_nimet_gostergeleri_and_icmek_ve_geri_durmamak_alw",
+    "concept_name": "Âlâ ve Îlâ (Somut Nimet Göstergeleri, Uzak Durma Andı ve Geri Durmamak)",
+    "keywords": [
+      "ala",
+      "nimet",
+      "ila",
+      "and",
+      "lutuf",
+      "kusur_etmemek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "'aAlaA^'",
+        "pos": "N",
+        "ayahs": [
+          "7:69",
+          "7:74",
+          "53:55"
+        ],
+        "label": "Yaratıcının tarih ve yaratılışta açığa çıkardığı somut nimet ve lütuf göstergeleri (ءَالَآءَ / ءَالَآءِ)"
+      },
+      {
+        "lemma": "'aAlaA^'",
+        "pos": "N",
+        "label": "Rahmân suresinde 31 kez yankılanan, yalanlanamaz kozmik ve yaşamsal nimet göstergeleri (ءَالَآءِ رَبِّكُمَا — 55:13–77)"
+      },
+      {
+        "lemma": "yu&olu",
+        "pos": "V",
+        "label": "Eşlerden uzak durmak üzere bağlayıcı and içmek (يُؤْلُونَ — 2:226, Form IV)"
+      },
+      {
+        "lemma": "ya>otali",
+        "pos": "V",
+        "label": "İyiliği ve yardımı kesmek üzere and içip kilitlenmemek (لَا يَأْتَلِ — 24:22, Form VIII)"
+      },
+      {
+        "lemma": "ya>olu",
+        "pos": "V",
+        "label": "Zarar ve bozgun çıkarmakta hiç kusur etmemek, geri durmamak (لَا يَأْلُونَكُمْ خَبَالًا — 3:118, Form I)"
+      }
+    ],
+    "irab_default": "Somut nimet göstergeleri, uzak durma andı veya geri durmama (أ-ل-و kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:69",
+          "7:74",
+          "53:55"
+        ],
+        "text": "Tarihsel nimet hatırlatması: Ad ve Semûd'a verilen yeryüzü imkânları ve tartışma götürmeyen Rab göstergeleri."
+      },
+      {
+        "ayahs": [
+          "2:226",
+          "24:22"
+        ],
+        "text": "Bağlayıcı uzaklaşma andı: aile içi kopuşa dört aylık sınır konması (2:226) ve kırgınlıkla yardımı kesme andının yasaklanması (24:22)."
+      },
+      {
+        "ayahs": [
+          "3:118"
+        ],
+        "text": "Dış düşmanlık tespiti: zarar vermekte hiçbir gevşeklik ve kusur göstermeyen çevreler (3:118)."
+      }
+    ],
+    "context_default": "Rahmân suresindeki 31 nakarat boyunca yaratıcının kozmik ve yaşamsal nimet göstergeleri (آلَاء)."
+  },
+  "ق-ر-ن": {
+    "buckwalter": "qrn",
+    "slug": "karn_karin_ve_mukarrenin_cagdas_nesil_yoldas_ve_birbirine_baglanmak_qrn",
+    "concept_name": "Karn, Karîn ve Mukarrenîn (Çağdaş Nesil, Ayrılmaz Yoldaş ve Birbirine Bağlanmak)",
+    "keywords": [
+      "karn",
+      "kurun",
+      "karin",
+      "zulkarneyn",
+      "mukarrenin",
+      "nesil",
+      "yoldas"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qaron",
+        "pos": "N",
+        "ayahs": [
+          "18:83",
+          "18:86",
+          "18:94"
+        ],
+        "label": "İki uç/iki güç sahibi unvanıyla anılan kurucu önder Zülkarneyn (ذِى ٱلْقَرْنَيْنِ — 18:83, 86, 94)"
+      },
+      {
+        "lemma": "qaron",
+        "pos": "N",
+        "label": "Aynı dönem ve çağda yaşamış insan topluluğu, nesil, kuşak (قَرْن / قُرُون — 20 geçiş)"
+      },
+      {
+        "lemma": "qariyn",
+        "pos": "N",
+        "ayahs": [
+          "50:23",
+          "50:27"
+        ],
+        "label": "Hesap anında insanın kaydını sunan veya tutumuna tanıklık eden refakatçi (قَرِينُهُۥ — 50:23, 27)"
+      },
+      {
+        "lemma": "qariyn",
+        "pos": "N",
+        "label": "İnsanın yanından ayrılmayan yıkıcı yoldaş ve eşlikçi (قَرِين / قُرَنَاء — 4:38, 37:51, 41:25, 43:36, 43:38)"
+      },
+      {
+        "lemma": "m~uqar~aniyn",
+        "pos": "N",
+        "label": "Bukağılar içinde birbirine bağlanıp kenetlenmiş olanlar (مُّقَرَّنِينَ — 14:49, 25:13, Form II ism-i mef'ûl)"
+      },
+      {
+        "lemma": "m~uqar~aniyn",
+        "pos": "ADJ",
+        "label": "Bukağılar içinde birbirine bağlanmış sıfatı (مُقَرَّنِينَ — 38:38, Form II ism-i mef'ûl)"
+      },
+      {
+        "lemma": "muqoriniyn",
+        "pos": "N",
+        "label": "Kendi gücüyle zapt edip boyun eğdirebilenler (مُقْرِنِينَ — 43:13, Form IV ism-i fâil)"
+      },
+      {
+        "lemma": "muqotariniyn",
+        "pos": "N",
+        "label": "Peş peşe birbirine eşlik ederek birlikte gelenler (مُقْتَرِنِينَ — 43:53, Form VIII ism-i fâil)"
+      }
+    ],
+    "irab_default": "Çağdaş nesil, ayrılmaz yoldaş veya birbirine bağlanıp eşleşmek (ق-ر-ن kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:6",
+          "10:13",
+          "11:116",
+          "17:17",
+          "19:74",
+          "19:98",
+          "20:51",
+          "20:128",
+          "23:31",
+          "23:42",
+          "25:38",
+          "28:43",
+          "28:45",
+          "28:78",
+          "32:26",
+          "36:31",
+          "38:3",
+          "46:17",
+          "50:36"
+        ],
+        "text": "Tarih yasası: kendilerinden önce yükselip zulümle çöken ve yerlerini yeni topluluklara bırakan geçmiş çağdaş nesiller (قَرْن/قُرُون)."
+      },
+      {
+        "ayahs": [
+          "18:83",
+          "18:86",
+          "18:94"
+        ],
+        "text": "Zülkarneyn anlatısı: yeryüzünün batı ve doğu uçlarına ulaşıp adalet ve güvenlik seddi kuran önder."
+      },
+      {
+        "ayahs": [
+          "4:38",
+          "37:51",
+          "41:25",
+          "43:36",
+          "43:38",
+          "50:23",
+          "50:27"
+        ],
+        "text": "Yoldaşlık ve eşleşme sorumluluğu: zikirden uzaklaşana musallat olan kötü yoldaşlar ve hesap günündeki yüzleşme."
+      },
+      {
+        "ayahs": [
+          "14:49",
+          "25:13",
+          "38:38",
+          "43:13",
+          "43:53"
+        ],
+        "text": "Bağlanma, zapt etme ve eşlik: bukağılara bağlanmak, binekleri zapt edememe itirafı ve topluca gelme beklentisi."
+      }
+    ],
+    "context_default": "Çağdaş nesil, ayrılmaz yoldaş veya birbirine bağlanma (ق-ر-ن)."
+  },
+  "أ-و-ي": {
+    "buckwalter": "Awy",
+    "slug": "eva_iva_ve_meva_siginmak_sefkatle_barindirmak_ve_kalici_barinak_awy",
+    "concept_name": "Evâ, Îvâ ve Me'vâ (Sığınmak, Şefkatle Barındırmak ve Kalıcı Barınak)",
+    "keywords": [
+      "eva",
+      "iva",
+      "meva",
+      "siginmak",
+      "barindirmak",
+      "barinak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">awaY",
+        "pos": "V",
+        "ayahs": [
+          "11:43"
+        ],
+        "label": "Tufandan kurtulmak için dağa sığınma yanılgısı (سَـَٔاوِىٓ إِلَىٰ جَبَلٍ — 11:43, Form I)"
+      },
+      {
+        "lemma": ">awaY",
+        "pos": "V",
+        "label": "Güvenli bir dayanağa, mağaraya veya kayaya çekilip sığınmak (Form I — 11:80, 18:10, 18:16, 18:63)"
+      },
+      {
+        "lemma": "'aAwaY`^",
+        "pos": "V",
+        "ayahs": [
+          "8:26",
+          "23:50",
+          "93:6"
+        ],
+        "label": "Allah'ın yetimi, güçsüzleri ve Meryem ile oğlunu şefkatle koruyup barındırması (Form IV)"
+      },
+      {
+        "lemma": "'aAwaY`^",
+        "pos": "V",
+        "label": "Göçmenleri, aileyi veya yakınları kanat altına alıp barındırmak (Form IV — 8:72, 8:74, 12:69, 12:99, 33:51, 70:13)"
+      },
+      {
+        "lemma": "ma>owaY`",
+        "pos": "N",
+        "ayahs": [
+          "32:19",
+          "53:15",
+          "79:41"
+        ],
+        "label": "Erdemliler için kalıcı esenlik ve huzur barınağı (جَنَّٰتُ ٱلْمَأْوَىٰ / ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ)"
+      },
+      {
+        "lemma": "ma>owaY`",
+        "pos": "N",
+        "label": "Zalim ve yalanlayıcıların eylemleriyle vardıkları kalıcı ateş barınağı (مَأْوَىٰهُمُ ٱلنَّارُ / جَهَنَّمُ — 18 geçiş)"
+      }
+    ],
+    "irab_default": "Sığınmak, şefkatle barındırmak veya kalıcı barınak (أ-و-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:43",
+          "11:80",
+          "18:10",
+          "18:16",
+          "18:63"
+        ],
+        "text": "Sığınma arayışı: sahte güvence olarak dağa sığınma yanılgısı ile mağara gençlerinin bilinçli sığınması."
+      },
+      {
+        "ayahs": [
+          "8:26",
+          "8:72",
+          "8:74",
+          "12:69",
+          "12:99",
+          "23:50",
+          "33:51",
+          "70:13",
+          "93:6"
+        ],
+        "text": "Şefkatli barındırma: yetimin, zayıfların, göçmenlerin ve ailenin koruma altına alınması."
+      },
+      {
+        "ayahs": [
+          "32:19",
+          "53:15",
+          "79:41"
+        ],
+        "text": "Esenlik barınağı: doğru ve erdemli eylem sahiplerinin nihai barınma yurdu."
+      },
+      {
+        "ayahs": [
+          "3:151",
+          "3:162",
+          "3:197",
+          "4:97",
+          "4:121",
+          "5:72",
+          "8:16",
+          "9:73",
+          "9:95",
+          "10:8",
+          "13:18",
+          "17:97",
+          "24:57",
+          "29:25",
+          "32:20",
+          "45:34",
+          "57:15",
+          "66:9",
+          "79:39"
+        ],
+        "text": "Ateş barınağı: zulüm ve saptırmada direnenlerin kaçışsız biçimde kapanacakları nihai barınak."
+      }
+    ],
+    "context_default": "Sığınmak, barındırmak ve nihai barınak (أ-و-ي)."
+  },
+  "ط-ي-ر": {
+    "buckwalter": "Tyr",
+    "slug": "tayr_tair_ve_tetayyur_kanatli_ucus_ugursuzluk_hurafesi_ve_eylem_akibeti_tyr",
+    "concept_name": "Tayr, Tâir ve Tetayyur (Kanatlı Uçuş, Uğursuzluk Hurafesi ve Eylem Akıbeti)",
+    "keywords": [
+      "tayr",
+      "tair",
+      "tetayyur",
+      "mustetir",
+      "kus",
+      "ucmak",
+      "ugursuzluk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Tayor",
+        "pos": "N",
+        "ayahs": [
+          "16:79",
+          "24:41",
+          "67:19"
+        ],
+        "label": "Gök boşluğunda kanat açıp kapayarak ilahî yasayla tutulan kuşlar (ٱلطَّيْر)"
+      },
+      {
+        "lemma": "Tayor",
+        "pos": "N",
+        "label": "Kuş, kuş topluluğu (طَيْر — kıssa ve nimet sahnelerinde 16 geçiş)"
+      },
+      {
+        "lemma": "yaTiyru",
+        "pos": "V",
+        "label": "İki kanadıyla havada uçmak (يَطِيرُ — 6:38, Form I)"
+      },
+      {
+        "lemma": "Ta`^}ir",
+        "pos": "N",
+        "ayahs": [
+          "6:38"
+        ],
+        "label": "İki kanadıyla uçan kuş canlısı (طَٰٓئِرٍ يَطِيرُ بِجَنَاحَيْهِ — 6:38)"
+      },
+      {
+        "lemma": "Ta`^}ir",
+        "pos": "N",
+        "label": "Kişinin boynuna bağlı kendi eylem sorumluluğu ve Allah katındaki akıbet payı (طَٰٓئِر — 7:131, 17:13, 27:47, 36:19)"
+      },
+      {
+        "lemma": "{T~ay~aro",
+        "pos": "V",
+        "label": "Batıl biçimde birine uğursuzluk yakıştırmak (يَطَّيَّرُوا۟ / ٱطَّيَّرْنَا / تَطَيَّرْنَا — Form V: 7:131, 27:47, 36:18)"
+      },
+      {
+        "lemma": "musotaTiyr",
+        "pos": "N",
+        "label": "Kötülüğü ve dehşeti her yana hızla yayılıp kuşatan (مُسْتَطِيرًا — 76:7, Form X ism-i fâil)"
+      }
+    ],
+    "irab_default": "Kanatlı uçuş, kuş, uğursuzluk yakıştırması veya hızlı yayılım (ط-ي-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:38",
+          "16:79",
+          "24:41",
+          "67:19"
+        ],
+        "text": "Kozmik yaratılış ayeti: insan gibi birer ümmet olan ve gökte ilahî denge yasasıyla tutulan kuşlar."
+      },
+      {
+        "ayahs": [
+          "7:131",
+          "17:13",
+          "27:47",
+          "36:18",
+          "36:19"
+        ],
+        "text": "Uğursuzluk hurafesinin yıkımı: elçilere uğursuzluk yakıştıran zihniyete karşı akıbetin Allah katında ve insanın kendi eyleminde olduğu yasası."
+      },
+      {
+        "ayahs": [
+          "76:7"
+        ],
+        "text": "Hızla yayılan hesap günü dehşeti: kötülüğü her yana hızla yayılan gün (شَرُّهُۥ مُسْتَطِيرًا)."
+      }
+    ],
+    "context_default": "Kıssalarda ve doğa tasvirlerinde kanatlı kuşlar (طَيْر)."
+  },
+  "ف-ت-ي": {
+    "buckwalter": "fty",
+    "slug": "feta_ve_ifta_genclik_tazeligi_ve_dugumlu_konuda_acik_hukum_bildirmek_fty",
+    "concept_name": "Fetâ ve İftâ (Gençlik Tazeliği ve Düğümlü Konuda Açık Hüküm/Görüş Bildirmek)",
+    "keywords": [
+      "feta",
+      "fitye",
+      "feteyat",
+      "ifta",
+      "istifta",
+      "genc",
+      "hukum_aciklamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yufotiy",
+        "pos": "V",
+        "ayahs": [
+          "4:127",
+          "4:176"
+        ],
+        "label": "Kadınlar ve miras gibi hukuki düğümlerde Allah'ın açık ve kesin hükmünü bildirmesi (يُفْتِيكُمْ — Form IV)"
+      },
+      {
+        "lemma": "yufotiy",
+        "pos": "V",
+        "label": "Düş yorumunda veya devlet kararında uzman görüş ve çözüm açıklamak (أَفْتُونِى / أَفْتِنَا — 12:43, 12:46, 27:32, Form IV)"
+      },
+      {
+        "lemma": "yasotafotu",
+        "pos": "V",
+        "ayahs": [
+          "37:11",
+          "37:149"
+        ],
+        "label": "Çelişkili iddiayı açığa çıkarmak için doğrudan soru yöneltip görüş istemek (فَٱسْتَفْتِهِمْ — Form X)"
+      },
+      {
+        "lemma": "yasotafotu",
+        "pos": "V",
+        "label": "Bir konuda kesin hüküm, yorum veya açıklama sormak (Form X — 4:127, 4:176, 12:41, 18:22)"
+      },
+      {
+        "lemma": "fataY`",
+        "pos": "N",
+        "label": "Genç delikanlı veya genç yardımcı (فَتَىٰهَا / لِفَتَىٰهُ — 12:30, 18:60, 18:62)"
+      },
+      {
+        "lemma": "fatFY",
+        "pos": "N",
+        "label": "Putları sorgulayan cesur genç (فَتًى — 21:60)"
+      },
+      {
+        "lemma": "fatayaAn",
+        "pos": "N",
+        "label": "Zindana birlikte giren iki genç (فَتَيَانِ — 12:36)"
+      },
+      {
+        "lemma": "fitoyap",
+        "pos": "N",
+        "label": "Gençler / mağara gençleri / genç görevliler (فِتْيَة / فِتْيَان — 12:62, 18:10, 18:13)"
+      },
+      {
+        "lemma": "fataya`t",
+        "pos": "N",
+        "label": "Himaye altındaki genç kadınlar (فَتَيَٰتِكُمْ — 4:25, 24:33)"
+      }
+    ],
+    "irab_default": "Genç/tazelik veya düğümlü konuda açık hüküm bildirmek/sormak (ف-ت-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:127",
+          "4:176",
+          "12:41",
+          "12:43",
+          "12:46",
+          "18:22",
+          "27:32",
+          "37:11",
+          "37:149"
+        ],
+        "text": "Hüküm ve görüş açıklama ekseni: hukuki düzenleme, düş yorumu, devlet danışması ve çelişkili iddiaları soruyla açığa çıkarma."
+      },
+      {
+        "ayahs": [
+          "4:25",
+          "12:30",
+          "12:36",
+          "12:62",
+          "18:10",
+          "18:13",
+          "18:60",
+          "18:62",
+          "21:60",
+          "24:33"
+        ],
+        "text": "Gençlik ve tazelik ekseni: hakikat arayışındaki cesur gençler, genç yardımcılar ve onuru korunan genç kadınlar."
+      }
+    ],
+    "context_default": "Gençlik tazeliği veya açık hüküm/görüş bildirmek (ف-ت-ي)."
+  },
+  "د-ر-ج": {
+    "buckwalter": "drj",
+    "slug": "derece_ve_istidrac_basamak_kademe_ve_adim_adim_yaklastirmak_drj",
+    "concept_name": "Derece ve İstidrâc (Basamak/Kademe ve Adım Adım Akıbete Yaklaştırmak)",
+    "keywords": [
+      "derece",
+      "derecat",
+      "istidrac",
+      "basamak",
+      "kademe",
+      "adim_adim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "darajap",
+        "pos": "N",
+        "ayahs": [
+          "2:228"
+        ],
+        "label": "Boşanma ve barışma sürecindeki karşılıklı hak dengesi içinde erkeğe düşen hukuki sorumluluk/öncelik basamağı (دَرَجَةٌ — 2:228)"
+      },
+      {
+        "lemma": "darajap",
+        "pos": "N",
+        "ayahs": [
+          "6:165",
+          "43:32"
+        ],
+        "label": "Dünya hayatında sınav ve toplumsal iş bölümü için kurulan imkân kademeleri (دَرَجَٰتٍ — 6:165, 43:32)"
+      },
+      {
+        "lemma": "darajap",
+        "pos": "N",
+        "ayahs": [
+          "40:15"
+        ],
+        "label": "Yüce mertebelerin ve kademelerin sahibi olan Allah (رَفِيعُ ٱلدَّرَجَٰتِ — 40:15)"
+      },
+      {
+        "lemma": "darajap",
+        "pos": "N",
+        "label": "Eylem, fedakârlık, bilgi ve sorumluluk ölçüsünde kazanılan kademeler ve basamaklar (دَرَجَة / دَرَجَات — 14 geçiş)"
+      },
+      {
+        "lemma": "nasotadoriju",
+        "pos": "V",
+        "label": "Yalanlayıcıları hiç fark etmedikleri bir yönden adım adım, kademe kademe akıbetlerine yaklaştırmak (سَنَسْتَدْرِجُهُمْ — Form X: 7:182, 68:44)"
+      }
+    ],
+    "irab_default": "Basamak, kademe veya adım adım yaklaştırmak (د-ر-ج kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:253",
+          "3:163",
+          "4:95",
+          "4:96",
+          "6:83",
+          "6:132",
+          "8:4",
+          "9:20",
+          "12:76",
+          "17:21",
+          "20:75",
+          "46:19",
+          "57:10",
+          "58:11"
+        ],
+        "text": "Liyakat ve eylem kademeleri: herkesin çabası, bilgisi ve somut eylemi ölçüsünde şekillenen dereceler."
+      },
+      {
+        "ayahs": [
+          "2:228",
+          "6:165",
+          "43:32"
+        ],
+        "text": "Toplumsal ve ailevi sorumluluk/sınav kademeleri."
+      },
+      {
+        "ayahs": [
+          "40:15"
+        ],
+        "text": "Yüce kademelerin sahibi Allah (رَفِيعُ ٱلدَّرَجَٰتِ)."
+      },
+      {
+        "ayahs": [
+          "7:182",
+          "68:44"
+        ],
+        "text": "İstidrâc yasası: ayetleri yalanlayanların sezdirmeden adım adım sonlarına yaklaştırılması."
+      }
+    ],
+    "context_default": "Kademeli basamak veya adım adım yaklaştırma (د-ر-ج)."
+  },
+  "ف-ر-ض": {
+    "buckwalter": "frD",
+    "slug": "farz_ve_ferida_kesin_sinir_ve_pay_cizmek_baglayici_hukum_koymak_frd",
+    "concept_name": "Farz, Ferîda ve Fârid (Kesin Sınır ve Pay Çizmek, Bağlayıcı Hüküm ve Yaşlı Sığır)",
+    "keywords": [
+      "farz",
+      "ferida",
+      "mefruz",
+      "farid",
+      "kesin_pay",
+      "sinir_cizmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "faAriD",
+        "pos": "ADJ",
+        "label": "Yaşı hayli ilerlemiş yaşlı sığır (لَّا فَارِضٌ وَلَا بِكْرٌ — 2:68)"
+      },
+      {
+        "lemma": "faraDa",
+        "pos": "V",
+        "ayahs": [
+          "2:236",
+          "2:237"
+        ],
+        "label": "Evlilikte eş için kesin bir bedel/pay belirlemek (تَفْرِضُوا۟ / فَرَضْتُمْ — Form I)"
+      },
+      {
+        "lemma": "faraDa",
+        "pos": "V",
+        "ayahs": [
+          "66:2"
+        ],
+        "label": "Bağlayıcı andların çözümü için kesin yasal yol belirlemek (فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ — 66:2, Form I)"
+      },
+      {
+        "lemma": "faraDa",
+        "pos": "V",
+        "label": "Sınırlarını kesinleştirip bağlayıcı hüküm veya yükümlülük koymak (Form I — 2:197, 24:1, 28:85, 33:38, 33:50)"
+      },
+      {
+        "lemma": "fariyDap",
+        "pos": "N",
+        "label": "Sınırları ve ölçüsü kesinleştirilmiş hak, pay veya bağlayıcı düzenleme (فَرِيضَة — 2:236, 2:237, 4:11, 4:24, 9:60)"
+      },
+      {
+        "lemma": "m~aforuwD",
+        "pos": "ADJ",
+        "label": "Kesin olarak ayrılıp belirlenmiş hisse/pay (نَصِيبًا مَّفْرُوضًا — 4:7, 4:118)"
+      }
+    ],
+    "irab_default": "Kesin sınır ve pay çizmek, bağlayıcı hüküm koymak veya yaşlı sığır (ف-ر-ض kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:236",
+          "2:237",
+          "4:7",
+          "4:11",
+          "4:24",
+          "9:60"
+        ],
+        "text": "Hukuki ve mali kesin paylar: evlilik bedeli, miras hisseleri ve toplumsal destek harcama kalemleri."
+      },
+      {
+        "ayahs": [
+          "2:197",
+          "24:1",
+          "28:85",
+          "33:38",
+          "33:50",
+          "66:2"
+        ],
+        "text": "Bağlayıcı yükümlülük ve çözüm sınırları: bilinen aylardaki ziyaret, Nûr suresi hükümleri, Kur'an emaneti ve and çözümü."
+      },
+      {
+        "ayahs": [
+          "4:118"
+        ],
+        "text": "Saptırıcının 'kesinleşmiş bir pay edinme' iddiası (4:118)."
+      },
+      {
+        "ayahs": [
+          "2:68"
+        ],
+        "text": "Sığır tasviri: ne fazla yaşlı (فَارِض) ne körpe, ikisi arası orta yaş (2:68)."
+      }
+    ],
+    "context_default": "Sınır ve payı kesinleştirip bağlamak (ف-ر-ض)."
+  },
+  "ن-و-ب": {
+    "buckwalter": "nwb",
+    "slug": "inabe_ve_munib_yonunu_ictenlikle_ve_surekli_allaha_dondurmek_nwb",
+    "concept_name": "İnâbe ve Münîb (Yönünü İçtenlikle ve Sürekli Allah'a Döndürmek)",
+    "keywords": [
+      "inabe",
+      "munib",
+      "yonelm",
+      "donus",
+      "kalbi_yonelis"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">anaAba",
+        "pos": "V",
+        "ayahs": [
+          "13:27",
+          "40:13",
+          "42:13"
+        ],
+        "label": "Doğru yola ve öğüde açılma şartı olarak Allah'a içtenlikle yönelmek (أَنَابَ / يُنِيبُ — Form IV)"
+      },
+      {
+        "lemma": ">anaAba",
+        "pos": "V",
+        "ayahs": [
+          "38:24",
+          "38:34"
+        ],
+        "label": "Sınanma anında hızla öz-eleştiri yapıp Allah'a dönmek (وَأَنَابَ — Davud ve Süleyman, Form IV)"
+      },
+      {
+        "lemma": ">anaAba",
+        "pos": "V",
+        "label": "Bütün güveni ve yönelişi kararlılıkla Allah'a çevirmek (Form IV — 11:88, 31:15, 39:17, 39:54, 42:10, 60:4)"
+      },
+      {
+        "lemma": "m~uniyb",
+        "pos": "N",
+        "ayahs": [
+          "30:33",
+          "39:8"
+        ],
+        "label": "Sıkıntı dokunduğunda geçici olarak Rabbe yönelip rahatlıkta unutan tavır (مُنِيبِينَ / مُنِيبًا)"
+      },
+      {
+        "lemma": "m~uniyb",
+        "pos": "N",
+        "label": "Yönünü sürekli ve içtenlikle Allah'a dönük tutan kul (مُنِيب — 11:75, 30:31, 34:9, 50:8)"
+      },
+      {
+        "lemma": "m~uniyb",
+        "pos": "ADJ",
+        "label": "İçtenlikle Allah'a yönelmiş, uyanık ve samimi kalp sıfatı (بِقَلْبٍ مُّنِيبٍ — 50:33)"
+      }
+    ],
+    "irab_default": "Yönünü içtenlikle ve sürekli Allah'a döndürmek (ن-و-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:27",
+          "34:9",
+          "40:13",
+          "42:13",
+          "50:8"
+        ],
+        "text": "Hidayet ve basiret şartı: ayetlerin ve doğru yolun yalnızca içtenlikle yönelenlere açılması."
+      },
+      {
+        "ayahs": [
+          "11:75",
+          "11:88",
+          "30:31",
+          "31:15",
+          "38:24",
+          "38:34",
+          "39:17",
+          "39:54",
+          "42:10",
+          "50:33",
+          "60:4"
+        ],
+        "text": "Sürekli yöneliş ve öz-eleştiri: tevekkül, arınma ve sapmadan çıkışın ekseni olan kalıcı yöneliş."
+      },
+      {
+        "ayahs": [
+          "30:33",
+          "39:8"
+        ],
+        "text": "Sıkıntı anındaki geçici yöneliş: zarar dokununca Rabbe dönüp bollukta unutan insan psikolojisi."
+      }
+    ],
+    "context_default": "Yönünü içtenlikle Allah'a çevirmek (ن-و-ب)."
+  },
+  "س-و-ر": {
+    "buckwalter": "swr",
+    "slug": "sure_sur_ve_esavir_yuksek_sinirli_vahiy_bolumu_duvar_ve_bilezik_swr",
+    "concept_name": "Sûre, Sûr ve Esâvir (Yüksek Sınırlı Vahiy Bölümü, Ayırıcı Duvar ve Bilezik)",
+    "keywords": [
+      "sure",
+      "sur",
+      "tesevvur",
+      "esavir",
+      "duvar",
+      "bilezik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "suwrap",
+        "pos": "N",
+        "ayahs": [
+          "2:23",
+          "10:38",
+          "11:13"
+        ],
+        "label": "Benzeri getirilemeyen, bütünlüğü çevrili vahiy bölümü / sure meydan okuması (سُورَة / سُوَر)"
+      },
+      {
+        "lemma": "suwrap",
+        "pos": "N",
+        "label": "İndirildiğinde içten bağlılarla ikiyüzlüleri ayrıştıran vahiy bölümü / sure (9:64, 9:86, 9:124, 9:127, 24:1, 47:20)"
+      },
+      {
+        "lemma": "suwr",
+        "pos": "N",
+        "label": "İç yüzü rahmet, dış yüzü azap olan kapılı yüksek ayırıcı duvar/sur (بِسُورٍ لَّهُۥ بَابٌۢ — 57:13)"
+      },
+      {
+        "lemma": "tasaw~aru",
+        "pos": "V",
+        "label": "Yüksek duvarın üstünden tırmanıp aşmak (تَسَوَّرُوا۟ ٱلْمِحْرَابَ — 38:21, Form V)"
+      },
+      {
+        "lemma": ">asaAwir",
+        "pos": "N",
+        "ayahs": [
+          "43:53"
+        ],
+        "label": "Firavun'un saltanat göstergesi saydığı altın bilezikler (أَسْوِرَةٌ مِّن ذَهَبٍ — 43:53)"
+      },
+      {
+        "lemma": ">asaAwir",
+        "pos": "N",
+        "label": "Esenlik bahçelerinde erdemlilerin bezendiği altın ve gümüş bilezikler (أَسَاوِر — 18:31, 22:23, 35:33, 76:21)"
+      }
+    ],
+    "irab_default": "Yüksek sınırlı vahiy bölümü, ayırıcı duvar, tırmanmak veya bilezik (س-و-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:23",
+          "9:64",
+          "9:86",
+          "9:124",
+          "9:127",
+          "10:38",
+          "11:13",
+          "24:1",
+          "47:20"
+        ],
+        "text": "Vahiy bölümü (سُورَة/سُوَر): eşsizlik meydan okuması, bağlayıcı hüküm çerçevesi ve gönülleri sınayan ölçüt."
+      },
+      {
+        "ayahs": [
+          "38:21",
+          "57:13"
+        ],
+        "text": "Yüksek duvar (سُور) ve duvardan tırmanma (تَسَوَّرُوا): beklenmedik hukuki sınav ve hesap günündeki kesin ayırıcı sur."
+      },
+      {
+        "ayahs": [
+          "18:31",
+          "22:23",
+          "35:33",
+          "43:53",
+          "76:21"
+        ],
+        "text": "Ayrı kökenli süs halkası (أَسَاوِر/أَسْوِرَة): kibirli dünyevi beklentiye karşı ahiretteki ikram."
+      }
+    ],
+    "context_default": "Yüksek ayırıcı duvar, vahiy bölümü veya bilezik (س-و-ر)."
+  },
+  "ص-ف-و": {
+    "buckwalter": "Sfw",
+    "slug": "istifa_musaffa_ve_safvan_bulanikliktan_arindirmak_seckinlestirmek_ve_puruzsuz_kaya_sfw",
+    "concept_name": "Istıfâ, Musaffâ ve Safvân (Bulanıklıktan Arındırmak, Seçkinleştirmek ve Pürüzsüz Kaya)",
+    "keywords": [
+      "istifa",
+      "mustafa",
+      "musaffa",
+      "safvan",
+      "saflik",
+      "seckinlestirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{SoTafaY`",
+        "pos": "V",
+        "ayahs": [
+          "37:153"
+        ],
+        "label": "Cahiliyenin çifte standartlı cinsiyet iddiasını sorgulayan reddedici soru kalıbı (أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ — 37:153, Form VIII)"
+      },
+      {
+        "lemma": "{SoTafaY`",
+        "pos": "V",
+        "label": "En saf özü süzüp özel görev ve sorumluluk için seçkin kılmak (ٱصْطَفَى — Form VIII: 2:130, 2:132, 2:247, 3:33, 3:42, 7:144, 22:75, 27:59, 35:32, 39:4)"
+      },
+      {
+        "lemma": "muSoTafayon",
+        "pos": "N",
+        "label": "Süzülüp seçkin kılınmış erdemli kimseler (ٱلْمُصْطَفَيْنَ ٱلْأَخْيَارِ — 38:47, Form VIII ism-i mef'ûl)"
+      },
+      {
+        "lemma": ">aSofaY`",
+        "pos": "V",
+        "label": "En saf ve seçkin payı birine tahsis etmek (أَفَأَصْفَىٰكُمْ / وَأَصْفَىٰكُم — Form IV: 17:40, 43:16)"
+      },
+      {
+        "lemma": "m~uSaf~FY",
+        "pos": "N",
+        "label": "Tortusundan bütünüyle süzülüp arıtılmış saf ve berrak bal (عَسَلٍ مُّصَفًّى — 47:15, Form II ism-i mef'ûl)"
+      },
+      {
+        "lemma": "SafowaAn",
+        "pos": "N",
+        "label": "Üzerinde çamur ve toprak tutmayan pürüzsüz çıplak kaya (صَفْوَانٍ — 2:264)"
+      }
+    ],
+    "irab_default": "Bulanıklıktan arınmış saflık, seçkinleştirmek veya pürüzsüz kaya (ص-ف-و kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:130",
+          "2:132",
+          "2:247",
+          "3:33",
+          "3:42",
+          "7:144",
+          "22:75",
+          "27:59",
+          "35:32",
+          "38:47",
+          "39:4"
+        ],
+        "text": "Seçkinleştirme (ٱصْطَفَى): bilgi, arılık ve vahiy emanetini taşıma sorumluluğuyla süzülüp seçilme."
+      },
+      {
+        "ayahs": [
+          "17:40",
+          "37:153",
+          "43:16"
+        ],
+        "text": "Çifte standartlı cinsiyet iddiasının reddi: erkek çocukları kendine ayırıp kızları Allah'a yakıştıran anlayışa eleştiri."
+      },
+      {
+        "ayahs": [
+          "2:264",
+          "47:15"
+        ],
+        "text": "Fiziksel saflık imgeleri: gösterişli harcamayı boşa çıkaran toprak tutmaz pürüzsüz kaya (صَفْوَان) ve tortusuz süzme bal (مُصَفًّى)."
+      }
+    ],
+    "context_default": "Bulanıklıktan arındırıp en saf özü seçmek (ص-ف-و)."
   }
 }

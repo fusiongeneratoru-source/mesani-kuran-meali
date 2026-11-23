@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 500 mühürlü kökten (`%88,50`) sonra, 8 kısa sureyi daha `%100` kilitleyen kökler (Sure 94, 96, 97, 98, 99, 102, 103, 110 → **15 tam kilitli sure**), 3 açık Mesânî referanslı tüm tepe uçlar (6/6), kritik doktrinel/çok-asıllı mayınlar ve kalan en yüksek frekanslı çekirdek kökler (**50 kök** / 870 geçiş) mühürlenerek toplam sözlük **550 kilitli köke (`%90,24` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%93,70`'i)** ulaştırılır.
-> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 530 Kök | Güncel Kapsam: %89,06)
+> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 540 Kök | Güncel Kapsam: %89,56)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -37,16 +37,16 @@
 | 28 | Açık Mesânî & Doktrin | 606 | `ب-ر-ز` | `B-R-Z` | **9** | 9 | 2:250 | Burûz ve Tebrîz (Örtüden Sıyrılıp Engelsiz Açık Alana Çıkmak ve Belirmek) | ✅ **MÜHÜRLÜ** |
 | 29 | Açık Mesânî & Doktrin | 394 | `س-ن-ن` | `S-N-N` | **21** | 15 | 3:137 | Sünnet, Mesnûn ve Sinn (Değişmez İlahî Yasa, Biçimlenmiş Balçık ve Diş) | ✅ **MÜHÜRLÜ** |
 | 30 | Açık Mesânî & Doktrin | 390 | `م-ن-ي` | `M-N-Y` | **21** | 18 | 2:78 | Temennî, Emânî ve Menî (Zihinsel Kurgu/Arzu ve Ölçüyle Akıtılan Üreme Sıvısı) | ✅ **MÜHÜRLÜ** |
-| 31 | Doktrinel & Çok Asıllı | 254 | `أ-ل-و` | `E-L-W` | **37** | 37 | 2:226 | Âlâ', Îlâ' ve Ye'lû (37 geçiş — 3 ayrı kol! Rahmân suresi 31x "nimet/güzellikler", 2:226 eşlerden uzaklaşma yemini, 3:118 geri durmama) | ⏳ *Bekliyor* |
-| 32 | Doktrinel & Çok Asıllı | 262 | `ق-ر-ن` | `K-R-N` | **36** | 34 | 4:38 | Karîn, Karn, Mukarrenîn ve Zü'l-Karneyn (36 geçiş: yakın eş/yoldaş [43:36, 50:23], nesil/çağ [6:6], zincirle bağlananlar [14:49]) | ⏳ *Bekliyor* |
-| 33 | Doktrinel & Çok Asıllı | 261 | `أ-و-ي` | `E-W-Y` | **36** | 36 | 3:151 | Me'vâ, Îvâ ve Evâ (36 geçiş | 1M+2F + Sure 93 Duhâ: barındırıp sığınak sağlamak [93:6, 8:72, 18:10] ve nihai barınak [79:39-41]) | ⏳ *Bekliyor* |
-| 34 | Doktrinel & Çok Asıllı | 314 | `ط-ي-ر` | `T-Y-R` | **29** | 24 | 2:260 | Tayr, Tâir ve Tetayyur (29 geçiş | 1M + Sure 105 Fîl: kuşlar, 17:13 herkesin sorumluluk kaydı ve 7:131, 27:47 uğursuzluk hurafesi) | ⏳ *Bekliyor* |
-| 35 | Doktrinel & Çok Asıllı | 395 | `ف-ت-ي` | `F-T-Y` | **21** | 19 | 4:25 | İftâ', İstiftâ' ve Fetâ (21 geçiş: 4:127, 4:176, 12:43 hukuki/bilgisel hüküm sormak-vermek ve 18:10, 21:60 yiğit gençler) | ⏳ *Bekliyor* |
-| 36 | Doktrinel & Çok Asıllı | 401 | `د-ر-ج` | `D-R-C` | **20** | 20 | 2:228 | Derecât ve İstidrac (20 geçiş | 1M: 2:228, 6:132, 58:11 kademe/dereceler ve 7:182, 68:44 fark ettirmeden adım adım yakalamak) | ⏳ *Bekliyor* |
-| 37 | Doktrinel & Çok Asıllı | 420 | `ف-ر-ض` | `F-R-D` | **18** | 14 | 2:68 | Farz, Farîza ve Mefrûd (18 geçiş: 2:197, 4:7, 4:11, 9:60, 24:1, 28:85, 33:38 kesip belirlenmiş hukuki pay ve yükümlülük) | ⏳ *Bekliyor* |
-| 38 | Doktrinel & Çok Asıllı | 431 | `ن-و-ب` | `N-W-B` | **18** | 18 | 11:75 | İnâbe ve Münîb (18 geçiş: 11:75, 30:31, 39:8, 39:54, 50:33, 60:4 ت-و-ب ve أ-و-ب furûku: kalben merkeze yönelip dönmek) | ⏳ *Bekliyor* |
-| 39 | Doktrinel & Çok Asıllı | 432 | `س-و-ر` | `S-W-R` | **17** | 16 | 2:23 | Sûre, Sûr ve Esâvir (17 geçiş: 2:23, 9:64, 24:1 Kur'an suresi, 57:13 aradaki sur, 18:31 bilezikler ve 38:21 duvardan aşmak) | ⏳ *Bekliyor* |
-| 40 | Doktrinel & Çok Asıllı | 439 | `ص-ف-و` | `S-F-W` | **17** | 16 | 2:130 | Istıfâ', Mustafeyn ve Safvân (17 geçiş: 2:130, 3:33, 3:42, 22:75, 35:32 arındırıp özünü seçmek ve 2:264 pürüzsüz kaya) | ⏳ *Bekliyor* |
+| 31 | Doktrinel & Çok Asıllı | 254 | `أ-ل-و` | `E-L-W` | **37** | 37 | 2:226 | Âlâ ve Îlâ (Somut Nimet Göstergeleri, Uzak Durma Andı ve Geri Durmamak) | ✅ **MÜHÜRLÜ** |
+| 32 | Doktrinel & Çok Asıllı | 262 | `ق-ر-ن` | `K-R-N` | **36** | 34 | 4:38 | Karn, Karîn ve Mukarrenîn (Çağdaş Nesil, Ayrılmaz Yoldaş ve Birbirine Bağlanmak) | ✅ **MÜHÜRLÜ** |
+| 33 | Doktrinel & Çok Asıllı | 261 | `أ-و-ي` | `E-W-Y` | **36** | 36 | 3:151 | Evâ, Îvâ ve Me'vâ (Sığınmak, Şefkatle Barındırmak ve Kalıcı Barınak) | ✅ **MÜHÜRLÜ** |
+| 34 | Doktrinel & Çok Asıllı | 314 | `ط-ي-ر` | `T-Y-R` | **29** | 24 | 2:260 | Tayr, Tâir ve Tetayyur (Kanatlı Uçuş, Uğursuzluk Hurafesi ve Eylem Akıbeti) | ✅ **MÜHÜRLÜ** |
+| 35 | Doktrinel & Çok Asıllı | 395 | `ف-ت-ي` | `F-T-Y` | **21** | 19 | 4:25 | Fetâ ve İftâ (Gençlik Tazeliği ve Düğümlü Konuda Açık Hüküm/Görüş Bildirmek) | ✅ **MÜHÜRLÜ** |
+| 36 | Doktrinel & Çok Asıllı | 401 | `د-ر-ج` | `D-R-C` | **20** | 20 | 2:228 | Derece ve İstidrâc (Basamak/Kademe ve Adım Adım Akıbete Yaklaştırmak) | ✅ **MÜHÜRLÜ** |
+| 37 | Doktrinel & Çok Asıllı | 420 | `ف-ر-ض` | `F-R-D` | **18** | 14 | 2:68 | Farz, Ferîda ve Fârid (Kesin Sınır ve Pay Çizmek, Bağlayıcı Hüküm ve Yaşlı Sığır) | ✅ **MÜHÜRLÜ** |
+| 38 | Doktrinel & Çok Asıllı | 431 | `ن-و-ب` | `N-W-B` | **18** | 18 | 11:75 | İnâbe ve Münîb (Yönünü İçtenlikle ve Sürekli Allah'a Döndürmek) | ✅ **MÜHÜRLÜ** |
+| 39 | Doktrinel & Çok Asıllı | 432 | `س-و-ر` | `S-W-R` | **17** | 16 | 2:23 | Sûre, Sûr ve Esâvir (Yüksek Sınırlı Vahiy Bölümü, Ayırıcı Duvar ve Bilezik) | ✅ **MÜHÜRLÜ** |
+| 40 | Doktrinel & Çok Asıllı | 439 | `ص-ف-و` | `S-F-W` | **17** | 16 | 2:130 | Istıfâ, Musaffâ ve Safvân (Bulanıklıktan Arındırmak, Seçkinleştirmek ve Pürüzsüz Kaya) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 218 | `ص-ب-ح` | `S-B-H` | **45** | 43 | 3:103 | Subh, İsbâh ve Esbaha (45 geçiş | 1M + Sure 81, 100 — #1 kalan kök! 81:18 ağaran sabah ve 3:103, 5:30 yeni bir hâle dönüşmek) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 231 | `ب-ح-ر` | `B-H-R` | **42** | 40 | 2:50 | Bahr ve Bahîra (42 geçiş | 2M + Sure 81, 82 — #2 kalan kök! ب-ر-ر zıddı denizler ve 5:103 cahiliye kulağı yarık deve geleneği) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 239 | `ج-ب-ل` | `C-B-L` | **41** | 39 | 2:260 | Cebel ve Cibille (41 geçiş | 1M + Sure 78, 79, 81, 88, 101 — #3 kalan kök! Dağlar ve 26:184, 36:62 kalabalık insan kitleleri) | ⏳ *Bekliyor* |

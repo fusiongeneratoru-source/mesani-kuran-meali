@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3F (Kısa Sureler %100 Tam Kilit Genişletmesi [15 Sure], 3 Açık Mesânî Tepe Uçları ve %90+ Kök Kapsamı Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 30,
+  "locked_count": 40,
   "total_tokens_in_package": 870,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 89.06,
+  "current_coverage_pct": 89.56,
   "target_coverage_pct": 90.24,
   "etap_3f_roots": [
     {
@@ -569,8 +569,8 @@
       "frequency": 37,
       "unique_ayahs": 37,
       "rationale": "Âlâ', Îlâ' ve Ye'lû (37 geçiş — 3 ayrı kol! Rahmân suresi 31x \"nimet/güzellikler\", 2:226 eşlerden uzaklaşma yemini, 3:118 geri durmama)",
-      "concept_label": "Analiz Bekliyor ('aAlaA^', yu&olu, ya>olu, ya>otali)",
-      "is_locked": false,
+      "concept_label": "Âlâ ve Îlâ (Somut Nimet Göstergeleri, Uzak Durma Andı ve Geri Durmamak)",
+      "is_locked": true,
       "sample_ayah": "2:226",
       "top_lemmas": [
         "'aAlaA^'",
@@ -589,8 +589,8 @@
       "frequency": 36,
       "unique_ayahs": 34,
       "rationale": "Karîn, Karn, Mukarrenîn ve Zü'l-Karneyn (36 geçiş: yakın eş/yoldaş [43:36, 50:23], nesil/çağ [6:6], zincirle bağlananlar [14:49])",
-      "concept_label": "Analiz Bekliyor (qaron, qariyn, m~uqar~aniyn, muqoriniyn)",
-      "is_locked": false,
+      "concept_label": "Karn, Karîn ve Mukarrenîn (Çağdaş Nesil, Ayrılmaz Yoldaş ve Birbirine Bağlanmak)",
+      "is_locked": true,
       "sample_ayah": "4:38",
       "top_lemmas": [
         "qaron",
@@ -609,8 +609,8 @@
       "frequency": 36,
       "unique_ayahs": 36,
       "rationale": "Me'vâ, Îvâ ve Evâ (36 geçiş | 1M+2F + Sure 93 Duhâ: barındırıp sığınak sağlamak [93:6, 8:72, 18:10] ve nihai barınak [79:39-41])",
-      "concept_label": "Analiz Bekliyor (ma>owaY`, 'aAwaY`^, >awaY)",
-      "is_locked": false,
+      "concept_label": "Evâ, Îvâ ve Me'vâ (Sığınmak, Şefkatle Barındırmak ve Kalıcı Barınak)",
+      "is_locked": true,
       "sample_ayah": "3:151",
       "top_lemmas": [
         "ma>owaY`",
@@ -628,8 +628,8 @@
       "frequency": 29,
       "unique_ayahs": 24,
       "rationale": "Tayr, Tâir ve Tetayyur (29 geçiş | 1M + Sure 105 Fîl: kuşlar, 17:13 herkesin sorumluluk kaydı ve 7:131, 27:47 uğursuzluk hurafesi)",
-      "concept_label": "Analiz Bekliyor (Tayor, Ta`^}ir, {T~ay~aro, yaTiyru)",
-      "is_locked": false,
+      "concept_label": "Tayr, Tâir ve Tetayyur (Kanatlı Uçuş, Uğursuzluk Hurafesi ve Eylem Akıbeti)",
+      "is_locked": true,
       "sample_ayah": "2:260",
       "top_lemmas": [
         "Tayor",
@@ -648,8 +648,8 @@
       "frequency": 21,
       "unique_ayahs": 19,
       "rationale": "İftâ', İstiftâ' ve Fetâ (21 geçiş: 4:127, 4:176, 12:43 hukuki/bilgisel hüküm sormak-vermek ve 18:10, 21:60 yiğit gençler)",
-      "concept_label": "Analiz Bekliyor (yasotafotu, yufotiy, fataY`, fitoyap)",
-      "is_locked": false,
+      "concept_label": "Fetâ ve İftâ (Gençlik Tazeliği ve Düğümlü Konuda Açık Hüküm/Görüş Bildirmek)",
+      "is_locked": true,
       "sample_ayah": "4:25",
       "top_lemmas": [
         "yasotafotu",
@@ -668,8 +668,8 @@
       "frequency": 20,
       "unique_ayahs": 20,
       "rationale": "Derecât ve İstidrac (20 geçiş | 1M: 2:228, 6:132, 58:11 kademe/dereceler ve 7:182, 68:44 fark ettirmeden adım adım yakalamak)",
-      "concept_label": "Analiz Bekliyor (darajap, nasotadoriju)",
-      "is_locked": false,
+      "concept_label": "Derece ve İstidrâc (Basamak/Kademe ve Adım Adım Akıbete Yaklaştırmak)",
+      "is_locked": true,
       "sample_ayah": "2:228",
       "top_lemmas": [
         "darajap",
@@ -686,8 +686,8 @@
       "frequency": 18,
       "unique_ayahs": 14,
       "rationale": "Farz, Farîza ve Mefrûd (18 geçiş: 2:197, 4:7, 4:11, 9:60, 24:1, 28:85, 33:38 kesip belirlenmiş hukuki pay ve yükümlülük)",
-      "concept_label": "Analiz Bekliyor (faraDa, fariyDap, m~aforuwD, faAriD)",
-      "is_locked": false,
+      "concept_label": "Farz, Ferîda ve Fârid (Kesin Sınır ve Pay Çizmek, Bağlayıcı Hüküm ve Yaşlı Sığır)",
+      "is_locked": true,
       "sample_ayah": "2:68",
       "top_lemmas": [
         "faraDa",
@@ -706,8 +706,8 @@
       "frequency": 18,
       "unique_ayahs": 18,
       "rationale": "İnâbe ve Münîb (18 geçiş: 11:75, 30:31, 39:8, 39:54, 50:33, 60:4 ت-و-ب ve أ-و-ب furûku: kalben merkeze yönelip dönmek)",
-      "concept_label": "Analiz Bekliyor (>anaAba, m~uniyb)",
-      "is_locked": false,
+      "concept_label": "İnâbe ve Münîb (Yönünü İçtenlikle ve Sürekli Allah'a Döndürmek)",
+      "is_locked": true,
       "sample_ayah": "11:75",
       "top_lemmas": [
         ">anaAba",
@@ -724,8 +724,8 @@
       "frequency": 17,
       "unique_ayahs": 16,
       "rationale": "Sûre, Sûr ve Esâvir (17 geçiş: 2:23, 9:64, 24:1 Kur'an suresi, 57:13 aradaki sur, 18:31 bilezikler ve 38:21 duvardan aşmak)",
-      "concept_label": "Analiz Bekliyor (suwrap, >asaAwir, tasaw~aru, suwr)",
-      "is_locked": false,
+      "concept_label": "Sûre, Sûr ve Esâvir (Yüksek Sınırlı Vahiy Bölümü, Ayırıcı Duvar ve Bilezik)",
+      "is_locked": true,
       "sample_ayah": "2:23",
       "top_lemmas": [
         "suwrap",
@@ -744,8 +744,8 @@
       "frequency": 17,
       "unique_ayahs": 16,
       "rationale": "Istıfâ', Mustafeyn ve Safvân (17 geçiş: 2:130, 3:33, 3:42, 22:75, 35:32 arındırıp özünü seçmek ve 2:264 pürüzsüz kaya)",
-      "concept_label": "Analiz Bekliyor ({SoTafaY`, >aSofaY`, SafowaAn, muSoTafayon)",
-      "is_locked": false,
+      "concept_label": "Istıfâ, Musaffâ ve Safvân (Bulanıklıktan Arındırmak, Seçkinleştirmek ve Pürüzsüz Kaya)",
+      "is_locked": true,
       "sample_ayah": "2:130",
       "top_lemmas": [
         "{SoTafaY`",
