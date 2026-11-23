@@ -1,0 +1,685 @@
+{
+  "root": "ل-ب-ث",
+  "root_latin": "L-B-S (lbv)",
+  "concept_name": "Lübs (Belirli Bir Süre Bekleyip Kalmak ve Oyalanmak)",
+  "rank": 298,
+  "total_occurrences": 31,
+  "unique_ayahs_count": 27,
+  "unified_core_mechanism": "Bir mekânda, hâlde veya zaman aralığında ölçülebilir bir müddet bekleyip kalmak, oyalanıp durmak (`التَّمَكُّثُ`): (1) Dünyevi/tarihsel kalış süreçleri — elçilerin toplumları arasında geçirdikleri yıllar (`10:16`, `20:40`, `26:18`, `29:14`), Yûsuf'un zindanda (`12:42`), Ashâb-ı Kehf'in mağarada (`18:25`), Yûnus'un balığın karnında (`37:144`) veya görünmez çalışanların ağır iş altında (`34:14`) beklemesi; (2) Gecikmeden hareket etme — İbrâhim'in konuklarına hiç oyalanmadan ikram getirmesi (`11:69`) ve ikiyüzlülerin bozgunculuğa gecikmeden sarılması (`33:14`); (3) Zaman algısı sınaması — yüz yıl (`2:259`), mağara uykusu (`18:12,19`) ve dünya ömrünün diriliş anında 'bir gün yahut bir saat' kadar kısa hissedilmesi (`10:45`, `17:52`, `20:103-104`, `23:112-114`, `30:55-56`, `46:35`, `79:46`) ile çağlar boyu bekleyiş (`78:23`).",
+  "physical_core": "Bir mekânda, hâlde veya zaman aralığında durup beklemek, gecikip oyalanarak belirli bir süre geçirmek (التَّمَكُّثُ وَالْإِقَامَةُ الْمُؤَقَّتَةُ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 5, لبث): Kökün tek anlam taşıdığını ve 'durup bekleme / bir yerde kalıp oyalanma (`التَّمَكُّثُ`)' ifade ettiğini kaydeder.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `اللَّبْثُ` ve `اللُّبْثُ` bir yerde oturup beklemek, gecikmek ve bir müddet kalmaktır; `مَا لَبِثَ أَنْ فَعَلَ` 'hiç oyalanmadan hemen yaptı' (`11:69`) demektir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `اللَّبْثُ` hem somut bir yerde yıl veya çağ boyunca süreli kalışı (`12:42`, `18:25`, `29:14`, `78:23`) hem de büyük diriliş anında insanın dünya/bekleme süresini 'günün bir saati' gibi kısacık algılamasını (`10:45`, `17:52`, `20:103-104`, `23:112-114`, `30:55-56`, `46:35`, `79:46`) anlatır.",
+    "arbitration_decision": "Hakem Masası Kararı: `ل-ب-ث`, sonsuz kalıcılıktan (`خ-ل-د`) farklı olarak daima 'ölçülebilir, başlangıcı ve sonu olan bir bekleme/kalış süresi'ni (`تَمَكُّث`) kodlar. Bu yüzden Kur'an'da en sık zaman göreliliği sorgusunda (`كَمْ لَبِثْتُمْ` — `2:259`, `18:19`, `23:112`, `30:55-56`, `79:46`) ve elçilik/tarihsel bekleme süreçlerinde (`10:16`, `12:42`, `20:40`, `26:18`, `29:14`, `37:144`) kullanılır."
+  },
+  "semitic_cognates": {
+    "note": "Diğer Sami dillerinde doğrudan doğrulanmış eşkökenli tespit edilmedi; Arapçada `م-ك-ث` ile yakın anlamlı olup özellikle sürenin uzunluğu/kısalığı ve gecikme algısını ölçmede uzmanlaşır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-ع-ث [فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ / ثُمَّ بَعَثْنَٰهُمْ ... لِمَا لَبِثُوٓا۟ أَمَدًا / لَقَدْ لَبِثْتُمْ ... إِلَىٰ يَوْمِ ٱلْبَعْثِ / لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ] (Uyandırıp Harekete Geçirerek Diriltmek ↔ Bir Durum veya Süre İçinde Bekleyip Durmak: 2:259, 18:12, 18:19, 30:56, 37:144)",
+      "ح-ق-ب [لَّٰبِثِينَ فِيهَآ أَحْقَابًا] (Art Arda Gelen Uzun Zaman Dönemleri / Çağlar ↔ O Dönemler Boyunca Bekleyip Kalmak: 78:23)",
+      "ع-ج-ل [وَلَا تَسْتَعْجِل لَّهُمْ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً] (Süreyi Beklemeden Acele Etmek ↔ Belirli Bir Süre Boyunca Bekleyip Oyalanmak: 46:35)"
+    ],
+    "key_ayahs": [
+      "2:259",
+      "18:12",
+      "18:19",
+      "30:56",
+      "37:144",
+      "46:35",
+      "78:23"
+    ],
+    "reverse_stress_test": "Kur'an'da `ل-ب-ث`'in sonlandırdığı bekleme durağı tam 5 ayrı ayette doğrudan `ب-ع-ث` (harekete geçirip diriltme) ile açılır (`2:259`, `18:12`, `18:19`, `30:56`, `37:144`); `46:35`'te ise acelecilik (`ع-ج-ل`) ile gerçek bekleme süresinin kısalığı (`لَمْ يَلْبَثُوٓا۟`) yan yana tartılır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ع-م-ر (10:16 فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا; 26:18 وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ — ل-ب-ث bir topluluğun içinde fiilen bulunup bekleme süresini, ع-م-ر ise yaşanan canlı hayat dilimini/ömrü ayırır)",
+      "أ-م-د (18:12 أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًا — ل-ب-ث bekleme ve kalış eylemini, أَمَد ise o beklemenin başlangıcı ile bitişi arasındaki ölçülmüş zaman aralığını belirtir)"
+    ],
+    "mechanical_difference": "`ل-ب-ث` sınırsız kalıcılık (`خ-ل-د`) değil, mutlaka bir zaman birimiyle (`سَاعَة`, `يَوْم`, `سِنِينَ`, `عُمُر`, `أَمَد`, `أَحْقَاب`) ölçülen ve bir eşikte (`بَعْث` veya eylem) sona eren bekleme/kalış sürecidir."
+  },
+  "anchor_ayahs": [
+    "2:259",
+    "10:16",
+    "10:45",
+    "11:69",
+    "18:19",
+    "18:25",
+    "23:112",
+    "29:14",
+    "30:55",
+    "30:56",
+    "37:144",
+    "78:23"
+  ],
+  "grammar_and_branch_rules": "30 fiil geçişi doğrudan bekleme/kalma süresini zarf veya istisna kalıbıyla (`إِلَّا قَلِيلًا / إِلَّا سَاعَةً`) ölçer; olumsuz yapıda (`فَمَا لَبِثَ أَن` `11:69`, `وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا` `33:14`) gecikmesizliği vurgular. Tek isim geçişi (`لَّٰبِثِينَ`, `78:23`) çağlar boyunca orada kalanları niteler.",
+  "derivatives": {
+    "لَبِثَ / يَلْبَثُ": "Bir yerde veya durumda belirli bir süre bekleyip kalmak, oyalanmak (2:259, 10:16, 18:19, 23:112, 30:55)",
+    "تَلَبَّثُوا۟": "Gecikip oyalanmak, ağırdan almak (33:14)",
+    "لَابِثِينَ": "Çağlar boyunca orada bekleyip kalanlar (78:23)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 25,
+      "target_word_uthmani": "لَبِثْتَ",
+      "target_word_rasm": "لبثت",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا",
+      "context_snippet_turkish_tabula_rasa": "Bir de hani yapıları çökmüş, çatıları döşemelerinin üstüne yıkılmış şehre uğrayan, Allah bu şehri, ölümünden sonra nasıl diriltecek ki demişti. Allah, onu tam...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MS"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir de hani yapıları çökmüş, çatıları döşemelerinin üstüne yıkılmış şehre uğrayan, Allah bu şehri, ölümünden sonra nasıl diriltecek ki demişti. Allah, onu tam yüz yıl ölü bir halde bırakmış, sonra diriltmişti de demişti ki: Ne kadar yattın? O da bir gün, yahut günün birkaç saati kadar bir müddet demişti. Allah, tam yüz yıl yata kaldın. Yiyeceğine, içeceğine bak, henüz bozulmamış bile. Eşeğine de bak; bu iş seni, insanlara bir delil göstermek maksadıyla oldu; eşeğin kemiklerini nasıl birleştiriyor, sonra onlara nasıl et giydiriyoruz, hele dikkat et demişti. Bu, ona apaçık belli olunca dedi ki: Bilirim, şüphe yok ki Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 27,
+      "target_word_uthmani": "لَبِثْتُ",
+      "target_word_rasm": "لبثت",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ",
+      "context_snippet_turkish_tabula_rasa": "Bir de hani yapıları çökmüş, çatıları döşemelerinin üstüne yıkılmış şehre uğrayan, Allah bu şehri, ölümünden sonra nasıl diriltecek ki demişti. Allah, onu tam...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|1S"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir de hani yapıları çökmüş, çatıları döşemelerinin üstüne yıkılmış şehre uğrayan, Allah bu şehri, ölümünden sonra nasıl diriltecek ki demişti. Allah, onu tam yüz yıl ölü bir halde bırakmış, sonra diriltmişti de demişti ki: Ne kadar yattın? O da bir gün, yahut günün birkaç saati kadar bir müddet demişti. Allah, tam yüz yıl yata kaldın. Yiyeceğine, içeceğine bak, henüz bozulmamış bile. Eşeğine de bak; bu iş seni, insanlara bir delil göstermek maksadıyla oldu; eşeğin kemiklerini nasıl birleştiriyor, sonra onlara nasıl et giydiriyoruz, hele dikkat et demişti. Bu, ona apaçık belli olunca dedi ki: Bilirim, şüphe yok ki Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 34,
+      "target_word_uthmani": "لَّبِثْتَ",
+      "target_word_rasm": "لبثت",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ",
+      "context_snippet_turkish_tabula_rasa": "Bir de hani yapıları çökmüş, çatıları döşemelerinin üstüne yıkılmış şehre uğrayan, Allah bu şehri, ölümünden sonra nasıl diriltecek ki demişti. Allah, onu tam...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MS"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir de hani yapıları çökmüş, çatıları döşemelerinin üstüne yıkılmış şehre uğrayan, Allah bu şehri, ölümünden sonra nasıl diriltecek ki demişti. Allah, onu tam yüz yıl ölü bir halde bırakmış, sonra diriltmişti de demişti ki: Ne kadar yattın? O da bir gün, yahut günün birkaç saati kadar bir müddet demişti. Allah, tam yüz yıl yata kaldın. Yiyeceğine, içeceğine bak, henüz bozulmamış bile. Eşeğine de bak; bu iş seni, insanlara bir delil göstermek maksadıyla oldu; eşeğin kemiklerini nasıl birleştiriyor, sonra onlara nasıl et giydiriyoruz, hele dikkat et demişti. Bu, ona apaçık belli olunca dedi ki: Bilirim, şüphe yok ki Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 10,
+      "ayah": 16,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:16",
+      "word_position": 12,
+      "target_word_uthmani": "لَبِثْتُ",
+      "target_word_rasm": "لبثت",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "أَدْرَىٰكُم بِهِۦ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِّن",
+      "context_snippet_turkish_tabula_rasa": "De ki: Allah isteseydi okumazdım onu size ve o da, onda ne olduğunu bildirmez, anlatmazdı size. O inmeden önce de aranızda ömür sürmüştüm, hala mı aklınızı...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|1S"
+      },
+      "ayah_text_arabic_full": "قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِّن قَبْلِهِۦٓ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Allah isteseydi okumazdım onu size ve o da, onda ne olduğunu bildirmez, anlatmazdı size. O inmeden önce de aranızda ömür sürmüştüm, hala mı aklınızı başınıza almıyorsunuz?",
+      "contextual_meaning": "Tarihsel ve elçilik bekleme süreçleri: elçilerin toplumları içinde geçirdikleri yıllar (10:16, 20:40, 26:18, 29:14), Yûsuf'un zindanda (12:42), Yûnus'un balığın karnında (37:144) ve çalışanların ağır yük altında (34:14) beklemesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 45,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:45",
+      "word_position": 5,
+      "target_word_uthmani": "يَلْبَثُوٓا۟",
+      "target_word_rasm": "يلبثوا",
+      "target_word_literal_irab": "Kısa bir zaman dilimi dışında kalıp beklemediler / bekleyemezler (يَلْبَثُوٓا۟ / يَلْبَثُونَ — Form I muzârî)",
+      "context_snippet_arabic": "يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "O gün onları tapısında öyle bir toplar ki kendilerini, dünyada sanki bir günün bir saati kadar eğlenmişler sanırlar. Aralarında tanışırlar, birbirlerini...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:labiva|ROOT:lbv|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün onları tapısında öyle bir toplar ki kendilerini, dünyada sanki bir günün bir saati kadar eğlenmişler sanırlar. Aralarında tanışırlar, birbirlerini tanırlar. Allah'a kavuşacaklarını gerçeğin üzerini örtenler, şüphe yok ki zarara uğrarlar ve doğru yolu da bulamazlar.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 11,
+      "ayah": 69,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:69",
+      "word_position": 11,
+      "target_word_uthmani": "لَبِثَ",
+      "target_word_rasm": "لبث",
+      "target_word_literal_irab": "Hiç gecikmeden / pek az oyalanarak hemen harekete geçmek (فَمَا لَبِثَ / وَمَا تَلَبَّثُوا۟ — olumsuz bekleme)",
+      "context_snippet_arabic": "قَالَ سَلَٰمٌ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ",
+      "context_snippet_turkish_tabula_rasa": "Elçilerimiz, İbrahim'e müjde vermek üzere gelip esenlik sana dediler. O da esenlik size dedi ve durup eğlenmeden hemen kızarmış bir buzağı getirdi.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Elçilerimiz, İbrahim'e müjde vermek üzere gelip esenlik sana dediler. O da esenlik size dedi ve durup eğlenmeden hemen kızarmış bir buzağı getirdi.",
+      "contextual_meaning": "Gecikmeden ikram (11:69), bozgunculuğa hiç oyalanmadan koşma (33:14), elçiyi sürgün edenlerin ardında pek az kalabilmesi (17:76) ve çağlar boyu kalış (78:23)."
+    },
+    {
+      "surah": 12,
+      "ayah": 42,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:42",
+      "word_position": 14,
+      "target_word_uthmani": "فَلَبِثَ",
+      "target_word_rasm": "فلبث",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ",
+      "context_snippet_turkish_tabula_rasa": "Ve onlardan, kurtulacağını sandığına beni dedi, efendine anlat. Fakat saptırıcı yıkıcı güç, efendisine bunu anlatmayı unutturdu ona ve bu yüzden daha nice...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onlardan, kurtulacağını sandığına beni dedi, efendine anlat. Fakat saptırıcı yıkıcı güç, efendisine bunu anlatmayı unutturdu ona ve bu yüzden daha nice yıllar zindanda kaldı.",
+      "contextual_meaning": "Tarihsel ve elçilik bekleme süreçleri: elçilerin toplumları içinde geçirdikleri yıllar (10:16, 20:40, 26:18, 29:14), Yûsuf'un zindanda (12:42), Yûnus'un balığın karnında (37:144) ve çalışanların ağır yük altında (34:14) beklemesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 52,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:52",
+      "word_position": 7,
+      "target_word_uthmani": "لَّبِثْتُمْ",
+      "target_word_rasm": "لبثتم",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "O gün sizi çağıracak, hamd ederek icabet edeceksiniz ona ve sanacaksınız ki pek az bir müddet kalmışsınız dünyada.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "O gün sizi çağıracak, hamd ederek icabet edeceksiniz ona ve sanacaksınız ki pek az bir müddet kalmışsınız dünyada.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 17,
+      "ayah": 76,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:76",
+      "word_position": 10,
+      "target_word_uthmani": "يَلْبَثُونَ",
+      "target_word_rasm": "يلبثون",
+      "target_word_literal_irab": "Kısa bir zaman dilimi dışında kalıp beklemediler / bekleyemezler (يَلْبَثُوٓا۟ / يَلْبَثُونَ — Form I muzârî)",
+      "context_snippet_arabic": "مِنْهَا وَإِذًا لَّا يَلْبَثُونَ خِلَٰفَكَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Onlar, nerdeyse seni yurdundan çıkarmak için taciz edip duracaklar, fakat sen çıktıktan sonra arkandan onlar da pek az bir müddet kalacaklar.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:labiva|ROOT:lbv|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِن كَادُوا۟ لَيَسْتَفِزُّونَكَ مِنَ ٱلْأَرْضِ لِيُخْرِجُوكَ مِنْهَا وَإِذًا لَّا يَلْبَثُونَ خِلَٰفَكَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, nerdeyse seni yurdundan çıkarmak için taciz edip duracaklar, fakat sen çıktıktan sonra arkandan onlar da pek az bir müddet kalacaklar.",
+      "contextual_meaning": "Gecikmeden ikram (11:69), bozgunculuğa hiç oyalanmadan koşma (33:14), elçiyi sürgün edenlerin ardında pek az kalabilmesi (17:76) ve çağlar boyu kalış (78:23)."
+    },
+    {
+      "surah": 18,
+      "ayah": 12,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:12",
+      "word_position": 8,
+      "target_word_uthmani": "لَبِثُوٓا۟",
+      "target_word_rasm": "لبثوا",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "ٱلْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًا",
+      "context_snippet_turkish_tabula_rasa": "Sonra da iki taraftan hangisi, onların ne kadar yatıp kaldıklarını hesab edip ayırt edecek, bilelim diye tekrar onları uyandırdık.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ بَعَثْنَٰهُمْ لِنَعْلَمَ أَىُّ ٱلْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra da iki taraftan hangisi, onların ne kadar yatıp kaldıklarını hesab edip ayırt edecek, bilelim diye tekrar onları uyandırdık.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 18,
+      "ayah": 19,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:19",
+      "word_position": 9,
+      "target_word_uthmani": "لَبِثْتُمْ",
+      "target_word_rasm": "لبثتم",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا",
+      "context_snippet_turkish_tabula_rasa": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MP"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir kısmını uykuyla geçirmişiz dediler ve Rabbiniz, daha iyi bilir dediler, ne kadar kaldığınızı, hele şimdi birinizi şu gümüş parayla şehre yollayın da yiyeceklerin hangisi daha temizse bir miktar alsın, bir rızık getirsin size, ancak çok ihtiyatlı davransın ve hiçbir kimse sizi duyup anlamasın.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 18,
+      "ayah": 19,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:19",
+      "word_position": 11,
+      "target_word_uthmani": "لَبِثْنَا",
+      "target_word_rasm": "لبثنا",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ",
+      "context_snippet_turkish_tabula_rasa": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|1P"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir kısmını uykuyla geçirmişiz dediler ve Rabbiniz, daha iyi bilir dediler, ne kadar kaldığınızı, hele şimdi birinizi şu gümüş parayla şehre yollayın da yiyeceklerin hangisi daha temizse bir miktar alsın, bir rızık getirsin size, ancak çok ihtiyatlı davransın ve hiçbir kimse sizi duyup anlamasın.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 18,
+      "ayah": 19,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:19",
+      "word_position": 20,
+      "target_word_uthmani": "لَبِثْتُمْ",
+      "target_word_rasm": "لبثتم",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MP"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir kısmını uykuyla geçirmişiz dediler ve Rabbiniz, daha iyi bilir dediler, ne kadar kaldığınızı, hele şimdi birinizi şu gümüş parayla şehre yollayın da yiyeceklerin hangisi daha temizse bir miktar alsın, bir rızık getirsin size, ancak çok ihtiyatlı davransın ve hiçbir kimse sizi duyup anlamasın.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 18,
+      "ayah": 25,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:25",
+      "word_position": 1,
+      "target_word_uthmani": "وَلَبِثُوا۟",
+      "target_word_rasm": "ولبثوا",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, mağaralarında üç yüz yıl yatıp kaldılar ve bu yıllara dokuz yıl daha kattılar.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, mağaralarında üç yüz yıl yatıp kaldılar ve bu yıllara dokuz yıl daha kattılar.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 18,
+      "ayah": 26,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:26",
+      "word_position": 5,
+      "target_word_uthmani": "لَبِثُوا۟",
+      "target_word_rasm": "لبثوا",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ لَهُۥ غَيْبُ ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Ne kadar yatıp kaldıklarını Allah daha iyi bilir; onundur göklerdeki ve yeryüzündeki gizli şeyler, tam görüştür onun görüşü ve tam duyuştur duyuşu....",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MP"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ لَهُۥ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَبْصِرْ بِهِۦ وَأَسْمِعْ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Ne kadar yatıp kaldıklarını Allah daha iyi bilir; onundur göklerdeki ve yeryüzündeki gizli şeyler, tam görüştür onun görüşü ve tam duyuştur duyuşu. Ondan başka bir dost ve yardımcı da yoktur onlara ve hükmüne hiçbir kimseyi ortak etmez.",
+      "contextual_meaning": "Uzun uykudan/ölümden uyanış ve zaman göreliliği: yüz yıl sonra diriltilen kişi (2:259) ile mağarada 309 yıl kalan gençlerin (18:12, 18:19, 18:25-26) 'bir gün yahut günün bir kısmı kaldık' algısı."
+    },
+    {
+      "surah": 20,
+      "ayah": 40,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:40",
+      "word_position": 25,
+      "target_word_uthmani": "فَلَبِثْتَ",
+      "target_word_rasm": "فلبثت",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ",
+      "context_snippet_turkish_tabula_rasa": "Hani kız kardeşin gitmiş de onu yetiştirecek birisini bulayım mı size demişti, gözü aydın olsun, kederlenmesin diye tekrar anana kavuşturmuştuk seni ve...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MS"
+      },
+      "ayah_text_arabic_full": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani kız kardeşin gitmiş de onu yetiştirecek birisini bulayım mı size demişti, gözü aydın olsun, kederlenmesin diye tekrar anana kavuşturmuştuk seni ve birisini öldürmüştün de seni gamdan kurtarmıştık ve seni sınayıp durmuştuk ve yıllarca Medyen halkının içinde kalmıştın, sonra da mukadder olduğu gibi buraya geldin ey Musa.",
+      "contextual_meaning": "Tarihsel ve elçilik bekleme süreçleri: elçilerin toplumları içinde geçirdikleri yıllar (10:16, 20:40, 26:18, 29:14), Yûsuf'un zindanda (12:42), Yûnus'un balığın karnında (37:144) ve çalışanların ağır yük altında (34:14) beklemesi."
+    },
+    {
+      "surah": 20,
+      "ayah": 103,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:103",
+      "word_position": 4,
+      "target_word_uthmani": "لَّبِثْتُمْ",
+      "target_word_rasm": "لبثتم",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "يَتَخَٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًا",
+      "context_snippet_turkish_tabula_rasa": "Aralarında gizligizli konuşup ancak derler, on geceden fazla kalmadınız dünyada.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MP"
+      },
+      "ayah_text_arabic_full": "يَتَخَٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Aralarında gizligizli konuşup ancak derler, on geceden fazla kalmadınız dünyada.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 20,
+      "ayah": 104,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:104",
+      "word_position": 10,
+      "target_word_uthmani": "لَّبِثْتُمْ",
+      "target_word_rasm": "لبثتم",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًا",
+      "context_snippet_turkish_tabula_rasa": "Ne dediklerini daha iyi biliriz biz aklı ve yolu yoradamı daha düzgün olanın ancak bir günceğiz kaldınız dediği zaman.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MP"
+      },
+      "ayah_text_arabic_full": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ne dediklerini daha iyi biliriz biz aklı ve yolu yoradamı daha düzgün olanın ancak bir günceğiz kaldınız dediği zaman.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 23,
+      "ayah": 112,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:112",
+      "word_position": 3,
+      "target_word_uthmani": "لَبِثْتُمْ",
+      "target_word_rasm": "لبثتم",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "قَٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ",
+      "context_snippet_turkish_tabula_rasa": "Yeraltında kaç yıl kaldınız der.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MP"
+      },
+      "ayah_text_arabic_full": "قَٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeraltında kaç yıl kaldınız der.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 23,
+      "ayah": 113,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:113",
+      "word_position": 2,
+      "target_word_uthmani": "لَبِثْنَا",
+      "target_word_rasm": "لبثنا",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ",
+      "context_snippet_turkish_tabula_rasa": "Bir gün derler, yahut da bir günün bir kısmı kadar, artık, sayanlara sor.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|1P"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَسْـَٔلِ ٱلْعَآدِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir gün derler, yahut da bir günün bir kısmı kadar, artık, sayanlara sor.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 23,
+      "ayah": 114,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:114",
+      "word_position": 3,
+      "target_word_uthmani": "لَّبِثْتُمْ",
+      "target_word_rasm": "لبثتم",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "قَٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا لَّوْ",
+      "context_snippet_turkish_tabula_rasa": "Ancak pek az kaldınız der, fakat bir bilseniz ahiretin ebediliğini.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MP"
+      },
+      "ayah_text_arabic_full": "قَٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak pek az kaldınız der, fakat bir bilseniz ahiretin ebediliğini.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 26,
+      "ayah": 18,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:18",
+      "word_position": 6,
+      "target_word_uthmani": "وَلَبِثْتَ",
+      "target_word_rasm": "ولبثت",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ",
+      "context_snippet_turkish_tabula_rasa": "Firavun, sen dedi, çocukken içimizde büyüyüp yetişmedin mi ve ömrünün nice yılını aramızda geçirmedin mi?",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun, sen dedi, çocukken içimizde büyüyüp yetişmedin mi ve ömrünün nice yılını aramızda geçirmedin mi?",
+      "contextual_meaning": "Tarihsel ve elçilik bekleme süreçleri: elçilerin toplumları içinde geçirdikleri yıllar (10:16, 20:40, 26:18, 29:14), Yûsuf'un zindanda (12:42), Yûnus'un balığın karnında (37:144) ve çalışanların ağır yük altında (34:14) beklemesi."
+    },
+    {
+      "surah": 29,
+      "ayah": 14,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:14",
+      "word_position": 6,
+      "target_word_uthmani": "فَلَبِثَ",
+      "target_word_rasm": "فلبث",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki biz Nuh'u, kavmine gönderdik de aralarında tam bin yıldan elli yıl eksik bir müddet kaldı; derken onları tufan helak etti ve onlar zalimlerdi.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki biz Nuh'u, kavmine gönderdik de aralarında tam bin yıldan elli yıl eksik bir müddet kaldı; derken onları tufan helak etti ve onlar zalimlerdi.",
+      "contextual_meaning": "Tarihsel ve elçilik bekleme süreçleri: elçilerin toplumları içinde geçirdikleri yıllar (10:16, 20:40, 26:18, 29:14), Yûsuf'un zindanda (12:42), Yûnus'un balığın karnında (37:144) ve çalışanların ağır yük altında (34:14) beklemesi."
+    },
+    {
+      "surah": 30,
+      "ayah": 55,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:55",
+      "word_position": 7,
+      "target_word_uthmani": "لَبِثُوا۟",
+      "target_word_rasm": "لبثوا",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ كَذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Ve kıyametin koptuğu gün suçlular, ancak bir an yatıp eğlendiklerine and içerler; işte böyle asılsız şeylere kapılıyordu onlar.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kıyametin koptuğu gün suçlular, ancak bir an yatıp eğlendiklerine and içerler; işte böyle asılsız şeylere kapılıyordu onlar.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 30,
+      "ayah": 56,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:56",
+      "word_position": 7,
+      "target_word_uthmani": "لَبِثْتُمْ",
+      "target_word_rasm": "لبثتم",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "ٱلْعِلْمَ وَٱلْإِيمَٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَٰبِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine bilgi ve güven duy verilenlerse derler ki: Andolsun ki siz, Allah'ın takdiri ne kadarsa, ta tekrar dirileceğiniz günedek yatıp eğlendiniz,...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|2MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ فَهَٰذَا يَوْمُ ٱلْبَعْثِ وَلَٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine bilgi ve güven duy verilenlerse derler ki: Andolsun ki siz, Allah'ın takdiri ne kadarsa, ta tekrar dirileceğiniz günedek yatıp eğlendiniz, gerçekten de budur tekrar dirileceğiniz gün ve fakat siz bilmiyorsunuz.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 33,
+      "ayah": 14,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:14",
+      "word_position": 11,
+      "target_word_uthmani": "تَلَبَّثُوا۟",
+      "target_word_rasm": "تلبثوا",
+      "target_word_literal_irab": "Hiç gecikmeden / pek az oyalanarak hemen harekete geçmek (فَمَا لَبِثَ / وَمَا تَلَبَّثُوا۟ — olumsuz bekleme)",
+      "context_snippet_arabic": "ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Eğer şehrin etrafından girilip onların üstlerine varılsaydı da otoriteyi bölüşme ve ortak koşma koşmaları istenseydi hemen işe girişirler ve şehirde pek az bir...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer şehrin etrafından girilip onların üstlerine varılsaydı da otoriteyi bölüşme ve ortak koşma koşmaları istenseydi hemen işe girişirler ve şehirde pek az bir müddet kalırlardı.",
+      "contextual_meaning": "Gecikmeden ikram (11:69), bozgunculuğa hiç oyalanmadan koşma (33:14), elçiyi sürgün edenlerin ardında pek az kalabilmesi (17:76) ve çağlar boyu kalış (78:23)."
+    },
+    {
+      "surah": 34,
+      "ayah": 14,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:14",
+      "word_position": 24,
+      "target_word_uthmani": "لَبِثُوا۟",
+      "target_word_rasm": "لبثوا",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+      "context_snippet_turkish_tabula_rasa": "Mukadder ölümünü hükmettiğimiz zaman da sopasını yiyen kurttan başka hiçbir mahluk, öldüğünü bildirmedi onlara; yere yıkılınca anlaşıldı ki görünmeyen bilinçli...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MP"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Mukadder ölümünü hükmettiğimiz zaman da sopasını yiyen kurttan başka hiçbir mahluk, öldüğünü bildirmedi onlara; yere yıkılınca anlaşıldı ki görünmeyen bilinçli varlıklar, gizli olan şeyleri bilselerdi aşağılatıcı azap içinde kalıp durmazlardı.",
+      "contextual_meaning": "Tarihsel ve elçilik bekleme süreçleri: elçilerin toplumları içinde geçirdikleri yıllar (10:16, 20:40, 26:18, 29:14), Yûsuf'un zindanda (12:42), Yûnus'un balığın karnında (37:144) ve çalışanların ağır yük altında (34:14) beklemesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 144,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:144",
+      "word_position": 1,
+      "target_word_uthmani": "لَلَبِثَ",
+      "target_word_rasm": "للبث",
+      "target_word_literal_irab": "Bir mekânda, toplumda veya bekleme aralığında belirli bir süre kalıp bekledi (لَبِثَ / لَبِثْتَ / لَبِثْتُمْ / لَبِثُوا۟ — Form I mâzî)",
+      "context_snippet_arabic": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Halkın tekrar dirileceği günedek balığın karnında kalırdı.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:labiva|ROOT:lbv|3MS"
+      },
+      "ayah_text_arabic_full": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Halkın tekrar dirileceği günedek balığın karnında kalırdı.",
+      "contextual_meaning": "Tarihsel ve elçilik bekleme süreçleri: elçilerin toplumları içinde geçirdikleri yıllar (10:16, 20:40, 26:18, 29:14), Yûsuf'un zindanda (12:42), Yûnus'un balığın karnında (37:144) ve çalışanların ağır yük altında (34:14) beklemesi."
+    },
+    {
+      "surah": 46,
+      "ayah": 35,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:35",
+      "word_position": 17,
+      "target_word_uthmani": "يَلْبَثُوٓا۟",
+      "target_word_rasm": "يلبثوا",
+      "target_word_literal_irab": "Kısa bir zaman dilimi dışında kalıp beklemediler / bekleyemezler (يَلْبَثُوٓا۟ / يَلْبَثُونَ — Form I muzârî)",
+      "context_snippet_arabic": "مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن",
+      "context_snippet_turkish_tabula_rasa": "Artık, elçilerden azim ve irade sahipleri nasıl sebat edip direndilerse sen de sebat edip diren ve azaba uğramaları için acele etme. Onlara vaadedilen azabı...",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:labiva|ROOT:lbv|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ بَلَٰغٌ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık, elçilerden azim ve irade sahipleri nasıl sebat edip direndilerse sen de sebat edip diren ve azaba uğramaları için acele etme. Onlara vaadedilen azabı gördükleri gün sanırlar ki dünyada bir günün bir anı kadar kalmışlar; bu, bir tebliğdir, buyruktan çıkan topluluktan başkası helak mı olur?",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    },
+    {
+      "surah": 78,
+      "ayah": 23,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:23",
+      "word_position": 1,
+      "target_word_uthmani": "لَّٰبِثِينَ",
+      "target_word_rasm": "لبثين",
+      "target_word_literal_irab": "Çağlar boyunca orada bekleyip kalanlar (لَّٰبِثِينَ — ism-i fâil, mansûb cemi hâl)",
+      "context_snippet_arabic": "لَّٰبِثِينَ فِيهَآ أَحْقَابًا",
+      "context_snippet_turkish_tabula_rasa": "Yıllar boyunca kalırlar orada.",
+      "morphology": {
+        "lemma": "l~a`biviyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:l~a`biviyn|ROOT:lbv|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لَّٰبِثِينَ فِيهَآ أَحْقَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yıllar boyunca kalırlar orada.",
+      "contextual_meaning": "Gecikmeden ikram (11:69), bozgunculuğa hiç oyalanmadan koşma (33:14), elçiyi sürgün edenlerin ardında pek az kalabilmesi (17:76) ve çağlar boyu kalış (78:23)."
+    },
+    {
+      "surah": 79,
+      "ayah": 46,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:46",
+      "word_position": 5,
+      "target_word_uthmani": "يَلْبَثُوٓا۟",
+      "target_word_rasm": "يلبثوا",
+      "target_word_literal_irab": "Kısa bir zaman dilimi dışında kalıp beklemediler / bekleyemezler (يَلْبَثُوٓا۟ / يَلْبَثُونَ — Form I muzârî)",
+      "context_snippet_arabic": "يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ",
+      "context_snippet_turkish_tabula_rasa": "Onu gördükleri gün, bir akşamcık yaşamışa dönerler, yahut da günün kuşluk çağı.",
+      "morphology": {
+        "lemma": "labiva",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:labiva|ROOT:lbv|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Onu gördükleri gün, bir akşamcık yaşamışa dönerler, yahut da günün kuşluk çağı.",
+      "contextual_meaning": "Diriliş gününde dünya ömrünün ve bekleme süresinin kısalık algısı: insanların dünyada yalnızca bir saat, bir akşam veya bir gün kadar kaldıklarını sanmaları."
+    }
+  ]
+}

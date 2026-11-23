@@ -1,0 +1,407 @@
+{
+  "root": "خ-ف-ف",
+  "root_latin": "H-F-F (xff)",
+  "concept_name": "Hiffet ve Tahfîf (Ağırlığın Zıddı Hafiflik ve Yük Azaltma)",
+  "rank": 444,
+  "total_occurrences": 17,
+  "unique_ayahs_count": 17,
+  "unified_core_mechanism": "Ağırlık ve oturaklılığın karşıtı (`خِلَافُ الثِّقَلِ وَالرَّزَانَةِ`): (1) Fiziksel hafiflik — gebeliğin ilk hafif yükü (`7:189`), ağır veya hafif yükle seferberlik (`9:41`) ve yolculukta kolayca taşınan hafif deriden barınaklar (`16:80`); (2) Değer tartısında hafiflik — kalıcı iyilikten yoksun tartıların hafif gelmesi (`7:9`, `23:103`, `101:8`); (3) Yükün hafifletilmesi — insanın sınırlılığına rahmet olarak sorumluluğun azaltılması (`2:178`, `4:28`, `8:66`), buna karşılık inatla hakikati örtenlerden karşılığın hiç hafifletilmemesi (`2:86`, `2:162`, `3:88`, `16:85`, `35:36`, `40:49`); (4) Zihinsel hafifletme — kesin bilgiye ermemişlerin oturaklılığı sarsma çabası (`30:60`) ve Firavun'un toplumunu hafif görüp aklını çelerek kendine uydurması (`43:54`).",
+  "physical_core": "Ağırlığın ve oturaklılığın tersi olarak kütlesi, yükü veya direnci az olmak; kolay taşınır yahut kolay savrulur hafiflikte bulunmak (خِلَافُ الثِّقَلِ وَالرَّزَانَةِ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, خف): Kökün tek asla —'ağırlık ve oturaklılığın karşıtı (`خِلَافُ الثِّقَلِ وَالرَّزَانَةِ`)'— dayandığını bildirir.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `الْخِفَّةُ` hem maddi cismin tartıda/taşımada hafifliği (`7:189`, `16:80`), hem amel kefesinin hafif gelmesi (`7:9`, `23:103`, `101:8`), hem de akıl ve sebatın zayıflayıp kolayca yerinden oynatılmasıdır (`30:60`, `43:54`).",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `تَخْفِيف` yükümlülük veya cezada yükü azaltmak (`2:178`, `4:28`, `8:66`, `2:86`); `اسْتِخْفَاف` ise ya deriden çadırları yolculukta hafif bulup kolayca taşımak (`16:80`) ya da birini hafif ve dayanıksız görüp yerinden oynatarak yönlendirmektir (`30:60`, `43:54`).",
+    "arbitration_decision": "Hakem Masası Kararı: Fiziksel 'ağırlık ve oturaklılığın zıddı' çekirdeği üç bâbı eksiksiz açıklar: Form I (`خَفَّتْ`) tartıların değersizlikten hafif kalması; Form II (`خَفَّفَ / تَخْفِيف`) ilahi rahmetle insani yükün azaltılması (`2:178`, `4:28`, `8:66`) ya da kalıcı karşılıkta hiç azaltılmaması (`2:86`, `2:162`, `3:88`, `16:85`, `35:36`, `40:49`); Form X (`اسْتَخَفَّ`) hafif bulup kolay taşımak (`16:80`) veya oturaklılığı bozup kolayca sürüklemek (`30:60`, `43:54`)."
+  },
+  "semitic_cognates": {
+    "note": "Diğer Sami dillerinde doğrudan doğrulanmış eşkökenli bulunmadı; Arapçada `ث-ق-ل` zıddı olarak eksiksiz tek çekirdekle işler."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ث-ق-ل [حَمَلَتْ حَمْلًا خَفِيفًا ... فَلَمَّآ أَثْقَلَت / ٱنفِرُوا۟ خِفَافًا وَثِقَالًا / فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ ... وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ] (Ağır ve Oturaklı Olmak ↔ Yükü veya Tartısı Hafif Gelmek: 7:8-9, 7:189, 9:41, 23:102-103, 101:6-8)",
+      "ص-ب-ر [فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ / ٱلْـَٰٔنَ خَفَّفَ ٱللَّهُ عَنكُمْ ... صَابِرَةٌ] (Oturaklı Dirençle Yerinde Sabit Durmak ↔ Yükü Hafifletmek veya Birini Hafif Bulup Yerinden Oynatmaya Çalışmak: 8:66, 30:60)",
+      "خ-ل-د [خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ] (Kesintisiz ve Kalıcı Sürerlilik ↔ Üzerinden Yükün veya Sıkıntının Hafifletilip Azaltılması: 2:162, 3:88, 23:103)",
+      "أ-ل-م [ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ] (Acıtıcı ve Ağır Darbe ↔ Yükü Azaltan İlahi Hafifletme ve Merhamet: 2:178)"
+    ],
+    "key_ayahs": [
+      "2:162",
+      "2:178",
+      "7:9",
+      "7:189",
+      "8:66",
+      "9:41",
+      "30:60",
+      "101:8"
+    ],
+    "reverse_stress_test": "`ث-ق-ل` (ağırlık) üç ayrı alanda (`7:189` gebelik, `9:41` seferberlik, `7:8-9 / 23:102-103 / 101:6-8` tartılar) `خ-ف-ف`'in birebir karşıtıdır; `30:60`'taki `فَٱصْبِرْ ... وَلَا يَسْتَخِفَّنَّكَ` ise ağırbaşlı direnç ile hafifliğe/savrulmaya sürüklenme zıtlığını mühürler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ض-ع-ف (4:28 يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ ٱلْإِنسَٰنُ ضَعِيفًا; 8:66 خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا — ض-ع-ف taşıyıcının içsel güç ve dayanıklılık sınırını, تَخْفِيف ise o sınıra uygun olarak dış yükün azaltılmasını ayırır)",
+      "و-ز-ن (7:9, 23:103, 101:8 وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ — و-ز-ن dengeleyici tartı sistemini, خَفَّتْ ise ağırlık ve kalıcı değer üretemeyen kefenin yukarı fırlayışını belirtir)"
+    ],
+    "mechanical_difference": "`4:28` ve `8:66` net sebep-sonuç ayrımı yapar: insanın yaratılışındaki sınırlılık (`ضَعْف`) nedendir, Allah'ın sorumluluk yükünü azaltması (`تَخْفِيف`) sonuçtur."
+  },
+  "anchor_ayahs": [
+    "2:178",
+    "4:28",
+    "7:9",
+    "7:189",
+    "8:66",
+    "9:41",
+    "16:80",
+    "30:60",
+    "43:54",
+    "101:8"
+  ],
+  "grammar_and_branch_rules": "Form I (`خَفَّتْ`) daima tartı kefelerinin hafif gelmesini bildirir. Form II (`خَفَّفَ / يُخَفَّفُ`) daima `عَنْ` ile kullanılarak birinin üzerindeki yük veya cezanın azaltılmasını (etken: rahmetle hafifletme; edilgen-olumsuz: hiç hafifletilmeme) ifade eder. Form X (`اسْتَخَفَّ`) 'hafif bulmak / hafifleştirip yerinden oynatmak' anlamıyla hem somut çadırları (`16:80`) hem toplumsal-psikolojik yönlendirmeyi (`30:60`, `43:54`) karşılar.",
+  "derivatives": {
+    "خَفَّتْ": "Tartıda ağırlık ve değer üretemeyip hafif gelmek (7:9, 23:103, 101:8)",
+    "خَفَّفَ / يُخَفَّفُ": "Üzerindeki sorumluluk yükünü veya cezayı azaltıp hafifletmek (2:86, 4:28, 8:66, 40:49)",
+    "تَخْفِيف": "Ağır yükü azaltan ilahi kolaylaştırma ve hafifletme (2:178)",
+    "خَفِيف / خِفَاف": "Taşıması kolay, yükü az ve hafif olan (7:189, 9:41)",
+    "اسْتَخَفَّ / يَسْتَخِفُّ": "Hafif bulup kolayca taşımak (16:80) ya da birini hafif görüp oturaklılığından oynatarak güdümüne almak (30:60, 43:54)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 86,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:86",
+      "word_position": 8,
+      "target_word_uthmani": "يُخَفَّفُ",
+      "target_word_rasm": "يخفف",
+      "target_word_literal_irab": "Hakikati örtenlerin üzerinden karşılık ve sıkıntının hafifletilmemesi / hafifletilme talebi (يُخَفَّفُ / يُخَفِّفْ — Form II)",
+      "context_snippet_arabic": "ٱلدُّنْيَا بِٱلْءَاخِرَةِ فَلَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar, ahireti dünya yaşayışına satmış kimselerdir. Onların azabı da hafifletilmez, onlara yardım da edilmez.",
+      "morphology": {
+        "lemma": "xaf~afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(II)|LEM:xaf~afa|ROOT:xff|3MS"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ فَلَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنصَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, ahireti dünya yaşayışına satmış kimselerdir. Onların azabı da hafifletilmez, onlara yardım da edilmez.",
+      "contextual_meaning": "Ahiret karşılığında hafiflemenin olmaması: gerçeği bile bile örtenlerden karşılığın hiç hafifletilmeyeceği (لَا يُخَفَّفُ عَنْهُمُ) ve bir gün dahi azaltılması talebinin karşılıksız kalacağı (40:49)."
+    },
+    {
+      "surah": 2,
+      "ayah": 162,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:162",
+      "word_position": 4,
+      "target_word_uthmani": "يُخَفَّفُ",
+      "target_word_rasm": "يخفف",
+      "target_word_literal_irab": "Hakikati örtenlerin üzerinden karşılık ve sıkıntının hafifletilmemesi / hafifletilme talebi (يُخَفَّفُ / يُخَفِّفْ — Form II)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Ebedi olarak lanette kalırlar. Ne azapları hafifletilir, ne yüzlerine bakılır.",
+      "morphology": {
+        "lemma": "xaf~afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(II)|LEM:xaf~afa|ROOT:xff|3MS"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ebedi olarak lanette kalırlar. Ne azapları hafifletilir, ne yüzlerine bakılır.",
+      "contextual_meaning": "Ahiret karşılığında hafiflemenin olmaması: gerçeği bile bile örtenlerden karşılığın hiç hafifletilmeyeceği (لَا يُخَفَّفُ عَنْهُمُ) ve bir gün dahi azaltılması talebinin karşılıksız kalacağı (40:49)."
+    },
+    {
+      "surah": 2,
+      "ayah": 178,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:178",
+      "word_position": 27,
+      "target_word_uthmani": "تَخْفِيفٌ",
+      "target_word_rasm": "تخفيف",
+      "target_word_literal_irab": "Ağır yükü azaltan ilahi kolaylaştırma ve hafifletme (تَخْفِيفٌ — Form II mastar, merfû haber)",
+      "context_snippet_arabic": "إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ",
+      "context_snippet_turkish_tabula_rasa": "... öldürülenin velisinin, akla ve örfe uygun olarak iyiliğe uyması, öldürenin de, öldürdüğü kişinin velisine güzellikle bir şey vermesi kalır. Bu, Rabbinizden hükmü hafifletmedir, rahmettir. Bundan sonra da gene zulme kalkan ve aşırı giden olursa artık ona elemli bir azap var.",
+      "morphology": {
+        "lemma": "taxofiyf",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taxofiyf|ROOT:xff|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ٱلْحُرُّ بِٱلْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, öldürülenler hakkında size kısas farz edilmiştir: Hüre karşılık hür, kula karşılık kul, kadına karşılık kadın. Fakat öldüren, kardeşinden azıcık bir affa nail olursa o zaman kısas kalkar; öldürülenin velisinin, akla ve örfe uygun olarak iyiliğe uyması, öldürenin de, öldürdüğü kişinin velisine güzellikle bir şey vermesi kalır. Bu, Rabbinizden hükmü hafifletmedir, rahmettir. Bundan sonra da gene zulme kalkan ve aşırı giden olursa artık ona elemli bir azap var.",
+      "contextual_meaning": "İlahi rahmetle yük hafifletme (تَخْفِيف): kısasta af ve kolaylık (2:178), insanın zayıflığı gözetilerek yükümlülüklerin hafifletilmesi (4:28) ve mücadele eşiğinin düşürülmesi (8:66)."
+    },
+    {
+      "surah": 3,
+      "ayah": 88,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:88",
+      "word_position": 4,
+      "target_word_uthmani": "يُخَفَّفُ",
+      "target_word_rasm": "يخفف",
+      "target_word_literal_irab": "Hakikati örtenlerin üzerinden karşılık ve sıkıntının hafifletilmemesi / hafifletilme talebi (يُخَفَّفُ / يُخَفِّفْ — Form II)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Ve bu lanette ebedi kalırlar, ne azapları hafifletilir, ne de yüzlerine bakılır.",
+      "morphology": {
+        "lemma": "xaf~afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(II)|LEM:xaf~afa|ROOT:xff|3MS"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bu lanette ebedi kalırlar, ne azapları hafifletilir, ne de yüzlerine bakılır.",
+      "contextual_meaning": "Ahiret karşılığında hafiflemenin olmaması: gerçeği bile bile örtenlerden karşılığın hiç hafifletilmeyeceği (لَا يُخَفَّفُ عَنْهُمُ) ve bir gün dahi azaltılması talebinin karşılıksız kalacağı (40:49)."
+    },
+    {
+      "surah": 4,
+      "ayah": 28,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:28",
+      "word_position": 4,
+      "target_word_uthmani": "يُخَفِّفَ",
+      "target_word_rasm": "يخفف",
+      "target_word_literal_irab": "İnsanın sınırlılığına rahmet olarak Allah'ın sorumluluk yükünü azaltıp hafifletmesi (يُخَفِّفَ / خَفَّفَ — Form II etken)",
+      "context_snippet_arabic": "يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ ٱلْإِنسَٰنُ",
+      "context_snippet_turkish_tabula_rasa": "Allah, sizin yükünüzü hafifletmeyi diler ve insan, zaten de zayıf olarak yaratılmıştır.",
+      "morphology": {
+        "lemma": "xaf~afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:xaf~afa|ROOT:xff|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ ٱلْإِنسَٰنُ ضَعِيفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, sizin yükünüzü hafifletmeyi diler ve insan, zaten de zayıf olarak yaratılmıştır.",
+      "contextual_meaning": "İlahi rahmetle yük hafifletme (تَخْفِيف): kısasta af ve kolaylık (2:178), insanın zayıflığı gözetilerek yükümlülüklerin hafifletilmesi (4:28) ve mücadele eşiğinin düşürülmesi (8:66)."
+    },
+    {
+      "surah": 7,
+      "ayah": 9,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:9",
+      "word_position": 2,
+      "target_word_uthmani": "خَفَّتْ",
+      "target_word_rasm": "خفت",
+      "target_word_literal_irab": "Tartı kefelerinin ağırlık ve değer üretemeyip hafif gelmesi (خَفَّتْ — Form I mâzî müennes)",
+      "context_snippet_arabic": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kimlerin hafif gelirse onlardır ayetlerimizi gerçeğin üzerini ört zulmettiklerinden kendilerine yazık edenler.",
+      "morphology": {
+        "lemma": "xaf~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaf~ato|ROOT:xff|3FS"
+      },
+      "ayah_text_arabic_full": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُم بِمَا كَانُوا۟ بِـَٔايَٰتِنَا يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kimlerin hafif gelirse onlardır ayetlerimizi gerçeğin üzerini ört zulmettiklerinden kendilerine yazık edenler.",
+      "contextual_meaning": "Değer tartısının hafif gelmesi (وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ): kalıcı iyilik ağırlığı kuramayanların kayıp ve yıkımla yüzleşmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 189,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:189",
+      "word_position": 16,
+      "target_word_uthmani": "خَفِيفًا",
+      "target_word_rasm": "خفيفا",
+      "target_word_literal_irab": "İlk aşamadaki hafif ve kolay taşınır gebelik yükü (حَمْلًا خَفِيفًا — sıfat, mansûb)",
+      "context_snippet_arabic": "تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ فَلَمَّآ",
+      "context_snippet_turkish_tabula_rasa": "... Derken erkek eşine yaklaşınca eşi, hafif bir yük taşımıya ve onunla gidip gelmeye başladı. O yük ağırlaşınca ikisi de, bize azası tam ve iyi birevlat verirsen şüphe yok ki biz de nimetin değerini bilip açığa vuranlardan oluruz diye Rablerine dua ettiler.",
+      "morphology": {
+        "lemma": "xafiyf",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:xafiyf|ROOT:xff|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki sizi tek bir kişiden yarattı, ülfet ve ünsiyet etmesi için ondan da eşini halketti. Derken erkek eşine yaklaşınca eşi, hafif bir yük taşımıya ve onunla gidip gelmeye başladı. O yük ağırlaşınca ikisi de, bize azası tam ve iyi birevlat verirsen şüphe yok ki biz de nimetin değerini bilip açığa vuranlardan oluruz diye Rablerine dua ettiler.",
+      "contextual_meaning": "Fiziksel hafiflik örnekleri: ilk hafif gebelik yükü (7:189), hafif veya ağır her imkânla seferber olmak (9:41) ve göçte hafifçe taşınabilen deri çadırlar (16:80)."
+    },
+    {
+      "surah": 8,
+      "ayah": 66,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:66",
+      "word_position": 2,
+      "target_word_uthmani": "خَفَّفَ",
+      "target_word_rasm": "خفف",
+      "target_word_literal_irab": "İnsanın sınırlılığına rahmet olarak Allah'ın sorumluluk yükünü azaltıp hafifletmesi (يُخَفِّفَ / خَفَّفَ — Form II etken)",
+      "context_snippet_arabic": "ٱلْـَٰٔنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ",
+      "context_snippet_turkish_tabula_rasa": "Fakat şimdi Allah size savaştaki hükmü hafifletti ve bildi ki sizde muhakkak bir zaaf var. Artık sizden yüz tane sebat ve direnç ve sebat sahibi, ikiyüzü yener ve siz bin kişi olsanız Allah'ın izniyle iki binini altedersiniz ve Allah, sebat ve direnç ve sebat edenlerle beraberdir.",
+      "morphology": {
+        "lemma": "xaf~afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:xaf~afa|ROOT:xff|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلْـَٰٔنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُمْ أَلْفٌ يَغْلِبُوٓا۟ أَلْفَيْنِ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat şimdi Allah size savaştaki hükmü hafifletti ve bildi ki sizde muhakkak bir zaaf var. Artık sizden yüz tane sebat ve direnç ve sebat sahibi, ikiyüzü yener ve siz bin kişi olsanız Allah'ın izniyle iki binini altedersiniz ve Allah, sebat ve direnç ve sebat edenlerle beraberdir.",
+      "contextual_meaning": "İlahi rahmetle yük hafifletme (تَخْفِيف): kısasta af ve kolaylık (2:178), insanın zayıflığı gözetilerek yükümlülüklerin hafifletilmesi (4:28) ve mücadele eşiğinin düşürülmesi (8:66)."
+    },
+    {
+      "surah": 9,
+      "ayah": 41,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:41",
+      "word_position": 2,
+      "target_word_uthmani": "خِفَافًا",
+      "target_word_rasm": "خفافا",
+      "target_word_literal_irab": "Yükü hafif veya ağır her koşulda seferberlik hâli (خِفَافًا — cemi hâl, mansûb)",
+      "context_snippet_arabic": "ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Genciniz, ihtiyarınız, hep beraber savaşa çıkın ve mallarınızla, canlarınızla Allah yolunda savaşın, bilirseniz bu, sizin için daha hayırlıdır.",
+      "morphology": {
+        "lemma": "xafiyf",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xafiyf|ROOT:xff|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Genciniz, ihtiyarınız, hep beraber savaşa çıkın ve mallarınızla, canlarınızla Allah yolunda savaşın, bilirseniz bu, sizin için daha hayırlıdır.",
+      "contextual_meaning": "Fiziksel hafiflik örnekleri: ilk hafif gebelik yükü (7:189), hafif veya ağır her imkânla seferber olmak (9:41) ve göçte hafifçe taşınabilen deri çadırlar (16:80)."
+    },
+    {
+      "surah": 16,
+      "ayah": 80,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:80",
+      "word_position": 13,
+      "target_word_uthmani": "تَسْتَخِفُّونَهَا",
+      "target_word_rasm": "تستخفونها",
+      "target_word_literal_irab": "Yolculuk ve konaklama gününde hafif bulup kolayca taşıdığınız (تَسْتَخِفُّونَهَا — Form X muzârî)",
+      "context_snippet_arabic": "جُلُودِ ٱلْأَنْعَٰمِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, evlerinizi oturma ve dinlenme yeri yaptı ve davarların derilerinden, göç gününüzde de, konak gününüzde de taşıyabileceğiniz çadırlar yapmanızı...",
+      "morphology": {
+        "lemma": "{sotaxaf~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaxaf~a|ROOT:xff|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَٰمِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَٰثًا وَمَتَٰعًا إِلَىٰ حِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, evlerinizi oturma ve dinlenme yeri yaptı ve davarların derilerinden, göç gününüzde de, konak gününüzde de taşıyabileceğiniz çadırlar yapmanızı sağladı ve yünlerinden, yapağılarından, tüylerinden bir zamana dek kullanacağınız ve alıp satacağınız eşyalar meydana getirmenizi temin etti.",
+      "contextual_meaning": "Fiziksel hafiflik örnekleri: ilk hafif gebelik yükü (7:189), hafif veya ağır her imkânla seferber olmak (9:41) ve göçte hafifçe taşınabilen deri çadırlar (16:80)."
+    },
+    {
+      "surah": 16,
+      "ayah": 85,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:85",
+      "word_position": 7,
+      "target_word_uthmani": "يُخَفَّفُ",
+      "target_word_rasm": "يخفف",
+      "target_word_literal_irab": "Hakikati örtenlerin üzerinden karşılık ve sıkıntının hafifletilmemesi / hafifletilme talebi (يُخَفَّفُ / يُخَفِّفْ — Form II)",
+      "context_snippet_arabic": "ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Zulmedenler azabı görmeye başladılar mı hafifletilmez azapları ve mühlet de verilmez onlara.",
+      "morphology": {
+        "lemma": "xaf~afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(II)|LEM:xaf~afa|ROOT:xff|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zulmedenler azabı görmeye başladılar mı hafifletilmez azapları ve mühlet de verilmez onlara.",
+      "contextual_meaning": "Ahiret karşılığında hafiflemenin olmaması: gerçeği bile bile örtenlerden karşılığın hiç hafifletilmeyeceği (لَا يُخَفَّفُ عَنْهُمُ) ve bir gün dahi azaltılması talebinin karşılıksız kalacağı (40:49)."
+    },
+    {
+      "surah": 23,
+      "ayah": 103,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:103",
+      "word_position": 2,
+      "target_word_uthmani": "خَفَّتْ",
+      "target_word_rasm": "خفت",
+      "target_word_literal_irab": "Tartı kefelerinin ağırlık ve değer üretemeyip hafif gelmesi (خَفَّتْ — Form I mâzî müennes)",
+      "context_snippet_arabic": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve kimin iyilikleri hafif gelirse gerçekten de o çeşit kişilerdir kendilerini ziyana sokanlar, yakıcı yıkım yurdunda ebedidir onlar.",
+      "morphology": {
+        "lemma": "xaf~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaf~ato|ROOT:xff|3FS"
+      },
+      "ayah_text_arabic_full": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فِى جَهَنَّمَ خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kimin iyilikleri hafif gelirse gerçekten de o çeşit kişilerdir kendilerini ziyana sokanlar, yakıcı yıkım yurdunda ebedidir onlar.",
+      "contextual_meaning": "Değer tartısının hafif gelmesi (وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ): kalıcı iyilik ağırlığı kuramayanların kayıp ve yıkımla yüzleşmesi."
+    },
+    {
+      "surah": 30,
+      "ayah": 60,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:60",
+      "word_position": 7,
+      "target_word_uthmani": "يَسْتَخِفَّنَّكَ",
+      "target_word_rasm": "يستخفنك",
+      "target_word_literal_irab": "Birini hafif görüp oturaklılığından oynatmak / aklını çelip yönlendirmek (يَسْتَخِفَّنَّكَ / فَٱسْتَخَفَّ — Form X fiil)",
+      "context_snippet_arabic": "ٱللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dayan, şüphe yok ki Allah'ın vaadi gerçektir ve adamakıllı güven duy, sakın senin gayretini hafifletip gevşetmesin.",
+      "morphology": {
+        "lemma": "{sotaxaf~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaxaf~a|ROOT:xff|3MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dayan, şüphe yok ki Allah'ın vaadi gerçektir ve adamakıllı güven duy, sakın senin gayretini hafifletip gevşetmesin.",
+      "contextual_meaning": "Zihinsel oturaklılığı sarsma (اسْتِخْفَاف): kesin bilgiye ermeyenlerin direnci hafifletip sarsmasına izin vermeme (30:60) ve Firavun'un toplumunu hafif görüp kolayca güdümüne alması (43:54)."
+    },
+    {
+      "surah": 35,
+      "ayah": 36,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:36",
+      "word_position": 11,
+      "target_word_uthmani": "يُخَفَّفُ",
+      "target_word_rasm": "يخفف",
+      "target_word_literal_irab": "Hakikati örtenlerin üzerinden karşılık ve sıkıntının hafifletilmemesi / hafifletilme talebi (يُخَفَّفُ / يُخَفِّفْ — Form II)",
+      "context_snippet_arabic": "عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlaraysa yakıcı yıkım yurdu ateşi var, öldürülmezler ki ölüp kurtulsunlar ve yakıcı yıkım yurdu azabı da hafifletilmez onlara; işte biz, fazlasıyla gerçeğin üzerini örten olanları böyle cezalandırırız.",
+      "morphology": {
+        "lemma": "xaf~afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(II)|LEM:xaf~afa|ROOT:xff|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlaraysa yakıcı yıkım yurdu ateşi var, öldürülmezler ki ölüp kurtulsunlar ve yakıcı yıkım yurdu azabı da hafifletilmez onlara; işte biz, fazlasıyla gerçeğin üzerini örten olanları böyle cezalandırırız.",
+      "contextual_meaning": "Ahiret karşılığında hafiflemenin olmaması: gerçeği bile bile örtenlerden karşılığın hiç hafifletilmeyeceği (لَا يُخَفَّفُ عَنْهُمُ) ve bir gün dahi azaltılması talebinin karşılıksız kalacağı (40:49)."
+    },
+    {
+      "surah": 40,
+      "ayah": 49,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:49",
+      "word_position": 9,
+      "target_word_uthmani": "يُخَفِّفْ",
+      "target_word_rasm": "يخفف",
+      "target_word_literal_irab": "Hakikati örtenlerin üzerinden karşılık ve sıkıntının hafifletilmemesi / hafifletilme talebi (يُخَفَّفُ / يُخَفِّفْ — Form II)",
+      "context_snippet_arabic": "جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًا مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Ve ateştekiler, yakıcı yıkım yurdunun kapıcılarına, Rabbinize yalvarın da diyecekler, ne olur, bir günceğiz olsun azabımızı hafifletsin.",
+      "morphology": {
+        "lemma": "xaf~afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:xaf~afa|ROOT:xff|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ فِى ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدْعُوا۟ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًا مِّنَ ٱلْعَذَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ateştekiler, yakıcı yıkım yurdunun kapıcılarına, Rabbinize yalvarın da diyecekler, ne olur, bir günceğiz olsun azabımızı hafifletsin.",
+      "contextual_meaning": "Ahiret karşılığında hafiflemenin olmaması: gerçeği bile bile örtenlerden karşılığın hiç hafifletilmeyeceği (لَا يُخَفَّفُ عَنْهُمُ) ve bir gün dahi azaltılması talebinin karşılıksız kalacağı (40:49)."
+    },
+    {
+      "surah": 43,
+      "ayah": 54,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:54",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱسْتَخَفَّ",
+      "target_word_rasm": "فٱستخف",
+      "target_word_literal_irab": "Birini hafif görüp oturaklılığından oynatmak / aklını çelip yönlendirmek (يَسْتَخِفَّنَّكَ / فَٱسْتَخَفَّ — Form X fiil)",
+      "context_snippet_arabic": "فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ إِنَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Derken kavminin aklını çeldi de ona itaat ettiler, şüphe yok ki onlar, yoldan çıkmış bir topluluktu.",
+      "morphology": {
+        "lemma": "{sotaxaf~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaxaf~a|ROOT:xff|3MS"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken kavminin aklını çeldi de ona itaat ettiler, şüphe yok ki onlar, yoldan çıkmış bir topluluktu.",
+      "contextual_meaning": "Zihinsel oturaklılığı sarsma (اسْتِخْفَاف): kesin bilgiye ermeyenlerin direnci hafifletip sarsmasına izin vermeme (30:60) ve Firavun'un toplumunu hafif görüp kolayca güdümüne alması (43:54)."
+    },
+    {
+      "surah": 101,
+      "ayah": 8,
+      "surah_name": "Kāria",
+      "ayah_ref": "101:8",
+      "word_position": 3,
+      "target_word_uthmani": "خَفَّتْ",
+      "target_word_rasm": "خفت",
+      "target_word_literal_irab": "Tartı kefelerinin ağırlık ve değer üretemeyip hafif gelmesi (خَفَّتْ — Form I mâzî müennes)",
+      "context_snippet_arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ve fakat kimin ki terazilerdeki tartısı hafif gelir.",
+      "morphology": {
+        "lemma": "xaf~ato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaf~ato|ROOT:xff|3FS"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve fakat kimin ki terazilerdeki tartısı hafif gelir.",
+      "contextual_meaning": "Değer tartısının hafif gelmesi (وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ): kalıcı iyilik ağırlığı kuramayanların kayıp ve yıkımla yüzleşmesi."
+    }
+  ]
+}

@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 450 mühürlü kökten (`%86,92`) sonra, meal aşamasına geçmeden önce kısa surelerin (98-114) kalan son tekil kavram kilitlerini, mühürlü köklerin referans verdiği açık Mesânî/Furûk eşleniklerini ve 25+ geçişli doktrinel/çekirdek kavramları kapatan **50 kritik kök** (789 geçiş) mühürlenerek toplam sözlük **500 kilitli köke (`%88,50` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%92,58`'i)** ulaştırılır.
-> **Etap 3E İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 470 Kök | Güncel Kapsam: %87,09)
+> **Etap 3E İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 480 Kök | Güncel Kapsam: %87,44)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -27,16 +27,16 @@
 | 18 | Kısa Sure & Açık Mesânî | 662 | `ق-س-و` | `K-S-W` | **7** | 6 | 2:74 | Kasvet ve Kâsiye (Kalbin Taşlaşıp Hakikate Karşı Katılaşması) | ✅ **MÜHÜRLÜ** |
 | 19 | Kısa Sure & Açık Mesânî | 721 | `ق-ص-د` | `K-S-D` | **6** | 6 | 5:66 | Kasd ve Muktesıd (Sapmayan Doğru Yön ve Ölçülü Orta Denge) | ✅ **MÜHÜRLÜ** |
 | 20 | Kısa Sure & Açık Mesânî | 502 | `ي-أ-س` | `Y-E-S` | **13** | 11 | 5:3 | Ye's ve Yeûs (Beklentiyi ve Umut Bağını Tamamen Kesmek) | ✅ **MÜHÜRLÜ** |
-| 21 | Açık Mesânî Eşleniği | 327 | `ن-ش-أ` | `N-S-E` | **28** | 25 | 6:6 | İnşâ' ve Neş'et (4 Mesânî + 1 Furûk ref! 6:98, 29:20, 53:47, 56:62 ilk ve yeni yaratılış/filizlendirip yükseltme) | ⏳ *Bekliyor* |
-| 22 | Açık Mesânî Eşleniği | 384 | `ف-ر-ح` | `F-R-H` | **22** | 21 | 3:120 | Ferah ve Farih (4 açık Mesânî ref! ح-ز-ن ve ق-ن-ط zıddı: 10:58 Allah'ın lütfuyla sevinmek vs 28:76 şımarıkça böbürlenmek) | ⏳ *Bekliyor* |
-| 23 | Açık Mesânî Eşleniği | 436 | `خ-ف-ف` | `H-F-F` | **17** | 17 | 2:86 | Hıffet ve Tahfîf (4 açık Mesânî ref! ث-ق-ل [ağır gelmek] kökünün doğrudan zıddı: 101:8 tartıları hafif gelmek ve 4:28 yükü hafifletmek) | ⏳ *Bekliyor* |
-| 24 | Açık Mesânî Eşleniği | 300 | `ل-ب-ث` | `L-B-S` | **31** | 27 | 2:259 | Lübs ve Lâbisîn (3 açık Mesânî ref! ع-ج-ل zıddı: 2:259, 18:19, 23:112-114 bir yerde/halde bekleyip kalmak) | ⏳ *Bekliyor* |
-| 25 | Açık Mesânî Eşleniği | 411 | `ك-ش-ف` | `K-S-F` | **20** | 20 | 6:17 | Keşf ve Kâşif (3 açık Mesânî ref! 6:17, 10:107, 27:62, 50:22 sıkıntıyı, örtüyü ve perdeyi kaldırıp açmak) | ⏳ *Bekliyor* |
-| 26 | Açık Mesânî Eşleniği | 447 | `ع-ل-ن` | `A-L-N` | **16** | 16 | 2:77 | İ'lân ve Alâniye (3 açık Mesânî ref! س-ر-ر [gizlemek] kökünün doğrudan zıddı: 2:77, 13:22, 14:31, 35:29 açığa vurmak) | ⏳ *Bekliyor* |
-| 27 | Açık Mesânî Eşleniği | 446 | `ج-ه-ر` | `C-H-R` | **16** | 15 | 2:55 | Cehr ve Cehreh (3 açık Mesânî ref! س-ر-ر ve خ-ف-ت zıddı: 6:3, 7:205, 17:110, 20:7, 67:13 sözü açıktan ve yüksek sesle söylemek) | ⏳ *Bekliyor* |
-| 28 | Açık Mesânî Eşleniği | 572 | `ض-ي-ع` | `D-Y-A` | **10** | 10 | 2:143 | İdâa (3 açık Mesânî ref! ح-ف-ظ zıddı: 3:195, 12:90, 18:30 yapılan güzel emeği zayi etmemek ve 19:59 salâtı zayi etmek) | ⏳ *Bekliyor* |
-| 29 | Açık Mesânî Eşleniği | 773 | `ب-غ-ض` | `B-G-D` | **5** | 5 | 3:118 | Bağdâ' (3 açık Mesânî ref! ح-ب-ب ve و-د-د zıddı: 3:118, 5:14, 5:64, 5:91, 60:4 taşan nefret ve düşmanlık) | ⏳ *Bekliyor* |
-| 30 | Açık Mesânî Eşleniği | 506 | `ض-ي-ق` | `D-Y-K` | **13** | 12 | 6:125 | Dîk ve Dayyik (2 Mesânî + 2 Furûk ref! و-س-ع ve ش-ر-ح zıddı: 6:125, 9:25, 9:118, 15:97 göğsün ve yeryüzünün daralması) | ⏳ *Bekliyor* |
+| 21 | Açık Mesânî Eşleniği | 327 | `ن-ش-أ` | `N-S-E` | **28** | 25 | 6:6 | İnşâ ve Neş'et (Aşamalı Yükseltip Yeni Bir Varoluş Kurmak) | ✅ **MÜHÜRLÜ** |
+| 22 | Açık Mesânî Eşleniği | 384 | `ف-ر-ح` | `F-R-H` | **22** | 21 | 3:120 | Ferah (İçin Coşup Kabarması: Meşru Sevinç ve Şımarık Böbürlenme) | ✅ **MÜHÜRLÜ** |
+| 23 | Açık Mesânî Eşleniği | 436 | `خ-ف-ف` | `H-F-F` | **17** | 17 | 2:86 | Hiffet ve Tahfîf (Ağırlığın Zıddı Hafiflik ve Yük Azaltma) | ✅ **MÜHÜRLÜ** |
+| 24 | Açık Mesânî Eşleniği | 300 | `ل-ب-ث` | `L-B-S` | **31** | 27 | 2:259 | Lübs (Belirli Bir Süre Bekleyip Kalmak ve Oyalanmak) | ✅ **MÜHÜRLÜ** |
+| 25 | Açık Mesânî Eşleniği | 411 | `ك-ش-ف` | `K-S-F` | **20** | 20 | 6:17 | Keşf (Örtüyü ve Saran Zararı Sıyırıp Açmak) | ✅ **MÜHÜRLÜ** |
+| 26 | Açık Mesânî Eşleniği | 447 | `ع-ل-ن` | `A-L-N` | **16** | 16 | 2:77 | İlân ve Alâniyyet (Gizlilikten Çıkarıp Kamusal Açıklığa Koymak) | ✅ **MÜHÜRLÜ** |
+| 27 | Açık Mesânî Eşleniği | 446 | `ج-ه-ر` | `C-H-R` | **16** | 15 | 2:55 | Cehr ve Cihâr (Duyulara Yüksek ve Perdesiz Açıklıkla Ulaşmak) | ✅ **MÜHÜRLÜ** |
+| 28 | Açık Mesânî Eşleniği | 572 | `ض-ي-ع` | `D-Y-A` | **10** | 10 | 2:143 | İdâa (Emeği, Hakkı veya Sorumluluğu İhmal Edip Boşa Çıkarmak) | ✅ **MÜHÜRLÜ** |
+| 29 | Açık Mesânî Eşleniği | 773 | `ب-غ-ض` | `B-G-D` | **5** | 5 | 3:118 | Bağdâ (Sevginin Zıddı Şiddetli Tiksinti ve Derin Nefret) | ✅ **MÜHÜRLÜ** |
+| 30 | Açık Mesânî Eşleniği | 506 | `ض-ي-ق` | `D-Y-K` | **13** | 12 | 6:125 | Dîk ve Dayk (Genişliğin Zıddı Alan ve Göğüs Daralması) | ✅ **MÜHÜRLÜ** |
 | 31 | Mesânî & Doktrinel Zırh | 299 | `غ-ل-ب` | `G-L-B` | **31** | 28 | 2:249 | Galebe, Gâlib ve Mağlûb (2 açık Mesânî ref! 5:23, 8:65, 12:21, 30:2-3, 58:21 üstün gelmek ve yenilgiye uğramak) | ⏳ *Bekliyor* |
 | 32 | Mesânî & Doktrinel Zırh | 334 | `غ-ر-ر` | `G-R-R` | **27** | 21 | 3:24 | Gurûr ve Garûr (2 açık Mesânî ref! 3:185, 31:33, 35:5, 57:14, 82:6 aldatıcı kuruntu/avuntu ve ayartıcı aldanış) | ⏳ *Bekliyor* |
 | 33 | Mesânî & Doktrinel Zırh | 442 | `أ-و-ب` | `E-W-B` | **17** | 17 | 3:14 | Evvâb ve Meâb (2 açık Mesânî ref! 13:29, 34:10, 38:17-49, 50:32 her fırsatta gönülden Rabbine dönen ve güzel dönüş yeri) | ⏳ *Bekliyor* |

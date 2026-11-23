@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3E (Kısa Sure Son Tekil Kilitleri, Açık Mesânî/Furûk Uçları ve 500. Kök Tam Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 20,
+  "locked_count": 30,
   "total_tokens_in_package": 789,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 87.09,
+  "current_coverage_pct": 87.44,
   "target_coverage_pct": 88.5,
   "etap_3e_roots": [
     {
@@ -380,8 +380,8 @@
       "frequency": 28,
       "unique_ayahs": 25,
       "rationale": "İnşâ' ve Neş'et (4 Mesânî + 1 Furûk ref! 6:98, 29:20, 53:47, 56:62 ilk ve yeni yaratılış/filizlendirip yükseltme)",
-      "concept_label": "Analiz Bekliyor (>an$a>a, n~a$o>ap, yuna$~a&uA@, mun$a_#aAt)",
-      "is_locked": false,
+      "concept_label": "İnşâ ve Neş'et (Aşamalı Yükseltip Yeni Bir Varoluş Kurmak)",
+      "is_locked": true,
       "sample_ayah": "6:6",
       "top_lemmas": [
         ">an$a>a",
@@ -400,8 +400,8 @@
       "frequency": 22,
       "unique_ayahs": 21,
       "rationale": "Ferah ve Farih (4 açık Mesânî ref! ح-ز-ن ve ق-ن-ط zıddı: 10:58 Allah'ın lütfuyla sevinmek vs 28:76 şımarıkça böbürlenmek)",
-      "concept_label": "Analiz Bekliyor (fariHa, fariH)",
-      "is_locked": false,
+      "concept_label": "Ferah (İçin Coşup Kabarması: Meşru Sevinç ve Şımarık Böbürlenme)",
+      "is_locked": true,
       "sample_ayah": "3:120",
       "top_lemmas": [
         "fariHa",
@@ -418,8 +418,8 @@
       "frequency": 17,
       "unique_ayahs": 17,
       "rationale": "Hıffet ve Tahfîf (4 açık Mesânî ref! ث-ق-ل [ağır gelmek] kökünün doğrudan zıddı: 101:8 tartıları hafif gelmek ve 4:28 yükü hafifletmek)",
-      "concept_label": "Analiz Bekliyor (xaf~afa, xaf~ato, {sotaxaf~a, xafiyf)",
-      "is_locked": false,
+      "concept_label": "Hiffet ve Tahfîf (Ağırlığın Zıddı Hafiflik ve Yük Azaltma)",
+      "is_locked": true,
       "sample_ayah": "2:86",
       "top_lemmas": [
         "xaf~afa",
@@ -438,8 +438,8 @@
       "frequency": 31,
       "unique_ayahs": 27,
       "rationale": "Lübs ve Lâbisîn (3 açık Mesânî ref! ع-ج-ل zıddı: 2:259, 18:19, 23:112-114 bir yerde/halde bekleyip kalmak)",
-      "concept_label": "Analiz Bekliyor (labiva, l~a`biviyn)",
-      "is_locked": false,
+      "concept_label": "Lübs (Belirli Bir Süre Bekleyip Kalmak ve Oyalanmak)",
+      "is_locked": true,
       "sample_ayah": "2:259",
       "top_lemmas": [
         "labiva",
@@ -456,8 +456,8 @@
       "frequency": 20,
       "unique_ayahs": 20,
       "rationale": "Keşf ve Kâşif (3 açık Mesânî ref! 6:17, 10:107, 27:62, 50:22 sıkıntıyı, örtüyü ve perdeyi kaldırıp açmak)",
-      "concept_label": "Analiz Bekliyor (ka$afa, kaA$if, ka$of, ka`$ifa`t)",
-      "is_locked": false,
+      "concept_label": "Keşf (Örtüyü ve Saran Zararı Sıyırıp Açmak)",
+      "is_locked": true,
       "sample_ayah": "6:17",
       "top_lemmas": [
         "ka$afa",
@@ -476,8 +476,8 @@
       "frequency": 16,
       "unique_ayahs": 16,
       "rationale": "İ'lân ve Alâniye (3 açık Mesânî ref! س-ر-ر [gizlemek] kökünün doğrudan zıddı: 2:77, 13:22, 14:31, 35:29 açığa vurmak)",
-      "concept_label": "Analiz Bekliyor (>aEolan, EalaAniyap)",
-      "is_locked": false,
+      "concept_label": "İlân ve Alâniyyet (Gizlilikten Çıkarıp Kamusal Açıklığa Koymak)",
+      "is_locked": true,
       "sample_ayah": "2:77",
       "top_lemmas": [
         ">aEolan",
@@ -494,8 +494,8 @@
       "frequency": 16,
       "unique_ayahs": 15,
       "rationale": "Cehr ve Cehreh (3 açık Mesânî ref! س-ر-ر ve خ-ف-ت zıddı: 6:3, 7:205, 17:110, 20:7, 67:13 sözü açıktan ve yüksek sesle söylemek)",
-      "concept_label": "Analiz Bekliyor (jahor, jahara, jahorap, jihaAr)",
-      "is_locked": false,
+      "concept_label": "Cehr ve Cihâr (Duyulara Yüksek ve Perdesiz Açıklıkla Ulaşmak)",
+      "is_locked": true,
       "sample_ayah": "2:55",
       "top_lemmas": [
         "jahor",
@@ -514,8 +514,8 @@
       "frequency": 10,
       "unique_ayahs": 10,
       "rationale": "İdâa (3 açık Mesânî ref! ح-ف-ظ zıddı: 3:195, 12:90, 18:30 yapılan güzel emeği zayi etmemek ve 19:59 salâtı zayi etmek)",
-      "concept_label": "Analiz Bekliyor (>aDaAEu)",
-      "is_locked": false,
+      "concept_label": "İdâa (Emeği, Hakkı veya Sorumluluğu İhmal Edip Boşa Çıkarmak)",
+      "is_locked": true,
       "sample_ayah": "2:143",
       "top_lemmas": [
         ">aDaAEu"
@@ -531,8 +531,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Bağdâ' (3 açık Mesânî ref! ح-ب-ب ve و-د-د zıddı: 3:118, 5:14, 5:64, 5:91, 60:4 taşan nefret ve düşmanlık)",
-      "concept_label": "Analiz Bekliyor (bagoDaA^')",
-      "is_locked": false,
+      "concept_label": "Bağdâ (Sevginin Zıddı Şiddetli Tiksinti ve Derin Nefret)",
+      "is_locked": true,
       "sample_ayah": "3:118",
       "top_lemmas": [
         "bagoDaA^'"
@@ -548,8 +548,8 @@
       "frequency": 13,
       "unique_ayahs": 12,
       "rationale": "Dîk ve Dayyik (2 Mesânî + 2 Furûk ref! و-س-ع ve ش-ر-ح zıddı: 6:125, 9:25, 9:118, 15:97 göğsün ve yeryüzünün daralması)",
-      "concept_label": "Analiz Bekliyor (DaAqa, Day~iq, Dayoq, DaA^}iq)",
-      "is_locked": false,
+      "concept_label": "Dîk ve Dayk (Genişliğin Zıddı Alan ve Göğüs Daralması)",
+      "is_locked": true,
       "sample_ayah": "6:125",
       "top_lemmas": [
         "DaAqa",

@@ -1,0 +1,465 @@
+{
+  "root": "ك-ش-ف",
+  "root_latin": "K-S-F (k$f)",
+  "concept_name": "Keşf (Örtüyü ve Saran Zararı Sıyırıp Açmak)",
+  "rank": 404,
+  "total_occurrences": 20,
+  "unique_ayahs_count": 20,
+  "unified_core_mechanism": "Bir şeyin üzerini örten giysi, perde veya boğucu kuşatmayı sıyırıp açmak (`سَرْوُ الشَّيْءِ عَنِ الشَّيْءِ`): (1) Somut ve mecazi örtünün sıyrılması — Belkıs'ın cam zemini su sanıp eteklerini sıyırması (`27:44`), ölüm/hesap anında gaflet perdesinin sıyrılıp görüşün keskinleşmesi (`50:22`) ve hesap gününde gerçeğin/şiddetin çırılçıplak açığa çıkması (`68:42`); (2) Kuşatan zararın ve azabın kaldırılması — Allah'tan başka kimsenin gideremeyeceği darlık, hastalık, kötülük ve cezanın insanın üzerinden sıyrılıp açılması (`6:17`, `6:41`, `7:134-135`, `10:12`, `10:98`, `10:107`, `16:54`, `17:56`, `21:84`, `23:75`, `27:62`, `39:38`, `43:50`, `44:12`, `44:15`) ve yaklaşan saatin önünü açıp durduracak başka bir gücün bulunmayışı (`53:58`).",
+  "physical_core": "Bir şeyin üzerini örten veya saran katmanı (giysiyi, perdeyi, kapağı) sıyırıp açarak altındakini çıplak biçimde ortaya çıkarmak ve bastıran yükü üzerinden kaldırmak (سَرْوُ الشَّيْءِ عَنِ الشَّيْءِ كَالثَّوْبِ وَرَفْعُ الْغِطَاءِ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 5, s. 181): Kökün tek sahih çekirdeğinin 'elbisenin bedenden sıyrılması gibi bir şeyi diğerinin üzerinden sıyırıp açmak (`سَرْوُ الشَّيْءِ عَنِ الشَّيْءِ كَالثَّوْبِ يُسْرَى عَنِ الْبَدَنِ`)' olduğunu açıklar.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `الْكَشْفُ` bir şeyi onu örten ve gizleyen katmandan sıyırıp kaldırmaktır (`رَفْعُكَ الشَّيْءَ عَمَّا يُوَارِيهِ وَيُغَطِّيهِ`); zarar ve sıkıntı da insanı tıpkı bir örtü ve kuşatma gibi sardığı için onun giderilmesine `كَشْفُ الضُّرِّ` denir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): Hem somut örtünün sıyrılmasını (`27:44` `وَكَشَفَتْ عَن سَاقَيْهَا`, `50:22` `فَكَشَفْنَا عَنكَ غِطَآءَكَ`, `68:42` `يَوْمَ يُكْشَفُ عَن سَاقٍ`), hem de insanın üzerine çöken zarar, sıkıntı ve azabın kaldırılmasını (`6:17`, `10:12`, `10:98`, `21:84`, `39:38`) ve yaklaşan saati durdurup açacak başka güç bulunmayışını (`53:58`) tek çekirdekte toplar.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in 'bedenden giysiyi sıyırır gibi saran katmanı kaldırmak' çekirdeği, Kur'an'da zararın ve cezanın kaldırılması için neden özellikle `ك-ش-ف` seçildiğini berraklaştırır: çünkü darlık, hastalık ve yıkım insanı çepeçevre saran boğucu bir örtü gibidir; Allah onu üzerinden sıyırıp açtığında ferahlık doğar (`6:17`, `21:84`, `27:62`), fakat son hesapta gaflet perdesi sıyrıldığında hakikat tüm çıplaklığıyla belirir (`50:22`, `68:42`)."
+  },
+  "semitic_cognates": {
+    "note": "Diğer Sami dillerinde düzenli ses yasalarıyla doğrulanmış doğrudan eşkökenli tespit edilmedi. İbranice `חָשַׂף` (`ḥāśap`, H2834: 'soymak/ortaya çıkarmak') anlamca yakın görünse de ilk kök ünsüzü `ח` (`ḥ`) Arapça `ك` (`k`) ile düzenli ses denkliği kurmadığından doğrudan eşkökenli sayılmaz."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ج-ن-ن [فَكَشَفْنَا عَنكَ غِطَآءَكَ ... جَنَّ عَلَيْهِ ٱلَّيْلُ] (Üzerini Örtüp Gizleyerek Görünmez Kılmak ↔ Örtüyü Sıyırıp Açarak Çıplak Biçimde Ortaya Çıkarmak: 6:76, 50:22, 68:42)",
+      "ض-ر-ر [وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ / فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ] (İnsanı Kuşatan Zarar ve Sıkıntı Darlığı ↔ O Kuşatıcı Zararı Üzerinden Sıyırıp Kaldırmak: 6:17, 10:12, 10:107, 16:54, 17:56, 21:84, 23:75, 39:38)",
+      "م-س-س [وَإِذَا مَسَّ ٱلْإِنسَٰنَ ٱلضُّرُّ ... فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ] (Zararın ve Sıkıntının Bedene/Hayata Dokunup Yapışması ↔ Dokunan O Sıkıntıyı Sıyırıp Gidermek: 6:17, 10:12, 10:107)",
+      "م-س-ك [هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ ... هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ] (Rahmeti Tutup Alıkoymak ↔ Zararı Açıp Kaldırmak: 39:38)"
+    ],
+    "key_ayahs": [
+      "6:17",
+      "10:12",
+      "10:107",
+      "21:84",
+      "39:38",
+      "50:22",
+      "68:42"
+    ],
+    "reverse_stress_test": "Özellikle `39:38`'deki iki paralel soru (`كَٰشِفَٰتُ ضُرِّهِۦ` ↔ `مُمْسِكَٰتُ رَحْمَتِهِۦ`) ile `6:17, 10:12, 10:107`'deki `مَسَّ بِضُرٍّ` ↔ `كَشَفَ ٱلضُّرَّ` eşleşmesi, kökün 'saran örtüyü veya yapışan zararı sıyırıp açma' mekaniğini tartışmasız kanıtlar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ح-و-ل (17:56 فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا — كَشْف zararı büsbütün sıyırıp ortadan kaldırmayı, تَحْوِيل ise onu bir başkasının üzerine veya başka bir yöne kaydırıp çevirmeyi ayırır)",
+      "غ-ط-و (50:22 فَكَشَفْنَا عَنكَ غِطَآءَكَ — غِطَآء insanın algısını kapatan örtünün kendisini, كَشَفْنَا ise o örtüyü sıyırıp kaldırma eylemini belirtir)"
+    ],
+    "mechanical_difference": "`17:56` zararı büsbütün sıyırıp yok etmek (`كَشْف`) ile yönünü değiştirip başka tarafa aktarmak (`تَحْوِيل`) arasındaki ince farkı tek cümlede keskinleştirir."
+  },
+  "anchor_ayahs": [
+    "6:17",
+    "10:12",
+    "10:98",
+    "17:56",
+    "21:84",
+    "27:44",
+    "27:62",
+    "39:38",
+    "50:22",
+    "53:58",
+    "68:42"
+  ],
+  "grammar_and_branch_rules": "14 Form I fiilin çoğu `عَنْ` ile geçerek örtünün/zararın tam olarak kişinin üzerinden sıyrıldığını gösterir. İsm-i fâiller (`كَاشِف`, `كَاشِفُونَ`, `كَٰشِفَٰت`, `كَاشِفَة`) `6:17`, `10:107`, `39:38`, `53:58`'de olumsuzluk veya reddedici soru içinde gelerek zararı açıp kaldırma kudretini yalnızca Allah'a hasreder.",
+  "derivatives": {
+    "كَشَفَ / يَكْشِفُ": "Örtüyü, perdeyi ya da insanı saran zarar ve sıkıntıyı üzerinden sıyırıp açmak (6:41, 10:12, 21:84, 27:44, 50:22, 68:42)",
+    "كَشْف": "Kuşatan zararı üzerinden sıyırıp giderme eylemi (17:56)",
+    "كَاشِف / كَاشِفُوا / كَاشِفَات / كَاشِفَة": "Saran zararı, cezayı veya yaklaşan sarsıntıyı açıp gidermeye gücü yeten (6:17, 10:107, 39:38, 44:15, 53:58)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 6,
+      "ayah": 17,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:17",
+      "word_position": 6,
+      "target_word_uthmani": "كَاشِفَ",
+      "target_word_rasm": "كاشف",
+      "target_word_literal_irab": "Zararı veya cezayı sıyırıp kaldırmaya muktedir olan (كَاشِفَ / كَاشِفُوا۟ — ism-i fâil)",
+      "context_snippet_arabic": "ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Allah sana bir zarar verirse o zararı, ondan başka açıp giderecek yoktur, sana bir hayır verirse zaten odur her şeye gücü yeten.",
+      "morphology": {
+        "lemma": "kaA$if",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:kaA$if|ROOT:k$f|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sana bir zarar verirse o zararı, ondan başka açıp giderecek yoktur, sana bir hayır verirse zaten odur her şeye gücü yeten.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 6,
+      "ayah": 41,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:41",
+      "word_position": 4,
+      "target_word_uthmani": "فَيَكْشِفُ",
+      "target_word_rasm": "فيكشف",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "Hayır; ancak onu çağırırsınız, o da dilerse duanızı kabul eder de uğradığınız belayı açıp giderir ve otoriteyi bölüşme ve ortak koşma koştuklarınızı unutur,...",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ka$afa|ROOT:k$f|3MS"
+      },
+      "ayah_text_arabic_full": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; ancak onu çağırırsınız, o da dilerse duanızı kabul eder de uğradığınız belayı açıp giderir ve otoriteyi bölüşme ve ortak koşma koştuklarınızı unutur, gidersiniz.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 7,
+      "ayah": 134,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:134",
+      "word_position": 14,
+      "target_word_uthmani": "كَشَفْتَ",
+      "target_word_rasm": "كشفت",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "عَهِدَ عِندَكَ لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ",
+      "context_snippet_turkish_tabula_rasa": "Azaba uğrayınca ya Musa diyorlardı; icabet edeceğine dair verdiği söze uyarak Rabbine dua et de bizden bu belayı defetsin, muhakkak sana güven duy ve...",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ",
+      "ayah_text_turkish_tabula_rasa_full": "Azaba uğrayınca ya Musa diyorlardı; icabet edeceğine dair verdiği söze uyarak Rabbine dua et de bizden bu belayı defetsin, muhakkak sana güven duy ve İsrailoğullarını seninle göndereceğiz.",
+      "contextual_meaning": "Toplumsal uyarı ve azabın kaldırılması: Yûnus kavminin içten dönüşüyle azabın kaldırılması (10:98); buna karşılık Firavun çevresi ve inatçı toplumların azap kaldırılınca sözlerinden dönmeleri (7:134-135, 43:50, 44:12, 44:15)."
+    },
+    {
+      "surah": 7,
+      "ayah": 135,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:135",
+      "word_position": 2,
+      "target_word_uthmani": "كَشَفْنَا",
+      "target_word_rasm": "كشفنا",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Uğrayacakları son belayadek üstlerine çöken musibeti giderdik mi derhal kesin andlarını bozuyorlardı.",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|1P"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Uğrayacakları son belayadek üstlerine çöken musibeti giderdik mi derhal kesin andlarını bozuyorlardı.",
+      "contextual_meaning": "Toplumsal uyarı ve azabın kaldırılması: Yûnus kavminin içten dönüşüyle azabın kaldırılması (10:98); buna karşılık Firavun çevresi ve inatçı toplumların azap kaldırılınca sözlerinden dönmeleri (7:134-135, 43:50, 44:12, 44:15)."
+    },
+    {
+      "surah": 10,
+      "ayah": 12,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:12",
+      "word_position": 12,
+      "target_word_uthmani": "كَشَفْنَا",
+      "target_word_rasm": "كشفنا",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "أَوْ قَآئِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ مَرَّ",
+      "context_snippet_turkish_tabula_rasa": "İnsana bir zarar gelince yanüstü yatarak, yahut oturduğu halde, yahut da ayakta dua eder bize; o zararı ondan giderdik mi sanki o zarara uğramamış da o yüzden...",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذَا مَسَّ ٱلْإِنسَٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوْ قَاعِدًا أَوْ قَآئِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ مَرَّ كَأَن لَّمْ يَدْعُنَآ إِلَىٰ ضُرٍّ مَّسَّهُۥ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsana bir zarar gelince yanüstü yatarak, yahut oturduğu halde, yahut da ayakta dua eder bize; o zararı ondan giderdik mi sanki o zarara uğramamış da o yüzden bize dua etmemiştir, öylece dönergider. İşte aşkın hareketlerde bulunanlara, yaptıkları işler, böylece hoş görünmededir.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 10,
+      "ayah": 98,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:98",
+      "word_position": 12,
+      "target_word_uthmani": "كَشَفْنَا",
+      "target_word_rasm": "كشفنا",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ",
+      "context_snippet_turkish_tabula_rasa": "güvene erip da güven duy fayda gören şehir halkı, ancak Yunus'un kavmidir. güven duy zaman, dünya yaşayışında onlardan zillet azabını giderdik ve bir zamanadek...",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|1P"
+      },
+      "ayah_text_arabic_full": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip da güven duy fayda gören şehir halkı, ancak Yunus'un kavmidir. güven duy zaman, dünya yaşayışında onlardan zillet azabını giderdik ve bir zamanadek faydalandırdık onları.",
+      "contextual_meaning": "Toplumsal uyarı ve azabın kaldırılması: Yûnus kavminin içten dönüşüyle azabın kaldırılması (10:98); buna karşılık Firavun çevresi ve inatçı toplumların azap kaldırılınca sözlerinden dönmeleri (7:134-135, 43:50, 44:12, 44:15)."
+    },
+    {
+      "surah": 10,
+      "ayah": 107,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:107",
+      "word_position": 6,
+      "target_word_uthmani": "كَاشِفَ",
+      "target_word_rasm": "كاشف",
+      "target_word_literal_irab": "Zararı veya cezayı sıyırıp kaldırmaya muktedir olan (كَاشِفَ / كَاشِفُوا۟ — ism-i fâil)",
+      "context_snippet_arabic": "ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, sana bir zarar verirse o zararı, ondan başka giderecek yoktur ve hayır etmek dilerse de ihsanını reddeden bulunmaz; bunu, kullarından dilediğine verir...",
+      "morphology": {
+        "lemma": "kaA$if",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:kaA$if|ROOT:k$f|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ وَإِن يُرِدْكَ بِخَيْرٍ فَلَا رَآدَّ لِفَضْلِهِۦ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, sana bir zarar verirse o zararı, ondan başka giderecek yoktur ve hayır etmek dilerse de ihsanını reddeden bulunmaz; bunu, kullarından dilediğine verir ve odur suçları örten rahim.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 16,
+      "ayah": 54,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:54",
+      "word_position": 3,
+      "target_word_uthmani": "كَشَفَ",
+      "target_word_rasm": "كشف",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمْ إِذَا",
+      "context_snippet_turkish_tabula_rasa": "Sonra da sizden o zararı defetti mi o vakit içinizden bir kısmı, Rablerine otoriteyi bölüşme ve ortak koşma koşar.",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra da sizden o zararı defetti mi o vakit içinizden bir kısmı, Rablerine otoriteyi bölüşme ve ortak koşma koşar.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 17,
+      "ayah": 56,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:56",
+      "word_position": 9,
+      "target_word_uthmani": "كَشْفَ",
+      "target_word_rasm": "كشف",
+      "target_word_literal_irab": "Kuşatan zararı üzerinden sıyırıp giderme eylemi (كَشْفَ — mastar, mansûb mef'ûl)",
+      "context_snippet_arabic": "دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "De ki: Allah'tan başka mabut sandıklarınızı çağırın, onlar, sizden ne bir zararı defedebilirler, ne onu çevirmeye güçleri yeter.",
+      "morphology": {
+        "lemma": "ka$of",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:ka$of|ROOT:k$f|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Allah'tan başka mabut sandıklarınızı çağırın, onlar, sizden ne bir zararı defedebilirler, ne onu çevirmeye güçleri yeter.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 21,
+      "ayah": 84,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:84",
+      "word_position": 3,
+      "target_word_uthmani": "فَكَشَفْنَا",
+      "target_word_rasm": "فكشفنا",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن",
+      "context_snippet_turkish_tabula_rasa": "Derken duasını kabul ettik de ne zarara uğradıysa giderdik ve katımızdan rahmet ve boyun eğme ve kulluk edenlere ibret olmak üzere ona ailesini ve onlarla...",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|1P"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ وَءَاتَيْنَٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَٰبِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken duasını kabul ettik de ne zarara uğradıysa giderdik ve katımızdan rahmet ve boyun eğme ve kulluk edenlere ibret olmak üzere ona ailesini ve onlarla beraber daha da bir mislini verdik.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 23,
+      "ayah": 75,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:75",
+      "word_position": 3,
+      "target_word_uthmani": "وَكَشَفْنَا",
+      "target_word_rasm": "وكشفنا",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "وَلَوْ رَحِمْنَٰهُمْ وَكَشَفْنَا مَا بِهِم مِّن",
+      "context_snippet_turkish_tabula_rasa": "Onlara acırsan ve uğradıkları zararı giderirsen gene azgınlıklarında şaşkıncasına ısrar edip giderler.",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|1P"
+      },
+      "ayah_text_arabic_full": "وَلَوْ رَحِمْنَٰهُمْ وَكَشَفْنَا مَا بِهِم مِّن ضُرٍّ لَّلَجُّوا۟ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara acırsan ve uğradıkları zararı giderirsen gene azgınlıklarında şaşkıncasına ısrar edip giderler.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 27,
+      "ayah": 44,
+      "surah_name": "Neml",
+      "ayah_ref": "27:44",
+      "word_position": 9,
+      "target_word_uthmani": "وَكَشَفَتْ",
+      "target_word_rasm": "وكشفت",
+      "target_word_literal_irab": "Örtüyü, giysiyi veya gaflet perdesini sıyırıp açmak (وَكَشَفَتْ / فَكَشَفْنَا / يُكْشَفُ — Form I fiil)",
+      "context_snippet_arabic": "رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Ona, saraya gir dendi. Billur döşemeyi görünce derin bir su sandı ve bacaklarını sıvadı. Süleyman, bu dedi, billur döşenmiş düz bir saha. Bunun üzerine o da...",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|3FS"
+      },
+      "ayah_text_arabic_full": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَٰنَ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona, saraya gir dendi. Billur döşemeyi görünce derin bir su sandı ve bacaklarını sıvadı. Süleyman, bu dedi, billur döşenmiş düz bir saha. Bunun üzerine o da Rabbim dedi, ben kendime zulmettim ve teslim oldum Süleyman'la beraber alemlerin Rabbi Allah'a.",
+      "contextual_meaning": "Örtünün sıyrılıp gerçeğin çırılçıplak açığa çıkması: Belkıs'ın cam zeminde eteklerini sıyırması (27:44), hesapta gaflet perdesinin kaldırılması (50:22), yaklaşan saatin önünü açacak başka güç bulunmayışı (53:58) ve işin ciddiyetle çırılçıplak ortaya döküldüğü gün (68:42)."
+    },
+    {
+      "surah": 27,
+      "ayah": 62,
+      "surah_name": "Neml",
+      "ayah_ref": "27:62",
+      "word_position": 6,
+      "target_word_uthmani": "وَيَكْشِفُ",
+      "target_word_rasm": "ويكشف",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa darda kalana, dua ettiği zaman icabet eden ve kötülüğü gideren ve sizi, yeryüzüne sahip kılan mı hayırlı? Allah'la beraber bir başka mabut var mı? Ne de...",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ka$afa|ROOT:k$f|3MS"
+      },
+      "ayah_text_arabic_full": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ أَءِلَٰهٌ مَّعَ ٱللَّهِ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa darda kalana, dua ettiği zaman icabet eden ve kötülüğü gideren ve sizi, yeryüzüne sahip kılan mı hayırlı? Allah'la beraber bir başka mabut var mı? Ne de az düşünmedesiniz.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 39,
+      "ayah": 38,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:38",
+      "word_position": 22,
+      "target_word_uthmani": "كَٰشِفَٰتُ",
+      "target_word_rasm": "كشفت",
+      "target_word_literal_irab": "Allah'ın dilediği zararı açıp giderebilecek güçler (كَٰشِفَٰتُ — cemi müennes ism-i fâil, merfû)",
+      "context_snippet_arabic": "بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki onlara, gökleri ve yeryüzünü kim yarattı diye sorsan elbette Allah derler. De ki: Gördünüz mü şu halde, onu bırakıp kimlere kulluk etmedesiniz?...",
+      "morphology": {
+        "lemma": "ka`$ifa`t",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:ka`$ifa`t|ROOT:k$f|FP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ قُلْ حَسْبِىَ ٱللَّهُ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki onlara, gökleri ve yeryüzünü kim yarattı diye sorsan elbette Allah derler. De ki: Gördünüz mü şu halde, onu bırakıp kimlere kulluk etmedesiniz? Allah, bana bir zarar vermek istese onun zararını giderebilir mi onlar, yahut bana rahmet etmek dilese rahmetini menedebilirler mi? De ki: Yeter bana Allah, ona dayansın dayananlar.",
+      "contextual_meaning": "Saran zararı ve darlığı gidermenin tek mercii: insanın başı sıkıştığında yakardığı ve zararını ancak Allah'ın sıyırıp kaldırabildiği gerçeği (6:17, 10:107, 17:56, 21:84, 27:62, 39:38) ile kurtulunca yüz çevirme nankörlüğü (10:12, 16:54, 23:75)."
+    },
+    {
+      "surah": 43,
+      "ayah": 50,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:50",
+      "word_position": 2,
+      "target_word_uthmani": "كَشَفْنَا",
+      "target_word_rasm": "كشفنا",
+      "target_word_literal_irab": "İnsanı kuşatan zararı, darlığı veya cezayı üzerinden sıyırıp açmak (كَشَفَ / كَشَفْنَا / يَكْشِفُ — Form I fiil)",
+      "context_snippet_arabic": "فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا",
+      "context_snippet_turkish_tabula_rasa": "Derken onlardan azabı kaldırdık mı sözlerinden döndüler.",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|1P"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken onlardan azabı kaldırdık mı sözlerinden döndüler.",
+      "contextual_meaning": "Toplumsal uyarı ve azabın kaldırılması: Yûnus kavminin içten dönüşüyle azabın kaldırılması (10:98); buna karşılık Firavun çevresi ve inatçı toplumların azap kaldırılınca sözlerinden dönmeleri (7:134-135, 43:50, 44:12, 44:15)."
+    },
+    {
+      "surah": 44,
+      "ayah": 12,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:12",
+      "word_position": 2,
+      "target_word_uthmani": "ٱكْشِفْ",
+      "target_word_rasm": "ٱكشف",
+      "target_word_literal_irab": "Üzerimizi saran sıkıntıyı/azabı bizden sıyırıp kaldır (ٱكْشِفْ — Form I emir)",
+      "context_snippet_arabic": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا",
+      "context_snippet_turkish_tabula_rasa": "Rabbimiz, bizden azabı, gider, şüphe yok ki güvene erdik biz.",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:ka$afa|ROOT:k$f|2MS"
+      },
+      "ayah_text_arabic_full": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbimiz, bizden azabı, gider, şüphe yok ki güvene erdik biz.",
+      "contextual_meaning": "Toplumsal uyarı ve azabın kaldırılması: Yûnus kavminin içten dönüşüyle azabın kaldırılması (10:98); buna karşılık Firavun çevresi ve inatçı toplumların azap kaldırılınca sözlerinden dönmeleri (7:134-135, 43:50, 44:12, 44:15)."
+    },
+    {
+      "surah": 44,
+      "ayah": 15,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:15",
+      "word_position": 2,
+      "target_word_uthmani": "كَاشِفُوا۟",
+      "target_word_rasm": "كاشفوا",
+      "target_word_literal_irab": "Zararı veya cezayı sıyırıp kaldırmaya muktedir olan (كَاشِفَ / كَاشِفُوا۟ — ism-i fâil)",
+      "context_snippet_arabic": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا إِنَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki birazcık gidereceğiz azabı, fakat gene şüphe yok ki gerçeğin üzerini örtmeye döneceksiniz.",
+      "morphology": {
+        "lemma": "kaA$if",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:kaA$if|ROOT:k$f|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا إِنَّكُمْ عَآئِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki birazcık gidereceğiz azabı, fakat gene şüphe yok ki gerçeğin üzerini örtmeye döneceksiniz.",
+      "contextual_meaning": "Toplumsal uyarı ve azabın kaldırılması: Yûnus kavminin içten dönüşüyle azabın kaldırılması (10:98); buna karşılık Firavun çevresi ve inatçı toplumların azap kaldırılınca sözlerinden dönmeleri (7:134-135, 43:50, 44:12, 44:15)."
+    },
+    {
+      "surah": 50,
+      "ayah": 22,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:22",
+      "word_position": 7,
+      "target_word_uthmani": "فَكَشَفْنَا",
+      "target_word_rasm": "فكشفنا",
+      "target_word_literal_irab": "Örtüyü, giysiyi veya gaflet perdesini sıyırıp açmak (وَكَشَفَتْ / فَكَشَفْنَا / يُكْشَفُ — Form I fiil)",
+      "context_snippet_arabic": "غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki gafletteydin bundan, derken perdeyi kaldırdık gözünden, artık gözün keskin bugün.",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:ka$afa|ROOT:k$f|1P"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki gafletteydin bundan, derken perdeyi kaldırdık gözünden, artık gözün keskin bugün.",
+      "contextual_meaning": "Örtünün sıyrılıp gerçeğin çırılçıplak açığa çıkması: Belkıs'ın cam zeminde eteklerini sıyırması (27:44), hesapta gaflet perdesinin kaldırılması (50:22), yaklaşan saatin önünü açacak başka güç bulunmayışı (53:58) ve işin ciddiyetle çırılçıplak ortaya döküldüğü gün (68:42)."
+    },
+    {
+      "surah": 53,
+      "ayah": 58,
+      "surah_name": "Necm",
+      "ayah_ref": "53:58",
+      "word_position": 6,
+      "target_word_uthmani": "كَاشِفَةٌ",
+      "target_word_rasm": "كاشفة",
+      "target_word_literal_irab": "Yaklaşan saati Allah'tan başka açıp kaldırabilecek herhangi bir güç (كَاشِفَةٌ — müennes ism-i fâil, merfû)",
+      "context_snippet_arabic": "مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'tan başkası, çeviremez onu geri.",
+      "morphology": {
+        "lemma": "kaA$ifap",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:kaA$ifap|ROOT:k$f|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'tan başkası, çeviremez onu geri.",
+      "contextual_meaning": "Örtünün sıyrılıp gerçeğin çırılçıplak açığa çıkması: Belkıs'ın cam zeminde eteklerini sıyırması (27:44), hesapta gaflet perdesinin kaldırılması (50:22), yaklaşan saatin önünü açacak başka güç bulunmayışı (53:58) ve işin ciddiyetle çırılçıplak ortaya döküldüğü gün (68:42)."
+    },
+    {
+      "surah": 68,
+      "ayah": 42,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:42",
+      "word_position": 2,
+      "target_word_uthmani": "يُكْشَفُ",
+      "target_word_rasm": "يكشف",
+      "target_word_literal_irab": "Örtüyü, giysiyi veya gaflet perdesini sıyırıp açmak (وَكَشَفَتْ / فَكَشَفْنَا / يُكْشَفُ — Form I fiil)",
+      "context_snippet_arabic": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "O gün, işler güçleşir ve boyun eğmeye davet edilirler, derken güçleri yetmez.",
+      "morphology": {
+        "lemma": "ka$afa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:ka$afa|ROOT:k$f|3MS"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, işler güçleşir ve boyun eğmeye davet edilirler, derken güçleri yetmez.",
+      "contextual_meaning": "Örtünün sıyrılıp gerçeğin çırılçıplak açığa çıkması: Belkıs'ın cam zeminde eteklerini sıyırması (27:44), hesapta gaflet perdesinin kaldırılması (50:22), yaklaşan saatin önünü açacak başka güç bulunmayışı (53:58) ve işin ciddiyetle çırılçıplak ortaya döküldüğü gün (68:42)."
+    }
+  ]
+}

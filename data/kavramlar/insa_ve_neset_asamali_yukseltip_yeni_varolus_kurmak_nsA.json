@@ -1,0 +1,629 @@
+{
+  "root": "ن-ش-أ",
+  "root_latin": "N-S-A (n$A)",
+  "concept_name": "İnşâ ve Neş'et (Aşamalı Yükseltip Yeni Bir Varoluş Kurmak)",
+  "rank": 321,
+  "total_occurrences": 28,
+  "unique_ayahs_count": 25,
+  "unified_core_mechanism": "Aşağıdan yukarıya doğru boy verip yükselmek, büyüyüp kabarmak ve aşamalı olarak yeni bir varoluş düzlemine çıkarmak (`ارْتِفَاعٌ وَسُمُوٌّ`): gökte ağır bulutları kabartıp yükseltmek (`13:12`), denizde dağlar gibi yükselen gemiler (`55:24`), gecenin yükselen vakti (`73:6`), toprağın bitki ve bahçelerini boy verdirmek (`6:141`, `56:72`), yıkılan nesillerin ardından yeni kuşaklar çıkarıp embriyoyu üst bir bilinç aşamasına yükseltmek (`6:6`, `23:14`) ve ilk yükseliş gibi ikinci yeni oluşumu kurmak (`29:20`, `53:47`, `56:61-62`).",
+  "physical_core": "Aşağıdan yukarıya doğru boy verip yükselmek, büyüyüp kabarmak ve aşamalı olarak yeni bir varoluş düzlemine çıkmak (الِارْتِفَاعُ وَالسُّمُوُّ وَالنُّمُوُّ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, نشأ): Kökün tek sahih çekirdeğinin 'bir şeydeki yükselme ve yücelme (`ارْتِفَاعٌ وَسُمُوٌّ`)' olduğunu belirtir; bulutun gökte yükselip kabarması (`النَّشْءُ`), çocuğun büyüyüp boy atması ve gemi yelkenlerinin dağlar gibi yükselmesi hep bu tek asıldandır.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `نَشَأَ الشَّيْءُ` bir şeyin yerden yükselip büyümeye başlaması, `أَنْشَأَ` ise başlatıp büyüterek yeni bir biçime ulaştırmaktır; `55:24` `ٱلْمُنشَـَٔاتُ` denizde yelkenleri/gövdeleri dağlar (`أَعْلَام`) gibi yükseltilmiş gemileri, `73:6` `نَاشِئَةَ ٱلَّيْلِ` ise gecenin kalkıp yükselen saatlerini anlatır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الْإِنْشَاءُ` bir şeyi icat edip büyütmek ve terbiye ederek olgunlaştırmaktır; insan, bitki, bulut ve ikinci diriliş (`ٱلنَّشْأَةَ ٱلْءَاخِرَةَ`) hep aşamalı yükseltip geliştirme sürecini taşır.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in 'yükselme ve boy verip gelişme (`ارْتِفَاعٌ وَسُمُوٌّ`)' çekirdeği, Kur'an'daki 28 geçişin tamamını kusursuzca birleştirir: ağır bulutların gökte kabarıp yükselmesi (`13:12`), denizde dağlar gibi yükselen gemiler (`55:24`), gecenin yükselen saatleri (`73:6`), ağaçların ve bahçelerin boy atması (`6:141`, `23:19`, `56:72`), nesillerin ve embriyonun bambaşka bir düzleme yükseltilmesi (`6:6`, `23:14`, `29:20`, `53:47`, `56:61-62`) ve süs içinde büyütülüp yetiştirilme (`43:18`)."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*naśaʾ- ('kaldırmak, yükseltmek, taşımak').",
+    "hebrew": "נָשָׂא (`nāśāʾ`, Strong H5375: 'kaldırmak, yükseltmek, yüklenmek' — Arapça `ش` ↔ İbranice `שׂ` düzenli Proto-Sami ses yasasıyla birebir eşkökenli).",
+    "geez": "ነሥአ (`näśʾä`: 'kaldırmak, almak').",
+    "akkadian": "našûm ('kaldırmak, yükseltmek, taşımak').",
+    "note": "Tüm Sami kollarında çekirdek anlamın 'yukarı kaldırmak / yükseltmek' olması, İbn Fâris'in `ارْتِفَاعٌ وَسُمُوٌّ` tespitini karşılaştırmalı Sami dilbilimi açısından %100 doğrular."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ه-ل-ك [فَأَهْلَكْنَٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ] (Tarih Sahnesinden Silip Yok Etmek ↔ Ardından Yeni Bir Nesli Yükseltip Boy Verdirmek: 6:6, 21:11, 23:31, 23:42)",
+      "ع-م-ر [هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا ... أَنشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ] (Topraktan Yeni Bir Varoluş Olarak Yükseltip Başlatmak ↔ O Varoluşu Yeryüzünde Uzun Ömür ve İmar Süreciyle Sürdürmek: 11:61, 28:45)",
+      "ج-ع-ل [قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ] (Bütüncül Varoluşu Aşamalı Yükseltip Kurmak ↔ Var Olanı Belirli Bir İşlev ve Düzenlemeyle Kılmak: 67:23)"
+    ],
+    "key_ayahs": [
+      "6:6",
+      "11:61",
+      "23:14",
+      "28:45",
+      "29:20",
+      "67:23"
+    ],
+    "reverse_stress_test": "`6:6` ve `23:31,42`'de eski nesillerin yıkımı (`ه-ل-ك`) ile yeni nesillerin yükseltilip çıkarılması (`ن-ش-أ`), `11:61`'de başlangıç yükselişi (`أَنشَأَكُم`) ile ömür/imar süreci (`ع-م-ر`) ve `67:23`'te bütün olarak var edip büyütme (`أَنشَأَكُمْ`) ile organlara işlev atama (`جَعَلَ`) eşleşmeleri, kökün 'yükseltip yeni bir aşamaya çıkarma' mekaniğini eksiksiz doğrular."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "خ-ل-ق (23:14 خَلَقْنَا ٱلنُّطْفَةَ ... ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ — خ-ل-ق ölçülü biçimlendirme ve biyolojik evreleri düzenlemeyi, أَنشَأَ ise bu evrelerin sonunda onu bambaşka, daha üstün bir varoluş düzeyine yükseltip çıkarmayı ayırır)",
+      "ب-د-أ (29:20 كَيْفَ بَدَأَ ٱلْخَلْقَ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْءَاخِرَةَ — ب-د-أ ilk başlangıç kıvılcımını, ن-ش-أ ise ikinci aşamada bambaşka bir düzlemde yükseltip kurmayı belirtir)",
+      "ج-ع-ل (67:23 أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ — أَنشَأَ varlığın kendisini boy verdirip kurmayı, جَعَلَ ise o varlığa işlevsel yetiler tahsis etmeyi ayırır)"
+    ],
+    "mechanical_difference": "`23:14` en berrak Furûk çıpasıdır: embriyonun dört fiziksel basamağı `خَلَقْنَا` ile sayılırken, bilinçli insan düzlemine sıçrayış `ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ` ('sonra onu bambaşka bir oluşum olarak yükselttik') ifadesiyle ayrılır."
+  },
+  "anchor_ayahs": [
+    "6:6",
+    "11:61",
+    "13:12",
+    "23:14",
+    "29:20",
+    "55:24",
+    "56:62",
+    "73:6"
+  ],
+  "grammar_and_branch_rules": "Form IV (`أَنشَأَ`, 20 geçiş) daima Allah'ın yeni bir nesil, bitki, bulut, duyu organı veya ahiret oluşumu yükseltip kurmasını bildirir; Form II edilgen (`يُنَشَّؤُا۟`, `43:18`) süs içinde büyütülüp yetiştirilmeyi; `نَشْأَة` (3 geçiş) ilk ve ikinci büyük varoluş aşamasını; `ٱلْمُنشَـَٔاتُ` (`55:24`) yüksek yelkenli/gövdeli gemileri; `نَاشِئَةَ ٱلَّيْلِ` (`73:6`) ise gecenin yükselip derinleşen saatlerini kodlar.",
+  "derivatives": {
+    "أَنشَأَ / يُنشِئُ": "Aşamalı olarak yükseltip boy verdirmek, yeni bir varoluş veya nesil meydana getirmek (6:6, 13:12, 23:14, 29:20)",
+    "يُنَشَّؤُا۟": "Süs ve konfor içinde büyütülüp yetiştirilmek (43:18)",
+    "نَشْأَة": "Bütüncül varoluş yükselişi ve yeniden kuruluş aşaması (29:20, 53:47, 56:62)",
+    "إِنشَآء": "Özgün ve yeni bir oluşum hâlinde yükseltip kurma (56:35)",
+    "مُنشِـُٔونَ": "Ağacı ve yaşamı yerden yükseltip boy verdirenler (56:72)",
+    "ٱلْمُنشَـَٔاتُ": "Denizde yelkenleri ve gövdeleri dağlar gibi yükseltilmiş gemiler (55:24)",
+    "نَاشِئَةَ ٱلَّيْلِ": "Gecenin yükselip yoğunlaşan kalkış vakitleri (73:6)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 6,
+      "ayah": 6,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:6",
+      "word_position": 27,
+      "target_word_uthmani": "وَأَنشَأْنَا",
+      "target_word_rasm": "وأنشأنا",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "تَحْتِهِمْ فَأَهْلَكْنَٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا",
+      "context_snippet_turkish_tabula_rasa": "Görmediler mi onlardan önce nice nesilleri helak ettik ki onlara, yeryüzünde size vermediğimiz imkanları, kudretleri vermiş, onları yeryüzüne yerleştirmiştik,...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|1P"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنَّٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا ٱلْأَنْهَٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmediler mi onlardan önce nice nesilleri helak ettik ki onlara, yeryüzünde size vermediğimiz imkanları, kudretleri vermiş, onları yeryüzüne yerleştirmiştik, üstlerine bolbol yağmur yağdırmıştık, ayaklarını bastıkları yerlerden ırmaklar akıtmıştık, fakat sonra suçları yüzünden helak ettik onları ve onlardan sonra da başka başka nesiller meydana getirdik.",
+      "contextual_meaning": "Zulüm yüzünden tarih sahnesinden silinen kuşakların ardından Allah'ın yeni toplulukları ve nesilleri yükseltip çıkarması."
+    },
+    {
+      "surah": 6,
+      "ayah": 98,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:98",
+      "word_position": 3,
+      "target_word_uthmani": "أَنشَأَكُم",
+      "target_word_rasm": "أنشأكم",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "وَهُوَ ٱلَّذِىٓ أَنشَأَكُم مِّن نَّفْسٍ وَٰحِدَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Sizi bir tek kişiden meydana getirmiştir de size bir eğlenecek yurt, bir de eğreti olarak kalınacak yer tayin etmiştir. Anlayan topluluğa delillerimizi açıkça...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَكُم مِّن نَّفْسٍ وَٰحِدَةٍ فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ قَدْ فَصَّلْنَا ٱلْءَايَٰتِ لِقَوْمٍ يَفْقَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi bir tek kişiden meydana getirmiştir de size bir eğlenecek yurt, bir de eğreti olarak kalınacak yer tayin etmiştir. Anlayan topluluğa delillerimizi açıkça bildirmedeyiz.",
+      "contextual_meaning": "İnsanın tek bir özden ve topraktan aşamalı olarak yükseltilmesi, embriyonun üst bir bilinç aşamasına geçirilmesi (23:14) ve işitme, görme, gönül yetilerinin kurulması."
+    },
+    {
+      "surah": 6,
+      "ayah": 133,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:133",
+      "word_position": 14,
+      "target_word_uthmani": "أَنشَأَكُم",
+      "target_word_rasm": "أنشأكم",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin, her şeyden müstağni ve rahmet sahibi Rab'dir. Dilerse sizi ortadan kaldırır ve sizden sonra dilediğini yerinize getirir, nitekim sizi de başkabaşka...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin, her şeyden müstağni ve rahmet sahibi Rab'dir. Dilerse sizi ortadan kaldırır ve sizden sonra dilediğini yerinize getirir, nitekim sizi de başkabaşka toplulukların soyundan meydana getirmiştir.",
+      "contextual_meaning": "Zulüm yüzünden tarih sahnesinden silinen kuşakların ardından Allah'ın yeni toplulukları ve nesilleri yükseltip çıkarması."
+    },
+    {
+      "surah": 6,
+      "ayah": 141,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:141",
+      "word_position": 3,
+      "target_word_uthmani": "أَنشَأَ",
+      "target_word_rasm": "أنشأ",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki çardaklı ve çardaksız bağları, bahçeleri, tatları çeşitli hurmaları, ekilmiş şeyleri, bir bakıma birbirine benzeyen, bir bakıma benzemeyen...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ مَعْرُوشَٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki çardaklı ve çardaksız bağları, bahçeleri, tatları çeşitli hurmaları, ekilmiş şeyleri, bir bakıma birbirine benzeyen, bir bakıma benzemeyen zeytinleri ve narları yetiştirip meydana getirir. Meyve verince meyvelerinden yiyin, devşirme günü hakkını da israf etmemek şartıyla verin, şüphe yok ki o, müsrifleri sevmez.",
+      "contextual_meaning": "Doğa ve evren ayetlerinde fiziksel yükseliş: çardaklı bahçelerin, ağaçların (6:141, 23:19, 56:72), ağır yağmur bulutlarının (13:12) ve denizde dağlar gibi yükselen gemilerin (55:24) inşası."
+    },
+    {
+      "surah": 11,
+      "ayah": 61,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:61",
+      "word_position": 15,
+      "target_word_uthmani": "أَنشَأَكُم",
+      "target_word_rasm": "أنشأكم",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "إِلَٰهٍ غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Semud kavmine de kardeşleri Salih'i göndermiştik. Ey kavmim demişti, Allah'a kulluk edin, ondan başka bir mabudunuz yok. Sizi yeryüzünden yaratıp meydana...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud kavmine de kardeşleri Salih'i göndermiştik. Ey kavmim demişti, Allah'a kulluk edin, ondan başka bir mabudunuz yok. Sizi yeryüzünden yaratıp meydana getirdi ve orayı imara memur etti sizi; artık ondan yarlıganma dileyin, sonra da tövbe edin ona. Şüphe yok ki Rabbim, yakındır, duaları kabul eder.",
+      "contextual_meaning": "İnsanın tek bir özden ve topraktan aşamalı olarak yükseltilmesi, embriyonun üst bir bilinç aşamasına geçirilmesi (23:14) ve işitme, görme, gönül yetilerinin kurulması."
+    },
+    {
+      "surah": 13,
+      "ayah": 12,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:12",
+      "word_position": 7,
+      "target_word_uthmani": "وَيُنشِئُ",
+      "target_word_rasm": "وينشئ",
+      "target_word_literal_irab": "Ağır bulutları gökte kabartıp yükseltir (وَيُنشِئُ — Form IV muzârî merfû)",
+      "context_snippet_arabic": "ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir sığınak merciidir ki sizi korkutan ve umduran şimşeği o çaktırır ve yağmurla dolu ağır bulutları o meydana getirir.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir sığınak merciidir ki sizi korkutan ve umduran şimşeği o çaktırır ve yağmurla dolu ağır bulutları o meydana getirir.",
+      "contextual_meaning": "Doğa ve evren ayetlerinde fiziksel yükseliş: çardaklı bahçelerin, ağaçların (6:141, 23:19, 56:72), ağır yağmur bulutlarının (13:12) ve denizde dağlar gibi yükselen gemilerin (55:24) inşası."
+    },
+    {
+      "surah": 21,
+      "ayah": 11,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:11",
+      "word_position": 7,
+      "target_word_uthmani": "وَأَنشَأْنَا",
+      "target_word_rasm": "وأنشأنا",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنشَأْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Zulmeden nice şehirleri helak ettik de ondan sonra diğer toplulukları yarattık.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|1P"
+      },
+      "ayah_text_arabic_full": "وَكَمْ قَصَمْنَا مِن قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنشَأْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zulmeden nice şehirleri helak ettik de ondan sonra diğer toplulukları yarattık.",
+      "contextual_meaning": "Zulüm yüzünden tarih sahnesinden silinen kuşakların ardından Allah'ın yeni toplulukları ve nesilleri yükseltip çıkarması."
+    },
+    {
+      "surah": 23,
+      "ayah": 14,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:14",
+      "word_position": 15,
+      "target_word_uthmani": "أَنشَأْنَٰهُ",
+      "target_word_rasm": "أنشأنه",
+      "target_word_literal_irab": "Sonra onu bambaşka bir oluşum düzeyine yükselttik (أَنشَأْنَٰهُ — Form IV mâzî)",
+      "context_snippet_arabic": "ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra o bir katre suyu kan pıhtısı haline getirdik, derken kan pıhtısını bir parça et haline soktuk, derken ette kemikler yarattık, derken kemiklere et...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|1P"
+      },
+      "ayah_text_arabic_full": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَٰلِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra o bir katre suyu kan pıhtısı haline getirdik, derken kan pıhtısını bir parça et haline soktuk, derken ette kemikler yarattık, derken kemiklere et giydirdik, sonra da onu başka bir yaratılışla meydana getirdik; ne yücedir şanı yaratıcıların en güzeli Allah'ın.",
+      "contextual_meaning": "İnsanın tek bir özden ve topraktan aşamalı olarak yükseltilmesi, embriyonun üst bir bilinç aşamasına geçirilmesi (23:14) ve işitme, görme, gönül yetilerinin kurulması."
+    },
+    {
+      "surah": 23,
+      "ayah": 19,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:19",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَنشَأْنَا",
+      "target_word_rasm": "فأنشأنا",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "فَأَنشَأْنَا لَكُم بِهِۦ جَنَّٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Onunla da size hurmalıklar ve üzüm bağları meydana getirdik, oralarda sizin için birçok meyvelar var, onlardan yemedesiniz.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|1P"
+      },
+      "ayah_text_arabic_full": "فَأَنشَأْنَا لَكُم بِهِۦ جَنَّٰتٍ مِّن نَّخِيلٍ وَأَعْنَٰبٍ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onunla da size hurmalıklar ve üzüm bağları meydana getirdik, oralarda sizin için birçok meyvelar var, onlardan yemedesiniz.",
+      "contextual_meaning": "Doğa ve evren ayetlerinde fiziksel yükseliş: çardaklı bahçelerin, ağaçların (6:141, 23:19, 56:72), ağır yağmur bulutlarının (13:12) ve denizde dağlar gibi yükselen gemilerin (55:24) inşası."
+    },
+    {
+      "surah": 23,
+      "ayah": 31,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:31",
+      "word_position": 2,
+      "target_word_uthmani": "أَنشَأْنَا",
+      "target_word_rasm": "أنشأنا",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا",
+      "context_snippet_turkish_tabula_rasa": "Sonra onların ardından, başka bir nesil meydana getirdik.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|1P"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra onların ardından, başka bir nesil meydana getirdik.",
+      "contextual_meaning": "Zulüm yüzünden tarih sahnesinden silinen kuşakların ardından Allah'ın yeni toplulukları ve nesilleri yükseltip çıkarması."
+    },
+    {
+      "surah": 23,
+      "ayah": 42,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:42",
+      "word_position": 2,
+      "target_word_uthmani": "أَنشَأْنَا",
+      "target_word_rasm": "أنشأنا",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا",
+      "context_snippet_turkish_tabula_rasa": "Sonra onların ardından, başka bir nesil meydana getirdik.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|1P"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra onların ardından, başka bir nesil meydana getirdik.",
+      "contextual_meaning": "Zulüm yüzünden tarih sahnesinden silinen kuşakların ardından Allah'ın yeni toplulukları ve nesilleri yükseltip çıkarması."
+    },
+    {
+      "surah": 23,
+      "ayah": 78,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:78",
+      "word_position": 3,
+      "target_word_uthmani": "أَنشَأَ",
+      "target_word_rasm": "أنشأ",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ",
+      "context_snippet_turkish_tabula_rasa": "Ve o, bir mabuttur ki size kulak, gözler ve kalpler verdi ne de az nimetin değerini bilip açığa vuruyorsunuz.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve o, bir mabuttur ki size kulak, gözler ve kalpler verdi ne de az nimetin değerini bilip açığa vuruyorsunuz.",
+      "contextual_meaning": "İnsanın tek bir özden ve topraktan aşamalı olarak yükseltilmesi, embriyonun üst bir bilinç aşamasına geçirilmesi (23:14) ve işitme, görme, gönül yetilerinin kurulması."
+    },
+    {
+      "surah": 28,
+      "ayah": 45,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:45",
+      "word_position": 2,
+      "target_word_uthmani": "أَنشَأْنَا",
+      "target_word_rasm": "أنشأنا",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "وَلَٰكِنَّآ أَنشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ",
+      "context_snippet_turkish_tabula_rasa": "Fakat biz, Musa'dan sonra da nice nesiller meydana getirdik de ömürleri uzayıp gitti onların ve sen, Medyen halkı içinde oturup ayetlerimizi onlardan okumak...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|1P"
+      },
+      "ayah_text_arabic_full": "وَلَٰكِنَّآ أَنشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ وَمَا كُنتَ ثَاوِيًا فِىٓ أَهْلِ مَدْيَنَ تَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat biz, Musa'dan sonra da nice nesiller meydana getirdik de ömürleri uzayıp gitti onların ve sen, Medyen halkı içinde oturup ayetlerimizi onlardan okumak suretiyle de bellemedin, fakat biziz onları gönderen.",
+      "contextual_meaning": "Zulüm yüzünden tarih sahnesinden silinen kuşakların ardından Allah'ın yeni toplulukları ve nesilleri yükseltip çıkarması."
+    },
+    {
+      "surah": 29,
+      "ayah": 20,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:20",
+      "word_position": 11,
+      "target_word_uthmani": "يُنشِئُ",
+      "target_word_rasm": "ينشئ",
+      "target_word_literal_irab": "İkinci ve yeni bir varoluş düzleminde yükseltip kurar (يُنشِئُ / وَنُنشِئَكُمْ — Form IV muzârî)",
+      "context_snippet_arabic": "ٱلْخَلْقَ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْءَاخِرَةَ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Yeryüzünü gezin de bakıp görün, nasıl yaratmaya başlamıştır; sonra Allah ahiret yaşayışını da meydana getirecektir; şüphe yok ki Allah'ın her şeye gücü...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ بَدَأَ ٱلْخَلْقَ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْءَاخِرَةَ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Yeryüzünü gezin de bakıp görün, nasıl yaratmaya başlamıştır; sonra Allah ahiret yaşayışını da meydana getirecektir; şüphe yok ki Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "İlk varoluş yükselişini (ٱلنَّشْأَةَ ٱلْأُولَىٰ) gerçekleştiren Allah'ın, ahirette insanı bilmediği bambaşka bir düzlemde yeniden yükseltip kurması (ٱلنَّشْأَةَ ٱلْءَاخِرَةَ)."
+    },
+    {
+      "surah": 29,
+      "ayah": 20,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:20",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلنَّشْأَةَ",
+      "target_word_rasm": "ٱلنشأة",
+      "target_word_literal_irab": "İlk veya ikinci bütüncül varoluş yükselişi (ٱلنَّشْأَةَ — isim/mastar, mansûb)",
+      "context_snippet_arabic": "ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْءَاخِرَةَ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Yeryüzünü gezin de bakıp görün, nasıl yaratmaya başlamıştır; sonra Allah ahiret yaşayışını da meydana getirecektir; şüphe yok ki Allah'ın her şeye gücü...",
+      "morphology": {
+        "lemma": "n~a$o>ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:n~a$o>ap|ROOT:n$A|F|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ بَدَأَ ٱلْخَلْقَ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْءَاخِرَةَ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Yeryüzünü gezin de bakıp görün, nasıl yaratmaya başlamıştır; sonra Allah ahiret yaşayışını da meydana getirecektir; şüphe yok ki Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "İlk varoluş yükselişini (ٱلنَّشْأَةَ ٱلْأُولَىٰ) gerçekleştiren Allah'ın, ahirette insanı bilmediği bambaşka bir düzlemde yeniden yükseltip kurması (ٱلنَّشْأَةَ ٱلْءَاخِرَةَ)."
+    },
+    {
+      "surah": 36,
+      "ayah": 79,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:79",
+      "word_position": 4,
+      "target_word_uthmani": "أَنشَأَهَآ",
+      "target_word_rasm": "أنشأها",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ وَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Onu ilk defa yapıp meydana getiren diriltir ve o, her çeşit yaratmayı bilir.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Onu ilk defa yapıp meydana getiren diriltir ve o, her çeşit yaratmayı bilir.",
+      "contextual_meaning": "İlk varoluş yükselişini (ٱلنَّشْأَةَ ٱلْأُولَىٰ) gerçekleştiren Allah'ın, ahirette insanı bilmediği bambaşka bir düzlemde yeniden yükseltip kurması (ٱلنَّشْأَةَ ٱلْءَاخِرَةَ)."
+    },
+    {
+      "surah": 43,
+      "ayah": 18,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:18",
+      "word_position": 2,
+      "target_word_uthmani": "يُنَشَّؤُا۟",
+      "target_word_rasm": "ينشؤا",
+      "target_word_literal_irab": "Süs ve konfor içinde büyütülüp yetiştirilen (يُنَشَّؤُا۟ — Form II muzârî meçhul)",
+      "context_snippet_arabic": "أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, süslenip bezenerek yetişen ve münakaşada, düşmanlıkta, apaçık bir delil bile getiremeyen, istediğini söyliyemeyen bir mahluku mabuda mı nispet ediyorlar?",
+      "morphology": {
+        "lemma": "yuna$~a&uA@",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(II)|LEM:yuna$~a&uA@|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, süslenip bezenerek yetişen ve münakaşada, düşmanlıkta, apaçık bir delil bile getiremeyen, istediğini söyliyemeyen bir mahluku mabuda mı nispet ediyorlar?",
+      "contextual_meaning": "Süs içinde yetiştirilip büyütülme tasviri (يُنَشَّؤُا۟ - 43:18) ve gecenin yükselip derinleşen saatlerinin bilinç ve söz sağlamlığı üzerindeki etkisi (نَاشِئَةَ ٱلَّيْلِ - 73:6)."
+    },
+    {
+      "surah": 53,
+      "ayah": 32,
+      "surah_name": "Necm",
+      "ayah_ref": "53:32",
+      "word_position": 16,
+      "target_word_uthmani": "أَنشَأَكُم",
+      "target_word_rasm": "أنشأكم",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ",
+      "context_snippet_turkish_tabula_rasa": "Israr etmemek şartıyle küçük sapma ve kusurlardan başka suçların büyüklerinden ve çirkin şeylerden sakınanlara gelince: Şüphe yok ki Rabbinin yarlıgaması pek...",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَٰتِكُمْ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Israr etmemek şartıyle küçük sapma ve kusurlardan başka suçların büyüklerinden ve çirkin şeylerden sakınanlara gelince: Şüphe yok ki Rabbinin yarlıgaması pek geniştir. O, sizi yeryüzünden yaratıp meydana getirdiği zaman ve siz, analarınızın karnında birer dölken de bilir; artık siz, kendinizi temize çıkarmaya kalkışmayın, o, kim çekinmededir, daha iyi bilir.",
+      "contextual_meaning": "İnsanın tek bir özden ve topraktan aşamalı olarak yükseltilmesi, embriyonun üst bir bilinç aşamasına geçirilmesi (23:14) ve işitme, görme, gönül yetilerinin kurulması."
+    },
+    {
+      "surah": 53,
+      "ayah": 47,
+      "surah_name": "Necm",
+      "ayah_ref": "53:47",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلنَّشْأَةَ",
+      "target_word_rasm": "ٱلنشأة",
+      "target_word_literal_irab": "İlk veya ikinci bütüncül varoluş yükselişi (ٱلنَّشْأَةَ — isim/mastar, mansûb)",
+      "context_snippet_arabic": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ve şüphe yok ki ikinci defa yaratış da ona aittir.",
+      "morphology": {
+        "lemma": "n~a$o>ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:n~a$o>ap|ROOT:n$A|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şüphe yok ki ikinci defa yaratış da ona aittir.",
+      "contextual_meaning": "İlk varoluş yükselişini (ٱلنَّشْأَةَ ٱلْأُولَىٰ) gerçekleştiren Allah'ın, ahirette insanı bilmediği bambaşka bir düzlemde yeniden yükseltip kurması (ٱلنَّشْأَةَ ٱلْءَاخِرَةَ)."
+    },
+    {
+      "surah": 55,
+      "ayah": 24,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:24",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْمُنشَـَٔاتُ",
+      "target_word_rasm": "ٱلمنشـات",
+      "target_word_literal_irab": "Denizde yelkenleri/gövdeleri dağlar gibi yükseltilmiş gemiler (ٱلْمُنشَـَٔاتُ — Form IV ism-i mef'ûl, merfû sıfat)",
+      "context_snippet_arabic": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ",
+      "context_snippet_turkish_tabula_rasa": "Ve onundur denizde akıp giden dağlar gibi gemiler.",
+      "morphology": {
+        "lemma": "mun$a_#aAt",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(IV)|LEM:mun$a_#aAt|ROOT:n$A|FP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onundur denizde akıp giden dağlar gibi gemiler.",
+      "contextual_meaning": "Doğa ve evren ayetlerinde fiziksel yükseliş: çardaklı bahçelerin, ağaçların (6:141, 23:19, 56:72), ağır yağmur bulutlarının (13:12) ve denizde dağlar gibi yükselen gemilerin (55:24) inşası."
+    },
+    {
+      "surah": 56,
+      "ayah": 35,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:35",
+      "word_position": 2,
+      "target_word_uthmani": "أَنشَأْنَٰهُنَّ",
+      "target_word_rasm": "أنشأنهن",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءً",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki biz, onların eşlerini de yeniden yarattık.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءً",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki biz, onların eşlerini de yeniden yarattık.",
+      "contextual_meaning": "İlk varoluş yükselişini (ٱلنَّشْأَةَ ٱلْأُولَىٰ) gerçekleştiren Allah'ın, ahirette insanı bilmediği bambaşka bir düzlemde yeniden yükseltip kurması (ٱلنَّشْأَةَ ٱلْءَاخِرَةَ)."
+    },
+    {
+      "surah": 56,
+      "ayah": 35,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:35",
+      "word_position": 3,
+      "target_word_uthmani": "إِنشَآءً",
+      "target_word_rasm": "إنشاء",
+      "target_word_literal_irab": "Özgün ve yeni bir kuruluşla yükseltip meydana getirme (إِنشَآءً — Form IV mastar, mef'ûl-i mutlak)",
+      "context_snippet_arabic": "إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءً",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki biz, onların eşlerini de yeniden yarattık.",
+      "morphology": {
+        "lemma": "<in$aA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<in$aA^'|ROOT:n$A|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءً",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki biz, onların eşlerini de yeniden yarattık.",
+      "contextual_meaning": "İlk varoluş yükselişini (ٱلنَّشْأَةَ ٱلْأُولَىٰ) gerçekleştiren Allah'ın, ahirette insanı bilmediği bambaşka bir düzlemde yeniden yükseltip kurması (ٱلنَّشْأَةَ ٱلْءَاخِرَةَ)."
+    },
+    {
+      "surah": 56,
+      "ayah": 61,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:61",
+      "word_position": 5,
+      "target_word_uthmani": "وَنُنشِئَكُمْ",
+      "target_word_rasm": "وننشئكم",
+      "target_word_literal_irab": "İkinci ve yeni bir varoluş düzleminde yükseltip kurar (يُنشِئُ / وَنُنشِئَكُمْ — Form IV muzârî)",
+      "context_snippet_arabic": "أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا",
+      "context_snippet_turkish_tabula_rasa": "Sizin gibi bir topluluk yaratıp yerinize geçirmek istersek ve sizi de, bilmediğiniz bir şekle döndürmeyi dilersek.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an$a>a|ROOT:n$A|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizin gibi bir topluluk yaratıp yerinize geçirmek istersek ve sizi de, bilmediğiniz bir şekle döndürmeyi dilersek.",
+      "contextual_meaning": "İlk varoluş yükselişini (ٱلنَّشْأَةَ ٱلْأُولَىٰ) gerçekleştiren Allah'ın, ahirette insanı bilmediği bambaşka bir düzlemde yeniden yükseltip kurması (ٱلنَّشْأَةَ ٱلْءَاخِرَةَ)."
+    },
+    {
+      "surah": 56,
+      "ayah": 62,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:62",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلنَّشْأَةَ",
+      "target_word_rasm": "ٱلنشأة",
+      "target_word_literal_irab": "İlk veya ikinci bütüncül varoluş yükselişi (ٱلنَّشْأَةَ — isim/mastar, mansûb)",
+      "context_snippet_arabic": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki ilk yaratılışı biliyorsunuz, biliyorsunuz da ne diye düşünmüyorsunuz?",
+      "morphology": {
+        "lemma": "n~a$o>ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:n~a$o>ap|ROOT:n$A|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki ilk yaratılışı biliyorsunuz, biliyorsunuz da ne diye düşünmüyorsunuz?",
+      "contextual_meaning": "İlk varoluş yükselişini (ٱلنَّشْأَةَ ٱلْأُولَىٰ) gerçekleştiren Allah'ın, ahirette insanı bilmediği bambaşka bir düzlemde yeniden yükseltip kurması (ٱلنَّشْأَةَ ٱلْءَاخِرَةَ)."
+    },
+    {
+      "surah": 56,
+      "ayah": 72,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:72",
+      "word_position": 2,
+      "target_word_uthmani": "أَنشَأْتُمْ",
+      "target_word_rasm": "أنشأتم",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ",
+      "context_snippet_turkish_tabula_rasa": "Siz mi onun ağacını meydana getiriyorsunuz, yoksa biz mi meydana getirmedeyiz?",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|2MP"
+      },
+      "ayah_text_arabic_full": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz mi onun ağacını meydana getiriyorsunuz, yoksa biz mi meydana getirmedeyiz?",
+      "contextual_meaning": "Doğa ve evren ayetlerinde fiziksel yükseliş: çardaklı bahçelerin, ağaçların (6:141, 23:19, 56:72), ağır yağmur bulutlarının (13:12) ve denizde dağlar gibi yükselen gemilerin (55:24) inşası."
+    },
+    {
+      "surah": 56,
+      "ayah": 72,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:72",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمُنشِـُٔونَ",
+      "target_word_rasm": "ٱلمنشـون",
+      "target_word_literal_irab": "Ağacı ve yaşamı yerden yükseltip boy verdirenler (ٱلْمُنشِـُٔونَ — Form IV ism-i fâil, merfû cemi)",
+      "context_snippet_arabic": "شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "context_snippet_turkish_tabula_rasa": "Siz mi onun ağacını meydana getiriyorsunuz, yoksa biz mi meydana getirmedeyiz?",
+      "morphology": {
+        "lemma": "mun$i_#uwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun$i_#uwn|ROOT:n$A|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz mi onun ağacını meydana getiriyorsunuz, yoksa biz mi meydana getirmedeyiz?",
+      "contextual_meaning": "Doğa ve evren ayetlerinde fiziksel yükseliş: çardaklı bahçelerin, ağaçların (6:141, 23:19, 56:72), ağır yağmur bulutlarının (13:12) ve denizde dağlar gibi yükselen gemilerin (55:24) inşası."
+    },
+    {
+      "surah": 67,
+      "ayah": 23,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:23",
+      "word_position": 4,
+      "target_word_uthmani": "أَنشَأَكُمْ",
+      "target_word_rasm": "أنشأكم",
+      "target_word_literal_irab": "Yerden, tek özden veya eski nesillerin ardından yeni bir varlık/kuşak yükseltip meydana getirdi (أَنشَأَ / أَنشَأْنَا — Form IV mâzî)",
+      "context_snippet_arabic": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ",
+      "context_snippet_turkish_tabula_rasa": "O, öyle bir mabuttur ki sizi meydana getirmiştir ve sizin için kulak ve gözler ve gönüller halketmiştir, ne de az nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": ">an$a>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an$a>a|ROOT:n$A|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, öyle bir mabuttur ki sizi meydana getirmiştir ve sizin için kulak ve gözler ve gönüller halketmiştir, ne de az nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "İnsanın tek bir özden ve topraktan aşamalı olarak yükseltilmesi, embriyonun üst bir bilinç aşamasına geçirilmesi (23:14) ve işitme, görme, gönül yetilerinin kurulması."
+    },
+    {
+      "surah": 73,
+      "ayah": 6,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:6",
+      "word_position": 2,
+      "target_word_uthmani": "نَاشِئَةَ",
+      "target_word_rasm": "ناشئة",
+      "target_word_literal_irab": "Gecenin yükselip yoğunlaşan kalkış vakti (نَاشِئَةَ ٱلَّيْلِ — ism-i fâil, mansûb muzâf)",
+      "context_snippet_arabic": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki geceleyin kalkmak, pek meşakkatlidir, fakat boyun eğme ve kulluk için de gece, pek uygun.",
+      "morphology": {
+        "lemma": "naA$i}ap",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:naA$i}ap|ROOT:n$A|F|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki geceleyin kalkmak, pek meşakkatlidir, fakat boyun eğme ve kulluk için de gece, pek uygun.",
+      "contextual_meaning": "Süs içinde yetiştirilip büyütülme tasviri (يُنَشَّؤُا۟ - 43:18) ve gecenin yükselip derinleşen saatlerinin bilinç ve söz sağlamlığı üzerindeki etkisi (نَاشِئَةَ ٱلَّيْلِ - 73:6)."
+    }
+  ]
+}
