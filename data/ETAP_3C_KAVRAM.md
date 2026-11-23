@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 352 mühürlü kökten (`%83,08`) sonra, meal aşamasına geçmeden önce ceza-aile-ibadet hukuku düğümlerini, kısa sure kilitlerini ve en yüksek açık Mesânî referanslarını kapatan **48 kritik kök** (714 geçiş) mühürlenerek toplam sözlük **400 kilitli köke (`%84,51` kümülatif kapsam)** ulaştırılır.
-> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 20 / 48 Kök (Toplam Mühürlü: 372 Kök | Güncel Kapsam: %83,62)
+> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 30 / 48 Kök (Toplam Mühürlü: 382 Kök | Güncel Kapsam: %83,93)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -27,16 +27,16 @@
 | 18 | Aile ve Mahremiyet | 551 | `ر-ض-ع` | `R-D-A` | **11** | 6 | 2:233 | Radâa ve İrdâ (Anne Sütüyle Emzirme, Anne Emeğinin Ücreti ve Süt Akrabalığı) | ✅ **MÜHÜRLÜ** |
 | 19 | Aile ve Mahremiyet | 322 | `ش-ق-ق` | `S-K-K` | **28** | 25 | 2:74 | Şakk ve Şikâk (Bütünü Ortadan Yarıp Çatlatmak, Ayrı Cepheye Bölünmek ve Yıpratıcı Zahmet) | ✅ **MÜHÜRLÜ** |
 | 20 | Aile ve Mahremiyet | 579 | `ك-ف-ل` | `K-F-L` | **10** | 10 | 3:37 | Kefâlet ve Kifl (Koruyucu Bakım Üstlenmek, Ahitte Güvence Olmak ve Eşdeğer Sorumluluk/Rahmet Payı) | ✅ **MÜHÜRLÜ** |
-| 21 | İbadet ve Teoloji | 858 | `غ-س-ل` | `G-S-L` | **4** | 4 | 4:43 | Gasl (5:6 abdest yıkama ayeti, 4:43 boy abdesti, 38:42 soğuk yıkanma suyu ve 69:36 gıslîn) | ⏳ *Bekliyor* |
-| 22 | İbadet ve Teoloji | 859 | `م-س-ح` | `M-S-H` | **4** | 3 | 4:43 | Mesh (5:6 başı ve ayakları sıvazlama, 4:43 teyemmüm ve 38:33 Süleymân'ın atlarını sıvazlaması) | ⏳ *Bekliyor* |
-| 23 | İbadet ve Teoloji | 511 | `ر-ه-ب` | `R-H-B` | **12** | 12 | 2:40 | Rahb ve Ruhbâniyye (57:27 sonradan uydurulan ruhbanlık, 9:31 rahipler, 8:60 terör değil caydırıcılık) | ⏳ *Bekliyor* |
-| 24 | İbadet ve Teoloji | 839 | `ب-د-ع` | `B-D-A` | **4** | 4 | 2:117 | Bedî' ve İbtidâ' (2:117 benzersiz yaratış, 46:9 ilk elçi değilim, 57:27 ruhbanlık bid'ati) | ⏳ *Bekliyor* |
-| 25 | İbadet ve Teoloji | 221 | `ي-س-ر` | `Y-S-R` | **44** | 40 | 2:185 | Yüsr ve Meysir (94:5-6 kolaylık, 54:17 Kur'an'ın kolaylığı + 2:219/5:90 emeksiz kolay kazanç/kumar!) | ⏳ *Bekliyor* |
-| 26 | İbadet ve Teoloji | 288 | `ن-ص-ب` | `N-S-B` | **32** | 29 | 2:202 | Nasîb, Ensâb ve Nasab (5:3,90 dikili put taşları, hak/miras payı ve 94:7 yeni işe dikilip emek verme) | ⏳ *Bekliyor* |
-| 27 | İbadet ve Teoloji | 336 | `و-ز-ر` | `W-Z-R` | **27** | 14 | 6:31 | Vizr ve Vezîr (kimsenin başkasının yükünü taşımaması yasası, 20:29 yük ortağı yardımcı, 47:4 savaş yükü) | ⏳ *Bekliyor* |
-| 28 | İbadet ve Teoloji | 674 | `س-ك-ر` | `S-K-R` | **7** | 6 | 4:43 | Sekr ve Seker (4:43 zihin bulanıkken salâta yaklaşmama, 15:15 göz bağlanması, 16:67 hurma/üzüm ürünü) | ⏳ *Bekliyor* |
-| 29 | İbadet ve Teoloji | 559 | `ق-ص-ر` | `K-S-R` | **11** | 11 | 4:101 | Kasr ve Maksûrât (4:101 tehlikede salâtı kısaltma, 55:72 maksûrât eşler ve sağlam köşkler) | ⏳ *Bekliyor* |
-| 30 | İbadet ve Teoloji | 597 | `ذ-ب-ح` | `Z-B-H` | **9** | 9 | 2:49 | Zebh (37:102-107 İbrâhîm'in rüyası ve insan kurbanını reddeden büyük fidye, 2:67-71 inek kesimi) | ⏳ *Bekliyor* |
+| 21 | İbadet ve Teoloji | 858 | `غ-س-ل` | `G-S-L` | **4** | 4 | 4:43 | Gasl ve İğtisâl (Su Akıtarak Yıkayıp Arınmak, Şifalı Serin Su ve Yara Yıkıntısı Gislîn) | ✅ **MÜHÜRLÜ** |
+| 22 | İbadet ve Teoloji | 859 | `م-س-ح` | `M-S-H` | **4** | 3 | 4:43 | Mesh (Eli Yüzeyde Yumuşakça Gezdirip Sürmek — Temizlikte El Sürme ve Atları Özenle Sıvazlama) | ✅ **MÜHÜRLÜ** |
+| 23 | İbadet ve Teoloji | 511 | `ر-ه-ب` | `R-H-B` | **12** | 12 | 2:40 | Rehb, İrhâb ve Ruhbâniyye (Yalnızca Allah'tan Saygılı Çekinme, Meşru Savunma Caydırıcılığı ve Beşerî Ruhbanlık) | ✅ **MÜHÜRLÜ** |
+| 24 | İbadet ve Teoloji | 839 | `ب-د-ع` | `B-D-A` | **4** | 4 | 2:117 | Bedî ve İbtidâ (Ön Örneği Olmaksızın İlk Kez Ortaya Çıkarmak — İlahi Eşsiz Yaratış ve Beşerî İcat) | ✅ **MÜHÜRLÜ** |
+| 25 | İbadet ve Teoloji | 221 | `ي-س-ر` | `Y-S-R` | **44** | 40 | 2:185 | Yüsr, Teysîr ve Meysir (Engellerin Kalkıp Kolaylaşması, Kur'an'ın Anlaşılırlığı ve Emeksiz Kazanç Kumarı) | ✅ **MÜHÜRLÜ** |
+| 26 | İbadet ve Teoloji | 288 | `ن-ص-ب` | `N-S-B` | **32** | 29 | 2:202 | Nasb, Nasîb ve Nusub (Dimdik Dikmek: Sabitlenmiş Hak Payı, Dikili Sunak Taşları ve Yoğun Çaba/Yorgunluk) | ✅ **MÜHÜRLÜ** |
+| 27 | İbadet ve Teoloji | 336 | `و-ز-ر` | `W-Z-R` | **27** | 14 | 6:31 | Vizr, Vezîr ve Vezer (Sırtı Büken Ağır Yük, Bireysel Sorumluluk Yasası, Yük Paylaşan Yardımcı ve Sığınak) | ✅ **MÜHÜRLÜ** |
+| 28 | İbadet ve Teoloji | 674 | `س-ك-ر` | `S-K-R` | **7** | 6 | 4:43 | Sekr ve Sekre (Bakışın ve Bilincin Önünün Tıkanıp Sersemlemesi — Bilinç Berraklığı Yasası) | ✅ **MÜHÜRLÜ** |
+| 29 | İbadet ve Teoloji | 559 | `ق-ص-ر` | `K-S-R` | **11** | 11 | 4:101 | Kasr ve Taksîr (Sınır Çekerek Kısaltmak, Geri Durmak, Bakışı Odaklamak ve Surlu Köşk/Saray) | ✅ **MÜHÜRLÜ** |
+| 30 | İbadet ve Teoloji | 597 | `ذ-ب-ح` | `Z-B-H` | **9** | 9 | 2:49 | Zebh ve Tezbîh (Boğazı Yarıp Kesmek: Firavun Katliamı, Sunak Yasağı ve İnsan Canının Kurtarılması) | ✅ **MÜHÜRLÜ** |
 | 31 | Zihin, Etik ve Mesânî | 466 | `ح-ر-ج` | `H-R-C` | **15** | 11 | 4:65 | Harac (22:78, 5:6, 4:65, 33:37-38 dinde darlık ve baskı yokluğu ilkesi — göğsün daralması çıpası) | ⏳ *Bekliyor* |
 | 32 | Zihin, Etik ve Mesânî | 637 | `ب-ه-ت` | `B-H-T` | **8** | 8 | 2:258 | Bühtân (2:258 şaşırıp donakalma somut çıpası + masumu şoke eden ağır iftira — İfk/Zûr/Kezib Furûku) | ⏳ *Bekliyor* |
 | 33 | Kısa Sure ve Ritüel | 1323 | `ن-ج-س` | `N-C-S` | **1** | 1 | 9:28 | Necs (9:28 tek geçiş: bedensel/ırksal değil, ortak koşmadan doğan inançsal-ahlaki kirlilik) | ⏳ *Bekliyor* |

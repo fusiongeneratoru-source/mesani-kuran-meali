@@ -26576,5 +26576,729 @@
       }
     ],
     "context_default": "Koruyucu bakım üstlenmek, kefil/güvence olmak ve eşdeğer sorumluluk veya rahmet payı (ك-ف-ل)."
+  },
+  "غ-س-ل": {
+    "buckwalter": "gsl",
+    "slug": "gasl_ve_igtisal_su_akitarak_yikayip_arinmak_ve_gislin_gsl",
+    "concept_name": "Gasl ve İğtisâl (Su Akıtarak Yıkayıp Arınmak, Şifalı Serin Su ve Yara Yıkıntısı Gislîn)",
+    "keywords": [
+      "yıkamak",
+      "arınmak",
+      "gusül",
+      "serin yıkanma suyu",
+      "gislîn",
+      "suyla temizlik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{gosilu",
+        "label": "Uzuvların suyla yıkanması: Salâta kalkıldığında yüzleri ve dirseklere kadar elleri su akıtarak yıkamak (فَٱغْسِلُوا۟ — Bab I fiil: 5:6)"
+      },
+      {
+        "lemma": "tagotasilu",
+        "label": "Tam beden yıkanması: Cünüplük hâlinden sonra bütün bedeni suyla yıkayıp arınmak (حَتَّىٰ تَغْتَسِلُوا۟ — Bab VIII fiil: 4:43)"
+      },
+      {
+        "lemma": "mugotasal",
+        "label": "Şifalı serin yıkanma suyu: Eyyûb'un hastalığına şifa olarak çıkarılan serin yıkanma kaynağı (مُغْتَسَلٌۢ بَارِدٌ — Bab VIII isim: 38:42)"
+      },
+      {
+        "lemma": "gisoliyn",
+        "label": "Kirli yara yıkıntısı sıvısı: Azap yurdunda yıkanan yaralardan sızan kirli/irinli sıvı dışında besin bulunmaması (مِنْ غِسْلِينٍ — isim: 69:36)"
+      }
+    ],
+    "irab_default": "Su akıtarak yıkayıp temizlemek (غ-س-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:43",
+          "5:6"
+        ],
+        "text": "Salât öncesi temizlik: yüz ve ellerin suyla yıkanması (غ-س-ل) ile tam beden yıkanması (ٱغْتِسَال) ve bunların el sürme (م-س-ح) ile sınırı."
+      },
+      {
+        "ayahs": [
+          "38:42",
+          "69:36"
+        ],
+        "text": "Şifalı serin yıkanma suyu (مُغْتَسَل) ile azap yurdundaki kirli yara yıkıntısı sıvısı (غِسْلِين) karşıtlığı."
+      }
+    ],
+    "context_default": "Su akıtarak bedeni ve uzuvları yıkayıp arındırmak (غ-س-ل)."
+  },
+  "م-س-ح": {
+    "buckwalter": "msH",
+    "slug": "mesh_eli_yuzeyde_yayarak_gezdirmek_surmek_ve_sivazlamak_msh",
+    "concept_name": "Mesh (Eli Yüzeyde Yumuşakça Gezdirip Sürmek — Temizlikte El Sürme ve Atları Özenle Sıvazlama)",
+    "keywords": [
+      "mesh",
+      "el sürmek",
+      "sıvazlamak",
+      "okşamak",
+      "teyemmüm",
+      "Süleymanın atları"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{mosaHu",
+        "ayahs": [
+          "5:6"
+        ],
+        "label": "Salât temizliğinde ve teyemmümde el gezdirme: Yüz ve elleri yıkadıktan sonra başa (ve ayaklara) ıslak el sürmek; su yoksa temiz toprakla yüz ve ellere hafifçe el sürmek (وَٱمْسَحُوا۟ / فَٱمْسَحُوا۟ — Bab I fiil)"
+      },
+      {
+        "lemma": "{mosaHu",
+        "ayahs": [
+          "4:43"
+        ],
+        "label": "Su bulunmadığında kolaylık: Temiz toprağa yönelip elleri yüzlere ve ellere hafifçe sürmek (فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ — Bab I fiil)"
+      },
+      {
+        "lemma": "masoH",
+        "label": "Özenli sıvazlama ve okşama çıpası: Süleymân'ın atları kesmesi değil, bacaklarını ve boyunlarını eliyle sevgiyle sıvazlayıp ilgilenmesi (فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ — Bab I mastar: 38:33)"
+      }
+    ],
+    "irab_default": "Eli bir yüzeyin üzerinde yayarak yumuşakça gezdirmek, sürmek ve sıvazlamak (م-س-ح kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:43",
+          "5:6"
+        ],
+        "text": "Temizlikte ve su yokluğunda (teyemmüm) su akıtma (غ-س-ل) yerine elin başa, yüzlere ve ellere yumuşakça sürülmesi."
+      },
+      {
+        "ayahs": [
+          "38:33"
+        ],
+        "text": "Süleymân kıssası: atların bacaklarını ve boyunlarını kesmek değil, eliyle sıvazlayıp okşayarak özenle bakmak (مَسْحًۢا)."
+      }
+    ],
+    "context_default": "Eli bir yüzeyin üzerinde yumuşakça gezdirmek, sürmek ve sıvazlamak (م-س-ح)."
+  },
+  "ر-ه-ب": {
+    "buckwalter": "rhb",
+    "slug": "rehb_ve_irhab_saygili_cekinme_mesru_caydiricilik_ve_ruhbanlik_rhb",
+    "concept_name": "Rehb, İrhâb ve Ruhbâniyye (Yalnızca Allah'tan Saygılı Çekinme, Meşru Savunma Caydırıcılığı ve Beşerî Ruhbanlık)",
+    "keywords": [
+      "saygılı çekinme",
+      "caydırıcılık",
+      "savunma hazırlığı",
+      "ruhbanlık",
+      "keşişler",
+      "umut ve çekinme dengesi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yarohabu",
+        "label": "Yalnızca Allah'tan saygılı çekinme: Başka sahte otoritelere değil yalnızca bir olan Allah'a karşı sorumluluk bilinciyle ürperip çekinmek (فَٱرْهَبُونِ / يَرْهَبُونَ — Bab I fiil: 2:40, 7:154, 16:51)"
+      },
+      {
+        "lemma": "turohibu",
+        "label": "Barışı koruyan meşru savunma caydırıcılığı: Saldırgan düşmanı savaşa kalkışmaktan caydırıp geri püskürtmek (تُرْهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمْ — Bab IV fiil: 8:60)"
+      },
+      {
+        "lemma": "{sotarohabu",
+        "label": "Göz boyamayla korkutma: Firavun'un büyücülerinin illüzyonla halkı dehşete sürüklemesi (وَٱسْتَرْهَبُوهُمْ — Bab X fiil: 7:116)"
+      },
+      {
+        "lemma": "rahab",
+        "label": "Umutla dengelenen saygılı çekinme: Allah'a umutla (رَغَب) ve derin çekinmeyle (رَهَب) yakarmak (رَغَبًا وَرَهَبًا — isim: 21:90)"
+      },
+      {
+        "lemma": "r~ahob",
+        "label": "İnsani ürperti: Mûsâ'nın olağanüstü kanıt karşısındaki ilk korku ve ürpertisini gidermesi (مِنَ ٱلرَّهْبِ — isim: 28:32)"
+      },
+      {
+        "lemma": "rahobap",
+        "label": "İçsel caydırıcı korku: İkiyüzlülerin yüreklerinde duyduğu şiddetli korku (أَشَدُّ رَهْبَةً — isim: 59:13)"
+      },
+      {
+        "lemma": "ruhoba`n",
+        "label": "Keşişler ve rahipler: Alçakgönüllü ve kibirlenmeyenler (5:82) ile rab edinilip halkın malını sömüren ruhban sınıfı (9:31, 9:34) (رُهْبَان — isim çoğul)"
+      },
+      {
+        "lemma": "rahobaAniy~ap",
+        "label": "Beşerî ruhbanlık icadı: Allah'ın farz kılmadığı hâlde insanların kendiliklerinden uydurduğu dünyadan kopuk ruhbanlık kurumu (وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا — isim: 57:27)"
+      }
+    ],
+    "irab_default": "Sakınma doğuran derin saygılı çekinme, meşru caydırıcılık veya ruhbanlık (ر-ه-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:40",
+          "7:154",
+          "16:51",
+          "21:90"
+        ],
+        "text": "Yalnızca Allah'a yönelik saygılı çekinme (رَهَب): umut (رَغَب) ile dengelenen tevhid duyarlılığı."
+      },
+      {
+        "ayahs": [
+          "7:116",
+          "8:60",
+          "28:32",
+          "59:13"
+        ],
+        "text": "Caydırıcılık ve korku: meşru savunma gücüyle saldırganı caydırma (8:60), büyücülerin korkutması, Mûsâ'nın ürpertisi ve yüreklerdeki korku."
+      },
+      {
+        "ayahs": [
+          "5:82",
+          "9:31",
+          "9:34",
+          "57:27"
+        ],
+        "text": "Keşişler (رُهْبَان) ve Allah'ın yazmadığı beşerî icat ruhbanlık (رَهْبَانِيَّة): alçakgönüllülük övgüsü ile otorite ve sömürü eleştirisi."
+      }
+    ],
+    "context_default": "Saygılı çekinme, meşru caydırıcılık ve ruhbanlık (ر-ه-ب)."
+  },
+  "ب-د-ع": {
+    "buckwalter": "bdE",
+    "slug": "bedi_ve_ibtida_orneksiz_ilk_kez_var_etmek_ve_beseri_icat_bde",
+    "concept_name": "Bedî ve İbtidâ (Ön Örneği Olmaksızın İlk Kez Ortaya Çıkarmak — İlahi Eşsiz Yaratış ve Beşerî İcat)",
+    "keywords": [
+      "örneksiz yaratmak",
+      "bedî",
+      "elçilik sürekliliği",
+      "icat etmek",
+      "uydurma kurum",
+      "ruhbanlık"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "badiyE",
+        "label": "Örneksiz eşsiz yaratıcı: Gökleri ve yeri önceden hiçbir model olmaksızın ilk kez var eden Allah (بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ — sıfat-isim: 2:117, 6:101)"
+      },
+      {
+        "lemma": "bidoE",
+        "label": "Elçilik zincirinde süreklilik: Önceki elçilerden kopuk, daha önce benzeri görülmemiş ilk/türedi biri olmama (مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ — isim: 46:9)"
+      },
+      {
+        "lemma": "{botadaEu",
+        "label": "Vahiy dışı beşerî icat: Allah'ın üzerlerine yazmadığı ruhbanlık kurumunu kendiliklerinden uydurup ortaya çıkarmak (وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا — Bab VIII fiil: 57:27)"
+      }
+    ],
+    "irab_default": "Önceden hiçbir örneği olmaksızın ilk kez ortaya çıkarmak (ب-د-ع kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:117",
+          "6:101"
+        ],
+        "text": "İlahi eşsiz yaratış (بَدِيع): gökleri ve yeri hiçbir ön kalıp olmaksızın ilk kez var eden mutlak yaratıcı."
+      },
+      {
+        "ayahs": [
+          "46:9",
+          "57:27"
+        ],
+        "text": "Vahiy sürekliliği ve beşerî icat ayrımı: elçilerin ilki/türedisi olmama (بِدْع) ile Allah'ın yazmadığı ruhbanlığı icat etme (ٱبْتَدَعُوهَا)."
+      }
+    ],
+    "context_default": "Ön örneği olmaksızın ilk kez ortaya çıkarmak (ب-د-ع)."
+  },
+  "ي-س-ر": {
+    "buckwalter": "ysr",
+    "slug": "yusr_teysir_ve_meysir_engellerin_kalkip_kolaylasmasi_ve_emeksiz_kazanc_kumari_ysr",
+    "concept_name": "Yüsr, Teysîr ve Meysir (Engellerin Kalkıp Kolaylaşması, Kur'an'ın Anlaşılırlığı ve Emeksiz Kazanç Kumarı)",
+    "keywords": [
+      "kolaylık",
+      "yüsr",
+      "Kur'an'ın anlaşılırlığı",
+      "ödeme genişliği",
+      "yumuşak söz",
+      "kumar",
+      "meysir"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yusor",
+        "label": "Anayasal kolaylık ve ferahlık: Allah'ın zorluk değil kolaylık dilemesi, her zorluğun beraberinde açılan kolaylık ve denizde kolayca akıp giden gemiler (ٱلْيُسْرَ / يُسْرًا — isim: 2:185, 18:88, 51:3, 65:4, 65:7, 94:5, 94:6)"
+      },
+      {
+        "lemma": "yas~ara",
+        "ayahs": [
+          "19:97",
+          "44:58",
+          "54:17",
+          "54:22",
+          "54:32",
+          "54:40"
+        ],
+        "label": "Kur'an'ın öğüt ve bilinç için kolaylaştırılması: Vahyin seçkin tekellere değil her düşünen insana açık ve anlaşılır kılınması (يَسَّرْنَٰهُ / يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ — Bab II fiil)"
+      },
+      {
+        "lemma": "yas~ara",
+        "label": "İşin, yolun ve seçilen yönün kolaylaştırılması: Mûsâ'nın işinin açılması (20:26), insanın yolunun kolaylaştırılması (80:20, 87:8) ve seçimine göre kolay veya çetin yola elverişli kılınması (92:7, 92:10) (يَسِّرْ / يَسَّرَهُۥ / نُيَسِّرُ — Bab II fiil)"
+      },
+      {
+        "lemma": "tayas~ara",
+        "label": "Güç ölçüsünde okuma kolaylığı: Kişinin şartlarına göre Kur'an'dan kolayına geldiği kadarını okuması (مَا تَيَسَّرَ — Bab V fiil: 73:20 [2x])"
+      },
+      {
+        "lemma": "{sotayosara",
+        "label": "İmkân ölçüsünde kolayca bulunabilen paylaşım: Zorlama olmadan kolayca temin edilen adak/hediye (مَا ٱسْتَيْسَرَ — Bab X fiil: 2:196 [2x])"
+      },
+      {
+        "lemma": "mayosarap",
+        "label": "Borçluya ödeme genişliği süresi: Darlık içindeki borçluya ekonomik ferahlığa kavuşuncaya dek mühlet tanımak (إِلَىٰ مَيْسَرَةٍ — isim: 2:280)"
+      },
+      {
+        "lemma": "m~ayosuwr",
+        "label": "Yumuşak ve gönül alıcı söz: Yardım imkânı olmadığında dahi ihtiyaç sahibine kırıcı olmayan kolaylaştırıcı güzel söz söylemek (قَوْلًا مَّيْسُورًا — ism-i mef'ûl: 17:28)"
+      },
+      {
+        "lemma": "yusoraY`",
+        "label": "En kolay ve ferah yol: Doğruluk ve paylaşımın açtığı huzurlu kolaylık yolu (لِلْيُسْرَىٰ — isim: 87:8, 92:7)"
+      },
+      {
+        "lemma": "yasiyr",
+        "label": "Allah için son derece kolay olan, hafif ölçü ve kolay hesap: Evreni kayıt/dirilişin Allah'a kolaylığı (10x), hafif/az ölçü ve dürüstlerin kolay hesabı (84:8) (يَسِيرٌ / يَسِيرًا / يَسِيرٍ — sıfat/isim)"
+      },
+      {
+        "lemma": "mayosir",
+        "label": "Emeksiz kolay kazanç kumarı (ٱلْمَيْسِر): Üretim ve emek olmadan şans çekilişiyle başkasının malını kapmaya dayalı, düşmanlık ve kin eken kumar yasağı (ٱلْمَيْسِر — isim: 2:219, 5:90, 5:91)"
+      }
+    ],
+    "irab_default": "Engellerin kalkıp açılması, hafifleme ve kolaylık (ي-س-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:185",
+          "2:196",
+          "18:88",
+          "20:26",
+          "65:4",
+          "65:7",
+          "73:20",
+          "80:20",
+          "87:8",
+          "92:7",
+          "92:10",
+          "94:5",
+          "94:6"
+        ],
+        "text": "İlahi kolaylık anayasası: zorluğun beraberinde kolaylık açılması, yükümlülüklerde güç ölçüsünde esneklik ve insanın seçimine göre yolun elverişli kılınması."
+      },
+      {
+        "ayahs": [
+          "19:97",
+          "44:58",
+          "54:17",
+          "54:22",
+          "54:32",
+          "54:40"
+        ],
+        "text": "Kur'an'ın anlaşılırlık manifestosu: vahyin öğüt ve bilinç çıkarmak için herkesçe anlaşılabilir biçimde kolaylaştırılması."
+      },
+      {
+        "ayahs": [
+          "2:280",
+          "4:30",
+          "4:169",
+          "12:65",
+          "17:28",
+          "22:70",
+          "25:46",
+          "29:19",
+          "33:14",
+          "33:19",
+          "33:30",
+          "35:11",
+          "50:44",
+          "51:3",
+          "57:22",
+          "64:7",
+          "74:10",
+          "84:8"
+        ],
+        "text": "Ekonomik ferahlık süresi, yumuşak söz, her şeyin Allah'a son derece kolay olması ve kolay hesap."
+      },
+      {
+        "ayahs": [
+          "2:219",
+          "5:90",
+          "5:91"
+        ],
+        "text": "Yozlaşmış kolaycılık — emeksiz kumar (ٱلْمَيْسِر) yasağı: alın teri olmadan şansla kazanç kapma düzeninin kin ve düşmanlık üretmesi."
+      }
+    ],
+    "context_default": "Engellerin kalkıp açılması, kolaylık ve anlaşılırlık (ي-س-ر; yozlaşmış kolay kazanç kumarı ٱلْمَيْسِر)."
+  },
+  "ن-ص-ب": {
+    "buckwalter": "nSb",
+    "slug": "nasb_nesib_ve_nusub_dimdik_dikmek_sabit_pay_sunak_taslari_ve_yogun_caba_nsb",
+    "concept_name": "Nasb, Nasîb ve Nusub (Dimdik Dikmek: Sabitlenmiş Hak Payı, Dikili Sunak Taşları ve Yoğun Çaba/Yorgunluk)",
+    "keywords": [
+      "nasîb",
+      "hak payı",
+      "dikili taş sunaklar",
+      "dağların dikilmesi",
+      "sürekli çaba",
+      "yorgunluk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nuSibato",
+        "ayahs": [
+          "88:19"
+        ],
+        "label": "Dağların dikilmesi doğa çıpası: Dağların yeryüzüne nasıl dimdik dikilip sabitlendiğine bakmak (كَيْفَ نُصِبَتْ — Bab I edilgen fiil)"
+      },
+      {
+        "lemma": "nuSibato",
+        "ayahs": [
+          "94:7"
+        ],
+        "label": "Sürekli üretken çaba buyruğu: Bir sorumluluğu tamamlayınca gevşemeyip hemen doğrulup yeni bir emeğe koyulmak (فَإِذَا فَرَغْتَ فَٱنصَبْ — Bab I emir fiil)"
+      },
+      {
+        "lemma": "naSiyb",
+        "label": "Sabitlenip ayrılmış hak ve kazanç payı: Kadın ve erkeğin miras/emek payı, dünya ve ahiret payı, iyi aracılık ve Kitap payı (نَصِيبٌ / نَصِيبًا / نَصِيبُهُم — isim: 21 geçiş)"
+      },
+      {
+        "lemma": "nuSub",
+        "label": "Dikili put sunak taşları ve dikili hedef: Üzerinde kesim yapılan put sunağı taşları yasağı (5:3, 5:90) ve hızla yönelinen dikili hedef (70:43) (ٱلنُّصُبِ / وَٱلْأَنصَابُ / نُصُبٍ — isim)"
+      },
+      {
+        "lemma": "naSab",
+        "label": "Fiziksel yorgunluk ve bitkinlik: Allah yolundaki zahmet (9:120), yolculuk yorgunluğu (18:62) ve ödül yurdunda yorgunluğun tamamen kalkması (15:48, 35:35) (نَصَب — isim)"
+      },
+      {
+        "lemma": "nuSob",
+        "label": "Ağır bitkinlik ve yıpranma: Eyyûb'un çektiği ağır yorgunluk ve acı (بِنُصْبٍ وَعَذَابٍ — isim: 38:41)"
+      },
+      {
+        "lemma": "n~aASibap",
+        "label": "Boşa çalışıp bitkin düşen: Yanlış yolda durmadan çırpınıp yorulmuş ve tükenmiş yüzler (عَامِلَةٌ نَّاصِبَةٌ — Bab I ism-i fâil sıfat: 88:3)"
+      }
+    ],
+    "irab_default": "Dimdik dikmek, sabitlenmiş pay veya yoğun çaba ve yorgunluk (ن-ص-ب kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:202",
+          "3:23",
+          "4:7",
+          "4:32",
+          "4:33",
+          "4:44",
+          "4:51",
+          "4:53",
+          "4:85",
+          "4:118",
+          "4:141",
+          "6:136",
+          "7:37",
+          "11:109",
+          "16:56",
+          "28:77",
+          "40:47",
+          "42:20"
+        ],
+        "text": "Sabitlenip ayrılmış hak payı (نَصِيب): miras, kadın-erkek emek kazancı, iyi aracılık, dünya ve ahiret payı."
+      },
+      {
+        "ayahs": [
+          "5:3",
+          "5:90",
+          "70:43",
+          "88:19"
+        ],
+        "text": "Dimdik dikilen yapılar: dağların sabitlenmesi, put sunağı dikili taşların (أَنصَاب) yasaklanması ve dikili hedefe koşma."
+      },
+      {
+        "ayahs": [
+          "9:120",
+          "15:48",
+          "18:62",
+          "35:35",
+          "38:41",
+          "88:3",
+          "94:7"
+        ],
+        "text": "Yoğun çaba ve yorgunluk: bir işi bitirince yeni emeğe doğrulma (فَٱنصَبْ), yorgunluk çekme ve ödül yurdunda yorgunluğun kalkması."
+      }
+    ],
+    "context_default": "Dimdik dikmek; sabitlenmiş hak payı, dikili taş sunaklar ve yoğun çaba/yorgunluk (ن-ص-ب)."
+  },
+  "و-ز-ر": {
+    "buckwalter": "wzr",
+    "slug": "vizr_ve_vezir_sirti_buken_agir_yuk_bireysel_sorumluluk_ve_yuk_paylasan_yardimci_wzr",
+    "concept_name": "Vizr, Vezîr ve Vezer (Sırtı Büken Ağır Yük, Bireysel Sorumluluk Yasası, Yük Paylaşan Yardımcı ve Sığınak)",
+    "keywords": [
+      "ağır yük",
+      "bireysel sorumluluk",
+      "vebal",
+      "vezîr",
+      "yük paylaşan yardımcı",
+      "sığınak",
+      "savaş yükleri"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaziru",
+        "label": "Ağır sorumluluk yükünü taşımak: Hiçbir kimsenin bir başkasının vebal yükünü sırtlanmayacağı evrensel adalet yasası (وَلَا تَزِرُ / يَزِرُونَ — Bab I fiil: 6:31, 6:164, 16:25, 17:15, 35:18, 39:7, 53:38)"
+      },
+      {
+        "lemma": "waAzirap",
+        "label": "Kendi yükünü taşıyan kişi: Başkasının sorumluluğunu devralmayan bireysel yük taşıyıcısı (وَازِرَةٌ — Bab I ism-i fâil: 6:164, 17:15, 35:18, 39:7, 53:38)"
+      },
+      {
+        "lemma": "wizor",
+        "ayahs": [
+          "20:87",
+          "47:4",
+          "94:2"
+        ],
+        "label": "Somut ağırlık, savaş silah/yükleri ve ağır görev yükü: Ziynet ağırlıkları (20:87), savaşın ağır yüklerini bırakması (47:4) ve elçinin sırtını büken görev yükünün indirilmesi (94:2) (أَوْزَارًا / أَوْزَارَهَا / وِزْرَكَ — isim)"
+      },
+      {
+        "lemma": "wizor",
+        "label": "Bireysel sorumluluk ve vebal yükü: Herkesin yalnızca kendi eyleminin doğurduğu ağır yükü sırtlanması (وِزْر / أَوْزَار — isim: 6:31, 6:164, 16:25, 17:15, 20:100, 35:18, 39:7, 53:38)"
+      },
+      {
+        "lemma": "waziyr",
+        "label": "Ağır yükü paylaşan yardımcı: Mûsâ'nın görev yükünü omuzlayıp destekleyen kardeşi Hârûn (وَزِيرًا — sıfat-isim: 20:29, 25:35)"
+      },
+      {
+        "lemma": "wazar",
+        "label": "Kaçılıp sığınılacak sarp dağ/sığınak (Asl 1): Hesap gününde kaçış ve sığınak bulunmaması (كَلَّا لَا وَزَرَ — isim: 75:11)"
+      }
+    ],
+    "irab_default": "Sırtı büken ağır sorumluluk yükü, yük paylaşan yardımcı veya sarp sığınak (و-ز-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:31",
+          "6:164",
+          "16:25",
+          "17:15",
+          "20:100",
+          "35:18",
+          "39:7",
+          "53:38"
+        ],
+        "text": "Evrensel bireysel sorumluluk yasası: hiç kimsenin başkasının ağır vebal yükünü taşımaması ve saptıranların kendi ağır yüklerini sırtlanması."
+      },
+      {
+        "ayahs": [
+          "20:29",
+          "20:87",
+          "25:35",
+          "47:4",
+          "94:2"
+        ],
+        "text": "Ağır yükü paylaşan yardımcı (وَزِير), ziynet ağırlıkları, savaşın yüklerini yere bırakması ve elçinin sırtındaki ağır görev yükünün hafifletilmesi."
+      },
+      {
+        "ayahs": [
+          "75:11"
+        ],
+        "text": "Sığınak (وَزَر) yokluğu: hesap gününde kaçılıp korunulacak sarp dağ veya sığınak bulunmaması."
+      }
+    ],
+    "context_default": "Sırtı büken ağır yük, bireysel sorumluluk, yük paylaşan yardımcı veya sığınak (و-ز-ر)."
+  },
+  "س-ك-ر": {
+    "buckwalter": "skr",
+    "slug": "sekr_ve_sekre_algini_ve_bilincin_tikanip_sersemlemesi_ve_bilinc_berrakligi_skr",
+    "concept_name": "Sekr ve Sekre (Bakışın ve Bilincin Önünün Tıkanıp Sersemlemesi — Bilinç Berraklığı Yasası)",
+    "keywords": [
+      "bilinç bulanıklığı",
+      "sarhoşluk",
+      "sersemlik",
+      "gözlerin perdelenmesi",
+      "ölüm baygınlığı",
+      "bilinç açıklığı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "suk~irato",
+        "label": "Gözlerin algısının tıkanması çıpası: Açık kanıt karşısında 'gözlerimiz önü tıkanıp donduruldu' bahanesi (سُكِّرَتْ أَبْصَٰرُنَا — Bab II edilgen fiil: 15:15)"
+      },
+      {
+        "lemma": "suka`raY`",
+        "ayahs": [
+          "4:43"
+        ],
+        "label": "Bilinç berraklığı yasası: Ne söylediğinizi bilinceye dek bilinciniz bulanık/sarhoş iken salâta yaklaşmama buyruğu (وَأَنتُمْ سُكَٰرَىٰ — sıfat-isim çoğul)"
+      },
+      {
+        "lemma": "suka`raY`",
+        "ayahs": [
+          "22:2"
+        ],
+        "label": "Dehşetten bilinç dağılması: İçki içmedikleri hâlde kıyamet sarsıntısından sarhoşlar gibi savrulan insanlar (سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ — sıfat-isim çoğul)"
+      },
+      {
+        "lemma": "sakorap",
+        "label": "Azgınlık sersemliği ve ölüm baygınlığı: Lût kavminin tutku sarhoşluğu içinde bocalaması (15:72) ve gerçeği getiren ölüm baygınlığı (50:19) (سَكْرَتِهِمْ / سَكْرَةُ — isim)"
+      },
+      {
+        "lemma": "sakar",
+        "label": "Sarhoş edici içecek ile güzel besin ayrımı: Hurma ve üzüm meyvelerinden üretilen sarhoş edici içeceğin güzel rızıktan ayrılması (سَكَرًا وَرِزْقًا حَسَنًا — isim: 16:67)"
+      }
+    ],
+    "irab_default": "Bakışın ve bilincin önünün tıkanıp sersemlemesi (س-ك-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:43",
+          "16:67"
+        ],
+        "text": "Bilinç açıklığı yasası ve meyveden üretilen sarhoş edici içecek: ne dediğini bilmeden salâta yaklaşmama ve سَكَر ile güzel besin ayrımı."
+      },
+      {
+        "ayahs": [
+          "15:15",
+          "15:72",
+          "22:2",
+          "50:19"
+        ],
+        "text": "Algı tıkanması ve sersemlik hâlleri: gözlerin perdelenmesi, azgınlık sarhoşluğu, kıyamet dehşeti sersemliği ve ölüm baygınlığı."
+      }
+    ],
+    "context_default": "Bakışın ve bilincin önünün tıkanıp sersemleyerek bocalaması (س-ك-ر)."
+  },
+  "ق-ص-ر": {
+    "buckwalter": "qSr",
+    "slug": "kasr_ve_taksir_sinir_cekerek_kisaltmak_geri_durmak_ve_muhafaza_etmek_qsr",
+    "concept_name": "Kasr ve Taksîr (Sınır Çekerek Kısaltmak, Geri Durmak, Bakışı Odaklamak ve Surlu Köşk/Saray)",
+    "keywords": [
+      "kısaltmak",
+      "geri durmak",
+      "bakışı odaklamak",
+      "köşk",
+      "saray",
+      "yolculuk kolaylığı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "taqoSuru",
+        "label": "Tehlike ve yolculukta kısaltma kolaylığı: Saldırı korkusu varsa salâtı normal süresinden kısaltmak (أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ — Bab I fiil: 4:101)"
+      },
+      {
+        "lemma": "yuqoSiru",
+        "label": "Azgınlıkta hız kesip geri durmama: Yoldan çıkarmaya devam edip asla geri çekilmemek (ثُمَّ لَا يُقْصِرُونَ — Bab IV fiil: 7:202)"
+      },
+      {
+        "lemma": "muqaS~iriyn",
+        "label": "Saç kısaltma esnekliği: Güven içinde başları tıraş ederek veya saçları kısaltarak girmek (وَمُقَصِّرِينَ — Bab II ism-i fâil: 48:27)"
+      },
+      {
+        "lemma": "qa`Sira`t",
+        "label": "Bakışlarını eşlerine odaklayıp sınırlandıranlar: Gözlerini başka yöne kaydırmadan saf bağlılıkla eşine bakanlar (قَٰصِرَٰتُ ٱلطَّرْفِ — Bab I ism-i fâil: 37:48, 38:52, 55:56)"
+      },
+      {
+        "lemma": "m~aqoSuwra`t",
+        "label": "Otağlarda korunaklı ve özgülenmiş olanlar: Belirli alanda muhafaza edilmiş saf eşler (مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ — Bab I ism-i mef'ûl: 55:72)"
+      },
+      {
+        "lemma": "qaSor",
+        "label": "Surlu yüksek köşk/saray ve o büyüklükte kıvılcım: Ovalarda kurulan köşkler (7:74), ıssız saray (22:45), ödül yurdu köşkleri (25:10) ve saray büyüklüğünde kıvılcımlar (77:32) (قَصْر / قُصُور — isim)"
+      }
+    ],
+    "irab_default": "Sınır çekerek kısaltmak, geri durmak veya belirli alanda muhafaza edip özgülemek (ق-ص-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:101",
+          "7:202",
+          "48:27"
+        ],
+        "text": "Kısaltma ve geri durma: yolculukta saldırı korkusunda salâtı kısaltma, saç kısaltma esnekliği ve azgınlıkta geri durmama."
+      },
+      {
+        "ayahs": [
+          "37:48",
+          "38:52",
+          "55:56",
+          "55:72"
+        ],
+        "text": "Bakışı ve aidiyeti sınırlandırma: gözlerini eşine odaklayanlar (قَٰصِرَٰتُ ٱلطَّرْفِ) ve otağlarda korunaklı olanlar (مَّقْصُورَٰتٌ)."
+      },
+      {
+        "ayahs": [
+          "7:74",
+          "22:45",
+          "25:10",
+          "77:32"
+        ],
+        "text": "Surlu korunaklı köşkler ve saraylar (قَصْر / قُصُور) ile o büyüklükteki kıvılcım."
+      }
+    ],
+    "context_default": "Sınır çekerek kısaltmak, geri durmak veya korunan alana özgülemek (ق-ص-ر)."
+  },
+  "ذ-ب-ح": {
+    "buckwalter": "*bH",
+    "slug": "zebh_ve_tezbih_bogazi_yarip_kesmek_katliam_ve_insan_caninin_kurtarilmasi_dbh",
+    "concept_name": "Zebh ve Tezbîh (Boğazı Yarıp Kesmek: Firavun Katliamı, Sunak Yasağı ve İnsan Canının Kurtarılması)",
+    "keywords": [
+      "boğazlamak",
+      "kesmek",
+      "katliam",
+      "sunak yasağı",
+      "İbrahim sınavı",
+      "kesimlik hayvan"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yu*ab~iHu",
+        "label": "Sistematik toplu katliam: Firavun'un İsrailoğullarının erkek çocuklarını peş peşe boğazlayıp katletmesi (يُذَبِّحُ / يُذَبِّحُونَ — Bab II fiil: 2:49, 14:6, 28:4)"
+      },
+      {
+        "lemma": "*ubiHa",
+        "ayahs": [
+          "5:3"
+        ],
+        "label": "Dikili put sunaklarında kesim yasağı: Allah'tan başkasına adanarak taş sunaklarda boğazlanan etlerin kesin haramlığı (وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ — Bab I edilgen fiil)"
+      },
+      {
+        "lemma": "*ubiHa",
+        "ayahs": [
+          "37:102"
+        ],
+        "label": "İbrâhîm'in rüyadaki ağır sınanması: Oğlunu boğazladığını gördüğü imtihan rüyası (أَنِّىٓ أَذْبَحُكَ — Bab I fiil)"
+      },
+      {
+        "lemma": "*ubiHa",
+        "label": "Hayvan kesimi ve disiplin uyarısı: İsrailoğullarının inek kesme sınavı (2:67, 2:71) ve Süleymân'ın hüdhüdü kesme uyarısı (27:21) (تَذْبَحُوا۟ / فَذَبَحُوهَا / لَأَا۟ذْبَحَنَّهُۥٓ — Bab I fiil)"
+      },
+      {
+        "lemma": "*iboH",
+        "label": "İnsan canını kurtaran büyük kesimlik hayvan: Allah'ın İbrâhîm'in oğlunun canı yerine verdiği büyük kesim (بِذِبْحٍ عَظِيمٍ — isim: 37:107)"
+      }
+    ],
+    "irab_default": "Kesici aletle boğazı yarıp kesmek (ذ-ب-ح kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:49",
+          "14:6",
+          "28:4"
+        ],
+        "text": "Firavun'un zulüm ve soykırım politikası: erkek çocukları Bab II yoğunlukla topluca boğazlayıp katletmek (يُذَبِّحُونَ)."
+      },
+      {
+        "ayahs": [
+          "2:67",
+          "2:71",
+          "5:3",
+          "27:21"
+        ],
+        "text": "Hayvan kesimi, sunak yasağı ve itaat sınavı: dikili taş sunaklarda kesilenin yasaklanması, inek kesme sınavı ve hüdhüd uyarısı."
+      },
+      {
+        "ayahs": [
+          "37:102",
+          "37:107"
+        ],
+        "text": "İnsan canının korunması dönüm noktası: İbrâhîm'in sınanması ve oğlunun canının büyük bir kesimlik hayvanla (بِذِبْحٍ عَظِيمٍ) kurtarılması."
+      }
+    ],
+    "context_default": "Kesici aletle boğazı yarıp kesmek (ذ-ب-ح)."
   }
 }

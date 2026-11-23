@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3C (Son Mayın Temizliği, Hukuk-Ritüel-Kısa Sure Kilitleri ve Açık Mesânî Zırhı — 48 Kök)",
   "target_count": 48,
-  "locked_count": 20,
+  "locked_count": 30,
   "total_tokens_in_package": 714,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 83.62,
+  "current_coverage_pct": 83.93,
   "target_coverage_pct": 84.51,
   "etap_3c_roots": [
     {
@@ -404,8 +404,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Gasl (5:6 abdest yıkama ayeti, 4:43 boy abdesti, 38:42 soğuk yıkanma suyu ve 69:36 gıslîn)",
-      "concept_label": "Analiz Bekliyor (tagotasilu, {gosilu, mugotasal, gisoliyn)",
-      "is_locked": false,
+      "concept_label": "Gasl ve İğtisâl (Su Akıtarak Yıkayıp Arınmak, Şifalı Serin Su ve Yara Yıkıntısı Gislîn)",
+      "is_locked": true,
       "sample_ayah": "4:43",
       "top_lemmas": [
         "tagotasilu",
@@ -424,8 +424,8 @@
       "frequency": 4,
       "unique_ayahs": 3,
       "rationale": "Mesh (5:6 başı ve ayakları sıvazlama, 4:43 teyemmüm ve 38:33 Süleymân'ın atlarını sıvazlaması)",
-      "concept_label": "Analiz Bekliyor ({mosaHu, masoH)",
-      "is_locked": false,
+      "concept_label": "Mesh (Eli Yüzeyde Yumuşakça Gezdirip Sürmek — Temizlikte El Sürme ve Atları Özenle Sıvazlama)",
+      "is_locked": true,
       "sample_ayah": "4:43",
       "top_lemmas": [
         "{mosaHu",
@@ -442,8 +442,8 @@
       "frequency": 12,
       "unique_ayahs": 12,
       "rationale": "Rahb ve Ruhbâniyye (57:27 sonradan uydurulan ruhbanlık, 9:31 rahipler, 8:60 terör değil caydırıcılık)",
-      "concept_label": "Analiz Bekliyor (yarohabu, ruhoba`n, {sotarohabu, turohibu)",
-      "is_locked": false,
+      "concept_label": "Rehb, İrhâb ve Ruhbâniyye (Yalnızca Allah'tan Saygılı Çekinme, Meşru Savunma Caydırıcılığı ve Beşerî Ruhbanlık)",
+      "is_locked": true,
       "sample_ayah": "2:40",
       "top_lemmas": [
         "yarohabu",
@@ -462,8 +462,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Bedî' ve İbtidâ' (2:117 benzersiz yaratış, 46:9 ilk elçi değilim, 57:27 ruhbanlık bid'ati)",
-      "concept_label": "Analiz Bekliyor (badiyE, bidoE, {botadaEu)",
-      "is_locked": false,
+      "concept_label": "Bedî ve İbtidâ (Ön Örneği Olmaksızın İlk Kez Ortaya Çıkarmak — İlahi Eşsiz Yaratış ve Beşerî İcat)",
+      "is_locked": true,
       "sample_ayah": "2:117",
       "top_lemmas": [
         "badiyE",
@@ -481,8 +481,8 @@
       "frequency": 44,
       "unique_ayahs": 40,
       "rationale": "Yüsr ve Meysir (94:5-6 kolaylık, 54:17 Kur'an'ın kolaylığı + 2:219/5:90 emeksiz kolay kazanç/kumar!)",
-      "concept_label": "Analiz Bekliyor (yasiyr, yas~ara, yusor, mayosir)",
-      "is_locked": false,
+      "concept_label": "Yüsr, Teysîr ve Meysir (Engellerin Kalkıp Kolaylaşması, Kur'an'ın Anlaşılırlığı ve Emeksiz Kazanç Kumarı)",
+      "is_locked": true,
       "sample_ayah": "2:185",
       "top_lemmas": [
         "yasiyr",
@@ -501,8 +501,8 @@
       "frequency": 32,
       "unique_ayahs": 29,
       "rationale": "Nasîb, Ensâb ve Nasab (5:3,90 dikili put taşları, hak/miras payı ve 94:7 yeni işe dikilip emek verme)",
-      "concept_label": "Analiz Bekliyor (naSiyb, naSab, nuSub, nuSibato)",
-      "is_locked": false,
+      "concept_label": "Nasb, Nasîb ve Nusub (Dimdik Dikmek: Sabitlenmiş Hak Payı, Dikili Sunak Taşları ve Yoğun Çaba/Yorgunluk)",
+      "is_locked": true,
       "sample_ayah": "2:202",
       "top_lemmas": [
         "naSiyb",
@@ -521,8 +521,8 @@
       "frequency": 27,
       "unique_ayahs": 14,
       "rationale": "Vizr ve Vezîr (kimsenin başkasının yükünü taşımaması yasası, 20:29 yük ortağı yardımcı, 47:4 savaş yükü)",
-      "concept_label": "Analiz Bekliyor (wizor, yaziru, waAzirap, waziyr)",
-      "is_locked": false,
+      "concept_label": "Vizr, Vezîr ve Vezer (Sırtı Büken Ağır Yük, Bireysel Sorumluluk Yasası, Yük Paylaşan Yardımcı ve Sığınak)",
+      "is_locked": true,
       "sample_ayah": "6:31",
       "top_lemmas": [
         "wizor",
@@ -541,8 +541,8 @@
       "frequency": 7,
       "unique_ayahs": 6,
       "rationale": "Sekr ve Seker (4:43 zihin bulanıkken salâta yaklaşmama, 15:15 göz bağlanması, 16:67 hurma/üzüm ürünü)",
-      "concept_label": "Analiz Bekliyor (suka`raY`, sakorap, suk~irato, sakar)",
-      "is_locked": false,
+      "concept_label": "Sekr ve Sekre (Bakışın ve Bilincin Önünün Tıkanıp Sersemlemesi — Bilinç Berraklığı Yasası)",
+      "is_locked": true,
       "sample_ayah": "4:43",
       "top_lemmas": [
         "suka`raY`",
@@ -561,8 +561,8 @@
       "frequency": 11,
       "unique_ayahs": 11,
       "rationale": "Kasr ve Maksûrât (4:101 tehlikede salâtı kısaltma, 55:72 maksûrât eşler ve sağlam köşkler)",
-      "concept_label": "Analiz Bekliyor (qaSor, qa`Sira`t, taqoSuru, yuqoSiru)",
-      "is_locked": false,
+      "concept_label": "Kasr ve Taksîr (Sınır Çekerek Kısaltmak, Geri Durmak, Bakışı Odaklamak ve Surlu Köşk/Saray)",
+      "is_locked": true,
       "sample_ayah": "4:101",
       "top_lemmas": [
         "qaSor",
@@ -581,8 +581,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Zebh (37:102-107 İbrâhîm'in rüyası ve insan kurbanını reddeden büyük fidye, 2:67-71 inek kesimi)",
-      "concept_label": "Analiz Bekliyor (*ubiHa, yu*ab~iHu, *iboH)",
-      "is_locked": false,
+      "concept_label": "Zebh ve Tezbîh (Boğazı Yarıp Kesmek: Firavun Katliamı, Sunak Yasağı ve İnsan Canının Kurtarılması)",
+      "is_locked": true,
       "sample_ayah": "2:49",
       "top_lemmas": [
         "*ubiHa",
