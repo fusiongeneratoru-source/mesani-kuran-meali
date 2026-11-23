@@ -6,8 +6,8 @@ Bu depo; Kur'an kavramlarını geleneksel terim ve ön kabullerden arındırılm
 
 Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** web ortamında) çalışmaya başlamadan önce aşağıdaki sırayı izle:
 
-1. Ana sistem anayasasını oku: `PROMPT.md`
-2. Kalite sigortalarını oku: `tools/QUALITY_CONSTITUTION.md`
+1. Ana sistem anayasasını oku: `PROMPT.md` (Özellikle 7 Anayasal Kırmızı Çizgi ve **Aşırı Mekanikleşme Yasağı / Yaşayan Türkçe** ilkesi)
+2. Kalite sigortalarını oku: `tools/QUALITY_CONSTITUTION.md` (13 Kural)
 3. Mevcut ilerleme durumunu kontrol et:
    - `data/locked_roots.json` (kilitli ana kök sözlüğü: **500 kök mühürlü**, `%88,50` köklü kapsam / tüm Kur'an kelimelerinin `%92,58`'i)
    - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md` (tamamlanan Etap 1 listesi: `100/100`)

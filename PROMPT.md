@@ -43,7 +43,7 @@ Her kök çözümlemesi aşağıdaki 6 denetimden geçmeden kilitlenemez:
 
 ---
 
-## 4. BEŞ ANAYASAL KIRMIZI ÇİZGİ (MESÂNÎ, TEK ÇEKİRDEK VE FURÛK)
+## 4. YEDİ ANAYASAL KIRMIZI ÇİZGİ (MESÂNÎ, TEK ÇEKİRDEK, FURÛK VE YAŞAYAN TÜRKÇE)
 
 1. **GELENEKSEL TERİM YASAĞI VE PEŞİN ANLAM DAYATMAMA (SAF TABULA RASA):**
  - Analiz aşamasında şu kelimelerin geleneksel/fıkhî yüklemeleri tamamen askıya alınır: *Namaz, oruç, zekat, hac, peygamber, melek, cin, şeytan, günah, sevap, cennet, cehennem, mucize, kafir, mümin, münafık, din, ibadet, kurban, şirk, takva, sabır, vefat, yemin, ruh, nefis.*
@@ -71,6 +71,11 @@ Her kök çözümlemesi aşağıdaki 6 denetimden geçmeden kilitlenemez:
  - Geleneksel dinî terimlerden kaçarken metinde de sözlüklerde de bulunmayan modern teknoloji/bilimkurgu jargonu (`fabrika ayarı`, `kalibrasyon`, `yazılım`, `donanım`, `program`, `sinyal`, `frekans`, `kozmik görevli`) KESİNLİKLE kullanılamaz.
  - Bir kökün nihai tanımında (`unified_core_mechanism` ve `derivatives`), dini hiç bilmeyen bir okurun bilmeyeceği açıklanmamış başka Arapça dinî terimler (`tevhid`, `fıtrat`, `ahiret`, `secde`, `mescid`, `tevbe`, `hidayet`, `vesvese` vb.) döngüsel açıklama olarak bırakılamaz; sade, zamansız ve kendi kendine yeten Türkçe kullanılır.
  - **Faz 2 Sıfırdan Çeviri Kuralı:** `data/quran-turkish.txt` ve `tools/tabula_rasa.py` yalnızca Faz 1'de bağlam tarama yardımcısıdır. Faz 2'de ayet blokları kesinlikle eski bir Türkçe mealde kelime değiştirerek değil; doğrudan **Arapça Rasm-ı Osmânî + Kilitli Sözlük (`locked_roots.json`) + Edat/Harf-i Cer Haritası (`particles_and_prepositions.json`)** üzerinden sıfırdan çevrilir.
+
+7. **AŞIRI MEKANİKLEŞME YASAĞI VE YAŞAYAN TÜRKÇE (OKUNABİLİRLİK VE SENTAKS AKICILIĞI):**
+ - **Robotik / Kuru Makine Çevirisi Tuzağına Son:** Tek çekirdek mekanizması ve kök arkeolojisi tavizsiz uygulanırken; kelime kelime motamot dizilmiş, Türkçenin sentaks ve ifade zevkini katleden, yapay zeka jargonu hissi veren veya kuru/mekanik çeviri KESİNLİKLE kabul edilemez.
+ - **Sentaktik Deha ve Duru Türkçe:** Kökün mühürlü tek çekirdeği ve Furûk nüansı anlamın omurgasıdır; ancak nihai Türkçe meal cümlesi Türkçenin kendi doğal sözdizimine (özne-tümleç-yüklem uyumu, ek fiil ve bağlaç akışı) tam sadakatle kurulmalıdır. Okur metni okuduğunda bir teknik formül tablosu değil; insan aklına, vicdanına ve estetik algısına doğrudan hitap eden, duru, asil, berrak ve yaşayan bir Türkçe metinle karşılaşmalıdır.
+ - **Parantez ve Tefsir İstilası Yasağı:** Cümleyi toparlamak bahanesiyle metni parantez içi açıklamalarla, zorlama yorumlarla veya dipnot çöplüğüyle doldurmak yasaktır. Mühürlü çekirdek anlam, Türkçe cümlenin doğal dokusuna öyle ustalıkla yedirilmelidir ki hiçbir paranteze ihtiyaç duymadan anlam kendiliğinden ışıldasın.
 
 ---
 
@@ -165,6 +170,9 @@ json
 - **FAZ 2 GEÇİŞİ:** Kullanıcı "Faz 2'ye geçiyoruz" dediğinde sistem **6 Ajanlı Konsey** (5 Ayet Masası Ajanı + 1 Baş Koordinatör) moduna geçer:
  - Her seferinde 3-5 ayetlik Mesânî bütünlüğü olan blok işlenir.
  - Önce ayetin harekesiz Rasm-ı Osmânî iskeleti denetlenir; kilitli sözlükteki kökler doğrudan çekilir; aynı ayette geçen yakın kavramların Furûk farkı ve blok içi Mesânî simetrisi korunur; yeni kökler için 10 Ajan + Canlı Arama çalıştırılıp yalnızca yeni kökler `3.0-delta` JSON olarak eklenir.
+ - **İki Kademeli Çeviri ve Okunabilirlik Onayı:**
+   1. *Kademe 1 (Filolojik ve Mesânî Doğruluk):* Mühürlü kökler, harf-i cerler ve Furûk ayrımları %100 eksiksiz mi?
+   2. *Kademe 2 (Yaşayan Türkçe ve Akıcılık Sınaması):* Cümle yüksek sesle okunduğunda kulağı tırmalayan robotik bir mekaniklik var mı? Aşırı mekanikleşme temizlenmiş, yaşayan ve edebi duruluğa sahip akıcı Türkçe kurulmuş mu? İki kademe aynı anda onaylanmadan hiçbir ayet meali mühürlenemez.
 
 ---
 

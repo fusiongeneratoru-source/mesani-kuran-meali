@@ -49,3 +49,8 @@ Bu kurallar, sistemdeki tüm kök analizlerinde (Faz 1) ve ayet blokları çöz�
 12. **Otomatik Çift Yönlü Mesânî Simetri ve Sıfır Mükerrer Ayet Sigortası:**
    - Kilitli bir A kökü, kilitli başka bir B kökünü `mesani_opposite.roots` alanında zıt kutup olarak gösteriyorsa; B kökünde de A'nın karşılıklı referansı zorunlu olarak bulunur (`verify_project.py` %100 simetriyi doğrular).
    - Türkçe referans metninde (`data/quran-turkish.txt`) 6.236 ayetin tamamı birebir eşleşmek ve sıfır mükerrer ayet içermek zorundadır. Faz 2'de bu dosya değil, doğrudan Arapça Rasm + Kilitli Sözlük + Edat/Harf-i Cer Haritası esas alınır.
+
+13. **Aşırı Mekanikleşme Yasağı ve Yaşayan Türkçe (Okunabilirlik ve Sentaks Doğallığı İlkesi):**
+    - Tek çekirdek mekanizması ve Furûk ayrımları motamot/robotik bir kelime yığınına dönüştürülemez.
+    - Türkçe cümle yapısı (özne-tümleç-yüklem akışı) korunmalı; okunduğunda yapay zeka çıktısı veya kuru teknik şema hissi veren mekanik dizilimler engellenmelidir.
+    - Metin, parantez içi tefsir eklemelerine boğulmadan; mühürlü kavramın saf mekaniğini Türkçenin yaşayan, duru ve estetik gücüyle doğrudan yansıtmalıdır. Faz 2 ayet blokları hem %100 filolojik doğruluğu hem de %100 Türkçe okunabilirlik akıcılığını aynı anda sağlamak zorundadır.
