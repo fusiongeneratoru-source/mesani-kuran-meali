@@ -1,0 +1,474 @@
+{
+  "root": "ن-ز-ع",
+  "root_latin": "N-Z-A (nzE)",
+  "concept_name": "Nezʿ ve Tenâzüʿ (Bulunduğu Yerden Kuvvetle Çekip Söküp Çıkarmak ve Karşılıklı Çekiştirmek)",
+  "rank": 404,
+  "total_occurrences": 20,
+  "unique_ayahs_count": 20,
+  "unified_core_mechanism": "Bir şeyi yerleştiği veya tutunduğu yerden kuvvetle çekip söküp çıkarmak (قَلْعُ الشَّيْءِ مِنْ مَكَانِهِ) ve karşılıklı çekiştirmek (تَنَازُع): kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkü ve nimeti çekip almak (3:26, 11:9), göğüslerdeki kini söküp temizlemek (7:43, 15:47) ve toplumsal birliği bozan karşılıklı çekişme (4:59, 8:46).",
+  "physical_core": "Bir şeyi yerleştiği, tutunduğu veya kök saldığı yerden kuvvetle çekip söküp koparmak (قَلْعُ الشَّيْءِ مِنْ مَكَانِهِ وَجَذْبُهُ): kasırganın insanları kökünden sökülen hurma kütükleri gibi yerinden sökmesi (54:20), deriyi veya elbiseyi soyup çekmek (7:27, 70:16), göğüslerdeki kini söküp atmak (7:43, 15:47) ve bir işi karşılıklı çekiştirmek (تَنَازُع — 8:46).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ن-ز-ع` kökünün tamamı tek bir sahih asla dayanır; o da bir şeyi bulunduğu yerden çekip söküp çıkarmaktır (`أصل صحيح يدل على قلع شيء، ونزعت الشيء من مكانه نزعا`).",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `النَّزْع` bir şeyi yerinden çekip koparmaktır (`جَذْبُكَ الشَّيْءَ مِنْ مَقَرِّهِ`); kuyudan kovayı çekmeye, yayı sonuna kadar germeye (`79:1` `وَٱلنَّٰزِعَٰتِ غَرْقًا`) ve ağacı kökünden sökmeye (`54:20`) `نَزْع` denir. `التَّنَازُع` ise tarafların bir şeyi karşılıklı kendi yönlerine çekmesidir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `النَّزْع` bir şeyi yerinden çekip sıyırmaktır; elbisenin soyulması (`7:27`), elin koyundan çekilip çıkarılması (`7:108`), mülkün sökülüp alınması (`3:26`), kalpteki kinin sökülmesi (`7:43`, `15:47`) ve toplumsal çekişme (`8:46`) hep bu tek mekanizmadandır.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in tanımladığı 'yerleştiği yerden çekip söküp çıkarmak (`قَلْعُ الشَّيْءِ مِنْ مَكَانِهِ`)' çekirdeği, Kur'an'daki tüm türevleri somut fiziksel köküne bağlar: (1) Fiziksel düzlemde kasırganın insanları kökünden sökülmüş hurma kütükleri (`أَعْجَازُ نَخْلٍ مُّنقَعِرٍ`) gibi yerinden söküp koparması (`تَنزِعُ ٱلنَّاسَ` — `54:20`) ve ateşin deriyi soyup sökmesi (`70:16`), (2) Psikolojik ve siyasi düzlemde iktidarın sökülüp alınması (`3:26`) ve göğüslerdeki kinin sökülüp temizlenmesi (`7:43`, `15:47`), (3) Toplumsal düzlemde tarafların ortak iradeyi kendi yönlerine çekiştirerek (`تَنَازُع` — `3:152`, `8:46`) gücü parçalaması."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*n-z-ʿ / *n-s-ʿ` kökü: İbranice נָסַע (`nāsaʿ` Strong H5265: 'çadır kazıklarını yerinden söküp çekmek, kökünden sökmek'), Aramice/Süryanice `נְסַע / ܢܣܥ` (*nəsaʿ*: 'çekip sökmek, koparmak'), Ugaritçe `nsʿ` ('yerinden söküp çıkarmak') ve Akadca `nasāḫu` ile doğrudan eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "أ-ت-ي [تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ] (Mülkü ve Yetkiyi Getirip Vermek [تُؤْتِى ٱلْمُلْكَ] ↔ Mülkü Bulunduğu Yerden Çekip Söküp Almak [وَتَنزِعُ ٱلْمُلْكَ]: 3:26)",
+      "ذ-و-ق [وَلَئِنْ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌ كَفُورٌ] (Rahmeti Tattırıp Sunmak [أَذَقْنَا] ↔ Onu Ondan Çekip Söküp Almak [نَزَعْنَٰهَا مِنْهُ]: 11:9)",
+      "ط-و-ع [وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ] (Gönüllü Uyum ve Birlik İçinde İtaat Etmek [أَطِيعُوا۟] ↔ Karşılıklı Çekişip Parçalanmak [تَنَٰزَعُوا۟]: 8:46, 4:59)",
+      "أ-م-ر (أ-م-ر ↔ ن-ز-ع Mesânî simetrisi)",
+      "م-ل-ك (م-ل-ك ↔ ن-ز-ع Mesânî simetrisi)",
+      "ص-ب-ر (ص-ب-ر ↔ ن-ز-ع Mesânî simetrisi)",
+      "ن-س-ك (ن-س-ك ↔ ن-ز-ع Mesânî simetrisi)"
+    ],
+    "key_ayahs": [
+      "3:26",
+      "3:152",
+      "4:59",
+      "7:27",
+      "7:43",
+      "7:108",
+      "8:46",
+      "11:9",
+      "15:47",
+      "52:23",
+      "54:20",
+      "70:16",
+      "79:1"
+    ],
+    "reverse_stress_test": "3:26'da `تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ` (mülkü dilediğine verirsin ve mülkü dilediğinden çekip söküp alırsın), 11:9'da `أَذَقْنَا ... ثُمَّ نَزَعْنَٰهَا مِنْهُ` ve 8:46'da `وَأَطِيعُوا۟ ... وَلَا تَنَٰزَعُوا۟` karşıtlıkları yer alır. Vermek/tattırmak (`أ-ت-ي` / `ذ-و-ق`) ve uyumlu birlik (`ط-و-ع`) tersine çevrildiğinde, `ن-ز-ع` kökünün 'bulunduğu yerden çekip söküp çıkarmak ve karşılıklı çekiştirmek' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ن-ش-ط (79:1-2 وَٱلنَّٰزِعَٰتِ غَرْقًا وَٱلنَّٰشِطَٰتِ نَشْطًا — نَزْع derinlikten bütün gücüyle şiddetle çekip sökmek iken, نَشْط ilmekli bir düğümü kolayca ve hızla çözüp çıkarmaktır)",
+      "ف-ش-ل (8:46 وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ — تَنَازُع her grubun işi kendi tarafına çekiştirmesi iken, فَشَل bu çekiştirme sonucunda cesaretin ve direncin çözülüp gevşemesidir)"
+    ],
+    "mechanical_difference": "`54:20`'de `تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ` ayeti `نَزْع`in şiddetli söküp koparma mekanizmasını somutlaştırır; `8:46` ise toplumsal çekiştirmenin (`تَنَازُع`) doğrudan güç çözülmesine (`فَشَل`) yol açtığını gösterir."
+  },
+  "anchor_ayahs": [
+    "3:26",
+    "4:59",
+    "7:27",
+    "7:43",
+    "7:108",
+    "8:46",
+    "11:9",
+    "15:47",
+    "54:20",
+    "70:16",
+    "79:1"
+  ],
+  "grammar_and_branch_rules": "Bab I (`نَزَعَ / نَزَعْنَا / تَنزِعُ` — 10 geçiş) bir şeyi yerinden çekip söküp çıkarmayı; `نَزَّاعَةً` (`70:16`) ve `ٱلنَّٰزِعَٰتِ` (`79:1`) şiddetle soyup söken güçleri; Bab III `يُنَٰزِعُنَّكَ` (`22:67`) ve Bab VI `تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ` (7 geçiş) ise karşılıklı çekiştirmeyi (veya `52:23`'te mecliste karşılıklı kadeh alıp vermeyi) ifade eder.",
+  "derivatives": {
+    "نَزَعَ / نَزَعْنَا / تَنزِعُ / يَنزِعُ": "Yerleştiği yerden çekip söküp çıkarmak; mülkü, örtüyü veya göğüsteki kini söküp almak (3:26, 7:27, 7:43, 7:108, 11:9, 15:47, 19:69, 26:33, 28:75, 54:20)",
+    "تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ / يُنَٰزِعُنَّكَ": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62, 22:67); karşılıklı kadeh alıp vermek (52:23)",
+    "نَزَّاعَةً / وَٱلنَّٰزِعَٰتِ": "Deriyi soyup söken; derinliklerden şiddetle çekip çıkaranlar (70:16, 79:1)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 3,
+      "ayah": 26,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:26",
+      "word_position": 9,
+      "target_word_uthmani": "وَتَنزِعُ",
+      "target_word_rasm": "وتنزع",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Allah'ım, mülkün sahibi sensin, mülkü dilediğine verirsin, dilediğinden alırsın. Dilediğini yükseltirsin, dilediğini alçaltırsın. Senin elindedir hayır,...",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nazaEa|ROOT:nzE|2MS"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Allah'ım, mülkün sahibi sensin, mülkü dilediğine verirsin, dilediğinden alırsın. Dilediğini yükseltirsin, dilediğini alçaltırsın. Senin elindedir hayır, sensin her şeye gücü yeten.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 3,
+      "ayah": 152,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:152",
+      "word_position": 11,
+      "target_word_uthmani": "وَتَنَٰزَعْتُمْ",
+      "target_word_rasm": "وتنزعتم",
+      "target_word_literal_irab": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62) veya mecliste dostça karşılıklı kadeh alıp vermek (52:23) (تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ — Bab VI fiil: 7 geçiş)",
+      "context_snippet_arabic": "حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki Allah, size ettiği vaadi doğruladı; izniyle onları bozup öldürdünüz de sonra gevşeklik gösterdiniz, verilen buyruk hakkında çekiştiniz ve...",
+      "morphology": {
+        "lemma": "tana`zaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tana`zaEu|ROOT:nzE|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْءَاخِرَةَ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ وَلَقَدْ عَفَا عَنكُمْ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki Allah, size ettiği vaadi doğruladı; izniyle onları bozup öldürdünüz de sonra gevşeklik gösterdiniz, verilen buyruk hakkında çekiştiniz ve sevdiğiniz şeyi size gösterdikten sonra tuttunuz, isyan ettiniz. Sizden dünyayı dileyen olduğu gibi ahireti dileyen de vardı. Sonra sizi sınamak için onlardan geri çevirdi ve gerçekten de bağışladı sizi ve Allah, güvene erenlere karşı lütuf ve ihsan sahibidir.",
+      "contextual_meaning": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+    },
+    {
+      "surah": 4,
+      "ayah": 59,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:59",
+      "word_position": 12,
+      "target_word_uthmani": "تَنَٰزَعْتُمْ",
+      "target_word_rasm": "تنزعتم",
+      "target_word_literal_irab": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62) veya mecliste dostça karşılıklı kadeh alıp vermek (52:23) (تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ — Bab VI fiil: 7 geçiş)",
+      "context_snippet_arabic": "ٱلْأَمْرِ مِنكُمْ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah'a, elçiye ve içinizden emredecek kudret ve liyakata sahip olanlara itaat edin. Allah'a ve ahiret gününe güven duy bir şeyde ihtilafa...",
+      "morphology": {
+        "lemma": "tana`zaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tana`zaEu|ROOT:nzE|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah'a, elçiye ve içinizden emredecek kudret ve liyakata sahip olanlara itaat edin. Allah'a ve ahiret gününe güven duy bir şeyde ihtilafa düştünüz mü o hususta Allah'a ve elçiye müracaat edin; bu hareket, hem hayırlıdır, hem de sonu pek güzeldir.",
+      "contextual_meaning": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+    },
+    {
+      "surah": 7,
+      "ayah": 27,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:27",
+      "word_position": 11,
+      "target_word_uthmani": "يَنزِعُ",
+      "target_word_rasm": "ينزع",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا",
+      "context_snippet_turkish_tabula_rasa": "Ey Âdemoğulları, saptırıcı yıkıcı güç, ananızı, babanızı esenlik bahçesinden çıkardığı ve avret yerlerini onlara göstermek için büründükleri elbiseyi sıyırıp...",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nazaEa|ROOT:nzE|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ مِنْ حَيْثُ لَا تَرَوْنَهُمْ إِنَّا جَعَلْنَا ٱلشَّيَٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Âdemoğulları, saptırıcı yıkıcı güç, ananızı, babanızı esenlik bahçesinden çıkardığı ve avret yerlerini onlara göstermek için büründükleri elbiseyi sıyırıp üstlerinden attığı gibi sakın sizi de bir derde uğratmasın. O ve ona mensup olanlar, sizin göremeyeceğiniz yerlerden görür, kollar sizi. Şüphe yok ki biz saptırıcı yıkıcı güçleri, güven duy dost ettik.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 7,
+      "ayah": 43,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:43",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَزَعْنَا",
+      "target_word_rasm": "ونزعنا",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَنَزَعْنَا مَا فِى صُدُورِهِم",
+      "context_snippet_turkish_tabula_rasa": "Gönüllerindeki kini, hasedi gideririz, bulundukları yerlerin altından ırmaklar akar ve hamd Allah'a ki derler, doğru yolu buldurdu da bu nimetlere kavuşturdu...",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nazaEa|ROOT:nzE|1P"
+      },
+      "ayah_text_arabic_full": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى هَدَىٰنَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِىَ لَوْلَآ أَنْ هَدَىٰنَا ٱللَّهُ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ وَنُودُوٓا۟ أَن تِلْكُمُ ٱلْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gönüllerindeki kini, hasedi gideririz, bulundukları yerlerin altından ırmaklar akar ve hamd Allah'a ki derler, doğru yolu buldurdu da bu nimetlere kavuşturdu bizi; Allah hidayet etmeseydi doğru yolu bulamazdık; andolsun ki Rabbimizin elçileri gerçek olarak geldiler ve onlara işte yaptığınız işlere karşılık miras olarak elde ettiğiniz esenlik bahçesi diye nida edilir.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 7,
+      "ayah": 108,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:108",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَزَعَ",
+      "target_word_rasm": "ونزع",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ",
+      "context_snippet_turkish_tabula_rasa": "Elini koltuğuna sokup çıkarınca bakanlar gördüler ki bembeyaz, parılparıl parlayan bir el.",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nazaEa|ROOT:nzE|3MS"
+      },
+      "ayah_text_arabic_full": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Elini koltuğuna sokup çıkarınca bakanlar gördüler ki bembeyaz, parılparıl parlayan bir el.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 8,
+      "ayah": 43,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:43",
+      "word_position": 11,
+      "target_word_uthmani": "وَلَتَنَٰزَعْتُمْ",
+      "target_word_rasm": "ولتنزعتم",
+      "target_word_literal_irab": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62) veya mecliste dostça karşılıklı kadeh alıp vermek (52:23) (تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ — Bab VI fiil: 7 geçiş)",
+      "context_snippet_arabic": "أَرَىٰكَهُمْ كَثِيرًا لَّفَشِلْتُمْ وَلَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَلَٰكِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Hani Allah, rüyanda sana onların az olduğunu göstermişti; çok gösterseydi ürker, gevşerdiniz ve iş hususunda da çekişe kalkışırdınız. Fakat Allah sizi bundan...",
+      "morphology": {
+        "lemma": "tana`zaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tana`zaEu|ROOT:nzE|2MP"
+      },
+      "ayah_text_arabic_full": "إِذْ يُرِيكَهُمُ ٱللَّهُ فِى مَنَامِكَ قَلِيلًا وَلَوْ أَرَىٰكَهُمْ كَثِيرًا لَّفَشِلْتُمْ وَلَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani Allah, rüyanda sana onların az olduğunu göstermişti; çok gösterseydi ürker, gevşerdiniz ve iş hususunda da çekişe kalkışırdınız. Fakat Allah sizi bundan kurtardı ve şüphe yok ki o, gönüllerdekini bilir.",
+      "contextual_meaning": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+    },
+    {
+      "surah": 8,
+      "ayah": 46,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:46",
+      "word_position": 5,
+      "target_word_uthmani": "تَنَٰزَعُوا۟",
+      "target_word_rasm": "تنزعوا",
+      "target_word_literal_irab": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62) veya mecliste dostça karşılıklı kadeh alıp vermek (52:23) (تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ — Bab VI fiil: 7 geçiş)",
+      "context_snippet_arabic": "ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve elçisine itaat edin, birbirinizle çekişmeyin, sonra zayıflarsınız ve kuvvetiniz kalmaz ve sebat edip direnin, şüphe yok ki Allah, sebat edip...",
+      "morphology": {
+        "lemma": "tana`zaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:tana`zaEu|ROOT:nzE|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ وَٱصْبِرُوٓا۟ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçisine itaat edin, birbirinizle çekişmeyin, sonra zayıflarsınız ve kuvvetiniz kalmaz ve sebat edip direnin, şüphe yok ki Allah, sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+    },
+    {
+      "surah": 11,
+      "ayah": 9,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:9",
+      "word_position": 7,
+      "target_word_uthmani": "نَزَعْنَٰهَا",
+      "target_word_rasm": "نزعنها",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "مِنَّا رَحْمَةً ثُمَّ نَزَعْنَٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌ",
+      "context_snippet_turkish_tabula_rasa": "İnsana, katımızdan bir rahmet tattırsak da sonra alıversek onu insandan, şüphe yok ki her şeyden ümidini keser, bir nankör olur gider.",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nazaEa|ROOT:nzE|1P"
+      },
+      "ayah_text_arabic_full": "وَلَئِنْ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌ كَفُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsana, katımızdan bir rahmet tattırsak da sonra alıversek onu insandan, şüphe yok ki her şeyden ümidini keser, bir nankör olur gider.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 15,
+      "ayah": 47,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:47",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَزَعْنَا",
+      "target_word_rasm": "ونزعنا",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَنَزَعْنَا مَا فِى صُدُورِهِم",
+      "context_snippet_turkish_tabula_rasa": "Gönüllerindeki kini, hasedi, ta kökünden söküp attık onların, kardeşlerdir, birbirlerine karşı tahtlar üstünde otururlar.",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nazaEa|ROOT:nzE|1P"
+      },
+      "ayah_text_arabic_full": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ إِخْوَٰنًا عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gönüllerindeki kini, hasedi, ta kökünden söküp attık onların, kardeşlerdir, birbirlerine karşı tahtlar üstünde otururlar.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 18,
+      "ayah": 21,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:21",
+      "word_position": 15,
+      "target_word_uthmani": "يَتَنَٰزَعُونَ",
+      "target_word_rasm": "يتنزعون",
+      "target_word_literal_irab": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62) veya mecliste dostça karşılıklı kadeh alıp vermek (52:23) (تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ — Bab VI fiil: 7 geçiş)",
+      "context_snippet_arabic": "رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ فَقَالُوا۟",
+      "context_snippet_turkish_tabula_rasa": "İşte böylece Allah'ın vaadinin hak ve gerçek olduğunu ve gerçekten de kıyametin kopacağını ve onda hiçbir şüphe bulunmadığını bilmeleri için, tam bu hususlarda...",
+      "morphology": {
+        "lemma": "tana`zaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:tana`zaEu|ROOT:nzE|3MP"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَٰنًا رَّبُّهُمْ أَعْلَمُ بِهِمْ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böylece Allah'ın vaadinin hak ve gerçek olduğunu ve gerçekten de kıyametin kopacağını ve onda hiçbir şüphe bulunmadığını bilmeleri için, tam bu hususlarda birbirleriyle çekişip dururlarken, insanları haberdar ettik de otoriteyi bölüşüp ortak koşanlar dediler ki: Onların bulunduğu yere bir yapı yapın, halktan gizli kalsınlar. Halbuki Rableri, onların ahvalini daha iyi bilir. Hallerine vakıf olanlarsa onların bulundukları mağaranın önüne mutlaka bir mescit yapmalıyız dediler.",
+      "contextual_meaning": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+    },
+    {
+      "surah": 19,
+      "ayah": 69,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:69",
+      "word_position": 2,
+      "target_word_uthmani": "لَنَنزِعَنَّ",
+      "target_word_rasm": "لننزعن",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Sonra hangi taife, rahmana karşı en fazla azgınlıkta bulunduysa onu ayırıp önce yakıcı yıkım yurduna atacağız.",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nazaEa|ROOT:nzE|1P"
+      },
+      "ayah_text_arabic_full": "ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى ٱلرَّحْمَٰنِ عِتِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra hangi taife, rahmana karşı en fazla azgınlıkta bulunduysa onu ayırıp önce yakıcı yıkım yurduna atacağız.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 20,
+      "ayah": 62,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:62",
+      "word_position": 1,
+      "target_word_uthmani": "فَتَنَٰزَعُوٓا۟",
+      "target_word_rasm": "فتنزعوا",
+      "target_word_literal_irab": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62) veya mecliste dostça karşılıklı kadeh alıp vermek (52:23) (تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ — Bab VI fiil: 7 geçiş)",
+      "context_snippet_arabic": "فَتَنَٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "Sonra bu iş hakkında aralarında çekişeçekişe görüşüp gizlice danıştılar.",
+      "morphology": {
+        "lemma": "tana`zaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tana`zaEu|ROOT:nzE|3MP"
+      },
+      "ayah_text_arabic_full": "فَتَنَٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra bu iş hakkında aralarında çekişeçekişe görüşüp gizlice danıştılar.",
+      "contextual_meaning": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+    },
+    {
+      "surah": 22,
+      "ayah": 67,
+      "surah_name": "Hac",
+      "ayah_ref": "22:67",
+      "word_position": 8,
+      "target_word_uthmani": "يُنَٰزِعُنَّكَ",
+      "target_word_rasm": "ينزعنك",
+      "target_word_literal_irab": "Bu iş konusunda seninle çekişip tartışmaya kalkışmasınlar (فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ — Bab III muzâri fiil: 22:67)",
+      "context_snippet_arabic": "هُمْ نَاسِكُوهُ فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ وَٱدْعُ",
+      "context_snippet_turkish_tabula_rasa": "Ve her ümmete bir yaşam ve hesap sistemi verdik, o yaşam sistemine göre kulluk ve yönelişte bulunurlar, artık seninle her hususta çekişmeye kalkışmasınlar ve...",
+      "morphology": {
+        "lemma": "yuna`ziEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:yuna`ziEu|ROOT:nzE|3MS"
+      },
+      "ayah_text_arabic_full": "لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ وَٱدْعُ إِلَىٰ رَبِّكَ إِنَّكَ لَعَلَىٰ هُدًى مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve her ümmete bir yaşam ve hesap sistemi verdik, o yaşam sistemine göre kulluk ve yönelişte bulunurlar, artık seninle her hususta çekişmeye kalkışmasınlar ve Rabbinin yoluna çağır, şüphe yok ki sen, doğru yolu bulmuşsun.",
+      "contextual_meaning": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+    },
+    {
+      "surah": 26,
+      "ayah": 33,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:33",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَزَعَ",
+      "target_word_rasm": "ونزع",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ",
+      "context_snippet_turkish_tabula_rasa": "Elini koynundan çıkardı, derhal bakanlara parıl parıl parlayan bembeyaz bir el göründü.",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nazaEa|ROOT:nzE|3MS"
+      },
+      "ayah_text_arabic_full": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Elini koynundan çıkardı, derhal bakanlara parıl parıl parlayan bembeyaz bir el göründü.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 28,
+      "ayah": 75,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:75",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَزَعْنَا",
+      "target_word_rasm": "ونزعنا",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَنَزَعْنَا مِن كُلِّ أُمَّةٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz her ümmetten bir tanık getirir de getirin bakalım deriz, delillerinizi. Artık bilirler ki şüphesiz gerçek, Allah'ındır ve uydurdukları şeylerin hepsi de...",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:nazaEa|ROOT:nzE|1P"
+      },
+      "ayah_text_arabic_full": "وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا۟ بُرْهَٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz her ümmetten bir tanık getirir de getirin bakalım deriz, delillerinizi. Artık bilirler ki şüphesiz gerçek, Allah'ındır ve uydurdukları şeylerin hepsi de gözlerinden kaybolup gider.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 52,
+      "ayah": 23,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:23",
+      "word_position": 1,
+      "target_word_uthmani": "يَتَنَٰزَعُونَ",
+      "target_word_rasm": "يتنزعون",
+      "target_word_literal_irab": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62) veya mecliste dostça karşılıklı kadeh alıp vermek (52:23) (تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ — Bab VI fiil: 7 geçiş)",
+      "context_snippet_arabic": "يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا",
+      "context_snippet_turkish_tabula_rasa": "Ve birbirlerine öyle bir kadeh sunarlar ki içtikleri şaRabın sonucunda ne boş şeylerden bahsediş var, ne sapma ve kusura giriş.",
+      "morphology": {
+        "lemma": "tana`zaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:tana`zaEu|ROOT:nzE|3MP"
+      },
+      "ayah_text_arabic_full": "يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve birbirlerine öyle bir kadeh sunarlar ki içtikleri şaRabın sonucunda ne boş şeylerden bahsediş var, ne sapma ve kusura giriş.",
+      "contextual_meaning": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+    },
+    {
+      "surah": 54,
+      "ayah": 20,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:20",
+      "word_position": 1,
+      "target_word_uthmani": "تَنزِعُ",
+      "target_word_rasm": "تنزع",
+      "target_word_literal_irab": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ",
+      "context_snippet_turkish_tabula_rasa": "Onları kökünden koparmadaydı, sanki köklerinden kopup baş aşağı devrilen hurma kütükleriydi onlar.",
+      "morphology": {
+        "lemma": "nazaEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:nazaEa|ROOT:nzE|3FS"
+      },
+      "ayah_text_arabic_full": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları kökünden koparmadaydı, sanki köklerinden kopup baş aşağı devrilen hurma kütükleriydi onlar.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 70,
+      "ayah": 16,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:16",
+      "word_position": 1,
+      "target_word_uthmani": "نَزَّاعَةً",
+      "target_word_rasm": "نزاعة",
+      "target_word_literal_irab": "Deriyi kavurup yerinden soyup söken ateş (نَزَّاعَةً لِّلشَّوَىٰ — mübâlağalı ism-i fâil: 70:16)",
+      "context_snippet_arabic": "نَزَّاعَةً لِّلشَّوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ne el bırakmadadır, ne ayak, ne et bırakmadadır, ne deri.",
+      "morphology": {
+        "lemma": "naz~aAEap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:naz~aAEap|ROOT:nzE|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "نَزَّاعَةً لِّلشَّوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ne el bırakmadadır, ne ayak, ne et bırakmadadır, ne deri.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    },
+    {
+      "surah": 79,
+      "ayah": 1,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:1",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلنَّٰزِعَٰتِ",
+      "target_word_rasm": "وٱلنزعت",
+      "target_word_literal_irab": "Derinliklerden bütün gücüyle çekip sökenler (وَٱلنَّٰزِعَٰتِ غَرْقًا — çoğul ism-i fâil: 79:1)",
+      "context_snippet_arabic": "وَٱلنَّٰزِعَٰتِ غَرْقًا",
+      "context_snippet_turkish_tabula_rasa": "Andolsun şiddetle çekip alanlara.",
+      "morphology": {
+        "lemma": "n~a`ziEa`t",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:n~a`ziEa`t|ROOT:nzE|FP|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلنَّٰزِعَٰتِ غَرْقًا",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun şiddetle çekip alanlara.",
+      "contextual_meaning": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+    }
+  ]
+}

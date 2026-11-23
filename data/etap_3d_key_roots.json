@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3D (Fâtiha & Kısa Sure Tam Kilidi, Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar — 50 Kök)",
   "target_count": 50,
-  "locked_count": 20,
+  "locked_count": 30,
   "total_tokens_in_package": 1205,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 85.2,
+  "current_coverage_pct": 85.7,
   "target_coverage_pct": 86.92,
   "etap_3d_roots": [
     {
@@ -400,8 +400,8 @@
       "frequency": 48,
       "unique_ayahs": 41,
       "rationale": "Taâm ve İt'âm (5 açık Mesânî ref! 107:3 Mâûn, 90:14 Beled, 106:4 Kureyş, 76:8-9 yoksulu doyurmak ve tatmak)",
-      "concept_label": "Analiz Bekliyor (TaEaAm, >aToEama, TaEimu, <iToEa`m)",
-      "is_locked": false,
+      "concept_label": "Ṭaʿâm ve İṭʿâm (Tadıp Beslenmek, İnsanı Ayakta Tutan Gıda ve Aç Olanı Doyurmak)",
+      "is_locked": true,
       "sample_ayah": "2:61",
       "top_lemmas": [
         "TaEaAm",
@@ -420,8 +420,8 @@
       "frequency": 11,
       "unique_ayahs": 10,
       "rationale": "Firâr ve Meferr (5 açık Mesânî ref! 51:50 Allah'a kaçış vs 80:34, 75:10, 62:8 sorumluluktan ve ölümden kaçış)",
-      "concept_label": "Analiz Bekliyor (far~ato, firaAr, mafar~)",
-      "is_locked": false,
+      "concept_label": "Firâr ve Meferr (Tehlike veya Sorumluluktan Hızla Kaçmak ve Tek Sığınak Olan Allah'a Koşmak)",
+      "is_locked": true,
       "sample_ayah": "18:18",
       "top_lemmas": [
         "far~ato",
@@ -439,8 +439,8 @@
       "frequency": 43,
       "unique_ayahs": 41,
       "rationale": "Fevk, Fevâk ve İfâka (4 açık Mesânî ref! ت-ح-ت ve س-ف-ل zıttı üstte olmak, 7:143 ayılıp kendine gelmek)",
-      "concept_label": "Analiz Bekliyor (fawoq, >afaAqa, fawaAq)",
-      "is_locked": false,
+      "concept_label": "Fevk, İfâka ve Fevâk (Alt Tarafın Karşıtı Olan Üst Konum, Baygınlıktan Ayılma ve Duraksama Payı)",
+      "is_locked": true,
       "sample_ayah": "2:26",
       "top_lemmas": [
         "fawoq",
@@ -458,8 +458,8 @@
       "frequency": 24,
       "unique_ayahs": 22,
       "rationale": "Ezâ ve İyzâ' (4 açık Mesânî ref! 2:222 geçici rahatsızlık, 2:262-264 başa kakıp incitme, 33:58 haksız eziyet)",
-      "concept_label": "Analiz Bekliyor (>uw*iYa, >a*FY)",
-      "is_locked": false,
+      "concept_label": "Ezâ ve Îẕâʾ (Üzerinde Rahat Durulamayan Sıkıntı, Başa Kakarak veya İftirayla İncitmek)",
+      "is_locked": true,
       "sample_ayah": "2:196",
       "top_lemmas": [
         ">uw*iYa",
@@ -476,8 +476,8 @@
       "frequency": 42,
       "unique_ayahs": 42,
       "rationale": "Hüzün ve Hazen (3 açık Mesânî ref! 2:38 korku ve üzüntü yokluğu — ف-ر-ح zıttı ve خ-و-ف aynı ayet Furûku)",
-      "concept_label": "Analiz Bekliyor (yaHozun, Hazan, Huzon)",
-      "is_locked": false,
+      "concept_label": "Hüzün ve Hazen (Kayıp veya Baskı Karşısında İç Dünyanın Daralıp Kederlenmesi)",
+      "is_locked": true,
       "sample_ayah": "2:38",
       "top_lemmas": [
         "yaHozun",
@@ -495,8 +495,8 @@
       "frequency": 31,
       "unique_ayahs": 29,
       "rationale": "Büduvv, İbdâ' ve Bâdî (3 açık Mesânî ref! خ-ف-ي ve ك-ت-م zıttı: gizlenen şeyin çöl açıklığı gibi ortaya çıkması)",
-      "concept_label": "Analiz Bekliyor (yubodiYa, badaA, baAdiY, badow)",
-      "is_locked": false,
+      "concept_label": "Büdüvv, İbdâʾ ve Bedv (Gizli Olanın Açıkça Belirmesi, İçte Tutulanı Dışa Vurmak ve Açık Bozkır)",
+      "is_locked": true,
       "sample_ayah": "2:33",
       "top_lemmas": [
         "yubodiYa",
@@ -515,8 +515,8 @@
       "frequency": 20,
       "unique_ayahs": 20,
       "rationale": "Nez' ve Tenâzü' (3 açık Mesânî ref! 79:1-2 yerinden söküp çıkarmak, 3:26 gücü çekip almak ve 8:46 çekişip ihtilafa düşmek)",
-      "concept_label": "Analiz Bekliyor (nazaEa, tana`zaEu, yuna`ziEu, naz~aAEap)",
-      "is_locked": false,
+      "concept_label": "Nezʿ ve Tenâzüʿ (Bulunduğu Yerden Kuvvetle Çekip Söküp Çıkarmak ve Karşılıklı Çekiştirmek)",
+      "is_locked": true,
       "sample_ayah": "3:26",
       "top_lemmas": [
         "nazaEa",
@@ -535,8 +535,8 @@
       "frequency": 15,
       "unique_ayahs": 14,
       "rationale": "Bed' ve İbdâ' (3 açık Mesânî ref! ع-و-د [İâde] kökünün doğrudan Mesânî eşleniği: yaratılışı ilk kez başlatmak)",
-      "concept_label": "Analiz Bekliyor (bada>a, yubodi}u)",
-      "is_locked": false,
+      "concept_label": "Bedʾ ve İbdâʾ (Yaratılışı ve Bir Süreci İlk Adımından Açıp Başlatmak)",
+      "is_locked": true,
       "sample_ayah": "7:29",
       "top_lemmas": [
         "bada>a",
@@ -553,8 +553,8 @@
       "frequency": 12,
       "unique_ayahs": 10,
       "rationale": "Vasl ve Vasîle (3 açık Mesânî ref! ق-ط-ع kökünün doğrudan Mesânî zıttı: 2:27, 13:21,25 bağları birleştirip ulaştırmak)",
-      "concept_label": "Analiz Bekliyor (yaSilu, waSiylap, waS~alo)",
-      "is_locked": false,
+      "concept_label": "Vaṣl ve Tevṣîl (Kopukluk Bırakmadan Birbirine Bağlayıp Sürdürmek ve Hedefe Ulaştırmak)",
+      "is_locked": true,
       "sample_ayah": "2:27",
       "top_lemmas": [
         "yaSilu",
@@ -572,8 +572,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Ferd ve Furâdâ (3 açık Mesânî ref! 6:94, 19:80,95, 21:89 topluluk/şefaat zıttı: tek başına bireysel hesap)",
-      "concept_label": "Analiz Bekliyor (farod, fura`daY`)",
-      "is_locked": false,
+      "concept_label": "Ferd ve Furâdâ (Kalabalıktan ve Dış Dayanaklardan Sıyrılıp Tek Başına ve Teker Teker Olmak)",
+      "is_locked": true,
       "sample_ayah": "6:94",
       "top_lemmas": [
         "farod",

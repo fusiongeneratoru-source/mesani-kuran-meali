@@ -1,0 +1,694 @@
+{
+  "root": "ب-د-و",
+  "root_latin": "B-D-V (bdw)",
+  "concept_name": "Büdüvv, İbdâʾ ve Bedv (Gizli Olanın Açıkça Belirmesi, İçte Tutulanı Dışa Vurmak ve Açık Bozkır)",
+  "rank": 291,
+  "total_occurrences": 31,
+  "unique_ayahs_count": 29,
+  "unified_core_mechanism": "Gizli veya örtülü olan bir şeyin açık bozkırdaki gibi net biçimde belirmesi (بَدَا) ve içte tutulanın dışa vurulup açığa çıkarılması (أَبْدَى): içte gizlenenlerin veya yapılan yardımların açığa vurulması (2:271, 2:284, 33:37), hesap günü gizlenen gerçeklerin çırılçıplak belirmesi (6:28, 39:47-48) ve açık bozkır/dışarıdan gelen (ٱلْبَدْوِ 12:100, ٱلْبَادِ 22:25).",
+  "physical_core": "Açık bozkırda (البَدْو) bir nesnenin hiçbir perde olmadan net biçimde belirmesi ve görünür hale gelmesi (ظُهُورُ الشَّيْءِ وَبُرُوزُهُ): açık kır/bozkır (12:100), örtülü olanın açığa çıkması (بَدَا — 6:28, 7:22) ve içte gizlenenin dışa vurulması (أَبْدَى / تُبْدُونَ — 2:284, 33:37).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ب-د-و` kökünün tamamı tek bir sahih asla dayanır; o da bir şeyin açığa çıkıp görünür olmasıdır (`أصل واحد وهو ظهور الشيء`). Açık bozkıra da her şeyin orada açıkça görünmesi sebebiyle `بَدْو / بَادِيَة` denmiştir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `بَدَا الشَّيْءُ يَبْدُو بُدُوًّا` gizlilikten sonra açıkça ortaya çıkmaktır; `أَبْدَاهُ` ise onu açığa çıkarmaktır. `البَدْو` (`12:100`) yerleşik kentlerin (`الحَضَر`) karşıtı olan açık kır ve bozkırdır; `22:25`'teki `ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ` ise orada yerleşik olan ile dışarıdan/bozkırdan gelen kimsedir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `البُدُوّ` bir şeyin açıkça görünür olmasıdır (`ظُهُورُ الشَّيْءِ`); `11:27`'deki `بَادِىَ ٱلرَّأْىِ` ise derinlemesine düşünmeden, işin sadece ilk görünen yüzeyine bakarak hareket etmektir.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in tanımladığı 'örtülü veya içeride olanın açık bozkırdaki gibi net biçimde belirmesi ve açığa vurulması (`ظُهُورُ الشَّيْءِ`)' çekirdeği, Kur'an'da hem mekânsal (`ٱلْبَدْوِ` `12:100`, `ٱلْبَادِ` `22:25`, `بَادُونَ` `33:20`) hem de bilişsel/ahlaki (`تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ` `2:284`, `بَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ` `39:47`) tüm geçişleri tek mekanizmada birleştirir."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*b-d-w` kökü: Eski Güney Arapçası (Saba) `bdw` ('açık arazi, bozkır; açığa çıkmak') ve Aramice/Süryanice `בְּדָא / ܒܕܐ` (*bədā*: 'ortaya çıkarmak, dışa vurmak') ile doğrudan eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "خ-ف-ي [وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ ... إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ ... وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ] (İçte Olanı Dışa Vurup Açığa Çıkarmak [تُبْدُوا۟ / مُبْدِيهِ] ↔ İçinde Gizleyip Saklamak [تُخْفُوهُ / تُخْفِى]: 2:271, 2:284, 3:29, 4:149, 6:91, 24:31, 33:37, 33:54)",
+      "ك-ت-م [وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ ... تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا] (Açığa Vurup Ortaya Koymak [تُبْدُونَ] ↔ Bastırıp Gizlemek [تَكْتُمُونَ]: 2:33, 5:99)",
+      "و-ر-ي [لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا] (Örtülü Olanı Açığa Çıkarmak [لِيُبْدِىَ] ↔ Örtüp Gizlemek [وُۥرِىَ عَنْهُمَا]: 7:20)",
+      "ع-ك-ف [سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ] (Orada Yerleşik Kalıp Duran [ٱلْعَٰكِفُ] ↔ Dışarıdan/Açık Bozkırdan Gelen [وَٱلْبَادِ]: 22:25)",
+      "ض-ر-ب (ض-ر-ب ↔ ب-د-و Mesânî simetrisi)",
+      "ق-ر-ي (ق-ر-ي ↔ ب-د-و Mesânî simetrisi)",
+      "خ-م-ر (خ-م-ر ↔ ب-د-و Mesânî simetrisi)"
+    ],
+    "key_ayahs": [
+      "2:33",
+      "2:271",
+      "2:284",
+      "6:28",
+      "7:20-22",
+      "11:27",
+      "12:35",
+      "12:77",
+      "12:100",
+      "22:25",
+      "24:31",
+      "33:37",
+      "39:47-48"
+    ],
+    "reverse_stress_test": "Mushaf'ta 12'den fazla ayette (`2:33`, `2:271`, `2:284`, `3:29`, `3:154`, `4:149`, `5:99`, `6:91`, `7:20`, `24:31`, `33:37`, `33:54`) `تُبْدُوا۟ / مُبْدِيهِ` (açığa çıkarmak) doğrudan `تُخْفُوهُ` (`خ-ف-ي`: gizlemek), `تَكْتُمُونَ` (`ك-ت-م`: saklamak) ve `وُۥرِىَ` (`و-ر-ي`: örtmek) köklerinin tam karşıtı olarak; `22:25`'te ise `ٱلْبَادِ` (dışarıdan/bozkırdan gelen) doğrudan `ٱلْعَٰكِفُ` (`ع-ك-ف`: yerleşik duran) ile karşı karşıya mühürlenmiştir. Gizlemek (`خ-ف-ي` / `ك-ت-م`) ve yerleşik kapanmak (`ع-ك-ف`) tersine çevrildiğinde, `ب-د-و` kökünün 'açıkta belirmek ve açığa vurmak' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ظ-ه-ر (24:31 وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا — ظُهُور kasıt olmaksızın kendiliğinden dışarıdan görünür olmak iken, إِبْدَاء [يُبْدِينَ] örtülü olanı kasıtlı bir eylemle açıp sergilemektir)"
+    ],
+    "mechanical_difference": "`24:31`'deki `وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا` ayeti `ب-د-و` (Bab IV `إِبْدَاء`) ile `ظ-ه-ر` arasındaki mekanik farkı doğrudan gösterir: `مَا ظَهَرَ مِنْهَا` doğal akışta kendiliğinden görünen kısım, `يُبْدِينَ` ise gizli/örtülü kısmı bilerek açığa vurup sergilemektir."
+  },
+  "anchor_ayahs": [
+    "2:33",
+    "2:271",
+    "2:284",
+    "6:28",
+    "7:20-22",
+    "11:27",
+    "12:100",
+    "22:25",
+    "24:31",
+    "33:37",
+    "39:47-48"
+  ],
+  "grammar_and_branch_rules": "Bab I (`بَدَا / بَدَتْ / تَبْدُ` — 11 geçiş) gizli olan bir durumun kendiliğinden ortaya çıkmasını; Bab IV (`تُبْدُونَ / يُبْدِينَ / مُبْدِيهِ` — 16 geçiş) içte tutulanı veya örtülü olanı açığa vurmayı; `ٱلْبَدْوِ` (`12:100`), `ٱلْبَادِ` (`22:25`) ve `بَادُونَ` (`33:20`) açık bozkırı ve dışarıdan gelenleri; `بَادِىَ ٱلرَّأْىِ` (`11:27`) ise derinleşmeden ilk görünen yüzeysel görüşü ifade eder.",
+  "derivatives": {
+    "تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / مُبْدِيهِ": "İçte gizleneni veya örtülü olanı dışa vurup açığa çıkarmak (2:33, 2:271, 2:284, 3:29, 7:20, 12:77, 24:31, 28:10, 33:37)",
+    "بَدَا / بَدَتْ / تَبْدُ": "Gizli veya örtülü olanın apaçık ortaya çıkıp belirmesi (3:118, 5:101, 6:28, 7:22, 12:35, 20:121, 39:47-48, 45:33, 60:4)",
+    "ٱلْبَدْوِ / ٱلْبَادِ / بَادُونَ": "Açık bozkır; bozkırda yaşayanlar ve dışarıdan gelen ziyaretçi (12:100, 22:25, 33:20)",
+    "بَادِىَ ٱلرَّأْىِ": "Derinlemesine düşünmeden, işin ilk görünen yüzeyiyle (11:27)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 33,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:33",
+      "word_position": 19,
+      "target_word_uthmani": "تُبْدُونَ",
+      "target_word_rasm": "تبدون",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Demişti ki: Ey Âdem onlara, yaratıkları adlarıyla haber ver, Âdem, her şeyi adlı adınca haber verince demişti ki: Ben size demedim mi, göklerdeki gizli şeyleri...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Demişti ki: Ey Âdem onlara, yaratıkları adlarıyla haber ver, Âdem, her şeyi adlı adınca haber verince demişti ki: Ben size demedim mi, göklerdeki gizli şeyleri de bilirim, yeryüzünde ki gizli şeyleri de. Açığa vurduğunuzu da bilirim, gizlediğinizi de.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 2,
+      "ayah": 271,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:271",
+      "word_position": 2,
+      "target_word_uthmani": "تُبْدُوا۟",
+      "target_word_rasm": "تبدوا",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "إِن تُبْدُوا۟ ٱلصَّدَقَٰتِ فَنِعِمَّا هِىَ",
+      "context_snippet_turkish_tabula_rasa": "Sadakalarınızı açık verirseniz ne hoş, fakat gizlice yoksullara verecek olursanız bu, size daha hayırlıdır ve bu, sapma ve ağır kusur karşılığı olur; Allah ne...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِن تُبْدُوا۟ ٱلصَّدَقَٰتِ فَنِعِمَّا هِىَ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ خَيْرٌ لَّكُمْ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sadakalarınızı açık verirseniz ne hoş, fakat gizlice yoksullara verecek olursanız bu, size daha hayırlıdır ve bu, sapma ve ağır kusur karşılığı olur; Allah ne yaparsanız hepsinden haberdardır.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 2,
+      "ayah": 284,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:284",
+      "word_position": 9,
+      "target_word_uthmani": "تُبْدُوا۟",
+      "target_word_rasm": "تبدوا",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ındır göklerde ne varsa ve yeryüzünde ne varsa. İçinizdekini açıklasanız da, gizleseniz de Allah, onunla sizi hesaba çeker. Dilediğini yarlıgar,...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ındır göklerde ne varsa ve yeryüzünde ne varsa. İçinizdekini açıklasanız da, gizleseniz de Allah, onunla sizi hesaba çeker. Dilediğini yarlıgar, dilediğini azaplandırır ve Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 3,
+      "ayah": 29,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:29",
+      "word_position": 8,
+      "target_word_uthmani": "تُبْدُوهُ",
+      "target_word_rasm": "تبدوه",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ وَيَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Gönlünüzdekini gizleseniz de Allah bilir, açığa vursanız da. Göklerde ve yeryüzünde ne varsa bilir ve Allah'ın her şeye gücü yeter.",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ وَيَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Gönlünüzdekini gizleseniz de Allah bilir, açığa vursanız da. Göklerde ve yeryüzünde ne varsa bilir ve Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 3,
+      "ayah": 118,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:118",
+      "word_position": 16,
+      "target_word_uthmani": "بَدَتِ",
+      "target_word_rasm": "بدت",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, birbirinizi bırakıp da başkalarını dost edinmeye kalkışmayın. Onlar, size zarar vermekten, kötülükte bulunmaktan geri kalmazlar, sizin...",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3FS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةً مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًا وَدُّوا۟ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ إِن كُنتُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, birbirinizi bırakıp da başkalarını dost edinmeye kalkışmayın. Onlar, size zarar vermekten, kötülükte bulunmaktan geri kalmazlar, sizin zahmete düşmenizi dilerler. Düşmanlıkları, ağızlarından dökülen sözlerden açıkça belli olur, yüreklerinde gizledikleri düşmanlıksa daha da büyüktür. İşte, aklınızı başınıza almanız için size bu delilleri açıkladık.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 3,
+      "ayah": 154,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:154",
+      "word_position": 39,
+      "target_word_uthmani": "يُبْدُونَ",
+      "target_word_rasm": "يبدون",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ يَقُولُونَ لَوْ",
+      "context_snippet_turkish_tabula_rasa": "Bu gamdan sonra size emniyetle bir uyku verdi ki içinizden bir bölüğü sarıp kapladı. Bir bölükse can kaygısına düşmüştü. Allah hakkında, Müslümanlıktan önceki...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|3MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا قُتِلْنَا هَٰهُنَا قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu gamdan sonra size emniyetle bir uyku verdi ki içinizden bir bölüğü sarıp kapladı. Bir bölükse can kaygısına düşmüştü. Allah hakkında, Müslümanlıktan önceki bilgisizlik çağında olduğu gibi haksız zanlara kapıldılar. Diyorlar ki: Bu işte nemiz var bizim? De ki: Bütün işler Allah'ındır. Onlar, sana açıklamadıklarını yüreklerinde gizliyorlar ve bu işte payımız olsaydı burada öldürülmezdik diyorlar. De ki: Evlerinizde de olsanız, öldürmeleri yazılanlar, gene çıkarlar, öldürülüp yatacakları yerlere giderlerdi ve Allah, gönüllerinizde olanları yoklamak, yüreklerinizdekini artırmak için yaptı bunu ve Allah, yüreklerinizde ne varsa hepsini bilir.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 4,
+      "ayah": 149,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:149",
+      "word_position": 2,
+      "target_word_uthmani": "تُبْدُوا۟",
+      "target_word_rasm": "تبدوا",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ",
+      "context_snippet_turkish_tabula_rasa": "Açıkça bir hayır yaparsanız, yahut yaptığınız hayrı gizlerseniz, yahut da gördüğünüz kötülüğü bağışlarsanız bilin ki Allah, şüphe yok, bağışlayıcıdır, her şeye...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Açıkça bir hayır yaparsanız, yahut yaptığınız hayrı gizlerseniz, yahut da gördüğünüz kötülüğü bağışlarsanız bilin ki Allah, şüphe yok, bağışlayıcıdır, her şeye gücü yeter.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 5,
+      "ayah": 99,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:99",
+      "word_position": 9,
+      "target_word_uthmani": "تُبْدُونَ",
+      "target_word_rasm": "تبدون",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+      "context_snippet_turkish_tabula_rasa": "elçinin vazifesi, ancak tebliğdir ve Allah, açığa vurduğunuz şeyleri de bilir, gizlediğiniz şeyleri de.",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP"
+      },
+      "ayah_text_arabic_full": "مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "elçinin vazifesi, ancak tebliğdir ve Allah, açığa vurduğunuz şeyleri de bilir, gizlediğiniz şeyleri de.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 5,
+      "ayah": 101,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:101",
+      "word_position": 9,
+      "target_word_uthmani": "تُبْدَ",
+      "target_word_rasm": "تبد",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, size açıklanınca hoşunuza gitmeyecek şeyleri sormayın Kur'an indirilirken bunlara ait bir şey sorarsanız hükmü açıklanır size, halbuki Allah...",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:badaA|ROOT:bdw|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, size açıklanınca hoşunuza gitmeyecek şeyleri sormayın Kur'an indirilirken bunlara ait bir şey sorarsanız hükmü açıklanır size, halbuki Allah geçmişti ondan, ona ait hükmü bildirmemişti ve Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 5,
+      "ayah": 101,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:101",
+      "word_position": 18,
+      "target_word_uthmani": "تُبْدَ",
+      "target_word_rasm": "تبد",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, size açıklanınca hoşunuza gitmeyecek şeyleri sormayın Kur'an indirilirken bunlara ait bir şey sorarsanız hükmü açıklanır size, halbuki Allah...",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:badaA|ROOT:bdw|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, size açıklanınca hoşunuza gitmeyecek şeyleri sormayın Kur'an indirilirken bunlara ait bir şey sorarsanız hükmü açıklanır size, halbuki Allah geçmişti ondan, ona ait hükmü bildirmemişti ve Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 28,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:28",
+      "word_position": 2,
+      "target_word_uthmani": "بَدَا",
+      "target_word_rasm": "بدا",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "بَلْ بَدَا لَهُم مَّا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Hayır; evvelce gizledikleri belirdi artık, göründü onlara. Geriye döndürülseler de gene nehyedildikleri şeyleri yapmaya koyulurlar ve şüphe yok ki onlar,...",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3MS"
+      },
+      "ayah_text_arabic_full": "بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَٰذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; evvelce gizledikleri belirdi artık, göründü onlara. Geriye döndürülseler de gene nehyedildikleri şeyleri yapmaya koyulurlar ve şüphe yok ki onlar, yalancılardır.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 6,
+      "ayah": 91,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:91",
+      "word_position": 28,
+      "target_word_uthmani": "تُبْدُونَهَا",
+      "target_word_rasm": "تبدونها",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "لِّلنَّاسِ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا وَعُلِّمْتُم",
+      "context_snippet_turkish_tabula_rasa": "Allah, hiçbir kimseye hiçbir şey indirmedi dedikleri zaman Allah'ı layıkıyla tanımadılar, ululamadılar. De ki: Musa'nın, insanlara bir ışık ve onları doğru...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ قُلِ ٱللَّهُ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hiçbir kimseye hiçbir şey indirmedi dedikleri zaman Allah'ı layıkıyla tanımadılar, ululamadılar. De ki: Musa'nın, insanlara bir ışık ve onları doğru yola sevk eden bir vasıta olarak getirdiği kitabı kim indirdi? Hanisiz onu kağıtlara yazdınız da yayıp açıklarsınız, hükümlerinden çoğunu da gizlersiniz, hani siz de, atalarınız da, bilmediğiniz şeyleri onun sayesinde bildiniz, öğrendiniz. De ki: Allah indirdi, sonra da bırak onları, düştükleri boş iddialarla oyalanıp dursunlar.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 7,
+      "ayah": 20,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:20",
+      "word_position": 4,
+      "target_word_uthmani": "لِيُبْدِىَ",
+      "target_word_rasm": "ليبدى",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç, onlara gizli kalmış olan avret yerlerini belirtip göstermek için ikisini de vesveselendirdi ve bu ağacın meyvesini yerseniz mutlaka iki...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ ٱلْخَٰلِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç, onlara gizli kalmış olan avret yerlerini belirtip göstermek için ikisini de vesveselendirdi ve bu ağacın meyvesini yerseniz mutlaka iki buyruk elçisi haline gelir, yahut da ebedi ömre kavuşursunuz, onun için Rabbiniz sizi nehyetti dedi.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 7,
+      "ayah": 22,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:22",
+      "word_position": 6,
+      "target_word_uthmani": "بَدَتْ",
+      "target_word_rasm": "بدت",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا",
+      "context_snippet_turkish_tabula_rasa": "Onları böylece aldattı. Derken o ağacın meyvesinden tadınca avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye...",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3FS"
+      },
+      "ayah_text_arabic_full": "فَدَلَّىٰهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları böylece aldattı. Derken o ağacın meyvesinden tadınca avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular. Rableri nida edip onlara dedi ki: Sizi, şu ağacın meyvesini yemeden menetmedim mi ve demedim mi ki saptırıcı yıkıcı güç, hiç şüphe yok ki size apaçık bir düşmandır.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 11,
+      "ayah": 27,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:27",
+      "word_position": 19,
+      "target_word_uthmani": "بَادِىَ",
+      "target_word_rasm": "بادى",
+      "target_word_literal_irab": "Derinlemesine düşünmeden, işin ilk görünen yüzeyiyle (بَادِىَ ٱلرَّأْىِ — ism-i fâil: 11:27)",
+      "context_snippet_arabic": "ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Kavminin gerçeğin üzerini örten olanlarından ileri gelenler, biz dediler, seni de bizim gibi bir adam görmedeyiz ve sana uyanları da görüyoruz ki düşünmeden ve...",
+      "morphology": {
+        "lemma": "baAdiY",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:baAdiY|ROOT:bdw|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kavminin gerçeğin üzerini örten olanlarından ileri gelenler, biz dediler, seni de bizim gibi bir adam görmedeyiz ve sana uyanları da görüyoruz ki düşünmeden ve derhal sana kapılıveren ve ancak aşağılık tabakadan olan adamlarımız ve sizin, bize bir üstünlüğünüzü de görmüyoruz, hatta yalancı olduğunuzu sanıyoruz.",
+      "contextual_meaning": "Açık bozkırdan (el-bedv) kente geliş, Mescid-i Harâm'da yerleşik olanla dışarıdan gelenin (el-bâd) eşitliği ve yüzeysel ilk bakış (bâdiye'r-re'y)."
+    },
+    {
+      "surah": 12,
+      "ayah": 35,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:35",
+      "word_position": 2,
+      "target_word_uthmani": "بَدَا",
+      "target_word_rasm": "بدا",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ",
+      "context_snippet_turkish_tabula_rasa": "Sonra onun suçsuzluğuna dair bunca deliller görmekle beraber gene de bir müddet hapsedilmesini muvafık bir tedbir saydılar.",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra onun suçsuzluğuna dair bunca deliller görmekle beraber gene de bir müddet hapsedilmesini muvafık bir tedbir saydılar.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 12,
+      "ayah": 77,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:77",
+      "word_position": 15,
+      "target_word_uthmani": "يُبْدِهَا",
+      "target_word_rasm": "يبدها",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Bu dediler, hırsızlık ettiyse daha önce bir kardeşi de hırsızlık etmişti. Yusuf, bunu gizledi onlardan ve kendi kendine dedi ki: Sizin durumunuz daha kötü,...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ شَرٌّ مَّكَانًا وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu dediler, hırsızlık ettiyse daha önce bir kardeşi de hırsızlık etmişti. Yusuf, bunu gizledi onlardan ve kendi kendine dedi ki: Sizin durumunuz daha kötü, anlattığınız şeyi Allah daha iyi bilir.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 12,
+      "ayah": 100,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:100",
+      "word_position": 29,
+      "target_word_uthmani": "ٱلْبَدْوِ",
+      "target_word_rasm": "ٱلبدو",
+      "target_word_literal_irab": "Her şeyin açıkta göründüğü kır ve bozkır (مِّنَ ٱلْبَدْوِ — isim: 12:100)",
+      "context_snippet_arabic": "وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن",
+      "context_snippet_turkish_tabula_rasa": "Anasıyla babasını tahta çıkartıp oturttu ve hepsi de ona karşı boyun eğip teslim oldular. Babacığım dedi, evvelce gördüğüm rüya, bu işte, Rabbim onu...",
+      "morphology": {
+        "lemma": "badow",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:badow|ROOT:bdw|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Anasıyla babasını tahta çıkartıp oturttu ve hepsi de ona karşı boyun eğip teslim oldular. Babacığım dedi, evvelce gördüğüm rüya, bu işte, Rabbim onu gerçekleştirdi ve beni zindandan çıkararak lutfetti bana; saptırıcı yıkıcı güç, benimle kardeşlerimin arasını bozduktan sonra da sizi çölden getirdi. Şüphe yok ki Rabbim, dilediği şeyi tedbir edip lütfüyle meydana getirir; şüphe yok ki o her şeyi bilir, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Açık bozkırdan (el-bedv) kente geliş, Mescid-i Harâm'da yerleşik olanla dışarıdan gelenin (el-bâd) eşitliği ve yüzeysel ilk bakış (bâdiye'r-re'y)."
+    },
+    {
+      "surah": 20,
+      "ayah": 121,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:121",
+      "word_position": 3,
+      "target_word_uthmani": "فَبَدَتْ",
+      "target_word_rasm": "فبدت",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا",
+      "context_snippet_turkish_tabula_rasa": "İkisi de o ağacın meyvesından yediler de avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular ve Âdem,...",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3FS"
+      },
+      "ayah_text_arabic_full": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "İkisi de o ağacın meyvesından yediler de avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular ve Âdem, Rabbinin emrine karşı geldi de umduğundan mahrum oldu.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 22,
+      "ayah": 25,
+      "surah_name": "Hac",
+      "ayah_ref": "22:25",
+      "word_position": 16,
+      "target_word_uthmani": "وَٱلْبَادِ",
+      "target_word_rasm": "وٱلباد",
+      "target_word_literal_irab": "Dışarıdan/bozkırdan açıkça gelen ziyaretçi (وَٱلْبَادِ — Bab I ism-i fâil: 22:25)",
+      "context_snippet_arabic": "سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ وَمَن يُرِدْ فِيهِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar ve halkı Allah'ın yolundan çıkaranlar ve insanlar için boyun eğme ve kulluk yeri olarak halkettiğimiz ve orada yurt tutanla...",
+      "morphology": {
+        "lemma": "baAd",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:baAd|ROOT:bdw|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar ve halkı Allah'ın yolundan çıkaranlar ve insanlar için boyun eğme ve kulluk yeri olarak halkettiğimiz ve orada yurt tutanla orayı ziyaret için gelen hakkında aynı hükümleri yürüttüğümüz dokunulmaz teslimiyet odağı'dan men edenlerse. Ve kim orada nehy edilmiş birşeyi zulmederek yapmak isterse ona elemli azabı tattırırız.",
+      "contextual_meaning": "Açık bozkırdan (el-bedv) kente geliş, Mescid-i Harâm'da yerleşik olanla dışarıdan gelenin (el-bâd) eşitliği ve yüzeysel ilk bakış (bâdiye'r-re'y)."
+    },
+    {
+      "surah": 24,
+      "ayah": 29,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:29",
+      "word_position": 15,
+      "target_word_uthmani": "تُبْدُونَ",
+      "target_word_rasm": "تبدون",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Orada bir menfaatiniz varsa içinde kimse oturmayan eve girmenizde bir suç yok size ve Allah, açığa vurduğunuzu da bilir, gizlediğinizi de.",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا۟ بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَٰعٌ لَّكُمْ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada bir menfaatiniz varsa içinde kimse oturmayan eve girmenizde bir suç yok size ve Allah, açığa vurduğunuzu da bilir, gizlediğinizi de.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 9,
+      "target_word_uthmani": "يُبْدِينَ",
+      "target_word_rasm": "يبدين",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا",
+      "context_snippet_turkish_tabula_rasa": "güvene eren kadınlara da söyle, gözlerini haramdan sakınsınlar, ırzlarını korusunlar ve açığa çıkanlardan, görünenlerden başka ziynetlerini göstermesinler ve...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|3FP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle, gözlerini haramdan sakınsınlar, ırzlarını korusunlar ve açığa çıkanlardan, görünenlerden başka ziynetlerini göstermesinler ve örtülerini, göğüslerini örtecek bir tarzda omuzlarından aşağıya doğru salsınlar; kocalarından, yahut babalarından, yahut kocalarının babasından, yahut oğullarından, yahut üvey oğullarından, yahut erkek kardeşlerinden, yahut erkek kardeşlerinin oğullarından, yahut kız kardeşlerinin oğullarından, yahut Müslüman kadınlardan, yahut kendi malları olan kölelerden, yahut erkeklikten kesilmiş veya kudreti olmayan erkek hizmetçilerden, yahut da henüz kadınların gizli hallerine vakıf olmayan erkek çocuklardan başka erkeklere ziynetlerini göstermesinler; gizledikleri ziynetler, bilinsin diye ayaklarını da vurmasınlar ve tövbe edin hepiniz Allah'a ey güvene erenler da kurtulun, erin muradınıza.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 20,
+      "target_word_uthmani": "يُبْدِينَ",
+      "target_word_rasm": "يبدين",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "güvene eren kadınlara da söyle, gözlerini haramdan sakınsınlar, ırzlarını korusunlar ve açığa çıkanlardan, görünenlerden başka ziynetlerini göstermesinler ve...",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|3FP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle, gözlerini haramdan sakınsınlar, ırzlarını korusunlar ve açığa çıkanlardan, görünenlerden başka ziynetlerini göstermesinler ve örtülerini, göğüslerini örtecek bir tarzda omuzlarından aşağıya doğru salsınlar; kocalarından, yahut babalarından, yahut kocalarının babasından, yahut oğullarından, yahut üvey oğullarından, yahut erkek kardeşlerinden, yahut erkek kardeşlerinin oğullarından, yahut kız kardeşlerinin oğullarından, yahut Müslüman kadınlardan, yahut kendi malları olan kölelerden, yahut erkeklikten kesilmiş veya kudreti olmayan erkek hizmetçilerden, yahut da henüz kadınların gizli hallerine vakıf olmayan erkek çocuklardan başka erkeklere ziynetlerini göstermesinler; gizledikleri ziynetler, bilinsin diye ayaklarını da vurmasınlar ve tövbe edin hepiniz Allah'a ey güvene erenler da kurtulun, erin muradınıza.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 28,
+      "ayah": 10,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:10",
+      "word_position": 8,
+      "target_word_uthmani": "لَتُبْدِى",
+      "target_word_rasm": "لتبدى",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "فَٰرِغًا إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın anası, gönlü bomboş bir halde kaldı, eğer güvene erenlere katılması için gönlünü, bize bağlamasaydık nerdeyse açığa vuracaktı bunu.",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|3FS"
+      },
+      "ayah_text_arabic_full": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًا إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın anası, gönlü bomboş bir halde kaldı, eğer güvene erenlere katılması için gönlünü, bize bağlamasaydık nerdeyse açığa vuracaktı bunu.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 33,
+      "ayah": 20,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:20",
+      "word_position": 11,
+      "target_word_uthmani": "بَادُونَ",
+      "target_word_rasm": "بادون",
+      "target_word_literal_irab": "Açık bozkırda/çölde yaşayanlar arasında (بَادُونَ فِى ٱلْأَعْرَابِ — çoğul ism-i fâil: 33:20)",
+      "context_snippet_arabic": "يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sanırlar ki düşman bölükleri gitmedi ve ö bölükler, bir daha gelseler isterler ki çöllerde, bedevilerin aralarında bulunsunlar da size ait haberleri...",
+      "morphology": {
+        "lemma": "baAduwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:baAduwn|ROOT:bdw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ وَلَوْ كَانُوا۟ فِيكُم مَّا قَٰتَلُوٓا۟ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sanırlar ki düşman bölükleri gitmedi ve ö bölükler, bir daha gelseler isterler ki çöllerde, bedevilerin aralarında bulunsunlar da size ait haberleri soruştursunlar ve zaten sizin içinizde de olsalar pek az savaşacaktır onlar.",
+      "contextual_meaning": "Açık bozkırdan (el-bedv) kente geliş, Mescid-i Harâm'da yerleşik olanla dışarıdan gelenin (el-bâd) eşitliği ve yüzeysel ilk bakış (bâdiye'r-re'y)."
+    },
+    {
+      "surah": 33,
+      "ayah": 37,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:37",
+      "word_position": 19,
+      "target_word_uthmani": "مُبْدِيهِ",
+      "target_word_rasm": "مبديه",
+      "target_word_literal_irab": "Gizlenen gerçeği açığa çıkaracak olan (مَا ٱللَّهُ مُبْدِيهِ — Bab IV ism-i fâil: 33:37)",
+      "context_snippet_arabic": "نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "An o zamanı ki Allah'ın, kendisine nimet verdiği ve senin de nimetler verdiğin kişiye eşini bırakma ve çekin Allah'tan diyordun ve Allah'ın açığa vuracağı...",
+      "morphology": {
+        "lemma": "mubodiy",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mubodiy|ROOT:bdw|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı ki Allah'ın, kendisine nimet verdiği ve senin de nimetler verdiğin kişiye eşini bırakma ve çekin Allah'tan diyordun ve Allah'ın açığa vuracağı şeyi, içinde gizliyordun ve insanlardan korkuyordun ve Allah'tan korkman daha doğruydu ve o, daha layıktı buna. Derken Zeyd, eşinden ilişiğini kesince biz o kadını sana eş ettik, bu da, oğul edinilen kişiler, eşlerinden ayrıldıkları zaman onların bıraktıkları kadınları güvene erenlerin almalarında bir beis olmadığını bildirmek içindi ve Allah'ın emri yerine gelmiş oldu.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 33,
+      "ayah": 54,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:54",
+      "word_position": 2,
+      "target_word_uthmani": "تُبْدُوا۟",
+      "target_word_rasm": "تبدوا",
+      "target_word_literal_irab": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)",
+      "context_snippet_arabic": "إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ",
+      "context_snippet_turkish_tabula_rasa": "Birşeyi açığa vursanız da, gizleseniz de hiç şüphe yok ki Allah, her şeyi bilir.",
+      "morphology": {
+        "lemma": "yubodiYa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yubodiYa|ROOT:bdw|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Birşeyi açığa vursanız da, gizleseniz de hiç şüphe yok ki Allah, her şeyi bilir.",
+      "contextual_meaning": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+    },
+    {
+      "surah": 39,
+      "ayah": 47,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:47",
+      "word_position": 18,
+      "target_word_uthmani": "وَبَدَا",
+      "target_word_rasm": "وبدا",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ وَبَدَا لَهُم مِّنَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde ne varsa hepsi ve onlarla beraber de daha bir misli, zulmedenlerin olsa kıyamet günü, azabın kötülüğünü giderip kurtulmak için elbette...",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde ne varsa hepsi ve onlarla beraber de daha bir misli, zulmedenlerin olsa kıyamet günü, azabın kötülüğünü giderip kurtulmak için elbette bağışlarlardı; ve o gün, onların hiç hesaplamakdıkları şeyler, Allah tarafından karşılarına çıkarılıverecek.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 39,
+      "ayah": 48,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:48",
+      "word_position": 1,
+      "target_word_uthmani": "وَبَدَا",
+      "target_word_rasm": "وبدا",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا",
+      "context_snippet_turkish_tabula_rasa": "Kazandıkları kötülükler, ortaya çıkmıştır ve alay ettikleri şey, başlarına gelmiştir.",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3MS"
+      },
+      "ayah_text_arabic_full": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kazandıkları kötülükler, ortaya çıkmıştır ve alay ettikleri şey, başlarına gelmiştir.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 45,
+      "ayah": 33,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:33",
+      "word_position": 1,
+      "target_word_uthmani": "وَبَدَا",
+      "target_word_rasm": "وبدا",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا",
+      "context_snippet_turkish_tabula_rasa": "Ve belirir, görünür onlara yaptıkları işlerin kötülükleri ve başlarına gelir alay ettikleri şey.",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3MS"
+      },
+      "ayah_text_arabic_full": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve belirir, görünür onlara yaptıkları işlerin kötülükleri ve başlarına gelir alay ettikleri şey.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    },
+    {
+      "surah": 60,
+      "ayah": 4,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:4",
+      "word_position": 23,
+      "target_word_uthmani": "وَبَدَا",
+      "target_word_rasm": "وبدا",
+      "target_word_literal_irab": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)",
+      "context_snippet_arabic": "ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de İbrahim'de ve onunla beraber bulunanlarda güzel bir örnek var size; hani kavimlerine demişlerdi ki: Şüphe yok ki biz, sizden ve Allah'tan başka...",
+      "morphology": {
+        "lemma": "badaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:badaA|ROOT:bdw|3MS"
+      },
+      "ayah_text_arabic_full": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de İbrahim'de ve onunla beraber bulunanlarda güzel bir örnek var size; hani kavimlerine demişlerdi ki: Şüphe yok ki biz, sizden ve Allah'tan başka kulluk ettiklerinizden tamamıyla uzağız, gerçeğin üzerini ört sizi ve aramızla aranızda, bir Allah'a siz de güven duy dek ebedi bir düşmanlık ve nefret belirmiştir; ancak İbrahim'in, atasına, elbette senin için yarlıganma dileyeceğim ve fakat Allah'tan sana gelecek hiçbirşeyi de menedemem sözü başka; Rabbimiz, sana dayandık ve sana yöneldik ve dönüpgeleceğimiz yer de senin tapın.",
+      "contextual_meaning": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+    }
+  ]
+}

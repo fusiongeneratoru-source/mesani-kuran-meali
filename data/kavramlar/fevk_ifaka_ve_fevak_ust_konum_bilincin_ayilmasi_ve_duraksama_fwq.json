@@ -1,0 +1,932 @@
+{
+  "root": "ف-و-ق",
+  "root_latin": "F-V-K (fwq)",
+  "concept_name": "Fevk, İfâka ve Fevâk (Alt Tarafın Karşıtı Olan Üst Konum, Baygınlıktan Ayılma ve Duraksama Payı)",
+  "rank": 225,
+  "total_occurrences": 43,
+  "unique_ayahs_count": 41,
+  "unified_core_mechanism": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel, sayısal veya derecesel üst konumda olmak (فَوْقَ — 6:18, 12:76, 24:40, 48:10), sarsıntı ve baygınlık sonrası bilincin yerine gelip ayılması (أَفَاقَ — 7:143) ve duraksama/geri dönüş süresi (فَوَاق — 38:15).",
+  "physical_core": "İki sahih asıl: (1) Bir şeyin alt kısmının (تَحْت / أَسْفَل) karşıtı olarak fiziksel veya derecesel üst tarafı ve yüksekliği (العُلُوُّ — فَوْقَ), (2) İki sağım arasında sütün memede tekrar toplanması veya bayılan kimsenin bilincinin kendisine geri dönüp ayılması (الأَوْبَةُ وَالرُّجُوعُ — أَفَاقَ 7:143, فَوَاق 38:15).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ف-و-ق` kökü iki sahih asla dayanır: birincisi yükseklik ve üst taraftır (`الفَوْقُ وَهُوَ العُلُوُّ`); ikincisi ise geri dönüş ve toparlanmadır (`الأَوْبَةُ وَالرُّجُوعُ`). Sağım arasında memede sütün yeniden toplanma süresine `فُوَاق / فَوَاق`, `38:15`'teki `{مَّا لَهَا مِن فَوَاقٍ}` ifadesine 'geri dönüşü, tekrarı ve duraksaması olmayan', baygınlıktan ayılmaya da bilincin geri dönmesi sebebiyle `أَفَاقَ` (`7:143`) denmiştir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `فَوْق` alt tarafın (`تَحْت`) tam karşıtıdır; `الفَوَاق` (`38:15`) iki sağım arasındaki dinlenme/bekleme süresi, `الإِفَاقَة` (`7:143`) ise baygınlık sonrası aklın ve bilincin yerine gelmesidir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `فَوْق` hem mekânsal üst taraf (`2:63`, `12:36`, `24:40`), hem sayısal/ölçüsel fazlalık (`2:26`, `4:11`), hem de güç, bilgi ve egemenlik üstünlüğü (`6:18`, `12:76`, `48:10`) için kullanılır.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in tespit ettiği iki dal, Kur'an'daki 43 geçişi eksiksiz açıklar: (1) `فَوْقَ` (41 geçiş) mekânsal olarak başın, toprağın, dağın veya göklerin üst tarafını (`12:36`, `23:17`, `67:19`) ve bilişsel/hukuki olarak güç, ahit ve bilgi üstünlüğünü (`6:18`, `12:76` `وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ`, `48:10` `يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ`), (2) `أَفَاقَ` (`7:143`) sarsıntı sonrası bilincin yerine gelip ayılmasını, `فَوَاق` (`38:15`) ise duraksama ve geri dönüş payını ifade eder."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*p-w-q` kökü: İbranice פּוּק (`pūq` Strong H6328/H6329: 'ileri/yukarı çıkmak, başarmak'), Aramice/Süryanice `פּוּק / ܦܘܩ` (*pūq*: 'dışarı/yukarı çıkmak, ayılmak') ve Eski Güney Arapçası `fwq` ('üst taraf, yukarı') ile doğrudan eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ت-ح-ت [لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ... يَوْمَ يَغْشَىٰهُمُ ٱلْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ] (Üst Taraftan ve Tepeden [مِن فَوْقِهِمْ] ↔ Alt Taraftan ve Ayakların Altından [مِن تَحْتِهِمْ]: 5:66, 6:65, 7:41, 14:26, 16:26, 29:55, 39:16)",
+      "س-ف-ل [إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ] (Vadinin Üst Tarafından [مِّن فَوْقِكُمْ] ↔ Daha Aşağı/Alçak Tarafından [وَمِنْ أَسْفَلَ مِنكُمْ]: 33:10)",
+      "خ-ف-ض [وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ ... خَافِضَةٌ رَّافِعَةٌ] (Birbirinin Üstüne Derecelerle Yükseltmek [فَوْقَ بَعْضٍ] ↔ Aşağı İndirmek [خ-ف-ض]: 6:165, 43:32, 56:3)",
+      "ب-ع-ض (ب-ع-ض ↔ ف-و-ق Mesânî simetrisi)",
+      "د-و-ن (د-و-ن ↔ ف-و-ق Mesânî simetrisi)",
+      "ر-ج-ل (ر-ج-ل ↔ ف-و-ق Mesânî simetrisi)"
+    ],
+    "key_ayahs": [
+      "2:26",
+      "5:66",
+      "6:18",
+      "6:65",
+      "7:143",
+      "12:76",
+      "14:26",
+      "24:40",
+      "33:10",
+      "38:15",
+      "39:16-20",
+      "48:10",
+      "49:2"
+    ],
+    "reverse_stress_test": "5:66, 6:65, 7:41, 14:26, 29:55 ve 39:16'da `مِن فَوْقِهِمْ` (üstlerinden) doğrudan `وَمِن تَحْتِهِمْ / تَحْتِ أَرْجُلِهِمْ` (`ت-ح-ت`: altlarından) ile; 33:10'da ise `مِّن فَوْقِكُمْ` doğrudan `وَمِنْ أَسْفَلَ مِنكُمْ` (`س-ف-ل`: daha aşağı tarafınızdan) ile eşleştirilmiştir. Alt taraf (`ت-ح-ت` / `س-ف-ل`) tersine çevrildiğinde, `ف-و-ق` kökünün 'üst taraf, üstün konum ve bilincin yerine gelmesi' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ر-ف-ع (2:63, 6:165, 12:76, 43:32, 49:2 وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ — رَفْع zeminden yukarı kaldırma eylemi iken, فَوْقَ o kaldırma sonucunda ulaşılan üst konum ve seviyedir)"
+    ],
+    "mechanical_difference": "`6:165`, `12:76`, `43:32` ve `49:2`'de `ر-ف-ع` fiili yükselme hareketini, `فَوْقَ` zarfı ise aşılan sınır ve üst seviyeyi tanımlar."
+  },
+  "anchor_ayahs": [
+    "2:26",
+    "5:66",
+    "6:18",
+    "7:143",
+    "12:76",
+    "24:40",
+    "33:10",
+    "38:15",
+    "48:10",
+    "49:2",
+    "67:19"
+  ],
+  "grammar_and_branch_rules": "Zarf `فَوْقَ` (41 geçiş) mekânsal üst tarafı (`12:36`, `23:17`, `24:40`), sayısal/ölçüsel üst sınırı (`2:26`, `4:11`) ve bilgi/egemenlik üstünlüğünü (`6:18`, `12:76`, `48:10`); Bab IV mazi `أَفَاقَ` (`7:143`) baygınlıktan ayılmayı; `فَوَاق` (`38:15`) ise iki sağım arası kadar duraksama ve geri dönüş payını ifade eder.",
+  "derivatives": {
+    "فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ": "Üst tarafında, tepesinde; bilgi, güç, ölçü veya sorumluluk bakımından üstünde (2:26, 6:18, 12:76, 24:40, 33:10, 48:10, 49:2, 67:19)",
+    "أَفَاقَ": "Baygınlıktan sonra bilinci yerine gelip ayıldı (7:143)",
+    "فَوَاقٍ": "İki sağım arası kadar duraksama, nefes alma ve geri dönüş payı (38:15)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 26,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:26",
+      "word_position": 11,
+      "target_word_uthmani": "فَوْقَهَا",
+      "target_word_rasm": "فوقها",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "مَّا بَعُوضَةً فَمَا فَوْقَهَا فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Allah, sivrisineği de örnek getirmekten çekinmez, ondan üstün olanları da. güvene erenler bilirler ki bu örnek, yerindedir ve Rablerindendir. ...",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًا يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Allah, sivrisineği de örnek getirmekten çekinmez, ondan üstün olanları da. güvene erenler bilirler ki bu örnek, yerindedir ve Rablerindendir. Fakat güven duy, Allah bu örnekle ne demek istiyor ki derler. O, bununla çoklarını şaşırtıp azdırır, çoklarını da doğru yola getirir. Azdırıp şaşırttıkları, ancak kötü işler yapanlardır.",
+      "contextual_meaning": "Ölçü ve örneklerde üst sınır, Mûsâ'nın baygınlıktan sonra bilincinin yerine gelip ayılması (efâka - 7:143) ve duraksaması olmayan tek çığlık (fevâk - 38:15)."
+    },
+    {
+      "surah": 2,
+      "ayah": 63,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:63",
+      "word_position": 5,
+      "target_word_uthmani": "فَوْقَكُمُ",
+      "target_word_rasm": "فوقكم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ",
+      "context_snippet_turkish_tabula_rasa": "Gene bir vakit sizden söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimiz kitabı azimle alın, sakınanlardan olmak için de içindeki emirleri anın demiştik.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gene bir vakit sizden söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimiz kitabı azimle alın, sakınanlardan olmak için de içindeki emirleri anın demiştik.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 2,
+      "ayah": 93,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:93",
+      "word_position": 5,
+      "target_word_uthmani": "فَوْقَكُمُ",
+      "target_word_rasm": "فوقكم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ",
+      "context_snippet_turkish_tabula_rasa": "De ki: O vakit sizden kesin söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimizi azimle tutun, dinleyin demiştik. ...",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: O vakit sizden kesin söz almıştık, Tur dağını üstünüze yüceltmiştik. Size verdiğimizi azimle tutun, dinleyin demiştik. Onlar da duyduk demişlerdi ve asi olduk. Buzağı sevgisi, küfürleri yüzünden ta iliklerine işlemişti. güven duy güven duy, ne de kötü ve pis şey emrediyor size.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 2,
+      "ayah": 212,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:212",
+      "word_position": 12,
+      "target_word_uthmani": "فَوْقَهُمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "ءَامَنُوا۟ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... Fakat Allah'tan sakınan güven bağı sahipleri, kıyamet gününde onlardan üstündür. Allah, dilediğine sayısız nimet verir.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlara dünya yaşayışı, süslü gösterildi de güvene erenlerin bir kısmıyla alay ediyorlar. Fakat Allah'tan sakınan güven bağı sahipleri, kıyamet gününde onlardan üstündür. Allah, dilediğine sayısız nimet verir.",
+      "contextual_meaning": "Ölçü ve örneklerde üst sınır, Mûsâ'nın baygınlıktan sonra bilincinin yerine gelip ayılması (efâka - 7:143) ve duraksaması olmayan tek çığlık (fevâk - 38:15)."
+    },
+    {
+      "surah": 3,
+      "ayah": 55,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:55",
+      "word_position": 16,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Hani o zaman Allah ya İsa demişti, seni öldürecek de benim, kendime yüceltecek de, gerçeğin üzerini örtenlerden kurtarıp arıtacak da. Sana uyanları kıyamete dek gerçeğin üzerini örtenlere üst edeceğim. Sonra, dönüp geleceğiniz yer, benim tapımdır, aranızda, aykırılığa düştüğünüz şeylerin hükmünü de ben vereceğim.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani o zaman Allah ya İsa demişti, seni öldürecek de benim, kendime yüceltecek de, gerçeğin üzerini örtenlerden kurtarıp arıtacak da. Sana uyanları kıyamete dek gerçeğin üzerini örtenlere üst edeceğim. Sonra, dönüp geleceğiniz yer, benim tapımdır, aranızda, aykırılığa düştüğünüz şeylerin hükmünü de ben vereceğim.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 4,
+      "ayah": 11,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:11",
+      "word_position": 12,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا",
+      "context_snippet_turkish_tabula_rasa": "Allah, evladınız hakkında size şunu tavsiye eder: Erkeğin payı, iki kızın payı kadardır. Kızlar, ikiden fazlaysa terekenin üçte ikisi onlarındır, kız bir...",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, evladınız hakkında size şunu tavsiye eder: Erkeğin payı, iki kızın payı kadardır. Kızlar, ikiden fazlaysa terekenin üçte ikisi onlarındır, kız bir taneyse yarısı onun. Bir çocuğu varsa anayla babanın her birine, terekenin altıda biri kalır. Çocuğu yok da anasıyla babası mirasçı olursa üçte biri ananındır. Kardeşleri varsa bıraktığı maldan, vasiyeti yerine getirildikten ve borcu ödendikten sonra kalanın altıda biri anaya aittir. Babalarınızdan, oğullarınızdan hangisi, size daha faydalıdır, bilemezsiniz. Bu, Allah'tan farzdır. Şüphe yok ki Allah her şeyi bilir, hikmet sahibidir.",
+      "contextual_meaning": "Ölçü ve örneklerde üst sınır, Mûsâ'nın baygınlıktan sonra bilincinin yerine gelip ayılması (efâka - 7:143) ve duraksaması olmayan tek çığlık (fevâk - 38:15)."
+    },
+    {
+      "surah": 4,
+      "ayah": 154,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:154",
+      "word_position": 2,
+      "target_word_uthmani": "فَوْقَهُمُ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا",
+      "context_snippet_turkish_tabula_rasa": "Ettikleri ahdi yerine getirsinler diye Tur dağını, oldukları yerin üstünde yüceltmiş ve onlara, şehrin kapısından boyun eğme ve teslimiyet ederek girin demiştik ve cumartesi günü demiştik, haddi aşmayın ve onlardan pek kuvvetli bir söz almıştık.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ettikleri ahdi yerine getirsinler diye Tur dağını, oldukları yerin üstünde yüceltmiş ve onlara, şehrin kapısından boyun eğme ve teslimiyet ederek girin demiştik ve cumartesi günü demiştik, haddi aşmayın ve onlardan pek kuvvetli bir söz almıştık.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 5,
+      "ayah": 66,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:66",
+      "word_position": 13,
+      "target_word_uthmani": "فَوْقِهِمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "رَّبِّهِمْ لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم",
+      "context_snippet_turkish_tabula_rasa": "Tevrat'ın, İncil'in ve Rablerinden sana indirilen kitabın hükümlerini tutsalardı tepelerinden ayaklarının altlarından nimetlere nail olurlar, onları yerlerdi....",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tevrat'ın, İncil'in ve Rablerinden sana indirilen kitabın hükümlerini tutsalardı tepelerinden ayaklarının altlarından nimetlere nail olurlar, onları yerlerdi. İçlerinde geri ve aşırı olmayan insaf ehli de var, fakat çoğunun yaptığı işler, ne de kötü.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 6,
+      "ayah": 18,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:18",
+      "word_position": 3,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ وَهُوَ ٱلْحَكِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Kulların üstünde tek tasarruf sahibidir o ve odur hüküm ve hikmet sahibi her şeyden haberdar olan.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kulların üstünde tek tasarruf sahibidir o ve odur hüküm ve hikmet sahibi her şeyden haberdar olan.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 6,
+      "ayah": 61,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:61",
+      "word_position": 3,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ وَيُرْسِلُ عَلَيْكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Odur kullarından yüce tasarruf ve kudret sahibi ve size, amellerinizi hıfz ve kaydeden buyruk elçileri göndermiştir. Nihayet birinizin ölümü geldi mi...",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً حَتَّىٰٓ إِذَا جَآءَ أَحَدَكُمُ ٱلْمَوْتُ تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَا يُفَرِّطُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Odur kullarından yüce tasarruf ve kudret sahibi ve size, amellerinizi hıfz ve kaydeden buyruk elçileri göndermiştir. Nihayet birinizin ölümü geldi mi elçilerimiz, onu öldürürler ve onlar, artık ve eksik iş görmezler.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 6,
+      "ayah": 65,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:65",
+      "word_position": 10,
+      "target_word_uthmani": "فَوْقِكُمْ",
+      "target_word_rasm": "فوقكم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "عَلَيْكُمْ عَذَابًا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ",
+      "context_snippet_turkish_tabula_rasa": "... Üstünüzden, ayaklarınızın altından size azap göndermeye, yahut sizi bölükbölük edip bir kısmınızın azabını bir kısmınıza tattırmaya gücü yeter onun; anlasınlar diye bak, delilleri nasıl çeşitçeşit açıklamadayız.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ لَعَلَّهُمْ يَفْقَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Üstünüzden, ayaklarınızın altından size azap göndermeye, yahut sizi bölükbölük edip bir kısmınızın azabını bir kısmınıza tattırmaya gücü yeter onun; anlasınlar diye bak, delilleri nasıl çeşitçeşit açıklamadayız.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 6,
+      "ayah": 165,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:165",
+      "word_position": 8,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَبْلُوَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki sizi yeryüzüne hakim kılar ve size verdiği şeylerle sizi sınamak için bir kısmınızı, bir kısmınızdan mevki ve paye bakımından yüceltir....",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki sizi yeryüzüne hakim kılar ve size verdiği şeylerle sizi sınamak için bir kısmınızı, bir kısmınızdan mevki ve paye bakımından yüceltir. Şüphe yok ki Rabbin, cezaya layık olanın cezasını pek tez verir ve şüphe yok ki o, suçları örter, rahimdir.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 7,
+      "ayah": 41,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:41",
+      "word_position": 6,
+      "target_word_uthmani": "فَوْقِهِمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ غَوَاشٍ وَكَذَٰلِكَ نَجْزِى",
+      "context_snippet_turkish_tabula_rasa": "Onlara, yakıcı yıkım yurdunda ateşten döşekler, üstlerinde de ateşten örtüler var ve biz, zalimleri böyle cezalandırırız.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ غَوَاشٍ وَكَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, yakıcı yıkım yurdunda ateşten döşekler, üstlerinde de ateşten örtüler var ve biz, zalimleri böyle cezalandırırız.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 7,
+      "ayah": 127,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:127",
+      "word_position": 20,
+      "target_word_uthmani": "فَوْقَهُمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَٰهِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Firavun gene onların oğullarını öldürür, kadınlarını bırakırız ve şüphe yok ki biz, onlardan üstünüz ve kudret sahibiyiz dedi.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ وَيَذَرَكَ وَءَالِهَتَكَ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَٰهِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun'un kavminden ileri gelenler, Musa'yı ve kavmini, yeryüzünde bozgunculuk etsinler, senden ve taptıklarından yüz çevirsinler diye mi bırakıyorsun dediler. Firavun gene onların oğullarını öldürür, kadınlarını bırakırız ve şüphe yok ki biz, onlardan üstünüz ve kudret sahibiyiz dedi.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 7,
+      "ayah": 143,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:143",
+      "word_position": 34,
+      "target_word_uthmani": "أَفَاقَ",
+      "target_word_rasm": "أفاق",
+      "target_word_literal_irab": "Sarsıntı ve baygınlıktan sonra bilinci yerine gelip ayılınca (فَلَمَّآ أَفَاقَ — Bab IV mazi fiil: 7:143)",
+      "context_snippet_arabic": "مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ",
+      "context_snippet_turkish_tabula_rasa": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca Rabbim demişti, bana görün de bakayım sana. Rabbi, beni kesin olarak göremezsin sen demişti, fakat...",
+      "morphology": {
+        "lemma": ">afaAqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>afaAqa|ROOT:fwq|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca Rabbim demişti, bana görün de bakayım sana. Rabbi, beni kesin olarak göremezsin sen demişti, fakat şu dağa bak, eğer yerinde durabilirse görebilirsin beni. Derken Rabbi, dağa tecelli edince dağ, yerle bir oldu ve Musa bayılıp yere yığıldı. Kendisine gelince de seni noksan sıfatlardan tenzih ederim dedi, tövbe ettim sana ve ben, güvene erenlerin ilkiyim.",
+      "contextual_meaning": "Ölçü ve örneklerde üst sınır, Mûsâ'nın baygınlıktan sonra bilincinin yerine gelip ayılması (efâka - 7:143) ve duraksaması olmayan tek çığlık (fevâk - 38:15)."
+    },
+    {
+      "surah": 7,
+      "ayah": 171,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:171",
+      "word_position": 4,
+      "target_word_uthmani": "فَوْقَهُمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Hani biz, dağı adeta bir gölgelik gibi çekmiş, üstlerine doğru yüceltmiştik de nerdeyse üstlerine düşecek sanmışlardı. Size verdiğimiz kitabı kuvvetle, azimle tutun, içinde ne varsa hatırlayıp ona göre hareket edin de sakınanlardan olun demiştik.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani biz, dağı adeta bir gölgelik gibi çekmiş, üstlerine doğru yüceltmiştik de nerdeyse üstlerine düşecek sanmışlardı. Size verdiğimiz kitabı kuvvetle, azimle tutun, içinde ne varsa hatırlayıp ona göre hareket edin de sakınanlardan olun demiştik.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 8,
+      "ayah": 12,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:12",
+      "word_position": 18,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hani Rabbin, şüphe yok ki ben, sizinleyim, güvene erenleri sebat ettirin, gerçeğin üzerini örtenlerin yüreklerine korku salacağım, hadi vurun boyunlarını,...",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani Rabbin, şüphe yok ki ben, sizinleyim, güvene erenleri sebat ettirin, gerçeğin üzerini örtenlerin yüreklerine korku salacağım, hadi vurun boyunlarını, vurun onların ellerine, ayaklarına diye buyruk elçilerine vahyetmedeydi.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 12,
+      "ayah": 36,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:36",
+      "word_position": 16,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ",
+      "context_snippet_turkish_tabula_rasa": "Ve onunla beraber zindana iki de delikanlı girmişti. Bunların biri, ben dedi, rüyamda gördüm, şarap yapmak için üzüm sıkıyormuşum ve öbürü ben de dedi, rüyamda...",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِۦٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onunla beraber zindana iki de delikanlı girmişti. Bunların biri, ben dedi, rüyamda gördüm, şarap yapmak için üzüm sıkıyormuşum ve öbürü ben de dedi, rüyamda gördüm, başımda ekmek var, kuşlar gelip tepemdeki ekmeği yiyormuş. Bunları yor bize, çünkü biz seni görüyoruz ki iyilik edenlerdensin.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 12,
+      "ayah": 76,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:76",
+      "word_position": 29,
+      "target_word_uthmani": "وَفَوْقَ",
+      "target_word_rasm": "وفوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ",
+      "context_snippet_turkish_tabula_rasa": "... dilediğimizin derecelerini yüceltiriz ve her bilgi sahibinin üstünde bir bilen var.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf, kardeşinin yükünden önce onların yüklerini araştırmaya başladı, sonra da yitiğini kardeşinin yükünden çıkardı. Yusuf'a, böyle bir düzende bulunmasını emrettik, yoksa Allah dilemedikçe padişahın yaşam sistemince kardeşini esir edemezdi; dilediğimizin derecelerini yüceltiriz ve her bilgi sahibinin üstünde bir bilen var.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 14,
+      "ayah": 26,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:26",
+      "word_position": 8,
+      "target_word_uthmani": "فَوْقِ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا",
+      "context_snippet_turkish_tabula_rasa": "Pis söz de pis ağaca benzer; kesilip yerden çıkarılmıştır, duracak hali yoktur onun.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Pis söz de pis ağaca benzer; kesilip yerden çıkarılmıştır, duracak hali yoktur onun.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 16,
+      "ayah": 26,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:26",
+      "word_position": 15,
+      "target_word_uthmani": "فَوْقِهِمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten, onlardan önce gelip geçenler de düzenler kurdular, Allah, yapılarını temellerinden yıktı da tavan, başlarına yıkılıverdi ve hem de bu azap,...",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten, onlardan önce gelip geçenler de düzenler kurdular, Allah, yapılarını temellerinden yıktı da tavan, başlarına yıkılıverdi ve hem de bu azap, anlayamadıkları bir yerden gelip çattı onlara.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 16,
+      "ayah": 50,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:50",
+      "word_position": 4,
+      "target_word_uthmani": "فَوْقِهِمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Her şeye gücü yeten Rablerinden korkarlar da emredileni yaparlar.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her şeye gücü yeten Rablerinden korkarlar da emredileni yaparlar.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 16,
+      "ayah": 88,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:88",
+      "word_position": 9,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "ٱللَّهِ زِدْنَٰهُمْ عَذَابًا فَوْقَ ٱلْعَذَابِ بِمَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olup halkı Allah yolundan menedenleri, yaptıkları bozgunculuk yüzünden azap üstüne azap katarak cezalandırırız.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ زِدْنَٰهُمْ عَذَابًا فَوْقَ ٱلْعَذَابِ بِمَا كَانُوا۟ يُفْسِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olup halkı Allah yolundan menedenleri, yaptıkları bozgunculuk yüzünden azap üstüne azap katarak cezalandırırız.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 22,
+      "ayah": 19,
+      "surah_name": "Hac",
+      "ayah_ref": "22:19",
+      "word_position": 15,
+      "target_word_uthmani": "فَوْقِ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ ٱلْحَمِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Şu iki zümre, Rablerinin yaşam sistemini hakkında birbirleriyle çekişen iki düşmandır; gerçeğin üzerini örten olanlara ateşten libaslar biçilmiştir, tepelerine...",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "هَٰذَانِ خَصْمَانِ ٱخْتَصَمُوا۟ فِى رَبِّهِمْ فَٱلَّذِينَ كَفَرُوا۟ قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ ٱلْحَمِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Şu iki zümre, Rablerinin yaşam sistemini hakkında birbirleriyle çekişen iki düşmandır; gerçeğin üzerini örten olanlara ateşten libaslar biçilmiştir, tepelerine de kaynar su dökülecek.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 23,
+      "ayah": 17,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:17",
+      "word_position": 3,
+      "target_word_uthmani": "فَوْقَكُمْ",
+      "target_word_rasm": "فوقكم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki üstünüzde yedi yol yarattık ve bu yaratıştan gafil değiliz biz.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki üstünüzde yedi yol yarattık ve bu yaratıştan gafil değiliz biz.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 24,
+      "ayah": 40,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:40",
+      "word_position": 9,
+      "target_word_uthmani": "فَوْقِهِۦ",
+      "target_word_rasm": "فوقه",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "... onu bir dalgadır, sarmıştır, üstüne bir dalga daha gelir, daha üste de bulut çökmüştür, karanlıklar, karanlıklar üstüne yığılmıştır, öylesine ki elini çıkarsa onu bile nerdeyse göremez ve Allah, kime nur vermemişse artık bir nur yoktur ona.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَوْ كَظُلُمَٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut da derin bir denizi kaplayan karanlıklara benzer; onu bir dalgadır, sarmıştır, üstüne bir dalga daha gelir, daha üste de bulut çökmüştür, karanlıklar, karanlıklar üstüne yığılmıştır, öylesine ki elini çıkarsa onu bile nerdeyse göremez ve Allah, kime nur vermemişse artık bir nur yoktur ona.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 24,
+      "ayah": 40,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:40",
+      "word_position": 12,
+      "target_word_uthmani": "فَوْقِهِۦ",
+      "target_word_rasm": "فوقه",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ظُلُمَٰتٌۢ بَعْضُهَا",
+      "context_snippet_turkish_tabula_rasa": "... onu bir dalgadır, sarmıştır, üstüne bir dalga daha gelir, daha üste de bulut çökmüştür, karanlıklar, karanlıklar üstüne yığılmıştır, öylesine ki elini çıkarsa onu bile nerdeyse göremez ve Allah, kime nur vermemişse artık bir nur yoktur ona.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَوْ كَظُلُمَٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut da derin bir denizi kaplayan karanlıklara benzer; onu bir dalgadır, sarmıştır, üstüne bir dalga daha gelir, daha üste de bulut çökmüştür, karanlıklar, karanlıklar üstüne yığılmıştır, öylesine ki elini çıkarsa onu bile nerdeyse göremez ve Allah, kime nur vermemişse artık bir nur yoktur ona.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 24,
+      "ayah": 40,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:40",
+      "word_position": 16,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "سَحَابٌ ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ",
+      "context_snippet_turkish_tabula_rasa": "... onu bir dalgadır, sarmıştır, üstüne bir dalga daha gelir, daha üste de bulut çökmüştür, karanlıklar, karanlıklar üstüne yığılmıştır, öylesine ki elini çıkarsa onu bile nerdeyse göremez ve Allah, kime nur vermemişse artık bir nur yoktur ona.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَوْ كَظُلُمَٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut da derin bir denizi kaplayan karanlıklara benzer; onu bir dalgadır, sarmıştır, üstüne bir dalga daha gelir, daha üste de bulut çökmüştür, karanlıklar, karanlıklar üstüne yığılmıştır, öylesine ki elini çıkarsa onu bile nerdeyse göremez ve Allah, kime nur vermemişse artık bir nur yoktur ona.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 29,
+      "ayah": 55,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:55",
+      "word_position": 5,
+      "target_word_uthmani": "فَوْقِهِمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "يَغْشَىٰهُمُ ٱلْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "O gün azap, üstlerinden, ayaklarının altından saracak onları ve tadın diyecek, yaptıklarınızın cezasını.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَغْشَىٰهُمُ ٱلْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا۟ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün azap, üstlerinden, ayaklarının altından saracak onları ve tadın diyecek, yaptıklarınızın cezasını.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 33,
+      "ayah": 10,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:10",
+      "word_position": 4,
+      "target_word_uthmani": "فَوْقِكُمْ",
+      "target_word_rasm": "فوقكم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hani size hem üst tarafınızdan hücum etmişlerdi, hem alt tarafınızdaki yerlerden ve hani gözler yılmıştı ve korkudan yürekler, ağızlara gelmişti ve Allah hakkında çeşitli zanlara kapılmıştınız.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+      "ayah_text_turkish_tabula_rasa_full": "Hani size hem üst tarafınızdan hücum etmişlerdi, hem alt tarafınızdaki yerlerden ve hani gözler yılmıştı ve korkudan yürekler, ağızlara gelmişti ve Allah hakkında çeşitli zanlara kapılmıştınız.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 38,
+      "ayah": 15,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:15",
+      "word_position": 10,
+      "target_word_uthmani": "فَوَاقٍ",
+      "target_word_rasm": "فواق",
+      "target_word_literal_irab": "İki sağım arası kadar bile duraksaması, nefes alma fırsatı ve geri dönüşü olmayan (مَّا لَهَا مِن فَوَاقٍ — isim/mastar: 38:15)",
+      "context_snippet_arabic": "مَّا لَهَا مِن فَوَاقٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve bunlar da bekliyorlar ancak o tek bağrışı ki vakti geldi miydi, gecikmesine, dönmesine imkan yok.",
+      "morphology": {
+        "lemma": "fawaAq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawaAq|ROOT:fwq|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيْحَةً وَٰحِدَةً مَّا لَهَا مِن فَوَاقٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bunlar da bekliyorlar ancak o tek bağrışı ki vakti geldi miydi, gecikmesine, dönmesine imkan yok.",
+      "contextual_meaning": "Ölçü ve örneklerde üst sınır, Mûsâ'nın baygınlıktan sonra bilincinin yerine gelip ayılması (efâka - 7:143) ve duraksaması olmayan tek çığlık (fevâk - 38:15)."
+    },
+    {
+      "surah": 39,
+      "ayah": 16,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:16",
+      "word_position": 3,
+      "target_word_uthmani": "فَوْقِهِمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Onların üstlerinde de ateşten tabakalar var, altlarında da tabakalar. İşte Allah, kullarını korkutmada bundan; ey kullarım, çekinin benden.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ يَٰعِبَادِ فَٱتَّقُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların üstlerinde de ateşten tabakalar var, altlarında da tabakalar. İşte Allah, kullarını korkutmada bundan; ey kullarım, çekinin benden.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 39,
+      "ayah": 20,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:20",
+      "word_position": 8,
+      "target_word_uthmani": "فَوْقِهَا",
+      "target_word_rasm": "فوقها",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى",
+      "context_snippet_turkish_tabula_rasa": "Fakat Rablerinden çekinenlerse, onlarındır köşkler, gene köşkler üstüne kurulmuş köşkler, altlarından ırmaklar akar, Allah'ın vaadidir; Allah vaadinden hiç caymaz.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَعْدَ ٱللَّهِ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat Rablerinden çekinenlerse, onlarındır köşkler, gene köşkler üstüne kurulmuş köşkler, altlarından ırmaklar akar, Allah'ın vaadidir; Allah vaadinden hiç caymaz.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 41,
+      "ayah": 10,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:10",
+      "word_position": 5,
+      "target_word_uthmani": "فَوْقِهَا",
+      "target_word_rasm": "فوقها",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ",
+      "context_snippet_turkish_tabula_rasa": "Ve yeryüzünün üstünde metin dağlar yaratmıştır ve kutlamıştır orasını, bereket ihsan etmiştir ve rızık olacak şeyleri takdir etmiştir de meydana getirmiştir bunları orada, tam dört gün içinde, dileyenler için hepsi de eşittir.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve yeryüzünün üstünde metin dağlar yaratmıştır ve kutlamıştır orasını, bereket ihsan etmiştir ve rızık olacak şeyleri takdir etmiştir de meydana getirmiştir bunları orada, tam dört gün içinde, dileyenler için hepsi de eşittir.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 42,
+      "ayah": 5,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:5",
+      "word_position": 5,
+      "target_word_uthmani": "فَوْقِهِنَّ",
+      "target_word_rasm": "فوقهن",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ",
+      "context_snippet_turkish_tabula_rasa": "otoriteyi bölüşüp ortak koşan sözlerinden neredeyse gökler, üstlerinden çatlayıp yarılacak ve buyruk elçileri, ona hamd ederek tenzih ederler onu ve yeryüzündekilere yarlıganma dilerler; iyice bil ki şüphe yok Allah, odur örten ve rahim olan.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|GEN"
+      },
+      "ayah_text_arabic_full": "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "otoriteyi bölüşüp ortak koşan sözlerinden neredeyse gökler, üstlerinden çatlayıp yarılacak ve buyruk elçileri, ona hamd ederek tenzih ederler onu ve yeryüzündekilere yarlıganma dilerler; iyice bil ki şüphe yok Allah, odur örten ve rahim olan.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 43,
+      "ayah": 32,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:32",
+      "word_position": 14,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "ٱلدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَتَّخِذَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar mı Rabbinin rahmetini pay edecekler? Biziz geçimlerini, aralarında paylaştıran dünya yaşayışında ve bir kısmı, bir kısmına hizmet etsin diye bazılarını derece bakımından bazılarından üstün halkettik ve Rabbinin rahmeti, onların toplayıp biriktirdiklerinden daha hayırlıdır.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا وَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar mı Rabbinin rahmetini pay edecekler? Biziz geçimlerini, aralarında paylaştıran dünya yaşayışında ve bir kısmı, bir kısmına hizmet etsin diye bazılarını derece bakımından bazılarından üstün halkettik ve Rabbinin rahmeti, onların toplayıp biriktirdiklerinden daha hayırlıdır.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 44,
+      "ayah": 48,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:48",
+      "word_position": 3,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ",
+      "context_snippet_turkish_tabula_rasa": "Sonra da dökün kaynar suyu azab olarak tepesine.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra da dökün kaynar suyu azab olarak tepesine.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 48,
+      "ayah": 10,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:10",
+      "word_position": 9,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki seninle biatlaşanlar, ancak Allah'la biatlaşmışlardır, Allah'ın eli, onların ellerinin üstündedir; artık kim dönerse zararı kendi kendi benliğinedir ve kim Allah'la ahitleştiği şeyde durursa ona, yakında büyük bir ecir verilecektir.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki seninle biatlaşanlar, ancak Allah'la biatlaşmışlardır, Allah'ın eli, onların ellerinin üstündedir; artık kim dönerse zararı kendi kendi benliğinedir ve kim Allah'la ahitleştiği şeyde durursa ona, yakında büyük bir ecir verilecektir.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 49,
+      "ayah": 2,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:2",
+      "word_position": 7,
+      "target_word_uthmani": "فَوْقَ",
+      "target_word_rasm": "فوق",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, seslerinizi, elçinin sesinden daha üstün bir tarzda yükseltmeyin ve onunla, yüksek sesle konuşmayın, birbirinizle konuştuğunuz gibi, sonra yaptıklarınız mahvolup gider de anlamazsınız bile.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, seslerinizi, elçinin sesinden daha üstün bir tarzda yükseltmeyin ve onunla, yüksek sesle konuşmayın, birbirinizle konuştuğunuz gibi, sonra yaptıklarınız mahvolup gider de anlamazsınız bile.",
+      "contextual_meaning": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+    },
+    {
+      "surah": 50,
+      "ayah": 6,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:6",
+      "word_position": 5,
+      "target_word_uthmani": "فَوْقَهُمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Bakmazlar mı üstlerindeki göğe? Nasıl kurduk onu ve bezedik ve bir yarığı, yırtığı da yok.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bakmazlar mı üstlerindeki göğe? Nasıl kurduk onu ve bezedik ve bir yarığı, yırtığı da yok.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 67,
+      "ayah": 19,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:19",
+      "word_position": 5,
+      "target_word_uthmani": "فَوْقَهُمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا",
+      "context_snippet_turkish_tabula_rasa": "Görmezler mi üstlerinde uçan kuşları? Kanatlarını açmada ve kapamada onlar, onları gökte, ancak rahman tutmada, şüphe yok ki o, her şeyi görür.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmezler mi üstlerinde uçan kuşları? Kanatlarını açmada ve kapamada onlar, onları gökte, ancak rahman tutmada, şüphe yok ki o, her şeyi görür.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 69,
+      "ayah": 17,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:17",
+      "word_position": 7,
+      "target_word_uthmani": "فَوْقَهُمْ",
+      "target_word_rasm": "فوقهم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ",
+      "context_snippet_turkish_tabula_rasa": "buyruk elçileri, etrafında toplanırlar ve Rabbinin arşını o gün, onların üstünde, sekiz buyruk elçisi taşır.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "buyruk elçileri, etrafında toplanırlar ve Rabbinin arşını o gün, onların üstünde, sekiz buyruk elçisi taşır.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    },
+    {
+      "surah": 78,
+      "ayah": 12,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:12",
+      "word_position": 2,
+      "target_word_uthmani": "فَوْقَكُمْ",
+      "target_word_rasm": "فوقكم",
+      "target_word_literal_irab": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)",
+      "context_snippet_arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "context_snippet_turkish_tabula_rasa": "Ve üstünüzde, yedi sağlam yapı kurduk.",
+      "morphology": {
+        "lemma": "fawoq",
+        "pos": "LOC",
+        "features": "STEM|POS:LOC|LEM:fawoq|ROOT:fwq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve üstünüzde, yedi sağlam yapı kurduk.",
+      "contextual_meaning": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+    }
+  ]
+}

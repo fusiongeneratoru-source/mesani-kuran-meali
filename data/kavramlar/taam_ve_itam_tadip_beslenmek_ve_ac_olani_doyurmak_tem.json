@@ -1,0 +1,1036 @@
+{
+  "root": "ط-ع-م",
+  "root_latin": "T-A-M (TEm)",
+  "concept_name": "Ṭaʿâm ve İṭʿâm (Tadıp Beslenmek, İnsanı Ayakta Tutan Gıda ve Aç Olanı Doyurmak)",
+  "rank": 206,
+  "total_occurrences": 48,
+  "unique_ayahs_count": 41,
+  "unified_core_mechanism": "Bir şeyi tadıp onunla beslenmek ve açlığı giderip doyurmak (تَذَوُّقُ الشَّيْءِ وَالإِطْعَامُ): suyun ve sütün tadı (2:249, 47:15), insanı ayakta tutan besin (طَعَام — 80:24), Allah'ın besleyip kendisinin beslenmeye muhtaç olmaması (6:14, 51:57) ve yoksulu, yetimi, esiri doyurmak (إِطْعَام — 76:8-9, 90:14, 106:4, 107:3).",
+  "physical_core": "Bir besini veya sıvıyı ağızda tadıp yutarak onunla beslenmek ve doymak (تَذَوُّقُ الشَّيْءِ وَالشِّبَعُ): suyun veya sütün tadı (2:249, 47:15), insanın kendi besinine bakması (80:24) ve açlık gününde yoksulu doyurmak (90:14, 106:4).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ط-ع-م` kökünün tamamı tek bir kurallı asla dayanır; o da bir şeyi tatmaktır (`أصل مطرد منقاس في تذوق الشيء`). Tadılıp yenilen ve insanı doyuran her besine `طَعَام` denir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `الطَّعْم` hem bir şeyin dilde bıraktığı tat (`47:15` `لَمْ يَتَغَيَّرْ طَعْمُهُۥ`) hem de yenilip içilerek karın doyurulan besindir (`2:249` `فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ`).",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الطَّعْم` aslında tat almak iken, bedeni besleyip doyuran her türlü gıda için `طَعَام` kullanılır; `أَطْعَمَ` ve `إِطْعَام` ise başkasını doyurup beslemektir (`76:8-9`, `90:14`, `106:4`).",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris ve Râgıb'ın ortaya koyduğu 'tadıp beslenmek ve açlığı giderip doyurmak (`تَذَوُّقُ الشَّيْءِ وَالإِطْعَامُ`)' çekirdeği, Kur'an'da üç temel boyutta işler: (1) Kozmik ve biyolojik düzlemde Allah'ın doyuran fakat kendisi beslenmeye muhtaç olmayan (`وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ` `6:14`, `51:57`) olması ve elçilerin de yemek yiyen beşerler (`21:8`, `25:7`, `25:20`) olması, (2) Toplumsal adalet düzlemde sarp yokuşu aşmanın ve hesabı doğrulamanın ilk şartının yoksulu, yetimi ve esiri doyurmak (`74:44`, `76:8-9`, `89:18`, `90:14`, `107:3`) olması."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*ṭ-ʿ-m` kökü: İbranice טָעַם (`ṭāʿam` Strong H2938: 'tatmak, yemek, algılamak') ve טַעַם (`ṭaʿam` Strong H2940: 'tat, lezzet, sağduyu/ayırt etme'), Aramice/Süryanice `טְעֵם / ܛܥܡ` (*ṭəʿem*: 'tatmak, beslenmek'), Ugaritçe `ṭʿm` ve Akadca `ṭēmu` ile tüm Sami dillerinde birebir eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ج-و-ع [ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍ] (Açlıktan Kurtarıp Doyurmak ve Beslemek [أَطْعَمَهُم] ↔ Kavurucu Açlık [جُوعٍ]: 106:4, 88:6-7)",
+      "ش-ر-ب [وَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ ... فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ] (Yenilip Doyulan Besin ve Tatmak [طَعَامِكَ / يَطْعَمْهُ] ↔ İçilen Sıvı ve Kana Kana İçmek [شَرَابِكَ / شَرِبَ]: 2:249, 2:259)",
+      "أ-ك-ل (أ-ك-ل ↔ ط-ع-م Mesânî simetrisi)",
+      "ص-و-م (ص-و-م ↔ ط-ع-م Mesânî simetrisi)",
+      "أ-س-ر (أ-س-ر ↔ ط-ع-م Mesânî simetrisi)",
+      "غ-س-ل (غ-س-ل ↔ ط-ع-م Mesânî simetrisi)",
+      "م-ع-ن (م-ع-ن ↔ ط-ع-م Mesânî simetrisi)"
+    ],
+    "key_ayahs": [
+      "2:249",
+      "6:14",
+      "21:8",
+      "36:47",
+      "47:15",
+      "51:57",
+      "74:44",
+      "76:8-9",
+      "80:24",
+      "89:18",
+      "90:14",
+      "106:4",
+      "107:3"
+    ],
+    "reverse_stress_test": "106:4'te `ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ` (onları açlıktan kurtarıp doyuran) ve 88:6-7'de `لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ` (açlığı gidermeyen dikenli yiyecek) ayetlerinde `ط-ع-م` kökü doğrudan `ج-و-ع` (açlık) kökünün tam karşıtı olarak mühürlenmiştir. Ayrıca 6:14'te `وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ` (O doyurup besler, fakat kendisi beslenmez) ilkesi yer alır. Açlık (`ج-و-ع`) tersine çevrildiğinde, `ط-ع-م` kökünün 'tadıp beslenmek ve aç olanı doyurmak' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "أ-ك-ل (5:75 كَانَا يَأْكُلَانِ ٱلطَّعَامَ ve 25:7, 25:20 يَأْكُلُ ٱلطَّعَامَ — أَكْل çiğneyip yutma fiilinin kendisi iken, طَعَام tadılıp bedeni doyuran besin maddesidir; 2:249'da ise شَرِبَ kana kana içmek, يَطْعَمْهُ ise tadına bakıp doyacak kadar almaktır)"
+    ],
+    "mechanical_difference": "`2:249`'da ırmakla sınanan orduda `فَمَن شَرِبَ مِنْهُ` (kim ondan kana kana içerse) ile `وَمَن لَّمْ يَطْعَمْهُ` (kim onu tatmaz/doyبرمازsa) ayrımı, `ط-ع-م` kökünün salt sıvı içmekten öte 'tadım ve doyum' mekanizmasını gösterir."
+  },
+  "anchor_ayahs": [
+    "2:249",
+    "5:5",
+    "6:14",
+    "18:77",
+    "47:15",
+    "51:57",
+    "74:44",
+    "76:8",
+    "80:24",
+    "90:14",
+    "106:4",
+    "107:3"
+  ],
+  "grammar_and_branch_rules": "İsim `طَعَام` (24 geçiş) yenilip beslenilen her türlü gıdayı; `طَعْم` (`47:15`) sütün bozulmayan tadını; Bab I (`طَعِمَ / يَطْعَمُ / طَاعِم` — 6 geçiş) tadıp yemeyi; Bab IV (`أَطْعَمَ / يُطْعِمُ / إِطْعَام` — 16 geçiş) aç olanı doyurup beslemeyi; Bab X `ٱسْتَطْعَمَآ` (`18:77`) ise yiyecek talep etmeyi ifade eder.",
+  "derivatives": {
+    "طَعَام / طَعَامِهِۦ / طَعَامُكُمْ": "Tadılıp yenilen, bedeni doyurup besleyen yiyecek ve gıda (2:61, 5:5, 18:19, 25:7, 33:53, 76:8, 80:24, 89:18, 107:3)",
+    "أَطْعَمَ / يُطْعِمُ / إِطْعَٰمُ": "Aç olanı doyurmak, yoksulu, yetimi ve esiri beslemek (5:89, 6:14, 26:79, 36:47, 51:57, 74:44, 76:8-9, 90:14, 106:4)",
+    "طَعِمُوا۟ / يَطْعَمْهُ / طَاعِمٍ": "Tadına bakmak, tadıp yemek ve beslenmek (2:249, 5:93, 6:138, 6:145, 33:53)",
+    "طَعْمُهُۥ": "Tadı ve lezzeti (47:15)",
+    "ٱسْتَطْعَمَآ": "Kent halkından yiyecek ve konukseverlik istediler (18:77)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 61,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:61",
+      "word_position": 7,
+      "target_word_uthmani": "طَعَامٍ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا",
+      "context_snippet_turkish_tabula_rasa": "Bir zaman demiştiniz ki: Ya Musa, biz bir türlü yemeğe dayanamayız. Rabbinden bizim için iste de bize yerin yetiştirdiği şeylerden versin. Yerden yeşillik,...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir zaman demiştiniz ki: Ya Musa, biz bir türlü yemeğe dayanamayız. Rabbinden bizim için iste de bize yerin yetiştirdiği şeylerden versin. Yerden yeşillik, kabak, sarımsak, mercimek, soğan bitirsin. Musa demişti ki: Daha hayırlı olanı, ondan daha aşağılık bir şeyle değiştirmek mi istiyorsunuz? Mısır'a inin, orada dilediğiniz şey var. Üzerlerine aşağılık ve yoksulluk çullanmıştı, Allah'ın da gazabına uğradılar. Evet, öyle de oldu; çünkü Allah'ın delillerine güven duy, haksız yere elçileri öldürüyorlardı. Evet, öyle de oldu; çünkü isyana boğulmuşlardı, çünkü aşırı gidiyorlardı.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 2,
+      "ayah": 184,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:184",
+      "word_position": 18,
+      "target_word_uthmani": "طَعَامُ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُطِيقُونَهُۥ فِدْيَةٌ طَعَامُ مِسْكِينٍ فَمَن تَطَوَّعَ",
+      "context_snippet_turkish_tabula_rasa": "öz denetim ve sakınma, sayılı günlerdedir. İçinizden biri hastalanır, yahut yolda bulunursa öz denetim ve sakınmasını yer, sonra başka günlerde, o yediği gün...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "أَيَّامًا مَّعْدُودَٰتٍ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدْيَةٌ طَعَامُ مِسْكِينٍ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُۥ وَأَن تَصُومُوا۟ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma, sayılı günlerdedir. İçinizden biri hastalanır, yahut yolda bulunursa öz denetim ve sakınmasını yer, sonra başka günlerde, o yediği gün sayısınca öz denetim ve sakınma tutar. Kime öz denetim ve sakınma zor gelirse her gün için bir yoksulu doyurur. Hayır için verdiği şeyi çoğaltırsa bu da kendi hayrına. Fakat bilseniz öz denetim ve sakınma tutmanız, sizin için daha hayırlıdır.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 2,
+      "ayah": 249,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:249",
+      "word_position": 17,
+      "target_word_uthmani": "يَطْعَمْهُ",
+      "target_word_rasm": "يطعمه",
+      "target_word_literal_irab": "Bir besini tadıp yemek veya sudan tadıp doyacak kadar içmek (طَعِمُوا۟ / يَطْعَمْهُ / تَطْعَمُوا۟ — Bab I fiil: 2:249, 5:93, 6:138, 6:145, 33:53)",
+      "context_snippet_arabic": "مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Talut, orduyla harekete geçince dedi ki: Allah sizi bir ırmakla sınayacak. Kim o ırmağın suyundan içerse benden değil, onu tatmayan benden. Yalnız eliyle bir...",
+      "morphology": {
+        "lemma": "TaEimu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:TaEimu|ROOT:TEm|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Talut, orduyla harekete geçince dedi ki: Allah sizi bir ırmakla sınayacak. Kim o ırmağın suyundan içerse benden değil, onu tatmayan benden. Yalnız eliyle bir avuç su alana söz yok. Irmağa gelince hemen hepsi içti, içlerinden pek azı içmedi. Talut ve onunla beraber bulunan güvene erenler, o ırmağı geçince, bizim bugün Calut'la ordusuna karşı duracak takatimiz yok dediler. Allah'a kavuşacaklarını umanlarsa nice azlık taife vardır ki dediler, Allah'ın izniyle çokluk taifeye üst olmuştur, Allah sebat edip direnenlerledir.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 39,
+      "target_word_uthmani": "طَعَامِكَ",
+      "target_word_rasm": "طعامك",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ",
+      "context_snippet_turkish_tabula_rasa": "Bir de hani yapıları çökmüş, çatıları döşemelerinin üstüne yıkılmış şehre uğrayan, Allah bu şehri, ölümünden sonra nasıl diriltecek ki demişti. Allah, onu tam...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir de hani yapıları çökmüş, çatıları döşemelerinin üstüne yıkılmış şehre uğrayan, Allah bu şehri, ölümünden sonra nasıl diriltecek ki demişti. Allah, onu tam yüz yıl ölü bir halde bırakmış, sonra diriltmişti de demişti ki: Ne kadar yattın? O da bir gün, yahut günün birkaç saati kadar bir müddet demişti. Allah, tam yüz yıl yata kaldın. Yiyeceğine, içeceğine bak, henüz bozulmamış bile. Eşeğine de bak; bu iş seni, insanlara bir delil göstermek maksadıyla oldu; eşeğin kemiklerini nasıl birleştiriyor, sonra onlara nasıl et giydiriyoruz, hele dikkat et demişti. Bu, ona apaçık belli olunca dedi ki: Bilirim, şüphe yok ki Allah'ın her şeye gücü yeter.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 3,
+      "ayah": 93,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:93",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلطَّعَامِ",
+      "target_word_rasm": "ٱلطعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ",
+      "context_snippet_turkish_tabula_rasa": "İsrail, Tevrat inmeden kendisine neleri haram ettiyse onlardan başka her çeşit yiyecek, İsrailoğullarına helaldi. De ki: ...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|GEN"
+      },
+      "ayah_text_arabic_full": "كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrail, Tevrat inmeden kendisine neleri haram ettiyse onlardan başka her çeşit yiyecek, İsrailoğullarına helaldi. De ki: Sözünüz doğruysa getirin Tevrat'ı da okuyun bakalım.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 5,
+      "ayah": 5,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:5",
+      "word_position": 5,
+      "target_word_uthmani": "وَطَعَامُ",
+      "target_word_rasm": "وطعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ",
+      "context_snippet_turkish_tabula_rasa": "Bugün size bütün temiz şeyler helal edilmiştir ve kendilerine kitap verilenlerin yemekleri de helaldir size, sizin yemekleriniz de helaldir onlara ve güvene...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bugün size bütün temiz şeyler helal edilmiştir ve kendilerine kitap verilenlerin yemekleri de helaldir size, sizin yemekleriniz de helaldir onlara ve güvene eren kadınlardan namus ve iffet sahibi olanlarla kendilerine kitap verilenlere mensup namuslu kadınlar da, mehirlerini vermek, zina etmemek ve gizli dost tutmamak şartıyla size helaldir ve kim güven bağı gerçeğin üzerini örterse bütün işledikleri boşa gider ve o, ahirette ziyan edenlerdendir.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 5,
+      "ayah": 5,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:5",
+      "word_position": 11,
+      "target_word_uthmani": "وَطَعَامُكُمْ",
+      "target_word_rasm": "وطعامكم",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ",
+      "context_snippet_turkish_tabula_rasa": "Bugün size bütün temiz şeyler helal edilmiştir ve kendilerine kitap verilenlerin yemekleri de helaldir size, sizin yemekleriniz de helaldir onlara ve güvene...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bugün size bütün temiz şeyler helal edilmiştir ve kendilerine kitap verilenlerin yemekleri de helaldir size, sizin yemekleriniz de helaldir onlara ve güvene eren kadınlardan namus ve iffet sahibi olanlarla kendilerine kitap verilenlere mensup namuslu kadınlar da, mehirlerini vermek, zina etmemek ve gizli dost tutmamak şartıyla size helaldir ve kim güven bağı gerçeğin üzerini örterse bütün işledikleri boşa gider ve o, ahirette ziyan edenlerdendir.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 5,
+      "ayah": 75,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:75",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلطَّعَامَ",
+      "target_word_rasm": "ٱلطعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ",
+      "context_snippet_turkish_tabula_rasa": "Meryemoğlu Mesih, bir elçiden başka bir şey değildi; ondan önce de nice elçiler gelip geçtiler; annesi de gerçek bir kadındı, ikisi de yemek yerlerdi. Bak bir,...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|ACC"
+      },
+      "ayah_text_arabic_full": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryemoğlu Mesih, bir elçiden başka bir şey değildi; ondan önce de nice elçiler gelip geçtiler; annesi de gerçek bir kadındı, ikisi de yemek yerlerdi. Bak bir, onlara delillerimizi nasıl açıklamadayız, sonra da bak, nasıl yüz çeviriyor onlar.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 5,
+      "ayah": 89,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:89",
+      "word_position": 13,
+      "target_word_uthmani": "إِطْعَامُ",
+      "target_word_rasm": "إطعام",
+      "target_word_literal_irab": "Kıtlık gününde veya kefaret olarak açları doyurup beslemek (إِطْعَٰمُ / إِطْعَٰمٌ — Bab IV mastar: 5:89, 58:4, 90:14)",
+      "context_snippet_arabic": "عَقَّدتُّمُ ٱلْأَيْمَٰنَ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "... kesin and kefareti, ailenize yedirdiğiniz yemeklerin orta derecede olanıyla on yoksulu doyurmak, yahut onları giydirmek, yahut da bir kul azat etmektir. Bunlara gücü yetmeyen üç gün öz denetim ve sakınma tutar. ...",
+      "morphology": {
+        "lemma": "<iToEa`m",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<iToEa`m|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلْأَيْمَٰنَ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ ذَٰلِكَ كَفَّٰرَةُ أَيْمَٰنِكُمْ إِذَا حَلَفْتُمْ وَٱحْفَظُوٓا۟ أَيْمَٰنَكُمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Boş yere kesin and etmenizden dolayı sorumlu tutmaz sizi Allah, fakat yürekten ve kasten ettiğiniz kesin and yüzünden sorumlu tutar. kesin and kefareti, ailenize yedirdiğiniz yemeklerin orta derecede olanıyla on yoksulu doyurmak, yahut onları giydirmek, yahut da bir kul azat etmektir. Bunlara gücü yetmeyen üç gün öz denetim ve sakınma tutar. İşte kesin and bozarsanız budur kefareti. Koruyun kesin andlarınızı. Allah, nimetin değerini bilip açığa vuranlardan olursunuz diye ayetlerini işte böyle açıklar size.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 5,
+      "ayah": 89,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:89",
+      "word_position": 19,
+      "target_word_uthmani": "تُطْعِمُونَ",
+      "target_word_rasm": "تطعمون",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... kesin and kefareti, ailenize yedirdiğiniz yemeklerin orta derecede olanıyla on yoksulu doyurmak, yahut onları giydirmek, yahut da bir kul azat etmektir. Bunlara gücü yetmeyen üç gün öz denetim ve sakınma tutar. ...",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aToEama|ROOT:TEm|2MP"
+      },
+      "ayah_text_arabic_full": "لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلْأَيْمَٰنَ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ ذَٰلِكَ كَفَّٰرَةُ أَيْمَٰنِكُمْ إِذَا حَلَفْتُمْ وَٱحْفَظُوٓا۟ أَيْمَٰنَكُمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Boş yere kesin and etmenizden dolayı sorumlu tutmaz sizi Allah, fakat yürekten ve kasten ettiğiniz kesin and yüzünden sorumlu tutar. kesin and kefareti, ailenize yedirdiğiniz yemeklerin orta derecede olanıyla on yoksulu doyurmak, yahut onları giydirmek, yahut da bir kul azat etmektir. Bunlara gücü yetmeyen üç gün öz denetim ve sakınma tutar. İşte kesin and bozarsanız budur kefareti. Koruyun kesin andlarınızı. Allah, nimetin değerini bilip açığa vuranlardan olursunuz diye ayetlerini işte böyle açıklar size.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 5,
+      "ayah": 93,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:93",
+      "word_position": 9,
+      "target_word_uthmani": "طَعِمُوٓا۟",
+      "target_word_rasm": "طعموا",
+      "target_word_literal_irab": "Bir besini tadıp yemek veya sudan tadıp doyacak kadar içmek (طَعِمُوا۟ / يَطْعَمْهُ / تَطْعَمُوا۟ — Bab I fiil: 2:249, 5:93, 6:138, 6:145, 33:53)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ جُنَاحٌ فِيمَا طَعِمُوٓا۟ إِذَا مَا ٱتَّقَوا۟",
+      "context_snippet_turkish_tabula_rasa": "güvene erip iyi işlerde bulunanlara; çekindikleri, güven duy ve iyi işlerde bulundukları, sonra gene çekinmede devam ettikleri, güven duy güttükleri, sonra da...",
+      "morphology": {
+        "lemma": "TaEimu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:TaEimu|ROOT:TEm|3MP"
+      },
+      "ayah_text_arabic_full": "لَيْسَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جُنَاحٌ فِيمَا طَعِمُوٓا۟ إِذَا مَا ٱتَّقَوا۟ وَّءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ثُمَّ ٱتَّقَوا۟ وَّءَامَنُوا۟ ثُمَّ ٱتَّقَوا۟ وَّأَحْسَنُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip iyi işlerde bulunanlara; çekindikleri, güven duy ve iyi işlerde bulundukları, sonra gene çekinmede devam ettikleri, güven duy güttükleri, sonra da gene çekinip durdukları ve iyilik ettikleri takdirde haram edilmeden önce yedikleri şeyler yüzünden bir vebal yok ve Allah iyilik edenleri sever.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 5,
+      "ayah": 95,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:95",
+      "word_position": 29,
+      "target_word_uthmani": "طَعَامُ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "ٱلْكَعْبَةِ أَوْ كَفَّٰرَةٌ طَعَامُ مَسَٰكِينَ أَوْ عَدْلُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, ihramdayken avlanmayın; içinizden kim, bir av hayvanını bilerek öldürürse sizden iki adalet sahibinin hükmüne göre cezası, öldürdüğü...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّٰرَةٌ طَعَامُ مَسَٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ عَفَا ٱللَّهُ عَمَّا سَلَفَ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, ihramdayken avlanmayın; içinizden kim, bir av hayvanını bilerek öldürürse sizden iki adalet sahibinin hükmüne göre cezası, öldürdüğü hayvanın benzeri olan ve Ka'be'ye götürülen bir hayvanı yakınlaşma sunusu etmek, yahut işlediği suça karşılık yoksulları doyurmak, yahut da bunlara denk olacak kadar öz denetim ve sakınma tutmaktır, böylece yaptığının cezasını tatması gerektir. Allah, geçmişte işlenen suçları bağışlamıştır. Fakat bundan böyle de kim bu suçu işlerse şüphe yok ki Allah öç alır ondan ve Allah üstündür, öç alıcıdır.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 5,
+      "ayah": 96,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:96",
+      "word_position": 5,
+      "target_word_uthmani": "وَطَعَامُهُۥ",
+      "target_word_rasm": "وطعامه",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ",
+      "context_snippet_turkish_tabula_rasa": "Denizde avlanmak ve avladığını yemek, geçiminiz için size de, misafirlerinize de helal edilmiştir de ihramda bulunduğunuz müddetçe kara avı haram edilmiştir...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Denizde avlanmak ve avladığını yemek, geçiminiz için size de, misafirlerinize de helal edilmiştir de ihramda bulunduğunuz müddetçe kara avı haram edilmiştir size. Çekinin o Allah'tan ki onun tapısında toplanacaksınız.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 6,
+      "ayah": 14,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:14",
+      "word_position": 10,
+      "target_word_uthmani": "يُطْعِمُ",
+      "target_word_rasm": "يطعم",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ قُلْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Gökleri ve yeryüzünü yoktan var eden Allah'tan başkasını mı dost edineyim ve o, yedirip doyurur, yiyip doymaya ihtiyacı yoktur. De ki: Bana, Müslüman...",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aToEama|ROOT:TEm|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Gökleri ve yeryüzünü yoktan var eden Allah'tan başkasını mı dost edineyim ve o, yedirip doyurur, yiyip doymaya ihtiyacı yoktur. De ki: Bana, Müslüman olanların ilki olmam ve otoriteyi bölüşüp ortak koşanlardan olmamam emredildi.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 6,
+      "ayah": 14,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:14",
+      "word_position": 12,
+      "target_word_uthmani": "يُطْعَمُ",
+      "target_word_rasm": "يطعم",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ قُلْ إِنِّىٓ أُمِرْتُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Gökleri ve yeryüzünü yoktan var eden Allah'tan başkasını mı dost edineyim ve o, yedirip doyurur, yiyip doymaya ihtiyacı yoktur. De ki: Bana, Müslüman...",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:>aToEama|ROOT:TEm|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Gökleri ve yeryüzünü yoktan var eden Allah'tan başkasını mı dost edineyim ve o, yedirip doyurur, yiyip doymaya ihtiyacı yoktur. De ki: Bana, Müslüman olanların ilki olmam ve otoriteyi bölüşüp ortak koşanlardan olmamam emredildi.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 6,
+      "ayah": 138,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:138",
+      "word_position": 7,
+      "target_word_uthmani": "يَطْعَمُهَآ",
+      "target_word_rasm": "يطعمها",
+      "target_word_literal_irab": "Bir besini tadıp yemek veya sudan tadıp doyacak kadar içmek (طَعِمُوا۟ / يَطْعَمْهُ / تَطْعَمُوا۟ — Bab I fiil: 2:249, 5:93, 6:138, 6:145, 33:53)",
+      "context_snippet_arabic": "وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, kendi akıllarınca bu hayvanlarla ekinler haramdır, ancak izin verdiğimiz kişiler yiyebilir onları ve şu hayvanlara da binmek haram edilmiştir dediler....",
+      "morphology": {
+        "lemma": "TaEimu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:TaEimu|ROOT:TEm|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ هَٰذِهِۦٓ أَنْعَٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, kendi akıllarınca bu hayvanlarla ekinler haramdır, ancak izin verdiğimiz kişiler yiyebilir onları ve şu hayvanlara da binmek haram edilmiştir dediler. Boş yere Allah'a iftira ederek adını anmadan hayvan kesiyorlar, yakında bu iftiralarının cezasını görecekler.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 6,
+      "ayah": 145,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:145",
+      "word_position": 10,
+      "target_word_uthmani": "طَاعِمٍ",
+      "target_word_rasm": "طاعم",
+      "target_word_literal_irab": "Tadıp yiyen ve beslenen kimse (طَاعِمٍ يَطْعَمُهُۥٓ — Bab I ism-i fâil: 6:145)",
+      "context_snippet_arabic": "إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن",
+      "context_snippet_turkish_tabula_rasa": "De ki: Bana vahyedilenler arasında ölmüş hayvan etinden, dökülmüş kandan, yahut da domuz etinden başka, yiyene haram edilen bir şey bulamıyorum ben. Şüphe yok...",
+      "morphology": {
+        "lemma": "TaAEim",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:TaAEim|ROOT:TEm|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Bana vahyedilenler arasında ölmüş hayvan etinden, dökülmüş kandan, yahut da domuz etinden başka, yiyene haram edilen bir şey bulamıyorum ben. Şüphe yok ki domuz, pistir ve bir de Allah'tan başkası için kesilen hayvan haramdır ki bu da pek kötü bir şeydir. Ancak zorada kalana, isyan etmeyi kurmamak ve ihtiyaçtan fazla da yememek şartıyla helaldir bunlar ve hiç şüphe yoktur ki Rabbin, suçları örter, rahimdir.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 6,
+      "ayah": 145,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:145",
+      "word_position": 11,
+      "target_word_uthmani": "يَطْعَمُهُۥٓ",
+      "target_word_rasm": "يطعمه",
+      "target_word_literal_irab": "Bir besini tadıp yemek veya sudan tadıp doyacak kadar içmek (طَعِمُوا۟ / يَطْعَمْهُ / تَطْعَمُوا۟ — Bab I fiil: 2:249, 5:93, 6:138, 6:145, 33:53)",
+      "context_snippet_arabic": "مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Bana vahyedilenler arasında ölmüş hayvan etinden, dökülmüş kandan, yahut da domuz etinden başka, yiyene haram edilen bir şey bulamıyorum ben. Şüphe yok...",
+      "morphology": {
+        "lemma": "TaEimu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:TaEimu|ROOT:TEm|3MS"
+      },
+      "ayah_text_arabic_full": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Bana vahyedilenler arasında ölmüş hayvan etinden, dökülmüş kandan, yahut da domuz etinden başka, yiyene haram edilen bir şey bulamıyorum ben. Şüphe yok ki domuz, pistir ve bir de Allah'tan başkası için kesilen hayvan haramdır ki bu da pek kötü bir şeydir. Ancak zorada kalana, isyan etmeyi kurmamak ve ihtiyaçtan fazla da yememek şartıyla helaldir bunlar ve hiç şüphe yoktur ki Rabbin, suçları örter, rahimdir.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 12,
+      "ayah": 37,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:37",
+      "word_position": 4,
+      "target_word_uthmani": "طَعَامٌ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا",
+      "context_snippet_turkish_tabula_rasa": "Yusuf, size dedi, rızıklanacağınız hiçbir yemek gelmiyor ki ben onu, önceden haber vermiş olmayayım; bu da Rabbimin bana öğrettiklerinden. Şüphe yok ki ben,...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf, size dedi, rızıklanacağınız hiçbir yemek gelmiyor ki ben onu, önceden haber vermiş olmayayım; bu da Rabbimin bana öğrettiklerinden. Şüphe yok ki ben, Allah'a güven duy ve ahireti gerçeğin üzerini örten topluluğun yaşam sistemini terkettim.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 18,
+      "ayah": 19,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:19",
+      "word_position": 30,
+      "target_word_uthmani": "طَعَامًا",
+      "target_word_rasm": "طعاما",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ",
+      "context_snippet_turkish_tabula_rasa": "... Bir gün uyumuşuz, yahut günün bir kısmını uykuyla geçirmişiz dediler ve Rabbiniz, daha iyi bilir dediler, ne kadar kaldığınızı, hele şimdi birinizi şu gümüş parayla şehre yollayın da yiyeceklerin hangisi daha temizse bir miktar alsın, bir rızık getirsin size, ancak çok ihtiyatlı davransın ve hiçbir kimse sizi duyup anlamasın.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onları uyuttuğumuz gibi birbirlerine sormaları için öylece de uyandırdık ve içlerinden biri, ne kadar kaldık burada dedi. Bir gün uyumuşuz, yahut günün bir kısmını uykuyla geçirmişiz dediler ve Rabbiniz, daha iyi bilir dediler, ne kadar kaldığınızı, hele şimdi birinizi şu gümüş parayla şehre yollayın da yiyeceklerin hangisi daha temizse bir miktar alsın, bir rızık getirsin size, ancak çok ihtiyatlı davransın ve hiçbir kimse sizi duyup anlamasın.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 18,
+      "ayah": 77,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:77",
+      "word_position": 7,
+      "target_word_uthmani": "ٱسْتَطْعَمَآ",
+      "target_word_rasm": "ٱستطعما",
+      "target_word_literal_irab": "Uğradıkları kent halkından yiyecek ve konukseverlik istediler (ٱسْتَطْعَمَآ أَهْلَهَا — Bab X mazi fiil: 18:77)",
+      "context_snippet_arabic": "أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن",
+      "context_snippet_turkish_tabula_rasa": "Gene yola düştüler. Bir şehre geldiler, halkından yemek istedilerse de onları konuklayıp doyuran bir tek kişi bile çıkmadı. Orada bir duvar buldular, yıkılmak...",
+      "morphology": {
+        "lemma": "{sotaToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaToEama|ROOT:TEm|3MD"
+      },
+      "ayah_text_arabic_full": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gene yola düştüler. Bir şehre geldiler, halkından yemek istedilerse de onları konuklayıp doyuran bir tek kişi bile çıkmadı. Orada bir duvar buldular, yıkılmak üzereydi. O zat, duvarı doğrulttu. Musa, dileseydin dedi, bu hizmete karşılık bir ücret alırdın.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 21,
+      "ayah": 8,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:8",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلطَّعَامَ",
+      "target_word_rasm": "ٱلطعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "جَسَدًا لَّا يَأْكُلُونَ ٱلطَّعَامَ وَمَا كَانُوا۟ خَٰلِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve onları yemek yemeyen bir kalıp olarak yaratmamıştık ve onlar, ebedi de değillerdi.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا جَعَلْنَٰهُمْ جَسَدًا لَّا يَأْكُلُونَ ٱلطَّعَامَ وَمَا كَانُوا۟ خَٰلِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onları yemek yemeyen bir kalıp olarak yaratmamıştık ve onlar, ebedi de değillerdi.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 22,
+      "ayah": 28,
+      "surah_name": "Hac",
+      "ayah_ref": "22:28",
+      "word_position": 18,
+      "target_word_uthmani": "وَأَطْعِمُوا۟",
+      "target_word_rasm": "وأطعموا",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ",
+      "context_snippet_turkish_tabula_rasa": "Gelsinler de kendilerine ait olan menfaatleri elde etsinler ve kendilerine rızık olarak verilen dört ayaklı hayvanları, muayyen günlerde Allah'ın adını anarak...",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aToEama|ROOT:TEm|2MP"
+      },
+      "ayah_text_arabic_full": "لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gelsinler de kendilerine ait olan menfaatleri elde etsinler ve kendilerine rızık olarak verilen dört ayaklı hayvanları, muayyen günlerde Allah'ın adını anarak kessinler. Yiyin artık onlardan ve yokyoksul fakiri de doyurun.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 22,
+      "ayah": 36,
+      "surah_name": "Hac",
+      "ayah_ref": "22:36",
+      "word_position": 20,
+      "target_word_uthmani": "وَأَطْعِمُوا۟",
+      "target_word_rasm": "وأطعموا",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ وَٱلْمُعْتَرَّ كَذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Büyük develeri de Allah'ın size meşru kıldığı yakınlaşma sunusu hayvanlar olarak yarattık, onlarda hayır ve menfaat var size. Artık onlar, ayaktayken onları...",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aToEama|ROOT:TEm|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Büyük develeri de Allah'ın size meşru kıldığı yakınlaşma sunusu hayvanlar olarak yarattık, onlarda hayır ve menfaat var size. Artık onlar, ayaktayken onları boğazlayın ve Allah'ın adını anın, yanüstü düştükleri zaman da hem siz yiyin ondan, hem de yoksulluğunu bildirip isteyen ve gizleyip istemeyen yoksulları doyurun; siz nimetin değerini bilip açığa vurasınız diye böylece onları da ram ettik size.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 25,
+      "ayah": 7,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:7",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلطَّعَامَ",
+      "target_word_rasm": "ٱلطعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "هَٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ",
+      "context_snippet_turkish_tabula_rasa": "Ve bu ne çeşit elçi dediler, yemek yiyor, sokaklarda geziyor; ona bir buyruk elçisi indirilseydi de yanında bir korkutucu olsaydı ya;",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَالِ هَٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُۥ نَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bu ne çeşit elçi dediler, yemek yiyor, sokaklarda geziyor; ona bir buyruk elçisi indirilseydi de yanında bir korkutucu olsaydı ya;",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 25,
+      "ayah": 20,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:20",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلطَّعَامَ",
+      "target_word_rasm": "ٱلطعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ",
+      "context_snippet_turkish_tabula_rasa": "Senden önce de elçilerden hiçbirini yollamadık ki onlar, yemek yememiş, sokaklarda gezmemiş olsunlar ve biz, sizin bir kısmınızı, bir kısmınızla denedik,...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce de elçilerden hiçbirini yollamadık ki onlar, yemek yememiş, sokaklarda gezmemiş olsunlar ve biz, sizin bir kısmınızı, bir kısmınızla denedik, bakalım dayanacak mısınız? Ve Rabbin, her şeyi görür.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 26,
+      "ayah": 79,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:79",
+      "word_position": 3,
+      "target_word_uthmani": "يُطْعِمُنِى",
+      "target_word_rasm": "يطعمنى",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِى هُوَ يُطْعِمُنِى وَيَسْقِينِ",
+      "context_snippet_turkish_tabula_rasa": "Ve öyle bir mabuttur ki beni doyurur ve suya kandırır.",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aToEama|ROOT:TEm|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِى هُوَ يُطْعِمُنِى وَيَسْقِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve öyle bir mabuttur ki beni doyurur ve suya kandırır.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 33,
+      "ayah": 53,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:53",
+      "word_position": 13,
+      "target_word_uthmani": "طَعَامٍ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, yemeğe davet edilmeden elçinin evlerine gitmeyin, davet edilirseniz yemek vaktini beklemek üzere daha önce gitmeyin; fakat çağrılınca gidin...",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, yemeğe davet edilmeden elçinin evlerine gitmeyin, davet edilirseniz yemek vaktini beklemek üzere daha önce gitmeyin; fakat çağrılınca gidin ve yemek yiyince dağılın, konuşmak için uzun uzadıya oturmayın; şüphe yok ki bunlar, elçiyi incitir de utanır sizden ve Allah'sa doğruyu söylemekten çekinmez ve kadınlarından bir şey istediğiniz zaman perde ardından isteyin; bu, sizin yürekleriniz bakımından da daha temizdir, onların yürekleri bakımından da ve Allah'ın elçisini incitmeniz caiz olmadığı gibi onun eşlerini de bundan böyle ebediyen almayın; şüphe yok ki bu, Allah katında pek büyük bir sapma ve kusurdur.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 33,
+      "ayah": 53,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:53",
+      "word_position": 22,
+      "target_word_uthmani": "طَعِمْتُمْ",
+      "target_word_rasm": "طعمتم",
+      "target_word_literal_irab": "Bir besini tadıp yemek veya sudan tadıp doyacak kadar içmek (طَعِمُوا۟ / يَطْعَمْهُ / تَطْعَمُوا۟ — Bab I fiil: 2:249, 5:93, 6:138, 6:145, 33:53)",
+      "context_snippet_arabic": "دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, yemeğe davet edilmeden elçinin evlerine gitmeyin, davet edilirseniz yemek vaktini beklemek üzere daha önce gitmeyin; fakat çağrılınca gidin...",
+      "morphology": {
+        "lemma": "TaEimu",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:TaEimu|ROOT:TEm|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, yemeğe davet edilmeden elçinin evlerine gitmeyin, davet edilirseniz yemek vaktini beklemek üzere daha önce gitmeyin; fakat çağrılınca gidin ve yemek yiyince dağılın, konuşmak için uzun uzadıya oturmayın; şüphe yok ki bunlar, elçiyi incitir de utanır sizden ve Allah'sa doğruyu söylemekten çekinmez ve kadınlarından bir şey istediğiniz zaman perde ardından isteyin; bu, sizin yürekleriniz bakımından da daha temizdir, onların yürekleri bakımından da ve Allah'ın elçisini incitmeniz caiz olmadığı gibi onun eşlerini de bundan böyle ebediyen almayın; şüphe yok ki bu, Allah katında pek büyük bir sapma ve kusurdur.",
+      "contextual_meaning": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+    },
+    {
+      "surah": 36,
+      "ayah": 47,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:47",
+      "word_position": 13,
+      "target_word_uthmani": "أَنُطْعِمُ",
+      "target_word_rasm": "أنطعم",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "Ve onlara, Allah'ın, sizi rızıklandırdığı şeylerin bir kısmını hayır yoluna harcayın dendi mi gerçeğin üzerini örten olanlar, güvene erenlere derler ki:...",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aToEama|ROOT:TEm|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onlara, Allah'ın, sizi rızıklandırdığı şeylerin bir kısmını hayır yoluna harcayın dendi mi gerçeğin üzerini örten olanlar, güvene erenlere derler ki: Dileseydi Allah doyururdu onu, biz mi doyuralım? Siz, ancak apaçık bir sapıklık içindesiniz.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 36,
+      "ayah": 47,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:47",
+      "word_position": 18,
+      "target_word_uthmani": "أَطْعَمَهُۥٓ",
+      "target_word_rasm": "أطعمه",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Ve onlara, Allah'ın, sizi rızıklandırdığı şeylerin bir kısmını hayır yoluna harcayın dendi mi gerçeğin üzerini örten olanlar, güvene erenlere derler ki:...",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aToEama|ROOT:TEm|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onlara, Allah'ın, sizi rızıklandırdığı şeylerin bir kısmını hayır yoluna harcayın dendi mi gerçeğin üzerini örten olanlar, güvene erenlere derler ki: Dileseydi Allah doyururdu onu, biz mi doyuralım? Siz, ancak apaçık bir sapıklık içindesiniz.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 44,
+      "ayah": 44,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:44",
+      "word_position": 1,
+      "target_word_uthmani": "طَعَامُ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "طَعَامُ ٱلْأَثِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Suçluların yemeğidir.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "طَعَامُ ٱلْأَثِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Suçluların yemeğidir.",
+      "contextual_meaning": "Tadı hiç bozulmayan süt ırmakları ile suçluların boğazda düğümlenen ve açlığı gidermeyen dikenli/acı yiyeceklerinin karşıtlığı."
+    },
+    {
+      "surah": 47,
+      "ayah": 15,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:15",
+      "word_position": 17,
+      "target_word_uthmani": "طَعْمُهُۥ",
+      "target_word_rasm": "طعمه",
+      "target_word_literal_irab": "Tadı ve lezzeti hiç bozulmayan süt (لَّمْ يَتَغَيَّرْ طَعْمُهُۥ — isim: 47:15)",
+      "context_snippet_arabic": "لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ",
+      "context_snippet_turkish_tabula_rasa": "Çekinenlere vaadedilen esenlik bahçesi, şöyledir adeta: Orada su ırmakları var, bozulup kokmaz ve süt ırmakları var, lezzetleri bozulmaz ve şarap ırmakları...",
+      "morphology": {
+        "lemma": "TaEom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEom|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Çekinenlere vaadedilen esenlik bahçesi, şöyledir adeta: Orada su ırmakları var, bozulup kokmaz ve süt ırmakları var, lezzetleri bozulmaz ve şarap ırmakları var, içenlere safi lezzet ve bal ırmakları var, süzme ve onlara, orada bütün meyvelerden sunulur ve Rablerinden yarlıganma var; buna nail olan, o kişiye benzer mi ki ateşte ebedidir ve kaynar sularla sulanır da onların bağırsakları parçalanmaktadır.",
+      "contextual_meaning": "Tadı hiç bozulmayan süt ırmakları ile suçluların boğazda düğümlenen ve açlığı gidermeyen dikenli/acı yiyeceklerinin karşıtlığı."
+    },
+    {
+      "surah": 51,
+      "ayah": 57,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:57",
+      "word_position": 9,
+      "target_word_uthmani": "يُطْعِمُونِ",
+      "target_word_rasm": "يطعمون",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "وَمَآ أُرِيدُ أَن يُطْعِمُونِ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan ne bir rızık istiyorum ve ne beni doyurmalarını istiyorum.",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aToEama|ROOT:TEm|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan ne bir rızık istiyorum ve ne beni doyurmalarını istiyorum.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 58,
+      "ayah": 4,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:4",
+      "word_position": 14,
+      "target_word_uthmani": "فَإِطْعَامُ",
+      "target_word_rasm": "فإطعام",
+      "target_word_literal_irab": "Kıtlık gününde veya kefaret olarak açları doyurup beslemek (إِطْعَٰمُ / إِطْعَٰمٌ — Bab IV mastar: 5:89, 58:4, 90:14)",
+      "context_snippet_arabic": "فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Kimin, buna gücü yetmezse artık ona, birbiri ardınca tam iki ay öz denetim ve sakınma tutma var, karı, koca, birbirlerine temas etmeden önce; buna da gücü yetmeyen kişiyeyse altmış yoksulu doyurmak düşer; bu, Allah'a ve elçisine güven duy içindir ve bunlar, Allahın sınırlarıdır ve gerçeğin üzerini örten elemli bir azap var.",
+      "morphology": {
+        "lemma": "<iToEa`m",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<iToEa`m|ROOT:TEm|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتِلْكَ حُدُودُ ٱللَّهِ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kimin, buna gücü yetmezse artık ona, birbiri ardınca tam iki ay öz denetim ve sakınma tutma var, karı, koca, birbirlerine temas etmeden önce; buna da gücü yetmeyen kişiyeyse altmış yoksulu doyurmak düşer; bu, Allah'a ve elçisine güven duy içindir ve bunlar, Allahın sınırlarıdır ve gerçeğin üzerini örten elemli bir azap var.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 69,
+      "ayah": 34,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:34",
+      "word_position": 4,
+      "target_word_uthmani": "طَعَامِ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "context_snippet_turkish_tabula_rasa": "Ve yoksulun yiyeceğine bakmazdı.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve yoksulun yiyeceğine bakmazdı.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 69,
+      "ayah": 36,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:36",
+      "word_position": 2,
+      "target_word_uthmani": "طَعَامٌ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve irinden başka bir yemek de yok.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve irinden başka bir yemek de yok.",
+      "contextual_meaning": "Tadı hiç bozulmayan süt ırmakları ile suçluların boğazda düğümlenen ve açlığı gidermeyen dikenli/acı yiyeceklerinin karşıtlığı."
+    },
+    {
+      "surah": 73,
+      "ayah": 13,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:13",
+      "word_position": 1,
+      "target_word_uthmani": "وَطَعَامًا",
+      "target_word_rasm": "وطعاما",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا",
+      "context_snippet_turkish_tabula_rasa": "Ve boğazdan geçmez dikenli yemek var ve elemli bir azap var.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve boğazdan geçmez dikenli yemek var ve elemli bir azap var.",
+      "contextual_meaning": "Tadı hiç bozulmayan süt ırmakları ile suçluların boğazda düğümlenen ve açlığı gidermeyen dikenli/acı yiyeceklerinin karşıtlığı."
+    },
+    {
+      "surah": 74,
+      "ayah": 44,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:44",
+      "word_position": 3,
+      "target_word_uthmani": "نُطْعِمُ",
+      "target_word_rasm": "نطعم",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve yoksulu doyurmazdık.",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aToEama|ROOT:TEm|1P"
+      },
+      "ayah_text_arabic_full": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve yoksulu doyurmazdık.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 76,
+      "ayah": 8,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:8",
+      "word_position": 1,
+      "target_word_uthmani": "وَيُطْعِمُونَ",
+      "target_word_rasm": "ويطعمون",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Ve ona ihtiyaçları olduğu halde yemeklerini yoksula ve yetime ve tutsağa verirler, onları doyururlar.",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aToEama|ROOT:TEm|3MP"
+      },
+      "ayah_text_arabic_full": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ona ihtiyaçları olduğu halde yemeklerini yoksula ve yetime ve tutsağa verirler, onları doyururlar.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 76,
+      "ayah": 8,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:8",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلطَّعَامَ",
+      "target_word_rasm": "ٱلطعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا",
+      "context_snippet_turkish_tabula_rasa": "Ve ona ihtiyaçları olduğu halde yemeklerini yoksula ve yetime ve tutsağa verirler, onları doyururlar.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ona ihtiyaçları olduğu halde yemeklerini yoksula ve yetime ve tutsağa verirler, onları doyururlar.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 76,
+      "ayah": 9,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:9",
+      "word_position": 2,
+      "target_word_uthmani": "نُطْعِمُكُمْ",
+      "target_word_rasm": "نطعمكم",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا",
+      "context_snippet_turkish_tabula_rasa": "Sizi, ancak Allah rızası için doyurmadayız ve sizden istemeyiz ne bir karşılık, ne bir nimetin değerini bilip açığa vurma.",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aToEama|ROOT:TEm|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi, ancak Allah rızası için doyurmadayız ve sizden istemeyiz ne bir karşılık, ne bir nimetin değerini bilip açığa vurma.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 80,
+      "ayah": 24,
+      "surah_name": "Abese",
+      "ayah_ref": "80:24",
+      "word_position": 4,
+      "target_word_uthmani": "طَعَامِهِۦٓ",
+      "target_word_rasm": "طعامه",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "Artık insan, yediğine de bir baksın.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık insan, yediğine de bir baksın.",
+      "contextual_meaning": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+    },
+    {
+      "surah": 88,
+      "ayah": 6,
+      "surah_name": "Gāşiye",
+      "ayah_ref": "88:6",
+      "word_position": 3,
+      "target_word_uthmani": "طَعَامٌ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlara orada yemek olarak ancak zehirli diken var,",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara orada yemek olarak ancak zehirli diken var,",
+      "contextual_meaning": "Tadı hiç bozulmayan süt ırmakları ile suçluların boğazda düğümlenen ve açlığı gidermeyen dikenli/acı yiyeceklerinin karşıtlığı."
+    },
+    {
+      "surah": 89,
+      "ayah": 18,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:18",
+      "word_position": 4,
+      "target_word_uthmani": "طَعَامِ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "context_snippet_turkish_tabula_rasa": "Ve ne birbirinizi, yoksulu doyurmaya teşvik ediyorsunuz.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ne birbirinizi, yoksulu doyurmaya teşvik ediyorsunuz.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 90,
+      "ayah": 14,
+      "surah_name": "Beled",
+      "ayah_ref": "90:14",
+      "word_position": 2,
+      "target_word_uthmani": "إِطْعَٰمٌ",
+      "target_word_rasm": "إطعم",
+      "target_word_literal_irab": "Kıtlık gününde veya kefaret olarak açları doyurup beslemek (إِطْعَٰمُ / إِطْعَٰمٌ — Bab IV mastar: 5:89, 58:4, 90:14)",
+      "context_snippet_arabic": "أَوْ إِطْعَٰمٌ فِى يَوْمٍ ذِى",
+      "context_snippet_turkish_tabula_rasa": "Yahut açlık, kıtlık gününde doyurmak.",
+      "morphology": {
+        "lemma": "<iToEa`m",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<iToEa`m|ROOT:TEm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَوْ إِطْعَٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut açlık, kıtlık gününde doyurmak.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 106,
+      "ayah": 4,
+      "surah_name": "Kureyş",
+      "ayah_ref": "106:4",
+      "word_position": 2,
+      "target_word_uthmani": "أَطْعَمَهُم",
+      "target_word_rasm": "أطعمهم",
+      "target_word_literal_irab": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم",
+      "context_snippet_turkish_tabula_rasa": "Öyle Rab ki doyurdu da kurtardı sizi açlıktan ve emin etti sizi korkudan.",
+      "morphology": {
+        "lemma": ">aToEama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aToEama|ROOT:TEm|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle Rab ki doyurdu da kurtardı sizi açlıktan ve emin etti sizi korkudan.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    },
+    {
+      "surah": 107,
+      "ayah": 3,
+      "surah_name": "Mâûn",
+      "ayah_ref": "107:3",
+      "word_position": 4,
+      "target_word_uthmani": "طَعَامِ",
+      "target_word_rasm": "طعام",
+      "target_word_literal_irab": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)",
+      "context_snippet_arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "context_snippet_turkish_tabula_rasa": "Ve doyurmaz da, önayak olmaz da doyurmaya yoksulu.",
+      "morphology": {
+        "lemma": "TaEaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaEaAm|ROOT:TEm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve doyurmaz da, önayak olmaz da doyurmaya yoksulu.",
+      "contextual_meaning": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+    }
+  ]
+}

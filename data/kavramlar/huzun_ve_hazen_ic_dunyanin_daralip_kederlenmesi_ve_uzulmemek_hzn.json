@@ -1,0 +1,917 @@
+{
+  "root": "ح-ز-ن",
+  "root_latin": "H-Z-N (Hzn)",
+  "concept_name": "Hüzün ve Hazen (Kayıp veya Baskı Karşısında İç Dünyanın Daralıp Kederlenmesi)",
+  "rank": 230,
+  "total_occurrences": 42,
+  "unique_ayahs_count": 42,
+  "unified_core_mechanism": "Sert ve taşlık arazi (حَزْن) gibi yaşanan bir kayıp, ayrılık veya baskı karşısında iç dünyanın daralıp kederlenmesi (خُشُونَةٌ فِي النَّفْسِ): elçiyi gerçeği örtenlerin sözlerinin üzmesi (6:33, 10:65), göz aydınlığıyla üzüntünün silinmesi (20:40, 28:13) ve doğru yola uyanların gelecek korkusu (خَوْف) ve geçmiş/kayıp üzüntüsü (حُزْن) yaşamaması (2:38, 10:62, 35:34).",
+  "physical_core": "Yumuşak ve düz toprağın (السَّهْل) tam karşıtı olan sert, pürüzlü ve taşlık engebeli arazi (الحَزْنُ وَهُوَ خُشُونَةُ الشَّيْءِ وَغِلَظُ الأَرْضِ); buradan hareketle yaşanan bir kayıp veya baskı karşısında insanın iç dünyasında oluşan sert daralma, burukluk ve keder (الحُزْنُ وَالحَزَنُ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ح-ز-ن` kökünün tamamı tek bir sahih asla dayanır; o da bir şeydeki sertlik, pürüzlülük ve şiddettir (`أصل واحد وهو خشونة الشيء وشدة فيه`). Toprağın sert ve taşlık olanına `الحَزْن` (düz ve yumuşak olan `السَّهْل`in zıddı), gönülde oluşan burukluk ve kedere de `الحُزْن / الحَزَن` denmesi bundandır.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `الحَزْن` sert ve engebeli arazidir; `الحُزْن` ve `الحَزَن` ise sevincin (`الفَرَح / السُّرُور`) karşıtı olarak ruhta meydana gelen sert daralmadır. Kur'an'da geçişli olarak `حَزَنَنِي - يَحْزُنُنِي` (`6:33`, `10:65` `لَا يَحْزُنكَ قَوْلُهُمْ`) şeklinde Bab I'den kullanılır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الحُزْن` ve `الحَزَن` arazinin sertliğine (`حُزُونَةُ الأَرْضِ`) nispetle nefsin غم ve kayıp sebebiyle sertleşip daralmasıdır; `خَوْف` gelecekte beklenen tehlikeye, `حُزْن` ise geçmişte kaybedilen veya elden çıkan şeye dairdir.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris ve Râgıb'ın tespit ettiği 'sert ve taşlık arazi gibi iç dünyanın daralıp buruklaşması (`خُشُونَةٌ فِي النَّفْسِ`)' çekirdeği, özellikle Mushaf'ta 14'ten fazla kez tekrarlanan `{لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ}` formülünün iki zaman boyutunu çözer: `خَوْف` önlerindeki geleceğe dair endişe ve korkuyu, `يَحْزَنُونَ` ise geride bıraktıkları veya kaybettikleri şeylere dair burukluk ve üzüntüyü tamamen ortadan kaldırır."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*ḥ-z-n` kökü: Aramice/Süryanice `חֲזַן / ܚܙܢ` (*ḥăzan*: 'sert olmak, gözetmek, kederlenmek') ve Eski Güney Arapçası `ḥzn` ('sert arazi, daralma/üzüntü') ile eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ف-ر-ح [فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ] (Sevinç ve Ferahlıkla Gönlü Açılmak [فَرِحِينَ] ↔ Kayıp ve Daralmayla Kederlenip Üzülmek [يَحْزَنُونَ]: 3:170)",
+      "ق-ر-ر [كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ... فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ] (Gözün Aydınlanıp Gönlün Huzurla Durulması [تَقَرَّ عَيْنُهَا] ↔ İç Daralmasıyla Kederlenip Üzülmek [تَحْزَنَ]: 20:40, 28:13, 33:51)",
+      "ب-ش-ر [وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ... أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟] (Müjdeyle Yüzü Aydınlanıp Sevinmek [أَبْشِرُوا۟ / يَسْتَبْشِرُونَ] ↔ Kederlenip Üzülmek [تَحْزَنُوا۟]: 3:170, 41:30)",
+      "خ-و-ف (خ-و-ف ↔ ح-ز-ن Mesânî simetrisi)",
+      "ر-ض-و (ر-ض-و ↔ ح-ز-ن Mesânî simetrisi)",
+      "ع-ي-ن (ع-ي-ن ↔ ح-ز-ن Mesânî simetrisi)"
+    ],
+    "key_ayahs": [
+      "2:38",
+      "2:62",
+      "3:139",
+      "3:170",
+      "6:33",
+      "9:40",
+      "9:92",
+      "10:62",
+      "12:84-86",
+      "19:24",
+      "20:40",
+      "28:13",
+      "33:51",
+      "35:34",
+      "41:30"
+    ],
+    "reverse_stress_test": "20:40, 28:13 ve 33:51'de `كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ` (gözü aydınlanıp gönlü durulsun ve üzülmesin) ifadesinde `ح-ز-ن` doğrudan `ق-ر-ر` (göz aydınlığı ve iç huzuru) ile; 3:170 ve 41:30'da ise `فَرِحِينَ` (`ف-ر-ح`: sevinçli) ve `أَبْشِرُوا۟` (`ب-ش-ر`: müjdelenin) ile karşı karşıya konmuştur. Göz aydınlığı (`ق-ر-ر`) ve sevinç (`ف-ر-ح`) tersine çevrildiğinde, `ح-ز-ن` kökünün 'sert arazi gibi gönlün daralıp kederlenmesi' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "خ-و-ف (2:38, 2:62, 10:62, 41:30 لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ — خَوْف gelecekte karşılaşılacak bir tehlikeden duyulan korku ve endişe iken, حُزْن geçmişte yaşanan veya elden çıkan bir şeyden duyulan keder ve burukluktur)",
+      "ض-ي-ق (16:127 ve 27:70 وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ — حُزْن onların inkâr haline duyulan içsel üzüntü iken, ضَيْق kurdukları tuzaklar karşısında göğsün sıkışıp bunalmasıdır)"
+    ],
+    "mechanical_difference": "`12:86`'da Ya'kûb'un `إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ` sözünde `بَثّ` içte tutulması imkânsız olup dışa taşan acıyı, `حُزْن` ise kalpte yer eden derin ayrılık kederini ifade eder."
+  },
+  "anchor_ayahs": [
+    "2:38",
+    "3:139",
+    "3:170",
+    "6:33",
+    "9:40",
+    "9:92",
+    "10:62",
+    "12:84-86",
+    "20:40",
+    "28:13",
+    "35:34",
+    "41:30"
+  ],
+  "grammar_and_branch_rules": "Bab I lâzım (`تَحْزَنْ / يَحْزَنُونَ` — 28 geçiş) öznenin kederlenip üzülmesini (çoğunlukla `لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ` ve `لَا تَحْزَنْ` kalıbında); Bab I müteaddî (`يَحْزُنكَ / لَيَحْزُنُنِىٓ / يَحْزُنُهُمُ` — 9 geçiş) bir söz veya olayın muhatabı üzüntüye sokmasını; `حَزَن` (3 geçiş) ve `حُزْن` (2 geçiş) ise iç daralması ve kederi ifade eder.",
+  "derivatives": {
+    "يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟": "Yaşanan kayıp veya durum karşısında gönlü daralıp üzülmek, kederlenmek (2:38, 2:62, 3:139, 9:40, 10:62, 16:127, 20:40, 28:13, 41:30)",
+    "يَحْزُنكَ / لَيَحْزُنُنِىٓ / يَحْزُنُهُمُ": "Birini kederlendirip üzüntüye sokmak (3:176, 5:41, 6:33, 10:65, 12:13, 21:103, 31:23, 36:76, 58:10)",
+    "حَزَنًا / ٱلْحَزَنَ": "Gönlü daraltan tasa, burukluk ve üzüntü (9:92, 28:8, 35:34)",
+    "ٱلْحُزْنِ / حُزْنِىٓ": "İçe akıtılan derin ayrılık kederi (12:84, 12:86)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 38,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:38",
+      "word_position": 17,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Fakat benden size bir doğru yol gösterici geldi mi o doğru yolu gösterenin izinden gidenlere ne korku vardır, ne hüzün.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dedik ki: Hepiniz de esenlik bahçesinden inin. Fakat benden size bir doğru yol gösterici geldi mi o doğru yolu gösterenin izinden gidenlere ne korku vardır, ne hüzün.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 2,
+      "ayah": 62,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:62",
+      "word_position": 24,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki insanlarla Yahudi olanlardan, Nasranilerden, Sabiilerden, Allah'a ve son güne güvene eren ve iyi işler gören kimselere, Rableri katında ecir var. Onlar için ne korku vardır, ne hüzün.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki insanlarla Yahudi olanlardan, Nasranilerden, Sabiilerden, Allah'a ve son güne güvene eren ve iyi işler gören kimselere, Rableri katında ecir var. Onlar için ne korku vardır, ne hüzün.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 2,
+      "ayah": 112,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:112",
+      "word_position": 17,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Evet, kim, özü halis olarak yüzünü tertemiz bir surette Allah'a çevirir, ona teslim olursa ecri Rabbinin katındadır. Onlara ne korku vardır, ne de mahzun...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Evet, kim, özü halis olarak yüzünü tertemiz bir surette Allah'a çevirir, ona teslim olursa ecri Rabbinin katındadır. Onlara ne korku vardır, ne de mahzun olurlar.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 2,
+      "ayah": 262,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:262",
+      "word_position": 24,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Mallarını verip ardından da, verdiklerinin başlarına kakmayanların, onlara minnet yüklemeyen ve eziyette bulunmayanların ecri, Rableri katındadır. Onlara ne korku vardır, ne hüzün.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتْبِعُونَ مَآ أَنفَقُوا۟ مَنًّا وَلَآ أَذًى لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını verip ardından da, verdiklerinin başlarına kakmayanların, onlara minnet yüklemeyen ve eziyette bulunmayanların ecri, Rableri katındadır. Onlara ne korku vardır, ne hüzün.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 2,
+      "ayah": 274,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:274",
+      "word_position": 17,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Mallarını gece ve gündüz, gizli ve açık harcayanlar yok mu, onların ecirleri, Rableri katındadır ve onlara ne korku vardır, ne de mahzun olurlar.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını gece ve gündüz, gizli ve açık harcayanlar yok mu, onların ecirleri, Rableri katındadır ve onlara ne korku vardır, ne de mahzun olurlar.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 2,
+      "ayah": 277,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:277",
+      "word_position": 19,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onların ecirleri Rableri katındadır, onlara ne korku vardır, ne hüzün.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere, iyi işler yapanlara, irtibat bağını kurup sürdürenlere, arınma ve gelişme payı verenlere gelince: Onların ecirleri Rableri katındadır, onlara ne korku vardır, ne hüzün.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 3,
+      "ayah": 139,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:139",
+      "word_position": 4,
+      "target_word_uthmani": "تَحْزَنُوا۟",
+      "target_word_rasm": "تحزنوا",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن",
+      "context_snippet_turkish_tabula_rasa": "Ve gevşeklik etmeyin, mahzun olmayın, güven duy mutlaka üstünsünüz siz.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gevşeklik etmeyin, mahzun olmayın, güven duy mutlaka üstünsünüz siz.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 3,
+      "ayah": 153,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:153",
+      "word_position": 15,
+      "target_word_uthmani": "تَحْزَنُوا۟",
+      "target_word_rasm": "تحزنوا",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "غَمًّۢا بِغَمٍّ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "O anda boyuna uzaklaşıyor, hiç kimseye bakmıyordunuz bile. elçi arkanızdan sizi çağırıp durmadaydı. sığınak mercii (ilâh), elinizden çıkana hayıflanmayasınız,...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَٰبَكُمْ غَمًّۢا بِغَمٍّ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَٰبَكُمْ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O anda boyuna uzaklaşıyor, hiç kimseye bakmıyordunuz bile. elçi arkanızdan sizi çağırıp durmadaydı. sığınak mercii (ilâh), elinizden çıkana hayıflanmayasınız, gelip çatan felaketlerden mahzun olmayasınız diye sizi, gam üstüne gam vererek cezalandırdı ve Allah, yaptıklarınızdan haberdardır.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 3,
+      "ayah": 170,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:170",
+      "word_position": 19,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ferahfahur bir halde Allah'ın onlara ettiği lütuf ve ihsanlarla ve onlar, henüz kendilerine katılmayanlara, fakat artlarından gelmekte olanlara da bilin ki ne...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ferahfahur bir halde Allah'ın onlara ettiği lütuf ve ihsanlarla ve onlar, henüz kendilerine katılmayanlara, fakat artlarından gelmekte olanlara da bilin ki ne korku vardır onlara, ne de mahzun olurlar diye müjde vermeyi isterler.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 3,
+      "ayah": 176,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:176",
+      "word_position": 2,
+      "target_word_uthmani": "يَحْزُنكَ",
+      "target_word_rasm": "يحزنك",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَلَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Ve o, küfre doğru koşakoşa, yarışarak gidenler, seni mahzun etmesin, onlar Allah'ı hiçbir suretle zararlandıramazlar. Allah, onlara ahiretten hiçbir pay...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ إِنَّهُمْ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا يُرِيدُ ٱللَّهُ أَلَّا يَجْعَلَ لَهُمْ حَظًّا فِى ٱلْءَاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve o, küfre doğru koşakoşa, yarışarak gidenler, seni mahzun etmesin, onlar Allah'ı hiçbir suretle zararlandıramazlar. Allah, onlara ahiretten hiçbir pay vermeyi murad etmemiştir ki ve onlaradır pek büyük azap.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 5,
+      "ayah": 41,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:41",
+      "word_position": 4,
+      "target_word_uthmani": "يَحْزُنكَ",
+      "target_word_rasm": "يحزنك",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi, ağızlarıyla güvene erdik diyen, fakat yürekleriyle güven duy ve Yahudilerden, boyuna gerçeğin üzerini örtmeye koşuşanlar, seni mahzun etmesin. Onlar,...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ وَمِنَ ٱلَّذِينَ هَادُوا۟ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi, ağızlarıyla güvene erdik diyen, fakat yürekleriyle güven duy ve Yahudilerden, boyuna gerçeğin üzerini örtmeye koşuşanlar, seni mahzun etmesin. Onlar, sözleri, yalan söylemek için boyuna dinleyip dururlar, senin yanına gelmemiş olan bir başka kavim için dinlerler boyuna. Onlar, sözlerin bazısının yerlerini değiştirirler de size şu tarzda fetva verilirse derler, kabul edin, verilmezse çekinin kabul etmekten ve Allah, kime azab etmek isterse sen, Allah'ın isteğine karşı o adama hiçbir şey yapamazsın. Onlar, öyle kişilerdir ki Allah, yüreklerini temizlemeyi murad etmemiştir. Onlar içindir dünya da horluk ve onlar içindir ahirette pek büyük bir azap.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 5,
+      "ayah": 69,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:69",
+      "word_position": 20,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Fakat güven duy Yahudi olanlardan, Sabilerden ve Hıristiyanlardan Allah'a ve ahiret gününe güvene erip iyi işler işleyenlere ne bir korku vardır, ne de mahzun...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّٰبِـُٔونَ وَٱلنَّصَٰرَىٰ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat güven duy Yahudi olanlardan, Sabilerden ve Hıristiyanlardan Allah'a ve ahiret gününe güvene erip iyi işler işleyenlere ne bir korku vardır, ne de mahzun olur onlar.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 6,
+      "ayah": 33,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:33",
+      "word_position": 4,
+      "target_word_uthmani": "لَيَحْزُنُكَ",
+      "target_word_rasm": "ليحزنك",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "قَدْ نَعْلَمُ إِنَّهُۥ لَيَحْزُنُكَ ٱلَّذِى يَقُولُونَ فَإِنَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "İyice biliriz ki onların söylediği sözler, seni mahzun edecek. Fakat şüphe yok ki onlar seni yalanlamış olmazlar, o zalimler, bilebile Allah'ın ayetlerini...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS"
+      },
+      "ayah_text_arabic_full": "قَدْ نَعْلَمُ إِنَّهُۥ لَيَحْزُنُكَ ٱلَّذِى يَقُولُونَ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ ٱلظَّٰلِمِينَ بِـَٔايَٰتِ ٱللَّهِ يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İyice biliriz ki onların söylediği sözler, seni mahzun edecek. Fakat şüphe yok ki onlar seni yalanlamış olmazlar, o zalimler, bilebile Allah'ın ayetlerini gerçeğin üzerini örterler.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 6,
+      "ayah": 48,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:48",
+      "word_position": 15,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Biz, elçileri ancak müjdeci ve korkutucu olarak gönderdik. Şu halde güvene erenlere ve kendilerini düzgün bir hale getirenlere ne korku vardır, ne de mahzun...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ فَمَنْ ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz, elçileri ancak müjdeci ve korkutucu olarak gönderdik. Şu halde güvene erenlere ve kendilerini düzgün bir hale getirenlere ne korku vardır, ne de mahzun olur onlar.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 7,
+      "ayah": 35,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:35",
+      "word_position": 18,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ey Âdemoğulları, size, içinizden elçiler gelip ayetlerimi okuyunca çekinen ve hallerini ıslah edenlere ne korku vardır, ne de mahzun olur onlar.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى فَمَنِ ٱتَّقَىٰ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Âdemoğulları, size, içinizden elçiler gelip ayetlerimi okuyunca çekinen ve hallerini ıslah edenlere ne korku vardır, ne de mahzun olur onlar.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 7,
+      "ayah": 49,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:49",
+      "word_position": 15,
+      "target_word_uthmani": "تَحْزَنُونَ",
+      "target_word_rasm": "تحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, onları rahmetine nail etmez diye kesin and ettiğiniz kişiler, bunlar değil miydi? Sonra bunlara girin esenlik bahçesine denir, ne korku vardır size, ne...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2MP"
+      },
+      "ayah_text_arabic_full": "أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ ٱللَّهُ بِرَحْمَةٍ ٱدْخُلُوا۟ ٱلْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, onları rahmetine nail etmez diye kesin and ettiğiniz kişiler, bunlar değil miydi? Sonra bunlara girin esenlik bahçesine denir, ne korku vardır size, ne de mahzun olursunuz.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 40,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:40",
+      "word_position": 20,
+      "target_word_uthmani": "تَحْزَنْ",
+      "target_word_rasm": "تحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا",
+      "context_snippet_turkish_tabula_rasa": "Siz ona yardım etmezseniz hatırlayın o zamanı ki gerçeğin üzerini örtenler, onu yurdundan çıkardıkları zaman yardım etmişti ona. O, iki kişinin ikincisiydi...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz ona yardım etmezseniz hatırlayın o zamanı ki gerçeğin üzerini örtenler, onu yurdundan çıkardıkları zaman yardım etmişti ona. O, iki kişinin ikincisiydi ancak ve hani ikisi de mağaradaydılar, arkadaşına, mahzun olma demişti, şüphe yok ki Allah, bizimle beraberdir. Şüphe yok ki Allah, ona manevi bir kuvvet ve huzur vermişti ve onu, sizin görmediğiniz ordularla kuvvetlendirmişti ve gerçeğin üzerini örten olanların sözlerini alçaltmıştı, Allah'ın sözüyse zaten yüceydi ve Allah, her şeye üstündür, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 9,
+      "ayah": 92,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:92",
+      "word_position": 19,
+      "target_word_uthmani": "حَزَنًا",
+      "target_word_rasm": "حزنا",
+      "target_word_literal_irab": "Gönlü daraltan tasa, burukluk ve üzüntü (حَزَنًا / ٱلْحَزَنَ — Bab I mastar/isim: 9:92, 28:8, 35:34)",
+      "context_snippet_arabic": "تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا",
+      "context_snippet_turkish_tabula_rasa": "Bir de sana gelince onları bindirmek için senden binek istemişlerdi de sizi bindirecek binek bulamıyorum demiştin; bu uğurda dolaşıma sokup paylaşacak bir şey...",
+      "morphology": {
+        "lemma": "Hazan",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hazan|ROOT:Hzn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir de sana gelince onları bindirmek için senden binek istemişlerdi de sizi bindirecek binek bulamıyorum demiştin; bu uğurda dolaşıma sokup paylaşacak bir şey bulamadıklarından mahzun olup gözleri yaşlarla dolarak dönmüşlerdi; onlara da suç yok.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 10,
+      "ayah": 62,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:62",
+      "word_position": 10,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bilin, haberdar olun ki şüphe yok Allah dostlarına ne korku vardır, ne de mahzun olur onlar.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bilin, haberdar olun ki şüphe yok Allah dostlarına ne korku vardır, ne de mahzun olur onlar.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 10,
+      "ayah": 65,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:65",
+      "word_position": 2,
+      "target_word_uthmani": "يَحْزُنكَ",
+      "target_word_rasm": "يحزنك",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَلَا يَحْزُنكَ قَوْلُهُمْ إِنَّ ٱلْعِزَّةَ",
+      "context_snippet_turkish_tabula_rasa": "Onların sözü mahzun etmesin seni. Şüphe yok ki üstünlük, yücelik Allah'ındır. Odur duyan, bilen.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْزُنكَ قَوْلُهُمْ إِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların sözü mahzun etmesin seni. Şüphe yok ki üstünlük, yücelik Allah'ındır. Odur duyan, bilen.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 12,
+      "ayah": 13,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:13",
+      "word_position": 3,
+      "target_word_uthmani": "لَيَحْزُنُنِىٓ",
+      "target_word_rasm": "ليحزننى",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Yakup, onu götürür, giderseniz kederlenirim ben ve korkarım ki siz, ondan gaflet edersiniz de gelip kurt yer onu demişti.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yakup, onu götürür, giderseniz kederlenirim ben ve korkarım ki siz, ondan gaflet edersiniz de gelip kurt yer onu demişti.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 84,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:84",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْحُزْنِ",
+      "target_word_rasm": "ٱلحزن",
+      "target_word_literal_irab": "İçe akıtılan derin ayrılık kederi (ٱلْحُزْنِ / حُزْنِىٓ — isim: 12:84, 12:86)",
+      "context_snippet_arabic": "وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve onlardan yüz çevirdi de ey beni tükenmez, sonu gelmez kederlere salan Yusuf demeye başladı ve kederden gözleri ağardı ve artık derdini yutmaktaydı o.",
+      "morphology": {
+        "lemma": "Huzon",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Huzon|ROOT:Hzn|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onlardan yüz çevirdi de ey beni tükenmez, sonu gelmez kederlere salan Yusuf demeye başladı ve kederden gözleri ağardı ve artık derdini yutmaktaydı o.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 86,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:86",
+      "word_position": 5,
+      "target_word_uthmani": "وَحُزْنِىٓ",
+      "target_word_rasm": "وحزنى",
+      "target_word_literal_irab": "İçe akıtılan derin ayrılık kederi (ٱلْحُزْنِ / حُزْنِىٓ — isim: 12:84, 12:86)",
+      "context_snippet_arabic": "إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "Ben dedi, taşan derdimi, kederimi ancak Allah'a arzetmedeyim ve Allah tarafından sizin bilmediğiniz şeyleri biliyorum ben.",
+      "morphology": {
+        "lemma": "Huzon",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Huzon|ROOT:Hzn|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ben dedi, taşan derdimi, kederimi ancak Allah'a arzetmedeyim ve Allah tarafından sizin bilmediğiniz şeyleri biliyorum ben.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 15,
+      "ayah": 88,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:88",
+      "word_position": 11,
+      "target_word_uthmani": "تَحْزَنْ",
+      "target_word_rasm": "تحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "أَزْوَٰجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara verdiğimiz mala, evlada göz dikme, onlar için tasalanıp gam yeme, güvene erenlere karşı kanadını indir, onları koru, onlara karşı mütevazı ol.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara verdiğimiz mala, evlada göz dikme, onlar için tasalanıp gam yeme, güvene erenlere karşı kanadını indir, onları koru, onlara karşı mütevazı ol.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 16,
+      "ayah": 127,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:127",
+      "word_position": 7,
+      "target_word_uthmani": "تَحْزَنْ",
+      "target_word_rasm": "تحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "إِلَّا بِٱللَّهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren, sebat edip direnmen, ancak Allah'ın vereceği başarıyla mümkündür. Sana düzen kurduklarından dolayı da daralma, sıkıntıya düşme.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren, sebat edip direnmen, ancak Allah'ın vereceği başarıyla mümkündür. Sana düzen kurduklarından dolayı da daralma, sıkıntıya düşme.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 19,
+      "ayah": 24,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:24",
+      "word_position": 5,
+      "target_word_uthmani": "تَحْزَنِى",
+      "target_word_rasm": "تحزنى",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ",
+      "context_snippet_turkish_tabula_rasa": "Uzaktan bir ses geldi ona: Mahzun olma, Rabbin, ayağının altından bir ırmak akıttı.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Uzaktan bir ses geldi ona: Mahzun olma, Rabbin, ayağının altından bir ırmak akıttı.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 20,
+      "ayah": 40,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:40",
+      "word_position": 17,
+      "target_word_uthmani": "تَحْزَنَ",
+      "target_word_rasm": "تحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ",
+      "context_snippet_turkish_tabula_rasa": "Hani kız kardeşin gitmiş de onu yetiştirecek birisini bulayım mı size demişti, gözü aydın olsun, kederlenmesin diye tekrar anana kavuşturmuştuk seni ve birisini öldürmüştün de seni gamdan kurtarmıştık ve seni sınayıp durmuştuk ve yıllarca Medyen halkının içinde kalmıştın, sonra da mukadder olduğu gibi buraya geldin ey Musa.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3FS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani kız kardeşin gitmiş de onu yetiştirecek birisini bulayım mı size demişti, gözü aydın olsun, kederlenmesin diye tekrar anana kavuşturmuştuk seni ve birisini öldürmüştün de seni gamdan kurtarmıştık ve seni sınayıp durmuştuk ve yıllarca Medyen halkının içinde kalmıştın, sonra da mukadder olduğu gibi buraya geldin ey Musa.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 103,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:103",
+      "word_position": 2,
+      "target_word_uthmani": "يَحْزُنُهُمُ",
+      "target_word_rasm": "يحزنهم",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ",
+      "context_snippet_turkish_tabula_rasa": "O en büyük korku, onları hüzünlendirmez ve buyruk elçileri, onları karşılarlar da işte derler, size vaadedilen gün, bugün.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS"
+      },
+      "ayah_text_arabic_full": "لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ هَٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O en büyük korku, onları hüzünlendirmez ve buyruk elçileri, onları karşılarlar da işte derler, size vaadedilen gün, bugün.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 27,
+      "ayah": 70,
+      "surah_name": "Neml",
+      "ayah_ref": "27:70",
+      "word_position": 2,
+      "target_word_uthmani": "تَحْزَنْ",
+      "target_word_rasm": "تحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن",
+      "context_snippet_turkish_tabula_rasa": "Ve üzülme onlar için ve daralma kurdukları düzenlerden.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve üzülme onlar için ve daralma kurdukları düzenlerden.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 28,
+      "ayah": 7,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:7",
+      "word_position": 16,
+      "target_word_uthmani": "تَحْزَنِىٓ",
+      "target_word_rasm": "تحزنى",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ",
+      "context_snippet_turkish_tabula_rasa": "Ve Musa'nın anasına, onu emzir, bir tehlikeye uğramasından ürkersen at onu nehre ve korkma, tasalanma, şüphe yok ki biz, onu sana tekrar veririz ve onu...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Musa'nın anasına, onu emzir, bir tehlikeye uğramasından ürkersen at onu nehre ve korkma, tasalanma, şüphe yok ki biz, onu sana tekrar veririz ve onu elçilere katar, elçi yaparız diye vahyettik.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 8,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:8",
+      "word_position": 7,
+      "target_word_uthmani": "وَحَزَنًا",
+      "target_word_rasm": "وحزنا",
+      "target_word_literal_irab": "Gönlü daraltan tasa, burukluk ve üzüntü (حَزَنًا / ٱلْحَزَنَ — Bab I mastar/isim: 9:92, 28:8, 35:34)",
+      "context_snippet_arabic": "لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine düşman olması, onları tasalandırması için Firavun'un adamları, onu buldular; şüphe yok ki Firavun ve Haman'la askerleri, yanlış hareket...",
+      "morphology": {
+        "lemma": "Hazan",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hazan|ROOT:Hzn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ وَجُنُودَهُمَا كَانُوا۟ خَٰطِـِٔينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine düşman olması, onları tasalandırması için Firavun'un adamları, onu buldular; şüphe yok ki Firavun ve Haman'la askerleri, yanlış hareket etmedeydiler.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 13,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:13",
+      "word_position": 8,
+      "target_word_uthmani": "تَحْزَنَ",
+      "target_word_rasm": "تحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ",
+      "context_snippet_turkish_tabula_rasa": "Derken, gözü aydın olsun, ışıklansın ve mahzun olmasın ve Allah'ın vaadettiği şeyin, şüphesiz gerçek olduğunu bilsin diye tekrar anasına verdik onu, fakat...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3FS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken, gözü aydın olsun, ışıklansın ve mahzun olmasın ve Allah'ın vaadettiği şeyin, şüphesiz gerçek olduğunu bilsin diye tekrar anasına verdik onu, fakat insanların çoğu bilmez.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 29,
+      "ayah": 33,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:33",
+      "word_position": 15,
+      "target_word_uthmani": "تَحْزَنْ",
+      "target_word_rasm": "تحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "لَا تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ",
+      "context_snippet_turkish_tabula_rasa": "Elçilerimiz Lut'a gelince Lut, onların yüzünden kederlenmişti, gönlü daralmıştı. Onlar, korkma ve tasalanma demişlerdi; ...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Elçilerimiz Lut'a gelince Lut, onların yüzünden kederlenmişti, gönlü daralmıştı. Onlar, korkma ve tasalanma demişlerdi; şüphe yok ki biz, seni de, aileni de kurtaracağız, ancak karın müstesna ve şüphe yok o, orada kalanlardan olacak.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 31,
+      "ayah": 23,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:23",
+      "word_position": 4,
+      "target_word_uthmani": "يَحْزُنكَ",
+      "target_word_rasm": "يحزنك",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ إِلَيْنَا مَرْجِعُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ve kim, gerçeğin üzerini örten olursa onun gerçeğin üzerini örten, tasalandırmasın seni; dönüp varacakları yer, bizim tapımızdır da ne yaptılarsa biz haber...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوٓا۟ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim, gerçeğin üzerini örten olursa onun gerçeğin üzerini örten, tasalandırmasın seni; dönüp varacakları yer, bizim tapımızdır da ne yaptılarsa biz haber veririz onlara; şüphe yok ki Allah, gönüllerde ne varsa hepsini bilir.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 33,
+      "ayah": 51,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:51",
+      "word_position": 22,
+      "target_word_uthmani": "يَحْزَنَّ",
+      "target_word_rasm": "يحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَآ ءَاتَيْتَهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Bunlardan dilediğini bırakabilirsin, dilediğini de alabilirsin ve bıraktığını tekrar almada da bir vebal yok sana; bu, gözlerinin ışıklanması, mahzun...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3FP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "تُرْجِى مَن تَشَآءُ مِنْهُنَّ وَتُـْٔوِىٓ إِلَيْكَ مَن تَشَآءُ وَمَنِ ٱبْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ذَٰلِكَ أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَآ ءَاتَيْتَهُنَّ كُلُّهُنَّ وَٱللَّهُ يَعْلَمُ مَا فِى قُلُوبِكُمْ وَكَانَ ٱللَّهُ عَلِيمًا حَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlardan dilediğini bırakabilirsin, dilediğini de alabilirsin ve bıraktığını tekrar almada da bir vebal yok sana; bu, gözlerinin ışıklanması, mahzun olmamaları ve verdiğin şeye, hepsinin de razı olması bakımından daha iyidir ve Allah, gönüllerinizdene varsa bilir ve Allah, her şeyi bilir, azap etmede de acele etmez.",
+      "contextual_meaning": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+    },
+    {
+      "surah": 35,
+      "ayah": 34,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:34",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْحَزَنَ",
+      "target_word_rasm": "ٱلحزن",
+      "target_word_literal_irab": "Gönlü daraltan tasa, burukluk ve üzüntü (حَزَنًا / ٱلْحَزَنَ — Bab I mastar/isim: 9:92, 28:8, 35:34)",
+      "context_snippet_arabic": "ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ إِنَّ رَبَّنَا لَغَفُورٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve hamd Allah'a ki derler, bizden gamı, gussayı giderdi; şüphe yok ki Rabbimiz, suçları örter, mükafatlarını da fazlasıyle verir.",
+      "morphology": {
+        "lemma": "Hazan",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hazan|ROOT:Hzn|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve hamd Allah'a ki derler, bizden gamı, gussayı giderdi; şüphe yok ki Rabbimiz, suçları örter, mükafatlarını da fazlasıyle verir.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 36,
+      "ayah": 76,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:76",
+      "word_position": 2,
+      "target_word_uthmani": "يَحْزُنكَ",
+      "target_word_rasm": "يحزنك",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "فَلَا يَحْزُنكَ قَوْلُهُمْ إِنَّا نَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "Mahzun etmesin seni onların sözleri; şüphe yok ki biz, gizlediklerini de biliriz, açığa vurduklarını da.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلَا يَحْزُنكَ قَوْلُهُمْ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mahzun etmesin seni onların sözleri; şüphe yok ki biz, gizlediklerini de biliriz, açığa vurduklarını da.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    },
+    {
+      "surah": 39,
+      "ayah": 61,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:61",
+      "word_position": 11,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلسُّوٓءُ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, kendisinden çekinenleri, kurtuluşlarına sebep olan şeyle kurtarır, onlar, bir kötülüğe uğramazlar ve mahzun da olmazlar.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ ٱتَّقَوْا۟ بِمَفَازَتِهِمْ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, kendisinden çekinenleri, kurtuluşlarına sebep olan şeyle kurtarır, onlar, bir kötülüğe uğramazlar ve mahzun da olmazlar.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 41,
+      "ayah": 30,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:30",
+      "word_position": 14,
+      "target_word_uthmani": "تَحْزَنُوا۟",
+      "target_word_rasm": "تحزنوا",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de, Rabbimiz Allah'tır dedikten sonra da dosdoğru hareket edenlere buyruk elçileri indiririz de sakın korkmayın ve mahzun olmayın ve müjdelenin,...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de, Rabbimiz Allah'tır dedikten sonra da dosdoğru hareket edenlere buyruk elçileri indiririz de sakın korkmayın ve mahzun olmayın ve müjdelenin, sevinin size vaadedilen esenlik bahçesiyle deriz.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 43,
+      "ayah": 68,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:68",
+      "word_position": 8,
+      "target_word_uthmani": "تَحْزَنُونَ",
+      "target_word_rasm": "تحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلْيَوْمَ وَلَآ أَنتُمْ تَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ey kullarım, korku yok size bugün, kederlenmezsiniz de.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰعِبَادِ لَا خَوْفٌ عَلَيْكُمُ ٱلْيَوْمَ وَلَآ أَنتُمْ تَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey kullarım, korku yok size bugün, kederlenmezsiniz de.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 46,
+      "ayah": 13,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:13",
+      "word_position": 13,
+      "target_word_uthmani": "يَحْزَنُونَ",
+      "target_word_rasm": "يحزنون",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz, onlar ki Rabbimiz Allah'tır dediler de sonra doğru hareket ettiler, artık onlara ne bir korku vardır, ne de kederlenir onlar.",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz, onlar ki Rabbimiz Allah'tır dediler de sonra doğru hareket ettiler, artık onlara ne bir korku vardır, ne de kederlenir onlar.",
+      "contextual_meaning": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+    },
+    {
+      "surah": 58,
+      "ayah": 10,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:10",
+      "word_position": 5,
+      "target_word_uthmani": "لِيَحْزُنَ",
+      "target_word_rasm": "ليحزن",
+      "target_word_literal_irab": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)",
+      "context_snippet_arabic": "ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَٰنِ لِيَحْزُنَ ٱلَّذِينَ ءَامَنُوا۟ وَلَيْسَ",
+      "context_snippet_turkish_tabula_rasa": "O gizli konuşmalar, güvene erenleri mahzun etmek için ancak saptırıcı yıkıcı güç'ın iğvasıyla meydana gelir ve halbuki Allah'ın izni olmadıkça onlara hiçbir...",
+      "morphology": {
+        "lemma": "yaHozun",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaHozun|ROOT:Hzn|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَٰنِ لِيَحْزُنَ ٱلَّذِينَ ءَامَنُوا۟ وَلَيْسَ بِضَآرِّهِمْ شَيْـًٔا إِلَّا بِإِذْنِ ٱللَّهِ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gizli konuşmalar, güvene erenleri mahzun etmek için ancak saptırıcı yıkıcı güç'ın iğvasıyla meydana gelir ve halbuki Allah'ın izni olmadıkça onlara hiçbir şey zarar vermez ve dayananlar, artık Allah'a dayansınlar.",
+      "contextual_meaning": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+    }
+  ]
+}

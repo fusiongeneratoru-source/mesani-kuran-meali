@@ -29825,5 +29825,706 @@
       }
     ],
     "context_default": "Gücü kesilip tamamen boşa çıkmak, tükenişe ve hüsranlı yıkıma uğramak (ت-ب-ب)."
+  },
+  "ط-ع-م": {
+    "buckwalter": "TEm",
+    "slug": "taam_ve_itam_tadip_beslenmek_ve_ac_olani_doyurmak_tem",
+    "concept_name": "Ṭaʿâm ve İṭʿâm (Tadıp Beslenmek, İnsanı Ayakta Tutan Gıda ve Aç Olanı Doyurmak)",
+    "keywords": [
+      "taam",
+      "itam",
+      "tatmak",
+      "besin",
+      "yiyecek",
+      "yoksulu doyurmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "TaEaAm",
+        "label": "Tadılıp yenilen, bedeni doyurup ayakta tutan besin ve yiyecek (طَعَام / طَعَامِهِۦ / طَعَامُكُمْ — isim: 24 geçiş)"
+      },
+      {
+        "lemma": ">aToEama",
+        "label": "Aç olanı doyurmak, yoksula, yetime ve esire yemek yedirmek, rızıklandırıp beslemek (أَطْعَمَ / يُطْعِمُ / نُطْعِمُكُمْ — Bab IV fiil: 13 geçiş)"
+      },
+      {
+        "lemma": "TaEimu",
+        "label": "Bir besini tadıp yemek veya sudan tadıp doyacak kadar içmek (طَعِمُوا۟ / يَطْعَمْهُ / تَطْعَمُوا۟ — Bab I fiil: 2:249, 5:93, 6:138, 6:145, 33:53)"
+      },
+      {
+        "lemma": "<iToEa`m",
+        "label": "Kıtlık gününde veya kefaret olarak açları doyurup beslemek (إِطْعَٰمُ / إِطْعَٰمٌ — Bab IV mastar: 5:89, 58:4, 90:14)"
+      },
+      {
+        "lemma": "TaAEim",
+        "label": "Tadıp yiyen ve beslenen kimse (طَاعِمٍ يَطْعَمُهُۥٓ — Bab I ism-i fâil: 6:145)"
+      },
+      {
+        "lemma": "{sotaToEama",
+        "label": "Uğradıkları kent halkından yiyecek ve konukseverlik istediler (ٱسْتَطْعَمَآ أَهْلَهَا — Bab X mazi fiil: 18:77)"
+      },
+      {
+        "lemma": "TaEom",
+        "label": "Tadı ve lezzeti hiç bozulmayan süt (لَّمْ يَتَغَيَّرْ طَعْمُهُۥ — isim: 47:15)"
+      }
+    ],
+    "irab_default": "Tadıp beslenmek, insanı ayakta tutan gıda ve aç olanı doyurmak (ط-ع-م kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:89",
+          "36:47",
+          "58:4",
+          "69:34",
+          "74:44",
+          "76:8",
+          "76:9",
+          "89:18",
+          "90:14",
+          "106:4",
+          "107:3"
+        ],
+        "text": "Sarp yokuşu aşmanın ve hesap gününü doğrulamanın temel şartı olarak açlık gününde yoksulu, yetimi ve esiri doyurmak (it'âm) ve açlıktan kurtaran Rabbe kulluk."
+      },
+      {
+        "ayahs": [
+          "6:14",
+          "12:37",
+          "21:8",
+          "22:28",
+          "22:36",
+          "25:7",
+          "25:20",
+          "26:79",
+          "51:57",
+          "80:24"
+        ],
+        "text": "Allah'ın doyurup besleyen fakat kendisi beslenmeye muhtaç olmayan olması, elçilerin de yemek yiyen beşerler olması ve insanın yediği besinin yaratılış sürecine bakması."
+      },
+      {
+        "ayahs": [
+          "2:61",
+          "2:184",
+          "2:249",
+          "2:259",
+          "3:93",
+          "5:5",
+          "5:75",
+          "5:93",
+          "5:95",
+          "5:96",
+          "6:138",
+          "6:145",
+          "18:19",
+          "18:77",
+          "33:53"
+        ],
+        "text": "Temiz ve helal besinlerin paylaşımı, ırmak suyunun tadılmasıyla yapılan sınama (2:249) ve toplumsal yaşamda yemek/konukseverlik adabı."
+      },
+      {
+        "ayahs": [
+          "44:44",
+          "47:15",
+          "69:36",
+          "73:13",
+          "88:6"
+        ],
+        "text": "Tadı hiç bozulmayan süt ırmakları ile suçluların boğazda düğümlenen ve açlığı gidermeyen dikenli/acı yiyeceklerinin karşıtlığı."
+      }
+    ],
+    "context_default": "Tadıp beslenmek, insanı ayakta tutan gıda ve aç olanı doyurmak (ط-ع-م)."
+  },
+  "ف-ر-ر": {
+    "buckwalter": "frr",
+    "slug": "firar_ve_meferr_bulundugu_yerden_hizla_kacmak_ve_allaha_siginmak_frr",
+    "concept_name": "Firâr ve Meferr (Tehlike veya Sorumluluktan Hızla Kaçmak ve Tek Sığınak Olan Allah'a Koşmak)",
+    "keywords": [
+      "firar",
+      "meferr",
+      "kaçmak",
+      "sığınmak",
+      "fe firru ilallah"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "far~ato",
+        "label": "Korku, ölüm veya hesap karşısında bulunduğu yerden hızla kaçmak (26:21, 33:16, 62:8, 74:51, 80:34) veya sahte odakları bırakıp hızla Allah'a kaçıp sığınmak (51:50) (فَرَرْتُ / تَفِرُّونَ / فَفِرُّوٓا۟ / يَفِرُّ — Bab I fiil)"
+      },
+      {
+        "lemma": "firaAr",
+        "label": "Ürküntüyle veya sorumluluktan sıyrılmak için hızla kaçış (فِرَارًا / ٱلْفِرَارُ — Bab I mastar: 18:18, 33:13, 33:16, 71:6)"
+      },
+      {
+        "lemma": "mafar~",
+        "label": "Kaçıp kurtulacak yer ve sığınak (أَيْنَ ٱلْمَفَرُّ — ism-i mekân: 75:10)"
+      }
+    ],
+    "irab_default": "Bulunduğu yeri hızla terk edip kaçmak veya Allah'a doğru kaçıp sığınmak (ف-ر-ر kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "51:50",
+          "71:6",
+          "74:51"
+        ],
+        "text": "Sahte dayanaklardan sıyrılıp doğrudan Allah'a doğru kaçıp sığınma çağrısı (fe-firrû ilallâh) ile hakikat öğüdünden aslandan ürken yaban eşekleri gibi kaçanların karşıtlığı."
+      },
+      {
+        "ayahs": [
+          "33:13",
+          "33:16",
+          "62:8",
+          "75:10",
+          "80:34"
+        ],
+        "text": "Ölümden ve sorumluluktan kaçışın hiçbir yarar sağlamaması ve hesap gününde insanın en yakınlarından bile kaçıp 'kaçacak yer (meferr) neresi?' diye sorması."
+      },
+      {
+        "ayahs": [
+          "18:18",
+          "26:21"
+        ],
+        "text": "Mûsâ'nın korktuğu için Firavun yönetiminden kaçıp ayrılması ve mağara ehlinin heybetli manzarası."
+      }
+    ],
+    "context_default": "Bulunduğu yeri hızla terk edip kaçmak veya Allah'a doğru kaçıp sığınmak (ف-ر-ر)."
+  },
+  "ف-و-ق": {
+    "buckwalter": "fwq",
+    "slug": "fevk_ifaka_ve_fevak_ust_konum_bilincin_ayilmasi_ve_duraksama_fwq",
+    "concept_name": "Fevk, İfâka ve Fevâk (Alt Tarafın Karşıtı Olan Üst Konum, Baygınlıktan Ayılma ve Duraksama Payı)",
+    "keywords": [
+      "fevk",
+      "ifaka",
+      "fevak",
+      "üst",
+      "üstün",
+      "ayılmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fawoq",
+        "label": "Alt tarafın (تَحْت / أَسْفَل) karşıtı olarak fiziksel üst taraf, sayısal fazlalık veya bilgi, güç ve sorumluluk bakımından üst konum (فَوْقَ / فَوْقَهُمْ / فَوْقِكُمْ — zarf: 41 geçiş)"
+      },
+      {
+        "lemma": ">afaAqa",
+        "label": "Sarsıntı ve baygınlıktan sonra bilinci yerine gelip ayılınca (فَلَمَّآ أَفَاقَ — Bab IV mazi fiil: 7:143)"
+      },
+      {
+        "lemma": "fawaAq",
+        "label": "İki sağım arası kadar bile duraksaması, nefes alma fırsatı ve geri dönüşü olmayan (مَّا لَهَا مِن فَوَاقٍ — isim/mastar: 38:15)"
+      }
+    ],
+    "irab_default": "Fiziksel veya derecesel üst konumda olmak, baygınlıktan ayılmak ve duraksama payı (ف-و-ق kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:55",
+          "6:18",
+          "6:61",
+          "6:165",
+          "7:127",
+          "12:76",
+          "16:50",
+          "43:32",
+          "48:10",
+          "49:2"
+        ],
+        "text": "Her bilgi sahibinin üstünde daha iyi bilen birinin bulunması, Allah'ın elinin ve egemenliğinin her şeyin üstünde olması ve sınama dereceleri."
+      },
+      {
+        "ayahs": [
+          "2:63",
+          "2:93",
+          "4:154",
+          "5:66",
+          "6:65",
+          "7:41",
+          "7:171",
+          "8:12",
+          "12:36",
+          "14:26",
+          "16:26",
+          "16:88",
+          "22:19",
+          "23:17",
+          "24:40",
+          "29:55",
+          "33:10",
+          "39:16",
+          "39:20",
+          "41:10",
+          "42:5",
+          "44:48",
+          "50:6",
+          "67:19",
+          "69:17",
+          "78:12"
+        ],
+        "text": "Gök katmanlarının, bulutların, dağların, kuşların ve azap/rahmet kuşatmasının üst taraftan (fevk) konumlanışı."
+      },
+      {
+        "ayahs": [
+          "2:26",
+          "2:212",
+          "4:11",
+          "7:143",
+          "38:15"
+        ],
+        "text": "Ölçü ve örneklerde üst sınır, Mûsâ'nın baygınlıktan sonra bilincinin yerine gelip ayılması (efâka - 7:143) ve duraksaması olmayan tek çığlık (fevâk - 38:15)."
+      }
+    ],
+    "context_default": "Fiziksel veya derecesel üst konumda olmak, baygınlıktan ayılmak ve duraksama payı (ف-و-ق)."
+  },
+  "أ-ذ-ي": {
+    "buckwalter": "A*y",
+    "slug": "eza_ve_iza_rahatsiz_edip_incitmek_ve_eziyet_vermek_azy",
+    "concept_name": "Ezâ ve Îẕâʾ (Üzerinde Rahat Durulamayan Sıkıntı, Başa Kakarak veya İftirayla İncitmek)",
+    "keywords": [
+      "eza",
+      "eziyet",
+      "incitmek",
+      "rahatsızlık",
+      "başa kakmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">uw*iYa",
+        "label": "Sözlü iftira, kabalık veya baskıyla birini incitip rahatsız etmek ve hakikat yolunda incitilmek (أُوذِىَ / أُوذُوا۟ / يُؤْذُونَ / تُؤْذُوا۟ — Bab IV fiil: 15 geçiş)"
+      },
+      {
+        "lemma": ">a*FY",
+        "label": "Bedeni veya gönlü rahatsız eden sıkıntı (2:196, 2:222, 4:102) ile yapılan yardımı başa kakarak veya sözlü sataşmayla incitme (2:262-264, 3:111, 3:186, 33:48) (أَذًى — isim/mastar: 9 geçiş)"
+      }
+    ],
+    "irab_default": "Bedeni veya gönlü rahatsız edip incitmek ve sözlü/fiili eziyet vermek (أ-ذ-ي kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:262",
+          "2:263",
+          "2:264",
+          "3:111",
+          "3:186"
+        ],
+        "text": "Yapılan yardımların ardından başa kakma ve incitici söz (ezâ) söylememek ve muhaliflerin incitici sözden (ezâ) öte gerçek bir zarar (darar) veremeyeceği."
+      },
+      {
+        "ayahs": [
+          "3:195",
+          "4:16",
+          "6:34",
+          "7:129",
+          "9:61",
+          "14:12",
+          "29:10",
+          "33:48",
+          "33:53",
+          "33:57",
+          "33:58",
+          "33:59",
+          "33:69",
+          "61:5"
+        ],
+        "text": "Elçilerin ve dürüst insanların hakikat yolunda maruz kaldıkları sözlü taciz, iftira ve eziyetlere karşı direnişi ve iftirayla insanları incitmenin ağırlığı."
+      },
+      {
+        "ayahs": [
+          "2:196",
+          "2:222",
+          "4:102"
+        ],
+        "text": "Baş rahatsızlığı, özel haldeki bedensel sıkıntı ve yağmurdan duyulan rahatsızlık gibi fiziksel ezâ durumlarında tanınan kolaylık ve korunma hükümleri."
+      }
+    ],
+    "context_default": "Bedeni veya gönlü rahatsız edip incitmek ve sözlü/fiili eziyet vermek (أ-ذ-ي)."
+  },
+  "ح-ز-ن": {
+    "buckwalter": "Hzn",
+    "slug": "huzun_ve_hazen_ic_dunyanin_daralip_kederlenmesi_ve_uzulmemek_hzn",
+    "concept_name": "Hüzün ve Hazen (Kayıp veya Baskı Karşısında İç Dünyanın Daralıp Kederlenmesi)",
+    "keywords": [
+      "hüzün",
+      "hazen",
+      "üzülmek",
+      "keder",
+      "la tahzen"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaHozun",
+        "label": "Geçmişe veya yaşanan bir kayba/duruma dair gönlün daralıp üzülmesi (يَحْزَنُونَ / تَحْزَنْ / تَحْزَنُوا۟) veya bir söz/olayın muhatabı üzüntüye sokması (يَحْزُنكَ / لَيَحْزُنُنِىٓ) (Bab I fiil: 37 geçiş)"
+      },
+      {
+        "lemma": "Hazan",
+        "label": "Gönlü daraltan tasa, burukluk ve üzüntü (حَزَنًا / ٱلْحَزَنَ — Bab I mastar/isim: 9:92, 28:8, 35:34)"
+      },
+      {
+        "lemma": "Huzon",
+        "label": "İçe akıtılan derin ayrılık kederi (ٱلْحُزْنِ / حُزْنِىٓ — isim: 12:84, 12:86)"
+      }
+    ],
+    "irab_default": "Yaşanan kayıp veya baskı karşısında iç dünyanın daralıp kederlenmesi ve üzülmek (ح-ز-ن kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:38",
+          "2:62",
+          "2:112",
+          "2:262",
+          "2:274",
+          "2:277",
+          "3:170",
+          "5:69",
+          "6:48",
+          "7:35",
+          "7:49",
+          "10:62",
+          "35:34",
+          "39:61",
+          "41:30",
+          "43:68",
+          "46:13"
+        ],
+        "text": "İlahi rehberliğe uyan ve dürüstçe değer üretenlerin ne geleceğe dair korku (havf) ne de geride bıraktıklarına dair burukluk ve üzüntü (hüzün) yaşamaması."
+      },
+      {
+        "ayahs": [
+          "3:139",
+          "3:153",
+          "3:176",
+          "5:41",
+          "6:33",
+          "9:40",
+          "9:92",
+          "10:65",
+          "15:88",
+          "16:127",
+          "21:103",
+          "27:70",
+          "29:33",
+          "31:23",
+          "36:76",
+          "58:10"
+        ],
+        "text": "Gerçeği örtenlerin söz ve tuzaklarının elçiyi ve güvenenleri üzmemesi ('lâ tahzen' / 'lâ yahzünke kavlühüm') çünkü Allah'ın onlarla beraber olması."
+      },
+      {
+        "ayahs": [
+          "12:13",
+          "12:84",
+          "12:86",
+          "19:24",
+          "20:40",
+          "28:7",
+          "28:8",
+          "28:13",
+          "33:51"
+        ],
+        "text": "Ya'kûb'un kederini yalnızca Allah'a arz etmesi ve Mûsâ'nın annesi ile Meryem'in gözlerinin aydınlanıp üzüntülerinin silinmesi."
+      }
+    ],
+    "context_default": "Yaşanan kayıp veya baskı karşısında iç dünyanın daralıp kederlenmesi ve üzülmek (ح-ز-ن)."
+  },
+  "ب-د-و": {
+    "buckwalter": "bdw",
+    "slug": "buduvv_ibda_ve_bedv_gizli_olanin_aciga_cikmasi_ve_acik_bozkir_bdw",
+    "concept_name": "Büdüvv, İbdâʾ ve Bedv (Gizli Olanın Açıkça Belirmesi, İçte Tutulanı Dışa Vurmak ve Açık Bozkır)",
+    "keywords": [
+      "ibda",
+      "bedv",
+      "badi",
+      "açığa çıkmak",
+      "dışa vurmak",
+      "bozkır"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yubodiYa",
+        "label": "İçte gizlenen veya örtülü olan bir düşünceyi, yardımı, süsü ya da sırrı dışa vurup açığa çıkarmak (تُبْدُونَ / تُبْدُوا۟ / يُبْدِينَ / لَتُبْدِى — Bab IV fiil: 15 geçiş)"
+      },
+      {
+        "lemma": "badaA",
+        "label": "Daha önce gizli veya örtülü olan bir durumun, niyetin ya da hesabın apaçık ortaya çıkıp belirmesi (بَدَا / بَدَتْ / تَبْدُ — Bab I fiil: 11 geçiş)"
+      },
+      {
+        "lemma": "mubodiy",
+        "label": "Gizlenen gerçeği açığa çıkaracak olan (مَا ٱللَّهُ مُبْدِيهِ — Bab IV ism-i fâil: 33:37)"
+      },
+      {
+        "lemma": "badow",
+        "label": "Her şeyin açıkta göründüğü kır ve bozkır (مِّنَ ٱلْبَدْوِ — isim: 12:100)"
+      },
+      {
+        "lemma": "baAd",
+        "label": "Dışarıdan/bozkırdan açıkça gelen ziyaretçi (وَٱلْبَادِ — Bab I ism-i fâil: 22:25)"
+      },
+      {
+        "lemma": "baAduwn",
+        "label": "Açık bozkırda/çölde yaşayanlar arasında (بَادُونَ فِى ٱلْأَعْرَابِ — çoğul ism-i fâil: 33:20)"
+      },
+      {
+        "lemma": "baAdiY",
+        "label": "Derinlemesine düşünmeden, işin ilk görünen yüzeyiyle (بَادِىَ ٱلرَّأْىِ — ism-i fâil: 11:27)"
+      }
+    ],
+    "irab_default": "Gizli veya örtülü olanın açıkça belirmesi, içte tutulanı dışa vurmak ve açık bozkır (ب-د-و kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:33",
+          "2:271",
+          "2:284",
+          "3:29",
+          "3:154",
+          "4:149",
+          "5:99",
+          "6:91",
+          "12:77",
+          "24:29",
+          "24:31",
+          "28:10",
+          "33:37",
+          "33:54"
+        ],
+        "text": "İnsanın içinde gizlediği (ihfâ / ketm) veya dışa vurup açığa çıkardığı (ibdâ) her şeyi Allah'ın bilmesi ve yapılan yardımların açık veya gizli sunulması."
+      },
+      {
+        "ayahs": [
+          "3:118",
+          "5:101",
+          "6:28",
+          "7:20",
+          "7:22",
+          "12:35",
+          "20:121",
+          "39:47",
+          "39:48",
+          "45:33",
+          "60:4"
+        ],
+        "text": "Örtülü olan çıplaklığın, içteki düşmanlığın ve hesap gününde hiç hesaba katmadıkları gerçeklerin çırılçıplak ortaya çıkıp belirmesi (bedâ)."
+      },
+      {
+        "ayahs": [
+          "11:27",
+          "12:100",
+          "22:25",
+          "33:20"
+        ],
+        "text": "Açık bozkırdan (el-bedv) kente geliş, Mescid-i Harâm'da yerleşik olanla dışarıdan gelenin (el-bâd) eşitliği ve yüzeysel ilk bakış (bâdiye'r-re'y)."
+      }
+    ],
+    "context_default": "Gizli veya örtülü olanın açıkça belirmesi, içte tutulanı dışa vurmak ve açık bozkır (ب-د-و)."
+  },
+  "ن-ز-ع": {
+    "buckwalter": "nzE",
+    "slug": "nez_ve_tenazu_yerinden_cekip_sokmek_ve_karsilikli_cekismek_nze",
+    "concept_name": "Nezʿ ve Tenâzüʿ (Bulunduğu Yerden Kuvvetle Çekip Söküp Çıkarmak ve Karşılıklı Çekiştirmek)",
+    "keywords": [
+      "nez",
+      "tenazu",
+      "naziat",
+      "nezzaa",
+      "çekip sökmek",
+      "çekişmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nazaEa",
+        "label": "Bir şeyi yerleştiği yerden kuvvetle çekip söküp çıkarmak; mülkü, nimeti, elbiseyi veya göğüsteki kini söküp almak (نَزَعَ / نَزَعْنَا / تَنزِعُ — Bab I fiil: 10 geçiş)"
+      },
+      {
+        "lemma": "tana`zaEu",
+        "label": "Bir işi karşılıklı çekiştirip anlaşmazlığa düşmek (3:152, 4:59, 8:43, 8:46, 18:21, 20:62) veya mecliste dostça karşılıklı kadeh alıp vermek (52:23) (تَنَٰزَعْتُمْ / تَنَٰزَعُوا۟ / يَتَنَٰزَعُونَ — Bab VI fiil: 7 geçiş)"
+      },
+      {
+        "lemma": "yuna`ziEu",
+        "label": "Bu iş konusunda seninle çekişip tartışmaya kalkışmasınlar (فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ — Bab III muzâri fiil: 22:67)"
+      },
+      {
+        "lemma": "naz~aAEap",
+        "label": "Deriyi kavurup yerinden soyup söken ateş (نَزَّاعَةً لِّلشَّوَىٰ — mübâlağalı ism-i fâil: 70:16)"
+      },
+      {
+        "lemma": "n~a`ziEa`t",
+        "label": "Derinliklerden bütün gücüyle çekip sökenler (وَٱلنَّٰزِعَٰتِ غَرْقًا — çoğul ism-i fâil: 79:1)"
+      }
+    ],
+    "irab_default": "Bulunduğu yerden kuvvetle çekip söküp çıkarmak veya bir işi karşılıklı çekiştirmek (ن-ز-ع kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:26",
+          "7:27",
+          "7:43",
+          "7:108",
+          "11:9",
+          "15:47",
+          "19:69",
+          "26:33",
+          "28:75",
+          "54:20",
+          "70:16",
+          "79:1"
+        ],
+        "text": "Kasırganın insanları hurma kütükleri gibi yerinden sökmesi (54:20), mülkün ve nimetin çekip alınması (3:26, 11:9) ve arınmışların göğüslerindeki kinin sökülüp temizlenmesi (7:43, 15:47)."
+      },
+      {
+        "ayahs": [
+          "3:152",
+          "4:59",
+          "8:43",
+          "8:46",
+          "18:21",
+          "20:62",
+          "22:67",
+          "52:23"
+        ],
+        "text": "Toplumsal direnci kıran karşılıklı çekişme ve anlaşmazlık (tenâzü') yasağı ile esenlik yurdunda boş söz ve suçlama olmaksızın karşılıklı kadeh alıp verme (52:23)."
+      }
+    ],
+    "context_default": "Bulunduğu yerden kuvvetle çekip söküp çıkarmak veya bir işi karşılıklı çekiştirmek (ن-ز-ع)."
+  },
+  "ب-د-أ": {
+    "buckwalter": "bdA",
+    "slug": "bed_ve_ibda_yaratilisi_ve_sureci_ilk_kez_baslatmak_bda",
+    "concept_name": "Bedʾ ve İbdâʾ (Yaratılışı ve Bir Süreci İlk Adımından Açıp Başlatmak)",
+    "keywords": [
+      "bed",
+      "ibda",
+      "yübdiü ve yüid",
+      "ilk yaratılış",
+      "başlatmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "bada>a",
+        "label": "Yaratılışı, bir işi veya saldırıyı ilk kez başlatmak (بَدَأَ / بَدَأَكُمْ / بَدَأْنَآ / يَبْدَؤُا۟ — Bab I fiil: 12 geçiş)"
+      },
+      {
+        "lemma": "yubodi}u",
+        "label": "Yaratılışı ilk kez başlatıp ortaya çıkarmak (يُبْدِئُ — Bab IV muzâri fiil: 29:19, 34:49, 85:13)"
+      }
+    ],
+    "irab_default": "Yaratılışı, bir süreci veya eylemi ilk adımından açıp başlatmak (ب-د-أ kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:29",
+          "10:4",
+          "10:34",
+          "21:104",
+          "27:64",
+          "29:19",
+          "29:20",
+          "30:11",
+          "30:27",
+          "32:7",
+          "34:49",
+          "85:13"
+        ],
+        "text": "Yaratılışı ilk kez başlatan (yebdeu / yübdiü) Allah'ın onu yeniden döndürüp tekrarlamasının (yüîdü) çok daha kolay olduğu yasası ve bâtılın hiçbir şeyi başlatıp döndürememesi."
+      },
+      {
+        "ayahs": [
+          "9:13",
+          "12:76"
+        ],
+        "text": "Bağlayıcı ahitlerini bozup saldırıyı ilk başlatan (bedeûküm evvele merreh) tarafa karşı savunma ve Yûsuf'un aramaya kardeşinin yükünden önce diğer yüklerden başlaması."
+      }
+    ],
+    "context_default": "Yaratılışı, bir süreci veya eylemi ilk adımından açıp başlatmak (ب-د-أ)."
+  },
+  "و-ص-ل": {
+    "buckwalter": "wSl",
+    "slug": "vasl_ve_tevsil_kopukluk_birakmadan_baglayip_ulastirmak_wsl",
+    "concept_name": "Vaṣl ve Tevṣîl (Kopukluk Bırakmadan Birbirine Bağlayıp Sürdürmek ve Hedefe Ulaştırmak)",
+    "keywords": [
+      "vasl",
+      "tevsil",
+      "vasile",
+      "bağları birleştirmek",
+      "ulaştırmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaSilu",
+        "label": "Allah'ın birleştirilmesini emrettiği bağları bitiştirip sürdürmek (2:27, 13:21, 13:25), bir topluluğa antlaşmayla bağlanmak (4:90) ve bir yere/kimseye erişip ulaşmak (6:136, 11:70, 11:81, 28:35) (يُوصَلَ / يَصِلُونَ / تَصِلُ / يَصِلُ — Bab I fiil: 10 geçiş)"
+      },
+      {
+        "lemma": "waS~alo",
+        "label": "Öğüt alıp hatırlasınlar diye vahiy sözünü onlara kesintisiz ve birbirine bağlı halkalar halinde ulaştırdık (وَلَقَدْ وَصَّلْنَا لَهُمُ ٱلْقَوْلَ — Bab II mazi fiil: 28:51)"
+      },
+      {
+        "lemma": "waSiylap",
+        "label": "Peş peşe dişi doğurarak batımları birbirine bağladığı iddia edilen cahiliye tabusu hayvan (وَلَا وَصِيلَةٍ — isim: 5:103)"
+      }
+    ],
+    "irab_default": "Kopukluk bırakmadan birbirine bitiştirip bağlamak ve hedefe ulaştırmak (و-ص-ل kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:27",
+          "13:21",
+          "13:25",
+          "28:51"
+        ],
+        "text": "Allah'ın birleştirilip sürdürülmesini emrettiği (mâ emerallâhü bihî en yûsale) ahit, adalet ve akrabalık bağlarını koruyanlar ile onları kesip koparanların karşıtlığı ve vahyin kesintisiz ulaştırılması."
+      },
+      {
+        "ayahs": [
+          "4:90",
+          "5:103",
+          "6:136",
+          "11:70",
+          "11:81",
+          "28:35"
+        ],
+        "text": "Antlaşmalı bir topluluğa bağlanıp sığınanların dokunulmazlığı, saldırgan ellerin elçilere ulaşamaması ve cahiliyenin 'vasîle' hurafesinin reddi."
+      }
+    ],
+    "context_default": "Kopukluk bırakmadan birbirine bitiştirip bağlamak ve hedefe ulaştırmak (و-ص-ل)."
+  },
+  "ف-ر-د": {
+    "buckwalter": "frd",
+    "slug": "ferd_ve_furada_kalabaliktan_siyrilip_tek_basina_ve_teker_teker_frd",
+    "concept_name": "Ferd ve Furâdâ (Kalabalıktan ve Dış Dayanaklardan Sıyrılıp Tek Başına ve Teker Teker Olmak)",
+    "keywords": [
+      "ferd",
+      "furada",
+      "tek başına",
+      "teker teker",
+      "bireysel sorumluluk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "farod",
+        "label": "Mal, evlat ve yardımcıdan soyutlanmış olarak tek başına (فَرْدًا — mansûb hâl: 19:80, 19:95, 21:89)"
+      },
+      {
+        "lemma": "fura`daY`",
+        "label": "Kalabalıktan ve sahte aracılardan sıyrılmış olarak teker teker, birer birer (فُرَٰدَىٰ — çoğul mansûb hâl: 6:94, 34:46)"
+      }
+    ],
+    "irab_default": "Kalabalıktan ve dış dayanaklardan sıyrılıp tek başına ve teker teker olmak (ف-ر-د kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:94",
+          "19:80",
+          "19:95",
+          "21:89"
+        ],
+        "text": "İnsanın dünyadaki mal, evlat ve sahte şefaatçilerden soyutlanarak ilk yaratıldığı gündeki gibi tek başına (ferden / furâdâ) Allah'ın huzuruna gelmesi ve Zekeriyyâ'nın varissiz kalmama duası."
+      },
+      {
+        "ayahs": [
+          "34:46"
+        ],
+        "text": "Sürü psikolojisinden ve kalabalık gürültüsünden sıyrılarak ikişer ikişer veya tek başına (mesnâ ve furâdâ) Allah için durup derinlemesine düşünme çağrısı."
+      }
+    ],
+    "context_default": "Kalabalıktan ve dış dayanaklardan sıyrılıp tek başına ve teker teker olmak (ف-ر-د)."
   }
 }
