@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3F (Kısa Sureler %100 Tam Kilit Genişletmesi [15 Sure], 3 Açık Mesânî Tepe Uçları ve %90+ Kök Kapsamı Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 40,
+  "locked_count": 50,
   "total_tokens_in_package": 870,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 89.56,
+  "current_coverage_pct": 90.24,
   "target_coverage_pct": 90.24,
   "etap_3f_roots": [
     {
@@ -764,8 +764,8 @@
       "frequency": 45,
       "unique_ayahs": 43,
       "rationale": "Subh, İsbâh ve Esbaha (45 geçiş | 1M + Sure 81, 100 — #1 kalan kök! 81:18 ağaran sabah ve 3:103, 5:30 yeni bir hâle dönüşmek)",
-      "concept_label": "Analiz Bekliyor (>aSobaHa, SuboH, muSobiHiyn, miSobaAH)",
-      "is_locked": false,
+      "concept_label": "Subh, İsbâh, Misbâh ve Asbaha (Sabah Aydınlığı, Kandil Işığı ve Hâl Dönüşümü)",
+      "is_locked": true,
       "sample_ayah": "3:103",
       "top_lemmas": [
         ">aSobaHa",
@@ -784,8 +784,8 @@
       "frequency": 42,
       "unique_ayahs": 40,
       "rationale": "Bahr ve Bahîra (42 geçiş | 2M + Sure 81, 82 — #2 kalan kök! ب-ر-ر zıddı denizler ve 5:103 cahiliye kulağı yarık deve geleneği)",
-      "concept_label": "Analiz Bekliyor (baHor, baHiyrap)",
-      "is_locked": false,
+      "concept_label": "Bahr, Bahreyn ve Bahîra (Engin Su Kütlesi/Deniz ve Kulağı Yarılan Cahiliye Devesi)",
+      "is_locked": true,
       "sample_ayah": "2:50",
       "top_lemmas": [
         "baHor",
@@ -802,8 +802,8 @@
       "frequency": 41,
       "unique_ayahs": 39,
       "rationale": "Cebel ve Cibille (41 geçiş | 1M + Sure 78, 79, 81, 88, 101 — #3 kalan kök! Dağlar ve 26:184, 36:62 kalabalık insan kitleleri)",
-      "concept_label": "Analiz Bekliyor (jabal, jibil~ap)",
-      "is_locked": false,
+      "concept_label": "Cebel, Cibâl ve Cibille (Yükselip Sabitlenen Dağlar ve Kalabalık İnsan Kuşakları)",
+      "is_locked": true,
       "sample_ayah": "2:260",
       "top_lemmas": [
         "jabal",
@@ -820,8 +820,8 @@
       "frequency": 39,
       "unique_ayahs": 34,
       "rationale": "Şurb, Şarâb ve Meşreb (39 geçiş | 2M + Sure 78, 83 — #4 kalan kök! ط-ع-م ve ص-و-م eşleniği içmek, içecek ve 2:93 kalbe sindirmek)",
-      "concept_label": "Analiz Bekliyor ($ariba, $araAb, $~a`ribiyn, m~a$orab)",
-      "is_locked": false,
+      "concept_label": "Şürb, Şerâb, Şirb ve İşrâb (İçmek, İçecek, Su Payı ve Kalbe Sinmek)",
+      "is_locked": true,
       "sample_ayah": "2:60",
       "top_lemmas": [
         "$ariba",
@@ -840,8 +840,8 @@
       "frequency": 34,
       "unique_ayahs": 32,
       "rationale": "Hüzüv ve İstihzâ' (34 geçiş | 1M: 2:15, 2:67, 6:10, 9:65, 15:95, 18:56 hakikat ve ayetlerle alay edip küçümsemek)",
-      "concept_label": "Analiz Bekliyor ({sotuhozi}a, huzuw, musotahozi'uwn)",
-      "is_locked": false,
+      "concept_label": "İstihzâ ve Hüzüv (Ciddi Hakikati ve Sorumluluğu Küçümseyip Alaya Almak)",
+      "is_locked": true,
       "sample_ayah": "2:14",
       "top_lemmas": [
         "{sotuhozi}a",
@@ -859,8 +859,8 @@
       "frequency": 33,
       "unique_ayahs": 31,
       "rationale": "Zıll, Zulle ve Zalle (33 geçiş | 1M: 2:57, 13:15, 16:48, 25:45, 56:30 gölge/gölgelik ve 16:58, 26:71 gün boyu bir hâlde sürmek)",
-      "concept_label": "Analiz Bekliyor (Zil~, Zal~a, Zul~ap, Zal~alo)",
-      "is_locked": false,
+      "concept_label": "Zıll, Zulle ve Zalle (Gölgelemek, Üstten Örtmek ve Kesintisiz Sürmek)",
+      "is_locked": true,
       "sample_ayah": "2:57",
       "top_lemmas": [
         "Zil~",
@@ -879,8 +879,8 @@
       "frequency": 30,
       "unique_ayahs": 26,
       "rationale": "Ünsâ (30 geçiş | 1M + Sure 92 Leyl: ذ-ك-ر [eril] kökünün doğrudan Mesânî zıddı dişil; 3:36, 4:11, 49:13, 53:45, 92:3)",
-      "concept_label": "Analiz Bekliyor (>unvaY`, >unvayayon)",
-      "is_locked": false,
+      "concept_label": "Ünsâ ve İnâs (Dişi Cinsiyet, Yaratılış Çiftliği ve Ahlaki Eşitlik)",
+      "is_locked": true,
       "sample_ayah": "2:178",
       "top_lemmas": [
         ">unvaY`",
@@ -897,8 +897,8 @@
       "frequency": 26,
       "unique_ayahs": 24,
       "rationale": "Hizy, İhzâ' ve Muhzî (26 geçiş | 1M: 2:85, 3:192, 11:78, 20:134, 66:8 hakikat karşısında açıkça rezil ve rüsvay olmak)",
-      "concept_label": "Analiz Bekliyor (>axozayo, xizoY, muxoziY, naxozaY`)",
-      "is_locked": false,
+      "concept_label": "Hizy ve İhzâ (Çirkin Eylem ve Yenilgiyle Yüzü Kara Çıkıp Rezil Olmak)",
+      "is_locked": true,
       "sample_ayah": "2:85",
       "top_lemmas": [
         ">axozayo",
@@ -917,8 +917,8 @@
       "frequency": 25,
       "unique_ayahs": 25,
       "rationale": "Fülk ve Felek (25 geçiş: 2:164, 11:37, 23:27 suları yaran gemi VE 21:33, 36:40 gök cisimlerinin döndüğü yörünge)",
-      "concept_label": "Analiz Bekliyor (fulok, falak)",
-      "is_locked": false,
+      "concept_label": "Fülk ve Felek (Denizde Yol Alan Gemi ve Dairesel Göksel Yörünge)",
+      "is_locked": true,
       "sample_ayah": "2:164",
       "top_lemmas": [
         "fulok",
@@ -935,8 +935,8 @@
       "frequency": 24,
       "unique_ayahs": 23,
       "rationale": "Maraz ve Marîd (24 geçiş | 1M: ش-ف-ي doğrudan zıddı! 2:10, 8:49, 33:12, 74:31 kalplerdeki manevi hastalık ve bedensel rahatsızlık)",
-      "concept_label": "Analiz Bekliyor (m~araD, m~ariyD, mariDo)",
-      "is_locked": false,
+      "concept_label": "Maraz ve Merîd (Bedensel Hastalık Kolaylığı ve Kalp/Bilinç Bozulması)",
+      "is_locked": true,
       "sample_ayah": "2:10",
       "top_lemmas": [
         "m~araD",

@@ -1,0 +1,756 @@
+{
+  "root": "ه-ز-أ",
+  "root_latin": "H-Z-A (hzA)",
+  "concept_name": "İstihzâ ve Hüzüv (Ciddi Hakikati ve Sorumluluğu Küçümseyip Alaya Almak)",
+  "rank": 269,
+  "total_occurrences": 34,
+  "unique_ayahs_count": 32,
+  "unified_core_mechanism": "Ciddi hakikati ve sorumluluğu hafife alıp alaya almak (`الِاسْتِخْفَافُ وَالسُّخْرِيَةُ`): (1) Tarihsel döngü ve bumerang yasası — geçmişte her elçinin alaya alınması (`6:10, 13:32, 15:11, 36:30, 43:7`) ve sonunda alaya aldıkları gerçeğin bizzat onları çepeçevre kuşatması (`حَاقَ بِهِم`, `6:10, 11:8, 16:34, 21:41, 39:48, 40:83, 45:33, 46:26`); (2) İkiyüzlü alay ve ilahî karşılık — kapalı kapılar ardında alay edenlerin alayının kendi başlarına çevrilmesi (`2:14-15, 9:64-65`); (3) Bilinçli sınır ve ilke — ayetlerin alaya alındığı meclisi terk etme (`4:140`), aile hukukunu istismar ederek ayetleri oyuncak edinmeme (`2:231`) ve alaycılara karşı elçiye güvence (`15:95`).",
+  "physical_core": "Ağır ve ciddi bir gerçeği hafife alıp küçümseyerek alaya almak (`السُّخْرِيَةُ وَالِاسْتِخْفَافُ`); Kur'an'da tüm 34 geçişte vahiy, elçi ve ahlaki sorumluluk karşısındaki alaycı küçümsemeyi ve bu alayın dönüp sahibini kuşatmasını (`حَاقَ بِهِم`) anlatır.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 6, s. 52): Kökün tek yalın ve berrak çekirdeğini 'alaya almak ve küçümsemek (`سَخِرَ`)' olarak tespit eder.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `هَزِئَ` ve `ٱسْتَهْزَأَ`nin alay etmek ve hafife almak olduğunu, `2:15`'teki `ٱللَّهُ يَسْتَهْزِئُ بِهِمْ` ifadesinin ise Arapça müşâkele (karşılık sanatı) kuralınca onların alaylarının karşılığını verip onları kendi kuruntularıyla yüzüstü bırakmak anlamına geldiğini kaydeder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الْهُزُءُ`yu 'gizli veya açık küçümsemeyle dalga geçmek' olarak tanımlar; `2:231`'de aile hukuku ayetlerini çarpıtarak istismar etmenin bile `وَلَا تَتَّخِذُوٓا۟ ءَايَٰتِ ٱللَّهِ هُزُوًا` ('Allah'ın ayetlerini alaya almayın') kapsamına girdiğine dikkat çeker.",
+    "arbitration_decision": "Hakem Masası Kararı: `ه-ز-أ` her 34 geçişte 'ciddi hakikati küçümseyip alaya almak' çekirdeğiyle kilitlenir; `2:15`'te müşâkele gereği 'alaylarının karşılığını verip boşa çıkarmak', `2:231`'de ise hukuki sınırları istismarla 'hafife alıp oyuncak edinmemek' vurgusu korunur."
+  },
+  "semitic_cognates": {
+    "note": "Klasik Arapçada tek berrak çekirdekli hemzeli kök (`ه-ز-أ`: alay etmek, hafife almak) olarak sabitlenen bu madde, Kur'an'da tamamıyla `ٱسْتَهْزَأَ` (Form X) ve `هُزُوًا` (mastar-isim) hattında işler; doğrulanmamış çapraz Sami köken yakıştırması yapılmamıştır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ح-ق-ق [فَقَدْ كَذَّبُوا۟ بِٱلْحَقِّ ... يَسْتَهْزِءُونَ / لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ وَٱتَّخَذُوٓا۟ ءَايَٰتِى ... هُزُوًا] (Ciddi ve Sarsılmaz Hakikati Doğrulamak ↔ Onu Küçümseyip Alay Konusu Yapmak: 6:5, 18:56)",
+      "ل-ع-ب [ٱتَّخَذُوا۟ دِينَكُمْ هُزُوًا وَلَعِبًا / إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ... كُنتُمْ تَسْتَهْزِءُونَ] (Ciddi Sorumluluğu Küçümseyen Alay ↔ Amaçsız Oyun ve Ciddiyetsizlik [Eş-Kutup / Ciddi Sorumluluğun Ortak Karşıtı]: 5:57, 5:58, 9:65)"
+    ],
+    "key_ayahs": [
+      "2:14",
+      "2:15",
+      "2:67",
+      "2:231",
+      "4:140",
+      "5:57",
+      "6:5",
+      "6:10",
+      "9:65",
+      "15:95",
+      "18:56",
+      "31:6",
+      "45:9",
+      "46:26"
+    ],
+    "reverse_stress_test": "`6:5` ve `18:56`'da alaycılığın (`يَسْتَهْزِءُونَ / هُزُوًا`) doğrudan `حَقّ` (hakikat) karşısında konumlanması, `2:231`'de ise evlilik hukukunu kötüye kullanmanın bile `ءَايَٰتِ ٱللَّهِ هُزُوًا` sayılması, kökün 'ciddi sorumluluk ve hakikati ciddiyetsizce aşındırma' işlevini kanıtlar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "س-خ-ر (6:10, 21:41 فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ — سَخِرَ hor görüp aşağılayarak gülme tutumunu, ٱسْتَهْزَأَ ise uyarıyı ve gerçeği küçümseyerek dalga geçme eylemini ayırır)",
+      "ل-ع-ب (5:57, 5:58, 9:65 هُزُوًا وَلَعِبًا — لَعِب amaçsız ve ciddiyetsiz oyun hâlini, هُزُو ise kasıtlı küçümseme ve alay tavrını ayırır)",
+      "ك-ذ-ب (6:5, 26:6, 30:10 كَذَّبُوا۟ ... يَسْتَهْزِءُونَ — تَكْذِيب gerçeği yalan sayıp reddetmeyi, ٱسْتِهْزَاء ise reddin ötesine geçip onu alay malzemesi yapmayı ayırır)"
+    ],
+    "mechanical_difference": "`ل-ع-ب` ciddiyetsiz oyunu, `س-خ-ر` küçültüp alaycı gülümsemeyi, `ك-ذ-ب` yalanlamayı ifade ederken; `ه-ز-أ` özellikle hakikati, ayetleri, hukuku veya elçileri hafife alıp alay konusu hâline getirmeyi (`ٱتَّخَذَ ... هُزُوًا` / `ٱسْتَهْزَأَ بِـ`) ayırır."
+  },
+  "anchor_ayahs": [
+    "2:14",
+    "2:15",
+    "2:67",
+    "2:231",
+    "4:140",
+    "5:57",
+    "5:58",
+    "6:5",
+    "6:10",
+    "9:65",
+    "15:95",
+    "18:56",
+    "21:41",
+    "31:6",
+    "45:9",
+    "46:26"
+  ],
+  "grammar_and_branch_rules": "34 geçişin 21'i Form X `ٱسْتَهْزَأَ` (her zaman `بِـ` harf-i cerriyle geçişli: `يَسْتَهْزِئُ بِهِمْ`, `ٱسْتُهْزِئَ بِرُسُلٍ`), 2'si Form X ism-i fâil (`مُسْتَهْزِءُون`), 11'i ise `هُزُوًا` olup tümü `ٱتَّخَذَ` fiilinin ikinci nesnesi olarak mansub gelir.",
+  "derivatives": {
+    "ٱسْتَهْزَأَ / يَسْتَهْزِئُ": "Bir hakikati, ayeti veya elçiyi küçümseyerek alaya almak (Form X — 21 geçiş: 2:15, 4:140, 6:10, 9:65, 16:34, 46:26)",
+    "مُسْتَهْزِئُون / مُسْتَهْزِئِين": "Alaya alıp küçümseyenler (Form X ism-i fâil — 2:14, 15:95)",
+    "هُزُوًا": "Alay ve eğlence konusu (11 geçiş — 2:67, 2:231, 5:57, 18:56, 21:36, 31:6, 45:9)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 14,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:14",
+      "word_position": 16,
+      "target_word_uthmani": "مُسْتَهْزِءُونَ",
+      "target_word_rasm": "مستهزءون",
+      "target_word_literal_irab": "Alay edip küçümseyenler (مُسْتَهْزِءُونَ / ٱلْمُسْتَهْزِءِينَ — 2:14, 15:95, Form X ism-i fâil)",
+      "context_snippet_arabic": "مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "güven duy buluştular mı güvene erdik derler. saptırıcı yıkıcı güç yalnız kaldılar mı şüphe yok ki derler, biz sizinleyiz, biz ancak alay etmekdeyiz.",
+      "morphology": {
+        "lemma": "musotahozi'uwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(X)|LEM:musotahozi'uwn|ROOT:hzA|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güven duy buluştular mı güvene erdik derler. saptırıcı yıkıcı güç yalnız kaldılar mı şüphe yok ki derler, biz sizinleyiz, biz ancak alay etmekdeyiz.",
+      "contextual_meaning": "İkiyüzlü alay ve bilinçli tavır: gizli alaycılığın boşa çıkarılması ve alay meclisinden ayrılma ilkesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 15,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:15",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَهْزِئُ",
+      "target_word_rasm": "يستهزئ",
+      "target_word_literal_irab": "İkiyüzlülerin gizli alayına karşılık Allah'ın alaylarını kendi başlarına çevirmesi (ٱللَّهُ يَسْتَهْزِئُ بِهِمْ — 2:15, Form X müşâkele)",
+      "context_snippet_arabic": "ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى",
+      "context_snippet_turkish_tabula_rasa": "Allah onlarla alay eder, taşkınlıklarında, azgınlıklarında başı boş dolaşsınlar diye mühlet verir onlara.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onlarla alay eder, taşkınlıklarında, azgınlıklarında başı boş dolaşsınlar diye mühlet verir onlara.",
+      "contextual_meaning": "İkiyüzlü alay ve bilinçli tavır: gizli alaycılığın boşa çıkarılması ve alay meclisinden ayrılma ilkesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 67,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:67",
+      "word_position": 13,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "بَقَرَةً قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... Şüphe yok ki Allah, size bir inek boğazlamanızı emrediyor. Kavmi, bizimle alay mı ediyorsun demişti. Musa, Allah'a sığınırım bilgisizlere katılmaktan demişti.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةً قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَٰهِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gene bir zaman Musa, kavmine demişti ki: Şüphe yok ki Allah, size bir inek boğazlamanızı emrediyor. Kavmi, bizimle alay mı ediyorsun demişti. Musa, Allah'a sığınırım bilgisizlere katılmaktan demişti.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 2,
+      "ayah": 231,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:231",
+      "word_position": 25,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Hukuki sınırları çarpıtarak Allah'ın ayetlerini hafife alıp oyuncak edinmek (هُزُوًا — 2:231)",
+      "context_snippet_arabic": "تَتَّخِذُوٓا۟ ءَايَٰتِ ٱللَّهِ هُزُوًا وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Kadınları boşadınız da boşandıktan sonraki müddetlerini geçirdiler mi artık onları ya iyilikle tutun, yahut hoşlukla salıverin. Haklarında aşırı muamelede...",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ وَلَا تَتَّخِذُوٓا۟ ءَايَٰتِ ٱللَّهِ هُزُوًا وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınları boşadınız da boşandıktan sonraki müddetlerini geçirdiler mi artık onları ya iyilikle tutun, yahut hoşlukla salıverin. Haklarında aşırı muamelede bulunmak için zararlarına olarak onları zorla tutmayın. Bunu kim yaparsa ancak kendisine zarar eder. Allah'ın ayetlerini şaka sanmayın. Size verilen Allah nimetlerini, öğüt vermek için indirdiği kitabı ve ondaki hikmeti anın. Sakının Allah'tan ve bilin ki o, her şeyi bilir.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 4,
+      "ayah": 140,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:140",
+      "word_position": 13,
+      "target_word_uthmani": "وَيُسْتَهْزَأُ",
+      "target_word_rasm": "ويستهزأ",
+      "target_word_literal_irab": "Ayetlerin ve elçilerin alaya alınması (يُسْتَهْزَأُ / ٱسْتُهْزِئَ — Form X meçhul)",
+      "context_snippet_arabic": "ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Kitapta, Allah'ın ayetlerini gerçeğin üzerini ört ve onlarla eğlendiklerini duyarsanız, başka bir bahisten söz açıncaya dek onlarla oturmayın, yoksa siz de...",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ إِنَّكُمْ إِذًا مِّثْلُهُمْ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَٰفِقِينَ وَٱلْكَٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kitapta, Allah'ın ayetlerini gerçeğin üzerini ört ve onlarla eğlendiklerini duyarsanız, başka bir bahisten söz açıncaya dek onlarla oturmayın, yoksa siz de onlara benzersiniz diye size bir emir indirmiştir. Şüphe yok ki Allah, iki çıkışlı kaypak gerçeğin üzerini örtenlerin hepsini de yakıcı yıkım yurdunda toplayacaktır.",
+      "contextual_meaning": "İkiyüzlü alay ve bilinçli tavır: gizli alaycılığın boşa çıkarılması ve alay meclisinden ayrılma ilkesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 57,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:57",
+      "word_position": 9,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَكُمْ هُزُوًا وَلَعِبًا مِّنَ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, sizden önce, kendilerine kitap verilenlerle gerçeğin üzerini örtenlerden, yaşam sisteminizi alay konusu yapan, onu oyuncak sayan kişileri dost edinmeyin, çekinin Allah'tan güven duy.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَكُمْ هُزُوًا وَلَعِبًا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَٱلْكُفَّارَ أَوْلِيَآءَ وَٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, sizden önce, kendilerine kitap verilenlerle gerçeğin üzerini örtenlerden, yaşam sisteminizi alay konusu yapan, onu oyuncak sayan kişileri dost edinmeyin, çekinin Allah'tan güven duy.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 5,
+      "ayah": 58,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:58",
+      "word_position": 6,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًا وَلَعِبًا ذَٰلِكَ بِأَنَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Birbirinizi irtibat bağına çağırdığınız, ezan okuduğunuz zaman, bununla alay ederler, bir oyun sayarlar bunu. Bu da şüphe yok ki akılları olmayan, akıl edemeyen bir kavim olduklarındandır.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًا وَلَعِبًا ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirinizi irtibat bağına çağırdığınız, ezan okuduğunuz zaman, bununla alay ederler, bir oyun sayarlar bunu. Bu da şüphe yok ki akılları olmayan, akıl edemeyen bir kavim olduklarındandır.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 6,
+      "ayah": 5,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:5",
+      "word_position": 12,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine, gerçek olan Kur'an gelince onu yalanlarlar, fakat yakında gelecek onlara, alay ettikleri şeye ait haberler.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "فَقَدْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَسَوْفَ يَأْتِيهِمْ أَنۢبَٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine, gerçek olan Kur'an gelince onu yalanlarlar, fakat yakında gelecek onlara, alay ettikleri şeye ait haberler.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 6,
+      "ayah": 10,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:10",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتُهْزِئَ",
+      "target_word_rasm": "ٱستهزئ",
+      "target_word_literal_irab": "Ayetlerin ve elçilerin alaya alınması (يُسْتَهْزَأُ / ٱسْتُهْزِئَ — Form X meçhul)",
+      "context_snippet_arabic": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Senden önceki elçilerle de alay edildi de alay edenler, alaylarının cezasına uğradılar.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önceki elçilerle de alay edildi de alay edenler, alaylarının cezasına uğradılar.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 6,
+      "ayah": 10,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:10",
+      "word_position": 13,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Ayetlerin ve elçilerin alaya alınması (يُسْتَهْزَأُ / ٱسْتُهْزِئَ — Form X meçhul)",
+      "context_snippet_arabic": "مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Senden önceki elçilerle de alay edildi de alay edenler, alaylarının cezasına uğradılar.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önceki elçilerle de alay edildi de alay edenler, alaylarının cezasına uğradılar.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 9,
+      "ayah": 64,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:64",
+      "word_position": 12,
+      "target_word_uthmani": "ٱسْتَهْزِءُوٓا۟",
+      "target_word_rasm": "ٱستهزءوا",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "فِى قُلُوبِهِمْ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌ",
+      "context_snippet_turkish_tabula_rasa": "iki çıkışlı kaypaklar, yüreklerindekini haber verecek bir surenin indirilmesinden ürkmekle beraber alay da ederler. De ki: ...",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(X)|LEM:{sotuhozi}a|ROOT:hzA|2MP"
+      },
+      "ayah_text_arabic_full": "يَحْذَرُ ٱلْمُنَٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌ مَّا تَحْذَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "iki çıkışlı kaypaklar, yüreklerindekini haber verecek bir surenin indirilmesinden ürkmekle beraber alay da ederler. De ki: Alay edin bakalım, şüphe yok ki Allah, ürküp çekindiğinizi meydana çıkaracaktır.",
+      "contextual_meaning": "İkiyüzlü alay ve bilinçli tavır: gizli alaycılığın boşa çıkarılması ve alay meclisinden ayrılma ilkesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 65,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:65",
+      "word_position": 13,
+      "target_word_uthmani": "تَسْتَهْزِءُونَ",
+      "target_word_rasm": "تستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine sorsan andolsun ki biz diyeceklerdir, ancak dalmıştık da şakalaşmada, oynaşmadaydık. De ki: Allah'la, ayetleriyle ve elçisiyle mi alay ediyordunuz?",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ قُلْ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine sorsan andolsun ki biz diyeceklerdir, ancak dalmıştık da şakalaşmada, oynaşmadaydık. De ki: Allah'la, ayetleriyle ve elçisiyle mi alay ediyordunuz?",
+      "contextual_meaning": "İkiyüzlü alay ve bilinçli tavır: gizli alaycılığın boşa çıkarılması ve alay meclisinden ayrılma ilkesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 8,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:8",
+      "word_position": 22,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Bilin ki onlara azabın gelip çattığı gün o azap, artık geriye bırakılamaz ve alay ettikleri musibet, onları çepeçevre kuşatır.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا يَحْبِسُهُۥٓ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların uğrayacakları azabı, mukadder bir zamana kadar geciktirirsek, bunun teahhuruna da sebep nedir derler. Bilin ki onlara azabın gelip çattığı gün o azap, artık geriye bırakılamaz ve alay ettikleri musibet, onları çepeçevre kuşatır.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 13,
+      "ayah": 32,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:32",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتُهْزِئَ",
+      "target_word_rasm": "ٱستهزئ",
+      "target_word_literal_irab": "Ayetlerin ve elçilerin alaya alınması (يُسْتَهْزَأُ / ٱسْتُهْزِئَ — Form X meçhul)",
+      "context_snippet_arabic": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki senden önceki elçilerle de alay edildi de gerçeğin üzerini örtenlere mühlet verdim, sonra da onları helak ediverdim. Nasıl bu azap?",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ عِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki senden önceki elçilerle de alay edildi de gerçeğin üzerini örtenlere mühlet verdim, sonra da onları helak ediverdim. Nasıl bu azap?",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 15,
+      "ayah": 11,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:11",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Hiçbir elçi göndermedik ki alay etmesinler onunla.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir elçi göndermedik ki alay etmesinler onunla.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 15,
+      "ayah": 95,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:95",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْمُسْتَهْزِءِينَ",
+      "target_word_rasm": "ٱلمستهزءين",
+      "target_word_literal_irab": "Alay edip küçümseyenler (مُسْتَهْزِءُونَ / ٱلْمُسْتَهْزِءِينَ — 2:14, 15:95, Form X ism-i fâil)",
+      "context_snippet_arabic": "إِنَّا كَفَيْنَٰكَ ٱلْمُسْتَهْزِءِينَ",
+      "context_snippet_turkish_tabula_rasa": "O alaycılara karşı biz yeteriz sana.",
+      "morphology": {
+        "lemma": "musotahozi'uwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(X)|LEM:musotahozi'uwn|ROOT:hzA|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَفَيْنَٰكَ ٱلْمُسْتَهْزِءِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O alaycılara karşı biz yeteriz sana.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 16,
+      "ayah": 34,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:34",
+      "word_position": 10,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yaptıkları kötülüğe uğradılar ve alay ettiklerinin cezasını çektiler.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaptıkları kötülüğe uğradılar ve alay ettiklerinin cezasını çektiler.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 18,
+      "ayah": 56,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:56",
+      "word_position": 18,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "ءَايَٰتِى وَمَآ أُنذِرُوا۟ هُزُوًا",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örten olanlar, hakkı batılla gidermek için çalışırlar, çekişirler, ayetlerimizi ve kendilerine verilen korkulu haberleri alaya alırlar.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ وَيُجَٰدِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَمَآ أُنذِرُوا۟ هُزُوًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, elçileri ancak müjdeci, korkutucu olarak göndeririz. gerçeğin üzerini örten olanlar, hakkı batılla gidermek için çalışırlar, çekişirler, ayetlerimizi ve kendilerine verilen korkulu haberleri alaya alırlar.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 18,
+      "ayah": 106,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:106",
+      "word_position": 9,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَرُسُلِى هُزُوًا",
+      "context_snippet_turkish_tabula_rasa": "Bu, cezaları olan yakıcı yıkım yurdudur gerçeğin üzerini örten olduklarından ve delillerimle elçilerimi alaya aldıklarından dolayı.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا۟ وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَرُسُلِى هُزُوًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, cezaları olan yakıcı yıkım yurdudur gerçeğin üzerini örten olduklarından ve delillerimle elçilerimi alaya aldıklarından dolayı.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 21,
+      "ayah": 36,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:36",
+      "word_position": 8,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى يَذْكُرُ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlar, seni görünce ancak alaya alırlar, bu mudur derler, mabutlarınızı anan, halbuki onlar rahmanı anmayı gerçeğin üzerini örterler.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَٰنِ هُمْ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlar, seni görünce ancak alaya alırlar, bu mudur derler, mabutlarınızı anan, halbuki onlar rahmanı anmayı gerçeğin üzerini örterler.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 21,
+      "ayah": 41,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:41",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتُهْزِئَ",
+      "target_word_rasm": "ٱستهزئ",
+      "target_word_literal_irab": "Ayetlerin ve elçilerin alaya alınması (يُسْتَهْزَأُ / ٱسْتُهْزِئَ — Form X meçhul)",
+      "context_snippet_arabic": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki senden önceki elçilerle de alay edilmiştir de onlarla alayları yüzünden alay ettikleri azaba uğrayıvermişlerdir.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki senden önceki elçilerle de alay edilmiştir de onlarla alayları yüzünden alay ettikleri azaba uğrayıvermişlerdir.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 21,
+      "ayah": 41,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:41",
+      "word_position": 13,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Ayetlerin ve elçilerin alaya alınması (يُسْتَهْزَأُ / ٱسْتُهْزِئَ — Form X meçhul)",
+      "context_snippet_arabic": "مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki senden önceki elçilerle de alay edilmiştir de onlarla alayları yüzünden alay ettikleri azaba uğrayıvermişlerdir.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki senden önceki elçilerle de alay edilmiştir de onlarla alayları yüzünden alay ettikleri azaba uğrayıvermişlerdir.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 25,
+      "ayah": 41,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:41",
+      "word_position": 6,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى بَعَثَ",
+      "context_snippet_turkish_tabula_rasa": "Seni, gördükleri zaman da Allah bunu mu elçi olarak gönderdi diye alaya alıyorlar.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا رَأَوْكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى بَعَثَ ٱللَّهُ رَسُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Seni, gördükleri zaman da Allah bunu mu elçi olarak gönderdi diye alaya alıyorlar.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 26,
+      "ayah": 6,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:6",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de yalanladılar, artık yakında alay ettikleri şeyin haberleri gelip çatacak onlara.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "فَقَدْ كَذَّبُوا۟ فَسَيَأْتِيهِمْ أَنۢبَٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de yalanladılar, artık yakında alay ettikleri şeyin haberleri gelip çatacak onlara.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 30,
+      "ayah": 10,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:10",
+      "word_position": 13,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "ٱللَّهِ وَكَانُوا۟ بِهَا يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra da Allah'ın delillerini yalanladıkları ve onlarla alay ettikleri için o kötülük edenlerin sonu kötü oldu gitti.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ كَانَ عَٰقِبَةَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ ٱلسُّوٓأَىٰٓ أَن كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ وَكَانُوا۟ بِهَا يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra da Allah'ın delillerini yalanladıkları ve onlarla alay ettikleri için o kötülük edenlerin sonu kötü oldu gitti.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 31,
+      "ayah": 6,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:6",
+      "word_position": 14,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlardan, asılsız ve boş lafları satın alan var, halkı, bilgisi olmadığı halde Allah yolundan saptırmak ve Kur'an'ı alaya almak için; onlar, öyle kişilerdir ki onlaradır horhakir bir hale getiren azap.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlardan, asılsız ve boş lafları satın alan var, halkı, bilgisi olmadığı halde Allah yolundan saptırmak ve Kur'an'ı alaya almak için; onlar, öyle kişilerdir ki onlaradır horhakir bir hale getiren azap.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 36,
+      "ayah": 30,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:30",
+      "word_position": 11,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yazıklar olsun kullara, onlara hiçbir elçi gelmedi ki onunla alay etmesinler.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰحَسْرَةً عَلَى ٱلْعِبَادِ مَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yazıklar olsun kullara, onlara hiçbir elçi gelmedi ki onunla alay etmesinler.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 39,
+      "ayah": 48,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:48",
+      "word_position": 11,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kazandıkları kötülükler, ortaya çıkmıştır ve alay ettikleri şey, başlarına gelmiştir.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kazandıkları kötülükler, ortaya çıkmıştır ve alay ettikleri şey, başlarına gelmiştir.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 40,
+      "ayah": 83,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:83",
+      "word_position": 15,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "elçileri, apaçık delillerle onlara gelince kendilerindeki bilgiye güvenip övündüler, kendilerini gördüler de alay ettikleri şey, başlarına geliverdi.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "elçileri, apaçık delillerle onlara gelince kendilerindeki bilgiye güvenip övündüler, kendilerini gördüler de alay ettikleri şey, başlarına geliverdi.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 43,
+      "ayah": 7,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:7",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve hiçbir elçi gelmedi onlara ki onunla alay etmesinler.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve hiçbir elçi gelmedi onlara ki onunla alay etmesinler.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 45,
+      "ayah": 9,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:9",
+      "word_position": 7,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "ءَايَٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve ayetlerimizden bir şey öğrendi mi onu alaya alır; onlar, öyle kişilerdir ki onlaradır aşağılatıcı azap.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا عَلِمَ مِنْ ءَايَٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ayetlerimizden bir şey öğrendi mi onu alaya alır; onlar, öyle kişilerdir ki onlaradır aşağılatıcı azap.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 45,
+      "ayah": 33,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:33",
+      "word_position": 11,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve belirir, görünür onlara yaptıkları işlerin kötülükleri ve başlarına gelir alay ettikleri şey.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve belirir, görünür onlara yaptıkları işlerin kötülükleri ve başlarına gelir alay ettikleri şey.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    },
+    {
+      "surah": 45,
+      "ayah": 35,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:35",
+      "word_position": 6,
+      "target_word_uthmani": "هُزُوًا",
+      "target_word_rasm": "هزوا",
+      "target_word_literal_irab": "Ayetleri, elçileri veya ciddi çağrıyı alay konusu edinmek (هُزُوًا — 10 geçiş)",
+      "context_snippet_arabic": "ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "Bu da, Allah ayetlerini alaya almanızdan ve dünya yaşayışının sizi aldatmasından geldi başınıza; artık bugün oradan çıkarılmaz onlar ve özür de istenmez onlardan.",
+      "morphology": {
+        "lemma": "huzuw",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:huzuw|ROOT:hzA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu da, Allah ayetlerini alaya almanızdan ve dünya yaşayışının sizi aldatmasından geldi başınıza; artık bugün oradan çıkarılmaz onlar ve özür de istenmez onlardan.",
+      "contextual_meaning": "Alay konusu edinme (ٱتَّخَذَ ... هُزُوًا): ayetleri, elçileri ve hukuku hafife almanın yıkıcı sonucu."
+    },
+    {
+      "surah": 46,
+      "ayah": 26,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:26",
+      "word_position": 32,
+      "target_word_uthmani": "يَسْتَهْزِءُونَ",
+      "target_word_rasm": "يستهزءون",
+      "target_word_literal_irab": "Vahyi, elçileri veya uyarılan akıbeti küçümseyip alaya almak (Form X malum — 16 geçiş)",
+      "context_snippet_arabic": "مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "context_snippet_turkish_tabula_rasa": "... derken Allah'ın delillerini, bilebile gerçeğin üzerini ört zaman onlara gelen azabı, ne kulakları menedebilmişti ve ne gözleri ve ne gönülleri ve alay ettikleri, başlarına gelmişti.",
+      "morphology": {
+        "lemma": "{sotuhozi}a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotuhozi}a|ROOT:hzA|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ مَكَّنَّٰهُمْ فِيمَآ إِن مَّكَّنَّٰكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًا وَأَبْصَٰرًا وَأَفْـِٔدَةً فَمَآ أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَآ أَبْصَٰرُهُمْ وَلَآ أَفْـِٔدَتُهُم مِّن شَىْءٍ إِذْ كَانُوا۟ يَجْحَدُونَ بِـَٔايَٰتِ ٱللَّهِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki biz onlara, size vermediğimiz gücükuvveti vermiştik ve onlara kulak, göz ve gönül vermiştik; derken Allah'ın delillerini, bilebile gerçeğin üzerini ört zaman onlara gelen azabı, ne kulakları menedebilmişti ve ne gözleri ve ne gönülleri ve alay ettikleri, başlarına gelmişti.",
+      "contextual_meaning": "Tarih ve bumerang yasası: elçilerle alay eden toplumların alaya aldıkları hakikatle çepeçevre kuşatılması."
+    }
+  ]
+}

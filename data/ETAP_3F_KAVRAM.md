@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 500 mühürlü kökten (`%88,50`) sonra, 8 kısa sureyi daha `%100` kilitleyen kökler (Sure 94, 96, 97, 98, 99, 102, 103, 110 → **15 tam kilitli sure**), 3 açık Mesânî referanslı tüm tepe uçlar (6/6), kritik doktrinel/çok-asıllı mayınlar ve kalan en yüksek frekanslı çekirdek kökler (**50 kök** / 870 geçiş) mühürlenerek toplam sözlük **550 kilitli köke (`%90,24` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%93,70`'i)** ulaştırılır.
-> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 540 Kök | Güncel Kapsam: %89,56)
+> **Etap 3F İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 550 Kök | Güncel Kapsam: %90,24)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -47,13 +47,13 @@
 | 38 | Doktrinel & Çok Asıllı | 431 | `ن-و-ب` | `N-W-B` | **18** | 18 | 11:75 | İnâbe ve Münîb (Yönünü İçtenlikle ve Sürekli Allah'a Döndürmek) | ✅ **MÜHÜRLÜ** |
 | 39 | Doktrinel & Çok Asıllı | 432 | `س-و-ر` | `S-W-R` | **17** | 16 | 2:23 | Sûre, Sûr ve Esâvir (Yüksek Sınırlı Vahiy Bölümü, Ayırıcı Duvar ve Bilezik) | ✅ **MÜHÜRLÜ** |
 | 40 | Doktrinel & Çok Asıllı | 439 | `ص-ف-و` | `S-F-W` | **17** | 16 | 2:130 | Istıfâ, Musaffâ ve Safvân (Bulanıklıktan Arındırmak, Seçkinleştirmek ve Pürüzsüz Kaya) | ✅ **MÜHÜRLÜ** |
-| 41 | Yüksek Frekanslı Çekirdek | 218 | `ص-ب-ح` | `S-B-H` | **45** | 43 | 3:103 | Subh, İsbâh ve Esbaha (45 geçiş | 1M + Sure 81, 100 — #1 kalan kök! 81:18 ağaran sabah ve 3:103, 5:30 yeni bir hâle dönüşmek) | ⏳ *Bekliyor* |
-| 42 | Yüksek Frekanslı Çekirdek | 231 | `ب-ح-ر` | `B-H-R` | **42** | 40 | 2:50 | Bahr ve Bahîra (42 geçiş | 2M + Sure 81, 82 — #2 kalan kök! ب-ر-ر zıddı denizler ve 5:103 cahiliye kulağı yarık deve geleneği) | ⏳ *Bekliyor* |
-| 43 | Yüksek Frekanslı Çekirdek | 239 | `ج-ب-ل` | `C-B-L` | **41** | 39 | 2:260 | Cebel ve Cibille (41 geçiş | 1M + Sure 78, 79, 81, 88, 101 — #3 kalan kök! Dağlar ve 26:184, 36:62 kalabalık insan kitleleri) | ⏳ *Bekliyor* |
-| 44 | Yüksek Frekanslı Çekirdek | 244 | `ش-ر-ب` | `S-R-B` | **39** | 34 | 2:60 | Şurb, Şarâb ve Meşreb (39 geçiş | 2M + Sure 78, 83 — #4 kalan kök! ط-ع-م ve ص-و-م eşleniği içmek, içecek ve 2:93 kalbe sindirmek) | ⏳ *Bekliyor* |
-| 45 | Yüksek Frekanslı Çekirdek | 269 | `ه-ز-أ` | `H-Z-E` | **34** | 32 | 2:14 | Hüzüv ve İstihzâ' (34 geçiş | 1M: 2:15, 2:67, 6:10, 9:65, 15:95, 18:56 hakikat ve ayetlerle alay edip küçümsemek) | ⏳ *Bekliyor* |
-| 46 | Yüksek Frekanslı Çekirdek | 274 | `ظ-ل-ل` | `Z-L-L` | **33** | 31 | 2:57 | Zıll, Zulle ve Zalle (33 geçiş | 1M: 2:57, 13:15, 16:48, 25:45, 56:30 gölge/gölgelik ve 16:58, 26:71 gün boyu bir hâlde sürmek) | ⏳ *Bekliyor* |
-| 47 | Yüksek Frekanslı Çekirdek | 304 | `أ-ن-ث` | `E-N-S` | **30** | 26 | 2:178 | Ünsâ (30 geçiş | 1M + Sure 92 Leyl: ذ-ك-ر [eril] kökünün doğrudan Mesânî zıddı dişil; 3:36, 4:11, 49:13, 53:45, 92:3) | ⏳ *Bekliyor* |
-| 48 | Yüksek Frekanslı Çekirdek | 339 | `خ-ز-ي` | `H-Z-Y` | **26** | 24 | 2:85 | Hizy, İhzâ' ve Muhzî (26 geçiş | 1M: 2:85, 3:192, 11:78, 20:134, 66:8 hakikat karşısında açıkça rezil ve rüsvay olmak) | ⏳ *Bekliyor* |
-| 49 | Yüksek Frekanslı Çekirdek | 349 | `ف-ل-ك` | `F-L-K` | **25** | 25 | 2:164 | Fülk ve Felek (25 geçiş: 2:164, 11:37, 23:27 suları yaran gemi VE 21:33, 36:40 gök cisimlerinin döndüğü yörünge) | ⏳ *Bekliyor* |
-| 50 | Yüksek Frekanslı Çekirdek | 358 | `م-ر-ض` | `M-R-D` | **24** | 23 | 2:10 | Maraz ve Marîd (24 geçiş | 1M: ش-ف-ي doğrudan zıddı! 2:10, 8:49, 33:12, 74:31 kalplerdeki manevi hastalık ve bedensel rahatsızlık) | ⏳ *Bekliyor* |
+| 41 | Yüksek Frekanslı Çekirdek | 218 | `ص-ب-ح` | `S-B-H` | **45** | 43 | 3:103 | Subh, İsbâh, Misbâh ve Asbaha (Sabah Aydınlığı, Kandil Işığı ve Hâl Dönüşümü) | ✅ **MÜHÜRLÜ** |
+| 42 | Yüksek Frekanslı Çekirdek | 231 | `ب-ح-ر` | `B-H-R` | **42** | 40 | 2:50 | Bahr, Bahreyn ve Bahîra (Engin Su Kütlesi/Deniz ve Kulağı Yarılan Cahiliye Devesi) | ✅ **MÜHÜRLÜ** |
+| 43 | Yüksek Frekanslı Çekirdek | 239 | `ج-ب-ل` | `C-B-L` | **41** | 39 | 2:260 | Cebel, Cibâl ve Cibille (Yükselip Sabitlenen Dağlar ve Kalabalık İnsan Kuşakları) | ✅ **MÜHÜRLÜ** |
+| 44 | Yüksek Frekanslı Çekirdek | 244 | `ش-ر-ب` | `S-R-B` | **39** | 34 | 2:60 | Şürb, Şerâb, Şirb ve İşrâb (İçmek, İçecek, Su Payı ve Kalbe Sinmek) | ✅ **MÜHÜRLÜ** |
+| 45 | Yüksek Frekanslı Çekirdek | 269 | `ه-ز-أ` | `H-Z-E` | **34** | 32 | 2:14 | İstihzâ ve Hüzüv (Ciddi Hakikati ve Sorumluluğu Küçümseyip Alaya Almak) | ✅ **MÜHÜRLÜ** |
+| 46 | Yüksek Frekanslı Çekirdek | 274 | `ظ-ل-ل` | `Z-L-L` | **33** | 31 | 2:57 | Zıll, Zulle ve Zalle (Gölgelemek, Üstten Örtmek ve Kesintisiz Sürmek) | ✅ **MÜHÜRLÜ** |
+| 47 | Yüksek Frekanslı Çekirdek | 304 | `أ-ن-ث` | `E-N-S` | **30** | 26 | 2:178 | Ünsâ ve İnâs (Dişi Cinsiyet, Yaratılış Çiftliği ve Ahlaki Eşitlik) | ✅ **MÜHÜRLÜ** |
+| 48 | Yüksek Frekanslı Çekirdek | 339 | `خ-ز-ي` | `H-Z-Y` | **26** | 24 | 2:85 | Hizy ve İhzâ (Çirkin Eylem ve Yenilgiyle Yüzü Kara Çıkıp Rezil Olmak) | ✅ **MÜHÜRLÜ** |
+| 49 | Yüksek Frekanslı Çekirdek | 349 | `ف-ل-ك` | `F-L-K` | **25** | 25 | 2:164 | Fülk ve Felek (Denizde Yol Alan Gemi ve Dairesel Göksel Yörünge) | ✅ **MÜHÜRLÜ** |
+| 50 | Yüksek Frekanslı Çekirdek | 358 | `م-ر-ض` | `M-R-D` | **24** | 23 | 2:10 | Maraz ve Merîd (Bedensel Hastalık Kolaylığı ve Kalp/Bilinç Bozulması) | ✅ **MÜHÜRLÜ** |

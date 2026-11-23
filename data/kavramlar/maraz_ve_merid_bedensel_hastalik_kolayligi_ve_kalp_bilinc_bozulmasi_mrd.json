@@ -1,0 +1,571 @@
+{
+  "root": "م-ر-ض",
+  "root_latin": "M-R-D (mrD)",
+  "concept_name": "Maraz ve Merîd (Bedensel Hastalık Kolaylığı ve Kalp/Bilinç Bozulması)",
+  "rank": 358,
+  "total_occurrences": 24,
+  "unique_ayahs_count": 23,
+  "unified_core_mechanism": "Sağlık ve denge sınırından sapma (`الْخُرُوجُ عَنْ حَدِّ الصِّحَّةِ`): (1) Bedensel hastalık ve hukuki kolaylık ilkesi — sıyam ertelemesi (`2:184-185`), ziyaret kolaylığı (`2:196`), teyemmüm ruhsatı (`4:43, 5:6`), güvenlik/sefer ve gece okuyuşu kolaylığı (`4:102, 9:91, 48:17, 73:20`), toplumsal dayanışma (`24:61`) ve şifayı Allah'tan bilme (`26:80`); (2) Bilinç ve kalp hastalığı (`فِى قُلُوبِهِم مَّرَضٌ`, 13 geçiş) — yalanla büyüyen (`2:10`), çıkar korkusuyla ikiyüzlülüğe sürükleyen (`5:52, 8:49, 33:12, 47:20`), ayetler karşısında kirini artıran (`9:125, 74:31`), gizli kin besleyen (`47:29`) ve ahlaksız beklentiye kapılan (`33:32`) içsel bozulma.",
+  "physical_core": "İnsanın veya bir yapının tam sağlık, denge ve işlerlik sınırından düşüp bozulması (`مَا يَخْرُجُ بِهِ الْإِنْسَانُ عَنْ حَدِّ الصِّحَّةِ فِي أَيِّ شَيْءٍ كَانَ`); Kur'an'da bu ortak bozulma mekanizması iki kesin ayrık düzlemde işler: (1) Bedensel rahatsızlık ve fiziksel engel (`مَرِضْتُ / مَرِيض / مَرْضَى` — 11 geçiş); (2) Kalp/bilinç sağlığının bozulması (`فِى قُلُوبِهِم مَّرَضٌ` — 13 geçiş).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 5, s. 311-312): Kökün tek sahih ve düzenli çekirdeğini 'hangi alanda olursa olsun insanı sağlık ve sağlamlık sınırının dışına çıkaran bozulma (`كُلُّ شَيْءٍ خَرَجَ بِهِ الْإِنْسَانُ عَنْ حَدِّ الصِّحَّةِ`)' olarak tanımlar; hem bedensel illeti hem `2:10` ve `33:32`'deki kalp hastalığını doğrudan bu ölçüye bağlar.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `مَرَض`ın karanlık, zayıflık ve sağlık bozulması olduğunu; bedende organların işlevini aksatmasını, kalpte ise kuşku, ikiyüzlülük, gizli kin ve ahlaksız yönelim (`33:32`) olarak belirdiğini açıklar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الْمَرَضُ`yu 'itidal ve dengeden çıkış' diye tanımlar ve Kur'an'da bedensel hastalığın (`مَرِيض / مَرْضَى`) istisnasız şefkat ve kolaylık sebebi sayılırken, kalp hastalığının (`فِى قُلُوبِهِم مَّرَضٌ`) kişinin kendi yalanı ve ikiyüzlülüğüyle büyüttüğü (`فَزَادَهُمُ ٱللَّهُ مَرَضًا`, `2:10`) ahlaki bir arıza olduğunu keskin biçimde ayırır.",
+    "arbitration_decision": "Hakem Masası Kararı: `م-ر-ض` iki kesin katmanda ayırt edilir: (1) Bedensel hastalık (`مَرِضْتُ / مَرِيض / مَرْضَى` — 11 geçiş: `26:80`'de şifa arayışı ve diğer 10 ayette tüm sorumluluklarda kolaylık/muafiyet gerekçesi); (2) Kalp/bilinç hastalığı (`مَرَض` — 13 geçiş, 12 ayet: yalan, kuşku, korkaklık, kin ve ahlaksız tamahla dengesi bozulmuş bilinç durumu)."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*maraṣ́- ('hastalanmak, ağrımak, bozulmak')",
+    "akkadian": "marāṣum (hastalanmak, dertli ve rahatsız olmak)",
+    "ugaritic": "𐎎𐎗𐎕 (mrṣ: hasta olmak, hastalık)",
+    "hebrew": "נִמְרַץ (nimraṣ: acı verici, yaralayıcı, ağır)",
+    "syriac": "ܡܪܥ (mraʿ: hastalanmak — Proto-Sami *ṣ́ sesi Aramice/Süryanicede ayın [ܥ] sesine dönüşür)",
+    "note": "Proto-Sami `*maraṣ́-` kökü ses yasalarına birebir uyarak Arapçada `مَرِضَ` (`ḍ`), Akadca (`marāṣum`), Ugaritçe (`mrṣ`) ve İbranicede (`nimraṣ`) `ṣ`, Süryanicede ise `mraʿ` (`ʿ`) biçiminde tüm Sami ailesinde 'sağlığın bozulması ve hastalık' çekirdeğini korur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ش-ف-ي [وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ] (Sağlık Dengesinin Bozulup Hastalanması ↔ Hastalığın Giderilip Onarıcı Şifa Bulması: 26:80)",
+      "ق-ل-ب [فِى قُلُوبِهِم مَّرَضٌ / فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ] (Sağlıklı ve Diri Bilinç Merkezi Olan Kalp ↔ İkiyüzlülük, Kuşku ve Çarpık Arzuyla Hastalanmış Kalp: 2:10, 5:52, 8:49, 9:125, 22:53, 24:50, 33:12, 33:32, 33:60, 47:20, 47:29, 74:31)",
+      "س-ل-م [بِقَلْبٍ سَلِيمٍ ↔ فِى قُلُوبِهِم مَّرَضٌ] (Her Türlü Çarpıklık ve Arızadan Arınmış Esenlikli Sağlamlık ↔ Dengeyi Bozan Hastalık Hâli: 2:10, 26:89)"
+    ],
+    "key_ayahs": [
+      "2:10",
+      "2:184",
+      "2:185",
+      "4:43",
+      "5:6",
+      "5:52",
+      "9:91",
+      "9:125",
+      "24:50",
+      "24:61",
+      "26:80",
+      "33:12",
+      "33:32",
+      "47:20",
+      "47:29",
+      "48:17",
+      "73:20",
+      "74:31"
+    ],
+    "reverse_stress_test": "`26:80`'de `وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ` (hastalandığımda bana şifa veren O'dur) ifadesi bedensel `م-ر-ض ↔ ش-ف-ي` eksenini, `2:10` ve `26:89` ise hastalıklı kalp (`فِى قُلُوبِهِم مَّرَضٌ`) ile esenlikli sağlıklı kalp (`قَلْبٍ سَلِيمٍ`) arasındaki ahlaki-bilişsel Mesânî karşıtlığını sabitler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ش-ف-ي (26:80 وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ — مَرِضْتُ sağlığın bozulmasını, يَشْفِينِ ise tam onarım ve iyileştirmeyi ayırır)",
+      "ق-س-و (22:53 لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ قُلُوبُهُمْ — مَرَض kalbin zayıf, kararsız ve kuşkulu bozulmasını, قَسْوَة ise duyarsızlaşıp taşlaşmış katılığı ayırır)",
+      "ض-ع-ف (9:91 لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ — ضُعَفَاء yaşlılık veya yapısal güçsüzlüğü, مَرْضَى ise geçici veya süregiden bedensel hastalık hâlini ayırır)"
+    ],
+    "mechanical_difference": "`ض-ع-ف` genel güçsüzlüğü, `أ-ذ-ي` dışsal rahatsızlık ve eziyeti (`2:196` `مَّرِيضًا أَوْ بِهِۦٓ أَذًى`), `ق-س-و` katılaşmayı anlatırken; `م-ر-ض` ister bedende ister bilinç/kalp yapısında olsun 'doğal sağlık ve denge sınırından sapma'yı belirtir."
+  },
+  "anchor_ayahs": [
+    "2:10",
+    "2:184",
+    "2:185",
+    "2:196",
+    "4:43",
+    "5:6",
+    "5:52",
+    "8:49",
+    "9:91",
+    "9:125",
+    "22:53",
+    "24:50",
+    "24:61",
+    "26:80",
+    "33:12",
+    "33:32",
+    "47:20",
+    "47:29",
+    "48:17",
+    "73:20",
+    "74:31"
+  ],
+  "grammar_and_branch_rules": "Korpusta 1 kez Form I fiil (`مَرِضْتُ`, `26:80`), 10 kez `مَرِيض / مَرْضَى` (tamamı bedensel hasta) ve 13 kez `مَرَض` (tamamı `فِى قُلُوبِهِم / فِى قَلْبِهِۦ` ile kalp/bilinç hastalığı) bulunur; morfolojik biçim ile anlam alanı arasında Kur'an'da %100 kesin bir dağılım vardır.",
+  "derivatives": {
+    "مَرِضْتُ": "Bedensel olarak hastalanmak (Form I — 26:80)",
+    "مَرِيض / مَرْضَى": "Bedensel hastalığı bulunan kimse/kimseler — kolaylık ve muafiyet öznesi (10 geçiş: 2:184, 2:185, 2:196, 4:43, 4:102, 5:6, 9:91, 24:61, 48:17, 73:20)",
+    "مَرَض": "Kalp ve bilinç sağlığının bozulması (yalan, ikiyüzlülük, kuşku, kin ve çarpık arzu — 13 geçiş, 12 ayet: 2:10, 5:52, 9:125, 24:50, 33:32, 47:20, 47:29, 74:31)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 10,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:10",
+      "word_position": 3,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا",
+      "context_snippet_turkish_tabula_rasa": "Kalplerinde hastalık var, Allah da hastalıklarını arttırmıştır. Yalan söylediklerinden dolayı onlara elemli bir azap var.",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kalplerinde hastalık var, Allah da hastalıklarını arttırmıştır. Yalan söylediklerinden dolayı onlara elemli bir azap var.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 2,
+      "ayah": 10,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:10",
+      "word_position": 6,
+      "target_word_uthmani": "مَرَضًا",
+      "target_word_rasm": "مرضا",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا وَلَهُمْ عَذَابٌ أَلِيمٌۢ",
+      "context_snippet_turkish_tabula_rasa": "Kalplerinde hastalık var, Allah da hastalıklarını arttırmıştır. Yalan söylediklerinden dolayı onlara elemli bir azap var.",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kalplerinde hastalık var, Allah da hastalıklarını arttırmıştır. Yalan söylediklerinden dolayı onlara elemli bir azap var.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 2,
+      "ayah": 184,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:184",
+      "word_position": 6,
+      "target_word_uthmani": "مَّرِيضًا",
+      "target_word_rasm": "مريضا",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍ",
+      "context_snippet_turkish_tabula_rasa": "öz denetim ve sakınma, sayılı günlerdedir. İçinizden biri hastalanır, yahut yolda bulunursa öz denetim ve sakınmasını yer, sonra başka günlerde, o yediği gün...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَيَّامًا مَّعْدُودَٰتٍ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدْيَةٌ طَعَامُ مِسْكِينٍ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُۥ وَأَن تَصُومُوا۟ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma, sayılı günlerdedir. İçinizden biri hastalanır, yahut yolda bulunursa öz denetim ve sakınmasını yer, sonra başka günlerde, o yediği gün sayısınca öz denetim ve sakınma tutar. Kime öz denetim ve sakınma zor gelirse her gün için bir yoksulu doyurur. Hayır için verdiği şeyi çoğaltırsa bu da kendi hayrına. Fakat bilseniz öz denetim ve sakınma tutmanız, sizin için daha hayırlıdır.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 2,
+      "ayah": 185,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:185",
+      "word_position": 20,
+      "target_word_uthmani": "مَرِيضًا",
+      "target_word_rasm": "مريضا",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "فَلْيَصُمْهُ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ",
+      "context_snippet_turkish_tabula_rasa": "Ramazan ayı, bir aydır ki insanlara doğruyu bildiren, doğruluğa ait apaçık delillerden ibaret olan, hakla batılı ayırt eden Kur'an, bu ayda indirildi. Sizden...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ramazan ayı, bir aydır ki insanlara doğruyu bildiren, doğruluğa ait apaçık delillerden ibaret olan, hakla batılı ayırt eden Kur'an, bu ayda indirildi. Sizden kim, bu aya erişirse öz denetim ve sakınmasını tutsun. Hasta olan ve yolcu bulunan, hastalığında, yolculuğunda öz denetim ve sakınmasını yer, sonra yediği günler kadar tutar. Allah sizin için kolaylık diler, güçlük değil. Bu da sayıyı tamamlamanız, Allah'ın size doğru yolu göstermesine karşılık onu ululamanız içindir, böylece de ona nimetin değerini bilip açığa vurmuş olabilirsiniz.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 2,
+      "ayah": 196,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:196",
+      "word_position": 21,
+      "target_word_uthmani": "مَّرِيضًا",
+      "target_word_rasm": "مريضا",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanmasını ve umreyi de Allah için tamamlayın. Tamamlayamayacaksanız gücünüz yettiği kadar bir şey yakınlaşma sunusu edin ve yakınlaşma...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanmasını ve umreyi de Allah için tamamlayın. Tamamlayamayacaksanız gücünüz yettiği kadar bir şey yakınlaşma sunusu edin ve yakınlaşma sunusunu, yerinde boğazlayıncaya dek başınızı tıraş ettirmeyin. İçinizde hasta olan, başında bir eziyet bulunan varsa tıraş olur ve karşılığında öz denetim ve sakınma tutar, sadaka verir, yahut yakınlaşma sunusu keser. Sonra emin oldunuz, muktedir bulundunuz mu büyük yöneliş toplanması zamanına dek umre yapmak isteyen, gücü neye yeterse yakınlaşma sunusu eder. Buna imkan bulamayan üç gün büyük yöneliş toplanmasında, yedi gün de dönünce öz denetim ve sakınma tutar, işte bu, tam on gündür. Bu da ayali dokunulmaz teslimiyet odağı'da olmayan içindir. Allah'tan sakının ve bilin ki şüphe yok, Allah'ın azabı çok şiddetlidir.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 4,
+      "ayah": 43,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:43",
+      "word_position": 22,
+      "target_word_uthmani": "مَّرْضَىٰٓ",
+      "target_word_rasm": "مرضى",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, irtibat bağına yaklaşmayın ne söylediğinizi bilmeyecek kadar sarhoşken ve yolda değilseniz yıkanıncaya dek cünüpken. Hastaysanız, yahut...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|P|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, irtibat bağına yaklaşmayın ne söylediğinizi bilmeyecek kadar sarhoşken ve yolda değilseniz yıkanıncaya dek cünüpken. Hastaysanız, yahut yolculuktaysanız, yahut biriniz ayakyolundan gelirse, yahut da kadınlara dokunursanız, su bulamadığınız takdirde temiz toprakla teyemmüm edin, toprağı, yüzünüze ve ellerinize sürün. Şüphe yok ki Allah, bağışlayıcıdır, suçları örter.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 4,
+      "ayah": 102,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:102",
+      "word_position": 51,
+      "target_word_uthmani": "مَّرْضَىٰٓ",
+      "target_word_rasm": "مرضى",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onların içinde bulunur da irtibat bağını yönetip ayakta tutarsan onların bir kısmı seninle beraber ve silahları yanlarında olarak irtibat ve sorumluluk bağını...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|P|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ وَخُذُوا۟ حِذْرَكُمْ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların içinde bulunur da irtibat bağını yönetip ayakta tutarsan onların bir kısmı seninle beraber ve silahları yanlarında olarak irtibat ve sorumluluk bağını ayakta tutsun, boyun eğip teslim oldular mi öbür kısmı, arkanızda dursun. Sonra irtibat bağını ayakta tutmayan takım gelsin, seninle irtibat ve sorumluluk bağını ayakta tutsun, kalkanlarını, silahlarını üstlerinde bulundursunlar. gerçeğin üzerini örtenler, birdenbire üstünüze bir saldırışta bulunmak için sizin silahlarınızdan, eşyanızdan gafil olmanızı isterler. Ancak yağmurdan dolayı müşkülata uğrarsanız, yahut hastaysanız silahlarınızı çıkarmada vebal yok size, fakat ihtiyatlı davranın; şüphe yok ki Allah, gerçeğin üzerini örtenlere aşağılatıcı bir azap hazırlamıştır.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 5,
+      "ayah": 6,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:6",
+      "word_position": 24,
+      "target_word_uthmani": "مَّرْضَىٰٓ",
+      "target_word_rasm": "مرضى",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, irtibat bağına kalktığınız zaman yıkayın yüzlerinizi ve dirseklerinizle beraber ellerinizi ve başınızın bir kısmını meshedip ayaklarınızı...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|P|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, irtibat bağına kalktığınız zaman yıkayın yüzlerinizi ve dirseklerinizle beraber ellerinizi ve başınızın bir kısmını meshedip ayaklarınızı topuklarınızla beraber ve cünüpseniz iyice yıkanıp arının. Hastaysanız, yahut seferdeyseniz, yahut içinizden biri ayak yolundan geldiyse, yahut da kadınlara temas etmişseniz su bulamadığınız takdirde temiz toprakla teyemmüm edin de toprakla yüzünüzü, ellerinizi meshedin. Allah, sizi güce koşmayı istemez, fakat nimetin değerini bilip açığa vurasınız diye tertemiz olmanızı ve size verdiği nimeti tamamlamayı diler.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 5,
+      "ayah": 52,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:52",
+      "word_position": 5,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yüreklerinde bir hastalık olanları ve bir felakete uğramamızdan korkuyoruz, diyerek onların içine katılan, onlara koşanları görürsün. Fakat belki de Allah bir...",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüreklerinde bir hastalık olanları ve bir felakete uğramamızdan korkuyoruz, diyerek onların içine katılan, onlara koşanları görürsün. Fakat belki de Allah bir fetih verir, yahut kendi katından bir iş çıkarır meydana da onlar, içlerinde gizledikleri şeyden dolayı nadim oluverirler.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 8,
+      "ayah": 49,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:49",
+      "word_position": 7,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hani iki çıkışlı kaypak gönüllerinde hastalık olanlar, bunları yaşam sistemleri aldatmıştır demişlerdi; halbuki kim Allah'a dayanırsa bilsin ki Allah, şüphe...",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمْ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani iki çıkışlı kaypak gönüllerinde hastalık olanlar, bunları yaşam sistemleri aldatmıştır demişlerdi; halbuki kim Allah'a dayanırsa bilsin ki Allah, şüphe yok ki üstündür, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 9,
+      "ayah": 91,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:91",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمَرْضَىٰ",
+      "target_word_rasm": "ٱلمرضى",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve elçisine bağlı kaldıkça zayıflara, hastalara ve sefer levazımını tedarike kudreti yetmeyenlere bir suç yok. Fakat iyilik eden iyi kişilere savaştan...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|P|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçisine bağlı kaldıkça zayıflara, hastalara ve sefer levazımını tedarike kudreti yetmeyenlere bir suç yok. Fakat iyilik eden iyi kişilere savaştan geri kalmak için bir vesile yoktur ve Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 9,
+      "ayah": 125,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:125",
+      "word_position": 5,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ama gönüllerinde hastalık olanların pisliklerine pislik katarak küfürlerini artırır ve onlar, gerçeğin üzerini örten olarak ölüp giderler.",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا۟ وَهُمْ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama gönüllerinde hastalık olanların pisliklerine pislik katarak küfürlerini artırır ve onlar, gerçeğin üzerini örten olarak ölüp giderler.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 22,
+      "ayah": 53,
+      "surah_name": "Hac",
+      "ayah_ref": "22:53",
+      "word_position": 9,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ قُلُوبُهُمْ وَإِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Bu da, saptırıcı yıkıcı güç'ın katmak istediği şeyi, gönüllerinde hastalık olanlarla yürekleri katı bulunanlara bir sınama yapmak içindir ve şüphe yok ki...",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لِّيَجْعَلَ مَا يُلْقِى ٱلشَّيْطَٰنُ فِتْنَةً لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ قُلُوبُهُمْ وَإِنَّ ٱلظَّٰلِمِينَ لَفِى شِقَاقٍۭ بَعِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu da, saptırıcı yıkıcı güç'ın katmak istediği şeyi, gönüllerinde hastalık olanlarla yürekleri katı bulunanlara bir sınama yapmak içindir ve şüphe yok ki zalimler, gerçekten pek uzak bir ayrılık içindedir.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 24,
+      "ayah": 50,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:50",
+      "word_position": 3,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "أَفِى قُلُوبِهِم مَّرَضٌ أَمِ ٱرْتَابُوٓا۟ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "Gönüllerinde hastalık mı var, yoksa şüphe mi ediyorlar, yoksa Allah'ın ve elçisinin, onlara bir haksızlık edeceğinden mi korkuyorlar? Hayır, onlardır...",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَفِى قُلُوبِهِم مَّرَضٌ أَمِ ٱرْتَابُوٓا۟ أَمْ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ عَلَيْهِمْ وَرَسُولُهُۥ بَلْ أُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gönüllerinde hastalık mı var, yoksa şüphe mi ediyorlar, yoksa Allah'ın ve elçisinin, onlara bir haksızlık edeceğinden mi korkuyorlar? Hayır, onlardır zalimlerin ta kendileri.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 24,
+      "ayah": 61,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:61",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْمَرِيضِ",
+      "target_word_rasm": "ٱلمريض",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Köre vebal yok, topala vebal yok, hastaya vebal yok size de vebal yok evlerinizde, yahut babalarınızın evlerinde. Yahut analarınızın evlerinde, yahut erkek...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|MS|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Köre vebal yok, topala vebal yok, hastaya vebal yok size de vebal yok evlerinizde, yahut babalarınızın evlerinde. Yahut analarınızın evlerinde, yahut erkek kardeşlerinizin evlerinde, yahut kız kardeşlerinizin evlerinde, yahut amcalarınızın evlerinde, yahut halalarınızın evlerinde, yahut dayılarınızın evlerinde, yahut teyzelerinizin evlerinde, yahut anahtarlarına sahib olduğunuz evlerde, yahut da dostunuzun evlerinde yemek yemenizde; toplu olarak, yahut ayrıayrı yemek yemenizde de bir vebal yok. Evlere girince, Allah tarafından kutlu ve temiz bir sağlık, esenlik vesilesi olmak üzere selam verin ev halkına. İşte Allah, aklınız ersin, düşünüp anlayın diye delillerini böyle açıklar size.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 26,
+      "ayah": 80,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:80",
+      "word_position": 2,
+      "target_word_uthmani": "مَرِضْتُ",
+      "target_word_rasm": "مرضت",
+      "target_word_literal_irab": "Bedensel olarak hastalanıp şifayı yalnız Allah'tan bilmek (وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ — 26:80, Form I)",
+      "context_snippet_arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+      "context_snippet_turkish_tabula_rasa": "Ve hastalandığım zaman o şifa verir bana.",
+      "morphology": {
+        "lemma": "mariDo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:mariDo|ROOT:mrD|1S"
+      },
+      "ayah_text_arabic_full": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve hastalandığım zaman o şifa verir bana.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 33,
+      "ayah": 12,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:12",
+      "word_position": 7,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ مَّا وَعَدَنَا ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Hani iki çıkışlı kaypak gönüllerinde hastalık olanlar, Allah ve elçiyi demişlerdi, bizi ancak aldattılar, vaatlerinde aldatıştan başka bir şey yok.",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hani iki çıkışlı kaypak gönüllerinde hastalık olanlar, Allah ve elçiyi demişlerdi, bizi ancak aldattılar, vaatlerinde aldatıştan başka bir şey yok.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 33,
+      "ayah": 32,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:32",
+      "word_position": 16,
+      "target_word_uthmani": "مَرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Ahlaksız tamah ve gizli kötülük eğilimiyle bozulmuş kalp hastalığı (ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ — 33:32)",
+      "context_snippet_arabic": "ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا",
+      "context_snippet_turkish_tabula_rasa": "Ey elçinin eşleri, siz, öbür kadınlardan birine benzemezsiniz; çekiniyorsanız sözü yumuşak bir tarzda söylemeyin ki gönlünde bir hastalık olan ümide düşer...",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍ مِّنَ ٱلنِّسَآءِ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçinin eşleri, siz, öbür kadınlardan birine benzemezsiniz; çekiniyorsanız sözü yumuşak bir tarzda söylemeyin ki gönlünde bir hastalık olan ümide düşer sonra ve doğru ve güzel söz söyleyin.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 33,
+      "ayah": 60,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:60",
+      "word_position": 8,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ",
+      "context_snippet_turkish_tabula_rasa": "iki çıkışlı kaypak gönüllerinde hastalık olanlar ve Medine'de kötü haberler yayanlar, bu işten vazgeçmezlerse andolsun ki sana, onlara karşı bir kuvvet veririz...",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لَّئِن لَّمْ يَنتَهِ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "iki çıkışlı kaypak gönüllerinde hastalık olanlar ve Medine'de kötü haberler yayanlar, bu işten vazgeçmezlerse andolsun ki sana, onlara karşı bir kuvvet veririz de sonra artık orada pek az bir müddet komşu olabilirler sana.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 47,
+      "ayah": 20,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:20",
+      "word_position": 18,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ",
+      "context_snippet_turkish_tabula_rasa": "Ve güvene erenler, derler ki: Bir sure indirilseydi; bir hükmü kesin sure indirildi mi ve onda, savaş anıldı mı da gönüllerinde hastalık olanları görürsün ki...",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve güvene erenler, derler ki: Bir sure indirilseydi; bir hükmü kesin sure indirildi mi ve onda, savaş anıldı mı da gönüllerinde hastalık olanları görürsün ki sana, ölümden baygınlık geçiriyorlarmış gibi baygınbaygın bakarlar; artık ölüm, onlara daha da uymaktadır.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 47,
+      "ayah": 29,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:29",
+      "word_position": 6,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ أَن لَّن يُخْرِجَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, gönüllerinde hastalık olanlar, Allah, onların kinlerini, hasetlerini hiç meydana çıkarmayacak mı sanmaktadır?",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ أَن لَّن يُخْرِجَ ٱللَّهُ أَضْغَٰنَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, gönüllerinde hastalık olanlar, Allah, onların kinlerini, hasetlerini hiç meydana çıkarmayacak mı sanmaktadır?",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    },
+    {
+      "surah": 48,
+      "ayah": 17,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:17",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْمَرِيضِ",
+      "target_word_rasm": "ٱلمريض",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَمَن يُطِعِ",
+      "context_snippet_turkish_tabula_rasa": "Köre vebal yok ve topala vebal yok ve hastaya vebal yok ve kim, Allah'a ve elçisine itaat ederse onu, kıyılarından ırmaklar akan esenlik bahçelerine sokar ve...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|MS|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Köre vebal yok ve topala vebal yok ve hastaya vebal yok ve kim, Allah'a ve elçisine itaat ederse onu, kıyılarından ırmaklar akan esenlik bahçelerine sokar ve kim, yüz çevirirse onu elemli bir azapla azaplandırır.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 35,
+      "target_word_uthmani": "مَّرْضَىٰ",
+      "target_word_rasm": "مرضى",
+      "target_word_literal_irab": "Bedensel hastalığı bulunan kimse/kimseler — tüm sorumluluklarda kolaylık ve muafiyet öznesi (مَرِيض / مَرْضَى — 10 geçiş)",
+      "context_snippet_arabic": "أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki Rabbin daha iyi bilir, gerçekten de senin, gecenin üçte ikisinden ve yarısından daha az ve bazı vakitlerde de üçte biri kadar bir zamanında...",
+      "morphology": {
+        "lemma": "m~ariyD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~ariyD|ROOT:mrD|P|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki Rabbin daha iyi bilir, gerçekten de senin, gecenin üçte ikisinden ve yarısından daha az ve bazı vakitlerde de üçte biri kadar bir zamanında kalktığını ve seninle beraber bulunanların bir bölüğünün de kalktıklarını ve Allah, gecenin ve gündüzün vakitlerini ölçer; bilmiştir ki siz, onu layıkıyla hesaplayamazsınız, bu yüzden de tövbenizi kabul etmiştir, artık, Kur'an'dan, kolay geleni okuyun; bilmiştir ki sizden hastalar bulunabilir ve bir başka kısmınız da Allah'ın lütfünü, ihsanını elde etmek için yeryüzünde yolculuk eder ve başka bir bölük de Allah yolunda savaşır, artık, ondan, kolay geleni okuyun ve kılın irtibat bağını ve verin arınma ve gelişme payını ve Allah'a, güzel bir borç verin ve kendiniz için, önceden ne hayır yaparsanız ondan daha hayırlısıyla ve mükafat bakımından daha büyüğüyle bulursunuz onu Allah katında ve yarlıganma dileyin Allah'tan ve şüphe yok ki Allah, suçları örter, rahimdir.",
+      "contextual_meaning": "Bedensel hastalık (مَرِيض / مَرْضَى / مَرِضْتُ): şifanın Allah'tan bilinmesi ve her sorumlulukta şefkatli kolaylık/muafiyet."
+    },
+    {
+      "surah": 74,
+      "ayah": 31,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:31",
+      "word_position": 32,
+      "target_word_uthmani": "مَّرَضٌ",
+      "target_word_rasm": "مرض",
+      "target_word_literal_irab": "Yalan, ikiyüzlülük, kuşku, korkaklık ve kinle dengesi bozulmuş kalp/bilinç hastalığı (فِى قُلُوبِهِم مَّرَضٌ — 12 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz, yakıcı yıkım yurdu memurlarını, buyruk elçilerinden tayin ettik ve kendilerine kitap verilenlerin iyideniyiye anlayıp güven duy için ve güvene...",
+      "morphology": {
+        "lemma": "m~araD",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:m~araD|ROOT:mrD|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَٰنًا وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًا كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, yakıcı yıkım yurdu memurlarını, buyruk elçilerinden tayin ettik ve kendilerine kitap verilenlerin iyideniyiye anlayıp güven duy için ve güvene erenlerin güven duy arttırsın ve kendilerine kitap verilenlerle güvene erenler, şüpheye düşmesinler ve gönüllerinde hastalık olanlar ve gerçeğin üzerini örten, Allah bununla, bu örnekle neyi kastediyor ki desinler diye sayılarını on dokuz olarak taktir ettik. İşte böylece Allah, bildiğini saptırır ve dilediğini doğru yola sokar ve Rabbinin ordusu ne kadardır, ancak Allah bilir ve bu, insanlara bir öğüttür ancak.",
+      "contextual_meaning": "Kalp ve bilinç hastalığı (مَرَض): yalanla artan ikiyüzlülük, kuşku, korkaklık, gizli kin ve ahlaksız tamah."
+    }
+  ]
+}

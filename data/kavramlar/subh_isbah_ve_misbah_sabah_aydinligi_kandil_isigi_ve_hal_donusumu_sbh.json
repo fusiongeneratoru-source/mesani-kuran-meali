@@ -1,0 +1,978 @@
+{
+  "root": "ص-ب-ح",
+  "root_latin": "S-B-H (SbH)",
+  "concept_name": "Subh, İsbâh, Misbâh ve Asbaha (Sabah Aydınlığı, Kandil Işığı ve Hâl Dönüşümü)",
+  "rank": 218,
+  "total_occurrences": 45,
+  "unique_ayahs_count": 43,
+  "unified_core_mechanism": "Kızıl-parlak ışıkla günün ağarması ve yeni bir hâle uyanmak (`نُورُ النَّهَارِ وَالِانْتِقَالُ`): (1) Kozmik sabah ve vakit eşiği — geceyi yarıp açan (`6:96`), nefes alan (`81:18`), yüzünü aydınlatan (`74:34`) sabah ve hesap/azap vakti (`11:81, 37:177, 54:38, 68:17, 100:3`); (2) Parlak ışık kaynağı — nur temsilindeki cam içi kandil (`مِصْبَاح`, `24:35`) ve yakın göğü bezeyen yıldız kandilleri (`مَصَابِيح`, `41:12, 67:5`); (3) Hâl dönüşümü (`أَصْبَحَ`, 27 geçiş) — düşmanlıktan kardeşliğe (`3:103`), kuraklıktan yeşilliğe (`22:63`) veya kibirden pişmanlık ve yıkıma (`5:31, 7:78, 18:42, 46:25, 68:20`) keskin dönüşüm.",
+  "physical_core": "Şafağın ufukta beliren kızıl-aydınlık rengi ve günün ışıyıp açılması (`لَوْنٌ أَصْلُهُ الْحُمْرَةُ وَنُورُ النَّهَارِ`); bu fiziksel parıltı ve sabah eşiğinden üç berrak hat doğar: (1) Şafak ve sabah vakti (`صُبْح / صَبَاح / إِصْبَاح / مُصْبِحِين / صَبَّحَ`), (2) Alevinin kızıl-parlak ışığıyla etrafı aydınlatan kandil/yıldız ışığı (`مِصْبَاح / مَصَابِيح`) ve (3) Bir geceden sabaha çıkar gibi bir hâlden yeni bir hâle dönüşmeyi bildiren `أَصْبَحَ` dönüşüm fiili.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*, Cilt 3, s. 328-329): Kökün tek düzenli aslının 'kızıl-aydınlık tonu ve gündüzün ilk ışığı (`لَوْنٌ أَصْلُهُ الْحُمْرَةُ وَنُورُ النَّهَارِ`)' olduğunu kaydeder; hem `صُبْح`un (sabah) hem de `مِصْبَاح`ın (kandil/lamba) tam bu parlak kızıl ışıltıdan adlandırıldığını açıklar.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `صُبْح / صَبَاح / إِصْبَاح`ın günün ilk aydınlığı, `صَبَّحَ`nin sabah vakti gelip çatmak (`54:38`), `أَصْبَحَ`nin ise hem 'sabah vaktine girmek' (`30:17`) hem de 'bir hâle dönüşmek (`صَارَ`)' anlamında nakıs fiil olarak işlediğini ayrıntılandırır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `6:96`'daki `فَالِقُ ٱلْإِصْبَاحِ` ile gecenin örtüsünün sabah ışığıyla yarılıp açılmasını, `24:35`'teki `مِصْبَاح` ile kandil ışığını, `41:12` ve `67:5`'teki `مَصَابِيح` ile göğün yıldız lambalarını ve `أَصْبَحَ` fiilinin 'sabaha uyanır gibi yeni bir duruma evrilme' vurgusunu birbirinden ayırır.",
+    "arbitration_decision": "Hakem Masası Kararı: `ص-ب-ح` üç ayrı somut ve sözdizimsel kolda indirgenmeden korunur: (1) Zaman ve kozmik eşik olarak sabah/şafak (`صُبْح / صَبَاح / إِصْبَاح / مُصْبِحِين / صَبَّحَ` ve `30:17 تُصْبِحُونَ` — 13 geçiş); (2) Işık kaynağı olarak kandil ve göksel ışıklar (`مِصْبَاح / مَصَابِيح` — 4 geçiş: `24:35 [2x], 41:12, 67:5`); (3) Durum dönüşüm fiili `أَصْبَحَ` ('... hâline geldi / dönüştü' — 27 geçiş)."
+  },
+  "semitic_cognates": {
+    "note": "Arapça `ص-ب-ح` kökü şafak kızıllığı/sabah ışığı (`صُبْح / صَبَاح`), ışık veren kandil (`مِصْبَاح`) ve 'bir durumdan yeni bir duruma geçme' yardımcı fiili (`أَصْبَحَ`) arasındaki organik anlam geçişini berrak biçimde sergiler; doğrulanmamış çapraz Sami köken yakıştırması yapılmamıştır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ل-ي-ل [فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا / وَٱلصُّبْحِ إِذَآ أَسْفَرَ] (Gecenin Karanlığını Yarıp Açan Sabah Aydınlığı ↔ Dinlenme ve Örtü Vakti Olan Gece: 6:96, 11:81, 74:33-34, 81:17-18)",
+      "ظ-ل-م [مِشْكَوٰةٍ فِيهَا مِصْبَاحٌ / وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ] (Ufku ve Karanlığı Aydınlatan Sabah Işığı ve Kandil Parıltısı ↔ Işıksız Karanlık: 24:35, 41:12, 67:5)"
+    ],
+    "key_ayahs": [
+      "3:103",
+      "6:96",
+      "11:81",
+      "18:42",
+      "22:63",
+      "24:35",
+      "30:17",
+      "41:12",
+      "49:6",
+      "54:38",
+      "67:5",
+      "74:34",
+      "81:18",
+      "100:3"
+    ],
+    "reverse_stress_test": "`6:96`'da sabahı yaran (`فَالِقُ ٱلْإِصْبَاحِ`) kudretin hemen ardından geceyi sükûnet kılan (`وَجَعَلَ ٱلَّيْلَ سَكَنًا`) denge gelir; `74:33-34` ve `81:17-18`'de geri çekilen gece (`لَيْل`) ile nefes alıp açılan sabah (`صُبْح`) kozmik bir Mesânî çifti oluşturur."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ف-ل-ق (6:96 فَالِقُ ٱلْإِصْبَاحِ — فَلْق karanlık kabuğu yarıp ayırma eylemini, إِصْبَاح ise yarılarak dışarı fışkıran ilk sabah aydınlığını ayırır)",
+      "ن-و-ر (24:35 مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ — نُور yayılan ışığın kendisini, مِصْبَاح ise o ışığı üreten somut kandil/lamba odağını ayırır)",
+      "ن-د-م (5:31, 5:52, 23:40, 26:157, 49:6 فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ — أَصْبَحَ önceki körlükten yeni bir gerçeklik hâline dönüşümü, نَادِمِين ise o dönüşümün doğurduğu derin pişmanlığı ayırır)"
+    ],
+    "mechanical_difference": "`ف-ج-ر` karanlığın ilk yarılma anını, `ض-ح-و` güneşin yükseldiği kuşluk açıklığını belirtirken; `ص-ب-ح` kızıl-parlak sabah aydınlığını (`صُبْح / إِصْبَاح`), ışık odağı kandili (`مِصْبَاح / مَصَابِيح`) ve bir durumdan ötekine net geçişi (`أَصْبَحَ`) ayırır."
+  },
+  "anchor_ayahs": [
+    "3:103",
+    "5:31",
+    "6:96",
+    "11:81",
+    "18:42",
+    "22:63",
+    "24:35",
+    "28:10",
+    "30:17",
+    "41:12",
+    "49:6",
+    "54:38",
+    "67:5",
+    "74:34",
+    "81:18",
+    "100:3"
+  ],
+  "grammar_and_branch_rules": "45 geçişin 28'i Form IV `أَصْبَحَ` (yalnız `30:17`'de tam fiil: 'sabaha girerken'; diğer 27 ayette nakıs dönüşüm fiili olup isim ve mansub haber/cümle alır), 1'i Form II `صَبَّحَ` (`54:38`), 5'i hâl konumundaki `مُصْبِحِين`, 4'ü âlet ismi `مِصْبَاح / مَصَابِيح` ve 7'si `صُبْح / صَبَاح / إِصْبَاح` zaman-ışık isimleridir (`100:3`'te zaman zarfı `صُبْحًا`).",
+  "derivatives": {
+    "صُبْح / صَبَاح / إِصْبَاح": "Gecenin karanlığını yarıp açan sabah aydınlığı, şafak vakti (6:96, 11:81, 37:177, 74:34, 81:18, 100:3)",
+    "أَصْبَحَ / يُصْبِحُ": "Sabah vaktine girmek (30:17); bir hâlden başka bir hâle dönüşmek, ... hâline gelmek (Form IV — 27 geçiş: 3:103, 5:31, 18:42, 22:63, 49:6, 61:14)",
+    "مُصْبِحِين": "Sabah vaktine girerlerken, sabahleyin (Form IV ism-i fâil — 15:66, 15:83, 37:137, 68:17, 68:21)",
+    "صَبَّحَ": "Sabahın erken vaktinde başlarına inmek (Form II — 54:38)",
+    "مِصْبَاح / مَصَابِيح": "Kandil, parlak ışık kaynağı; yakın göğü bezeyen yıldız kandilleri (24:35, 41:12, 67:5)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 3,
+      "ayah": 103,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:103",
+      "word_position": 17,
+      "target_word_uthmani": "فَأَصْبَحْتُم",
+      "target_word_rasm": "فأصبحتم",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hep birden Allah'ın ipine sımsıkı sarılın, bölük bölük olmayın ve anın Allah'ın size verdiği nimeti, anın o zamanı ki düşmandınız birbirinize, kalplerinizi...",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hep birden Allah'ın ipine sımsıkı sarılın, bölük bölük olmayın ve anın Allah'ın size verdiği nimeti, anın o zamanı ki düşmandınız birbirinize, kalplerinizi uzlaştırdı, nimetiyle kardeş oldunuz. İçinde ateş dolu bir çukurun tam kenarındaydınız, sizi kurtardı oradan. Allah, doğru yolu bulursunuz diye delillerini böyle açıklar işte.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 5,
+      "ayah": 30,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:30",
+      "word_position": 7,
+      "target_word_uthmani": "فَأَصْبَحَ",
+      "target_word_rasm": "فأصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Nihayet kardeşini öldürme hususunda kendi benliğine uydu da öldürdü onu ve ziyankarlardan oluverdi.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nihayet kardeşini öldürme hususunda kendi benliğine uydu da öldürdü onu ve ziyankarlardan oluverdi.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 5,
+      "ayah": 31,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:31",
+      "word_position": 23,
+      "target_word_uthmani": "فَأَصْبَحَ",
+      "target_word_rasm": "فأصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra, kardeşinin cesedini nasıl örteceğini göstermek için Allah, bir karga gönderdi. Bu karga, yeri eşmedeydi. Yazıklar olsun bana dedi, kardeşimin cesedini...",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra, kardeşinin cesedini nasıl örteceğini göstermek için Allah, bir karga gönderdi. Bu karga, yeri eşmedeydi. Yazıklar olsun bana dedi, kardeşimin cesedini gömmede şu karga kadar bile olamadım ha? Ve o, artık nedamet edenlere katılmıştı zaten.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 5,
+      "ayah": 52,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:52",
+      "word_position": 22,
+      "target_word_uthmani": "فَيُصْبِحُوا۟",
+      "target_word_rasm": "فيصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "أَمْرٍ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "Yüreklerinde bir hastalık olanları ve bir felakete uğramamızdan korkuyoruz, diyerek onların içine katılan, onlara koşanları görürsün. Fakat belki de Allah bir...",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يُسَٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüreklerinde bir hastalık olanları ve bir felakete uğramamızdan korkuyoruz, diyerek onların içine katılan, onlara koşanları görürsün. Fakat belki de Allah bir fetih verir, yahut kendi katından bir iş çıkarır meydana da onlar, içlerinde gizledikleri şeyden dolayı nadim oluverirler.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 5,
+      "ayah": 53,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:53",
+      "word_position": 14,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "لَمَعَكُمْ حَبِطَتْ أَعْمَٰلُهُمْ فَأَصْبَحُوا۟ خَٰسِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler da derler ki, sizinle beraber olduklarına dair bütün kuvvetleriyle kesin and edenler bunlar mı? İşte yaptıkları boşa çıktı, ziyankar oluverdiler.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓا۟ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ إِنَّهُمْ لَمَعَكُمْ حَبِطَتْ أَعْمَٰلُهُمْ فَأَصْبَحُوا۟ خَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler da derler ki, sizinle beraber olduklarına dair bütün kuvvetleriyle kesin and edenler bunlar mı? İşte yaptıkları boşa çıktı, ziyankar oluverdiler.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 5,
+      "ayah": 102,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:102",
+      "word_position": 7,
+      "target_word_uthmani": "أَصْبَحُوا۟",
+      "target_word_rasm": "أصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "مِّن قَبْلِكُمْ ثُمَّ أَصْبَحُوا۟ بِهَا كَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sizden önce de bir kavim onları sordu da sonra gerçeğin üzerini örten oluverdi.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "قَدْ سَأَلَهَا قَوْمٌ مِّن قَبْلِكُمْ ثُمَّ أَصْبَحُوا۟ بِهَا كَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden önce de bir kavim onları sordu da sonra gerçeğin üzerini örten oluverdi.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 6,
+      "ayah": 96,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:96",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْإِصْبَاحِ",
+      "target_word_rasm": "ٱلإصباح",
+      "target_word_literal_irab": "Gecenin karanlığını yarıp açan sabah aydınlığı (فَالِقُ ٱلْإِصْبَاحِ — 6:96)",
+      "context_snippet_arabic": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا",
+      "context_snippet_turkish_tabula_rasa": "Sabahı ağartan oldur. Geceyi huzur ve istirahat için, güneşle ayı da muayyen bir hesapla devretmek üzere yaratmıştır. ...",
+      "morphology": {
+        "lemma": "<iSobaAH",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(IV)|LEM:<iSobaAH|ROOT:SbH|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sabahı ağartan oldur. Geceyi huzur ve istirahat için, güneşle ayı da muayyen bir hesapla devretmek üzere yaratmıştır. Bu, üstün ve her şeyi bilen sığınak merciinin takdiridir.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 7,
+      "ayah": 78,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:78",
+      "word_position": 3,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Derken onlar şiddetli bir sesle azaba uğradılar, yurtlarında diz çökmüş bir halde yüzükoyun kapanarak helak olup gittiler.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken onlar şiddetli bir sesle azaba uğradılar, yurtlarında diz çökmüş bir halde yüzükoyun kapanarak helak olup gittiler.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 7,
+      "ayah": 91,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:91",
+      "word_position": 3,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Derken, şiddetli bir depremle azaba uğradılar, yurtlarında diz çökmüş bir halde yüzükoyun kapanarak helak olup gittiler.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken, şiddetli bir depremle azaba uğradılar, yurtlarında diz çökmüş bir halde yüzükoyun kapanarak helak olup gittiler.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 11,
+      "ayah": 67,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:67",
+      "word_position": 5,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bir bağırış, o zulmedenleri kapıverdi, yurtlarında, diz çökmüş bir halde helak oluverdiler.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir bağırış, o zulmedenleri kapıverdi, yurtlarında, diz çökmüş bir halde helak oluverdiler.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 11,
+      "ayah": 81,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:81",
+      "word_position": 26,
+      "target_word_uthmani": "ٱلصُّبْحُ",
+      "target_word_rasm": "ٱلصبح",
+      "target_word_literal_irab": "Şafakla ağaran sabah vakti ve gün aydınlığı (ٱلصُّبْحُ / ٱلصُّبْحِ — 11:81, 74:34, 81:18)",
+      "context_snippet_arabic": "أَصَابَهُمْ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ",
+      "context_snippet_turkish_tabula_rasa": "... sen gece karanlığı basınca ailene mensup olanlarla yola düş, hiçbiriniz, ardına bakmasın, ancak karını beraber götürme, çünkü o da onların uğrayacağı azaba uğrayacak. Şüphe yok ki uğrayacakları azabın mukadder zamanı, sabah çağıdır; sabah da yakın değil mi?",
+      "morphology": {
+        "lemma": "SuboH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SuboH|ROOT:SbH|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "buyruk elçileri, ey Lut dediler, şüphe yok ki biz, Rabbinin elçileriyiz, onlar, sana kesin olarak ilişemezler; sen gece karanlığı basınca ailene mensup olanlarla yola düş, hiçbiriniz, ardına bakmasın, ancak karını beraber götürme, çünkü o da onların uğrayacağı azaba uğrayacak. Şüphe yok ki uğrayacakları azabın mukadder zamanı, sabah çağıdır; sabah da yakın değil mi?",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 11,
+      "ayah": 81,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:81",
+      "word_position": 28,
+      "target_word_uthmani": "ٱلصُّبْحُ",
+      "target_word_rasm": "ٱلصبح",
+      "target_word_literal_irab": "Şafakla ağaran sabah vakti ve gün aydınlığı (ٱلصُّبْحُ / ٱلصُّبْحِ — 11:81, 74:34, 81:18)",
+      "context_snippet_arabic": "مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ",
+      "context_snippet_turkish_tabula_rasa": "... sen gece karanlığı basınca ailene mensup olanlarla yola düş, hiçbiriniz, ardına bakmasın, ancak karını beraber götürme, çünkü o da onların uğrayacağı azaba uğrayacak. Şüphe yok ki uğrayacakları azabın mukadder zamanı, sabah çağıdır; sabah da yakın değil mi?",
+      "morphology": {
+        "lemma": "SuboH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SuboH|ROOT:SbH|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "buyruk elçileri, ey Lut dediler, şüphe yok ki biz, Rabbinin elçileriyiz, onlar, sana kesin olarak ilişemezler; sen gece karanlığı basınca ailene mensup olanlarla yola düş, hiçbiriniz, ardına bakmasın, ancak karını beraber götürme, çünkü o da onların uğrayacağı azaba uğrayacak. Şüphe yok ki uğrayacakları azabın mukadder zamanı, sabah çağıdır; sabah da yakın değil mi?",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 11,
+      "ayah": 94,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:94",
+      "word_position": 15,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Emrimiz gelince Şuayb'i ve onunla beraber güvene ermiş olanları, bizden bir rahmet olarak kurtardık, zulmedenleriyse bir bağırış kavrayıverdi ve hepsi de...",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Emrimiz gelince Şuayb'i ve onunla beraber güvene ermiş olanları, bizden bir rahmet olarak kurtardık, zulmedenleriyse bir bağırış kavrayıverdi ve hepsi de yurtlarında diz çökmüş bir halde helak oluverdi.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 15,
+      "ayah": 66,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:66",
+      "word_position": 9,
+      "target_word_uthmani": "مُّصْبِحِينَ",
+      "target_word_rasm": "مصبحين",
+      "target_word_literal_irab": "Sabah vaktine girerlerken, sabahleyin (مُصْبِحِينَ — 15:66, 15:83, 37:137, 68:17, 68:21, Form IV ism-i fâil)",
+      "context_snippet_arabic": "دَابِرَ هَٰٓؤُلَآءِ مَقْطُوعٌ مُّصْبِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve bu işi ona vahyettik de hiç şüphe yok ki dedik, sabah çağı bunların kökleri kesilir.",
+      "morphology": {
+        "lemma": "muSobiHiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muSobiHiyn|ROOT:SbH|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَضَيْنَآ إِلَيْهِ ذَٰلِكَ ٱلْأَمْرَ أَنَّ دَابِرَ هَٰٓؤُلَآءِ مَقْطُوعٌ مُّصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bu işi ona vahyettik de hiç şüphe yok ki dedik, sabah çağı bunların kökleri kesilir.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 15,
+      "ayah": 83,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:83",
+      "word_position": 3,
+      "target_word_uthmani": "مُصْبِحِينَ",
+      "target_word_rasm": "مصبحين",
+      "target_word_literal_irab": "Sabah vaktine girerlerken, sabahleyin (مُصْبِحِينَ — 15:66, 15:83, 37:137, 68:17, 68:21, Form IV ism-i fâil)",
+      "context_snippet_arabic": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sabah çağına erdikleri gibi bir bağırış yüzünden helak olup gittiler.",
+      "morphology": {
+        "lemma": "muSobiHiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muSobiHiyn|ROOT:SbH|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah çağına erdikleri gibi bir bağırış yüzünden helak olup gittiler.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 18,
+      "ayah": 40,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:40",
+      "word_position": 13,
+      "target_word_uthmani": "فَتُصْبِحَ",
+      "target_word_rasm": "فتصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "حُسْبَانًا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+      "context_snippet_turkish_tabula_rasa": "Umarım ki Rabbim, bana seninkinden daha hayırlı bir bağ verir, senin bağına da yıldırımlar yollar gökten de kaypak, kaygan bir toprak oluverir bağın.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3FS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+      "ayah_text_turkish_tabula_rasa_full": "Umarım ki Rabbim, bana seninkinden daha hayırlı bir bağ verir, senin bağına da yıldırımlar yollar gökten de kaypak, kaygan bir toprak oluverir bağın.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 18,
+      "ayah": 41,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:41",
+      "word_position": 2,
+      "target_word_uthmani": "يُصْبِحَ",
+      "target_word_rasm": "يصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "أَوْ يُصْبِحَ مَآؤُهَا غَوْرًا فَلَن",
+      "context_snippet_turkish_tabula_rasa": "Yahut da suyu öylesine çekilir ki onu arayıp bulmaya bile gücün yetmez.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَوْ يُصْبِحَ مَآؤُهَا غَوْرًا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut da suyu öylesine çekilir ki onu arayıp bulmaya bile gücün yetmez.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 18,
+      "ayah": 42,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:42",
+      "word_position": 3,
+      "target_word_uthmani": "فَأَصْبَحَ",
+      "target_word_rasm": "فأصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Derken serveti mahvoldu da çardakları çökmüş, yerle bir olmuş bağında ellerini uğuşturarak keşke Rabbime hiçbir varlığı eş, ortak olarak tanımasaydım demeye...",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Derken serveti mahvoldu da çardakları çökmüş, yerle bir olmuş bağında ellerini uğuşturarak keşke Rabbime hiçbir varlığı eş, ortak olarak tanımasaydım demeye başladı.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 18,
+      "ayah": 45,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:45",
+      "word_position": 14,
+      "target_word_uthmani": "فَأَصْبَحَ",
+      "target_word_rasm": "فأصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَٰحُ",
+      "context_snippet_turkish_tabula_rasa": "Onlara örnek getir: Dünya yaşayışı, gökten yağdırdığımız yağmura benzer, yeryüzünün nebatlarını sular, bünyelerine girer de onları yeşertir, yetiştirir, derken...",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَٰحُ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ مُّقْتَدِرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara örnek getir: Dünya yaşayışı, gökten yağdırdığımız yağmura benzer, yeryüzünün nebatlarını sular, bünyelerine girer de onları yeşertir, yetiştirir, derken nebatlar kurur, ufalanır, yeller de onları savurur gider ve Allah'ın her şeye gücü yeter, hiçbir şeyden aciz değildir o.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 22,
+      "ayah": 63,
+      "surah_name": "Hac",
+      "ayah_ref": "22:63",
+      "word_position": 9,
+      "target_word_uthmani": "فَتُصْبِحُ",
+      "target_word_rasm": "فتصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "مِنَ ٱلسَّمَآءِ مَآءً فَتُصْبِحُ ٱلْأَرْضُ مُخْضَرَّةً إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Görmez misin, şüphe yok ki Allah, gökten yağmur yağdırır da yeryüzü yemyeşil olur; şüphe yok ki Allah, lütuf ve ihsan sahibidir, her şeyden haberdardır.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3FS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَتُصْبِحُ ٱلْأَرْضُ مُخْضَرَّةً إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmez misin, şüphe yok ki Allah, gökten yağmur yağdırır da yeryüzü yemyeşil olur; şüphe yok ki Allah, lütuf ve ihsan sahibidir, her şeyden haberdardır.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 23,
+      "ayah": 40,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:40",
+      "word_position": 4,
+      "target_word_uthmani": "لَّيُصْبِحُنَّ",
+      "target_word_rasm": "ليصبحن",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَٰدِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "sığınak mercii (ilâh), az bir zamanda dedi, herhalde nadim olacaklar.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "sığınak mercii (ilâh), az bir zamanda dedi, herhalde nadim olacaklar.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 24,
+      "ayah": 35,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:35",
+      "word_position": 9,
+      "target_word_uthmani": "مِصْبَاحٌ",
+      "target_word_rasm": "مصباح",
+      "target_word_literal_irab": "Cam fanus içinde ışık yayan kandil odağı (مِصْبَاحٌ / ٱلْمِصْبَاحُ — 24:35)",
+      "context_snippet_arabic": "نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ",
+      "context_snippet_turkish_tabula_rasa": "... Işığının örneği, kandil konan bir yere benzer, orada bir kandil var, kandil, bir sırça içinde, sırça da parılparıl parlayan bir yıldız sanki; doğuda da olmayan, batıda da olmayan kutlu zeytin ağacından yakılmış; ...",
+      "morphology": {
+        "lemma": "miSobaAH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miSobaAH|ROOT:SbH|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ışığıdır göklerin ve yeryüzünün. Işığının örneği, kandil konan bir yere benzer, orada bir kandil var, kandil, bir sırça içinde, sırça da parılparıl parlayan bir yıldız sanki; doğuda da olmayan, batıda da olmayan kutlu zeytin ağacından yakılmış;ateş dokunmadan da yağı, hemen ışık verecek; nur üstüne nur. Allah, doğru yolu gösterir nuruyla dilediğine ve Allah, örnekler getirir insanlara ve Allah, her şeyi bilir.",
+      "contextual_meaning": "Parlak ışık kaynağı (مِصْبَاح / مَصَابِيح): nur temsilindeki kandil ve göğü bezeyen yıldız kandilleri."
+    },
+    {
+      "surah": 24,
+      "ayah": 35,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:35",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْمِصْبَاحُ",
+      "target_word_rasm": "ٱلمصباح",
+      "target_word_literal_irab": "Cam fanus içinde ışık yayan kandil odağı (مِصْبَاحٌ / ٱلْمِصْبَاحُ — 24:35)",
+      "context_snippet_arabic": "كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ ٱلزُّجَاجَةُ",
+      "context_snippet_turkish_tabula_rasa": "... Işığının örneği, kandil konan bir yere benzer, orada bir kandil var, kandil, bir sırça içinde, sırça da parılparıl parlayan bir yıldız sanki; doğuda da olmayan, batıda da olmayan kutlu zeytin ağacından yakılmış; ...",
+      "morphology": {
+        "lemma": "miSobaAH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miSobaAH|ROOT:SbH|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ışığıdır göklerin ve yeryüzünün. Işığının örneği, kandil konan bir yere benzer, orada bir kandil var, kandil, bir sırça içinde, sırça da parılparıl parlayan bir yıldız sanki; doğuda da olmayan, batıda da olmayan kutlu zeytin ağacından yakılmış;ateş dokunmadan da yağı, hemen ışık verecek; nur üstüne nur. Allah, doğru yolu gösterir nuruyla dilediğine ve Allah, örnekler getirir insanlara ve Allah, her şeyi bilir.",
+      "contextual_meaning": "Parlak ışık kaynağı (مِصْبَاح / مَصَابِيح): nur temsilindeki kandil ve göğü bezeyen yıldız kandilleri."
+    },
+    {
+      "surah": 26,
+      "ayah": 157,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:157",
+      "word_position": 2,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "فَعَقَرُوهَا فَأَصْبَحُوا۟ نَٰدِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ayaklarını kesip öldürdüler onu da nadim oldular.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "فَعَقَرُوهَا فَأَصْبَحُوا۟ نَٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayaklarını kesip öldürdüler onu da nadim oldular.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 28,
+      "ayah": 10,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:10",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَصْبَحَ",
+      "target_word_rasm": "وأصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın anası, gönlü bomboş bir halde kaldı, eğer güvene erenlere katılması için gönlünü, bize bağlamasaydık nerdeyse açığa vuracaktı bunu.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًا إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın anası, gönlü bomboş bir halde kaldı, eğer güvene erenlere katılması için gönlünü, bize bağlamasaydık nerdeyse açığa vuracaktı bunu.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 28,
+      "ayah": 18,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:18",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَصْبَحَ",
+      "target_word_rasm": "فأصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًا",
+      "context_snippet_turkish_tabula_rasa": "Korkarak, gözleyip bekleyerek şehirde sabahladı, derken dün kendisinden yardım isteyen, gene birisiyle çekişmedeydi ve gene kendisinden yardım istedi. Musa da ona, şüphe yok ki dedi sen, apaçık bir azgınsın.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًا يَتَرَقَّبُ فَإِذَا ٱلَّذِى ٱسْتَنصَرَهُۥ بِٱلْأَمْسِ يَسْتَصْرِخُهُۥ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِىٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Korkarak, gözleyip bekleyerek şehirde sabahladı, derken dün kendisinden yardım isteyen, gene birisiyle çekişmedeydi ve gene kendisinden yardım istedi. Musa da ona, şüphe yok ki dedi sen, apaçık bir azgınsın.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 28,
+      "ayah": 82,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:82",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَصْبَحَ",
+      "target_word_rasm": "وأصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Dün, onun yerinde olmayı dileyenler, öylesine sabahladılar ki hey gidi hey diyorlardı, şüphe yok ki Allah, kullarından dilediğinin rızkını bollaştırmada, dilediğini daraltmada, Allah lutfetmeseydi bize, bizi de yere geçirirdi ve hey gidi hey, şüphe yok ki gerçeğin üzerini örtenler kurtulmazlar, muratlarına ermezler.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dün, onun yerinde olmayı dileyenler, öylesine sabahladılar ki hey gidi hey diyorlardı, şüphe yok ki Allah, kullarından dilediğinin rızkını bollaştırmada, dilediğini daraltmada, Allah lutfetmeseydi bize, bizi de yere geçirirdi ve hey gidi hey, şüphe yok ki gerçeğin üzerini örtenler kurtulmazlar, muratlarına ermezler.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 29,
+      "ayah": 37,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:37",
+      "word_position": 4,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Derken yalanlamışlardı onu da onları bir sarsıntı, helak edivermişti, derken evlerinde diz çökmüş bir halde yerlere yığılıp helak oluvermişlerdi.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken yalanlamışlardı onu da onları bir sarsıntı, helak edivermişti, derken evlerinde diz çökmüş bir halde yerlere yığılıp helak oluvermişlerdi.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 30,
+      "ayah": 17,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:17",
+      "word_position": 6,
+      "target_word_uthmani": "تُصْبِحُونَ",
+      "target_word_rasm": "تصبحون",
+      "target_word_literal_irab": "Sabah vaktine girmek (وَحِينَ تُصْبِحُونَ — 30:17, Form IV tam fiil)",
+      "context_snippet_arabic": "حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "context_snippet_turkish_tabula_rasa": "Artık tenzih edin Allah'ı akşama girince ve sabaha erince.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|2MP"
+      },
+      "ayah_text_arabic_full": "فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık tenzih edin Allah'ı akşama girince ve sabaha erince.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 37,
+      "ayah": 137,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:137",
+      "word_position": 4,
+      "target_word_uthmani": "مُّصْبِحِينَ",
+      "target_word_rasm": "مصبحين",
+      "target_word_literal_irab": "Sabah vaktine girerlerken, sabahleyin (مُصْبِحِينَ — 15:66, 15:83, 37:137, 68:17, 68:21, Form IV ism-i fâil)",
+      "context_snippet_arabic": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve şüphe yok ki siz de onların yurtlarına uğramadasınız sabahları.",
+      "morphology": {
+        "lemma": "muSobiHiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muSobiHiyn|ROOT:SbH|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şüphe yok ki siz de onların yurtlarına uğramadasınız sabahları.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 37,
+      "ayah": 177,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:177",
+      "word_position": 5,
+      "target_word_uthmani": "صَبَاحُ",
+      "target_word_rasm": "صباح",
+      "target_word_literal_irab": "Uyarılanların başına azap inen kötü sabah (صَبَاحُ ٱلْمُنذَرِينَ — 37:177)",
+      "context_snippet_arabic": "نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Fakat azabımız, yurtlarına gelip çökünce korkutulanlar, ne de kötü bir sabaha kavuşacaklar.",
+      "morphology": {
+        "lemma": "SabaAH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SabaAH|ROOT:SbH|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat azabımız, yurtlarına gelip çökünce korkutulanlar, ne de kötü bir sabaha kavuşacaklar.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 41,
+      "ayah": 12,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:12",
+      "word_position": 14,
+      "target_word_uthmani": "بِمَصَٰبِيحَ",
+      "target_word_rasm": "بمصبيح",
+      "target_word_literal_irab": "En yakın göğü bezeyen parlak yıldız kandilleri (بِمَصَٰبِيحَ — 41:12, 67:5)",
+      "context_snippet_arabic": "وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Derken onları yedi gök olarak iki günde yaratmış ve her göğe yapacağı işi vahyetmiştir. Ve dünya göğünü kandillerle bezedik ve koruduk; işte bu, üstün olan ve her şeyi bilen mabudun takdiridir.",
+      "morphology": {
+        "lemma": "miSobaAH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miSobaAH|ROOT:SbH|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken onları yedi gök olarak iki günde yaratmış ve her göğe yapacağı işi vahyetmiştir. Ve dünya göğünü kandillerle bezedik ve koruduk; işte bu, üstün olan ve her şeyi bilen mabudun takdiridir.",
+      "contextual_meaning": "Parlak ışık kaynağı (مِصْبَاح / مَصَابِيح): nur temsilindeki kandil ve göğü bezeyen yıldız kandilleri."
+    },
+    {
+      "surah": 41,
+      "ayah": 23,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:23",
+      "word_position": 7,
+      "target_word_uthmani": "فَأَصْبَحْتُم",
+      "target_word_rasm": "فأصبحتم",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَٰسِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve Rabbiniz hakkında beslediğiniz şu kötü zan yok mu, sizi o helak etti de ziyana uğrayıverdiniz.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|2MP"
+      },
+      "ayah_text_arabic_full": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Rabbiniz hakkında beslediğiniz şu kötü zan yok mu, sizi o helak etti de ziyana uğrayıverdiniz.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 46,
+      "ayah": 25,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:25",
+      "word_position": 6,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Bir azap var ki Rabbinin emriyle her şeyi mahvedip gider, derken hepsi de helak olup gitti, öyle bir güne erdiler ki evlerinden başka hiçbir şey görülmez oldu....",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَٰكِنُهُمْ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir azap var ki Rabbinin emriyle her şeyi mahvedip gider, derken hepsi de helak olup gitti, öyle bir güne erdiler ki evlerinden başka hiçbir şey görülmez oldu. İşte böylece cezalandırırız mücrim topluluğu.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 49,
+      "ayah": 6,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:6",
+      "word_position": 13,
+      "target_word_uthmani": "فَتُصْبِحُوا۟",
+      "target_word_rasm": "فتصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "تُصِيبُوا۟ قَوْمًۢا بِجَهَٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, buyruktan çıkmış biri, size bir haber getirdi mi doğru, yahut yanlış veya yalan olup olmadığını araştırıp iyice bir anlayın, yoksa bir...",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, buyruktan çıkmış biri, size bir haber getirdi mi doğru, yahut yanlış veya yalan olup olmadığını araştırıp iyice bir anlayın, yoksa bir topluluğa, bilgisizlikle bir kötülükte bulunur da yaptığınıza nadim oluverirsiniz.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 54,
+      "ayah": 38,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:38",
+      "word_position": 2,
+      "target_word_uthmani": "صَبَّحَهُم",
+      "target_word_rasm": "صبحهم",
+      "target_word_literal_irab": "Sabahın erken vaktinde başlarına inmek (صَبَّحَهُم بُكْرَةً — 54:38, Form II)",
+      "context_snippet_arabic": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki bir sabah çağı üstlerine bir azap çöküvermişti onların.",
+      "morphology": {
+        "lemma": "Sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Sab~aHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki bir sabah çağı üstlerine bir azap çöküvermişti onların.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 61,
+      "ayah": 14,
+      "surah_name": "Saff",
+      "ayah_ref": "61:14",
+      "word_position": 34,
+      "target_word_uthmani": "فَأَصْبَحُوا۟",
+      "target_word_rasm": "فأصبحوا",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah'ın yardımcıları olun, nitekim Meryem oğlu İsa da Havariyyun'a, Allah yolunda yardımcılarım kimdir demişti, Havariyyun, biziz Allah'ın...",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّۦنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ فَـَٔامَنَت طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah'ın yardımcıları olun, nitekim Meryem oğlu İsa da Havariyyun'a, Allah yolunda yardımcılarım kimdir demişti, Havariyyun, biziz Allah'ın yardımcıları demişlerdi; derken İsrailoğullarından bir bölük güven duy, bir bölük de gerçeğin üzerini örten olmuştu; derken biz, güvene erenleri, düşmanlarına karşı kuvvetlendirmiştik de üst gelmişlerdi.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 67,
+      "ayah": 5,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:5",
+      "word_position": 5,
+      "target_word_uthmani": "بِمَصَٰبِيحَ",
+      "target_word_rasm": "بمصبيح",
+      "target_word_literal_irab": "En yakın göğü bezeyen parlak yıldız kandilleri (بِمَصَٰبِيحَ — 41:12, 67:5)",
+      "context_snippet_arabic": "زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki biz, en yakın olan dünya göğünü ışıklarla bezedik ve onları, saptırıcı yıkıcı güçlere atılacak şeyler olarak halkettik ve saptırıcı yıkıcı...",
+      "morphology": {
+        "lemma": "miSobaAH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miSobaAH|ROOT:SbH|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki biz, en yakın olan dünya göğünü ışıklarla bezedik ve onları, saptırıcı yıkıcı güçlere atılacak şeyler olarak halkettik ve saptırıcı yıkıcı güçlere, yakıp kavuran bir azaptır, hazırladık.",
+      "contextual_meaning": "Parlak ışık kaynağı (مِصْبَاح / مَصَابِيح): nur temsilindeki kandil ve göğü bezeyen yıldız kandilleri."
+    },
+    {
+      "surah": 67,
+      "ayah": 30,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:30",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْبَحَ",
+      "target_word_rasm": "أصبح",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن",
+      "context_snippet_turkish_tabula_rasa": "De ki: Haber verin bana, suyunuz, tamamıyla batıp çekiliverse artık kimdir size bir akarsu pınarı peydahlayacak?",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Haber verin bana, suyunuz, tamamıyla batıp çekiliverse artık kimdir size bir akarsu pınarı peydahlayacak?",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 68,
+      "ayah": 17,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:17",
+      "word_position": 10,
+      "target_word_uthmani": "مُصْبِحِينَ",
+      "target_word_rasm": "مصبحين",
+      "target_word_literal_irab": "Sabah vaktine girerlerken, sabahleyin (مُصْبِحِينَ — 15:66, 15:83, 37:137, 68:17, 68:21, Form IV ism-i fâil)",
+      "context_snippet_arabic": "إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz, onları açlıkla, kıtlıkla sınarız, nitekim o bahçe sahiplerini de sınamıştık; hani, sabahleyin erkenden, bahçelerindeki mahsulü kesmeye ant içmişlerdi.",
+      "morphology": {
+        "lemma": "muSobiHiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muSobiHiyn|ROOT:SbH|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz, onları açlıkla, kıtlıkla sınarız, nitekim o bahçe sahiplerini de sınamıştık; hani, sabahleyin erkenden, bahçelerindeki mahsulü kesmeye ant içmişlerdi.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 68,
+      "ayah": 20,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:20",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَصْبَحَتْ",
+      "target_word_rasm": "فأصبحت",
+      "target_word_literal_irab": "Bir hâlden yeni bir hâle dönüşmek, ... hâline gelmek (أَصْبَحَ / يُصْبِحُ — Form IV nakıs dönüşüm fiili, 27 geçiş)",
+      "context_snippet_arabic": "فَأَصْبَحَتْ كَٱلصَّرِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Derken bahçe, bütün mahsulü kesilip biçilmiş, kupkuru çorak bir yere, bir çöle dönmüştü.",
+      "morphology": {
+        "lemma": ">aSobaHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aSobaHa|ROOT:SbH|SP:kaAn|3FS"
+      },
+      "ayah_text_arabic_full": "فَأَصْبَحَتْ كَٱلصَّرِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken bahçe, bütün mahsulü kesilip biçilmiş, kupkuru çorak bir yere, bir çöle dönmüştü.",
+      "contextual_meaning": "Keskin hâl dönüşümü (أَصْبَحَ): kardeşliğe, yeşilliğe, üstünlüğe veya pişmanlık, kuraklık ve yıkıma dönüşmek."
+    },
+    {
+      "surah": 68,
+      "ayah": 21,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:21",
+      "word_position": 2,
+      "target_word_uthmani": "مُصْبِحِينَ",
+      "target_word_rasm": "مصبحين",
+      "target_word_literal_irab": "Sabah vaktine girerlerken, sabahleyin (مُصْبِحِينَ — 15:66, 15:83, 37:137, 68:17, 68:21, Form IV ism-i fâil)",
+      "context_snippet_arabic": "فَتَنَادَوْا۟ مُصْبِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sabahleyin birbirlerine sesleniyorlardı.",
+      "morphology": {
+        "lemma": "muSobiHiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:muSobiHiyn|ROOT:SbH|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَتَنَادَوْا۟ مُصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sabahleyin birbirlerine sesleniyorlardı.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 74,
+      "ayah": 34,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:34",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلصُّبْحِ",
+      "target_word_rasm": "وٱلصبح",
+      "target_word_literal_irab": "Şafakla ağaran sabah vakti ve gün aydınlığı (ٱلصُّبْحُ / ٱلصُّبْحِ — 11:81, 74:34, 81:18)",
+      "context_snippet_arabic": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+      "context_snippet_turkish_tabula_rasa": "Ve ışıklanıp doğarken güne.",
+      "morphology": {
+        "lemma": "SuboH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SuboH|ROOT:SbH|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ışıklanıp doğarken güne.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 81,
+      "ayah": 18,
+      "surah_name": "Tekvîr",
+      "ayah_ref": "81:18",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلصُّبْحِ",
+      "target_word_rasm": "وٱلصبح",
+      "target_word_literal_irab": "Şafakla ağaran sabah vakti ve gün aydınlığı (ٱلصُّبْحُ / ٱلصُّبْحِ — 11:81, 74:34, 81:18)",
+      "context_snippet_arabic": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+      "context_snippet_turkish_tabula_rasa": "Ve ışıdığı çağda, sabaha.",
+      "morphology": {
+        "lemma": "SuboH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SuboH|ROOT:SbH|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ışıdığı çağda, sabaha.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    },
+    {
+      "surah": 100,
+      "ayah": 3,
+      "surah_name": "Âdiyât",
+      "ayah_ref": "100:3",
+      "word_position": 2,
+      "target_word_uthmani": "صُبْحًا",
+      "target_word_rasm": "صبحا",
+      "target_word_literal_irab": "Sabah vaktinde, şafakla birlikte zaman zarfı (صُبْحًا — 100:3)",
+      "context_snippet_arabic": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "context_snippet_turkish_tabula_rasa": "Sabah çağı, düşmanı basanlara.",
+      "morphology": {
+        "lemma": "SuboH",
+        "pos": "T",
+        "features": "STEM|POS:T|LEM:SuboH|ROOT:SbH|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah çağı, düşmanı basanlara.",
+      "contextual_meaning": "Kozmik sabah ve şafak eşiği: karanlığı yaran sabah aydınlığı, sabah vaktinde övgü ve şafakla inen yargı."
+    }
+  ]
+}
