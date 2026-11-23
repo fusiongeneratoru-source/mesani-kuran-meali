@@ -1,0 +1,690 @@
+{
+  "root": "ش-ر-ر",
+  "root_latin": "Ş-R-R ($rr)",
+  "concept_name": "Şerr ve Şerer (Yapıcı İyiliğin [Hayr] Zıttı: Kıvılcım Gibi Yayılıp Tahribat Saçan Zarar ve Kötülük)",
+  "rank": 297,
+  "total_occurrences": 31,
+  "unique_ayahs_count": 30,
+  "unified_core_mechanism": "Ateşten etrafa sıçrayıp yayılan yakıcı kıvılcımlar (شَرَر — 77:32); yapıcı iyilik ve faydanın (خَيْر) tam zıttı olarak kıvılcım gibi yayılıp bireye ve topluma hasar veren yıkıcı zarar, kötülük (شَرّ) ve en kötü konum.",
+  "physical_core": "Ateşten etrafa kontrolsüzce sıçrayıp yayılan yakıcı kıvılcımlar (شَرَر — 77:32) ve bir şeyi güneşe/ortaya serip yaymak (الِانْتِشَارُ وَالتَّطَايُرُ); buradan hareketle yapıcı fayda ve iyiliğin (خَيْر) tam zıttı olarak etrafa sıçrayıp yıkım üreten zarar ve kötülük (شَرّ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): `ش-ر-ر` kökünün tek sahih aslı etrafa saçılmak, yayılmak ve kıvılcım gibi sıçramaktır (`أصل واحد يدل على الانتشار والتطاير`). Ateşten sıçrayan kıvılcımlara `الشَّرَر` (`77:32`), güneşe serilen şeye `شَرَرْتُ الثَّوْبَ`, hayrın (`الخَيْر`) zıttı olan kötülük ve zarara da yayılıp tahribat saçtığı için `الشَّرّ` denmiştir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `الشَّرّ` hayrın (`الخَيْر`) zıttıdır; ism-i tafdîl olarak `هُوَ شَرٌّ مِنْكَ` (aslı `أَشَرّ` olup çok kullanıldığı için hemzesi düşmüştür, `72:10`'da ise asıl vezniyle `أَشَرٌّ أُرِيدَ` olarak gelmiştir) şeklinde kullanılır; `الشَّرَر` ise ateşin uçuşan kıvılcımlarıdır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `الشَّرّ` herkesin doğası gereği kendisinden kaçındığı zarar ve bozukluktur (`الخَيْر` ise herkesin rağbet ettiği fayda ve iyiliktir); kökü ateş kıvılcımı (`الشَّرَر`) gibi etrafa yayılmasıdır (`76:7` `كَانَ شَرُّهُۥ مُسْتَطِيرًا`).",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris ve Râgıb'ın tespit ettiği 'ateşten sıçrayıp yayılan kıvılcım (`77:32` `تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ` ve `76:7` `كَانَ شَرُّهُۥ مُسْتَطِيرًا` — şerri uçuşup yayılan bir gün)' fiziksel çekirdeği muazzam bir metin içi kanıttır! `خ-ي-ر` (fayda, değer ve üstün seçim) nasıl yapıcı ve onarıcı ise, `ش-ر-ر` de kıvılcım gibi sıçrayarak bireyi ve toplumu yakan zarar, kötülük ve yıkıcı sonuçtur (`99:7-8`, `113:2-5`)."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami sibilant ses yasası (`Arapça ش [š] = İbranice שׂ [ś]`): Akadca `šarāru` ('ateş/yıldız gibi parıldamak, kıvılcım çakmak') ile somut 'kıvılcım (`شَرَر`)' düzleminde; Etiyopyaca/Ge'ez ve Güney Arapça düzleminde ise 'yayılıp dağılmak' anlamıyla ilişkilidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "خ-ي-ر [فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ] (Yapıcı Fayda, Değer ve İyilik [خَيْر] ↔ Kıvılcım Gibi Zarar Saçan Kötülük ve Yıkım [شَرّ]: 99:7-8, 2:216, 3:180, 10:11, 17:11, 21:35, 24:11, 41:49)",
+      "ب-ل-و [وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً] (Zorlayıcı Darlık/Zarar [ٱلشَّرّ] ve Bolluk/İyilik [ٱلْخَيْر] İle Sınanmak [نَبْلُوكُم]: 21:35)",
+      "ر-ش-د [وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا] (Yıkıcı Zarar [أَشَرٌّ] ↔ Olgun Doğruluk ve Sağduyu [رَشَدًا]: 72:10)",
+      "ع-و-ذ [قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ مِن شَرِّ مَا خَلَقَ] (Rabb'in Korumasına Sığınmak [أَعُوذُ] ↔ Yaratılmışların ve Fesat Odaklarının Sıçrayan Zararı [شَرّ]: 113:1-5, 114:1-4)",
+      "ن-ف-ث [وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ] (Sıçrayan Yıkıcı Zarar [شَرّ] ↔ Sağlam Bağlara Gizlice Fesat Üfleyen Odaklar [ٱلنَّفَّٰثَٰت]: 113:4)",
+      "ح-س-د (H-S-D (Hsd): Hased ve Hâsid (Kabuğu Soyup Kurutmak Gibi Başkasındaki İlahi Lütfu Kemiren Yıkıcı Kıskançlık) — Çift Yönlü Mesânî Simetri Kilidi)"
+    ],
+    "key_ayahs": [
+      "2:216",
+      "3:180",
+      "8:22",
+      "17:11",
+      "21:35",
+      "24:11",
+      "72:10",
+      "76:7",
+      "77:32",
+      "99:7-8",
+      "113:2-5"
+    ],
+    "reverse_stress_test": "Kur'an'da `ش-ر-ر` kökü tam 12 ayette doğrudan `خ-ي-ر` kökünün (`2:216`, `3:180`, `10:11`, `17:11`, `17:83`, `21:35`, `24:11`, `41:49`, `41:51`, `70:20-21`, `98:6-7`, `99:7-8`) ve `72:10`'da `ر-ش-د` kökünün (`أَشَرٌّ ... أَمْ ... رَشَدًا`) tam Mesânî zıttı olarak kilitlenmiştir. `خ-ي-ر` kökünün 'yaşamı besleyen seçkin fayda, değer ve yapıcı iyilik' ile `ر-ش-د` kökünün 'olgun sağduyu ve isabet' anlamları tam tersine çevrildiğinde; `ش-ر-ر` kökünün 'kıvılcım (`77:32`) gibi yayılarak (`76:7`) yaşamı ve toplumsal bağları tahrip eden zarar ve kötülük' çekirdeği %100 sıfır çelişkiyle doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "س-و-أ (سُوء / سَيِّئَة — Bir şeyi bozup çirkinleştiren eylem/kusur vs شَرّ خَيْر'ın tam zıttı olan yayılıcı zarar ve yıkıcı sonuç)",
+      "ض-ر-ر (ضُرّ / ضَرَر — Bedene veya duruma dokunan somut sıkıntı/hasar [نَفْع zıttı] vs شَرّ eylemin ve tercihin doğurduğu kapsamlı kötülük ve zarar [خَيْر zıttı])"
+    ],
+    "mechanical_difference": "Kur'an'da `ضُرّ` (`ض-ر-ر`) her zaman `نَفْع` (`ن-ف-ع`) ile, `سَيِّئَة` (`س-و-أ`) her zaman `حَسَنَة` (`ح-س-ن`) ile, `شَرّ` (`ش-ر-ر`) ise her zaman `خَيْر` (`خ-ي-ر`) ve `رَشَد` (`ر-ش-د`) ile eşleşir! `2:216` ve `24:11`'de insanın hoşlanmadığı bir durumun aslında kendisi için `شَرّ` (yıkıcı zarar/kötülük) değil `خَيْر` (yapıcı fayda/iyilik) olabileceği, buna karşılık `3:180`'de cimriliğin kendileri için `خَيْر` değil `شَرّ` olduğu vurgulanır."
+  },
+  "anchor_ayahs": [
+    "2:216",
+    "3:180",
+    "8:22",
+    "21:35",
+    "72:10",
+    "76:7",
+    "77:32",
+    "99:8",
+    "113:2"
+  ],
+  "grammar_and_branch_rules": "Somut çoğul isim olarak `شَرَر` (`77:32`) ateşten sıçrayan kıvılcımları; mastar/isim olarak `شَرّ` (`2:216`, `99:8`, `113:2-5`, `114:4`) yayılan zarar ve kötülüğü; ism-i tafdîl olarak `شَرّ / أَشَرّ` (`8:22`, `8:55`, `12:77`, `72:10`, `98:6`) ve çoğulu `ٱلْأَشْرَار` (`38:62`) ise aklını ve vicdanını kapatanların düştüğü en zararlı/en kötü durumu ifade eder.",
+  "derivatives": {
+    "بِشَرَرٍ": "Ateşten etrafa sıçrayıp uçuşan dev kıvılcımlar (77:32 — somut fiziksel çıpa)",
+    "شَرٌّ / ٱلشَّرُّ / شَرًّا": "Yapıcı iyilik ve faydanın (خَيْر) zıttı olan yıkıcı zarar ve kötülük (2:216, 21:35, 99:8, 113:2-5, 114:4)",
+    "شَرَّ ٱلدَّوَآبِّ / شَرُّ ٱلْبَرِيَّةِ / أَشَرٌّ": "En kötü, en zararlı konumda olan (8:22, 8:55, 72:10, 98:6)",
+    "ٱلْأَشْرَارِ": "Kötülük ve zarar saçan kimseler (38:62)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 216,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:216",
+      "word_position": 19,
+      "target_word_uthmani": "شَرٌّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ وَٱللَّهُ يَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "... Bazı şeyler vardır ki hoşlanmazsınız, fakat hayırlıdır size. Bazı şeyler de vardır, hoşlanırsınız, şerdir size. Allah bilir, siz bilmezsiniz ki.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hoşlanmazsınız, size ağır gelir ama düşmanlarla savaşmak, size farz edilmiştir. Bazı şeyler vardır ki hoşlanmazsınız, fakat hayırlıdır size. Bazı şeyler de vardır, hoşlanırsınız, şerdir size. Allah bilir, siz bilmezsiniz ki.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 3,
+      "ayah": 180,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:180",
+      "word_position": 15,
+      "target_word_uthmani": "شَرٌّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "لَّهُم بَلْ هُوَ شَرٌّ لَّهُمْ سَيُطَوَّقُونَ مَا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ihsan ettiğini vermekten sakınanlar, bunu kendileri için hayırlı sanmasınlar. Hatta bu, onlar için şerdir de. Sakındıkları şey, kıyamet günü, boyunlarına dolanacak ve Allah'ındır göklerin ve yeryüzünün mirası ve Allah, bütün yaptıklarınızdan haberdardır.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم بَلْ هُوَ شَرٌّ لَّهُمْ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَٰمَةِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ihsan ettiğini vermekten sakınanlar, bunu kendileri için hayırlı sanmasınlar. Hatta bu, onlar için şerdir de. Sakındıkları şey, kıyamet günü, boyunlarına dolanacak ve Allah'ındır göklerin ve yeryüzünün mirası ve Allah, bütün yaptıklarınızdan haberdardır.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 5,
+      "ayah": 60,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:60",
+      "word_position": 4,
+      "target_word_uthmani": "بِشَرٍّ",
+      "target_word_rasm": "بشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً",
+      "context_snippet_turkish_tabula_rasa": "De ki: Bundan daha fena olanları, Allah'ın cezasına uğramış bulunanları haber vereyim mi size? Allah'ın lanet ettiği, gazabına uğrattığı, içlerinden bir...",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ أُو۟لَٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Bundan daha fena olanları, Allah'ın cezasına uğramış bulunanları haber vereyim mi size? Allah'ın lanet ettiği, gazabına uğrattığı, içlerinden bir kısmını maymun ve domuz şekline soktuğu kişiler ve saptırıcı yıkıcı güç'a tapanlar. İşte bunlardır yeri daha kötü olanlar, doğru yoldan daha fazla sapmış bulunanlar.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 5,
+      "ayah": 60,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:60",
+      "word_position": 22,
+      "target_word_uthmani": "شَرٌّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "وَعَبَدَ ٱلطَّٰغُوتَ أُو۟لَٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن",
+      "context_snippet_turkish_tabula_rasa": "De ki: Bundan daha fena olanları, Allah'ın cezasına uğramış bulunanları haber vereyim mi size? Allah'ın lanet ettiği, gazabına uğrattığı, içlerinden bir...",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ أُو۟لَٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Bundan daha fena olanları, Allah'ın cezasına uğramış bulunanları haber vereyim mi size? Allah'ın lanet ettiği, gazabına uğrattığı, içlerinden bir kısmını maymun ve domuz şekline soktuğu kişiler ve saptırıcı yıkıcı güç'a tapanlar. İşte bunlardır yeri daha kötü olanlar, doğru yoldan daha fazla sapmış bulunanlar.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 8,
+      "ayah": 22,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:22",
+      "word_position": 2,
+      "target_word_uthmani": "شَرَّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz ki yerde yürüyen canlıların Allah katında en kötüsü, aklı, idraki olmayan sağır ve dilsiz mahluklardır.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلْبُكْمُ ٱلَّذِينَ لَا يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz ki yerde yürüyen canlıların Allah katında en kötüsü, aklı, idraki olmayan sağır ve dilsiz mahluklardır.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 8,
+      "ayah": 55,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:55",
+      "word_position": 2,
+      "target_word_uthmani": "شَرَّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah katında yeryüzünde yürüyen mahlukların en kötüsü gerçeğin üzerini örten olanlardır ve onlar güven duyup teslim olmazlar zaten.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُوا۟ فَهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah katında yeryüzünde yürüyen mahlukların en kötüsü gerçeğin üzerini örten olanlardır ve onlar güven duyup teslim olmazlar zaten.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 10,
+      "ayah": 11,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:11",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلشَّرَّ",
+      "target_word_rasm": "ٱلشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, insanların, hayrın çarçabuk oluvermesini istedikleri gibi şerri çarçabuk veriverseydi ecellerinin gelip çatmasına çoktan hükmedilmiş olurdu. Fakat biz, bize kavuşmayı ummayanları, azgınlıklarında sersem bir halde bırakırız.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَٰنِهِمْ يَعْمَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, insanların, hayrın çarçabuk oluvermesini istedikleri gibi şerri çarçabuk veriverseydi ecellerinin gelip çatmasına çoktan hükmedilmiş olurdu. Fakat biz, bize kavuşmayı ummayanları, azgınlıklarında sersem bir halde bırakırız.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 12,
+      "ayah": 77,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:77",
+      "word_position": 19,
+      "target_word_uthmani": "شَرٌّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "لَهُمْ قَالَ أَنتُمْ شَرٌّ مَّكَانًا وَٱللَّهُ أَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "Bu dediler, hırsızlık ettiyse daha önce bir kardeşi de hırsızlık etmişti. Yusuf, bunu gizledi onlardan ve kendi kendine dedi ki: Sizin durumunuz daha kötü,...",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ شَرٌّ مَّكَانًا وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu dediler, hırsızlık ettiyse daha önce bir kardeşi de hırsızlık etmişti. Yusuf, bunu gizledi onlardan ve kendi kendine dedi ki: Sizin durumunuz daha kötü, anlattığınız şeyi Allah daha iyi bilir.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 17,
+      "ayah": 11,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:11",
+      "word_position": 3,
+      "target_word_uthmani": "بِٱلشَّرِّ",
+      "target_word_rasm": "بٱلشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "وَيَدْعُ ٱلْإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلْخَيْرِ وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "İnsan, hayra dua ediyormuşçasına şerre de dua eder ve insan, pek acelecidir.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَيَدْعُ ٱلْإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلْخَيْرِ وَكَانَ ٱلْإِنسَٰنُ عَجُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan, hayra dua ediyormuşçasına şerre de dua eder ve insan, pek acelecidir.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 17,
+      "ayah": 83,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:83",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلشَّرُّ",
+      "target_word_rasm": "ٱلشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًا",
+      "context_snippet_turkish_tabula_rasa": "İnsana nimet verdik mi yüz çevirir, uzaklaşır, fakat bir şerre uğradı mı ümidini tamamıyla keser, yeise düşer.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًا",
+      "ayah_text_turkish_tabula_rasa_full": "İnsana nimet verdik mi yüz çevirir, uzaklaşır, fakat bir şerre uğradı mı ümidini tamamıyla keser, yeise düşer.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 19,
+      "ayah": 75,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:75",
+      "word_position": 22,
+      "target_word_uthmani": "شَرٌّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَّكَانًا وَأَضْعَفُ جُندًا",
+      "context_snippet_turkish_tabula_rasa": "De ki: Kim sapıklıktaysa rahman, onun sapıklığını uzattıkça uzatır da sonunda azap olsun, kıyamet olsun, kendilerine vaat olunan şeyi görür bu çeşit adamlar ve...",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن كَانَ فِى ٱلضَّلَٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَٰنُ مَدًّا حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَّكَانًا وَأَضْعَفُ جُندًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Kim sapıklıktaysa rahman, onun sapıklığını uzattıkça uzatır da sonunda azap olsun, kıyamet olsun, kendilerine vaat olunan şeyi görür bu çeşit adamlar ve görünce de bilirler kimin yurdu daha hayırlıymış ve kimin kuvveti daha zayıf.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 21,
+      "ayah": 35,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:35",
+      "word_position": 6,
+      "target_word_uthmani": "بِٱلشَّرِّ",
+      "target_word_rasm": "بٱلشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "ذَآئِقَةُ ٱلْمَوْتِ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً وَإِلَيْنَا",
+      "context_snippet_turkish_tabula_rasa": "Herkes, ölümü tadacak ve sizi, bir sınama olarak hayırla, şerle de denemedeyiz ve dönüp tapımıza geleceksiniz.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      "ayah_text_arabic_full": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً وَإِلَيْنَا تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkes, ölümü tadacak ve sizi, bir sınama olarak hayırla, şerle de denemedeyiz ve dönüp tapımıza geleceksiniz.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 22,
+      "ayah": 72,
+      "surah_name": "Hac",
+      "ayah_ref": "22:72",
+      "word_position": 20,
+      "target_word_uthmani": "بِشَرٍّ",
+      "target_word_rasm": "بشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "ءَايَٰتِنَا قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ٱلنَّارُ",
+      "context_snippet_turkish_tabula_rasa": "... De ki: Bundan daha şer, daha da beter bir şey haber vereyim mi size: Ateş. ...",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَٰتِنَا قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara apaçık ayetlerimizi okudun mu yüzlerinde gerçeğin üzerini örtme alametleri belirir, görüp tanırsın sen de; neredeyse ayetlerimizi onlara okuyanlara saldırıverecekler. De ki: Bundan daha şer, daha da beter bir şey haber vereyim mi size: Ateş. Allah, gerçeğin üzerini örten olanlara vaadetmiştir onu ve orası, dönüp gidilecek ne de kötü yer.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 24,
+      "ayah": 11,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:11",
+      "word_position": 9,
+      "target_word_uthmani": "شَرًّا",
+      "target_word_rasm": "شرا",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "مِّنكُمْ لَا تَحْسَبُوهُ شَرًّا لَّكُم بَلْ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "O uydurma haberi size getiren sizden bir taifedir; onu şer sanmayın kendinize, hatta o, hayırdır size. Onlardan herbirinin kazandığı sapma ve ağır kusur, kendisine aittir, içlerinden, suçun en büyüğünü yüklenene gelince: ...",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ جَآءُو بِٱلْإِفْكِ عُصْبَةٌ مِّنكُمْ لَا تَحْسَبُوهُ شَرًّا لَّكُم بَلْ هُوَ خَيْرٌ لَّكُمْ لِكُلِّ ٱمْرِئٍ مِّنْهُم مَّا ٱكْتَسَبَ مِنَ ٱلْإِثْمِ وَٱلَّذِى تَوَلَّىٰ كِبْرَهُۥ مِنْهُمْ لَهُۥ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O uydurma haberi size getiren sizden bir taifedir; onu şer sanmayın kendinize, hatta o, hayırdır size. Onlardan herbirinin kazandığı sapma ve ağır kusur, kendisine aittir, içlerinden, suçun en büyüğünü yüklenene gelince: Onundur en büyük azap.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 25,
+      "ayah": 34,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:34",
+      "word_position": 8,
+      "target_word_uthmani": "شَرٌّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "إِلَىٰ جَهَنَّمَ أُو۟لَٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Yüzüstü sürünerek yakıcı yıkım yurdunda haşredilenlerin yerleri de en kötü yerdir, yolları da en sapık yol.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzüstü sürünerek yakıcı yıkım yurdunda haşredilenlerin yerleri de en kötü yerdir, yolları da en sapık yol.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 38,
+      "ayah": 55,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:55",
+      "word_position": 4,
+      "target_word_uthmani": "لَشَرَّ",
+      "target_word_rasm": "لشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "هَٰذَا وَإِنَّ لِلطَّٰغِينَ لَشَرَّ مَـَٔابٍ",
+      "context_snippet_turkish_tabula_rasa": "Şu da var: Ve şüphe yok ki azgınlara elbette dönülüp gidilecek en kötü bir yer mevcut.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|ACC"
+      },
+      "ayah_text_arabic_full": "هَٰذَا وَإِنَّ لِلطَّٰغِينَ لَشَرَّ مَـَٔابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şu da var: Ve şüphe yok ki azgınlara elbette dönülüp gidilecek en kötü bir yer mevcut.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 38,
+      "ayah": 62,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:62",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْأَشْرَارِ",
+      "target_word_rasm": "ٱلأشرار",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "كُنَّا نَعُدُّهُم مِّنَ ٱلْأَشْرَارِ",
+      "context_snippet_turkish_tabula_rasa": "Ve ne oldu bize ki diyecekler, kötü saydığımız erleri göremiyoruz?",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُم مِّنَ ٱلْأَشْرَارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ne oldu bize ki diyecekler, kötü saydığımız erleri göremiyoruz?",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 41,
+      "ayah": 49,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:49",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلشَّرُّ",
+      "target_word_rasm": "ٱلشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌ قَنُوطٌ",
+      "context_snippet_turkish_tabula_rasa": "İnsan, hayır istemekten hiç usanmaz ve bir şerre uğrarsa da iyideniyiye yeise düşer, ümitsizliğe kapılıp gider.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌ قَنُوطٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan, hayır istemekten hiç usanmaz ve bir şerre uğrarsa da iyideniyiye yeise düşer, ümitsizliğe kapılıp gider.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 41,
+      "ayah": 51,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:51",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلشَّرُّ",
+      "target_word_rasm": "ٱلشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve insana bir nimet verdik mi yüz çevirir ve şükürden uzaklaşır ve eğer bir şerre uğrarsa uzunuzadıya dua eder durur.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve insana bir nimet verdik mi yüz çevirir ve şükürden uzaklaşır ve eğer bir şerre uğrarsa uzunuzadıya dua eder durur.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 70,
+      "ayah": 20,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:20",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلشَّرُّ",
+      "target_word_rasm": "ٱلشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+      "context_snippet_turkish_tabula_rasa": "Bir şerre uğrarsa bağırır, sızlanır.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir şerre uğrarsa bağırır, sızlanır.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 72,
+      "ayah": 10,
+      "surah_name": "Cin",
+      "ayah_ref": "72:10",
+      "word_position": 4,
+      "target_word_uthmani": "أَشَرٌّ",
+      "target_word_rasm": "أشر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى",
+      "context_snippet_turkish_tabula_rasa": "Ve gerçekten de bilmiyoruz, yeryüzündekilere bir kötülük gelmesi mi isteniyor, yoksa Rabbleri, onlara doğru yolu buldurmayı mı diledi?",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gerçekten de bilmiyoruz, yeryüzündekilere bir kötülük gelmesi mi isteniyor, yoksa Rabbleri, onlara doğru yolu buldurmayı mı diledi?",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 76,
+      "ayah": 7,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:7",
+      "word_position": 6,
+      "target_word_uthmani": "شَرُّهُۥ",
+      "target_word_rasm": "شره",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Adaklarını yerine getirir onlar ve şerri, her yanı saran, kaplayan günden korkarlar.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Adaklarını yerine getirir onlar ve şerri, her yanı saran, kaplayan günden korkarlar.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 76,
+      "ayah": 11,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:11",
+      "word_position": 3,
+      "target_word_uthmani": "شَرَّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Derken Allah da korumuştur onları, bugünün şerrinden ve yüzlerine bir parlaklık, gönüllerine bir sevinçtir, vermiştir.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|ACC"
+      },
+      "ayah_text_arabic_full": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةً وَسُرُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Derken Allah da korumuştur onları, bugünün şerrinden ve yüzlerine bir parlaklık, gönüllerine bir sevinçtir, vermiştir.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 77,
+      "ayah": 32,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:32",
+      "word_position": 3,
+      "target_word_uthmani": "بِشَرَرٍ",
+      "target_word_rasm": "بشرر",
+      "target_word_literal_irab": "Ateşten etrafa sıçrayıp saçılan dev kıvılcımlar — kökün somut fiziksel çıpası (تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ — çoğul isim: 77:32)",
+      "context_snippet_arabic": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "context_snippet_turkish_tabula_rasa": "O, köşk gibi kıvılcımlar fırlatır.",
+      "morphology": {
+        "lemma": "$arar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$arar|ROOT:$rr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "ayah_text_turkish_tabula_rasa_full": "O, köşk gibi kıvılcımlar fırlatır.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 98,
+      "ayah": 6,
+      "surah_name": "Beyyine",
+      "ayah_ref": "98:6",
+      "word_position": 15,
+      "target_word_uthmani": "شَرُّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "فِيهَآ أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinden gerçeğin üzerini örten olanlar ve otoriteyi bölüşme ve ortak koşma koşanlar, şüphe yok ki yakıcı yıkım yurdu ateşindedir, ebedidir onlar orada,...",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden gerçeğin üzerini örten olanlar ve otoriteyi bölüşme ve ortak koşma koşanlar, şüphe yok ki yakıcı yıkım yurdu ateşindedir, ebedidir onlar orada, onlardır yaratılmışların en kötüleri.",
+      "contextual_meaning": "İsm-i tafdîl olarak en kötü/en zararlı konum (شَرُّ ٱلدَّوَآبِّ / شَرٌّ مَّكَانًا / شَرُّ ٱلْبَرِيَّةِ): aklını kullanmayan ve ahdi bozanların düştüğü yıkım."
+    },
+    {
+      "surah": 99,
+      "ayah": 8,
+      "surah_name": "Zilzâl",
+      "ayah_ref": "99:8",
+      "word_position": 5,
+      "target_word_uthmani": "شَرًّا",
+      "target_word_rasm": "شرا",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ve kim, bir zerre ağırlığı şer yapmışsa görür onu.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim, bir zerre ağırlığı şer yapmışsa görür onu.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 113,
+      "ayah": 2,
+      "surah_name": "Felak",
+      "ayah_ref": "113:2",
+      "word_position": 2,
+      "target_word_uthmani": "شَرِّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "مِن شَرِّ مَا خَلَقَ",
+      "context_snippet_turkish_tabula_rasa": "Yarattığı mahlukların şerrinden.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      "ayah_text_arabic_full": "مِن شَرِّ مَا خَلَقَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yarattığı mahlukların şerrinden.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 113,
+      "ayah": 3,
+      "surah_name": "Felak",
+      "ayah_ref": "113:3",
+      "word_position": 2,
+      "target_word_uthmani": "شَرِّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "context_snippet_turkish_tabula_rasa": "Çöküp etrafı kapladığı zaman karanlığın şerrinden.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çöküp etrafı kapladığı zaman karanlığın şerrinden.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 113,
+      "ayah": 4,
+      "surah_name": "Felak",
+      "ayah_ref": "113:4",
+      "word_position": 2,
+      "target_word_uthmani": "شَرِّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "context_snippet_turkish_tabula_rasa": "Ve düğümlere üfleyen kadınların şerrinden.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve düğümlere üfleyen kadınların şerrinden.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 113,
+      "ayah": 5,
+      "surah_name": "Felak",
+      "ayah_ref": "113:5",
+      "word_position": 2,
+      "target_word_uthmani": "شَرِّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "context_snippet_turkish_tabula_rasa": "Ve hasetçinin haset ettiği zaman, şerrinden.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve hasetçinin haset ettiği zaman, şerrinden.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    },
+    {
+      "surah": 114,
+      "ayah": 4,
+      "surah_name": "Nâs",
+      "ayah_ref": "114:4",
+      "word_position": 2,
+      "target_word_uthmani": "شَرِّ",
+      "target_word_rasm": "شر",
+      "target_word_literal_irab": "Yapıcı fayda ve iyiliğin (خَيْر) zıttı olarak kıvılcım gibi yayılıp hasar veren yıkıcı zarar, kötülük ve en kötü konum (شَرٌّ / ٱلشَّرُّ / شَرًّا / أَشَرٌّ / ٱلْأَشْرَارِ — isim ve ism-i tafdîl: 30 geçiş)",
+      "context_snippet_arabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "Gizlice, sinsisinsi vesveseler verenin şerrinden.",
+      "morphology": {
+        "lemma": "$ar~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ar~|ROOT:$rr|MS|GEN"
+      },
+      "ayah_text_arabic_full": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "ayah_text_turkish_tabula_rasa_full": "Gizlice, sinsisinsi vesveseler verenin şerrinden.",
+      "contextual_meaning": "Somut kıvılcım çıpası (77:32 شَرَر) ve Hayr ↔ Şerr (خَيْر ↔ شَرّ) Mesânî ekseni: etrafa yayılan yıkıcı zarar, zerre ağırlığınca kötülüğün karşılığı ve Felak-Nâs korunma kalkanı."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+# ETAP 3D: FÂTİHA & KISA SURE TAM KİLİDİ, AÇIK MESÂNÎ ZIRHI VE YÜKSEK FREKANSLI ÇEKİRDEK KAVRAMLAR (50 KÖK -> 450 KÖK)
+## Tabula Rasa Mesânî Çözümleme Sistemi (v3.0 — Faz 2 Öncesi 450 Kök Tam Zırhı)
+
+> [!IMPORTANT]
+> **HEDEF KAPSAM:** İlk 400 mühürlü kökten (`%84,51`) sonra, meal aşamasına geçmeden önce Fâtiha suresinin tamamını, kısa surelerin (93-114) kalan çekirdek düğümlerini, 3+ açık Mesânî referanslarını ve en yüksek frekanslı mühürsüz kavramları kapatan **50 kritik kök** (1205 geçiş) mühürlenerek toplam sözlük **450 kilitli köke (`%86,92` kümülatif kapsam)** ulaştırılır.
+> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 5 / 50 Kök (Toplam Mühürlü: 405 Kök | Güncel Kapsam: %84,68)
+
+| Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
+| 1 | Fâtiha ve Kısa Sure Kilidi | 541 | `ع-و-ن` | `A-W-N` | **11** | 10 | 1:5 | İstiâne, Avn ve Teâvün (Olgun Güç Kıvamı, Yalnızca Allah'tan Yardım İstemek ve İyilikte Yardımlaşmak) | ✅ **MÜHÜRLÜ** |
+| 2 | Fâtiha ve Kısa Sure Kilidi | 357 | `غ-ض-ب` | `G-D-B` | **24** | 21 | 1:7 | Gadab ve Mağdûb (Kaya Gibi Sertleşen Öfke, Öfkeyi Bağışlamayla Dizginlemek ve Zulme Çöken Ağır Yaptırım) | ✅ **MÜHÜRLÜ** |
+| 3 | Fâtiha ve Kısa Sure Kilidi | 435 | `ع-و-ذ` | `A-W-Z` | **17** | 17 | 2:67 | İstiâze ve Maâz (Yıkıcı Tehlike, Ahlaki Ayartma ve Saptırıcı Dürtüye Karşı Sağlam Kaleye Sığınmak) | ✅ **MÜHÜRLÜ** |
+| 4 | Fâtiha ve Kısa Sure Kilidi | 297 | `ش-ر-ر` | `S-R-R` | **31** | 30 | 2:216 | Şerr ve Şerer (Yapıcı İyiliğin [Hayr] Zıttı: Kıvılcım Gibi Yayılıp Tahribat Saçan Zarar ve Kötülük) | ✅ **MÜHÜRLÜ** |
+| 5 | Fâtiha ve Kısa Sure Kilidi | 754 | `ح-س-د` | `H-S-D` | **5** | 4 | 2:109 | Hased ve Hâsid (Kabuğu Soyup Kurutmak Gibi Başkasındaki İlahi Lütfu Kemiren Yıkıcı Kıskançlık) | ✅ **MÜHÜRLÜ** |
+| 6 | Fâtiha ve Kısa Sure Kilidi | 677 | `ع-ل-ق` | `A-L-K` | **7** | 6 | 4:129 | Alak, Alaka ve Muallaka (96:2 Alak suresi tutunan/asılı embriyo ve 4:129 askıda bırakılan eş) | ⏳ *Bekliyor* |
+| 7 | Fâtiha ve Kısa Sure Kilidi | 848 | `ق-ل-م` | `K-L-M` | **4** | 4 | 3:44 | Kalem ve Aklâm (96:4 Alak suresi, 68:1 Kalem suresi ve 31:27 yontulmuş kayıt/yazı kalemi) | ⏳ *Bekliyor* |
+| 8 | Fâtiha ve Kısa Sure Kilidi | 521 | `ع-س-ر` | `A-S-R` | **12** | 12 | 2:185 | Usr ve Usre (94:5-6 İnşirâh suresi, 2:185, 65:7 sıkışık zorluk — ي-س-ر [Yüsr] kökünün doğrudan Mesânî zıttı!) | ⏳ *Bekliyor* |
+| 9 | Fâtiha ve Kısa Sure Kilidi | 797 | `ش-ر-ح` | `S-R-H` | **5** | 5 | 6:125 | Şerh-i Sadr (94:1 İnşirâh, 6:125, 20:25, 39:22 göğsü açıp ferahlatmak — ض-ي-ق ve ح-ر-ج Mesânî zıttı!) | ⏳ *Bekliyor* |
+| 10 | Fâtiha ve Kısa Sure Kilidi | 380 | `أ-ل-ف` | `E-L-F` | **22** | 19 | 2:96 | Îlâf, Te'lîf ve Elf (106:1-2 Kureyş suresi güvenlik-uzlaşı bağı, 3:103 kalpleri kaynaştırma ve bin sayısı) | ⏳ *Bekliyor* |
+| 11 | Kısa Sure ve Kozmik Denge | 342 | `و-ض-ع` | `W-D-A` | **26** | 24 | 3:36 | Vad' ve Mevzı' (94:2 İnşirâh yükü indirme, 55:7 mîzânı koyma, 3:96 ilk kurulan ev ve 4:46 sözü bağlamından kaydırma) | ⏳ *Bekliyor* |
+| 12 | Kısa Sure ve Kozmik Denge | 309 | `ر-ف-ع` | `R-F-A` | **29** | 29 | 2:63 | Ref' ve Merfû' (94:4 İnşirâh, 55:7 göğü yükseltme, 2:127 temelleri yükseltme — و-ض-ع ve خ-ف-ض zıttı, 2 açık Mesânî ref!) | ⏳ *Bekliyor* |
+| 13 | Kısa Sure ve Kozmik Denge | 582 | `س-ف-ل` | `S-F-L` | **10** | 9 | 4:145 | Esfel-i Sâfilîn ve Süflâ (95:5 Tîn suresi kilidi, 4:145, 9:40 en alt tabaka — ع-ل-و zıttı, 2 açık Mesânî ref!) | ⏳ *Bekliyor* |
+| 14 | Kısa Sure ve Kozmik Denge | 326 | `ث-ق-ل` | `S-K-L` | **28** | 26 | 4:40 | Miskâl, Sakîl ve Sekalân (99:7-8 Zilzâl, 101:6 Kâria ağır tartılar, 73:5 ağır söz — خ-ف-ف zıttı, 2 açık Mesânî ref!) | ⏳ *Bekliyor* |
+| 15 | Kısa Sure ve Kozmik Denge | 252 | `ذ-ر-ر` | `Z-R-R` | **38** | 36 | 2:124 | Zerre ve Zürriyet (99:7-8 Zilzâl zerre ağırlığı, 4:40 ve 7:172 saçılıp yayılan soy/kuşaklar tek çekirdekte!) | ⏳ *Bekliyor* |
+| 16 | Kısa Sure ve Kozmik Denge | 481 | `ع-ط-و` | `A-T-W` | **14** | 12 | 9:29 | İ'tâ ve Atâ' (108:1 Kevser, 92:5 Leyl, 93:5 Duhâ el uzatıp bolca vermek — م-ن-ع ve ب-خ-ل Mesânî zıttı!) | ⏳ *Bekliyor* |
+| 17 | Kısa Sure ve Kozmik Denge | 379 | `خ-ط-أ` | `H-T-E` | **22** | 20 | 2:58 | Hata ve Hatîe (96:16 Alak suçlu perçem, 2:286, 4:92 hedefi şaşıran kasıtsız hata vs yerleşik suç kuşatması) | ⏳ *Bekliyor* |
+| 18 | Kısa Sure ve Kozmik Denge | 316 | `د-ر-ي` | `D-R-Y` | **29** | 28 | 4:11 | Dirâyet ve Edra (97:2 Kadr, 101:3 Kâria, 104:5 Hümeze, 90:12 Beled "sana bildiren nedir?" kavrayış anahtarı) | ⏳ *Bekliyor* |
+| 19 | Kısa Sure ve Kozmik Denge | 586 | `ق-ه-ر` | `K-H-R` | **10** | 10 | 6:18 | Kahr ve Kahhâr (93:9 Duhâ yetimi ezmeme buyruğu ve mutlak boyun eğdirici üstünlük sıfatı el-Kahhâr) | ⏳ *Bekliyor* |
+| 20 | Kısa Sure ve Kozmik Denge | 895 | `ت-ب-ب` | `T-B-B` | **4** | 3 | 11:101 | Tebb ve Tetbîb (111:1 Tebbet suresi kilidi, 11:101, 40:37 kesintisiz kayıp, hüsran ve çöküş) | ⏳ *Bekliyor* |
+| 21 | Açık Mesânî Kilidi | 206 | `ط-ع-م` | `T-A-M` | **48** | 41 | 2:61 | Taâm ve İt'âm (5 açık Mesânî ref! 107:3 Mâûn, 90:14 Beled, 106:4 Kureyş, 76:8-9 yoksulu doyurmak ve tatmak) | ⏳ *Bekliyor* |
+| 22 | Açık Mesânî Kilidi | 566 | `ف-ر-ر` | `F-R-R` | **11** | 10 | 18:18 | Firâr ve Meferr (5 açık Mesânî ref! 51:50 Allah'a kaçış vs 80:34, 75:10, 62:8 sorumluluktan ve ölümden kaçış) | ⏳ *Bekliyor* |
+| 23 | Açık Mesânî Kilidi | 225 | `ف-و-ق` | `F-W-K` | **43** | 41 | 2:26 | Fevk, Fevâk ve İfâka (4 açık Mesânî ref! ت-ح-ت ve س-ف-ل zıttı üstte olmak, 7:143 ayılıp kendine gelmek) | ⏳ *Bekliyor* |
+| 24 | Açık Mesânî Kilidi | 367 | `أ-ذ-ي` | `E-Z-Y` | **24** | 22 | 2:196 | Ezâ ve İyzâ' (4 açık Mesânî ref! 2:222 geçici rahatsızlık, 2:262-264 başa kakıp incitme, 33:58 haksız eziyet) | ⏳ *Bekliyor* |
+| 25 | Açık Mesânî Kilidi | 230 | `ح-ز-ن` | `H-Z-N` | **42** | 42 | 2:38 | Hüzün ve Hazen (3 açık Mesânî ref! 2:38 korku ve üzüntü yokluğu — ف-ر-ح zıttı ve خ-و-ف aynı ayet Furûku) | ⏳ *Bekliyor* |
+| 26 | Açık Mesânî Kilidi | 291 | `ب-د-و` | `B-D-W` | **31** | 29 | 2:33 | Büduvv, İbdâ' ve Bâdî (3 açık Mesânî ref! خ-ف-ي ve ك-ت-م zıttı: gizlenen şeyin çöl açıklığı gibi ortaya çıkması) | ⏳ *Bekliyor* |
+| 27 | Açık Mesânî Kilidi | 404 | `ن-ز-ع` | `N-Z-A` | **20** | 20 | 3:26 | Nez' ve Tenâzü' (3 açık Mesânî ref! 79:1-2 yerinden söküp çıkarmak, 3:26 gücü çekip almak ve 8:46 çekişip ihtilafa düşmek) | ⏳ *Bekliyor* |
+| 28 | Açık Mesânî Kilidi | 469 | `ب-د-أ` | `B-D-E` | **15** | 14 | 7:29 | Bed' ve İbdâ' (3 açık Mesânî ref! ع-و-د [İâde] kökünün doğrudan Mesânî eşleniği: yaratılışı ilk kez başlatmak) | ⏳ *Bekliyor* |
+| 29 | Açık Mesânî Kilidi | 510 | `و-ص-ل` | `W-S-L` | **12** | 10 | 2:27 | Vasl ve Vasîle (3 açık Mesânî ref! ق-ط-ع kökünün doğrudan Mesânî zıttı: 2:27, 13:21,25 bağları birleştirip ulaştırmak) | ⏳ *Bekliyor* |
+| 30 | Açık Mesânî Kilidi | 794 | `ف-ر-د` | `F-R-D` | **5** | 5 | 6:94 | Ferd ve Furâdâ (3 açık Mesânî ref! 6:94, 19:80,95, 21:89 topluluk/şefaat zıttı: tek başına bireysel hesap) | ⏳ *Bekliyor* |
+| 31 | Ahit, Sabitlik ve Özgürlük | 209 | `ق-د-م` | `K-D-M` | **48** | 48 | 2:95 | Takdîm, Kadem ve İstikdâm (2 açık Mesânî ref! أ-خ-ر zıttı: 82:5, 75:13 önden göndermek ve sağlam duruş adımı) | ⏳ *Bekliyor* |
+| 32 | Ahit, Sabitlik ve Özgürlük | 226 | `ج-و-ب` | `C-W-B` | **43** | 41 | 2:186 | İsticâbe ve Cevâb (2 açık Mesânî ref! 89:9 kayayı delip oymak somut çıpası + 2:186, 8:24 çağrıya karşılık vermek) | ⏳ *Bekliyor* |
+| 33 | Ahit, Sabitlik ve Özgürlük | 253 | `س-ب-ق` | `S-B-K` | **37** | 35 | 2:148 | Sebk, Sâbikûn ve İstibâk (2 açık Mesânî ref! 56:10, 35:32, 23:61 hayırda ve sorumlulukta öne geçip yarışmak) | ⏳ *Bekliyor* |
+| 34 | Ahit, Sabitlik ve Özgürlük | 310 | `و-د-د` | `W-D-D` | **29** | 28 | 2:96 | Meveddet ve Vedûd (2 açık Mesânî ref! ع-د-و ve ب-غ-ض zıttı: 30:21, 60:7, 85:14 kazık gibi köklü sevgi ve dostluk bağı) | ⏳ *Bekliyor* |
+| 35 | Ahit, Sabitlik ve Özgürlük | 393 | `ب-ق-ي` | `B-K-Y` | **21** | 21 | 2:248 | Bakâ, Bâkî ve Bâkıyât (2 açık Mesânî ref! ف-ن-ي ve ن-ف-د zıttı: 16:96, 18:46, 55:27 yok olmayıp geride kalıcı olan) | ⏳ *Bekliyor* |
+| 36 | Ahit, Sabitlik ve Özgürlük | 426 | `ث-ب-ت` | `S-B-T` | **18** | 17 | 2:250 | Sebât ve Tesbît (2 açık Mesânî ref! ز-ل-ل ve ز-ي-غ zıttı: 14:27, 2:250, 47:7 sarsılmaz biçimde yerinde sabitlenmek) | ⏳ *Bekliyor* |
+| 37 | Ahit, Sabitlik ve Özgürlük | 454 | `غ-ل-ل` | `G-L-L` | **16** | 13 | 3:161 | Gıll, Gulûl ve Ağlâl (2 açık Mesânî ref! 7:157 boyundaki pranga/boyunduruk, 59:10 kalpteki gizli kin ve 3:161 kamu malı ihaneti) | ⏳ *Bekliyor* |
+| 38 | Ahit, Sabitlik ve Özgürlük | 462 | `ح-ر-ر` | `H-R-R` | **15** | 11 | 2:178 | Hürr, Tahrîr ve Harr (2 açık Mesânî ref! 90:13, 4:92, 5:89 boyunduruktan özgürleştirme/köle azadı, 3:35 adanmış özgür kul) | ⏳ *Bekliyor* |
+| 39 | Ahit, Sabitlik ve Özgürlük | 683 | `ن-ك-ث` | `N-K-S` | **7** | 6 | 7:135 | Neks ve Enkâs (2 açık Mesânî ref! 16:92 bükülmüş ipi çözüp dağıtmak somut çıpası + 48:10, 9:12 verilen ahdi bozmak) | ⏳ *Bekliyor* |
+| 40 | Ahit, Sabitlik ve Özgürlük | 735 | `ق-ن-ط` | `K-N-T` | **6** | 6 | 15:55 | Kunût ve Kânit (2 açık Mesânî ref! ر-ج-و ve ط-م-ع zıttı: 39:53, 15:56, 30:36 rahmetten tamamen umut kesip kurumak) | ⏳ *Bekliyor* |
+| 41 | Yüksek Frekanslı Çekirdek | 220 | `س-ر-ر` | `S-R-R` | **44** | 43 | 2:69 | Sırr, İsrâr, Mesrûr ve Sürür (1 açık Mesânî ref! ع-ل-ن ve ج-ه-ر zıttı gizlemek/sır + içten parlayan sevinç ve tahtlar) | ⏳ *Bekliyor* |
+| 42 | Yüksek Frekanslı Çekirdek | 232 | `ق-و-ي` | `K-W-Y` | **42** | 39 | 2:63 | Kuvvet, Kaviyy ve Mukvîn (1 açık Mesânî ref! ض-ع-ف [Za'f] kökünün doğrudan Mesânî zıttı: bükülmüş halat sağlamlığı ve güç) | ⏳ *Bekliyor* |
+| 43 | Yüksek Frekanslı Çekirdek | 234 | `ص-د-د` | `S-D-D` | **42** | 41 | 2:217 | Sadd ve Sudûd (1 açık Mesânî ref! 4:61, 22:25 hak yoldan ve ortak mabedden geri çevirip engellemek ve yüz çevirmek) | ⏳ *Bekliyor* |
+| 44 | Yüksek Frekanslı Çekirdek | 247 | `ق-ر-ر` | `K-R-R` | **38** | 37 | 2:36 | Karâr, Müstekarr ve İkrâr (1 açık Mesânî ref! 6:98 yerleşip durulma yeri, 25:74 göz aydınlığı ve 2:84 ahdi onaylamak) | ⏳ *Bekliyor* |
+| 45 | Yüksek Frekanslı Çekirdek | 249 | `ف-ت-ح` | `F-T-H` | **38** | 33 | 2:76 | Feth, Fettâh ve Mefâtih (1 açık Mesânî ref! 7:89, 26:118 kilitli düğümü hak ile açıp hüküm vermek ve 6:59 gaybın anahtarları) | ⏳ *Bekliyor* |
+| 46 | Yüksek Frekanslı Çekirdek | 251 | `م-ر-أ` | `M-R-E` | **38** | 37 | 2:102 | Mer', İmru' ve İmra'e (4:4 boğazdan rahat geçen afiyetli pay [هَنِيٓـًٔا مَّرِيٓـًٔا] + birey/kişi sorumluluğu ve eş/kadın) | ⏳ *Bekliyor* |
+| 47 | Yüksek Frekanslı Çekirdek | 279 | `ج-ن-ب` | `C-N-B` | **33** | 31 | 3:191 | Cenb, İctinâb ve Cünüb (1 açık Mesânî ref! yan/kenar, 4:36 komşu, 16:36/22:30 pislik ve tâğûttan uzak durmak ve 4:43/5:6 cünüplük) | ⏳ *Bekliyor* |
+| 48 | Yüksek Frekanslı Çekirdek | 285 | `و-س-ع` | `W-S-A` | **32** | 29 | 2:115 | Vüs'at ve Vâsi' (2:286, 65:7 kimseye kapasitesinin/gücünün [وُسْعَهَا] üstünde yük yüklenmemesi yasası ve kuşatıcı genişlik) | ⏳ *Bekliyor* |
+| 49 | Yüksek Frekanslı Çekirdek | 301 | `س-ع-ي` | `S-A-Y` | **30** | 28 | 2:114 | Sa'y (53:39 "insan için yalnızca kendi çabası vardır" yasası, 2:205, 62:9 bilinçli ve kararlı emek yürüyüşü) | ⏳ *Bekliyor* |
+| 50 | Yüksek Frekanslı Çekirdek | 315 | `ف-و-ز` | `F-W-Z` | **29** | 27 | 3:185 | Fevz ve Fâizûn (خ-س-ر [Hüsrân] kökünün doğrudan Mesânî eşleniği: yıkımdan kurtulup büyük başarıya ve esenliğe ulaşmak) | ⏳ *Bekliyor* |

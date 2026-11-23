@@ -1,0 +1,977 @@
+{
+  "package": "Faz 1 - Etap 3D (Fâtiha & Kısa Sure Tam Kilidi, Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar — 50 Kök)",
+  "target_count": 50,
+  "locked_count": 5,
+  "total_tokens_in_package": 1205,
+  "total_corpus_tokens": 49968,
+  "current_coverage_pct": 84.68,
+  "target_coverage_pct": 86.92,
+  "etap_3d_roots": [
+    {
+      "etap_3d_rank": 1,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 541,
+      "root_arabic": "ع-و-ن",
+      "root_latin": "A-W-N",
+      "buckwalter": "Ewn",
+      "frequency": 11,
+      "unique_ayahs": 10,
+      "rationale": "İstiâne ve Teâvün (1:5 Fâtiha \"yalnızca senden yardım isteriz\" kilidi ve 5:2 iyilik-takvâ üzere yardımlaşma)",
+      "concept_label": "İstiâne, Avn ve Teâvün (Olgun Güç Kıvamı, Yalnızca Allah'tan Yardım İstemek ve İyilikte Yardımlaşmak)",
+      "is_locked": true,
+      "sample_ayah": "1:5",
+      "top_lemmas": [
+        "{sotaEiynu",
+        "taEaAwanu",
+        "musotaEaAn",
+        ">aEaAna"
+      ]
+    },
+    {
+      "etap_3d_rank": 2,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 357,
+      "root_arabic": "غ-ض-ب",
+      "root_latin": "G-D-B",
+      "buckwalter": "gDb",
+      "frequency": 24,
+      "unique_ayahs": 21,
+      "rationale": "Gadab ve Mağdûb (1:7 Fâtiha \"üzerlerine gazap/öfke çökmüş olanlar\" kilidi ve 3:134/42:37 öfkeyi dizginleme)",
+      "concept_label": "Gadab ve Mağdûb (Kaya Gibi Sertleşen Öfke, Öfkeyi Bağışlamayla Dizginlemek ve Zulme Çöken Ağır Yaptırım)",
+      "is_locked": true,
+      "sample_ayah": "1:7",
+      "top_lemmas": [
+        "gaDab",
+        "gaDiba",
+        "gaDoba`n",
+        "magoDuwb"
+      ]
+    },
+    {
+      "etap_3d_rank": 3,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 435,
+      "root_arabic": "ع-و-ذ",
+      "root_latin": "A-W-Z",
+      "buckwalter": "Ew*",
+      "frequency": 17,
+      "unique_ayahs": 17,
+      "rationale": "İstiâze ve Maâz (113:1 Felak, 114:1 Nâs ve 16:98 sığınma/korunma kalesi)",
+      "concept_label": "İstiâze ve Maâz (Yıkıcı Tehlike, Ahlaki Ayartma ve Saptırıcı Dürtüye Karşı Sağlam Kaleye Sığınmak)",
+      "is_locked": true,
+      "sample_ayah": "2:67",
+      "top_lemmas": [
+        "Eu*o",
+        "{sotaEi*o",
+        "maEaA*",
+        ">uEiy*u"
+      ]
+    },
+    {
+      "etap_3d_rank": 4,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 297,
+      "root_arabic": "ش-ر-ر",
+      "root_latin": "S-R-R",
+      "buckwalter": "$rr",
+      "frequency": 31,
+      "unique_ayahs": 30,
+      "rationale": "Şerr ve Şerer (113:2-5, 114:4, 99:8, 77:32 kıvılcım saçmak -> zarar saçan kötülük; خ-ي-ر kökünün 2 açık Mesânî ref!)",
+      "concept_label": "Şerr ve Şerer (Yapıcı İyiliğin [Hayr] Zıttı: Kıvılcım Gibi Yayılıp Tahribat Saçan Zarar ve Kötülük)",
+      "is_locked": true,
+      "sample_ayah": "2:216",
+      "top_lemmas": [
+        "$ar~",
+        "$arar"
+      ]
+    },
+    {
+      "etap_3d_rank": 5,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 754,
+      "root_arabic": "ح-س-د",
+      "root_latin": "H-S-D",
+      "buckwalter": "Hsd",
+      "frequency": 5,
+      "unique_ayahs": 4,
+      "rationale": "Hased ve Hâsid (113:5 Felak suresi kilidi ve 4:54 başkasındaki nimeti kemiren yıkıcı kıskançlık)",
+      "concept_label": "Hased ve Hâsid (Kabuğu Soyup Kurutmak Gibi Başkasındaki İlahi Lütfu Kemiren Yıkıcı Kıskançlık)",
+      "is_locked": true,
+      "sample_ayah": "2:109",
+      "top_lemmas": [
+        "Hasada",
+        "Hasad",
+        "HaAsid"
+      ]
+    },
+    {
+      "etap_3d_rank": 6,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 677,
+      "root_arabic": "ع-ل-ق",
+      "root_latin": "A-L-K",
+      "buckwalter": "Elq",
+      "frequency": 7,
+      "unique_ayahs": 6,
+      "rationale": "Alak, Alaka ve Muallaka (96:2 Alak suresi tutunan/asılı embriyo ve 4:129 askıda bırakılan eş)",
+      "concept_label": "Analiz Bekliyor (Ealaqap, muEal~aqap, Ealaq)",
+      "is_locked": false,
+      "sample_ayah": "4:129",
+      "top_lemmas": [
+        "Ealaqap",
+        "muEal~aqap",
+        "Ealaq"
+      ]
+    },
+    {
+      "etap_3d_rank": 7,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 848,
+      "root_arabic": "ق-ل-م",
+      "root_latin": "K-L-M",
+      "buckwalter": "qlm",
+      "frequency": 4,
+      "unique_ayahs": 4,
+      "rationale": "Kalem ve Aklâm (96:4 Alak suresi, 68:1 Kalem suresi ve 31:27 yontulmuş kayıt/yazı kalemi)",
+      "concept_label": "Analiz Bekliyor (qalam)",
+      "is_locked": false,
+      "sample_ayah": "3:44",
+      "top_lemmas": [
+        "qalam"
+      ]
+    },
+    {
+      "etap_3d_rank": 8,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 521,
+      "root_arabic": "ع-س-ر",
+      "root_latin": "A-S-R",
+      "buckwalter": "Esr",
+      "frequency": 12,
+      "unique_ayahs": 12,
+      "rationale": "Usr ve Usre (94:5-6 İnşirâh suresi, 2:185, 65:7 sıkışık zorluk — ي-س-ر [Yüsr] kökünün doğrudan Mesânî zıttı!)",
+      "concept_label": "Analiz Bekliyor (Eusor, Eusorap, Easiyr, Easir)",
+      "is_locked": false,
+      "sample_ayah": "2:185",
+      "top_lemmas": [
+        "Eusor",
+        "Eusorap",
+        "Easiyr",
+        "Easir"
+      ]
+    },
+    {
+      "etap_3d_rank": 9,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 797,
+      "root_arabic": "ش-ر-ح",
+      "root_latin": "S-R-H",
+      "buckwalter": "$rH",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Şerh-i Sadr (94:1 İnşirâh, 6:125, 20:25, 39:22 göğsü açıp ferahlatmak — ض-ي-ق ve ح-ر-ج Mesânî zıttı!)",
+      "concept_label": "Analiz Bekliyor ($araHa)",
+      "is_locked": false,
+      "sample_ayah": "6:125",
+      "top_lemmas": [
+        "$araHa"
+      ]
+    },
+    {
+      "etap_3d_rank": 10,
+      "category": "Fâtiha ve Kısa Sure Kilidi",
+      "global_rank": 380,
+      "root_arabic": "أ-ل-ف",
+      "root_latin": "E-L-F",
+      "buckwalter": "Alf",
+      "frequency": 22,
+      "unique_ayahs": 19,
+      "rationale": "Îlâf, Te'lîf ve Elf (106:1-2 Kureyş suresi güvenlik-uzlaşı bağı, 3:103 kalpleri kaynaştırma ve bin sayısı)",
+      "concept_label": "Analiz Bekliyor (>alof, >al~afa, <ila`f, mu&al~afap)",
+      "is_locked": false,
+      "sample_ayah": "2:96",
+      "top_lemmas": [
+        ">alof",
+        ">al~afa",
+        "<ila`f",
+        "mu&al~afap"
+      ]
+    },
+    {
+      "etap_3d_rank": 11,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 342,
+      "root_arabic": "و-ض-ع",
+      "root_latin": "W-D-A",
+      "buckwalter": "wDE",
+      "frequency": 26,
+      "unique_ayahs": 24,
+      "rationale": "Vad' ve Mevzı' (94:2 İnşirâh yükü indirme, 55:7 mîzânı koyma, 3:96 ilk kurulan ev ve 4:46 sözü bağlamından kaydırma)",
+      "concept_label": "Analiz Bekliyor (waDaEa, m~awaADiE, >awoDaEu, m~awoDuwEap)",
+      "is_locked": false,
+      "sample_ayah": "3:36",
+      "top_lemmas": [
+        "waDaEa",
+        "m~awaADiE",
+        ">awoDaEu",
+        "m~awoDuwEap"
+      ]
+    },
+    {
+      "etap_3d_rank": 12,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 309,
+      "root_arabic": "ر-ف-ع",
+      "root_latin": "R-F-A",
+      "buckwalter": "rfE",
+      "frequency": 29,
+      "unique_ayahs": 29,
+      "rationale": "Ref' ve Merfû' (94:4 İnşirâh, 55:7 göğü yükseltme, 2:127 temelleri yükseltme — و-ض-ع ve خ-ف-ض zıttı, 2 açık Mesânî ref!)",
+      "concept_label": "Analiz Bekliyor (rafaEa, m~arofuwEap, raAfiE, rafiyE)",
+      "is_locked": false,
+      "sample_ayah": "2:63",
+      "top_lemmas": [
+        "rafaEa",
+        "m~arofuwEap",
+        "raAfiE",
+        "rafiyE"
+      ]
+    },
+    {
+      "etap_3d_rank": 13,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 582,
+      "root_arabic": "س-ف-ل",
+      "root_latin": "S-F-L",
+      "buckwalter": "sfl",
+      "frequency": 10,
+      "unique_ayahs": 9,
+      "rationale": "Esfel-i Sâfilîn ve Süflâ (95:5 Tîn suresi kilidi, 4:145, 9:40 en alt tabaka — ع-ل-و zıttı, 2 açık Mesânî ref!)",
+      "concept_label": "Analiz Bekliyor (>asofal, saAfil, s~ufolaY`)",
+      "is_locked": false,
+      "sample_ayah": "4:145",
+      "top_lemmas": [
+        ">asofal",
+        "saAfil",
+        "s~ufolaY`"
+      ]
+    },
+    {
+      "etap_3d_rank": 14,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 326,
+      "root_arabic": "ث-ق-ل",
+      "root_latin": "S-K-L",
+      "buckwalter": "vql",
+      "frequency": 28,
+      "unique_ayahs": 26,
+      "rationale": "Miskâl, Sakîl ve Sekalân (99:7-8 Zilzâl, 101:6 Kâria ağır tartılar, 73:5 ağır söz — خ-ف-ف zıttı, 2 açık Mesânî ref!)",
+      "concept_label": "Analiz Bekliyor (mivoqaAl, v~aqalaAn, vaqiyl, vaqulato)",
+      "is_locked": false,
+      "sample_ayah": "4:40",
+      "top_lemmas": [
+        "mivoqaAl",
+        "v~aqalaAn",
+        "vaqiyl",
+        "vaqulato"
+      ]
+    },
+    {
+      "etap_3d_rank": 15,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 252,
+      "root_arabic": "ذ-ر-ر",
+      "root_latin": "Z-R-R",
+      "buckwalter": "*rr",
+      "frequency": 38,
+      "unique_ayahs": 36,
+      "rationale": "Zerre ve Zürriyet (99:7-8 Zilzâl zerre ağırlığı, 4:40 ve 7:172 saçılıp yayılan soy/kuşaklar tek çekirdekte!)",
+      "concept_label": "Analiz Bekliyor (*ur~iy~ap, *ar~ap, *ur~iy~a`t)",
+      "is_locked": false,
+      "sample_ayah": "2:124",
+      "top_lemmas": [
+        "*ur~iy~ap",
+        "*ar~ap",
+        "*ur~iy~a`t"
+      ]
+    },
+    {
+      "etap_3d_rank": 16,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 481,
+      "root_arabic": "ع-ط-و",
+      "root_latin": "A-T-W",
+      "buckwalter": "ETw",
+      "frequency": 14,
+      "unique_ayahs": 12,
+      "rationale": "İ'tâ ve Atâ' (108:1 Kevser, 92:5 Leyl, 93:5 Duhâ el uzatıp bolca vermek — م-ن-ع ve ب-خ-ل Mesânî zıttı!)",
+      "concept_label": "Analiz Bekliyor (>aEoTaY`, EaTaA^', taEaATaY`)",
+      "is_locked": false,
+      "sample_ayah": "9:29",
+      "top_lemmas": [
+        ">aEoTaY`",
+        "EaTaA^'",
+        "taEaATaY`"
+      ]
+    },
+    {
+      "etap_3d_rank": 17,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 379,
+      "root_arabic": "خ-ط-أ",
+      "root_latin": "H-T-E",
+      "buckwalter": "xTA",
+      "frequency": 22,
+      "unique_ayahs": 20,
+      "rationale": "Hata ve Hatîe (96:16 Alak suçlu perçem, 2:286, 4:92 hedefi şaşıran kasıtsız hata vs yerleşik suç kuşatması)",
+      "concept_label": "Analiz Bekliyor (xaTiy^_#ap, xa`Ti_#iyn, >axoTa>o, xaTa_#)",
+      "is_locked": false,
+      "sample_ayah": "2:58",
+      "top_lemmas": [
+        "xaTiy^_#ap",
+        "xa`Ti_#iyn",
+        ">axoTa>o",
+        "xaTa_#"
+      ]
+    },
+    {
+      "etap_3d_rank": 18,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 316,
+      "root_arabic": "د-ر-ي",
+      "root_latin": "D-R-Y",
+      "buckwalter": "dry",
+      "frequency": 29,
+      "unique_ayahs": 28,
+      "rationale": "Dirâyet ve Edra (97:2 Kadr, 101:3 Kâria, 104:5 Hümeze, 90:12 Beled \"sana bildiren nedir?\" kavrayış anahtarı)",
+      "concept_label": "Analiz Bekliyor (>adoraY`, tadoriY)",
+      "is_locked": false,
+      "sample_ayah": "4:11",
+      "top_lemmas": [
+        ">adoraY`",
+        "tadoriY"
+      ]
+    },
+    {
+      "etap_3d_rank": 19,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 586,
+      "root_arabic": "ق-ه-ر",
+      "root_latin": "K-H-R",
+      "buckwalter": "qhr",
+      "frequency": 10,
+      "unique_ayahs": 10,
+      "rationale": "Kahr ve Kahhâr (93:9 Duhâ yetimi ezmeme buyruğu ve mutlak boyun eğdirici üstünlük sıfatı el-Kahhâr)",
+      "concept_label": "Analiz Bekliyor (qah~aAr, qaAhir, taqoharo)",
+      "is_locked": false,
+      "sample_ayah": "6:18",
+      "top_lemmas": [
+        "qah~aAr",
+        "qaAhir",
+        "taqoharo"
+      ]
+    },
+    {
+      "etap_3d_rank": 20,
+      "category": "Kısa Sure ve Kozmik Denge",
+      "global_rank": 895,
+      "root_arabic": "ت-ب-ب",
+      "root_latin": "T-B-B",
+      "buckwalter": "tbb",
+      "frequency": 4,
+      "unique_ayahs": 3,
+      "rationale": "Tebb ve Tetbîb (111:1 Tebbet suresi kilidi, 11:101, 40:37 kesintisiz kayıp, hüsran ve çöküş)",
+      "concept_label": "Analiz Bekliyor (tab~a, tatobiyb, tabaAb)",
+      "is_locked": false,
+      "sample_ayah": "11:101",
+      "top_lemmas": [
+        "tab~a",
+        "tatobiyb",
+        "tabaAb"
+      ]
+    },
+    {
+      "etap_3d_rank": 21,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 206,
+      "root_arabic": "ط-ع-م",
+      "root_latin": "T-A-M",
+      "buckwalter": "TEm",
+      "frequency": 48,
+      "unique_ayahs": 41,
+      "rationale": "Taâm ve İt'âm (5 açık Mesânî ref! 107:3 Mâûn, 90:14 Beled, 106:4 Kureyş, 76:8-9 yoksulu doyurmak ve tatmak)",
+      "concept_label": "Analiz Bekliyor (TaEaAm, >aToEama, TaEimu, <iToEa`m)",
+      "is_locked": false,
+      "sample_ayah": "2:61",
+      "top_lemmas": [
+        "TaEaAm",
+        ">aToEama",
+        "TaEimu",
+        "<iToEa`m"
+      ]
+    },
+    {
+      "etap_3d_rank": 22,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 566,
+      "root_arabic": "ف-ر-ر",
+      "root_latin": "F-R-R",
+      "buckwalter": "frr",
+      "frequency": 11,
+      "unique_ayahs": 10,
+      "rationale": "Firâr ve Meferr (5 açık Mesânî ref! 51:50 Allah'a kaçış vs 80:34, 75:10, 62:8 sorumluluktan ve ölümden kaçış)",
+      "concept_label": "Analiz Bekliyor (far~ato, firaAr, mafar~)",
+      "is_locked": false,
+      "sample_ayah": "18:18",
+      "top_lemmas": [
+        "far~ato",
+        "firaAr",
+        "mafar~"
+      ]
+    },
+    {
+      "etap_3d_rank": 23,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 225,
+      "root_arabic": "ف-و-ق",
+      "root_latin": "F-W-K",
+      "buckwalter": "fwq",
+      "frequency": 43,
+      "unique_ayahs": 41,
+      "rationale": "Fevk, Fevâk ve İfâka (4 açık Mesânî ref! ت-ح-ت ve س-ف-ل zıttı üstte olmak, 7:143 ayılıp kendine gelmek)",
+      "concept_label": "Analiz Bekliyor (fawoq, >afaAqa, fawaAq)",
+      "is_locked": false,
+      "sample_ayah": "2:26",
+      "top_lemmas": [
+        "fawoq",
+        ">afaAqa",
+        "fawaAq"
+      ]
+    },
+    {
+      "etap_3d_rank": 24,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 367,
+      "root_arabic": "أ-ذ-ي",
+      "root_latin": "E-Z-Y",
+      "buckwalter": "A*y",
+      "frequency": 24,
+      "unique_ayahs": 22,
+      "rationale": "Ezâ ve İyzâ' (4 açık Mesânî ref! 2:222 geçici rahatsızlık, 2:262-264 başa kakıp incitme, 33:58 haksız eziyet)",
+      "concept_label": "Analiz Bekliyor (>uw*iYa, >a*FY)",
+      "is_locked": false,
+      "sample_ayah": "2:196",
+      "top_lemmas": [
+        ">uw*iYa",
+        ">a*FY"
+      ]
+    },
+    {
+      "etap_3d_rank": 25,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 230,
+      "root_arabic": "ح-ز-ن",
+      "root_latin": "H-Z-N",
+      "buckwalter": "Hzn",
+      "frequency": 42,
+      "unique_ayahs": 42,
+      "rationale": "Hüzün ve Hazen (3 açık Mesânî ref! 2:38 korku ve üzüntü yokluğu — ف-ر-ح zıttı ve خ-و-ف aynı ayet Furûku)",
+      "concept_label": "Analiz Bekliyor (yaHozun, Hazan, Huzon)",
+      "is_locked": false,
+      "sample_ayah": "2:38",
+      "top_lemmas": [
+        "yaHozun",
+        "Hazan",
+        "Huzon"
+      ]
+    },
+    {
+      "etap_3d_rank": 26,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 291,
+      "root_arabic": "ب-د-و",
+      "root_latin": "B-D-W",
+      "buckwalter": "bdw",
+      "frequency": 31,
+      "unique_ayahs": 29,
+      "rationale": "Büduvv, İbdâ' ve Bâdî (3 açık Mesânî ref! خ-ف-ي ve ك-ت-م zıttı: gizlenen şeyin çöl açıklığı gibi ortaya çıkması)",
+      "concept_label": "Analiz Bekliyor (yubodiYa, badaA, baAdiY, badow)",
+      "is_locked": false,
+      "sample_ayah": "2:33",
+      "top_lemmas": [
+        "yubodiYa",
+        "badaA",
+        "baAdiY",
+        "badow"
+      ]
+    },
+    {
+      "etap_3d_rank": 27,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 404,
+      "root_arabic": "ن-ز-ع",
+      "root_latin": "N-Z-A",
+      "buckwalter": "nzE",
+      "frequency": 20,
+      "unique_ayahs": 20,
+      "rationale": "Nez' ve Tenâzü' (3 açık Mesânî ref! 79:1-2 yerinden söküp çıkarmak, 3:26 gücü çekip almak ve 8:46 çekişip ihtilafa düşmek)",
+      "concept_label": "Analiz Bekliyor (nazaEa, tana`zaEu, yuna`ziEu, naz~aAEap)",
+      "is_locked": false,
+      "sample_ayah": "3:26",
+      "top_lemmas": [
+        "nazaEa",
+        "tana`zaEu",
+        "yuna`ziEu",
+        "naz~aAEap"
+      ]
+    },
+    {
+      "etap_3d_rank": 28,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 469,
+      "root_arabic": "ب-د-أ",
+      "root_latin": "B-D-E",
+      "buckwalter": "bdA",
+      "frequency": 15,
+      "unique_ayahs": 14,
+      "rationale": "Bed' ve İbdâ' (3 açık Mesânî ref! ع-و-د [İâde] kökünün doğrudan Mesânî eşleniği: yaratılışı ilk kez başlatmak)",
+      "concept_label": "Analiz Bekliyor (bada>a, yubodi}u)",
+      "is_locked": false,
+      "sample_ayah": "7:29",
+      "top_lemmas": [
+        "bada>a",
+        "yubodi}u"
+      ]
+    },
+    {
+      "etap_3d_rank": 29,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 510,
+      "root_arabic": "و-ص-ل",
+      "root_latin": "W-S-L",
+      "buckwalter": "wSl",
+      "frequency": 12,
+      "unique_ayahs": 10,
+      "rationale": "Vasl ve Vasîle (3 açık Mesânî ref! ق-ط-ع kökünün doğrudan Mesânî zıttı: 2:27, 13:21,25 bağları birleştirip ulaştırmak)",
+      "concept_label": "Analiz Bekliyor (yaSilu, waSiylap, waS~alo)",
+      "is_locked": false,
+      "sample_ayah": "2:27",
+      "top_lemmas": [
+        "yaSilu",
+        "waSiylap",
+        "waS~alo"
+      ]
+    },
+    {
+      "etap_3d_rank": 30,
+      "category": "Açık Mesânî Kilidi",
+      "global_rank": 794,
+      "root_arabic": "ف-ر-د",
+      "root_latin": "F-R-D",
+      "buckwalter": "frd",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Ferd ve Furâdâ (3 açık Mesânî ref! 6:94, 19:80,95, 21:89 topluluk/şefaat zıttı: tek başına bireysel hesap)",
+      "concept_label": "Analiz Bekliyor (farod, fura`daY`)",
+      "is_locked": false,
+      "sample_ayah": "6:94",
+      "top_lemmas": [
+        "farod",
+        "fura`daY`"
+      ]
+    },
+    {
+      "etap_3d_rank": 31,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 209,
+      "root_arabic": "ق-د-م",
+      "root_latin": "K-D-M",
+      "buckwalter": "qdm",
+      "frequency": 48,
+      "unique_ayahs": 48,
+      "rationale": "Takdîm, Kadem ve İstikdâm (2 açık Mesânî ref! أ-خ-ر zıttı: 82:5, 75:13 önden göndermek ve sağlam duruş adımı)",
+      "concept_label": "Analiz Bekliyor (qad~ama, qadam, yasotaqodimu, qadiym)",
+      "is_locked": false,
+      "sample_ayah": "2:95",
+      "top_lemmas": [
+        "qad~ama",
+        "qadam",
+        "yasotaqodimu",
+        "qadiym"
+      ]
+    },
+    {
+      "etap_3d_rank": 32,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 226,
+      "root_arabic": "ج-و-ب",
+      "root_latin": "C-W-B",
+      "buckwalter": "jwb",
+      "frequency": 43,
+      "unique_ayahs": 41,
+      "rationale": "İsticâbe ve Cevâb (2 açık Mesânî ref! 89:9 kayayı delip oymak somut çıpası + 2:186, 8:24 çağrıya karşılık vermek)",
+      "concept_label": "Analiz Bekliyor ({sotajaAba, >ujiybat, jawaAb, m~ujiyb)",
+      "is_locked": false,
+      "sample_ayah": "2:186",
+      "top_lemmas": [
+        "{sotajaAba",
+        ">ujiybat",
+        "jawaAb",
+        "m~ujiyb"
+      ]
+    },
+    {
+      "etap_3d_rank": 33,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 253,
+      "root_arabic": "س-ب-ق",
+      "root_latin": "S-B-K",
+      "buckwalter": "sbq",
+      "frequency": 37,
+      "unique_ayahs": 35,
+      "rationale": "Sebk, Sâbikûn ve İstibâk (2 açık Mesânî ref! 56:10, 35:32, 23:61 hayırda ve sorumlulukta öne geçip yarışmak)",
+      "concept_label": "Analiz Bekliyor (sabaqa, saAbiq, {sotabaqa, masobuwqiyn)",
+      "is_locked": false,
+      "sample_ayah": "2:148",
+      "top_lemmas": [
+        "sabaqa",
+        "saAbiq",
+        "{sotabaqa",
+        "masobuwqiyn"
+      ]
+    },
+    {
+      "etap_3d_rank": 34,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 310,
+      "root_arabic": "و-د-د",
+      "root_latin": "W-D-D",
+      "buckwalter": "wdd",
+      "frequency": 29,
+      "unique_ayahs": 28,
+      "rationale": "Meveddet ve Vedûd (2 açık Mesânî ref! ع-د-و ve ب-غ-ض zıttı: 30:21, 60:7, 85:14 kazık gibi köklü sevgi ve dostluk bağı)",
+      "concept_label": "Analiz Bekliyor (wad~a, m~awad~ap, waduwd, wud~)",
+      "is_locked": false,
+      "sample_ayah": "2:96",
+      "top_lemmas": [
+        "wad~a",
+        "m~awad~ap",
+        "waduwd",
+        "wud~"
+      ]
+    },
+    {
+      "etap_3d_rank": 35,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 393,
+      "root_arabic": "ب-ق-ي",
+      "root_latin": "B-K-Y",
+      "buckwalter": "bqy",
+      "frequency": 21,
+      "unique_ayahs": 21,
+      "rationale": "Bakâ, Bâkî ve Bâkıyât (2 açık Mesânî ref! ف-ن-ي ve ن-ف-د zıttı: 16:96, 18:46, 55:27 yok olmayıp geride kalıcı olan)",
+      "concept_label": "Analiz Bekliyor (>aboqaY`^, baqiy~at, baqiYa, ba`qiya`t)",
+      "is_locked": false,
+      "sample_ayah": "2:248",
+      "top_lemmas": [
+        ">aboqaY`^",
+        "baqiy~at",
+        "baqiYa",
+        "ba`qiya`t"
+      ]
+    },
+    {
+      "etap_3d_rank": 36,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 426,
+      "root_arabic": "ث-ب-ت",
+      "root_latin": "S-B-T",
+      "buckwalter": "vbt",
+      "frequency": 18,
+      "unique_ayahs": 17,
+      "rationale": "Sebât ve Tesbît (2 açık Mesânî ref! ز-ل-ل ve ز-ي-غ zıttı: 14:27, 2:250, 47:7 sarsılmaz biçimde yerinde sabitlenmek)",
+      "concept_label": "Analiz Bekliyor (vab~ato, tavobiyt, yuvobitu, vaAbit)",
+      "is_locked": false,
+      "sample_ayah": "2:250",
+      "top_lemmas": [
+        "vab~ato",
+        "tavobiyt",
+        "yuvobitu",
+        "vaAbit"
+      ]
+    },
+    {
+      "etap_3d_rank": 37,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 454,
+      "root_arabic": "غ-ل-ل",
+      "root_latin": "G-L-L",
+      "buckwalter": "gll",
+      "frequency": 16,
+      "unique_ayahs": 13,
+      "rationale": "Gıll, Gulûl ve Ağlâl (2 açık Mesânî ref! 7:157 boyundaki pranga/boyunduruk, 59:10 kalpteki gizli kin ve 3:161 kamu malı ihaneti)",
+      "concept_label": "Analiz Bekliyor (gil~, gal~a, magoluwlap)",
+      "is_locked": false,
+      "sample_ayah": "3:161",
+      "top_lemmas": [
+        "gil~",
+        "gal~a",
+        "magoluwlap"
+      ]
+    },
+    {
+      "etap_3d_rank": 38,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 462,
+      "root_arabic": "ح-ر-ر",
+      "root_latin": "H-R-R",
+      "buckwalter": "Hrr",
+      "frequency": 15,
+      "unique_ayahs": 11,
+      "rationale": "Hürr, Tahrîr ve Harr (2 açık Mesânî ref! 90:13, 4:92, 5:89 boyunduruktan özgürleştirme/köle azadı, 3:35 adanmış özgür kul)",
+      "concept_label": "Analiz Bekliyor (taHoriyr, Har~, Hariyr, Hur~)",
+      "is_locked": false,
+      "sample_ayah": "2:178",
+      "top_lemmas": [
+        "taHoriyr",
+        "Har~",
+        "Hariyr",
+        "Hur~"
+      ]
+    },
+    {
+      "etap_3d_rank": 39,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 683,
+      "root_arabic": "ن-ك-ث",
+      "root_latin": "N-K-S",
+      "buckwalter": "nkv",
+      "frequency": 7,
+      "unique_ayahs": 6,
+      "rationale": "Neks ve Enkâs (2 açık Mesânî ref! 16:92 bükülmüş ipi çözüp dağıtmak somut çıpası + 48:10, 9:12 verilen ahdi bozmak)",
+      "concept_label": "Analiz Bekliyor (n~akava, >anka`v)",
+      "is_locked": false,
+      "sample_ayah": "7:135",
+      "top_lemmas": [
+        "n~akava",
+        ">anka`v"
+      ]
+    },
+    {
+      "etap_3d_rank": 40,
+      "category": "Ahit, Sabitlik ve Özgürlük",
+      "global_rank": 735,
+      "root_arabic": "ق-ن-ط",
+      "root_latin": "K-N-T",
+      "buckwalter": "qnT",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Kunût ve Kânit (2 açık Mesânî ref! ر-ج-و ve ط-م-ع zıttı: 39:53, 15:56, 30:36 rahmetten tamamen umut kesip kurumak)",
+      "concept_label": "Analiz Bekliyor (qanaTu, qa`niTiyn, qanuwT)",
+      "is_locked": false,
+      "sample_ayah": "15:55",
+      "top_lemmas": [
+        "qanaTu",
+        "qa`niTiyn",
+        "qanuwT"
+      ]
+    },
+    {
+      "etap_3d_rank": 41,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 220,
+      "root_arabic": "س-ر-ر",
+      "root_latin": "S-R-R",
+      "buckwalter": "srr",
+      "frequency": 44,
+      "unique_ayahs": 43,
+      "rationale": "Sırr, İsrâr, Mesrûr ve Sürür (1 açık Mesânî ref! ع-ل-ن ve ج-ه-ر zıttı gizlemek/sır + içten parlayan sevinç ve tahtlar)",
+      "concept_label": "Analiz Bekliyor (>asar~a, sir~, surur, s~ar~aA^')",
+      "is_locked": false,
+      "sample_ayah": "2:69",
+      "top_lemmas": [
+        ">asar~a",
+        "sir~",
+        "surur",
+        "s~ar~aA^'"
+      ]
+    },
+    {
+      "etap_3d_rank": 42,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 232,
+      "root_arabic": "ق-و-ي",
+      "root_latin": "K-W-Y",
+      "buckwalter": "qwy",
+      "frequency": 42,
+      "unique_ayahs": 39,
+      "rationale": "Kuvvet, Kaviyy ve Mukvîn (1 açık Mesânî ref! ض-ع-ف [Za'f] kökünün doğrudan Mesânî zıttı: bükülmüş halat sağlamlığı ve güç)",
+      "concept_label": "Analiz Bekliyor (quw~ap, qawiY~, muqowiyn)",
+      "is_locked": false,
+      "sample_ayah": "2:63",
+      "top_lemmas": [
+        "quw~ap",
+        "qawiY~",
+        "muqowiyn"
+      ]
+    },
+    {
+      "etap_3d_rank": 43,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 234,
+      "root_arabic": "ص-د-د",
+      "root_latin": "S-D-D",
+      "buckwalter": "Sdd",
+      "frequency": 42,
+      "unique_ayahs": 41,
+      "rationale": "Sadd ve Sudûd (1 açık Mesânî ref! 4:61, 22:25 hak yoldan ve ortak mabedden geri çevirip engellemek ve yüz çevirmek)",
+      "concept_label": "Analiz Bekliyor (Sad~a, Sad~, Suduwd, Sud~u)",
+      "is_locked": false,
+      "sample_ayah": "2:217",
+      "top_lemmas": [
+        "Sad~a",
+        "Sad~",
+        "Suduwd",
+        "Sud~u"
+      ]
+    },
+    {
+      "etap_3d_rank": 44,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 247,
+      "root_arabic": "ق-ر-ر",
+      "root_latin": "K-R-R",
+      "buckwalter": "qrr",
+      "frequency": 38,
+      "unique_ayahs": 37,
+      "rationale": "Karâr, Müstekarr ve İkrâr (1 açık Mesânî ref! 6:98 yerleşip durulma yeri, 25:74 göz aydınlığı ve 2:84 ahdi onaylamak)",
+      "concept_label": "Analiz Bekliyor (musotaqar~, qaraAr, taqar~a, >aqoraro)",
+      "is_locked": false,
+      "sample_ayah": "2:36",
+      "top_lemmas": [
+        "musotaqar~",
+        "qaraAr",
+        "taqar~a",
+        ">aqoraro"
+      ]
+    },
+    {
+      "etap_3d_rank": 45,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 249,
+      "root_arabic": "ف-ت-ح",
+      "root_latin": "F-T-H",
+      "buckwalter": "ftH",
+      "frequency": 38,
+      "unique_ayahs": 33,
+      "rationale": "Feth, Fettâh ve Mefâtih (1 açık Mesânî ref! 7:89, 26:118 kilitli düğümü hak ile açıp hüküm vermek ve 6:59 gaybın anahtarları)",
+      "concept_label": "Analiz Bekliyor (fataHa, fatoH, {sotafotaHu, mafaAtiH)",
+      "is_locked": false,
+      "sample_ayah": "2:76",
+      "top_lemmas": [
+        "fataHa",
+        "fatoH",
+        "{sotafotaHu",
+        "mafaAtiH"
+      ]
+    },
+    {
+      "etap_3d_rank": 46,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 251,
+      "root_arabic": "م-ر-أ",
+      "root_latin": "M-R-E",
+      "buckwalter": "mrA",
+      "frequency": 38,
+      "unique_ayahs": 37,
+      "rationale": "Mer', İmru' ve İmra'e (4:4 boğazdan rahat geçen afiyetli pay [هَنِيٓـًٔا مَّرِيٓـًٔا] + birey/kişi sorumluluğu ve eş/kadın)",
+      "concept_label": "Analiz Bekliyor ({mora>at, {mori}, maro', m~ariy^_#)",
+      "is_locked": false,
+      "sample_ayah": "2:102",
+      "top_lemmas": [
+        "{mora>at",
+        "{mori}",
+        "maro'",
+        "m~ariy^_#"
+      ]
+    },
+    {
+      "etap_3d_rank": 47,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 279,
+      "root_arabic": "ج-ن-ب",
+      "root_latin": "C-N-B",
+      "buckwalter": "jnb",
+      "frequency": 33,
+      "unique_ayahs": 31,
+      "rationale": "Cenb, İctinâb ve Cünüb (1 açık Mesânî ref! yan/kenar, 4:36 komşu, 16:36/22:30 pislik ve tâğûttan uzak durmak ve 4:43/5:6 cünüplük)",
+      "concept_label": "Analiz Bekliyor ({jotanabu, jaAnib, janb, junub)",
+      "is_locked": false,
+      "sample_ayah": "3:191",
+      "top_lemmas": [
+        "{jotanabu",
+        "jaAnib",
+        "janb",
+        "junub"
+      ]
+    },
+    {
+      "etap_3d_rank": 48,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 285,
+      "root_arabic": "و-س-ع",
+      "root_latin": "W-S-A",
+      "buckwalter": "wsE",
+      "frequency": 32,
+      "unique_ayahs": 29,
+      "rationale": "Vüs'at ve Vâsi' (2:286, 65:7 kimseye kapasitesinin/gücünün [وُسْعَهَا] üstünde yük yüklenmemesi yasası ve kuşatıcı genişlik)",
+      "concept_label": "Analiz Bekliyor (wa`siE, saEap, wasiEa, wusoE)",
+      "is_locked": false,
+      "sample_ayah": "2:115",
+      "top_lemmas": [
+        "wa`siE",
+        "saEap",
+        "wasiEa",
+        "wusoE"
+      ]
+    },
+    {
+      "etap_3d_rank": 49,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 301,
+      "root_arabic": "س-ع-ي",
+      "root_latin": "S-A-Y",
+      "buckwalter": "sEy",
+      "frequency": 30,
+      "unique_ayahs": 28,
+      "rationale": "Sa'y (53:39 \"insan için yalnızca kendi çabası vardır\" yasası, 2:205, 62:9 bilinçli ve kararlı emek yürüyüşü)",
+      "concept_label": "Analiz Bekliyor (saEaY`, saEoy)",
+      "is_locked": false,
+      "sample_ayah": "2:114",
+      "top_lemmas": [
+        "saEaY`",
+        "saEoy"
+      ]
+    },
+    {
+      "etap_3d_rank": 50,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 315,
+      "root_arabic": "ف-و-ز",
+      "root_latin": "F-W-Z",
+      "buckwalter": "fwz",
+      "frequency": 29,
+      "unique_ayahs": 27,
+      "rationale": "Fevz ve Fâizûn (خ-س-ر [Hüsrân] kökünün doğrudan Mesânî eşleniği: yıkımdan kurtulup büyük başarıya ve esenliğe ulaşmak)",
+      "concept_label": "Analiz Bekliyor (fawoz, faA^}izuwn, faAza, mafaAzap)",
+      "is_locked": false,
+      "sample_ayah": "3:185",
+      "top_lemmas": [
+        "fawoz",
+        "faA^}izuwn",
+        "faAza",
+        "mafaAzap"
+      ]
+    }
+  ]
+}

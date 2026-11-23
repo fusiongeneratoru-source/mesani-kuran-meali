@@ -9,24 +9,26 @@ Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** 
 1. Ana sistem anayasasını oku: `PROMPT.md`
 2. Kalite sigortalarını oku: `tools/QUALITY_CONSTITUTION.md`
 3. Mevcut ilerleme durumunu kontrol et:
-   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **400 kök mühürlü**, `%84,51` güncel kapsam)
+   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **405 kök mühürlü**, `%84,68` güncel kapsam)
    - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md` (tamamlanan Etap 1 listesi: `100/100`)
    - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md` (tamamlanan Etap 2 listesi: `100/100`)
    - `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md` (tamamlanan Etap 2.5 kilit kavramlar listesi: `16/16`)
    - `data/etap_3_key_roots.json` & `data/ETAP_3_KAVRAM.md` (tamamlanan **Etap 3** listesi: **131/131 kök [%100] TAMAMLANDI** — Etap 3A Çekirdek `55/55`, Etap 3B Tam Zırh `76/76`)
-   - `data/etap_3c_key_roots.json` & `data/ETAP_3C_KAVRAM.md` (tamamlanan **Etap 3C** — Son Mayın Temizliği, Hukuk-Ritüel-Kısa Sure Kilitleri ve Açık Mesânî Zırhı: **48/48 kök [%100] TAMAMLANDI** [`400` toplam kilitli kök, `%84,51` kapsam])
+   - `data/etap_3c_key_roots.json` & `data/ETAP_3C_KAVRAM.md` (tamamlanan **Etap 3C** — Son Mayın Temizliği, Hukuk-Ritüel-Kısa Sure Kilitleri ve Açık Mesânî Zırhı: **48/48 kök [%100] TAMAMLANDI**)
+   - `data/etap_3d_key_roots.json` & `data/ETAP_3D_KAVRAM.md` (aktif **Etap 3D** — Fâtiha & Kısa Sure Tam Kilidi, Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar: **5/50 kök mühürlendi** [`405` toplam kilitli kök -> hedef `450` kök / `%86,92` kapsam])
 
 ## 📁 Depo Yapısı
 
 - `PROMPT.md`: Tüm çalışma protokolü (10 Uzman Disiplin, Sözlükler Hakem Masası, JSON v3.0 şeması, devam motoru)
-- `data/locked_roots.json`: Mühürlenmiş tüm köklerin tam v3.0 veritabanı (`400` kilitli kök)
+- `data/locked_roots.json`: Mühürlenmiş tüm köklerin tam v3.0 veritabanı (`405` kilitli kök)
 - `data/locked_roots_compact.json`: Hızlı okuma için sıkıştırılmış kök özeti
-- `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri (`400` kavram JSON dosyası)
+- `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri (`405` kavram JSON dosyası)
 - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md`: İlk 100 kök indeksi (`100/100` tamamlandı)
 - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md`: İkinci 100 yeni kök indeksi (`100/100` tamamlandı)
 - `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md`: Top 200 dışında kalan 16 kilit kavram (`ث-ن-ي [Mesânî]` dahil) indeksi (`16/16` tamamlandı)
 - `data/etap_3_key_roots.json` & `data/ETAP_3_KAVRAM.md`: Faz 2 öncesi kafa karıştıran kavramlar ve açık Mesânî/Furûk eşlenikleri indeksi (**131/131 [%100] TAMAMLANDI:** `3A: 55/55` [`%80,14`], `3B: 76/76` [`%83,08`])
-- `data/etap_3c_key_roots.json` & `data/ETAP_3C_KAVRAM.md`: Meal öncesi son mayın temizliği (ceza-aile-ibadet hukuku, kısa sure kilitleri ve en yüksek açık Mesânî referansları — **48/48 [%100] TAMAMLANDI**, toplam `400` kilitli kök / `%84,51` kapsam)
+- `data/etap_3c_key_roots.json` & `data/ETAP_3C_KAVRAM.md`: Meal öncesi son mayın temizliği (ceza-aile-ibadet hukuku, kısa sure kilitleri ve en yüksek açık Mesânî referansları — **48/48 [%100] TAMAMLANDI**, `400` kilitli kök / `%84,51` kapsam)
+- `data/etap_3d_key_roots.json` & `data/ETAP_3D_KAVRAM.md`: Fâtiha & Kısa Sure Tam Kilidi, 3+ Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar (**5/50 mühürlendi**, `405` kilitli kök / `%84,68` kapsam -> hedef `450` kök / `%86,92` kapsam)
 - `data/particles_and_prepositions.json` & `data/EDAT_VE_HARFICER_HARITASI.md`: Kur'an'daki köksüz edatlar (`10` harf-i cer, `11` yapısal/mantıksal edat) ve `13` köksüz/ödünç anahtar kavram haritası (Faz 2 omurgası)
 - `data/quran-*.txt` & `data/quranic-corpus-morphology-0.4.txt`: Yerel Kur'an metinleri ve morfoloji korpusu
 - `tools/`: Saf Python standart kütüphanesiyle çalışan doğrulama ve üretim araçları (ek paket kurulumu gerektirmez)
@@ -45,6 +47,7 @@ python3 tools/generate_second_100.py
 python3 tools/generate_etap_2_5.py
 python3 tools/generate_etap_3.py
 python3 tools/generate_etap_3c.py
+python3 tools/generate_etap_3d.py
 python3 tools/generate_compact_roots.py
 
 # Zorunlu sıfır hata bütünlük doğrulaması (her kök sonrası şart)

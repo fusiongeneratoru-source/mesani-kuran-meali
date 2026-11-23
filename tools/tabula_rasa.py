@@ -79,19 +79,22 @@ _FORBIDDEN_AUDIT_PATTERNS = [
     r'\btanrı\w*',
 ]
 
-_FORBIDDEN_AUDIT_RES = [re.compile(p, re.UNICODE) for p in _FORBIDDEN_AUDIT_PATTERNS]
+import functools
+
+_FORBIDDEN_COMBINED_RE = re.compile('|'.join(_FORBIDDEN_AUDIT_PATTERNS), re.UNICODE)
+
+
+@functools.lru_cache(maxsize=65536)
+def _find_forbidden_terms_cached(text):
+    lowered = _tr_lower(text)
+    return tuple(m.group(0) for m in _FORBIDDEN_COMBINED_RE.finditer(lowered))
 
 
 def find_forbidden_terms(text):
     """Metinde kalan geleneksel/fıkhî terimleri döndürür (Türkçe İ/I uyumlu)."""
     if not text:
         return []
-    lowered = _tr_lower(text)
-    found = []
-    for regex in _FORBIDDEN_AUDIT_RES:
-        for m in regex.finditer(lowered):
-            found.append(m.group(0))
-    return found
+    return list(_find_forbidden_terms_cached(text))
 
 
 def _ci_tr_pattern(pat):

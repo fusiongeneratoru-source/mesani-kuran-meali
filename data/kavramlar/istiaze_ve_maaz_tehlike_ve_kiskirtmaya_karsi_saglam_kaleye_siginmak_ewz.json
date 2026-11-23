@@ -1,0 +1,407 @@
+{
+  "root": "ع-و-ذ",
+  "root_latin": "A-V-Z (Ew*)",
+  "concept_name": "İstiâze ve Maâz (Yıkıcı Tehlike, Ahlaki Ayartma ve Saptırıcı Dürtüye Karşı Sağlam Kaleye Sığınmak)",
+  "rank": 435,
+  "total_occurrences": 17,
+  "unique_ayahs_count": 17,
+  "unified_core_mechanism": "Yıkıcı bir tehlike, ahlaki ayartma, saptırıcı dürtü veya gizli fesat karşısında sağlam ve güvenli bir koruma kalesine yapışıp sığınmak (عَوْذ / ٱسْتِعَاذَة / مَعَاذ).",
+  "physical_core": "Korunaklı bir kaya, ağaç gövdesi veya annesinin yanına sokulan yavru (عُوذ) gibi, dış tehlikeye karşı sağlam bir siperin arkasına yapışıp sığınmak (الِالْتِجَاءُ إِلَى الشَّيْءِ وَمُلَازَمَتُهُ).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): Kökün tek sahih aslı bir şeye sığınmak (`الالتجاء إلى الشيء`) ve korunmak üzere ona sıkıca yapışıp ayrılmamaktır (`كل شيء لصق بشيء أو لازمه`). Yeni doğmuş yavrusunun yanından ayrılmayan deveye/اتا `عَائِذ`, kaya veya ağaç dibinde korunaklı kalan ota da `عَوْذ` denir.",
+    "lisan_al_arab": "Halîl b. Ahmed (*el-Ayn*) ve İbn Manzûr (*Lisânü'l-Arab*): `العَوْذ` ve `الِاسْتِعَاذَة` korkulan bir tehlikeden kurtulmak için güçlü bir koruyucuya sığınıp tutunmaktır (`الاعتصام والتحرز`); `مَعَاذَ ٱللَّهِ` ise kötülükten Allah'ın koruma kalesine sığınmaktır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): `العَوْذ` korkulan şeyden korunacak sağlam bir makama iltica etmektir.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in 'bir siper/dayanağa yapışıp sığınma' fiziksel çekirdeği, kavramı büyüsel bir tekerleme olmaktan çıkarıp aktif bir bilinç kalkanı olarak çözer: `12:23` ve `12:79`'da Yûsuf'un ahlaki ve hukuki suça karşı `مَعَاذَ ٱللَّهِ` diyerek ilkeye tutunması, `7:200` ve `41:36`'da öfke/dürtü anında Allah'a sığınarak öz-denetimi koruması, `72:6`'da ise sahte odaklara sığınmanın yalnızca taşkınlığı (`رَهَقًا`) artırdığının belgelenmesi tek çekirdekle %100 çalışır."
+  },
+  "semitic_cognates": {
+    "note": "Proto-Sami `*ʿ-w-ḏ` kökü: İbranice עוּז (`ʿûz` Strong H5756: 'güvenli bir sığınağa koşmak, korunmak') ve مָעוֹז (`māʿôz` Strong H4581: 'sığınak, kale, tahkimat' — Proto-Sami `*ḏ` > İbranice `z` düzenli ses yasasıyla) ve Eski Güney Arapça/Sebece `ʿwḏ` ('koruma altına almak, sığınmak') ile birebir eşkökenlidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ش-ط-ن [فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ] (Allah'ın Sağlam Korumasına Sığınmak [فَٱسْتَعِذْ] ↔ Uzaklaştırılmış Saptırıcı Dürtü ve Odaklar [ٱلشَّيْطَٰن]: 16:98, 7:200, 23:97, 41:36)",
+      "ر-ج-م [وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ / أَن تَرْجُمُونِ] (Allah'a Sığınmak [ع-و-ذ] ↔ Taşlayarak Saldırmak ve Kovulmuşluk [ر-ج-م]: 3:36, 16:98, 44:20)",
+      "ن-ف-ث [قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ... وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ] (Şafağın Rabbine Sığınmak [أَعُوذُ] ↔ Sağlam Bağlara ve Sözleşmelere Gizlice Fesat Üfleyenler [ٱلنَّفَّٰثَٰتِ]: 113:1-4)",
+      "ش-ر-ر [قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ مِن شَرِّ مَا خَلَقَ] (Rabb'in Güvenli Kalesine Sığınmak [أَعُوذُ] ↔ Her Türlü Yıkıcı Zarar ve Kötülük Kıvılcımı [شَرّ]: 113:1-5, 114:1-4)",
+      "ح-س-د [قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ... وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ] (Rabb'in Korumasına Sığınmak [أَعُوذُ] ↔ Nimeti Kemiren Kıskançlığın Saldırısı [حَاسِدٍ إِذَا حَسَدَ]: 113:1-5)"
+    ],
+    "key_ayahs": [
+      "2:67",
+      "3:36",
+      "7:200",
+      "12:23",
+      "16:98",
+      "23:97-98",
+      "72:6",
+      "113:1-5",
+      "114:1-6"
+    ],
+    "reverse_stress_test": "16:98, 113:1-5 ve 114:1-6 ayetlerinde `أَعُوذُ / فَٱسْتَعِذْ` (`ع-و-ذ`) eyleminin tam karşısında kendisinden korunulan yıkıcı kutuplar olarak `ش-ط-ن` (hakikatten koparan saptırıcı), `ر-ج-م` (taşlayıp saldıran/kovulmuş), `ش-ر-ر` (etrafa sıçrayan zarar), `ن-ف-ث` (bağlara gizlice fesat üfleyen) ve `ح-س-د` (başkasındaki nimeti kemiren kıskançlık) yer alır. İnsanın bu yıkıcı dürtülere savunmasızca teslim olması veya `72:6`'daki gibi sahte odaklara sığınıp taşkınlığını artırması tersine çevrildiğinde; `ع-و-ذ` kökünün 'bilinç, adalet ve ilahi yasayı sarsılmaz bir kale edinerek yıkıcı dürtülere kapıyı kapatmak' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ع-ص-م (3:101, 11:43, 12:32 إِعْتِصَام / عِصْمَة — Kopmaz bir halata sımsıkı tutunup korunmak vs ع-و-ذ tehlike anında bir kaleye/sipere sığınmak)",
+      "و-ق-ي (2:24, 3:16, 40:9 وِقَايَة / تَقْوَىٰ — Zarara karşı önceden kalkan kuşanıp uyanık durmak vs ع-و-ذ saldırı ve kışkırtma anında koruyucu kaynağa iltica etmek)"
+    ],
+    "mechanical_difference": "`و-ق-ي` kişinin kendi eylem ve bilinciyle zarara karşı önleyici kalkan kuşanmasıdır; `ع-ص-م` kırılmaz bir bağa/ip'e (`بِحَبْلِ ٱللَّهِ`) tutunarak savrulmamaktır; `ع-و-ذ` (`أَعُوذُ / فَٱسْتَعِذْ / مَعَاذَ ٱللَّهِ`) ise dışarıdan veya içeriden gelen somut bir saldırı (`19:18`, `44:20`), ahlaki ayartma (`12:23`), dürtü (`7:200`) ya da gizli fesat (`113:1-5`, `114:1-6`) karşısında doğrudan Allah'ın koruma kalesine (`بِـ`) sığınmaktır."
+  },
+  "anchor_ayahs": [
+    "2:67",
+    "3:36",
+    "7:200",
+    "12:23",
+    "12:79",
+    "16:98",
+    "72:6",
+    "113:1",
+    "114:1"
+  ],
+  "grammar_and_branch_rules": "Her zaman `بِـ` harf-i ceriyle sığınılan koruyucu kaynağı (`بِٱللَّهِ / بِرَبِّ`) ve `مِن` harf-i ceriyle uzaklaşılan tehlikeyi alır. Bab I (`أَعُوذُ / عُذْتُ`) doğrudan sığınma iradesini; Bab IV (`أُعِيذُهَا` 3:36) bir başkasını o koruma altına emanet etmeyi; Bab X (`فَٱسْتَعِذْ` 7:200, 16:98) kışkırtma ve okuma anında bilinçli sığınma talebini; `مَعَاذَ ٱللَّهِ` (`12:23, 79`) ise haksızlık ve ihanete karşı kesin red ve sığınma sınırını kodlar.",
+  "derivatives": {
+    "أَعُوذُ / عُذْتُ / يَعُوذُونَ": "Sağlam bir koruyucuya sığınmak (2:67, 19:18, 40:27, 72:6, 113:1, 114:1)",
+    "فَٱسْتَعِذْ": "Bilinçli olarak Allah'ın korumasına sığın! (7:200, 16:98, 40:56, 41:36)",
+    "أُعِيذُهَا": "Onu Senin koruma kalkanına sığındırırım (3:36)",
+    "مَعَاذَ ٱللَّهِ": "Allah'a sığınırım! (Suç ve haksızlığa karşı kesin dokunulmazlık sınırı: 12:23, 12:79)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 67,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:67",
+      "word_position": 15,
+      "target_word_uthmani": "أَعُوذُ",
+      "target_word_rasm": "أعوذ",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gene bir zaman Musa, kavmine demişti ki: Şüphe yok ki Allah, size bir inek boğazlamanızı emrediyor. Kavmi, bizimle alay mı ediyorsun demişti. Musa, Allah'a...",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةً قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَٰهِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gene bir zaman Musa, kavmine demişti ki: Şüphe yok ki Allah, size bir inek boğazlamanızı emrediyor. Kavmi, bizimle alay mı ediyorsun demişti. Musa, Allah'a sığınırım bilgisizlere katılmaktan demişti.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 3,
+      "ayah": 36,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:36",
+      "word_position": 19,
+      "target_word_uthmani": "أُعِيذُهَا",
+      "target_word_rasm": "أعيذها",
+      "target_word_literal_irab": "Birini ve soyunu saptırıcıya karşı Allah'ın koruma kalkanına sığındırmak (وَإِنِّىٓ أُعِيذُهَا بِكَ — Bab IV fiil: 3:36)",
+      "context_snippet_arabic": "سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Doğurunca da ya Rabbi demişti kız doğurdum; zaten sığınak mercii (ilâh), onun ne doğurduğunu biliyordu; erkek kıza benzemez, ona Meryem adını verdim, onu da,...",
+      "morphology": {
+        "lemma": ">uEiy*u",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>uEiy*u|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğurunca da ya Rabbi demişti kız doğurdum; zaten sığınak mercii (ilâh), onun ne doğurduğunu biliyordu; erkek kıza benzemez, ona Meryem adını verdim, onu da, soyunu da sana ısmarladım, taşlanmış saptırıcı yıkıcı güç'dan sen koru demişti.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 7,
+      "ayah": 200,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:200",
+      "word_position": 6,
+      "target_word_uthmani": "فَٱسْتَعِذْ",
+      "target_word_rasm": "فٱستعذ",
+      "target_word_literal_irab": "Saptırıcı dürtü, kibir ve Kur'an okuma öncesinde bilinçli olarak Allah'ın korumasına sığınmak (فَٱسْتَعِذْ بِٱللَّهِ — Bab X emir fiili: 7:200, 16:98, 40:56, 41:36)",
+      "context_snippet_arabic": "مِنَ ٱلشَّيْطَٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ سَمِيعٌ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç seni buna aykırı bir yola meylettirmeye kalkışırsa Allah'a sığın, şüphe yok ki o, her şeyi duyar ve bilir.",
+      "morphology": {
+        "lemma": "{sotaEi*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(X)|LEM:{sotaEi*o|ROOT:Ew*|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç seni buna aykırı bir yola meylettirmeye kalkışırsa Allah'a sığın, şüphe yok ki o, her şeyi duyar ve bilir.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 11,
+      "ayah": 47,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:47",
+      "word_position": 4,
+      "target_word_uthmani": "أَعُوذُ",
+      "target_word_rasm": "أعوذ",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ",
+      "context_snippet_turkish_tabula_rasa": "Nuh, Rabbim dedi, bilmediğim şeyi senden istemekten, gene sana sığınırım ve beni yarlıgamazsan, bana acımazsan ziyankarlardan olurum ben.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh, Rabbim dedi, bilmediğim şeyi senden istemekten, gene sana sığınırım ve beni yarlıgamazsan, bana acımazsan ziyankarlardan olurum ben.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 12,
+      "ayah": 23,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:23",
+      "word_position": 14,
+      "target_word_uthmani": "مَعَاذَ",
+      "target_word_rasm": "معاذ",
+      "target_word_literal_irab": "Ahlaki ihanet ve haksız cezalandırma karşısında 'Allah'a sığınırım!' diyerek çizilen dokunulmazlık sınırı (مَعَاذَ ٱللَّهِ — mimli mastar: 12:23, 12:79)",
+      "context_snippet_arabic": "هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ",
+      "context_snippet_turkish_tabula_rasa": "Evinde bulunduğu kadın, ondan murat almak istedi de kapıları sımsıkı kapattı ve hadi dedi, beri gel. O, Allah'a sığınırım dedi; şüphe yok ki kocan, benim...",
+      "morphology": {
+        "lemma": "maEaA*",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maEaA*|ROOT:Ew*|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Evinde bulunduğu kadın, ondan murat almak istedi de kapıları sımsıkı kapattı ve hadi dedi, beri gel. O, Allah'a sığınırım dedi; şüphe yok ki kocan, benim efendimdir ve şüphe yok ki zulmedenler, asla kurtulamaz, muradına eremez.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 12,
+      "ayah": 79,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:79",
+      "word_position": 2,
+      "target_word_uthmani": "مَعَاذَ",
+      "target_word_rasm": "معاذ",
+      "target_word_literal_irab": "Ahlaki ihanet ve haksız cezalandırma karşısında 'Allah'a sığınırım!' diyerek çizilen dokunulmazlık sınırı (مَعَاذَ ٱللَّهِ — mimli mastar: 12:23, 12:79)",
+      "context_snippet_arabic": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a sığınırım dedi, bir başkasını tutup köle yapmaktan; ancak malımızı kimde bulduysak onu köle yaparız biz; yoksa şüphesiz zulmedenlerden oluruz.",
+      "morphology": {
+        "lemma": "maEaA*",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maEaA*|ROOT:Ew*|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a sığınırım dedi, bir başkasını tutup köle yapmaktan; ancak malımızı kimde bulduysak onu köle yaparız biz; yoksa şüphesiz zulmedenlerden oluruz.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 16,
+      "ayah": 98,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:98",
+      "word_position": 4,
+      "target_word_uthmani": "فَٱسْتَعِذْ",
+      "target_word_rasm": "فٱستعذ",
+      "target_word_literal_irab": "Saptırıcı dürtü, kibir ve Kur'an okuma öncesinde bilinçli olarak Allah'ın korumasına sığınmak (فَٱسْتَعِذْ بِٱللَّهِ — Bab X emir fiili: 7:200, 16:98, 40:56, 41:36)",
+      "context_snippet_arabic": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَٰنِ",
+      "context_snippet_turkish_tabula_rasa": "Kur'an okuyacağın vakit Allah'a sığın taşlanmış saptırıcı yıkıcı güç'dan.",
+      "morphology": {
+        "lemma": "{sotaEi*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(X)|LEM:{sotaEi*o|ROOT:Ew*|2MS"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kur'an okuyacağın vakit Allah'a sığın taşlanmış saptırıcı yıkıcı güç'dan.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 19,
+      "ayah": 18,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:18",
+      "word_position": 3,
+      "target_word_uthmani": "أَعُوذُ",
+      "target_word_rasm": "أعوذ",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن",
+      "context_snippet_turkish_tabula_rasa": "O, fenalıklardan çekinen bir adamsan demişti, rahmana sığınırım senden.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "O, fenalıklardan çekinen bir adamsan demişti, rahmana sığınırım senden.",
+      "contextual_meaning": "Saldırgan zorbalara karşı Rahmân'a sığınma ve görünmeyen sahte odaklara sığınmanın (72:6) yalnızca taşkınlığı artırdığının belgelenmesi."
+    },
+    {
+      "surah": 23,
+      "ayah": 97,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:97",
+      "word_position": 3,
+      "target_word_uthmani": "أَعُوذُ",
+      "target_word_rasm": "أعوذ",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Ve de ki: Rabbim, sana sığınırım saptırıcı yıkıcı güçlerin vesveselerinden.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَٰطِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve de ki: Rabbim, sana sığınırım saptırıcı yıkıcı güçlerin vesveselerinden.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 23,
+      "ayah": 98,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:98",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَعُوذُ",
+      "target_word_rasm": "وأعوذ",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَأَعُوذُ بِكَ رَبِّ أَن",
+      "context_snippet_turkish_tabula_rasa": "Ve sana sığınırım Rabbim, onların yanımda bulunmalarından.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve sana sığınırım Rabbim, onların yanımda bulunmalarından.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 40,
+      "ayah": 27,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:27",
+      "word_position": 4,
+      "target_word_uthmani": "عُذْتُ",
+      "target_word_rasm": "عذت",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن",
+      "context_snippet_turkish_tabula_rasa": "Ve Musa, ben dedi, şüphe yok ki soru gününe güven duy her ululuk satan kişinin şerrinden, Rabbime ve Rabbinize sığınırım.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Musa, ben dedi, şüphe yok ki soru gününe güven duy her ululuk satan kişinin şerrinden, Rabbime ve Rabbinize sığınırım.",
+      "contextual_meaning": "Saldırgan zorbalara karşı Rahmân'a sığınma ve görünmeyen sahte odaklara sığınmanın (72:6) yalnızca taşkınlığı artırdığının belgelenmesi."
+    },
+    {
+      "surah": 40,
+      "ayah": 56,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:56",
+      "word_position": 18,
+      "target_word_uthmani": "فَٱسْتَعِذْ",
+      "target_word_rasm": "فٱستعذ",
+      "target_word_literal_irab": "Saptırıcı dürtü, kibir ve Kur'an okuma öncesinde bilinçli olarak Allah'ın korumasına sığınmak (فَٱسْتَعِذْ بِٱللَّهِ — Bab X emir fiili: 7:200, 16:98, 40:56, 41:36)",
+      "context_snippet_arabic": "مَّا هُم بِبَٰلِغِيهِ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ayetleri hakkında, kendilerine hiçbir kesin delil gelmemişken çekişmeye girişenlerin gönüllerinde, ancak ulaşmalarına imkan olmayan bir büyüklenme...",
+      "morphology": {
+        "lemma": "{sotaEi*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(X)|LEM:{sotaEi*o|ROOT:Ew*|2MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يُجَٰدِلُونَ فِىٓ ءَايَٰتِ ٱللَّهِ بِغَيْرِ سُلْطَٰنٍ أَتَىٰهُمْ إِن فِى صُدُورِهِمْ إِلَّا كِبْرٌ مَّا هُم بِبَٰلِغِيهِ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ayetleri hakkında, kendilerine hiçbir kesin delil gelmemişken çekişmeye girişenlerin gönüllerinde, ancak ulaşmalarına imkan olmayan bir büyüklenme duygusu var; artık Allah'a sığın, şüphe yok ki o, duyar, görür.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 41,
+      "ayah": 36,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:36",
+      "word_position": 6,
+      "target_word_uthmani": "فَٱسْتَعِذْ",
+      "target_word_rasm": "فٱستعذ",
+      "target_word_literal_irab": "Saptırıcı dürtü, kibir ve Kur'an okuma öncesinde bilinçli olarak Allah'ın korumasına sığınmak (فَٱسْتَعِذْ بِٱللَّهِ — Bab X emir fiili: 7:200, 16:98, 40:56, 41:36)",
+      "context_snippet_arabic": "مِنَ ٱلشَّيْطَٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Ve eğer saptırıcı yıkıcı güç, seni vesveseye düşürür de bu huydan geçirmeye kalkışırsa hemen sığın Allah'a; şüphe yok ki o, her şeyi duyar, bilir.",
+      "morphology": {
+        "lemma": "{sotaEi*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(X)|LEM:{sotaEi*o|ROOT:Ew*|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve eğer saptırıcı yıkıcı güç, seni vesveseye düşürür de bu huydan geçirmeye kalkışırsa hemen sığın Allah'a; şüphe yok ki o, her şeyi duyar, bilir.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 44,
+      "ayah": 20,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:20",
+      "word_position": 2,
+      "target_word_uthmani": "عُذْتُ",
+      "target_word_rasm": "عذت",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن",
+      "context_snippet_turkish_tabula_rasa": "Ve şüphe yok ki ben Rabbime ve Rabbinize sığınırım beni taşlayıp öldürmenizden.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve şüphe yok ki ben Rabbime ve Rabbinize sığınırım beni taşlayıp öldürmenizden.",
+      "contextual_meaning": "Saldırgan zorbalara karşı Rahmân'a sığınma ve görünmeyen sahte odaklara sığınmanın (72:6) yalnızca taşkınlığı artırdığının belgelenmesi."
+    },
+    {
+      "surah": 72,
+      "ayah": 6,
+      "surah_name": "Cin",
+      "ayah_ref": "72:6",
+      "word_position": 6,
+      "target_word_uthmani": "يَعُوذُونَ",
+      "target_word_rasm": "يعوذون",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ",
+      "context_snippet_turkish_tabula_rasa": "Ve gene şüphe yok ki insanlardan bazı kimseler, görünmeyen bilinçli varlıklardan bazılarına sığınıyorlar da onların taşkınlığını, zulümlerini arttırıyorlar.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gene şüphe yok ki insanlardan bazı kimseler, görünmeyen bilinçli varlıklardan bazılarına sığınıyorlar da onların taşkınlığını, zulümlerini arttırıyorlar.",
+      "contextual_meaning": "Saldırgan zorbalara karşı Rahmân'a sığınma ve görünmeyen sahte odaklara sığınmanın (72:6) yalnızca taşkınlığı artırdığının belgelenmesi."
+    },
+    {
+      "surah": 113,
+      "ayah": 1,
+      "surah_name": "Felak",
+      "ayah_ref": "113:1",
+      "word_position": 2,
+      "target_word_uthmani": "أَعُوذُ",
+      "target_word_rasm": "أعوذ",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Sığınırım karanlığı yarıp ışıtan sabahın Rabbine.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Sığınırım karanlığı yarıp ışıtan sabahın Rabbine.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    },
+    {
+      "surah": 114,
+      "ayah": 1,
+      "surah_name": "Nâs",
+      "ayah_ref": "114:1",
+      "word_position": 2,
+      "target_word_uthmani": "أَعُوذُ",
+      "target_word_rasm": "أعوذ",
+      "target_word_literal_irab": "Cehaletten, saldırgandan, saptırıcı dürtülerden ve her türlü yıkıcı şerden sağlam bir koruma kalesine sığınmak (أَعُوذُ / عُذْتُ / يَعُوذُونَ — Bab I fiil: 10 geçiş)",
+      "context_snippet_arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Sığınırım insanların Rabbine.",
+      "morphology": {
+        "lemma": "Eu*o",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Eu*o|ROOT:Ew*|1S"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Sığınırım insanların Rabbine.",
+      "contextual_meaning": "Bilinç, ahlak ve öz-denetim kalkanı olarak Allah'a sığınma (ٱسْتِعَاذَة / مَعَاذَ ٱللَّهِ): cehalete, ihanete, saptırıcı dürtülere ve gizli/açık şerlere kapıyı kapatmak."
+    }
+  ]
+}

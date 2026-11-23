@@ -1,0 +1,545 @@
+{
+  "root": "غ-ض-ب",
+  "root_latin": "G-D-B (gDb)",
+  "concept_name": "Gadab ve Mağdûb (Kaya Gibi Sertleşen Öfke, Öfkeyi Bağışlamayla Dizginlemek ve Zulme Çöken Ağır Yaptırım)",
+  "rank": 357,
+  "total_occurrences": 24,
+  "unique_ayahs_count": 21,
+  "unified_core_mechanism": "Kaya gibi sertleşip şiddetlenmek; insani düzlemde haksızlık karşısında kabaran ancak bağışlamayla dizginlenmesi gereken öfke tepkisi (42:37, 7:154), ilahi/sistemik düzlemde ise gerçeği ve nimeti bilerek çiğneyen kasıtlı zulüm ve azgınlığın üzerine çöken ağır yaptırım karşılığı (1:7, 4:93, 20:81).",
+  "physical_core": "Sert ve yekpare kaya kütlesi (الغَضْبَة: الصخرة الصلبة) gibi katılaşıp şiddetlenmek; yumuşaklık ve hoşnutluğun (رِضْوَان) karşıtı olarak, haksızlık ve sınır aşımı karşısında sertleşen şiddetli öfke ve ağır yaptırım.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîs*): Kökün tek sahih aslı şiddet, sertlik ve kuvvettir (`أصل صحيح يدل على شدة وقوة`). Somut doğada `الغَضْبَة` yekpare sert kayadır (`الصخرة الصلبة`); öfke anlamına gelen `الغَضَب` da hoşnutsuzluğun sertleşip şiddetlenmesinden türemiştir.",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*): `الغَضَب` hoşnutluğun (`الرِّضَا`) tam zıttıdır; `غَضِبَ عَلَيْهِ` birine karşı öfkelenip sertleşmektir; somut kökte `غَضْبَة` dağdaki sert kaya parçası veya deve derisindeki sertliktir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*): İnsanda `غَضَب` intikam arzusuyla damarların/kanın kabarmasıdır; Allah'a nispet edildiğinde ise duygusal bir taşkınlık değil, kasıtlı suç ve zulüm işleyenlere yönelik kesin cezalandırma ve yaptırım iradesidir.",
+    "arbitration_decision": "Hakem Masası Kararı: İbn Fâris'in tespit ettiği 'sert kaya (`الغَضْبَة`) gibi katılaşıp şiddetlenme' fiziksel çekirdeği, Kur'an'daki iki katmanı tek mekanizmada birleştirir: (1) İnsani düzlemde öfke sertleşmesinin yutulup bağışlamaya dönüştürülmesi (`42:37`, `7:154`), (2) Sistemik/İlahi düzlemde ise `20:81` (`وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى`) ve `4:93` uyarınca hakikat bilincine ve nimete (`1:7`) rağmen kasıtlı cinayet, azgınlık ve ihanete sapanların üzerine çöken ağır yaptırım karşılığı."
+  },
+  "semitic_cognates": {
+    "note": "Klasik Arapça ve Güney Arapça/Sebece içinde `g-ḍ-b` ('sertleşmek, öfkelenmek') olarak yerleşiktir; Kuzeybatı Sami dillerinde (İbranice/Aramice) öfke kavramı `ק-צ-ף` (*q-ṣ-p*) ve `ח-ר-ה` (*ḥ-r-h*) kökleriyle karşılandığından Arapça `غ-ض-ب` ('sert kaya -> şiddetli öfke') semantik özelleşmesiyle ayrışır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ن-ع-م [صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ] (Üzerlerine İlahi Nimet ve Rehberlik İhsan Edilenler [أَنْعَمْتَ عَلَيْهِمْ] ↔ Bile Bile Zulme Sapıp Üzerlerine Gazap/Yaptırım Çökenler [ٱلْمَغْضُوبِ عَلَيْهِمْ]: 1:7)",
+      "غ-ف-ر [وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ] (Öfkelenip Sertleşmek [غَضِبُوا۟] ↔ Öfkeyi Dizginleyip Kusuru Örterek Bağışlamak [يَغْفِرُونَ]: 42:37, 7:154-155)",
+      "ر-ض-و [أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٍ مِّنَ ٱللَّهِ / وَغَضِبَ ٱللَّهُ عَلَيْهِمْ] (Allah'ın Hoşnutluğu ve Onayı [رِضْوَٰن] ↔ Ağır Öfke ve Yaptırım Karşılığı [غَضَب]: 3:162, 48:6, 48:18, 5:60)",
+      "ع-ف-و [وَٱلْكَٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ / وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ] (Öfkeyle Sertleşmek ↔ Öfkeyi Yutup İnsanları Affetmek: 3:134, 42:37)"
+    ],
+    "key_ayahs": [
+      "1:7",
+      "2:61",
+      "4:93",
+      "7:150",
+      "7:154",
+      "20:81",
+      "42:37"
+    ],
+    "reverse_stress_test": "Fâtiha `1:7` ayetinde `أَنْعَمْتَ عَلَيْهِمْ` (üzerlerine yapıcı nimet ve rehberlik ihsan ettiklerin) kutbunun tam karşısına `غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ` (üzerlerine gazap/öfke çökmüş olanlar değil) ve `وَلَا ٱلضَّآلِّينَ` (yolunu şaşıranlar da değil) konmuştur. Ayrıca `42:37`'de `وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ` ile öfkenin (`غ-ض-ب`) karşıtı olarak koruyucu bağışlama (`غ-ف-ر`) gösterilmiştir. Nimet (`ن-ع-م`), hoşnutluk (`ر-ض-و`) ve bağışlama (`غ-ف-ر / ع-ف-و`) köklerinin tüm Kur'an kullanımlarının tersi alındığında; `غ-ض-ب` kökünün 'hakikati bilerek çiğneyen azgınlığa (`20:81`, `4:93`) karşı sertleşen ağır tepki ve yaptırım' çekirdeği %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ض-ل-ل (1:7 غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ — Bilerek zulme sapıp gazaba uğrayanlar vs doğru yolu kaybedip şaşıranlar)",
+      "أ-س-ف (7:150, 20:86 غَضْبَٰنَ أَسِفًا — Haksızlığa karşı sert öfke [غَضْبَٰنَ] vs yaşanan kayba duyulan derin iç üzüntüsü/esef [أَسِفًا])",
+      "ل-ع-ن (4:93, 5:60, 48:6 وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ — Ağır yaptırım öfkesi [غَضَب] vs rahmet ve onur halkasından dışlanma [لَعْن])"
+    ],
+    "mechanical_difference": "Fâtiha `1:7`'de `ٱلْمَغْضُوبِ عَلَيْهِمْ` ile `ٱلضَّآلِّينَ` arasındaki Furûk Kur'an'ın kendi ayetleriyle (`2:61`, `2:90`, `4:93`, `20:81`) kilitlidir: `غ-ض-ب` gerçeği ve hakkı bildiği hâlde kibir, kıskançlık (`2:90`), kasıtlı cinayet (`4:93`) ve azgınlıkla (`20:81`) sınırı çiğneyenlerin hak ettiği ağır yaptırımdır; `ض-ل-ل` ise pusulayı ve doğru yöntemi yitirerek yoldan sapmaktır. `غَيْظ` (`3:134`) içte kaynayan yakıcı hiddet iken, `غَضَب` dışa ve hükme yansıyan sert tepki ve yaptırımdır."
+  },
+  "anchor_ayahs": [
+    "1:7",
+    "2:61",
+    "4:93",
+    "7:150",
+    "7:154",
+    "20:81",
+    "21:87",
+    "42:37"
+  ],
+  "grammar_and_branch_rules": "İsm-i mef'ûl kalıbında (`ٱلْمَغْضُوبِ عَلَيْهِمْ` 1:7) herhangi bir etnik grubu değil, kasıtlı zulüm ve ihanetleriyle üzerlerine yaptırım çöken evrensel karakter tipini; Bab I fiil (`غَضِبَ` 4:93, 42:37) ve mastar (`غَضَب`) kalıbında `عَلَىٰ` harf-i ceriyle suçlunun üzerine inen ağır karşılığı; `غَضْبَٰنَ` (`7:150`, `20:86`) ve Bab III `مُغَٰضِبًا` (`21:87`) kalıplarında ise elçilerin sapma ve inat karşısındaki sert tepkisini ifade eder.",
+  "derivatives": {
+    "ٱلْمَغْضُوبِ عَلَيْهِمْ": "Gerçeği ve nimeti bilerek çiğnedikleri için üzerlerine ağır öfke/yaptırım çökmüş olanlar (1:7)",
+    "غَضَبٌ / غَضَبِى": "Şiddetli öfke ve kasıtlı azgınlığa yönelik ağır yaptırım karşılığı (2:61, 2:90, 7:154, 20:81)",
+    "غَضِبَ / غَضِبُوا۟": "Öfkelenmek; kasıtlı suça ağır yaptırım uygulamak (4:93, 42:37, 48:6)",
+    "غَضْبَٰنَ": "Öfkeyle dolmuş, sert tepkili (7:150, 20:86)",
+    "مُغَٰضِبًا": "Karşılıklı tepki ve öfkeyle ayrılarak (21:87)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 1,
+      "ayah": 7,
+      "surah_name": "Fâtiha",
+      "ayah_ref": "1:7",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمَغْضُوبِ",
+      "target_word_rasm": "ٱلمغضوب",
+      "target_word_literal_irab": "Nimeti ve doğru yolu bildikleri hâlde kasıtlı zulme saparak üzerlerine ağır yaptırım/öfke çökmüş olanlar (غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ — Bab I ism-i mef'ûl: 1:7)",
+      "context_snippet_arabic": "أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "context_snippet_turkish_tabula_rasa": "nimetlendirdiğin kişilerin yolunu; gazebe uğramışların da değil, sapıkların da",
+      "morphology": {
+        "lemma": "magoDuwb",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:magoDuwb|ROOT:gDb|M|GEN"
+      },
+      "ayah_text_arabic_full": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "nimetlendirdiğin kişilerin yolunu; gazebe uğramışların da değil, sapıkların da",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 61,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:61",
+      "word_position": 42,
+      "target_word_uthmani": "بِغَضَبٍ",
+      "target_word_rasm": "بغضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Bir zaman demiştiniz ki: Ya Musa, biz bir türlü yemeğe dayanamayız. Rabbinden bizim için iste de bize yerin yetiştirdiği şeylerden versin. Yerden yeşillik,...",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir zaman demiştiniz ki: Ya Musa, biz bir türlü yemeğe dayanamayız. Rabbinden bizim için iste de bize yerin yetiştirdiği şeylerden versin. Yerden yeşillik, kabak, sarımsak, mercimek, soğan bitirsin. Musa demişti ki: Daha hayırlı olanı, ondan daha aşağılık bir şeyle değiştirmek mi istiyorsunuz? Mısır'a inin, orada dilediğiniz şey var. Üzerlerine aşağılık ve yoksulluk çullanmıştı, Allah'ın da gazabına uğradılar. Evet, öyle de oldu; çünkü Allah'ın delillerine güven duy, haksız yere elçileri öldürüyorlardı. Evet, öyle de oldu; çünkü isyana boğulmuşlardı, çünkü aşırı gidiyorlardı.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 90,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:90",
+      "word_position": 22,
+      "target_word_uthmani": "بِغَضَبٍ",
+      "target_word_rasm": "بغضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "مِنْ عِبَادِهِۦ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍ وَلِلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ne pis şeydir o kendilerini satmaları, bu suretle de Allah'ın indirdiği Kur'an'a gerçeğin üzerini örten olmaları, Allah'ın, kullarından dilediğine ihsan edip kitap indirmesine haset ederek gerçeğin üzerini örten bulunmaları. Bu yüzden gazap üstüne gazaba uğradılar. gerçeğin üzerini örtenler için aşağılık bir azap var.",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍ وَلِلْكَٰفِرِينَ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ne pis şeydir o kendilerini satmaları, bu suretle de Allah'ın indirdiği Kur'an'a gerçeğin üzerini örten olmaları, Allah'ın, kullarından dilediğine ihsan edip kitap indirmesine haset ederek gerçeğin üzerini örten bulunmaları. Bu yüzden gazap üstüne gazaba uğradılar. gerçeğin üzerini örtenler için aşağılık bir azap var.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 2,
+      "ayah": 90,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:90",
+      "word_position": 24,
+      "target_word_uthmani": "غَضَبٍ",
+      "target_word_rasm": "غضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍ وَلِلْكَٰفِرِينَ عَذَابٌ مُّهِينٌ",
+      "context_snippet_turkish_tabula_rasa": "Ne pis şeydir o kendilerini satmaları, bu suretle de Allah'ın indirdiği Kur'an'a gerçeğin üzerini örten olmaları, Allah'ın, kullarından dilediğine ihsan edip kitap indirmesine haset ederek gerçeğin üzerini örten bulunmaları. Bu yüzden gazap üstüne gazaba uğradılar. gerçeğin üzerini örtenler için aşağılık bir azap var.",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍ وَلِلْكَٰفِرِينَ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ne pis şeydir o kendilerini satmaları, bu suretle de Allah'ın indirdiği Kur'an'a gerçeğin üzerini örten olmaları, Allah'ın, kullarından dilediğine ihsan edip kitap indirmesine haset ederek gerçeğin üzerini örten bulunmaları. Bu yüzden gazap üstüne gazaba uğradılar. gerçeğin üzerini örtenler için aşağılık bir azap var.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 3,
+      "ayah": 112,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:112",
+      "word_position": 15,
+      "target_word_uthmani": "بِغَضَبٍ",
+      "target_word_rasm": "بغضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ",
+      "context_snippet_turkish_tabula_rasa": "Nerede bulunurlarsa bulunsunlar, aşağılık bir hale getirilmiştir onlar; ancak Allah'ın ipine ve insanların yapıştıkları ipe yapışanlar müstesna. Allah'ın...",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nerede bulunurlarsa bulunsunlar, aşağılık bir hale getirilmiştir onlar; ancak Allah'ın ipine ve insanların yapıştıkları ipe yapışanlar müstesna. Allah'ın gazabına uğradılar ve üstlerine miskinlik çullandı. Bu da Allah'ın delillerini gerçeğin üzerini ört ve haksız yere elçileri öldürdükleri için, bu da isyan ettikleri ve hadlerini aştıkları için.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 4,
+      "ayah": 93,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:93",
+      "word_position": 9,
+      "target_word_uthmani": "وَغَضِبَ",
+      "target_word_rasm": "وغضب",
+      "target_word_literal_irab": "Kasıtlı zulüm ve ihanete karşı ağır yaptırımın hak edilmesi (4:93, 5:60, 48:6, 58:14, 60:13) ve öfkelendiklerinde bile bağışlayan olgun bilinç (42:37) (غَضِبَ / غَضِبُوا۟ — Bab I fiil)",
+      "context_snippet_arabic": "جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ve kim bir güvene ereni kasten öldürürse cezası yakıcı yıkım yurduna atılmaktır, ebedi kalır orada ve Allah ona gazap eder ve rahmetinden uzaklaştırır onu ve ona pek büyük bir azap hazırlamıştır da.",
+      "morphology": {
+        "lemma": "gaDiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:gaDiba|ROOT:gDb|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim bir güvene ereni kasten öldürürse cezası yakıcı yıkım yurduna atılmaktır, ebedi kalır orada ve Allah ona gazap eder ve rahmetinden uzaklaştırır onu ve ona pek büyük bir azap hazırlamıştır da.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 5,
+      "ayah": 60,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:60",
+      "word_position": 13,
+      "target_word_uthmani": "وَغَضِبَ",
+      "target_word_rasm": "وغضب",
+      "target_word_literal_irab": "Kasıtlı zulüm ve ihanete karşı ağır yaptırımın hak edilmesi (4:93, 5:60, 48:6, 58:14, 60:13) ve öfkelendiklerinde bile bağışlayan olgun bilinç (42:37) (غَضِبَ / غَضِبُوا۟ — Bab I fiil)",
+      "context_snippet_arabic": "مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Bundan daha fena olanları, Allah'ın cezasına uğramış bulunanları haber vereyim mi size? Allah'ın lanet ettiği, gazabına uğrattığı, içlerinden bir...",
+      "morphology": {
+        "lemma": "gaDiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:gaDiba|ROOT:gDb|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ أُو۟لَٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Bundan daha fena olanları, Allah'ın cezasına uğramış bulunanları haber vereyim mi size? Allah'ın lanet ettiği, gazabına uğrattığı, içlerinden bir kısmını maymun ve domuz şekline soktuğu kişiler ve saptırıcı yıkıcı güç'a tapanlar. İşte bunlardır yeri daha kötü olanlar, doğru yoldan daha fazla sapmış bulunanlar.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 7,
+      "ayah": 71,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:71",
+      "word_position": 8,
+      "target_word_uthmani": "وَغَضَبٌ",
+      "target_word_rasm": "وغضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍ",
+      "context_snippet_turkish_tabula_rasa": "O, Rabbinizden azaba ve gazaba uğramayı hakettiniz dedi, Allah'ın, haklarında hiçbir delil indirmediği ve ancak sizin ve atalarınızın taktığı birtakım adlar...",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, Rabbinizden azaba ve gazaba uğramayı hakettiniz dedi, Allah'ın, haklarında hiçbir delil indirmediği ve ancak sizin ve atalarınızın taktığı birtakım adlar için benimle çekişmeye kalkıyorsunuz demek, o halde bekleyin, şüphe yok ki ben de sizinle beraber bekleyenlerdenim.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 7,
+      "ayah": 150,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:150",
+      "word_position": 6,
+      "target_word_uthmani": "غَضْبَٰنَ",
+      "target_word_rasm": "غضبن",
+      "target_word_literal_irab": "Haksızlık ve sapma karşısında sert öfke ve üzüntüyle dolmuş hâlde (غَضْبَٰنَ أَسِفًا — sıfat-ı müşebbehe: 7:150, 20:86)",
+      "context_snippet_arabic": "مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا",
+      "context_snippet_turkish_tabula_rasa": "Musa, kızgın bir halde acıklanarak kavmine dönünce dedi ki: Benden sonra ne de kötü bir iş işlediniz, Rabbinizin vaadettiği müddet bitmeden acele mi ettiniz?...",
+      "morphology": {
+        "lemma": "gaDoba`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDoba`n|ROOT:gDb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, kızgın bir halde acıklanarak kavmine dönünce dedi ki: Benden sonra ne de kötü bir iş işlediniz, Rabbinizin vaadettiği müddet bitmeden acele mi ettiniz? Ve levihleri atıp kardeşinin saçından, sakalından tutarak kendisine doğru çekmeye başladı. Harun, anam oğlu dedi, bu kavim, gerçekten de aciz bıraktı beni, az kaldı ki öldürüyorlardı da, onun için bana bu harekette bulunup düşmanları sevindirme ve beni zulmeden kavimle beraber tutma.",
+      "contextual_meaning": "Beşerî öfke tepkisi ve öz-denetim: Mûsâ ve Yûnus kıssalarındaki tepki ile olgun insanların öfkelendiklerinde kusuru örterek bağışlaması (وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ)."
+    },
+    {
+      "surah": 7,
+      "ayah": 152,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:152",
+      "word_position": 6,
+      "target_word_uthmani": "غَضَبٌ",
+      "target_word_rasm": "غضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "ٱتَّخَذُوا۟ ٱلْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَذِلَّةٌ",
+      "context_snippet_turkish_tabula_rasa": "Buzağıyı mabud edinenler, Rablerinden bir gazaba uğrayacaklar, dünya yaşayışında aşağılık bir hale düşeceklerdir ve biz, iftiracıları böyle cezalandırırız.",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ٱتَّخَذُوا۟ ٱلْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَذِلَّةٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَكَذَٰلِكَ نَجْزِى ٱلْمُفْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Buzağıyı mabud edinenler, Rablerinden bir gazaba uğrayacaklar, dünya yaşayışında aşağılık bir hale düşeceklerdir ve biz, iftiracıları böyle cezalandırırız.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 7,
+      "ayah": 154,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:154",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْغَضَبُ",
+      "target_word_rasm": "ٱلغضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ وَفِى",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın öfkesi yatışınca levihleri aldı. Tevrat'ın yazılı olduğu o levihlerde, hidayet ve rahmet, Rablerinden korkanlara aittir diye de yazılmıştı.",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ وَفِى نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın öfkesi yatışınca levihleri aldı. Tevrat'ın yazılı olduğu o levihlerde, hidayet ve rahmet, Rablerinden korkanlara aittir diye de yazılmıştı.",
+      "contextual_meaning": "Beşerî öfke tepkisi ve öz-denetim: Mûsâ ve Yûnus kıssalarındaki tepki ile olgun insanların öfkelendiklerinde kusuru örterek bağışlaması (وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ)."
+    },
+    {
+      "surah": 8,
+      "ayah": 16,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:16",
+      "word_position": 14,
+      "target_word_uthmani": "بِغَضَبٍ",
+      "target_word_rasm": "بغضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "فِئَةٍ فَقَدْ بَآءَ بِغَضَبٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Ve kim, tekrar savaşmak için bir tarafa çekilmek, yahut bir bölüğe ulaşmak niyetinde olmadan öyle bir günde onlara arka çevirir, dönerse muhakkak Allah'ın...",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَن يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍ فَقَدْ بَآءَ بِغَضَبٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve kim, tekrar savaşmak için bir tarafa çekilmek, yahut bir bölüğe ulaşmak niyetinde olmadan öyle bir günde onlara arka çevirir, dönerse muhakkak Allah'ın gazabına uğrayacaktır, yurdu yakıcı yıkım yurdudur ve orası, dönüp varılacak ne kötü bir yerdir.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 16,
+      "ayah": 106,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:106",
+      "word_position": 19,
+      "target_word_uthmani": "غَضَبٌ",
+      "target_word_rasm": "غضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Canla, gönülle güven duy ve yüreği, güven duy yatışmışken zorla, cebirle, istemediği halde yaşam sisteminden döndüğünü söyleyenden başka güven duy sonra...",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Canla, gönülle güven duy ve yüreği, güven duy yatışmışken zorla, cebirle, istemediği halde yaşam sisteminden döndüğünü söyleyenden başka güven duy sonra Allah'ı gerçeğin üzerini örten, hatta gerçeğin üzerini örten yüreği genişleyen, hoşlanan kişi yok mu, bu çeşit kişileredir Allah'ın gazabı ve onlara pek büyük bir azap var.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 20,
+      "ayah": 81,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:81",
+      "word_position": 11,
+      "target_word_uthmani": "غَضَبِى",
+      "target_word_rasm": "غضبى",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن يَحْلِلْ عَلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "Sizi rızıklandırdığımız tertemiz şeyleri yiyin ve bu hususta taşkınlık etmeyin, sonra size gazabım vacip olur ve kime gazabım vacip olursa uçuruma yuvarlanır,...",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|NOM"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi rızıklandırdığımız tertemiz şeyleri yiyin ve bu hususta taşkınlık etmeyin, sonra size gazabım vacip olur ve kime gazabım vacip olursa uçuruma yuvarlanır, helak olur gider.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 20,
+      "ayah": 81,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:81",
+      "word_position": 15,
+      "target_word_uthmani": "غَضَبِى",
+      "target_word_rasm": "غضبى",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sizi rızıklandırdığımız tertemiz şeyleri yiyin ve bu hususta taşkınlık etmeyin, sonra size gazabım vacip olur ve kime gazabım vacip olursa uçuruma yuvarlanır,...",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|NOM"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi rızıklandırdığımız tertemiz şeyleri yiyin ve bu hususta taşkınlık etmeyin, sonra size gazabım vacip olur ve kime gazabım vacip olursa uçuruma yuvarlanır, helak olur gider.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 20,
+      "ayah": 86,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:86",
+      "word_position": 5,
+      "target_word_uthmani": "غَضْبَٰنَ",
+      "target_word_rasm": "غضبن",
+      "target_word_literal_irab": "Haksızlık ve sapma karşısında sert öfke ve üzüntüyle dolmuş hâlde (غَضْبَٰنَ أَسِفًا — sıfat-ı müşebbehe: 7:150, 20:86)",
+      "context_snippet_arabic": "مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ يَٰقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Musa, öfkeli bir halde hayıflanarak kavmine döndü de ey kavmim dedi, Rabbiniz size güzel bir farzda vaitte bulunmadı mı, çok mu uzun sürdü sizden ayrılışım, yoksa Rabbinizin gazabının vacip olmasını mı dilediniz size de bana verdiğiniz sözden caydınız?",
+      "morphology": {
+        "lemma": "gaDoba`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDoba`n|ROOT:gDb|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ يَٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, öfkeli bir halde hayıflanarak kavmine döndü de ey kavmim dedi, Rabbiniz size güzel bir farzda vaitte bulunmadı mı, çok mu uzun sürdü sizden ayrılışım, yoksa Rabbinizin gazabının vacip olmasını mı dilediniz size de bana verdiğiniz sözden caydınız?",
+      "contextual_meaning": "Beşerî öfke tepkisi ve öz-denetim: Mûsâ ve Yûnus kıssalarındaki tepki ile olgun insanların öfkelendiklerinde kusuru örterek bağışlaması (وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ)."
+    },
+    {
+      "surah": 20,
+      "ayah": 86,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:86",
+      "word_position": 22,
+      "target_word_uthmani": "غَضَبٌ",
+      "target_word_rasm": "غضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم",
+      "context_snippet_turkish_tabula_rasa": "Musa, öfkeli bir halde hayıflanarak kavmine döndü de ey kavmim dedi, Rabbiniz size güzel bir farzda vaitte bulunmadı mı, çok mu uzun sürdü sizden ayrılışım, yoksa Rabbinizin gazabının vacip olmasını mı dilediniz size de bana verdiğiniz sözden caydınız?",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ يَٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, öfkeli bir halde hayıflanarak kavmine döndü de ey kavmim dedi, Rabbiniz size güzel bir farzda vaitte bulunmadı mı, çok mu uzun sürdü sizden ayrılışım, yoksa Rabbinizin gazabının vacip olmasını mı dilediniz size de bana verdiğiniz sözden caydınız?",
+      "contextual_meaning": "Beşerî öfke tepkisi ve öz-denetim: Mûsâ ve Yûnus kıssalarındaki tepki ile olgun insanların öfkelendiklerinde kusuru örterek bağışlaması (وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ)."
+    },
+    {
+      "surah": 21,
+      "ayah": 87,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:87",
+      "word_position": 5,
+      "target_word_uthmani": "مُغَٰضِبًا",
+      "target_word_rasm": "مغضبا",
+      "target_word_literal_irab": "Kavminin inadına karşı tepki ve öfترك (öfkelenmiş) olarak ayrılan (مُغَٰضِبًا — Bab III ism-i fâil: 21:87)",
+      "context_snippet_arabic": "ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن",
+      "context_snippet_turkish_tabula_rasa": "Ve Zünnun da hani öfkelenip gitmişti de sanmıştı ki bizim gücümüz yetmeyecek ona; derken karanlıklarda nida ederek gerçekten de senden başka yoktur tapacak, tenzih ederim seni ve şüphe yok ki ben, zalimlerden oldum demişti.",
+      "morphology": {
+        "lemma": "muga`Dib",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(III)|LEM:muga`Dib|ROOT:gDb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Zünnun da hani öfkelenip gitmişti de sanmıştı ki bizim gücümüz yetmeyecek ona; derken karanlıklarda nida ederek gerçekten de senden başka yoktur tapacak, tenzih ederim seni ve şüphe yok ki ben, zalimlerden oldum demişti.",
+      "contextual_meaning": "Beşerî öfke tepkisi ve öz-denetim: Mûsâ ve Yûnus kıssalarındaki tepki ile olgun insanların öfkelendiklerinde kusuru örterek bağışlaması (وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ)."
+    },
+    {
+      "surah": 24,
+      "ayah": 9,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:9",
+      "word_position": 3,
+      "target_word_uthmani": "غَضَبَ",
+      "target_word_rasm": "غضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "وَٱلْخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيْهَآ إِن",
+      "context_snippet_turkish_tabula_rasa": "Beşincide, kocam doğru söyleyenlerdense gerçekten de Allah'ın gazabı bana der.",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلْخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيْهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Beşincide, kocam doğru söyleyenlerdense gerçekten de Allah'ın gazabı bana der.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 42,
+      "ayah": 16,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:16",
+      "word_position": 15,
+      "target_word_uthmani": "غَضَبٌ",
+      "target_word_rasm": "غضب",
+      "target_word_literal_irab": "Kasıtlı ihanet, cinayet ve azgınlığa karşı sertleşen ağır yaptırım karşılığı ve öfke (بِغَضَبٍ / غَضَبٌ / ٱلْغَضَبُ / غَضَبِى — mastar/isim: 14 geçiş)",
+      "context_snippet_arabic": "عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ",
+      "context_snippet_turkish_tabula_rasa": "Halk tarafından, ona icabet edildikten sonra Allah hakkında cedelleşmeye girişenlerin gösterdikleri düşmanlık, Rableri katında boştur ve onlaradır gazep ve...",
+      "morphology": {
+        "lemma": "gaDab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:gaDab|ROOT:gDb|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Halk tarafından, ona icabet edildikten sonra Allah hakkında cedelleşmeye girişenlerin gösterdikleri düşmanlık, Rableri katında boştur ve onlaradır gazep ve onlaradır çetin bir azap.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 42,
+      "ayah": 37,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:37",
+      "word_position": 8,
+      "target_word_uthmani": "غَضِبُوا۟",
+      "target_word_rasm": "غضبوا",
+      "target_word_literal_irab": "Kasıtlı zulüm ve ihanete karşı ağır yaptırımın hak edilmesi (4:93, 5:60, 48:6, 58:14, 60:13) ve öfkelendiklerinde bile bağışlayan olgun bilinç (42:37) (غَضِبَ / غَضِبُوا۟ — Bab I fiil)",
+      "context_snippet_arabic": "وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve suçların büyüklerinden ve çirkin şeylerden kaçınanlara ve kızdıkları zaman, suçları örtenlere.",
+      "morphology": {
+        "lemma": "gaDiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:gaDiba|ROOT:gDb|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve suçların büyüklerinden ve çirkin şeylerden kaçınanlara ve kızdıkları zaman, suçları örtenlere.",
+      "contextual_meaning": "Beşerî öfke tepkisi ve öz-denetim: Mûsâ ve Yûnus kıssalarındaki tepki ile olgun insanların öfkelendiklerinde kusuru örterek bağışlaması (وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ)."
+    },
+    {
+      "surah": 48,
+      "ayah": 6,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:6",
+      "word_position": 13,
+      "target_word_uthmani": "وَغَضِبَ",
+      "target_word_rasm": "وغضب",
+      "target_word_literal_irab": "Kasıtlı zulüm ve ihanete karşı ağır yaptırımın hak edilmesi (4:93, 5:60, 48:6, 58:14, 60:13) ve öfkelendiklerinde bile bağışlayan olgun bilinç (42:37) (غَضِبَ / غَضِبُوا۟ — Bab I fiil)",
+      "context_snippet_arabic": "عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, erkek ve kadın iki çıkışlı kaypakları ve erkek ve kadın otoriteyi bölüşme ve ortak koşma koşanları azaplandırsın diye, kötülük, dönüp başlarına gelesi helak olasılar ve Allah gazap etmiştir onlara ve lanetlemiştir onları ve hazırlamıştır onlara yakıcı yıkım yurdunu ve orası, gidilecek ne de kötü yerdir.",
+      "morphology": {
+        "lemma": "gaDiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:gaDiba|ROOT:gDb|3MS"
+      },
+      "ayah_text_arabic_full": "وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, erkek ve kadın iki çıkışlı kaypakları ve erkek ve kadın otoriteyi bölüşme ve ortak koşma koşanları azaplandırsın diye, kötülük, dönüp başlarına gelesi helak olasılar ve Allah gazap etmiştir onlara ve lanetlemiştir onları ve hazırlamıştır onlara yakıcı yıkım yurdunu ve orası, gidilecek ne de kötü yerdir.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 58,
+      "ayah": 14,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:14",
+      "word_position": 7,
+      "target_word_uthmani": "غَضِبَ",
+      "target_word_rasm": "غضب",
+      "target_word_literal_irab": "Kasıtlı zulüm ve ihanete karşı ağır yaptırımın hak edilmesi (4:93, 5:60, 48:6, 58:14, 60:13) ve öfkelendiklerinde bile bağışlayan olgun bilinç (42:37) (غَضِبَ / غَضِبُوا۟ — Bab I fiil)",
+      "context_snippet_arabic": "ٱلَّذِينَ تَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم مَّا",
+      "context_snippet_turkish_tabula_rasa": "Bakmaz mısın şunlara ki Allah'ın gazap ettiği bir topluluğa dostluk ederler; onlar, ne sizdendir, ne onlardan ve bilip dururken de yalan yere kesin and ederler.",
+      "morphology": {
+        "lemma": "gaDiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:gaDiba|ROOT:gDb|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ تَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى ٱلْكَذِبِ وَهُمْ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bakmaz mısın şunlara ki Allah'ın gazap ettiği bir topluluğa dostluk ederler; onlar, ne sizdendir, ne onlardan ve bilip dururken de yalan yere kesin and ederler.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    },
+    {
+      "surah": 60,
+      "ayah": 13,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:13",
+      "word_position": 7,
+      "target_word_uthmani": "غَضِبَ",
+      "target_word_rasm": "غضب",
+      "target_word_literal_irab": "Kasıtlı zulüm ve ihanete karşı ağır yaptırımın hak edilmesi (4:93, 5:60, 48:6, 58:14, 60:13) ve öfkelendiklerinde bile bağışlayan olgun bilinç (42:37) (غَضِبَ / غَضِبُوا۟ — Bab I fiil)",
+      "context_snippet_arabic": "لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, Allah'ın gazabına uğrattığı toplulukla dostluk etmeyin; gerçekten de onlar, ahiretten, tamamıyla ümitlerini kesmişler, nitekim gerçeğin...",
+      "morphology": {
+        "lemma": "gaDiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:gaDiba|ROOT:gDb|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْءَاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَٰبِ ٱلْقُبُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, Allah'ın gazabına uğrattığı toplulukla dostluk etmeyin; gerçekten de onlar, ahiretten, tamamıyla ümitlerini kesmişler, nitekim gerçeğin üzerini örtenler de, kabirlerdekilerden tamamıyla ümit kesmişlerdir.",
+      "contextual_meaning": "Nimet (أَنْعَمْتَ عَلَيْهِمْ) ve hoşnutluğun (رِضْوَان) karşıtı olarak kasıtlı cinayet, azgınlık (طُغْيَان) ve ihanetin üzerine çöken ağır yaptırım karşılığı (غَضَب / ٱلْمَغْضُوبِ عَلَيْهِمْ)."
+    }
+  ]
+}
