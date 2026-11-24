@@ -46557,5 +46557,82 @@
       }
     ],
     "context_default": "Tepe noktası, baş veya asıl ana gövde bağlamı"
+  },
+  "خ-ص-م": {
+    "buckwalter": "xSm",
+    "slug": "xsm",
+    "concept_name": "Hasm, Husûmet ve İhtisâm (Karşıt Cephede Davalaşma ve Çekişme)",
+    "keywords": [
+      "hasım",
+      "çekişme",
+      "dava",
+      "tartışma",
+      "taraf"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{xotaSamu",
+        "label": "Bab VIII fiil (`اِخْتَصَمُوا۟ / يَخْتَصِمُونَ / يَخِصِّمُونَ / لَا تَخْتَصِمُوا۟` — 8 geçiş) — karşılıklı çekişme ve davalaşma"
+      },
+      {
+        "lemma": "xaSiym",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Çoğul isim (`ٱلْخِصَامِ` — 2:204, 43:18) — tartışma ve hasımlaşma alanı"
+      },
+      {
+        "lemma": "xaSiym",
+        "label": "Tekil isim/sıfat (`خَصِيمٌ / خَصِيمًا` — 4:105, 16:4, 36:77) — açık savunucu veya itirazcı hasım"
+      },
+      {
+        "lemma": "xaSom",
+        "label": "Masdar/ikil isim (`خَصْمَانِ / ٱلْخَصْمِ` — 22:19, 38:21, 38:22) — davacı taraf veya iki karşıt taraf"
+      },
+      {
+        "lemma": "taxaASum",
+        "label": "Bab VI masdar (`تَخَاصُمُ` — 38:64) — ateş ehlinin karşılıklı suçlayıcı çekişmesi"
+      },
+      {
+        "lemma": "xaSimuwn",
+        "label": "Sıfat (`خَصِمُونَ` — 43:58) — hakikat aramak yerine cedelci çekişme yürüten topluluk"
+      }
+    ],
+    "irab_default": "Hasm türevi — karşıt cepheye ayrılıp karşılıklı iddia ve çekişmeye girmek",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:44",
+          "4:105",
+          "38:21",
+          "38:22"
+        ],
+        "text": "Hukuk, Hakemlik ve Tarafsız Adalet (`3:44`, `4:105`, `38:21-22`): Kura çekerek görev paylaşımı tartışması, hainlere taraf olmama ilkesi ve Dâvûd'a gelen iki davacının adil hüküm istemi."
+      },
+      {
+        "ayahs": [
+          "2:204",
+          "16:4",
+          "27:45",
+          "36:49",
+          "36:77",
+          "43:18",
+          "43:58"
+        ],
+        "text": "Dünyevi İnat, Cedel ve Çatışmacı Tutum (`2:204`, `16:4`, `27:45`, `36:49`, `36:77`, `43:18`, `43:58`): İnatçı hasımlık, yaratılışını unutan itirazcı insan, iki zıt gruba ayrılış ve idğamlı `يَخِصِّمُونَ` sahnesi."
+      },
+      {
+        "ayahs": [
+          "22:19",
+          "26:96",
+          "38:64",
+          "38:69",
+          "39:31",
+          "50:28"
+        ],
+        "text": "İnanç Cepheleşmesi, Yüce Meclis ve Hesap Yüzleşmesi (`22:19`, `26:96`, `38:64,69`, `39:31`, `50:28`): Rableri hakkında ayrışan iki taraf, Kıyamet huzurunda davalaşma ve ateş ehlinin birbirini suçlaması."
+      }
+    ],
+    "context_default": "Karşıt cephede çekişme, davalaşma veya sözlü tartışma bağlamı"
   }
 }

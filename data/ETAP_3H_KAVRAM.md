@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%93,13` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 48 / 50 Kök (Toplam Mühürlü: 648 Kök | Güncel Kapsam: %93,06)
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 49 / 50 Kök (Toplam Mühürlü: 649 Kök | Güncel Kapsam: %93,09)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -55,5 +55,5 @@
 | 46 | Yüksek Frekanslı Çekirdek | 422 | `د-ب-ب` | `D-B-B` | **18** | 18 | 2:164 | Dâbbe ve Devâbb (Yüzey Üzerinde Hareket Eden Tüm Canlı Organizmalar) | ✅ **MÜHÜRLÜ** |
 | 47 | Yüksek Frekanslı Çekirdek | 427 | `ل-د-ن` | `L-D-N` | **18** | 17 | 3:8 | Ledün (Araya Aracı Girmeden Doğrudan Öz Katından ve Tam Yanı Başından) | ✅ **MÜHÜRLÜ** |
 | 48 | Yüksek Frekanslı Çekirdek | 423 | `ر-أ-س` | `R-E-S` | **18** | 17 | 2:196 | Re's ve Ruûs (Tepe Organı Olan Baş ve Eksiksiz Ana Sermaye) | ✅ **MÜHÜRLÜ** |
-| 49 | Yüksek Frekanslı Çekirdek | 424 | `خ-ص-م` | `H-S-M` | **18** | 17 | 2:204 | Hasm, Husûmet ve Tehâsum (18 geçiş | 1F: 2:204, 3:44, 4:105, 22:19, 36:49, 38:21-22, 38:64, 43:58, 50:28 karşılıklı dava ve çekişmeye girmek) | ⏳ *Bekliyor* |
+| 49 | Yüksek Frekanslı Çekirdek | 424 | `خ-ص-م` | `H-S-M` | **18** | 17 | 2:204 | Hasm, Husûmet ve İhtisâm (Karşıt Cephede Davalaşma ve Çekişme) | ✅ **MÜHÜRLÜ** |
 | 50 | Yüksek Frekanslı Çekirdek | 429 | `ن-ف-ر` | `N-F-R` | **18** | 16 | 4:71 | Nefr, Nefîr ve Nüfûr (18 geçiş | 1M: 4:71, 9:38-41, 9:122, 17:41, 18:34, 19:73, 67:21, 71:6, 74:50 topluca harekete geçmek, insan grubu ve ürküp kaçmak) | ⏳ *Bekliyor* |
