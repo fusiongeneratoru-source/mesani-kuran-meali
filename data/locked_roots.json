@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Etap 3H (44/50 — Toplam 644 Kök Mühürlü)",
+  "phase": "Etap 3H (45/50 — Toplam 645 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -15741,7 +15741,8 @@
           "ث-ق-ل (Ağır Yüklü Olmak ↔ Hafifmiş Gibi Yerinden Kaldırıp Taşımak: 7:57)",
           "ثُلَّة (Kalabalık Topluluk ↔ Az Sayıda Seçkin: 56:13-14)",
           "أ-خ-ر (Kalıcı ve Hayırlı Nihaî Yurt ↔ Kısa ve Cüz'î Dünya Yararı: 4:77, 9:38)",
-          "ن-و-س (N-W-S — Çift Yönlü Mesânî Karşılığı: 2:243, 12:103, 30:30)"
+          "ن-و-س (N-W-S — Çift Yönlü Mesânî Karşılığı: 2:243, 12:103, 30:30)",
+          "ث-م-ن (`9` geçişte `ثَمَنًا قَلِيلًا` — ayetler ve ahit karşılığı alınan az/değersiz geçici bedel)"
         ],
         "key_ayahs": [
           "4:7 & 2:249 & 7:86 (مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ / فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ / كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ)",
@@ -54532,7 +54533,8 @@
       "mesani_opposite": {
         "roots": [
           "و-ح-د",
-          "ث-ل-ث"
+          "ث-ل-ث",
+          "ث-م-ن (`4:12`, `24:4` — çocuk yokken dörtte bir [1/4] payı ile çocuk varken sekizde bir [1/8] payı ve 4 tanık yokluğunda 80 celde ilişkisi)"
         ],
         "key_ayahs": [
           "4:3",
@@ -55136,6 +55138,85 @@
         "فَاكِهُون / فَاكِهِين (Fâkihûn / Fâkihîn)": "İsim / Sıfat (3 geçiş: 36:55, 44:27, 52:18) — nimet içinde neşeli, gönlü şen ve tat alan",
         "فَكِهِين (Fekihîn)": "Sıfat-ı Müşebbehe (1 geçiş: 83:31) — gülüp eğlenerek ve alay ederek dönen",
         "تَفَكَّهُونَ (Tefekkehûn)": "V. Bab Fiil (1 geçiş: 56:65) — yıkılan ekin karşısında şaşkınlık ve hayıflanmayla söylenmek"
+      }
+    },
+    "ث-م-ن": {
+      "root_latin": "S-M-N (VMN)",
+      "arabic": "ثَمَن / ثَمَانِيَة / ثَمَانِى / ثَمَانِين / ثَامِن / ثُمُن",
+      "rank": 412,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "ثمنا / بثمن (ثَمَنًا / بِثَمَنٍۭ — 11 geçiş; fethalı tenvinde elif ve `12:20`'de `بِثَمَنٍۭ`)",
+          "ثمنية / وثمنية / ثمنى / ثمنين (ثَمَٰنِيَةَ 6:143, 39:6; ثَمَٰنِيَةٌ 69:17; وَثَمَٰنِيَةَ 69:7; ثَمَٰنِىَ 28:27; ثَمَٰنِينَ 24:4 — tamamı mîmden sonra harfî elifsiz `ثمنـ` iskeleti ve okuma hançer elifi ile yazılır)",
+          "وثامنهم (وَثَامِنُهُمْ — 18:22; ism-i fâil sıra sayısında `ث` harfinden sonraki uzun elif açıkça yazılır)",
+          "ٱلثمن (ٱلثُّمُنُ — 4:12 marife kesir ismi)"
+        ],
+        "verb_forms_used": [
+          "Kur'an'da fiil türevi geçmez; 19 geçişin tamamı isim/sayı/zaman belirtecidir (`18` N ve `1` T `69:7` — 11 `ثَمَن` [vaman], 4 `ثَمَانِيَة` [vama`niyap], 1 `ثَمَانِى` [vama`niY], 1 `ثَمَانِين` [vama`niyn], 1 `ثَامِن` [vaAmin], 1 `ثُمُن` [v~umun])."
+        ],
+        "preposition_patterns": [
+          "يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ / بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا (2:41, 2:79, 2:174, 3:77, 3:187, 3:199, 5:44, 9:9, 16:95 — ayeti ve sözleşmeyi değersiz bir karşılığa satma/değiştirme aracı `بِ`)",
+          "لَا نَشْتَرِى بِهِۦ ثَمَنًا (5:106 — akrabalık olsa dahi adalet tanıklığını hiçbir bedelle değiştirmeme)",
+          "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ (12:20 — Yûsuf'u hakiki değerinden kırpılmış düşük bir bedele satma aracı `بِ`)",
+          "فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُمْ (4:12 — bırakılan mirastan sekizde bir yasal pay)"
+        ],
+        "approx_frequency": "19 geçiş / 19 ayet (referans amaçlı)"
+      },
+      "physical_core": "İbn Fâris'in açıkça ayırdığı iki ayrı asıl (`أصلان`) Kur'an'da iki net işlevsel kolda çalışır: (1) **1. Asıl (`ثَمَن` — `11` geçiş):** Bir mal, emek, sözleşme ya da hakikat karşılığında alınıp verilen değişim bedeli ve değer ölçüsü (`2:41` vb. `ثَمَنًا قَلِيلًا`, `12:20` `بِثَمَنٍۭ بَخْسٍ`). (2) **2. Asıl (`8 / 8.'inci / 1/8 / 80` — `8` geçiş):** Yedinin ardından gelen sekiz sayısı (`ثَمَانِيَة / ثَمَانِى` `6:143`, `28:27`, `39:6`, `69:7, 17`), sekizinci sıra basamağı (`ثَامِن` `18:22`), bütünün sekizde bir miras payı (`ٱلثُّمُنُ` `4:12`) ve sekizinci onluk olan seksen (`ثَمَٰنِينَ` `24:4`) ölçü sistemi.",
+      "ibn_faris_asl": {
+        "text": "(ثمن) الثاء والميم والنون أصلان: أحدهما عِوض ما يُباع، والآخر جزء من ثمانية... فالأول الثَّمَن، يقال بعت كذا وأخذت ثمنه. والأصل الآخر الثُّمُنُ والثَّمِين، قال الخليل: الثَّمانِيَةُ مأخوذ من الثُّمُن لأنه تمامُها وبه صارت السبعُ ثمانية.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (ثمن maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris (Kural #3.1 gereği) maddeyi tek kökte zorlamaz ve açıkça `أصلان` (iki ayrı asıl) bildirir: (1) değiş tokuş edilen şeyin bedeli (`عِوض ما يُباع -> ثَمَن`), (2) sekizde bir kesir ve sekiz sayı dizisi (`جزء من ثمانية -> ثُمُن / ثَمَانِيَة`).",
+        "lisan_al_arab": "`الثَّمَن` takas karşılığında verilen bedel, `الثُّمُن` sekizde bir payı, `الثَّمَانِيَة` ise yediyi tamamlayıp sekize çıkaran sayı adıdır.",
+        "ragib_mufredat": "`الثَّمَن` satılanın karşılığında alınan her türlü bedel ve menfaat olup Kur'an'da vahyi ve ahdi ucuz dünyevî çıkara (`ثَمَنًا قَلِيلًا`) feda edenleri kınama eksenindedir.",
+        "arbitration_decision": "İki köksel asıl (`11` bedel/değer geçişi + `8` sekiz/sekizde bir/seksen sayı geçişi) şeffaf biçimde ayrı ayrı korunmuş; Rasm-ı Osmânî'de ise sayı türevlerinin elifsiz (`ثمنية / ثمنى / ثمنين`), sıra sayısı `ثَامِنُهُمْ`'un (`18:22`) ise elifli yazıldığı tespit edilmiştir."
+      },
+      "semitic_cognates": {
+        "note": "Sayı kolu (`8`) Proto-Sami `*ṯamān- / *ṯamāniy-` temel sayısının `*ṯ` (peltek `ث`) ses yasasını ders niteliğinde belgeleyen en berrak kanıttır: Arapça `ثَمَانِيَة` (`ṯ`), Ugaritçe `𐎘𐎎𐎐` (`ṯmn`) ve Eski Güney Arapça Sebece `𐩻𐩣𐩬` (`ṯmn`) özgün `*ṯ` sesini korurken; İbranice (BDB/HALOT) `שְׁמֹנֶה` (`šəmōneh`, `*ṯ > š`), Aramice/Süryanice (CAL) `תְּמָנֵי / ܬܡܢܝܐ` (`təmānê`, `*ṯ > t`), Akadca (CAD) `samānum / šamānû` (`*ṯ > s/š`) ve Ge'ez `sämāni` (`*ṯ > s`) düzenli değişim gösterir. Buna karşılık `ثَمَن` ('bedel/değer') kolu tarihsel Sami dilbiliminde Arapça ekseninde özelleşmiş ayrı/sesleş bir değer terimi sayılır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "س-ب-ع",
+          "ر-ب-ع",
+          "ق-ل-ل"
+        ],
+        "key_ayahs": [
+          "18:22 & 69:7 (سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ / سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ — yedi basamağının hemen ardından tamamlanan sekizinci sıra ve sekiz gün)",
+          "4:12 & 24:4 (فَلَكُمُ ٱلرُّبُعُ ... وَلَهُنَّ ٱلرُّبُعُ ... فَلَهُنَّ ٱلثُّمُنُ / بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَٰنِينَ جَلْدَةً — dörtte bir [1/4] payının çocuk varlığında yarıya düşerek sekizde bire [1/8] inmesi ve 4 tanık eksikliğinde 80 celde yaptırımı)",
+          "2:41 & 3:199 & 16:95 (لَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا / إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌ لَّكُمْ — paha biçilmez ilahi söz ve ahit ile satılan ucuz/az bedel karşıtlığı)"
+        ],
+        "reverse_stress_test": "Yedili basamak ve döngü (`س-ب-ع` — `18:22`, `69:7`), dörtlü hukuk/kesir ölçeği (`ر-ب-ع` — `4:12`, `24:4`) ve gerçek değeri küçülten ucuz azlık (`ق-ل-ل` — `9` kez `ثَمَنًا قَلِيلًا`) karşısına konduğunda, `ث-م-ن` kökünün '1) takas bedeli (`ثَمَن`) ve 2) sekiz/sekizde bir/seksen ölçü dizisi (`ثَمَانِيَة / ثُمُن / ثَامِن / ثَمَانِين`)' çift ekseni tüm `19` geçişi eksiksiz kilitler."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "س-ب-ع",
+          "ر-ب-ع",
+          "ق-ل-ل",
+          "ب-خ-س",
+          "ش-ر-ي",
+          "ع-ش-ر",
+          "ز-و-ج",
+          "أ-ج-ر"
+        ],
+        "mechanical_difference": "1) `ثَمَن` vs `أَجْر / خَيْر` (`3:199`, `16:95`): `ثَمَنًا قَلِيلًا` (`9` ayette hakikati/ahdi gizleme veya çarpıtma karşılığı alınan küçük geçici çıkar) ile `أَجْرُهُمْ عِندَ رَبِّهِمْ / عِندَ ٱللَّهِ هُوَ خَيْرٌ` (gerçek ve kalıcı karşılık) ayrılır; `5:106` ise `لَا نَشْتَرِى بِهِۦ ثَمَنًا` diyerek büyüklük-küçüklük ayırmaksızın bedel almayı kökten reddeder, `12:20` ise `ثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ` (hakkı kırpılmış düşük fiyat) der. 2) `4:12`: Miras kesirlerinde `رُبُع` (1/4) çocuk yokken, `ثُمُن` (1/8) çocuk varken eşin payıdır (`ر-ب-ع` ↔ `ث-م-ن` yarılanma oranı). 3) `6:143` & `39:6`: `ثَمَٰنِيَةَ أَزْوَٰجٍ` (`ز-و-ج`) 4 türden erkek-dişi `8` eşlik bütünü kurar. 4) `28:27`: `ثَمَٰنِىَ حِجَجٍ` (zorunlu 8 yıllık sözleşme tabanı) vs `أَتْمَمْتَ عَشْرًا` (gönüllü 10'a tamamlama). 5) `18:22` & `69:7`: `سَبْعَة` + `ثَامِنُهُمْ`, `سَبْعَ لَيَالٍ` + `ثَمَٰنِيَةَ أَيَّامٍ` (`س-ب-ع` ↔ `ث-م-ن`)."
+      },
+      "anchor_ayahs": [
+        "2:41 & 3:199 & 5:44 & 16:95 (وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا / وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا — ayetleri ve ahdi ucuz dünyevî çıkara satmama ilkesi)",
+        "5:106 & 12:20 (لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ / وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ — bedel reddi ve değerinden kırpılmış düşük bedel)",
+        "4:12 & 24:4 (فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُمْ / ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَٰنِينَ جَلْدَةً — miras hukukunda sekizde bir pay ve iftira yaptırımında seksen vuruş)",
+        "6:143 & 39:6 & 28:27 (ثَمَٰنِيَةَ أَزْوَٰجٍ / ثَمَٰنِىَ حِجَجٍ — sekiz eşlik canlı düzeni ve sekiz yıllık sözleşme süresi)",
+        "18:22 & 69:7,17 (وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ / سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ / وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ — sekizinci sıra, sekiz günlük kasırga ve arş taşıyıcı sekiz birim)"
+      ],
+      "unified_core_mechanism": "İbn Fâris'in iki ayrı asıl olarak saptadığı çift kolda işler: (1) Değer değişiminde verilen ve ayet/ahit karşılığı alınıp satılması kınanan takas bedeli (`ثَمَن` — `11` geçiş); (2) yediden sonraki `8` temel sayısı, `8.` sıra (`ثَامِن`), `1/8` kesir payı (`ٱلثُّمُنُ`) ve `80` ölçüsü (`ثَمَانِينَ` — `8` geçiş).",
+      "grammar_and_branch_rules": "Fiil geçmez; `19` geçiş (`18` isim + `1` zaman belirteci T `69:7`) 6 lemmada ve 2 ana kolda dağılır: 1) **Takas Bedeli Kolu (`ثَمَن` — `11` geçiş):** `9` kez `ثَمَنًا قَلِيلًا` (`2:41, 79, 174`, `3:77, 187, 199`, `5:44`, `9:9`, `16:95`), `1` kez mutlak `ثَمَنًا` (`5:106`) ve `1` kez `بِثَمَنٍۭ بَخْسٍ` (`12:20`). 2) **Sekiz ve Kesir Ölçüsü Kolu (`8` geçiş):** `ثَمَانِيَة` (`4`: `6:143`, `39:6`, `69:7` [zarf T], `69:17`), `ثَمَانِىَ` (`1`: `28:27` müzekker madûd için sonu fethalı), `ثَمَانِينَ` (`1`: `24:4` onluk sayı), `ثَامِن` (`1`: `18:22` sıra sayısı) ve `ٱلثُّمُنُ` (`1`: `4:12` kesir ismi).",
+      "derivatives": {
+        "ثَمَن (Semen)": "İsim (11 geçiş) — karşılık olarak alınan bedel, fiyat ve çıkar",
+        "ثَمَانِيَة / ثَمَانِى (Semâniye / Semânî)": "Sayı İsmi (5 geçiş: 6:143, 28:27, 39:6, 69:7, 69:17) — sekiz sayısı",
+        "ثَامِن (Sâmin)": "Sıra İsmi (1 geçiş: 18:22) — sekizinci olan",
+        "ٱلثُّمُنُ (es-Sümün)": "Kesir İsmi (1 geçiş: 4:12) — bütünün sekizde bir miras payı",
+        "ثَمَانِينَ (Semânîn)": "Onluk Sayı İsmi (1 geçiş: 24:4) — seksen sayısı"
       }
     }
   }

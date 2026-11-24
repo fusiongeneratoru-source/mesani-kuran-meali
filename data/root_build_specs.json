@@ -46297,5 +46297,81 @@
       }
     ],
     "context_default": "Hoşluk, meyve nimeti ve neşe/hayret hâli bağlamı"
+  },
+  "ث-م-ن": {
+    "buckwalter": "vmn",
+    "slug": "vmn",
+    "concept_name": "Semen, Semâniye, Sâmin ve Sümün (Bedel/Değer ve Sekiz Ölçü Sistemi)",
+    "keywords": [
+      "bedel",
+      "sekiz",
+      "seksen",
+      "sekizde bir",
+      "sekizinci"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "v~umun",
+        "label": "Marife merfû' kesir ismi (`ٱلثُّمُنُ` — mübtedâ-i muahhar, 4:12) — bırakılan mirasın sekizde biri"
+      },
+      {
+        "lemma": "vaAmin",
+        "label": "Muzâf merfû' sıra sayısı ismi (`وَثَامِنُهُمْ` — 18:22, Rasm'da elifli) — yedinin sekizincisi"
+      },
+      {
+        "lemma": "vama`niyn",
+        "label": "Mansûb onluk sayı (`ثَمَٰنِينَ جَلْدَةً` — 24:4, Rasm'da `ثمنين`) — seksen vuruş yaptırımı"
+      },
+      {
+        "lemma": "vama`niY",
+        "label": "Müzekker madûda muzâf eksik yâsı fethalı sayı ismi (`ثَمَٰنِىَ حِجَجٍ` — 28:27) — sekiz yıl"
+      },
+      {
+        "lemma": "vama`niyap",
+        "label": "Sekiz sayısı (`ثَمَٰنِيَةَ / ثَمَٰنِيَةٌ / وَثَمَٰنِيَةَ` — 6:143, 39:6, 69:7, 69:17; Rasm'da `ثمنية`) — sekiz eş, sekiz gün ve sekiz taşıyıcı"
+      },
+      {
+        "lemma": "vaman",
+        "label": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel"
+      }
+    ],
+    "irab_default": "Semen / Semâniye türevi — takas bedeli veya sekiz ölçü sayısı",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:41",
+          "2:79",
+          "2:174",
+          "3:77",
+          "3:187",
+          "3:199",
+          "5:44",
+          "5:106",
+          "9:9",
+          "12:20",
+          "16:95"
+        ],
+        "text": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+      },
+      {
+        "ayahs": [
+          "4:12",
+          "24:4",
+          "28:27"
+        ],
+        "text": "Hukuki Pay, Yaptırım ve Sözleşme Ölçüleri (`4:12`, `24:4`, `28:27`): Çocuk varlığında eşe düşen sekizde bir (`1/8`) miras payı, dört tanık yokluğunda seksen vuruş ve sekiz yıllık çalışma sözleşmesi."
+      },
+      {
+        "ayahs": [
+          "6:143",
+          "18:22",
+          "39:6",
+          "69:7",
+          "69:17"
+        ],
+        "text": "Sekizli Canlı Eşleri, Sayım ve Kozmik Yapı (`6:143`, `18:22`, `39:6`, `69:7,17`): Hayvanlardan sekiz eş çifti, Ashâb-ı Kehf sayımında sekizincisi, sekiz günlük kasırga ve arşı taşıyan sekiz görevli."
+      }
+    ],
+    "context_default": "Takas bedeli veya sekiz/sekizde bir ölçü bağlamı"
   }
 }

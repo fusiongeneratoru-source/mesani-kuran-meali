@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%93,13` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 44 / 50 Kök (Toplam Mühürlü: 644 Kök | Güncel Kapsam: %92,91)
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 45 / 50 Kök (Toplam Mühürlü: 645 Kök | Güncel Kapsam: %92,95)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -51,7 +51,7 @@
 | 42 | Yüksek Frekanslı Çekirdek | 400 | `م-ر-ي` | `M-R-Y` | **20** | 19 | 2:147 | Mirye, İmtirâ ve Mirâ (Kuşku Kurcalamak ve Karşılıklı Çekişmek) | ✅ **MÜHÜRLÜ** |
 | 43 | Yüksek Frekanslı Çekirdek | 408 | `ح-ز-ب` | `H-Z-B` | **20** | 17 | 5:56 | Hizb ve Ahzâb (Kenetlenen Taraf, Kapalı Fırka ve İttifak Koalisyonları) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 419 | `ف-ك-ه` | `F-K-H` | **19** | 19 | 23:19 | Fâkihe, Fekihîn ve Tefekküh (Lezzet Veren Meyve, Şen Gönül Hâli ve Şaşkınca Söylenmek) | ✅ **MÜHÜRLÜ** |
-| 45 | Yüksek Frekanslı Çekirdek | 412 | `ث-م-ن` | `S-M-N` | **19** | 19 | 2:41 | Semen, Semâniye, Sâmin ve Sümün (19 geçiş | 1M+1F: 2:41, 4:12, 6:143, 12:20, 18:22, 28:27, 39:6, 69:7 değer/bedel, sekiz sayısı ve sekizde bir) | ⏳ *Bekliyor* |
+| 45 | Yüksek Frekanslı Çekirdek | 412 | `ث-م-ن` | `S-M-N` | **19** | 19 | 2:41 | Semen, Semâniye, Sâmin ve Sümün (Bedel/Değer ve Sekiz Ölçü Sistemi) | ✅ **MÜHÜRLÜ** |
 | 46 | Yüksek Frekanslı Çekirdek | 422 | `د-ب-ب` | `D-B-B` | **18** | 18 | 2:164 | Dâbbe ve Devâbb (18 geçiş | 1F: 2:164, 6:38, 8:22, 11:6, 16:49, 24:45, 27:82, 34:14, 42:29 yeryüzünde kımıldayıp yürüyen her canlı varlık) | ⏳ *Bekliyor* |
 | 47 | Yüksek Frekanslı Çekirdek | 427 | `ل-د-ن` | `L-D-N` | **18** | 17 | 3:8 | Ledün (18 geçiş | 1M: 3:8, 3:38, 4:40, 4:75, 11:1, 17:80, 18:2, 18:65, 27:6 bir zatın tam yanı başı, öz katı ve doğrudan huzuru) | ⏳ *Bekliyor* |
 | 48 | Yüksek Frekanslı Çekirdek | 423 | `ر-أ-س` | `R-E-S` | **18** | 17 | 2:196 | Re's ve Ruûs (18 geçiş: 2:196, 2:279, 5:6, 7:150, 12:36, 14:43, 17:51, 19:4, 20:94, 32:12, 37:65 baş, saç, doruk ve ana sermaye) | ⏳ *Bekliyor* |

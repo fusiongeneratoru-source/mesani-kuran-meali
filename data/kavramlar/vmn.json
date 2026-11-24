@@ -1,0 +1,442 @@
+{
+  "root": "ث-م-ن",
+  "root_latin": "S-M-N (VMN)",
+  "concept_name": "Semen, Semâniye, Sâmin ve Sümün (Bedel/Değer ve Sekiz Ölçü Sistemi)",
+  "rank": 412,
+  "total_occurrences": 19,
+  "unique_ayahs_count": 19,
+  "unified_core_mechanism": "İbn Fâris'in iki ayrı asıl olarak saptadığı çift kolda işler: (1) Değer değişiminde verilen ve ayet/ahit karşılığı alınıp satılması kınanan takas bedeli (`ثَمَن` — `11` geçiş); (2) yediden sonraki `8` temel sayısı, `8.` sıra (`ثَامِن`), `1/8` kesir payı (`ٱلثُّمُنُ`) ve `80` ölçüsü (`ثَمَانِينَ` — `8` geçiş).",
+  "physical_core": "İbn Fâris'in açıkça ayırdığı iki ayrı asıl (`أصلان`) Kur'an'da iki net işlevsel kolda çalışır: (1) **1. Asıl (`ثَمَن` — `11` geçiş):** Bir mal, emek, sözleşme ya da hakikat karşılığında alınıp verilen değişim bedeli ve değer ölçüsü (`2:41` vb. `ثَمَنًا قَلِيلًا`, `12:20` `بِثَمَنٍۭ بَخْسٍ`). (2) **2. Asıl (`8 / 8.'inci / 1/8 / 80` — `8` geçiş):** Yedinin ardından gelen sekiz sayısı (`ثَمَانِيَة / ثَمَانِى` `6:143`, `28:27`, `39:6`, `69:7, 17`), sekizinci sıra basamağı (`ثَامِن` `18:22`), bütünün sekizde bir miras payı (`ٱلثُّمُنُ` `4:12`) ve sekizinci onluk olan seksen (`ثَمَٰنِينَ` `24:4`) ölçü sistemi.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (Kural #3.1 gereği) maddeyi tek kökte zorlamaz ve açıkça `أصلان` (iki ayrı asıl) bildirir: (1) değiş tokuş edilen şeyin bedeli (`عِوض ما يُباع -> ثَمَن`), (2) sekizde bir kesir ve sekiz sayı dizisi (`جزء من ثمانية -> ثُمُن / ثَمَانِيَة`).",
+    "lisan_al_arab": "`الثَّمَن` takas karşılığında verilen bedel, `الثُّمُن` sekizde bir payı, `الثَّمَانِيَة` ise yediyi tamamlayıp sekize çıkaran sayı adıdır.",
+    "ragib_mufredat": "`الثَّمَن` satılanın karşılığında alınan her türlü bedel ve menfaat olup Kur'an'da vahyi ve ahdi ucuz dünyevî çıkara (`ثَمَنًا قَلِيلًا`) feda edenleri kınama eksenindedir.",
+    "arbitration_decision": "İki köksel asıl (`11` bedel/değer geçişi + `8` sekiz/sekizde bir/seksen sayı geçişi) şeffaf biçimde ayrı ayrı korunmuş; Rasm-ı Osmânî'de ise sayı türevlerinin elifsiz (`ثمنية / ثمنى / ثمنين`), sıra sayısı `ثَامِنُهُمْ`'un (`18:22`) ise elifli yazıldığı tespit edilmiştir."
+  },
+  "semitic_cognates": {
+    "note": "Sayı kolu (`8`) Proto-Sami `*ṯamān- / *ṯamāniy-` temel sayısının `*ṯ` (peltek `ث`) ses yasasını ders niteliğinde belgeleyen en berrak kanıttır: Arapça `ثَمَانِيَة` (`ṯ`), Ugaritçe `𐎘𐎎𐎐` (`ṯmn`) ve Eski Güney Arapça Sebece `𐩻𐩣𐩬` (`ṯmn`) özgün `*ṯ` sesini korurken; İbranice (BDB/HALOT) `שְׁמֹנֶה` (`šəmōneh`, `*ṯ > š`), Aramice/Süryanice (CAL) `תְּמָנֵי / ܬܡܢܝܐ` (`təmānê`, `*ṯ > t`), Akadca (CAD) `samānum / šamānû` (`*ṯ > s/š`) ve Ge'ez `sämāni` (`*ṯ > s`) düzenli değişim gösterir. Buna karşılık `ثَمَن` ('bedel/değer') kolu tarihsel Sami dilbiliminde Arapça ekseninde özelleşmiş ayrı/sesleş bir değer terimi sayılır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "س-ب-ع",
+      "ر-ب-ع",
+      "ق-ل-ل"
+    ],
+    "key_ayahs": [
+      "18:22 & 69:7 (سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ / سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ — yedi basamağının hemen ardından tamamlanan sekizinci sıra ve sekiz gün)",
+      "4:12 & 24:4 (فَلَكُمُ ٱلرُّبُعُ ... وَلَهُنَّ ٱلرُّبُعُ ... فَلَهُنَّ ٱلثُّمُنُ / بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَٰنِينَ جَلْدَةً — dörtte bir [1/4] payının çocuk varlığında yarıya düşerek sekizde bire [1/8] inmesi ve 4 tanık eksikliğinde 80 celde yaptırımı)",
+      "2:41 & 3:199 & 16:95 (لَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا / إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌ لَّكُمْ — paha biçilmez ilahi söz ve ahit ile satılan ucuz/az bedel karşıtlığı)"
+    ],
+    "reverse_stress_test": "Yedili basamak ve döngü (`س-ب-ع` — `18:22`, `69:7`), dörtlü hukuk/kesir ölçeği (`ر-ب-ع` — `4:12`, `24:4`) ve gerçek değeri küçülten ucuz azlık (`ق-ل-ل` — `9` kez `ثَمَنًا قَلِيلًا`) karşısına konduğunda, `ث-م-ن` kökünün '1) takas bedeli (`ثَمَن`) ve 2) sekiz/sekizde bir/seksen ölçü dizisi (`ثَمَانِيَة / ثُمُن / ثَامِن / ثَمَانِين`)' çift ekseni tüm `19` geçişi eksiksiz kilitler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "س-ب-ع",
+      "ر-ب-ع",
+      "ق-ل-ل",
+      "ب-خ-س",
+      "ش-ر-ي",
+      "ع-ش-ر",
+      "ز-و-ج",
+      "أ-ج-ر"
+    ],
+    "mechanical_difference": "1) `ثَمَن` vs `أَجْر / خَيْر` (`3:199`, `16:95`): `ثَمَنًا قَلِيلًا` (`9` ayette hakikati/ahdi gizleme veya çarpıtma karşılığı alınan küçük geçici çıkar) ile `أَجْرُهُمْ عِندَ رَبِّهِمْ / عِندَ ٱللَّهِ هُوَ خَيْرٌ` (gerçek ve kalıcı karşılık) ayrılır; `5:106` ise `لَا نَشْتَرِى بِهِۦ ثَمَنًا` diyerek büyüklük-küçüklük ayırmaksızın bedel almayı kökten reddeder, `12:20` ise `ثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ` (hakkı kırpılmış düşük fiyat) der. 2) `4:12`: Miras kesirlerinde `رُبُع` (1/4) çocuk yokken, `ثُمُن` (1/8) çocuk varken eşin payıdır (`ر-ب-ع` ↔ `ث-م-ن` yarılanma oranı). 3) `6:143` & `39:6`: `ثَمَٰنِيَةَ أَزْوَٰجٍ` (`ز-و-ج`) 4 türden erkek-dişi `8` eşlik bütünü kurar. 4) `28:27`: `ثَمَٰنِىَ حِجَجٍ` (zorunlu 8 yıllık sözleşme tabanı) vs `أَتْمَمْتَ عَشْرًا` (gönüllü 10'a tamamlama). 5) `18:22` & `69:7`: `سَبْعَة` + `ثَامِنُهُمْ`, `سَبْعَ لَيَالٍ` + `ثَمَٰنِيَةَ أَيَّامٍ` (`س-ب-ع` ↔ `ث-م-ن`)."
+  },
+  "anchor_ayahs": [
+    "2:41 & 3:199 & 5:44 & 16:95 (وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا / وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا — ayetleri ve ahdi ucuz dünyevî çıkara satmama ilkesi)",
+    "5:106 & 12:20 (لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ / وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ — bedel reddi ve değerinden kırpılmış düşük bedel)",
+    "4:12 & 24:4 (فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُمْ / ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَٰنِينَ جَلْدَةً — miras hukukunda sekizde bir pay ve iftira yaptırımında seksen vuruş)",
+    "6:143 & 39:6 & 28:27 (ثَمَٰنِيَةَ أَزْوَٰجٍ / ثَمَٰنِىَ حِجَجٍ — sekiz eşlik canlı düzeni ve sekiz yıllık sözleşme süresi)",
+    "18:22 & 69:7,17 (وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ / سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ / وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ — sekizinci sıra, sekiz günlük kasırga ve arş taşıyıcı sekiz birim)"
+  ],
+  "grammar_and_branch_rules": "Fiil geçmez; `19` geçiş (`18` isim + `1` zaman belirteci T `69:7`) 6 lemmada ve 2 ana kolda dağılır: 1) **Takas Bedeli Kolu (`ثَمَن` — `11` geçiş):** `9` kez `ثَمَنًا قَلِيلًا` (`2:41, 79, 174`, `3:77, 187, 199`, `5:44`, `9:9`, `16:95`), `1` kez mutlak `ثَمَنًا` (`5:106`) ve `1` kez `بِثَمَنٍۭ بَخْسٍ` (`12:20`). 2) **Sekiz ve Kesir Ölçüsü Kolu (`8` geçiş):** `ثَمَانِيَة` (`4`: `6:143`, `39:6`, `69:7` [zarf T], `69:17`), `ثَمَانِىَ` (`1`: `28:27` müzekker madûd için sonu fethalı), `ثَمَانِينَ` (`1`: `24:4` onluk sayı), `ثَامِن` (`1`: `18:22` sıra sayısı) ve `ٱلثُّمُنُ` (`1`: `4:12` kesir ismi).",
+  "derivatives": {
+    "ثَمَن (Semen)": "İsim (11 geçiş) — karşılık olarak alınan bedel, fiyat ve çıkar",
+    "ثَمَانِيَة / ثَمَانِى (Semâniye / Semânî)": "Sayı İsmi (5 geçiş: 6:143, 28:27, 39:6, 69:7, 69:17) — sekiz sayısı",
+    "ثَامِن (Sâmin)": "Sıra İsmi (1 geçiş: 18:22) — sekizinci olan",
+    "ٱلثُّمُنُ (es-Sümün)": "Kesir İsmi (1 geçiş: 4:12) — bütünün sekizde bir miras payı",
+    "ثَمَانِينَ (Semânîn)": "Onluk Sayı İsmi (1 geçiş: 24:4) — seksen sayısı"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 41,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:41",
+      "word_position": 15,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَإِيَّٰىَ فَٱتَّقُونِ",
+      "context_snippet_turkish_tabula_rasa": "İndirdiğim Kur'an'a güvene erin. Sizdeki kitabı da doğrulayıcıdır o. Ona ilk güven duy siz olmayın. Delillerimi az ve değersiz bir parayla değişmeyin, ancak...",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَءَامِنُوا۟ بِمَآ أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ وَلَا تَكُونُوٓا۟ أَوَّلَ كَافِرٍۭ بِهِۦ وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَإِيَّٰىَ فَٱتَّقُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "İndirdiğim Kur'an'a güvene erin. Sizdeki kitabı da doğrulayıcıdır o. Ona ilk güven duy siz olmayın. Delillerimi az ve değersiz bir parayla değişmeyin, ancak benden sakının.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 2,
+      "ayah": 79,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:79",
+      "word_position": 14,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا فَوَيْلٌ لَّهُم",
+      "context_snippet_turkish_tabula_rasa": "Elleriyle kitap yazıp sonra da az bir para almak için bu, Allah tarafından geldi diyenlerin vay hallerine. Elleriyle yazdıklarından, o kitabı, kendileri...",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا فَوَيْلٌ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَّهُم مِّمَّا يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Elleriyle kitap yazıp sonra da az bir para almak için bu, Allah tarafından geldi diyenlerin vay hallerine. Elleriyle yazdıklarından, o kitabı, kendileri düzdüklerinden dolayı vay hallerine, kazançları yüzünden vay hallerine.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 2,
+      "ayah": 174,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:174",
+      "word_position": 11,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "ٱلْكِتَٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ مَا",
+      "context_snippet_turkish_tabula_rasa": "O kimseler ki Allah'ın indirdiği kitaptan bir emri, bir hükmü gizlerler de buna karşılık değersiz bir miktar para alırlar, işte muhakkak onlardır ateş...",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O kimseler ki Allah'ın indirdiği kitaptan bir emri, bir hükmü gizlerler de buna karşılık değersiz bir miktar para alırlar, işte muhakkak onlardır ateş yiyenler. Karınlarında ateşten başka bir şey yoktur. Allah kıyamet gününde onlarla ne konuşur, nede onları temizler. Onlara ancak elemli bir azap var.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 3,
+      "ayah": 77,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:77",
+      "word_position": 7,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَا",
+      "context_snippet_turkish_tabula_rasa": "Allah'a verdikleri sözü ve onun adına, etmiş oldukları kesin andları, değeri az bir mataha değişenler yok mu, onlardır ahirette nasibi olmayanlar ve Allah,...",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ لَهُمْ فِى ٱلْءَاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a verdikleri sözü ve onun adına, etmiş oldukları kesin andları, değeri az bir mataha değişenler yok mu, onlardır ahirette nasibi olmayanlar ve Allah, kıyamet gününde onlarla konuşmaz, yüzlerine bile bakmaz, onları arıtmaz ve onlar içindir elemli bir azap.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 3,
+      "ayah": 187,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:187",
+      "word_position": 17,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا فَبِئْسَ مَا",
+      "context_snippet_turkish_tabula_rasa": "An o zamanı ki Allah, kendilerine kitap verilenlerden, o kitabı insanlara mutlaka açıklayacaksınız, gizlemeyeceksiniz onu diye söz almıştı; onlarsa o sözü...",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا فَبِئْسَ مَا يَشْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı ki Allah, kendilerine kitap verilenlerden, o kitabı insanlara mutlaka açıklayacaksınız, gizlemeyeceksiniz onu diye söz almıştı; onlarsa o sözü artlarına attılar, azcık bir menfaat karşılığında sattılar onu, ama o aldıkları şey, ne de kötünesne.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 3,
+      "ayah": 199,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:199",
+      "word_position": 20,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki kitap ehlinden, Allah'a içten bir saygı besleyerek, Allah'a güvene erenler ve size indirilene de, kendilerine indirilene de, güvene erenler var....",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki kitap ehlinden, Allah'a içten bir saygı besleyerek, Allah'a güvene erenler ve size indirilene de, kendilerine indirilene de, güvene erenler var. Allah ayetlerini değersiz bir menfaate satmaz onlar. Onların karşılığı, Rableri katındadır. Şüphe yok ki Allah, pek tez hesap görür.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 4,
+      "ayah": 12,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:12",
+      "word_position": 40,
+      "target_word_uthmani": "ٱلثُّمُنُ",
+      "target_word_rasm": "ٱلثمن",
+      "target_word_literal_irab": "Marife merfû' kesir ismi (`ٱلثُّمُنُ` — mübtedâ-i muahhar, 4:12) — bırakılan mirasın sekizde biri",
+      "context_snippet_arabic": "لَكُمْ وَلَدٌ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم مِّنۢ",
+      "context_snippet_turkish_tabula_rasa": "... Çocuğunuz yoksa sizden kalanın dörtte biri zevcelerinizin, çocuğunuz varsa, kalan maldan, vasiyet ettiğiniz şey yerine getirilip borcunuz ödendikten sonra sekizde biri onların. Miras, çocuğu ve babası olmayan bir erkeğe, yahut kadına aitse ve onun da erkek, yahut kız kardeşi varsa her birinin hakkı, altıda birdir. ...",
+      "morphology": {
+        "lemma": "v~umun",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:v~umun|ROOT:vmn|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ فَإِن كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَآ أَوْ دَيْنٍ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌ فَإِن كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم مِّنۢ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَآ أَوْ دَيْنٍ وَإِن كَانَ رَجُلٌ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ مِنۢ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّ وَصِيَّةً مِّنَ ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Çocukları yoksa zevcelerinizin, kalan mallarının yarısı sizindir. Çocukları varsa, vasiyeti yerine getirilip borcu ödendikten sonra dörtte biri sizin. Çocuğunuz yoksa sizden kalanın dörtte biri zevcelerinizin, çocuğunuz varsa, kalan maldan, vasiyet ettiğiniz şey yerine getirilip borcunuz ödendikten sonra sekizde biri onların. Miras, çocuğu ve babası olmayan bir erkeğe, yahut kadına aitse ve onun da erkek, yahut kız kardeşi varsa her birinin hakkı, altıda birdir. Bunlar birden fazlaysa, mirasçının vasiyeti yerine getirilip borcu ödendikten sonra kalan malın üçte birine ortak olurlar ve kimsenin de zarar görmemesi gerekir. Allah tarafından size öğüttür ve Allah her şeyi bilir, ceza vermede acele etmez.",
+      "contextual_meaning": "Hukuki Pay, Yaptırım ve Sözleşme Ölçüleri (`4:12`, `24:4`, `28:27`): Çocuk varlığında eşe düşen sekizde bir (`1/8`) miras payı, dört tanık yokluğunda seksen vuruş ve sekiz yıllık çalışma sözleşmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 44,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:44",
+      "word_position": 31,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَمَن لَّمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki biz, Tevrat'ı indirdik, onda doğru yola sevk ediş ve nur var. sığınak merciine teslim olan elçilerle hükümleri bilenler ve Allah kitabını korumaya...",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَٰبِ ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki biz, Tevrat'ı indirdik, onda doğru yola sevk ediş ve nur var. sığınak merciine teslim olan elçilerle hükümleri bilenler ve Allah kitabını korumaya memur olan bilginler, Yahudilere, hep ona göre hüküm verirlerdi ve hepsi de o kitabın doğruluğuna tanıktı. Artık insanlardan korkmayın, benden korkun ve ayetlerimi, az bir menfaat karşılığında satmayın ve kimler, Allah'ın indirdiği hükme uygun olarak hüküm vermezlerse onlardır gerçeğin üzerini örtenlerin ta kendileri",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 5,
+      "ayah": 106,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:106",
+      "word_position": 39,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, birinize ölüm gelip çatarsa aranızda vasiyet edeceğiniz zaman, sizden iki adil tanık bulunsun. Yolculuktaysanız ve gene size ölüm musibeti...",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, birinize ölüm gelip çatarsa aranızda vasiyet edeceğiniz zaman, sizden iki adil tanık bulunsun. Yolculuktaysanız ve gene size ölüm musibeti gelip çatacaksa sizden olmayan iki kişiyi de tanık tutabilirsiniz. Ancak onları, irtibat bağından sonraya dek alıkoyun da akraba bile olsa Allah'ı bırakıp yerine hiçbir menfaati satın almayacağız, tanıklığımızı, Allah için gizlemeyeceğiz, gizlersek ağır sapmaya düşenlerden olalım diye Allah'a kesin and etsinler.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 6,
+      "ayah": 143,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:143",
+      "word_position": 1,
+      "target_word_uthmani": "ثَمَٰنِيَةَ",
+      "target_word_rasm": "ثمنية",
+      "target_word_literal_irab": "Sekiz sayısı (`ثَمَٰنِيَةَ / ثَمَٰنِيَةٌ / وَثَمَٰنِيَةَ` — 6:143, 39:6, 69:7, 69:17; Rasm'da `ثمنية`) — sekiz eş, sekiz gün ve sekiz taşıyıcı",
+      "context_snippet_arabic": "ثَمَٰنِيَةَ أَزْوَٰجٍ مِّنَ ٱلضَّأْنِ",
+      "context_snippet_turkish_tabula_rasa": "Derler ki sekiz çifttir o hayvanlar. Koyun iki çift, keçi iki çift. ...",
+      "morphology": {
+        "lemma": "vama`niyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vama`niyap|ROOT:vmn|F|ACC"
+      },
+      "ayah_text_arabic_full": "ثَمَٰنِيَةَ أَزْوَٰجٍ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derler ki sekiz çifttir o hayvanlar. Koyun iki çift, keçi iki çift. De ki: Erkekleri mi haram etti, dişileri mi, yoksa o dişilerin rahimlerindeki yavruları mı? Sözünüz gerçekse bilerek haber verin bana.",
+      "contextual_meaning": "Sekizli Canlı Eşleri, Sayım ve Kozmik Yapı (`6:143`, `18:22`, `39:6`, `69:7,17`): Hayvanlardan sekiz eş çifti, Ashâb-ı Kehf sayımında sekizincisi, sekiz günlük kasırga ve arşı taşıyan sekiz görevli."
+    },
+    {
+      "surah": 9,
+      "ayah": 9,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:9",
+      "word_position": 4,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "ٱشْتَرَوْا۟ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ayetlerini satarlar da karşılık olarak pek az ve adi bir şey elde ederler ve halkı Allah yolundan menederler. Gerçekten de yaptıkları şey, ne de kötü...",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱشْتَرَوْا۟ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ayetlerini satarlar da karşılık olarak pek az ve adi bir şey elde ederler ve halkı Allah yolundan menederler. Gerçekten de yaptıkları şey, ne de kötü şeydir.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 12,
+      "ayah": 20,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:20",
+      "word_position": 2,
+      "target_word_uthmani": "بِثَمَنٍۭ",
+      "target_word_rasm": "بثمن",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve onu değersiz bir kar, sayılı birkaç kuruş karşılığında satmışlardı ve onu satarlarken paraya pek o kadar rağbetleri de yoktu.",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve onu değersiz bir kar, sayılı birkaç kuruş karşılığında satmışlardı ve onu satarlarken paraya pek o kadar rağbetleri de yoktu.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 16,
+      "ayah": 95,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:95",
+      "word_position": 5,
+      "target_word_uthmani": "ثَمَنًا",
+      "target_word_rasm": "ثمنا",
+      "target_word_literal_irab": "Takas bedeli ve değeri ismi (`ثَمَنًا قَلِيلًا / ثَمَنًا / بِثَمَنٍۭ` — 11 geçiş) — hakikate veya ahde karşılık alınan dünyevî bedel",
+      "context_snippet_arabic": "تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا إِنَّمَا عِندَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'la giriştiğiniz ahdi, az bir menfaat karşılığında satmayın ve Allah'ın katındaki yok mu, bilirseniz o, daha da hayırlıdır size.",
+      "morphology": {
+        "lemma": "vaman",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaman|ROOT:vmn|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'la giriştiğiniz ahdi, az bir menfaat karşılığında satmayın ve Allah'ın katındaki yok mu, bilirseniz o, daha da hayırlıdır size.",
+      "contextual_meaning": "Hakikati ve Sözleşmeyi Ucuz Bedelle Değişmeme Hukuku (`2:41,79,174`, `3:77,187,199`, `5:44,106`, `9:9`, `12:20`, `16:95`): Allah'ın ayetlerini, kitabını ve ahdi az bir çıkar karşılığında satmama uyarısı ve Yûsuf'un düşük bedelle satılışı."
+    },
+    {
+      "surah": 18,
+      "ayah": 22,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:22",
+      "word_position": 13,
+      "target_word_uthmani": "وَثَامِنُهُمْ",
+      "target_word_rasm": "وثامنهم",
+      "target_word_literal_irab": "Muzâf merfû' sıra sayısı ismi (`وَثَامِنُهُمْ` — 18:22, Rasm'da elifli) — yedinin sekizincisi",
+      "context_snippet_arabic": "بِٱلْغَيْبِ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ قُل رَّبِّىٓ",
+      "context_snippet_turkish_tabula_rasa": "... fakat bu sözler, ortada olmayan hedefe boşuna taş atmak ve diyecekler ki yedi taneydi onlar, sekizincileri köpekleri. De ki: ...",
+      "morphology": {
+        "lemma": "vaAmin",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vaAmin|ROOT:vmn|M|NOM"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُونَ ثَلَٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Diyecekler ki onlar üçtü, dördüncüleri, köpekleri ve beş taneydi onlar, altıncıları köpekleri; fakat bu sözler, ortada olmayan hedefe boşuna taş atmak ve diyecekler ki yedi taneydi onlar, sekizincileri köpekleri. De ki: Onların sayısını Rabbim daha iyi bilir, onları pek az kişi bilir ancak. Artık sen de onlar hakkında sana açıkladığımıza razı ol da fazla münakaşaya, mübahaseye girişme ve onlara dair kitap hakkında bir hüküm dilemeye kalkışma.",
+      "contextual_meaning": "Sekizli Canlı Eşleri, Sayım ve Kozmik Yapı (`6:143`, `18:22`, `39:6`, `69:7,17`): Hayvanlardan sekiz eş çifti, Ashâb-ı Kehf sayımında sekizincisi, sekiz günlük kasırga ve arşı taşıyan sekiz görevli."
+    },
+    {
+      "surah": 24,
+      "ayah": 4,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:4",
+      "word_position": 10,
+      "target_word_uthmani": "ثَمَٰنِينَ",
+      "target_word_rasm": "ثمنين",
+      "target_word_literal_irab": "Mansûb onluk sayı (`ثَمَٰنِينَ جَلْدَةً` — 24:4, Rasm'da `ثمنين`) — seksen vuruş yaptırımı",
+      "context_snippet_arabic": "بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Hür namuslu kadınlara iftira edip de sonra dört tanık getiremeyenlere de seksen sopa vurun ve tanıklıklarını ebediyen kabul etmeyin ve onlardır buyruktan çıkanların ta kendileri.",
+      "morphology": {
+        "lemma": "vama`niyn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vama`niyn|ROOT:vmn|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَٰدَةً أَبَدًا وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hür namuslu kadınlara iftira edip de sonra dört tanık getiremeyenlere de seksen sopa vurun ve tanıklıklarını ebediyen kabul etmeyin ve onlardır buyruktan çıkanların ta kendileri.",
+      "contextual_meaning": "Hukuki Pay, Yaptırım ve Sözleşme Ölçüleri (`4:12`, `24:4`, `28:27`): Çocuk varlığında eşe düşen sekizde bir (`1/8`) miras payı, dört tanık yokluğunda seksen vuruş ve sekiz yıllık çalışma sözleşmesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 27,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:27",
+      "word_position": 12,
+      "target_word_uthmani": "ثَمَٰنِىَ",
+      "target_word_rasm": "ثمنى",
+      "target_word_literal_irab": "Müzekker madûda muzâf eksik yâsı fethalı sayı ismi (`ثَمَٰنِىَ حِجَجٍ` — 28:27) — sekiz yıl",
+      "context_snippet_arabic": "عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ حِجَجٍ فَإِنْ أَتْمَمْتَ",
+      "context_snippet_turkish_tabula_rasa": "... Bana sekiz yıl hizmet edersen buna karşılık sana şu iki kızımdan birini vermek istiyorum; ama sen on yılı doldurursan bu da sana ait artık ve ben, sana zahmet ve meşakkat vermek istemem; ...",
+      "morphology": {
+        "lemma": "vama`niY",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vama`niY|ROOT:vmn|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babası, Musa'ya dedi ki: Bana sekiz yıl hizmet edersen buna karşılık sana şu iki kızımdan birini vermek istiyorum; ama sen on yılı doldurursan bu da sana ait artık ve ben, sana zahmet ve meşakkat vermek istemem; Allah dilerse beni iyi kişilerden bulursun.",
+      "contextual_meaning": "Hukuki Pay, Yaptırım ve Sözleşme Ölçüleri (`4:12`, `24:4`, `28:27`): Çocuk varlığında eşe düşen sekizde bir (`1/8`) miras payı, dört tanık yokluğunda seksen vuruş ve sekiz yıllık çalışma sözleşmesi."
+    },
+    {
+      "surah": 39,
+      "ayah": 6,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:6",
+      "word_position": 13,
+      "target_word_uthmani": "ثَمَٰنِيَةَ",
+      "target_word_rasm": "ثمنية",
+      "target_word_literal_irab": "Sekiz sayısı (`ثَمَٰنِيَةَ / ثَمَٰنِيَةٌ / وَثَمَٰنِيَةَ` — 6:143, 39:6, 69:7, 69:17; Rasm'da `ثمنية`) — sekiz eş, sekiz gün ve sekiz taşıyıcı",
+      "context_snippet_arabic": "لَكُم مِّنَ ٱلْأَنْعَٰمِ ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى",
+      "context_snippet_turkish_tabula_rasa": "Sizi bir tek kişiden yarattı, sonra ondan da eşini halketti ve sizin için davarlardan erkeklidişili, sekiz tane çift mahluk meydana getirdi; sizi, analarınızın karınlarında ve üç karanlık içinde yaratıştan yaratışa düşürür; ...",
+      "morphology": {
+        "lemma": "vama`niyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vama`niyap|ROOT:vmn|F|ACC"
+      },
+      "ayah_text_arabic_full": "خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi bir tek kişiden yarattı, sonra ondan da eşini halketti ve sizin için davarlardan erkeklidişili, sekiz tane çift mahluk meydana getirdi; sizi, analarınızın karınlarında ve üç karanlık içinde yaratıştan yaratışa düşürür; işte budur Rabbiniz ki onundur saltanat ve tedbir; yoktur ondan başka tapacak, ondan nereye dönmedesiniz?",
+      "contextual_meaning": "Sekizli Canlı Eşleri, Sayım ve Kozmik Yapı (`6:143`, `18:22`, `39:6`, `69:7,17`): Hayvanlardan sekiz eş çifti, Ashâb-ı Kehf sayımında sekizincisi, sekiz günlük kasırga ve arşı taşıyan sekiz görevli."
+    },
+    {
+      "surah": 69,
+      "ayah": 7,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:7",
+      "word_position": 5,
+      "target_word_uthmani": "وَثَمَٰنِيَةَ",
+      "target_word_rasm": "وثمنية",
+      "target_word_literal_irab": "Sekiz sayısı (`ثَمَٰنِيَةَ / ثَمَٰنِيَةٌ / وَثَمَٰنِيَةَ` — 6:143, 39:6, 69:7, 69:17; Rasm'da `ثمنية`) — sekiz eş, sekiz gün ve sekiz taşıyıcı",
+      "context_snippet_arabic": "عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى",
+      "context_snippet_turkish_tabula_rasa": "Onu, yedi gece ve sekiz gün, birbiri ardınca musallat etti onlara, o topluluğa baksaydın görürdün ki bu kadar zaman içinde yıkılıvermişler yerlere, sanki içleri kof hurma kütükleriymiş onlar.",
+      "morphology": {
+        "lemma": "vama`niyap",
+        "pos": "T",
+        "features": "STEM|POS:T|LEM:vama`niyap|ROOT:vmn|F|ACC"
+      },
+      "ayah_text_arabic_full": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu, yedi gece ve sekiz gün, birbiri ardınca musallat etti onlara, o topluluğa baksaydın görürdün ki bu kadar zaman içinde yıkılıvermişler yerlere, sanki içleri kof hurma kütükleriymiş onlar.",
+      "contextual_meaning": "Sekizli Canlı Eşleri, Sayım ve Kozmik Yapı (`6:143`, `18:22`, `39:6`, `69:7,17`): Hayvanlardan sekiz eş çifti, Ashâb-ı Kehf sayımında sekizincisi, sekiz günlük kasırga ve arşı taşıyan sekiz görevli."
+    },
+    {
+      "surah": 69,
+      "ayah": 17,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:17",
+      "word_position": 9,
+      "target_word_uthmani": "ثَمَٰنِيَةٌ",
+      "target_word_rasm": "ثمنية",
+      "target_word_literal_irab": "Sekiz sayısı (`ثَمَٰنِيَةَ / ثَمَٰنِيَةٌ / وَثَمَٰنِيَةَ` — 6:143, 39:6, 69:7, 69:17; Rasm'da `ثمنية`) — sekiz eş, sekiz gün ve sekiz taşıyıcı",
+      "context_snippet_arabic": "رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ",
+      "context_snippet_turkish_tabula_rasa": "buyruk elçileri, etrafında toplanırlar ve Rabbinin arşını o gün, onların üstünde, sekiz buyruk elçisi taşır.",
+      "morphology": {
+        "lemma": "vama`niyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:vama`niyap|ROOT:vmn|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "buyruk elçileri, etrafında toplanırlar ve Rabbinin arşını o gün, onların üstünde, sekiz buyruk elçisi taşır.",
+      "contextual_meaning": "Sekizli Canlı Eşleri, Sayım ve Kozmik Yapı (`6:143`, `18:22`, `39:6`, `69:7,17`): Hayvanlardan sekiz eş çifti, Ashâb-ı Kehf sayımında sekizincisi, sekiz günlük kasırga ve arşı taşıyan sekiz görevli."
+    }
+  ]
+}
