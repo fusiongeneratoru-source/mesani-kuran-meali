@@ -40095,5 +40095,712 @@
       }
     ],
     "context_default": "Sağlık ve denge sınırından sapma (م-ر-ض)."
+  },
+  "ر-ح-ل": {
+    "buckwalter": "rHl",
+    "slug": "rihle_ve_rihal_yol_yuku_heybe_ve_mevsimsel_kervan_yolculugu_rhl",
+    "concept_name": "Rıhle ve Rihâl (Binek Üzerindeki Yol Yükü/Heybe ve Mevsimsel Kervan Yolculuğu)",
+    "keywords": [
+      "yolculuk",
+      "sefer",
+      "yük",
+      "heybe",
+      "kış",
+      "yaz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "riHolap",
+        "label": "Mansûb mef'ûlün bih / zarf-ı müstakar (إِيلَٰفِهِمْ mastarının tümleci: kış ve yaz kervan yolculuğu — 106:2)"
+      },
+      {
+        "lemma": "raHol",
+        "label": "Mecrûr isim (فِى harf-i cerri ile: yol yükleri/heybeleri içinde — 12:62, 12:70, 12:75)"
+      }
+    ],
+    "irab_default": "Mecrûr/mansûb isim (yol yükü ve kervan yolculuğu)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            106,
+            2
+          ]
+        ],
+        "text": "Mevsimsel kervan ve ticaret yolculuğu (`إِيلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ` `106:2`): Kureyş toplumunun kış ve yaz ticaret seferlerine güven ve ünsiyetle bağlanması; açlıktan doyurulma ve korkudan emin kılınma nimetinin ekonomik-toplumsal omurgası."
+      },
+      {
+        "ayahs": [
+          [
+            12,
+            62
+          ],
+          [
+            12,
+            70
+          ],
+          [
+            12,
+            75
+          ]
+        ],
+        "text": "Binek üzerine bağlanan erzak yükü ve yol heybesi (`فِى رِحَالِهِمْ` `12:62`; `فِى رَحْلِ أَخِيهِ / رَحْلِهِۦ` `12:70,75`): Yûsuf'un kardeşlerinin erzak bedellerinin ve su ölçeğinin yol heybeleri içine konulması."
+      }
+    ],
+    "context_default": "Yol yükü/heybesi ve düzenli kervan yolculuğu (`رَحْل / رِحْلَة`)."
+  },
+  "ش-ت-و": {
+    "buckwalter": "$tw",
+    "slug": "sita_yilin_soguk_ve_yagisli_kis_mevsimi_stw",
+    "concept_name": "Şitâ' (Yılın Soğuk ve Yağışlı Kış Mevsimi)",
+    "keywords": [
+      "kış",
+      "yaz",
+      "yolculuk",
+      "mevsim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$~itaA^'",
+        "label": "Mecrûr muzâfun ileyh (رِحْلَةَ ٱلشِّتَآءِ: kış mevsimi yolculuğu — 106:2)"
+      }
+    ],
+    "irab_default": "Mecrûr isim (kış mevsimi — 106:2)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            106,
+            2
+          ]
+        ],
+        "text": "Yıllık ticaret döngüsünün soğuk mevsim kutbu (`رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ` `106:2`): Yaz (`ٱلصَّيْف`) ile birlikte yıl boyu kesintisiz süren kervan dolaşımı ve geçim güvenliğinin kış ayağı."
+      }
+    ],
+    "context_default": "Yılın soğuk mevsimi olan kış (`ٱلشِّتَآء`)."
+  },
+  "ص-ي-ف": {
+    "buckwalter": "Syf",
+    "slug": "sayf_yilin_sicak_yaz_mevsimi_syf",
+    "concept_name": "Sayf (Yılın Sıcak Yaz Mevsimi)",
+    "keywords": [
+      "yaz",
+      "kış",
+      "yolculuk",
+      "mevsim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "S~ayof",
+        "label": "Mecrûr ма'tûf isim (وَٱلصَّيْفِ: ٱلشِّتَآءِ üzerine atfedilmiş muzâfun ileyh — 106:2)"
+      }
+    ],
+    "irab_default": "Mecrûr isim (yaz mevsimi — 106:2)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            106,
+            2
+          ]
+        ],
+        "text": "Yıllık ticaret döngüsünün sıcak mevsim kutbu (`رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ` `106:2`): Kış (`ٱلشِّتَآء`) ile Mesânî çifti oluşturarak dört mevsim kesintisiz işleyen geçim ve güvenlik ağını tamamlar."
+      }
+    ],
+    "context_default": "Yılın sıcak mevsimi olan yaz (`ٱلصَّيْف`)."
+  },
+  "ب-ل-د": {
+    "buckwalter": "bld",
+    "slug": "beled_belde_ve_bilad_sinirlari_belirli_toprak_yurt_ve_guvenli_kent_bld",
+    "concept_name": "Beled, Belde ve Bilâd (Sınırları Belirli Toprak Bölgesi, Yurt ve Güvenli Kent)",
+    "keywords": [
+      "belde",
+      "şehir",
+      "kent",
+      "toprak",
+      "ülke",
+      "diyar",
+      "yurt",
+      "güvenli"
+    ],
+    "irab_rules": [
+      {
+        "ayahs": [
+          [
+            7,
+            58
+          ]
+        ],
+        "label": "Merfû mübtedâ (وَٱلْبَلَدُ ٱلطَّيِّبُ: temiz ve verimli toprak/belde — 7:58)"
+      },
+      {
+        "ayahs": [
+          [
+            34,
+            15
+          ]
+        ],
+        "label": "Merfû haber (بَلْدَةٌ طَيِّبَةٌ: tertemiz, verimli bir beldedir — 34:15)"
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            126
+          ],
+          [
+            14,
+            35
+          ]
+        ],
+        "label": "Mansûb mef'ûlün bih (ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا / هَٰذَا ٱلْبَلَدَ ءَامِنًا: bu yeri güvenli bir belde/yurt kıl — 2:126, 14:35)"
+      },
+      {
+        "ayahs": [
+          [
+            25,
+            49
+          ],
+          [
+            43,
+            11
+          ],
+          [
+            50,
+            11
+          ]
+        ],
+        "label": "Mansûb mef'ûlün bih (لِّنُحْىِۦ / فَأَنشَرْنَا / وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا: onunla ölü bir toprağı/beldeyi dirilttik — 25:49, 43:11, 50:11)"
+      }
+    ],
+    "irab_default": "Mecrûr isim (harf-i cer veya izâfetle: belde, toprak ve ülkeler)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            7,
+            57
+          ],
+          [
+            7,
+            58
+          ],
+          [
+            25,
+            49
+          ],
+          [
+            35,
+            9
+          ],
+          [
+            43,
+            11
+          ],
+          [
+            50,
+            11
+          ]
+        ],
+        "text": "Yağmurla diriltilen ölü toprak ve verimli/çorak arazi yasası (`7:57-58`, `25:49`, `35:9`, `43:11`, `50:11`): Bulutların ölü bir toprağa (`لِبَلَدٍ مَّيِّتٍ / بَلْدَةً مَّيْتًا`) sürülüp hayat verilmesi ve temiz toprağın (`ٱلْبَلَدُ ٱلطَّيِّبُ`) ürününü Rabbinin izniyle verimli çıkarması karşısında çorak toprağın (`وَٱلَّذِى خَبُثَ`) ancak kıt ürün vermesi."
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            126
+          ],
+          [
+            14,
+            35
+          ],
+          [
+            27,
+            91
+          ],
+          [
+            34,
+            15
+          ],
+          [
+            90,
+            1
+          ],
+          [
+            90,
+            2
+          ],
+          [
+            95,
+            3
+          ]
+        ],
+        "text": "Güvenli, dokunulmaz ve bereketli yurt/kent (`2:126`, `14:35`, `27:91`, `34:15`, `90:1-2`, `95:3`): İbrâhîm'in güvenli belde duası (`بَلَدًا ءَامِنًا`), dokunulmaz kılınan beldenin Rabbine kulluk (`27:91`), Sebe'nin temiz beldesi (`بَلْدَةٌ طَيِّبَةٌ` `34:15`) ve Güvenli Belde üzerine yapılan tanıklık (`90:1-2`, `95:3`)."
+      },
+      {
+        "ayahs": [
+          [
+            3,
+            196
+          ],
+          [
+            16,
+            7
+          ],
+          [
+            40,
+            4
+          ],
+          [
+            50,
+            36
+          ],
+          [
+            89,
+            8
+          ],
+          [
+            89,
+            11
+          ]
+        ],
+        "text": "Yeryüzü coğrafyasında ve ülkelerde dolaşım, imar ve azgınlık sınavı (`3:196`, `16:7`, `40:4`, `50:36`, `89:8,11`): Bineklerin ağırlıkları uzak beldelere taşıması (`16:7`), gerçeği örtenlerin ülkeler içinde (`فِى ٱلْبِلَٰدِ`) gösterişli dolaşmasının aldatıcı oluşu (`3:196`, `40:4`), ülkelerde eşsiz yapılar kurup taşkınlık yapanların (`89:8,11`) ve önceki güçlü toplumların ülkelerde kaçacak yer aramasının (`50:36`) ibretli sonu."
+      }
+    ],
+    "context_default": "Sınırları belirli coğrafi toprak parçası, yurt ve yerleşim beldesi (`بَلَد / بَلْدَة / بِلَٰد`)."
+  },
+  "ط-و-ر": {
+    "buckwalter": "Twr",
+    "slug": "tur_ve_etvar_kusakli_dag_ve_ardisik_yaratilis_evreleri_twr",
+    "concept_name": "Tûr ve Etvâr (Kuşaklı Vahiy Dağı ve Ardışık Yaratılış Evreleri)",
+    "keywords": [
+      "tur",
+      "dağ",
+      "evre",
+      "aşama",
+      "sina"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aTowaAr",
+        "label": "Mansûb hâl (خَلَقَكُمْ أَطْوَارًا: sizi evreler/aşamalar halinde yarattı — 71:14)"
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            63
+          ],
+          [
+            2,
+            93
+          ],
+          [
+            4,
+            154
+          ]
+        ],
+        "label": "Mansûb mef'ûlün bih (وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ: üzerinize Tûr dağını yükselttik — 2:63, 2:93, 4:154)"
+      }
+    ],
+    "irab_default": "Mecrûr isim (harf-i cer, izâfet veya kasem vav'ı ile: Tûr dağı — 19:52, 20:80, 23:20, 28:29, 28:46, 52:1, 95:2)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            71,
+            14
+          ]
+        ],
+        "text": "Ardışık yaratılış evreleri ve gelişim aşamaları (`وَقَدْ خَلَقَكُمْ أَطْوَارًا` `71:14`): İnsanın başıboş değil, birbirini izleyen hassas biyolojik ve varoluşsal evreler halinde yaratılması."
+      },
+      {
+        "ayahs": [
+          [
+            19,
+            52
+          ],
+          [
+            20,
+            80
+          ],
+          [
+            23,
+            20
+          ],
+          [
+            28,
+            29
+          ],
+          [
+            28,
+            46
+          ],
+          [
+            52,
+            1
+          ],
+          [
+            95,
+            2
+          ]
+        ],
+        "text": "Vahiy çağrısının ve bereketli zeytin ağacının mekânı olan Tûr dağı (`19:52`, `20:80`, `23:20`, `28:29,46`, `52:1`, `95:2`): Mûsâ'nın Tûr'un sağ yamacından (`مِن جَانِبِ ٱلطُّورِ`) çağrılıp yakınlaştırılması, Sînâ Tûr'undan çıkan yağlı ağaç (`23:20`) ve Tûr-i Sînîn üzerine yapılan and/tanıklık (`52:1`, `95:2`)."
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            63
+          ],
+          [
+            2,
+            93
+          ],
+          [
+            4,
+            154
+          ]
+        ],
+        "text": "Ağır sözleşme (mîsâk) ve Tûr dağının yükseltilmesi (`2:63`, `2:93`, `4:154`): Verilen ilkeleri güçle tutup hatırlamaları için Tûr dağının heybetle üzerlerine yükseltildiği tarihsel ahit sahnesi."
+      }
+    ],
+    "context_default": "Mekânda ve zamanda katmanlı uzanım: Tûr dağı ve yaratılış evreleri (`ٱلطُّور / أَطْوَارًا`)."
+  },
+  "ز-ي-ت": {
+    "buckwalter": "zyt",
+    "slug": "zeyt_ve_zeytun_zeytin_agaci_ve_aydinlatici_saf_zeytinyagi_zyt",
+    "concept_name": "Zeyt ve Zeytûn (Bereketli Zeytin Ağacı ve Aydınlatıcı Saf Zeytinyağı)",
+    "keywords": [
+      "zeytin",
+      "yağ",
+      "ağaç",
+      "ışık",
+      "nur"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "zayot",
+        "label": "Merfû اسم يَكَادُ (يَكَادُ زَيْتُهَا يُضِىٓءُ: onun yağı neredeyse ışık saçacak — 24:35)"
+      },
+      {
+        "lemma": "zayotuwnap",
+        "label": "Mecrûr bedel / sıfat (مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ: bereketli bir zeytin ağacından — 24:35)"
+      },
+      {
+        "ayahs": [
+          [
+            95,
+            1
+          ]
+        ],
+        "label": "Mecrûr ma'tûf isim (وَٱلتِّينِ وَٱلزَّيْتُونِ: kasem vav'ı ile incire ve zeytine andolsun — 95:1)"
+      }
+    ],
+    "irab_default": "Mansûb mef'ûlün bih / ma'tûf isim (suyla yetiştirilen zeytin nimeti — 6:99, 6:141, 16:11, 80:29)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            24,
+            35
+          ],
+          [
+            95,
+            1
+          ]
+        ],
+        "text": "Berrak aydınlanma yakıtı ve insanın en güzel kıvamda yaratılışının doğal tanığı (`24:35`, `95:1`): Ateş dokunmasa bile berraklığından neredeyse kendiliğinden ışık saçan (`يَكَادُ زَيْتُهَا يُضِىٓءُ`) bereketli zeytin ağacı (`زَيْتُونَة`) ve Tîn suresindeki incir-zeytin andı ve tanıklığı."
+      },
+      {
+        "ayahs": [
+          [
+            6,
+            99
+          ],
+          [
+            6,
+            141
+          ],
+          [
+            16,
+            11
+          ],
+          [
+            80,
+            29
+          ]
+        ],
+        "text": "Gökten indirilen suyla yetiştirilen zeytin bahçeleri ve hasat günü paylaşım sorumluluğu (`6:99`, `6:141`, `16:11`, `80:29`): Aynı suyla sulanıp birbirine benzeyen ve benzemeyen nitelikte yetişen zeytinlerin düşünen toplum için kanıt oluşu ve devşirme gününde hakkının verilip israf edilmemesi (`6:141`)."
+      }
+    ],
+    "context_default": "Bereketli zeytin ağacı, meyvesi ve aydınlatıcı saf zeytinyağı (`زَيْت / زَيْتُون`)."
+  },
+  "ت-ي-ن": {
+    "buckwalter": "tyn",
+    "slug": "tin_incir_agaci_ve_meyvesi_tyn",
+    "concept_name": "Tîn (İncir Ağacı ve Meyvesi)",
+    "keywords": [
+      "incir",
+      "zeytin",
+      "tur",
+      "belde"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "t~iyn",
+        "label": "Mecrûr isim (وَٱلتِّينِ: kasem/tanıklık vav'ı ile mecrûr — 95:1)"
+      }
+    ],
+    "irab_default": "Mecrûr isim (incir — 95:1)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            95,
+            1
+          ]
+        ],
+        "text": "İnsanın en güzel kıvamda yaratılışına tanıklık eden dörtlü and/tanıklık açılışı (`وَٱلتِّينِ وَٱلزَّيْتُونِ` `95:1`): Doğrudan ve katkısız besin olan incir ile aydınlatıcı yağ kaynağı zeytinin, Sînîn Tûr'u ve Güvenli Belde ile birlikte insanın yaratılış kıvamına (`95:4`) tanık gösterilmesi."
+      }
+    ],
+    "context_default": "İncir ağacı ve meyvesi (`ٱلتِّين`)."
+  },
+  "ش-ق-و": {
+    "buckwalter": "$qw",
+    "slug": "saki_eska_ve_sikve_kolaylik_ve_esenligin_zitti_yikima_ve_sikintiya_suruklenmek_sqw",
+    "concept_name": "Şakî, Eşkâ ve Şikve (Kolaylık ve Esenliğin Zıttı Ağır Sıkıntı, Mahrumiyet ve Yıkıma Sürüklenmek)",
+    "keywords": [
+      "sıkıntı",
+      "bedbaht",
+      "yıkım",
+      "azgın",
+      "mutsuz",
+      "zorba"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$aqu",
+        "label": "Form I fiil (شَقُوا۟ mâzî 11:106; لِتَشْقَىٰ / فَتَشْقَىٰ / يَشْقَىٰ muzârî 20:2, 20:117, 20:123: ağır sıkıntıya ve yıkıma düşmek)"
+      },
+      {
+        "lemma": ">a$oqaY",
+        "label": "Merfû ism-i tafdîl fâil (ٱلْأَشْقَى / أَشْقَىٰهَا: azgınlık ve yalanlamayla yıkıma en çok batan — 87:11, 91:12, 92:15)"
+      },
+      {
+        "lemma": "$iqowat",
+        "label": "Merfû fâil (غَلَبَتْ عَلَيْنَا شِقْوَتُنَا: kendi seçtiğimiz azgınlık ve bedbahtlığımız bize baskın çıktı — 23:106)"
+      },
+      {
+        "lemma": "$aqiy~",
+        "label": "Merfû mübtedâ (11:105 شَقِىٌّ) veya mansûb خبر كَانَ / مفعول ثانٍ (19:4, 19:32, 19:48 شَقِيًّا: esenlikten mahrum, zorba ve bedbaht)"
+      }
+    ],
+    "irab_default": "İsim/fiil (ağır sıkıntı ve yıkıma sürüklenmek)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            20,
+            2
+          ],
+          [
+            20,
+            117
+          ],
+          [
+            20,
+            123
+          ]
+        ],
+        "text": "Vahyin insanı ezmek için değil, sıkıntı ve yıkımdan korumak için indirildiği ilkesi (`20:2`, `20:117`, `20:123`): Kur'an'ın elçiyi meşakkate ve ruhsal ezilmeye sokmak için indirilmediği (`مَآ أَنزَلْنَا عَلَيْكَ ٱلْقُرْءَانَ لِتَشْقَىٰٓ`), saptırıcı gücün insanı esenlik bahçesinden çıkarıp sıkıntıya düşürme (`فَتَشْقَىٰٓ`) tehdidine karşı ilâhî rehberliğe uyanın ne sapacağı ne de yıkıma düşeceği (`فَلَا يَضِلُّ وَلَا يَشْقَىٰ`)."
+      },
+      {
+        "ayahs": [
+          [
+            19,
+            4
+          ],
+          [
+            19,
+            32
+          ],
+          [
+            19,
+            48
+          ]
+        ],
+        "text": "Yakarışta mahrum kalmama ve ailede şefkatli olup kaba/bedbaht olmama (`19:4`, `19:32`, `19:48`): Zekeriyyâ ve İbrâhîm'in Allah'a yönelip dua etmekle hiçbir zaman mahrum ve eli boş kalmadıkları (`بِدُعَآئِكَ رَبِّ شَقِيًّا`) ile Îsâ'nın annesine şefkatli/iyi (`بَرًّۢا`) kılınıp zorba ve yıkıcı (`جَبَّارًا شَقِيًّا`) kılınmaması."
+      },
+      {
+        "ayahs": [
+          [
+            11,
+            105
+          ],
+          [
+            11,
+            106
+          ],
+          [
+            23,
+            106
+          ],
+          [
+            87,
+            11
+          ],
+          [
+            91,
+            12
+          ],
+          [
+            92,
+            15
+          ]
+        ],
+        "text": "Yalanlama ve yüz çevirmeyle kendi yıkımına sürüklenenler (`11:105-106`, `23:106`, `87:11`, `91:12`, `92:15`): Hesap günü insanların `شَقِىٌّ وَسَعِيدٌ` olarak ayrışması, öğütten kaçıp yalanlayan ve yüz çeviren en azgın bedbahtın (`ٱلْأَشْقَى` `87:11`, `91:12`, `92:15`) ateşe girmesi ve `23:106`da 'azgınlık ve bedbahtlığımız (`شِقْوَتُنَا`) bize baskın çıktı' itirafı."
+      }
+    ],
+    "context_default": "Kolaylık ve esenliğin karşıtı olarak kendi seçimiyle ağır sıkıntı, mahrumiyet ve yıkıma sürüklenmek (`شَقَا / شَقِىّ / أَشْقَى`)."
+  },
+  "ر-د-ي": {
+    "buckwalter": "rdy",
+    "slug": "tereddi_ve_irda_yuksekten_ucuruma_ve_yikim_cukuruna_yuvarlanmak_rdy",
+    "concept_name": "Tereddî ve İrdâ' (Yüksekten Uçuruma ve Yıkım Çukuruna Yuvarlanıp Helak Olmak)",
+    "keywords": [
+      "yuvarlan",
+      "düş",
+      "helak",
+      "yıkım",
+      "uçurum"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mutarad~iyap",
+        "label": "Merfû ma'tûf isim (وَٱلْمُتَرَدِّيَةُ: yüksekten düşüp yuvarlanarak ölmüş hayvan — 5:3)"
+      },
+      {
+        "lemma": "tarad~aY`^",
+        "label": "Form V mâzî fiil (إِذَا تَرَدَّىٰٓ: uçuruma/çukura yuvarlandığında — 92:11)"
+      },
+      {
+        "lemma": "tarodaY`",
+        "label": "Form I mansûb muzârî fiil (فَتَرْدَىٰ: فاء السببية ile 'yoksa uçuruma/yıkıma yuvarlanırsın' — 20:16)"
+      },
+      {
+        "lemma": ">arodaY`",
+        "label": "Form IV ettirgen fiil (لِيُرْدُوهُمْ 6:137; لَتُرْدِينِ 37:56; أَرْدَىٰكُمْ 41:23: uçuruma ve yıkıma yuvarlamak)"
+      }
+    ],
+    "irab_default": "Fiil/isim (uçuruma yuvarlanmak veya yuvarlamak)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            5,
+            3
+          ]
+        ],
+        "text": "Somut fiziksel çıpa olarak yüksekten düşüp ölen hayvan (`وَٱلْمُتَرَدِّيَةُ` `5:3`): Dağdan, kayadan veya yüksek bir yerden kuyuya/uçuruma yuvarlanarak ölmüş hayvanın yenilmesinin yasaklanması."
+      },
+      {
+        "ayahs": [
+          [
+            20,
+            16
+          ],
+          [
+            92,
+            11
+          ]
+        ],
+        "text": "Saat bilincinden koparak veya malına güvenerek yıkım uçurumuna yuvarlanmak (`20:16`, `92:11`): Tutkusuna uyanların insanı Saat bilincinden saptırıp uçuruma düşürmemesi (`فَتَرْدَىٰ` `20:16`) ve cimrilik edip kendini müstağni görenin çukura yuvarlandığında (`إِذَا تَرَدَّىٰٓ` `92:11`) malının hiçbir işe yaramaması."
+      },
+      {
+        "ayahs": [
+          [
+            6,
+            137
+          ],
+          [
+            37,
+            56
+          ],
+          [
+            41,
+            23
+          ]
+        ],
+        "text": "Bozuk zannın, sahte ortakların ve gerçeği yalanlayan yoldaşın insanı uçuruma yuvarlaması (`6:137`, `37:56`, `41:23`): Ortak koşulan odakların çocuk öldürmeyi süsleyip insanları yıkıma sürüklemesi (`لِيُرْدُوهُمْ` `6:137`), dirilişi gerçeği yalanlayan arkadaşın 'neredeyse beni de uçuruma yuvarlayacaktın (`لَتُرْدِينِ`)' diye teşhiri (`37:56`) ve Rabb hakkındaki yanlış zannın insanları helake yuvarlaması (`أَرْدَىٰكُمْ` `41:23`)."
+      }
+    ],
+    "context_default": "Yüksekten derin uçuruma ve yıkım çukuruna yuvarlanıp helak olmak (`تَرْدَىٰ / تَرَدَّىٰ / أَرْدَىٰ`)."
+  },
+  "ج-ل-و": {
+    "buckwalter": "jlw",
+    "slug": "tecelli_ve_cila_ortunun_siyrilip_parlakca_aciga_cikmasi_ve_surgun_jlw",
+    "concept_name": "Tecellî ve Cilâ' (Örtünün Sıyrılıp Parlakça Açığa Çıkması ve Yurttan Sökülme)",
+    "keywords": [
+      "açığa çık",
+      "aydınlan",
+      "parla",
+      "belir",
+      "sürgün",
+      "tecelli"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jal~aY`",
+        "label": "Form II geçişli fiil (يُجَلِّيهَا 7:187 muzârî; جَلَّىٰهَا 91:3 mâzî: örtüsünü kaldırıp parlakça açığa çıkarmak)"
+      },
+      {
+        "lemma": "tajal~aY`",
+        "label": "Form V dönüşlü mâzî fiil (تَجَلَّىٰ 7:143, 92:2: perdesiz ve pırıl pırıl bir açıklıkla belirmek)"
+      },
+      {
+        "lemma": "jalaA^'",
+        "label": "Mansûb mef'ûlün bih (كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلَآءَ: yurdundan tamamen sökülüp çıkarılma / sürgün — 59:3)"
+      }
+    ],
+    "irab_default": "Fiil/isim (örtüden sıyrılıp parlakça açığa çıkmak)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            91,
+            3
+          ],
+          [
+            92,
+            2
+          ]
+        ],
+        "text": "Gündüzün karanlık örtüsünü sıyırıp güneşi ve ufku pırıl pırıl açığa çıkarması (`وَٱلنَّهَارِ إِذَا جَلَّىٰهَا` `91:3`; `وَٱلنَّهَارِ إِذَا تَجَلَّىٰ` `92:2`): Gecenin örtüp bürümesi (`يَغْشَىٰ`) ile tam Mesânî çifti oluşturan kozmik aydınlanma."
+      },
+      {
+        "ayahs": [
+          [
+            7,
+            143
+          ],
+          [
+            7,
+            187
+          ]
+        ],
+        "text": "İlâhî kudretin dağa engelsiz belirmesi (`7:143`) ve Saat'in tam vaktinde açığa çıkarılması (`7:187`): Mûsâ'nın görme talebinde Rabb'in dağa belirmesiyle (`تَجَلَّىٰ`) dağın un ufak olması ve göklere-yere ağır gelen Saat'i tam vaktinde yalnız O'nun örtüsünden sıyırıp açığa çıkaracağı (`لَا يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ`)."
+      },
+      {
+        "ayahs": [
+          [
+            59,
+            3
+          ]
+        ],
+        "text": "Kapalı kalelerden sökülüp yurdundan tamamen çıkarılma (`ٱلْجَلَآء` `59:3`): Antlaşmayı bozup kalelerinin kendilerini koruyacağını sanan topluluğun yurtlarından tamamen sökülerek açıkta bırakılması ve sürgün edilmesi."
+      }
+    ],
+    "context_default": "Örtü ve karanlığın sıyrılıp parlakça açığa çıkması veya yurttan sökülüp çıkarılma (`جَلَّىٰ / تَجَلَّىٰ / جَلَآء`)."
   }
 }

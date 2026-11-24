@@ -1,0 +1,64 @@
+{
+  "root": "ش-ت-و",
+  "root_latin": "S-T-W",
+  "concept_name": "Şitâ' (Yılın Soğuk ve Yağışlı Kış Mevsimi)",
+  "rank": 1632,
+  "total_occurrences": 1,
+  "unique_ayahs_count": 1,
+  "unified_core_mechanism": "Yıllık mevsim döngüsünün soğuk ve yağışlı kutbu olan kış mevsimi (`ٱلشِّتَآء` — `106:2`): Yaz (`ٱلصَّيْف`) ile birlikte yıl boyu kesintisiz süren ekonomik dolaşım, beslenme ve güvenlik nimetinin zamansal eksenini kurar.",
+  "physical_core": "İbn Fâris'in tespit ettiği üzere 'yılın soğuk ve yağışlı mevsimi olan kış zamanı (أَصْلٌ وَاحِدٌ لِزَمَانٍ مِنَ الْأَزْمِنَةِ وَهُوَ الشِّتَاءُ)': Kur'an'da 106:2'de yaz mevsiminin (`ٱلصَّيْف`) tam karşıt kutbu olarak kış ticaret yolculuğunu (`رِحْلَةَ ٱلشِّتَآءِ`) tanımlar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "Tek bir asıldır; zaman dilimlerinden kış mevsimini (الشتاء) ifade eder.",
+    "lisan_al_arab": "Yılın soğuk mevsimi (الشتاء ضد الصيف); kışın kuraklık ve darlık yaşandığı için kışlamak (شتا بالمكان) bu köktendir.",
+    "ragib_mufredat": "Yazın (الصيف) karşıtı olan soğuk mevsim; 106:2'de Kureyş'in mevsimsel ticaret döngüsünün iki kutbundan biri.",
+    "arbitration_decision": "Kök tüm sözlüklerde ve Sami dillerinde 'soğuk ve yağışlı kış mevsimi' çekirdeğinde tam mutabakat halindedir. 106:2'de ص-ي-ف ile doğrudan Mesânî mevsim çifti kurar."
+  },
+  "semitic_cognates": {
+    "note": "İbranice sᵉṯāw (סְתָו — Strong H5638: 'kış, yağışlı soğuk mevsim', Ezgiler Ezgisi 2:11); Yahudi Aramicesi ve Süryanice sᵉṯāwā (ܣܬܘܐ: 'kış mevsimi'); Sebece s₂tw ('kış/yağış dönemi' — Proto-Sami *s₂ ses yasasıyla Arapça ش = İbranice/Aramice ס/שׂ birebir örtüşür)."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ص-ي-ف"
+    ],
+    "key_ayahs": [
+      "106:2"
+    ],
+    "reverse_stress_test": "Sıcak yaz mevsimi (`ٱلصَّيْف` — 106:2) ile soğuk kış mevsimi (`ٱلشِّتَآء` — 106:2) yıllık iklim ve geçim döngüsünün iki tam zıt kutbudur."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ص-ي-ف",
+      "ب-ر-د"
+    ],
+    "mechanical_difference": "`ب-ر-د` fiziksel soğukluk/serinlik niteliğidir; `ش-ت-و` (`ٱلشِّتَآء`) ise `ص-ي-ف` (`ٱلصَّيْف`) karşısında yılın soğuk takvim mevsimini (kış) adlandırır."
+  },
+  "anchor_ayahs": [
+    "106:2 (إِيلافِهِمْ رِحْلَةَ الشِّتاءِ وَالصَّيْفِ — Kış ve yaz yolculuğuna alışıp kaynaştırılmaları)"
+  ],
+  "grammar_and_branch_rules": "106:2'de `رِحْلَةَ` mastarının muzâfun ileyh'i olarak mecrûr konumda gelir ve `وَٱلصَّيْفِ` ile simetrik çift oluşturur.",
+  "derivatives": {
+    "ٱلشِّتَآء": "Yılın soğuk mevsimi, kış (1 geçiş: 106:2)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 106,
+      "ayah": 2,
+      "surah_name": "Kureyş",
+      "ayah_ref": "106:2",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلشِّتَآءِ",
+      "target_word_rasm": "ٱلشتاء",
+      "target_word_literal_irab": "Mecrûr muzâfun ileyh (رِحْلَةَ ٱلشِّتَآءِ: kış mevsimi yolculuğu — 106:2)",
+      "context_snippet_arabic": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "context_snippet_turkish_tabula_rasa": "Yaz ve kış, alışveriş için göçüp konarak yolculuk ederlerken uzlaşıp düzene girmeleri için.",
+      "morphology": {
+        "lemma": "$~itaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$~itaA^'|ROOT:$tw|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaz ve kış, alışveriş için göçüp konarak yolculuk ederlerken uzlaşıp düzene girmeleri için.",
+      "contextual_meaning": "Yılın soğuk mevsimi olan kış (`ٱلشِّتَآء`)."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "root": "ص-ي-ف",
+  "root_latin": "S-Y-F",
+  "concept_name": "Sayf (Yılın Sıcak Yaz Mevsimi)",
+  "rank": 1633,
+  "total_occurrences": 1,
+  "unique_ayahs_count": 1,
+  "unified_core_mechanism": "Yıllık mevsim döngüsünün sıcak kutbu olan yaz mevsimi (`ٱلصَّيْف` — `106:2`): Kış (`ٱلشِّتَآء`) ile birlikte yılın iki zıt ucunda sürdürülen kesintisiz ticaret ve geçim yolculuğunu (`106:2`) tamamlar.",
+  "physical_core": "İbn Fâris'in tespit ettiği üzere 'yılın sıcak mevsimi olan yaz zamanı (أَصْلٌ يَدُلُّ عَلَى زَمَانٍ وَهُوَ الصَّيْفُ)': 106:2'de kış (`ٱلشِّتَآء`) mevsiminin tam karşıt kutbu olarak yaz ticaret yolculuğunu tanımlar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İki asıldır: birincisi zaman dilimlerinden yaz mevsimi (الصيف); ikincisi okun hedeften sapması (صاف السهم).",
+    "lisan_al_arab": "Kışın (الشتاء) zıddı olan sıcak mevsim (الصيف); bir yerde yazı geçirmek (صاف بالمكان).",
+    "ragib_mufredat": "Kışın karşıtı olan sıcak mevsim; 106:2'de kış ve yaz ticaret yolculukları (رحلة الشتاء والصيف).",
+    "arbitration_decision": "Kur'an'daki tek geçişi (106:2) İbn Fâris'in birinci aslı olan 'sıcak yaz mevsimi'dir ve ش-ت-و ile Kureyş suresinin mevsimsel Mesânî çiftini tamamlar."
+  },
+  "semitic_cognates": {
+    "note": "Sebece ṣyf ('yaz mevsimi / yaz hasadı'); İbranice qayִṣ (קַיִץ — farklı kök *qyẓ), Arapça ve Güney Arabistan dillerinde *ṣyf 'yaz mevsimi' olarak korunmuştur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ش-ت-و"
+    ],
+    "key_ayahs": [
+      "106:2"
+    ],
+    "reverse_stress_test": "Soğuk kış mevsimi (`ٱلشِّتَآء` — 106:2) ile sıcak yaz mevsimi (`ٱلصَّيْف` — 106:2) yıllık mevsim döngüsünün iki tam zıt kutbudur."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ش-ت-و",
+      "ح-ر-ر"
+    ],
+    "mechanical_difference": "`ح-ر-ر` fiziksel sıcaklık niteliğidir (9:81 `فِى ٱلْحَرِّ`); `ص-ي-ف` (`ٱلصَّيْف`) ise `ش-ت-و` (`ٱلشِّتَآء`) karşısında yılın sıcak takvim mevsimini (yaz) gösterir."
+  },
+  "anchor_ayahs": [
+    "106:2 (إِيلافِهِمْ رِحْلَةَ الشِّتاءِ وَالصَّيْفِ — Kış ve yaz yolculuğuna alışıp kaynaştırılmaları)"
+  ],
+  "grammar_and_branch_rules": "106:2'de `ٱلشِّتَآءِ` üzerine `وَ` ile atfedilmiş mecrûr isim olarak gelir.",
+  "derivatives": {
+    "ٱلصَّيْف": "Yılın sıcak mevsimi, yaz (1 geçiş: 106:2)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 106,
+      "ayah": 2,
+      "surah_name": "Kureyş",
+      "ayah_ref": "106:2",
+      "word_position": 4,
+      "target_word_uthmani": "وَٱلصَّيْفِ",
+      "target_word_rasm": "وٱلصيف",
+      "target_word_literal_irab": "Mecrûr ма'tûf isim (وَٱلصَّيْفِ: ٱلشِّتَآءِ üzerine atfedilmiş muzâfun ileyh — 106:2)",
+      "context_snippet_arabic": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "context_snippet_turkish_tabula_rasa": "Yaz ve kış, alışveriş için göçüp konarak yolculuk ederlerken uzlaşıp düzene girmeleri için.",
+      "morphology": {
+        "lemma": "S~ayof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:S~ayof|ROOT:Syf|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaz ve kış, alışveriş için göçüp konarak yolculuk ederlerken uzlaşıp düzene girmeleri için.",
+      "contextual_meaning": "Yılın sıcak mevsimi olan yaz (`ٱلصَّيْف`)."
+    }
+  ]
+}
