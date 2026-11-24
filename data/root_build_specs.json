@@ -45757,5 +45757,96 @@
       }
     ],
     "context_default": "Dört sayısı, dördüncü konum, dörtte bir kesir veya kırk döngüsü"
+  },
+  "ت-م-م": {
+    "buckwalter": "tmm",
+    "slug": "tmm",
+    "concept_name": "Temâm ve İtmâm (Süreci, Süreyi, Sözü ve Işığı Eksiksiz Son Sınırına Ulaştırmak)",
+    "keywords": [
+      "tamamlamak",
+      "tamamlanmak",
+      "eksiksiz",
+      "vade",
+      "son sınır"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">atam~a",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "IV. bab emir fiili (أَتِمُّوا۟ / فَأَتِمُّوٓا۟ / أَتْمِمْ — 2:187, 2:196, 9:4, 66:8) — başlanan süreyi, sözleşmeyi veya ışığı son noktasına erdir"
+      },
+      {
+        "lemma": ">atam~a",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "IV. bab mâzî fiili (فَأَتَمَّهُنَّ / أَتْمَمْتُ / أَتْمَمْنَٰهَا / أَتَمَّهَا / أَتْمَمْتَ — 2:124, 5:3, 7:142, 12:6, 28:27) — sükûnla birleştiğinde fakkü'l-idğâmlı tam yerine getirme"
+      },
+      {
+        "lemma": ">atam~a",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "IV. bab muzârî fiili (لِأُتِمَّ / يُتِمَّ / يُتِمُّ — 2:150, 2:233, 5:6, 9:32, 12:6, 16:81, 48:2) — nimet, süreç veya ışığın hedefe ulaştırılması"
+      },
+      {
+        "lemma": "tam~a",
+        "label": "I. bab mâzî lâzım fiili (تَمَّتْ / فَتَمَّ — 6:115, 7:137, 7:142, 11:119) — vadenin dolup sözün eksiksiz gerçekleşmesi"
+      },
+      {
+        "lemma": "tamaAm",
+        "label": "Mansûb nekre masdar (تَمَامًا — mef'ûlün lieclih / hâl, 6:154) — tamamlayıcı son halka olarak"
+      },
+      {
+        "lemma": "mutim~",
+        "label": "IV. bab merfû' ism-i fâil mudâf (مُتِمُّ نُورِهِۦ — 61:8) — ışığını yarıda bırakmadan sonuna erdiren"
+      }
+    ],
+    "irab_default": "Temm / İtmâm türevi — bir süreci eksik bırakmadan son sınırına ulaştırmak",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:187",
+          "2:196",
+          "2:233",
+          "7:142",
+          "9:4",
+          "28:27"
+        ],
+        "text": "Zaman Vadeleri ve Sözleşme Sınırının Kapanması (`2:187,196,233`, `7:142`, `9:4`, `28:27`): Belirli başlangıçtan son vadesine (`إِلَى ٱلَّيْلِ`, `حَوْلَيْنِ كَامِلَيْنِ`, `أَرْبَعِينَ لَيْلَةً`, `إِلَىٰ مُدَّتِهِمْ`, `عَشْرًا`) kadar kesintisiz tamamlama."
+      },
+      {
+        "ayahs": [
+          "2:124",
+          "6:115",
+          "6:154",
+          "7:137",
+          "11:119"
+        ],
+        "text": "Sözlerin, Hükümlerin ve Kitab'ın Tam Gerçekleşmesi (`2:124`, `6:115,154`, `7:137`, `11:119`): İbrâhîm'in sınama kelimelerini eksiksiz icra etmesi ve Rabbinin sözünün doğruluk ve dengeyle kesinlik kazanması."
+      },
+      {
+        "ayahs": [
+          "2:150",
+          "5:3",
+          "5:6",
+          "12:6",
+          "16:81",
+          "48:2"
+        ],
+        "text": "Nimet ve Desteğin Nihaî Sınıra Ulaştırılması (`2:150`, `5:3,6`, `12:6`, `16:81`, `48:2`): Doğa korumalarından arınma ve tarihî önderlik nimetlerine kadar kuşatıcı desteğin tamamlanması."
+      },
+      {
+        "ayahs": [
+          "9:32",
+          "61:8",
+          "66:8"
+        ],
+        "text": "Işığın Söndürülme Çabasına Karşı Tamamlanması (`9:32`, `61:8`, `66:8`): Ağızlarla söndürme girişimlerine rağmen Yaratıcının kendi nurunu son noktasına ulaştırması."
+      }
+    ],
+    "context_default": "Başlanmış bir süreci veya vadeyi eksiksiz son sınırına erdirme bağlamı"
   }
 }

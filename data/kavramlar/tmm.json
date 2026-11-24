@@ -1,0 +1,503 @@
+{
+  "root": "ت-م-م",
+  "root_latin": "T-M-M (TMM)",
+  "concept_name": "Temâm ve İtmâm (Süreci, Süreyi, Sözü ve Işığı Eksiksiz Son Sınırına Ulaştırmak)",
+  "rank": 381,
+  "total_occurrences": 22,
+  "unique_ayahs_count": 20,
+  "unified_core_mechanism": "Başlamış bir süreci, zaman vadesini, sözleşmeyi, sınama maddesini, nimet/destek akışını veya aydınlığı yarıda ve eksik bırakmadan hedef sınırına (`إِلَىٰ مُدَّتِهِمْ / إِلَى ٱلَّيْلِ / أَرْبَعِينَ`) ulaştırıp son noktasını kapatmak.",
+  "physical_core": "İbn Fâris'in tespit ettiği tek ölçülü asıl ('dışarıdan veya içeriden hiçbir eksiği kalmaksızın bir sürecin, sözün, sürenin veya düzeneğin kendi son noktasına erişip eksiksiz bütünlenmesi'): başlanmış bir süreyi son vadesine değin kesintisiz götürmek (`2:187` günün karanlığına dek, `2:233` iki tam yıl, `7:142` `30+10=40` gece, `9:4` antlaşma vadesi, `28:27` `8+2=10` yıl), verilen söz ve sınama maddelerini tek tek yerine getirip sonlandırmak (`2:124`, `6:115`, `7:137`, `11:119`) ve ışığı/desteği hedef sınırına ulaştırmak (`9:32`, `61:8`, `66:8`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökün tek aslı 'kemal ve sınırın kapanması'dır (دليل الكُمال): şeyin kendi kendine son sınırına ulaşması (`تَمَّ`), öznenin onu sonuna erdirmesi (`أَتَمَّ`), tam süreyi doldurmuş hamile (`مُتِمّ`) ve en uzun gece (`ليل التمام`).",
+    "lisan_al_arab": "`تَمَّ يَتِمُّ تَمًّا وَتَمَامًا` noksanın tamamen kalkması ve bitim noktasına ulaşmadır; `أَتَمَّهُ` onu eksiksiz sonuca erdirdi demektir; `61:8` ayetinde `مُتِمُّ نُورِهِۦ` izâfetli ve tenvinsiz okunuşta tamamlayıcı sıfatın kesintisiz sürekliliğini vurgular.",
+    "ragib_mufredat": "Râgıb'a göre `التَّمَام` aranan son sınıra hiçbir eksiklik kalmaksızın varmaktır; `كَمَال` (`5:3` `أَكْمَلْتُ`) yapısal iç parçaların eksiksizliği iken, `تَمَام` (`5:3` `وَأَتْمَمْتُ`, `2:196`, `2:233`) sürecin ve nimetin dış sınırını ve nihai hedefini kapatmaktır.",
+    "arbitration_decision": "Mekâyîs'in tek asıl ilkesi ve Râgıb'ın `ك-م-ل` ↔ `ت-م-م` Furûk ayrımı doğrultusunda Kur'an'daki tüm 22 geçiş tek ortak mekanizmada birleşir: 'bir sürecin, zaman diliminin, sözün, nimetin veya ışığın kesilmeden nihai sınırına erdirilip kapatılması'; idğamlı çekimler yanında `5:3`, `7:142`, `28:27` ve `66:8`'deki fakkü'l-idğâm (`تْمَمْ`) Rasm iskeletleri doğrulandı."
+  },
+  "semitic_cognates": {
+    "note": "Ortak Sami `*t-m-m` ('tam olmak, sona ermek, eksiksiz ve lekesiz bütünleşmek') mirasının devamıdır: İbranice (BDB / HALOT) תָּמַם (`tāmam` 'tamamlanmak, bitmek, bütüne ulaşmak') ve תָּמִים (`tāmîm` 'eksiksiz, bütün, sağlam'), Ugaritçe `tm / tmm` (`š tmm` 'kusursuz/tam koç'), Aramice/Süryanice (CAL) `tmm` ('tamamlamak, bitirmek, toplam'), Eski Güney Arapça Sebece (DASI) `tmm` ('tamam, tam sayı / özel isim unsuru Tmm') ile doğrudan eşkökenlidir. Akadca CAD'de `tamāmu` (OB, anlamı belirsiz) ayrı tutulup `ṭmm` (`ṭummumu` 'tıkamak/sağır etmek') kökünden titizlikle ayrıştırılır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ن-ق-ص",
+      "ح-ص-ر",
+      "ب-ت-ر",
+      "ب-د-أ"
+    ],
+    "key_ayahs": [
+      "9:4 (ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا ... فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ — eksiltmeme karşılığında sözleşmeyi sonuna kadar sürdürme)",
+      "2:196 (وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ — ziyareti tamamlama emri ile yarı yolda kuşatılıp alıkonulma istisnası)",
+      "7:142 (وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ — ilave edilerek başlangıçtan tam vadesine kapanan süreç)",
+      "9:32 & 61:8 (يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ ... وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ / وَٱللَّهُ مُتِمُّ نُورِهِۦ — söndürme girişimi karşısında ışığı sonuna ulaştırma)"
+    ],
+    "reverse_stress_test": "Sözleşmeden parça eksiltmek (`ن-ق-ص` — `9:4`), yarı yolda sıkıştırıp alıkoymak (`ح-ص-ر` — `2:196`), devamı gelmeden dipten kesip güdük bırakmak (`ب-ت-ر` — `الْقَطْعُ قَبْلَ التَّمَامِ`) ve ilk adımı açıp başlatmak (`ب-د-أ`) tersine çevrildiğinde, `ت-م-م` kökünün 'başlamış olanı eksik ve yarıda bırakmadan hedef sınırında tamama erdirmek' çekirdeği tüm 22 geçişi %100 kilitler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ك-م-ل",
+      "ن-ق-ص",
+      "ح-ص-ر",
+      "ف-ص-ل",
+      "ب-د-ل",
+      "ن-ع-م",
+      "ن-و-ر",
+      "ط-ف-أ"
+    ],
+    "mechanical_difference": "1) `ت-م-م` vs `ك-م-ل` (`5:3` `أَكْمَلْتُ ... وَأَتْمَمْتُ`, `2:196` `عَشَرَةٌ كَامِلَةٌ` vs `وَأَتِمُّوا۟`, `2:233` `حَوْلَيْنِ كَامِلَيْنِ` vs `أَن يُتِمَّ`): `ك-م-ل` yapı ve nicelik içindeki bütün parçaların tamlığını (3+7=10 gün, iki bütün yıl), `ت-م-م` ise sürece giren akışın belirlenen son sınıra kadar götürülüp kapanmasını ifade eder. 2) `9:4`: Sözleşmede `لَمْ يَنقُصُوكُمْ` (parça/şart eksiltmeme `ن-ق-ص`) karşılığı `فَأَتِمُّوٓا۟` (süresini sonuna dek tamamlama `ت-م-م`). 3) `2:196`: `وَأَتِمُّوا۟` (yönelişi sonuca vardırma) vs `أُحْصِرْتُمْ` (dış engelle yarıda sıkıştırılma `ح-ص-ر`). 4) `2:233` & `6:154`: `أَن يُتِمَّ ٱلرَّضَاعَةَ` (tam emzirme döngüsü) vs `فِصَالًا` (ayırma/kesme `ف-ص-ل`), ve `6:154`'te `تَمَامًا` (bütünleyici ek) vs `تَفْصِيلًا` (hükümleri tek tek ayrıştırma). 5) `6:115`: `وَتَمَّتْ كَلِمَتُ رَبِّكَ` (değişime kapalı kesinleşmiş söz) vs `لَا مُبَدِّلَ` (`ب-د-ل`). 6) `9:32` & `61:8`: `لِيُطْفِـُٔوا۟` (üfleyip söndürme `ط-ف-أ`) vs `يُتِمَّ / مُتِمُّ نُورِهِۦ` (`ت-م-م`). 7) `7:142`: IV. bab etken müdahale (`وَأَتْمَمْنَٰهَا`) hemen ardından I. bab edilgen/lâzım sonuçla (`فَتَمَّ مِيقَٰتُ`) çift katman kurar."
+  },
+  "anchor_ayahs": [
+    "7:142 (وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً — IV. bab etken tamamlamanın I. bab tam sonuç üretmesi)",
+    "5:3 (ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى — `ك-م-ل` içsel yapı tamlığı ile `ت-م-م` nimet sınırının kapanması Furûk çifti)",
+    "9:4 (ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا ... فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ — eksiltme zıddı olarak antlaşma vadesini sonuna dek koruma)",
+    "2:187 & 2:196 (ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ / وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ — belirli başlangıçtan hedef bitişe süre ve yöneliş tamamlama)",
+    "9:32 & 61:8 & 66:8 (وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ / وَٱللَّهُ مُتِمُّ نُورِهِۦ / رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا — ışığı söndürme girişimlerine rağmen aydınlığı nihai menziline ulaştırma)"
+  ],
+  "grammar_and_branch_rules": "Toplam `22` geçiş (`20` fiil + `2` isim) 4 morfolojik kolda işler: 1) **I. Bab Lâzım (`تَمَّ / تَمَّتْ` — `4` geçiş):** İlke ve vaadin kesin gerçekleşmesi (`6:115`, `7:137`, `11:119`) ile vade süresinin dolması (`7:142`). 2) **IV. Bab Geçişli (`أَتَمَّ / يُتِمُّ / أَتْمِمْ / أَتِمُّوا۟` — `16` geçiş):** Sınama sözlerini yerine getirme (`2:124`), nimeti/desteği tamamlama (`2:150`, `5:3`, `5:6`, `12:6` x2, `16:81`, `48:2`), zaman ve hukuk süresini bitişe götürme (`2:187`, `2:196`, `2:233`, `7:142`, `9:4`, `28:27`) ve ışığı tamamlama (`9:32`, `66:8`). Sükûnlu bitişik zamir/cezm halinde idğam çözülerek (`أَتْمَمْتُ`, `أَتْمَمْنَٰهَا`, `أَتْمَمْتَ`, `أَتْمِمْ`) yazılır. 3) **Masdar (`تَمَامًا` — `1` geçiş: `6:154`):** Güzel işleyenlerin üzerine tamamlayıcı son katman. 4) **IV. Bab İsm-i Fâil (`مُتِمُّ` — `1` geçiş: `61:8`):** Aydınlığını kesintisiz sonuna erdiren fail.",
+  "derivatives": {
+    "تَمَّ / تَمَّتْ (Temme / Temmet)": "I. Bab Lâzım Fiil (4 geçiş: 6:115, 7:137, 7:142, 11:119) — eksik kalmadan tam gerçekleşmek, vadesi dolmak",
+    "أَتَمَّ / يُتِمُّ / أَتِمُّوا۟ / أَتْمِمْ (Etemme / Yutimmü)": "IV. Bab Geçişli Fiil (16 geçiş) — süreci, süreyi, nimeti, sözü veya ışığı son sınırına ulaştırıp tamamlamak",
+    "تَمَامًا (Temâmen)": "Masdar İsim (1 geçiş: 6:154) — tamamlayıcı son halka ve bütüncül ikmal",
+    "مُتِمُّ (Mutimmü)": "IV. Bab İsm-i Fâil (1 geçiş: 61:8) — ışığını yarıda bırakmayıp sonuna kadar tamamlayan"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 124,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:124",
+      "word_position": 6,
+      "target_word_uthmani": "فَأَتَمَّهُنَّ",
+      "target_word_rasm": "فأتمهن",
+      "target_word_literal_irab": "IV. bab mâzî fiili (فَأَتَمَّهُنَّ / أَتْمَمْتُ / أَتْمَمْنَٰهَا / أَتَمَّهَا / أَتْمَمْتَ — 2:124, 5:3, 7:142, 12:6, 28:27) — sükûnla birleştiğinde fakkü'l-idğâmlı tam yerine getirme",
+      "context_snippet_arabic": "إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍ فَأَتَمَّهُنَّ قَالَ إِنِّى جَاعِلُكَ",
+      "context_snippet_turkish_tabula_rasa": "O zamanlar Rabbi, İbrahim'i bazı sözlerle sınadı. O, bunları yerine getirip tamamlayınca dedi ki: Ben seni insanlara imam edeceğim. İbrahim, soyumu da imam et...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>atam~a|ROOT:tmm|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍ فَأَتَمَّهُنَّ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِى قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O zamanlar Rabbi, İbrahim'i bazı sözlerle sınadı. O, bunları yerine getirip tamamlayınca dedi ki: Ben seni insanlara imam edeceğim. İbrahim, soyumu da imam et dedi. Allah, benim ahdime dedi, zalimler nail olamazlar.",
+      "contextual_meaning": "Sözlerin, Hükümlerin ve Kitab'ın Tam Gerçekleşmesi (`2:124`, `6:115,154`, `7:137`, `11:119`): İbrâhîm'in sınama kelimelerini eksiksiz icra etmesi ve Rabbinin sözünün doğruluk ve dengeyle kesinlik kazanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 150,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:150",
+      "word_position": 27,
+      "target_word_uthmani": "وَلِأُتِمَّ",
+      "target_word_rasm": "ولأتم",
+      "target_word_literal_irab": "IV. bab muzârî fiili (لِأُتِمَّ / يُتِمَّ / يُتِمُّ — 2:150, 2:233, 5:6, 9:32, 12:6, 16:81, 48:2) — nimet, süreç veya ışığın hedefe ulaştırılması",
+      "context_snippet_arabic": "فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Nerede bulunursan bulun, yüzünü dokunulmaz teslimiyet odağı'a çevir. Nerede olursanız olun, yüzünüzü o tarafa çevirin de insanlar, aleyhinizde bir itirazda...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>atam~a|ROOT:tmm|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nerede bulunursan bulun, yüzünü dokunulmaz teslimiyet odağı'a çevir. Nerede olursanız olun, yüzünüzü o tarafa çevirin de insanlar, aleyhinizde bir itirazda bulunamasınlar, ama haksızlık edenler ve zulümde bulunanlar başka. Siz korkmayın onlardan, benden korkun da hem size verdiğim nimetimi tamamlayayım, hem de bu suretle hidayete erişin.",
+      "contextual_meaning": "Nimet ve Desteğin Nihaî Sınıra Ulaştırılması (`2:150`, `5:3,6`, `12:6`, `16:81`, `48:2`): Doğa korumalarından arınma ve tarihî önderlik nimetlerine kadar kuşatıcı desteğin tamamlanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 187,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:187",
+      "word_position": 44,
+      "target_word_uthmani": "أَتِمُّوا۟",
+      "target_word_rasm": "أتموا",
+      "target_word_literal_irab": "IV. bab emir fiili (أَتِمُّوا۟ / فَأَتِمُّوٓا۟ / أَتْمِمْ — 2:187, 2:196, 9:4, 66:8) — başlanan süreyi, sözleşmeyi veya ışığı son noktasına erdir",
+      "context_snippet_arabic": "مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ",
+      "context_snippet_turkish_tabula_rasa": "öz denetim ve sakınma olduğunuz günün gecesinde kadınlarınızla buluşmanız, size helal edilmiştir. Onlar sizin için elbisedir, siz onlar için elbisesiniz. Allah...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>atam~a|ROOT:tmm|2MP"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma olduğunuz günün gecesinde kadınlarınızla buluşmanız, size helal edilmiştir. Onlar sizin için elbisedir, siz onlar için elbisesiniz. Allah bildi ki kendi benliğinizi yenemeyecek, sebat edip direnemeyecek, bir iştir, işleyeceksiniz, bu yüzden tövbenizi kabul etti, sizi bağışladı. Gayri onlarla buluşun ve Allah'ın size yazdığını dileyin. Fecir doğup da aydınlığıyla kara iplik, sizce beyaz iplikten ayırt edilinceye dek yiyin, için. Sonra öz denetim ve sakınmayı ertesi geceye kadar tamam olarak tutun. Fakat mescitlerde boyun eğme ve kulluk için niyetlendiniz, oturdunuz kaldınız mı kadınlarınıza dokunmayın. İşte bunlar, Allah sınırlarıdır, yaklaşmayın o sınırlara. İnsanlar, sakınıp korunsunlar diye Allah, delillerini bu suretle apaçık bildirir.",
+      "contextual_meaning": "Zaman Vadeleri ve Sözleşme Sınırının Kapanması (`2:187,196,233`, `7:142`, `9:4`, `28:27`): Belirli başlangıçtan son vadesine (`إِلَى ٱلَّيْلِ`, `حَوْلَيْنِ كَامِلَيْنِ`, `أَرْبَعِينَ لَيْلَةً`, `إِلَىٰ مُدَّتِهِمْ`, `عَشْرًا`) kadar kesintisiz tamamlama."
+    },
+    {
+      "surah": 2,
+      "ayah": 196,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:196",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَتِمُّوا۟",
+      "target_word_rasm": "وأتموا",
+      "target_word_literal_irab": "IV. bab emir fiili (أَتِمُّوا۟ / فَأَتِمُّوٓا۟ / أَتْمِمْ — 2:187, 2:196, 9:4, 66:8) — başlanan süreyi, sözleşmeyi veya ışığı son noktasına erdir",
+      "context_snippet_arabic": "وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanmasını ve umreyi de Allah için tamamlayın. Tamamlayamayacaksanız gücünüz yettiği kadar bir şey yakınlaşma sunusu edin ve yakınlaşma...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>atam~a|ROOT:tmm|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanmasını ve umreyi de Allah için tamamlayın. Tamamlayamayacaksanız gücünüz yettiği kadar bir şey yakınlaşma sunusu edin ve yakınlaşma sunusunu, yerinde boğazlayıncaya dek başınızı tıraş ettirmeyin. İçinizde hasta olan, başında bir eziyet bulunan varsa tıraş olur ve karşılığında öz denetim ve sakınma tutar, sadaka verir, yahut yakınlaşma sunusu keser. Sonra emin oldunuz, muktedir bulundunuz mu büyük yöneliş toplanması zamanına dek umre yapmak isteyen, gücü neye yeterse yakınlaşma sunusu eder. Buna imkan bulamayan üç gün büyük yöneliş toplanmasında, yedi gün de dönünce öz denetim ve sakınma tutar, işte bu, tam on gündür. Bu da ayali dokunulmaz teslimiyet odağı'da olmayan içindir. Allah'tan sakının ve bilin ki şüphe yok, Allah'ın azabı çok şiddetlidir.",
+      "contextual_meaning": "Zaman Vadeleri ve Sözleşme Sınırının Kapanması (`2:187,196,233`, `7:142`, `9:4`, `28:27`): Belirli başlangıçtan son vadesine (`إِلَى ٱلَّيْلِ`, `حَوْلَيْنِ كَامِلَيْنِ`, `أَرْبَعِينَ لَيْلَةً`, `إِلَىٰ مُدَّتِهِمْ`, `عَشْرًا`) kadar kesintisiz tamamlama."
+    },
+    {
+      "surah": 2,
+      "ayah": 233,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:233",
+      "word_position": 9,
+      "target_word_uthmani": "يُتِمَّ",
+      "target_word_rasm": "يتم",
+      "target_word_literal_irab": "IV. bab muzârî fiili (لِأُتِمَّ / يُتِمَّ / يُتِمُّ — 2:150, 2:233, 5:6, 9:32, 12:6, 16:81, 48:2) — nimet, süreç veya ışığın hedefe ulaştırılması",
+      "context_snippet_arabic": "لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ وَعَلَى ٱلْمَوْلُودِ",
+      "context_snippet_turkish_tabula_rasa": "Analar, emzirme zamanını tamamlamak isterlerse tam iki yıl, çocuklarına süt verirler. Evlat sahibi olana da evladını emzirenin rızkını, elbisesini, örfe göre, vermesi borçtur. ...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>atam~a|ROOT:tmm|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَٱلْوَٰلِدَٰتُ يُرْضِعْنَ أَوْلَٰدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا لَا تُضَآرَّ وَٰلِدَةٌۢ بِوَلَدِهَا وَلَا مَوْلُودٌ لَّهُۥ بِوَلَدِهِۦ وَعَلَى ٱلْوَارِثِ مِثْلُ ذَٰلِكَ فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوٓا۟ أَوْلَٰدَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ ءَاتَيْتُم بِٱلْمَعْرُوفِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Analar, emzirme zamanını tamamlamak isterlerse tam iki yıl, çocuklarına süt verirler. Evlat sahibi olana da evladını emzirenin rızkını, elbisesini, örfe göre, vermesi borçtur. Kimseye gücünden fazla bir şey teklif edilemez. Ne ana evladından zarar görmeli, ne baba. Mirasçıya da hüküm aynıdır. Anayla baba, birbirleriyle danışırlar da, razı olurlar, çocuğu memeden kesmek isterlerse beis yok. Çocuklarınızı başkalarına emzirtmek isterseniz vereceğiniz şeyi güzelce, yollu yordamlı verdikten sonra artık size suç yoktur. Sakının Allah'tan ve bilin ki Allah, ne yaparsanız görür.",
+      "contextual_meaning": "Zaman Vadeleri ve Sözleşme Sınırının Kapanması (`2:187,196,233`, `7:142`, `9:4`, `28:27`): Belirli başlangıçtan son vadesine (`إِلَى ٱلَّيْلِ`, `حَوْلَيْنِ كَامِلَيْنِ`, `أَرْبَعِينَ لَيْلَةً`, `إِلَىٰ مُدَّتِهِمْ`, `عَشْرًا`) kadar kesintisiz tamamlama."
+    },
+    {
+      "surah": 5,
+      "ayah": 3,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:3",
+      "word_position": 44,
+      "target_word_uthmani": "وَأَتْمَمْتُ",
+      "target_word_rasm": "وأتممت",
+      "target_word_literal_irab": "IV. bab mâzî fiili (فَأَتَمَّهُنَّ / أَتْمَمْتُ / أَتْمَمْنَٰهَا / أَتَمَّهَا / أَتْمَمْتَ — 2:124, 5:3, 7:142, 12:6, 28:27) — sükûnla birleştiğinde fakkü'l-idğâmlı tam yerine getirme",
+      "context_snippet_arabic": "أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ",
+      "context_snippet_turkish_tabula_rasa": "Haram edilmiştir size ölü, kan, domuz eti, Allah'tan gayrı putlar adına kesilen hayvanlar, boğulmuş, vurulmuş, yüksek bir yerden düşüp ölmüş, başka bir hayvan...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>atam~a|ROOT:tmm|1S"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Haram edilmiştir size ölü, kan, domuz eti, Allah'tan gayrı putlar adına kesilen hayvanlar, boğulmuş, vurulmuş, yüksek bir yerden düşüp ölmüş, başka bir hayvan tarafından süsülüp öldürülmüş, canavar tarafından parçalanmış olanlar; ancak ölmeden yetişip kestikleriniz müstesna; ve taştan yapılmış ve dikilmiş putlar adına kesilenler ve fal için çekilen oklarla rızık arayış. Bunlar, kötülüktür. Bugün gerçeğin üzerini örtenler, yaşam sisteminiz yüzünden meyus olmuşlardır artık sizden, korkmayın onlardan, benden korkun. Bugün yaşam sisteminizi ikmal ettim, size verdiğim nimetimi tamamladım, size yaşam ve hesap sistemi olarak Müslümanlığı verdim de hoşnut oldum. Pek aç kalıp zora düşen, suç işlemek niyetinde olmamak şartıyla haram edilen şeyleri yiyebilir ve şüphe yok ki Allah, suçları örter rahimdir.",
+      "contextual_meaning": "Nimet ve Desteğin Nihaî Sınıra Ulaştırılması (`2:150`, `5:3,6`, `12:6`, `16:81`, `48:2`): Doğa korumalarından arınma ve tarihî önderlik nimetlerine kadar kuşatıcı desteğin tamamlanması."
+    },
+    {
+      "surah": 5,
+      "ayah": 6,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:6",
+      "word_position": 57,
+      "target_word_uthmani": "وَلِيُتِمَّ",
+      "target_word_rasm": "وليتم",
+      "target_word_literal_irab": "IV. bab muzârî fiili (لِأُتِمَّ / يُتِمَّ / يُتِمُّ — 2:150, 2:233, 5:6, 9:32, 12:6, 16:81, 48:2) — nimet, süreç veya ışığın hedefe ulaştırılması",
+      "context_snippet_arabic": "وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, irtibat bağına kalktığınız zaman yıkayın yüzlerinizi ve dirseklerinizle beraber ellerinizi ve başınızın bir kısmını meshedip ayaklarınızı...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>atam~a|ROOT:tmm|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, irtibat bağına kalktığınız zaman yıkayın yüzlerinizi ve dirseklerinizle beraber ellerinizi ve başınızın bir kısmını meshedip ayaklarınızı topuklarınızla beraber ve cünüpseniz iyice yıkanıp arının. Hastaysanız, yahut seferdeyseniz, yahut içinizden biri ayak yolundan geldiyse, yahut da kadınlara temas etmişseniz su bulamadığınız takdirde temiz toprakla teyemmüm edin de toprakla yüzünüzü, ellerinizi meshedin. Allah, sizi güce koşmayı istemez, fakat nimetin değerini bilip açığa vurasınız diye tertemiz olmanızı ve size verdiği nimeti tamamlamayı diler.",
+      "contextual_meaning": "Nimet ve Desteğin Nihaî Sınıra Ulaştırılması (`2:150`, `5:3,6`, `12:6`, `16:81`, `48:2`): Doğa korumalarından arınma ve tarihî önderlik nimetlerine kadar kuşatıcı desteğin tamamlanması."
+    },
+    {
+      "surah": 6,
+      "ayah": 115,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:115",
+      "word_position": 1,
+      "target_word_uthmani": "وَتَمَّتْ",
+      "target_word_rasm": "وتمت",
+      "target_word_literal_irab": "I. bab mâzî lâzım fiili (تَمَّتْ / فَتَمَّ — 6:115, 7:137, 7:142, 11:119) — vadenin dolup sözün eksiksiz gerçekleşmesi",
+      "context_snippet_arabic": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin sözleri, gerçek olarak ve adalet üzere tamdır, tekemmül etmiştir, sözlerini değiştirecek yoktur ve odur duyan, bilen.",
+      "morphology": {
+        "lemma": "tam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:tam~a|ROOT:tmm|3FS"
+      },
+      "ayah_text_arabic_full": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin sözleri, gerçek olarak ve adalet üzere tamdır, tekemmül etmiştir, sözlerini değiştirecek yoktur ve odur duyan, bilen.",
+      "contextual_meaning": "Sözlerin, Hükümlerin ve Kitab'ın Tam Gerçekleşmesi (`2:124`, `6:115,154`, `7:137`, `11:119`): İbrâhîm'in sınama kelimelerini eksiksiz icra etmesi ve Rabbinin sözünün doğruluk ve dengeyle kesinlik kazanması."
+    },
+    {
+      "surah": 6,
+      "ayah": 154,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:154",
+      "word_position": 5,
+      "target_word_uthmani": "تَمَامًا",
+      "target_word_rasm": "تماما",
+      "target_word_literal_irab": "Mansûb nekre masdar (تَمَامًا — mef'ûlün lieclih / hâl, 6:154) — tamamlayıcı son halka olarak",
+      "context_snippet_arabic": "ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra, Rablerine kavuşacaklarına güven duy diye iyilik edenlere, nimetimizi tamamlamak ve her şeyi ayırt edip açıklamak üzere doğru yolu gösteren ve rahmetten ibaret olan kitabı Musa'ya vermiştik.",
+      "morphology": {
+        "lemma": "tamaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tamaAm|ROOT:tmm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ وَتَفْصِيلًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لَّعَلَّهُم بِلِقَآءِ رَبِّهِمْ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra, Rablerine kavuşacaklarına güven duy diye iyilik edenlere, nimetimizi tamamlamak ve her şeyi ayırt edip açıklamak üzere doğru yolu gösteren ve rahmetten ibaret olan kitabı Musa'ya vermiştik.",
+      "contextual_meaning": "Sözlerin, Hükümlerin ve Kitab'ın Tam Gerçekleşmesi (`2:124`, `6:115,154`, `7:137`, `11:119`): İbrâhîm'in sınama kelimelerini eksiksiz icra etmesi ve Rabbinin sözünün doğruluk ve dengeyle kesinlik kazanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 137,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:137",
+      "word_position": 12,
+      "target_word_uthmani": "وَتَمَّتْ",
+      "target_word_rasm": "وتمت",
+      "target_word_literal_irab": "I. bab mâzî lâzım fiili (تَمَّتْ / فَتَمَّ — 6:115, 7:137, 7:142, 11:119) — vadenin dolup sözün eksiksiz gerçekleşmesi",
+      "context_snippet_arabic": "ٱلَّتِى بَٰرَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Zayıf, horhakir bir hale getirilen kavme, yeryüzünün feyiz ve bereket ihsan ettiğimiz doğularını da, batılarını da miras olarak verdik ve sebat edip...",
+      "morphology": {
+        "lemma": "tam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:tam~a|ROOT:tmm|3FS"
+      },
+      "ayah_text_arabic_full": "وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَٰرِقَ ٱلْأَرْضِ وَمَغَٰرِبَهَا ٱلَّتِى بَٰرَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zayıf, horhakir bir hale getirilen kavme, yeryüzünün feyiz ve bereket ihsan ettiğimiz doğularını da, batılarını da miras olarak verdik ve sebat edip direndiklerinden dolayı Rabbinin, İsrailoğullarına verdiği güzel söz, tamamlandı, yerine geldi ve Firavun'la kavminin yaptıklarını, yükselttiklerini yıkıp mahvettik.",
+      "contextual_meaning": "Sözlerin, Hükümlerin ve Kitab'ın Tam Gerçekleşmesi (`2:124`, `6:115,154`, `7:137`, `11:119`): İbrâhîm'in sınama kelimelerini eksiksiz icra etmesi ve Rabbinin sözünün doğruluk ve dengeyle kesinlik kazanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 142,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:142",
+      "word_position": 5,
+      "target_word_uthmani": "وَأَتْمَمْنَٰهَا",
+      "target_word_rasm": "وأتممنها",
+      "target_word_literal_irab": "IV. bab mâzî fiili (فَأَتَمَّهُنَّ / أَتْمَمْتُ / أَتْمَمْنَٰهَا / أَتَمَّهَا / أَتْمَمْتَ — 2:124, 5:3, 7:142, 12:6, 28:27) — sükûnla birleştiğinde fakkü'l-idğâmlı tam yerine getirme",
+      "context_snippet_arabic": "مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ",
+      "context_snippet_turkish_tabula_rasa": "Musa ile otuz gece münacatta bulunmayı sözleşmiştik de bu vadeyi, on gece daha katarak tamamlamıştık böylece Rabbinin tayin ettiği müddet, kırk geceyi bulmuştu ve Musa, kardeşi Harun'a, kavmimin içinde benim yerime geç, onları düzene koy ve bozguncuların yoluna uyma demişti.",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>atam~a|ROOT:tmm|1P"
+      },
+      "ayah_text_arabic_full": "وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa ile otuz gece münacatta bulunmayı sözleşmiştik de bu vadeyi, on gece daha katarak tamamlamıştık böylece Rabbinin tayin ettiği müddet, kırk geceyi bulmuştu ve Musa, kardeşi Harun'a, kavmimin içinde benim yerime geç, onları düzene koy ve bozguncuların yoluna uyma demişti.",
+      "contextual_meaning": "Zaman Vadeleri ve Sözleşme Sınırının Kapanması (`2:187,196,233`, `7:142`, `9:4`, `28:27`): Belirli başlangıçtan son vadesine (`إِلَى ٱلَّيْلِ`, `حَوْلَيْنِ كَامِلَيْنِ`, `أَرْبَعِينَ لَيْلَةً`, `إِلَىٰ مُدَّتِهِمْ`, `عَشْرًا`) kadar kesintisiz tamamlama."
+    },
+    {
+      "surah": 7,
+      "ayah": 142,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:142",
+      "word_position": 7,
+      "target_word_uthmani": "فَتَمَّ",
+      "target_word_rasm": "فتم",
+      "target_word_literal_irab": "I. bab mâzî lâzım fiili (تَمَّتْ / فَتَمَّ — 6:115, 7:137, 7:142, 11:119) — vadenin dolup sözün eksiksiz gerçekleşmesi",
+      "context_snippet_arabic": "لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ",
+      "context_snippet_turkish_tabula_rasa": "Musa ile otuz gece münacatta bulunmayı sözleşmiştik de bu vadeyi, on gece daha katarak tamamlamıştık böylece Rabbinin tayin ettiği müddet, kırk geceyi bulmuştu ve Musa, kardeşi Harun'a, kavmimin içinde benim yerime geç, onları düzene koy ve bozguncuların yoluna uyma demişti.",
+      "morphology": {
+        "lemma": "tam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:tam~a|ROOT:tmm|3MS"
+      },
+      "ayah_text_arabic_full": "وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa ile otuz gece münacatta bulunmayı sözleşmiştik de bu vadeyi, on gece daha katarak tamamlamıştık böylece Rabbinin tayin ettiği müddet, kırk geceyi bulmuştu ve Musa, kardeşi Harun'a, kavmimin içinde benim yerime geç, onları düzene koy ve bozguncuların yoluna uyma demişti.",
+      "contextual_meaning": "Zaman Vadeleri ve Sözleşme Sınırının Kapanması (`2:187,196,233`, `7:142`, `9:4`, `28:27`): Belirli başlangıçtan son vadesine (`إِلَى ٱلَّيْلِ`, `حَوْلَيْنِ كَامِلَيْنِ`, `أَرْبَعِينَ لَيْلَةً`, `إِلَىٰ مُدَّتِهِمْ`, `عَشْرًا`) kadar kesintisiz tamamlama."
+    },
+    {
+      "surah": 9,
+      "ayah": 4,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:4",
+      "word_position": 14,
+      "target_word_uthmani": "فَأَتِمُّوٓا۟",
+      "target_word_rasm": "فأتموا",
+      "target_word_literal_irab": "IV. bab emir fiili (أَتِمُّوا۟ / فَأَتِمُّوٓا۟ / أَتْمِمْ — 2:187, 2:196, 9:4, 66:8) — başlanan süreyi, sözleşmeyi veya ışığı son noktasına erdir",
+      "context_snippet_arabic": "يُظَٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ancak otoriteyi bölüşüp ortak koşanlardan ahitleştiğiniz kimseler, bu ahitten sonra size karşı sözlerinden hiçbir suretle dönmemiş, şartlardan hiçbirini...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>atam~a|ROOT:tmm|2MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak otoriteyi bölüşüp ortak koşanlardan ahitleştiğiniz kimseler, bu ahitten sonra size karşı sözlerinden hiçbir suretle dönmemiş, şartlardan hiçbirini bozmamış ve aleyhinize hiçbir kimseye yardıma kalkışmamış olanlar müstesna. Onlarla olan ahdinizi, müddeti bitinciyedek tamamlayın. Şüphe yok ki Allah, çekinenleri sever.",
+      "contextual_meaning": "Zaman Vadeleri ve Sözleşme Sınırının Kapanması (`2:187,196,233`, `7:142`, `9:4`, `28:27`): Belirli başlangıçtan son vadesine (`إِلَى ٱلَّيْلِ`, `حَوْلَيْنِ كَامِلَيْنِ`, `أَرْبَعِينَ لَيْلَةً`, `إِلَىٰ مُدَّتِهِمْ`, `عَشْرًا`) kadar kesintisiz tamamlama."
+    },
+    {
+      "surah": 9,
+      "ayah": 32,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:32",
+      "word_position": 11,
+      "target_word_uthmani": "يُتِمَّ",
+      "target_word_rasm": "يتم",
+      "target_word_literal_irab": "IV. bab muzârî fiili (لِأُتِمَّ / يُتِمَّ / يُتِمُّ — 2:150, 2:233, 5:6, 9:32, 12:6, 16:81, 48:2) — nimet, süreç veya ışığın hedefe ulaştırılması",
+      "context_snippet_arabic": "ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ",
+      "context_snippet_turkish_tabula_rasa": "İsterler ki Allah'ın nurunu nefesleriyle söndürsünler, halbuki Allah, gerçeğin üzerini örtenler istemese de, onlara zor gelse de nurunu yüceltip itmam etmekten...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>atam~a|ROOT:tmm|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsterler ki Allah'ın nurunu nefesleriyle söndürsünler, halbuki Allah, gerçeğin üzerini örtenler istemese de, onlara zor gelse de nurunu yüceltip itmam etmekten başka hiçbir şeye razı değildir.",
+      "contextual_meaning": "Işığın Söndürülme Çabasına Karşı Tamamlanması (`9:32`, `61:8`, `66:8`): Ağızlarla söndürme girişimlerine rağmen Yaratıcının kendi nurunu son noktasına ulaştırması."
+    },
+    {
+      "surah": 11,
+      "ayah": 119,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:119",
+      "word_position": 7,
+      "target_word_uthmani": "وَتَمَّتْ",
+      "target_word_rasm": "وتمت",
+      "target_word_literal_irab": "I. bab mâzî lâzım fiili (تَمَّتْ / فَتَمَّ — 6:115, 7:137, 7:142, 11:119) — vadenin dolup sözün eksiksiz gerçekleşmesi",
+      "context_snippet_arabic": "رَبُّكَ وَلِذَٰلِكَ خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ",
+      "context_snippet_turkish_tabula_rasa": "Ancak Rabbinin merhamet ettiği kimseler müstesna ve zaten de bunun için halketmiştir onları ve Rabbinin sözü de tamamıyla yerine gelmiştir: Andolsun ki yakıcı...",
+      "morphology": {
+        "lemma": "tam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:tam~a|ROOT:tmm|3FS"
+      },
+      "ayah_text_arabic_full": "إِلَّا مَن رَّحِمَ رَبُّكَ وَلِذَٰلِكَ خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak Rabbinin merhamet ettiği kimseler müstesna ve zaten de bunun için halketmiştir onları ve Rabbinin sözü de tamamıyla yerine gelmiştir: Andolsun ki yakıcı yıkım yurdunu, görünmeyen bilinçli varlıkların ve insanların bir kısmıyla dolduracağım.",
+      "contextual_meaning": "Sözlerin, Hükümlerin ve Kitab'ın Tam Gerçekleşmesi (`2:124`, `6:115,154`, `7:137`, `11:119`): İbrâhîm'in sınama kelimelerini eksiksiz icra etmesi ve Rabbinin sözünün doğruluk ve dengeyle kesinlik kazanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 6,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:6",
+      "word_position": 8,
+      "target_word_uthmani": "وَيُتِمُّ",
+      "target_word_rasm": "ويتم",
+      "target_word_literal_irab": "IV. bab muzârî fiili (لِأُتِمَّ / يُتِمَّ / يُتِمُّ — 2:150, 2:233, 5:6, 9:32, 12:6, 16:81, 48:2) — nimet, süreç veya ışığın hedefe ulaştırılması",
+      "context_snippet_arabic": "مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Böylece Rabbin, seni seçecek ve rüyalara ait tabirleri öğretecek sana. Ve bundan önceki ataların İbrahim'e ve İshak'a nasıl nimetlerini tam olarak ihsan...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>atam~a|ROOT:tmm|3MS"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَٰقَ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece Rabbin, seni seçecek ve rüyalara ait tabirleri öğretecek sana. Ve bundan önceki ataların İbrahim'e ve İshak'a nasıl nimetlerini tam olarak ihsan ettiyse sana ve Yakup soyuna da nimetlerini tam olarak ihsan edecek. Şüphe yok ki Rabbin, her şeyi bilir, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Nimet ve Desteğin Nihaî Sınıra Ulaştırılması (`2:150`, `5:3,6`, `12:6`, `16:81`, `48:2`): Doğa korumalarından arınma ve tarihî önderlik nimetlerine kadar kuşatıcı desteğin tamamlanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 6,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:6",
+      "word_position": 15,
+      "target_word_uthmani": "أَتَمَّهَا",
+      "target_word_rasm": "أتمها",
+      "target_word_literal_irab": "IV. bab mâzî fiili (فَأَتَمَّهُنَّ / أَتْمَمْتُ / أَتْمَمْنَٰهَا / أَتَمَّهَا / أَتْمَمْتَ — 2:124, 5:3, 7:142, 12:6, 28:27) — sükûnla birleştiğinde fakkü'l-idğâmlı tam yerine getirme",
+      "context_snippet_arabic": "ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن",
+      "context_snippet_turkish_tabula_rasa": "Böylece Rabbin, seni seçecek ve rüyalara ait tabirleri öğretecek sana. Ve bundan önceki ataların İbrahim'e ve İshak'a nasıl nimetlerini tam olarak ihsan...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>atam~a|ROOT:tmm|3MS"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَٰقَ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece Rabbin, seni seçecek ve rüyalara ait tabirleri öğretecek sana. Ve bundan önceki ataların İbrahim'e ve İshak'a nasıl nimetlerini tam olarak ihsan ettiyse sana ve Yakup soyuna da nimetlerini tam olarak ihsan edecek. Şüphe yok ki Rabbin, her şeyi bilir, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Nimet ve Desteğin Nihaî Sınıra Ulaştırılması (`2:150`, `5:3,6`, `12:6`, `16:81`, `48:2`): Doğa korumalarından arınma ve tarihî önderlik nimetlerine kadar kuşatıcı desteğin tamamlanması."
+    },
+    {
+      "surah": 16,
+      "ayah": 81,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:81",
+      "word_position": 21,
+      "target_word_uthmani": "يُتِمُّ",
+      "target_word_rasm": "يتم",
+      "target_word_literal_irab": "IV. bab muzârî fiili (لِأُتِمَّ / يُتِمَّ / يُتِمُّ — 2:150, 2:233, 5:6, 9:32, 12:6, 16:81, 48:2) — nimet, süreç veya ışığın hedefe ulaştırılması",
+      "context_snippet_arabic": "تَقِيكُم بَأْسَكُمْ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, yarattığı şeylerden gölgeler halketti size ve dağlarda kovuklar, mağaralar meydana getirdi sizin için, sizi sıcaktan, soğuktan koruyacak elbiseler,...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>atam~a|ROOT:tmm|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَٰلًا وَجَعَلَ لَكُم مِّنَ ٱلْجِبَالِ أَكْنَٰنًا وَجَعَلَ لَكُمْ سَرَٰبِيلَ تَقِيكُمُ ٱلْحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَأْسَكُمْ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, yarattığı şeylerden gölgeler halketti size ve dağlarda kovuklar, mağaralar meydana getirdi sizin için, sizi sıcaktan, soğuktan koruyacak elbiseler, savaşta zarardan koruyacak zırhlar yapmanızı da sağladı. Ona teslim olmanız için nimetlerini böylece tamamlar size.",
+      "contextual_meaning": "Nimet ve Desteğin Nihaî Sınıra Ulaştırılması (`2:150`, `5:3,6`, `12:6`, `16:81`, `48:2`): Doğa korumalarından arınma ve tarihî önderlik nimetlerine kadar kuşatıcı desteğin tamamlanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 27,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:27",
+      "word_position": 15,
+      "target_word_uthmani": "أَتْمَمْتَ",
+      "target_word_rasm": "أتممت",
+      "target_word_literal_irab": "IV. bab mâzî fiili (فَأَتَمَّهُنَّ / أَتْمَمْتُ / أَتْمَمْنَٰهَا / أَتَمَّهَا / أَتْمَمْتَ — 2:124, 5:3, 7:142, 12:6, 28:27) — sükûnla birleştiğinde fakkü'l-idğâmlı tam yerine getirme",
+      "context_snippet_arabic": "ثَمَٰنِىَ حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ",
+      "context_snippet_turkish_tabula_rasa": "Babası, Musa'ya dedi ki: Bana sekiz yıl hizmet edersen buna karşılık sana şu iki kızımdan birini vermek istiyorum; ama sen on yılı doldurursan bu da sana ait...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>atam~a|ROOT:tmm|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babası, Musa'ya dedi ki: Bana sekiz yıl hizmet edersen buna karşılık sana şu iki kızımdan birini vermek istiyorum; ama sen on yılı doldurursan bu da sana ait artık ve ben, sana zahmet ve meşakkat vermek istemem; Allah dilerse beni iyi kişilerden bulursun.",
+      "contextual_meaning": "Zaman Vadeleri ve Sözleşme Sınırının Kapanması (`2:187,196,233`, `7:142`, `9:4`, `28:27`): Belirli başlangıçtan son vadesine (`إِلَى ٱلَّيْلِ`, `حَوْلَيْنِ كَامِلَيْنِ`, `أَرْبَعِينَ لَيْلَةً`, `إِلَىٰ مُدَّتِهِمْ`, `عَشْرًا`) kadar kesintisiz tamamlama."
+    },
+    {
+      "surah": 48,
+      "ayah": 2,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:2",
+      "word_position": 10,
+      "target_word_uthmani": "وَيُتِمَّ",
+      "target_word_rasm": "ويتم",
+      "target_word_literal_irab": "IV. bab muzârî fiili (لِأُتِمَّ / يُتِمَّ / يُتِمُّ — 2:150, 2:233, 5:6, 9:32, 12:6, 16:81, 48:2) — nimet, süreç veya ışığın hedefe ulaştırılması",
+      "context_snippet_arabic": "ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, ümmetinin önce yapılan ve sona kalmış olan suçlarını sana bağışlasın ve sana, nimetini tamamlasın ve seni, doğru yola götürsün diye.",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>atam~a|ROOT:tmm|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, ümmetinin önce yapılan ve sona kalmış olan suçlarını sana bağışlasın ve sana, nimetini tamamlasın ve seni, doğru yola götürsün diye.",
+      "contextual_meaning": "Nimet ve Desteğin Nihaî Sınıra Ulaştırılması (`2:150`, `5:3,6`, `12:6`, `16:81`, `48:2`): Doğa korumalarından arınma ve tarihî önderlik nimetlerine kadar kuşatıcı desteğin tamamlanması."
+    },
+    {
+      "surah": 61,
+      "ayah": 8,
+      "surah_name": "Saff",
+      "ayah_ref": "61:8",
+      "word_position": 7,
+      "target_word_uthmani": "مُتِمُّ",
+      "target_word_rasm": "متم",
+      "target_word_literal_irab": "IV. bab merfû' ism-i fâil mudâf (مُتِمُّ نُورِهِۦ — 61:8) — ışığını yarıda bırakmadan sonuna erdiren",
+      "context_snippet_arabic": "ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ",
+      "context_snippet_turkish_tabula_rasa": "Allah nurunu, ağızlarıyla üfleyip söndürmek isterler ve Allah'sa nurunu tamamlayacak, kuvvetlendirecektir ve isterse gerçeğin üzerini örtenlerin zoruna gitsin,...",
+      "morphology": {
+        "lemma": "mutim~",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mutim~|ROOT:tmm|M|NOM"
+      },
+      "ayah_text_arabic_full": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah nurunu, ağızlarıyla üfleyip söndürmek isterler ve Allah'sa nurunu tamamlayacak, kuvvetlendirecektir ve isterse gerçeğin üzerini örtenlerin zoruna gitsin, istemesinler.",
+      "contextual_meaning": "Işığın Söndürülme Çabasına Karşı Tamamlanması (`9:32`, `61:8`, `66:8`): Ağızlarla söndürme girişimlerine rağmen Yaratıcının kendi nurunu son noktasına ulaştırması."
+    },
+    {
+      "surah": 66,
+      "ayah": 8,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:8",
+      "word_position": 36,
+      "target_word_uthmani": "أَتْمِمْ",
+      "target_word_rasm": "أتمم",
+      "target_word_literal_irab": "IV. bab emir fiili (أَتِمُّوا۟ / فَأَتِمُّوٓا۟ / أَتْمِمْ — 2:187, 2:196, 9:4, 66:8) — başlanan süreyi, sözleşmeyi veya ışığı son noktasına erdir",
+      "context_snippet_arabic": "وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, tövbe edin Allah'a halis bir tövbeyle; umulur ki Rabbiniz; kötülüklerinizi örter ve sizi, kıyılarından ırmaklar akan esenlik bahçelerine...",
+      "morphology": {
+        "lemma": ">atam~a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>atam~a|ROOT:tmm|2MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, tövbe edin Allah'a halis bir tövbeyle; umulur ki Rabbiniz; kötülüklerinizi örter ve sizi, kıyılarından ırmaklar akan esenlik bahçelerine sokar, o gün Allah, elçiyi ve güvene erenlerden onunla beraber bulunanları horlamaz, nurları, önlerinde ve sağ yanlarında koşar, parlar da Rabbimiz derler, nurumuzu tamamla, kuvvetlendir bize ve ört suçlarımızı bizim, şüphe yok ki senin, her şeye gücün yeter.",
+      "contextual_meaning": "Işığın Söndürülme Çabasına Karşı Tamamlanması (`9:32`, `61:8`, `66:8`): Ağızlarla söndürme girişimlerine rağmen Yaratıcının kendi nurunu son noktasına ulaştırması."
+    }
+  ]
+}
