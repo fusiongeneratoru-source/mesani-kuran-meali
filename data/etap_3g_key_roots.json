@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3G (Kısa Sureler %100 Tam Kilit Genişletmesi [20 Sure], Açık Mesânî Tepe Uçları ve 600. Kök Çekirdek Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 30,
+  "locked_count": 40,
   "total_tokens_in_package": 764,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 90.61,
+  "current_coverage_pct": 91.24,
   "target_coverage_pct": 91.77,
   "etap_3g_roots": [
     {
@@ -564,8 +564,8 @@
       "frequency": 36,
       "unique_ayahs": 36,
       "rationale": "İnâ, Ânâ', Âniye ve Ân (36 geçiş — #1 kalan kök! 33:53 pişme vakti, 3:113 gece saatleri, 76:15 kaplar ve 55:44 kaynama zirvesi)",
-      "concept_label": "Analiz Bekliyor (>an~aY`, 'aAnaA^', 'aAniyap, <inaY`)",
-      "is_locked": false,
+      "concept_label": "İnâ, Ânâ ve Ennâ (Sürecin Tam Kıvamına ve Vaktine Ermesi, Gece Saatleri, Kap ve Yön-Zaman Zarfı)",
+      "is_locked": true,
       "sample_ayah": "2:223",
       "top_lemmas": [
         ">an~aY`",
@@ -584,8 +584,8 @@
       "frequency": 35,
       "unique_ayahs": 33,
       "rationale": "Hîn (35 geçiş — #2 kalan kök! 2:36, 14:25, 21:111, 38:88 belirli zaman dilimi, vade ve olgunlaşma vakti)",
-      "concept_label": "Analiz Bekliyor (Hiyn)",
-      "is_locked": false,
+      "concept_label": "Hîn (Zaman Akışı İçinde Belirli Vakit, Süre ve Dönem Kesiti)",
+      "is_locked": true,
       "sample_ayah": "2:36",
       "top_lemmas": [
         "Hiyn"
@@ -601,8 +601,8 @@
       "frequency": 35,
       "unique_ayahs": 32,
       "rationale": "Merr, Merre, Müstemirr, Murr ve Mirre (35 geçiş — #3 kalan kök! Geçip gitmek, kez/defa, 54:46 daha acı ve 53:6 sağlam güç)",
-      "concept_label": "Analiz Bekliyor (mar~ap, mar~a, m~usotamir~, mar~a`t)",
-      "is_locked": false,
+      "concept_label": "Mürûr, Merre ve Mirre (Durmadan Akıp Geçme, Defa, Sıkıca Bükülmüş Sağlam Güç ve Acılık)",
+      "is_locked": true,
       "sample_ayah": "2:229",
       "top_lemmas": [
         "mar~ap",
@@ -621,8 +621,8 @@
       "frequency": 33,
       "unique_ayahs": 32,
       "rationale": "Şems (33 geçiş — #4 kalan kök + Sure 91 Şems! Güneş, ışık/ısı kaynağı ve gölge/zaman ölçüsü)",
-      "concept_label": "Analiz Bekliyor ($amos)",
-      "is_locked": false,
+      "concept_label": "Şems (Sabit Durmaksızın Yörüngesinde Akan Isı ve Işık Kandili / Güneş)",
+      "is_locked": true,
       "sample_ayah": "2:258",
       "top_lemmas": [
         "$amos"
@@ -638,8 +638,8 @@
       "frequency": 32,
       "unique_ayahs": 28,
       "rationale": "Selâse, Sülüs ve Sâlis (32 geçiş | 1M — #5 kalan kök! Üç sayısı, miras payları ve 4:171, 5:73 \"üçtür / üçüncüsüdür\" iddiasının reddi)",
-      "concept_label": "Analiz Bekliyor (vala`vap, vala`v, v~uluv, vula`v)",
-      "is_locked": false,
+      "concept_label": "Selâse, Sâlis ve Sülüs (Üç Sayısı, Üçüncü Kademe, Üçerli Gruplanma ve Üçte Bir Oranı)",
+      "is_locked": true,
       "sample_ayah": "2:196",
       "top_lemmas": [
         "vala`vap",
@@ -658,8 +658,8 @@
       "frequency": 31,
       "unique_ayahs": 29,
       "rationale": "Haysü (31 geçiş — #6 kalan kök! 2:35, 2:144, 2:191, 65:3 konum, yön ve mekan zarfı: \"nerede / nereden / hiç beklemediği yerden\")",
-      "concept_label": "Analiz Bekliyor (Hayov, Hayov2)",
-      "is_locked": false,
+      "concept_label": "Haysü (Eylemin Bağlandığı Konumu ve Çıkış Yönünü Sabitleyen Kuşatıcı Mekan Zarfı)",
+      "is_locked": true,
       "sample_ayah": "2:35",
       "top_lemmas": [
         "Hayov",
@@ -676,8 +676,8 @@
       "frequency": 30,
       "unique_ayahs": 28,
       "rationale": "Asâ (30 geçiş — #7 kalan kök! 2:216, 4:19, 17:8, 66:5 beklenti, umut ve ihtimal kapısı açan fiil: \"umulur ki / bakarsınız\")",
-      "concept_label": "Analiz Bekliyor (EasaY)",
-      "is_locked": false,
+      "concept_label": "Asâ (Bir Dönüşümün Gerçekleşme Yakınlığını ve İmkanını Açık Tutan Beklenti)",
+      "is_locked": true,
       "sample_ayah": "2:216",
       "top_lemmas": [
         "EasaY"
@@ -693,8 +693,8 @@
       "frequency": 29,
       "unique_ayahs": 27,
       "rationale": "Cünd ve Cünûd (29 geçiş — #8 kalan kök! 2:249, 9:26, 33:9, 37:173, 48:4, 74:31 derlenip toplanmış ordular ve kozmik güçler)",
-      "concept_label": "Analiz Bekliyor (jund)",
-      "is_locked": false,
+      "concept_label": "Cünd ve Cünûd (Yardım ve Görev İçin Toplanıp Saf Tutmuş Organize Birlik ve Ordu)",
+      "is_locked": true,
       "sample_ayah": "2:249",
       "top_lemmas": [
         "jund"
@@ -710,8 +710,8 @@
       "frequency": 28,
       "unique_ayahs": 24,
       "rationale": "Seb', Seb'a ve Sebu' (28 geçiş — #9 kalan kök! Yedi gök/başak/deniz/gece ve 5:3 yırtıcı hayvanın yediği)",
-      "concept_label": "Analiz Bekliyor (saboE, saboEap, s~abuE)",
-      "is_locked": false,
+      "concept_label": "Seb‘ ve Sebu‘ (Yedi Sayısı/Katmanlı Tamlık ve Avını Parçalayan Yırtıcı Hayvan)",
+      "is_locked": true,
       "sample_ayah": "2:29",
       "top_lemmas": [
         "saboE",
@@ -729,8 +729,8 @@
       "frequency": 28,
       "unique_ayahs": 28,
       "rationale": "Halâ ve Halet (28 geçiş — #10 kalan kök! 2:14, 2:76 baş başa kalmak, 13:30 gelip geçmiş ümmetler ve 9:5 yollarını serbest bırakmak)",
-      "concept_label": "Analiz Bekliyor (xalaA, xal~u, xaAliyap, taxal~ato)",
-      "is_locked": false,
+      "concept_label": "Hulüvv ve Tahallî (İçindeki Doluluktan Sıyrılıp Boşalma, Baş Başa Kalma ve Sahneyi Boşaltıp Geçme)",
+      "is_locked": true,
       "sample_ayah": "2:14",
       "top_lemmas": [
         "xalaA",

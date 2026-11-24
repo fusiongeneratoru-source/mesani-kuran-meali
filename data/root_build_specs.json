@@ -41970,5 +41970,820 @@
       }
     ],
     "context_default": "İnsanı sımsıkı bağlayan ağır yükümlülük ve bağlayıcı ahit (`إِصْر`)."
+  },
+  "أ-ن-ي": {
+    "buckwalter": "Any",
+    "slug": "ina_ve_ana_vaktin_kivamina_ermesi_kap_ve_yon_zarfi_any",
+    "concept_name": "İnâ, Ânâ ve Ennâ (Sürecin Tam Kıvamına ve Vaktine Ermesi, Gece Saatleri, Kap ve Yön-Zaman Zarfı)",
+    "keywords": [
+      "kıvam",
+      "vakit",
+      "saatler",
+      "kaynama",
+      "kap",
+      "nereden"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">an~aY`",
+        "label": "Sükûn üzere mebnî soru ve mekan-keyfiyet-zaman zarfı (nereden, nasıl, ne zaman — 2:223, 3:37, 89:23)"
+      },
+      {
+        "lemma": "'aAnaA^'",
+        "label": "Mansûb zaman zarfı / cemî isim (gecenin birbirini izleyen vakit dilimleri — 3:113, 20:130, 39:9)"
+      },
+      {
+        "lemma": "'aAniyap",
+        "label": "Cemî isim ve müennes ism-i fâil (gümüş içecek kapları — 76:15; kaynama kıvamının zirvesindeki pınar — 88:5)"
+      },
+      {
+        "lemma": "<inaY`",
+        "label": "Mansûb mastar/isim (yemeğin pişip kıvamına ermesi — 33:53)"
+      },
+      {
+        "lemma": "'aAn",
+        "label": "Mecrûr ism-i fâil (kaynama derecesinin son kıvamına varmış — 55:44)"
+      },
+      {
+        "lemma": "ya>oni",
+        "label": "Sülâsî meczûm muzâri fiil (vaktin gelip çatması ve kıvama ermesi — 57:16)"
+      }
+    ],
+    "irab_default": "Zarf / isim / fiil (sürecin kıvamına ve vaktine ermesi, oluş yönü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            33,
+            53
+          ],
+          [
+            57,
+            16
+          ],
+          [
+            3,
+            113
+          ],
+          [
+            20,
+            130
+          ],
+          [
+            39,
+            9
+          ]
+        ],
+        "text": "Yemeğin pişip kıvamına ermesi (`إِنَٰهُ` `33:53`), kalplerin saygıyla yumuşama vaktinin gelip çatması (`أَلَمْ يَأْنِ` `57:16`) ve gecenin birbirini izleyen saat dilimleri (`ءَانَآءَ ٱلَّيْلِ` `3:113`, `20:130`, `39:9`)."
+      },
+      {
+        "ayahs": [
+          [
+            55,
+            44
+          ],
+          [
+            88,
+            5
+          ],
+          [
+            76,
+            15
+          ]
+        ],
+        "text": "Sıcaklık ve kaynama kıvamının son sınırına varmış su/pınar (`حَمِيمٍ ءَانٍ` `55:44`; `عَيْنٍ ءَانِيَةٍ` `88:5`) ve kıvama gelmiş içeceği tutan gümüş kaplar (`ءَانِيَةٍ مِّن فِضَّةٍ` `76:15`)."
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            223
+          ],
+          [
+            2,
+            259
+          ],
+          [
+            3,
+            37
+          ],
+          [
+            6,
+            95
+          ],
+          [
+            89,
+            23
+          ]
+        ],
+        "text": "Bir oluşun, rızkın, dirilişin veya sapmanın hangi yönden, nasıl ve ne vakitte kıvama gelip ortaya çıktığını sorgulayan zarf (`أَنَّىٰ` `2:223`, `2:259`, `3:37`, `6:95`, `89:23`)."
+      }
+    ],
+    "context_default": "Sürecin kıvamına ve vaktine ermesi, vakit dilimleri, kap ve oluşun yönü/keyfiyeti (`أَنَّىٰ / إِنَىٰ / ءَانَآء`)."
+  },
+  "ح-ي-ن": {
+    "buckwalter": "Hyn",
+    "slug": "hin_zaman_akisi_icinde_belirli_vakit_ve_donem_kesiti_hyn",
+    "concept_name": "Hîn (Zaman Akışı İçinde Belirli Vakit, Süre ve Dönem Kesiti)",
+    "keywords": [
+      "vakit",
+      "zaman dilimi",
+      "dönem",
+      "süre",
+      "esna"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Hiyn",
+        "label": "Zaman ismi ve mansûb zaman zarfı (belirli bir vakit dilimi, süre ve olayın gerçekleştiği esna — 2:36, 14:25, 30:17, 76:1)"
+      }
+    ],
+    "irab_default": "Zaman ismi / zarf (belirli bir vakit ve dönem kesiti)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            2,
+            36
+          ],
+          [
+            7,
+            24
+          ],
+          [
+            14,
+            25
+          ],
+          [
+            21,
+            111
+          ],
+          [
+            76,
+            1
+          ]
+        ],
+        "text": "Büyük zaman akışı (`ٱلدَّهْر`) içinden ayrılmış belirli bir dönem (`76:1`), ağacın her mevsim/vakit yemiş vermesi (`14:25`) ve yeryüzünde belirli bir vakte kadar süren geçici yararlanma (`إِلَىٰ حِينٍ` `2:36`, `7:24`, `21:111`)."
+      },
+      {
+        "ayahs": [
+          [
+            12,
+            35
+          ],
+          [
+            30,
+            17
+          ],
+          [
+            38,
+            3
+          ],
+          [
+            38,
+            88
+          ],
+          [
+            56,
+            84
+          ]
+        ],
+        "text": "Bir haberin tahakkuk edeceği gelecek vakit (`بَعْدَ حِينٍ` `12:35`, `38:88`) ve bir olayın tam gerçekleştiği kritik esna (`حِينَ تُمْسُونَ` `30:17`; `وَلَاتَ حِينَ مَنَاصٍ` `38:3`; `وَحِينَئِذٍ` `56:84`)."
+      }
+    ],
+    "context_default": "Zaman akışı içinde belirli bir vakit, süre ve dönem kesiti (`حِين / حِينَ`)."
+  },
+  "م-ر-ر": {
+    "buckwalter": "mrr",
+    "slug": "murur_merre_ve_mirre_akip_gecme_defa_bukulmus_guc_ve_acilik_mrr",
+    "concept_name": "Mürûr, Merre ve Mirre (Durmadan Akıp Geçme, Defa, Sıkıca Bükülmüş Sağlam Güç ve Acılık)",
+    "keywords": [
+      "akıp geçmek",
+      "defa",
+      "sağlam güç",
+      "kesintisiz",
+      "acı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mar~a",
+        "label": "Sülâsî mâzî/muzâri fiil (duraksamadan akıp geçmek, yanından geçip gitmek — 2:259, 12:105, 25:72, 27:88)"
+      },
+      {
+        "lemma": "mar~ap",
+        "label": "Mastar-ı merre / isim (akış içindeki her bir geçiş, defa, kez — 2:229, 9:80, 28:54)"
+      },
+      {
+        "lemma": "mar~a`t",
+        "label": "Cemî müennes sâlim isim (defalar, kezler — 24:58)"
+      },
+      {
+        "lemma": "mar~",
+        "label": "Mef'ûl-i mutlak mastar (bulutların akıp geçişi gibi geçmek — 27:88)"
+      },
+      {
+        "lemma": "mir~ap",
+        "label": "Mecrûr isim (sıkıca bükülmüş ip gibi sağlam yapı ve üstün güç — 53:6)"
+      },
+      {
+        "lemma": "m~usotamir~",
+        "label": "İstif'âl bâbı ism-i fâil (kesintisizce sürüp giden veya sıkıca bükülmüş şiddetli — 54:2, 54:19)"
+      },
+      {
+        "lemma": ">amar~",
+        "label": "Merfû ism-i tafdîl (daha acı, sonucu çok daha yakıcı — 54:46)"
+      }
+    ],
+    "irab_default": "Fiil / isim (durmadan akıp geçmek, defa, sağlam güç ve acılık)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            27,
+            88
+          ],
+          [
+            12,
+            105
+          ],
+          [
+            25,
+            72
+          ],
+          [
+            2,
+            259
+          ]
+        ],
+        "text": "Dağların bulutların geçişi gibi kesintisizce akıp geçmesi (`تَمُرُّ مَرَّ ٱلسَّحَابِ` `27:88`), belgelerin yanından geçip gitmek (`12:105`) ve boş işlerin yanından onurluca geçmek (`25:72`)."
+      },
+      {
+        "ayahs": [
+          [
+            53,
+            6
+          ],
+          [
+            54,
+            2
+          ],
+          [
+            54,
+            19
+          ],
+          [
+            54,
+            46
+          ]
+        ],
+        "text": "İpin liflerinin sıkıca bükülmesinden doğan sarsılmaz kuvvet (`ذُو مِرَّةٍ` `53:6`), kesintisiz sürüp giden şiddet (`مُّسْتَمِرٍّ` `54:2`, `54:19`) ve o Saatin yakıcı acılığı (`أَمَرُّ` `54:46`)."
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            229
+          ],
+          [
+            17,
+            4
+          ],
+          [
+            24,
+            58
+          ],
+          [
+            28,
+            54
+          ]
+        ],
+        "text": "Hukuki ve tarihsel süreçlerdeki her bir müstakil geçiş, aşama ve defa (`مَرَّة / مَرَّتَانِ / ثَلَٰثَ مَرَّٰتٍ` `2:229`, `17:4`, `24:58`, `28:54`)."
+      }
+    ],
+    "context_default": "Bir hat boyunca durmadan akıp geçmek, defa, sıkıca bükülmüş sağlam güç ve yakıcı acılık (`مَرَّ / مَرَّة / مِرَّة / أَمَرّ`)."
+  },
+  "ش-م-س": {
+    "buckwalter": "$ms",
+    "slug": "sems_yorungesinde_surekli_akan_isi_ve_isik_kandili_gunes_sms",
+    "concept_name": "Şems (Sabit Durmaksızın Yörüngesinde Akan Isı ve Işık Kandili / Güneş)",
+    "keywords": [
+      "Güneş",
+      "yörünge",
+      "yakıcı ışık",
+      "kandil",
+      "hesap"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$amos",
+        "label": "Semâî müennes isim (yörüngesinde sürekli akan Güneş ve yakıcı güneş sıcağı — 10:5, 36:38, 76:13, 81:1)"
+      }
+    ],
+    "irab_default": "Semâî müennes isim (Güneş, yakıcı güneş ışığı ve sıcağı)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            10,
+            5
+          ],
+          [
+            13,
+            2
+          ],
+          [
+            36,
+            38
+          ],
+          [
+            55,
+            5
+          ],
+          [
+            71,
+            16
+          ]
+        ],
+        "text": "Güneş'in yakıcı-parlak bir ışık kaynağı (`ضِيَآءً` `10:5`) ve kandil (`سِرَاجًا` `71:16`) kılınıp belirlenmiş bir karar yerine ve hesaba göre kesintisizce akıp gitmesi (`تَجْرِى لِمُسْتَقَرٍّ لَّهَا` `13:2`, `36:38`, `55:5`)."
+      },
+      {
+        "ayahs": [
+          [
+            25,
+            45
+          ],
+          [
+            76,
+            13
+          ],
+          [
+            81,
+            1
+          ],
+          [
+            41,
+            37
+          ]
+        ],
+        "text": "Gölgeye kılavuz kılınan Güneş (`25:45`), yakıcı güneş sıcağı (`شَمْسًا` `76:13`), kozmik saatte dürülüp sarılması (`81:1`) ve yaratılmış bir belge olan Güneş'e değil onu yaratana boyun eğilmesi (`41:37`)."
+      }
+    ],
+    "context_default": "Sabit durmaksızın kendi yörüngesinde sürekli akarak ısı ve ışık yayan Güneş (`ٱلشَّمْس`)."
+  },
+  "ث-ل-ث": {
+    "buckwalter": "vlv",
+    "slug": "selase_ve_sulus_uc_sayisi_ucuncu_kademe_ve_ucte_bir_orani_vlv",
+    "concept_name": "Selâse, Sâlis ve Sülüs (Üç Sayısı, Üçüncü Kademe, Üçerli Gruplanma ve Üçte Bir Oranı)",
+    "keywords": [
+      "üç",
+      "üçüncü",
+      "üçte bir",
+      "üçer üçer",
+      "oran"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "vala`vap",
+        "label": "Sayı ismi (üç birimlik sayısal bütünlük — 2:196, 4:171, 56:7, 58:7)"
+      },
+      {
+        "lemma": "vala`v",
+        "label": "Müennes ma'dûdla kullanılan sayı ismi (üç gece, üç vakit, üç karanlık katman — 19:10, 24:58, 39:6)"
+      },
+      {
+        "lemma": "v~uluv",
+        "label": "Kesir ismi (bütünün üçte birlik ve üçte ikilik payı — 4:11, 4:12, 4:176, 73:20)"
+      },
+      {
+        "lemma": "vula`v",
+        "label": "Gayr-ı munsarıf üleştirme sayı sıfatı (üçer üçer — 4:3, 35:1)"
+      },
+      {
+        "lemma": "vaAliv",
+        "label": "Sıra sayı sıfatı / ism-i fâil (ikiyi üçe tamamlayan üçüncü — 5:73, 36:14)"
+      },
+      {
+        "lemma": "v~aAlivap",
+        "label": "Müennes sıra sayı sıfatı (üçüncü — 53:20)"
+      }
+    ],
+    "irab_default": "Sayı / sıra / kesir ismi (üç, üçüncü, üçte bir)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            4,
+            171
+          ],
+          [
+            5,
+            73
+          ],
+          [
+            58,
+            7
+          ],
+          [
+            35,
+            1
+          ]
+        ],
+        "text": "İlahi zat hakkındaki üçleme iddialarının kesin reddi (`4:171`, `5:73`), üç kişinin gizli konuştuğu yerde dördüncünün Allah olması (`58:7`) ve ikişer, üçer, dörder kanatlı/boyutlu görev güçleri (`35:1`)."
+      },
+      {
+        "ayahs": [
+          [
+            4,
+            11
+          ],
+          [
+            4,
+            12
+          ],
+          [
+            4,
+            176
+          ],
+          [
+            73,
+            20
+          ],
+          [
+            39,
+            6
+          ]
+        ],
+        "text": "Miras ve gece kalkışındaki üçte bir ve üçte iki oranları (`ٱلثُّلُثُ / ٱلثُّلُثَانِ` `4:11-12`, `73:20`) ile anne karnındaki üç karanlık evre (`فِى ظُلُمَٰتٍ ثَلَٰثٍ` `39:6`)."
+      }
+    ],
+    "context_default": "İkili yapıyı üçüncü bir birimin eklenmesiyle tamamlayan üçlü sayı, sıra ve üçte birlik oran (`ثَلَاثَة / ثَالِث / ثُلُث`)."
+  },
+  "ح-ي-ث": {
+    "buckwalter": "Hyv",
+    "slug": "haysu_eylemin_gerceklestigi_konumu_ve_yonu_kusatan_mekan_zarfi_hyv",
+    "concept_name": "Haysü (Eylemin Bağlandığı Konumu ve Çıkış Yönünü Sabitleyen Kuşatıcı Mekan Zarfı)",
+    "keywords": [
+      "nerede",
+      "nereye",
+      "nereden",
+      "konum",
+      "mekan zarfı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Hayov",
+        "label": "Zamme üzere mebnî mekan zarfı (eylemin gerçekleştiği konum, serbestlik alanı ve çıkış yönü — 2:35, 6:124, 65:3)"
+      },
+      {
+        "lemma": "Hayov2",
+        "label": "Şartlı mekan zarfı حَيْثُ مَا (bulunulan her konumu kapsayan şart: nerede olursanız olun — 2:144, 2:150)"
+      }
+    ],
+    "irab_default": "Zamme üzere mebnî mekan zarfı (nerede, nereye, nereden)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            2,
+            35
+          ],
+          [
+            2,
+            144
+          ],
+          [
+            2,
+            150
+          ],
+          [
+            6,
+            124
+          ],
+          [
+            12,
+            56
+          ]
+        ],
+        "text": "Görevin ve yerleşimin konulduğu uygun mahal (`حَيْثُ يَجْعَلُ رِسَالَتَهُۥ` `6:124`; `حَيْثُ يَشَآءُ` `12:56`) ve bulunulan her konumdan (`حَيْثُ مَا كُنتُمْ` `2:144`, `2:150`) ortak merkeze yöneliş."
+      },
+      {
+        "ayahs": [
+          [
+            7,
+            182
+          ],
+          [
+            59,
+            2
+          ],
+          [
+            65,
+            3
+          ],
+          [
+            68,
+            44
+          ]
+        ],
+        "text": "İnsanın hesabı ve bilgisi dışında kalan beklenmedik yön ve çıkış kapısı (`مِنْ حَيْثُ لَا يَحْتَسِبُ` `59:2`, `65:3`; `مِنْ حَيْثُ لَا يَعْلَمُونَ` `7:182`, `68:44`)."
+      }
+    ],
+    "context_default": "Eylemin gerçekleştiği mekansal konumu ve yönü sabitleyen zarf (`حَيْثُ / مِنْ حَيْثُ`)."
+  },
+  "ع-س-ي": {
+    "buckwalter": "Esy",
+    "slug": "asa_gerceklesme_yakinligi_ve_acik_imkan_beklentisi_esy",
+    "concept_name": "Asâ (Bir Dönüşümün Gerçekleşme Yakınlığını ve İmkanını Açık Tutan Beklenti)",
+    "keywords": [
+      "umulur ki",
+      "yakındır ki",
+      "olabilir ki",
+      "imkan",
+      "beklenti"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EasaY",
+        "label": "Mâzî sigasında câmid mukârebe ve tereccî fiili (bir sonucun gerçekleşmeye yakın ve mümkün olduğunu bildirme — 2:216, 12:83, 17:51, 49:11)"
+      }
+    ],
+    "irab_default": "Câmid mukârebe ve tereccî fiili (yakındır ki, umulur ki, olabilir ki)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            17,
+            51
+          ],
+          [
+            27,
+            72
+          ],
+          [
+            7,
+            185
+          ],
+          [
+            12,
+            83
+          ],
+          [
+            60,
+            7
+          ]
+        ],
+        "text": "Uzak sanılan buluşma veya çözüm vaktinin çok yakın ve mümkün olması (`قُلْ عَسَىٰٓ أَن يَكُونَ قَرِيبًا` `17:51`; `عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا` `12:83`, `60:7`)."
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            216
+          ],
+          [
+            4,
+            19
+          ],
+          [
+            49,
+            11
+          ],
+          [
+            2,
+            246
+          ],
+          [
+            47,
+            22
+          ]
+        ],
+        "text": "İnsanın zahiri hoşlanma/hoşlanmama ve küçümseme yargılarını kıran açık imkan ufku (`2:216`, `4:19`, `49:11`) ile sözden dönme tehlikesine karşı sakındırma (`عَسَيْتُمْ` `2:246`, `47:22`)."
+      }
+    ],
+    "context_default": "Henüz gerçekleşmemiş bir sonucun vuku bulma yakınlığını ve imkanını açık tutmak (`عَسَىٰ`)."
+  },
+  "ج-ن-د": {
+    "buckwalter": "jnd",
+    "slug": "cund_ve_cunud_yardim_ve_gorev_icin_toplanmis_organize_birlik_ordu_jnd",
+    "concept_name": "Cünd ve Cünûd (Yardım ve Görev İçin Toplanıp Saf Tutmuş Organize Birlik ve Ordu)",
+    "keywords": [
+      "ordu",
+      "birlik",
+      "destek gücü",
+      "yardımcılar",
+      "görev güçleri"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jund",
+        "label": "Cins ismi ve cemî-i teksîr جُنُود (yardım ve görev için toplanmış askeri veya kozmik birlik/ordu — 2:249, 37:173, 48:4, 67:20, 74:31)"
+      }
+    ],
+    "irab_default": "İsim (yardım ve görev için toplanmış organize birlik, ordu)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            48,
+            4
+          ],
+          [
+            48,
+            7
+          ],
+          [
+            74,
+            31
+          ],
+          [
+            9,
+            26
+          ],
+          [
+            33,
+            9
+          ]
+        ],
+        "text": "Göklerin ve yerin yalnız Allah'ın emrinde olan görünür ve görünmez görev orduları (`جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ` `48:4`, `48:7`; `وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ` `74:31`; `جُنُودًا لَّمْ تَرَوْهَا` `9:26`, `33:9`)."
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            249
+          ],
+          [
+            28,
+            8
+          ],
+          [
+            37,
+            173
+          ],
+          [
+            38,
+            11
+          ],
+          [
+            67,
+            20
+          ]
+        ],
+        "text": "Tarihsel mücadelelerde saf tutan askeri ordular (`2:249`, `28:8`), ilahi ilkelere bağlı birliklerin üstünlüğü (`وَإِنَّ جُندَنَا لَهُمُ ٱلْغَٰلِبُونَ` `37:173`) ve Rahman dışında güvenilen sahte orduların çaresizliği (`38:11`, `67:20`)."
+      }
+    ],
+    "context_default": "Yardım ve görev için bir araya toplanmış organize birlik ve ordu (`جُند / جُنُود`)."
+  },
+  "س-ب-ع": {
+    "buckwalter": "sbE",
+    "slug": "seb_ve_sebu_yedi_katmanli_tamlik_ve_yirtici_hayvan_sbe",
+    "concept_name": "Seb‘ ve Sebu‘ (Yedi Sayısı/Katmanlı Tamlık ve Avını Parçalayan Yırtıcı Hayvan)",
+    "keywords": [
+      "yedi",
+      "yedi katman",
+      "yedi başak",
+      "yetmiş",
+      "yırtıcı hayvan"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "saboE",
+        "label": "Sayı ismi ve ukûd cemî سَبْعِين (yedi gök katmanı, yedi başak, yedi yıl ve yetmiş basamağı — 2:261, 12:47, 15:87, 67:3)"
+      },
+      {
+        "lemma": "saboEap",
+        "label": "Müzekker ma'dûdla kullanılan sayı ismi (yedi gün, yedi kapı, yedi deniz — 2:196, 15:44, 18:22, 31:27)"
+      },
+      {
+        "lemma": "s~abuE",
+        "label": "Merfû cins ismi (pençe ve dişiyle avını parçalayan yırtıcı vahşi hayvan — 5:3)"
+      }
+    ],
+    "irab_default": "Sayı ismi / cins ismi (yedi katmanlı tamlık; yırtıcı vahşi hayvan)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            2,
+            29
+          ],
+          [
+            2,
+            261
+          ],
+          [
+            12,
+            43
+          ],
+          [
+            15,
+            87
+          ],
+          [
+            67,
+            3
+          ]
+        ],
+        "text": "Birbiriyle uyumlu yedi gök katmanı (`سَبْعَ سَمَٰوَٰتٍ طِبَاقًا` `67:3`), bir tohumdan biten yedi başak (`2:261`), yedi yıllık bolluk-kıtlık çevrimi (`12:43-48`) ve ikişerli/tekrarlanan yedili vahiy halkası (`سَبْعًا مِّنَ ٱلْمَثَانِى` `15:87`)."
+      },
+      {
+        "ayahs": [
+          [
+            5,
+            3
+          ],
+          [
+            31,
+            27
+          ],
+          [
+            9,
+            80
+          ]
+        ],
+        "text": "Avını pençe ve dişle parçalayan yırtıcı vahşi hayvan (`وَمَآ أَكَلَ ٱلسَّبُعُ` `5:3`) ile çokluk ve sonsuzluk sınırını gösteren yedi deniz (`31:27`) ve yetmiş kez (`9:80`)."
+      }
+    ],
+    "context_default": "Yedi katmanlı sayısal tamlık ve avını parçalayan yırtıcı vahşi hayvan (`سَبْع / سَبْعَة / ٱلسَّبُع`)."
+  },
+  "خ-ل-و": {
+    "buckwalter": "xlw",
+    "slug": "huluvv_ve_tahalli_icindekinden_siyrilip_bosalma_bas_basa_kalma_ve_gecip_gitme_xlw",
+    "concept_name": "Hulüvv ve Tahallî (İçindeki Doluluktan Sıyrılıp Boşalma, Baş Başa Kalma ve Sahneyi Boşaltıp Geçme)",
+    "keywords": [
+      "boşalmak",
+      "baş başa kalmak",
+      "serbest bırakmak",
+      "gelip geçmek",
+      "yalnız kalmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xalaA",
+        "label": "Sülâsî mâzî/muzâri fiil (sahneyi boşaltıp gelip geçmek — 2:134, 48:23; kalabalıktan sıyrılıp baş başa kalmak — 2:14, 2:76; engellerden boşalıp birine kalmak — 12:9)"
+      },
+      {
+        "lemma": "xal~u",
+        "label": "Tef'îl bâbı emir fiil (yolu engellerden boşaltıp serbest bırakmak — 9:5)"
+      },
+      {
+        "lemma": "taxal~ato",
+        "label": "Tefa''ul bâbı mâzî fiil (yerin içindeki tüm ağırlıkları dışarı atıp tamamen boşalması — 84:4)"
+      },
+      {
+        "lemma": "xaAliyap",
+        "label": "Müennes ism-i fâil (sahnesi boşaltılıp geride bırakılmış geçmiş günler — 69:24)"
+      }
+    ],
+    "irab_default": "Fiil / sıfat (içindekinden sıyrılıp boşalmak, baş başa kalmak, sahneyi boşaltıp geçmek)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          [
+            84,
+            4
+          ],
+          [
+            9,
+            5
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            2,
+            14
+          ],
+          [
+            2,
+            76
+          ]
+        ],
+        "text": "Yeryüzünün içindekileri atıp tamamen boşalması (`وَتَخَلَّتْ` `84:4`), yolun boşaltılıp serbest bırakılması (`فَخَلُّوا۟ سَبِيلَهُمْ` `9:5`), babanın ilgisinin rakipsiz kalması (`يَخْلُ لَكُمْ` `12:9`) ve kalabalıktan çekilip baş başa kalmak (`وَإِذَا خَلَوْا۟` `2:14`, `2:76`)."
+      },
+      {
+        "ayahs": [
+          [
+            2,
+            134
+          ],
+          [
+            3,
+            144
+          ],
+          [
+            48,
+            23
+          ],
+          [
+            69,
+            24
+          ]
+        ],
+        "text": "Önceki kuşakların, elçilerin, günlerin ve ilahi yasaların yaşandıkları sahneyi boşaltarak gelip geçmesi (`قَدْ خَلَتْ` `2:134`, `3:144`, `48:23`; `فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ` `69:24`)."
+      }
+    ],
+    "context_default": "İçindeki doluluk ve engellerden sıyrılıp boşalmak, baş başa kalmak ve sahneyi boşaltıp geçmek (`خَلَا / خَلَتْ / تَخَلَّتْ`)."
   }
 }

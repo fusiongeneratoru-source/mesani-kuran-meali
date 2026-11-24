@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 550 mühürlü kökten (`%90,24`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 82 İnfitâr, 92 Leyl, 93 Duhâ, 95 Tîn, 106 Kureyş → **20 tam kilitli sure**), 3 ve 2 açık Mesânî referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 24–36 geçiş) olmak üzere **50 kök** (764 geçiş) mühürlenerek toplam sözlük **600 kilitli köke (`%91,77` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%94,79`'u)** ulaştırılır.
-> **Etap 3G İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 580 Kök | Güncel Kapsam: %90,61)
+> **Etap 3G İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 590 Kök | Güncel Kapsam: %91,24)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -37,16 +37,16 @@
 | 28 | Açık Mesânî Zırhı | 767 | `خ-و-ي` | `H-W-Y` | **5** | 5 | 2:259 | Hâviye (İçi Boşalarak Tavanları Üzerine Çökmüş Yapı ve İçi Kof Devrilmiş Gövde) | ✅ **MÜHÜRLÜ** |
 | 29 | Açık Mesânî Zırhı | 845 | `ع-ف-ف` | `A-F-F` | **4** | 4 | 2:273 | İsti'fâf ve Te'affüf (Öz Benliği Uygunsuz İstekten Dizginlemek, Tok Gözlülük ve İffet) | ✅ **MÜHÜRLÜ** |
 | 30 | Açık Mesânî Zırhı | 943 | `أ-ص-ر` | `E-S-R` | **3** | 3 | 2:286 | İsr (İnsanı Sımsıkı Bağlayıp Sıkıştıran Ağır Yükümlülük ve Bağlayıcı Ahit) | ✅ **MÜHÜRLÜ** |
-| 31 | Yüksek Frekanslı Çekirdek | 260 | `أ-ن-ي` | `E-N-Y` | **36** | 36 | 2:223 | İnâ, Ânâ', Âniye ve Ân (36 geçiş — #1 kalan kök! 33:53 pişme vakti, 3:113 gece saatleri, 76:15 kaplar ve 55:44 kaynama zirvesi) | ⏳ *Bekliyor* |
-| 32 | Yüksek Frekanslı Çekirdek | 263 | `ح-ي-ن` | `H-Y-N` | **35** | 33 | 2:36 | Hîn (35 geçiş — #2 kalan kök! 2:36, 14:25, 21:111, 38:88 belirli zaman dilimi, vade ve olgunlaşma vakti) | ⏳ *Bekliyor* |
-| 33 | Yüksek Frekanslı Çekirdek | 266 | `م-ر-ر` | `M-R-R` | **35** | 32 | 2:229 | Merr, Merre, Müstemirr, Murr ve Mirre (35 geçiş — #3 kalan kök! Geçip gitmek, kez/defa, 54:46 daha acı ve 53:6 sağlam güç) | ⏳ *Bekliyor* |
-| 34 | Yüksek Frekanslı Çekirdek | 277 | `ش-م-س` | `S-M-S` | **33** | 32 | 2:258 | Şems (33 geçiş — #4 kalan kök + Sure 91 Şems! Güneş, ışık/ısı kaynağı ve gölge/zaman ölçüsü) | ⏳ *Bekliyor* |
-| 35 | Yüksek Frekanslı Çekirdek | 287 | `ث-ل-ث` | `S-L-S` | **32** | 28 | 2:196 | Selâse, Sülüs ve Sâlis (32 geçiş | 1M — #5 kalan kök! Üç sayısı, miras payları ve 4:171, 5:73 "üçtür / üçüncüsüdür" iddiasının reddi) | ⏳ *Bekliyor* |
-| 36 | Yüksek Frekanslı Çekirdek | 292 | `ح-ي-ث` | `H-Y-S` | **31** | 29 | 2:35 | Haysü (31 geçiş — #6 kalan kök! 2:35, 2:144, 2:191, 65:3 konum, yön ve mekan zarfı: "nerede / nereden / hiç beklemediği yerden") | ⏳ *Bekliyor* |
-| 37 | Yüksek Frekanslı Çekirdek | 305 | `ع-س-ي` | `A-S-Y` | **30** | 28 | 2:216 | Asâ (30 geçiş — #7 kalan kök! 2:216, 4:19, 17:8, 66:5 beklenti, umut ve ihtimal kapısı açan fiil: "umulur ki / bakarsınız") | ⏳ *Bekliyor* |
-| 38 | Yüksek Frekanslı Çekirdek | 313 | `ج-ن-د` | `C-N-D` | **29** | 27 | 2:249 | Cünd ve Cünûd (29 geçiş — #8 kalan kök! 2:249, 9:26, 33:9, 37:173, 48:4, 74:31 derlenip toplanmış ordular ve kozmik güçler) | ⏳ *Bekliyor* |
-| 39 | Yüksek Frekanslı Çekirdek | 320 | `س-ب-ع` | `S-B-A` | **28** | 24 | 2:29 | Seb', Seb'a ve Sebu' (28 geçiş — #9 kalan kök! Yedi gök/başak/deniz/gece ve 5:3 yırtıcı hayvanın yediği) | ⏳ *Bekliyor* |
-| 40 | Yüksek Frekanslı Çekirdek | 318 | `خ-ل-و` | `H-L-W` | **28** | 28 | 2:14 | Halâ ve Halet (28 geçiş — #10 kalan kök! 2:14, 2:76 baş başa kalmak, 13:30 gelip geçmiş ümmetler ve 9:5 yollarını serbest bırakmak) | ⏳ *Bekliyor* |
+| 31 | Yüksek Frekanslı Çekirdek | 260 | `أ-ن-ي` | `E-N-Y` | **36** | 36 | 2:223 | İnâ, Ânâ ve Ennâ (Sürecin Tam Kıvamına ve Vaktine Ermesi, Gece Saatleri, Kap ve Yön-Zaman Zarfı) | ✅ **MÜHÜRLÜ** |
+| 32 | Yüksek Frekanslı Çekirdek | 263 | `ح-ي-ن` | `H-Y-N` | **35** | 33 | 2:36 | Hîn (Zaman Akışı İçinde Belirli Vakit, Süre ve Dönem Kesiti) | ✅ **MÜHÜRLÜ** |
+| 33 | Yüksek Frekanslı Çekirdek | 266 | `م-ر-ر` | `M-R-R` | **35** | 32 | 2:229 | Mürûr, Merre ve Mirre (Durmadan Akıp Geçme, Defa, Sıkıca Bükülmüş Sağlam Güç ve Acılık) | ✅ **MÜHÜRLÜ** |
+| 34 | Yüksek Frekanslı Çekirdek | 277 | `ش-م-س` | `S-M-S` | **33** | 32 | 2:258 | Şems (Sabit Durmaksızın Yörüngesinde Akan Isı ve Işık Kandili / Güneş) | ✅ **MÜHÜRLÜ** |
+| 35 | Yüksek Frekanslı Çekirdek | 287 | `ث-ل-ث` | `S-L-S` | **32** | 28 | 2:196 | Selâse, Sâlis ve Sülüs (Üç Sayısı, Üçüncü Kademe, Üçerli Gruplanma ve Üçte Bir Oranı) | ✅ **MÜHÜRLÜ** |
+| 36 | Yüksek Frekanslı Çekirdek | 292 | `ح-ي-ث` | `H-Y-S` | **31** | 29 | 2:35 | Haysü (Eylemin Bağlandığı Konumu ve Çıkış Yönünü Sabitleyen Kuşatıcı Mekan Zarfı) | ✅ **MÜHÜRLÜ** |
+| 37 | Yüksek Frekanslı Çekirdek | 305 | `ع-س-ي` | `A-S-Y` | **30** | 28 | 2:216 | Asâ (Bir Dönüşümün Gerçekleşme Yakınlığını ve İmkanını Açık Tutan Beklenti) | ✅ **MÜHÜRLÜ** |
+| 38 | Yüksek Frekanslı Çekirdek | 313 | `ج-ن-د` | `C-N-D` | **29** | 27 | 2:249 | Cünd ve Cünûd (Yardım ve Görev İçin Toplanıp Saf Tutmuş Organize Birlik ve Ordu) | ✅ **MÜHÜRLÜ** |
+| 39 | Yüksek Frekanslı Çekirdek | 320 | `س-ب-ع` | `S-B-A` | **28** | 24 | 2:29 | Seb‘ ve Sebu‘ (Yedi Sayısı/Katmanlı Tamlık ve Avını Parçalayan Yırtıcı Hayvan) | ✅ **MÜHÜRLÜ** |
+| 40 | Yüksek Frekanslı Çekirdek | 318 | `خ-ل-و` | `H-L-W` | **28** | 28 | 2:14 | Hulüvv ve Tahallî (İçindeki Doluluktan Sıyrılıp Boşalma, Baş Başa Kalma ve Sahneyi Boşaltıp Geçme) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 328 | `ش-ج-ر` | `S-C-R` | **27** | 26 | 2:35 | Şecer ve Şecere (27 geçiş: 2:35, 14:24, 24:35, 36:80 ağaç/bitki ve 4:65 aralarında dallanıp budaklanan anlaşmazlık çıkması) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 331 | `ع-ش-ر` | `A-S-R` | **27** | 26 | 2:60 | Aşr, Işrûn, Ma'şer ve Muâşeret (27 geçiş: 6:160 bire on karşılık, 89:2 on gece, 6:130 topluluk ve 4:19 eşlerle iyi geçinmek) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 332 | `ع-ج-ب` | `A-C-B` | **27** | 24 | 2:204 | Aceb ve İ'câb (27 geçiş: 10:2, 11:72, 18:9, 38:4, 50:2 şaşırıp tuhaf bulmak ve 2:204, 57:20 dış görünüşüyle hayran bırakmak) | ⏳ *Bekliyor* |
