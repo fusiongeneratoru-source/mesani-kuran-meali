@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%93,13` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 42 / 50 Kök (Toplam Mühürlü: 642 Kök | Güncel Kapsam: %92,83)
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 43 / 50 Kök (Toplam Mühürlü: 643 Kök | Güncel Kapsam: %92,87)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -49,7 +49,7 @@
 | 40 | Yüksek Frekanslı Çekirdek | 399 | `س-ن-و` | `S-N-W` | **20** | 20 | 2:96 | Sene, Sinîn ve Senâ (Yıl Döngüsü, Kıtlık Yılları ve Şimşek Parıltısı) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 407 | `ص-ن-ع` | `S-N-A` | **20** | 19 | 5:14 | Sun', San'at ve Istınâ' (Planlı İmal, Özenle Yetiştirme ve Yapı Kurma) | ✅ **MÜHÜRLÜ** |
 | 42 | Yüksek Frekanslı Çekirdek | 400 | `م-ر-ي` | `M-R-Y` | **20** | 19 | 2:147 | Mirye, İmtirâ ve Mirâ (Kuşku Kurcalamak ve Karşılıklı Çekişmek) | ✅ **MÜHÜRLÜ** |
-| 43 | Yüksek Frekanslı Çekirdek | 408 | `ح-ز-ب` | `H-Z-B` | **20** | 17 | 5:56 | Hizb ve Ahzâb (20 geçiş | 1M+1F: 5:56, 11:17, 18:12, 33:20-22, 38:11-13, 40:30, 58:19-22 ortak bir tavır ve çıkar etrafında kümelenmiş taraf/grup) | ⏳ *Bekliyor* |
+| 43 | Yüksek Frekanslı Çekirdek | 408 | `ح-ز-ب` | `H-Z-B` | **20** | 17 | 5:56 | Hizb ve Ahzâb (Kenetlenen Taraf, Kapalı Fırka ve İttifak Koalisyonları) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 419 | `ف-ك-ه` | `F-K-H` | **19** | 19 | 23:19 | Fâkihe, Fekihîn ve Tefekküh (19 geçiş: 23:19, 36:55, 36:57, 43:73, 44:27, 52:18, 55:11, 56:65, 83:31 meyve, neşeyle tat almak ve şaşkınca söylenmek) | ⏳ *Bekliyor* |
 | 45 | Yüksek Frekanslı Çekirdek | 412 | `ث-م-ن` | `S-M-N` | **19** | 19 | 2:41 | Semen, Semâniye, Sâmin ve Sümün (19 geçiş | 1M+1F: 2:41, 4:12, 6:143, 12:20, 18:22, 28:27, 39:6, 69:7 değer/bedel, sekiz sayısı ve sekizde bir) | ⏳ *Bekliyor* |
 | 46 | Yüksek Frekanslı Çekirdek | 422 | `د-ب-ب` | `D-B-B` | **18** | 18 | 2:164 | Dâbbe ve Devâbb (18 geçiş | 1F: 2:164, 6:38, 8:22, 11:6, 16:49, 24:45, 27:82, 34:14, 42:29 yeryüzünde kımıldayıp yürüyen her canlı varlık) | ⏳ *Bekliyor* |

@@ -46157,5 +46157,73 @@
       }
     ],
     "context_default": "Hakikat ve delil karşısında kuşku ve çekişme bağlamı"
+  },
+  "ح-ز-ب": {
+    "buckwalter": "Hzb",
+    "slug": "Hzb",
+    "concept_name": "Hizb ve Ahzâb (Kenetlenen Taraf, Kapalı Fırka ve İttifak Koalisyonları)",
+    "keywords": [
+      "taraf",
+      "grup",
+      "hizip",
+      "koalisyon",
+      "bölük"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Hizob",
+        "features_contains": [
+          "MD"
+        ],
+        "label": "Muzâfun ileyh mecrûr tesniye/ikil isim (ٱلْحِزْبَيْنِ — 18:12) — süreyi hesaplayan iki taraf"
+      },
+      {
+        "lemma": "Hizob",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Cemi mükesser isim (`ٱلْأَحْزَابُ / ٱلْأَحْزَابَ / ٱلْأَحْزَابِ` — 11 geçiş) — ayrışan kesimler ve birleşik hasım koalisyonlar"
+      },
+      {
+        "lemma": "Hizob",
+        "label": "Tekil isim (`حِزْبَ ٱللَّهِ / حِزْبُ ٱلشَّيْطَٰنِ / كُلُّ حِزْبٍۭ` — 8 geçiş) — aynı merkez etrafında birleşen taraf veya kapalı grup"
+      }
+    ],
+    "irab_default": "Hizb türevi — ortak merkez veya çıkar etrafında toplanmış taraf/grup",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:56",
+          "35:6",
+          "58:19",
+          "58:22"
+        ],
+        "text": "İki Zıt Çekim Merkezine Göre Taraf Kutuplaşması (`5:56`, `35:6`, `58:19,22`): Allah'a ve elçiye yönelen tarafın üstünlük ve kalıcı başarıya ermesi karşısında ayartıcı tarafa kapılanların hüsrana düşmesi."
+      },
+      {
+        "ayahs": [
+          "11:17",
+          "13:36",
+          "19:37",
+          "23:53",
+          "30:32",
+          "43:65"
+        ],
+        "text": "Bölünme ve Kapalı Hizip Psikolojisi (`11:17`, `13:36`, `19:37`, `23:53`, `30:32`, `43:65`): Bütünlüğü parçalayıp kendi elindeki kesitle övünen kapalı hizipler ile vahyin bir kısmını reddedip ayrışan kesimler."
+      },
+      {
+        "ayahs": [
+          "18:12",
+          "33:20",
+          "33:22",
+          "38:11",
+          "38:13",
+          "40:5",
+          "40:30"
+        ],
+        "text": "Hasım Koalisyonlar ve Tarihî Taraflar (`18:12`, `33:20,22`, `38:11,13`, `40:5,30`): Medine'ye karşı yığılan birleşik ittifak güçleri, geçmişte bozguna uğrayan koalisyonlar ve iki tartışan taraf."
+      }
+    ],
+    "context_default": "Taraf, hizip veya ittifak koalisyonu bağlamı"
   }
 }
