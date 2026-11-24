@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (34/50 — Toplam 634 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (35/50 — Toplam 635 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -589,7 +589,8 @@
           "ج-ن-ب (Ataletten, oturup kalmaktan ve çöküşten kurtularak ayağa kalkma; bir ilkeyi, dayanışma bağ ↔ İnsanın yanı/böğrü ve bir şeyin kenarı/yamacı (النَّاحِيَةُ: 3:191, 4:31, 4:36)",
           "ر-د-ي (ر-د-ي ↔ ق-و-م Mesânî simetrisi)",
           "ر-د-ي",
-          "خ-و-ي"
+          "خ-و-ي",
+          "م-ش-ي (`كُلَّمَآ أَضَآءَ لَهُم مَّشَوْا۟ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُوا۟` `2:20` — Aydınlıkta Adım Atıp Yürümek vs Karanlıkta Olduğu Yerde Durup Çakılmak)"
         ],
         "key_ayahs": [
           "4:95",
@@ -23954,7 +23955,8 @@
           "خ-ر-ج (خ-ر-ج ↔ ق-ع-د Mesânî simetrisi)",
           "ذ-ه-ب (ذ-ه-ب ↔ ق-ع-د Mesânî simetrisi)",
           "س-ي-ر",
-          "ع-ب-ر"
+          "ع-ب-ر",
+          "م-ش-ي (م-ش-ي ↔ ق-ع-د Mesânî simetrisi — zemin üzerinde adım atıp ilerlemek vs oturup hareketsiz kalmak)"
         ],
         "key_ayahs": [
           "3:191 & 4:103 & 10:12 (قِيَٰمًا وَقُعُودًا / قَاعِدًا أَوْ قَآئِمًا — bedensel oturuş ve ayakta duruş karşıtlığı)",
@@ -54286,6 +54288,92 @@
         "سَارَعَ / يُسَارِعُ / نُسَارِعُ (Sâra'a / Yusâri'u / Nusâri'u)": "Form III Fiil (9 geçiş) — oyalanmadan hızla atılmak ve yarışarcasına yönelmek",
         "سَرِيع / أَسْرَع (Serî' / Esra')": "Sıfat-ı Müşebbehe ve İsm-i Tafdîl (12 geçiş) — gecikmesiz hızlı, çabuk ve en hızlı olan",
         "سِرَاعًا (Sirâ'an)": "Çoğul Hâl / Masdar (2 geçiş: 50:44, 70:43) — hızla ve koşuşarak"
+      }
+    },
+    "م-ش-ي": {
+      "root_latin": "M-S-Y (MSY)",
+      "arabic": "مَشَىٰ / يَمْشِى / مَشْى / مَشَّآء",
+      "rank": 369,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "مشوا (مَّشَوْا۟)",
+          "يمشى / ويمشى (يَمْشِى / وَيَمْشِى)",
+          "يمشون / ويمشون (يَمْشُونَ / وَيَمْشُونَ)",
+          "تمشى / تمشون (تَمْشِىٓ / تَمْشُونَ)",
+          "تمش (لَا تَمْشِ)",
+          "ٱمشوا / فٱمشوا (ٱمْشُوا۟ / فَٱمْشُوا۟)",
+          "مشيك (مَشْيِكَ)",
+          "مشاء (مَّشَّآءٍۭ)"
+        ],
+        "verb_forms_used": [
+          "Form I (21 geçiş: 1 mâzî مَّشَوْا۟ [2:20], 2 emir ٱمْشُوا۟ [38:6, 67:15], 16 muzârî merfû', 2 muzârî meczûm لَا تَمْشِ [17:37, 31:18])"
+        ],
+        "preposition_patterns": [
+          "يَمْشِى / تَمْشُونَ بِهِۦ (6:122, 57:28 — aydınlatıcı rehber ışıkla yol almak), يَمْشُونَ بِهَآ (7:195 — ayaklarla yürümek), مَّشَّآءٍۭ بِنَمِيمٍ (68:11 — laf taşıyıp gezdirmek)",
+          "فِى ٱلْأَرْضِ / فِى ٱلْأَسْوَاقِ / فِى مَسَٰكِنِهِمْ / فِى مَنَاكِبِهَا (17:37, 20:128, 25:7, 25:20, 31:18, 32:26, 67:15 — mekân içinde yürümek ve dolaşmak)",
+          "عَلَىٰ بَطْنِهِۦ / رِجْلَيْنِ / أَرْبَعٍ / عَلَى ٱلْأَرْضِ هَوْنًا / عَلَى ٱسْتِحْيَآءٍ / عَلَىٰ وَجْهِهِۦٓ (24:45, 25:63, 28:25, 67:22 — bedensel dayanak ve tavırla yürümek)"
+        ],
+        "approx_frequency": "23 geçiş / 20 ayet (referans amaçlı)"
+      },
+      "physical_core": "Canlının kendi gövdesi veya uzuvlarıyla zemin üzerinde adım adım ilerleyip yer değiştirmesi (İbn Fâris, Mekâyîs 1. Asıl: \"أحدهما يدل على حركة الإنسان وغيره\"). Kur'an'da karın, iki ayak veya dört ayak üzerinde ilerleyen tüm canlıların biyolojik devinimi (24:45), pazarlarda ve yıkılmış yurtlarda dolaşma (20:128, 25:7,20, 32:26), yeryüzünün omuzlarında rızık aramak için yürüme (67:15), şımarıklıktan uzak vakur veya hayalı yürüyüş (17:37, 25:63, 28:25, 31:18-19), ışık altında yol alış (2:20, 6:122, 57:28) ve yüzüstü tökezleyerek yürüme karşısında dimdik gidiş (67:22) hep aynı tek hareket çekirdeğinde kilitlenir.",
+      "ibn_faris_asl": {
+        "text": "(مشي) الميم والشين والحرف المعتل أصلان صحيحان ، أحدهما يدل على حركة الإنسان وغيره ، والآخر النماء والزيادة . فالأول مشى يمشي مشياً ... والآخر المشاء ، وهو النتاج الكثير من المال .",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (مشي maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "İki ayrı sahih asıl tespit eder: (1) İnsan ve diğer canlıların yürüme/ilerleme hareketi (`مشى يمشي مشياً`), (2) Hayvan ve malda çoğalıp türeme (`المشاء / الماشية`). Kur'an'daki 23 geçişin tamamı 1. asıl üzerinde işler.",
+        "lisan_al_arab": "المَشْيُ yavaş ya da hızlı adım atarak bir yerden diğerine geçmektir; مَشَّاء ise insanlar arasında laf taşıyıp fitne gezdirmeyi alışkanlık edinen kimsedir (68:11).",
+        "ragib_mufredat": "İrade ve gövde hareketiyle yer değiştirmek olup hem fiziksel yürüyüşü (24:45) hem ahlaki/toplumsal yöneliş tarzını (25:63, 67:22) kapsar.",
+        "arbitration_decision": "57:28 ('nur ile doğru yolu bulmak') veya 38:6 ('ısrarla sürdürmek') şeklindeki soyutlaştırıcı meallerde köksel fiziksel hareketin silinmesi reddedildi. İbn Fâris'in 1. aslı olan 'kendi gövdesi veya uzuvlarıyla zemin üzerinde adım adım ilerleyip yol alma' tek çekirdeği tüm 23 geçişi mekanik bir bütünlükte çözer."
+      },
+      "semitic_cognates": {
+        "note": "Proto-Sami *s₂ ses yasası (Arapça ش = Sebece s₂ = İbranice שׂ): Arapça م-ش-ي (mašā 'yürümek'), Eski Güney Arapça Sebecede ms₂y ('yola çıkıp yürümek') ile doğrudan eşkökenlidir. İbranice (BDB) ve Aramice/Süryanicede (CAL) yürüme için ه-ل-ك (h-l-k) kullanılmakta olup, Aramicedeki mšy ('silmek/ovmak') ve İbranicedeki māšāh ('sudan çekmek') ayrı anlam alanlarıdır; Akadcada (CAD) ise yürüme için alāku kullanılır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ق-و-م",
+          "ق-ع-د"
+        ],
+        "key_ayahs": [
+          "2:20",
+          "6:122",
+          "17:37",
+          "24:45",
+          "25:63",
+          "28:25",
+          "31:18",
+          "31:19",
+          "57:28",
+          "67:15",
+          "67:22",
+          "68:11"
+        ],
+        "reverse_stress_test": "2:20 ayetinde (`كُلَّمَآ أَضَآءَ لَهُم مَّشَوْا۟ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُوا۟`) aydınlanınca adım atıp yürümek (`مَّشَوْا۟`) ile karanlık çökünce olduğu yere dikilip çakılmak (`قَامُوا۟` — `ق-و-م`) ve hareketsizce oturup geri kalmak (`ق-ع-د`) doğrudan Mesânî karşıtıdır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ق-و-م",
+          "س-ي-ر",
+          "س-ع-ي",
+          "ق-ص-د",
+          "س-و-ي",
+          "ص-ب-ر"
+        ],
+        "mechanical_difference": "1) `م-ش-ي` vs `س-ي-ر` vs `س-ع-ي`: `م-ش-ي` canlının kendi gövde veya ayaklarıyla adım adım yer değiştirmesidir; `س-ي-ر` kervan, gemi veya büyük kütlelerin bir hat boyunca seyredip yol almasıdır; `س-ع-ي` ise belirli bir hedefe yoğun gayret ve koşuşturmayla yönelmektir. 2) `2:20`: `مَّشَوْا۟` aydınlıkta adım atıp ilerlemeyi, `قَامُوا۟` karanlıkta donup durmayı ayrıştırır. 3) `31:18-19`: `لَا تَمْشِ ... مَرَحًا` şımarık böbürlenmeyle yürümeyi yasaklarken `وَٱقْصِدْ فِى مَشْيِكَ` (`ق-ص-د`) yürüyüşte ölçülü ve dengeli ritmi emreder. 4) `67:22`: `يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ` yüzüstü kapanıp önünü göremeden sendeleyerek yürümeyi, `يَمْشِى سَوِيًّا` (`س-و-ي`) ise düz yolda dimdik ve dengeli yürümeyi ayırır."
+      },
+      "anchor_ayahs": [
+        "24:45 (فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍ — canlıların karın, iki ayak veya dört ayak üzerinde ilerlemesi)",
+        "2:20 (كُلَّمَآ أَضَآءَ لَهُم مَّشَوْا۟ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُوا۟ — ışıkta yürümek, karanlıkta durmak)",
+        "25:63 (وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا — yeryüzünde ağırbaşlılık ve dinginlikle yürüyenler)",
+        "67:22 (أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ — yüzüstü sürçerek yürüyen ile dosdoğru yolda dengeli yürüyenin kıyaslanması)",
+        "68:11 (هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ — laf ve dedikodu taşıyarak sürekli gezip duran)"
+      ],
+      "unified_core_mechanism": "Canlının kendi gövdesi veya uzuvlarıyla zemin üzerinde adım adım ilerleyip yer değiştirmesi; buradan hareketle kişinin toplumsal hayatta, ahlaki çizgide veya söz taşıma alışkanlığında izlediği fiilî gidişat ve hareket tarzı.",
+      "grammar_and_branch_rules": "1) Form I Fiil (`مَشَىٰ / يَمْشِى` — 21 geçiş: 1 mâzî `2:20`, 2 emir `38:6, 67:15`, 16 merfû' muzârî, 2 meczûm yasak `17:37, 31:18` `لَا تَمْشِ`): Fiziksel yürüme, pazarlarda ve yurtlarda dolaşma, ışıkta yol alma ve kibirlenmeden yürüme. 2) Masdar (`مَشْى` — 1 geçiş `31:19`): Yürüyüş temposu ve gidişat ölçüsü (`مَشْيِكَ`). 3) Mübalâğa Sıfatı (`مَشَّآء` — 1 geçiş `68:11`): Aralıksız gezip laf taşıyan.",
+      "derivatives": {
+        "مَشَوْا۟ / يَمْشِى / تَمْشِ / ٱمْشُوا۟ (Meşev / Yemşî / Temşi / İmşû)": "Form I Fiil (21 geçiş) — adım adım yürümek, zemin üzerinde yer değiştirmek ve yol almak",
+        "مَشْى (Meşy)": "Masdar İsim (1 geçiş: 31:19) — yürüyüş ve gidişat tarzı",
+        "مَشَّآء (Meşşâ')": "Mübalâğa Sıfatı (1 geçiş: 68:11) — sürekli dolaşıp laf taşıyarak gezen"
       }
     }
   }

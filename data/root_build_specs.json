@@ -45453,5 +45453,125 @@
       }
     ],
     "context_default": "Gecikmeden hızlı hareket etmek ve çabuk sonuç vermek"
+  },
+  "م-ش-ي": {
+    "buckwalter": "m$y",
+    "slug": "m$y",
+    "concept_name": "Meşy ve Meşşâ' (Adım Adım Yürümek, Yer Değiştirmek ve Laf Gezdirmek)",
+    "keywords": [
+      "yürü",
+      "gez",
+      "dolaş",
+      "yol al",
+      "sürün",
+      "git"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ma$oy",
+        "label": "Muzâf mecrûr masdar isim (مَشْيِكَ — 31:19) — yürüyüşün ve gidişat tarzın"
+      },
+      {
+        "lemma": "m~a$~aA^'",
+        "label": "Mübalâğa sıfatı mecrûr (مَّشَّآءٍۭ — 68:11) — sürekli dolaşıp laf taşıyarak gezen"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Bâb I mâzî cemi fiil (مَّشَوْا۟ — 3MP, 2:20) — aydınlıkta adım atıp yürüdüler"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Bâb I emir cemi fiil (ٱمْشُوا۟ / فَٱمْشُوا۟ — 2MP, 38:6, 67:15) — yürüyün, yol alın ve gezin"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "JUS"
+        ],
+        "label": "Bâb I nehiy/meczûm muzâri fiil (لَا تَمْشِ — 2MS, illet yâ'sı düşmüş, 17:37, 31:18) — kibirlenerek yürüme"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "IMPF",
+          "3FS"
+        ],
+        "label": "Bâb I muzâri fiil (تَمْشِى — 3FS, 20:40, 28:25) — yürüyerek gidip geliyordu"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "IMPF",
+          "2MP"
+        ],
+        "label": "Bâb I muzâri fiil (تَمْشُونَ — 2MP, 57:28) — kendisiyle yol alıp yürüyeceğiniz"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "IMPF",
+          "3MP"
+        ],
+        "label": "Bâb I muzâri fiil (يَمْشُونَ — 3MP) — yürürler, dolaşırlar ve gezerler"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "IMPF",
+          "3MS"
+        ],
+        "label": "Bâb I muzâri fiil (يَمْشِى — 3MS) — yürür, ilerler ve yol alır"
+      }
+    ],
+    "irab_default": "Meşy türevi — adım adım yürüme ve yer değiştirme",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "24:45",
+          "7:195",
+          "17:95",
+          "25:7",
+          "25:20",
+          "67:15"
+        ],
+        "text": "Biyolojik ve Beşerî Yürüme Yasası (`7:195`, `17:95`, `24:45`, `25:7,20`, `67:15`): Karın, iki ayak veya dört ayak üzerinde ilerleyen canlılar, pazarlarda yürüyen elçiler, ayakların işlevi ve yeryüzünün omuzlarında rızık için dolaşma."
+      },
+      {
+        "ayahs": [
+          "2:20",
+          "6:122",
+          "57:28",
+          "67:22"
+        ],
+        "text": "Aydınlıkta Yürüyüş ve Doğrultu Kıyaslaması (`2:20`, `6:122`, `57:28`, `67:22`): Işık çakınca yürüme (`2:20`), verilen aydınlıkla toplum içinde yol alma (`6:122`, `57:28`) ve yüzüstü sürçenle dimdik yürüyenin kıyası (`67:22`)."
+      },
+      {
+        "ayahs": [
+          "17:37",
+          "25:63",
+          "28:25",
+          "31:18",
+          "31:19"
+        ],
+        "text": "Yürüyüş Ahlakı, Vakar ve Ölçülülük (`17:37`, `25:63`, `28:25`, `31:18-19`): Yeryüzünde kibirle yürümenin yasaklanması, ağırbaşlı ve hayalı yürüyüş (`25:63`, `28:25`) ve dengeli tempo (`31:19`)."
+      },
+      {
+        "ayahs": [
+          "20:40",
+          "20:128",
+          "32:26",
+          "38:6",
+          "68:11"
+        ],
+        "text": "Tarihsel İzlerde Dolaşma, Mûsâ Kıssası ve Söz Taşıma (`20:40`, `20:128`, `32:26`, `38:6`, `68:11`): Yıkılmış yurtlarda ibretle gezip görme (`20:128`, `32:26`), Mûsâ'nın kız kardeşinin gidişi (`20:40`), direnen önderlerin çağrısı (`38:6`) ve sürekli laf taşıyıp gezen karakter (`68:11`)."
+      }
+    ],
+    "context_default": "Kendi gövde ve uzuvlarıyla adım adım ilerleyip yol alma"
   }
 }
