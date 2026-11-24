@@ -1,0 +1,464 @@
+{
+  "root": "م-ر-ي",
+  "root_latin": "M-R-Y (MRY)",
+  "concept_name": "Mirye, İmtirâ ve Mirâ (Kuşku Kurcalamak ve Karşılıklı Çekişmek)",
+  "rank": 400,
+  "total_occurrences": 20,
+  "unique_ayahs_count": 19,
+  "unified_core_mechanism": "Memeyi sıvazlayıp süt sağar gibi bir konuyu veya delili sağa sola çekiştirip kurcalamak; bundan doğan hakikat/bilgi karşıtı dirençli iç kuşku (`مِرْيَة / ٱمْتِرَاء` — `14` geçiş) ile tarafların birbirinden iddia ve itiraz çektiği sözlü tartışma/çekişme (`مِرَاء / مُمَارَاة / تَمَارِى` — `6` geçiş).",
+  "physical_core": "İbn Fâris'in tespit ettiği somut duyusal çekirdek ('süt sağmak için memeyi art arda sıvazlayıp çekiştirerek içindekini sağmak [مسح شيء واستدراره]'): düşünce ve iletişim alanına taşındığında bir konuyu sağa sola çekiştirip kurcalayarak hakikate karşı dirençli kuşku (`مِرْيَة / ٱمْتِرَاء`) üretmek ve muhataptan söz/karşıtlık çekip çıkarmaya dönük çekişmeye (`مِرَاء / مُمَارَاة`) girmek anlamına oturur.",
+  "dictionary_arbitration": {
+    "ibn_faris": "Mekâyîs kökün somut çekirdeğini 'sıvazlayıp sağarak çıkarmak' (`مَرْيُ الناقة`) olarak belirler ve `مِرَاء` (karşılıklı çekişme/münazara) kelimesini tarafların birbirinden söz ve iddia sağmasına bağlar; `مِرْيَة` (kuşku) kullanımının ise kökten ayrı düştüğünü/özelleştiğini dürüstçe kaydeder.",
+    "lisan_al_arab": "`مَارَىٰ / تَمَارَىٰ` hakikati örten ya da zihni bulandıran çekişme ve tartışmadır; `ٱمْتَرَىٰ` ve `مِرْيَة` ise delile rağmen göğüste kurcalanıp beslenen şüphe ve tereddüttür.",
+    "ragib_mufredat": "Râgıb, İbn Fâris'in ayırdığı iki hattı bütünleştirir: nasıl sağım memeden sütü çekip çıkarırsa, `مِرْيَة` ve `ٱمْتِرَاء` da zihnin ve kişinin kendi içinde şüphe ve itirazları kurcalayıp dışarı çıkarmasıdır; `شَكّ` (`10:94`) iki ihtimal arası pasif duraksama iken `مِرْيَة` kurcalayan aktif kuşkudur.",
+    "arbitration_decision": "Mekâyîs'in dürüst tespiti (Kural #3.1) ile Râgıb'ın iç bağlantı çözümlemesi birlikte korunarak Kur'an'daki `20` geçişin iki eşgüdümlü kolu sabitlenmiştir: (1) delil geldikten sonra zihni sağa sola çekiştirip kurcalama kuşkusu (`مِرْيَة / ٱمْتَرَىٰ / مُـمْتَرِين` — `14` geçiş), (2) sözlü çekişme ve tartışma (`تُمَارِ / مِرَاء / يُمَارُونَ / تَتَمَارَىٰ / تَمَارَوْا۟` — `6` geçiş)."
+  },
+  "semitic_cognates": {
+    "note": "Kuzeybatı ve Orta Sami `*m-r-y/w` köküyle ilişkilidir: İbranice (`BDB` / `HALOT`) `מָרָה` (`mārâ` 'direnmek, karşı çıkmak, inatla başkaldırmak') ve `מְרִי` (`merî` 'dirençli karşıtlık'), Aramice/Süryanice (`CAL`) `mry` ('çekişmek, yarışmak, direnmek') formları Arapça `مِرَاء / تَمَارَىٰ` ('çekişip tartışmak') hattıyla aynı konsonant zincirini paylaşır. Modern `HALOT` literatürü Kuzeybatı Sami 'otoriteye direnç/çekişme' anlamıyla Arapça fiziksel 'sıvazlayıp sağma -> şüphe kurcalama' hattı arasındaki anlamsal mesafeyi korur ve Mısırca `mry` ('sevilen', Meryem adının kökü) ile karıştırılmaması gerektiğini belirtir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ح-ق-ق",
+      "ي-ق-ن",
+      "ع-ل-م",
+      "ب-ي-ن"
+    ],
+    "key_ayahs": [
+      "2:147 & 3:60 & 6:114 & 10:94 (ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ — kesin ilahi gerçeklik ile kuşkuya saplananlar zümresi karşıtlığı)",
+      "11:17 (أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ ... فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ إِنَّهُ ٱلْحَقُّ — açık belge ve gerçeklik karşısında şüphe yasağı)",
+      "18:22 & 43:61 (قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم ... فَلَا تُمَارِ فِيهِمْ / وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا — kesin bilgi karşısında tartışma ve kuşku yasağı)",
+      "42:18 (وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَٰلٍۭ بَعِيدٍ — hakikati bilip yakine erenler ile saat hakkında çekişenlerin kutuplaşması)"
+    ],
+    "reverse_stress_test": "Nesnel gerçeklik (`ح-ق-ق` — `2:147`, `3:60`, `6:114`, `10:94`, `11:17`, `19:34`, `42:18`), kuşkudan arınmış kesinlik (`ي-ق-ن`), kanıtlı bilgi (`ع-ل-م` — `6:114`, `18:22`, `42:18`, `43:61`) ve açık belge (`ب-ي-ن` — `11:17`) tersine çevrildiğinde, `م-ر-ي` kökünün 'hakikat ve delil karşısında sağa sola çekişip şüphe kurcalamak' çekirdeği tüm `20` geçişi %100 kilitler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ش-ك-ك",
+      "ح-ق-ق",
+      "ع-ل-م",
+      "ب-ي-ن",
+      "ر-ج-م",
+      "غ-ي-ب",
+      "ر-أ-ي",
+      "ن-ذ-ر"
+    ],
+    "mechanical_difference": "1) `10:94`: `فَإِن كُنتَ فِى شَكٍّ ... فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ` — `شَكّ` (`ش-ك-ك`) iki ihtimal arasında başlangıçta askıda kalmayı, `مُمْتَرِين` (`م-ر-ي`) ise `لَقَدْ جَآءَكَ ٱلْحَقُّ` aşamasından sonra dahi kuşkuyu kurcalayıp sürdürmeyi ayırır. 2) `18:22`: `رَجْمًۢا بِٱلْغَيْبِ` (bilinmeyene taş atar gibi tahminde bulunmak) vs `أَعْلَمُ بِعِدَّتِهِم` (gerçek sayı bilgisi) vs `مِرَآءً ظَٰهِرًا` (içine batmadan yalnızca dıştan yüzeysel/açık hatırlatma düzeyinde bırakılan tartışma). 3) `53:12` vs `53:55` & `54:36`: `أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ` (bizzat gördüğü olay üzerinde özneyi sıkıştırıp tartışma açmak) vs `تَتَمَارَىٰ / فَتَمَارَوْا۟` (kişinin kendi içinde veya topluca uyarıları kuşkuya çekmesi). 4) `2:147`, `3:60`, `6:114`, `11:17`, `19:34`: `ٱلْحَقُّ` tek başına duran sarsılmaz merkez, `م-ر-ي` ise çevresinde dönüp duran çekiştirme."
+  },
+  "anchor_ayahs": [
+    "10:94 (فَإِن كُنتَ فِى شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ ... لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ — `ش-ك-ك` ile `م-ر-ي` Furûk farkı ve `حَقّ` karşıtlığı)",
+    "18:22 (قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم ... فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَٰهِرًا — aynı ayette III. bab nehyi `تُمَارِ` ve masdar `مِرَآءً`)",
+    "11:17 & 41:54 (فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ / أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ — içsel kuşku kapanı)",
+    "42:18 & 43:61 (إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَٰلٍۭ بَعِيدٍ / وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا — son saat üzerinde çekişme ve kuşku)",
+    "53:12 & 53:55 & 54:36 (أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ / فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ / فَتَمَارَوْا۟ بِٱلنُّذُرِ — gözlem, nimet ve uyarı karşısında tartışma ve kuşku)"
+  ],
+  "grammar_and_branch_rules": "Toplam `20` geçiş (`10` fiil + `10` isim) eşit bölünür ve iki ana anlam kolunda işler: 1) **İçsel Kuşku ve Tereddüt Üretimi (`VIII. Bab` + `مِرْيَة` — `14` geçiş):** VIII. bab `ٱمْتَرَىٰ` (`5` fiil: `6:2`, `15:63`, `19:34`, `43:61`, `44:50`), ism-i fâil `ٱلْمُمْتَرِينَ` (`4` geçiş: `2:147`, `3:60`, `6:114`, `10:94`) ve isim `مِرْيَة` (`5` geçiş: `11:17`, `11:109`, `22:55`, `32:23`, `41:54`). 2) **Karşılıklı Çekişme ve Sözlü Tartışma (`III. / VI. Bab` + `مِرَاء` — `6` geçiş):** `18:22`'de jussive `تُمَارِ` ve masdar `مِرَآءً`, `42:18`'de `يُمَارُونَ`, `53:12`'de `أَفَتُمَٰرُونَهُۥ`, `53:55`'te `تَتَمَارَىٰ` ve `54:36`'da `فَتَمَارَوْا۟`.",
+  "derivatives": {
+    "ٱمْتَرَىٰ / يَمْتَرُونَ / تَمْتَرُنَّ (İmterâ / Yemterûn)": "VIII. Bab Fiil (5 geçiş: 6:2, 15:63, 19:34, 43:61, 44:50) — kurcalayarak kuşkuya düşmek",
+    "ٱلْمُمْتَرِينَ (el-Mumterîn)": "VIII. Bab İsm-i Fâil Çoğul (4 geçiş: 2:147, 3:60, 6:114, 10:94) — hakikate rağmen kuşkuya sapanlar",
+    "مِرْيَة (Mirye)": "İsim (5 geçiş: 11:17, 11:109, 22:55, 32:23, 41:54) — içi kemiren, delile rağmen süren kuşku",
+    "تُمَارِ / يُمَارُونَ / تَتَمَارَىٰ / تَمَارَوْا۟ (Mârâ / Temârâ)": "III. ve VI. Bab Fiil (5 geçiş: 18:22, 42:18, 53:12, 53:55, 54:36) — karşılıklı çekişip tartışmak, itirazla kuşkulanmak",
+    "مِرَآءً (Mirâ'en)": "III. Bab Masdar (1 geçiş: 18:22) — karşılıklı söz çekişmesi ve tartışma"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 147,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:147",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمُمْتَرِينَ",
+      "target_word_rasm": "ٱلممترين",
+      "target_word_literal_irab": "VIII. bab cemi mecrûr ism-i fâil (ٱلْمُمْتَرِينَ — 2:147, 3:60, 6:114, 10:94) — gerçeklikten sonra kuşkuya saplananlar",
+      "context_snippet_arabic": "فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Gerçek, Rabbindendir. Artık sakın şüpheye düşenlerden olma.",
+      "morphology": {
+        "lemma": "mumotariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:mumotariyn|ROOT:mry|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçek, Rabbindendir. Artık sakın şüpheye düşenlerden olma.",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 3,
+      "ayah": 60,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:60",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمُمْتَرِينَ",
+      "target_word_rasm": "ٱلممترين",
+      "target_word_literal_irab": "VIII. bab cemi mecrûr ism-i fâil (ٱلْمُمْتَرِينَ — 2:147, 3:60, 6:114, 10:94) — gerçeklikten sonra kuşkuya saplananlar",
+      "context_snippet_arabic": "فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Gerçek, Rabbindendir, şüphe edenlerden olma artık.",
+      "morphology": {
+        "lemma": "mumotariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:mumotariyn|ROOT:mry|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçek, Rabbindendir, şüphe edenlerden olma artık.",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 6,
+      "ayah": 2,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:2",
+      "word_position": 14,
+      "target_word_uthmani": "تَمْتَرُونَ",
+      "target_word_rasm": "تمترون",
+      "target_word_literal_irab": "VIII. bab muzârî fiil (`تَمْتَرُونَ / يَمْتَرُونَ / تَمْتَرُنَّ` — 6:2, 15:63, 19:34, 43:61, 44:50) — kuşku üretip tereddüt etmek",
+      "context_snippet_arabic": "عِندَهُۥ ثُمَّ أَنتُمْ تَمْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "O, öyle bir sığınak merciidir ki sizi balçıktan yaratmıştır da ölüm vaktini takdir etmiştir ve kıyametin kopacağı zamana ait bilgi de ondadır, onun katındadır, sonra gene de şüphe edersiniz siz.",
+      "morphology": {
+        "lemma": "yamotaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yamotaru|ROOT:mry|2MP"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُۥ ثُمَّ أَنتُمْ تَمْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, öyle bir sığınak merciidir ki sizi balçıktan yaratmıştır da ölüm vaktini takdir etmiştir ve kıyametin kopacağı zamana ait bilgi de ondadır, onun katındadır, sonra gene de şüphe edersiniz siz.",
+      "contextual_meaning": "Belirlenmiş Vade ve Büyük Saat Hakkında Kuşku (`6:2`, `22:55`, `41:54`, `42:18`, `43:61`, `44:50`): Ecel, buluşma anı ve saatin kesinliği üzerinde çekişip şüpheye düşme."
+    },
+    {
+      "surah": 6,
+      "ayah": 114,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:114",
+      "word_position": 23,
+      "target_word_uthmani": "ٱلْمُمْتَرِينَ",
+      "target_word_rasm": "ٱلممترين",
+      "target_word_literal_irab": "VIII. bab cemi mecrûr ism-i fâil (ٱلْمُمْتَرِينَ — 2:147, 3:60, 6:114, 10:94) — gerçeklikten sonra kuşkuya saplananlar",
+      "context_snippet_arabic": "فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Kendilerine kitap verilenler de bilirler ki o, senin Rabbin tarafından gerçek olarak indirilmiş bir kitaptır; artık şüphe edenlerden olma.",
+      "morphology": {
+        "lemma": "mumotariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:mumotariyn|ROOT:mry|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَٰبَ مُفَصَّلًا وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌ مِّن رَّبِّكَ بِٱلْحَقِّ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'tan başka bir hakem mi arayayım ki size, her muhtaç olduğunuz şeyi bildirip açıklayan kitabı, o indirmiştir. Kendilerine kitap verilenler de bilirler ki o, senin Rabbin tarafından gerçek olarak indirilmiş bir kitaptır; artık şüphe edenlerden olma.",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 10,
+      "ayah": 94,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:94",
+      "word_position": 22,
+      "target_word_uthmani": "ٱلْمُمْتَرِينَ",
+      "target_word_rasm": "ٱلممترين",
+      "target_word_literal_irab": "VIII. bab cemi mecrûr ism-i fâil (ٱلْمُمْتَرِينَ — 2:147, 3:60, 6:114, 10:94) — gerçeklikten sonra kuşkuya saplananlar",
+      "context_snippet_arabic": "فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sana indirdiğimiz şeyde şüpheye düşersen (imkan yok ya), senden önce kitap okuyanlara sor. Andolsun ki gerçek, Rabbinden gelmiştir sana, artık şüphelenenlerden olma.",
+      "morphology": {
+        "lemma": "mumotariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:mumotariyn|ROOT:mry|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِن كُنتَ فِى شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَٰبَ مِن قَبْلِكَ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana indirdiğimiz şeyde şüpheye düşersen (imkan yok ya), senden önce kitap okuyanlara sor. Andolsun ki gerçek, Rabbinden gelmiştir sana, artık şüphelenenlerden olma.",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 11,
+      "ayah": 17,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:17",
+      "word_position": 29,
+      "target_word_uthmani": "مِرْيَةٍ",
+      "target_word_rasm": "مرية",
+      "target_word_literal_irab": "Fî harf-i ceriyle mecrûr isim (`فِى مِرْيَةٍ` — 11:17, 11:109, 22:55, 32:23, 41:54) — delile karşı içsel kuşku hâli",
+      "context_snippet_arabic": "فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ إِنَّهُ ٱلْحَقُّ",
+      "context_snippet_turkish_tabula_rasa": "... Artık bu hususta şüpheye düşme, çünkü o, Rabbinden gelmedir, gerçektir, fakat insanların çoğu güven duy.",
+      "morphology": {
+        "lemma": "miroyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miroyap|ROOT:mry|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinden apaçık bir delile sahip olan, bundan başka bir de tanığı olup daha önce yaşam ve hesap sistemi ve dünya işlerinde uyulan ve aynı rahmet olan Musa'nın kitabında da bildirilen kişi, yalnız dünyayı dileyene benzer mi? Rablerinden açık bir delile sahib olanlar, Kur'an'a güven duyup emin olurlar; topluluklardan onu gerçeğin üzerini örtenlere vaadedilen yerse ateştir. Artık bu hususta şüpheye düşme, çünkü o, Rabbinden gelmedir, gerçektir, fakat insanların çoğu güven duy.",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 11,
+      "ayah": 109,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:109",
+      "word_position": 4,
+      "target_word_uthmani": "مِرْيَةٍ",
+      "target_word_rasm": "مرية",
+      "target_word_literal_irab": "Fî harf-i ceriyle mecrûr isim (`فِى مِرْيَةٍ` — 11:17, 11:109, 22:55, 32:23, 41:54) — delile karşı içsel kuşku hâli",
+      "context_snippet_arabic": "فَلَا تَكُ فِى مِرْيَةٍ مِّمَّا يَعْبُدُ هَٰٓؤُلَآءِ",
+      "context_snippet_turkish_tabula_rasa": "Artık bunların taptıkları şeylerin boşluğunda bir şüphen olmasın; önceden ataları nasıl tapıyorsa onlar da tıpkı o çeşit tapıyorlar ve biz de onların nasibini eksiksiz olarak vereceğiz.",
+      "morphology": {
+        "lemma": "miroyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miroyap|ROOT:mry|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَا تَكُ فِى مِرْيَةٍ مِّمَّا يَعْبُدُ هَٰٓؤُلَآءِ مَا يَعْبُدُونَ إِلَّا كَمَا يَعْبُدُ ءَابَآؤُهُم مِّن قَبْلُ وَإِنَّا لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık bunların taptıkları şeylerin boşluğunda bir şüphen olmasın; önceden ataları nasıl tapıyorsa onlar da tıpkı o çeşit tapıyorlar ve biz de onların nasibini eksiksiz olarak vereceğiz.",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 15,
+      "ayah": 63,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:63",
+      "word_position": 7,
+      "target_word_uthmani": "يَمْتَرُونَ",
+      "target_word_rasm": "يمترون",
+      "target_word_literal_irab": "VIII. bab muzârî fiil (`تَمْتَرُونَ / يَمْتَرُونَ / تَمْتَرُنَّ` — 6:2, 15:63, 19:34, 43:61, 44:50) — kuşku üretip tereddüt etmek",
+      "context_snippet_arabic": "بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, biz dediler, onların şüphe ettikleri şeyi getirdik.",
+      "morphology": {
+        "lemma": "yamotaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yamotaru|ROOT:mry|3MP"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ بَلْ جِئْنَٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, biz dediler, onların şüphe ettikleri şeyi getirdik.",
+      "contextual_meaning": "Tarihî Anlatılar, Gözlem ve Tartışma Sınırı (`15:63`, `18:22`, `53:12`, `54:36`): Lût toplumu ve önceki uyarılardaki kuşku, Ashâb-ı Kehf sayısında yüzeysel tartışma sınırı ve elçinin gördüğü üzerinde münakaşa."
+    },
+    {
+      "surah": 18,
+      "ayah": 22,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:22",
+      "word_position": 24,
+      "target_word_uthmani": "تُمَارِ",
+      "target_word_rasm": "تمار",
+      "target_word_literal_irab": "III. bab mezcûm nehy-i hâzır fiili (فَلَا تُمَارِ — 18:22, yâ harfi düşmüş) — onlar hakkında çekişmeye girme",
+      "context_snippet_arabic": "إِلَّا قَلِيلٌ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً",
+      "context_snippet_turkish_tabula_rasa": "Diyecekler ki onlar üçtü, dördüncüleri, köpekleri ve beş taneydi onlar, altıncıları köpekleri; fakat bu sözler, ortada olmayan hedefe boşuna taş atmak ve...",
+      "morphology": {
+        "lemma": "tumaAri",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:tumaAri|ROOT:mry|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُونَ ثَلَٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Diyecekler ki onlar üçtü, dördüncüleri, köpekleri ve beş taneydi onlar, altıncıları köpekleri; fakat bu sözler, ortada olmayan hedefe boşuna taş atmak ve diyecekler ki yedi taneydi onlar, sekizincileri köpekleri. De ki: Onların sayısını Rabbim daha iyi bilir, onları pek az kişi bilir ancak. Artık sen de onlar hakkında sana açıkladığımıza razı ol da fazla münakaşaya, mübahaseye girişme ve onlara dair kitap hakkında bir hüküm dilemeye kalkışma.",
+      "contextual_meaning": "Tarihî Anlatılar, Gözlem ve Tartışma Sınırı (`15:63`, `18:22`, `53:12`, `54:36`): Lût toplumu ve önceki uyarılardaki kuşku, Ashâb-ı Kehf sayısında yüzeysel tartışma sınırı ve elçinin gördüğü üzerinde münakaşa."
+    },
+    {
+      "surah": 18,
+      "ayah": 22,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:22",
+      "word_position": 27,
+      "target_word_uthmani": "مِرَآءً",
+      "target_word_rasm": "مراء",
+      "target_word_literal_irab": "Mansûb mef'ûlün mutlak (مِرَآءً ظَٰهِرًا — 18:22, istisnâ-i müferrağ) — yalnızca dıştan/yüzeysel tartışma",
+      "context_snippet_arabic": "تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَٰهِرًا وَلَا تَسْتَفْتِ",
+      "context_snippet_turkish_tabula_rasa": "Diyecekler ki onlar üçtü, dördüncüleri, köpekleri ve beş taneydi onlar, altıncıları köpekleri; fakat bu sözler, ortada olmayan hedefe boşuna taş atmak ve...",
+      "morphology": {
+        "lemma": "miraA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miraA^'|ROOT:mry|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُونَ ثَلَٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Diyecekler ki onlar üçtü, dördüncüleri, köpekleri ve beş taneydi onlar, altıncıları köpekleri; fakat bu sözler, ortada olmayan hedefe boşuna taş atmak ve diyecekler ki yedi taneydi onlar, sekizincileri köpekleri. De ki: Onların sayısını Rabbim daha iyi bilir, onları pek az kişi bilir ancak. Artık sen de onlar hakkında sana açıkladığımıza razı ol da fazla münakaşaya, mübahaseye girişme ve onlara dair kitap hakkında bir hüküm dilemeye kalkışma.",
+      "contextual_meaning": "Tarihî Anlatılar, Gözlem ve Tartışma Sınırı (`15:63`, `18:22`, `53:12`, `54:36`): Lût toplumu ve önceki uyarılardaki kuşku, Ashâb-ı Kehf sayısında yüzeysel tartışma sınırı ve elçinin gördüğü üzerinde münakaşa."
+    },
+    {
+      "surah": 19,
+      "ayah": 34,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:34",
+      "word_position": 9,
+      "target_word_uthmani": "يَمْتَرُونَ",
+      "target_word_rasm": "يمترون",
+      "target_word_literal_irab": "VIII. bab muzârî fiil (`تَمْتَرُونَ / يَمْتَرُونَ / تَمْتَرُنَّ` — 6:2, 15:63, 19:34, 43:61, 44:50) — kuşku üretip tereddüt etmek",
+      "context_snippet_arabic": "ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "İşte budur Meryemoğlu İsa. Onların şüpheye düştükleri şey hakkında gerçek söz, budur.",
+      "morphology": {
+        "lemma": "yamotaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yamotaru|ROOT:mry|3MP"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte budur Meryemoğlu İsa. Onların şüpheye düştükleri şey hakkında gerçek söz, budur.",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 22,
+      "ayah": 55,
+      "surah_name": "Hac",
+      "ayah_ref": "22:55",
+      "word_position": 6,
+      "target_word_uthmani": "مِرْيَةٍ",
+      "target_word_rasm": "مرية",
+      "target_word_literal_irab": "Fî harf-i ceriyle mecrûr isim (`فِى مِرْيَةٍ` — 11:17, 11:109, 22:55, 32:23, 41:54) — delile karşı içsel kuşku hâli",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten olanlarsa, kıyamet gelip çatmadıkça, yahut o kısır gün, onlara gelmedikçe onun hakkında şüphe etmekten kurtulamazlar.",
+      "morphology": {
+        "lemma": "miroyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miroyap|ROOT:mry|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten olanlarsa, kıyamet gelip çatmadıkça, yahut o kısır gün, onlara gelmedikçe onun hakkında şüphe etmekten kurtulamazlar.",
+      "contextual_meaning": "Belirlenmiş Vade ve Büyük Saat Hakkında Kuşku (`6:2`, `22:55`, `41:54`, `42:18`, `43:61`, `44:50`): Ecel, buluşma anı ve saatin kesinliği üzerinde çekişip şüpheye düşme."
+    },
+    {
+      "surah": 32,
+      "ayah": 23,
+      "surah_name": "Secde",
+      "ayah_ref": "32:23",
+      "word_position": 8,
+      "target_word_uthmani": "مِرْيَةٍ",
+      "target_word_rasm": "مرية",
+      "target_word_literal_irab": "Fî harf-i ceriyle mecrûr isim (`فِى مِرْيَةٍ` — 11:17, 11:109, 22:55, 32:23, 41:54) — delile karşı içsel kuşku hâli",
+      "context_snippet_arabic": "فَلَا تَكُن فِى مِرْيَةٍ مِّن لِّقَآئِهِۦ وَجَعَلْنَٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki Musa'ya da kitap vermiştik, ona kavuşacağında şüphen olmasın ve biz, İsrailoğullarına o kitabı, doğru yolu gösteren bir rehber yapmıştık.",
+      "morphology": {
+        "lemma": "miroyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miroyap|ROOT:mry|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ فَلَا تَكُن فِى مِرْيَةٍ مِّن لِّقَآئِهِۦ وَجَعَلْنَٰهُ هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki Musa'ya da kitap vermiştik, ona kavuşacağında şüphen olmasın ve biz, İsrailoğullarına o kitabı, doğru yolu gösteren bir rehber yapmıştık.",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 41,
+      "ayah": 54,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:54",
+      "word_position": 4,
+      "target_word_uthmani": "مِرْيَةٍ",
+      "target_word_rasm": "مرية",
+      "target_word_literal_irab": "Fî harf-i ceriyle mecrûr isim (`فِى مِرْيَةٍ` — 11:17, 11:109, 22:55, 32:23, 41:54) — delile karşı içsel kuşku hâli",
+      "context_snippet_arabic": "أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ",
+      "context_snippet_turkish_tabula_rasa": "İyice bil ki onlar, şüphe yok, Rablerine kavuşacaklarından şüphe etmedeler; iyice bil ki şüphe yok, o, her şeyi kuşatmış, kavramıştır.",
+      "morphology": {
+        "lemma": "miroyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miroyap|ROOT:mry|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ أَلَآ إِنَّهُۥ بِكُلِّ شَىْءٍ مُّحِيطٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "İyice bil ki onlar, şüphe yok, Rablerine kavuşacaklarından şüphe etmedeler; iyice bil ki şüphe yok, o, her şeyi kuşatmış, kavramıştır.",
+      "contextual_meaning": "Belirlenmiş Vade ve Büyük Saat Hakkında Kuşku (`6:2`, `22:55`, `41:54`, `42:18`, `43:61`, `44:50`): Ecel, buluşma anı ve saatin kesinliği üzerinde çekişip şüpheye düşme."
+    },
+    {
+      "surah": 42,
+      "ayah": 18,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:18",
+      "word_position": 17,
+      "target_word_uthmani": "يُمَارُونَ",
+      "target_word_rasm": "يمارون",
+      "target_word_literal_irab": "III./VI. bab çekişme ve itiraz fiili (`يُمَارُونَ / أَفَتُمَٰرُونَهُۥ / تَتَمَارَىٰ / فَتَمَارَوْا۟` — 42:18, 53:12, 53:55, 54:36) — çekişip kuşkuya kapılmak",
+      "context_snippet_arabic": "أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى",
+      "context_snippet_turkish_tabula_rasa": "... iyice bil ki kıyametten şüphe edip o hususta mücadeleye girişenler, elbette doğrudan pek uzak bir sapıklık içindedir.",
+      "morphology": {
+        "lemma": "tamaAra",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:tamaAra|ROOT:mry|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَٰلٍۭ بَعِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Buna güven duy, çabuk gelmesini isterler ve güven duy gelip çatmasından korkarlar ve bilirler ki o, gerçektir; iyice bil ki kıyametten şüphe edip o hususta mücadeleye girişenler, elbette doğrudan pek uzak bir sapıklık içindedir.",
+      "contextual_meaning": "Belirlenmiş Vade ve Büyük Saat Hakkında Kuşku (`6:2`, `22:55`, `41:54`, `42:18`, `43:61`, `44:50`): Ecel, buluşma anı ve saatin kesinliği üzerinde çekişip şüpheye düşme."
+    },
+    {
+      "surah": 43,
+      "ayah": 61,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:61",
+      "word_position": 5,
+      "target_word_uthmani": "تَمْتَرُنَّ",
+      "target_word_rasm": "تمترن",
+      "target_word_literal_irab": "VIII. bab muzârî fiil (`تَمْتَرُونَ / يَمْتَرُونَ / تَمْتَرُنَّ` — 6:2, 15:63, 19:34, 43:61, 44:50) — kuşku üretip tereddüt etmek",
+      "context_snippet_arabic": "لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَٱتَّبِعُونِ هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "Onun gökten inmesi, kıyametin yaklaştığını bildirir, sakın kıyamet hakkında şüpheye düşmeyin ve uyun bana; budur doğru yol.",
+      "morphology": {
+        "lemma": "yamotaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yamotaru|ROOT:mry|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَٱتَّبِعُونِ هَٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onun gökten inmesi, kıyametin yaklaştığını bildirir, sakın kıyamet hakkında şüpheye düşmeyin ve uyun bana; budur doğru yol.",
+      "contextual_meaning": "Belirlenmiş Vade ve Büyük Saat Hakkında Kuşku (`6:2`, `22:55`, `41:54`, `42:18`, `43:61`, `44:50`): Ecel, buluşma anı ve saatin kesinliği üzerinde çekişip şüpheye düşme."
+    },
+    {
+      "surah": 44,
+      "ayah": 50,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:50",
+      "word_position": 6,
+      "target_word_uthmani": "تَمْتَرُونَ",
+      "target_word_rasm": "تمترون",
+      "target_word_literal_irab": "VIII. bab muzârî fiil (`تَمْتَرُونَ / يَمْتَرُونَ / تَمْتَرُنَّ` — 6:2, 15:63, 19:34, 43:61, 44:50) — kuşku üretip tereddüt etmek",
+      "context_snippet_arabic": "مَا كُنتُم بِهِۦ تَمْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de buydu şüphe ettiğiniz.",
+      "morphology": {
+        "lemma": "yamotaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yamotaru|ROOT:mry|2MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de buydu şüphe ettiğiniz.",
+      "contextual_meaning": "Belirlenmiş Vade ve Büyük Saat Hakkında Kuşku (`6:2`, `22:55`, `41:54`, `42:18`, `43:61`, `44:50`): Ecel, buluşma anı ve saatin kesinliği üzerinde çekişip şüpheye düşme."
+    },
+    {
+      "surah": 53,
+      "ayah": 12,
+      "surah_name": "Necm",
+      "ayah_ref": "53:12",
+      "word_position": 1,
+      "target_word_uthmani": "أَفَتُمَٰرُونَهُۥ",
+      "target_word_rasm": "أفتمرونه",
+      "target_word_literal_irab": "III./VI. bab çekişme ve itiraz fiili (`يُمَارُونَ / أَفَتُمَٰرُونَهُۥ / تَتَمَارَىٰ / فَتَمَارَوْا۟` — 42:18, 53:12, 53:55, 54:36) — çekişip kuşkuya kapılmak",
+      "context_snippet_arabic": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Hala münakaşa mı edersiniz gördüğü şeyleri?",
+      "morphology": {
+        "lemma": "tamaAra",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:tamaAra|ROOT:mry|2MP"
+      },
+      "ayah_text_arabic_full": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Hala münakaşa mı edersiniz gördüğü şeyleri?",
+      "contextual_meaning": "Tarihî Anlatılar, Gözlem ve Tartışma Sınırı (`15:63`, `18:22`, `53:12`, `54:36`): Lût toplumu ve önceki uyarılardaki kuşku, Ashâb-ı Kehf sayısında yüzeysel tartışma sınırı ve elçinin gördüğü üzerinde münakaşa."
+    },
+    {
+      "surah": 53,
+      "ayah": 55,
+      "surah_name": "Necm",
+      "ayah_ref": "53:55",
+      "word_position": 4,
+      "target_word_uthmani": "تَتَمَارَىٰ",
+      "target_word_rasm": "تتمارى",
+      "target_word_literal_irab": "III./VI. bab çekişme ve itiraz fiili (`يُمَارُونَ / أَفَتُمَٰرُونَهُۥ / تَتَمَارَىٰ / فَتَمَارَوْا۟` — 42:18, 53:12, 53:55, 54:36) — çekişip kuşkuya kapılmak",
+      "context_snippet_arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Artık Rabbinin hangi nimetinden şüphe etmedesin?",
+      "morphology": {
+        "lemma": "tamaAra",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:tamaAra|ROOT:mry|2MS"
+      },
+      "ayah_text_arabic_full": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık Rabbinin hangi nimetinden şüphe etmedesin?",
+      "contextual_meaning": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+    },
+    {
+      "surah": 54,
+      "ayah": 36,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:36",
+      "word_position": 4,
+      "target_word_uthmani": "فَتَمَارَوْا۟",
+      "target_word_rasm": "فتماروا",
+      "target_word_literal_irab": "III./VI. bab çekişme ve itiraz fiili (`يُمَارُونَ / أَفَتُمَٰرُونَهُۥ / تَتَمَارَىٰ / فَتَمَارَوْا۟` — 42:18, 53:12, 53:55, 54:36) — çekişip kuşkuya kapılmak",
+      "context_snippet_arabic": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki o, bizim helakimizle korkutmuştu onları da onlar, bu korkutuşlardan şüpheye düşmüşlerdi.",
+      "morphology": {
+        "lemma": "tamaAra",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:tamaAra|ROOT:mry|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki o, bizim helakimizle korkutmuştu onları da onlar, bu korkutuşlardan şüpheye düşmüşlerdi.",
+      "contextual_meaning": "Tarihî Anlatılar, Gözlem ve Tartışma Sınırı (`15:63`, `18:22`, `53:12`, `54:36`): Lût toplumu ve önceki uyarılardaki kuşku, Ashâb-ı Kehf sayısında yüzeysel tartışma sınırı ve elçinin gördüğü üzerinde münakaşa."
+    }
+  ]
+}

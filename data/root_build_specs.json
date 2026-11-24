@@ -46081,5 +46081,81 @@
       }
     ],
     "context_default": "Bilinçli yapım, tasarım ve kasıtlı eylem bağlamı"
+  },
+  "م-ر-ي": {
+    "buckwalter": "mry",
+    "slug": "mry",
+    "concept_name": "Mirye, İmtirâ ve Mirâ (Kuşku Kurcalamak ve Karşılıklı Çekişmek)",
+    "keywords": [
+      "kuşku",
+      "şüphe",
+      "çekişmek",
+      "tartışmak",
+      "tereddüt"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "miraA^'",
+        "label": "Mansûb mef'ûlün mutlak (مِرَآءً ظَٰهِرًا — 18:22, istisnâ-i müferrağ) — yalnızca dıştan/yüzeysel tartışma"
+      },
+      {
+        "lemma": "tumaAri",
+        "label": "III. bab mezcûm nehy-i hâzır fiili (فَلَا تُمَارِ — 18:22, yâ harfi düşmüş) — onlar hakkında çekişmeye girme"
+      },
+      {
+        "lemma": "tamaAra",
+        "label": "III./VI. bab çekişme ve itiraz fiili (`يُمَارُونَ / أَفَتُمَٰرُونَهُۥ / تَتَمَارَىٰ / فَتَمَارَوْا۟` — 42:18, 53:12, 53:55, 54:36) — çekişip kuşkuya kapılmak"
+      },
+      {
+        "lemma": "mumotariyn",
+        "label": "VIII. bab cemi mecrûr ism-i fâil (ٱلْمُمْتَرِينَ — 2:147, 3:60, 6:114, 10:94) — gerçeklikten sonra kuşkuya saplananlar"
+      },
+      {
+        "lemma": "miroyap",
+        "label": "Fî harf-i ceriyle mecrûr isim (`فِى مِرْيَةٍ` — 11:17, 11:109, 22:55, 32:23, 41:54) — delile karşı içsel kuşku hâli"
+      },
+      {
+        "lemma": "yamotaru",
+        "label": "VIII. bab muzârî fiil (`تَمْتَرُونَ / يَمْتَرُونَ / تَمْتَرُنَّ` — 6:2, 15:63, 19:34, 43:61, 44:50) — kuşku üretip tereddüt etmek"
+      }
+    ],
+    "irab_default": "Mirye / Mirâ türevi — hakikat karşısında kuşkuya kapılmak veya çekişmek",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:147",
+          "3:60",
+          "6:114",
+          "10:94",
+          "11:17",
+          "11:109",
+          "19:34",
+          "32:23",
+          "53:55"
+        ],
+        "text": "Hakikat ve Vahiy Önünde Kuşku Yasağı (`2:147`, `3:60`, `6:114`, `10:94`, `11:17,109`, `19:34`, `32:23`, `53:55`): Rabden gelen apaçık gerçek ve belge sonrasında kuşkuya kapılanlardan olmama uyarısı."
+      },
+      {
+        "ayahs": [
+          "6:2",
+          "22:55",
+          "41:54",
+          "42:18",
+          "43:61",
+          "44:50"
+        ],
+        "text": "Belirlenmiş Vade ve Büyük Saat Hakkında Kuşku (`6:2`, `22:55`, `41:54`, `42:18`, `43:61`, `44:50`): Ecel, buluşma anı ve saatin kesinliği üzerinde çekişip şüpheye düşme."
+      },
+      {
+        "ayahs": [
+          "15:63",
+          "18:22",
+          "53:12",
+          "54:36"
+        ],
+        "text": "Tarihî Anlatılar, Gözlem ve Tartışma Sınırı (`15:63`, `18:22`, `53:12`, `54:36`): Lût toplumu ve önceki uyarılardaki kuşku, Ashâb-ı Kehf sayısında yüzeysel tartışma sınırı ve elçinin gördüğü üzerinde münakaşa."
+      }
+    ],
+    "context_default": "Hakikat ve delil karşısında kuşku ve çekişme bağlamı"
   }
 }
