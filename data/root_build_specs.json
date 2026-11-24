@@ -46703,5 +46703,66 @@
       }
     ],
     "context_default": "Yerinden kopup seferber olma, hareketli ekip veya ürküp uzaklaşma bağlamı"
+  },
+  "م-ك-ن": {
+    "buckwalter": "mkn",
+    "slug": "mkn",
+    "concept_name": "Temkîn ve Mekîn (Sağlam Zeminde Yerleştirme, İmkân ve Korunaklı Konum)",
+    "keywords": [
+      "imkan",
+      "yerleşim",
+      "iktidar",
+      "sağlamlık",
+      "korunaklı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mak~a",
+        "label": "Bab II fiil (`مَكَّنَّا / نُمَكِّن / لَيُمَكِّنَنَّ / مَكَّنِّى` — 13 geçiş) — yeryüzünde sağlam zemin, yerleşiklik ve imkân sağlamak"
+      },
+      {
+        "lemma": ">amokana",
+        "label": "Bab IV fiil (`فَأَمْكَنَ` — 8:71) — ihanet edenlere karşı üstün kontrol ve imkân vermek"
+      },
+      {
+        "lemma": "m~akiyn",
+        "label": "İsim/sıfat (`مَكِينٌ / مَّكِينٍ` — 12:54, 23:13, 77:21, 81:20) — sarsılmaz, güvenilir veya korunaklı konum"
+      }
+    ],
+    "irab_default": "Temkîn türevi — sağlam konumda sabitlemek ve güç/imkân kazandırmak",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:6",
+          "7:10",
+          "22:41",
+          "24:55",
+          "28:6",
+          "28:57",
+          "46:26"
+        ],
+        "text": "Toplumsal Yerleşiklik, İktidar ve Sorumluluk Yasası (`6:6`, `7:10`, `22:41`, `24:55`, `28:6,57`, `46:26`): Yeryüzü imkânlarının geçim, adalet ve güven içinde inşa sorumluluğu."
+      },
+      {
+        "ayahs": [
+          "8:71",
+          "12:21",
+          "12:54",
+          "12:56",
+          "18:84",
+          "18:95"
+        ],
+        "text": "Yönetim Yetkisi, Sebeplere Hakimiyet ve Kriz Aşma (`8:71`, `12:21,54,56`, `18:84,95`): Yûsuf ve Zülkarneyn örneklerinde ilahi imkânın bilgi, adalet ve koruma amaçlı kullanımı."
+      },
+      {
+        "ayahs": [
+          "23:13",
+          "77:21",
+          "81:20"
+        ],
+        "text": "Korunaklı Biyolojik Yuva ve Kozmik Makam (`23:13`, `77:21`, `81:20`): Nutfenin korunduğu sağlam yerleşim mekânı ve vahiy elçisinin Arş katındaki sarsılmaz mevkii."
+      }
+    ],
+    "context_default": "Sağlam yerleştirme, imkân verme veya korunaklı konum bağlamı"
   }
 }

@@ -1,0 +1,939 @@
+{
+  "package": "Faz 1 - Etap 3I (18-13 Geçiş Çekirdek Zırhı ve +4 Sure %100 Tam Kilidi [Sure 104, 62, 105, 111 -> 29 Sure] — 50 Kök -> 700 Kök)",
+  "target_count": 50,
+  "locked_count": 1,
+  "total_tokens_in_package": 558,
+  "total_corpus_tokens": 49968,
+  "current_coverage_pct": 93.16,
+  "target_coverage_pct": 94.24,
+  "etap_3i_roots": [
+    {
+      "etap_3i_rank": 1,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 430,
+      "root_arabic": "م-ك-ن",
+      "root_latin": "M-K-N",
+      "buckwalter": "mkn",
+      "frequency": 18,
+      "unique_ayahs": 16,
+      "rationale": "Temkîn ve Mekîn (18 geçiş / 16 ayet: 6:6, 7:10, 8:71, 12:21, 12:54 sağlam zemin, yerleşik güç ve korunaklı konum)",
+      "concept_label": "Temkîn ve Mekîn (Sağlam Zeminde Yerleştirme, İmkân ve Korunaklı Konum)",
+      "is_locked": true,
+      "sample_ayah": "6:6",
+      "top_lemmas": [
+        "mak~a",
+        "m~akiyn",
+        ">amokana"
+      ]
+    },
+    {
+      "etap_3i_rank": 2,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 445,
+      "root_arabic": "م-د-ن",
+      "root_latin": "M-D-N",
+      "buckwalter": "mdn",
+      "frequency": 17,
+      "unique_ayahs": 17,
+      "rationale": "Medîne ve Medâin (17 geçiş / 17 ayet: 7:111, 7:123, 9:101, 9:120, 12:30 düzenli şehir ve uygar yerleşim merkezi)",
+      "concept_label": "Analiz Bekliyor (madiynap, madaA^}in)",
+      "is_locked": false,
+      "sample_ayah": "7:111",
+      "top_lemmas": [
+        "madiynap",
+        "madaA^}in"
+      ]
+    },
+    {
+      "etap_3i_rank": 3,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 434,
+      "root_arabic": "ب-و-أ",
+      "root_latin": "B-W-E",
+      "buckwalter": "bwA",
+      "frequency": 17,
+      "unique_ayahs": 16,
+      "rationale": "Bev' ve Tebevvü' (17 geçiş / 16 ayet: 2:61, 2:90, 3:112, 3:121, 3:162 bir yere yerleşmek, konaklamak ve dönüp yüklenmek)",
+      "concept_label": "Analiz Bekliyor (baA^'a, baw~a>a, yatabaw~a>u, mubaw~a>)",
+      "is_locked": false,
+      "sample_ayah": "2:61",
+      "top_lemmas": [
+        "baA^'a",
+        "baw~a>a",
+        "yatabaw~a>u",
+        "mubaw~a>"
+      ]
+    },
+    {
+      "etap_3i_rank": 4,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 444,
+      "root_arabic": "س-و-ق",
+      "root_latin": "S-W-K",
+      "buckwalter": "swq",
+      "frequency": 17,
+      "unique_ayahs": 16,
+      "rationale": "Sevk, Sâk ve Esveâk (17 geçiş / 16 ayet: 7:57, 8:6, 19:86, 25:7, 25:20 gütmek/sevk etmek, baldır ve çarşı)",
+      "concept_label": "Analiz Bekliyor (siyqa, s~uwq, saAq, saA^}iq)",
+      "is_locked": false,
+      "sample_ayah": "7:57",
+      "top_lemmas": [
+        "siyqa",
+        "s~uwq",
+        "saAq",
+        "saA^}iq"
+      ]
+    },
+    {
+      "etap_3i_rank": 5,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 440,
+      "root_arabic": "ر-ب-ص",
+      "root_latin": "R-B-S",
+      "buckwalter": "rbS",
+      "frequency": 17,
+      "unique_ayahs": 12,
+      "rationale": "Terabbus ve Müterabbis (17 geçiş / 12 ayet: 2:226, 2:228, 2:234, 4:141, 9:24 fırsat veya süre tamamlanmasını beklemek/gözetlemek)",
+      "concept_label": "Analiz Bekliyor (tarab~aSo, m~utarab~iS, tarab~uS)",
+      "is_locked": false,
+      "sample_ayah": "2:226",
+      "top_lemmas": [
+        "tarab~aSo",
+        "m~utarab~iS",
+        "tarab~uS"
+      ]
+    },
+    {
+      "etap_3i_rank": 6,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 455,
+      "root_arabic": "ع-ت-د",
+      "root_latin": "A-T-D",
+      "buckwalter": "Etd",
+      "frequency": 16,
+      "unique_ayahs": 16,
+      "rationale": "Atîd ve A'tede (16 geçiş / 16 ayet: 4:18, 4:37, 4:151, 4:161, 12:31 eksiği kalmamış şekilde önceden hazırlayıp hazır bekletmek)",
+      "concept_label": "Analiz Bekliyor (>aEotadato, Eatiyd)",
+      "is_locked": false,
+      "sample_ayah": "4:18",
+      "top_lemmas": [
+        ">aEotadato",
+        "Eatiyd"
+      ]
+    },
+    {
+      "etap_3i_rank": 7,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 453,
+      "root_arabic": "غ-د-و",
+      "root_latin": "G-D-W",
+      "buckwalter": "gdw",
+      "frequency": 16,
+      "unique_ayahs": 16,
+      "rationale": "Gudüvv ve Gad (16 geçiş / 16 ayet: 3:121, 6:52, 7:205, 12:12, 13:15 sabahın ilk aydınlık vakti, erkenden çıkış ve yarın)",
+      "concept_label": "Analiz Bekliyor (guduw~, gad, gada, gadaw`p)",
+      "is_locked": false,
+      "sample_ayah": "3:121",
+      "top_lemmas": [
+        "guduw~",
+        "gad",
+        "gada",
+        "gadaw`p"
+      ]
+    },
+    {
+      "etap_3i_rank": 8,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 450,
+      "root_arabic": "م-ه-د",
+      "root_latin": "M-H-D",
+      "buckwalter": "mhd",
+      "frequency": 16,
+      "unique_ayahs": 15,
+      "rationale": "Mehd, Mihâd ve Temhîd (16 geçiş / 15 ayet: 2:206, 3:12, 3:46, 3:197, 5:110 beşikten yayvan döşeğe kadar düzleştirip hazırlanan zemin)",
+      "concept_label": "Analiz Bekliyor (miha`d, mahod, yamohadu, ma`hiduwn)",
+      "is_locked": false,
+      "sample_ayah": "2:206",
+      "top_lemmas": [
+        "miha`d",
+        "mahod",
+        "yamohadu",
+        "ma`hiduwn"
+      ]
+    },
+    {
+      "etap_3i_rank": 9,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 459,
+      "root_arabic": "ك-ي-ل",
+      "root_latin": "K-Y-L",
+      "buckwalter": "kyl",
+      "frequency": 16,
+      "unique_ayahs": 13,
+      "rationale": "Keyl, Mikyâl ve İktiyâl (16 geçiş / 13 ayet: 6:152, 7:85, 11:84, 11:85, 12:59 hacim ölçüsü ve hak ölçüsünü tam teslim etmek)",
+      "concept_label": "Analiz Bekliyor (kayol, mikoyaAl, {kotaAlu, kaAlu)",
+      "is_locked": false,
+      "sample_ayah": "6:152",
+      "top_lemmas": [
+        "kayol",
+        "mikoyaAl",
+        "{kotaAlu",
+        "kaAlu"
+      ]
+    },
+    {
+      "etap_3i_rank": 10,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 461,
+      "root_arabic": "س-و-م",
+      "root_latin": "S-W-M",
+      "buckwalter": "swm",
+      "frequency": 15,
+      "unique_ayahs": 15,
+      "rationale": "Sevm, Sîmâ ve Müsevvem (15 geçiş / 15 ayet: 2:49, 2:273, 3:14, 3:125, 7:46 belirgin işaret/damga, salıverme ve azaba maruz bırakma)",
+      "concept_label": "Analiz Bekliyor (siyma`, yasuwmu, m~usaw~amap, musaw~imiyn)",
+      "is_locked": false,
+      "sample_ayah": "2:49",
+      "top_lemmas": [
+        "siyma`",
+        "yasuwmu",
+        "m~usaw~amap",
+        "musaw~imiyn"
+      ]
+    },
+    {
+      "etap_3i_rank": 11,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 463,
+      "root_arabic": "ك-ف-ف",
+      "root_latin": "K-F-F",
+      "buckwalter": "kff",
+      "frequency": 15,
+      "unique_ayahs": 14,
+      "rationale": "Keff, Keffân ve Kâffe (15 geçiş / 14 ayet: 2:208, 4:77, 4:84, 4:91, 5:11 avuç içi, elini tutup durdurmak ve topyekûn kuşatma)",
+      "concept_label": "Analiz Bekliyor (kaf~a, kaA^f~ap, kaf~ay)",
+      "is_locked": false,
+      "sample_ayah": "2:208",
+      "top_lemmas": [
+        "kaf~a",
+        "kaA^f~ap",
+        "kaf~ay"
+      ]
+    },
+    {
+      "etap_3i_rank": 12,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 467,
+      "root_arabic": "م-ط-ر",
+      "root_latin": "M-T-R",
+      "buckwalter": "mTr",
+      "frequency": 15,
+      "unique_ayahs": 9,
+      "rationale": "Matar ve İmtâr (15 geçiş / 9 ayet: 4:102, 7:84, 8:32, 11:82, 15:74 gökten yoğun yağmur ve taş yağdırılması)",
+      "concept_label": "Analiz Bekliyor (m~aTar, >umoTirato, m~umoTir)",
+      "is_locked": false,
+      "sample_ayah": "4:102",
+      "top_lemmas": [
+        "m~aTar",
+        ">umoTirato",
+        "m~umoTir"
+      ]
+    },
+    {
+      "etap_3i_rank": 13,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 475,
+      "root_arabic": "ع-ش-و",
+      "root_latin": "A-S-W",
+      "buckwalter": "E$w",
+      "frequency": 14,
+      "unique_ayahs": 14,
+      "rationale": "Aşiyy, İşâ' ve Ya'şû (14 geçiş / 14 ayet: 3:41, 6:52, 12:16, 18:28, 19:11 gün batımı akşam karanlığı ve zifiri körlük/gaflet)",
+      "concept_label": "Analiz Bekliyor (Ea$iY~, Ei$aA^', yaEo$u, Ea$iy~ap)",
+      "is_locked": false,
+      "sample_ayah": "3:41",
+      "top_lemmas": [
+        "Ea$iY~",
+        "Ei$aA^'",
+        "yaEo$u",
+        "Ea$iy~ap"
+      ]
+    },
+    {
+      "etap_3i_rank": 14,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 476,
+      "root_arabic": "ث-و-ي",
+      "root_latin": "S-W-Y",
+      "buckwalter": "vwy",
+      "frequency": 14,
+      "unique_ayahs": 14,
+      "rationale": "Mesvâ ve Sâvî (14 geçiş / 14 ayet: 3:151, 6:128, 12:21, 12:23, 16:29 kalıcı konak/ikamet yeri ve sükûnla yerleşmek)",
+      "concept_label": "Analiz Bekliyor (mavowFY, vaAwiy)",
+      "is_locked": false,
+      "sample_ayah": "3:151",
+      "top_lemmas": [
+        "mavowFY",
+        "vaAwiy"
+      ]
+    },
+    {
+      "etap_3i_rank": 15,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 478,
+      "root_arabic": "و-ص-ف",
+      "root_latin": "W-S-F",
+      "buckwalter": "wSf",
+      "frequency": 14,
+      "unique_ayahs": 14,
+      "rationale": "Vasf ve Yasifûn (14 geçiş / 14 ayet: 6:100, 6:139, 12:18, 12:77, 16:62 yakıştırma/nitelendirme ile asılsız isnatta bulunmak)",
+      "concept_label": "Analiz Bekliyor (yaSifu, waSof)",
+      "is_locked": false,
+      "sample_ayah": "6:100",
+      "top_lemmas": [
+        "yaSifu",
+        "waSof"
+      ]
+    },
+    {
+      "etap_3i_rank": 16,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 482,
+      "root_arabic": "ص-ف-ف",
+      "root_latin": "S-F-F",
+      "buckwalter": "Sff",
+      "frequency": 14,
+      "unique_ayahs": 12,
+      "rationale": "Saff, Sâffât ve Masfûfe (14 geçiş / 12 ayet: 18:48, 20:64, 22:36, 24:41, 37:1 düzgün sıra hâlinde dizilmek ve kanat açıp süzülmek)",
+      "concept_label": "Analiz Bekliyor (Saf~, Sa`^f~a`t, maSofuwfap, SawaA^f~)",
+      "is_locked": false,
+      "sample_ayah": "18:48",
+      "top_lemmas": [
+        "Saf~",
+        "Sa`^f~a`t",
+        "maSofuwfap",
+        "SawaA^f~"
+      ]
+    },
+    {
+      "etap_3i_rank": 17,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 477,
+      "root_arabic": "ل-و-م",
+      "root_latin": "L-W-M",
+      "buckwalter": "lwm",
+      "frequency": 14,
+      "unique_ayahs": 12,
+      "rationale": "Levm, Melûm ve Mulîm (14 geçiş / 12 ayet: 5:54, 12:32, 14:22, 17:29, 17:39 kınamak, suçlamak ve kınanmayı hak etmek)",
+      "concept_label": "Analiz Bekliyor (maluwm, lumo, muliym, lawomap)",
+      "is_locked": false,
+      "sample_ayah": "5:54",
+      "top_lemmas": [
+        "maluwm",
+        "lumo",
+        "muliym",
+        "lawomap"
+      ]
+    },
+    {
+      "etap_3i_rank": 18,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 479,
+      "root_arabic": "ز-ر-ع",
+      "root_latin": "Z-R-A",
+      "buckwalter": "zrE",
+      "frequency": 14,
+      "unique_ayahs": 12,
+      "rationale": "Zer', Zurrâ' ve Tezraûn (14 geçiş / 12 ayet: 6:141, 12:47, 13:4, 14:37, 16:11 tohum ekip yeşertmek, ekin ve ekin yetiştirenler)",
+      "concept_label": "Analiz Bekliyor (zaroE, tazoraEu, z~ur~aAE, z~a`riEuwn)",
+      "is_locked": false,
+      "sample_ayah": "6:141",
+      "top_lemmas": [
+        "zaroE",
+        "tazoraEu",
+        "z~ur~aAE",
+        "z~a`riEuwn"
+      ]
+    },
+    {
+      "etap_3i_rank": 19,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 470,
+      "root_arabic": "ح-ر-ث",
+      "root_latin": "H-R-S",
+      "buckwalter": "Hrv",
+      "frequency": 14,
+      "unique_ayahs": 11,
+      "rationale": "Hars ve Tahrüsûn (14 geçiş / 11 ayet: 2:71, 2:205, 2:223, 3:14, 3:117 toprağı sürüp ekine hazırlamak ve emeğin ürün verimi)",
+      "concept_label": "Analiz Bekliyor (Harov, taHoruvu)",
+      "is_locked": false,
+      "sample_ayah": "2:71",
+      "top_lemmas": [
+        "Harov",
+        "taHoruvu"
+      ]
+    },
+    {
+      "etap_3i_rank": 20,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 473,
+      "root_arabic": "و-ل-ج",
+      "root_latin": "W-L-C",
+      "buckwalter": "wlj",
+      "frequency": 14,
+      "unique_ayahs": 9,
+      "rationale": "Vülûc, Îlâc ve Velîce (14 geçiş / 9 ayet: 3:27, 7:40, 9:16, 22:61, 31:29 bir şeyi dar boşluğun/diğerinin içine geçirip sokmak)",
+      "concept_label": "Analiz Bekliyor (yuwliju, yalija, waliyjap)",
+      "is_locked": false,
+      "sample_ayah": "3:27",
+      "top_lemmas": [
+        "yuwliju",
+        "yalija",
+        "waliyjap"
+      ]
+    },
+    {
+      "etap_3i_rank": 21,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 676,
+      "root_arabic": "ع-م-د",
+      "root_latin": "A-M-D",
+      "buckwalter": "Emd",
+      "frequency": 7,
+      "unique_ayahs": 7,
+      "rationale": "Amed ve Müteammed (Sure 104 Hümeze kilidi + 7 geçiş: 4:93, 5:95, 13:2, 31:10, 104:9 taşıyıcı direk/sütun ve kasten yönelmek)",
+      "concept_label": "Analiz Bekliyor (Eamad, m~utaEam~id, taEam~adato, EimaAd)",
+      "is_locked": false,
+      "sample_ayah": "4:93",
+      "top_lemmas": [
+        "Eamad",
+        "m~utaEam~id",
+        "taEam~adato",
+        "EimaAd"
+      ]
+    },
+    {
+      "etap_3i_rank": 22,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 742,
+      "root_arabic": "ح-ط-م",
+      "root_latin": "H-T-M",
+      "buckwalter": "HTm",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Hutame ve Hutâm (Sure 104 Hümeze kilidi + 6 geçiş: 27:18, 39:21, 56:65, 57:20, 104:4 kırıp ufalayarak öğütmek)",
+      "concept_label": "Analiz Bekliyor (HuTa`m, HuTamap, yaHoTima)",
+      "is_locked": false,
+      "sample_ayah": "27:18",
+      "top_lemmas": [
+        "HuTa`m",
+        "HuTamap",
+        "yaHoTima"
+      ]
+    },
+    {
+      "etap_3i_rank": 23,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 515,
+      "root_arabic": "ن-ب-ذ",
+      "root_latin": "N-B-Z",
+      "buckwalter": "nb*",
+      "frequency": 12,
+      "unique_ayahs": 12,
+      "rationale": "Nebz ve İntibâz (Sure 104 Hümeze kilidi + 12 geçiş: 2:100, 2:101, 3:187, 8:58, 19:16 önemsemeyip arkaya atmak ve fırlatmak)",
+      "concept_label": "Analiz Bekliyor (naba*a, {ntaba*ato)",
+      "is_locked": false,
+      "sample_ayah": "2:100",
+      "top_lemmas": [
+        "naba*a",
+        "{ntaba*ato"
+      ]
+    },
+    {
+      "etap_3i_rank": 24,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 1003,
+      "root_arabic": "و-ص-د",
+      "root_latin": "W-S-D",
+      "buckwalter": "wSd",
+      "frequency": 3,
+      "unique_ayahs": 3,
+      "rationale": "Vasîd ve Mü'sade (Sure 104 Hümeze son kilidi + 18:18, 90:20, 104:8 geçit vermeyecek şekilde sımsıkı kilitleyip kapamak)",
+      "concept_label": "Analiz Bekliyor (m~u&oSadap, waSiyd)",
+      "is_locked": false,
+      "sample_ayah": "18:18",
+      "top_lemmas": [
+        "m~u&oSadap",
+        "waSiyd"
+      ]
+    },
+    {
+      "etap_3i_rank": 25,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 706,
+      "root_arabic": "ح-م-ر",
+      "root_latin": "H-M-R",
+      "buckwalter": "Hmr",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Hımâr ve Humur (Sure 62 Cum'a kilidi + 6 geçiş: 2:259, 16:8, 31:19, 35:27, 62:5 yük taşıyıcı eşek ve kızıl çizgi/renk)",
+      "concept_label": "Analiz Bekliyor (HimaAr, Humor)",
+      "is_locked": false,
+      "sample_ayah": "2:259",
+      "top_lemmas": [
+        "HimaAr",
+        "Humor"
+      ]
+    },
+    {
+      "etap_3i_rank": 26,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 612,
+      "root_arabic": "ف-ض-ض",
+      "root_latin": "F-D-D",
+      "buckwalter": "fDD",
+      "frequency": 9,
+      "unique_ayahs": 9,
+      "rationale": "Fidda ve İnfidâd (Sure 62 Cum'a kilidi + 9 geçiş: 3:14, 3:159, 9:34, 43:33, 62:11 katı kalp/dağılıp savrulmak ve beyaz gümüş)",
+      "concept_label": "Analiz Bekliyor (fiD~ap, {nfaD~u)",
+      "is_locked": false,
+      "sample_ayah": "3:14",
+      "top_lemmas": [
+        "fiD~ap",
+        "{nfaD~u"
+      ]
+    },
+    {
+      "etap_3i_rank": 27,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 712,
+      "root_arabic": "ل-ح-ق",
+      "root_latin": "L-H-K",
+      "buckwalter": "lHq",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Lühûk ve İlhâk (Sure 62 Cum'a kilidi + 6 geçiş: 3:170, 12:101, 26:83, 34:27, 52:21 geriden yetişip katılmak ve bağlamak)",
+      "concept_label": "Analiz Bekliyor (>aloHaqo, yaloHaqu)",
+      "is_locked": false,
+      "sample_ayah": "3:170",
+      "top_lemmas": [
+        ">aloHaqo",
+        "yaloHaqu"
+      ]
+    },
+    {
+      "etap_3i_rank": 28,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 520,
+      "root_arabic": "س-ف-ر",
+      "root_latin": "S-F-R",
+      "buckwalter": "sfr",
+      "frequency": 12,
+      "unique_ayahs": 12,
+      "rationale": "Sefer, Esfâr ve Müsfira (Sure 62 Cum'a kilidi + 12 geçiş: 2:184, 2:185, 4:43, 5:6, 62:5 aydınlanıp açığa çıkmak, yolculuk ve büyük yazılı tomarlar)",
+      "concept_label": "Analiz Bekliyor (safar, >asofaAr, >asofara, safarap)",
+      "is_locked": false,
+      "sample_ayah": "2:184",
+      "top_lemmas": [
+        "safar",
+        ">asofaAr",
+        ">asofara",
+        "safarap"
+      ]
+    },
+    {
+      "etap_3i_rank": 29,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 595,
+      "root_arabic": "ت-ج-ر",
+      "root_latin": "T-C-R",
+      "buckwalter": "tjr",
+      "frequency": 9,
+      "unique_ayahs": 8,
+      "rationale": "Ticâret (Sure 62 Cum'a son kilidi + 9 geçiş: 2:16, 2:282, 4:29, 9:24, 62:11 kâr amacı güden mal ve değer değişimi)",
+      "concept_label": "Analiz Bekliyor (tija`rap)",
+      "is_locked": false,
+      "sample_ayah": "2:16",
+      "top_lemmas": [
+        "tija`rap"
+      ]
+    },
+    {
+      "etap_3i_rank": 30,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 960,
+      "root_arabic": "أ-ب-ل",
+      "root_latin": "E-B-L",
+      "buckwalter": "Abl",
+      "frequency": 3,
+      "unique_ayahs": 3,
+      "rationale": "İbil ve Ebâbîl (Sure 105 Fîl kilidi + 3 geçiş: 6:144, 88:17, 105:3 yük devesi ve art arda sürüler hâlinde gelen gruplar)",
+      "concept_label": "Analiz Bekliyor (<ibil, >abaAbiyl)",
+      "is_locked": false,
+      "sample_ayah": "6:144",
+      "top_lemmas": [
+        "<ibil",
+        ">abaAbiyl"
+      ]
+    },
+    {
+      "etap_3i_rank": 31,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 686,
+      "root_arabic": "ع-ص-ف",
+      "root_latin": "A-S-F",
+      "buckwalter": "ESf",
+      "frequency": 7,
+      "unique_ayahs": 6,
+      "rationale": "Asf ve Âsıfe (Sure 105 Fîl kilidi + 7 geçiş: 10:22, 14:18, 21:81, 55:12, 105:5 fırtınalı rüzgârla savrulup yenmiş saman kabuğu)",
+      "concept_label": "Analiz Bekliyor (EaASif, EaSof, EaASifap, Ea`Sifa`t)",
+      "is_locked": false,
+      "sample_ayah": "10:22",
+      "top_lemmas": [
+        "EaASif",
+        "EaSof",
+        "EaASifap",
+        "Ea`Sifa`t"
+      ]
+    },
+    {
+      "etap_3i_rank": 32,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 1631,
+      "root_arabic": "ف-ي-ل",
+      "root_latin": "F-Y-L",
+      "buckwalter": "fyl",
+      "frequency": 1,
+      "unique_ayahs": 1,
+      "rationale": "Fîl (Sure 105 Fîl kilidi: 105:1 devasa zırhlı fil ordusu sahibi)",
+      "concept_label": "Analiz Bekliyor (fiyl)",
+      "is_locked": false,
+      "sample_ayah": "105:1",
+      "top_lemmas": [
+        "fiyl"
+      ]
+    },
+    {
+      "etap_3i_rank": 33,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 620,
+      "root_arabic": "ر-م-ي",
+      "root_latin": "R-M-Y",
+      "buckwalter": "rmy",
+      "frequency": 9,
+      "unique_ayahs": 7,
+      "rationale": "Remy (Sure 105 Fîl kilidi + 9 geçiş: 4:112, 8:17, 24:4, 24:6, 105:4 taş veya asılsız suçlama fırlatıp atmak)",
+      "concept_label": "Analiz Bekliyor (ramaY`)",
+      "is_locked": false,
+      "sample_ayah": "4:112",
+      "top_lemmas": [
+        "ramaY`"
+      ]
+    },
+    {
+      "etap_3i_rank": 34,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 894,
+      "root_arabic": "س-ج-ل",
+      "root_latin": "S-C-L",
+      "buckwalter": "sjl",
+      "frequency": 4,
+      "unique_ayahs": 4,
+      "rationale": "Siccîl ve Sicill (Sure 105 Fîl son kilidi + 4 geçiş: 11:82, 15:74, 21:104, 105:4 yazılı kayıt tomarı ve fırınlanmış/damgalı sert taş)",
+      "concept_label": "Analiz Bekliyor (sij~iyl, s~ijil~)",
+      "is_locked": false,
+      "sample_ayah": "11:82",
+      "top_lemmas": [
+        "sij~iyl",
+        "s~ijil~"
+      ]
+    },
+    {
+      "etap_3i_rank": 35,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 1238,
+      "root_arabic": "ح-ط-ب",
+      "root_latin": "H-T-B",
+      "buckwalter": "HTb",
+      "frequency": 2,
+      "unique_ayahs": 2,
+      "rationale": "Hatab (Sure 111 Mesed kilidi + 2 geçiş: 72:15, 111:4 yakacak odun)",
+      "concept_label": "Analiz Bekliyor (HaTab)",
+      "is_locked": false,
+      "sample_ayah": "72:15",
+      "top_lemmas": [
+        "HaTab"
+      ]
+    },
+    {
+      "etap_3i_rank": 36,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 672,
+      "root_arabic": "ح-ب-ل",
+      "root_latin": "H-B-L",
+      "buckwalter": "Hbl",
+      "frequency": 7,
+      "unique_ayahs": 6,
+      "rationale": "Habl ve Hıbâl (Sure 111 Mesed kilidi + 7 geçiş: 3:103, 3:112, 20:66, 26:44, 50:16, 111:5 bağlayıcı ip, ahit bağı ve şah damarı)",
+      "concept_label": "Analiz Bekliyor (Habol)",
+      "is_locked": false,
+      "sample_ayah": "3:103",
+      "top_lemmas": [
+        "Habol"
+      ]
+    },
+    {
+      "etap_3i_rank": 37,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 1637,
+      "root_arabic": "ج-ي-د",
+      "root_latin": "C-Y-D",
+      "buckwalter": "jyd",
+      "frequency": 1,
+      "unique_ayahs": 1,
+      "rationale": "Cîd (Sure 111 Mesed kilidi: 111:5 gerdan ve boyun)",
+      "concept_label": "Analiz Bekliyor (jiyd)",
+      "is_locked": false,
+      "sample_ayah": "111:5",
+      "top_lemmas": [
+        "jiyd"
+      ]
+    },
+    {
+      "etap_3i_rank": 38,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 1050,
+      "root_arabic": "ل-ه-ب",
+      "root_latin": "L-H-B",
+      "buckwalter": "lhb",
+      "frequency": 3,
+      "unique_ayahs": 3,
+      "rationale": "Leheb (Sure 111 Mesed kilidi + 3 geçiş: 77:31, 111:1, 111:3 dumansız harlı alev)",
+      "concept_label": "Analiz Bekliyor (lahab)",
+      "is_locked": false,
+      "sample_ayah": "77:31",
+      "top_lemmas": [
+        "lahab"
+      ]
+    },
+    {
+      "etap_3i_rank": 39,
+      "category": "Sure %100 Kilidi",
+      "global_rank": 1638,
+      "root_arabic": "م-س-د",
+      "root_latin": "M-S-D",
+      "buckwalter": "msd",
+      "frequency": 1,
+      "unique_ayahs": 1,
+      "rationale": "Mesed (Sure 111 Mesed son kilidi: 111:5 sıkı bükülmüş hurma lifinden halat)",
+      "concept_label": "Analiz Bekliyor (m~asad)",
+      "is_locked": false,
+      "sample_ayah": "111:5",
+      "top_lemmas": [
+        "m~asad"
+      ]
+    },
+    {
+      "etap_3i_rank": 40,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 493,
+      "root_arabic": "ش-ه-و",
+      "root_latin": "S-H-W",
+      "buckwalter": "$hw",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Şehvet ve İştihâ' (13 geçiş / 13 ayet: 3:14, 4:27, 7:81, 16:57, 19:59 nefsin şiddetle arzulayıp yöneldiği çekim gücü)",
+      "concept_label": "Analiz Bekliyor ({$otahato, $~ahawa`t, $ahowap)",
+      "is_locked": false,
+      "sample_ayah": "3:14",
+      "top_lemmas": [
+        "{$otahato",
+        "$~ahawa`t",
+        "$ahowap"
+      ]
+    },
+    {
+      "etap_3i_rank": 41,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 508,
+      "root_arabic": "ص-ي-ح",
+      "root_latin": "S-Y-H",
+      "buckwalter": "SyH",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Sayha (13 geçiş / 13 ayet: 11:67, 11:94, 15:73, 15:83, 23:41 çatlatıcı gök gürlemesi ve parçalayan tek sarsıntı sesi)",
+      "concept_label": "Analiz Bekliyor (SayoHap)",
+      "is_locked": false,
+      "sample_ayah": "11:67",
+      "top_lemmas": [
+        "SayoHap"
+      ]
+    },
+    {
+      "etap_3i_rank": 42,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 503,
+      "root_arabic": "ب-غ-ت",
+      "root_latin": "B-G-T",
+      "buckwalter": "bgt",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Bağte (13 geçiş / 13 ayet: 6:31, 6:44, 6:47, 7:95, 7:187 hiç işaret vermeden ansızın bastırıp yakalamak)",
+      "concept_label": "Analiz Bekliyor (bagotap)",
+      "is_locked": false,
+      "sample_ayah": "6:31",
+      "top_lemmas": [
+        "bagotap"
+      ]
+    },
+    {
+      "etap_3i_rank": 43,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 497,
+      "root_arabic": "ف-و-ه",
+      "root_latin": "F-W-H",
+      "buckwalter": "fwh",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Fû ve Efvâh (13 geçiş / 13 ayet: 3:118, 3:167, 5:41, 9:8, 9:30 söz ve nefes çıkış kapısı olan ağız ve ağızlar)",
+      "concept_label": "Analiz Bekliyor (>afowa`h, faA)",
+      "is_locked": false,
+      "sample_ayah": "3:118",
+      "top_lemmas": [
+        ">afowa`h",
+        "faA"
+      ]
+    },
+    {
+      "etap_3i_rank": 44,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 498,
+      "root_arabic": "غ-ل-ظ",
+      "root_latin": "G-L-Z",
+      "buckwalter": "glZ",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Galîz, Gılze ve Uğluz (13 geçiş / 13 ayet: 3:159, 4:21, 4:154, 9:73, 9:123 bükülmez katılık, sağlam bağ ve sert tavır)",
+      "concept_label": "Analiz Bekliyor (galiyZ, {goluZo, giloZap, {sotagolaZa)",
+      "is_locked": false,
+      "sample_ayah": "3:159",
+      "top_lemmas": [
+        "galiyZ",
+        "{goluZo",
+        "giloZap",
+        "{sotagolaZa"
+      ]
+    },
+    {
+      "etap_3i_rank": 45,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 494,
+      "root_arabic": "غ-ل-م",
+      "root_latin": "G-L-M",
+      "buckwalter": "glm",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Gulâm (13 geçiş / 13 ayet: 3:40, 12:19, 15:53, 18:74, 18:80 genç erkek çocuk ve hizmetkâr delikanlı)",
+      "concept_label": "Analiz Bekliyor (gula`m)",
+      "is_locked": false,
+      "sample_ayah": "3:40",
+      "top_lemmas": [
+        "gula`m"
+      ]
+    },
+    {
+      "etap_3i_rank": 46,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 487,
+      "root_arabic": "ر-أ-ف",
+      "root_latin": "R-E-F",
+      "buckwalter": "rAf",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Re'fe ve Raûf (13 geçiş / 13 ayet: 2:143, 2:207, 3:30, 9:117, 9:128 zararı önleyen ince şefkat ve üstün koruma hassasiyeti)",
+      "concept_label": "Analiz Bekliyor (ra'uwf, ra>ofap)",
+      "is_locked": false,
+      "sample_ayah": "2:143",
+      "top_lemmas": [
+        "ra'uwf",
+        "ra>ofap"
+      ]
+    },
+    {
+      "etap_3i_rank": 47,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 490,
+      "root_arabic": "خ-ل-ل",
+      "root_latin": "H-L-L",
+      "buckwalter": "xll",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Hilâl, Halîl ve Hulle (13 geçiş / 13 ayet: 2:254, 4:125, 9:47, 14:31, 17:5 aralık/boşluktan sızmak ve kalp boşluğunu dolduran dostluk)",
+      "concept_label": "Analiz Bekliyor (xila`l, xaliyl, xul~ap)",
+      "is_locked": false,
+      "sample_ayah": "2:254",
+      "top_lemmas": [
+        "xila`l",
+        "xaliyl",
+        "xul~ap"
+      ]
+    },
+    {
+      "etap_3i_rank": 48,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 504,
+      "root_arabic": "خ-ز-ن",
+      "root_latin": "H-Z-N",
+      "buckwalter": "xzn",
+      "frequency": 13,
+      "unique_ayahs": 13,
+      "rationale": "Hazine, Hâzin ve Hazene (13 geçiş / 13 ayet: 6:50, 11:31, 12:55, 15:21, 15:22 koruyup biriktirmek ve kaynak ambarları/görevlileri)",
+      "concept_label": "Analiz Bekliyor (xazaA^}in, xazanat, xa`ziniyn)",
+      "is_locked": false,
+      "sample_ayah": "6:50",
+      "top_lemmas": [
+        "xazaA^}in",
+        "xazanat",
+        "xa`ziniyn"
+      ]
+    },
+    {
+      "etap_3i_rank": 49,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 501,
+      "root_arabic": "ح-ل-ف",
+      "root_latin": "H-L-F",
+      "buckwalter": "Hlf",
+      "frequency": 13,
+      "unique_ayahs": 12,
+      "rationale": "Half ve Hallâf (13 geçiş / 12 ayet: 4:62, 5:89, 9:42, 9:56, 9:62 kesin yemin sözü vermek ve sık yemin etmek)",
+      "concept_label": "Analiz Bekliyor (Halafo, Hal~aAf)",
+      "is_locked": false,
+      "sample_ayah": "4:62",
+      "top_lemmas": [
+        "Halafo",
+        "Hal~aAf"
+      ]
+    },
+    {
+      "etap_3i_rank": 50,
+      "category": "Yüksek Frekanslı Çekirdek",
+      "global_rank": 507,
+      "root_arabic": "ن-ص-ح",
+      "root_latin": "N-S-H",
+      "buckwalter": "nSH",
+      "frequency": 13,
+      "unique_ayahs": 11,
+      "rationale": "Nush ve Nâsih (13 geçiş / 11 ayet: 7:21, 7:62, 7:68, 7:79, 7:93 hileden arınmış saf iyi niyet ve içten öğüt)",
+      "concept_label": "Analiz Bekliyor (naASiH, naSaHu, nuSoH, n~aSuwH)",
+      "is_locked": false,
+      "sample_ayah": "7:21",
+      "top_lemmas": [
+        "naASiH",
+        "naSaHu",
+        "nuSoH",
+        "n~aSuwH"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 650,
+    "total_locked": 651,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2596,7 +2596,8 @@
         "و-ج-ه (W-C-H (wjh) — Çift Yönlü Mesânî Karşılığı: 28:88, 55:26-27)",
         "ب-ر-ك (B-R-K (brk) — Çift Yönlü Mesânî Karşılığı: 7:96, 7:137, 41:10, 50:9)",
         "خ-ل-ف (خ-ل-ف ↔ ه-ل-ك Mesânî simetrisi)",
-        "ب-ق-ي (ب-ق-ي ↔ ه-ل-ك Mesânî simetrisi)"
+        "ب-ق-ي (ب-ق-ي ↔ ه-ل-ك Mesânî simetrisi)",
+        "م-ك-ن (م-ك-ن ↔ ه-ل-ك Mesânî simetrisi)"
       ]
     },
     "ب-ع-ث": {
@@ -3106,7 +3107,8 @@
         "ق-ه-ر (ق-ه-ر ↔ ض-ع-ف Mesânî simetrisi)",
         "و-س-ع (Bir şeyin kendi üzerine bükülüp katlanması (الطَّيُّ وَالثَّنْيُ) ↔ Darlığın ve zorluğun tam karşıtı olan genişlik, kuşatıcılık ve rahat kapasite (خِلَافُ الض: 2:115, 2:233, 2:236)",
         "غ-ل-ب [خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ] (Kuvvet ve Dirençle Üstün Gelmek ↔ Güç ve Dayanıklılık Sınırı: 8:66)",
-        "ب-ط-ش"
+        "ب-ط-ش",
+        "م-ك-ن (م-ك-ن ↔ ض-ع-ف Mesânî simetrisi)"
       ]
     },
     "ت-ح-ت": {
@@ -3794,7 +3796,8 @@
         "م-ل-ك (م-ل-ك ↔ ع-ج-ز Mesânî simetrisi)",
         "ط-و-ع (ط-و-ع ↔ ع-ج-ز Mesânî simetrisi)",
         "س-ل-ط (س-ل-ط ↔ ع-ج-ز Mesânî simetrisi)",
-        "ب-ط-ش"
+        "ب-ط-ش",
+        "م-ك-ن (م-ك-ن ↔ ع-ج-ز Mesânî simetrisi)"
       ]
     },
     "ب-ل-و": {
@@ -5893,7 +5896,8 @@
         "م-ل-ك (م-ل-ك ↔ ن-ز-ع Mesânî simetrisi)",
         "ص-ب-ر (ص-ب-ر ↔ ن-ز-ع Mesânî simetrisi)",
         "ن-س-ك (ن-س-ك ↔ ن-ز-ع Mesânî simetrisi)",
-        "ن-خ-ل (`54:20` `تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ` — köklü diri ağaç karşısında kökünden sökülüp devrilme)"
+        "ن-خ-ل (`54:20` `تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ` — köklü diri ağaç karşısında kökünden sökülüp devrilme)",
+        "م-ك-ن (م-ك-ن ↔ ن-ز-ع Mesânî simetrisi)"
       ]
     },
     "ب-د-أ": {
@@ -7360,7 +7364,8 @@
         "أ-م-ن",
         "و-ف-ي",
         "أ-ه-ل",
-        "ك-ي-د"
+        "ك-ي-د",
+        "م-ك-ن (م-ك-ن ↔ خ-و-ن Mesânî simetrisi)"
       ]
     },
     "غ-ر-ب": {
@@ -8182,6 +8187,18 @@
         "ث-ق-ل",
         "ق-ب-ل",
         "ر-ج-ع"
+      ]
+    },
+    "م-ك-ن": {
+      "latin": "M-K-N (MKN)",
+      "core": "Bir özneyi veya canlı yapıyı dağılıp sarsılmaktan koruyarak güvenli, sabit, yetkili ve işlerliği tam bir konuma yerleştirip imkân sahibi kılmak (Bab II `مَكَّنَ` yeryüzünde yerleşik düzen, güç ve sebep imkânı kurmak; Bab IV `أَمْكَنَ` üstün kontrol sağlamak; sıfat `مَكِين` sarsılmaz, güvenilir ve korunaklı konum).",
+      "physical": "İbn Fâris'in saptadığı tek somut kök ('kertenkelenin karnında toplanan yumurta kümesi ve kuşların korunaklı yuvası [المكن / المكنات]') ile Ön Sami `*k-w-n` ('yerinde sabit durmak') tabanından `m-` mekân önekiyle şekillenen 'sağlam zemin ve güç yuvası (`مكان` <-> `مكن`)' ilişkisi birleştiğinde: bir varlığı dağılıp savrulmadan korunaklı, sarsılmaz ve kudretli bir konumda sabitleyip imkân sahibi kılmak anlamını kurar.",
+      "opposites": [
+        "ه-ل-ك",
+        "ض-ع-ف",
+        "ع-ج-ز",
+        "ن-ز-ع",
+        "خ-و-ن"
       ]
     }
   }
