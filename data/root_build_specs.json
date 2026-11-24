@@ -46373,5 +46373,67 @@
       }
     ],
     "context_default": "Takas bedeli veya sekiz/sekizde bir ölçü bağlamı"
+  },
+  "د-ب-ب": {
+    "buckwalter": "dbb",
+    "slug": "dbb",
+    "concept_name": "Dâbbe ve Devâbb (Yüzey Üzerinde Hareket Eden Tüm Canlı Organizmalar)",
+    "keywords": [
+      "canlı",
+      "yürüyen",
+      "hayvan",
+      "sürüngen",
+      "hareketli"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "daA^b~ap",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Cemi mükesser gayr-ı munsarıf isim (`ٱلدَّوَآبِّ / وَٱلدَّوَآبُّ` — 8:22, 8:55, 22:18, 35:28) — yeryüzündeki canlılar"
+      },
+      {
+        "lemma": "daA^b~ap",
+        "label": "Tekil/cins müennes isim (`دَآبَّةٍ / دَآبَّةً / دَآبَّةُ` — 14 geçiş) — yeryüzü ve gök katmanlarındaki hareketli canlı"
+      }
+    ],
+    "irab_default": "Dâbbe türevi — yüzeyde kımıldayıp yürüyen hareketli canlı",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:164",
+          "6:38",
+          "24:45",
+          "31:10",
+          "35:28",
+          "42:29",
+          "45:4"
+        ],
+        "text": "Biyolojik Çeşitlilik ve Kozmik Yayılım (`2:164`, `6:38`, `24:45`, `31:10`, `35:28`, `42:29`, `45:4`): Sudan yaratılış, yürüme türleri, renk çeşitliliği ve gök-yer ekseninde canlılığın yayılması."
+      },
+      {
+        "ayahs": [
+          "11:6",
+          "11:56",
+          "16:49",
+          "16:61",
+          "22:18",
+          "29:60",
+          "35:45"
+        ],
+        "text": "Rızık Güvencesi, Evrensel Uyum ve Mühlet Yasası (`11:6,56`, `16:49,61`, `22:18`, `29:60`, `35:45`): Tüm canlıların ilahi düzene boyun eğmesi, rızıklarının üstlenilmesi ve insanın zulmüne rağmen yaşamın sürdürülmesi."
+      },
+      {
+        "ayahs": [
+          "8:22",
+          "8:55",
+          "27:82",
+          "34:14"
+        ],
+        "text": "Ahlaki Kutuplaşma ve Özel Yeryüzü Canlıları (`8:22,55`, `27:82`, `34:14`): Aklını kullanmayanların en alt canlı düzeyine inişi, Süleymân'ın asasını kemiren yer kurdu ve hakikati söyleyen yer canlısı."
+      }
+    ],
+    "context_default": "Hareketli biyolojik canlılık ve yaratılış düzeni bağlamı"
   }
 }
