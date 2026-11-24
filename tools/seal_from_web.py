@@ -34,6 +34,7 @@ STAGE_CONFIGS = [
     ('Etap 3E', 'etap_3e_key_roots.json', 'etap_3e_roots', 'etap_3e_rank'),
     ('Etap 3F', 'etap_3f_key_roots.json', 'etap_3f_roots', 'etap_3f_rank'),
     ('Etap 3G', 'etap_3g_key_roots.json', 'etap_3g_roots', 'etap_3g_rank'),
+    ('Etap 3H', 'etap_3h_key_roots.json', 'etap_3h_roots', 'etap_3h_rank'),
 ]
 
 
@@ -184,11 +185,11 @@ def seal_package(json_path, do_push=False):
                     t_roots.append(r_key)
 
     total_locked = len(locked_json['locked_roots'])
-    e3g_locked = max(0, total_locked - 550)
+    e3h_locked = max(0, total_locked - 600)
     locked_json['phase'] = (
         f"Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) "
         f"+ Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) "
-        f"+ Etap 3F (50/50) + Etap 3G ({e3g_locked}/50 — Toplam {total_locked} Kök Mühürlü)"
+        f"+ Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H ({e3h_locked}/50 — Toplam {total_locked} Kök Mühürlü)"
     )
 
     with open(locked_path, 'w', encoding='utf-8') as f:
@@ -214,6 +215,7 @@ def seal_package(json_path, do_push=False):
         'generate_etap_3e.py',
         'generate_etap_3f.py',
         'generate_etap_3g.py',
+        'generate_etap_3h.py',
         'generate_compact_roots.py',
         'verify_project.py',
     ]:
