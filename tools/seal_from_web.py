@@ -25,37 +25,42 @@ from quran_analyzer import DATA_DIR, QuranCorpus
 from tabula_rasa import find_forbidden_terms
 
 
-def load_second_100():
-    path = os.path.join(DATA_DIR, 'second_100_roots.json')
-    with open(path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+STAGE_CONFIGS = [
+    ('İkinci 100', 'second_100_roots.json', 'second_100_roots', 'second_100_rank'),
+    ('Etap 2.5', 'etap_2_5_key_roots.json', 'etap_2_5_roots', 'etap_2_5_rank'),
+    ('Etap 3', 'etap_3_key_roots.json', 'etap_3_roots', 'etap_3_rank'),
+    ('Etap 3C', 'etap_3c_key_roots.json', 'etap_3c_roots', 'etap_3c_rank'),
+    ('Etap 3D', 'etap_3d_key_roots.json', 'etap_3d_roots', 'etap_3d_rank'),
+    ('Etap 3E', 'etap_3e_key_roots.json', 'etap_3e_roots', 'etap_3e_rank'),
+    ('Etap 3F', 'etap_3f_key_roots.json', 'etap_3f_roots', 'etap_3f_rank'),
+]
 
 
-def load_etap_3():
-    path = os.path.join(DATA_DIR, 'etap_3_key_roots.json')
-    if not os.path.exists(path):
-        return None
-    with open(path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+def load_all_stage_roots():
+    by_ar = {}
+    active_stage = None
+    for label, fname, list_key, rank_key in STAGE_CONFIGS:
+        path = os.path.join(DATA_DIR, fname)
+        if not os.path.exists(path):
+            continue
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        items = data.get(list_key, [])
+        for r in items:
+            by_ar[r['root_arabic']] = r
+        unlocked = [r for r in items if not r.get('is_locked')]
+        if unlocked and active_stage is None:
+            active_stage = (label, unlocked, rank_key)
+    return by_ar, active_stage
 
 
 def print_next_brief(count=1):
-    s2 = load_second_100()
-    roots = [r for r in s2['second_100_roots'] if not r.get('is_locked')]
-    etap_label = "İkinci 100"
-    rank_key = 'second_100_rank'
-
-    if not roots:
-        e3 = load_etap_3()
-        if e3:
-            roots = [r for r in e3['etap_3_roots'] if not r.get('is_locked')]
-            etap_label = "Etap 3"
-            rank_key = 'etap_3_rank'
-
-    if not roots:
-        print("Tüm aktif etaplar mühürlendi! Faz 2'ye geçilebilir.")
+    _, active_stage = load_all_stage_roots()
+    if not active_stage:
+        print("Tüm aktif etaplar (550 kök) mühürlendi! Yeni Faz 1 etabı tanımlanabilir.")
         return
 
+    etap_label, roots, rank_key = active_stage
     corpus = QuranCorpus()
     targets = roots[:count]
     print(f"=== {etap_label.upper()} SIRADAKİ KÖK BRİFİNGİ ===")
@@ -119,10 +124,7 @@ def seal_package(json_path, do_push=False):
     if forbidden:
         raise ValueError(f"TABULA RASA İHLALİ! JSON içinde yasaklı geleneksel terim tespit edildi: {sorted(set(forbidden))}")
 
-    s2 = load_second_100()
-    s2_by_ar = {r['root_arabic']: r for r in s2['second_100_roots']}
-    e3 = load_etap_3()
-    e3_by_ar = {r['root_arabic']: r for r in e3['etap_3_roots']} if e3 else {}
+    idx_by_ar, _ = load_all_stage_roots()
     corpus = QuranCorpus()
 
     locked_path = os.path.join(DATA_DIR, 'locked_roots.json')
@@ -138,7 +140,7 @@ def seal_package(json_path, do_push=False):
 
     sealed_roots = []
     for ar_root, entry in delta.items():
-        idx_info = s2_by_ar.get(ar_root) or e3_by_ar.get(ar_root)
+        idx_info = idx_by_ar.get(ar_root)
         if 'rank' not in entry or entry['rank'] is None:
             if idx_info:
                 entry['rank'] = idx_info['global_rank']
@@ -168,21 +170,12 @@ def seal_package(json_path, do_push=False):
         locked_json['locked_roots'][ar_root] = entry
         sealed_roots.append((ar_root, entry['rank'], entry.get('root_latin', '')))
 
-    # Phase sayacını güncelle
     total_locked = len(locked_json['locked_roots'])
-    e3_locked = sum(1 for r in e3['etap_3_roots'] if r['root_arabic'] in locked_json['locked_roots']) if e3 else 0
-    e3_total = len(e3['etap_3_roots']) if e3 else 0
-    if e3_total > 0:
-        locked_json['phase'] = (
-            f"Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) "
-            f"+ Etap 3 ({e3_locked}/{e3_total} — Toplam {total_locked} Kök Mühürlü)"
-        )
-    else:
-        s2_locked = sum(1 for r in s2['second_100_roots'] if r['root_arabic'] in locked_json['locked_roots'])
-        locked_json['phase'] = (
-            f"Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 "
-            f"(Seçenek A: {s2_locked}/100 — Toplam {total_locked} Kök Mühürlü)"
-        )
+    locked_json['phase'] = (
+        f"Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) "
+        f"+ Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) "
+        f"+ Etap 3F (50/50 — Toplam {total_locked} Kök Mühürlü)"
+    )
 
     with open(locked_path, 'w', encoding='utf-8') as f:
         json.dump(locked_json, f, ensure_ascii=False, indent=2)
@@ -202,6 +195,10 @@ def seal_package(json_path, do_push=False):
         'generate_second_100.py',
         'generate_etap_2_5.py',
         'generate_etap_3.py',
+        'generate_etap_3c.py',
+        'generate_etap_3d.py',
+        'generate_etap_3e.py',
+        'generate_etap_3f.py',
         'generate_compact_roots.py',
         'verify_project.py',
     ]:

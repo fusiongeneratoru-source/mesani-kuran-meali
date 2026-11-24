@@ -12,7 +12,7 @@ import json
 from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from quran_analyzer import DATA_DIR, QuranCorpus, extract_ayah_words, strip_tashkeel, load_verses
+from quran_analyzer import DATA_DIR, QuranCorpus, extract_ayah_words, strip_tashkeel, load_verses, to_arabic_root
 from tabula_rasa import find_forbidden_terms, purify_tabula_rasa
 from build_kavramlar import ROOT_CONFIG
 
@@ -56,6 +56,7 @@ REQUIRED_KAVRAM_KEYS = [
 def verify_all():
     errors = []
     corpus = QuranCorpus()
+    corpus_ar_roots = {to_arabic_root(bw): bw for bw in corpus.roots_map.keys()}
 
     # 1. Tüm 6.236 ayette kelime sayısı hizalamasını doğrula
     ayah_max_w = defaultdict(int)
@@ -91,13 +92,17 @@ def verify_all():
         if hits:
             errors.append(f"Tabula Rasa kalıntısı ({s}:{a}): {hits}")
 
-    # 3. locked_roots.json v3.0 şema, korpus, anakronizm ve Çift Yönlü Mesânî simetri kontrolü
+    # 3. locked_roots.json v3.0 şema, korpus, anakronizm, döngüsel terim ve Çift Yönlü Mesânî simetri kontrolü
     with open(os.path.join(DATA_DIR, 'locked_roots.json'), 'r', encoding='utf-8') as f:
         locked_json = json.load(f)
     locked_roots = locked_json.get('locked_roots', {})
 
     anachronism_re = re.compile(
         r'\b(?:fabrika ayarı|kalibrasyon|yazılım(?!lı)|donanım|kırmızı dur sinyali|yön sinyali|doğa sinyali|kozmik görevli\w*)\b',
+        re.IGNORECASE | re.UNICODE,
+    )
+    circular_re = re.compile(
+        r'\b(?:secde\w*|mescid\w*|rük[uû]\w*|tevhid\w*|fıtrat\w*|ahiret\w*|tevbe\w*|tövbe\w*|hidayet\w*|vesvese\w*|infak\w*|sal[aâ]t\w*|helal\w*|haram\w*)\b',
         re.IGNORECASE | re.UNICODE,
     )
     root_ref_re = re.compile(r'[\u0621-\u064a]-[\u0621-\u064a]-[\u0621-\u064a](?:-[\u0621-\u064a])?')
@@ -115,19 +120,31 @@ def verify_all():
         if anach_hits:
             errors.append(f"locked_roots[{ar_root}] 21. yüzyıl jargonu tespit edildi: {sorted(set(anach_hits))}")
 
-        for fld in ('unified_core_mechanism', 'derivatives'):
-            f_hits = find_forbidden_terms(json.dumps(entry.get(fld, ''), ensure_ascii=False))
-            if f_hits:
-                errors.append(f"locked_roots[{ar_root}].{fld} yasaklı geleneksel terim içeriyor: {sorted(set(f_hits))}")
+        for fld in ('unified_core_mechanism', 'derivatives', 'physical_core'):
+            fld_str = json.dumps(entry.get(fld, ''), ensure_ascii=False)
+            if fld in ('unified_core_mechanism', 'derivatives'):
+                f_hits = find_forbidden_terms(fld_str)
+                if f_hits:
+                    errors.append(f"locked_roots[{ar_root}].{fld} yasaklı geleneksel terim içeriyor: {sorted(set(f_hits))}")
+            c_hits = circular_re.findall(fld_str.replace('İ', 'i').replace('I', 'ı').lower())
+            if c_hits:
+                errors.append(f"locked_roots[{ar_root}].{fld} döngüsel dinî terim içeriyor (PROMPT.md §4.6): {sorted(set(c_hits))}")
 
-        # Çift Yönlü Mesânî Simetri Kilidi (A -> B varsa B -> A zorunlu)
+        # Çift Yönlü Mesânî Simetri Kilidi ve Kanonik Kök İmlası Kontrolü (A -> B varsa B -> A zorunlu)
         mo_roots = entry.get('mesani_opposite', {}).get('roots', [])
         mentioned_opps = set(root_ref_re.findall(json.dumps(mo_roots, ensure_ascii=False))) - {ar_root}
         for opp_root in sorted(mentioned_opps):
+            if opp_root not in corpus_ar_roots:
+                errors.append(f"Mesânî alanında standart dışı/geçersiz kök imlası: {ar_root} -> {opp_root}")
             if opp_root in locked_roots:
                 opp_mo = json.dumps(locked_roots[opp_root].get('mesani_opposite', {}).get('roots', []), ensure_ascii=False)
                 if ar_root not in opp_mo:
                     errors.append(f"Mesânî tek yönlü simetri ihlali: {ar_root} -> {opp_root} (tersi eksik)")
+
+        fu_roots = entry.get('same_ayah_furuk', {}).get('paired_concepts', [])
+        for fp_root in sorted(set(root_ref_re.findall(json.dumps(fu_roots, ensure_ascii=False))) - {ar_root}):
+            if fp_root not in corpus_ar_roots:
+                errors.append(f"Furûk alanında standart dışı/geçersiz kök imlası: {ar_root} -> {fp_root}")
 
         cfg = ROOT_CONFIG.get(ar_root)
         if not cfg:
