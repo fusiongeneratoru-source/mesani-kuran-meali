@@ -45117,5 +45117,116 @@
       }
     ],
     "context_default": "Bir eylemin veya durumun gerçekleşme eşiğine kıl payı dayanması (ramak kalması)"
+  },
+  "ث-م-ر": {
+    "buckwalter": "vmr",
+    "slug": "vmr",
+    "concept_name": "Semer ve Semerât (Olgunlaşmış Ürün, Meyve ve Verim Hasılası)",
+    "keywords": [
+      "meyve",
+      "ürün",
+      "verim",
+      "gelir",
+      "servet",
+      "semer",
+      "mahsul"
+    ],
+    "irab_rules": [
+      {
+        "pos": "V",
+        "label": "Bâb IV mâzî fiil (أَثْمَرَ — 3MS) — ağacın veya bitkinin olgun ürün ve meyve bağlayıp vermesi (6:99, 6:141)"
+      },
+      {
+        "lemma": "vamarap",
+        "label": "Müfred nekre mecrûr isim (ثَمَرَةٍ — مِنْ cer harfiyle) — sunulan tekil bir ürün/meyve çeşidi (2:25)"
+      },
+      {
+        "lemma": "vamar",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Müfred/cins nekre merfû' isim (ثَمَرٌ — كَانَ ismi) — bağ ve üretimden doğup biriken verim ve hasıla (18:34)"
+      },
+      {
+        "lemma": "vamar",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Muzâf veya harf-i cerli mecrûr isim (ثَمَرِهِۦ / بِثَمَرِهِۦ) — kendi ürün ve verimi (6:99, 6:141, 18:42, 36:35)"
+      },
+      {
+        "lemma": "vamara`t",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Cemi müennes sâlim merfû' isim (ثَمَرَٰتُ — nâib-i fâil) — güvenli beldeye taşınan her çeşit ürün (28:57)"
+      },
+      {
+        "lemma": "vamara`t",
+        "features_contains": [
+          "INDEF",
+          "GEN"
+        ],
+        "label": "Cemi müennes sâlim nekre mecrûr isim (ثَمَرَٰتٍ — Rasm'da açık ت ile ثمرت) — rengârenk ve tomurcuğundan çıkan ürünler (35:27, 41:47)"
+      },
+      {
+        "lemma": "vamara`t",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Cemi müennes sâlim marife/muzâf mecrûr isim (ٱلثَّمَرَٰتِ / ثَمَرَٰتِ) — türlü olgun ürün ve meyveler"
+      }
+    ],
+    "irab_default": "Semer türevi — aşamalı gelişimle ortaya çıkan olgun ürün ve verim",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:22",
+          "7:57",
+          "13:3",
+          "14:32",
+          "16:11",
+          "35:27",
+          "41:47"
+        ],
+        "text": "Kozmik Su Döngüsü, Çiftli Yaratılış ve Tomurcuktan Çıkan Ürün Çeşitliliği (`2:22`, `7:57`, `13:3`, `14:32`, `16:11`, `35:27`, `41:47`): Gökten inen suyla ölü topraktan renk renk ve çifter çifter ürünlerin çıkışı ve tomurcuk kılıflarından dışarı süzülüşü."
+      },
+      {
+        "ayahs": [
+          "6:99",
+          "6:141",
+          "16:67",
+          "16:69",
+          "36:35"
+        ],
+        "text": "Bitkisel Olgunlaşma, Hasat Paylaşımı ve Şükür Sorumluluğu (`6:99`, `6:141`, `16:67`, `16:69`, `36:35`): Ağacın ürün bağlayıp olgunlaşmasının gözlemlenmesi, hasat günü ölçülü paylaşım, arıların tüm ürünlerden şifa özü toplaması ve insan elinin dokumadığı doğal verime şükür."
+      },
+      {
+        "ayahs": [
+          "2:126",
+          "14:37",
+          "28:57"
+        ],
+        "text": "Ekinsiz Vadide Güvenli Yurt ve Ürün Akışı (`2:126`, `14:37`, `28:57`): Güven kılınan dokunulmaz beldeye ve ekinsiz vadiye her çeşit ürünün geçim payı olarak ulaştırılması."
+      },
+      {
+        "ayahs": [
+          "2:155",
+          "2:266",
+          "7:130",
+          "18:34",
+          "18:42"
+        ],
+        "text": "Sınanma, Afet ve Kibirde Ürün/Verim Kaybı (`2:155`, `2:266`, `7:130`, `18:34`, `18:42`): Mal ve ürünlerde eksilme sınavı (`2:155`, `7:130`), ateşli kasırgayla yanıp kül olan bağ (`2:266`) ve servetiyle övünen bağ sahibinin birikmiş veriminin bir anda çöküşü (`18:34`, `18:42`)."
+      },
+      {
+        "ayahs": [
+          "2:25",
+          "47:15"
+        ],
+        "text": "Erdemli Emeğin Kalıcı Karşılığı (`2:25`, `47:15`): Onarıcı işler ortaya koyanlara esenlik bahçelerinde sunulan tükenmez ve benzerlik taşıyan ürünler."
+      }
+    ],
+    "context_default": "Aşamalı gelişimle ortaya çıkan olgun ürün, meyve ve bereketli verim"
   }
 }

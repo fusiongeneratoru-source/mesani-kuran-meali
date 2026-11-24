@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 631,
+    "total_locked": 632,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -5497,7 +5497,8 @@
         "ع-م-ر [وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ] (Uzun Ömür Verilip Yaşatılmak [ع-م-ر] ↔ Ömründen Eksiltilmek [يُنقَصُ]: 35:11)",
         "ك-ث-ر [وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ] (Çoğalıp Bereketlenmek [ك-ث-ر] ↔ Ürün ve Mallardan Eksilmek [نَقْص]: 2:155, 7:130)",
         "ق-ض-ي [فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ ... لَمْ يَنقُصُوكُمْ شَيْـًٔا] (Ahdi ve Karşılığı Tamamlayıp Bitirmek [ق-ض-ي] ↔ Sözden ve Haktan Eksiltmek [ن-ق-ص]: 9:4, 11:109)",
-        "ك-ف-ي [أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ] (Üzerine İlave Gerektirmeyen Tam Yetme ↔ Eksilmek ve Noksan Kalmak: 29:51, 41:53)"
+        "ك-ف-ي [أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ] (Üzerine İlave Gerektirmeyen Tam Yetme ↔ Eksilmek ve Noksan Kalmak: 29:51, 41:53)",
+        "ث-م-ر (`وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ` `2:155`, `7:130` — Ürün ve Verim Bolluğunun Kuraklık ve Darlıkla Eksilmesi)"
       ]
     },
     "ح-ض-ر": {
@@ -7389,7 +7390,8 @@
         "ق-و-م",
         "ح-ي-ي",
         "ق-ر-ي",
-        "ع-ر-ش"
+        "ع-ر-ش",
+        "ث-م-ر (`وَأُحِيطَ بِثَمَرِهِۦ ... وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا` `18:42` — Dolu Verim Hasılası vs Çardakları Çöküp Boşalmış Bağ)"
       ]
     },
     "ع-ف-ف": {
@@ -7783,7 +7785,8 @@
       "physical": "Bir şeyin ateşle veya şiddetli sürtünme ve ısıyla tutuşup kavrularak yanıp kül olması (ihtirâk / tahrîk / harîk) (İbn Fâris, Mekâyîs: \"الحاء والراء والقاف أصلان: أحدهما حك الشيء بالشيء مع حرارة والتهاب... ومن ذلك الحريق والنار تحرق\"). Bahçeye ateşli bir kasırganın vurup onu kavurarak yakması (2:266), Sâmirî'nin altın buzağısının yakılıp ufalanması (20:97), İbrâhîm'i ateşte yakma girişimi (21:68, 29:24) ve hendeklerde insanları diri diri yakanların kendi eylemlerinin cinsinden kavurucu yangınla (el-harîk) yüzleşmeleri (85:10).",
       "opposites": [
         "ب-ر-د",
-        "س-ل-م"
+        "س-ل-م",
+        "ث-م-ر (`مِن كُلِّ ٱلثَّمَرَٰتِ ... فَٱحْتَرَقَتْ` `2:266` — Türlü Ürünlerle Dolu Bahçe vs Ateşli Kasırgayla Yanıp Kül Olmak)"
       ]
     },
     "م-ج-د": {
@@ -7923,6 +7926,16 @@
       "opposites": [
         "ف-ع-ل",
         "و-ق-ع"
+      ]
+    },
+    "ث-م-ر": {
+      "latin": "S-M-R (SMR)",
+      "core": "Bir canlıdan, bitkiden ya da emek ve doğa sürecinden aşamalı gelişimle türeyip bir araya gelerek ortaya çıkan olgun ürün, meyve ve bereketli verim hasılası.",
+      "physical": "Bir canlıdan, ağaçtan ya da emek ve doğa sürecinden aşamalı gelişimle türeyip bir araya gelerek ortaya çıkan olgun ürün ve verim hasılası (İbn Fâris, Mekâyîs: \"الثاء والميم والراء أصل واحد، وهو شيء يتولد عن شيء متجمعاً\"). Kur'an'da gökten inen suyla tomurcuk kılıflarından yarılarak çıkan renk renk ürünler (6:99, 35:27, 41:47), hurma ve üzüm bağlarının hasadı (6:141, 16:67), ekinsiz güvenli vadiye taşınan rızık ürünleri (2:126, 14:37, 28:57), kuraklık veya afetle eksilip yanan verim (2:155, 2:266, 7:130) ve büyük bağ sahibinin sermaye hasılası (18:34, 18:42) hep bu tek çekirdek üzerinde birleşir.",
+      "opposites": [
+        "ن-ق-ص",
+        "خ-و-ي",
+        "ح-ر-ق"
       ]
     }
   }

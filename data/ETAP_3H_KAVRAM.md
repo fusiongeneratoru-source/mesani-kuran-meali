@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%93,13` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 31 / 50 Kök (Toplam Mühürlü: 631 Kök | Güncel Kapsam: %92,35)
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 32 / 50 Kök (Toplam Mühürlü: 632 Kök | Güncel Kapsam: %92,40)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -38,7 +38,7 @@
 | 29 | Açık Mesânî Zırhı | 505 | `ن-ج-م` | `N-C-M` | **13** | 13 | 6:97 | Necm ve Nücûm (Baş Gösterip Doğmak; Gökte Doğan Yıldızlar ve Gövdesiz Bitki) | ✅ **MÜHÜRLÜ** |
 | 30 | Açık Mesânî Zırhı | 522 | `ب-ي-ض` | `B-Y-D` | **12** | 12 | 2:187 | Ebyad ve Beyâd (Lekesiz Parlak Beyazlık, Yüzlerin Aydınlanıp Ağarması ve Saklı Yumurta) | ✅ **MÜHÜRLÜ** |
 | 31 | Yüksek Frekanslı Çekirdek | 359 | `ك-و-د` | `K-W-D` | **24** | 24 | 2:20 | Kâde ve Yekâdü (Gerçekleşme Eşiğine Kıl Payı Dayanma, Ramak Kalma ve Olumsuzda Eşiği Yakalayamama) | ✅ **MÜHÜRLÜ** |
-| 32 | Yüksek Frekanslı Çekirdek | 360 | `ث-م-ر` | `S-M-R` | **24** | 22 | 2:22 | Semer ve Semerât (24 geçiş — #2 kalan kök! 2:22, 2:266, 6:99, 6:141, 14:37, 16:67, 18:34 ağacın ve emeğin olgunlaşmış meyvesi/ürünü) | ⏳ *Bekliyor* |
+| 32 | Yüksek Frekanslı Çekirdek | 360 | `ث-م-ر` | `S-M-R` | **24** | 22 | 2:22 | Semer ve Semerât (Olgunlaşmış Ürün, Meyve ve Verim Hasılası) | ✅ **MÜHÜRLÜ** |
 | 33 | Yüksek Frekanslı Çekirdek | 371 | `غ-ر-ق` | `G-R-K` | **23** | 23 | 2:50 | Gark, İğrâk ve Garkâ (23 geçiş | 1M — #3 kalan kök! 2:50, 7:136, 8:54, 10:90, 11:43, 79:1 suya batıp boğulmak ve derinliğine dalmak) | ⏳ *Bekliyor* |
 | 34 | Yüksek Frekanslı Çekirdek | 373 | `س-ر-ع` | `S-R-A` | **23** | 23 | 2:202 | Serî', Sür'at ve Müsâraa (23 geçiş — #4 kalan kök! 2:202, 3:114, 3:133, 5:41, 21:90, 23:61 hızla koşup yarışmak ve hesabı çabuk görmek) | ⏳ *Bekliyor* |
 | 35 | Yüksek Frekanslı Çekirdek | 369 | `م-ش-ي` | `M-S-Y` | **23** | 20 | 2:20 | Meşy ve Meşşâ' (23 geçiş — #5 kalan kök! 2:20, 17:37, 20:128, 24:45, 25:63, 57:28, 67:15, 68:11 adım adım yürümek ve laf gezdirmek) | ⏳ *Bekliyor* |
