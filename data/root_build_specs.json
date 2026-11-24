@@ -46634,5 +46634,74 @@
       }
     ],
     "context_default": "Karşıt cephede çekişme, davalaşma veya sözlü tartışma bağlamı"
+  },
+  "ن-ف-ر": {
+    "buckwalter": "nfr",
+    "slug": "nfr",
+    "concept_name": "Nefr, Nefîr ve Nüfûr (Seferber Olup Harekete Geçme, Ekip ve Ürküp Uzaklaşma)",
+    "keywords": [
+      "seferberlik",
+      "hareket",
+      "ekip",
+      "kaçış",
+      "uzaklaşma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nafara",
+        "label": "Bab I fiil (`اِنْفِرُوا۟ / تَنْفِرُوا۟ / لِيَنْفِرُوا۟ / نَفَرَ` — 8 geçiş: 4:71 x2, 9:38, 9:39, 9:41, 9:81, 9:122 x2) — harekete geçip yola çıkmak"
+      },
+      {
+        "lemma": "nufuwr",
+        "label": "Bab I masdar (`نُفُورًا / نُفُورٍ` — 5 geçiş: 17:41, 17:46, 25:60, 35:42, 67:21) — hakikat çağrısından irkilip uzaklaşma"
+      },
+      {
+        "lemma": "nafar",
+        "label": "İsim (`نَفَرًا / نَفَرٌ` — 3 geçiş: 18:34, 46:29, 72:1) — hareketli grup veya dinleyici ekip"
+      },
+      {
+        "lemma": "nafiyr",
+        "label": "İsim/sıfat (`نَفِيرًا` — 17:6) — birlikte hareket eden destek topluluğu"
+      },
+      {
+        "lemma": "m~usotanfirap",
+        "label": "Bab X ism-i fâil (`مُسْتَنفِرَةٌ` — 74:50) — paniğe kapılıp dört bir yana kaçan"
+      }
+    ],
+    "irab_default": "Nefr türevi — durduğu noktadan kopup harekete geçmek veya irkilip uzaklaşmak",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:71",
+          "9:38",
+          "9:39",
+          "9:41",
+          "9:81",
+          "9:122"
+        ],
+        "text": "Toplumsal Seferberlik ve İlimde Derinleşme Görevi (`4:71`, `9:38,39,41,81,122`): Ağırlığa yenilmeden sorumluluk için yola çıkış ve her kesimden bir grubun kavramsal derinleşme amacıyla seferberliği."
+      },
+      {
+        "ayahs": [
+          "17:6",
+          "18:34",
+          "46:29",
+          "72:1"
+        ],
+        "text": "Toplumsal Destek Gücü ve Dinleyici Ekip (`17:6`, `18:34`, `46:29`, `72:1`): Arka çıkan yardımcı kadro ve vahyi dikkatle dinleyip kavmine dönen seçkin heyet."
+      },
+      {
+        "ayahs": [
+          "17:41",
+          "17:46",
+          "25:60",
+          "35:42",
+          "67:21",
+          "74:50"
+        ],
+        "text": "Hakikatten İrkilme ve Uzaklaşıp Kaçış (`17:41,46`, `25:60`, `35:42`, `67:21`, `74:50`): Uyarı ve birlik mesajı karşısında sırtını dönüp uzaklaşma tepkisi."
+      }
+    ],
+    "context_default": "Yerinden kopup seferber olma, hareketli ekip veya ürküp uzaklaşma bağlamı"
   }
 }
