@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3H (Sure %100 Tam Kilit Genişletmesi [25 Sure], 3+ Açık Mesânî/Furûk Tepe Uçları ve 650. Kök Çekirdek Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 10,
+  "locked_count": 20,
   "total_tokens_in_package": 680,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 91.94,
+  "current_coverage_pct": 92.11,
   "target_coverage_pct": 93.13,
   "etap_3h_roots": [
     {
@@ -202,8 +202,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Güsâ' (Sure 87 A'lâ son kilidi + 23:41: 23:41, 87:5 selin sürüklediği kuru çerçöp ve köpük)",
-      "concept_label": "Analiz Bekliyor (guvaA^')",
-      "is_locked": false,
+      "concept_label": "Gusâ' (Selin Sürüklediği Kuru ve İşlevsiz Çerçöp Yığını)",
+      "is_locked": true,
       "sample_ayah": "23:41",
       "top_lemmas": [
         "guvaA^'"
@@ -219,8 +219,8 @@
       "frequency": 21,
       "unique_ayahs": 19,
       "rationale": "Hazer, Hذر ve Mahzûr (Sure 64 Teğâbün kilidi + 21 geçiş: 2:19, 2:243, 4:71, 4:102, 24:63, 63:4, 64:14 tehlikeye karşı uyanık ve tetikte olmak)",
-      "concept_label": "Analiz Bekliyor (yaHo*aru, Hi*or, Ha*ar, yuHa*~iru)",
-      "is_locked": false,
+      "concept_label": "Hazar ve Hizr (Tehlikeye Karşı Uyanık Olmak ve Savunma Tedbiri Almak)",
+      "is_locked": true,
       "sample_ayah": "2:19",
       "top_lemmas": [
         "yaHo*aru",
@@ -239,8 +239,8 @@
       "frequency": 17,
       "unique_ayahs": 16,
       "rationale": "Za'm (Sure 64 Teğâbün & 62 Cum'a kilidi + 17 geçiş: 6:22, 6:136, 17:56, 18:48, 62:6, 64:7 delilsiz zan ve mesnetsiz iddiada bulunmak)",
-      "concept_label": "Analiz Bekliyor (zaEama, zaEom, zaEiym)",
-      "is_locked": false,
+      "concept_label": "Za'm ve Zaîm (Kanıtsız/Mesnetsiz İddiada Bulunmak ve Taahhüde Kefil Olmak)",
+      "is_locked": true,
       "sample_ayah": "4:60",
       "top_lemmas": [
         "zaEama",
@@ -258,8 +258,8 @@
       "frequency": 8,
       "unique_ayahs": 7,
       "rationale": "Safh (Sure 64 Teğâbün kilidi + 8 geçiş: 2:109, 15:85, 24:22, 43:5, 64:14 yüzünü başa kakmadan çevirip hoşgörüyle sayfasını kapatmak)",
-      "concept_label": "Analiz Bekliyor (yaSofaHu, SafoH)",
-      "is_locked": false,
+      "concept_label": "Safh (Hataya Takılmadan Yüzü Genişlikle Çevirip Yeni Bir Sayfa Açmak)",
+      "is_locked": true,
       "sample_ayah": "2:109",
       "top_lemmas": [
         "yaSofaHu",
@@ -276,8 +276,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Teğâbün (Sure 64 Teğâbün son kilidi: 64:9 kâr-zarar hesabında kimin aldanıp açıkta kaldığının ortaya çıktığı gün)",
-      "concept_label": "Analiz Bekliyor (t~agaAbun)",
-      "is_locked": false,
+      "concept_label": "Teğâbün (Hayat Alışverişinde Kimin Aldanıp Zarar Ettiğinin Açığa Çıkması)",
+      "is_locked": true,
       "sample_ayah": "64:9",
       "top_lemmas": [
         "t~agaAbun"
@@ -293,8 +293,8 @@
       "frequency": 11,
       "unique_ayahs": 11,
       "rationale": "Vukûd, Îkâd ve Mûkade (Sure 85 Bürûc & 104 Hümeze kilidi + 11 geçiş: 2:17, 2:24, 5:64, 24:35, 85:5, 104:6 ateş tutuşturmak ve çıra/yakıt)",
-      "concept_label": "Analiz Bekliyor (>awoqadu, waquwd, {sotawoqada, muwqadap)",
-      "is_locked": false,
+      "concept_label": "Îkâd ve Vekûd (Ateşi Tutuşturup Alevlendirmek ve Ateşi Besleyen Yakıt)",
+      "is_locked": true,
       "sample_ayah": "2:17",
       "top_lemmas": [
         ">awoqadu",
@@ -313,8 +313,8 @@
       "frequency": 10,
       "unique_ayahs": 8,
       "rationale": "Batş ve Batşe (Sure 85 Bürûc kilidi + 10 geçiş: 7:195, 26:130, 28:19, 44:16, 54:36, 85:12 sıkıca kavrayıp ezici güçle yakalamak)",
-      "concept_label": "Analiz Bekliyor (baTa$o, baTo$, baTo$ap)",
-      "is_locked": false,
+      "concept_label": "Batş (Ezici Güç, Şiddet ve Üstünlükle Kıskıvrak Yakalayıp Darbe İndirmek)",
+      "is_locked": true,
       "sample_ayah": "7:195",
       "top_lemmas": [
         "baTa$o",
@@ -332,8 +332,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Hark ve Harîk (Sure 85 Bürûc kilidi + 9 geçiş: 2:266, 3:181, 20:97, 21:68, 29:24, 85:10 ateşle yakıp kavurmak)",
-      "concept_label": "Analiz Bekliyor (Hariyq, Har~iqu, {Hotaraqato)",
-      "is_locked": false,
+      "concept_label": "Harîk ve Tahrîk (Ateşin Yakıcı Aleviyle Kavurup Yakmak ve Kavurucu Yangın)",
+      "is_locked": true,
       "sample_ayah": "2:266",
       "top_lemmas": [
         "Hariyq",
@@ -351,8 +351,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Mecîd (Sure 85 Bürûc kilidi + 4 geçiş: 11:73, 50:1, 85:15, 85:21 şan, cömertlik ve yücelikte genişlik sahibi)",
-      "concept_label": "Analiz Bekliyor (m~ajiyd)",
-      "is_locked": false,
+      "concept_label": "Mecîd (Cömertlik, Ululuk, Şeref ve Tükenmez Anlam Bolluğunda Zirvede Olan)",
+      "is_locked": true,
       "sample_ayah": "11:73",
       "top_lemmas": [
         "m~ajiyd"
@@ -368,8 +368,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Uhdûd ve Hadd (Sure 85 Bürûc son kilidi + 31:18: 85:4 yerde yarılan derin hendek ve 31:18 kibirle yüz/yanak çevirmek)",
-      "concept_label": "Analiz Bekliyor (xad~, >uxoduwd)",
-      "is_locked": false,
+      "concept_label": "Hadd ve Uhdûd (Yüzün Yan Tarafı/Yanak ve Toprakta Boylu Boyunca Kazılan Derin Hendek)",
+      "is_locked": true,
       "sample_ayah": "31:18",
       "top_lemmas": [
         "xad~",

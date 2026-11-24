@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%93,13` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 610 Kök | Güncel Kapsam: %91,94)
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 620 Kök | Güncel Kapsam: %92,11)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -17,16 +17,16 @@
 | 8 | Sure %100 Kilidi | 396 | `أ-ث-ر` | `E-S-R` | **21** | 21 | 5:46 | Eser ve Îsâr (Geride Kalan İz/Kalıntı ve Bir Şeyi Diğerine Önceleyip Tercih Etmek) | ✅ **MÜHÜRLÜ** |
 | 9 | Sure %100 Kilidi | 571 | `ر-ع-ي` | `R-A-Y` | **10** | 9 | 2:104 | Riâyet ve Mer'â (Dikkatle Gözetip Korumak ve Beslenilen Otlak) | ✅ **MÜHÜRLÜ** |
 | 10 | Sure %100 Kilidi | 1104 | `ح-و-ي` | `H-W-Y` | **2** | 2 | 6:146 | Havâyâ ve Ahvâ (Kıvrılıp Kendi İçine Toplanmak ve Büzülüp Koyulaşarak Kararmak) | ✅ **MÜHÜRLÜ** |
-| 11 | Sure %100 Kilidi | 1186 | `غ-ث-و` | `G-S-W` | **2** | 2 | 23:41 | Güsâ' (Sure 87 A'lâ son kilidi + 23:41: 23:41, 87:5 selin sürüklediği kuru çerçöp ve köpük) | ⏳ *Bekliyor* |
-| 12 | Sure %100 Kilidi | 386 | `ح-ذ-ر` | `H-Z-R` | **21** | 19 | 2:19 | Hazer, Hذر ve Mahzûr (Sure 64 Teğâbün kilidi + 21 geçiş: 2:19, 2:243, 4:71, 4:102, 24:63, 63:4, 64:14 tehlikeye karşı uyanık ve tetikte olmak) | ⏳ *Bekliyor* |
-| 13 | Sure %100 Kilidi | 443 | `ز-ع-م` | `Z-A-M` | **17** | 16 | 4:60 | Za'm (Sure 64 Teğâbün & 62 Cum'a kilidi + 17 geçiş: 6:22, 6:136, 17:56, 18:48, 62:6, 64:7 delilsiz zan ve mesnetsiz iddiada bulunmak) | ⏳ *Bekliyor* |
-| 14 | Sure %100 Kilidi | 633 | `ص-ف-ح` | `S-F-H` | **8** | 7 | 2:109 | Safh (Sure 64 Teğâbün kilidi + 8 geçiş: 2:109, 15:85, 24:22, 43:5, 64:14 yüzünü başa kakmadan çevirip hoşgörüyle sayfasını kapatmak) | ⏳ *Bekliyor* |
-| 15 | Sure %100 Kilidi | 1551 | `غ-ب-ن` | `G-B-N` | **1** | 1 | 64:9 | Teğâbün (Sure 64 Teğâbün son kilidi: 64:9 kâr-zarar hesabında kimin aldanıp açıkta kaldığının ortaya çıktığı gün) | ⏳ *Bekliyor* |
-| 16 | Sure %100 Kilidi | 543 | `و-ق-د` | `W-K-D` | **11** | 11 | 2:17 | Vukûd, Îkâd ve Mûkade (Sure 85 Bürûc & 104 Hümeze kilidi + 11 geçiş: 2:17, 2:24, 5:64, 24:35, 85:5, 104:6 ateş tutuşturmak ve çıra/yakıt) | ⏳ *Bekliyor* |
-| 17 | Sure %100 Kilidi | 589 | `ب-ط-ش` | `B-T-S` | **10** | 8 | 7:195 | Batş ve Batşe (Sure 85 Bürûc kilidi + 10 geçiş: 7:195, 26:130, 28:19, 44:16, 54:36, 85:12 sıkıca kavrayıp ezici güçle yakalamak) | ⏳ *Bekliyor* |
-| 18 | Sure %100 Kilidi | 609 | `ح-ر-ق` | `H-R-K` | **9** | 9 | 2:266 | Hark ve Harîk (Sure 85 Bürûc kilidi + 9 geçiş: 2:266, 3:181, 20:97, 21:68, 29:24, 85:10 ateşle yakıp kavurmak) | ⏳ *Bekliyor* |
-| 19 | Sure %100 Kilidi | 892 | `م-ج-د` | `M-C-D` | **4** | 4 | 11:73 | Mecîd (Sure 85 Bürûc kilidi + 4 geçiş: 11:73, 50:1, 85:15, 85:21 şan, cömertlik ve yücelikte genişlik sahibi) | ⏳ *Bekliyor* |
-| 20 | Sure %100 Kilidi | 1203 | `خ-د-د` | `H-D-D` | **2** | 2 | 31:18 | Uhdûd ve Hadd (Sure 85 Bürûc son kilidi + 31:18: 85:4 yerde yarılan derin hendek ve 31:18 kibirle yüz/yanak çevirmek) | ⏳ *Bekliyor* |
+| 11 | Sure %100 Kilidi | 1186 | `غ-ث-و` | `G-S-W` | **2** | 2 | 23:41 | Gusâ' (Selin Sürüklediği Kuru ve İşlevsiz Çerçöp Yığını) | ✅ **MÜHÜRLÜ** |
+| 12 | Sure %100 Kilidi | 386 | `ح-ذ-ر` | `H-Z-R` | **21** | 19 | 2:19 | Hazar ve Hizr (Tehlikeye Karşı Uyanık Olmak ve Savunma Tedbiri Almak) | ✅ **MÜHÜRLÜ** |
+| 13 | Sure %100 Kilidi | 443 | `ز-ع-م` | `Z-A-M` | **17** | 16 | 4:60 | Za'm ve Zaîm (Kanıtsız/Mesnetsiz İddiada Bulunmak ve Taahhüde Kefil Olmak) | ✅ **MÜHÜRLÜ** |
+| 14 | Sure %100 Kilidi | 633 | `ص-ف-ح` | `S-F-H` | **8** | 7 | 2:109 | Safh (Hataya Takılmadan Yüzü Genişlikle Çevirip Yeni Bir Sayfa Açmak) | ✅ **MÜHÜRLÜ** |
+| 15 | Sure %100 Kilidi | 1551 | `غ-ب-ن` | `G-B-N` | **1** | 1 | 64:9 | Teğâbün (Hayat Alışverişinde Kimin Aldanıp Zarar Ettiğinin Açığa Çıkması) | ✅ **MÜHÜRLÜ** |
+| 16 | Sure %100 Kilidi | 543 | `و-ق-د` | `W-K-D` | **11** | 11 | 2:17 | Îkâd ve Vekûd (Ateşi Tutuşturup Alevlendirmek ve Ateşi Besleyen Yakıt) | ✅ **MÜHÜRLÜ** |
+| 17 | Sure %100 Kilidi | 589 | `ب-ط-ش` | `B-T-S` | **10** | 8 | 7:195 | Batş (Ezici Güç, Şiddet ve Üstünlükle Kıskıvrak Yakalayıp Darbe İndirmek) | ✅ **MÜHÜRLÜ** |
+| 18 | Sure %100 Kilidi | 609 | `ح-ر-ق` | `H-R-K` | **9** | 9 | 2:266 | Harîk ve Tahrîk (Ateşin Yakıcı Aleviyle Kavurup Yakmak ve Kavurucu Yangın) | ✅ **MÜHÜRLÜ** |
+| 19 | Sure %100 Kilidi | 892 | `م-ج-د` | `M-C-D` | **4** | 4 | 11:73 | Mecîd (Cömertlik, Ululuk, Şeref ve Tükenmez Anlam Bolluğunda Zirvede Olan) | ✅ **MÜHÜRLÜ** |
+| 20 | Sure %100 Kilidi | 1203 | `خ-د-د` | `H-D-D` | **2** | 2 | 31:18 | Hadd ve Uhdûd (Yüzün Yan Tarafı/Yanak ve Toprakta Boylu Boyunca Kazılan Derin Hendek) | ✅ **MÜHÜRLÜ** |
 | 21 | Açık Mesânî Zırhı | 577 | `د-ف-ع` | `D-F-A` | **10** | 9 | 2:251 | Def' ve Dâfi' (4 açık ref: 2M+2F! و-ق-ع zıddı 10 geçiş: 2:251, 4:6, 22:38, 23:96, 52:8, 70:2 itip savuşturmak ve hakkını teslim etmek) | ⏳ *Bekliyor* |
 | 22 | Açık Mesânî Zırhı | 438 | `ش-ر-ق` | `S-R-K` | **17** | 17 | 2:115 | Meşrık, İşrâk ve Şarkıyye (3 açık ref: 2M+1F! غ-ر-ب zıddı 17 geçiş: 2:115, 2:142, 2:258, 24:35, 38:18, 39:69 güneşin doğup parlaması ve doğu) | ⏳ *Bekliyor* |
 | 23 | Açık Mesânî Zırhı | 480 | `ر-س-و` | `R-S-W` | **14** | 14 | 7:187 | Revâsî ve Mürsâ (3 açık ref: 2M+1F! س-ي-ر ve م-و-د zıddı 14 geçiş: 7:187, 11:41, 13:3, 16:15, 79:32 demir atıp sabitlenmek ve sabit dağlar) | ⏳ *Bekliyor* |

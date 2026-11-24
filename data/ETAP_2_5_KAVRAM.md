@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 205 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100) mühürlendikten sonra, frekansı 49'un altında kaldığı için listeye giremeyen ancak Faz 2 ayet çözümlemesi için omurga niteliğindeki **16 kilit kavram** (467 geçiş) ve köksüz edat/harf-i cer haritası (`data/EDAT_VE_HARFICER_HARITASI.md`) bu etapta tamamlanır.
-> **Etap 2.5 İçinde Şu Ana Kadar Mühürlenen:** 16 / 16 Kök (Toplam Mühürlü: 610 Kök)
+> **Etap 2.5 İçinde Şu Ana Kadar Mühürlenen:** 16 / 16 Kök (Toplam Mühürlü: 620 Kök)
 
 | Etap Sıra | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek Ayet | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
