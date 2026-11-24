@@ -16,8 +16,9 @@ Temel çalışma prensibin şudur: Kavramları İslam geleneğindeki terim hafı
   - *Etap 3C (`data/etap_3c_key_roots.json`):* Hukuk-ritüel-kısa sure kilitleri ve açık Mesânî zırhı (`48/48` tamamlandı — 400 kök).
   - *Etap 3D (`data/etap_3d_key_roots.json`):* Fâtiha & kısa sure tam kilidi ve yüksek frekanslı çekirdek kökler (`50/50` tamamlandı — 450 kök).
   - *Etap 3E (`data/etap_3e_key_roots.json`):* Kısa sure son tekil kilitleri ve 500. kök tam zırh paketi (`50/50` tamamlandı — 500 kök).
-  - *Etap 3F (`data/etap_3f_key_roots.json`):* 15 tam kilitli sure, 3+ açık Mesânî tepe uçları ve %90+ kök kapsamı paketi (`50/50` tamamlandı — **550 kilitli kök**, `%90,24` köklü kelime kapsamı / tüm Kur'an kelimelerinin `%93,70`'i).
-  - *Sonraki Faz 1 Etapları (`Etap 3G+`):* Meal aşamasına geçmeden önce kalan köklerin aynı sıfır hata disipliniyle mühürlenmesi.
+  - *Etap 3F (`data/etap_3f_key_roots.json`):* 15 tam kilitli sure, 3+ açık Mesânî tepe uçları ve %90+ kök kapsamı paketi (`50/50` tamamlandı — 550 kilitli kök).
+  - *Etap 3G (`data/etap_3g_key_roots.json`):* 20 tam kilitli sure (106 Kureyş, 95 Tîn, 92 Leyl, 93 Duhâ, 82 İnfitâr dahil), 3+ açık Mesânî/Furûk tepe uçları ve 600. kök yüksek frekanslı çekirdek paketi (`50/50` tamamlandı — **600 kilitli kök**, `%91,77` köklü kelime kapsamı / tüm Kur'an kelimelerinin `%94,79`'u).
+  - *Sonraki Faz 1 Etapları (`Etap 3H+`):* Meal aşamasına geçmeden önce kalan köklerin aynı sıfır hata disipliniyle mühürlenmesi.
 - **FAZ 2 (6 Ajanlı Konsey ile Ayet Blokları / Meal Çözümlemesi — EN SON AŞAMA):** Kök mühürleme süreci tamamlandıktan sonra, en son aşamada kilitli sözlük (`locked_roots.json`) ve edat haritası (`particles_and_prepositions.json`) üzerinden kitabı 3-5 ayetlik anlam ve Mesânî blokları halinde sıfırdan meal olarak işlemek.
 
 ---
@@ -172,7 +173,7 @@ json
 
 
 - **`data/kavramlar/` ÖZEL ARŞİV ENTEGRASYONU:** Kilitlenen her kök için eşzamanlı olarak `data/kavramlar/<kavram>.json` dosyasında o kavramın **Kur'an'da geçtiği tüm ayetlerin dökümü** (Arapça metin, Tabula Rasa ve i'rablı Türkçe bağlam, sentaktik literal anlam ve tek çekirdek açıklaması) eksiksiz olarak üretilir/güncellenir.
-- **KAVRAM İNDEKSLERİ GÜNCELLEMESİ:** Her kök mühürlendiğinde aktif etap indeksleri (`top_100_roots.json`, `second_100_roots.json`, `etap_2_5_key_roots.json`, `etap_3_key_roots.json`, `etap_3c_key_roots.json`, `etap_3d_key_roots.json`, `etap_3e_key_roots.json`, `etap_3f_key_roots.json` ve ilgili `.md` tabloları ile `locked_roots_compact.json`) güncellenir ve `python3 tools/verify_project.py` ile sıfır hata doğrulanır.
+- **KAVRAM İNDEKSLERİ GÜNCELLEMESİ:** Her kök mühürlendiğinde aktif etap indeksleri (`top_100_roots.json`, `second_100_roots.json`, `etap_2_5_key_roots.json`, `etap_3_key_roots.json`, `etap_3c_key_roots.json`, `etap_3d_key_roots.json`, `etap_3e_key_roots.json`, `etap_3f_key_roots.json`, `etap_3g_key_roots.json` ve ilgili `.md` tabloları ile `locked_roots_compact.json`) güncellenir ve `python3 tools/verify_project.py` ile sıfır hata doğrulanır.
 
 - **FAZ 2 GEÇİŞİ (EN SON AŞAMA — MEAL İŞİ EN SONA KALIR):** Faz 1 kök mühürleme hedefleri tamamlanıp kullanıcı açıkça "Faz 2'ye (Meal aşamasına) geçiyoruz" dediğinde sistem **6 Ajanlı Konsey** (5 Ayet Masası Ajanı + 1 Baş Koordinatör) moduna geçer:
  - Her seferinde 3-5 ayetlik Mesânî bütünlüğü olan blok işlenir.
@@ -186,11 +187,11 @@ json
 ## 8. YENİ SOHBETLERDE KESİNTİSİZ DEVAM VE DURUM MOTORU (STATE & RESUME ENGINE)
 Kullanıcı yeni bir sohbet açtığında veya sadece `PROMPT.md` dosyasını referans verdiğinde; yapay zeka sıfırdan başlamaz, projeyi doğrudan dosya sistemindeki durumdan devralır:
 
-1. **Otonom Durum Tespiti:** İlk yanıttan önce zorunlu olarak `README.md`, `data/locked_roots.json` ve aktif etap indekslerini (`top_100`, `second_100`, `etap_2_5`, `etap_3`, `etap_3c`, `etap_3d`, `etap_3e`, `etap_3f` ve varsa sonraki etap dosyalarını) okur.
+1. **Otonom Durum Tespiti:** İlk yanıttan önce zorunlu olarak `README.md`, `data/locked_roots.json` ve aktif etap indekslerini (`top_100`, `second_100`, `etap_2_5`, `etap_3`, `etap_3c`, `etap_3d`, `etap_3e`, `etap_3f`, `etap_3g` ve varsa sonraki etap dosyalarını) okur.
    - En son hangi etabın ve hangi sıradaki kökün mühürlendiğini, toplam kilitli kök sayısını ve sıradaki mühürsüz kökün hangisi olduğunu anında tespit eder.
    - Şimdiye kadar kilitlenen tüm kökleri hafızaya alır.
 2. **Kaldığı Yeri Raporlama:** Kullanıcıya kısa ve net olarak durumu bildirir:
-   *(Örnek: "İndeksler kontrol edildi: Toplam 550 kök mühürlü (Top 100, İkinci 100, Etap 2.5 ve Etap 3A–3F tamamlandı: %90,24 köklü kapsam / %93,70 tüm kelime kapsamı, 15 sure %100 kilitli). Sıradaki Faz 1 etabına devam etmeye hazır.")*
+   *(Örnek: "İndeksler kontrol edildi: Toplam 600 kök mühürlü (Top 100, İkinci 100, Etap 2.5 ve Etap 3A–3G tamamlandı: %91,77 köklü kapsam / %94,79 tüm kelime kapsamı, 20 sure %100 kilitli). Sıradaki Faz 1 etabına devam etmeye hazır.")*
 3. **1'er 1'er Kesintisiz İlerleme:** Kullanıcı yeni bir şey yazmasa veya yalnızca "devam et" / "başla" dese dahi, aktif listedeki bir sonraki mühürsüz köke aynı 10 Uzman Disiplin Protokolü, Sözlükler Hakem Masası ve Çift Yönlü Mesânî kurallarıyla teker teker devam eder. Her çözümlenen kök anında `data/locked_roots.json`, `data/kavramlar/<slug>.json` ve tüm indeks dosyalarına işlenir.
 4. **10 Saniyelik Otonom Zamanlayıcı Döngüsü (Continuous Single-Root Timer Loop):**
    - **Tekil Kök ve Doğrulama Kapısı:** Kullanıcı sürekli ilerleme / zamanlayıcılı devam modunu başlattığında, her turda aktif listeden mühürsüz **yalnızca 1 kök** işlenir (zaten mühürlü olan kökler atlanır). O kök için Canlı Web Araması, 10 Uzman Disiplin Protokolü, `data/locked_roots.json` kaydı, `tools/build_kavramlar.py` (`data/kavramlar/<slug>.json`), ilgili etap indeks betikleri ve `python3 tools/verify_project.py` sıfır hata doğrulaması tamamen bitmeden sıradaki adıma geçilmez.

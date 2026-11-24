@@ -9,7 +9,7 @@ Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** 
 1. Ana sistem anayasasını oku: `PROMPT.md` (Özellikle 7 Anayasal Kırmızı Çizgi ve **Aşırı Mekanikleşme Yasağı / Yaşayan Türkçe** ilkesi)
 2. Kalite sigortalarını oku: `tools/QUALITY_CONSTITUTION.md` (13 Kural)
 3. Mevcut ilerleme durumunu kontrol et:
-   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **550 kök mühürlü**, `%90,24` köklü kapsam / tüm Kur'an kelimelerinin `%93,70`'i / `15` sure `%100` kilitli)
+   - `data/locked_roots.json` (kilitli ana kök sözlüğü: **600 kök mühürlü**, `%91,77` köklü kapsam / tüm Kur'an kelimelerinin `%94,79`'u / `20` sure `%100` kilitli)
    - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md` (tamamlanan Etap 1 listesi: `100/100`)
    - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md` (tamamlanan Etap 2 listesi: `100/100`)
    - `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md` (tamamlanan Etap 2.5 kilit kavramlar listesi: `16/16`)
@@ -18,13 +18,14 @@ Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** 
    - `data/etap_3d_key_roots.json` & `data/ETAP_3D_KAVRAM.md` (tamamlanan **Etap 3D** — Fâtiha & Kısa Sure Tam Kilidi, Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar: **50/50 kök [%100] TAMAMLANDI** [`450` toplam kilitli kök / `%86,92` kapsam])
    - `data/etap_3e_key_roots.json` & `data/ETAP_3E_KAVRAM.md` (tamamlanan **Etap 3E** — Kısa Sure Son Tekil Kilitleri, Açık Mesânî/Furûk Uçları ve 500. Kök Tam Zırh Paketi: **50/50 kök [%100] TAMAMLANDI** [`500` toplam kilitli kök / `%88,50` köklü kapsam, tüm Kur'an kelimelerinin `%92,58`'i])
    - `data/etap_3f_key_roots.json` & `data/ETAP_3F_KAVRAM.md` (tamamlanan **Etap 3F** — Kısa Sure Tam Kilitleri, 3+ Açık Mesânî Tepe Uçları (6/6), Doktrinel Mayınlar ve Yüksek Frekanslı Çekirdek Kökler: **50/50 kök [%100] TAMAMLANDI** [`550` toplam kilitli kök / `%90,24` köklü kapsam, tüm Kur'an kelimelerinin `%93,70`'i, `15` sure `%100` kilitli: 1, 94, 96–99, 102, 103, 107–110, 112–114])
+   - `data/etap_3g_key_roots.json` & `data/ETAP_3G_KAVRAM.md` (tamamlanan **Etap 3G** — 5 Yeni Kısa Sure Tam Kilidi [106 Kureyş, 95 Tîn, 92 Leyl, 93 Duhâ, 82 İnfitâr], 3+ Açık Mesânî/Furûk Tepe Uçları ve 600. Kök Yüksek Frekanslı Çekirdek Paketi: **50/50 kök [%100] TAMAMLANDI** [`600` toplam kilitli kök / `%91,77` köklü kapsam, tüm Kur'an kelimelerinin `%94,79`'u, `20` sure `%100` kilitli: 1, 82, 92–99, 102, 103, 106–110, 112–114])
 
 ## 📁 Depo Yapısı
 
 - `PROMPT.md`: Tüm çalışma protokolü (10 Uzman Disiplin, Sözlükler Hakem Masası, JSON v3.0 şeması, devam motoru)
-- `data/locked_roots.json`: Mühürlenmiş tüm köklerin tam v3.0 veritabanı (`550` kilitli kök)
+- `data/locked_roots.json`: Mühürlenmiş tüm köklerin tam v3.0 veritabanı (`600` kilitli kök)
 - `data/locked_roots_compact.json`: Hızlı okuma için sıkıştırılmış kök özeti
-- `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri (`550` kavram JSON dosyası)
+- `data/kavramlar/*.json`: Her mühürlü kavramın Kur'an'da geçtiği tüm ayet dökümleri (`600` kavram JSON dosyası)
 - `data/top_100_roots.json` & `data/TOP_100_KAVRAM.md`: İlk 100 kök indeksi (`100/100` tamamlandı)
 - `data/second_100_roots.json` & `data/SECOND_100_KAVRAM.md`: İkinci 100 yeni kök indeksi (`100/100` tamamlandı)
 - `data/etap_2_5_key_roots.json` & `data/ETAP_2_5_KAVRAM.md`: Top 200 dışında kalan 16 kilit kavram (`ث-ن-ي [Mesânî]` dahil) indeksi (`16/16` tamamlandı)
@@ -33,6 +34,7 @@ Yeni bir oturumda (yerel PC veya Google AI Studio **Antigravity Agent Preview** 
 - `data/etap_3d_key_roots.json` & `data/ETAP_3D_KAVRAM.md`: Fâtiha & Kısa Sure Tam Kilidi, 3+ Açık Mesânî Zırhı ve Yüksek Frekanslı Çekirdek Kavramlar (**50/50 [%100] TAMAMLANDI**, `450` kilitli kök / `%86,92` kapsam)
 - `data/etap_3e_key_roots.json` & `data/ETAP_3E_KAVRAM.md`: Kısa Sure Son Tekil Kilitleri (98–114), Açık Mesânî/Furûk Uçları ve 500. Kök Tam Zırh Paketi (**50/50 [%100] TAMAMLANDI**, `500` kilitli kök / `%88,50` köklü kapsam, tüm Kur'an kelimelerinin `%92,58`'i)
 - `data/etap_3f_key_roots.json` & `data/ETAP_3F_KAVRAM.md`: 8 kısa sureyi daha `%100` kilitleyen kökler (toplam `15` tam kilitli sure), 3+ açık Mesânî referanslı tepe uçlar (6/6), doktrinel/çok-asıllı mayınlar ve kalan en yüksek frekanslı çekirdek kökler (**50/50 [%100] TAMAMLANDI**, `550` kilitli kök / `%90,24` köklü kapsam, tüm Kur'an kelimelerinin `%93,70`'i)
+- `data/etap_3g_key_roots.json` & `data/ETAP_3G_KAVRAM.md`: 5 kısa sureyi daha `%100` kilitleyen kökler (106 Kureyş, 95 Tîn, 92 Leyl, 93 Duhâ, 82 İnfitâr — toplam `20` tam kilitli sure), 3+ açık Mesânî/Furûk tepe uçları ve 600. kök yüksek frekanslı çekirdek paketi (**50/50 [%100] TAMAMLANDI**, `600` kilitli kök / `%91,77` köklü kapsam, tüm Kur'an kelimelerinin `%94,79`'u)
 - `data/particles_and_prepositions.json` & `data/EDAT_VE_HARFICER_HARITASI.md`: Kur'an'daki köksüz edatlar (`10` harf-i cer, `11` yapısal/mantıksal edat) ve `13` köksüz/ödünç anahtar kavram haritası (Faz 2 omurgası)
 - `data/quran-*.txt` & `data/quranic-corpus-morphology-0.4.txt`: Yerel Kur'an metinleri ve morfoloji korpusu
 - `tools/`: Saf Python standart kütüphanesiyle çalışan doğrulama ve üretim araçları (ek paket kurulumu gerektirmez)
@@ -54,6 +56,7 @@ python3 tools/generate_etap_3c.py
 python3 tools/generate_etap_3d.py
 python3 tools/generate_etap_3e.py
 python3 tools/generate_etap_3f.py
+python3 tools/generate_etap_3g.py
 python3 tools/generate_compact_roots.py
 
 # Zorunlu sıfır hata bütünlük doğrulaması (her kök sonrası şart)
