@@ -1,5 +1,5 @@
 # MÜHÜRLÜ KÖKLER KAVRAM VE MESÂNÎ ÖZETİ (TABULA RASA v3.0)
-> **Toplam Mühürlü Kök:** 632 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
+> **Toplam Mühürlü Kök:** 633 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
 
 | Kök (Arapça) | Kök (Latin) | Tek Çekirdek Mekanizması (Unified Core) | Mesânî Zıttı |
 | :--- | :--- | :--- | :--- |
@@ -606,7 +606,7 @@
 | `ح-ص-ي` | `H-S-Y (HSY)` | Çakıl taşlarıyla tek tek sayıp kayda geçirmek, eksiksiz hesaplamak ve kuşatıp kavramak | ن-س-ي, غ-ف-ل |
 | `ك-ل-ف` | `K-L-F (KLF)` | Sorumluluk ve yük yüklemek, güç yetirilecek sınırı zorlamak veya kendiliğinden zorlama iddiaya kalkışmak | و-س-ع, ي-س-ر |
 | `و-ب-ل` | `W-B-L (WBL)` | İri sağanak halinde şiddetle boşalmak veya bir eylemin ağır ve sarsıcı sonucunu yüklenmek | ط-ل-ل, خ-ف-ف |
-| `ع-ص-م` | `'-S-M (ESM)` | Kopmaz bir bağa sıkıca tutunmak, dağılmaktan ve zarardan koruyup engellemek | ف-ر-ق, خ-ذ-ل |
+| `ع-ص-م` | `'-S-M (ESM)` | Kopmaz bir bağa sıkıca tutunmak, dağılmaktan ve zarardan koruyup engellemek | ف-ر-ق, خ-ذ-ل, غ-ر-ق (`لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ... فَكَانَ مِنَ ٱلْمُغْرَقِينَ` `11:43` — Kopmaz Tutunakla Korunmak vs Dalgaya Kapılıp Sulara Gömülmek) |
 | `أ-س-و` | `'-S-W (ASW)` | Yarayı onarıp teselli bulmak, tutunulacak örnek model olmak veya kaybedilene kederlenmek | ف-ر-ح |
 | `ث-ق-ف` | `TH-Q-F (VQF)` | Eğriliği doğrultup kıskıvrak yakalamak, rast gelinen yerde ele geçirip denetim altına almak | ف-و-ت, ف-ر-ر |
 | `م-ح-ن` | `M-H-N (MHN)` | Zorlu bir sınamadan geçirerek içteki özü ve samimiyeti yoklayıp ortaya çıkarmak | ظ-ن-ن |
@@ -635,3 +635,4 @@
 | `ب-ي-ض` | `B-Y-D (BYD)` | Lekesiz ve parlak beyazlık/aklık, yüzün aydınlanıp ağarması ve saklı yumurta | س-و-د, ج-ي-ب, غ-ر-ب |
 | `ك-و-د` | `K-W-D (KWD)` | Bir eylemin, durumun veya sonucun gerçekleşme sınırına ve eşiğine kıl payı dayanması (ramak kalması); olumlu kurguda eylemin tam gerçekleşme noktasının kıyısında durmayı, olumsuzluk ekiyle birlikte ise bağlama göre o eşiğe ancak büyük zorlukla ulaşmayı yahut gerçekleşme sınırına hiç yaklaşamamayı bildirir. | ف-ع-ل, و-ق-ع |
 | `ث-م-ر` | `S-M-R (SMR)` | Bir canlıdan, bitkiden ya da emek ve doğa sürecinden aşamalı gelişimle türeyip bir araya gelerek ortaya çıkan olgun ürün, meyve ve bereketli verim hasılası. | ن-ق-ص, خ-و-ي, ح-ر-ق |
+| `غ-ر-ق` | `G-R-K (GRK)` | Bir durumun veya hareketin en son uç sınırına kadar varıp bütünüyle kaplaması; fiziksel suda nefes ve çıkış yolunu kapatacak biçimde başaşıp içine gömerek boğması ve bir çekme eyleminde dibine kadar varması. | ن-ج-و, ع-ص-م |

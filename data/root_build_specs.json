@@ -45228,5 +45228,127 @@
       }
     ],
     "context_default": "Aşamalı gelişimle ortaya çıkan olgun ürün, meyve ve bereketli verim"
+  },
+  "غ-ر-ق": {
+    "buckwalter": "grq",
+    "slug": "grq",
+    "concept_name": "Gark, İğrâk ve Garkâ (Sulara Gömülüp Boğulmak ve Son Sınıra Kadar Varmak)",
+    "keywords": [
+      "boğ",
+      "gark",
+      "sulara",
+      "suya",
+      "batır",
+      "çekip"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "garoq",
+        "label": "Mef'ûl-i mutlak nâibi / hâl mansûb masdar (غَرْقًا — 79:1) — en son uç sınırına ve dibine kadar vararak"
+      },
+      {
+        "lemma": "garaq",
+        "label": "Müfred marife merfû' isim (ٱلْغَرَقُ — fâil, 10:90) — nefes ve çıkış yolunu kapatan boğulma hâli"
+      },
+      {
+        "lemma": "m~ugoraquwn",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Bâb IV ism-i mef'ûl cemi müzekker mecrûr (ٱلْمُغْرَقِينَ — 11:43) — sulara gömülüp boğulanlar"
+      },
+      {
+        "lemma": "m~ugoraquwn",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Bâb IV ism-i mef'ûl cemi müzekker merfû' (مُّغْرَقُونَ — 11:37, 23:27, 44:24) — sularla kaplanıp boğulacak olanlar"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Bâb IV edilgen mâzî fiil (أُغْرِقُوا۟ — 3MP, 71:25) — sularla kaplanıp boğuldular"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "IMPF",
+          "JUS"
+        ],
+        "label": "Bâb IV meczûm muzâri fiil (نُغْرِقْهُمْ — 1P, 36:43) — dilersek onları sulara gömüp boğarız"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "IMPF",
+          "2MS"
+        ],
+        "label": "Bâb IV mensûb muzâri fiil (لِتُغْرِقَ — 2MS, 18:71) — gemidekileri suya batırıp boğasın diye"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "IMPF",
+          "3MS"
+        ],
+        "label": "Bâb IV mensûb muzâri fiil (فَيُغْرِقَكُم — 3MS, 17:69) — sizi sulara gömüp boğması"
+      },
+      {
+        "pos": "V",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Bâb IV etken mâzî fiil (أَغْرَقْنَا / أَغْرَقْنَٰهُ / أَغْرَقْنَٰهُمْ — 1P) — sularla bütünüyle kaplayıp içine gömmek"
+      }
+    ],
+    "irab_default": "İğrâk/Gark türevi — suyla kaplanıp boğulma veya son sınıra varma",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "79:1"
+        ],
+        "text": "Hareketin En Uç Sınırına Kadar Uzanan Çekiş (`79:1`): En son ucuna ve dibine kadar vararak kuvvetle çekip alanlara (`وَٱلنَّٰزِعَٰتِ غَرْقًا`) dikkat çekilmesi."
+      },
+      {
+        "ayahs": [
+          "2:50",
+          "7:136",
+          "8:54",
+          "10:90",
+          "17:103",
+          "26:66",
+          "43:55",
+          "44:24"
+        ],
+        "text": "Firavun Ordusunun Yarılan Denizde Sulara Gömülmesi (`2:50`, `7:136`, `8:54`, `10:90`, `17:103`, `26:66`, `43:55`, `44:24`): İsrailoğulları kurtarılırken zorba ordunun açık denizin ortasında sularla kaplanıp boğulması."
+      },
+      {
+        "ayahs": [
+          "7:64",
+          "10:73",
+          "11:37",
+          "11:43",
+          "21:77",
+          "23:27",
+          "25:37",
+          "26:120",
+          "29:40",
+          "37:82",
+          "71:25"
+        ],
+        "text": "Nûh Dönemi ve Tarihsel Toplumların Su Baskınıyla Sonlanması (`7:64`, `10:73`, `11:37`, `11:43`, `21:77`, `23:27`, `25:37`, `26:120`, `29:40`, `37:82`, `71:25`): Gemidekiler korunup kurtarılırken gerçeği yalanlayanların sular altında kalması."
+      },
+      {
+        "ayahs": [
+          "17:69",
+          "18:71",
+          "36:43"
+        ],
+        "text": "Deniz Yolculuğu, Gemi Delinmesi ve Dalga Sınavı (`17:69`, `18:71`, `36:43`): Denizde fırtınaya yakalanma, geminin delinmesi (`18:71`) ve yardım yetişmeyen boğulma ihtimaliyle insanın aczini hatırlaması."
+      }
+    ],
+    "context_default": "Sularla kaplanıp dibe gömülerek boğulma ve son sınıra varma"
   }
 }
