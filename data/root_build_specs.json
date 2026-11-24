@@ -46435,5 +46435,66 @@
       }
     ],
     "context_default": "Hareketli biyolojik canlılık ve yaratılış düzeni bağlamı"
+  },
+  "ل-د-ن": {
+    "buckwalter": "ldn",
+    "slug": "ldn",
+    "concept_name": "Ledün (Araya Aracı Girmeden Doğrudan Öz Katından ve Tam Yanı Başından)",
+    "keywords": [
+      "katından",
+      "doğrudan",
+      "yanından",
+      "huzur",
+      "kaynak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "l~adun",
+        "features_contains": [
+          "T"
+        ],
+        "label": "Açık isim önüne gelen mebnî zarf (مِن لَّدُنْ حَكِيمٍ خَبِيرٍ — 11:1) — hikmet ve haber sahibi zattan doğrudan"
+      },
+      {
+        "lemma": "l~adun",
+        "label": "Zamir veya isme muzâf mebnî mekân/kaynak zarfı (`لَّدُنكَ / لَّدُنَّا / لَّدُنْهُ / لَّدُنِّى / لَّدُنْ` — 17 geçiş) — aracısız öz katından/yanından"
+      }
+    ],
+    "irab_default": "Ledün zarfı — doğrudan öznenin tam yanı başından ve aracısız öz katından",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:1",
+          "18:2",
+          "18:65",
+          "20:99",
+          "27:6"
+        ],
+        "text": "Vahiy ve Özel Bilginin Doğrudan Kaynağı (`11:1`, `18:2,65`, `20:99`, `27:6`): Kitabın, Kur'an'ın, zikrin, uyarının ve öğretilen özel bilginin (`مِن لَّدُنَّا عِلْمًا`) doğrudan Hikmetli Bilen katından gelişi."
+      },
+      {
+        "ayahs": [
+          "3:8",
+          "3:38",
+          "4:75",
+          "17:80",
+          "18:10",
+          "19:5",
+          "19:13"
+        ],
+        "text": "Rahmet, Koruyucu Destek ve Temiz Soy Talepleri (`3:8,38`, `4:75`, `17:80`, `18:10`, `19:5,13`): Zorda kalanların ve elçilerin doğrudan Rabbin öz katından (`مِن لَّدُنكَ`) rahmet, veli, yardımcı ve güç dilemesi."
+      },
+      {
+        "ayahs": [
+          "4:40",
+          "4:67",
+          "18:76",
+          "21:17",
+          "28:57"
+        ],
+        "text": "Büyük Ödül, Rızık ve İnsanî Sınır (`4:40,67`, `18:76`, `21:17`, `28:57`): İyiliklerin katından büyük ödülle taçlandırılması, güvenli bölgede doğrudan rızık ve Mûsâ'nın yol arkadaşından son mazeret sınırına ulaşması."
+      }
+    ],
+    "context_default": "Aracısız doğrudan kaynak ve yakınlık bağlamı"
   }
 }

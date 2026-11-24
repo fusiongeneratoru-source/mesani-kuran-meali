@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 646,
+    "total_locked": 647,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -795,7 +795,8 @@
         "أ-ه-ل (E-H-L (Ahl) — Çift Yönlü Mesânî Karşılığı: 11:46, 24:27)",
         "ن-د-و (N-D-W (ndw) — Çift Yönlü Mesânî Karşılığı: 41:44, 50:41)",
         "و-ل-ي (W-L-Y — Çift Yönlü Mesânî Karşılığı: 2:27, 47:22)",
-        "ق-ر-ن [قَالَ يَٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ] (İki Doğu Arası Kadar Uzaklık Özlemi ↔ İnsana Ayrılmaz Biçimde Yapışmış Yoldaş: 43:38)"
+        "ق-ر-ن [قَالَ يَٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ] (İki Doğu Arası Kadar Uzaklık Özlemi ↔ İnsana Ayrılmaz Biçimde Yapışmış Yoldaş: 43:38)",
+        "ل-د-ن (`3:8`, `18:76` — araya mesafe ve kopuş girmesi karşısında doğrudan öznenin tam yanı başından ve öz katından)"
       ]
     },
     "د-ع-و": {
@@ -1336,7 +1337,8 @@
         "ع-ل-م (ع-ل-م ↔ غ-ي-ر Mesânî simetrisi)",
         "م-ث-ل (م-ث-ل ↔ غ-ي-ر Mesânî simetrisi)",
         "ح-س-ب (ح-س-ب ↔ غ-ي-ر Mesânî simetrisi)",
-        "س-ل-ط (س-ل-ط ↔ غ-ي-ر Mesânî simetrisi)"
+        "س-ل-ط (س-ل-ط ↔ غ-ي-ر Mesânî simetrisi)",
+        "ل-د-ن (`11:1`, `27:6` — başkasından/yabancı kaynaktan gelen karşısında doğrudan Rabbin kendi öz katından)"
       ]
     },
     "و-ع-د": {
@@ -1402,7 +1404,8 @@
       "opposites": [
         "ع-ل-و / ك-ب-ر (En Yüce ve Mutlak Büyük Konum vs Alt/Berideki Sahte Odaklar — 3:64, 10:18, 22:62, 31:30)",
         "ف-و-ق / ك-ب-ر (Üstte ve En Büyük Olma vs Beride/Aşağıda Kalma — 7:205, 32:21, 72:11)",
-        "ك-ب-ر (ك-ب-ر ↔ د-و-ن Mesânî simetrisi)"
+        "ك-ب-ر (ك-ب-ر ↔ د-و-ن Mesânî simetrisi)",
+        "ل-د-ن (`27:6` — asıl üst merkezin berisinde kalan ikincil odak karşısında doğrudan üst merkezin öz katı)"
       ]
     },
     "ن-ع-م": {
@@ -1580,7 +1583,8 @@
         "ص-د-ق (ص-د-ق ↔ خ-ل-ف Mesânî simetrisi)",
         "أ-م-م (أ-م-م ↔ خ-ل-ف Mesânî simetrisi)",
         "و-ح-د (و-ح-د ↔ خ-ل-ف Mesânî simetrisi)",
-        "أ-م-ر (أ-م-ر ↔ خ-ل-ف Mesânî simetrisi)"
+        "أ-م-ر (أ-م-ر ↔ خ-ل-ف Mesânî simetrisi)",
+        "ل-د-ن (`19:5` `مِن وَرَآءِى ... مِن لَّدُنكَ` — geride kalan yetersiz mirasçılar karşısında doğrudan katından bağışlanan destek)"
       ]
     },
     "أ-ه-ل": {
@@ -8116,6 +8120,18 @@
         "ج-م-د",
         "س-ك-ن",
         "م-و-ت"
+      ]
+    },
+    "ل-د-ن": {
+      "latin": "L-D-N (LDN)",
+      "core": "Araya mesafe veya ikincil aracı girmeksizin doğrudan öznenin tam yanı başını ve en yakın öz katını bildiren kaynak zarfı (`لَدُنْ` — her zaman `مِن لَّدُنْ...` kalıbıyla doğrudan Allah katından gelen vahiy, rahmet, bilgi, ödül ve korumayı; `18:76`'da ise kişinin bizzat kendi yanındaki mazeret sınırını anlatır).",
+      "physical": "İbn Fâris'in tespit ettiği somut kök anlamı ('taze ve esnek dal gibi yumuşak ve hemen yan başta uyumlu durmak [اللّين والقرب المتّصل]'): mekân ve kaynak bildiren `لَدُن` zarfına dönüştüğünde 'araya dış aracı, uzaklık veya yabancı mesafe girmeksizin doğrudan öznenin tam yanı başı ve en yakın iç katı' anlamına kilitlenir. Kur'an'da 18 geçişin 17'sinde `مِن لَّدُنْ...` kalıbıyla Allah'ın doğrudan ve aracısız öz kaynağından indirilen rahmet, güç, bilgi, koruma ve vahyi; 18:76'da ise kişinin kendi yanından artık son mazeret sınırına ulaşmayı bildirir.",
+      "opposites": [
+        "ب-ع-د",
+        "غ-ي-ر",
+        "د-و-ن",
+        "خ-ل-ف",
+        "غ-ي-ب"
       ]
     }
   }
