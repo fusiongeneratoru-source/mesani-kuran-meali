@@ -45671,5 +45671,91 @@
       }
     ],
     "context_default": "Ufalanmış toprak maddesi, toza düşkünlük veya simetrik denklik"
+  },
+  "ر-ب-ع": {
+    "buckwalter": "rbE",
+    "slug": "rbE",
+    "concept_name": "Erbaa, Râbi', Rubu' ve Rubâ' (Dört Sayısı, Dördüncü, Dörtte Bir ve Kırk Döngüsü)",
+    "keywords": [
+      "dört",
+      "kırk",
+      "dördüncü",
+      "dörder",
+      "dörtte bir"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "r~ubuE",
+        "label": "Marife merfû' kesir ismi (ٱلرُّبُعُ — mübtedâ-i muahhar, 4:12) — bırakılan mirasın dörtte biri"
+      },
+      {
+        "lemma": "ruba`E",
+        "label": "Gayr-ı munsarıf fetha mebnî/mansûb üleştirme ismi (وَرُبَٰعَ — Rasm'da elifsiz وربع, 4:3, 35:1) — dörderli grup/sayı"
+      },
+      {
+        "lemma": "raAbiE",
+        "label": "Muzâf merfû' sıra sayısı ismi (رَابِعُهُمْ — 18:22, 58:7) — üçlünün dördüncüsü"
+      },
+      {
+        "lemma": ">arobaE",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Cemi müzekker sâlim tarzında mansûb sayı/zaman zarfı (أَرْبَعِينَ — 2:51, 5:26, 7:142, 46:15) — kırk gece, kırk yıl veya kırk yaş"
+      },
+      {
+        "lemma": ">arobaEap",
+        "label": "Müennes sayı ismi (أَرْبَعَة / بِأَرْبَعَةِ) — dört ay, dört gün, dört kuş veya dört tanık"
+      },
+      {
+        "lemma": ">arobaE",
+        "label": "Müzekker sayı ismi (أَرْبَعُ / أَرْبَعَ / أَرْبَعٍ) — dört tanıklık (24:6,8) veya dört ayak (24:45)"
+      }
+    ],
+    "irab_default": "Erbaa/Rubu' türevi — dört sayısı, dörtte bir veya kırk ölçüsü",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:12"
+        ],
+        "text": "Miras Hukukunda Dörtte Bir Kesir Oranı (`4:12`): Çocuk bulunup bulunmamasına göre eşlere düşen dörtte bir (`ٱلرُّبُعُ`) yasal pay dengesi."
+      },
+      {
+        "ayahs": [
+          "4:3",
+          "4:15",
+          "24:4",
+          "24:6",
+          "24:8",
+          "24:13"
+        ],
+        "text": "Aile ve İspat Hukukunda Dört Sınırı (`4:3,15`, `24:4,6,8,13`): Adalet şartıyla en fazla dörderli eş sınırı (`4:3`) ve ağır suçlama/iftirada dört tanık veya dört antlı beyan şartı."
+      },
+      {
+        "ayahs": [
+          "2:51",
+          "2:226",
+          "2:234",
+          "5:26",
+          "7:142",
+          "9:2",
+          "9:36",
+          "46:15"
+        ],
+        "text": "Zaman Vadeleri, Dokunulmaz Aylar ve Kırk Döngüsü (`2:51,226,234`, `5:26`, `7:142`, `9:2,36`, `46:15`): Dört aylık bekleme/dokunulmazlık süreleri ile kırk gece, kırk yıl ve kırk yaş olgunluk dönemi."
+      },
+      {
+        "ayahs": [
+          "2:260",
+          "18:22",
+          "24:45",
+          "35:1",
+          "41:10",
+          "58:7"
+        ],
+        "text": "Yaratılış Evreleri, Canlı Yapısı ve Kuşatıcı Gözetim (`2:260`, `18:22`, `24:45`, `35:1`, `41:10`, `58:7`): Dört kuş misali, dört ayak üzerinde yürüyen canlılar, ikişer-üçer-dörder kanatlı göksel elçiler, yeryüzü rızıklarının dört evrede takdiri ve üçlünün dördüncüsü olan ilahi gözetim."
+      }
+    ],
+    "context_default": "Dört sayısı, dördüncü konum, dörtte bir kesir veya kırk döngüsü"
   }
 }

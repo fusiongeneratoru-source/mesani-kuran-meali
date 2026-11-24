@@ -2,8 +2,8 @@
 ## Tabula Rasa Mesânî Çözümleme Sistemi (v3.0 — Faz 2 Öncesi 450 Kök Tam Zırhı)
 
 > [!IMPORTANT]
-> **HEDEF KAPSAM:** İlk 400 mühürlü kökten (`%84,51`) sonra, meal aşamasına geçmeden önce Fâtiha suresinin tamamını, kısa surelerin (93-114) kalan çekirdek düğümlerini, 3+ açık Mesânî referanslarını ve en yüksek frekanslı mühürsüz kavramları kapatan **50 kritik kök** (1205 geçiş) mühürlenerek toplam sözlük **450 kilitli köke (`%92,58` kümülatif kapsam)** ulaştırılır.
-> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 636 Kök | Güncel Kapsam: %92,58)
+> **HEDEF KAPSAM:** İlk 400 mühürlü kökten (`%84,51`) sonra, meal aşamasına geçmeden önce Fâtiha suresinin tamamını, kısa surelerin (93-114) kalan çekirdek düğümlerini, 3+ açık Mesânî referanslarını ve en yüksek frekanslı mühürsüz kavramları kapatan **50 kritik kök** (1205 geçiş) mühürlenerek toplam sözlük **450 kilitli köke (`%92,63` kümülatif kapsam)** ulaştırılır.
+> **Etap 3D İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 637 Kök | Güncel Kapsam: %92,63)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
