@@ -172,12 +172,15 @@ def seal_package(json_path, do_push=False):
         sealed_roots.append((ar_root, entry['rank'], entry.get('root_latin', '')))
 
     # Çift yönlü Mesânî simetrisini otomatik senkronize et
+    import re
+    root_ref_re = re.compile(r'[\u0621-\u064a]-[\u0621-\u064a]-[\u0621-\u064a](?:-[\u0621-\u064a])?')
     locked_map = locked_json['locked_roots']
     for r_key, r_val in list(locked_map.items()):
-        for target in r_val.get('mesani_opposite', {}).get('roots', []):
+        mo_list = r_val.get('mesani_opposite', {}).get('roots', [])
+        for target in set(root_ref_re.findall(json.dumps(mo_list, ensure_ascii=False))) - {r_key}:
             if target in locked_map:
                 t_roots = locked_map[target].setdefault('mesani_opposite', {}).setdefault('roots', [])
-                if r_key not in t_roots:
+                if r_key not in json.dumps(t_roots, ensure_ascii=False):
                     t_roots.append(r_key)
 
     total_locked = len(locked_json['locked_roots'])

@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3G (Kısa Sureler %100 Tam Kilit Genişletmesi [20 Sure], Açık Mesânî Tepe Uçları ve 600. Kök Çekirdek Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 20,
+  "locked_count": 30,
   "total_tokens_in_package": 764,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 90.46,
+  "current_coverage_pct": 90.61,
   "target_coverage_pct": 91.77,
   "etap_3g_roots": [
     {
@@ -379,8 +379,8 @@
       "frequency": 16,
       "unique_ayahs": 11,
       "rationale": "Hıyânet ve Hâin (3 açık Mesânî ref! أ-م-ن doğrudan zıddı 16 geçiş: 4:105, 8:27, 8:58, 12:52, 40:19, 66:10 emanete ve ahde ihanet etmek)",
-      "concept_label": "Analiz Bekliyor (xaAnu, xaA^}iniyn, yaxotaAnu, xaw~aAn)",
-      "is_locked": false,
+      "concept_label": "Hıyânet ve Havn (Güvenilen Emanetten Gizlice Eksiltme Yapmak ve Sadakati Bozmak)",
+      "is_locked": true,
       "sample_ayah": "2:187",
       "top_lemmas": [
         "xaAnu",
@@ -399,8 +399,8 @@
       "frequency": 19,
       "unique_ayahs": 17,
       "rationale": "Mağrib, Gurûb ve Garâbîb (2 Mesânî + 1 Furûk ref! ش-ر-ق ve ط-ل-ع zıddı 19 geçiş: güneşin batışı, batı yönü ve 35:27 kuzguni siyah)",
-      "concept_label": "Analiz Bekliyor (magorib, guraAb, garabat, guruwb)",
-      "is_locked": false,
+      "concept_label": "Ğurûb, Mağrib ve Ğarâbîb (Ufuktan Çekilip Uzaklaşma, Güneşin Batışı, Batı ve Kuzgunî Siyahlık)",
+      "is_locked": true,
       "sample_ayah": "2:115",
       "top_lemmas": [
         "magorib",
@@ -419,8 +419,8 @@
       "frequency": 8,
       "unique_ayahs": 8,
       "rationale": "Gâbirîn ve Gabere (2 açık Mesânî ref! ن-ج-و zıddı 8 geçiş: 7:83, 15:60, 26:171, 29:32 yıkımda geride kalanlar ve 80:40 toz çökmüş yüzler)",
-      "concept_label": "Analiz Bekliyor (ga`biriyn, gabarap)",
-      "is_locked": false,
+      "concept_label": "Ğâbirîn ve Ğabere (Kurtulanların Ardından Geride Kalanlar ve Yüzeye Çöken Boz Toz Tabakası)",
+      "is_locked": true,
       "sample_ayah": "7:83",
       "top_lemmas": [
         "ga`biriyn",
@@ -437,8 +437,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Hasr, İhsâr ve Hasîr (2 açık Mesânî ref! 6 geçiş: 2:196, 2:273 kuşatılıp alıkonulmak, 4:90 göğüsleri daralmak, 17:8 kuşatıcı tutukevi)",
-      "concept_label": "Analiz Bekliyor (>uHoSiru, HaSirato, HaSuwr, HaSiyr)",
-      "is_locked": false,
+      "concept_label": "Hasr, İhsâr ve Hasûr (Kuşatıp Sıkıştırmak, Hareket Alanını Daraltıp Alıkoymak ve Özdenetim)",
+      "is_locked": true,
       "sample_ayah": "2:196",
       "top_lemmas": [
         ">uHoSiru",
@@ -457,8 +457,8 @@
       "frequency": 5,
       "unique_ayahs": 4,
       "rationale": "Şuhh ve Eşıhha' (2 açık Mesânî ref! و-ق-ي ve ي-س-ر eşleniği 5 geçiş: 4:128, 33:19, 59:9, 64:16 benliğin doymak bilmez bencil cimriliği)",
-      "concept_label": "Analiz Bekliyor ($uH~)",
-      "is_locked": false,
+      "concept_label": "Şuhh ve Eşihha (Hırsla Birleşmiş Doyumsuz Cimrilik ve Benliğin Bencil Tutkusu)",
+      "is_locked": true,
       "sample_ayah": "4:128",
       "top_lemmas": [
         "$uH~"
@@ -474,8 +474,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Berd ve Bered (2 açık Mesânî ref! ح-م-م ve ن-و-ر zıddı 5 geçiş: 21:69 serinlik ve esenlik, 24:43 dolu taneleri, 56:44, 78:24 serinlik)",
-      "concept_label": "Analiz Bekliyor (barod, baArid, barad)",
-      "is_locked": false,
+      "concept_label": "Berd, Bârid ve Berad (Yakıcı Harareti Dindiren Serinlik, Soğukluk ve Gökten İnen Dolu)",
+      "is_locked": true,
       "sample_ayah": "21:69",
       "top_lemmas": [
         "barod",
@@ -493,8 +493,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Fevt ve Tefâvüt (2 açık Mesânî ref! 5 geçiş: 34:51, 57:23, 60:11 elden kaçıp gitmek ve 67:3 yaratılışta uyumsuzluk/kopukluk olmaması)",
-      "concept_label": "Analiz Bekliyor (faAta, fawot, tafa`wut)",
-      "is_locked": false,
+      "concept_label": "Fevt ve Tefâvüt (Erişim Mesafesinden Çıkıp Elden Kaçmak ve Parçalar Arası Uyumsuzluk)",
+      "is_locked": true,
       "sample_ayah": "3:153",
       "top_lemmas": [
         "faAta",
@@ -512,8 +512,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Hâviye (2 açık Mesânî ref! ع-ر-ش eşleniği 5 geçiş: 2:259, 18:42, 22:45, 27:52, 69:7 içi boşalıp tavanları üzerine çökmüş harabe/kütük)",
-      "concept_label": "Analiz Bekliyor (xaAwiyap)",
-      "is_locked": false,
+      "concept_label": "Hâviye (İçi Boşalarak Tavanları Üzerine Çökmüş Yapı ve İçi Kof Devrilmiş Gövde)",
+      "is_locked": true,
       "sample_ayah": "2:259",
       "top_lemmas": [
         "xaAwiyap"
@@ -529,8 +529,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "İffet, İsti'fâf ve Teaffüf (2 açık Mesânî ref! 4 geçiş: 2:273 onurlu tok gözlülük, 4:6 yetim malından, 24:33, 24:60 gayrimeşru ilişkiden sakınmak)",
-      "concept_label": "Analiz Bekliyor (yasotaEofifo, t~aEaf~uf)",
-      "is_locked": false,
+      "concept_label": "İsti'fâf ve Te'affüf (Öz Benliği Uygunsuz İstekten Dizginlemek, Tok Gözlülük ve İffet)",
+      "is_locked": true,
       "sample_ayah": "2:273",
       "top_lemmas": [
         "yasotaEofifo",
@@ -547,8 +547,8 @@
       "frequency": 3,
       "unique_ayahs": 3,
       "rationale": "İsr (2 Mesânî + 1 Furûk ref! غ-ل-ل eşleniği 3 geçiş: 2:286, 7:157 insanı bağlayıp ezen ağır yük/boyunduruk ve 3:81 bağlayıcı ağır ahit)",
-      "concept_label": "Analiz Bekliyor (<iSor)",
-      "is_locked": false,
+      "concept_label": "İsr (İnsanı Sımsıkı Bağlayıp Sıkıştıran Ağır Yükümlülük ve Bağlayıcı Ahit)",
+      "is_locked": true,
       "sample_ayah": "2:286",
       "top_lemmas": [
         "<iSor"

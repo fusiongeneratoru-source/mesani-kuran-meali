@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 550 mühürlü kökten (`%90,24`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 82 İnfitâr, 92 Leyl, 93 Duhâ, 95 Tîn, 106 Kureyş → **20 tam kilitli sure**), 3 ve 2 açık Mesânî referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 24–36 geçiş) olmak üzere **50 kök** (764 geçiş) mühürlenerek toplam sözlük **600 kilitli köke (`%91,77` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%94,79`'u)** ulaştırılır.
-> **Etap 3G İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 570 Kök | Güncel Kapsam: %90,46)
+> **Etap 3G İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 580 Kök | Güncel Kapsam: %90,61)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -27,16 +27,16 @@
 | 18 | Kısa Sure %100 Kilidi | 793 | `ك-و-ك-ب` | `K-W-K-B` | **5** | 5 | 6:76 | Kevkeb ve Kevâkib (Gökyüzünde Yükselip Parıldayan Gezegen ve İri Yıldız Kütlesi) | ✅ **MÜHÜRLÜ** |
 | 19 | Kısa Sure %100 Kilidi | 1022 | `ن-ث-ر` | `N-S-R` | **3** | 3 | 25:23 | İntisâr ve Mensûr (Dizili Bağı Çözülüp Etrafa Dağınık Biçimde Saçılmak ve Dökülmek) | ✅ **MÜHÜRLÜ** |
 | 20 | Kısa Sure %100 Kilidi | 1244 | `ب-ع-ث-ر` | `B-A-S-R` | **2** | 2 | 82:4 | Ba'sere (Zeminin Altını Üstüne Getirip İçinde Gömülü Olanı Dışarı Deşmek ve Çıkarmak) | ✅ **MÜHÜRLÜ** |
-| 21 | Açık Mesânî Zırhı | 449 | `خ-و-ن` | `H-W-N` | **16** | 11 | 2:187 | Hıyânet ve Hâin (3 açık Mesânî ref! أ-م-ن doğrudan zıddı 16 geçiş: 4:105, 8:27, 8:58, 12:52, 40:19, 66:10 emanete ve ahde ihanet etmek) | ⏳ *Bekliyor* |
-| 22 | Açık Mesânî Zırhı | 413 | `غ-ر-ب` | `G-R-B` | **19** | 17 | 2:115 | Mağrib, Gurûb ve Garâbîb (2 Mesânî + 1 Furûk ref! ش-ر-ق ve ط-ل-ع zıddı 19 geçiş: güneşin batışı, batı yönü ve 35:27 kuzguni siyah) | ⏳ *Bekliyor* |
-| 23 | Açık Mesânî Zırhı | 654 | `غ-ب-ر` | `G-B-R` | **8** | 8 | 7:83 | Gâbirîn ve Gabere (2 açık Mesânî ref! ن-ج-و zıddı 8 geçiş: 7:83, 15:60, 26:171, 29:32 yıkımda geride kalanlar ve 80:40 toz çökmüş yüzler) | ⏳ *Bekliyor* |
-| 24 | Açık Mesânî Zırhı | 702 | `ح-ص-ر` | `H-S-R` | **6** | 6 | 2:196 | Hasr, İhsâr ve Hasîr (2 açık Mesânî ref! 6 geçiş: 2:196, 2:273 kuşatılıp alıkonulmak, 4:90 göğüsleri daralmak, 17:8 kuşatıcı tutukevi) | ⏳ *Bekliyor* |
-| 25 | Açık Mesânî Zırhı | 786 | `ش-ح-ح` | `S-H-H` | **5** | 4 | 4:128 | Şuhh ve Eşıhha' (2 açık Mesânî ref! و-ق-ي ve ي-س-ر eşleniği 5 geçiş: 4:128, 33:19, 59:9, 64:16 benliğin doymak bilmez bencil cimriliği) | ⏳ *Bekliyor* |
-| 26 | Açık Mesânî Zırhı | 829 | `ب-ر-د` | `B-R-D` | **5** | 5 | 21:69 | Berd ve Bered (2 açık Mesânî ref! ح-م-م ve ن-و-ر zıddı 5 geçiş: 21:69 serinlik ve esenlik, 24:43 dolu taneleri, 56:44, 78:24 serinlik) | ⏳ *Bekliyor* |
-| 27 | Açık Mesânî Zırhı | 776 | `ف-و-ت` | `F-W-T` | **5** | 5 | 3:153 | Fevt ve Tefâvüt (2 açık Mesânî ref! 5 geçiş: 34:51, 57:23, 60:11 elden kaçıp gitmek ve 67:3 yaratılışta uyumsuzluk/kopukluk olmaması) | ⏳ *Bekliyor* |
-| 28 | Açık Mesânî Zırhı | 767 | `خ-و-ي` | `H-W-Y` | **5** | 5 | 2:259 | Hâviye (2 açık Mesânî ref! ع-ر-ش eşleniği 5 geçiş: 2:259, 18:42, 22:45, 27:52, 69:7 içi boşalıp tavanları üzerine çökmüş harabe/kütük) | ⏳ *Bekliyor* |
-| 29 | Açık Mesânî Zırhı | 845 | `ع-ف-ف` | `A-F-F` | **4** | 4 | 2:273 | İffet, İsti'fâf ve Teaffüf (2 açık Mesânî ref! 4 geçiş: 2:273 onurlu tok gözlülük, 4:6 yetim malından, 24:33, 24:60 gayrimeşru ilişkiden sakınmak) | ⏳ *Bekliyor* |
-| 30 | Açık Mesânî Zırhı | 943 | `أ-ص-ر` | `E-S-R` | **3** | 3 | 2:286 | İsr (2 Mesânî + 1 Furûk ref! غ-ل-ل eşleniği 3 geçiş: 2:286, 7:157 insanı bağlayıp ezen ağır yük/boyunduruk ve 3:81 bağlayıcı ağır ahit) | ⏳ *Bekliyor* |
+| 21 | Açık Mesânî Zırhı | 449 | `خ-و-ن` | `H-W-N` | **16** | 11 | 2:187 | Hıyânet ve Havn (Güvenilen Emanetten Gizlice Eksiltme Yapmak ve Sadakati Bozmak) | ✅ **MÜHÜRLÜ** |
+| 22 | Açık Mesânî Zırhı | 413 | `غ-ر-ب` | `G-R-B` | **19** | 17 | 2:115 | Ğurûb, Mağrib ve Ğarâbîb (Ufuktan Çekilip Uzaklaşma, Güneşin Batışı, Batı ve Kuzgunî Siyahlık) | ✅ **MÜHÜRLÜ** |
+| 23 | Açık Mesânî Zırhı | 654 | `غ-ب-ر` | `G-B-R` | **8** | 8 | 7:83 | Ğâbirîn ve Ğabere (Kurtulanların Ardından Geride Kalanlar ve Yüzeye Çöken Boz Toz Tabakası) | ✅ **MÜHÜRLÜ** |
+| 24 | Açık Mesânî Zırhı | 702 | `ح-ص-ر` | `H-S-R` | **6** | 6 | 2:196 | Hasr, İhsâr ve Hasûr (Kuşatıp Sıkıştırmak, Hareket Alanını Daraltıp Alıkoymak ve Özdenetim) | ✅ **MÜHÜRLÜ** |
+| 25 | Açık Mesânî Zırhı | 786 | `ش-ح-ح` | `S-H-H` | **5** | 4 | 4:128 | Şuhh ve Eşihha (Hırsla Birleşmiş Doyumsuz Cimrilik ve Benliğin Bencil Tutkusu) | ✅ **MÜHÜRLÜ** |
+| 26 | Açık Mesânî Zırhı | 829 | `ب-ر-د` | `B-R-D` | **5** | 5 | 21:69 | Berd, Bârid ve Berad (Yakıcı Harareti Dindiren Serinlik, Soğukluk ve Gökten İnen Dolu) | ✅ **MÜHÜRLÜ** |
+| 27 | Açık Mesânî Zırhı | 776 | `ف-و-ت` | `F-W-T` | **5** | 5 | 3:153 | Fevt ve Tefâvüt (Erişim Mesafesinden Çıkıp Elden Kaçmak ve Parçalar Arası Uyumsuzluk) | ✅ **MÜHÜRLÜ** |
+| 28 | Açık Mesânî Zırhı | 767 | `خ-و-ي` | `H-W-Y` | **5** | 5 | 2:259 | Hâviye (İçi Boşalarak Tavanları Üzerine Çökmüş Yapı ve İçi Kof Devrilmiş Gövde) | ✅ **MÜHÜRLÜ** |
+| 29 | Açık Mesânî Zırhı | 845 | `ع-ف-ف` | `A-F-F` | **4** | 4 | 2:273 | İsti'fâf ve Te'affüf (Öz Benliği Uygunsuz İstekten Dizginlemek, Tok Gözlülük ve İffet) | ✅ **MÜHÜRLÜ** |
+| 30 | Açık Mesânî Zırhı | 943 | `أ-ص-ر` | `E-S-R` | **3** | 3 | 2:286 | İsr (İnsanı Sımsıkı Bağlayıp Sıkıştıran Ağır Yükümlülük ve Bağlayıcı Ahit) | ✅ **MÜHÜRLÜ** |
 | 31 | Yüksek Frekanslı Çekirdek | 260 | `أ-ن-ي` | `E-N-Y` | **36** | 36 | 2:223 | İnâ, Ânâ', Âniye ve Ân (36 geçiş — #1 kalan kök! 33:53 pişme vakti, 3:113 gece saatleri, 76:15 kaplar ve 55:44 kaynama zirvesi) | ⏳ *Bekliyor* |
 | 32 | Yüksek Frekanslı Çekirdek | 263 | `ح-ي-ن` | `H-Y-N` | **35** | 33 | 2:36 | Hîn (35 geçiş — #2 kalan kök! 2:36, 14:25, 21:111, 38:88 belirli zaman dilimi, vade ve olgunlaşma vakti) | ⏳ *Bekliyor* |
 | 33 | Yüksek Frekanslı Çekirdek | 266 | `م-ر-ر` | `M-R-R` | **35** | 32 | 2:229 | Merr, Merre, Müstemirr, Murr ve Mirre (35 geçiş — #3 kalan kök! Geçip gitmek, kez/defa, 54:46 daha acı ve 53:6 sağlam güç) | ⏳ *Bekliyor* |
