@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%93,13` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 39 / 50 Kök (Toplam Mühürlü: 639 Kök | Güncel Kapsam: %92,71)
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 640 Kök | Güncel Kapsam: %92,75)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -46,7 +46,7 @@
 | 37 | Yüksek Frekanslı Çekirdek | 378 | `ر-ب-ع` | `R-B-A` | **22** | 21 | 2:51 | Erbaa, Râbi', Rubu' ve Rubâ' (Dört Sayısı, Dördüncü, Dörtte Bir ve Kırk Döngüsü) | ✅ **MÜHÜRLÜ** |
 | 38 | Yüksek Frekanslı Çekirdek | 381 | `ت-م-م` | `T-M-M` | **22** | 20 | 2:124 | Temâm ve İtmâm (Süreci, Süreyi, Sözü ve Işığı Eksiksiz Son Sınırına Ulaştırmak) | ✅ **MÜHÜRLÜ** |
 | 39 | Yüksek Frekanslı Çekirdek | 403 | `ن-خ-ل` | `N-H-L` | **20** | 20 | 2:266 | Nahl ve Nahîl (Hurma Ağacı, Tekil Hurma ve Hurmalıklar) | ✅ **MÜHÜRLÜ** |
-| 40 | Yüksek Frekanslı Çekirdek | 399 | `س-ن-و` | `S-N-W` | **20** | 20 | 2:96 | Sene, Sinîn ve Senâ (20 geçiş — #10 kalan kök! 2:96, 7:130, 10:5, 12:47, 17:12, 24:43, 29:14 kuraklık/bolluk yılı, yıllar ve şimşeğin parıltısı) | ⏳ *Bekliyor* |
+| 40 | Yüksek Frekanslı Çekirdek | 399 | `س-ن-و` | `S-N-W` | **20** | 20 | 2:96 | Sene, Sinîn ve Senâ (Yıl Döngüsü, Kıtlık Yılları ve Şimşek Parıltısı) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 407 | `ص-ن-ع` | `S-N-A` | **20** | 19 | 5:14 | Sun', San'at ve Masâni' (20 geçiş | 1F: 7:137, 11:37, 18:104, 20:39, 20:41, 21:80, 26:129, 27:88 maharet ve özenle işleyip imal etmek) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 400 | `م-ر-ي` | `M-R-Y` | **20** | 19 | 2:147 | Mirye, İmtirâ' ve Temârî (20 geçiş | 1F: 2:147, 6:114, 11:17, 15:63, 18:22, 41:54, 53:12, 54:36 sağa-sola çekerek kuşku ve çekişmeye düşmek) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 408 | `ح-ز-ب` | `H-Z-B` | **20** | 17 | 5:56 | Hizb ve Ahzâb (20 geçiş | 1M+1F: 5:56, 11:17, 18:12, 33:20-22, 38:11-13, 40:30, 58:19-22 ortak bir tavır ve çıkar etrafında kümelenmiş taraf/grup) | ⏳ *Bekliyor* |

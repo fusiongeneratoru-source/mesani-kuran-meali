@@ -45918,5 +45918,82 @@
       }
     ],
     "context_default": "Hurma ağacı ve rızık/doğa yasası bağlamı"
+  },
+  "س-ن-و": {
+    "buckwalter": "snw",
+    "slug": "snw",
+    "concept_name": "Sene, Sinîn ve Senâ (Yıl Döngüsü, Kıtlık Yılları ve Şimşek Parıltısı)",
+    "keywords": [
+      "yıl",
+      "yıllar",
+      "kıtlık yılı",
+      "parıltı",
+      "takvim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sanaA",
+        "label": "Muzâf mecrûr tekil isim (`سَنَا بَرْقِهِۦ` — 24:43, dikey elifle yazılır) — şimşeğin kamaştırıcı parıltısı"
+      },
+      {
+        "lemma": "siniyn",
+        "features_contains": [
+          "T"
+        ],
+        "label": "Mansûb zaman zarfı (فَلَبِثْتَ سِنِينَ — 20:40) — Medyen halkı içinde geçirilen yıllar"
+      },
+      {
+        "lemma": "siniyn",
+        "label": "Mülhak çoğul isim (سِنِينَ / ٱلسِّنِينَ — 11 geçiş) — yıl sayısı hesabı, uzun kalış veya kuraklık yılları"
+      },
+      {
+        "lemma": "sanap",
+        "label": "Tekil sayı temyizi / yıl ismi (سَنَةٍ / سَنَةً — 7 geçiş) — kırk, bin ve elli bin yıllık süre birimi"
+      }
+    ],
+    "irab_default": "Sene / Sinîn / Senâ türevi — yıllık döngü veya şimşek parıltısı",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "10:5",
+          "17:12",
+          "22:47",
+          "32:5",
+          "70:4"
+        ],
+        "text": "Kozmik Ölçü ve Göreceli Zaman Yasası (`10:5`, `17:12`, `22:47`, `32:5`, `70:4`): Ay menzilleri ve gece-gündüz düzeniyle sayılan yıllar ile evrensel günlerin `1.000` ve `50.000` yıla denkliği."
+      },
+      {
+        "ayahs": [
+          "2:96",
+          "5:26",
+          "12:42",
+          "18:11",
+          "18:25",
+          "20:40",
+          "23:112",
+          "26:18",
+          "26:205",
+          "29:14",
+          "30:4",
+          "46:15"
+        ],
+        "text": "Tarihî Süreler, Ömür ve Bekleyiş Döngüleri (`2:96`, `5:26`, `12:42`, `18:11,25`, `20:40`, `23:112`, `26:18,205`, `29:14`, `30:4`, `46:15`): Kırk yıl, dokuz yüz elli yıl, üç yüz dokuz yıl ve insan ömrünün kırk yaş eşiği."
+      },
+      {
+        "ayahs": [
+          "7:130",
+          "12:47"
+        ],
+        "text": "Kuraklık, Kıtlık ve Tarımsal Yıl Döngüsü (`7:130`, `12:47`): Firavun ailesini yakalayan kıtlık yılları ve yedi yıllık kesintisiz ekim döngüsü."
+      },
+      {
+        "ayahs": [
+          "24:43"
+        ],
+        "text": "Atmosferik Parıltı Çizgisi (`24:43`): Dolu ve yağmur bulutlarından çıkan şimşeğin göz alıcı parıltısı (`سَنَا بَرْقِهِۦ`)."
+      }
+    ],
+    "context_default": "Yıllık zaman döngüsü ve takvim ölçüsü bağlamı"
   }
 }
