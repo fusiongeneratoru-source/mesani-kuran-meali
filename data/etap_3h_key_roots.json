@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3H (Sure %100 Tam Kilit Genişletmesi [25 Sure], 3+ Açık Mesânî/Furûk Tepe Uçları ve 650. Kök Çekirdek Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 20,
+  "locked_count": 30,
   "total_tokens_in_package": 680,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 92.11,
+  "current_coverage_pct": 92.31,
   "target_coverage_pct": 93.13,
   "etap_3h_roots": [
     {
@@ -386,8 +386,8 @@
       "frequency": 10,
       "unique_ayahs": 9,
       "rationale": "Def' ve Dâfi' (4 açık ref: 2M+2F! و-ق-ع zıddı 10 geçiş: 2:251, 4:6, 22:38, 23:96, 52:8, 70:2 itip savuşturmak ve hakkını teslim etmek)",
-      "concept_label": "Analiz Bekliyor (dafaEo, dafoE, daAfiE, yuda`fiEu)",
-      "is_locked": false,
+      "concept_label": "Def' ve Müdâfaa (İtip Uzaklaştırmak, Kötülüğü Savmak ve Hakkı Teslim Etmek)",
+      "is_locked": true,
       "sample_ayah": "2:251",
       "top_lemmas": [
         "dafaEo",
@@ -406,8 +406,8 @@
       "frequency": 17,
       "unique_ayahs": 17,
       "rationale": "Meşrık, İşrâk ve Şarkıyye (3 açık ref: 2M+1F! غ-ر-ب zıddı 17 geçiş: 2:115, 2:142, 2:258, 24:35, 38:18, 39:69 güneşin doğup parlaması ve doğu)",
-      "concept_label": "Analiz Bekliyor (ma$oriq, m~u$oriqiyn, $aroqiy~, $aroqiy~ap)",
-      "is_locked": false,
+      "concept_label": "Meşrık ve İşrâk (Işığın Ufku Yarıp Doğması, Parlayıp Aydınlatmak ve Doğu Ufku)",
+      "is_locked": true,
       "sample_ayah": "2:115",
       "top_lemmas": [
         "ma$oriq",
@@ -426,8 +426,8 @@
       "frequency": 14,
       "unique_ayahs": 14,
       "rationale": "Revâsî ve Mürsâ (3 açık ref: 2M+1F! س-ي-ر ve م-و-د zıddı 14 geçiş: 7:187, 11:41, 13:3, 16:15, 79:32 demir atıp sabitlenmek ve sabit dağlar)",
-      "concept_label": "Analiz Bekliyor (rawa`siY, murosaY`, >arosaY`)",
-      "is_locked": false,
+      "concept_label": "Revâsî ve Mürsâ (Zemine Sağlamca Oturup Sabitlenen Dağlar ve Demir Atıp Durma)",
+      "is_locked": true,
       "sample_ayah": "7:187",
       "top_lemmas": [
         "rawa`siY",
@@ -445,8 +445,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "İbret, İ'tibâr ve Âbirî (3 açık ref: 1M+2F! 9 geçiş: 3:13, 4:43, 12:43, 12:111, 24:44, 59:2 bir yakadan diğerine geçmek, yorumlamak ve ders çıkarmak)",
-      "concept_label": "Analiz Bekliyor (Eiborap, EaAbiriY, taEoburu, {Eotabiru)",
-      "is_locked": false,
+      "concept_label": "İbre ve İ'tibâr (Bir Yakadan Karşı Yakaya Geçmek ve Görünen Olaydan Hakikate Geçip Ders Çıkarmak)",
+      "is_locked": true,
       "sample_ayah": "3:13",
       "top_lemmas": [
         "Eiborap",
@@ -465,8 +465,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Katr, Katere veMukter (3 açık ref: 1M+2F! س-ر-ف ve ب-س-ط zıddı 5 geçiş: 2:236, 17:100, 25:67, 42:27, 80:41 eli sıkıp kısmak ve koyu is/toz)",
-      "concept_label": "Analiz Bekliyor (muqotir, qatar, qatuwr, yaqoturu)",
-      "is_locked": false,
+      "concept_label": "İktâr ve Katere (Harcamayı/Geçimi Kısıp Daraltmak ve Yüzü Bürüyen Koyu Dumanlı Karartı)",
+      "is_locked": true,
       "sample_ayah": "2:236",
       "top_lemmas": [
         "muqotir",
@@ -485,8 +485,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Gıtâ' ve Ağtâ (3 açık ref: 2M+1F! ك-ش-ف ve ض-ح-و zıddı 2 geçiş: 18:101, 50:22 gözün ve gecenin üzerine çekilen koyu örtü/perde)",
-      "concept_label": "Analiz Bekliyor (giTaA^')",
-      "is_locked": false,
+      "concept_label": "Ğıtâ' (Görüşü ve Algıyı Bürüyüp Kapatan Kalın Örtü)",
+      "is_locked": true,
       "sample_ayah": "18:101",
       "top_lemmas": [
         "giTaA^'"
@@ -502,8 +502,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Câmide (3 açık ref: 2M+1F! م-ر-ر doğrudan zıddı 27:88: dağların donmuş gibi hareketsiz ve sabit sanılması)",
-      "concept_label": "Analiz Bekliyor (jaAmidap)",
-      "is_locked": false,
+      "concept_label": "Câmide (Donup Katılaşmış ve Olduğu Yerde Hareketsiz Duran)",
+      "is_locked": true,
       "sample_ayah": "27:88",
       "top_lemmas": [
         "jaAmidap"
@@ -519,8 +519,8 @@
       "frequency": 13,
       "unique_ayahs": 13,
       "rationale": "Vakt ve Mîkât (2 açık Mesânî ref! ح-ي-ن ve أ-ن-ي eşleniği 13 geçiş: 4:103, 7:142, 15:38, 44:40, 77:11, 78:17 sınırları belirlenmiş vakit)",
-      "concept_label": "Analiz Bekliyor (miyqa`t, waqot, m~awoquwt, >uq~itato)",
-      "is_locked": false,
+      "concept_label": "Vakt ve Mîkât (Sınırları Tayin Edilmiş Kesin Zaman Noktası ve Buluşma Vakti)",
+      "is_locked": true,
       "sample_ayah": "2:189",
       "top_lemmas": [
         "miyqa`t",
@@ -539,8 +539,8 @@
       "frequency": 13,
       "unique_ayahs": 13,
       "rationale": "Necm ve Nücûm (2 açık ref: 1M+1F! ش-ج-ر eşleniği 13 geçiş: 6:97, 16:16, 53:1, 55:6, 56:75, 86:3 doğup beliren yıldız ve gövdesiz bitki)",
-      "concept_label": "Analiz Bekliyor (n~ajom)",
-      "is_locked": false,
+      "concept_label": "Necm ve Nücûm (Baş Gösterip Doğmak; Gökte Doğan Yıldızlar ve Gövdesiz Bitki)",
+      "is_locked": true,
       "sample_ayah": "6:97",
       "top_lemmas": [
         "n~ajom"
@@ -556,8 +556,8 @@
       "frequency": 12,
       "unique_ayahs": 12,
       "rationale": "Ebyad, Beydâ' ve İbyadda (2 açık Mesânî ref! س-و-د zıddı 12 geçiş: 2:187, 3:106-107, 7:108, 12:84, 35:27, 37:46-49 beyaz olmak ve yumurta)",
-      "concept_label": "Analiz Bekliyor (>aboyaD, {boyaD~ato, bayoD)",
-      "is_locked": false,
+      "concept_label": "Ebyad ve Beyâd (Lekesiz Parlak Beyazlık, Yüzlerin Aydınlanıp Ağarması ve Saklı Yumurta)",
+      "is_locked": true,
       "sample_ayah": "2:187",
       "top_lemmas": [
         ">aboyaD",

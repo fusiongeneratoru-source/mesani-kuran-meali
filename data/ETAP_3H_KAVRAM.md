@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%93,13` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 620 Kök | Güncel Kapsam: %92,11)
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 630 Kök | Güncel Kapsam: %92,31)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -27,16 +27,16 @@
 | 18 | Sure %100 Kilidi | 609 | `ح-ر-ق` | `H-R-K` | **9** | 9 | 2:266 | Harîk ve Tahrîk (Ateşin Yakıcı Aleviyle Kavurup Yakmak ve Kavurucu Yangın) | ✅ **MÜHÜRLÜ** |
 | 19 | Sure %100 Kilidi | 892 | `م-ج-د` | `M-C-D` | **4** | 4 | 11:73 | Mecîd (Cömertlik, Ululuk, Şeref ve Tükenmez Anlam Bolluğunda Zirvede Olan) | ✅ **MÜHÜRLÜ** |
 | 20 | Sure %100 Kilidi | 1203 | `خ-د-د` | `H-D-D` | **2** | 2 | 31:18 | Hadd ve Uhdûd (Yüzün Yan Tarafı/Yanak ve Toprakta Boylu Boyunca Kazılan Derin Hendek) | ✅ **MÜHÜRLÜ** |
-| 21 | Açık Mesânî Zırhı | 577 | `د-ف-ع` | `D-F-A` | **10** | 9 | 2:251 | Def' ve Dâfi' (4 açık ref: 2M+2F! و-ق-ع zıddı 10 geçiş: 2:251, 4:6, 22:38, 23:96, 52:8, 70:2 itip savuşturmak ve hakkını teslim etmek) | ⏳ *Bekliyor* |
-| 22 | Açık Mesânî Zırhı | 438 | `ش-ر-ق` | `S-R-K` | **17** | 17 | 2:115 | Meşrık, İşrâk ve Şarkıyye (3 açık ref: 2M+1F! غ-ر-ب zıddı 17 geçiş: 2:115, 2:142, 2:258, 24:35, 38:18, 39:69 güneşin doğup parlaması ve doğu) | ⏳ *Bekliyor* |
-| 23 | Açık Mesânî Zırhı | 480 | `ر-س-و` | `R-S-W` | **14** | 14 | 7:187 | Revâsî ve Mürsâ (3 açık ref: 2M+1F! س-ي-ر ve م-و-د zıddı 14 geçiş: 7:187, 11:41, 13:3, 16:15, 79:32 demir atıp sabitlenmek ve sabit dağlar) | ⏳ *Bekliyor* |
-| 24 | Açık Mesânî Zırhı | 611 | `ع-ب-ر` | `A-B-R` | **9** | 9 | 3:13 | İbret, İ'tibâr ve Âbirî (3 açık ref: 1M+2F! 9 geçiş: 3:13, 4:43, 12:43, 12:111, 24:44, 59:2 bir yakadan diğerine geçmek, yorumlamak ve ders çıkarmak) | ⏳ *Bekliyor* |
-| 25 | Açık Mesânî Zırhı | 765 | `ق-ت-ر` | `K-T-R` | **5** | 5 | 2:236 | Katr, Katere veMukter (3 açık ref: 1M+2F! س-ر-ف ve ب-س-ط zıddı 5 geçiş: 2:236, 17:100, 25:67, 42:27, 80:41 eli sıkıp kısmak ve koyu is/toz) | ⏳ *Bekliyor* |
-| 26 | Açık Mesânî Zırhı | 1168 | `غ-ط-و` | `G-T-W` | **2** | 2 | 18:101 | Gıtâ' ve Ağtâ (3 açık ref: 2M+1F! ك-ش-ف ve ض-ح-و zıddı 2 geçiş: 18:101, 50:22 gözün ve gecenin üzerine çekilen koyu örtü/perde) | ⏳ *Bekliyor* |
-| 27 | Açık Mesânî Zırhı | 1451 | `ج-م-د` | `C-M-D` | **1** | 1 | 27:88 | Câmide (3 açık ref: 2M+1F! م-ر-ر doğrudan zıddı 27:88: dağların donmuş gibi hareketsiz ve sabit sanılması) | ⏳ *Bekliyor* |
-| 28 | Açık Mesânî Zırhı | 488 | `و-ق-ت` | `W-K-T` | **13** | 13 | 2:189 | Vakt ve Mîkât (2 açık Mesânî ref! ح-ي-ن ve أ-ن-ي eşleniği 13 geçiş: 4:103, 7:142, 15:38, 44:40, 77:11, 78:17 sınırları belirlenmiş vakit) | ⏳ *Bekliyor* |
-| 29 | Açık Mesânî Zırhı | 505 | `ن-ج-م` | `N-C-M` | **13** | 13 | 6:97 | Necm ve Nücûm (2 açık ref: 1M+1F! ش-ج-ر eşleniği 13 geçiş: 6:97, 16:16, 53:1, 55:6, 56:75, 86:3 doğup beliren yıldız ve gövdesiz bitki) | ⏳ *Bekliyor* |
-| 30 | Açık Mesânî Zırhı | 522 | `ب-ي-ض` | `B-Y-D` | **12** | 12 | 2:187 | Ebyad, Beydâ' ve İbyadda (2 açık Mesânî ref! س-و-د zıddı 12 geçiş: 2:187, 3:106-107, 7:108, 12:84, 35:27, 37:46-49 beyaz olmak ve yumurta) | ⏳ *Bekliyor* |
+| 21 | Açık Mesânî Zırhı | 577 | `د-ف-ع` | `D-F-A` | **10** | 9 | 2:251 | Def' ve Müdâfaa (İtip Uzaklaştırmak, Kötülüğü Savmak ve Hakkı Teslim Etmek) | ✅ **MÜHÜRLÜ** |
+| 22 | Açık Mesânî Zırhı | 438 | `ش-ر-ق` | `S-R-K` | **17** | 17 | 2:115 | Meşrık ve İşrâk (Işığın Ufku Yarıp Doğması, Parlayıp Aydınlatmak ve Doğu Ufku) | ✅ **MÜHÜRLÜ** |
+| 23 | Açık Mesânî Zırhı | 480 | `ر-س-و` | `R-S-W` | **14** | 14 | 7:187 | Revâsî ve Mürsâ (Zemine Sağlamca Oturup Sabitlenen Dağlar ve Demir Atıp Durma) | ✅ **MÜHÜRLÜ** |
+| 24 | Açık Mesânî Zırhı | 611 | `ع-ب-ر` | `A-B-R` | **9** | 9 | 3:13 | İbre ve İ'tibâr (Bir Yakadan Karşı Yakaya Geçmek ve Görünen Olaydan Hakikate Geçip Ders Çıkarmak) | ✅ **MÜHÜRLÜ** |
+| 25 | Açık Mesânî Zırhı | 765 | `ق-ت-ر` | `K-T-R` | **5** | 5 | 2:236 | İktâr ve Katere (Harcamayı/Geçimi Kısıp Daraltmak ve Yüzü Bürüyen Koyu Dumanlı Karartı) | ✅ **MÜHÜRLÜ** |
+| 26 | Açık Mesânî Zırhı | 1168 | `غ-ط-و` | `G-T-W` | **2** | 2 | 18:101 | Ğıtâ' (Görüşü ve Algıyı Bürüyüp Kapatan Kalın Örtü) | ✅ **MÜHÜRLÜ** |
+| 27 | Açık Mesânî Zırhı | 1451 | `ج-م-د` | `C-M-D` | **1** | 1 | 27:88 | Câmide (Donup Katılaşmış ve Olduğu Yerde Hareketsiz Duran) | ✅ **MÜHÜRLÜ** |
+| 28 | Açık Mesânî Zırhı | 488 | `و-ق-ت` | `W-K-T` | **13** | 13 | 2:189 | Vakt ve Mîkât (Sınırları Tayin Edilmiş Kesin Zaman Noktası ve Buluşma Vakti) | ✅ **MÜHÜRLÜ** |
+| 29 | Açık Mesânî Zırhı | 505 | `ن-ج-م` | `N-C-M` | **13** | 13 | 6:97 | Necm ve Nücûm (Baş Gösterip Doğmak; Gökte Doğan Yıldızlar ve Gövdesiz Bitki) | ✅ **MÜHÜRLÜ** |
+| 30 | Açık Mesânî Zırhı | 522 | `ب-ي-ض` | `B-Y-D` | **12** | 12 | 2:187 | Ebyad ve Beyâd (Lekesiz Parlak Beyazlık, Yüzlerin Aydınlanıp Ağarması ve Saklı Yumurta) | ✅ **MÜHÜRLÜ** |
 | 31 | Yüksek Frekanslı Çekirdek | 359 | `ك-و-د` | `K-W-D` | **24** | 24 | 2:20 | Kâde ve Yekâdü (24 geçiş — #1 kalan kök! 2:20, 2:71, 14:17, 24:35, 24:43, 67:8 bir işin gerçekleşmeye ramak kalması: "neredeyse / az kalsın") | ⏳ *Bekliyor* |
 | 32 | Yüksek Frekanslı Çekirdek | 360 | `ث-م-ر` | `S-M-R` | **24** | 22 | 2:22 | Semer ve Semerât (24 geçiş — #2 kalan kök! 2:22, 2:266, 6:99, 6:141, 14:37, 16:67, 18:34 ağacın ve emeğin olgunlaşmış meyvesi/ürünü) | ⏳ *Bekliyor* |
 | 33 | Yüksek Frekanslı Çekirdek | 371 | `غ-ر-ق` | `G-R-K` | **23** | 23 | 2:50 | Gark, İğrâk ve Garkâ (23 geçiş | 1M — #3 kalan kök! 2:50, 7:136, 8:54, 10:90, 11:43, 79:1 suya batıp boğulmak ve derinliğine dalmak) | ⏳ *Bekliyor* |

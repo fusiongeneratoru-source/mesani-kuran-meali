@@ -44478,5 +44478,489 @@
       }
     ],
     "context_default": "Yüzün yan tarafını kibirle çevirme veya toprağı yarıp derin hendek kazma"
+  },
+  "د-ف-ع": {
+    "buckwalter": "dfE",
+    "slug": "dfe",
+    "concept_name": "Def' ve Müdâfaa (İtip Uzaklaştırmak, Kötülüğü Savmak ve Hakkı Teslim Etmek)",
+    "keywords": [
+      "def'",
+      "itip savmak",
+      "geri püskürtmek",
+      "malı sahibine teslim etmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "dafaEo",
+        "label": "Bâb I fiil — kötülüğü veya saldırıyı itip savmak yahut malı sahibine teslim etmek"
+      },
+      {
+        "lemma": "dafoE",
+        "label": "Mastar — bir gücü diğer bir güçle itip savma ve dengeleme (2:251, 22:40)"
+      },
+      {
+        "lemma": "daAfiE",
+        "label": "İsm-i fâil — gerçekleşecek yaptırımı itip geri çevirecek güç (52:8, 70:2)"
+      },
+      {
+        "lemma": "yuda`fiEu",
+        "label": "Bâb III muzâri fiil — saldırıları göğüsleyip geri püskürtmek ve savunmak (22:38)"
+      }
+    ],
+    "irab_default": "Def' türevi — itip uzaklaştırma, kötülüğü savma veya hakkı teslim etme",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:251",
+          "3:167",
+          "22:38",
+          "22:40",
+          "52:8",
+          "70:2"
+        ],
+        "text": "Zorbalığın İtilip Dengelenmesi Yasası ve Geri Çevrilemez İlahi Yaptırım: Yeryüzünün bozulmasını önleyen güçler dengesi (2:251, 22:40), güvenenlerin savunulması (22:38) ve ilahi hükmü geri çevirecek hiçbir gücün olmaması (52:8, 70:2)."
+      },
+      {
+        "ayahs": [
+          "4:6",
+          "23:96",
+          "28:54",
+          "41:34"
+        ],
+        "text": "Kötülüğü En Güzel Davranışla Savmak ve Yetim Malını Teslim Etmek: Kötülüğü iyilikle itip düşmanlığı dostluğa dönüştürmek ve rüştüne eren yetimlere mallarını devretmek."
+      }
+    ],
+    "context_default": "İtip uzaklaştırma, kötülüğü savıp püskürtme ve hakkı teslim etme"
+  },
+  "ش-ر-ق": {
+    "buckwalter": "$rq",
+    "slug": "srq",
+    "concept_name": "Meşrık ve İşrâk (Işığın Ufku Yarıp Doğması, Parlayıp Aydınlatmak ve Doğu Ufku)",
+    "keywords": [
+      "meşrık (doğu)",
+      "işrâk",
+      "güneşin doğup aydınlatması",
+      "doğuş ufukları (meşârık)"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ma$oriq",
+        "label": "İsm-i mekân (tekil/tesniye/çoğul) — güneşin doğduğu doğu yönü ve mevsimlik doğuş ufukları"
+      },
+      {
+        "lemma": "m~u$oriqiyn",
+        "label": "Bâb IV ism-i fâil çoğul (hâl) — güneşin doğup aydınlattığı sabah vaktine girenler (15:73, 26:60)"
+      },
+      {
+        "lemma": "$aroqiy~",
+        "label": "Nispet sıfatı — doğu yönüne ait (19:16)"
+      },
+      {
+        "lemma": "$aroqiy~ap",
+        "label": "Müennes nispet sıfatı — yalnızca doğuya ait olan (24:35)"
+      },
+      {
+        "lemma": "<i$oraAq",
+        "label": "Bâb IV mastar — sabah ışığının parlayıp yayıldığı kuşluk vakti (38:18)"
+      },
+      {
+        "lemma": ">a$oraqati",
+        "label": "Bâb IV mâzî fiil — yeryüzünün Rabbinin nuruyla parlayıp aydınlanması (39:69)"
+      }
+    ],
+    "irab_default": "Meşrık/İşrâk türevi — ışığın doğup aydınlatması ve doğu yönü",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:115",
+          "2:142",
+          "2:177",
+          "2:258",
+          "7:137",
+          "19:16",
+          "24:35",
+          "26:28",
+          "37:5",
+          "43:38",
+          "55:17",
+          "70:40",
+          "73:9"
+        ],
+        "text": "Doğu ve Batı Ufuklarının (Meşrık / Meşârık) Mutlak Egemenliği: Güneşin doğuş ve batış noktalarının tek Yaratıcıya ait olması."
+      },
+      {
+        "ayahs": [
+          "15:73",
+          "26:60",
+          "38:18",
+          "39:69"
+        ],
+        "text": "Sabahın Aydınlanma Vakti (İşrâk) ve Yeryüzünün İlahi Nurla Parlaması: Kuşluk vaktinde dağların tesbihi, gün doğumunda gerçekleşen tarihsel olaylar ve hesap günü yeryüzünün Rabbinin nuruyla aydınlanması."
+      }
+    ],
+    "context_default": "Işığın ufku yarıp doğması, parlayıp aydınlatma ve doğu ufku"
+  },
+  "ر-س-و": {
+    "buckwalter": "rsw",
+    "slug": "rsw",
+    "concept_name": "Revâsî ve Mürsâ (Zemine Sağlamca Oturup Sabitlenen Dağlar ve Demir Atıp Durma)",
+    "keywords": [
+      "revâsî (sabit dağlar)",
+      "mürsâ (demir atma yeri/vakti)",
+      "ersâ (sabitlemek)",
+      "râsiyât"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "rawa`siY",
+        "label": "İsm-i fâil çoğul (revâsî / râsiyât) — zemine sağlamca oturup denge veren sabit dağlar ve sabit kazanlar"
+      },
+      {
+        "lemma": "murosaY`",
+        "label": "Bâb IV ism-i zaman/mekân/mastar — geminin demir atıp durması veya son saatin demir atıp gerçekleşeceği vakit"
+      },
+      {
+        "lemma": ">arosaY`",
+        "label": "Bâb IV mâzî fiil — dağları zemine sağlamca oturtup sabitledi (79:32)"
+      }
+    ],
+    "irab_default": "Revâsî/Mürsâ türevi — zemine sağlamca oturup sabitlenme ve demir atıp durma",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:3",
+          "15:19",
+          "16:15",
+          "21:31",
+          "27:61",
+          "31:10",
+          "34:13",
+          "41:10",
+          "50:7",
+          "77:27",
+          "79:32"
+        ],
+        "text": "Yeryüzüne Denge Veren Sabit Dağlar (Revâsî) ve Sabit Kazanlar (Râsiyât): Yerkürenin sarsıntısını dengeleyen oturaklı dağ kütleleri ve yerinden kaldırılamaz sabit kazanlar."
+      },
+      {
+        "ayahs": [
+          "7:187",
+          "11:41",
+          "79:42"
+        ],
+        "text": "Geminin ve Son Saatin Demir Atıp Duracağı Vakit (Mürsâ): Nûh'un gemisinin demir atıp durması ve son saatin ne zaman demir atıp yerleşeceğinin sorulması."
+      }
+    ],
+    "context_default": "Zemine sağlamca oturup sabitlenme ve demir atıp durma"
+  },
+  "ع-ب-ر": {
+    "buckwalter": "Ebr",
+    "slug": "ebr",
+    "concept_name": "İbre ve İ'tibâr (Bir Yakadan Karşı Yakaya Geçmek ve Görünen Olaydan Hakikate Geçip Ders Çıkarmak)",
+    "keywords": [
+      "ibre (ders/ibret)",
+      "i'tibâr",
+      "karşıya geçmek",
+      "rüyayı yorumlamak (ta'bîr)"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Eiborap",
+        "label": "İsim — görünen olaydan görünmeyen hakikate ve yasaya geçiş sağlayan ders köprüsü"
+      },
+      {
+        "lemma": "EaAbiriY",
+        "label": "Bâb I ism-i fâil çoğul — konaklamadan yoldan geçip giden yolcular (4:43)"
+      },
+      {
+        "lemma": "taEoburu",
+        "label": "Bâb I muzâri fiil — rüyadaki sembollerden gerçek anlam ve sonuca geçip yorumlamak (12:43)"
+      },
+      {
+        "lemma": "{Eotabiru",
+        "label": "Bâb VIII emir fiil — görünen olaydan içteki evrensel yasaya geçip ders çıkarın (59:2)"
+      }
+    ],
+    "irab_default": "İbre/Ubûr türevi — bir yakadan karşı yakaya geçme ve olaydan ders çıkarma",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:13",
+          "12:111",
+          "16:66",
+          "23:21",
+          "24:44",
+          "59:2",
+          "79:26"
+        ],
+        "text": "Tarihsel ve Kozmik Olaylardan Hakikate Geçip Ders Çıkarmak (İbre / İ'tibâr): Kıssalarda, gece-gündüz döngüsünde ve canlıların yaratılışında kavrayış sahipleri için ders köprüsü bulunması."
+      },
+      {
+        "ayahs": [
+          "4:43",
+          "12:43"
+        ],
+        "text": "Yoldan Transit Geçiş (Âbirî Sebîl) ve Rüyadan Anlama Geçiş (Ta'burûn): Yolculuk halinde yoldan geçip gitmek ve rüya sembollerini gerçek anlamına geçirmek."
+      }
+    ],
+    "context_default": "Bir yakadan karşı yakaya geçme ve görünen olaydan ders çıkarma"
+  },
+  "ق-ت-ر": {
+    "buckwalter": "qtr",
+    "slug": "qtr",
+    "concept_name": "İktâr ve Katere (Harcamayı/Geçimi Kısıp Daraltmak ve Yüzü Bürüyen Koyu Dumanlı Karartı)",
+    "keywords": [
+      "harcamayı kısmak",
+      "muktir (darlıkta olan)",
+      "katûr (eli sıkı)",
+      "kater/katere (isli toz karartısı)"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "muqotir",
+        "label": "Bâb IV ism-i fâil — geçim imkânı dar ve kısıtlı olan (2:236)"
+      },
+      {
+        "lemma": "qatuwr",
+        "label": "Feûl vezni mübalağalı sıfat — eli çok sıkı, cimrilikle kısıp tutan (17:100)"
+      },
+      {
+        "lemma": "yaqoturu",
+        "label": "Bâb I muzâri fiil — harcamayı cimrilikle kısıp daraltmak (25:67)"
+      },
+      {
+        "lemma": "qatar",
+        "label": "İsim — yüzü bürüyen koyu dumanlı toz ve is karartısı (10:26)"
+      },
+      {
+        "lemma": "qatarap",
+        "label": "İsim — yüzü kaplayan boğucu is ve toz karartısı (80:41)"
+      }
+    ],
+    "irab_default": "Katr/Katere türevi — imkânı kısıp daraltma veya koyu dumanlı toz karartısı",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:236",
+          "17:100",
+          "25:67"
+        ],
+        "text": "Geçim Darlığı (Muktir) ve Harcamada Eli Sıkıp Cimrilik Etmeme (Katr / Katûr): İnfakta ne saçıp savurmak ne de eli sıkıp daraltmak; imkânı dar olanın kendi ölçüsünce sorumlu tutulması."
+      },
+      {
+        "ayahs": [
+          "10:26",
+          "80:41"
+        ],
+        "text": "Yüzleri Bürüyen Koyu İslı Toz Karartısı (Kater / Katere): Güzel davrananların yüzünü hiçbir isli karartının bürümemesi, gerçeği örtenlerin yüzünü ise koyu bir karartının kaplaması."
+      }
+    ],
+    "context_default": "İmkânı ve harcamayı kısıp daraltma veya yüzü bürüyen koyu toz karartısı"
+  },
+  "غ-ط-و": {
+    "buckwalter": "gTw",
+    "slug": "gtw",
+    "concept_name": "Ğıtâ' (Görüşü ve Algıyı Bürüyüp Kapatan Kalın Örtü)",
+    "keywords": [
+      "ğıtâ'",
+      "kalın örtü",
+      "gaflet perdesi",
+      "örtünün kaldırılması"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "giTaA^'",
+        "label": "İsim — gözü ve algıyı bürüyüp kapatan kalın örtü ve perde (18:101, 50:22)"
+      }
+    ],
+    "irab_default": "Ğıtâ' türevi — görüşü ve algıyı bürüyüp kapatan kalın örtü",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:101",
+          "50:22"
+        ],
+        "text": "Dünyada Gözleri Bürüyen Gaflet Örtüsü ve Hesap Günü Örtünün Sıyrılıp Açılması: Öğüde karşı gözleri kalın örtü içinde olanların (18:101) hesap günü örtülerinin kaldırılmasıyla keskin görüşe kavuşması (50:22)."
+      }
+    ],
+    "context_default": "Görüşü ve algıyı bürüyüp kapatan kalın örtü"
+  },
+  "ج-م-د": {
+    "buckwalter": "jmd",
+    "slug": "jmd",
+    "concept_name": "Câmide (Donup Katılaşmış ve Olduğu Yerde Hareketsiz Duran)",
+    "keywords": [
+      "câmide",
+      "donmuş",
+      "katılaşıp hareketsiz duran",
+      "dağların hareketi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jaAmidap",
+        "label": "Bâb I ism-i fâil (mef'ûl-i sânî) — donmuş, katılaşıp olduğu yerde hareketsiz duran (27:88)"
+      }
+    ],
+    "irab_default": "Cumûd türevi — donup katılaşma ve hareketsiz durma",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "27:88"
+        ],
+        "text": "Hareketsiz/Donmuş Sanılan Dağların Bulutlar Gibi Akıp Gitmesi: Her şeyi sağlam ve kusursuz yapan Yaratıcının düzeninde dağların donmuş sanılırken bulutlar gibi akıp geçmesi."
+      }
+    ],
+    "context_default": "Donup katılaşma ve olduğu yerde hareketsiz durma"
+  },
+  "و-ق-ت": {
+    "buckwalter": "wqt",
+    "slug": "wqt",
+    "concept_name": "Vakt ve Mîkât (Sınırları Tayin Edilmiş Kesin Zaman Noktası ve Buluşma Vakti)",
+    "keywords": [
+      "vakt",
+      "mîkât (tayin edilmiş buluşma vakti)",
+      "mevâkît (zaman ölçüleri)",
+      "mevkût"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "miyqa`t",
+        "label": "İsm-i zaman/mekân (tekil: mîkât, çoğul: mevâkît) — önceden tayin edilmiş kesin buluşma vakti ve zaman ölçüleri"
+      },
+      {
+        "lemma": "waqot",
+        "label": "İsim — bir olayın gerçekleşmesi için sınırları çizilmiş kesin zaman noktası"
+      },
+      {
+        "lemma": "m~awoquwt",
+        "label": "Bâb I ism-i mef'ûl — belirli vakitlere bağlanıp sınırları tayin edilmiş (4:103)"
+      },
+      {
+        "lemma": ">uq~itato",
+        "label": "Bâb II meçhûl mâzî fiil (وَقَّتَتْ -> أُقِّتَتْ) — elçiler için tayin edilen tanıklık vaktinin gelip çatması (77:11)"
+      }
+    ],
+    "irab_default": "Vakt/Mîkât türevi — sınırları tayin edilmiş kesin zaman noktası ve buluşma vakti",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:189",
+          "4:103",
+          "7:142",
+          "7:143",
+          "7:155",
+          "26:38"
+        ],
+        "text": "Zaman Ölçüleri (Mevâkît), Belirli Vakitli Görev (Mevkût) ve Buluşma Randevuları: Hilallerin zaman ölçüsü olması, yöneliş görevinin belirli vakitlere bağlanması ve Mûsâ'nın buluşma vakti."
+      },
+      {
+        "ayahs": [
+          "7:187",
+          "15:38",
+          "38:81",
+          "44:40",
+          "56:50",
+          "77:11",
+          "78:17"
+        ],
+        "text": "Bilinen Mühlet Vakti ve Hüküm Gününün Kesin Buluşma Vakti (Mîkât): İblîs'e bilinen vakte kadar verilen mühlet ve ayırt etme gününün tüm insanlık ve elçiler için tayin edilmiş kesin buluşma vakti olması."
+      }
+    ],
+    "context_default": "Sınırları kesin olarak tayin edilmiş zaman noktası ve buluşma vakti"
+  },
+  "ن-ج-م": {
+    "buckwalter": "njm",
+    "slug": "njm",
+    "concept_name": "Necm ve Nücûm (Baş Gösterip Doğmak; Gökte Doğan Yıldızlar ve Gövdesiz Bitki)",
+    "keywords": [
+      "necm (yıldız / gövdesiz bitki)",
+      "nücûm (yıldızlar)",
+      "baş gösterip doğmak",
+      "yıldızla yön bulmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "n~ajom",
+        "label": "İsim (tekil: necm, çoğul: nücûm) — karanlıkta doğup yön gösteren yıldızlar ve topraktan baş gösteren gövdesiz bitki"
+      }
+    ],
+    "irab_default": "Necm türevi — baş gösterip doğan yıldız ve gövdesiz bitki",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:97",
+          "7:54",
+          "16:12",
+          "16:16",
+          "22:18",
+          "37:88",
+          "52:49",
+          "53:1",
+          "55:6",
+          "56:75",
+          "86:3"
+        ],
+        "text": "İlahi Yasaya Boyun Eğen, Yön Gösteren Yıldızlar ve Gövdesiz Bitki: Karanlıklarda kendisiyle yön bulunan yıldızlar ve gövdeli ağaçla birlikte yasaya boyun eğen gövdesiz bitki/yıldız (55:6)."
+      },
+      {
+        "ayahs": [
+          "77:8",
+          "81:2"
+        ],
+        "text": "Kozmik Dönüşümde Işığı Silinip Dökülen Yıldızlar: Son saatte yıldızların ışığının silinip dağılması."
+      }
+    ],
+    "context_default": "Baş gösterip doğan, karanlıkta yön gösteren yıldızlar ve gövdesiz bitki"
+  },
+  "ب-ي-ض": {
+    "buckwalter": "byD",
+    "slug": "byd",
+    "concept_name": "Ebyad ve Beyâd (Lekesiz Parlak Beyazlık, Yüzlerin Aydınlanıp Ağarması ve Saklı Yumurta)",
+    "keywords": [
+      "ebyad / beydâ' (parlak beyaz)",
+      "yüzlerin ağarıp aydınlanması",
+      "fecrin beyaz çizgisi",
+      "beyd (yumurta)"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aboyaD",
+        "label": "Ef'al/Fa'lâ/Fu'l vezni sıfat (ebyad / beydâ' / bîd) — lekesiz ve parlak beyaz"
+      },
+      {
+        "lemma": "{boyaD~ato",
+        "label": "Bâb IX fiil (tebyaddu / ibyaddat) — yüzlerin sevinçle ağarıp aydınlanması veya gözlerin kederden ağarması"
+      },
+      {
+        "lemma": "bayoD",
+        "label": "İsim — saklı ve korunmuş yumurta (37:49)"
+      }
+    ],
+    "irab_default": "Beyâd türevi — lekesiz parlak beyazlık ve ağarıp aydınlanma",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:187",
+          "7:108",
+          "20:22",
+          "26:33",
+          "27:12",
+          "28:32",
+          "35:27",
+          "37:46",
+          "37:49"
+        ],
+        "text": "Şafağın Beyaz Çizgisi, Mûsâ'nın Parlayan Beyaz Eli, Dağ Katmanları ve Saklı Yumurta: Doğadaki ve ayetlerdeki somut parlak beyazlık."
+      },
+      {
+        "ayahs": [
+          "3:106",
+          "3:107",
+          "12:84"
+        ],
+        "text": "Hesap Günü Ağarıp Aydınlanan Yüzler ve Kederden Ağaran Gözler: Hakikatte sebat edenlerin yüzlerinin ağarması (3:106-107) ve Ya'kûb'un kederden ağaran gözleri (12:84)."
+      }
+    ],
+    "context_default": "Lekesiz parlak beyazlık, yüzün aydınlanıp ağarması ve saklı yumurta"
   }
 }
