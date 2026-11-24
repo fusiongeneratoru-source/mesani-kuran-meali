@@ -45573,5 +45573,103 @@
       }
     ],
     "context_default": "Kendi gövde ve uzuvlarıyla adım adım ilerleyip yol alma"
+  },
+  "ت-ر-ب": {
+    "buckwalter": "trb",
+    "slug": "trb",
+    "concept_name": "Türâb, Etrâb ve Matrabe (Ufalanmış Toprak, Toza Düşmüş Yoksulluk ve Denk Yaşıtlar)",
+    "keywords": [
+      "toprak",
+      "toz",
+      "yaşıt",
+      "kaburga",
+      "yoksul",
+      "döşenmiş"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "matorabap",
+        "label": "Mîmli mecrûr isim (مَتْرَبَةٍ — ذَا muzâfun ileyhi, 90:16) — toza toprağa düşmüş ağır yoksulluk hâli"
+      },
+      {
+        "lemma": "t~araA^}ib",
+        "label": "Çoğul marife mecrûr isim (ٱلتَّرَآئِبِ — 86:7) — göğüs kafesinin simetrik kaburga kemikleri"
+      },
+      {
+        "lemma": ">atoraAb",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Çoğul nekre merfû' isim (أَتْرَابٌ — 38:52) — yaş ve uyumda birbirine denk eşler"
+      },
+      {
+        "lemma": ">atoraAb",
+        "label": "Çoğul nekre mansûb sıfat/isim (أَتْرَابًا — 56:37, 78:33) — düzey ve olgunlukta birbirine denk yaşıt eşler"
+      },
+      {
+        "lemma": "turaAb",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Müfred nekre merfû' isim (تُرَابٌ — 2:264) — kayanın üzerindeki ince toprak tabakası"
+      },
+      {
+        "lemma": "turaAb",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri"
+      },
+      {
+        "lemma": "turaAb",
+        "label": "Müfred mecrûr isim (تُرَابٍ / ٱلتُّرَابِ) — yaratılış ham maddesi veya içine gömülen yeryüzü toprağı"
+      }
+    ],
+    "irab_default": "Türâb/Terb türevi — ufalanmış toprak veya hiza denkliği",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:59",
+          "18:37",
+          "22:5",
+          "30:20",
+          "35:11",
+          "40:67"
+        ],
+        "text": "Biyolojik Yaratılışın Ham Maddesi (`3:59`, `18:37`, `22:5`, `30:20`, `35:11`, `40:67`): İnsanın temel inorganik toprak elementinden başlatılıp su damlası ve sonraki biyolojik evrelere taşınması."
+      },
+      {
+        "ayahs": [
+          "13:5",
+          "23:35",
+          "23:82",
+          "27:67",
+          "37:16",
+          "37:53",
+          "50:3",
+          "56:47",
+          "78:40"
+        ],
+        "text": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+      },
+      {
+        "ayahs": [
+          "2:264",
+          "16:59",
+          "90:16"
+        ],
+        "text": "Toprak Örtüsü, Toprağa Gömme ve Toza Düşmüş Yoksulluk (`2:264`, `16:59`, `90:16`): Gösterişli paylaşımın seldeki toprak gibi akıp gitmesi (`2:264`), kız çocuğunu toprağa gömme vahşeti (`16:59`) ve yoksulluktan toza toprağa düşen muhtaç (`90:16`)."
+      },
+      {
+        "ayahs": [
+          "38:52",
+          "56:37",
+          "78:33",
+          "86:7"
+        ],
+        "text": "Denklik, Yaşıt Eşler ve Simetrik Göğüs Yapısı (`38:52`, `56:37`, `78:33`, `86:7`): İkinci asıl ekseninde düzey ve yaş bakımından denk eşler (`أَتْرَاب`) ve üreme suyunun omurga ile göğüs kaburgaları arasından çıkışı (`86:7`)."
+      }
+    ],
+    "context_default": "Ufalanmış toprak maddesi, toza düşkünlük veya simetrik denklik"
   }
 }

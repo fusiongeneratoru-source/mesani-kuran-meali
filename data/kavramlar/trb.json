@@ -1,0 +1,508 @@
+{
+  "root": "ت-ر-ب",
+  "root_latin": "T-R-B (TRB)",
+  "concept_name": "Türâb, Etrâb ve Matrabe (Ufalanmış Toprak, Toza Düşmüş Yoksulluk ve Denk Yaşıtlar)",
+  "rank": 383,
+  "total_occurrences": 22,
+  "unique_ayahs_count": 22,
+  "unified_core_mechanism": "İki sahih asıl ekseninde işler: (1) Yeryüzünün ufalanmış kuru toprak/toz elementi, canlının ham maddesi, çözülen bedenin döneceği madde ve yoksullukla toprağa düşüş hâli (`تُرَاب / مَتْرَبَة`); (2) İki yanın düzey ve hizada birbirine denk eşitliği (`أَتْرَاب`: denk/yaşıt eşler; `تَرَآئِب`: simetrik göğüs kaburga kemikleri).",
+  "physical_core": "İbn Fâris'in açıkça ayırdığı iki sahih fiziksel asıldan oluşur: (1) Asıl: Yeryüzünün ufalanmış kuru toprak/toz tabakası (`تُرَاب`, 17 geçiş) ve yoksulluktan toprağa düşüp yapışma (`مَتْرَبَة`, `90:16`) — yaratılışın başlangıç ham maddesi (`3:59`, `22:5`, `30:20`), çözülen bedenin dönüşeceği zerreler (`23:82`, `50:3`, `78:40`) ve kaya üzerindeki verimli ince örtü (`2:264`). (2) Asıl: İki tarafın düzey ve hizada birbirine denk düşmesi (`تساوى الشيئين`) — aynı yaş ve uyum düzeyindeki denk eşler (`أَتْرَاب`, `38:52`, `56:37`, `78:33`) ile göğsün iki yanında simetrik dizili kaburga kemikleri (`تَرَآئِب`, `86:7`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Kökte birbiriyle karıştırılmaması gereken iki bağımsız asıl tespit eder: (1) Kuru ufalanmış toprak/toz ve bundan türeyen toza yapışma/yoksulluk (`تَرِبَ` / `مَتْرَبَة`), (2) İki şeyin aynı düzeyde eşitlenip denk düşmesi (`أَتْرَاب` ve uçları eşit göğüs kaburgaları `تَرِيب / تَرَائِب`).",
+    "lisan_al_arab": "التُّرَابُ yeryüzünün ufalanmış üst örtüsüdür; مَتْرَبَة şiddetli darlıktan toprağa yapışma hâli, أَتْرَاب yaşıt ve denk kimseler, تَرَآئِب ise göğsün köprücük altı simetrik kaburga kemikleridir.",
+    "ragib_mufredat": "Toprağın en temel fiziksel tabaka oluşunu, yoksullukla toprağa düşmeyi (`90:16`) ve yaşıt denkliği (`38:52`, `56:37`) aktarır.",
+    "arbitration_decision": "PROMPT.md §3.1 gereği İbn Fâris'in iki sahih aslı (`أصلان صحيحان`) tek bir uydurma şablona sıkıştırılmadan dürüstçe ayrıştırıldı: 1. Asıl ham mineral toprak ve toprağa düşen düşkünlük (`تُرَاب`, `مَتْرَبَة` — 18 geçiş); 2. Asıl ise hiza ve düzey denkliği (`أَتْرَاب`, `تَرَآئِب` — 4 geçiş)."
+  },
+  "semitic_cognates": {
+    "note": "Doğu Sami Akadcada (CAD) turbu'tu ('toz bulutu / savrulan toz') biçiminde doğrudan eşkökenli görülür (genel toprak için Akadcada ayrıca eperu kullanılır). İbranice (BDB) ve Aramice/Süryanicede (CAL) 'toprak/toz' için t-r-b kökü bulunmayıp düzenli olarak עָפָר / עַפְרָא (*ʿ-p-r, Arapça عفر) ve İbranice אֲדָמָה (*ʾ-d-m) kökleri kullanılır; t-r-b bu alanda Arapça ve Doğu Sami izini taşır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-ع-ث",
+      "غ-ن-ي"
+    ],
+    "key_ayahs": [
+      "2:264",
+      "13:5",
+      "22:5",
+      "23:82",
+      "37:16",
+      "38:52",
+      "56:37",
+      "56:47",
+      "78:33",
+      "78:40",
+      "86:7",
+      "90:16"
+    ],
+    "reverse_stress_test": "Ölüp ufalanmış toprak parçacıklarına dağılma (`كُنَّا تُرَابًا` — 22:5, 23:82, 37:16, 56:47) karşısında yeniden kaldırılıp diriltilme (`ب-ع-ث` — `لَمَبْعُوثُونَ`) ve yoksulluktan toza toprağa düşme (`ذَا مَتْرَبَةٍ` — 90:16) karşısında varlık ve ihtiyaçsızlık (`غ-ن-ي`) doğrudan Mesânî kutuplarını kurar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ع-ظ-م",
+      "ن-ط-ف",
+      "ص-ف-و",
+      "و-ب-ل",
+      "ص-ل-د",
+      "ص-ل-ب",
+      "س-ك-ن"
+    ],
+    "mechanical_difference": "1) `ت-ر-ب` vs `ط-ي-ن` vs `أ-ر-ض`: `أَرْض` (`أ-ر-ض`) bütün yaşanılan yeryüzü tabanını (`22:5` `ٱلْأَرْضَ هَامِدَةً`), `تُرَاب` ufalanmış kuru mineral toprak tozunu, `طِين` suyla yoğrulmuş çamuru ayrıştırır. 2) `23:35,82`, `37:16,53`, `56:47`: `تُرَابًا` yumuşak dokuların tamamen çözüldüğü ince toprağı, `عِظَٰمًا` (`ع-ظ-م`) en geç çözülen sert iskelet kemiklerini belirtir. 3) `2:264`: `صَفْوَان` pürüzsüz sert kaya gövdesi, `تُرَاب` üstündeki ince verimli toprak tabakası, `وَابِل` (`و-ب-ل`) sağanak yağmur, `صَلْد` ise toprağı sıyrılıp kalan çırılçıplak taş yüzeyidir. 4) `86:7`: `ٱلصُّلْبِ` sırt omurga ekseni iken `ٱلتَّرَآئِبِ` göğüs ön yanlarındaki simetrik kaburga kemikleridir. 5) `90:16`: `مِسْكِين` (`س-ك-ن`) geçim gücü donmuş kimseyi, `ذَا مَتْرَبَةٍ` toza toprağa düşmüş ağır çaresizliği vurgular."
+  },
+  "anchor_ayahs": [
+    "2:264 (فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُۥ وَابِلٌ فَتَرَكَهُۥ صَلْدًا — üzerinde ince toprak bulunan kayanın sağanakla yıkanıp çıplak taşa dönmesi)",
+    "22:5 (فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ — insanın yaratılışında temel toprak elementinden damla suya ve evrelere geçiş)",
+    "56:47 (أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ — toprağa ve kemiğe dönüşmüş hâlden yeniden diriltilme sorgusu)",
+    "86:7 & 56:37 (مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ / عُرُبًا أَتْرَابًا — göğsün simetrik kaburgaları ve birbirine denk yaşıt eşler)",
+    "90:16 (أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ — yoksulluktan toza toprağa düşmüş muhtacı gözetmek)"
+  ],
+  "grammar_and_branch_rules": "Kur'an'da fiil kullanılmaz; tüm `22` geçiş isim/sıfattır. 1) `تُرَاب` (`17` geçiş): Biyolojik başlangıç maddesi (`مِن تُرَابٍ`: 6x), çözülmüş beden (`تُرَابًا`: 9x), kaya örtüsü (`2:264`) ve gömü toprağı (`16:59`). 2) `مَتْرَبَة` (`1` geçiş `90:16`): Toprağa yapıştıran ağır yoksulluk. 3) `أَتْرَاب` (`3` geçiş: `38:52`, `56:37`, `78:33`) ve `تَرَآئِب` (`1` geçiş: `86:7`): Hiza ve gelişimde birbirine denk eşler ile simetrik göğüs kaburga kemikleri.",
+  "derivatives": {
+    "تُرَاب (Türâb)": "İsim (17 geçiş) — ufalanmış kuru toprak, toz maddesi ve insan bedeninin başlangıç/dönüş elementi",
+    "مَتْرَبَة (Matrabe)": "Mîmli İsim (1 geçiş: 90:16) — toza toprağa düşüren ağır yoksulluk ve muhtaçlık",
+    "أَتْرَاب (Etrâb)": "Çoğul İsim/Sıfat (3 geçiş: 38:52, 56:37, 78:33) — yaş, seviye ve olgunlukta birbirine denk eşler",
+    "تَرَآئِب (Terâ'ib)": "Çoğul İsim (1 geçiş: 86:7) — göğüs kafesinin simetrik kaburga kemikleri"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 264,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:264",
+      "word_position": 23,
+      "target_word_uthmani": "تُرَابٌ",
+      "target_word_rasm": "تراب",
+      "target_word_literal_irab": "Müfred nekre merfû' isim (تُرَابٌ — 2:264) — kayanın üzerindeki ince toprak tabakası",
+      "context_snippet_arabic": "كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُۥ وَابِلٌ فَتَرَكَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler, malını insanlara gösteriş için harcayan ve Allah'a, ahiret gününe güven duy kişi gibi sadakalarınızı, başa kakmakla minnet ve eziyetle hiç...",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُۥ وَابِلٌ فَتَرَكَهُۥ صَلْدًا لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّمَّا كَسَبُوا۟ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler, malını insanlara gösteriş için harcayan ve Allah'a, ahiret gününe güven duy kişi gibi sadakalarınızı, başa kakmakla minnet ve eziyetle hiç verilmemiş bir hale getirmeyin. O çeşit adam, sanki şiddetli bir yağmur altında kalıp üstündeki toprağın kayarak sıvışmasıyla kaypak bir hale gelen kayadır. O çeşit adamlar, kazançlarından hiçbir eylem karşılığı elde edemezler ve Allah, güven duy kavmi doğru yola sevk etmez.",
+      "contextual_meaning": "Toprak Örtüsü, Toprağa Gömme ve Toza Düşmüş Yoksulluk (`2:264`, `16:59`, `90:16`): Gösterişli paylaşımın seldeki toprak gibi akıp gitmesi (`2:264`), kız çocuğunu toprağa gömme vahşeti (`16:59`) ve yoksulluktan toza toprağa düşen muhtaç (`90:16`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 59,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:59",
+      "word_position": 10,
+      "target_word_uthmani": "تُرَابٍ",
+      "target_word_rasm": "تراب",
+      "target_word_literal_irab": "Müfred mecrûr isim (تُرَابٍ / ٱلتُّرَابِ) — yaratılış ham maddesi veya içine gömülen yeryüzü toprağı",
+      "context_snippet_arabic": "ءَادَمَ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten de Allah katında İsa, Âdem'in örneğidir, onu topraktan yarattı da sonra ol dedi, oluverdi.",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten de Allah katında İsa, Âdem'in örneğidir, onu topraktan yarattı da sonra ol dedi, oluverdi.",
+      "contextual_meaning": "Biyolojik Yaratılışın Ham Maddesi (`3:59`, `18:37`, `22:5`, `30:20`, `35:11`, `40:67`): İnsanın temel inorganik toprak elementinden başlatılıp su damlası ve sonraki biyolojik evrelere taşınması."
+    },
+    {
+      "surah": 13,
+      "ayah": 5,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:5",
+      "word_position": 7,
+      "target_word_uthmani": "تُرَٰبًا",
+      "target_word_rasm": "تربا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍ",
+      "context_snippet_turkish_tabula_rasa": "Şaşıyorsan asıl şaşılacak şey, toprak olduktan sonra yeniden mi yaratılacağız diyenlerin sözü. Onlar, öyle kişilerdir ki Rablerine gerçeğin üzerini örten olmuşlardır. ...",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍ جَدِيدٍ أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ وَأُو۟لَٰٓئِكَ ٱلْأَغْلَٰلُ فِىٓ أَعْنَاقِهِمْ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şaşıyorsan asıl şaşılacak şey, toprak olduktan sonra yeniden mi yaratılacağız diyenlerin sözü. Onlar, öyle kişilerdir ki Rablerine gerçeğin üzerini örten olmuşlardır. Onlar, öyle kişilerdir ki boyunlarında demir zincirler var ve onlar, yakıcı yıkım yurdu ehlidir; onlar, orada ebedi kalırlar.",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 16,
+      "ayah": 59,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:59",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلتُّرَابِ",
+      "target_word_rasm": "ٱلتراب",
+      "target_word_literal_irab": "Müfred mecrûr isim (تُرَابٍ / ٱلتُّرَابِ) — yaratılış ham maddesi veya içine gömülen yeryüzü toprağı",
+      "context_snippet_arabic": "أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ أَلَا سَآءَ مَا",
+      "context_snippet_turkish_tabula_rasa": "Müjdelendiği kötü şey yüzünden, kavminden gizlenir; onu horlukla yaşatacak mı, yoksa toprağa mı gömecek, buna dalar. Bilin ki hükmettikleri şey, ne de kötüdür.",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَتَوَٰرَىٰ مِنَ ٱلْقَوْمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓ أَيُمْسِكُهُۥ عَلَىٰ هُونٍ أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ أَلَا سَآءَ مَا يَحْكُمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Müjdelendiği kötü şey yüzünden, kavminden gizlenir; onu horlukla yaşatacak mı, yoksa toprağa mı gömecek, buna dalar. Bilin ki hükmettikleri şey, ne de kötüdür.",
+      "contextual_meaning": "Toprak Örtüsü, Toprağa Gömme ve Toza Düşmüş Yoksulluk (`2:264`, `16:59`, `90:16`): Gösterişli paylaşımın seldeki toprak gibi akıp gitmesi (`2:264`), kız çocuğunu toprağa gömme vahşeti (`16:59`) ve yoksulluktan toza toprağa düşen muhtaç (`90:16`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 37,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:37",
+      "word_position": 10,
+      "target_word_uthmani": "تُرَابٍ",
+      "target_word_rasm": "تراب",
+      "target_word_literal_irab": "Müfred mecrûr isim (تُرَابٍ / ٱلتُّرَابِ) — yaratılış ham maddesi veya içine gömülen yeryüzü toprağı",
+      "context_snippet_arabic": "بِٱلَّذِى خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Onunla konuşurken arkadaşı da seni dedi, topraktan, sonra bir damla sudan yaratıp bundan sonra da tam, azası düzgün bir insan haline getireni gerçeğin üzerini örtme mı ediyorsun?",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ سَوَّىٰكَ رَجُلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onunla konuşurken arkadaşı da seni dedi, topraktan, sonra bir damla sudan yaratıp bundan sonra da tam, azası düzgün bir insan haline getireni gerçeğin üzerini örtme mı ediyorsun?",
+      "contextual_meaning": "Biyolojik Yaratılışın Ham Maddesi (`3:59`, `18:37`, `22:5`, `30:20`, `35:11`, `40:67`): İnsanın temel inorganik toprak elementinden başlatılıp su damlası ve sonraki biyolojik evrelere taşınması."
+    },
+    {
+      "surah": 22,
+      "ayah": 5,
+      "surah_name": "Hac",
+      "ayah_ref": "22:5",
+      "word_position": 12,
+      "target_word_uthmani": "تُرَابٍ",
+      "target_word_rasm": "تراب",
+      "target_word_literal_irab": "Müfred mecrûr isim (تُرَابٍ / ٱلتُّرَابِ) — yaratılış ham maddesi veya içine gömülen yeryüzü toprağı",
+      "context_snippet_arabic": "فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey insanlar, ölümden sonra dirilme hakkında şüphedeyseniz bilin ki hiç şüphe yok, sizi topraktan yarattık biz, sonra bir katre sudan, sonra donmuş bir parça kandan, sonra yaratılışı tamamlanmış, tamamlanmamış bir et parçasından size apaçık gösterelim kudretimizi diye. Ve sizi, dilediğimiz muayyen bir zamana dek rahimlerde kararlaştırırız, sonra çocuk olarak çıkarırız sizi, sonra da ergenlik çağına getiririz ve sizden ölen olur, gene sizden, bilgisinden sonra hiçbir şey bilmez bir hale gelen ve ömrün en aşağılık devresine sürüklenen olur. ...",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar, ölümden sonra dirilme hakkında şüphedeyseniz bilin ki hiç şüphe yok, sizi topraktan yarattık biz, sonra bir katre sudan, sonra donmuş bir parça kandan, sonra yaratılışı tamamlanmış, tamamlanmamış bir et parçasından size apaçık gösterelim kudretimizi diye. Ve sizi, dilediğimiz muayyen bir zamana dek rahimlerde kararlaştırırız, sonra çocuk olarak çıkarırız sizi, sonra da ergenlik çağına getiririz ve sizden ölen olur, gene sizden, bilgisinden sonra hiçbir şey bilmez bir hale gelen ve ömrün en aşağılık devresine sürüklenen olur. Ve yeryüzünü kupkuru görürsün, fakat ona yağmur yağdırdığımız zaman harekete gelir, kabarır ve çeşitli, çifterçifter güzelim nebatlar bitirir.",
+      "contextual_meaning": "Biyolojik Yaratılışın Ham Maddesi (`3:59`, `18:37`, `22:5`, `30:20`, `35:11`, `40:67`): İnsanın temel inorganik toprak elementinden başlatılıp su damlası ve sonraki biyolojik evrelere taşınması."
+    },
+    {
+      "surah": 23,
+      "ayah": 35,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:35",
+      "word_position": 6,
+      "target_word_uthmani": "تُرَابًا",
+      "target_word_rasm": "ترابا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ölüp toprak ve kemik kesildikten sonra kabirden çıkacağınızı mı vaadediyor size?",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ölüp toprak ve kemik kesildikten sonra kabirden çıkacağınızı mı vaadediyor size?",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 23,
+      "ayah": 82,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:82",
+      "word_position": 5,
+      "target_word_uthmani": "تُرَابًا",
+      "target_word_rasm": "ترابا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dediler ki: Öldükten ve toztoprak ve kemik kesildikten sonra mı diriltileceğiz?",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dediler ki: Öldükten ve toztoprak ve kemik kesildikten sonra mı diriltileceğiz?",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 27,
+      "ayah": 67,
+      "surah_name": "Neml",
+      "ayah_ref": "27:67",
+      "word_position": 6,
+      "target_word_uthmani": "تُرَٰبًا",
+      "target_word_rasm": "تربا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "كَفَرُوٓا۟ أَءِذَا كُنَّا تُرَٰبًا وَءَابَآؤُنَآ أَئِنَّا لَمُخْرَجُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve gerçeğin üzerini örten olanlar, derler ki: Biz ve atalarımız, toprak olduktan sonra mı mezarlarımızdan çıkarılacağız?",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ أَءِذَا كُنَّا تُرَٰبًا وَءَابَآؤُنَآ أَئِنَّا لَمُخْرَجُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gerçeğin üzerini örten olanlar, derler ki: Biz ve atalarımız, toprak olduktan sonra mı mezarlarımızdan çıkarılacağız?",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 30,
+      "ayah": 20,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:20",
+      "word_position": 6,
+      "target_word_uthmani": "تُرَابٍ",
+      "target_word_rasm": "تراب",
+      "target_word_literal_irab": "Müfred mecrûr isim (تُرَابٍ / ٱلتُّرَابِ) — yaratılış ham maddesi veya içine gömülen yeryüzü toprağı",
+      "context_snippet_arabic": "أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم",
+      "context_snippet_turkish_tabula_rasa": "Ve delillerindendir ki sizi topraktan yaratmıştır da sonra insan haline gelir, yeryüzünün her yanına dağılırsınız.",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve delillerindendir ki sizi topraktan yaratmıştır da sonra insan haline gelir, yeryüzünün her yanına dağılırsınız.",
+      "contextual_meaning": "Biyolojik Yaratılışın Ham Maddesi (`3:59`, `18:37`, `22:5`, `30:20`, `35:11`, `40:67`): İnsanın temel inorganik toprak elementinden başlatılıp su damlası ve sonraki biyolojik evrelere taşınması."
+    },
+    {
+      "surah": 35,
+      "ayah": 11,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:11",
+      "word_position": 4,
+      "target_word_uthmani": "تُرَابٍ",
+      "target_word_rasm": "تراب",
+      "target_word_literal_irab": "Müfred mecrûr isim (تُرَابٍ / ٱلتُّرَابِ) — yaratılış ham maddesi veya içine gömülen yeryüzü toprağı",
+      "context_snippet_arabic": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, sizi topraktan yaratmıştır, sonra bir katre sudan, sonra da size eşler halketmiştir. Hiçbir kadın, onun bilgisi olmadıkça gebe kalamaz ve doğuramaz ve hiçbir ömrü uzun adam, ömür süremez ve hiç kimsenin ömrü eksilmez ki bunlar, kitapta mukadder olmasın; ...",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ إِلَّا فِى كِتَٰبٍ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, sizi topraktan yaratmıştır, sonra bir katre sudan, sonra da size eşler halketmiştir. Hiçbir kadın, onun bilgisi olmadıkça gebe kalamaz ve doğuramaz ve hiçbir ömrü uzun adam, ömür süremez ve hiç kimsenin ömrü eksilmez ki bunlar, kitapta mukadder olmasın; şüphe yok ki bu, Allah'a pek kolaydır.",
+      "contextual_meaning": "Biyolojik Yaratılışın Ham Maddesi (`3:59`, `18:37`, `22:5`, `30:20`, `35:11`, `40:67`): İnsanın temel inorganik toprak elementinden başlatılıp su damlası ve sonraki biyolojik evrelere taşınması."
+    },
+    {
+      "surah": 37,
+      "ayah": 16,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:16",
+      "word_position": 4,
+      "target_word_uthmani": "تُرَابًا",
+      "target_word_rasm": "ترابا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ölüp toprak ve kemik olduktan sonra mı diriltileceğiz biz.",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ölüp toprak ve kemik olduktan sonra mı diriltileceğiz biz.",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 37,
+      "ayah": 53,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:53",
+      "word_position": 4,
+      "target_word_uthmani": "تُرَابًا",
+      "target_word_rasm": "ترابا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ölüp bir yığın toprak ve kemik olduktan sonra mı soruya çekileceğiz, cezalanacağız?",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ölüp bir yığın toprak ve kemik olduktan sonra mı soruya çekileceğiz, cezalanacağız?",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 38,
+      "ayah": 52,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:52",
+      "word_position": 4,
+      "target_word_uthmani": "أَتْرَابٌ",
+      "target_word_rasm": "أتراب",
+      "target_word_literal_irab": "Çoğul nekre merfû' isim (أَتْرَابٌ — 38:52) — yaş ve uyumda birbirine denk eşler",
+      "context_snippet_arabic": "وَعِندَهُمْ قَٰصِرَٰتُ ٱلطَّرْفِ أَتْرَابٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve yanlarında,.eşlerinden gözlerini ayırmayan huriler olacak ki her biri de eşit ve aynı yaşta.",
+      "morphology": {
+        "lemma": ">atoraAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>atoraAb|ROOT:trb|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَعِندَهُمْ قَٰصِرَٰتُ ٱلطَّرْفِ أَتْرَابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve yanlarında,.eşlerinden gözlerini ayırmayan huriler olacak ki her biri de eşit ve aynı yaşta.",
+      "contextual_meaning": "Denklik, Yaşıt Eşler ve Simetrik Göğüs Yapısı (`38:52`, `56:37`, `78:33`, `86:7`): İkinci asıl ekseninde düzey ve yaş bakımından denk eşler (`أَتْرَاب`) ve üreme suyunun omurga ile göğüs kaburgaları arasından çıkışı (`86:7`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 67,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:67",
+      "word_position": 5,
+      "target_word_uthmani": "تُرَابٍ",
+      "target_word_rasm": "تراب",
+      "target_word_literal_irab": "Müfred mecrûr isim (تُرَابٍ / ٱلتُّرَابِ) — yaratılış ham maddesi veya içine gömülen yeryüzü toprağı",
+      "context_snippet_arabic": "ٱلَّذِى خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki sizi topraktan, sonra bir katre sudan, sonra bir pıhtı kandan yaratmıştır, sonra sizi, çocuk olarak dünyaya çıkarmıştır, sonra ergenlik çağına erişmeniz, sonra da ihtiyar olmanız için sizi yaşatmadadır ve sizden, daha önce öldürülen de var ve hepinizi de muayyen ve mukadder bir zamanadek yaşatır ve bütün bunlar da akıl edesiniz diye olup biter.",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًا وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ وَلِتَبْلُغُوٓا۟ أَجَلًا مُّسَمًّى وَلَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki sizi topraktan, sonra bir katre sudan, sonra bir pıhtı kandan yaratmıştır, sonra sizi, çocuk olarak dünyaya çıkarmıştır, sonra ergenlik çağına erişmeniz, sonra da ihtiyar olmanız için sizi yaşatmadadır ve sizden, daha önce öldürülen de var ve hepinizi de muayyen ve mukadder bir zamanadek yaşatır ve bütün bunlar da akıl edesiniz diye olup biter.",
+      "contextual_meaning": "Biyolojik Yaratılışın Ham Maddesi (`3:59`, `18:37`, `22:5`, `30:20`, `35:11`, `40:67`): İnsanın temel inorganik toprak elementinden başlatılıp su damlası ve sonraki biyolojik evrelere taşınması."
+    },
+    {
+      "surah": 50,
+      "ayah": 3,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:3",
+      "word_position": 4,
+      "target_word_uthmani": "تُرَابًا",
+      "target_word_rasm": "ترابا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ",
+      "context_snippet_turkish_tabula_rasa": "Ölüp bir yığın toprak olduktan sonra mı? Bu, pek uzak, pek olmayacak bir dönüş.",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ölüp bir yığın toprak olduktan sonra mı? Bu, pek uzak, pek olmayacak bir dönüş.",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 56,
+      "ayah": 37,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:37",
+      "word_position": 2,
+      "target_word_uthmani": "أَتْرَابًا",
+      "target_word_rasm": "أترابا",
+      "target_word_literal_irab": "Çoğul nekre mansûb sıfat/isim (أَتْرَابًا — 56:37, 78:33) — düzey ve olgunlukta birbirine denk yaşıt eşler",
+      "context_snippet_arabic": "عُرُبًا أَتْرَابًا",
+      "context_snippet_turkish_tabula_rasa": "Cilveli, şirin sözlü, eşlerine aşık ve onlarla yaşıt kıldık.",
+      "morphology": {
+        "lemma": ">atoraAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>atoraAb|ROOT:trb|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "عُرُبًا أَتْرَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Cilveli, şirin sözlü, eşlerine aşık ve onlarla yaşıt kıldık.",
+      "contextual_meaning": "Denklik, Yaşıt Eşler ve Simetrik Göğüs Yapısı (`38:52`, `56:37`, `78:33`, `86:7`): İkinci asıl ekseninde düzey ve yaş bakımından denk eşler (`أَتْرَاب`) ve üreme suyunun omurga ile göğüs kaburgaları arasından çıkışı (`86:7`)."
+    },
+    {
+      "surah": 56,
+      "ayah": 47,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:47",
+      "word_position": 6,
+      "target_word_uthmani": "تُرَابًا",
+      "target_word_rasm": "ترابا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve biz derlerdi, ölüp bir yığın toprak ve kemik olduktan sonra mı dirileceğiz?",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve biz derlerdi, ölüp bir yığın toprak ve kemik olduktan sonra mı dirileceğiz?",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 78,
+      "ayah": 33,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:33",
+      "word_position": 2,
+      "target_word_uthmani": "أَتْرَابًا",
+      "target_word_rasm": "أترابا",
+      "target_word_literal_irab": "Çoğul nekre mansûb sıfat/isim (أَتْرَابًا — 56:37, 78:33) — düzey ve olgunlukta birbirine denk yaşıt eşler",
+      "context_snippet_arabic": "وَكَوَاعِبَ أَتْرَابًا",
+      "context_snippet_turkish_tabula_rasa": "Ve memeleri yeni sertleşmiş yaşıt kızlar.",
+      "morphology": {
+        "lemma": ">atoraAb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>atoraAb|ROOT:trb|FP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَوَاعِبَ أَتْرَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve memeleri yeni sertleşmiş yaşıt kızlar.",
+      "contextual_meaning": "Denklik, Yaşıt Eşler ve Simetrik Göğüs Yapısı (`38:52`, `56:37`, `78:33`, `86:7`): İkinci asıl ekseninde düzey ve yaş bakımından denk eşler (`أَتْرَاب`) ve üreme suyunun omurga ile göğüs kaburgaları arasından çıkışı (`86:7`)."
+    },
+    {
+      "surah": 78,
+      "ayah": 40,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:40",
+      "word_position": 15,
+      "target_word_uthmani": "تُرَٰبًۢا",
+      "target_word_rasm": "تربا",
+      "target_word_literal_irab": "Müfred nekre mansûb isim (تُرَابًا / تُرَٰبًا — كَانَ haberi) — çözülüp dağılmış kuru toprak zerreleri",
+      "context_snippet_arabic": "ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "context_snippet_turkish_tabula_rasa": "... o gün kişi, elleriyle hazırladığına bakar ve gerçeğin üzerini örten de ne olurdu der, keşke toprak olaydım.",
+      "morphology": {
+        "lemma": "turaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:turaAb|ROOT:trb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki biz sizi, yakın bir azapla korkutmadayız; o gün kişi, elleriyle hazırladığına bakar ve gerçeğin üzerini örten de ne olurdu der, keşke toprak olaydım.",
+      "contextual_meaning": "Çözülüp Toprağa Dönüş ve Yeniden Diriliş Sınavı (`13:5`, `23:35,82`, `27:67`, `37:16,53`, `50:3`, `56:47`, `78:40`): Bedeni dağılıp toprak ve kemiğe döndükten sonra yeniden yaratılma gerçeği karşısındaki tutumlar."
+    },
+    {
+      "surah": 86,
+      "ayah": 7,
+      "surah_name": "Târık",
+      "ayah_ref": "86:7",
+      "word_position": 5,
+      "target_word_uthmani": "وَٱلتَّرَآئِبِ",
+      "target_word_rasm": "وٱلترائب",
+      "target_word_literal_irab": "Çoğul marife mecrûr isim (ٱلتَّرَآئِبِ — 86:7) — göğüs kafesinin simetrik kaburga kemikleri",
+      "context_snippet_arabic": "مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "context_snippet_turkish_tabula_rasa": "Belden çıkar ve kaburga kemiklerinin arasından.",
+      "morphology": {
+        "lemma": "t~araA^}ib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:t~araA^}ib|ROOT:trb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Belden çıkar ve kaburga kemiklerinin arasından.",
+      "contextual_meaning": "Denklik, Yaşıt Eşler ve Simetrik Göğüs Yapısı (`38:52`, `56:37`, `78:33`, `86:7`): İkinci asıl ekseninde düzey ve yaş bakımından denk eşler (`أَتْرَاب`) ve üreme suyunun omurga ile göğüs kaburgaları arasından çıkışı (`86:7`)."
+    },
+    {
+      "surah": 90,
+      "ayah": 16,
+      "surah_name": "Beled",
+      "ayah_ref": "90:16",
+      "word_position": 4,
+      "target_word_uthmani": "مَتْرَبَةٍ",
+      "target_word_rasm": "متربة",
+      "target_word_literal_irab": "Mîmli mecrûr isim (مَتْرَبَةٍ — ذَا muzâfun ileyhi, 90:16) — toza toprağa düşmüş ağır yoksulluk hâli",
+      "context_snippet_arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Yahut yerlere döşenmiş bir yoksulu.",
+      "morphology": {
+        "lemma": "matorabap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:matorabap|ROOT:trb|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut yerlere döşenmiş bir yoksulu.",
+      "contextual_meaning": "Toprak Örtüsü, Toprağa Gömme ve Toza Düşmüş Yoksulluk (`2:264`, `16:59`, `90:16`): Gösterişli paylaşımın seldeki toprak gibi akıp gitmesi (`2:264`), kız çocuğunu toprağa gömme vahşeti (`16:59`) ve yoksulluktan toza toprağa düşen muhtaç (`90:16`)."
+    }
+  ]
+}

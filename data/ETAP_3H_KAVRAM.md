@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%93,13` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 35 / 50 Kök (Toplam Mühürlü: 635 Kök | Güncel Kapsam: %92,54)
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 36 / 50 Kök (Toplam Mühürlü: 636 Kök | Güncel Kapsam: %92,58)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -42,7 +42,7 @@
 | 33 | Yüksek Frekanslı Çekirdek | 371 | `غ-ر-ق` | `G-R-K` | **23** | 23 | 2:50 | Gark, İğrâk ve Garkâ (Sulara Gömülüp Boğulmak ve Son Sınıra Kadar Varmak) | ✅ **MÜHÜRLÜ** |
 | 34 | Yüksek Frekanslı Çekirdek | 373 | `س-ر-ع` | `S-R-A` | **23** | 23 | 2:202 | Serî', Sür'at ve Müsâraa (Gecikmeden Hızla Atılmak ve Çabuk Sonuç Vermek) | ✅ **MÜHÜRLÜ** |
 | 35 | Yüksek Frekanslı Çekirdek | 369 | `م-ش-ي` | `M-S-Y` | **23** | 20 | 2:20 | Meşy ve Meşşâ' (Adım Adım Yürümek, Yer Değiştirmek ve Laf Gezdirmek) | ✅ **MÜHÜRLÜ** |
-| 36 | Yüksek Frekanslı Çekirdek | 383 | `ت-ر-ب` | `T-R-B` | **22** | 22 | 2:264 | Türâb, Etrâb ve Matrabe (22 geçiş — #6 kalan kök + Sure 90 Beled! 3:59, 13:5, 22:5, 30:20, 56:37, 78:40, 90:16 toprak, yaşıtlar ve yoksulluk) | ⏳ *Bekliyor* |
+| 36 | Yüksek Frekanslı Çekirdek | 383 | `ت-ر-ب` | `T-R-B` | **22** | 22 | 2:264 | Türâb, Etrâb ve Matrabe (Ufalanmış Toprak, Toza Düşmüş Yoksulluk ve Denk Yaşıtlar) | ✅ **MÜHÜRLÜ** |
 | 37 | Yüksek Frekanslı Çekirdek | 378 | `ر-ب-ع` | `R-B-A` | **22** | 21 | 2:51 | Erbaa, Râbi', Rubu' ve Rubâ' (22 geçiş | 1M+1F — #7 kalan kök! 2:226, 2:260, 4:3, 4:12, 4:15, 24:4, 35:1, 41:10, 58:7 dört sayısı ve dörtte bir) | ⏳ *Bekliyor* |
 | 38 | Yüksek Frekanslı Çekirdek | 381 | `ت-م-م` | `T-M-M` | **22** | 20 | 2:124 | Temâm ve İtmâm (22 geçiş — #8 kalan kök! 2:124, 2:187, 5:3, 6:115, 7:142, 9:32, 61:8 eksiği kalmayacak şekilde tamama erdirmek) | ⏳ *Bekliyor* |
 | 39 | Yüksek Frekanslı Çekirdek | 403 | `ن-خ-ل` | `N-H-L` | **20** | 20 | 2:266 | Nahl ve Nahîl (20 geçiş | 1F — #9 kalan kök! 2:266, 6:99, 6:141, 13:4, 16:11, 19:23-25, 50:10, 54:20, 55:11, 69:7 hurma ağacı ve hurmalıklar) | ⏳ *Bekliyor* |
