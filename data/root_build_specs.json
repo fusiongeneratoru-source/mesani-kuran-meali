@@ -46496,5 +46496,66 @@
       }
     ],
     "context_default": "Aracısız doğrudan kaynak ve yakınlık bağlamı"
+  },
+  "ر-أ-س": {
+    "buckwalter": "rAs",
+    "slug": "ras",
+    "concept_name": "Re's ve Ruûs (Tepe Organı Olan Baş ve Eksiksiz Ana Sermaye)",
+    "keywords": [
+      "baş",
+      "tepe",
+      "sermaye",
+      "üst",
+      "yöneliş"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ra>os",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Cemi mükesser isim (`رُءُوس` — 11 geçiş: 2:196, 2:279, 5:6, 14:43, 17:51, 21:65, 22:19, 32:12, 37:65, 48:27, 63:5) — başlar ve ana sermaye (2:279)"
+      },
+      {
+        "lemma": "ra>os",
+        "label": "Tekil isim (`رَأْس` — 7 geçiş: 2:196, 7:150, 12:36, 12:41, 19:4, 20:94, 44:48) — baş ve tepe noktası"
+      }
+    ],
+    "irab_default": "Re's ismi — toplanıp yükselen en üst tepe noktası ve baş",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:196",
+          "5:6",
+          "7:150",
+          "19:4",
+          "20:94",
+          "48:27"
+        ],
+        "text": "Anatomik Baş, Arınma, Yaşlılık ve İnsani Gerilim (`2:196` x2, `5:6`, `7:150`, `19:4`, `20:94`, `48:27`): Baş tıraşı hükmü, abdestte başın meshi, Zekeriyyâ'nın saçlarının ağarması ve Mûsâ-Hârûn sahnesi."
+      },
+      {
+        "ayahs": [
+          "12:36",
+          "12:41",
+          "14:43",
+          "17:51",
+          "21:65",
+          "22:19",
+          "32:12",
+          "44:48",
+          "63:5"
+        ],
+        "text": "Kibir, Baş Eğme, Rüya Yorumu ve Sorumluluk Sahneleri (`12:36,41`, `14:43`, `17:51`, `21:65`, `22:19`, `32:12`, `44:48`, `63:5`): Başın kibirle çevrilmesi, küçümseyerek sallanması, dehşetle dikilmesi, öne eğilmesi ve tepe noktasına inen sonuçlar."
+      },
+      {
+        "ayahs": [
+          "2:279",
+          "37:65"
+        ],
+        "text": "Asıl Ana Sermaye ve Tepe Benzetmesi (`2:279`, `37:65`): Haksız artışlardan arınmış `رُءُوسُ أَمْوَٰلِكُمْ` ana parası ile zakkum tomurcuklarının ürpertici baş benzetmesi."
+      }
+    ],
+    "context_default": "Tepe noktası, baş veya asıl ana gövde bağlamı"
   }
 }
