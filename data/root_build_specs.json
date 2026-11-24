@@ -46225,5 +46225,77 @@
       }
     ],
     "context_default": "Taraf, hizip veya ittifak koalisyonu bağlamı"
+  },
+  "ف-ك-ه": {
+    "buckwalter": "fkh",
+    "slug": "fkh",
+    "concept_name": "Fâkihe, Fekihîn ve Tefekküh (Lezzet Veren Meyve, Şen Gönül Hâli ve Şaşkınca Söylenmek)",
+    "keywords": [
+      "meyve",
+      "keyif",
+      "neşe",
+      "şen",
+      "şaşkınlık"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tafak~ahu",
+        "label": "V. bab merfû' muzârî fiil (فَظَلْتُمْ تَفَكَّهُونَ — 56:65) — hayret ve pişmanlıkla söylenip durmak"
+      },
+      {
+        "lemma": "fakihiyn",
+        "label": "Sıfat-ı müşebbehe hâl (ٱنقَلَبُوا۟ فَكِهِينَ — 83:31, elifsiz ve hançer elifsiz `فَكِهِينَ`) — alaylı neşeyle dönmek"
+      },
+      {
+        "lemma": "fa`kihiyn",
+        "label": "İsm-i fâil merfû'/mansûb haber veya hâl (`فَٰكِهُونَ / فَٰكِهِينَ` — 36:55, 44:27, 52:18) — nimetle şenlenenler"
+      },
+      {
+        "lemma": "fawa`kih",
+        "label": "Gayr-ı munsarıf cemi mükesser (`فَوَٰكِهُ / وَفَوَٰكِهَ` — 23:19, 37:42, 77:42) — çok çeşitli meyveler"
+      },
+      {
+        "lemma": "fa`kihap",
+        "label": "Müennes cins ismi (`فَٰكِهَةٌ / بِفَٰكِهَةٍ / وَفَٰكِهَةً` — 11 geçiş, Rasm'da `فكهة`) — keyifle yenen lezzet meyvesi"
+      }
+    ],
+    "irab_default": "Fâkihe / Fekih türevi — hoşluk veren meyve, şenlik hâli veya hayretle söylenme",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "36:55",
+          "44:27",
+          "52:18",
+          "83:31"
+        ],
+        "text": "Gönül Şenliği, Nimet Sevinci ve Alaycı Neşe (`36:55`, `44:27`, `52:18`, `83:31`): Hakikat ehlinin ikramla neşelenmesi (`36:55`, `52:18`) karşısında dünyevî refah şımarıklığı ve alaycı dönüş (`44:27`, `83:31`)."
+      },
+      {
+        "ayahs": [
+          "23:19",
+          "36:57",
+          "37:42",
+          "38:51",
+          "43:73",
+          "44:55",
+          "52:22",
+          "55:11",
+          "55:52",
+          "55:68",
+          "56:20",
+          "56:32",
+          "77:42",
+          "80:31"
+        ],
+        "text": "Meyve Çeşitliliği ve Lezzet Rızkı (`23:19`, `36:57`, `37:42`, `38:51`, `43:73`, `44:55`, `52:22`, `55:11,52,68`, `56:20,32`, `77:42`, `80:31`): Dünyadaki bitkisel düzen ile esenlik yurtlarında sunulan çeşit çeşit meyve ikramı."
+      },
+      {
+        "ayahs": [
+          "56:65"
+        ],
+        "text": "Hayıflanma ve Hayret İstisnası (`56:65`): Çiftçinin ekininin bir anda çerçöpe çevrilmesi hâlinde kapılacağı şaşkınlık ve pişmanlık hâli (`تَفَكَّهُونَ`)."
+      }
+    ],
+    "context_default": "Hoşluk, meyve nimeti ve neşe/hayret hâli bağlamı"
   }
 }
