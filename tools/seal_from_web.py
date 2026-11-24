@@ -171,6 +171,15 @@ def seal_package(json_path, do_push=False):
         locked_json['locked_roots'][ar_root] = entry
         sealed_roots.append((ar_root, entry['rank'], entry.get('root_latin', '')))
 
+    # Çift yönlü Mesânî simetrisini otomatik senkronize et
+    locked_map = locked_json['locked_roots']
+    for r_key, r_val in list(locked_map.items()):
+        for target in r_val.get('mesani_opposite', {}).get('roots', []):
+            if target in locked_map:
+                t_roots = locked_map[target].setdefault('mesani_opposite', {}).setdefault('roots', [])
+                if r_key not in t_roots:
+                    t_roots.append(r_key)
+
     total_locked = len(locked_json['locked_roots'])
     e3g_locked = max(0, total_locked - 550)
     locked_json['phase'] = (

@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3G (Kısa Sureler %100 Tam Kilit Genişletmesi [20 Sure], Açık Mesânî Tepe Uçları ve 600. Kök Çekirdek Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 10,
+  "locked_count": 20,
   "total_tokens_in_package": 764,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 90.37,
+  "current_coverage_pct": 90.46,
   "target_coverage_pct": 91.77,
   "etap_3g_roots": [
     {
@@ -200,8 +200,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Lezâ ve Telezzî (Sure 92 Leyl son kilidi + 70:15: 92:14 alevlenip parlayan kavurucu ateş)",
-      "concept_label": "Analiz Bekliyor (talaZ~aY`)",
-      "is_locked": false,
+      "concept_label": "Telezzî ve Lezâ (Alevleri Yükselerek Harlanan ve Şiddetle Tutuşan Ateş)",
+      "is_locked": true,
       "sample_ayah": "92:14",
       "top_lemmas": [
         "talaZ~aY`"
@@ -217,8 +217,8 @@
       "frequency": 7,
       "unique_ayahs": 7,
       "rationale": "Duhâ (Sure 93 Duhâ & 91 Şems kilidi + 2 açık Mesânî ref! ل-ي-ل zıddı 7 geçiş: 7:98, 20:59, 20:119, 79:29, 93:1 kuşluk aydınlığı)",
-      "concept_label": "Analiz Bekliyor (DuHFY, taDoHaY`)",
-      "is_locked": false,
+      "concept_label": "Duhâ (Güneşin Yükselip Her Şeyi Görünür Kıldığı Kuşluk Aydınlığı ve Güneşe Maruz Kalma)",
+      "is_locked": true,
       "sample_ayah": "7:98",
       "top_lemmas": [
         "DuHFY",
@@ -235,8 +235,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Vedâ' ve Da' (Sure 93 Duhâ kilidi + 4 geçiş: 33:48, 93:3 terk edip bırakmak — \"Rabbin seni terk etmedi\")",
-      "concept_label": "Analiz Bekliyor (musotawodaE, daEo, wad~aEa)",
-      "is_locked": false,
+      "concept_label": "Ved' ve Müstevda' (Kendi Haline Bırakmak, Terk Etmek ve Geçici Emanet Yeri)",
+      "is_locked": true,
       "sample_ayah": "6:98",
       "top_lemmas": [
         "musotawodaE",
@@ -254,8 +254,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Âil ve Ayle (Sure 93 Duhâ kilidi + 9:28: 93:8 yoksul/muhtaç olmak ve geçim darlığı — غ-ن-ي Mesânî zıddı)",
-      "concept_label": "Analiz Bekliyor (Eayolap, EaA^}il)",
-      "is_locked": false,
+      "concept_label": "Ayle ve Âil (Geçim Darlığına Düşmek, Yoksulluk ve Muhtaçlık)",
+      "is_locked": true,
       "sample_ayah": "9:28",
       "top_lemmas": [
         "Eayolap",
@@ -272,8 +272,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Kalâ ve Kâlîn (Sure 93 Duhâ kilidi + 26:168: 93:3 darılıp nefret etmek / itip dışlamak)",
-      "concept_label": "Analiz Bekliyor (qaAliyn, qalaY`)",
-      "is_locked": false,
+      "concept_label": "Kalâ ve Kâlîn (Şiddetli Hoşnutsuzlukla Uzaklaşmak ve Darılıp Sırt Çevirmek)",
+      "is_locked": true,
       "sample_ayah": "26:168",
       "top_lemmas": [
         "qaAliyn",
@@ -290,8 +290,8 @@
       "frequency": 1,
       "unique_ayahs": 1,
       "rationale": "Secâ (Sure 93 Duhâ son kilidi: 93:2 gecenin durulup sakinleşmesi ve örtüsüyle dinginleşmesi)",
-      "concept_label": "Analiz Bekliyor (sajaY`)",
-      "is_locked": false,
+      "concept_label": "Secâ (Durgunlaşıp Dinginleşen ve Karanlığıyla Örtüp Kaplayan Gece)",
+      "is_locked": true,
       "sample_ayah": "93:2",
       "top_lemmas": [
         "sajaY`"
@@ -307,8 +307,8 @@
       "frequency": 15,
       "unique_ayahs": 15,
       "rationale": "Rükûb, Rekûb ve Terkîb (Sure 82 İnfitâr kilidi + 1 Mesânî ref, 15 geçiş: 82:8 parçaları birleştirip sentezlemek ve bineğe/gemiye binmek)",
-      "concept_label": "Analiz Bekliyor (rakiba, rukobaAn, m~utaraAkib, r~akob)",
-      "is_locked": false,
+      "concept_label": "Rukûb, Müterâkib ve Terkîb (Üzerine Binmek, Üst Üste İstiflenmek ve Parçaları Birleştirip Terkip Etmek)",
+      "is_locked": true,
       "sample_ayah": "2:239",
       "top_lemmas": [
         "rakiba",
@@ -327,8 +327,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Kevkeb ve Kevâkib (Sure 82 İnfitâr kilidi + 5 geçiş: 6:76, 12:4, 24:35, 37:6, 82:2 parlak gezegen ve yıldızlar)",
-      "concept_label": "Analiz Bekliyor (kawokab)",
-      "is_locked": false,
+      "concept_label": "Kevkeb ve Kevâkib (Gökyüzünde Yükselip Parıldayan Gezegen ve İri Yıldız Kütlesi)",
+      "is_locked": true,
       "sample_ayah": "6:76",
       "top_lemmas": [
         "kawokab"
@@ -344,8 +344,8 @@
       "frequency": 3,
       "unique_ayahs": 3,
       "rationale": "İntisâr ve Mensûr (Sure 82 İnfitâr kilidi + 3 geçiş: 25:23, 54:7, 82:2 saçılıp dağılmak)",
-      "concept_label": "Analiz Bekliyor (m~anvuwr, {ntavarato)",
-      "is_locked": false,
+      "concept_label": "İntisâr ve Mensûr (Dizili Bağı Çözülüp Etrafa Dağınık Biçimde Saçılmak ve Dökülmek)",
+      "is_locked": true,
       "sample_ayah": "25:23",
       "top_lemmas": [
         "m~anvuwr",
@@ -362,8 +362,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Ba'sere (Sure 82 İnfitâr son kilidi + Sure 100 Âdiyât: 82:4, 100:9 altını üstüne getirip dışarı saçmak)",
-      "concept_label": "Analiz Bekliyor (buEovira)",
-      "is_locked": false,
+      "concept_label": "Ba'sere (Zeminin Altını Üstüne Getirip İçinde Gömülü Olanı Dışarı Deşmek ve Çıkarmak)",
+      "is_locked": true,
       "sample_ayah": "82:4",
       "top_lemmas": [
         "buEovira"

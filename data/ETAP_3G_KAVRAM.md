@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 550 mühürlü kökten (`%90,24`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 82 İnfitâr, 92 Leyl, 93 Duhâ, 95 Tîn, 106 Kureyş → **20 tam kilitli sure**), 3 ve 2 açık Mesânî referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 24–36 geçiş) olmak üzere **50 kök** (764 geçiş) mühürlenerek toplam sözlük **600 kilitli köke (`%91,77` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%94,79`'u)** ulaştırılır.
-> **Etap 3G İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 560 Kök | Güncel Kapsam: %90,37)
+> **Etap 3G İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 570 Kök | Güncel Kapsam: %90,46)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -17,16 +17,16 @@
 | 8 | Kısa Sure %100 Kilidi | 536 | `ش-ق-و` | `S-K-W` | **12** | 12 | 11:105 | Şakî, Eşkâ ve Şikve (Kolaylık ve Esenliğin Zıttı Ağır Sıkıntı, Mahrumiyet ve Yıkıma Sürüklenmek) | ✅ **MÜHÜRLÜ** |
 | 9 | Kısa Sure %100 Kilidi | 718 | `ر-د-ي` | `R-D-Y` | **6** | 6 | 5:3 | Tereddî ve İrdâ' (Yüksekten Uçuruma ve Yıkım Çukuruna Yuvarlanıp Helak Olmak) | ✅ **MÜHÜRLÜ** |
 | 10 | Kısa Sure %100 Kilidi | 800 | `ج-ل-و` | `C-L-W` | **5** | 5 | 7:143 | Tecellî ve Cilâ' (Örtünün Sıyrılıp Parlakça Açığa Çıkması ve Yurttan Sökülme) | ✅ **MÜHÜRLÜ** |
-| 11 | Kısa Sure %100 Kilidi | 1621 | `ل-ظ-ي` | `L-Z-Y` | **1** | 1 | 92:14 | Lezâ ve Telezzî (Sure 92 Leyl son kilidi + 70:15: 92:14 alevlenip parlayan kavurucu ateş) | ⏳ *Bekliyor* |
-| 12 | Kısa Sure %100 Kilidi | 682 | `ض-ح-و` | `D-H-W` | **7** | 7 | 7:98 | Duhâ (Sure 93 Duhâ & 91 Şems kilidi + 2 açık Mesânî ref! ل-ي-ل zıddı 7 geçiş: 7:98, 20:59, 20:119, 79:29, 93:1 kuşluk aydınlığı) | ⏳ *Bekliyor* |
-| 13 | Kısa Sure %100 Kilidi | 874 | `و-د-ع` | `W-D-A` | **4** | 4 | 6:98 | Vedâ' ve Da' (Sure 93 Duhâ kilidi + 4 geçiş: 33:48, 93:3 terk edip bırakmak — "Rabbin seni terk etmedi") | ⏳ *Bekliyor* |
-| 14 | Kısa Sure %100 Kilidi | 1119 | `ع-ي-ل` | `A-Y-L` | **2** | 2 | 9:28 | Âil ve Ayle (Sure 93 Duhâ kilidi + 9:28: 93:8 yoksul/muhtaç olmak ve geçim darlığı — غ-ن-ي Mesânî zıddı) | ⏳ *Bekliyor* |
-| 15 | Kısa Sure %100 Kilidi | 1195 | `ق-ل-ي` | `K-L-Y` | **2** | 2 | 26:168 | Kalâ ve Kâlîn (Sure 93 Duhâ kilidi + 26:168: 93:3 darılıp nefret etmek / itip dışlamak) | ⏳ *Bekliyor* |
-| 16 | Kısa Sure %100 Kilidi | 1622 | `س-ج-و` | `S-C-W` | **1** | 1 | 93:2 | Secâ (Sure 93 Duhâ son kilidi: 93:2 gecenin durulup sakinleşmesi ve örtüsüyle dinginleşmesi) | ⏳ *Bekliyor* |
-| 17 | Kısa Sure %100 Kilidi | 464 | `ر-ك-ب` | `R-K-B` | **15** | 15 | 2:239 | Rükûb, Rekûb ve Terkîb (Sure 82 İnfitâr kilidi + 1 Mesânî ref, 15 geçiş: 82:8 parçaları birleştirip sentezlemek ve bineğe/gemiye binmek) | ⏳ *Bekliyor* |
-| 18 | Kısa Sure %100 Kilidi | 793 | `ك-و-ك-ب` | `K-W-K-B` | **5** | 5 | 6:76 | Kevkeb ve Kevâkib (Sure 82 İnfitâr kilidi + 5 geçiş: 6:76, 12:4, 24:35, 37:6, 82:2 parlak gezegen ve yıldızlar) | ⏳ *Bekliyor* |
-| 19 | Kısa Sure %100 Kilidi | 1022 | `ن-ث-ر` | `N-S-R` | **3** | 3 | 25:23 | İntisâr ve Mensûr (Sure 82 İnfitâr kilidi + 3 geçiş: 25:23, 54:7, 82:2 saçılıp dağılmak) | ⏳ *Bekliyor* |
-| 20 | Kısa Sure %100 Kilidi | 1244 | `ب-ع-ث-ر` | `B-A-S-R` | **2** | 2 | 82:4 | Ba'sere (Sure 82 İnfitâr son kilidi + Sure 100 Âdiyât: 82:4, 100:9 altını üstüne getirip dışarı saçmak) | ⏳ *Bekliyor* |
+| 11 | Kısa Sure %100 Kilidi | 1621 | `ل-ظ-ي` | `L-Z-Y` | **1** | 1 | 92:14 | Telezzî ve Lezâ (Alevleri Yükselerek Harlanan ve Şiddetle Tutuşan Ateş) | ✅ **MÜHÜRLÜ** |
+| 12 | Kısa Sure %100 Kilidi | 682 | `ض-ح-و` | `D-H-W` | **7** | 7 | 7:98 | Duhâ (Güneşin Yükselip Her Şeyi Görünür Kıldığı Kuşluk Aydınlığı ve Güneşe Maruz Kalma) | ✅ **MÜHÜRLÜ** |
+| 13 | Kısa Sure %100 Kilidi | 874 | `و-د-ع` | `W-D-A` | **4** | 4 | 6:98 | Ved' ve Müstevda' (Kendi Haline Bırakmak, Terk Etmek ve Geçici Emanet Yeri) | ✅ **MÜHÜRLÜ** |
+| 14 | Kısa Sure %100 Kilidi | 1119 | `ع-ي-ل` | `A-Y-L` | **2** | 2 | 9:28 | Ayle ve Âil (Geçim Darlığına Düşmek, Yoksulluk ve Muhtaçlık) | ✅ **MÜHÜRLÜ** |
+| 15 | Kısa Sure %100 Kilidi | 1195 | `ق-ل-ي` | `K-L-Y` | **2** | 2 | 26:168 | Kalâ ve Kâlîn (Şiddetli Hoşnutsuzlukla Uzaklaşmak ve Darılıp Sırt Çevirmek) | ✅ **MÜHÜRLÜ** |
+| 16 | Kısa Sure %100 Kilidi | 1622 | `س-ج-و` | `S-C-W` | **1** | 1 | 93:2 | Secâ (Durgunlaşıp Dinginleşen ve Karanlığıyla Örtüp Kaplayan Gece) | ✅ **MÜHÜRLÜ** |
+| 17 | Kısa Sure %100 Kilidi | 464 | `ر-ك-ب` | `R-K-B` | **15** | 15 | 2:239 | Rukûb, Müterâkib ve Terkîb (Üzerine Binmek, Üst Üste İstiflenmek ve Parçaları Birleştirip Terkip Etmek) | ✅ **MÜHÜRLÜ** |
+| 18 | Kısa Sure %100 Kilidi | 793 | `ك-و-ك-ب` | `K-W-K-B` | **5** | 5 | 6:76 | Kevkeb ve Kevâkib (Gökyüzünde Yükselip Parıldayan Gezegen ve İri Yıldız Kütlesi) | ✅ **MÜHÜRLÜ** |
+| 19 | Kısa Sure %100 Kilidi | 1022 | `ن-ث-ر` | `N-S-R` | **3** | 3 | 25:23 | İntisâr ve Mensûr (Dizili Bağı Çözülüp Etrafa Dağınık Biçimde Saçılmak ve Dökülmek) | ✅ **MÜHÜRLÜ** |
+| 20 | Kısa Sure %100 Kilidi | 1244 | `ب-ع-ث-ر` | `B-A-S-R` | **2** | 2 | 82:4 | Ba'sere (Zeminin Altını Üstüne Getirip İçinde Gömülü Olanı Dışarı Deşmek ve Çıkarmak) | ✅ **MÜHÜRLÜ** |
 | 21 | Açık Mesânî Zırhı | 449 | `خ-و-ن` | `H-W-N` | **16** | 11 | 2:187 | Hıyânet ve Hâin (3 açık Mesânî ref! أ-م-ن doğrudan zıddı 16 geçiş: 4:105, 8:27, 8:58, 12:52, 40:19, 66:10 emanete ve ahde ihanet etmek) | ⏳ *Bekliyor* |
 | 22 | Açık Mesânî Zırhı | 413 | `غ-ر-ب` | `G-R-B` | **19** | 17 | 2:115 | Mağrib, Gurûb ve Garâbîb (2 Mesânî + 1 Furûk ref! ش-ر-ق ve ط-ل-ع zıddı 19 geçiş: güneşin batışı, batı yönü ve 35:27 kuzguni siyah) | ⏳ *Bekliyor* |
 | 23 | Açık Mesânî Zırhı | 654 | `غ-ب-ر` | `G-B-R` | **8** | 8 | 7:83 | Gâbirîn ve Gabere (2 açık Mesânî ref! ن-ج-و zıddı 8 geçiş: 7:83, 15:60, 26:171, 29:32 yıkımda geride kalanlar ve 80:40 toz çökmüş yüzler) | ⏳ *Bekliyor* |
