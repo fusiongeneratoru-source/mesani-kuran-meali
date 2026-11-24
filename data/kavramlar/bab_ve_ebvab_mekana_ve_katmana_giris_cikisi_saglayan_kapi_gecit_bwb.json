@@ -1,0 +1,596 @@
+{
+  "root": "ب-و-ب",
+  "root_latin": "B-W-B",
+  "concept_name": "Bâb ve Ebvâb (Mekana, Katmana veya Sürece Giriş-Çıkışı Sağlayan Kapı ve Geçit)",
+  "rank": 330,
+  "total_occurrences": 27,
+  "unique_ayahs_count": 24,
+  "unified_core_mechanism": "Kapalı bir mekana, şehre, gök katmanına veya sürece giriş-çıkışı sağlayan ve kontrol eden sınır geçidi (`بَاب / أَبْوَاب`).",
+  "physical_core": "İbn Fâris'in tespit ettiği üzere 'kapalı bir mekana, şehre veya katmana giriş-çıkışı sağlayan ve kontrol eden geçit/kapı (الباب معروف، وتبوبت بوابا)': (1) Evlerin, şehirlerin veya surların somut giriş kapıları (`ٱدْخُلُوا۟ ٱلْبَابَ`, 2:58, 4:154, 5:23; `وَغَلَّقَتِ ٱلْأَبْوَٰبَ`, 12:23, 12:25, 12:67, 43:34, 57:13), (2) Bir işe meşru ve doğru yoldan girme kanalı (`وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا`, 2:189) ve bolluk/azap imkanlarının açıldığı kanallar (`أَبْوَٰبَ كُلِّ شَىْءٍ`, 6:44; `بَابًا ذَا عَذَابٍ شَدِيدٍ`, 23:77), (3) Göğün katmanlar arası geçiş kapıları (`أَبْوَٰبُ ٱلسَّمَآءِ`, 7:40, 15:14, 54:11, 78:19) ile bahçelerin ve derin çukurun giriş kapıları (`13:23`, `15:44`, `16:29`, `38:50`, `39:71-73`, `40:76`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Tek bir asıldır; bilinen kapı (el-bâb) ve kapıcı edinmek (tebevvebtü bevvâben) demektir.",
+    "lisan_al_arab": "الباب: المدخل إلى الشيء، والجمع أبواب، ويستعار للجهات والطرق — Bâb (çoğulu ebvâb), bir mekana giriş yapılan kapıdır; işlerin doğru giriş yolları ve yönleri için de kullanılır (2:189).",
+    "ragib_mufredat": "Bâb, bir yere girilen somut geçittir; 'evlere kapılarından gelin' (2:189) ifadesi hem somut mekana hem de işlere doğru yöntemle yaklaşıma işaret eder.",
+    "arbitration_decision": "Kökün fiziksel çekirdeği 'bir mekana, katmana veya sürece giriş-çıkışı sağlayan, açılıp kapanabilen sınır geçidi (bâb / ebvâb)'dir."
+  },
+  "semitic_cognates": {
+    "note": "Ortak Semitik b-w-b: Akadca bābu ('kapı, geçit, kozmik giriş'), Aramice/Süryanice bābā ('kapı, giriş')."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ظ-ه-ر",
+      "س-و-ر",
+      "غ-ل-ق",
+      "ف-ت-ح"
+    ],
+    "key_ayahs": [
+      "2:189",
+      "7:40",
+      "12:23",
+      "38:50",
+      "57:13"
+    ],
+    "reverse_stress_test": "Evlere ve işlere arka duvarlarından/tersinden girmek (`ظ-ه-ر` — 2:189 `مِن ظُهُورِهَا`) ile meşru giriş kapılarından girmek (`ب-و-ب` — `مِنْ أَبْوَٰبِهَا`) doğrudan Mesânî karşıtıdır; kapıların kilitlenmesi (`غ-ل-ق`) ile sonuna kadar açılması (`ف-ت-ح`) ise kapı mekaniğinin iki kutbudur."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ظ-ه-ر",
+      "س-و-ر",
+      "ف-ت-ح",
+      "غ-ل-ق"
+    ],
+    "mechanical_difference": "2:189'da `ظ-ه-ر` (`ظُهُورِهَا`) evlerin arka tarafını ve meşru olmayan ters girişi, `ب-و-ب` (`أَبْوَٰبِهَا`) ise ön yüzdeki doğru ve doğal giriş geçidini gösterir. 57:13'te `س-و-ر` (`بِسُورٍ`) iki grubu birbirinden ayıran kuşatıcı duvarı, `ب-و-ب` (`بَابٌ`) ise o duvarda açılmış kontrollü geçiş kapısını ayrıştırır."
+  },
+  "anchor_ayahs": [
+    "2:189 (وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا — İyilik ve erdem, evlere arkalarından girmeniz değildir; gerçek erdem, sorumluluk bilinciyle korunanın yaptığıdır. Evlere/işlere kendi kapılarından girin)",
+    "7:40 (إِنَّ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَٰبُ ٱلسَّمَآءِ — Ayetlerimizi yalanlayan ve büyüklük taslayarak onlardan yüz çevirenlere göğün kapıları açılmaz)",
+    "38:50 (جَنَّٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ — Kapıları kendileri için ardına kadar açılmış kalıcı bahçeler)"
+  ],
+  "grammar_and_branch_rules": "Tekil `بَاب` (8 geçiş: 2:58, 4:154, 5:23, 12:25, 12:67, 15:14, 23:77, 57:13) belirli bir tek giriş kapısını; cemî-i teksîr `أَبْوَاب` (19 geçiş) ise çoklu kapıları, yönleri ve gök/bahçe/çukur geçitlerini ifade eder.",
+  "derivatives": {
+    "ٱلْبَابَ / بَابًا / بَابٍ / بَابٌ": "Kapı, giriş geçidi (tekil) (8 geçiş: 2:58, 4:154, 5:23, 12:25, 12:67, 15:14, 23:77, 57:13)",
+    "أَبْوَٰبُ / أَبْوَٰبًا / ٱلْأَبْوَٰبَ": "Kapılar, giriş kanalları (çoğul) (19 geçiş: 2:189, 6:44, 7:40, 7:161, 12:23, 12:65, 12:67, 13:23, 15:44, 16:29, 38:50, 39:71, 39:72, 39:73, 40:40, 40:76, 43:34, 54:11, 78:19)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 58,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:58",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْبَابَ",
+      "target_word_rasm": "ٱلباب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ",
+      "context_snippet_turkish_tabula_rasa": "Bir vakit şu şehre girin, nimetlerinden, nerede dilerseniz orada bolbol yiyin, kapısından boyun eğme ve teslimiyet ederek girin, burası yurttur deyin, yarlıganma dileyin de suçlarınızı örtelim; iyilikte bulunanların eylem karşılığı daha da arttıracağız demiştik.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir vakit şu şehre girin, nimetlerinden, nerede dilerseniz orada bolbol yiyin, kapısından boyun eğme ve teslimiyet ederek girin, burası yurttur deyin, yarlıganma dileyin de suçlarınızı örtelim; iyilikte bulunanların eylem karşılığı daha da arttıracağız demiştik.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 189,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:189",
+      "word_position": 23,
+      "target_word_uthmani": "أَبْوَٰبِهَا",
+      "target_word_rasm": "أبوبها",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Hayır sahibi, Allah'tan çekinendir. Evlere kapılarından girin. Allah'tan sakının ki kurtulmuş kimselerden olup muradınıza eresiniz.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana yeni ayları sorarlarsa de ki: Onlar, insanlara vakitlerini bildirir, büyük yöneliş toplanması zamanı da onlarla bilinir. Sonra hayır, evlere arka taraflarından girmek değildir. Hayır sahibi, Allah'tan çekinendir. Evlere kapılarından girin. Allah'tan sakının ki kurtulmuş kimselerden olup muradınıza eresiniz.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 154,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:154",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْبَابَ",
+      "target_word_rasm": "ٱلباب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ettikleri ahdi yerine getirsinler diye Tur dağını, oldukları yerin üstünde yüceltmiş ve onlara, şehrin kapısından boyun eğme ve teslimiyet ederek girin demiştik ve cumartesi günü demiştik, haddi aşmayın ve onlardan pek kuvvetli bir söz almıştık.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ettikleri ahdi yerine getirsinler diye Tur dağını, oldukları yerin üstünde yüceltmiş ve onlara, şehrin kapısından boyun eğme ve teslimiyet ederek girin demiştik ve cumartesi günü demiştik, haddi aşmayın ve onlardan pek kuvvetli bir söz almıştık.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 23,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:23",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْبَابَ",
+      "target_word_rasm": "ٱلباب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "İçlerinden, korkan ve Allah tarafından nimetlere mazhar olmuş bulunan iki kişi, kapıdan girip saldırın üstlerine demişti; oraya girerseniz şüphe yok ki üst olursunuz siz ve ancak Allah'a dayanın güven duy.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İçlerinden, korkan ve Allah tarafından nimetlere mazhar olmuş bulunan iki kişi, kapıdan girip saldırın üstlerine demişti; oraya girerseniz şüphe yok ki üst olursunuz siz ve ancak Allah'a dayanın güven duy.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 44,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:44",
+      "word_position": 8,
+      "target_word_uthmani": "أَبْوَٰبَ",
+      "target_word_rasm": "أبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "بِهِۦ فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ حَتَّىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Derken söylenenleri, verilen öğütleri unuttukları zaman her şeyin kapılarını açtık onlara ve onlar, kendilerine verilen şeylerle genişliğe ulaştıkları gibi hemen ve ansızın onları tutup alıverdik de bütün umduklarından mahrum oldular.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ حَتَّىٰٓ إِذَا فَرِحُوا۟ بِمَآ أُوتُوٓا۟ أَخَذْنَٰهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken söylenenleri, verilen öğütleri unuttukları zaman her şeyin kapılarını açtık onlara ve onlar, kendilerine verilen şeylerle genişliğe ulaştıkları gibi hemen ve ansızın onları tutup alıverdik de bütün umduklarından mahrum oldular.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 40,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:40",
+      "word_position": 10,
+      "target_word_uthmani": "أَبْوَٰبُ",
+      "target_word_rasm": "أبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "لَا تُفَتَّحُ لَهُمْ أَبْوَٰبُ ٱلسَّمَآءِ وَلَا يَدْخُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Âyetlerimizi yalan sayıp onlara güven duy tenezzül etmeyenlere gök kapıları kesin olarak açılmaz ve deve iğne yordamından geçer de onlar gene esenlik bahçesine giremezler ve biz, mücrimleri işte böyle cezalandırırız.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَٰبُ ٱلسَّمَآءِ وَلَا يَدْخُلُونَ ٱلْجَنَّةَ حَتَّىٰ يَلِجَ ٱلْجَمَلُ فِى سَمِّ ٱلْخِيَاطِ وَكَذَٰلِكَ نَجْزِى ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Âyetlerimizi yalan sayıp onlara güven duy tenezzül etmeyenlere gök kapıları kesin olarak açılmaz ve deve iğne yordamından geçer de onlar gene esenlik bahçesine giremezler ve biz, mücrimleri işte böyle cezalandırırız.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 161,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:161",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلْبَابَ",
+      "target_word_rasm": "ٱلباب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَقُولُوا۟ حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hani o zaman onlara, bu şehirde yerleşin ve dilediğiniz yerde dilediğiniz şeyi yiyin ve bu makam, suçların döküldüğü makamdır deyin, kapıdan yerlere kapanırcasına eğilerek girin de suçlarınızı örtelim, iyi hareket edenlerin mükafatını daha da fazlasıyla verelim denmişti.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ سَنَزِيدُ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hani o zaman onlara, bu şehirde yerleşin ve dilediğiniz yerde dilediğiniz şeyi yiyin ve bu makam, suçların döküldüğü makamdır deyin, kapıdan yerlere kapanırcasına eğilerek girin de suçlarınızı örtelim, iyi hareket edenlerin mükafatını daha da fazlasıyla verelim denmişti.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 23,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:23",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْأَبْوَٰبَ",
+      "target_word_rasm": "ٱلأبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ",
+      "context_snippet_turkish_tabula_rasa": "Evinde bulunduğu kadın, ondan murat almak istedi de kapıları sımsıkı kapattı ve hadi dedi, beri gel. O, Allah'a sığınırım dedi; ...",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Evinde bulunduğu kadın, ondan murat almak istedi de kapıları sımsıkı kapattı ve hadi dedi, beri gel. O, Allah'a sığınırım dedi; şüphe yok ki kocan, benim efendimdir ve şüphe yok ki zulmedenler, asla kurtulamaz, muradına eremez.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 25,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:25",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْبَابَ",
+      "target_word_rasm": "ٱلباب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن",
+      "context_snippet_turkish_tabula_rasa": "Derken ikisi de kapıya doğru koştu. Kadın, onun gömleğini arkadan boydan boya yırtmıştı ki tam bu sırada kapıdan çıkarlarken kadının kocasına kapı önünde rastladılar. ...",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken ikisi de kapıya doğru koştu. Kadın, onun gömleğini arkadan boydan boya yırtmıştı ki tam bu sırada kapıdan çıkarlarken kadının kocasına kapı önünde rastladılar. Kadın, karına kötülük etmek isteyenin cezası, zindana atılmaktan, yahut elemli bir azaba uğratılmaktan başka ne olabilir ki dedi.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 25,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:25",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْبَابِ",
+      "target_word_rasm": "ٱلباب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ قَالَتْ مَا جَزَآءُ",
+      "context_snippet_turkish_tabula_rasa": "Derken ikisi de kapıya doğru koştu. Kadın, onun gömleğini arkadan boydan boya yırtmıştı ki tam bu sırada kapıdan çıkarlarken kadının kocasına kapı önünde rastladılar. ...",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken ikisi de kapıya doğru koştu. Kadın, onun gömleğini arkadan boydan boya yırtmıştı ki tam bu sırada kapıdan çıkarlarken kadının kocasına kapı önünde rastladılar. Kadın, karına kötülük etmek isteyenin cezası, zindana atılmaktan, yahut elemli bir azaba uğratılmaktan başka ne olabilir ki dedi.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 67,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:67",
+      "word_position": 6,
+      "target_word_uthmani": "بَابٍ",
+      "target_word_rasm": "باب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Ve oğullarım dedi, hepiniz aynı kapıdan girmeyin, ayrıayrı kapılardan girin. Fakat gene de Allah'ın takdir ettiği hiçbir şeyi gideremem sizden; ...",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve oğullarım dedi, hepiniz aynı kapıdan girmeyin, ayrıayrı kapılardan girin. Fakat gene de Allah'ın takdir ettiği hiçbir şeyi gideremem sizden; hüküm, ancak Allah'ındır. Ona dayandım ve dayananlar da ancak ona dayanmalı.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 67,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:67",
+      "word_position": 10,
+      "target_word_uthmani": "أَبْوَٰبٍ",
+      "target_word_rasm": "أبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ وَمَآ أُغْنِى",
+      "context_snippet_turkish_tabula_rasa": "Ve oğullarım dedi, hepiniz aynı kapıdan girmeyin, ayrıayrı kapılardan girin. Fakat gene de Allah'ın takdir ettiği hiçbir şeyi gideremem sizden; ...",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve oğullarım dedi, hepiniz aynı kapıdan girmeyin, ayrıayrı kapılardan girin. Fakat gene de Allah'ın takdir ettiği hiçbir şeyi gideremem sizden; hüküm, ancak Allah'ındır. Ona dayandım ve dayananlar da ancak ona dayanmalı.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 23,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:23",
+      "word_position": 15,
+      "target_word_uthmani": "بَابٍ",
+      "target_word_rasm": "باب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "عَلَيْهِم مِّن كُلِّ بَابٍ",
+      "context_snippet_turkish_tabula_rasa": "... Oraya girerler atalarından, eşlerinden, soylarından temiz ve düzgün kişilerle ve buyruk elçileri, her kapıdan onların tapısına girerler de.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "جَنَّٰتُ عَدْنٍ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ وَٱلْمَلَٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ebedi Adn esenlik bahçeleri. Oraya girerler atalarından, eşlerinden, soylarından temiz ve düzgün kişilerle ve buyruk elçileri, her kapıdan onların tapısına girerler de.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 14,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:14",
+      "word_position": 4,
+      "target_word_uthmani": "بَابًا",
+      "target_word_rasm": "بابا",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "Onlara gökten bir kapı açsak da buyruk elçileri, o kapıdan inip çıksalar.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara gökten bir kapı açsak da buyruk elçileri, o kapıdan inip çıksalar.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 44,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:44",
+      "word_position": 3,
+      "target_word_uthmani": "أَبْوَٰبٍ",
+      "target_word_rasm": "أبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "لَهَا سَبْعَةُ أَبْوَٰبٍ لِّكُلِّ بَابٍ مِّنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Orasının yedi kapısı var, her kapıya da onlardan bir kısmı ayrılmıştır.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لَهَا سَبْعَةُ أَبْوَٰبٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Orasının yedi kapısı var, her kapıya da onlardan bir kısmı ayrılmıştır.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 44,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:44",
+      "word_position": 5,
+      "target_word_uthmani": "بَابٍ",
+      "target_word_rasm": "باب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "سَبْعَةُ أَبْوَٰبٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ",
+      "context_snippet_turkish_tabula_rasa": "Orasının yedi kapısı var, her kapıya da onlardan bir kısmı ayrılmıştır.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لَهَا سَبْعَةُ أَبْوَٰبٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Orasının yedi kapısı var, her kapıya da onlardan bir kısmı ayrılmıştır.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 29,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:29",
+      "word_position": 2,
+      "target_word_uthmani": "أَبْوَٰبَ",
+      "target_word_rasm": "أبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Artık girin yakıcı yıkım yurdu kapılarından, ebedi kalacaksınız orada. Ululuk satanların yurtları, ne de kötüdür.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık girin yakıcı yıkım yurdu kapılarından, ebedi kalacaksınız orada. Ululuk satanların yurtları, ne de kötüdür.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 77,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:77",
+      "word_position": 5,
+      "target_word_uthmani": "بَابًا",
+      "target_word_rasm": "بابا",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "إِذَا فَتَحْنَا عَلَيْهِم بَابًا ذَا عَذَابٍ شَدِيدٍ",
+      "context_snippet_turkish_tabula_rasa": "Sonunda, onlara çetin bir azap kapısı açmıştık da o zaman her şeyden ümitlerini kesmişlerdi.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا فَتَحْنَا عَلَيْهِم بَابًا ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda, onlara çetin bir azap kapısı açmıştık da o zaman her şeyden ümitlerini kesmişlerdi.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 50,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:50",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْأَبْوَٰبُ",
+      "target_word_rasm": "ٱلأبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ",
+      "context_snippet_turkish_tabula_rasa": "Ebedi Adn esenlik bahçeleri ki onlara açıktır kapıları.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "جَنَّٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ebedi Adn esenlik bahçeleri ki onlara açıktır kapıları.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 71,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:71",
+      "word_position": 11,
+      "target_word_uthmani": "أَبْوَٰبُهَا",
+      "target_word_rasm": "أبوبها",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ",
+      "context_snippet_turkish_tabula_rasa": "Ve gerçeğin üzerini örten olanlar, bölükbölük yakıcı yıkım yurduna sürülmüştür, oraya geldikleri zaman kapıları açılmıştır da bekçileri, onlara, sizin içinizden, Rabbinizin ayetlerini okuyan ve sizi, bugüne kavuşacağınızı söyleyerek korkutan elçiler gelmedi mi size derler. Onlar da evet derler ve fakat azap hükmü, hak olmuştur gerçeğin üzerini örtenlere.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gerçeğin üzerini örten olanlar, bölükbölük yakıcı yıkım yurduna sürülmüştür, oraya geldikleri zaman kapıları açılmıştır da bekçileri, onlara, sizin içinizden, Rabbinizin ayetlerini okuyan ve sizi, bugüne kavuşacağınızı söyleyerek korkutan elçiler gelmedi mi size derler. Onlar da evet derler ve fakat azap hükmü, hak olmuştur gerçeğin üzerini örtenlere.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 72,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:72",
+      "word_position": 3,
+      "target_word_uthmani": "أَبْوَٰبَ",
+      "target_word_rasm": "أبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Girin denilir yakıcı yıkım yurdu kapılarından, ebedi kalırsınız orada; ululananların ne de kötüdür yurtları.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Girin denilir yakıcı yıkım yurdu kapılarından, ebedi kalırsınız orada; ululananların ne de kötüdür yurtları.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 73,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:73",
+      "word_position": 12,
+      "target_word_uthmani": "أَبْوَٰبُهَا",
+      "target_word_rasm": "أبوبها",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا",
+      "context_snippet_turkish_tabula_rasa": "Ve Rablerinden çekinenler de bölükbölük esenlik bahçesine sürülmüştür, oraya geldikleri zaman kapıları açılmıştır da bekçileri, esenlik size, tertemiz oldunuz, artık girin ebedi olarak derler.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَٰلِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Rablerinden çekinenler de bölükbölük esenlik bahçesine sürülmüştür, oraya geldikleri zaman kapıları açılmıştır da bekçileri, esenlik size, tertemiz oldunuz, artık girin ebedi olarak derler.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 76,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:76",
+      "word_position": 2,
+      "target_word_uthmani": "أَبْوَٰبَ",
+      "target_word_rasm": "أبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Girin kapılarından yakıcı yıkım yurdunun, orada ebedi olarak kalacaksınız; gerçekten de ululananların yeriyurdu, ne de kötüdür.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Girin kapılarından yakıcı yıkım yurdunun, orada ebedi olarak kalacaksınız; gerçekten de ululananların yeriyurdu, ne de kötüdür.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 34,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:34",
+      "word_position": 2,
+      "target_word_uthmani": "أَبْوَٰبًا",
+      "target_word_rasm": "أبوبا",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَلِبُيُوتِهِمْ أَبْوَٰبًا وَسُرُرًا عَلَيْهَا يَتَّكِـُٔونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve evlerinin kapılarını ve üstüne oturup yaslandıkları tahtları gümüşten yapardık.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلِبُيُوتِهِمْ أَبْوَٰبًا وَسُرُرًا عَلَيْهَا يَتَّكِـُٔونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve evlerinin kapılarını ve üstüne oturup yaslandıkları tahtları gümüşten yapardık.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 11,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:11",
+      "word_position": 2,
+      "target_word_uthmani": "أَبْوَٰبَ",
+      "target_word_rasm": "أبوب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ",
+      "context_snippet_turkish_tabula_rasa": "Derken açtık göklerin kapılarını da şarıl şarıl ardı gelmez yağmurlar yağdırdık.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Derken açtık göklerin kapılarını da şarıl şarıl ardı gelmez yağmurlar yağdırdık.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 13,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:13",
+      "word_position": 20,
+      "target_word_uthmani": "بَابٌۢ",
+      "target_word_rasm": "باب",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ",
+      "context_snippet_turkish_tabula_rasa": "... Derken aralarına bir duvardır çekilir ki bir kapısı vardır, içinde rahmet vardır da dış tarafında azap.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, erkek ve kadın iki çıkışlı kaypaklar, güvene erenlere, bizi de bekleyin de derler, gelelim, nurunuzdan alalım; onlara dönün ardınıza da bir nur isteyin artık denir. Derken aralarına bir duvardır çekilir ki bir kapısı vardır, içinde rahmet vardır da dış tarafında azap.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    },
+    {
+      "surah": 78,
+      "ayah": 19,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:19",
+      "word_position": 4,
+      "target_word_uthmani": "أَبْوَٰبًا",
+      "target_word_rasm": "أبوبا",
+      "target_word_literal_irab": "Tekil isim ve cemî-i teksîr أَبْوَاب (ev, şehir, gök, bahçe ve çukur kapıları ile bir işin doğru giriş yolu — 2:189, 6:44, 7:40, 12:23, 38:50)",
+      "context_snippet_arabic": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+      "context_snippet_turkish_tabula_rasa": "Ve gök açılmış, kapılar haline gelmiştir.",
+      "morphology": {
+        "lemma": "baAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:baAb|ROOT:bwb|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gök açılmış, kapılar haline gelmiştir.",
+      "contextual_meaning": "Bir mekana, katmana veya sürece giriş-çıkışı sağlayan sınır geçidi ve kapı (`بَاب / أَبْوَاب`)."
+    }
+  ]
+}

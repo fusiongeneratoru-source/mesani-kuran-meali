@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3G (Kısa Sureler %100 Tam Kilit Genişletmesi [20 Sure], Açık Mesânî Tepe Uçları ve 600. Kök Çekirdek Zırh Paketi — 50 Kök)",
   "target_count": 50,
-  "locked_count": 40,
+  "locked_count": 50,
   "total_tokens_in_package": 764,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 91.24,
+  "current_coverage_pct": 91.77,
   "target_coverage_pct": 91.77,
   "etap_3g_roots": [
     {
@@ -749,8 +749,8 @@
       "frequency": 27,
       "unique_ayahs": 26,
       "rationale": "Şecer ve Şecere (27 geçiş: 2:35, 14:24, 24:35, 36:80 ağaç/bitki ve 4:65 aralarında dallanıp budaklanan anlaşmazlık çıkması)",
-      "concept_label": "Analiz Bekliyor ($ajarap, $ajar, $ajara)",
-      "is_locked": false,
+      "concept_label": "Şecer ve Şecere (Gövde Üzerinde Yükselip Dalları Birbirine Giren Ağaç ve Dallanan Anlaşmazlık)",
+      "is_locked": true,
       "sample_ayah": "2:35",
       "top_lemmas": [
         "$ajarap",
@@ -768,8 +768,8 @@
       "frequency": 27,
       "unique_ayahs": 26,
       "rationale": "Aşr, Işrûn, Ma'şer ve Muâşeret (27 geçiş: 6:160 bire on karşılık, 89:2 on gece, 6:130 topluluk ve 4:19 eşlerle iyi geçinmek)",
-      "concept_label": "Analiz Bekliyor (Ea$or, Ea$ar, Ea$orap, maEo$ar)",
-      "is_locked": false,
+      "concept_label": "Aşr, Muâşere ve Ma‘şer (On Sayısı, Onda Birlik Ölçü ve Birlikte Kaynaşıp Yaşayan Topluluk)",
+      "is_locked": true,
       "sample_ayah": "2:60",
       "top_lemmas": [
         "Ea$or",
@@ -788,8 +788,8 @@
       "frequency": 27,
       "unique_ayahs": 24,
       "rationale": "Aceb ve İ'câb (27 geçiş: 10:2, 11:72, 18:9, 38:4, 50:2 şaşırıp tuhaf bulmak ve 2:204, 57:20 dış görünüşüyle hayran bırakmak)",
-      "concept_label": "Analiz Bekliyor (>aEojaba, Eajibu, Eajab, Eajiyb)",
-      "is_locked": false,
+      "concept_label": "Aceb ve İ‘câb (Alışılmışı Aşarak Hayret Uyandırma ve Görünüşüyle Hoşuna Gidip Cezbetme)",
+      "is_locked": true,
       "sample_ayah": "2:204",
       "top_lemmas": [
         ">aEojaba",
@@ -808,8 +808,8 @@
       "frequency": 27,
       "unique_ayahs": 24,
       "rationale": "Bâb ve Ebvâb (27 geçiş | 1M+1F: 2:189, 6:44, 12:23, 15:44, 38:50, 39:71-73 evlerin, göğün, rızkın ve karşılık yurtlarının kapıları)",
-      "concept_label": "Analiz Bekliyor (baAb)",
-      "is_locked": false,
+      "concept_label": "Bâb ve Ebvâb (Mekana, Katmana veya Sürece Giriş-Çıkışı Sağlayan Kapı ve Geçit)",
+      "is_locked": true,
       "sample_ayah": "2:58",
       "top_lemmas": [
         "baAb"
@@ -825,8 +825,8 @@
       "frequency": 27,
       "unique_ayahs": 26,
       "rationale": "Kamer (27 geçiş + Sure 91 Şems & 54 Kamer! ش-م-س kozmik eşleniği ay, menziller ve zaman hesabı: 10:5, 36:39, 54:1, 55:5)",
-      "concept_label": "Analiz Bekliyor (qamar)",
-      "is_locked": false,
+      "concept_label": "Kamer (Geceyi Beyaz Işığıyla ve Konaklarıyla Aydınlatıp Zaman Hesabını Gösteren Ay)",
+      "is_locked": true,
       "sample_ayah": "6:77",
       "top_lemmas": [
         "qamar"
@@ -842,8 +842,8 @@
       "frequency": 27,
       "unique_ayahs": 25,
       "rationale": "Seyr, Tesyîr ve Sîre (27 geçiş: 12:109, 29:20, 30:9 yeryüzünde gezip gözlem yapmak, 18:47, 78:20, 81:3 dağların yürütülmesi ve 20:21 ilk hâl)",
-      "concept_label": "Analiz Bekliyor (saAra, suy~irato, say~aArap, sayor)",
-      "is_locked": false,
+      "concept_label": "Seyr, Sîret ve Tesyîr (Bir Hat Boyunca Yol Almak, Kervan, İlk Yapı ve Dağların Yürütülmesi)",
+      "is_locked": true,
       "sample_ayah": "3:137",
       "top_lemmas": [
         "saAra",
@@ -862,8 +862,8 @@
       "frequency": 26,
       "unique_ayahs": 23,
       "rationale": "Nebât ve İnbât (26 geçiş: 2:261, 3:37, 6:99, 24:35, 50:7, 71:17 topraktan bitkiyi ve insanı filizlendirip güzelce yetiştirmek)",
-      "concept_label": "Analiz Bekliyor (>an[bata, nabaAt, tan[butu)",
-      "is_locked": false,
+      "concept_label": "Nebât ve İnbât (Topraktan Filizlenip Boy Atarak Büyüme ve Aşama Aşama Yetiştirme)",
+      "is_locked": true,
       "sample_ayah": "2:61",
       "top_lemmas": [
         ">an[bata",
@@ -881,8 +881,8 @@
       "frequency": 25,
       "unique_ayahs": 25,
       "rationale": "Havl, Hîle ve Tahvîl (25 geçiş | 1M+1F: 2:233 tam yıl döngüsü, 4:98 çare/güç, 8:24 kalp ile kişi arasına girmek ve 17:77 yasada sapma olmaması)",
-      "concept_label": "Analiz Bekliyor (Hawol, HaAla, taHowiyl, Hiylap)",
-      "is_locked": false,
+      "concept_label": "Havl, Tahvîl ve Hıvel (Çepeçevre Etraf, Tam Yıl Döngüsü, Araya Girme ve Hal/Yön Değiştirme)",
+      "is_locked": true,
       "sample_ayah": "2:17",
       "top_lemmas": [
         "Hawol",
@@ -901,8 +901,8 @@
       "frequency": 25,
       "unique_ayahs": 24,
       "rationale": "Saky, İskâ' ve Sukyâ (25 geçiş | 1F + Sure 91 Şems: 2:71, 16:66, 26:79, 28:23-24, 72:16, 91:13 su içirmek, sulamak ve su nöbeti)",
-      "concept_label": "Analiz Bekliyor (saqaY`, >asoqayo, {sotasoqaY`, siqaAyap)",
-      "is_locked": false,
+      "concept_label": "Seky, İskâ ve Sukyâ (Su/İçecek İçirip Sulamak, Su Kaynağını Tahsis Etmek ve Su Payı)",
+      "is_locked": true,
       "sample_ayah": "2:60",
       "top_lemmas": [
         "saqaY`",
@@ -921,8 +921,8 @@
       "frequency": 24,
       "unique_ayahs": 22,
       "rationale": "Vukû' ve Vâkıa (24 geçiş: 4:100, 7:118, 7:134, 15:29, 27:82, 56:1-2 hükmün ve gerçeğin kaçınılmaz biçimde inip gerçekleşmesi)",
-      "concept_label": "Analiz Bekliyor (waqaEa, waAqiE, waAqiEap, yuwqiEa)",
-      "is_locked": false,
+      "concept_label": "Vukû‘ ve Vâkı‘a (Yukarıdan Düşüp İnmek ve Hükmün/Olayın Hedefine Oturarak Kesinleşip Gerçekleşmesi)",
+      "is_locked": true,
       "sample_ayah": "4:100",
       "top_lemmas": [
         "waqaEa",

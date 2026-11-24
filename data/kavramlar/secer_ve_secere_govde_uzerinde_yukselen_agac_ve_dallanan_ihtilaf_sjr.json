@@ -1,0 +1,595 @@
+{
+  "root": "ش-ج-ر",
+  "root_latin": "S-C-R",
+  "concept_name": "Şecer ve Şecere (Gövde Üzerinde Yükselip Dalları Birbirine Giren Ağaç ve Dallanan Anlaşmazlık)",
+  "rank": 328,
+  "total_occurrences": 27,
+  "unique_ayahs_count": 26,
+  "unified_core_mechanism": "Bir gövde üzerinde yukarı doğru yükselip dalları birbiri içine geçmek (`شَجَر / شَجَرَة`) ve insanların görüşlerinin dallar gibi birbirine girip ihtilafa dönüşmesi (`شَجَرَ بَيْنَهُمْ`).",
+  "physical_core": "İbn Fâris'in tespit ettiği üzere 'bir şeyin gövde üzerinde yukarı doğru yükselmesi ve dallarının birbiri içine girip kenetlenmesi (تداخل الشيء بعضه في بعض، وعلو في شيء وارتفاع، والشجر كل نبت له ساق)': (1) Topraktan sağlam bir gövde (sâk) üzerinde yükselip dalları birbirine geçen ağaç (`شَجَرَة / شَجَر`, 14:24, 23:20, 24:35, 36:80, 55:6), (2) Hayvanların otladığı dallı bitki örtüsü (`وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ`, 16:10), (3) İnsanlar arasındaki görüş ve iddiaların ağaç dalları gibi birbirine girip çatışması ve ihtilafa dönüşmesi (`فِيمَا شَجَرَ بَيْنَهُمْ`, 4:65).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Birbiriyle iç içe geçmiş iki yakın asıldır: bir şeyin dallarının birbiri içine girmesi (tedâhül) ve yukarı doğru yükselmesi (ulüvv ve irtifâ'); gövdesi olan her bitkiye ağaç (şecer/şecere), fikirlerin birbirine girip ihtilafa dönüşmesine de 'şecera beynehüm' (4:65) denir.",
+    "lisan_al_arab": "الشجر من النبات ما قام على ساق، وشجر الأمر بينهم يشجر شجرا: تنازعوا فيه واختلط — Şecer gövde üzerinde yükselen ağaçtır; 'şecera'l-emru beynehüm' ise aralarındaki işin dallanıp budaklanarak anlaşmazlığa dönüşmesidir.",
+    "ragib_mufredat": "Şecer, gövdesi olan yüksek bitkidir; dallarının birbirine girmesi sebebiyle insanlar arasındaki karmaşık ihtilafa da 'mâ şecera beynehüm' (4:65) denilmiştir.",
+    "arbitration_decision": "Kökün fiziksel çekirdeği 'bir gövde üzerinde yükselip dalları birbiri içine geçmek (ağaç) ve meselelerin dallanıp birbirine girerek ihtilafa dönüşmesi'dir. Güzel ve kötü ağaç temsillerini (14:24-26), yeşil ağaçtan ateş çıkmasını (36:80) ve insanlar arasında dallanıp budaklanan anlaşmazlıkları (4:65) tek mekanizmayla açıklar."
+  },
+  "semitic_cognates": {
+    "note": "Aramice/Süryanice šgar ('birbirine girmek, tutuşturmak, dal salmak') ve Güney Arapça šgr ('ağaç, dalların birbirine girmesi')."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ن-ج-م",
+      "ح-ك-م",
+      "س-ل-م"
+    ],
+    "key_ayahs": [
+      "4:65",
+      "14:24",
+      "14:26",
+      "36:80",
+      "55:6"
+    ],
+    "reverse_stress_test": "Gövdesiz olarak yerden biten bitki (`ن-ج-م`) ile gövde ve dallar üzerinde yükselen ağaç (`ش-ج-ر` — 55:6 `وَٱلنَّجْمُ وَٱلشَّجَرُ`) tamamlayıcı çift; aralarında dallanıp birbirine giren ihtilaf (`شَجَرَ بَيْنَهُمْ` — 4:65) ile hakemlik edip tam teslimiyetle uzlaşmak (`ح-ك-م` / `س-ل-م`) ise Mesânî karşıtıdır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ن-ج-م",
+      "ح-ك-م",
+      "س-ل-م"
+    ],
+    "mechanical_difference": "55:6'da `ن-ج-م` (`ٱلنَّجْمُ`) gövdesiz yayılan bitkiyi (veya doğan yıldızı), `ش-ج-ر` (`ٱلشَّجَرُ`) ise gövde ve dallar üzerinde yükselen ağacı gösterir. 4:65'te `ش-ج-ر` (`شَجَرَ`) meselelerin dallar gibi birbirine girip çatışmasını, `ح-ك-م` (`يُحَكِّمُوكَ`) bu düğümü çözecek adil hükmü, `س-ل-م` (`يُسَلِّمُوا۟`) ise içte hiçbir burukluk kalmadan pürüzsüz boyun eğmeyi ayrıştırır."
+  },
+  "anchor_ayahs": [
+    "14:24 (أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ — Görmedin mi Allah nasıl bir örnek verdi: Güzel bir söz, kökü sabit, dalları gökte olan güzel bir ağaç gibidir)",
+    "4:65 (فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ — Hayır, Rabbine andolsun ki aralarında dallanıp birbirine giren anlaşmazlıklarda seni hakem yapmadıkça güvenip doğrulamış olmazlar)",
+    "36:80 (ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ — O ki sizin için yemyeşil ağaçtan ateş çıkarandır; siz de ondan yakıp duruyorsunuz)"
+  ],
+  "grammar_and_branch_rules": "Cins ismi `شَجَر` (7 geçiş) genel ağaç ve dallı bitki örtüsünü; tekil `شَجَرَة` (19 geçiş) belirli bir ağacı (zeytin, kabak, zakkum, söz ağacı); sülâsî mâzî `شَجَرَ` (4:65) ise görüşlerin dallanıp birbirine girerek anlaşmazlığa dönüşmesini ifade eder.",
+  "derivatives": {
+    "شَجَرَةٍ / ٱلشَّجَرَةَ / ٱلشَّجَرَةِ": "Ağaç (tekil) (19 geçiş: 2:35, 7:19, 7:20, 7:22, 14:24, 14:26, 17:60, 20:120, 23:20, 24:35, 28:30, 37:62, 37:64, 37:146, 44:43, 48:18, 56:52)",
+    "شَجَرٌ / ٱلشَّجَرُ / شَجَرٍ": "Ağaçlar, dallı bitki örtüsü (cins ismi) (7 geçiş: 16:10, 16:68, 22:18, 27:60, 31:27, 36:80, 55:6)",
+    "شَجَرَ": "Dallanıp birbirine girdi, ihtilaf ve çekişmeye dönüştü (1 geçiş: 4:65)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 35,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:35",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلشَّجَرَةَ",
+      "target_word_rasm": "ٱلشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Demiştik ki: Ey Âdem, sen ve eşin esenlik bahçesinde oturun, dilediğinizi bol bol yiyin. Ancak şu ağaca yaklaşmayın, yoksa haddini aşanlardan olursunuz.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Demiştik ki: Ey Âdem, sen ve eşin esenlik bahçesinde oturun, dilediğinizi bol bol yiyin. Ancak şu ağaca yaklaşmayın, yoksa haddini aşanlardan olursunuz.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 65,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:65",
+      "word_position": 8,
+      "target_word_uthmani": "شَجَرَ",
+      "target_word_rasm": "شجر",
+      "target_word_literal_irab": "Sülâsî mâzî fiil (görüşlerin ağaç dalları gibi birbirine girip anlaşmazlığa dönüşmesi — 4:65)",
+      "context_snippet_arabic": "حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا",
+      "context_snippet_turkish_tabula_rasa": "Fakat öyle değil; andolsun Rabbine ki onlar güven bağı etmiş olmazlar aralarında çıkan ihtilaflarda seni hakem etmedikçe ve sonra da yüreklerinde hiçbir...",
+      "morphology": {
+        "lemma": "$ajara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:$ajara|ROOT:$jr|3MS"
+      },
+      "ayah_text_arabic_full": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat öyle değil; andolsun Rabbine ki onlar güven bağı etmiş olmazlar aralarında çıkan ihtilaflarda seni hakem etmedikçe ve sonra da yüreklerinde hiçbir sıkıntı, üzüntü duymadan verdiğin hükmü kabul eylemedikçe ve tamamıyla sana teslim olmadıkça.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 19,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:19",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلشَّجَرَةَ",
+      "target_word_rasm": "ٱلشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey Âdem, sen ve eşin, esenlik bahçesine yerleşin, ikiniz de dilediğiniz şeyleri yiyin, yalnız şu ağaca yaklaşmayın, çünkü zalimlerden olursunuz.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Âdem, sen ve eşin, esenlik bahçesine yerleşin, ikiniz de dilediğiniz şeyleri yiyin, yalnız şu ağaca yaklaşmayın, çünkü zalimlerden olursunuz.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 20,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:20",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلشَّجَرَةِ",
+      "target_word_rasm": "ٱلشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç, onlara gizli kalmış olan avret yerlerini belirtip göstermek için ikisini de vesveselendirdi ve bu ağacın meyvesini yerseniz mutlaka iki...",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|GEN"
+      },
+      "ayah_text_arabic_full": "فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ ٱلْخَٰلِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç, onlara gizli kalmış olan avret yerlerini belirtip göstermek için ikisini de vesveselendirdi ve bu ağacın meyvesini yerseniz mutlaka iki buyruk elçisi haline gelir, yahut da ebedi ömre kavuşursunuz, onun için Rabbiniz sizi nehyetti dedi.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 22,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:22",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلشَّجَرَةَ",
+      "target_word_rasm": "ٱلشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا",
+      "context_snippet_turkish_tabula_rasa": "... Derken o ağacın meyvesinden tadınca avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular. Rableri nida edip onlara dedi ki: ...",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|ACC"
+      },
+      "ayah_text_arabic_full": "فَدَلَّىٰهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları böylece aldattı. Derken o ağacın meyvesinden tadınca avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular. Rableri nida edip onlara dedi ki: Sizi, şu ağacın meyvesini yemeden menetmedim mi ve demedim mi ki saptırıcı yıkıcı güç, hiç şüphe yok ki size apaçık bir düşmandır.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 22,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:22",
+      "word_position": 21,
+      "target_word_uthmani": "ٱلشَّجَرَةِ",
+      "target_word_rasm": "ٱلشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Derken o ağacın meyvesinden tadınca avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular. Rableri nida edip onlara dedi ki: ...",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|GEN"
+      },
+      "ayah_text_arabic_full": "فَدَلَّىٰهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları böylece aldattı. Derken o ağacın meyvesinden tadınca avret yerlerini gördüler ve esenlik bahçesindeki ağaçların yapraklarıyla avret yerlerini örtmeye koyuldular. Rableri nida edip onlara dedi ki: Sizi, şu ağacın meyvesini yemeden menetmedim mi ve demedim mi ki saptırıcı yıkıcı güç, hiç şüphe yok ki size apaçık bir düşmandır.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 24,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:24",
+      "word_position": 9,
+      "target_word_uthmani": "كَشَجَرَةٍ",
+      "target_word_rasm": "كشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ",
+      "context_snippet_turkish_tabula_rasa": "Görmedin mi Allah nasıl örnek getirmede, temiz söz, tertemiz bir ağaca benzer; kökü sabittir, dalları, budakları gökte.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmedin mi Allah nasıl örnek getirmede, temiz söz, tertemiz bir ağaca benzer; kökü sabittir, dalları, budakları gökte.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 26,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:26",
+      "word_position": 4,
+      "target_word_uthmani": "كَشَجَرَةٍ",
+      "target_word_rasm": "كشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن",
+      "context_snippet_turkish_tabula_rasa": "Pis söz de pis ağaca benzer; kesilip yerden çıkarılmıştır, duracak hali yoktur onun.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Pis söz de pis ağaca benzer; kesilip yerden çıkarılmıştır, duracak hali yoktur onun.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 10,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:10",
+      "word_position": 11,
+      "target_word_uthmani": "شَجَرٌ",
+      "target_word_rasm": "شجر",
+      "target_word_literal_irab": "Cins ismi (ağaçlar ve dallı bitki örtüsü — 16:10, 36:80, 55:6)",
+      "context_snippet_arabic": "مِّنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki size gökten yağmur yağdırır da suyunu içersiniz, hayvanlarınızı otlattığınız ağaçlar ve otlar da onunla biter, yeşerir.",
+      "morphology": {
+        "lemma": "$ajar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajar|ROOT:$jr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً لَّكُم مِّنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki size gökten yağmur yağdırır da suyunu içersiniz, hayvanlarınızı otlattığınız ağaçlar ve otlar da onunla biter, yeşerir.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 68,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:68",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلشَّجَرِ",
+      "target_word_rasm": "ٱلشجر",
+      "target_word_literal_irab": "Cins ismi (ağaçlar ve dallı bitki örtüsü — 16:10, 36:80, 55:6)",
+      "context_snippet_arabic": "ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ve Rabbin, bal arısına, dağlarda, ağaçlarda ve çardak kurulan yerlerde kovan yapın diye vahyetti.",
+      "morphology": {
+        "lemma": "$ajar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajar|ROOT:$jr|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Rabbin, bal arısına, dağlarda, ağaçlarda ve çardak kurulan yerlerde kovan yapın diye vahyetti.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 60,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:60",
+      "word_position": 16,
+      "target_word_uthmani": "وَٱلشَّجَرَةَ",
+      "target_word_rasm": "وٱلشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "إِلَّا فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ",
+      "context_snippet_turkish_tabula_rasa": "An o zamanı, hani sana demiştik ki hiç şüphe yok, Rabbin, insanları çepeçevre kuşatmıştır ve biz sana gösterdiğimiz rüyayı da, Kur'an 'daki lanetlenmiş ağacı...",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "An o zamanı, hani sana demiştik ki hiç şüphe yok, Rabbin, insanları çepeçevre kuşatmıştır ve biz sana gösterdiğimiz rüyayı da, Kur'an 'daki lanetlenmiş ağacı da ancak insanları sınamak için gösterdik ve onları korkutmadayız, fakat bu, ancak onların taşkınlıklarını arttırmada.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 120,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:120",
+      "word_position": 9,
+      "target_word_uthmani": "شَجَرَةِ",
+      "target_word_rasm": "شجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍ لَّا",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç, ona vesvese verdi de ey Âdem dedi, sana ebedilik ağacını ve zeval bulmayacak devleti göstereyim mi?",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|GEN"
+      },
+      "ayah_text_arabic_full": "فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ وَمُلْكٍ لَّا يَبْلَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç, ona vesvese verdi de ey Âdem dedi, sana ebedilik ağacını ve zeval bulmayacak devleti göstereyim mi?",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 18,
+      "surah_name": "Hac",
+      "ayah_ref": "22:18",
+      "word_position": 17,
+      "target_word_uthmani": "وَٱلشَّجَرُ",
+      "target_word_rasm": "وٱلشجر",
+      "target_word_literal_irab": "Cins ismi (ağaçlar ve dallı bitki örtüsü — 16:10, 36:80, 55:6)",
+      "context_snippet_arabic": "وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Görmez misin, Allah, şüphe yok, öyle bir mabut ki ona boyun eğme ve teslimiyet eder ne varsa göklerde ve ne varsa yeryüzünde ve güneş, ay, yıldızlar, dağlar, ağaç, hayvanlar ve insanların çoğu ve çoğu da azabı hak etmiştir ve Allah, kimi hor kılarsa onu kutluluğa ulaştırıp ona lütuf ve ihsanda bulunan hiçbir kimse bulunamaz; şüphe yok ki Allah, dilediğini yapar.",
+      "morphology": {
+        "lemma": "$ajar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajar|ROOT:$jr|M|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmez misin, Allah, şüphe yok, öyle bir mabut ki ona boyun eğme ve teslimiyet eder ne varsa göklerde ve ne varsa yeryüzünde ve güneş, ay, yıldızlar, dağlar, ağaç, hayvanlar ve insanların çoğu ve çoğu da azabı hak etmiştir ve Allah, kimi hor kılarsa onu kutluluğa ulaştırıp ona lütuf ve ihsanda bulunan hiçbir kimse bulunamaz; şüphe yok ki Allah, dilediğini yapar.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 20,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:20",
+      "word_position": 1,
+      "target_word_uthmani": "وَشَجَرَةً",
+      "target_word_rasm": "وشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "وَشَجَرَةً تَخْرُجُ مِن طُورِ",
+      "context_snippet_turkish_tabula_rasa": "Ve Turı Seyna'dan çıkan bir ağaç da meydana getirdik ki yağıyla ve yiyenlere, katığıyla biter.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍ لِّلْءَاكِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Turı Seyna'dan çıkan bir ağaç da meydana getirdik ki yağıyla ve yiyenlere, katığıyla biter.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 35,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:35",
+      "word_position": 19,
+      "target_word_uthmani": "شَجَرَةٍ",
+      "target_word_rasm": "شجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ لَّا",
+      "context_snippet_turkish_tabula_rasa": "Allah ışığıdır göklerin ve yeryüzünün. Işığının örneği, kandil konan bir yere benzer, orada bir kandil var, kandil, bir sırça içinde, sırça da parılparıl...",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ışığıdır göklerin ve yeryüzünün. Işığının örneği, kandil konan bir yere benzer, orada bir kandil var, kandil, bir sırça içinde, sırça da parılparıl parlayan bir yıldız sanki; doğuda da olmayan, batıda da olmayan kutlu zeytin ağacından yakılmış;ateş dokunmadan da yağı, hemen ışık verecek; nur üstüne nur. Allah, doğru yolu gösterir nuruyla dilediğine ve Allah, örnekler getirir insanlara ve Allah, her şeyi bilir.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 60,
+      "surah_name": "Neml",
+      "ayah_ref": "27:60",
+      "word_position": 20,
+      "target_word_uthmani": "شَجَرَهَآ",
+      "target_word_rasm": "شجرها",
+      "target_word_literal_irab": "Cins ismi (ağaçlar ve dallı bitki örtüsü — 16:10, 36:80, 55:6)",
+      "context_snippet_arabic": "لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeryüzünü yaratan ve size gökten yağmur yağdıran mı hayırlı? Biz, o yağmurla, ağacını bile bitiremiyeceğiniz nice güzelim bahçelerdeki nebatları...",
+      "morphology": {
+        "lemma": "$ajar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajar|ROOT:$jr|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeryüzünü yaratan ve size gökten yağmur yağdıran mı hayırlı? Biz, o yağmurla, ağacını bile bitiremiyeceğiniz nice güzelim bahçelerdeki nebatları bitirmedeyiz; Allah'la beraber bir başka mabut var mı? Hayır, siz, yoldan sapmış kişilersiniz.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 30,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:30",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلشَّجَرَةِ",
+      "target_word_rasm": "ٱلشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ",
+      "context_snippet_turkish_tabula_rasa": "Oraya gelince kutlu yerde bulunan vadinin sağ tarafındaki ağaçtan kendisine nida edildi: Ey Musa, şüphe yok ki ben, alemlerin Rabbi Allah'ım.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oraya gelince kutlu yerde bulunan vadinin sağ tarafındaki ağaçtan kendisine nida edildi: Ey Musa, şüphe yok ki ben, alemlerin Rabbi Allah'ım.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 31,
+      "ayah": 27,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:27",
+      "word_position": 6,
+      "target_word_uthmani": "شَجَرَةٍ",
+      "target_word_rasm": "شجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde ne kadar ağaç varsa hepsi kalem, deniz de mürekkeb olsa ve bundan sonra da yedi deniz daha mürekkeb olup o denize katılsa gene Allah'ın sözleri yazılıp tükenmez; şüphe yok ki Allah, üstündür, hüküm ve hikmet sahibidir.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَٰتُ ٱللَّهِ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde ne kadar ağaç varsa hepsi kalem, deniz de mürekkeb olsa ve bundan sonra da yedi deniz daha mürekkeb olup o denize katılsa gene Allah'ın sözleri yazılıp tükenmez; şüphe yok ki Allah, üstündür, hüküm ve hikmet sahibidir.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 80,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:80",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلشَّجَرِ",
+      "target_word_rasm": "ٱلشجر",
+      "target_word_literal_irab": "Cins ismi (ağaçlar ve dallı bitki örtüsü — 16:10, 36:80, 55:6)",
+      "context_snippet_arabic": "جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ",
+      "context_snippet_turkish_tabula_rasa": "Öyle bir mabuttur ki size, yemyeşil ağaçtan ateş halketmiştir de ateşlerinizi onunla yakarsınız.",
+      "morphology": {
+        "lemma": "$ajar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajar|ROOT:$jr|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki size, yemyeşil ağaçtan ateş halketmiştir de ateşlerinizi onunla yakarsınız.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 62,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:62",
+      "word_position": 5,
+      "target_word_uthmani": "شَجَرَةُ",
+      "target_word_rasm": "شجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
+      "context_snippet_turkish_tabula_rasa": "Böyle bir nimete ve ziyafete ermek mi hayırlı, yoksa zakkum ağacından yemek mi?",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|NOM"
+      },
+      "ayah_text_arabic_full": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Böyle bir nimete ve ziyafete ermek mi hayırlı, yoksa zakkum ağacından yemek mi?",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 64,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:64",
+      "word_position": 2,
+      "target_word_uthmani": "شَجَرَةٌ",
+      "target_word_rasm": "شجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki o, yakıcı yıkım yurdunun ta dibinden çıkar.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki o, yakıcı yıkım yurdunun ta dibinden çıkar.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 146,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:146",
+      "word_position": 3,
+      "target_word_uthmani": "شَجَرَةً",
+      "target_word_rasm": "شجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve ona gölge versin diye bir kabak fidanı bitirdik.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve ona gölge versin diye bir kabak fidanı bitirdik.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 44,
+      "ayah": 43,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:43",
+      "word_position": 2,
+      "target_word_uthmani": "شَجَرَتَ",
+      "target_word_rasm": "شجرت",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki zakkum ağacı.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki zakkum ağacı.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 18,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:18",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلشَّجَرَةِ",
+      "target_word_rasm": "ٱلشجرة",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "Ve andolsun ki Allah, ağaç altında, seninle biatleştikleri zaman, güvene erenlerden razı olmuştur da onlara sükun ve huzur indirmiştir ve onlara pek yakın bir fethi mükafat olarak da vermiştir.",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|GEN"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًا قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve andolsun ki Allah, ağaç altında, seninle biatleştikleri zaman, güvene erenlerden razı olmuştur da onlara sükun ve huzur indirmiştir ve onlara pek yakın bir fethi mükafat olarak da vermiştir.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 55,
+      "ayah": 6,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:6",
+      "word_position": 2,
+      "target_word_uthmani": "وَٱلشَّجَرُ",
+      "target_word_rasm": "وٱلشجر",
+      "target_word_literal_irab": "Cins ismi (ağaçlar ve dallı bitki örtüsü — 16:10, 36:80, 55:6)",
+      "context_snippet_arabic": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "context_snippet_turkish_tabula_rasa": "Ve gövdesiz bitki ve gövdeli ağaç boyun eğme ve teslimiyet eder.",
+      "morphology": {
+        "lemma": "$ajar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajar|ROOT:$jr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gövdesiz bitki ve gövdeli ağaç boyun eğme ve teslimiyet eder.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 56,
+      "ayah": 52,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:52",
+      "word_position": 3,
+      "target_word_uthmani": "شَجَرٍ",
+      "target_word_rasm": "شجر",
+      "target_word_literal_irab": "Cins ismi (ağaçlar ve dallı bitki örtüsü — 16:10, 36:80, 55:6)",
+      "context_snippet_arabic": "لَءَاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+      "context_snippet_turkish_tabula_rasa": "Zakkum ağacının meyvesinden yiyeceksiniz elbet.",
+      "morphology": {
+        "lemma": "$ajar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajar|ROOT:$jr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لَءَاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Zakkum ağacının meyvesinden yiyeceksiniz elbet.",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    },
+    {
+      "surah": 56,
+      "ayah": 72,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:72",
+      "word_position": 3,
+      "target_word_uthmani": "شَجَرَتَهَآ",
+      "target_word_rasm": "شجرتها",
+      "target_word_literal_irab": "Müennes tekil isim (gövde üzerinde yükselip dallanan ağaç — 2:35, 14:24, 24:35, 37:62)",
+      "context_snippet_arabic": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "context_snippet_turkish_tabula_rasa": "Siz mi onun ağacını meydana getiriyorsunuz, yoksa biz mi meydana getirmedeyiz?",
+      "morphology": {
+        "lemma": "$ajarap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ajarap|ROOT:$jr|F|ACC"
+      },
+      "ayah_text_arabic_full": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz mi onun ağacını meydana getiriyorsunuz, yoksa biz mi meydana getirmedeyiz?",
+      "contextual_meaning": "Gövde üzerinde yükselip dalları birbirine giren ağaç ve dallanan ihtilaf (`شَجَرَة / شَجَر / شَجَرَ`)."
+    }
+  ]
+}

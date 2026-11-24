@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 550 mühürlü kökten (`%90,24`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 82 İnfitâr, 92 Leyl, 93 Duhâ, 95 Tîn, 106 Kureyş → **20 tam kilitli sure**), 3 ve 2 açık Mesânî referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 24–36 geçiş) olmak üzere **50 kök** (764 geçiş) mühürlenerek toplam sözlük **600 kilitli köke (`%91,77` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%94,79`'u)** ulaştırılır.
-> **Etap 3G İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 590 Kök | Güncel Kapsam: %91,24)
+> **Etap 3G İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 600 Kök | Güncel Kapsam: %91,77)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -47,13 +47,13 @@
 | 38 | Yüksek Frekanslı Çekirdek | 313 | `ج-ن-د` | `C-N-D` | **29** | 27 | 2:249 | Cünd ve Cünûd (Yardım ve Görev İçin Toplanıp Saf Tutmuş Organize Birlik ve Ordu) | ✅ **MÜHÜRLÜ** |
 | 39 | Yüksek Frekanslı Çekirdek | 320 | `س-ب-ع` | `S-B-A` | **28** | 24 | 2:29 | Seb‘ ve Sebu‘ (Yedi Sayısı/Katmanlı Tamlık ve Avını Parçalayan Yırtıcı Hayvan) | ✅ **MÜHÜRLÜ** |
 | 40 | Yüksek Frekanslı Çekirdek | 318 | `خ-ل-و` | `H-L-W` | **28** | 28 | 2:14 | Hulüvv ve Tahallî (İçindeki Doluluktan Sıyrılıp Boşalma, Baş Başa Kalma ve Sahneyi Boşaltıp Geçme) | ✅ **MÜHÜRLÜ** |
-| 41 | Yüksek Frekanslı Çekirdek | 328 | `ش-ج-ر` | `S-C-R` | **27** | 26 | 2:35 | Şecer ve Şecere (27 geçiş: 2:35, 14:24, 24:35, 36:80 ağaç/bitki ve 4:65 aralarında dallanıp budaklanan anlaşmazlık çıkması) | ⏳ *Bekliyor* |
-| 42 | Yüksek Frekanslı Çekirdek | 331 | `ع-ش-ر` | `A-S-R` | **27** | 26 | 2:60 | Aşr, Işrûn, Ma'şer ve Muâşeret (27 geçiş: 6:160 bire on karşılık, 89:2 on gece, 6:130 topluluk ve 4:19 eşlerle iyi geçinmek) | ⏳ *Bekliyor* |
-| 43 | Yüksek Frekanslı Çekirdek | 332 | `ع-ج-ب` | `A-C-B` | **27** | 24 | 2:204 | Aceb ve İ'câb (27 geçiş: 10:2, 11:72, 18:9, 38:4, 50:2 şaşırıp tuhaf bulmak ve 2:204, 57:20 dış görünüşüyle hayran bırakmak) | ⏳ *Bekliyor* |
-| 44 | Yüksek Frekanslı Çekirdek | 330 | `ب-و-ب` | `B-W-B` | **27** | 24 | 2:58 | Bâb ve Ebvâb (27 geçiş | 1M+1F: 2:189, 6:44, 12:23, 15:44, 38:50, 39:71-73 evlerin, göğün, rızkın ve karşılık yurtlarının kapıları) | ⏳ *Bekliyor* |
-| 45 | Yüksek Frekanslı Çekirdek | 337 | `ق-م-ر` | `K-M-R` | **27** | 26 | 6:77 | Kamer (27 geçiş + Sure 91 Şems & 54 Kamer! ش-م-س kozmik eşleniği ay, menziller ve zaman hesabı: 10:5, 36:39, 54:1, 55:5) | ⏳ *Bekliyor* |
-| 46 | Yüksek Frekanslı Çekirdek | 335 | `س-ي-ر` | `S-Y-R` | **27** | 25 | 3:137 | Seyr, Tesyîr ve Sîre (27 geçiş: 12:109, 29:20, 30:9 yeryüzünde gezip gözlem yapmak, 18:47, 78:20, 81:3 dağların yürütülmesi ve 20:21 ilk hâl) | ⏳ *Bekliyor* |
-| 47 | Yüksek Frekanslı Çekirdek | 338 | `ن-ب-ت` | `N-B-T` | **26** | 23 | 2:61 | Nebât ve İnbât (26 geçiş: 2:261, 3:37, 6:99, 24:35, 50:7, 71:17 topraktan bitkiyi ve insanı filizlendirip güzelce yetiştirmek) | ⏳ *Bekliyor* |
-| 48 | Yüksek Frekanslı Çekirdek | 345 | `ح-و-ل` | `H-W-L` | **25** | 25 | 2:17 | Havl, Hîle ve Tahvîl (25 geçiş | 1M+1F: 2:233 tam yıl döngüsü, 4:98 çare/güç, 8:24 kalp ile kişi arasına girmek ve 17:77 yasada sapma olmaması) | ⏳ *Bekliyor* |
-| 49 | Yüksek Frekanslı Çekirdek | 346 | `س-ق-ي` | `S-K-Y` | **25** | 24 | 2:60 | Saky, İskâ' ve Sukyâ (25 geçiş | 1F + Sure 91 Şems: 2:71, 16:66, 26:79, 28:23-24, 72:16, 91:13 su içirmek, sulamak ve su nöbeti) | ⏳ *Bekliyor* |
-| 50 | Yüksek Frekanslı Çekirdek | 368 | `و-ق-ع` | `W-K-A` | **24** | 22 | 4:100 | Vukû' ve Vâkıa (24 geçiş: 4:100, 7:118, 7:134, 15:29, 27:82, 56:1-2 hükmün ve gerçeğin kaçınılmaz biçimde inip gerçekleşmesi) | ⏳ *Bekliyor* |
+| 41 | Yüksek Frekanslı Çekirdek | 328 | `ش-ج-ر` | `S-C-R` | **27** | 26 | 2:35 | Şecer ve Şecere (Gövde Üzerinde Yükselip Dalları Birbirine Giren Ağaç ve Dallanan Anlaşmazlık) | ✅ **MÜHÜRLÜ** |
+| 42 | Yüksek Frekanslı Çekirdek | 331 | `ع-ش-ر` | `A-S-R` | **27** | 26 | 2:60 | Aşr, Muâşere ve Ma‘şer (On Sayısı, Onda Birlik Ölçü ve Birlikte Kaynaşıp Yaşayan Topluluk) | ✅ **MÜHÜRLÜ** |
+| 43 | Yüksek Frekanslı Çekirdek | 332 | `ع-ج-ب` | `A-C-B` | **27** | 24 | 2:204 | Aceb ve İ‘câb (Alışılmışı Aşarak Hayret Uyandırma ve Görünüşüyle Hoşuna Gidip Cezbetme) | ✅ **MÜHÜRLÜ** |
+| 44 | Yüksek Frekanslı Çekirdek | 330 | `ب-و-ب` | `B-W-B` | **27** | 24 | 2:58 | Bâb ve Ebvâb (Mekana, Katmana veya Sürece Giriş-Çıkışı Sağlayan Kapı ve Geçit) | ✅ **MÜHÜRLÜ** |
+| 45 | Yüksek Frekanslı Çekirdek | 337 | `ق-م-ر` | `K-M-R` | **27** | 26 | 6:77 | Kamer (Geceyi Beyaz Işığıyla ve Konaklarıyla Aydınlatıp Zaman Hesabını Gösteren Ay) | ✅ **MÜHÜRLÜ** |
+| 46 | Yüksek Frekanslı Çekirdek | 335 | `س-ي-ر` | `S-Y-R` | **27** | 25 | 3:137 | Seyr, Sîret ve Tesyîr (Bir Hat Boyunca Yol Almak, Kervan, İlk Yapı ve Dağların Yürütülmesi) | ✅ **MÜHÜRLÜ** |
+| 47 | Yüksek Frekanslı Çekirdek | 338 | `ن-ب-ت` | `N-B-T` | **26** | 23 | 2:61 | Nebât ve İnbât (Topraktan Filizlenip Boy Atarak Büyüme ve Aşama Aşama Yetiştirme) | ✅ **MÜHÜRLÜ** |
+| 48 | Yüksek Frekanslı Çekirdek | 345 | `ح-و-ل` | `H-W-L` | **25** | 25 | 2:17 | Havl, Tahvîl ve Hıvel (Çepeçevre Etraf, Tam Yıl Döngüsü, Araya Girme ve Hal/Yön Değiştirme) | ✅ **MÜHÜRLÜ** |
+| 49 | Yüksek Frekanslı Çekirdek | 346 | `س-ق-ي` | `S-K-Y` | **25** | 24 | 2:60 | Seky, İskâ ve Sukyâ (Su/İçecek İçirip Sulamak, Su Kaynağını Tahsis Etmek ve Su Payı) | ✅ **MÜHÜRLÜ** |
+| 50 | Yüksek Frekanslı Çekirdek | 368 | `و-ق-ع` | `W-K-A` | **24** | 22 | 4:100 | Vukû‘ ve Vâkı‘a (Yukarıdan Düşüp İnmek ve Hükmün/Olayın Hedefine Oturarak Kesinleşip Gerçekleşmesi) | ✅ **MÜHÜRLÜ** |
