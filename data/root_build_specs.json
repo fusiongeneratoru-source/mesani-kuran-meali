@@ -45848,5 +45848,75 @@
       }
     ],
     "context_default": "Başlanmış bir süreci veya vadeyi eksiksiz son sınırına erdirme bağlamı"
+  },
+  "ن-خ-ل": {
+    "buckwalter": "nxl",
+    "slug": "nxl",
+    "concept_name": "Nahl ve Nahîl (Hurma Ağacı, Tekil Hurma ve Hurmalıklar)",
+    "keywords": [
+      "hurma",
+      "hurmalık",
+      "ağaç",
+      "kütük",
+      "salkım"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "n~axolap",
+        "label": "Muzâfun ileyh mecrûr tekil vahde ismi (ٱلنَّخْلَةِ — 19:23, 19:25 `جِذْعِ ٱلنَّخْلَةِ`) — tek bir hurma ağacı"
+      },
+      {
+        "lemma": "n~axiyl",
+        "label": "Hurmalık topluluk ismi (`نَخِيل / ٱلنَّخِيل` — 7 geçiş: 2:266, 13:4, 16:11, 16:67, 17:91, 23:19, 36:34) — üzüm bağlarıyla eşleşen hurma bahçeleri"
+      },
+      {
+        "lemma": "naxol",
+        "label": "Hurma tür/cins ismi (`نَخْل / ٱلنَّخْل` — 11 geçiş) — dikey gövdeli ağaç, tomurcuklu salkım veya devrik kütük bağlamında"
+      }
+    ],
+    "irab_default": "Nahl / Nahîl türevi — hurma ağacı veya hurmalık",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:266",
+          "13:4",
+          "16:11",
+          "16:67",
+          "17:91",
+          "18:32",
+          "23:19",
+          "36:34"
+        ],
+        "text": "Bağ ve Bahçe Ekosisteminde Hurmalıklar (`2:266`, `13:4`, `16:11,67`, `17:91`, `18:32`, `23:19`, `36:34`): Üzüm bağları, kaynak suları ve tarla ekinleriyle birlikte kurulan üretken hurma bahçeleri."
+      },
+      {
+        "ayahs": [
+          "6:99",
+          "6:141",
+          "26:148",
+          "50:10",
+          "55:11",
+          "55:68",
+          "80:29"
+        ],
+        "text": "Bitki Morfolojisi, Tomurcuk ve Kozmik Rızık (`6:99,141`, `26:148`, `50:10`, `55:11,68`, `80:29`): Dikey boy atma (`بَاسِقَٰت`), kılıflı tomurcuk (`ذَاتُ ٱلْأَكْمَامِ / طَلْع`), sarkan salkımlar (`قِنْوَان`) ve esenlik bahçesi nimeti."
+      },
+      {
+        "ayahs": [
+          "19:23",
+          "19:25",
+          "20:71"
+        ],
+        "text": "Gövde Kullanımında Zıt İnsanlık Sahneleri (`19:23,25`, `20:71`): Sancı anında Meryem'e destek ve taze rızık veren hurma gövdesi karşısında Firavun'un aynı gövdeyi infaz direğine dönüştürmesi."
+      },
+      {
+        "ayahs": [
+          "54:20",
+          "69:7"
+        ],
+        "text": "Yıkım Kasırgasında Devrilmiş Kütükler (`54:20`, `69:7`): Kökünden sökülüp baş aşağı yuvarlanmış veya içi boşalmış hurma kütükleri (`أَعْجَازُ نَخْلٍ`)."
+      }
+    ],
+    "context_default": "Hurma ağacı ve rızık/doğa yasası bağlamı"
   }
 }
