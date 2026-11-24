@@ -45995,5 +45995,91 @@
       }
     ],
     "context_default": "Yıllık zaman döngüsü ve takvim ölçüsü bağlamı"
+  },
+  "ص-ن-ع": {
+    "buckwalter": "SnE",
+    "slug": "SnE",
+    "concept_name": "Sun', San'at ve Istınâ' (Planlı İmal, Özenle Yetiştirme ve Yapı Kurma)",
+    "keywords": [
+      "imal",
+      "sanat",
+      "yapmak",
+      "inşa",
+      "yetiştirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{SoTanaEo",
+        "label": "VIII. bab mütekellim mâzî fiili (وَٱصْطَنَعْتُكَ لِنَفْسِى — 20:41, `ص+ط` Rasm kalpli) — özel görev için seçip yoğurmak"
+      },
+      {
+        "lemma": "maSaAniE",
+        "label": "Gayr-ı munsarıf cemi mef'ûl bih isim (مَصَانِعَ — 26:129) — sağlam yapılar, hisarlar ve su tesisleri"
+      },
+      {
+        "lemma": "SanoEap",
+        "label": "Muzâf mansûb isim (صَنْعَةَ لَبُوسٍ — 21:80, kapalı `ة`) — zırh yapım zanaatı"
+      },
+      {
+        "lemma": "SunoE",
+        "label": "Masdar / mef'ûl mutlak benzeri isim (صُنْعًا / صُنْعَ — 18:104, 27:88) — ustalıklı yapım eseri"
+      },
+      {
+        "lemma": "SanaEu",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "I. bab meçhul mansûb muzârî (وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ — 20:39) — gözetim altında özenle yetiştirilmek"
+      },
+      {
+        "lemma": "SanaEu",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "I. bab emir fiili (وَٱصْنَعِ ٱلْفُلْكَ / ٱصْنَعِ — 11:37, 23:27) — vahiy ve gözetim eşliğinde gemi inşa et"
+      },
+      {
+        "lemma": "SanaEu",
+        "label": "I. bab mâzî/muzârî fiili (صَنَعُوا۟ / يَصْنَعُونَ / يَصْنَعُ / تَصْنَعُونَ — 12 geçiş) — bilinçli kasıtla iş yapmak ve düzenek üretmek"
+      }
+    ],
+    "irab_default": "Sun' / San'at türevi — bilinçli ve planlı biçimde imal etmek ve yapı kurmak",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:37",
+          "11:38",
+          "20:39",
+          "20:41",
+          "21:80",
+          "27:88",
+          "23:27"
+        ],
+        "text": "Gözetim Altında Teknik Üretim ve İlahi Tasarım (`11:37,38`, `20:39,41`, `21:80`, `23:27`, `27:88`): Gemi inşası, koruyucu zırh zanaatı, Mûsâ'nın yetiştirilip görevlendirilmesi ve dağları bulut gibi yürüten kusursuz yapım."
+      },
+      {
+        "ayahs": [
+          "7:137",
+          "11:16",
+          "18:104",
+          "20:69",
+          "26:129"
+        ],
+        "text": "Hükümsüzleşen Dünyevi Yapılar ve Göz Boyama Düzenekleri (`7:137`, `11:16`, `18:104`, `20:69`, `26:129`): Firavun'un yıkılan düzeni, kalıcılık vehmiyle kurulan hisarlar, büyücülerin tuzağı ve boşa çıkan yapıp etmeler."
+      },
+      {
+        "ayahs": [
+          "5:14",
+          "5:63",
+          "13:31",
+          "16:112",
+          "24:30",
+          "29:45",
+          "35:8"
+        ],
+        "text": "Toplumsal ve Bireysel Yapıp Etmelerin Bilinmesi (`5:14,63`, `13:31`, `16:112`, `24:30`, `29:45`, `35:8`): Ahit bozma, suskun kalma, nankörlük veya erdemli duruş bağlamında tüm yapılanların eksiksiz bilinip karşılık görmesi."
+      }
+    ],
+    "context_default": "Bilinçli yapım, tasarım ve kasıtlı eylem bağlamı"
   }
 }
