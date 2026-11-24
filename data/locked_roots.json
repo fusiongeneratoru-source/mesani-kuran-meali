@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (30/50 — Toplam 630 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (31/50 — Toplam 631 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -10659,7 +10659,8 @@
           "ق-و-ل (`لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ` `61:2,3`, `يَقُولُونَ مَا لَا يَفْعَلُونَ` `26:226` — Boş Söz Üretimi vs Eyleme Dönüştürme)",
           "ت-ر-ك (`أَن نَّتْرُكَ ... أَوْ أَن نَّفْعَلَ` `11:87` — Bırakıp Terk Etme / Eylemsizlik vs Aktif Tasarruf ve İş Yapma)",
           "لَمْ يَفْعَلُوا / لَن تَفْعَلُوا ↔ فَٱفْعَلُوا۟ (`2:24`, `3:188`, `5:67`, `58:13` vs `2:68`, `16:50`, `22:77`, `37:102`, `66:6` — İhmalkârlık/Acizlik vs Buyrulanı Eksiksiz İcra)",
-          "نَهْي / إِمْسَاك ↔ فِعْل (`5:79` `لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ` — Kötülüğü Durdurup Engelleme vs Kötü Eylemi Yapıp Sürdürme)"
+          "نَهْي / إِمْسَاك ↔ فِعْل (`5:79` `لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ` — Kötülüğü Durdurup Engelleme vs Kötü Eylemi Yapıp Sürdürme)",
+          "ك-و-د (`فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ` `2:71` — Eylemi Dış Dünyada Fiilen İcra Edip Gerçekleştirmek vs Eylemin Eşiğine Yaklaşmaya Bile Ramak Kalmamak / Eşikte Durmak)"
         ],
         "key_ayahs": [
           "2:24",
@@ -51767,7 +51768,8 @@
         "roots": [
           "ب-ط-ل",
           "د-ف-ع",
-          "ك-ذ-ب"
+          "ك-ذ-ب",
+          "ك-و-د (ك-و-د ↔ و-ق-ع Mesânî simetrisi)"
         ],
         "key_ayahs": [
           "4:100",
@@ -53939,6 +53941,91 @@
         "أَبْيَضُ / بَيْضَآءُ / بِيضٌ (Ebyad / Beyda' / Bid)": "Parlak beyaz, kusursuz ve lekesiz ak (8 geçiş)",
         "تَبْيَضُّ / ٱبْيَضَّتْ (Tebyaddu / İbyaddat)": "Yüzlerin sevinçle ağarıp aydınlanması (3:106, 3:107) veya gözlerin kederden ağarması (12:84) (3 geçiş)",
         "بَيْضٌ (Beyd)": "Korunmuş, saklı yumurta (1 geçiş: 37:49)"
+      }
+    },
+    "ك-و-د": {
+      "root_latin": "K-W-D (KWD)",
+      "arabic": "كَادَ / كَادَتْ / كِدتَّ / كَادُوا۟ / يَكَادُ / تَكَادُ / أَكَادُ / يَكَادُونَ / يَكَدْ",
+      "rank": 359,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "كاد (كَادَ)",
+          "كادت (كَادَتْ)",
+          "كدت (كِدتَّ)",
+          "كادوا / وكادوا (كَادُوا۟)",
+          "يكاد (يَكَادُ)",
+          "تكاد (تَكَادُ)",
+          "أكاد (أَكَادُ)",
+          "يكادون (يَكَادُونَ)",
+          "يكد (لَمْ يَكَدْ)"
+        ],
+        "verb_forms_used": [
+          "Form I (24 geçiş — tüm Kur'an'da yalnız I. bab ecvef-i vâvî fiil كَادَ / يَكَادُ; 10 Mâzî [كَادَ 2, كَادَتْ 1, كِدتَّ 2, كَادُوا۟ 5] ve 14 Muzârî [يَكَادُ 6, تَكَادُ 3, يَكَادُونَ 3, أَكَادُ 1, meczûm يَكَدْ 1])"
+        ],
+        "preposition_patterns": [
+          "كَادَ / يَكَادُ + doğrudan muzâri fiil (12 geçiş: 2:20, 7:150, 9:117, 17:74, 19:90, 20:15, 22:72, 24:35, 24:43, 42:5, 67:8, 72:19 — 'أَنْ' olmaksızın doğrudan fiilin gerçekleşme eşiğine dayanması)",
+          "إِنْ (muhaffefe) + كَادَ / يَكَادُ + لَـ + muzâri fiil (6 geçiş: 17:73, 17:76, 25:42, 28:10, 37:56, 68:51 — 'gerçekten neredeyse ... oluyordu' pekiştirmeli eşik kalıbı)",
+          "مَا / لَا / لَمْ + كَادَ / يَكَادُ + muzâri fiil (6 geçiş: 2:71, 4:78, 14:17, 18:93, 24:40, 43:52 — mâzîde ağır zorlanmayla son anda icra [2:71], muzârîde ise gerçekleşme eşiğine dahi yaklaşamamak)"
+        ],
+        "approx_frequency": "24 geçiş / 24 ayet (referans amaçlı)"
+      },
+      "physical_core": "Bir şeyi biraz zahmet ve çaba eşliğinde arayıp tam eşiğine sokulmak ve buradan bir olayın gerçekleşme sınırına kıl payı yaklaşmak (İbn Fâris, Mekâyîs: \"الكاف والواو والدال كلمة كأنها تدل على التماس شيء ببعض العناء... فأما قولهم في المقاربة: كاد، فمعناها قارب\"). Kur'an'da şimşeğin gözü alma sınırına dayanması (2:20, 24:43), zeytin yağının ateş değmeden parlayacak eşikte durması (24:35), katmanlı deniz karanlığında uzatılan elin görülme eşiğine dahi ulaşamaması (24:40), göklerin veya ateşin öfkeden çatlayıp dağılma sınırına gelmesi (19:90, 42:5, 67:8) ve iç/dış baskıyla son anda dönülen tehlikeli eşikler (9:117, 17:73-76, 28:10, 37:56) hep aynı tek somut sınır-eşik yasasıyla kurulur.",
+      "ibn_faris_asl": {
+        "text": "(كود) الكاف والواو والدال كلمة كأنها تدل على التماس شيء ببعض العناء . يقولون : كاد يكود كودا ومكادا ... فأما قولهم في المقاربة : كاد ، فمعناها قارب . وإذا وقعت كاد مجردة فلم يقع ذلك الشيء تقول : كاد يفعل ، فهذا لم يفعل ، وإذا قرنت بجحد فقد وقع ، إذا قلت ما كاد يفعله فقد فعله . قال الله سبحانه : ﴿فذبحوها وما كادوا يفعلون﴾ .",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (كود maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Asıl anlamı bir şeyi zahmetle arayıp eşiğine gelmektir; mukârebe kullanımında 'yaklaşmak / ramak kalmak' (kârabe) anlamına gelir ve yalın halde henüz vuku bulmamayı, mâzîde olumsuzlukla ise güçlükle gerçekleşmeyi bildirir.",
+        "lisan_al_arab": "كاد يفعل كذا أي قارب فعله ولم يفعله بعد: Kök temel olarak yaklaşmayı (mukârebe) gösterir; kâde/yekâdu (ك-و-د) yaklaşma fiili olup strateji ve tuzak anlamındaki kâde/yekîdu (ك-ي-د) kökünden tamamen ayrıdır.",
+        "ragib_mufredat": "Bir eylemin henüz gerçekleşmemiş olmakla birlikte gerçekleşme sınırına çok yaklaştığını (mukârebetü'l-vukû') bildirir.",
+        "arbitration_decision": "Klasik tefsirlerin 20:15 (أَكَادُ أُخْفِيهَا) ayeti için ileri sürdüğü 'zâide/fazlalık' veya 'istiyorum' iddiaları Hakem Masası'nda elenmiştir; İbn Fâris'in 'gerçekleşme sınırına ve eşiğine dayanma' çekirdeği, belirlenen anın kesin gelişine (ءَاتِيَةٌ) rağmen vaktini tamamen gizleme sınırında tutma (أَكَادُ أُخْفِيهَا) bağlamı dahil tüm 24 ayeti %100 tek çekirdekle çözer."
+      },
+      "semitic_cognates": {
+        "note": "Klasik Arapçada Form I mukârebe fiili kāda/yakādu ('eşiğine gelmek, ramak kalmak') olarak müstakil gelişmiştir. İbranice (BDB) ve Aramice/Süryanice'de (CAL) görülen kad/kādā ('testi, küp, kap') isim kökü ayrı bir anlam alanıdır; Sami kardeş dillerde (İbranice, Aramice, Akadca CAD) Arapça k-w-d mukârebe fiiline doğrudan ses ve anlamca paralel eşkökenli tespit edilmemiştir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ف-ع-ل",
+          "و-ق-ع"
+        ],
+        "key_ayahs": [
+          "2:20",
+          "2:71",
+          "4:78",
+          "14:17",
+          "17:74",
+          "20:15",
+          "24:35",
+          "24:40",
+          "25:42",
+          "67:8"
+        ],
+        "reverse_stress_test": "Bir eylemi veya sonucu dış dünyada fiilen icra edip kesinleştirmek (`ف-ع-ل` — 2:71 `فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ` veya `و-ق-ع` hedefine oturup gerçekleşmek) karşısında `ك-و-د` henüz sınırı geçmeden kıl payı eşikte durmayı (`كَادَ`) ya da o eşiğe dahi ulaşamamayı (`لَا يَكَادُ / لَمْ يَكَدْ`) bildirir. Aynı sûredeki `24:35` (`يَكَادُ زَيْتُهَا يُضِىٓءُ` — ateş değmeden parlama eşiğinde) ile `24:40` (`لَمْ يَكَدْ يَرَىٰهَا` — görme eşiğine bile yaklaşamaz) ayetleri çift yönlü eşik simetrisini içeriden kanıtlar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ع-س-ي",
+          "ق-ر-ب",
+          "ك-ي-د",
+          "ذ-ه-ب",
+          "ث-ب-ت",
+          "ف-ع-ل"
+        ],
+        "mechanical_difference": "1) `ك-و-د` vs `ع-س-ي`: İkisi de yaklaşım bildirir ancak `ع-س-ي` geniş bir gelecek imkân ve beklenti ufkunu açık tutarken (çoğunlukla `أَنْ` ile), `ك-و-د` özneyi hiçbir ara boşluk bırakmadan olayın kıl payı kırılma eşiğine getirir (`أَنْ` olmadan doğrudan muzâriye bağlanır). 2) `ك-و-د` vs `ق-ر-ب`: `ق-ر-ب` mekân, zaman ve akrabalık mesafesinin yakınlığını (`96` geçiş) ölçerken; `ك-و-د` yalnızca bir fiilin gerçekleşme eşiğine dayanma anını (`24` geçiş) işaretler. 3) `ك-و-د` vs `ك-ي-د`: İkisi de mâzîde `كَادَ` yazılsa da `ك-ي-د` yoğun çabalı strateji/tuzak iken `ك-و-د` eşiğe yaklaşma fiilidir. 4) Aynı ayet içi (`2:20`, `2:71`, `17:74`): `2:20`'de `يَكَادُ يَخْطَفُ` sınırda duran etkiyi, `لَذَهَبَ` (`ذ-ه-ب`) tam alıp götürmeyi; `2:71`'de `فَذَبَحُوهَا` fiilî icrayı, `مَا كَادُوا۟ يَفْعَلُونَ` eylem eşiğinden uzak duran isteksizliği; `17:74`'te `ثَبَّتْنَٰكَ` (`ث-ب-ت`) sağlam tutmayı, `كِدتَّ تَرْكَنُ` ise kayma eşiğine yaklaşmayı ayrıştırır."
+      },
+      "anchor_ayahs": [
+        "2:20 (يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ — şimşek neredeyse gözlerini kapıp alacak eşiğe gelir)",
+        "24:35 (يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ — ona ateş dokunmasa bile yağı neredeyse kendi kendine ışık saçacak eşiktedir)",
+        "24:40 (إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا — karanlık katmanları içinde elini çıkarsa bile onu görme eşiğine dahi yaklaşamaz)",
+        "2:71 (فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ — sonunda onu boğazladılar; oysa bunu yapmaya neredeyse hiç yaklaşmıyorlardı)",
+        "20:15 (إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا تَسْعَىٰ — o belirlenen an kesinlikle gelmektedir; her can çabasının karşılığını görsün diye onu neredeyse tamamen gizli tutma eşiğinde bırakıyorum)"
+      ],
+      "unified_core_mechanism": "Bir eylemin, durumun veya sonucun gerçekleşme sınırına ve eşiğine kıl payı dayanması (ramak kalması); olumlu kurguda eylemin tam gerçekleşme noktasının kıyısında durmayı, olumsuzluk ekiyle birlikte ise bağlama göre o eşiğe ancak büyük zorlukla ulaşmayı yahut gerçekleşme sınırına hiç yaklaşamamayı bildirir.",
+      "grammar_and_branch_rules": "1) Yalın Olumlu Eşik (12 geçiş: 2:20, 7:150, 9:117, 17:74, 19:90, 20:15, 22:72, 24:35, 24:43, 42:5, 67:8, 72:19): Doğrudan muzâri fiile bağlanıp eylemin gerçekleşme eşiğine dayandığını bildirir. 2) Pekiştirilmiş Eşik (`إِنْ ... لَـ` — 6 geçiş: 17:73, 17:76, 25:42, 28:10, 37:56, 68:51): Muhaffefe `إِنْ` ve `لَـ` ile tehlikenin veya baskının kıl payı eşiğe dayandığını vurgular. 3) Olumsuz Eşik (`مَا / لَا / لَمْ` — 6 geçiş): Mâzîde (`2:71`) ağır isteksizlik sonrası son anda gerçekleşmeyi; muzârî ve meczûmda (`4:78`, `14:17`, `18:93`, `24:40`, `43:52`) ise anlama, yutma, görme veya açık konuşma sınırına dahi hiç yaklaşamamayı anlatır.",
+      "derivatives": {
+        "كَادَ / كَادَتْ / كِدتَّ / كَادُوا۟ (Kâde / Kâdet / Kidte / Kâdû)": "Form I Mâzî (10 geçiş) — geçmişte bir eylemin veya durumun gerçekleşme eşiğine kıl payı gelip dayanması (`2:71` olumsuzda isteksizliğin zorla aşılması)",
+        "يَكَادُ / تَكَادُ / أَكَادُ / يَكَادُونَ (Yekâdu / Tekâdu / Ekâdu / Yekâdûne)": "Form I Muzârî Merfû' (13 geçiş) — hâlihazırda veya sürekli olarak gerçekleşme sınırına ramak kalması (`4:78, 14:17, 18:93, 43:52` olumsuzda o eşiğe dahi ulaşamama)",
+        "لَمْ يَكَدْ (Lem Yeked)": "Form I Muzârî Meczûm (1 geçiş: 24:40) — katmanlı karanlıkta kendi elini dahi görme eşiğine hiç yaklaşamaması"
       }
     }
   }

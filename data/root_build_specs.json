@@ -44962,5 +44962,160 @@
       }
     ],
     "context_default": "Lekesiz parlak beyazlık, yüzün aydınlanıp ağarması ve saklı yumurta"
+  },
+  "ك-و-د": {
+    "buckwalter": "kwd",
+    "slug": "kwd",
+    "concept_name": "Kâde ve Yekâdü (Gerçekleşme Eşiğine Kıl Payı Dayanma, Ramak Kalma ve Olumsuzda Eşiği Yakalayamama)",
+    "keywords": [
+      "neredeyse",
+      "nerdeyse",
+      "az kaldı",
+      "az kalmıştı",
+      "hemen",
+      "bir türlü",
+      "yanaşmıyor"
+    ],
+    "irab_rules": [
+      {
+        "ayahs": [
+          "24:40"
+        ],
+        "label": "Bâb I meczûm muzâri fiil (لَمْ يَكَدْ — 3MS, cezm sebebiyle orta illet harfi düşmüş) — görme eşiğine dahi hiç yaklaşamamak"
+      },
+      {
+        "ayahs": [
+          "2:71"
+        ],
+        "label": "Bâb I mâzî fiil (مَا كَادُوا۟ — 3MP, nefy ile) — yapmaya yaklaşmaya bile ramak kalmadığı halde zorlanarak son anda icra etmek"
+      },
+      {
+        "ayahs": [
+          "4:78",
+          "14:17",
+          "18:93",
+          "43:52"
+        ],
+        "label": "Bâb I olumsuz muzâri fiil (لَا يَكَادُ / لَا يَكَادُونَ — merfû') — anlama, yutma veya açık konuşma eşiğine dahi yaklaşamamak"
+      },
+      {
+        "ayahs": [
+          "20:15"
+        ],
+        "label": "Bâb I muzâri fiil (أَكَادُ — 1S, merfû') — belirlenen anın kesin gelişine rağmen vaktini neredeyse bütünüyle gizli tutma eşiğinde bırakmak"
+      },
+      {
+        "features_contains": [
+          "PERF",
+          "2MS"
+        ],
+        "label": "Bâb I mâzî fiil (كِدتَّ — 2MS, zamir bitişmesiyle orta illet harfi düşmüş) — bir eğilim veya yıkım eşiğine kıl payı gelmiş olmak"
+      },
+      {
+        "features_contains": [
+          "PERF",
+          "3FS"
+        ],
+        "label": "Bâb I mâzî fiil (كَادَتْ — 3FS) — yoğun iç baskıyla açığa vurma eşiğine kıl payı dayanmak"
+      },
+      {
+        "features_contains": [
+          "PERF",
+          "3MP"
+        ],
+        "label": "Bâb I mâzî fiil (كَادُوا۟ — 3MP) — eylemin gerçekleşme sınırına kıl payı gelmek"
+      },
+      {
+        "features_contains": [
+          "PERF",
+          "3MS"
+        ],
+        "label": "Bâb I mâzî fiil (كَادَ — 3MS) — bir sapma veya eğilim eşiğine kıl payı dayanmak"
+      },
+      {
+        "features_contains": [
+          "IMPF",
+          "3FS"
+        ],
+        "label": "Bâb I muzâri fiil (تَكَادُ — 3FS, merfû') — kozmik veya ateşli parçalanma eşiğine dayanmak"
+      },
+      {
+        "features_contains": [
+          "IMPF",
+          "3MP"
+        ],
+        "label": "Bâb I muzâri fiil (يَكَادُونَ — 3MP, merfû') — şiddetli tepki ve saldırı eşiğine gelmek"
+      },
+      {
+        "features_contains": [
+          "IMPF",
+          "3MS"
+        ],
+        "label": "Bâb I muzâri fiil (يَكَادُ — 3MS, merfû') — fiziksel veya toplumsal etkinin gerçekleşme sınırına kıl payı dayanması"
+      }
+    ],
+    "irab_default": "Bâb I fiil (كَادَ / يَكَادُ) — gerçekleşme sınırına kıl payı dayanma",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:20",
+          "24:35",
+          "24:43"
+        ],
+        "text": "Işık ve Şimşeğin Fiziksel Eşik Yoğunluğu (`2:20`, `24:35`, `24:43`): Şimşeğin gözleri kapıp alma sınırına gelmesi (`2:20`, `24:43`) ve saf zeytinyağının ateş değmeden kendi kendine ışık saçacak berraklık eşiğinde durması (`24:35`)."
+      },
+      {
+        "ayahs": [
+          "2:71"
+        ],
+        "text": "Ağır İsteksizlik Sonrası Son Anda İcra (`2:71`): İnek kesme buyruğu karşısında bitmeyen bahanelerle yapmaya yaklaşmaya bile ramak kalmadığı halde (`وَمَا كَادُوا۟ يَفْعَلُونَ`), sonunda zorlanarak eylemin fiilen gerçekleştirilmesi."
+      },
+      {
+        "ayahs": [
+          "4:78",
+          "14:17",
+          "18:93",
+          "24:40",
+          "43:52"
+        ],
+        "text": "Olumsuz Eşik — Gerçekleşme Sınırına Dahi Yaklaşamama (`4:78`, `14:17`, `18:93`, `24:40`, `43:52`): Bir sözü derinlemesine kavrama (`4:78`, `18:93`), boğazdan geçirme (`14:17`), katmanlı karanlıkta kendi elini görme (`24:40`) veya meramını açık seçik ifade etme (`43:52`) eşiğine bile ulaşamama."
+      },
+      {
+        "ayahs": [
+          "19:90",
+          "42:5",
+          "67:8"
+        ],
+        "text": "Kozmik ve Yakıcı Gerilim Eşiği (`19:90`, `42:5`, `67:8`): Asılsız iddialar karşısında göklerin üstlerinden çatlayıp yarılma eşiğine gelmesi (`19:90`, `42:5`) ve yakıcı azap yurdunun öfkeden parçalanıp dağılma sınırına dayanması (`67:8`)."
+      },
+      {
+        "ayahs": [
+          "20:15"
+        ],
+        "text": "Belirlenen Anın Gizlilik Eşiği (`20:15`): Belirlenen hesap anının kesinlikle geleceği vurgulanırken (`ءَاتِيَةٌ`), her canın kendi çabasının karşılığını özgürce alması için vaktinin neredeyse bütünüyle gizli tutulma eşiğinde bırakılması (`أَكَادُ أُخْفِيهَا`)."
+      },
+      {
+        "ayahs": [
+          "9:117",
+          "17:73",
+          "17:74",
+          "17:76",
+          "25:42",
+          "28:10",
+          "37:56"
+        ],
+        "text": "Baskı ve Sınanma Altında Kıl Payı Dönülen Eşik (`9:117`, `17:73-76`, `25:42`, `28:10`, `37:56`): Gönlün kayması (`9:117`), baskıyla taviz ve sürgün sınırına itilmek (`17:73-76`), saptırma veya yıkım tehlikesi (`25:42`, `37:56`) ve Mûsâ'nın annesinin sırrı açığa vurma sınırından kalbinin bağlanmasıyla dönmesi (`28:10`)."
+      },
+      {
+        "ayahs": [
+          "7:150",
+          "22:72",
+          "68:51",
+          "72:19"
+        ],
+        "text": "Toplumsal ve Fiziksel Kuşatma Eşiği (`7:150`, `22:72`, `68:51`, `72:19`): Hârûn'a yönelen ölüm tehdidi (`7:150`), hakikat okuyanlara saldırma öfkesi (`22:72`), bakışlarla devirme hıncı (`68:51`) ve çağrı etrafında üst üste yığılma sınırı (`72:19`)."
+      }
+    ],
+    "context_default": "Bir eylemin veya durumun gerçekleşme eşiğine kıl payı dayanması (ramak kalması)"
   }
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 630,
+    "total_locked": 631,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1766,7 +1766,8 @@
         "ق-و-ل (`لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ` `61:2,3`, `يَقُولُونَ مَا لَا يَفْعَلُونَ` `26:226` — Boş Söz Üretimi vs Eyleme Dönüştürme)",
         "ت-ر-ك (`أَن نَّتْرُكَ ... أَوْ أَن نَّفْعَلَ` `11:87` — Bırakıp Terk Etme / Eylemsizlik vs Aktif Tasarruf ve İş Yapma)",
         "لَمْ يَفْعَلُوا / لَن تَفْعَلُوا ↔ فَٱفْعَلُوا۟ (`2:24`, `3:188`, `5:67`, `58:13` vs `2:68`, `16:50`, `22:77`, `37:102`, `66:6` — İhmalkârlık/Acizlik vs Buyrulanı Eksiksiz İcra)",
-        "نَهْي / إِمْسَاك ↔ فِعْل (`5:79` `لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ` — Kötülüğü Durdurup Engelleme vs Kötü Eylemi Yapıp Sürdürme)"
+        "نَهْي / إِمْسَاك ↔ فِعْل (`5:79` `لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ` — Kötülüğü Durdurup Engelleme vs Kötü Eylemi Yapıp Sürdürme)",
+        "ك-و-د (`فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ` `2:71` — Eylemi Dış Dünyada Fiilen İcra Edip Gerçekleştirmek vs Eylemin Eşiğine Yaklaşmaya Bile Ramak Kalmamak / Eşikte Durmak)"
       ]
     },
     "أ-ج-ر": {
@@ -7616,7 +7617,8 @@
       "opposites": [
         "ب-ط-ل",
         "د-ف-ع",
-        "ك-ذ-ب"
+        "ك-ذ-ب",
+        "ك-و-د (ك-و-د ↔ و-ق-ع Mesânî simetrisi)"
       ]
     },
     "ح-ص-ي": {
@@ -7912,6 +7914,15 @@
         "س-و-د",
         "ج-ي-ب",
         "غ-ر-ب"
+      ]
+    },
+    "ك-و-د": {
+      "latin": "K-W-D (KWD)",
+      "core": "Bir eylemin, durumun veya sonucun gerçekleşme sınırına ve eşiğine kıl payı dayanması (ramak kalması); olumlu kurguda eylemin tam gerçekleşme noktasının kıyısında durmayı, olumsuzluk ekiyle birlikte ise bağlama göre o eşiğe ancak büyük zorlukla ulaşmayı yahut gerçekleşme sınırına hiç yaklaşamamayı bildirir.",
+      "physical": "Bir şeyi biraz zahmet ve çaba eşliğinde arayıp tam eşiğine sokulmak ve buradan bir olayın gerçekleşme sınırına kıl payı yaklaşmak (İbn Fâris, Mekâyîs: \"الكاف والواو والدال كلمة كأنها تدل على التماس شيء ببعض العناء... فأما قولهم في المقاربة: كاد، فمعناها قارب\"). Kur'an'da şimşeğin gözü alma sınırına dayanması (2:20, 24:43), zeytin yağının ateş değmeden parlayacak eşikte durması (24:35), katmanlı deniz karanlığında uzatılan elin görülme eşiğine dahi ulaşamaması (24:40), göklerin veya ateşin öfkeden çatlayıp dağılma sınırına gelmesi (19:90, 42:5, 67:8) ve iç/dış baskıyla son anda dönülen tehlikeli eşikler (9:117, 17:73-76, 28:10, 37:56) hep aynı tek somut sınır-eşik yasasıyla kurulur.",
+      "opposites": [
+        "ف-ع-ل",
+        "و-ق-ع"
       ]
     }
   }
