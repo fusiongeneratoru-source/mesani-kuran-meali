@@ -51311,5 +51311,67 @@
       }
     ],
     "context_default": "Belirtiyle ortaya çıkarma ve yol gösterme bağlamı"
+  },
+  "م-ق-ت": {
+    "buckwalter": "mqt",
+    "slug": "mqt",
+    "concept_name": "Makt (Çirkin Fiil ve Tutarsızlığa Karşı Kabaran Şiddetli Nefret ve Tiksinti)",
+    "keywords": [
+      "nefret",
+      "tiksinti",
+      "makt",
+      "cirkinlik",
+      "tutarsizlik",
+      "ofke"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "maqot",
+        "ayahs": [
+          "40:35",
+          "61:3"
+        ],
+        "label": "`كَبُرَ` fiili ardından nekre mansûb temyîz (`كَبُرَ مَقْتًا عِندَ ٱللَّهِ` — Allah katında tiksinti/nefret bakımından ne kadar büyüktür; 2 geçiş: 40:35, 61:3)"
+      },
+      {
+        "lemma": "maqot",
+        "ayahs": [
+          "4:22",
+          "35:39"
+        ],
+        "label": "Mansûb haber atfı (`كَانَ فَٰحِشَةً وَمَقْتًا` `4:22`) ve `زَادَ` fiilinin mansûb ikinci mef'ûlü (`إِلَّا مَقْتًا` `35:39`; 2 geçiş)"
+      },
+      {
+        "lemma": "maqot",
+        "ayahs": [
+          "40:10"
+        ],
+        "label": "Aynı ayette te'kid lâmıyla merfû mübtedâ (`لَمَقْتُ ٱللَّهِ`) ve `مِن` harf-i cerriyle mecrûr mukayese terimi (`مِن مَّقْتِكُمْ أَنفُسَكُمْ` — 2 geçiş: 40:10)"
+      }
+    ],
+    "irab_default": "Çirkin fiilden doğan şiddetli nefret ve tiksinti bildiren masdar (`م-ق-ت` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:22"
+        ],
+        "text": "Toplumsal Ahlak Sınırı ve Yasak Evlilik (`4:22`): Babaların önceden evlendiği kadınlarla evlenmenin (câhiliyedeki `نكاح المقت`) hem açık bir çirkinlik (`فَٰحِشَة`) hem de şiddetli tiksinti sebebi (`مَقْتًا`) sayılarak kesin yasaklanması."
+      },
+      {
+        "ayahs": [
+          "35:39",
+          "40:10",
+          "40:35"
+        ],
+        "text": "Hakikati Örtme ve Delilsiz Kibirli Tartışmanın Sonucu (`35:39, 40:10, 40:35`): Yeryüzünde sorumlu kılındıktan sonra hakikati örtenlerin tutumunun Rab katında yalnız nefreti artırması (`35:39`), delilsiz tartışanların Allah ve inananlar yanında ağır tiksinti uyandırması (`40:35`) ve hesap anında ilahî tiksintinin kendi kendilerine duydukları tiksintiden büyük olacağının ilanı (`40:10`)."
+      },
+      {
+        "ayahs": [
+          "61:3"
+        ],
+        "text": "Söz-Eylem Çelişkisinin Mahkûmiyeti (`61:3`): Yapmayacakları şeyleri söyleyenlerin tutumunun Allah katında en büyük tiksinti (`كَبُرَ مَقْتًا`) sebebi olarak vurgulanıp ertesi ayette (`61:4`) kenetlenmiş saf sevgisiyle (`يُحِبُّ`) karşılaştırılması."
+      }
+    ],
+    "context_default": "Çirkin fiil veya tutarsızlığa karşı şiddetli nefret bağlamı"
   }
 }
