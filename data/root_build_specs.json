@@ -50935,5 +50935,94 @@
       }
     ],
     "context_default": "Dış desteğe yaslandırılmış olma bağlamı"
+  },
+  "ب-ك-ر": {
+    "buckwalter": "bkr",
+    "slug": "bkr",
+    "concept_name": "Bükre, İbkâr ve Bikr (Günün En İlk Taze Vakti ve Aşınmamış İlk Tazelik/Gençlik)",
+    "keywords": [
+      "erken sabah",
+      "günün ilk vakti",
+      "genç",
+      "bakire",
+      "bukre",
+      "ibkar",
+      "bikr"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "bukorap",
+        "ayahs": [
+          "19:11",
+          "19:62",
+          "25:5",
+          "33:42",
+          "48:9",
+          "76:25"
+        ],
+        "label": "Nekre mansûb zaman zarfı (`بُكْرَةً وَعَشِيًّا` / `بُكْرَةً وَأَصِيلًا` — sabah-akşam, günün ilk vaktinde; 6 geçiş)"
+      },
+      {
+        "lemma": "bukorap",
+        "ayahs": [
+          "54:38"
+        ],
+        "label": "`صَبَّحَهُم` fiilinin zaman zarfı olarak nekre mansûb isim (`بُكْرَةً` — daha günün en başında, erken sabah; 1 geçiş: 54:38)"
+      },
+      {
+        "lemma": "<iboka`r",
+        "ayahs": [
+          "3:41",
+          "40:55"
+        ],
+        "label": "`بِٱلْعَشِىِّ` ifadesine atfedilmiş marife mecrûr vakit ismi (`وَٱلْإِبْكَٰرِ` — akşam ve erken sabah vakitlerinde; 2 geçiş: 3:41, 40:55)"
+      },
+      {
+        "lemma": "bikor",
+        "ayahs": [
+          "2:68"
+        ],
+        "label": "`بَقَرَةٌ` ismine atfedilmiş nekre merfû tekil sıfat (`لَّا فَارِضٌ وَلَا بِكْرٌ` — ne kart yaşlı ne de pek genç; 1 geçiş: 2:68)"
+      },
+      {
+        "lemma": "bikor",
+        "ayahs": [
+          "56:36",
+          "66:5"
+        ],
+        "label": "Mansûb kırık çoğul isim/sıfat (`أَبْكَارًا` / `ثَيِّبَٰتٍ وَأَبْكَارًا` — ilk tazeliğinde, el değmemiş eşler; 2 geçiş: 56:36, 66:5)"
+      }
+    ],
+    "irab_default": "Günün ilk vakti veya ilk tazelik bildiren isim/sıfat (`ب-ك-ر` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:41",
+          "19:11",
+          "33:42",
+          "40:55",
+          "48:9",
+          "76:25"
+        ],
+        "text": "Sabah-Akşam Kesintisiz Yüceltme ve Hatırlama (`3:41, 19:11, 33:42, 40:55, 48:9, 76:25`): Zekeriyyâ'ya, elçiye ve inananlara günün ilk taze vakti (`بُكْرَة / إِبْكَار`) ile akşam (`عَشِىّ / أَصِيل`) arasında sürekli Allah'ı arındırıp anma çağrısı."
+      },
+      {
+        "ayahs": [
+          "19:62",
+          "25:5",
+          "54:38"
+        ],
+        "text": "Rızık Sürekliliği, İftira İddiası ve Erken Sabah Gelen Ceza (`19:62, 25:5, 54:38`): Esenlik yurdunda sabah-akşam kesintisiz rızık (`19:62`), vahyin sabah-akşam yazdırıldığı iftirası (`25:5`) ve Lût kavmini tam erken sabah yakalayan kalıcı azap (`54:38`)."
+      },
+      {
+        "ayahs": [
+          "2:68",
+          "56:36",
+          "66:5"
+        ],
+        "text": "Yaş ve İlk Tazelik Ekseni (`2:68, 56:36, 66:5`): Ne kart yaşlı ne körpe genç olan orta yaşlı sığır (`2:68`), ödül yurdunda taptaze kılınan eşler (`56:36`) ve 66. sûrede evlilik tecrübesi olanlarla birlikte ilk tazelikteki eşler (`ثَيِّبَٰتٍ وَأَبْكَارًا`, `66:5`)."
+      }
+    ],
+    "context_default": "İlk başlangıç, erken sabah ve ilk tazelik bağlamı"
   }
 }

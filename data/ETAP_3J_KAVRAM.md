@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 4 / 50 Kök (Toplam Mühürlü: 704 Kök | Güncel Kapsam: %94,26)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 5 / 50 Kök (Toplam Mühürlü: 705 Kök | Güncel Kapsam: %94,29)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -11,7 +11,7 @@
 | 2 | Sure %100 Kilidi | 1064 | `ج-س-م` | `C-S-M` | **2** | 2 | 2:247 | Cism ve Ecsâm (Üç Boyutlu Fiziksel Cüsse, Bedensel Yapı ve Dış Gövde) | ✅ **MÜHÜRLÜ** |
 | 3 | Sure %100 Kilidi | 1549 | `خ-ش-ب` | `H-S-B` | **1** | 1 | 63:4 | Huşub (Kesilmiş, Kaba ve Kalın Kereste Kütükleri) | ✅ **MÜHÜRLÜ** |
 | 4 | Sure %100 Kilidi | 1550 | `س-ن-د` | `S-N-D` | **1** | 1 | 63:4 | Müsennede (Kendi Başına Duramayıp Dış Desteğe/Duvara Yaslandırılmış) | ✅ **MÜHÜRLÜ** |
-| 5 | Sure %100 Kilidi | 513 | `ب-ك-ر` | `B-K-R` | **12** | 12 | 2:68 | Bükre, İbkâr ve Bikr (Sure 66 Tahrîm kilidi + 12 geçiş: 2:68, 3:41, 19:11, 56:36, 66:5 günün ilk taze vakti ve el değmemiş tazelik) | ⏳ *Bekliyor* |
+| 5 | Sure %100 Kilidi | 513 | `ب-ك-ر` | `B-K-R` | **12** | 12 | 2:68 | Bükre, İbkâr ve Bikr (Günün En İlk Taze Vakti ve Aşınmamış İlk Tazelik/Gençlik) | ✅ **MÜHÜRLÜ** |
 | 6 | Sure %100 Kilidi | 968 | `س-ي-ح` | `S-Y-H` | **3** | 3 | 9:2 | Siyâha ve Sâihât (Sure 66 Tahrîm kilidi + 3 geçiş: 9:2, 9:112, 66:5 yeryüzünde akıp dolaşmak ve özgürce yol almak) | ⏳ *Bekliyor* |
 | 7 | Sure %100 Kilidi | 1102 | `ص-غ-و` | `S-G-W` | **2** | 2 | 6:113 | Sağv ve Sağat (Sure 66 Tahrîm kilidi + 2 geçiş: 6:113, 66:4 kalbin/kulağın bir yana kayıp meyletmesi) | ⏳ *Bekliyor* |
 | 8 | Sure %100 Kilidi | 1552 | `ث-ي-ب` | `S-Y-B` | **1** | 1 | 66:5 | Seyyibât (Sure 66 Tahrîm son kilidi: 66:5 daha önce evlilik deneyimi yaşamış kadınlar) | ⏳ *Bekliyor* |
