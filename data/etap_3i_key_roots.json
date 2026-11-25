@@ -1,7 +1,7 @@
 {
   "package": "Faz 1 - Etap 3I (18-13 Geçiş Çekirdek Zırhı ve +4 Sure %100 Tam Kilidi [Sure 104, 62, 105, 111 -> 29 Sure] — 50 Kök -> 700 Kök)",
   "target_count": 50,
-  "locked_count": 34,
+  "locked_count": 35,
   "total_tokens_in_package": 558,
   "total_corpus_tokens": 49968,
   "current_coverage_pct": 93.93,
@@ -658,8 +658,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Hatab (Sure 111 Mesed kilidi + 2 geçiş: 72:15, 111:4 yakacak odun)",
-      "concept_label": "Analiz Bekliyor (HaTab)",
-      "is_locked": false,
+      "concept_label": "Hatab (Ateşi Besleyip Harlandırmak Üzere Kesilip Toplanan Yakacak Odun)",
+      "is_locked": true,
       "sample_ayah": "72:15",
       "top_lemmas": [
         "HaTab"
