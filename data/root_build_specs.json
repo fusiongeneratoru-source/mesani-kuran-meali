@@ -48251,5 +48251,92 @@
       }
     ],
     "context_default": "Kınama, ayıplama ve sorumluluk sorgulaması bağlamı"
+  },
+  "ز-ر-ع": {
+    "buckwalter": "zrE",
+    "slug": "zrE",
+    "concept_name": "Zer', Zurrâ' ve Tezra'ûn (Tohumdan Büyüyen Ekin, Gelişim ve Ekinciler)",
+    "keywords": [
+      "ekin",
+      "ek",
+      "tarla",
+      "biç",
+      "yeşer"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "z~ur~aAE",
+        "label": "`فُعَّال` kırık çoğul kalıbında mansûb mef'ûlün bih (`يُعْجِبُ ٱلزُّرَّاعَ` — gelişimiyle usta ekincileri hayran bırakan; 1 geçiş: 48:29)"
+      },
+      {
+        "lemma": "z~a`riEuwn",
+        "label": "Bab I cemi müzekker sâlim merfû haber (`أَمْ نَحْنُ ٱلزَّٰرِعُونَ` — yoksa onu büyütüp geliştiren biz miyiz; 1 geçiş: 56:64)"
+      },
+      {
+        "lemma": "tazoraEu",
+        "label": "Bab I 2. çoğul eril merfû muzâri (`تَزْرَعُونَ سَبْعَ سِنِينَ / ءَأَنتُمْ تَزْرَعُونَهُۥٓ` — ekip yetiştiriyorsunuz; 2 geçiş: 12:47, 56:64)"
+      },
+      {
+        "lemma": "zaroE",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "`فُعُول` vezninde kırık çoğul mecrûr isim (`وَزُرُوعٍ` — işlenip bırakılan geniş ekin tarlaları; 2 geçiş: 26:148, 44:26)"
+      },
+      {
+        "lemma": "zaroE",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Nekre merfû isim (`وَزَرْعٌ` — birbirine komşu tarlalarda yetişen ekinler; 1 geçiş: 13:4)"
+      },
+      {
+        "lemma": "zaroE",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "İzâfetle veya `كَـ` edatıyla tekil mecrûr isim (`غَيْرِ ذِى زَرْعٍ / كَزَرْعٍ` — ekinsiz vadi / filizlenen ekin gibi; 2 geçiş: 14:37, 48:29)"
+      },
+      {
+        "lemma": "zaroE",
+        "label": "Mansûb mef'ûlün bih (`زَرْعًا / وَٱلزَّرْعَ` — suyla çıkarılıp büyütülen ekinler; 5 geçiş: 6:141, 16:11, 18:32, 32:27, 39:21)"
+      }
+    ],
+    "irab_default": "Ekin, ekim eylemi veya ekin yetiştiren (`ز-ر-ع` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "56:64",
+          "32:27",
+          "39:21",
+          "16:11"
+        ],
+        "text": "Suyla Canlanan Ekin ve Yaratıcı Büyütme Yasası (`56:64`, `32:27`, `39:21`, `16:11`): Çorak toprağa akıtılan suyla çeşit çeşit renkte ekinlerin çıkarılması ve büyütme gücünün asıl sahibinin sorgulanması."
+      },
+      {
+        "ayahs": [
+          "6:141",
+          "12:47",
+          "13:4",
+          "14:37"
+        ],
+        "text": "Tarımsal Emek, Paylaşım Ahlakı ve Ekinsiz Vadi (`6:141`, `12:47`, `13:4`, `14:37`): Yedi yıllık planlı ekim (`12:47`), hasat günü hakkını verme (`6:141`) ve ekinsiz vadide rızık (`14:37`)."
+      },
+      {
+        "ayahs": [
+          "48:29"
+        ],
+        "text": "Yan Filizleriyle Güçlenen Ekin Teşbihi (`48:29`): Tek filizden kalın gövdeye yükselip ekincileri şaşırtan toplumsal gelişim modeli (`كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ`)."
+      },
+      {
+        "ayahs": [
+          "18:32",
+          "26:148",
+          "44:26"
+        ],
+        "text": "Bahçe ve Tarlaların Geçici İmtihan Niteliği (`18:32`, `26:148`, `44:26`): İki bağ arasındaki bereketli ekinlik (`18:32`) ve geride bırakılan bereketli tarlalar (`26:148`, `44:26`)."
+      }
+    ],
+    "context_default": "Tohum ekimi, ekinlerin büyümesi ve tarımsal üretim bağlamı"
   }
 }

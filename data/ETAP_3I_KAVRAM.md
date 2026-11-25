@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 17 / 50 Kök (Toplam Mühürlü: 667 Kök | Güncel Kapsam: %93,66)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 18 / 50 Kök (Toplam Mühürlü: 668 Kök | Güncel Kapsam: %93,69)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -24,7 +24,7 @@
 | 15 | Yüksek Frekanslı Çekirdek | 478 | `و-ص-ف` | `W-S-F` | **14** | 14 | 6:100 | Vasf ve Yasifûn (Keyfî Nitelik Yakıştırmak ve Asılsız Anlatı Kurmak) | ✅ **MÜHÜRLÜ** |
 | 16 | Yüksek Frekanslı Çekirdek | 482 | `ص-ف-ف` | `S-F-F` | **14** | 12 | 18:48 | Saff, Sâffât ve Masfûfe (Düzgün Hizada Saf Bağlamak, Kanat Açmak ve Sıralamak) | ✅ **MÜHÜRLÜ** |
 | 17 | Yüksek Frekanslı Çekirdek | 477 | `ل-و-م` | `L-W-M` | **14** | 12 | 5:54 | Levm, Melûm, Mulîm ve Levvâme (Ayıplama, Sorumlulukla Kınama ve Öz Sorgulama) | ✅ **MÜHÜRLÜ** |
-| 18 | Yüksek Frekanslı Çekirdek | 479 | `ز-ر-ع` | `Z-R-A` | **14** | 12 | 6:141 | Zer', Zurrâ' ve Tezraûn (14 geçiş / 12 ayet: 6:141, 12:47, 13:4, 14:37, 16:11 tohum ekip yeşertmek, ekin ve ekin yetiştirenler) | ⏳ *Bekliyor* |
+| 18 | Yüksek Frekanslı Çekirdek | 479 | `ز-ر-ع` | `Z-R-A` | **14** | 12 | 6:141 | Zer', Zurrâ' ve Tezra'ûn (Tohumdan Büyüyen Ekin, Gelişim ve Ekinciler) | ✅ **MÜHÜRLÜ** |
 | 19 | Yüksek Frekanslı Çekirdek | 470 | `ح-ر-ث` | `H-R-S` | **14** | 11 | 2:71 | Hars ve Tahrüsûn (14 geçiş / 11 ayet: 2:71, 2:205, 2:223, 3:14, 3:117 toprağı sürüp ekine hazırlamak ve emeğin ürün verimi) | ⏳ *Bekliyor* |
 | 20 | Yüksek Frekanslı Çekirdek | 473 | `و-ل-ج` | `W-L-C` | **14** | 9 | 3:27 | Vülûc, Îlâc ve Velîce (14 geçiş / 9 ayet: 3:27, 7:40, 9:16, 22:61, 31:29 bir şeyi dar boşluğun/diğerinin içine geçirip sokmak) | ⏳ *Bekliyor* |
 | 21 | Sure %100 Kilidi | 676 | `ع-م-د` | `A-M-D` | **7** | 7 | 4:93 | Amed ve Müteammed (Sure 104 Hümeze kilidi + 7 geçiş: 4:93, 5:95, 13:2, 31:10, 104:9 taşıyıcı direk/sütun ve kasten yönelmek) | ⏳ *Bekliyor* |
