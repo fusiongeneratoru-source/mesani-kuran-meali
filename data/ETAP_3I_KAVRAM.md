@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 42 / 50 Kök (Toplam Mühürlü: 692 Kök | Güncel Kapsam: %94,04)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 43 / 50 Kök (Toplam Mühürlü: 693 Kök | Güncel Kapsam: %94,06)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -49,7 +49,7 @@
 | 40 | Yüksek Frekanslı Çekirdek | 493 | `ش-ه-و` | `S-H-W` | **13** | 13 | 3:14 | Şehvet ve İştihâ (Canın Şiddetle Çektiği Güçlü İştah, Çekici Arzu ve Tutku) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 508 | `ص-ي-ح` | `S-Y-H` | **13** | 13 | 11:67 | Sayha (Tek Darbede Ortamı Yaran Şiddetli Çığlık ve Sarsıcı Ses Patlaması) | ✅ **MÜHÜRLÜ** |
 | 42 | Yüksek Frekanslı Çekirdek | 503 | `ب-غ-ت` | `B-G-T` | **13** | 13 | 6:31 | Bağte (Hiç Sezdirmeden, Hazırlıksız Anda Ansızın Gelip Bastırmak) | ✅ **MÜHÜRLÜ** |
-| 43 | Yüksek Frekanslı Çekirdek | 497 | `ف-و-ه` | `F-W-H` | **13** | 13 | 3:118 | Fû ve Efvâh (13 geçiş / 13 ayet: 3:118, 3:167, 5:41, 9:8, 9:30 söz ve nefes çıkış kapısı olan ağız ve ağızlar) | ⏳ *Bekliyor* |
+| 43 | Yüksek Frekanslı Çekirdek | 497 | `ف-و-ه` | `F-W-H` | **13** | 13 | 3:118 | Fûh ve Efvâh (Somut Ağız Açıklığı ve Kalpten Kopuk Salt Ağız Ucu Sözü) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 498 | `غ-ل-ظ` | `G-L-Z` | **13** | 13 | 3:159 | Galîz, Gılze ve Uğluz (13 geçiş / 13 ayet: 3:159, 4:21, 4:154, 9:73, 9:123 bükülmez katılık, sağlam bağ ve sert tavır) | ⏳ *Bekliyor* |
 | 45 | Yüksek Frekanslı Çekirdek | 494 | `غ-ل-م` | `G-L-M` | **13** | 13 | 3:40 | Gulâm (13 geçiş / 13 ayet: 3:40, 12:19, 15:53, 18:74, 18:80 genç erkek çocuk ve hizmetkâr delikanlı) | ⏳ *Bekliyor* |
 | 46 | Yüksek Frekanslı Çekirdek | 487 | `ر-أ-ف` | `R-E-F` | **13** | 13 | 2:143 | Re'fe ve Raûf (13 geçiş / 13 ayet: 2:143, 2:207, 3:30, 9:117, 9:128 zararı önleyen ince şefkat ve üstün koruma hassasiyeti) | ⏳ *Bekliyor* |

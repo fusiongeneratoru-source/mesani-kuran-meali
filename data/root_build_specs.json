@@ -49981,5 +49981,100 @@
       }
     ],
     "context_default": "Hiç sezdirmeden ansızın gelip bastırma bağlamı"
+  },
+  "ف-و-ه": {
+    "buckwalter": "fwh",
+    "slug": "fwh",
+    "concept_name": "Fûh ve Efvâh (Somut Ağız Açıklığı ve Kalpten Kopuk Salt Ağız Ucu Sözü)",
+    "keywords": [
+      "ağız",
+      "ağızları",
+      "ağızlarıyla",
+      "ağızlarından",
+      "ağzı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "faA",
+        "ayahs": [
+          "13:14"
+        ],
+        "label": "Esma-i hamseden elif ile mansûb, `هُ` zamirine muzâf tekil isim (`لِيَبْلُغَ فَاهُ` — ağzına ulaşsın diye; 1 geçiş: 13:14)"
+      },
+      {
+        "lemma": ">afowa`h",
+        "ayahs": [
+          "3:167",
+          "5:41",
+          "9:8",
+          "9:30",
+          "24:15",
+          "33:4"
+        ],
+        "label": "`بِـ` harf-i cerriyle mecrûr, zamire muzâf kırık çoğul isim (`بِأَفْوَٰهِهِمْ / بِأَفْوَاهِكُم` — kalp ve bilgi temeli olmadan salt ağızlarıyla; 6 geçiş)"
+      },
+      {
+        "lemma": ">afowa`h",
+        "ayahs": [
+          "9:32",
+          "61:8"
+        ],
+        "label": "`يُطْفِـُٔوا۟` fiiline `بِـ` araç harf-i cerriyle bağlanan mecrûr kırık çoğul isim (`بِأَفْوَٰهِهِمْ` — ağızlarıyla/üfleyerek söndürmek; 2 geçiş: 9:32, 61:8)"
+      },
+      {
+        "lemma": ">afowa`h",
+        "ayahs": [
+          "3:118",
+          "18:5"
+        ],
+        "label": "`مِنْ` çıkış harf-i cerriyle mecrûr kırık çoğul isim (`مِنْ أَفْوَٰهِهِمْ` — ağızlarından çıkıp taşan kin/yalan; 2 geçiş: 3:118, 18:5)"
+      },
+      {
+        "lemma": ">afowa`h",
+        "ayahs": [
+          "14:9"
+        ],
+        "label": "`فِىٓ` harf-i cerriyle mecrûr kırık çoğul isim (`فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ` — ellerini ağızlarına götürdüler; 1 geçiş: 14:9)"
+      },
+      {
+        "lemma": ">afowa`h",
+        "ayahs": [
+          "36:65"
+        ],
+        "label": "`نَخْتِمُ عَلَىٰٓ` yapısında `عَلَىٰ` ile mecrûr kırık çoğul isim (`عَلَىٰٓ أَفْوَٰهِهِمْ` — ağızlarının üzerine mühür vururuz; 1 geçiş: 36:65)"
+      }
+    ],
+    "irab_default": "Tekil veya kırık çoğul isim (`ف-و-ه` kökü — ağız)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:118",
+          "3:167",
+          "5:41",
+          "9:8",
+          "9:30",
+          "18:5",
+          "24:15",
+          "33:4"
+        ],
+        "text": "Kalpten, Bilgiden ve Hakikatten Kopuk Salt Ağız Ucu Sözü (`3:118, 3:167, 5:41, 9:8, 9:30, 18:5, 24:15, 33:4`): İçerideki inançla çelişen ikiyüzlü beyanlar, göğüste gizlenen kinin dışarı taşması, dayanaksız yakıştırmalar ve bilgisizce ağızdan ağıza yayılan asılsız sözler (`بِأَفْوَٰهِهِمْ` / `مِنْ أَفْوَٰهِهِمْ`)."
+      },
+      {
+        "ayahs": [
+          "9:32",
+          "61:8"
+        ],
+        "text": "Allah'ın Nurunu Ağızlarıyla Söndürme Çabası (`9:32`, `61:8`): Hakikati örtenlerin üfleyerek ya da sözlü karalamalarla (`بِأَفْوَٰهِهِمْ`) Allah'ın ışığını söndürme girişimlerinin sonuçsuz kalması."
+      },
+      {
+        "ayahs": [
+          "13:14",
+          "14:9",
+          "36:65"
+        ],
+        "text": "Somut Fiziksel Ağız: Suya Ulaşmama, Red Jestleri ve Mühürlenme (`13:14`, `14:9`, `36:65`): Suyun ağzına (`فَاهُ`) hiç ulaşmayacağı uzanış benzetmesi (`13:14`), elçileri reddedenlerin ellerini ağızlarına götürmesi (`14:9`) ve hesap gününde ağızların mühürlenerek organların konuşturulması (`36:65`)."
+      }
+    ],
+    "context_default": "Somut ağız ve söz çıkışı bağlamı"
   }
 }
