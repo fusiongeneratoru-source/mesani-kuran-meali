@@ -50076,5 +50076,112 @@
       }
     ],
     "context_default": "Somut ağız ve söz çıkışı bağlamı"
+  },
+  "غ-ل-ظ": {
+    "buckwalter": "glZ",
+    "slug": "glZ",
+    "concept_name": "Galîz, Gılze ve İstiğlâz (Kalınlaşmak, Yoğunlaşmak ve Bükülmez Katılık)",
+    "keywords": [
+      "katı",
+      "ağır",
+      "kalın",
+      "sert",
+      "bükülmez",
+      "sağlam"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "galiyZ",
+        "ayahs": [
+          "3:159"
+        ],
+        "label": "`كُنتَ` nakıs fiilinin ikinci haberi olarak lafzî izâfetle mansûb sıfat/isim (`غَلِيظَ ٱلْقَلْبِ` — katı yürekli; 1 geçiş: 3:159)"
+      },
+      {
+        "lemma": "galiyZ",
+        "ayahs": [
+          "4:21",
+          "4:154",
+          "33:7"
+        ],
+        "label": "`مِّيثَٰقًا` mef'ûlünün nekre mansûb tekil sıfatı (`مِّيثَٰقًا غَلِيظًا` — kopmaz, ağır ve sağlam sözleşme; 3 geçiş: 4:21, 4:154, 33:7)"
+      },
+      {
+        "lemma": "galiyZ",
+        "ayahs": [
+          "11:58",
+          "14:17",
+          "31:24",
+          "41:50"
+        ],
+        "label": "`عَذَاب` isminin merfû (`14:17`) veya mecrûr (`11:58, 31:24, 41:50`) tekil sıfatı (`عَذَابٌ غَلِيظٌ / عَذَابٍ غَلِيظٍ` — yoğun ve ağır azap; 4 geçiş)"
+      },
+      {
+        "lemma": "galiyZ",
+        "ayahs": [
+          "66:6"
+        ],
+        "label": "Ateşin başındaki görevlileri niteleyen merfû kırık çoğul sıfat (`غِلَاظٌ شِدَادٌ` — bükülmez sert ve çetin; 1 geçiş: 66:6)"
+      },
+      {
+        "lemma": "{goluZo",
+        "ayahs": [
+          "9:73",
+          "66:9"
+        ],
+        "label": "Form I sülâsî 2. tekil eril emir fiili (`وَٱغْلُظْ عَلَيْهِمْ` — onlara karşı tavizsiz ve sert dur; 2 geçiş: 9:73, 66:9)"
+      },
+      {
+        "lemma": "giloZap",
+        "ayahs": [
+          "9:123"
+        ],
+        "label": "`وَلْيَجِدُوا۟` fiilinin nekre mansûb mef'ûl-i bihi (`غِلْظَةً` — caydırıcı sertlik ve katılık; 1 geçiş: 9:123)"
+      },
+      {
+        "lemma": "{sotagolaZa",
+        "ayahs": [
+          "48:29"
+        ],
+        "label": "Form X (`اِسْتَفْعَلَ`) 3. tekil eril mâzî fiil (`فَٱسْتَغْلَظَ` — ekinin sapı kalınlaşıp güçlendi; 1 geçiş: 48:29)"
+      }
+    ],
+    "irab_default": "Kalınlık, yoğunluk ve sertlik bildiren isim/sıfat/fiil (`غ-ل-ظ` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "48:29"
+        ],
+        "text": "Somut Biyolojik Kalınlaşma (`48:29`): Filizini çıkaran ekinin desteklenip gövdesini kalınlaştırması (`فَٱسْتَغْلَظَ`) ve sapı üzerinde dimdik doğrulması."
+      },
+      {
+        "ayahs": [
+          "4:21",
+          "4:154",
+          "33:7"
+        ],
+        "text": "Kopmaz ve Ağır Bağlayıcı Sözleşme (`4:21`, `4:154`, `33:7`): Eşler arasındaki evlilik bağı (`4:21`), Tûr altında İsrailoğullarından alınan söz (`4:154`) ve elçilerden alınan ağır sorumluluk ahdi (`33:7`) için `مِّيثَٰقًا غَلِيظًا`."
+      },
+      {
+        "ayahs": [
+          "11:58",
+          "14:17",
+          "31:24",
+          "41:50",
+          "66:6"
+        ],
+        "text": "Yoğun, Ağır Azap ve Bükülmez Görevliler (`11:58`, `14:17`, `31:24`, `41:50`, `66:6`): Hafifliği olmayan ağır azap (`عَذَابٌ غَلِيظٌ`) ve ateşin başındaki bükülmez, çetin görevliler (`غِلَاظٌ شِدَادٌ`)."
+      },
+      {
+        "ayahs": [
+          "3:159",
+          "9:73",
+          "9:123",
+          "66:9"
+        ],
+        "text": "İlişkide Yumuşaklık vs Düşmanlığa Karşı Tavizsiz Caydırıcılık (`3:159`, `9:73`, `9:123`, `66:9`): İnanç topluluğu içinde katı yüreklilik (`غَلِيظَ ٱلْقَلْبِ`) dağıtıcı iken (`3:159`), saldırgan hakikat örtücülere ve ikiyüzlülere karşı tavizsiz caydırıcı sertlik (`وَٱغْلُظْ عَلَيْهِمْ / غِلْظَةً`) emredilir (`9:73, 9:123, 66:9`)."
+      }
+    ],
+    "context_default": "Kalınlık, yoğunluk ve bükülmez sertlik bağlamı"
   }
 }
