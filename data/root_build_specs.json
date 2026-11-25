@@ -50469,5 +50469,100 @@
       }
     ],
     "context_default": "Somut aralık/geçit ve kenetlenmiş dostluk bağlamı"
+  },
+  "خ-ز-ن": {
+    "buckwalter": "xzn",
+    "slug": "xzn",
+    "concept_name": "Hazâin, Hâzinîn ve Hazene (Korunan Kaynak Ambarları ve Muhafız Kapı Görevlileri)",
+    "keywords": [
+      "hazineler",
+      "ambarlar",
+      "kaynak depoları",
+      "koruyucu görevliler",
+      "bekçiler"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xazaA^}in",
+        "ayahs": [
+          "6:50",
+          "11:31",
+          "15:21",
+          "38:9",
+          "52:37",
+          "63:7"
+        ],
+        "label": "İsim cümlesinde `عِندَ / لِلَّهِ` mukaddem haberinin ardından muahhar merfû mübtedâ olan kırık çoğul isim (`خَزَآئِنُ` — kaynak depoları/hazineleri; 6 geçiş)"
+      },
+      {
+        "lemma": "xazaA^}in",
+        "ayahs": [
+          "12:55"
+        ],
+        "label": "`عَلَىٰ` harf-i cerriyle mecrûr, `ٱلْأَرْضِ` ismine muzâf kırık çoğul isim (`عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ` — ülkenin kaynak ambarları üzerine; 1 geçiş: 12:55)"
+      },
+      {
+        "lemma": "xazaA^}in",
+        "ayahs": [
+          "17:100"
+        ],
+        "label": "`تَمْلِكُونَ` fiilinin mansûb mef'ûl-i bihi (`خَزَآئِنَ رَحْمَةِ رَبِّىٓ` — Rabbimin rahmet hazinelerine; 1 geçiş: 17:100)"
+      },
+      {
+        "lemma": "xa`ziniyn",
+        "ayahs": [
+          "15:22"
+        ],
+        "label": "Hicazlı `مَا` haberinde zâid `بِـ` ile lafzen mecrûr kurallı eril çoğul ism-i fâil (`بِخَٰزِنِينَ` — onu depolayıp koruyanlar; 1 geçiş: 15:22)"
+      },
+      {
+        "lemma": "xazanat",
+        "ayahs": [
+          "39:71",
+          "39:73",
+          "67:8"
+        ],
+        "label": "`قَالَ / سَأَلَ` fiillerinin merfû fâili, yurt zamirine muzâf kırık çoğul isim (`خَزَنَتُهَا` — onun koruyucu kapı görevlileri; 3 geçiş)"
+      },
+      {
+        "lemma": "xazanat",
+        "ayahs": [
+          "40:49"
+        ],
+        "label": "`لِـ` harf-i cerriyle mecrûr kırık çoğul isim (`لِخَزَنَةِ جَهَنَّمَ` — ateş yurdunun koruyucu görevlilerine; 1 geçiş: 40:49)"
+      }
+    ],
+    "irab_default": "Kaynak ambarı veya koruyucu görevli bildiren çoğul isim (`خ-ز-ن` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:50",
+          "11:31",
+          "15:21",
+          "17:100",
+          "38:9",
+          "52:37",
+          "63:7"
+        ],
+        "text": "Tüm Varlık ve Rahmet Kaynaklarının Yalnızca Allah Katında Saklı Olması (`6:50, 11:31, 15:21, 17:100, 38:9, 52:37, 63:7`): Ne elçilerin ne de kibirli toplulukların elinde bulunan; göklerin, yerin, rahmetin ve her şeyin ölçülü indirilen sonsuz kaynak depoları (`خَزَآئِن`)."
+      },
+      {
+        "ayahs": [
+          "12:55",
+          "15:22"
+        ],
+        "text": "Somut Ambar Yönetimi ve Suyun Korunması (`12:55`, `15:22`): Yûsuf'un ülkenin kaynak ambarlarını (`خَزَآئِنِ ٱلْأَرْضِ`) koruyucu bilgiyle yönetme görevi (`12:55`) ve insanın yağmur suyunu depolayıp koruyan (`بِخَٰزِنِينَ`) güç olmadığı hatırlatması (`15:22`)."
+      },
+      {
+        "ayahs": [
+          "39:71",
+          "39:73",
+          "40:49",
+          "67:8"
+        ],
+        "text": "Ceza ve Ödül Yurtlarının Koruyucu Kapı Görevlileri (`39:71`, `39:73`, `40:49`, `67:8`): Ateş yurdunun sorgulayan görevlileri (`39:71, 40:49, 67:8`) ile esenlik bahçelerinin esenlik dileyerek kapı açan görevlileri (`39:73`)."
+      }
+    ],
+    "context_default": "Korunan kaynak deposu ve görevli bekçi bağlamı"
   }
 }
