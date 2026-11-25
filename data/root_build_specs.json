@@ -48730,5 +48730,51 @@
       }
     ],
     "context_default": "Fırlatıp bırakma veya kendini ayırıp kenara çekme bağlamı"
+  },
+  "و-ص-د": {
+    "buckwalter": "wSd",
+    "slug": "wSd",
+    "concept_name": "Vasîd ve Mü'sade (Kapı Eşiği ve Geçitsiz Şekilde Sımsıkı Kapatmak)",
+    "keywords": [
+      "kapat",
+      "eşik",
+      "kapı",
+      "avlu",
+      "kilitle"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "waSiyd",
+        "label": "`بِ` harf-i cerriyle mecrûr ma'rife tekil eril isim (`بِٱلْوَصِيدِ` — mağara ağzı ve ön eşikte; 1 geçiş: 18:18)"
+      },
+      {
+        "lemma": "m~u&oSadap",
+        "ayahs": [
+          "90:20"
+        ],
+        "label": "`نَارٌ` isminin dişil tekil nekre merfû sıfatı (`عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ` — üzerlerine geçitsizce kapatılmış ateş; 1 geçiş: 90:20)"
+      },
+      {
+        "lemma": "m~u&oSadap",
+        "label": "`إِنَّهَا` cümlesinin dişil tekil nekre merfû haberi (`إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ` — o yakıcı yapı üzerlerine sımsıkı kapatılmıştır; 1 geçiş: 104:8)"
+      }
+    ],
+    "irab_default": "Bitişik kapı eşiği veya sımsıkı kapatılmış olma durumu (`و-ص-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:18"
+        ],
+        "text": "Mağara Ağzı ve Bitişik Eşikte Nöbet (`18:18`): Mağara arkadaşlarının köpeğinin, giriş ağzı ve ön avlu eşiğinde (`بِٱلْوَصِيدِ`) ön ayaklarını uzatarak dışarıyı gözlemesi."
+      },
+      {
+        "ayahs": [
+          "90:20",
+          "104:8"
+        ],
+        "text": "Kaçış Aralığı Bırakmadan Üstten Sımsıkı Kapatılan Ateş Kuşatması (`90:20`, `104:8`): Zor geçidi seçmeyenlerin (`90:20`) ve servet yığıp insanları küçümseyenlerin (`104:8`), uzatılmış direklerle örülü ve hiçbir kapısı açılmayacak şekilde üzerlerine kapatılmış (`مُّؤْصَدَة`) ateşle yüzleşmesi."
+      }
+    ],
+    "context_default": "Kapı eşiği veya sımsıkı kapatılmış kuşatma bağlamı"
   }
 }
