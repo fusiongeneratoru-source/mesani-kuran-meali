@@ -48512,5 +48512,68 @@
       }
     ],
     "context_default": "İçeri nüfuz etme, iç içe yedirme ve gizli iç dayanak bağlamı"
+  },
+  "ع-م-د": {
+    "buckwalter": "Emd",
+    "slug": "Emd",
+    "concept_name": "Amed, İmâd ve Teammüd (Taşıyıcı Dik Direk/Sütun ve Doğrudan Kasıtlı Yöneliş)",
+    "keywords": [
+      "direk",
+      "sütun",
+      "kasten",
+      "yönel",
+      "bilerek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Eamad",
+        "ayahs": [
+          "104:9"
+        ],
+        "label": "`فِى` harf-i cerriyle mecrûr çoğul isim (`فِى عَمَدٍ مُّمَدَّدَةٍۭ` — boydan boya uzatılıp gerilmiş direklerin içinde; 1 geçiş: 104:9)"
+      },
+      {
+        "lemma": "Eamad",
+        "label": "`بِغَيْرِ` terkibiyle mecrûr cins/tekil isim (`بِغَيْرِ عَمَدٍ تَرَوْنَهَا` — görebileceğiniz fiziksel sütunlar olmaksızın; 2 geçiş: 13:2, 31:10)"
+      },
+      {
+        "lemma": "EimaAd",
+        "label": "`ذَاتِ` terkibinin elif-lâmlı mecrûr tamlayanı (`إِرَمَ ذَاتِ ٱلْعِمَادِ` — yüksek sütunlar/direkler sahibi İrem; 1 geçiş: 89:7)"
+      },
+      {
+        "lemma": "m~utaEam~id",
+        "label": "Bab V tekil eril nekre mansûb hâl ism-i fâili (`مُّتَعَمِّدًا` — eylemi bilerek ve hedefe doğrulayarak yapan; 2 geçiş: 4:93, 5:95)"
+      },
+      {
+        "lemma": "taEam~adato",
+        "label": "Bab V `قُلُوبُكُمْ` öznesine bağlı 3. tekil dişil mâzi fiil (`مَّا تَعَمَّدَتْ قُلُوبُكُمْ` — kalplerinizin bilinçli yönelip hedeflediği durum; 1 geçiş: 33:5)"
+      }
+    ],
+    "irab_default": "Taşıyıcı dik direk/sütun veya bilinçli kasıtlı yöneliş (`ع-م-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:2",
+          "31:10"
+        ],
+        "text": "Görünen Sütun Olmadan Yükseltilen Gök Kubbe (`13:2`, `31:10`): Göklerin, insan gözünün algılayabileceği fiziksel taşıyıcı direkler (`بِغَيْرِ عَمَدٍ تَرَوْنَهَا`) kurulmaksızın yüksekte tutulması ve yeryüzünün denge dağlarıyla sabitlenmesi."
+      },
+      {
+        "ayahs": [
+          "89:7",
+          "104:9"
+        ],
+        "text": "Yüksek Sütunlar ve Uzatılmış Direk Yapıları (`89:7`, `104:9`): Görkemli dik sütunların sahibi İrem (`89:7` `ذَاتِ ٱلْعِمَادِ`) ile boydan boya gerilip uzatılmış direkler içindeki kuşatma (`104:9` `فِى عَمَدٍ مُّمَدَّدَةٍۭ`)."
+      },
+      {
+        "ayahs": [
+          "4:93",
+          "5:95",
+          "33:5"
+        ],
+        "text": "Hata ve Yanılgı Karşısında Bilinçli Kasıt Sorumluluğu (`4:93`, `5:95`, `33:5`): İstemeden düşülen yanılgının aksine (`33:5` `أَخْطَأْتُم` ↔ `تَعَمَّدَتْ قُلُوبُكُمْ`), cana veya dokunulmaz ava karşı doğrudan bilerek ve yönelerek (`مُّتَعَمِّدًا`) işlenen eylemin kesin yaptırım doğurması."
+      }
+    ],
+    "context_default": "Taşıyıcı dik sütun ve kasıtlı yönelim bağlamı"
   }
 }
