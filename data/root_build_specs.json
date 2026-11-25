@@ -51237,5 +51237,79 @@
       }
     ],
     "context_default": "Sarsılmaz güç ve tahkim edici destek bağlamı"
+  },
+  "د-ل-ل": {
+    "buckwalter": "dll",
+    "slug": "dll",
+    "concept_name": "Delâlet ve Delîl (Belirti ve İşaretle Ortaya Çıkarmak, Yol Göstermek ve Yönlendirmek)",
+    "keywords": [
+      "göstermek",
+      "yol göstermek",
+      "gösterge",
+      "belirti",
+      "delil",
+      "delalet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "dal~a",
+        "ayahs": [
+          "20:40",
+          "20:120",
+          "28:12",
+          "34:7",
+          "61:10"
+        ],
+        "label": "Form I `هَلْ` soru edatı ve `عَلَىٰ` harf-i cerriyle merfû muzâri fiil (`هَلْ أَدُلُّكُمْ / أَدُلُّكَ / نَدُلُّكُمْ عَلَىٰ` — size göstereyim/işaret edeyim mi?; 5 geçiş)"
+      },
+      {
+        "lemma": "dal~a",
+        "ayahs": [
+          "34:14"
+        ],
+        "label": "Form I `مَا ... إِلَّا` hasr yapısında mâzî fiil (`مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ` — ölümünü onlara ancak yer canlısı gösterdi; 1 geçiş: 34:14)"
+      },
+      {
+        "lemma": "dal~a",
+        "ayahs": [
+          "7:22"
+        ],
+        "label": "Korpusun `dal~a` altında sınıfladığı mâzî fiil (`فَدَلَّىٰهُمَا بِغُرُورٍ` — klasik filolojide `دَلَّلَهُمَا` ['د-ل-ل'] ile `د-ل-و` çift analizi; 1 geçiş: 7:22)"
+      },
+      {
+        "lemma": "daliyl",
+        "ayahs": [
+          "25:45"
+        ],
+        "label": "`جَعَلَ` fiilinin mansûb ikinci mef'ûlü olarak `فَعِيل` kalıbında sıfat-isim (`دَلِيلًا` — gölge üzerine şaşmaz gösterge; 1 geçiş: 25:45)"
+      }
+    ],
+    "irab_default": "Belirtiyle ortaya çıkarma ve işaretle yol gösterme fiili/ismi (`د-ل-ل` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "25:45",
+          "34:14"
+        ],
+        "text": "Somut Doğa ve Fiziksel Belirti Göstergeleri (`25:45`, `34:14`): Güneşin gölgenin uzayıp kısalması üzerinde açık gösterge (`دَلِيلًا`) kılınması (`25:45`) ve Süleymân'ın değneğini yiyen yer canlısının onun ölümünü açığa çıkaran yalın belirti (`مَا دَلَّهُمْ`) olması (`34:14`)."
+      },
+      {
+        "ayahs": [
+          "20:40",
+          "28:12",
+          "61:10"
+        ],
+        "text": "Kurtarıcı ve Şefkatli Yol Gösterme (`20:40, 28:12, 61:10`): Mûsâ'nın ablasının Firavun sarayına doğru sütanne/aileyi işaret etmesi (`20:40, 28:12`) ve Allah'ın inananlara can yakıcı azaptan kurtaracak ticareti göstermesi (`61:10`)."
+      },
+      {
+        "ayahs": [
+          "7:22",
+          "20:120",
+          "34:7"
+        ],
+        "text": "Aldatıcı ve Alaycı Yönlendirme (`7:22, 20:120, 34:7`): Âdem'i sonsuzluk ağacı vaadiyle aldatıcı biçimde yönlendirmek (`20:120`) ve gururla sürükleyip düşüşe indirmek (`7:22`) ile hakikati örtenlerin dirilişi haber veren elçiyi alayla işaret etmesi (`34:7`)."
+      }
+    ],
+    "context_default": "Belirtiyle ortaya çıkarma ve yol gösterme bağlamı"
   }
 }

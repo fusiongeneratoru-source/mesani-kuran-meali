@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 9 / 50 Kök (Toplam Mühürlü: 709 Kök | Güncel Kapsam: %94,32)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 710 Kök | Güncel Kapsam: %94,34)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -16,7 +16,7 @@
 | 7 | Sure %100 Kilidi | 1102 | `ص-غ-و` | `S-G-W` | **2** | 2 | 6:113 | Sağv (Bir Kabın veya Kulağın Yatması Gibi Kalbin Bir Yana Eğilip Meyletmesi) | ✅ **MÜHÜRLÜ** |
 | 8 | Sure %100 Kilidi | 1552 | `ث-ي-ب` | `S-Y-B` | **1** | 1 | 66:5 | Seyyibât (Daha Önce Evlilik Deneyimi Geçirmiş, Yeniden Evliliğe Açık Deneyimli Kadınlar) | ✅ **MÜHÜRLÜ** |
 | 9 | Sure %100 Kilidi | 547 | `أ-ي-د` | `E-Y-D` | **11** | 11 | 2:87 | Eyd ve Te'yîd (Sarsılmaz Sağlamlık, İnşa Kudreti ve Tahkim Edici İlahi Destek) | ✅ **MÜHÜRLÜ** |
-| 10 | Sure %100 Kilidi | 650 | `د-ل-ل` | `D-L-L` | **8** | 8 | 7:22 | Delâlet ve Delîl (Sure 61 Saff kilidi + 8 geçiş: 7:22, 20:40, 20:120, 25:45, 28:12, 61:10 gizli veya açık iz üzerinden yol göstermek) | ⏳ *Bekliyor* |
+| 10 | Sure %100 Kilidi | 650 | `د-ل-ل` | `D-L-L` | **8** | 8 | 7:22 | Delâlet ve Delîl (Belirti ve İşaretle Ortaya Çıkarmak, Yol Göstermek ve Yönlendirmek) | ✅ **MÜHÜRLÜ** |
 | 11 | Sure %100 Kilidi | 714 | `م-ق-ت` | `M-K-T` | **6** | 5 | 4:22 | Makt (Sure 61 Saff kilidi + 6 geçiş: 4:22, 35:39, 40:10, 40:35, 61:3 çirkin tutum ve tutarsızlığa karşı en şiddetli tiksinti ve öfke) | ⏳ *Bekliyor* |
 | 12 | Sure %100 Kilidi | 957 | `ط-ف-أ` | `T-F-E` | **3** | 3 | 5:64 | İtfâ' (Sure 61 Saff kilidi | 2M+3F + 3 geçiş: 5:64, 9:32, 61:8 yanan ateşi veya parlayan ışığı söndürüp bastırmak) | ⏳ *Bekliyor* |
 | 13 | Sure %100 Kilidi | 1548 | `ر-ص-ص` | `R-S-S` | **1** | 1 | 61:4 | Marsûs (Sure 61 Saff son kilidi: 61:4 aralıksız kenetlenip kurşun gibi tek blok hâlinde örülmüş sağlam yapı) | ⏳ *Bekliyor* |
