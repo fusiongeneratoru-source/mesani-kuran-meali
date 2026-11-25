@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3I (18-13 Geçiş Çekirdek Zırhı ve +4 Sure %100 Tam Kilidi [Sure 104, 62, 105, 111 -> 29 Sure] — 50 Kök -> 700 Kök)",
   "target_count": 50,
-  "locked_count": 14,
+  "locked_count": 15,
   "total_tokens_in_package": 558,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 93.57,
+  "current_coverage_pct": 93.6,
   "target_coverage_pct": 94.24,
   "etap_3i_roots": [
     {
@@ -287,8 +287,8 @@
       "frequency": 14,
       "unique_ayahs": 14,
       "rationale": "Vasf ve Yasifûn (14 geçiş / 14 ayet: 6:100, 6:139, 12:18, 12:77, 16:62 yakıştırma/nitelendirme ile asılsız isnatta bulunmak)",
-      "concept_label": "Analiz Bekliyor (yaSifu, waSof)",
-      "is_locked": false,
+      "concept_label": "Vasf ve Yasifûn (Keyfî Nitelik Yakıştırmak ve Asılsız Anlatı Kurmak)",
+      "is_locked": true,
       "sample_ayah": "6:100",
       "top_lemmas": [
         "yaSifu",

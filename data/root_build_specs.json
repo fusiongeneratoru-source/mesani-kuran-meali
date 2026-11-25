@@ -47981,5 +47981,80 @@
       }
     ],
     "context_default": "Kalıcı yerleşke, ikamet konumu ve uzun süre konaklama bağlamı"
+  },
+  "و-ص-ف": {
+    "buckwalter": "wSf",
+    "slug": "wSf",
+    "concept_name": "Vasf ve Yasifûn (Keyfî Nitelik Yakıştırmak ve Asılsız Anlatı Kurmak)",
+    "keywords": [
+      "vasfet",
+      "yakıştır",
+      "uydur",
+      "anlat",
+      "yalan"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "waSof",
+        "label": "`سَيَجْزِيهِمْ` fiilinin ikinci mansûb mef'ûlü olan masdar (`سَيَجْزِيهِمْ وَصْفَهُمْ` — yakıştırdıkları asılsız hükmün karşılığını verecek; 1 geçiş: 6:139)"
+      },
+      {
+        "lemma": "yaSifu",
+        "ayahs": [
+          "16:62",
+          "16:116"
+        ],
+        "label": "Bab I 3. tekil dişil muzâri fiil (`تَصِفُ أَلْسِنَتُهُمُ / أَلْسِنَتُكُمُ ٱلْكَذِبَ` — dillerin yalanı nitelik olarak yakıştırması; 2 geçiş: 16:62, 16:116)"
+      },
+      {
+        "lemma": "yaSifu",
+        "features_contains": [
+          "2MP"
+        ],
+        "label": "Bab I 2. çoğul eril muzâri fiil (`مَا تَصِفُونَ` — uydurup yakıştırdığınız anlatı; 4 geçiş: 12:18, 12:77, 21:18, 21:112)"
+      },
+      {
+        "lemma": "yaSifu",
+        "label": "Bab I 3. çoğul eril muzâri fiil (`عَمَّا يَصِفُونَ / بِمَا يَصِفُونَ` — bilgisizce yakıştırdıkları nitelikler; 7 geçiş: 6:100, 21:22, 23:91, 23:96, 37:159, 37:180, 43:82)"
+      }
+    ],
+    "irab_default": "Asılsız nitelik yakıştırma fiili veya masdarı (`و-ص-ف` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:100",
+          "21:22",
+          "23:91",
+          "37:159",
+          "37:180",
+          "43:82"
+        ],
+        "text": "Yaratıcıyı Asılsız Niteliklerden Aşkın Kılma Bağlamı (`6:100`, `21:22`, `23:91`, `37:159`, `37:180`, `43:82`): `سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ` kalıbıyla ortak, çocuk veya acizlik yakıştırmalarının tümüyle reddi."
+      },
+      {
+        "ayahs": [
+          "6:139",
+          "16:62",
+          "16:116"
+        ],
+        "text": "Dillerin Yalan ve Keyfî Hüküm Yakıştırması Bağlamı (`6:139`, `16:62`, `16:116`): Hayvan doğurganlığı üzerinden uydurulan yasaklar ve dillerin `ٱلْكَذِبَ` nitelemeleri."
+      },
+      {
+        "ayahs": [
+          "21:18",
+          "21:112",
+          "23:96"
+        ],
+        "text": "Gerçeğin Kurmaca Yakıştırmaları Çürütmesi Bağlamı (`21:18`, `21:112`, `23:96`): Hakikat ile karşılaşınca dağılan asılsız sözler ve ilahi bilginin onları kuşatması."
+      },
+      {
+        "ayahs": [
+          "12:18",
+          "12:77"
+        ],
+        "text": "Yusuf Kıssasında Kurmaca Anlatı Bağlamı (`12:18`, `12:77`): Kardeşlerin kanlı gömlek hikayesi ve Yusuf'a yönelttikleri asılsız hırsızlık yakıştırması."
+      }
+    ],
+    "context_default": "Asılsız nitelik yakıştırma ve kurmaca anlatı bağlamı"
   }
 }
