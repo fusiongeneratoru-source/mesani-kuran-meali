@@ -48152,5 +48152,104 @@
       }
     ],
     "context_default": "Düzenli saf oluşturma, sıralanma ve hizalanma bağlamı"
+  },
+  "ل-و-م": {
+    "buckwalter": "lwm",
+    "slug": "lwm",
+    "concept_name": "Levm, Melûm, Mulîm ve Levvâme (Ayıplama, Sorumlulukla Kınama ve Öz Sorgulama)",
+    "keywords": [
+      "kına",
+      "kınama",
+      "kınan",
+      "ayıpla",
+      "suçla"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "l~aw~aAmap",
+        "label": "`فَعَّالَة` mübalağa sıfatı (`بِٱلنَّفْسِ ٱللَّوَّامَةِ` — kendini sıkıca sorgulayıp kınayan iç benlik üzerine; 1 geçiş: 75:2)"
+      },
+      {
+        "lemma": "yatala`wamu",
+        "label": "Bab VI 3. çoğul eril muzâri fiil (`بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَٰوَمُونَ` — birbirlerini karşılıklı kınayarak suçlamaya başladılar; 1 geçiş: 68:30)"
+      },
+      {
+        "lemma": "muliym",
+        "label": "Bab IV (`أَلَامَ`) etken ortaç merfû haber (`وَهُوَ مُلِيمٌ` — kınanmayı hak edecek bir işe girmiş haldeyken; 2 geçiş: 37:142, 51:40)"
+      },
+      {
+        "lemma": "laA^}im",
+        "label": "Bab I etken ortaç mecrûr muzâfun ileyh (`لَوْمَةَ لَآئِمٍ` — hiçbir kınayanın kınamasından; 1 geçiş: 5:54)"
+      },
+      {
+        "lemma": "lawomap",
+        "label": "Mef'ûlün bih muzâf olan tekil kınama masdarı (`لَا يَخَافُونَ لَوْمَةَ لَآئِمٍ` — kınayanın kınamasından çekinmezler; 1 geçiş: 5:54)"
+      },
+      {
+        "lemma": "lumo",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Bab I 2. çoğul dişil mâzî fiil (`لُمْتُنَّنِى فِيهِ` — beni hakkında kınadığınız kişi; 1 geçiş: 12:32)"
+      },
+      {
+        "lemma": "lumo",
+        "features_contains": [
+          "JUS"
+        ],
+        "label": "Bab I nehiyli meczûm 2. çoğul eril muzâri (`فَلَا تَلُومُونِى` — artık beni kınamayın; 1 geçiş: 14:22)"
+      },
+      {
+        "lemma": "lumo",
+        "label": "Bab I 2. çoğul eril emir fiili (`وَلُومُوٓا۟ أَنفُسَكُم` — bilakis kendi kendinizi kınayın; 1 geçiş: 14:22)"
+      },
+      {
+        "lemma": "maluwm",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Bab I edilgen ortaç mansûb hâl (`فَتَقْعُدَ مَلُومًا / فَتُلْقَىٰ ... مَلُومًا` — kınanmış halde kalırsın; 2 geçiş: 17:29, 17:39)"
+      },
+      {
+        "lemma": "maluwm",
+        "label": "Olumsuzluk yapısı içinde Bab I edilgen ortaç (`غَيْرُ مَلُومِينَ / فَمَآ أَنتَ بِمَلُومٍ` — kesinlikle kınanacak değilsin/değillerdir; 3 geçiş: 23:6, 51:54, 70:30)"
+      }
+    ],
+    "irab_default": "Kınama, sorumluluk yükleme veya kendini sorgulama (`ل-و-م` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:54",
+          "51:54"
+        ],
+        "text": "Dış Kınamadan Bağımsızlık ve Özgürlük Bağlamı (`5:54`, `51:54`): Hak yolunda çaba gösterenlerin kimsenin kınamasından çekinmemesi ve görevini tebliğ eden elçinin sorumlu/kınanır tutulamaması."
+      },
+      {
+        "ayahs": [
+          "14:22",
+          "68:30",
+          "75:2"
+        ],
+        "text": "Öz Eleştiri, Karşılıklı Suçlama ve Vicdani Sorgulama (`14:22`, `68:30`, `75:2`): Azgın çağrıcının hesap günü insanlara 'kendinizi kınayın' demesi (`14:22`), bahçe sahiplerinin karşılıklı kınaması (`68:30`) ve insanın kendini sıkıca sorgulayan benliği (`75:2`)."
+      },
+      {
+        "ayahs": [
+          "17:29",
+          "17:39",
+          "37:142",
+          "51:40"
+        ],
+        "text": "Yanlış Tutumun Doğurduğu Kınanmışlık Hâli (`17:29`, `17:39`, `37:142`, `51:40`): Harcamada dengesizlik, sahte ilah edinme, görevi izinsiz bırakma (`37:142`) ve kibirle direnmenin (`51:40`) yol açtığı kınanır konum."
+      },
+      {
+        "ayahs": [
+          "12:32",
+          "23:6",
+          "70:30"
+        ],
+        "text": "Toplumsal Ayıplama ve Meşruiyet Sınırı Bağlamı (`12:32`, `23:6`, `70:30`): Yusuf konusunda seçkin kadınların kınaması (`12:32`) ve meşru eşlilik sınırını koruyanların kınanmaktan muaf tutulması (`23:6`, `70:30`)."
+      }
+    ],
+    "context_default": "Kınama, ayıplama ve sorumluluk sorgulaması bağlamı"
   }
 }
