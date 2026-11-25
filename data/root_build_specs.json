@@ -50760,5 +50760,73 @@
       }
     ],
     "context_default": "Hilesiz onarım, içten iyilik ve arı-duru bağlılık bağlamı"
+  },
+  "ل-و-ي": {
+    "buckwalter": "lwy",
+    "slug": "lwy",
+    "concept_name": "Leyy ve Telviye (Doğru Eksenden Eğip Bükmek, Dili/Tanıklığı Çarpıtmak ve Başı Yana Çevirmek)",
+    "keywords": [
+      "bükmek",
+      "eğmek",
+      "çarpıtmak",
+      "baş çevirmek",
+      "leyy",
+      "telviye"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yalo",
+        "ayahs": [
+          "3:78",
+          "3:153"
+        ],
+        "label": "Form I merfû çoğul muzâri fiil (`يَلْوُۥنَ أَلْسِنَتَهُم` / `وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍ` — dili eğip bükmek ve geridekine dönüp bakmamak; 2 geçiş: 3:78, 3:153)"
+      },
+      {
+        "lemma": "yalo",
+        "ayahs": [
+          "4:135"
+        ],
+        "label": "Form I `إِن` şart edatıyla meczûm çoğul muzâri fiil (`وَإِن تَلْوُۥٓا۟` — tanıklığı eğip bükerseniz; 1 geçiş: 4:135)"
+      },
+      {
+        "lemma": "lay~",
+        "ayahs": [
+          "4:46"
+        ],
+        "label": "Mef'ûlün li-eclih / hâl konumunda nekre mansûb masdar (`لَيًّۢا بِأَلْسِنَتِهِمْ` — dillerini eğip bükerek; 1 geçiş: 4:46)"
+      },
+      {
+        "lemma": "law~a",
+        "ayahs": [
+          "63:5"
+        ],
+        "label": "Form II tef'îl kalıbında yoğunluk ve kasıt bildiren mâzî çoğul fiil (`لَوَّوْا۟ رُءُوسَهُمْ` — başlarını kibirle yana büktüler; 1 geçiş: 63:5)"
+      }
+    ],
+    "irab_default": "Eğip bükme ve yana çevirme fiili/masdarı (`ل-و-ي` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:78",
+          "4:46"
+        ],
+        "text": "Dili Eğip Bükerek Vahiy Metnini ve Sözü Çarpıtma (`3:78`, `4:46`): Kitaptan olmayanı kitaptan sandırmak için dillerini bükerek okuyanlar (`3:78`) ile telaffuzu eğip bükerek hakikat düzenine dil uzatanlar (`4:46`)."
+      },
+      {
+        "ayahs": [
+          "4:135"
+        ],
+        "text": "Adil Tanıklığı Eğip Bükme Uyarısı (`4:135`): Adaleti dimdik ayakta tutma emrinin ardından, tanıklığı hevâ uğruna eğip bükmekten (`إِن تَلْوُۥٓا۟`) veya bütünüyle yan çizmekten (`أَوْ تُعْرِضُوا۟`) sakındırma."
+      },
+      {
+        "ayahs": [
+          "3:153",
+          "63:5"
+        ],
+        "text": "Somut Bedensel Yön/Baş Çevirme (`3:153`, `63:5`): Savaş bozgununda hiç kimseye dönüp bakmadan (`لَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍ`) tırmanış (`3:153`) ve 63. sûrede ikiyüzlülerin bağışlanma çağrısına kibirle başlarını yana bükmesi (`لَوَّوْا۟ رُءُوسَهُمْ`, `63:5`)."
+      }
+    ],
+    "context_default": "Doğru hattan eğip bükme ve yana çevirme bağlamı"
   }
 }

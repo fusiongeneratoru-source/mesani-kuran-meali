@@ -3,11 +3,11 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 0 / 50 Kök (Toplam Mühürlü: 700 Kök | Güncel Kapsam: %94,24)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 1 / 50 Kök (Toplam Mühürlü: 701 Kök | Güncel Kapsam: %94,25)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
-| 1 | Sure %100 Kilidi | 771 | `ل-و-ي` | `L-W-Y` | **5** | 5 | 3:78 | Leyy ve Telviye (Sure 63 Münâfikûn kilidi + 5 geçiş: 3:78, 3:153, 4:46, 4:135, 63:5 dili, başı veya sözü büküp çarpıtmak) | ⏳ *Bekliyor* |
+| 1 | Sure %100 Kilidi | 771 | `ل-و-ي` | `L-W-Y` | **5** | 5 | 3:78 | Leyy ve Telviye (Doğru Eksenden Eğip Bükmek, Dili/Tanıklığı Çarpıtmak ve Başı Yana Çevirmek) | ✅ **MÜHÜRLÜ** |
 | 2 | Sure %100 Kilidi | 1064 | `ج-س-م` | `C-S-M` | **2** | 2 | 2:247 | Cism ve Ecsâm (Sure 63 Münâfikûn kilidi + 2 geçiş: 2:247, 63:4 fiziki gövde, cüsse ve dış bedensel yapı) | ⏳ *Bekliyor* |
 | 3 | Sure %100 Kilidi | 1549 | `خ-ش-ب` | `H-S-B` | **1** | 1 | 63:4 | Huşub (Sure 63 Münâfikûn kilidi: 63:4 içi boş, cansız kütük ve kereste gövdeler) | ⏳ *Bekliyor* |
 | 4 | Sure %100 Kilidi | 1550 | `س-ن-د` | `S-N-D` | **1** | 1 | 63:4 | Müsennede (Sure 63 Münâfikûn son kilidi: 63:4 kendi başına duramayıp duvara dayandırılmış destekli gövde) | ⏳ *Bekliyor* |

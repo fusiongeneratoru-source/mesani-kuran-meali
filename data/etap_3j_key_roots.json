@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3J (+6 Sure %100 Tam Kilidi [Sure 63, 66, 61, 100, 101, 88 -> 35 Sure], Kalan Tüm 2+ Açık Mesânî Tepe Uçları ve 13–12 Geçişli Çekirdek Kökler — 50 Kök -> 750 Kök)",
   "target_count": 50,
-  "locked_count": 0,
+  "locked_count": 1,
   "total_tokens_in_package": 285,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 94.24,
+  "current_coverage_pct": 94.25,
   "target_coverage_pct": 94.81,
   "etap_3j_roots": [
     {
@@ -17,8 +17,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Leyy ve Telviye (Sure 63 Münâfikûn kilidi + 5 geçiş: 3:78, 3:153, 4:46, 4:135, 63:5 dili, başı veya sözü büküp çarpıtmak)",
-      "concept_label": "Analiz Bekliyor (yalo, lay~, law~a)",
-      "is_locked": false,
+      "concept_label": "Leyy ve Telviye (Doğru Eksenden Eğip Bükmek, Dili/Tanıklığı Çarpıtmak ve Başı Yana Çevirmek)",
+      "is_locked": true,
       "sample_ayah": "3:78",
       "top_lemmas": [
         "yalo",
