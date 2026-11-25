@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3I (18-13 Geçiş Çekirdek Zırhı ve +4 Sure %100 Tam Kilidi [Sure 104, 62, 105, 111 -> 29 Sure] — 50 Kök -> 700 Kök)",
   "target_count": 50,
-  "locked_count": 11,
+  "locked_count": 12,
   "total_tokens_in_package": 558,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 93.49,
+  "current_coverage_pct": 93.52,
   "target_coverage_pct": 94.24,
   "etap_3i_roots": [
     {
@@ -230,8 +230,8 @@
       "frequency": 15,
       "unique_ayahs": 9,
       "rationale": "Matar ve İmtâr (15 geçiş / 9 ayet: 4:102, 7:84, 8:32, 11:82, 15:74 gökten yoğun yağmur ve taş yağdırılması)",
-      "concept_label": "Analiz Bekliyor (m~aTar, >umoTirato, m~umoTir)",
-      "is_locked": false,
+      "concept_label": "Matar, İmtâr ve Mumtir (Yoğun Sağanak, Azap Yağışı ve Taş Yağdırmak)",
+      "is_locked": true,
       "sample_ayah": "4:102",
       "top_lemmas": [
         "m~aTar",

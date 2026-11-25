@@ -47709,5 +47709,100 @@
       }
     ],
     "context_default": "Engelleme, avuç açma veya bütüncül kapsayıcılık bağlamı"
+  },
+  "م-ط-ر": {
+    "buckwalter": "mTr",
+    "slug": "mTr",
+    "concept_name": "Matar, İmtâr ve Mumtir (Yoğun Sağanak, Azap Yağışı ve Taş Yağdırmak)",
+    "keywords": [
+      "yağmur",
+      "yağdır",
+      "sağanak",
+      "taş",
+      "bulut"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">umoTirato",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Bab IV 3. tekil dişil edilgen mâzî fiil (`أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ` — üzerine kötülüğün sağanağı yağdırılmış kent; 1 geçiş: 25:40)"
+      },
+      {
+        "lemma": ">umoTirato",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Bab IV 2. tekil eril emir fiili (`فَأَمْطِرْ عَلَيْنَا حِجَارَةً` — üzerimize gökten taş yağdır; 1 geçiş: 8:32)"
+      },
+      {
+        "lemma": ">umoTirato",
+        "label": "Bab IV 1. çoğul etken mâzî fiil (`وَأَمْطَرْنَا عَلَيْهِم / عَلَيْهَا` — üzerlerine yoğun sağanak veya taşlar yağdırdık; 5 geçiş: 7:84, 11:82, 15:74, 26:173, 27:58)"
+      },
+      {
+        "lemma": "m~umoTir",
+        "label": "Bab IV `نَا` zamirine muzâf merfû etken ortaç (`هَٰذَا عَارِضٌ مُّمْطِرُنَا` — bu bize yağmur yağdıracak bir buluttur; 1 geçiş: 46:24)"
+      },
+      {
+        "lemma": "m~aTar",
+        "ayahs": [
+          "4:102"
+        ],
+        "label": "`مِنْ` harf-i cerriyle nekre mecrûr isim (`أَذًى مِّن مَّطَرٍ` — yağmur yağışından kaynaklanan saha sıkıntısı; 1 geçiş: 4:102)"
+      },
+      {
+        "lemma": "m~aTar",
+        "ayahs": [
+          "25:40"
+        ],
+        "label": "`ٱلسَّوْءِ` kelimesine muzâf mansûb isim (`مَطَرَ ٱلسَّوْءِ` — yıkıcı kötülük sağanağı; 1 geçiş: 25:40)"
+      },
+      {
+        "lemma": "m~aTar",
+        "features_contains": [
+          "INDEF",
+          "ACC"
+        ],
+        "label": "`أَمْطَرْنَا` fiilinin mef'ûl-i mutlakı konumunda nekre mansûb isim (`وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا` — üzerlerine şiddetli bir sağanak yağdırdık; 3 geçiş: 7:84, 26:173, 27:58)"
+      },
+      {
+        "lemma": "m~aTar",
+        "label": "`فَسَآءَ` fiilinin muzâf merfû fâili (`فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ` — uyarılanların üzerine inen sağanak ne kötüdür; 2 geçiş: 26:173, 27:58)"
+      }
+    ],
+    "irab_default": "Sağanak yağış veya tepeden taş/azap yağdırma fiili (`م-ط-ر` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:84",
+          "11:82",
+          "15:74",
+          "25:40",
+          "26:173",
+          "27:58"
+        ],
+        "text": "Uyarıyı Reddeden Kentlere Yönelik Sağanak Yaptırımı (`7:84`, `11:82`, `15:74`, `25:40`, `26:173`, `27:58`): Lût kıssasında kentlerin altüst edilip üzerine pişmiş taşlar veya yıkıcı sağanak indirilmesi."
+      },
+      {
+        "ayahs": [
+          "8:32"
+        ],
+        "text": "Gökten Taş Yağdırılmasını Meydan Okuyarak İsteme Bağlamı (`8:32`): Gerçeği örtenlerin kendi başlarına gökten taş yağdırılmasını alayla talep etmeleri."
+      },
+      {
+        "ayahs": [
+          "4:102"
+        ],
+        "text": "Saha ve Nöbet Koşullarında Yağmur Zorluğu Ruhsatı (`4:102`): Şiddetli yağmur sebebiyle silahları geçici bırakma izni (`أَذًى مِّن مَّطَرٍ`)."
+      },
+      {
+        "ayahs": [
+          "46:24"
+        ],
+        "text": "Rahmet Bulutu Sanılan Azap Rüzgârı Bağlamı (`46:24`): Âd toplumunun 'bize yağmur getirecek bulut' (`عَارِضٌ مُّمْطِرُنَا`) sandığı kütlenin acılı fırtına çıkması."
+      }
+    ],
+    "context_default": "Gökten sağanak yağışı veya ceza yağdırma bağlamı"
   }
 }
