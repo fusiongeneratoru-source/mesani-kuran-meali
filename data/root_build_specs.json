@@ -50904,5 +50904,36 @@
       }
     ],
     "context_default": "Kesilmiş kereste kütüğü benzetmesi bağlamı"
+  },
+  "س-ن-د": {
+    "buckwalter": "snd",
+    "slug": "snd",
+    "concept_name": "Müsennede (Kendi Başına Duramayıp Dış Desteğe/Duvara Yaslandırılmış)",
+    "keywords": [
+      "yaslandırılmış",
+      "dayandırılmış",
+      "dayanak",
+      "musennede",
+      "edilgen"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "m~usan~adap",
+        "ayahs": [
+          "63:4"
+        ],
+        "label": "Form II ism-i mef'ûl kalıbında nekre merfû dişil sıfat (`خُشُبٌ مُّسَنَّدَةٌ` — duvara sıra sıra yaslandırılmış keresteler; 1 geçiş: 63:4)"
+      }
+    ],
+    "irab_default": "Desteğe yaslandırılmış olma bildiren Form II ism-i mef'ûl sıfat (`س-ن-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "63:4"
+        ],
+        "text": "Duvara Yaslandırılmış Kütükler Benzetmesi (`63:4`): 63. sûrede içsel bilinç ve öz dirençten yoksun ikiyüzlülerin, dışarıdan heybetli görünseler de ancak bir duvara yaslandırıldığında dik durabilen kütüklere (`خُشُبٌ مُّسَنَّدَةٌ`) benzetilmesi."
+      }
+    ],
+    "context_default": "Dış desteğe yaslandırılmış olma bağlamı"
   }
 }
