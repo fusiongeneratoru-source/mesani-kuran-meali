@@ -47198,5 +47198,108 @@
       }
     ],
     "context_default": "Eksiği kalmayacak biçimde önceden hazırlayıp yanında hazır bekletme bağlamı"
+  },
+  "غ-د-و": {
+    "buckwalter": "gdw",
+    "slug": "gdw",
+    "concept_name": "Gudüvv ve Gad (Sabahın İlk Aydınlık Vakti, Erkenden Çıkış ve Yarın)",
+    "keywords": [
+      "sabah",
+      "erken",
+      "yarın",
+      "kuşluk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "gada",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Bab I 2. çoğul eril emir fiili (`أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ` — ekininize erkenden yürüyün diye fısıldaşma; 1 geçiş: 68:22)"
+      },
+      {
+        "lemma": "gada",
+        "features_contains": [
+          "3MP"
+        ],
+        "label": "Bab I 3. çoğul eril mâzî fiil (`وَغَدَوْا۟ عَلَىٰ حَرْدٍ` — yoksulu mahrum bırakma öfkesiyle erkenden yola çıkmaları; 1 geçiş: 68:25)"
+      },
+      {
+        "lemma": "gada",
+        "label": "Bab I 2. tekil eril mâzî fiil (`وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ` — elçinin sabah erken saatte ailesinden ayrılıp topluluğu mevzilere yerleştirmesi; 1 geçiş: 3:121)"
+      },
+      {
+        "lemma": "gadaw`p",
+        "label": "Dişil zaman ismi (`بِٱلْغَدَوٰةِ` — Rasm-ı Osmânî'de vav ile yazılı `بٱلغدوة`, İbn Âmir kıraatinde `بِٱلْغُدْوَةِ`; `بِـ` ile mecrûr; 2 geçiş: 6:52, 18:28)"
+      },
+      {
+        "lemma": "guduw~",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Merfû mübteda masdar (`غُدُوُّهَا شَهْرٌ` — rüzgârın sabah gidiş seyri bir aylık yol alır; 1 geçiş: 34:12)"
+      },
+      {
+        "lemma": "guduw~",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Mansûb zaman zarfı (`غُدُوًّا وَعَشِيًّا` — sabah ve akşam ateşe sunulmaları; 1 geçiş: 40:46)"
+      },
+      {
+        "lemma": "guduw~",
+        "label": "Mecrûr zaman ismi (`بِٱلْغُدُوِّ وَٱلْءَاصَالِ` — `بِـ` harf-i cerriyle sabahın ilk aydınlık vaktinde; 3 geçiş: 7:205, 13:15, 24:36)"
+      },
+      {
+        "lemma": "gadaA^'",
+        "label": "Mansûb mef'ûlün bih (`ءَاتِنَا غَدَآءَنَا` — sabah yolculuğunun ilk öğünü / kuşluk azığımızı getir; 1 geçiş: 18:62)"
+      },
+      {
+        "lemma": "gad",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "Mecrûr zaman ismi (`مَّا قَدَّمَتْ لِغَدٍ` — `لِـ` harf-i cerriyle yarın için önden ne gönderdiğine baksın; 1 geçiş: 59:18)"
+      },
+      {
+        "lemma": "gad",
+        "label": "Mansûb zaman zarfı (`غَدًا` — bugünün ardındaki ertesi gün / yarın; 4 geçiş: 12:12, 18:23, 31:34, 54:26)"
+      }
+    ],
+    "irab_default": "Sabah erken vakit, erken yola çıkış veya yarın türevi (`غ-د-و` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:121",
+          "68:22",
+          "68:25"
+        ],
+        "text": "Günün İlk Aydınlığında Erkenden Yola Çıkış (`3:121`, `68:22`, `68:25`): Elçinin güvene erenleri savunma mevzilerine yerleştirmek için sabah erken saatte ailesinden ayrılışı (`3:121`) ve bahçe sahiplerinin yoksulları dışlayarak erkenden hasada koşmaları (`68:22, 25`)."
+      },
+      {
+        "ayahs": [
+          "6:52",
+          "7:205",
+          "13:15",
+          "18:28",
+          "24:36",
+          "34:12",
+          "40:46"
+        ],
+        "text": "Sabah ve Akşam Arasında Süreklilik Çerçevesi ve Rüzgârın Sabah Seyri (`6:52`, `7:205`, `13:15`, `18:28`, `24:36`, `34:12`, `40:46`): Sabah akşam Rablerine yönelenlerle kenetlenme (`6:52, 18:28`), içten anış ve yüceltme (`7:205, 24:36`), göklerdeki ve yerdeki varlıklarla gölgelerinin teslimiyeti (`13:15`), rüzgârın bir aylık sabah seyri (`34:12`) ve Firavun çevresinin sabah akşam ateşe sunulması (`40:46`)."
+      },
+      {
+        "ayahs": [
+          "12:12",
+          "18:23",
+          "18:62",
+          "31:34",
+          "54:26",
+          "59:18"
+        ],
+        "text": "Sabah Azığı ve Yarın / Gelecek Sınaması (`12:12`, `18:23`, `18:62`, `31:34`, `54:26`, `59:18`): Yûsuf'un yarın kıra gönderilmesi (`12:12`), insanın kesin iradeyi unutup 'yarın yapacağım' dememesi (`18:23`), Mûsâ'nın yolculuktaki sabah azığını istemesi (`18:62`), kimsenin yarın ne kazanacağını bilememesi (`31:34`), yarın hakikati kimin bildiğinin açığa çıkması (`54:26`) ve herkesin yarın için ne önden gönderdiğine bakması (`59:18`)."
+      }
+    ],
+    "context_default": "Sabahın ilk aydınlık vakti, erkenden çıkış veya yarın bağlamı"
   }
 }

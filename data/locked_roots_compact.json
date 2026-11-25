@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 656,
+    "total_locked": 657,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2044,7 +2044,8 @@
         "ف-ج-ر (F-J-R (fjr) — Çift Yönlü Mesânî Karşılığı: 2:60, 54:12, 82:3, 2:187)",
         "س-ب-ت (S-B-T (sbt) — Çift Yönlü Mesânî Karşılığı: 25:47, 78:9, 16:124, 7:163)",
         "ش-ه-ر [لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ] (Bin Kamerî Aylık Uzun Nicel Süre ↔ Tek Bir Yoğun Anlamlı Gece: 97:3)",
-        "ض-ح-و"
+        "ض-ح-و",
+        "غ-د-و (غ-د-و ↔ ل-ي-ل Mesânî simetrisi)"
       ]
     },
     "ل-ي-س": {
@@ -5968,7 +5969,8 @@
         "خ-ل-ف (خ-ل-ف ↔ ق-د-م Mesânî simetrisi)",
         "أ-ج-ل (أ-ج-ل ↔ ق-د-م Mesânî simetrisi)",
         "ن-ص-ي [فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ] (Başın Ön Üst Tepesi / Alın Perçemi ↔ Bedenin En Alt Dayanağı Olan Ayaklar: 55:41)",
-        "ر-أ-س (ر-أ-س ↔ ق-د-م Mesânî simetrisi)"
+        "ر-أ-س (ر-أ-س ↔ ق-د-م Mesânî simetrisi)",
+        "غ-د-و (غ-د-و ↔ ق-د-م Mesânî simetrisi)"
       ]
     },
     "ج-و-ب": {
@@ -7397,7 +7399,8 @@
         "ش-ر-ق",
         "ط-ل-ع",
         "ب-ي-ض",
-        "أ-ه-ل"
+        "أ-ه-ل",
+        "غ-د-و (غ-د-و ↔ غ-ر-ب Mesânî simetrisi)"
       ]
     },
     "غ-ب-ر": {
@@ -8280,6 +8283,17 @@
         "ض-ي-ع",
         "ت-ر-ك",
         "ن-س-ي"
+      ]
+    },
+    "غ-د-و": {
+      "latin": "G-D-W (gdw)",
+      "core": "Günün ilk taze aydınlık vakti ve bu vakitte erkenden yola çıkıp harekete geçmek (`زَمَانٌ` — sabah erken vakit ve sonrası): `3` Bab I fiilde (`3:121`, `68:22`, `68:25`) sabah erken saatte yola koyulmak; `7` isimde (`بِٱلْغَدَوٰةِ` `6:52, 18:28` ve `غُدُوّ` `7:205, 13:15, 24:36, 34:12, 40:46`) akşamın zıddı olarak günün ilk sabah vakti; `1` isimde (`غَدَآءَنَا` `18:62`) sabah yolculuğunda yenilen ilk öğün; `5` `غَد` kullanımında ise (`12:12, 18:23, 31:34, 54:26, 59:18`) bugünün ardından gelecek ertesi gün ve yarınki hesap vaktidir.",
+      "physical": "İbn Fâris'in saptadığı tek zaman-hareket çekirdeği ('زَمَانٌ — günün ilk aydınlık vakti ve o vakitte harekete geçmek'): fecir ile güneş doğuşu arasındaki taze sabah vaktini ve o vakitte erken yola çıkışı (`غَدَا / غُدُوّ / غَدَوٰة`), sabah yola çıkınca yenilen ilk öğünü (`غَدَآء` `18:62`) ve bugünün ardından açılacak ertesi sabahı/yarını (`غَد` — aslı `غَدْو`) tek çizgide toplar.",
+      "opposites": [
+        "ر-و-ح",
+        "غ-ر-ب",
+        "ل-ي-ل",
+        "ق-د-م"
       ]
     }
   }
