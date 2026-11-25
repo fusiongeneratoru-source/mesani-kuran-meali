@@ -49689,5 +49689,35 @@
       }
     ],
     "context_default": "Harlı alev dili / yalaz bağlamı"
+  },
+  "م-س-د": {
+    "buckwalter": "msd",
+    "slug": "msd",
+    "concept_name": "Mesed (Sımsıkı Bükülmüş Kaba Hurma Lifi ve Örgülü Halat Maddesi)",
+    "keywords": [
+      "lif",
+      "hurma lifi",
+      "bükülmüş",
+      "mesed"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "m~asad",
+        "ayahs": [
+          "111:5"
+        ],
+        "label": "Sure 111 Mesed %100 kilidi: cins/madde açıklayan `مِن` harf-i cerriyle mecrûr nekre tekil isim (`حَبْلٌ مِّن مَّسَدٍۭ` — sımsıkı bükülmüş hurma lifinden; `حَبْلٌ` için şibh-i cümle sıfat; 1 geçiş: 111:5)"
+      }
+    ],
+    "irab_default": "Tekil mecrûr isim (`م-س-د` kökü — sıkı bükülmüş lif)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "111:5"
+        ],
+        "text": "Sure 111 Mesed %100 Kilidi — Gerdanda Sıkı Bükülmüş Hurma Lifi Halatı (`111:5`): Ateşe durmaksızın yakacak odun taşıyan zorba ortağın gerdanında asılı duran, gevşemeyecek biçimde sımsıkı bükülmüş kaba hurma lifi (`حَبْلٌ مِّن مَّسَدٍۭ`)."
+      }
+    ],
+    "context_default": "Sımsıkı bükülmüş lif / halat maddesi bağlamı"
   }
 }
