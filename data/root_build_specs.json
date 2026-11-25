@@ -49305,5 +49305,36 @@
       }
     ],
     "context_default": "Savurucu rüzgâr veya hafif ekin kabuğu bağlamı"
+  },
+  "ف-ي-ل": {
+    "buckwalter": "fyl",
+    "slug": "fyl",
+    "concept_name": "Fîl (Devasa Zırhlı Muharebe Canlısı ve Ashâb-ı Fîl Ordusu)",
+    "keywords": [
+      "fil",
+      "ordu",
+      "zırhlı",
+      "devasa",
+      "saldırı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fiyl",
+        "ayahs": [
+          "105:1"
+        ],
+        "label": "`بِأَصْحَٰبِ` çoğul ismine muzâfun ileyh konumunda harf-i tarifli eril tekil mecrûr isim (`بِأَصْحَٰبِ ٱلْفِيلِ` — zırhlı fil ordusu komutanları; 1 geçiş: 105:1)"
+      }
+    ],
+    "irab_default": "İzâfet tamlamasında mecrûr tekil isim (`ف-ي-ل` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "105:1"
+        ],
+        "text": "Sure 105 Fîl Kilidi (`105:1`): Dönemin ağır zırhlı muharebe gücünü temsil eden devasa fil unsuruyla (`بِأَصْحَٰبِ ٱلْفِيلِ`) harekete geçen stratejik tuzağın (`105:2` `كَيْدَهُمْ`), gökten art arda gelen kuş sürülerinin attığı pişmiş balçık taşlarıyla (`105:3-4`) yenilmiş ekin samanı kırıntısına (`105:5`) dönüştürülmesi."
+      }
+    ],
+    "context_default": "Devasa fil ve zırhlı saldırı ordusu bağlamı"
   }
 }
