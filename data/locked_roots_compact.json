@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 663,
+    "total_locked": 664,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1033,7 +1033,8 @@
         "خ-ف-ي (خ-ف-ي ↔ خ-ر-ج Mesânî simetrisi)",
         "أ-و-ي [فَمَأْوَىٰهُمُ ٱلنَّارُ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا] (Dışarı Çıkmak ↔ İçine Kapanılan Kalıcı Barınağa Dönmek: 32:20)",
         "م-د-ن (م-د-ن ↔ خ-ر-ج Mesânî simetrisi)",
-        "ب-و-أ (ب-و-أ ↔ خ-ر-ج Mesânî simetrisi)"
+        "ب-و-أ (ب-و-أ ↔ خ-ر-ج Mesânî simetrisi)",
+        "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 16:29, 39:72, 40:76 [ٱدْخُلُوٓا۟ أَبْوَٰبَ ... فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ — bir yerden dışarı çıkıp ayrılmak ↔ içine girilip kalıcı kalınan konak])"
       ]
     },
     "ص-ل-ح": {
@@ -4208,7 +4209,8 @@
         "ن-ص-ر [مِنَ ٱلْمُهَٰجِرِينَ وَٱلْأَنصَارِ] (Yurdundan Ayrılıp Göç Edenler ↔ Onlara Kucak Açıp Destek Olan Yerli Yardımcılar [ٱلْمُهَٰجِرِينَ & ٱلْأَنصَارِ]: 9:100, 9:117)",
         "ن-ش-ز [تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ] (Aile Bağında Ağır Geçimsizlik ↔ Önce Öğüt Sonra Geçici Yatak Mesafesi [ن-ش-ز & ه-ج-ر]: 4:34)",
         "ق-ر-أ [ٱتَّخَذُوا۟ هَٰذَا ٱلْقُرْءَانَ مَهْجُورًا] (Kur'an'ı Hayatın Merkezi Yapmak ↔ Onu İşlevsiz ve Terk Edilmiş Bırakmak [قُرْءَان & مَهْجُورًا]: 25:30)",
-        "ب-و-أ (ب-و-أ ↔ ه-ج-ر Mesânî simetrisi)"
+        "ب-و-أ (ب-و-أ ↔ ه-ج-ر Mesânî simetrisi)",
+        "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 28:45, 47:19 [ثَاوِيًا / مَثْوَىٰكُمْ — bulunduğu yurdu terk edip göç etmek ↔ aynı beldede uzun süre oturup kalmak])"
       ]
     },
     "ع-م-ر": {
@@ -7223,7 +7225,8 @@
       "physical": "İbn Fâris'in tespit ettiği üzere 'yolculuğa çıkmak, binek üzerine yük/semer vurup göç ve sefer halinde ilerlemek (مُضِيٌّ فِي سَفَرٍ)': (1) Binek sırtına bağlanan yol yükü, heybe ve semer donanımı (`رَحْل / رِحَال`, 12:62, 12:70, 12:75), (2) Düzenli ve hedefe yönelik kervan/ticaret seferi (`رِحْلَة`, 106:2).",
       "opposites": [
         "ق-ر-ر",
-        "س-ك-ن"
+        "س-ك-ن",
+        "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 28:45, 47:19 [ثَاوِيًا / مَثْوَىٰكُمْ — yolculuğa çıkıp göç etmek ↔ bir yerde uzun süre inip yerleşmek])"
       ]
     },
     "ش-ت-و": {
@@ -7685,7 +7688,8 @@
         "ق-ع-د",
         "ق-ر-ر",
         "ر-س-و",
-        "ج-م-د"
+        "ج-م-د",
+        "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 28:45, 47:19 [ثَاوِيًا / مَثْوَىٰكُمْ — yeryüzünde yol alıp dolaşmak ↔ durup sabit ikamete çekilmek])"
       ]
     },
     "ن-ب-ت": {
@@ -8393,6 +8397,18 @@
         "غ-د-و",
         "ف-ج-ر",
         "ن-و-ر"
+      ]
+    },
+    "ث-و-ي": {
+      "latin": "S-W-Y (vwy)",
+      "core": "Hareketi durdurup bir yerde uzun süre karar kılma ve kalıcı biçimde konaklama (`ٱلْإِقَامَة`) çekirdeği `14` geçişin tamamında sıfır sapmayla işler: `1` geçişte (`28:45` `ثَاوِيًا`) bir belde içinde uzun müddet ikamet eden sakin kişi, `2` geçişte (`12:21, 12:23`) dünyada konuk edilip kalınan ikamet konumu, `1` geçişte (`47:19`) hareket halinin zıddı olarak varılan durak yeri, diğer `10` geçişte ise sorgu ve hesabın ardından içine yerleşilen nihai son konak anlamını taşır.",
+      "physical": "İbn Fâris'in tespit ettiği tek çekirdek (`كَلِمَةٌ وَاحِدَةٌ صَحِيحَةٌ تَدُلُّ عَلَى ٱلْإِقَامَةِ` — yolculuktan inip bir yerde uzun süre karar kılmak, çadır/konak kurup yerleşik düzenle kalmak): Kur'an'da `28:45`'te Medyen toplumu içinde uzun süre ikamet eden kimseyi (`ثَاوِيًا`), `12:21,23`'te ev içinde ağırlanan misafirlik/ikamet makamını, `47:19`'da gidip dönülen hareket alanının (`مُتَقَلَّب`) karşısındaki kalıcı durağı (`مَثْوَىٰكُمْ`), diğer `10` ayette ise eylemlerin sonucunda karar kılınan son yerleşme yurdunu ifade eder.",
+      "opposites": [
+        "ق-ل-ب",
+        "ر-ح-ل",
+        "س-ي-ر",
+        "خ-ر-ج",
+        "ه-ج-ر"
       ]
     }
   }

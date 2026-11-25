@@ -47886,5 +47886,100 @@
       }
     ],
     "context_default": "Akşam vakti, ilk gece karanlığı veya ışıktan göz yumma bağlamı"
+  },
+  "ث-و-ي": {
+    "buckwalter": "vwy",
+    "slug": "vwy",
+    "concept_name": "Mesvâ ve Sâvî (Kalıcı Konak, İkamet Yeri ve Yerleşip Kalmak)",
+    "keywords": [
+      "yurt",
+      "konak",
+      "otur",
+      "yerleş",
+      "barınak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "vaAwiy",
+        "label": "Bab I `كَانَ`'nin mansûb haberi olan etken ortaç (`وَمَا كُنتَ ثَاوِيًا فِىٓ أَهْلِ مَدْيَنَ` — Medyen halkı içinde uzun süre oturup yerleşen değildin; 1 geçiş: 28:45)"
+      },
+      {
+        "lemma": "mavowFY",
+        "ayahs": [
+          "12:23"
+        ],
+        "label": "1. tekil iyelik zamiriyle elifi dik yazılmış mansûb mef'ûlün bih (`أَحْسَنَ مَثْوَاىَ` — Korpus `0.4`'te `NOM` görünse de irabta `أَحْسَنَ` fiilinin mansûb nesnesi: benim ikametimi güzelleştirdi; 1 geçiş: 12:23)"
+      },
+      {
+        "lemma": "mavowFY",
+        "ayahs": [
+          "12:21",
+          "47:19"
+        ],
+        "label": "Zamire izâfetle `ى` yazımını koruyan mansûb mef'ûlün bih / atıf (`أَكْرِمِى مَثْوَىٰهُ / مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ` — ikamet yerini/konağınızı; 2 geçiş: 12:21, 47:19)"
+      },
+      {
+        "lemma": "mavowFY",
+        "ayahs": [
+          "6:128"
+        ],
+        "label": "Zamire izâfetli merfû haber (`ٱلنَّارُ مَثْوَىٰكُمْ` — ateş sizin kalıcı konağınızdır; 1 geçiş: 6:128)"
+      },
+      {
+        "lemma": "mavowFY",
+        "ayahs": [
+          "3:151",
+          "16:29",
+          "39:72",
+          "40:76"
+        ],
+        "label": "`بِئْسَ` fiilinin muzâf merfû fâili (`وَبِئْسَ مَثْوَى ٱلظَّٰلِمِينَ / ٱلْمُتَكَبِّرِينَ` — ne kötüdür zalimlerin/büyüklenenlerin yerleşeceği konak; 4 geçiş: 3:151, 16:29, 39:72, 40:76)"
+      },
+      {
+        "lemma": "mavowFY",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "Nekre tenvinli maksûr isim (`مَثْوًى` — `لَيْسَ` ismi veya merfû haber: kalıcı bir konaklama yurdu; 5 geçiş: 29:68, 39:32, 39:60, 41:24, 47:12)"
+      }
+    ],
+    "irab_default": "Kalıcı konak, ikamet yeri veya uzun süre oturan kimse (`ث-و-ي` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:21",
+          "12:23"
+        ],
+        "text": "Dünya Evinde İkamet ve Konukluğu Güzelleştirme Bağlamı (`12:21`, `12:23`): Yusuf'a verilen ev içi ikamet makamının onurlandırılması (`أَكْرِمِى مَثْوَىٰهُ`) ve Yusuf'un bunu vefayla anması (`أَحْسَنَ مَثْوَاىَ`)."
+      },
+      {
+        "ayahs": [
+          "28:45"
+        ],
+        "text": "Tarihsel İkamet Yokluğu Delili Bağlamı (`28:45`): Elçinin Medyen toplumunda yıllarca yaşamış bir sakin (`ثَاوِيًا`) olmadığı halde olayları aktarması."
+      },
+      {
+        "ayahs": [
+          "47:19"
+        ],
+        "text": "Devinim ve Durak Dengesi Bağlamı (`47:19`): İnsanların hem dolaşıp hareket ettiği yeri (`مُتَقَلَّبَكُمْ`) hem de durup kaldığı konağı (`مَثْوَىٰكُمْ`) bilen ilahi kuşatma."
+      },
+      {
+        "ayahs": [
+          "3:151",
+          "6:128",
+          "16:29",
+          "29:68",
+          "39:32",
+          "39:60",
+          "39:72",
+          "40:76",
+          "41:24",
+          "47:12"
+        ],
+        "text": "Seçimlerin Sonucu Olan Kalıcı Son Konak Bağlamı (`3:151`, `6:128`, `16:29`, `29:68`, `39:32`, `39:60`, `39:72`, `40:76`, `41:24`, `47:12`): Kibir ve zulüm tercihi ardından içine girilen son yerleşke."
+      }
+    ],
+    "context_default": "Kalıcı yerleşke, ikamet konumu ve uzun süre konaklama bağlamı"
   }
 }
