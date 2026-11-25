@@ -51151,5 +51151,91 @@
       }
     ],
     "context_default": "Evlilik deneyimli kadınlar (`ثَيِّبَٰت`) bağlamı"
+  },
+  "أ-ي-د": {
+    "buckwalter": "Ayd",
+    "slug": "ayd",
+    "concept_name": "Eyd ve Te'yîd (Sarsılmaz Sağlamlık, İnşa Kudreti ve Tahkim Edici İlahi Destek)",
+    "keywords": [
+      "desteklemek",
+      "güçlendirmek",
+      "tahkim",
+      "kudret",
+      "eyd",
+      "teyid"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">ay~ada",
+        "ayahs": [
+          "2:87",
+          "2:253",
+          "5:110",
+          "58:22"
+        ],
+        "label": "Form II mâzî fiil + `بِـ` harf-i cerri (`وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ` / `وَأَيَّدَهُم بِرُوحٍ مِّنْهُ` — arınmış ilahi vahiy desteğiyle güçlendirmek; 4 geçiş)"
+      },
+      {
+        "lemma": ">ay~ada",
+        "ayahs": [
+          "3:13"
+        ],
+        "label": "Form II merfû muzâri fiil (`وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ` — dilediğini yardımıyla güçlendirir; 1 geçiş: 3:13)"
+      },
+      {
+        "lemma": ">ay~ada",
+        "ayahs": [
+          "8:26",
+          "8:62",
+          "9:40",
+          "61:14"
+        ],
+        "label": "Form II mâzî fiil (`وَأَيَّدَكُم / أَيَّدَكَ / وَأَيَّدَهُۥ / فَأَيَّدْنَا` — inananları ve elçiyi yardım, görünmeyen ordular ve düşmana karşı üstünlükle tahkim etmek; 4 geçiş)"
+      },
+      {
+        "lemma": ">ayoyd",
+        "ayahs": [
+          "38:17"
+        ],
+        "label": "`ذَا` esmâ-i hamse ismine muzâfun ileyh mecrûr masdar isim (`ذَا ٱلْأَيْدِ` — sağlam güç ve direnç sahibi; 1 geçiş: 38:17)"
+      },
+      {
+        "lemma": ">ayoyd",
+        "ayahs": [
+          "51:47"
+        ],
+        "label": "`بِـ` harf-i cerriyle mecrûr, çift-yâ Mushaf rasmıyla yazılan masdar isim (`بِأَيْي۟دٍ` — sarsılmaz güç ve kudretle; 1 geçiş: 51:47)"
+      }
+    ],
+    "irab_default": "Sağlam güç ve tahkim edici destek bildiren fiil/masdar (`أ-ي-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:87",
+          "2:253",
+          "5:110",
+          "58:22"
+        ],
+        "text": "Arınmış İlahi Vahiy Desteğiyle Tahkim (`2:87, 2:253, 5:110, 58:22`): İsa'nın apaçık kanıtlarla birlikte arınmış kutsal destekle (`بِرُوحِ ٱلْقُدُسِ`) ve samimi inananların Allah katından diriltici destekle (`بِرُوحٍ مِّنْهُ`) sarsılmaz biçimde güçlendirilmesi."
+      },
+      {
+        "ayahs": [
+          "3:13",
+          "8:26",
+          "8:62",
+          "9:40",
+          "61:14"
+        ],
+        "text": "Zorlu Mücadelelerde İlahi Yardım ve Üstünlük Desteği (`3:13, 8:26, 8:62, 9:40, 61:14`): Az ve savunmasız anlarda (`8:26`), mağarada (`9:40`), düşman tuzaklarına karşı (`8:62`) ve İsa'ya inanan topluluğun düşmanlarına karşı (`61:14`) Allah'ın yardımı ve görünmeyen desteklerle tahkim etmesi."
+      },
+      {
+        "ayahs": [
+          "38:17",
+          "51:47"
+        ],
+        "text": "Sarsılmaz Direnç ve Kozmik İnşa Gücü (`38:17`, `51:47`): Dâvûd'un sağlam güç sahibi (`ذَا ٱلْأَيْدِ`) bir kul olarak anılması (`38:17`) ve göğün sarsılmaz kudretle (`بِأَيْي۟دٍ`) inşa edilip sürekli genişletilmesi (`51:47`)."
+      }
+    ],
+    "context_default": "Sarsılmaz güç ve tahkim edici destek bağlamı"
   }
 }
