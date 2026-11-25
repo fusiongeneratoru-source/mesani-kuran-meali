@@ -49106,5 +49106,90 @@
       }
     ],
     "context_default": "Örtüyü açıp aydınlatma, sefer yolculuğu veya yazılı tomar bağlamı"
+  },
+  "ت-ج-ر": {
+    "buckwalter": "tjr",
+    "slug": "tjr",
+    "concept_name": "Ticâret (Karşılıklı Rızayla Değer Döndürmek ve Kazançlı Mübadele)",
+    "keywords": [
+      "ticaret",
+      "kazanç",
+      "alışveriş",
+      "takas",
+      "kâr"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tija`rap",
+        "ayahs": [
+          "2:16"
+        ],
+        "label": "Zamire muzâf dişil merfû özne (`فَمَا رَبِحَت تِّجَٰرَتُهُمْ` — yaptıkları bu alışveriş hiç kâr getirmedi; 1 geçiş: 2:16)"
+      },
+      {
+        "lemma": "tija`rap",
+        "ayahs": [
+          "2:282",
+          "4:29"
+        ],
+        "label": "Nakıs `كَانَ` fiilinin haberi nekre dişil mansûb (`إِلَّآ أَن تَكُونَ تِجَٰرَةً` — peşin dönen veya karşılıklı rızaya dayalı ticaret olması başka; 2 geçiş: 2:282, 4:29)"
+      },
+      {
+        "lemma": "tija`rap",
+        "ayahs": [
+          "9:24",
+          "24:37"
+        ],
+        "label": "Nekre dişil merfû özne (`وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا` / `لَّا تُلْهِيهِمْ تِجَٰرَةٌ` — durgunluğundan korkulan veya insanı alıkoymayan ticaret; 2 geçiş: 9:24, 24:37)"
+      },
+      {
+        "lemma": "tija`rap",
+        "ayahs": [
+          "35:29"
+        ],
+        "label": "`يَرْجُونَ` mef'ûlü nekre dişil mansûb (`يَرْجُونَ تِجَٰرَةً لَّن تَبُورَ` — asla kesata düşüp batmayacak bir ticaret umarlar; 1 geçiş: 35:29)"
+      },
+      {
+        "lemma": "tija`rap",
+        "ayahs": [
+          "61:10"
+        ],
+        "label": "`عَلَىٰ` harf-i cerriyle nekre dişil mecrûr (`هَلْ أَدُلُّكُمْ عَلَىٰ تِجَٰرَةٍ تُنجِيكُم` — sizi ağır sonuçtan kurtaracak bir ticareti göstereyim mi?; 1 geçiş: 61:10)"
+      },
+      {
+        "lemma": "tija`rap",
+        "features_contains": [
+          "INDEF",
+          "ACC"
+        ],
+        "label": "`رَأَوْا۟` mef'ûlü nekre dişil mansûb (`وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا` — ticaret veya eğlence gördüklerinde; 1 geçiş: 62:11)"
+      },
+      {
+        "lemma": "tija`rap",
+        "label": "`مِن` kıyas edatıyla elif-lâmlı ma'rife mecrûr (`وَمِنَ ٱلتِّجَٰرَةِ` — dünyevî ticaretten daha hayırlıdır; 1 geçiş: 62:11)"
+      }
+    ],
+    "irab_default": "Karşılıklı rıza ve kazanç amaçlı değer değişimi (`ت-ج-ر` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:282",
+          "4:29",
+          "9:24",
+          "24:37",
+          "62:11"
+        ],
+        "text": "Meşru Ekonomik Mübadele, Rıza Şartı ve Öncelik Ölçüsü (`2:282`, `4:29`, `9:24`, `24:37`, `62:11`): Haksız sömürüye karşı karşılıklı hoşnutluk ilkesi (`4:29`), peşin el değiştiren ticarette yazım kolaylığı (`2:282`), kesat korkusuna rağmen öncelik sırası (`9:24`), zikirden alıkoymayan ticaret ahlakı (`24:37`) ve Sure 62 içinde hitabı terk edip ticarete dağılmanın uyarısı (`62:11`)."
+      },
+      {
+        "ayahs": [
+          "2:16",
+          "35:29",
+          "61:10"
+        ],
+        "text": "Kâr-Zarar ve Kalıcı Değer Değişimi Bilançosu (`2:16`, `35:29`, `61:10`): Doğruyu bırakıp sapmayı alanların kâr getirmeyen ticareti (`2:16`) karşısında, ayet okuma ve paylaşımla kurulan asla batmayacak ticaret (`35:29`) ve kurtarıcı yol değişimi (`61:10`)."
+      }
+    ],
+    "context_default": "Ticaret ve değer mübadelesi bağlamı"
   }
 }

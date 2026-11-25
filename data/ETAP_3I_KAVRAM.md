@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 28 / 50 Kök (Toplam Mühürlü: 678 Kök | Güncel Kapsam: %93,86)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 29 / 50 Kök (Toplam Mühürlü: 679 Kök | Güncel Kapsam: %93,88)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -35,7 +35,7 @@
 | 26 | Sure %100 Kilidi | 612 | `ف-ض-ض` | `F-D-D` | **9** | 9 | 3:14 | Fidda ve İnfidâd (Çözülüp Dağılmak ve İşlenen Parlak Beyaz Maden Gümüş) | ✅ **MÜHÜRLÜ** |
 | 27 | Sure %100 Kilidi | 712 | `ل-ح-ق` | `L-H-K` | **6** | 6 | 3:170 | Lühûk ve İlhâk (Arkadan Yetişip Kavuşmak ve Safına Katıp Bağlamak) | ✅ **MÜHÜRLÜ** |
 | 28 | Sure %100 Kilidi | 520 | `س-ف-ر` | `S-F-R` | **12** | 12 | 2:184 | Sefer, Esfâr ve Müsfira (Örtüyü Açıp Aydınlatmak, Açık Yolculuk ve Yazılı Tomarlar) | ✅ **MÜHÜRLÜ** |
-| 29 | Sure %100 Kilidi | 595 | `ت-ج-ر` | `T-C-R` | **9** | 8 | 2:16 | Ticâret (Sure 62 Cum'a son kilidi + 9 geçiş: 2:16, 2:282, 4:29, 9:24, 62:11 kâr amacı güden mal ve değer değişimi) | ⏳ *Bekliyor* |
+| 29 | Sure %100 Kilidi | 595 | `ت-ج-ر` | `T-C-R` | **9** | 8 | 2:16 | Ticâret (Karşılıklı Rızayla Değer Döndürmek ve Kazançlı Mübadele) | ✅ **MÜHÜRLÜ** |
 | 30 | Sure %100 Kilidi | 960 | `أ-ب-ل` | `E-B-L` | **3** | 3 | 6:144 | İbil ve Ebâbîl (Sure 105 Fîl kilidi + 3 geçiş: 6:144, 88:17, 105:3 yük devesi ve art arda sürüler hâlinde gelen gruplar) | ⏳ *Bekliyor* |
 | 31 | Sure %100 Kilidi | 686 | `ع-ص-ف` | `A-S-F` | **7** | 6 | 10:22 | Asf ve Âsıfe (Sure 105 Fîl kilidi + 7 geçiş: 10:22, 14:18, 21:81, 55:12, 105:5 fırtınalı rüzgârla savrulup yenmiş saman kabuğu) | ⏳ *Bekliyor* |
 | 32 | Sure %100 Kilidi | 1631 | `ف-ي-ل` | `F-Y-L` | **1** | 1 | 105:1 | Fîl (Sure 105 Fîl kilidi: 105:1 devasa zırhlı fil ordusu sahibi) | ⏳ *Bekliyor* |
