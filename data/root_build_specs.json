@@ -47092,5 +47092,111 @@
       }
     ],
     "context_default": "Belirlenmiş süreyi tutup bekleme veya bir sonucun ortaya çıkmasını gözetleme bağlamı"
+  },
+  "ع-ت-د": {
+    "buckwalter": "Etd",
+    "slug": "etd",
+    "concept_name": "Atîd ve A'tede (Eksiği Kalmadan Önceden Kurup Yanı Başında Hazır Bekletmek)",
+    "keywords": [
+      "hazır",
+      "hazırla",
+      "beklet",
+      "yanında"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Eatiyd",
+        "ayahs": [
+          "50:18"
+        ],
+        "label": "Nekre merfû sıfat (`رَقِيبٌ عَتِيدٌ` — `رَقِيبٌ` kelimesinin na'tı, yanı başında her an hazır bekleyen; 1 geçiş: 50:18)"
+      },
+      {
+        "lemma": "Eatiyd",
+        "ayahs": [
+          "50:23"
+        ],
+        "label": "Nekre merfû haber (`هَٰذَا مَا لَدَىَّ عَتِيدٌ` — işaret ismi mübtedasının haberi veya sıfatı, yanımda eksiksiz hazır bulunan; 1 geçiş: 50:23)"
+      },
+      {
+        "lemma": ">aEotadato",
+        "features_contains": [
+          "3FS"
+        ],
+        "label": "Bab IV 3. tekil dişil mâzî fiil (`وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا` — Aziz'in eşinin konuklar için oturma ve ağırlama düzenini hazırlaması; 1 geçiş: 12:31)"
+      },
+      {
+        "lemma": ">aEotadato",
+        "ayahs": [
+          "33:31"
+        ],
+        "label": "Bab IV 1. çoğul mâzî fiil (`وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا` — Allah'ın itaatkâr ve onarıcı iş yapan kadınlara soylu ve kesintisiz imkân hazırlaması; kökün tek olumlu ilahî karşılık kullanımı, 1 geçiş: 33:31)"
+      },
+      {
+        "lemma": ">aEotadato",
+        "ayahs": [
+          "18:102"
+        ],
+        "label": "Bab IV 1. çoğul mâzî fiil (`إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَٰفِرِينَ نُزُلًا` — ilk mef'ûl `جَهَنَّمَ` ve ikinci mef'ûl/hâl `نُزُلًا` ile konaklama yeri olarak yakıcı yıkım yurdunun hazırlanması; 1 geçiş: 18:102)"
+      },
+      {
+        "lemma": ">aEotadato",
+        "ayahs": [
+          "76:4"
+        ],
+        "label": "Bab IV 1. çoğul mâzî fiil (`إِنَّآ أَعْتَدْنَا لِلْكَٰفِرِينَ سَلَٰسِلَا۟ وَأَغْلَٰلًا وَسَعِيرًا` — zincir, boyunduruk ve harlı ateşin önceden hazır tutulması; 1 geçiş: 76:4)"
+      },
+      {
+        "lemma": ">aEotadato",
+        "ayahs": [
+          "4:18",
+          "4:37",
+          "4:151",
+          "4:161",
+          "17:10",
+          "18:29",
+          "25:11",
+          "25:37",
+          "48:13",
+          "67:5"
+        ],
+        "label": "Bab IV 1. çoğul mâzî fiil (`أَعْتَدْنَا لِـ ...` — zulmeden, sömüren, cimrilik eden, elçileri yalanlayan ve hakikati örtenler için önceden kurulup hazır bekletilen yaptırım; 10 geçiş)"
+      }
+    ],
+    "irab_default": "Bab IV hazırlayıp hazır bulundurma veya `عَتِيد` sıfat-ismi (`ع-ت-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "50:18",
+          "50:23"
+        ],
+        "text": "Kayıt ve Gözetim Huzurunda Anında Hazır Bulunuş (`50:18`, `50:23`): Ağızdan çıkan her sözün yanında her an hazır bekleyen gözetleyici (`رَقِيبٌ عَتِيدٌ`) ve hesap anında refakatçinin 'işte yanımdaki her şey eksiksiz hazır' (`هَٰذَا مَا لَدَىَّ عَتِيدٌ`) diye sunduğu eksiksiz eylem dosyası."
+      },
+      {
+        "ayahs": [
+          "12:31",
+          "33:31"
+        ],
+        "text": "Ağırlama Düzeni ve Soylu İmkân Hazırlığı (`12:31`, `33:31`): Yûsuf kıssasında kadınlar için konaklama ve meyve sofrası düzeninin önceden kurulması (`12:31`) ile Allah'a ve elçisine bağlılık gösterip onarıcı işler yapanlara iki kat karşılık yanında soylu bir yaşam rızkının eksiksiz hazırlanması (`33:31`)."
+      },
+      {
+        "ayahs": [
+          "4:18",
+          "4:37",
+          "4:151",
+          "4:161",
+          "17:10",
+          "18:29",
+          "18:102",
+          "25:11",
+          "25:37",
+          "48:13",
+          "67:5",
+          "76:4"
+        ],
+        "text": "Haksızlık, Sömürü ve Gerçeği Örtme Tercihine Karşılık Hazır Tutulan Yaptırım (`4:18,37,151,161`, `17:10`, `18:29,102`, `25:11,37`, `48:13`, `67:5`, `76:4`): Ölüm kapıya dayanıncaya dek kötülükte diretenler, cimrilikte birleşip Allah'ın lütfunu gizleyenler, faizle halkın malını haksız yiyenler, saati yalanlayanlar ve yıkıcı saptırıcı güçler için sistemde önceden eksiksiz hazırlanmış acı, alçaltıcı ve alevli yaptırımlar."
+      }
+    ],
+    "context_default": "Eksiği kalmayacak biçimde önceden hazırlayıp yanında hazır bekletme bağlamı"
   }
 }

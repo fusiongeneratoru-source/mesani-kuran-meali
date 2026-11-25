@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 5 / 50 Kök (Toplam Mühürlü: 655 Kök | Güncel Kapsam: %93,30)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 6 / 50 Kök (Toplam Mühürlü: 656 Kök | Güncel Kapsam: %93,33)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -12,7 +12,7 @@
 | 3 | Yüksek Frekanslı Çekirdek | 434 | `ب-و-أ` | `B-W-E` | **17** | 16 | 2:61 | Bev' ve Tebevvü' (Konuma/Yurda Yerleşmek ve Eylemin Denk Yükünü Üstlenip Dönmek) | ✅ **MÜHÜRLÜ** |
 | 4 | Yüksek Frekanslı Çekirdek | 444 | `س-و-ق` | `S-W-K` | **17** | 16 | 7:57 | Sevk, Sâk ve Esvâk (Hedefe Yöneltip Sürmek, Taşıyıcı Bacak/Sap ve Çarşılar) | ✅ **MÜHÜRLÜ** |
 | 5 | Yüksek Frekanslı Çekirdek | 440 | `ر-ب-ص` | `R-B-S` | **17** | 12 | 2:226 | Terabbus ve Müterabbis (Belirlenen Süreyi Tutup Beklemek ve Sonucu Gözetlemek) | ✅ **MÜHÜRLÜ** |
-| 6 | Yüksek Frekanslı Çekirdek | 455 | `ع-ت-د` | `A-T-D` | **16** | 16 | 4:18 | Atîd ve A'tede (16 geçiş / 16 ayet: 4:18, 4:37, 4:151, 4:161, 12:31 eksiği kalmamış şekilde önceden hazırlayıp hazır bekletmek) | ⏳ *Bekliyor* |
+| 6 | Yüksek Frekanslı Çekirdek | 455 | `ع-ت-د` | `A-T-D` | **16** | 16 | 4:18 | Atîd ve A'tede (Eksiği Kalmadan Önceden Kurup Yanı Başında Hazır Bekletmek) | ✅ **MÜHÜRLÜ** |
 | 7 | Yüksek Frekanslı Çekirdek | 453 | `غ-د-و` | `G-D-W` | **16** | 16 | 3:121 | Gudüvv ve Gad (16 geçiş / 16 ayet: 3:121, 6:52, 7:205, 12:12, 13:15 sabahın ilk aydınlık vakti, erkenden çıkış ve yarın) | ⏳ *Bekliyor* |
 | 8 | Yüksek Frekanslı Çekirdek | 450 | `م-ه-د` | `M-H-D` | **16** | 15 | 2:206 | Mehd, Mihâd ve Temhîd (16 geçiş / 15 ayet: 2:206, 3:12, 3:46, 3:197, 5:110 beşikten yayvan döşeğe kadar düzleştirip hazırlanan zemin) | ⏳ *Bekliyor* |
 | 9 | Yüksek Frekanslı Çekirdek | 459 | `ك-ي-ل` | `K-Y-L` | **16** | 13 | 6:152 | Keyl, Mikyâl ve İktiyâl (16 geçiş / 13 ayet: 6:152, 7:85, 11:84, 11:85, 12:59 hacim ölçüsü ve hak ölçüsünü tam teslim etmek) | ⏳ *Bekliyor* |
