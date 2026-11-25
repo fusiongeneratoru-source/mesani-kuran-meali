@@ -50373,5 +50373,101 @@
       }
     ],
     "context_default": "Zararı savan ince şefkat bağlamı"
+  },
+  "خ-ل-ل": {
+    "buckwalter": "xll",
+    "slug": "xll",
+    "concept_name": "Hilâl, Halîl ve Hulle (İki Şey Arasındaki Aralık/Geçit ve Boşluğu Dolduran Sıkı Dostluk)",
+    "keywords": [
+      "arasından",
+      "aralık",
+      "dost",
+      "sıkı dostluk",
+      "halil",
+      "hilal"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xila`l",
+        "ayahs": [
+          "9:47",
+          "17:5",
+          "17:91",
+          "18:33",
+          "27:61"
+        ],
+        "label": "Mekân zarfı olarak mansûb ve zamire/isme muzâf (`خِلَٰلَكُمْ / خِلَٰلَ ٱلدِّيَارِ / خِلَٰلَهَا / خِلَٰلَهُمَا` — aralarından, içinden, ortasından; 5 geçiş)"
+      },
+      {
+        "lemma": "xila`l",
+        "ayahs": [
+          "24:43",
+          "30:48"
+        ],
+        "label": "`مِنْ` çıkış harf-i cerriyle mecrûr, bulut zamirine muzâf isim (`مِنْ خِلَٰلِهِۦ` — bulutun aralıklarından; 2 geçiş: 24:43, 30:48)"
+      },
+      {
+        "lemma": "xila`l",
+        "ayahs": [
+          "14:31"
+        ],
+        "label": "`لَا بَيْعٌ فِيهِ وَلَا خِلَٰلٌ` yapısında nekre merfû isim (`خِلَٰلٌ` — dostluk ve kayırma ilişkisi; 1 geçiş: 14:31)"
+      },
+      {
+        "lemma": "xaliyl",
+        "ayahs": [
+          "4:125",
+          "17:73",
+          "25:28"
+        ],
+        "label": "`ٱتَّخَذَ` fiilinin mansûb ikinci mef'ûlü (`خَلِيلًا` — en yakın, kenetlenmiş dost edinmek; 3 geçiş: 4:125, 17:73, 25:28)"
+      },
+      {
+        "lemma": "xaliyl",
+        "ayahs": [
+          "43:67"
+        ],
+        "label": "İsim cümlesinin marife merfû kırık çoğul mübtedâsı (`ٱلْأَخِلَّآءُ` — birbirine kenetlenmiş sıkı dostlar; 1 geçiş: 43:67)"
+      },
+      {
+        "lemma": "xul~ap",
+        "ayahs": [
+          "2:254"
+        ],
+        "label": "`لَا بَيْعٌ فِيهِ وَلَا خُلَّةٌ` yapısında nekre merfû isim (`خُلَّةٌ` — sıkı dostluk bağı; 1 geçiş: 2:254)"
+      }
+    ],
+    "irab_default": "Aralık/geçit veya sıkı dostluk bildiren isim (`خ-ل-ل` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:91",
+          "18:33",
+          "24:43",
+          "27:61",
+          "30:48"
+        ],
+        "text": "Doğa ve Kozmolojide Somut Aralıklar/Geçitler (`17:91, 18:33, 24:43, 27:61, 30:48`): Yağmurun bulut aralıklarından (`مِنْ خِلَٰلِهِۦ`) süzülüp çıkması ve ırmakların bahçelerin ile yeryüzünün arasından (`خِلَٰلَهَا / خِلَٰلَهُمَا`) fışkırtılıp akıtılması."
+      },
+      {
+        "ayahs": [
+          "9:47",
+          "17:5"
+        ],
+        "text": "Topluluk Saflarının ve Yurtların Arasına Sızma (`9:47`, `17:5`): İkiyüzlülerin topluluk safları arasında (`خِلَٰلَكُمْ`) kargaşa çıkarmak için koşuşturması (`9:47`) ve çetin orduların yurtların ara sokaklarına dalıp araması (`17:5`)."
+      },
+      {
+        "ayahs": [
+          "2:254",
+          "4:125",
+          "14:31",
+          "17:73",
+          "25:28",
+          "43:67"
+        ],
+        "text": "Gönül Boşluğunu Dolduran Sıkı Dostluk ve Hesap Günü Sınaması (`2:254, 4:125, 14:31, 17:73, 25:28, 43:67`): İbrâhîm'in Allah tarafından seçkin dost (`خَلِيلًا`) edinilmesi (`4:125`), elçiyi saptırıp dost edinmeye çalışanlar (`17:73`), yanlış dost seçiminin pişmanlığı (`25:28`) ve hesap gününde bilinçli sakınanlar dışında dostlukların (`خُلَّة / خِلَٰل / ٱلْأَخِلَّآءُ`) düşmanlığa dönüşüp faydasız kalması (`2:254, 14:31, 43:67`)."
+      }
+    ],
+    "context_default": "Somut aralık/geçit ve kenetlenmiş dostluk bağlamı"
   }
 }
