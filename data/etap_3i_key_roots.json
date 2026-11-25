@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3I (18-13 Geçiş Çekirdek Zırhı ve +4 Sure %100 Tam Kilidi [Sure 104, 62, 105, 111 -> 29 Sure] — 50 Kök -> 700 Kök)",
   "target_count": 50,
-  "locked_count": 29,
+  "locked_count": 30,
   "total_tokens_in_package": 558,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 93.88,
+  "current_coverage_pct": 93.89,
   "target_coverage_pct": 94.24,
   "etap_3i_roots": [
     {
@@ -568,8 +568,8 @@
       "frequency": 3,
       "unique_ayahs": 3,
       "rationale": "İbil ve Ebâbîl (Sure 105 Fîl kilidi + 3 geçiş: 6:144, 88:17, 105:3 yük devesi ve art arda sürüler hâlinde gelen gruplar)",
-      "concept_label": "Analiz Bekliyor (<ibil, >abaAbiyl)",
-      "is_locked": false,
+      "concept_label": "İbil ve Ebâbîl (Dayanıklı Deve Cinsi ve Ardışık Bölükler Hâlindeki Sürüler)",
+      "is_locked": true,
       "sample_ayah": "6:144",
       "top_lemmas": [
         "<ibil",

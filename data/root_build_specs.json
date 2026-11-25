@@ -49191,5 +49191,51 @@
       }
     ],
     "context_default": "Ticaret ve değer mübadelesi bağlamı"
+  },
+  "أ-ب-ل": {
+    "buckwalter": "Abl",
+    "slug": "Abl",
+    "concept_name": "İbil ve Ebâbîl (Dayanıklı Deve Cinsi ve Ardışık Bölükler Hâlindeki Sürüler)",
+    "keywords": [
+      "deve",
+      "sürü",
+      "bölük",
+      "katar",
+      "grup"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "<ibil",
+        "ayahs": [
+          "6:144"
+        ],
+        "label": "`مِنَ` teb'îz/cins edatıyla mecrûr kolektif isim (`وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ` — develerden de erkek-dişi iki çift; 1 geçiş: 6:144)"
+      },
+      {
+        "lemma": "<ibil",
+        "label": "`إِلَى` gözlem harf-i cerriyle mecrûr kolektif isim (`أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ` — develerin nasıl yaratıldığına bakmazlar mı?; 1 geçiş: 88:17)"
+      },
+      {
+        "lemma": ">abaAbiyl",
+        "label": "`طَيْرًا` isminin gayr-ı munsarif (`أَفَاعِيل`) nekre mansûb çoğul sıfatı (`طَيْرًا أَبَابِيلَ` — peş peşe bölükler hâlinde gelen kuşlar; 1 geçiş: 105:3)"
+      }
+    ],
+    "irab_default": "Kolektif deve sürüsü veya ardışık bölükler hâlindeki grup (`أ-ب-ل` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:144",
+          "88:17"
+        ],
+        "text": "Devenin Eşli Cinsiyeti ve Fiziksel Yaratılış Tasarımı (`6:144`, `88:17`): Sığır ve küçükbaşlarla birlikte insanların yararlanması için çift yaratılan ve keyfî yasaklara konu edilemeyen deve cinsi (`6:144`) ile gök, dağ ve yer düzlemi yanında devenin çöl ve yük direnci tasarımının incelenmesi (`88:17`)."
+      },
+      {
+        "ayahs": [
+          "105:3"
+        ],
+        "text": "Art Arda Bölükler Hâlinde Gelen Kuş Sürüleri (`105:3`): Sure 105 Fîl kıssasında devasa orduya karşı peş peşe gruplar ve katarlar hâlinde (`طَيْرًا أَبَابِيلَ`) gönderilen kuş sürüleri."
+      }
+    ],
+    "context_default": "Deve cinsi veya ardışık sürü katarı bağlamı"
   }
 }
