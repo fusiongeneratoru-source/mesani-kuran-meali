@@ -49915,5 +49915,71 @@
       }
     ],
     "context_default": "Yüksek çığlık ve sarsıcı ses patlaması bağlamı"
+  },
+  "ب-غ-ت": {
+    "buckwalter": "bgt",
+    "slug": "bgt",
+    "concept_name": "Bağte (Hiç Sezdirmeden, Hazırlıksız Anda Ansızın Gelip Bastırmak)",
+    "keywords": [
+      "ansızın",
+      "birdenbire",
+      "habersizce",
+      "beklenmedik anda",
+      "bağte"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "bagotap",
+        "ayahs": [
+          "6:31",
+          "7:187",
+          "12:107",
+          "21:40",
+          "22:55",
+          "43:66",
+          "47:18"
+        ],
+        "label": "`ٱلسَّاعَة` (veya `21:40`'ta ateş/saat) geliş fiiline (`جَآءَ / أَتَىٰ`) bağlı hâl veya mef'ûl-i mutlak konumunda nekre mansûb isim (`بَغْتَةً` — hiç sezdirmeden ansızın; 7 geçiş)"
+      },
+      {
+        "lemma": "bagotap",
+        "ayahs": [
+          "6:44",
+          "6:47",
+          "7:95",
+          "26:202",
+          "29:53",
+          "39:55"
+        ],
+        "label": "İlahî karşılık ve yakalama fiiline (`أَخَذَ / أَتَىٰ`) bağlı hâl veya mef'ûl-i mutlak konumunda nekre mansûb isim (`بَغْتَةً` — habersiz ve hazırlıksız anda ansızın; 6 geçiş)"
+      }
+    ],
+    "irab_default": "Hâl / mef'ûl-i mutlak mansûb isim (`ب-غ-ت` kökü — ansızın bastırış)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:31",
+          "7:187",
+          "12:107",
+          "21:40",
+          "22:55",
+          "43:66",
+          "47:18"
+        ],
+        "text": "Büyük Saat'in Hiç Sezdirmeden Ansızın Bastırması (`6:31, 7:187, 12:107, 21:40, 22:55, 43:66, 47:18`): Vakti yalnızca Allah katında saklı tutulan ve belirtileri görünmüş olsa da insanları kuşku ve oyalanma içinde şaşkına çevirerek ansızın (`بَغْتَةً`) yakalayan Büyük Saat."
+      },
+      {
+        "ayahs": [
+          "6:44",
+          "6:47",
+          "7:95",
+          "26:202",
+          "29:53",
+          "39:55"
+        ],
+        "text": "Refah, Şımarıklık ve Meydan Okuma Anında Ansızın Gelen Karşılık (`6:44, 6:47, 7:95, 26:202, 29:53, 39:55`): Kendilerine açılan imkânlarla şımaran veya azabı aceleyle isteyen toplulukları hiç farkına varmadan (`وَهُمْ لَا يَشْعُرُونَ`) ansızın yakalayan ilahî karşılık (`بَغْتَةً`)."
+      }
+    ],
+    "context_default": "Hiç sezdirmeden ansızın gelip bastırma bağlamı"
   }
 }
