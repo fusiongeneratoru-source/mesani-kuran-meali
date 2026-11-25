@@ -50183,5 +50183,100 @@
       }
     ],
     "context_default": "Kalınlık, yoğunluk ve bükülmez sertlik bağlamı"
+  },
+  "غ-ل-م": {
+    "buckwalter": "glm",
+    "slug": "glm",
+    "concept_name": "Gulâm ve Gılmân (Körpe Erkek Çocuk ve Taze Hizmet/Gençlik Çağındaki Delikanlı)",
+    "keywords": [
+      "erkek çocuk",
+      "oğlan",
+      "delikanlı",
+      "genç",
+      "hizmetkâr gençler"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "gula`m",
+        "ayahs": [
+          "3:40",
+          "19:8",
+          "19:20"
+        ],
+        "label": "`يَكُونُ` nakıs fiilinin muahhar merfû ismi (`أَنَّىٰ يَكُونُ لِى غُلَٰمٌ` — benim nasıl bir erkek çocuğum olabilir?; 3 geçiş)"
+      },
+      {
+        "lemma": "gula`m",
+        "ayahs": [
+          "15:53",
+          "19:7",
+          "37:101",
+          "51:28"
+        ],
+        "label": "`بَشَّرَ` fiiline `بِـ` harf-i cerriyle bağlanan mecrûr tekil isim (`بِغُلَٰمٍ عَلِيمٍ / حَلِيمٍ / ٱسْمُهُۥ يَحْيَىٰ` — müjdelenen erkek çocuk; 4 geçiş)"
+      },
+      {
+        "lemma": "gula`m",
+        "ayahs": [
+          "12:19",
+          "18:80"
+        ],
+        "label": "İsim cümlesinde merfû haber (`12:19`: `هَٰذَا غُلَٰمٌ`) veya `أَمَّا` sonrası merfû mübtedâ (`18:80`: `وَأَمَّا ٱلْغُلَٰمُ`; 2 geçiş)"
+      },
+      {
+        "lemma": "gula`m",
+        "ayahs": [
+          "18:74",
+          "19:19"
+        ],
+        "label": "Fiilin nekre mansûb mef'ûl-i bihi (`18:74`: `لَقِيَا غُلَٰمًا`; `19:19`: `لِأَهَبَ لَكِ غُلَٰمًا زَكِيًّا`; 2 geçiş)"
+      },
+      {
+        "lemma": "gula`m",
+        "ayahs": [
+          "18:82"
+        ],
+        "label": "`لِـ` harf-i cerriyle `ي` üzerinden mecrûr tesniye isim (`لِغُلَٰمَيْنِ يَتِيمَيْنِ` — iki yetim erkek çocuk için; 1 geçiş: 18:82)"
+      },
+      {
+        "lemma": "gula`m",
+        "ayahs": [
+          "52:24"
+        ],
+        "label": "`وَيَطُوفُ` fiilinin merfû kırık çoğul fâili (`غِلْمَانٌ لَّهُمْ` — kendilerine özgü hizmet delikanlıları; 1 geçiş: 52:24)"
+      }
+    ],
+    "irab_default": "Tekil, tesniye veya kırık çoğul isim (`غ-ل-م` kökü — erkek çocuk / delikanlı)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:40",
+          "15:53",
+          "19:7",
+          "19:8",
+          "19:19",
+          "19:20",
+          "37:101",
+          "51:28"
+        ],
+        "text": "Seçkin Erkek Evlat Müjdesi (`3:40, 15:53, 19:7-8, 19:19-20, 37:101, 51:28`): İbrâhîm'e bilgili (`عَلِيم`) ve ağırbaşlı (`حَلِيم`), Zekeriyyâ'ya Yahyâ adlı, Meryem'e tertemiz (`زَكِيّ`) bir erkek evladın (`غُلَٰم`) olağan sebepler ötesinde müjdelenip bağışlanması."
+      },
+      {
+        "ayahs": [
+          "12:19",
+          "18:74",
+          "18:80",
+          "18:82"
+        ],
+        "text": "Kıssalardaki Somut Gençler ve Yetimler (`12:19, 18:74, 18:80, 18:82`): Kuyudan çıkarılan genç Yûsuf (`12:19`), Mûsâ ile bilge kulun karşılaştığı genç (`18:74, 18:80`) ve şehirde altındaki hazinesi korunan iki yetim erkek çocuk (`18:82`)."
+      },
+      {
+        "ayahs": [
+          "52:24"
+        ],
+        "text": "Ödül Bahçelerindeki Hizmet Delikanlıları (`52:24`): Sâlih topluluğun çevresinde saklı inciler gibi tertemiz dolaşan hizmet delikanlıları (`غِلْمَانٌ لَّهُمْ`)."
+      }
+    ],
+    "context_default": "Erkek çocuk ve delikanlı bağlamı"
   }
 }
