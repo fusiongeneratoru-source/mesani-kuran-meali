@@ -51373,5 +51373,52 @@
       }
     ],
     "context_default": "Çirkin fiil veya tutarsızlığa karşı şiddetli nefret bağlamı"
+  },
+  "ط-ف-أ": {
+    "buckwalter": "TfA",
+    "slug": "tfa",
+    "concept_name": "İtfâ (Ateşin Alevini ve Parlayan Aydınlığı Bütünüyle Söndürmek)",
+    "keywords": [
+      "sondurmek",
+      "itfa",
+      "ates",
+      "isik",
+      "nur",
+      "savas"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aTofa>a",
+        "ayahs": [
+          "5:64"
+        ],
+        "label": "Form IV 3. tekil eril mâzî fiil + dişil zamir (`أَطْفَأَهَا ٱللَّهُ` — `كُلَّمَا أَوْقَدُوا۟` şartının cevabı; 1 geçiş: 5:64)"
+      },
+      {
+        "lemma": ">aTofa>a",
+        "ayahs": [
+          "9:32",
+          "61:8"
+        ],
+        "label": "Form IV 3. çoğul eril mansûb muzâri fiil (`أَن يُطْفِـُٔوا۟` `9:32`, `لِيُطْفِـُٔوا۟` `61:8` — nûn düşmesiyle mansûb; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Ateşi veya ışığı bütünüyle söndürmeyi bildiren Form IV fiil (`ط-ف-أ` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:64"
+        ],
+        "text": "Savaş Ateşinin Allah Tarafından Söndürülmesi (`5:64`): Yeryüzünde bozgunculuk için ne zaman savaş ateşi tutuşturulsa (`أَوْقَدُوا۟ نَارًا`) Allah'ın onu bütünüyle söndürmesi (`أَطْفَأَهَا`)."
+      },
+      {
+        "ayahs": [
+          "9:32",
+          "61:8"
+        ],
+        "text": "Ağızlarla İlahî Aydınlığı Söndürme Çabasının Boşa Çıkması (`9:32`, `61:8`): Hakikati örtenlerin ağızlarıyla üfleyerek Allah'ın ışığını söndürme arzusuna (`يُرِيدُونَ ... يُطْفِـُٔوا۟`) karşılık Allah'ın ışığını eksiksiz tamamlaması."
+      }
+    ],
+    "context_default": "Ateş veya ışığı söndürme bağlamı"
   }
 }

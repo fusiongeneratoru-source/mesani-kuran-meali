@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 711,
+    "total_locked": 712,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -5134,7 +5134,8 @@
         "ج-ح-م [وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ] (Kor Hâlinde Yanan Derin Ateş Ocağı ↔ Alevlerinin Şiddetle Körüklenip Harlandırılması [ٱلْجَحِيمُ & سُعِّرَتْ]: 81:12)",
         "ج-ن-ن [فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ] (Serin ve Gölgeli Ödül Bahçesi ↔ Harlanıp Yükselen Alevli Ateş [ٱلْجَنَّةِ & ٱلسَّعِيرِ]: 42:7)",
         "ع-ق-ل [وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ] (Dinlemek ve Aklını İşletmek ↔ Akıl İşletmemenin Sonucu Olarak Harlı Ateş Halkına Düşmek [نَعْقِلُ & ٱلسَّعِيرِ]: 67:10)",
-        "ض-ل-ل [إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَٰلٍ وَسُعُرٍ] (Doğru Yoldan Sapma ↔ Tutuşmuş Çılgınlık ve Alevli Yıkım [ضَلَٰلٍ & سُعُرٍ]: 54:24, 54:47)"
+        "ض-ل-ل [إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَٰلٍ وَسُعُرٍ] (Doğru Yoldan Sapma ↔ Tutuşmuş Çılgınlık ve Alevli Yıkım [ضَلَٰلٍ & سُعُرٍ]: 54:24, 54:47)",
+        "ط-ف-أ (T-F-A (TfA) — Çift Yönlü Mesânî Karşılığı: ateşi körükleyip harlamak `سَعَّرَ` ↔ alevini dindirip korunu söndürmek `أَطْفَأَ`)"
       ]
     },
     "ل-ب-س": {
@@ -8310,7 +8311,8 @@
         "ن-ق-ص",
         "ح-ص-ر",
         "ب-ت-ر",
-        "ب-د-أ"
+        "ب-د-أ",
+        "ط-ف-أ (T-F-A (TfA) — Çift Yönlü Mesânî Karşılığı: `9:32` [أَن يُتِمَّ نُورَهُۥ] ve `61:8` [مُتِمُّ نُورِهِۦ] aynı ayet karşıtlığı — ışığı üfleyip söndürmeye çalışmak `يُطْفِـُٔوا۟` ↔ o ışığı eksiksiz tamamlayıp yaymak `يُتِمَّ / مُتِمُّ`)"
       ]
     },
     "ن-خ-ل": {
@@ -9173,6 +9175,17 @@
         "ر-ض-و (R-D-W — Çift Yönlü Mesânî Karşılığı: çirkin fiile karşı kabaran ağır hoşnutsuzluk ve nefret `مَقْت` ↔ kalbin gönül ferahlığıyla razı olup hoşnut olması `رِضْوَٰن`)",
         "و-د-د (W-D-D — Çift Yönlü Mesânî Karşılığı: yüz kızartıcı eylem nedeniyle kişiyi şiddetle itip tiksinmek `مَقْت` ↔ içten bir yakınlık ve sevgiyle bağlanmak `وُدّ / مَوَدَّة`)",
         "ر-ح-م (R-H-M — Çift Yönlü Mesânî Karşılığı: `40:10` ve `35:39` bağlamında inatçı reddedişin büyüttüğü ilahî tiksinti `مَقْتُ ٱللَّهِ` ↔ kuşatıcı şefkat ve merhamet `رَحْمَة`)"
+      ]
+    },
+    "ط-ف-أ": {
+      "latin": "T-F-A (TfA)",
+      "core": "Korpusta `3` geçişte (`3` ayet) yalnızca Form IV (`أَطْفَأَ`) fiiliyle geçen `ط-ف-أ` kökü, **'alevi ve ışığı bütünüyle söndürmek'** çekirdeğini taşır. `5:64`'te ilahî müdahale bozguncuların tutuşturduğu savaş ateşini gerçekten söndürürken (`أَطْفَأَهَا ٱللَّهُ`), `9:32` ve `61:8`'de ağızlarıyla üfleyerek ilahî aydınlığı söndürmek isteyenlerin çabası (`يُطْفِـُٔوا۟`) yalnız bir istek (`يُرِيدُونَ`) olarak kalır ve ilahî tamamlama (`يُتِمَّ / مُتِمُّ`) karşısında boşa çıkar.",
+      "physical": "Yanan bir ateşin alevinin tamamen gitmesi, korunun soğuyup sönmesi veya parlayan bir ışığın üfleme/bastırma yoluyla bütünüyle söndürülmesi (`ذَهَبَ لَهَبُهَا وَبَرَدَ جَمْرُهَا`). İbn Fâris'in hemzeli kök için 'ateşin sönmesi ve benim onu söndürmem (`طفئت النار تطفأ، وأنا أطفأتها`)' kaydı ile Lisânü'l-Arab'ın 'alevinin sönüp korunun soğuması; savaş ateşini söndürmek (`أطفأ الحرب`)' tanımı `ط-ف-أ` kökünün tam sönme mekaniğini ortaya koyar. Kur'an bu kökü yalnızca Form IV (`أَطْفَأَ`) kalıbında ve iki çarpıcı zıt sahnede kullanır: Allah'ın tutuşturulan savaş ateşlerini söndürmesi (`5:64`) ve hakikati örtenlerin ağızlarıyla üfleyerek Allah'ın aydınlığını söndürmeye kalkışıp başarısız olması (`9:32`, `61:8`).",
+      "opposites": [
+        "و-ق-د (W-Q-D — Çift Yönlü Mesânî Karşılığı: `5:64` aynı ayetteki doğrudan çift — savaş için ateş tutuşturup alevlendirmek `أَوْقَدُوا۟ نَارًا` ↔ o ateşi bütünüyle söndürmek `أَطْفَأَهَا ٱللَّهُ`)",
+        "ن-و-ر (N-W-R — Çift Yönlü Mesânî Karşılığı: `9:32` ve `61:8` bağlamında Allah'ın parlayan aydınlığı `نُورَ ٱللَّهِ` ↔ ağızlarıyla üfleyip onu söndürmeye kalkışmak `يُطْفِـُٔوا۟`)",
+        "ت-م-م (T-M-M — Çift Yönlü Mesânî Karşılığı: `9:32` [أَن يُتِمَّ نُورَهُۥ] ve `61:8` [مُتِمُّ نُورِهِۦ] aynı ayet karşıtlığı — ışığı üfleyip söndürmeye çalışmak `يُطْفِـُٔوا۟` ↔ o ışığı eksiksiz tamamlayıp yaymak `يُتِمَّ / مُتِمُّ`)",
+        "س-ع-ر (S-A-R — Çift Yönlü Mesânî Karşılığı: ateşi körükleyip harlamak `سَعَّرَ` ↔ alevini dindirip korunu söndürmek `أَطْفَأَ`)"
       ]
     }
   }
