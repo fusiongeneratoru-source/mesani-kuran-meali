@@ -50278,5 +50278,100 @@
       }
     ],
     "context_default": "Erkek çocuk ve delikanlı bağlamı"
+  },
+  "ر-أ-ف": {
+    "buckwalter": "rAf",
+    "slug": "rAf",
+    "concept_name": "Re'fe ve Raûf (Acıyı ve Zararı Savan En İnce Yumuşaklık ve Esirgeyici Şefkat)",
+    "keywords": [
+      "şefkat",
+      "şefkatli",
+      "ince merhamet",
+      "esirgeyici",
+      "acıma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ra'uwf",
+        "ayahs": [
+          "2:143",
+          "16:7",
+          "16:47",
+          "22:65",
+          "57:9"
+        ],
+        "label": "`إِنَّ` haberinde tekit lâmı (`لَـ`) ile gelen merfû `فَعُول` mübalağa ismi (`لَرَءُوفٌ رَّحِيمٌ` — elbette son derece şefkatli ve esirgeyici; 5 geçiş)"
+      },
+      {
+        "lemma": "ra'uwf",
+        "ayahs": [
+          "2:207",
+          "3:30"
+        ],
+        "label": "`وٱللَّهُ` mübtedâsının haberi olarak `بِٱلْعِبَادِ` önünde iklâbla merfû mübalağa ismi (`رَءُوفٌۢ بِٱلْعِبَادِ` — kullarına pek şefkatlidir; 2 geçiş: 2:207, 3:30)"
+      },
+      {
+        "lemma": "ra'uwf",
+        "ayahs": [
+          "9:117",
+          "24:20",
+          "59:10"
+        ],
+        "label": "`إِنَّ / أَنَّ` haberinde yalın merfû mübalağa ismi (`رَءُوفٌ رَّحِيمٌ` — pek şefkatli ve esirgeyici; 3 geçiş: 9:117, 24:20, 59:10)"
+      },
+      {
+        "lemma": "ra'uwf",
+        "ayahs": [
+          "9:128"
+        ],
+        "label": "Elçiyi niteleyen merfû sıfat (`بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ` — inananlara pek şefkatli ve merhametli; 1 geçiş: 9:128)"
+      },
+      {
+        "lemma": "ra>ofap",
+        "ayahs": [
+          "24:2"
+        ],
+        "label": "`وَلَا تَأْخُذْكُم` nehyinin merfû fâili (`رَأْفَةٌ` — yersiz duygusal acıma sizi tutmasın; 1 geçiş: 24:2)"
+      },
+      {
+        "lemma": "ra>ofap",
+        "ayahs": [
+          "57:27"
+        ],
+        "label": "`وَجَعَلْنَا` fiilinin mansûb mef'ûl-i bihi (`رَأْفَةً وَرَحْمَةً` — ince şefkat ve merhamet; 1 geçiş: 57:27)"
+      }
+    ],
+    "irab_default": "İnce şefkat ve esirgeme bildiren isim/sıfat (`ر-أ-ف` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:143",
+          "2:207",
+          "3:30",
+          "9:117",
+          "16:7",
+          "16:47",
+          "22:65",
+          "24:20",
+          "57:9",
+          "59:10"
+        ],
+        "text": "Allah'ın Zararı Savan ve Yükü Hafifleten İnce Şefkati (`2:143, 2:207, 3:30, 9:117, 16:7, 16:47, 22:65, 24:20, 57:9, 59:10`): Emeği boşa çıkarmayan, kullarını uyaran, ulaşım yükünü hafifleten, göğü düşmekten tutan ve karanlıklardan aydınlığa çıkaran ilahî `رَءُوف` inceliği."
+      },
+      {
+        "ayahs": [
+          "9:128",
+          "57:27"
+        ],
+        "text": "Elçide ve İnanan Kalplerde Yerleşen İnce Şefkat (`9:128`, `57:27`): Topluluğunun sıkıntıya düşmesi kendisine ağır gelen elçinin `رَءُوفٌ رَّحِيمٌ` vasfı (`9:128`) ve Îsâ'ya uyanların kalplerine konan `رَأْفَةً وَرَحْمَةً` inceliği (`57:27`)."
+      },
+      {
+        "ayahs": [
+          "24:2"
+        ],
+        "text": "Hukuk Düzeninde Ölçüsüz Acımanın Sınırlandırılması (`24:2`): Allah'ın adalet ve karşılık düzeninde suça uygulanacak yaptırımı gevşetecek dürtüsel acımanın (`رَأْفَة`) insanı etkisine almaması uyarısı."
+      }
+    ],
+    "context_default": "Zararı savan ince şefkat bağlamı"
   }
 }

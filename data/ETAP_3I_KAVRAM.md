@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 45 / 50 Kök (Toplam Mühürlü: 695 Kök | Güncel Kapsam: %94,11)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 46 / 50 Kök (Toplam Mühürlü: 696 Kök | Güncel Kapsam: %94,14)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -52,7 +52,7 @@
 | 43 | Yüksek Frekanslı Çekirdek | 497 | `ف-و-ه` | `F-W-H` | **13** | 13 | 3:118 | Fûh ve Efvâh (Somut Ağız Açıklığı ve Kalpten Kopuk Salt Ağız Ucu Sözü) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 498 | `غ-ل-ظ` | `G-L-Z` | **13** | 13 | 3:159 | Galîz, Gılze ve İstiğlâz (Kalınlaşmak, Yoğunlaşmak ve Bükülmez Katılık) | ✅ **MÜHÜRLÜ** |
 | 45 | Yüksek Frekanslı Çekirdek | 494 | `غ-ل-م` | `G-L-M` | **13** | 13 | 3:40 | Gulâm ve Gılmân (Körpe Erkek Çocuk ve Taze Hizmet/Gençlik Çağındaki Delikanlı) | ✅ **MÜHÜRLÜ** |
-| 46 | Yüksek Frekanslı Çekirdek | 487 | `ر-أ-ف` | `R-E-F` | **13** | 13 | 2:143 | Re'fe ve Raûf (13 geçiş / 13 ayet: 2:143, 2:207, 3:30, 9:117, 9:128 zararı önleyen ince şefkat ve üstün koruma hassasiyeti) | ⏳ *Bekliyor* |
+| 46 | Yüksek Frekanslı Çekirdek | 487 | `ر-أ-ف` | `R-E-F` | **13** | 13 | 2:143 | Re'fe ve Raûf (Acıyı ve Zararı Savan En İnce Yumuşaklık ve Esirgeyici Şefkat) | ✅ **MÜHÜRLÜ** |
 | 47 | Yüksek Frekanslı Çekirdek | 490 | `خ-ل-ل` | `H-L-L` | **13** | 13 | 2:254 | Hilâl, Halîl ve Hulle (13 geçiş / 13 ayet: 2:254, 4:125, 9:47, 14:31, 17:5 aralık/boşluktan sızmak ve kalp boşluğunu dolduran dostluk) | ⏳ *Bekliyor* |
 | 48 | Yüksek Frekanslı Çekirdek | 504 | `خ-ز-ن` | `H-Z-N` | **13** | 13 | 6:50 | Hazine, Hâzin ve Hazene (13 geçiş / 13 ayet: 6:50, 11:31, 12:55, 15:21, 15:22 koruyup biriktirmek ve kaynak ambarları/görevlileri) | ⏳ *Bekliyor* |
 | 49 | Yüksek Frekanslı Çekirdek | 501 | `ح-ل-ف` | `H-L-F` | **13** | 12 | 4:62 | Half ve Hallâf (13 geçiş / 12 ayet: 4:62, 5:89, 9:42, 9:56, 9:62 kesin yemin sözü vermek ve sık yemin etmek) | ⏳ *Bekliyor* |
