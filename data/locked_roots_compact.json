@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 705,
+    "total_locked": 706,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2608,7 +2608,8 @@
         "س-و-ق (س-و-ق ↔ س-ك-ن Mesânî simetrisi)",
         "ح-م-ر (H-M-R (Hmr) — Çift Yönlü Mesânî Karşılığı: 74:50)",
         "ع-ص-ف (A-S-F (ESf) — Çift Yönlü Mesânî Karşılığı: 10:22, 14:18, 21:81, 77:2)",
-        "ص-ي-ح (S-Y-H (SyH) — Çift Yönlü Mesânî Karşılığı: `36:29`, `54:31`, `63:4` vs `6:13`, `10:67` — sükûnet, dinginlik ve hareketsiz huzur `سَكَن` ↔ ortamı altüst eden ani sarsıcı gürleme ve çığlık `صَيْحَة`)"
+        "ص-ي-ح (S-Y-H (SyH) — Çift Yönlü Mesânî Karşılığı: `36:29`, `54:31`, `63:4` vs `6:13`, `10:67` — sükûnet, dinginlik ve hareketsiz huzur `سَكَن` ↔ ortamı altüst eden ani sarsıcı gürleme ve çığlık `صَيْحَة`)",
+        "س-ي-ح (S-Y-H (syH) — Çift Yönlü Mesânî Karşılığı: yüzeyde sürekli akış ve hareket hâlinde olmak `سَيْح` ↔ hareketsiz durgunlaşmak ve tek mekânda yerleşip kalmak `سَكَنَ`)"
       ]
     },
     "ظ-ن-ن": {
@@ -3809,7 +3810,8 @@
         "م-ش-ي (م-ش-ي ↔ ق-ع-د Mesânî simetrisi — zemin üzerinde adım atıp ilerlemek vs oturup hareketsiz kalmak)",
         "ن-ف-ر (ن-ف-ر ↔ ق-ع-د Mesânî simetrisi)",
         "س-و-ق (س-و-ق ↔ ق-ع-د Mesânî simetrisi)",
-        "س-ف-ر (S-F-R (sfr) — Çift Yönlü Mesânî Karşılığı: 9:42, 18:62, 34:19)"
+        "س-ف-ر (S-F-R (sfr) — Çift Yönlü Mesânî Karşılığı: 9:42, 18:62, 34:19)",
+        "س-ي-ح (S-Y-H (syH) — Çift Yönlü Mesânî Karşılığı: yeryüzünde akarsu gibi serbestçe hareket edip hakikat seyri yürütmek `سَاحَ / سَائِحُونَ` ↔ yerinden kıpırdamadan oturduğu yerde çakılıp kalmak `قَعَدَ`)"
       ]
     },
     "ب-ط-ل": {
@@ -7619,7 +7621,8 @@
         "ش-ر-ح",
         "س-ب-ل",
         "ت-م-م",
-        "س-و-م (S-W-M (swm) — Çift Yönlü Mesânî Karşılığı: 2:273, 16:10 [أُحْصِرُوا۟ ... بِسِيمَٰهُمْ / فِيهِ تُسِيمُونَ — dar alana hapsedip kısıtlamak ↔ açık meraya salıvermek])"
+        "س-و-م (S-W-M (swm) — Çift Yönlü Mesânî Karşılığı: 2:273, 16:10 [أُحْصِرُوا۟ ... بِسِيمَٰهُمْ / فِيهِ تُسِيمُونَ — dar alana hapsedip kısıtlamak ↔ açık meraya salıvermek])",
+        "س-ي-ح (S-Y-H (syH) — Çift Yönlü Mesânî Karşılığı: `9:2` ile `9:5` [وَٱحْصُرُوهُمْ] arasındaki bağlamsal karşıtlık — dört ay açık alanda serbest dolaşım `فَسِيحُوا۟` ↔ süre dolduğunda hareket alanını kuşatıp daraltmak `حَصَرَ`)"
       ]
     },
     "ش-ح-ح": {
@@ -9090,6 +9093,17 @@
         "ف-ر-ض (F-R-D — Çift Yönlü Mesânî Karşılığı: `2:68` [لَّا فَارِضٌ وَلَا بِكْرٌ] — henüz yavrulamamış en taze genç sığır `بِكْرٌ` ↔ yaşlılık sınırını aşmış kart sığır `فَارِضٌ`)",
         "ث-ي-ب (Th-Y-B — Çift Yönlü Mesânî Karşılığı: `66:5` [ثَيِّبَٰتٍ وَأَبْكَارًا] — daha önce hiç evlenmemiş ilk tazelikteki eşler `أَبْكَارًا` ↔ daha önce evlilik deneyimi geçirmiş dul/tecrübeli kadınlar `ثَيِّبَٰتٍ`)",
         "م-س-و (M-S-W — Çift Yönlü Mesânî Karşılığı: günün taze açılış vakti `بُكْرَة` ↔ günün kapanan akşam vakti `مَسَاء`)"
+      ]
+    },
+    "س-ي-ح": {
+      "latin": "S-Y-H (syH)",
+      "core": "Korpusta `3` geçişte (`3` ayet) `3` korpus lemmasında (`سِيحُوا۟`, `ٱلسَّٰٓئِحُونَ`, `سَٰٓئِحَٰتٍ`) yer alan `س-ي-ح` kökü, **'yeryüzü üzerinde akan berrak su gibi engelsiz, serbest ve yüklerinden sıyrılmış sürekli akış/dolaşım'** çekirdeğine dayanır. `9:2`'de dört aylık barış süresinde serbest hareketi, `9:112` ve `66:5`'te ise durgunluktan ve bedensel düşkünlüklerden sıyrılarak sürekli hakikat yolculuğu ve öz-denetim (`صوم`) bilincinde yürüyenleri niteler.",
+      "physical": "Suyun yeryüzünün açık yüzeyi üzerinde engelsiz, kesintisiz ve geniş bir alanda yayılıp akması (`ٱلْمَآءُ ٱلظَّاهِرُ ٱلْجَارِى عَلَىٰ وَجْهِ ٱلْأَرْضِ`) ve bu akış gibi yeryüzünde ağırlıklardan sıyrılarak serbestçe yol almak. İbn Fâris'in 'akan su (`السيح: الماء الجاري`) ve yeryüzünde yol almak (`ساح في الأرض`)' aslına, Lisânü'l-Arab'ın 'açık yüzeyde akan su ve azıksız yola çıkan gezgin gibi bedensel düşkünlüklerden arınan öz-disiplin (`صوم`)' açıklamasına ve Râgıb'ın 'açık meydanda sürekli akan su; yeryüzünde akletmek ve ibretle gözlemlemek için gezenler (`22:46`)' değerlendirmesine dayanan `س-ي-ح`, Kur'an'da `9:2`'de dört aylık güvenlik süresi içinde yeryüzünde serbestçe dolaşmayı, `9:112` ve `66:5`'te ise dünya ağırlıklarından ve taşkın arzularından arınarak sürekli bilinçli bir seyir ve öz-denetim (`صوم` / yeryüzünde hakikat yolculuğu) içinde olanları anlatır.",
+      "opposites": [
+        "ق-ع-د (K-A-D — Çift Yönlü Mesânî Karşılığı: yeryüzünde akarsu gibi serbestçe hareket edip hakikat seyri yürütmek `سَاحَ / سَائِحُونَ` ↔ yerinden kıpırdamadan oturduğu yerde çakılıp kalmak `قَعَدَ`)",
+        "ح-ب-س (H-B-S — Çift Yönlü Mesânî Karşılığı: `9:2` bağlamında dört ay boyunca hiçbir engel olmadan açık alanda dolaşmak `فَسِيحُوا۟` ↔ kapalı alanda alıkoyup hareketi engellemek `حَبَسَ`)",
+        "ح-ص-ر (H-S-R — Çift Yönlü Mesânî Karşılığı: `9:2` ile `9:5` [وَٱحْصُرُوهُمْ] arasındaki bağlamsal karşıtlık — dört ay açık alanda serbest dolaşım `فَسِيحُوا۟` ↔ süre dolduğunda hareket alanını kuşatıp daraltmak `حَصَرَ`)",
+        "س-ك-ن (S-K-N — Çift Yönlü Mesânî Karşılığı: yüzeyde sürekli akış ve hareket hâlinde olmak `سَيْح` ↔ hareketsiz durgunlaşmak ve tek mekânda yerleşip kalmak `سَكَنَ`)"
       ]
     }
   }

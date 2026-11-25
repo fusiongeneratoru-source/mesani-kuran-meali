@@ -51024,5 +51024,58 @@
       }
     ],
     "context_default": "İlk başlangıç, erken sabah ve ilk tazelik bağlamı"
+  },
+  "س-ي-ح": {
+    "buckwalter": "syH",
+    "slug": "syh",
+    "concept_name": "Seyh ve Sâihûn (Yeryüzünde Akarsu Gibi Serbestçe Yol Almak ve Yüklerden Arınmış Öz-Disiplin)",
+    "keywords": [
+      "dolaşmak",
+      "seyir",
+      "akmak",
+      "oz-disiplin",
+      "saih",
+      "saihat"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "siyHu",
+        "ayahs": [
+          "9:2"
+        ],
+        "label": "Form I eril çoğul emir fiil (`فَسِيحُوا۟ فِى ٱلْأَرْضِ` — dört ay boyunca yeryüzünde güvenle dolaşın; 1 geçiş: 9:2)"
+      },
+      {
+        "lemma": "s~a`^}iHuwn",
+        "ayahs": [
+          "9:112"
+        ],
+        "label": "Marife merfû eril çoğul ism-i fâil (`ٱلسَّٰٓئِحُونَ` — Berâe sûresindeki erdemler zincirinde; 1 geçiş: 9:112)"
+      },
+      {
+        "lemma": "sa`^}iHa`t",
+        "ayahs": [
+          "66:5"
+        ],
+        "label": "Nekre kesre ile mansûb dişil çoğul sıfat (`سَٰٓئِحَٰتٍ` — `أَزْوَٰجًا` isminin nitelikleri dizisinde; 1 geçiş: 66:5)"
+      }
+    ],
+    "irab_default": "Engelsiz dolaşım ve arınmış seyir/öz-disiplin bildiren fiil/ism-i fâil (`س-ي-ح` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:2"
+        ],
+        "text": "Dört Aylık Güvence ve Serbest Dolaşım (`9:2`): Berâe (9.) sûrenin açılışında antlaşma ilişkisi sona erdirilen topluluklara yeryüzünde dört ay boyunca engelsiz ve güvende dolaşma (`فَسِيحُوا۟`) süresi tanınması."
+      },
+      {
+        "ayahs": [
+          "9:112",
+          "66:5"
+        ],
+        "text": "Erdemler Zincirinde Arınmış Seyir ve Öz-Disiplin (`9:112`, `66:5`): Hem Berâe sûresinde (`ٱلسَّٰٓئِحُونَ`) hem 66. sûrede (`سَٰٓئِحَٰتٍ`) yönelen, kulluk eden ve övenlerle birlikte zikredilerek bencil ağırlıklardan arınmış sürekli hakikat yürüyüşü ve kendini tutma (`صوم`) bilincini vurgulaması."
+      }
+    ],
+    "context_default": "Serbest dolaşım ve arınmış hakikat seyri bağlamı"
   }
 }
