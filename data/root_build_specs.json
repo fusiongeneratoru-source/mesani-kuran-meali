@@ -49521,5 +49521,92 @@
       }
     ],
     "context_default": "Ateşi besleyip harlandırmak üzere toplanan yakacak odun bağlamı"
+  },
+  "ح-ب-ل": {
+    "buckwalter": "Hbl",
+    "slug": "Hbl",
+    "concept_name": "Habl ve Hıbâl (Bağlayıcı İp/Halat, Ana Damar Hattı ve İlahî-Toplumsal Ahit Bağı)",
+    "keywords": [
+      "ip",
+      "halat",
+      "bağ",
+      "damar",
+      "şah damar",
+      "ipler"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Habol",
+        "ayahs": [
+          "3:103"
+        ],
+        "label": "`ٱعْتَصِمُوا۟` fiiline `بِـ` harf-i cerriyle bağlanan, lafz-ı celâle muzâf mecrûr tekil isim (`بِحَبْلِ ٱللَّهِ` — Allah'ın birleştirici ve koruyucu bağı; 1 geçiş: 3:103)"
+      },
+      {
+        "lemma": "Habol",
+        "ayahs": [
+          "3:112"
+        ],
+        "label": "İstisna yapısında `بِـ` harf-i cerriyle ve atıfla mecrûr gelen nekre tekil isimler (`إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ` — ilahî ve toplumsal güvence/ahit bağı; 2 geçiş: 3:112)"
+      },
+      {
+        "lemma": "Habol",
+        "ayahs": [
+          "20:66"
+        ],
+        "label": "Sürpriz bildiren `إِذَا` sonrasında `فِعَال` kalıbında merfû' kırık çoğul mübteda (`حِبَالُهُمْ وَعِصِيُّهُمْ` — onların ipleri ve asaları; 1 geçiş: 20:66)"
+      },
+      {
+        "lemma": "Habol",
+        "ayahs": [
+          "26:44"
+        ],
+        "label": "`فَأَلْقَوْا۟` fiilinin mansûb mef'ûlü olan kırık çoğul isim (`حِبَالَهُمْ` — iplerini attılar; 1 geçiş: 26:44)"
+      },
+      {
+        "lemma": "Habol",
+        "ayahs": [
+          "50:16"
+        ],
+        "label": "`أَقْرَبُ إِلَيْهِ مِنْ` karşılaştırma yapısında `مِنْ` ile mecrûr ve `ٱلْوَرِيدِ` ismine muzâf tekil isim (`مِنْ حَبْلِ ٱلْوَرِيدِ` — boyundaki ana yaşam damarı hattından; 1 geçiş: 50:16)"
+      },
+      {
+        "lemma": "Habol",
+        "ayahs": [
+          "111:5"
+        ],
+        "label": "Sure 111 Mesed kilidi: `فِى جِيدِهَا` mukaddem haberinden sonra gelen nekre merfû' müahhar mübteda (`حَبْلٌ مِّن مَّسَدٍۭ` — bükülmüş hurma lifinden bir ip/halat; 1 geçiş: 111:5)"
+      }
+    ],
+    "irab_default": "Tekil veya çoğul isim (`ح-ب-ل` kökü — bağlayıcı ip/hat)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:103",
+          "3:112"
+        ],
+        "text": "İlahî ve Toplumsal Koruma / Ahit Bağı (`3:103`, `3:112`): Bölünüp parçalanmaya (`وَلَا تَفَرَّقُوا۟`) ve ateş çukuruna sürüklenmeye karşı toplumu bir arada tutan kopmaz ilahî bağ (`بِحَبْلِ ٱللَّهِ`) ile alçalışa karşı insanı koruma altına alan ilahî ve beşerî sözleşme/güvence hattı (`بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ`)."
+      },
+      {
+        "ayahs": [
+          "20:66",
+          "26:44"
+        ],
+        "text": "Göz Boyamasında Yere Atılan Somut İpler (`20:66`, `26:44`): Firavun'un büyücülerinin, asalarıyla birlikte yere atıp izleyene hareket ediyormuş gibi gösterdikleri somut bükülmüş ipler (`حِبَالُهُمْ وَعِصِيُّهُمْ`)."
+      },
+      {
+        "ayahs": [
+          "50:16"
+        ],
+        "text": "Bedendeki Kesintisiz Yaşam Damarı Hattı (`50:16`): İnsanın kendi içinden geçen en gizli düşünceleri dahi bilen Yaratıcının, kişiye boynundaki ana damar hattından (`حَبْلِ ٱلْوَرِيدِ`) daha yakın oluşu."
+      },
+      {
+        "ayahs": [
+          "111:5"
+        ],
+        "text": "Sure 111 Mesed Kilidinde Hurma Lifinden Kaba Halat (`111:5`): Alevli yıkım ateşine durmaksızın yakacak odun taşıyan (`حَمَّالَةَ ٱلْحَطَبِ`) zorba ortağının boynunda bulunan, sıkı bükülmüş hurma lifinden örülü somut ip/halat (`حَبْلٌ مِّن مَّسَدٍۭ`)."
+      }
+    ],
+    "context_default": "Bağlayıcı ip/halat, yaşam damarı hattı veya koruma/ahit bağı bağlamı"
   }
 }

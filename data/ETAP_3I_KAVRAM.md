@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 35 / 50 Kök (Toplam Mühürlü: 685 Kök | Güncel Kapsam: %93,93)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 36 / 50 Kök (Toplam Mühürlü: 686 Kök | Güncel Kapsam: %93,95)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -42,7 +42,7 @@
 | 33 | Sure %100 Kilidi | 620 | `ر-م-ي` | `R-M-Y` | **9** | 7 | 4:112 | Remy (Hedefe Taş/Kıvılcım veya Temelsiz Suçlama Fırlatıp Atmak) | ✅ **MÜHÜRLÜ** |
 | 34 | Sure %100 Kilidi | 894 | `س-ج-ل` | `S-C-L` | **4** | 4 | 11:82 | Siccîl ve Sicill (Damgalı Pişmiş Kil-Taş Kütlesi ve Yazılı Kayıt Tomarı) | ✅ **MÜHÜRLÜ** |
 | 35 | Sure %100 Kilidi | 1238 | `ح-ط-ب` | `H-T-B` | **2** | 2 | 72:15 | Hatab (Ateşi Besleyip Harlandırmak Üzere Kesilip Toplanan Yakacak Odun) | ✅ **MÜHÜRLÜ** |
-| 36 | Sure %100 Kilidi | 672 | `ح-ب-ل` | `H-B-L` | **7** | 6 | 3:103 | Habl ve Hıbâl (Sure 111 Mesed kilidi + 7 geçiş: 3:103, 3:112, 20:66, 26:44, 50:16, 111:5 bağlayıcı ip, ahit bağı ve şah damarı) | ⏳ *Bekliyor* |
+| 36 | Sure %100 Kilidi | 672 | `ح-ب-ل` | `H-B-L` | **7** | 6 | 3:103 | Habl ve Hıbâl (Bağlayıcı İp/Halat, Ana Damar Hattı ve İlahî-Toplumsal Ahit Bağı) | ✅ **MÜHÜRLÜ** |
 | 37 | Sure %100 Kilidi | 1637 | `ج-ي-د` | `C-Y-D` | **1** | 1 | 111:5 | Cîd (Sure 111 Mesed kilidi: 111:5 gerdan ve boyun) | ⏳ *Bekliyor* |
 | 38 | Sure %100 Kilidi | 1050 | `ل-ه-ب` | `L-H-B` | **3** | 3 | 77:31 | Leheb (Sure 111 Mesed kilidi + 3 geçiş: 77:31, 111:1, 111:3 dumansız harlı alev) | ⏳ *Bekliyor* |
 | 39 | Sure %100 Kilidi | 1638 | `م-س-د` | `M-S-D` | **1** | 1 | 111:5 | Mesed (Sure 111 Mesed son kilidi: 111:5 sıkı bükülmüş hurma lifinden halat) | ⏳ *Bekliyor* |
