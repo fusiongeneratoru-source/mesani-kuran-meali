@@ -48776,5 +48776,83 @@
       }
     ],
     "context_default": "Kapı eşiği veya sımsıkı kapatılmış kuşatma bağlamı"
+  },
+  "ح-م-ر": {
+    "buckwalter": "Hmr",
+    "slug": "Hmr",
+    "concept_name": "Hımâr, Hamîr ve Humr (Kızıl Renk ve Yük Taşıyıcı/Yaban Eşeği)",
+    "keywords": [
+      "eşek",
+      "kızıl",
+      "kırmızı",
+      "yük",
+      "yaban"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Humor",
+        "label": "`أَحْمَر`'in kırık çoğulu nekre merfû atıf sıfat-ismi (`جُدَدٌۢ بِيضٌ وَحُمْرٌ` — beyaz ve kızıl renkli dağ damarları; 1 geçiş: 35:27)"
+      },
+      {
+        "lemma": "HimaAr",
+        "features_contains": [
+          "MP",
+          "INDEF"
+        ],
+        "label": "`كَأَنَّ` haberi nekre merfû kırık çoğul (`كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ` — ürküp kaçışan yaban eşekleri gibi; 1 geçiş: 74:50)"
+      },
+      {
+        "lemma": "HimaAr",
+        "features_contains": [
+          "MP",
+          "ACC"
+        ],
+        "label": "Mansûb atıf kırık çoğul isim (`وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ` — binmeniz ve süs için yaratılan eşekler; 1 geçiş: 16:8)"
+      },
+      {
+        "lemma": "HimaAr",
+        "features_contains": [
+          "MP",
+          "GEN"
+        ],
+        "label": "Muzâfun ileyh mecrûr kırık çoğul (`لَصَوْتُ ٱلْحَمِيرِ` — en yadırganan ses olan eşeklerin sesi; 1 geçiş: 31:19)"
+      },
+      {
+        "lemma": "HimaAr",
+        "ayahs": [
+          "2:259"
+        ],
+        "label": "`إِلَىٰ` harf-i cerriyle zamire muzâf tekil mecrûr (`وَٱنظُرْ إِلَىٰ حِمَارِكَ` — ölüp yeniden canlandırılan eşeğine bak; 1 geçiş: 2:259)"
+      },
+      {
+        "lemma": "HimaAr",
+        "label": "`مَثَلِ` muzâfun ileyhi tekil mecrûr (`كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا` — kitap yükü sırtlayan eşek misali; 1 geçiş: 62:5)"
+      }
+    ],
+    "irab_default": "Kızıl renk katmanı veya yük/binek eşeği (`ح-م-ر` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "35:27"
+        ],
+        "text": "Dağlardaki Renk Tayfında Kızıl Tabakalar (`35:27`): Gökten inen suyla yetişen meyvelerin yanında dağlarda beyaz, farklı tonlarda kızıl (`وَحُمْرٌ`) ve simsiyah yolların yaratılış çeşitliliği."
+      },
+      {
+        "ayahs": [
+          "2:259",
+          "16:8"
+        ],
+        "text": "Somut Binek/Yük Eşeği ve Diriliş Gözlemi (`2:259`, `16:8`): Atlar ve katırlarla birlikte binilip yararlanılmak üzere sunulan eşekler (`16:8`) ve yüz yıllık ölüm uykusunun ardından kemikleri göz önünde diriltilen binek eşeği (`2:259`)."
+      },
+      {
+        "ayahs": [
+          "31:19",
+          "62:5",
+          "74:50"
+        ],
+        "text": "Ses Ölçüsü, Bilinçsiz Hamallık ve Panik Kaçışı Kıyasları (`31:19`, `62:5`, `74:50`): Ölçüsüz yüksek sesin çirkinliği (`31:19`), taşıdığı yazılı metni kavrayamayanların yük taşıyıcı eşeğe benzemesi (`62:5`) ve öğütten yüz çevirenlerin aslandan ürkmüş yaban eşekleri gibi kaçışması (`74:50`)."
+      }
+    ],
+    "context_default": "Kızıl renk veya yük/yaban eşeği kıyas bağlamı"
   }
 }
