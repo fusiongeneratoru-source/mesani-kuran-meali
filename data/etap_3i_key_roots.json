@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3I (18-13 Geçiş Çekirdek Zırhı ve +4 Sure %100 Tam Kilidi [Sure 104, 62, 105, 111 -> 29 Sure] — 50 Kök -> 700 Kök)",
   "target_count": 50,
-  "locked_count": 2,
+  "locked_count": 3,
   "total_tokens_in_package": 558,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 93.2,
+  "current_coverage_pct": 93.23,
   "target_coverage_pct": 94.24,
   "etap_3i_roots": [
     {
@@ -54,8 +54,8 @@
       "frequency": 17,
       "unique_ayahs": 16,
       "rationale": "Bev' ve Tebevvü' (17 geçiş / 16 ayet: 2:61, 2:90, 3:112, 3:121, 3:162 bir yere yerleşmek, konaklamak ve dönüp yüklenmek)",
-      "concept_label": "Analiz Bekliyor (baA^'a, baw~a>a, yatabaw~a>u, mubaw~a>)",
-      "is_locked": false,
+      "concept_label": "Bev' ve Tebevvü' (Konuma/Yurda Yerleşmek ve Eylemin Denk Yükünü Üstlenip Dönmek)",
+      "is_locked": true,
       "sample_ayah": "2:61",
       "top_lemmas": [
         "baA^'a",

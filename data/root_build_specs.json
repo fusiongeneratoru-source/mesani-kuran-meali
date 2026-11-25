@@ -46827,5 +46827,70 @@
       }
     ],
     "context_default": "Yerleşik ve yönetimli kent merkezi bağlamı"
+  },
+  "ب-و-أ": {
+    "buckwalter": "bwA",
+    "slug": "bwa",
+    "concept_name": "Bev' ve Tebevvü' (Konuma/Yurda Yerleşmek ve Eylemin Denk Yükünü Üstlenip Dönmek)",
+    "keywords": [
+      "yerleşmek",
+      "yurt",
+      "konum",
+      "yüklenmek",
+      "dönmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "baA^'a",
+        "label": "Bab I fiil (`بَآءَ / بَآءُو / تَبُوٓأَ` + `بِـ` — 6 geçiş: 2:61, 2:90, 3:112, 3:162, 5:29, 8:16) — işlediği eylemin denk yükünü ve gazabı sırtlanıp dönmek"
+      },
+      {
+        "lemma": "baw~a>a",
+        "label": "Bab II fiil (`بَوَّأَ / بَوَّأْنَا / تُبَوِّئُ / لَنُبَوِّئَنَّهُمْ` — 6 geçiş) — düzenli yurt, mevzi veya yüksek mekân tahsis edip yerleştirmek"
+      },
+      {
+        "lemma": "yatabaw~a>u",
+        "label": "Bab V fiil (`تَبَوَّءَا / يَتَبَوَّأُ / نَتَبَوَّأُ / تَبَوَّءُو` — 4 geçiş: 10:87, 12:56, 39:74, 59:9) — yerleşim yerini sahiplenip konaklamak"
+      },
+      {
+        "lemma": "mubaw~a>",
+        "label": "Bab II mekân ismi (`مُبَوَّأَ صِدْقٍ` — 10:93) — doğruluk ve güven yurdu"
+      }
+    ],
+    "irab_default": "Bev' türevi — konak/yurt edinmek veya yapılanın denk karşılığıyla dönmek",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:121",
+          "7:74",
+          "10:87",
+          "10:93",
+          "12:56",
+          "16:41",
+          "22:26",
+          "59:9"
+        ],
+        "text": "Yurt Kurma, Stratejik Mevzi ve Emanet Paylaşımı (`3:121`, `7:74`, `10:87,93`, `12:56`, `16:41`, `22:26`, `59:9`): Yeryüzünde yerleşim ve evlerin konumlandırılması, göç edenlere dünyalık/manevi yurt açılması."
+      },
+      {
+        "ayahs": [
+          "29:58",
+          "39:74"
+        ],
+        "text": "Kalıcı Esenlik Yurduna Yerleşme (`29:58`, `39:74`): Erdemli amellerin karşılığı olarak yüksek köşklere ve istenilen konuma özgürce yerleşmek."
+      },
+      {
+        "ayahs": [
+          "2:61",
+          "2:90",
+          "3:112",
+          "3:162",
+          "5:29",
+          "8:16"
+        ],
+        "text": "Suç ve Nankörlüğün Denk Yüküyle Dönmek (`2:61,90`, `3:112,162`, `5:29`, `8:16`): Savaştan kaçış, cinayet, ayet örtme ve kıskançlık gibi eylemlerin ağır karşılığını bizzat yüklenmek."
+      }
+    ],
+    "context_default": "Yurda yerleşme veya eylem karşılığını yüklenme bağlamı"
   }
 }
