@@ -50873,5 +50873,36 @@
       }
     ],
     "context_default": "Fiziksel cüsse ve dış gövde bağlamı"
+  },
+  "خ-ش-ب": {
+    "buckwalter": "x$b",
+    "slug": "xsb",
+    "concept_name": "Huşub (Kesilmiş, Kaba ve Kalın Kereste Kütükleri)",
+    "keywords": [
+      "kereste",
+      "kütük",
+      "odun",
+      "husub",
+      "cansız gövde"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xu$ub",
+        "ayahs": [
+          "63:4"
+        ],
+        "label": "`كَأَنَّ` benzetme edatının merfû kırık çoğul haberi (`خُشُبٌ مُّسَنَّدَةٌ` — duvara yaslandırılmış kereste kütükleri; 1 geçiş: 63:4)"
+      }
+    ],
+    "irab_default": "Kesilmiş kalın kereste/odun bildiren çoğul isim (`خ-ش-ب` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "63:4"
+        ],
+        "text": "Gösterişli Dış Gövde ve Yaslı Kereste Tasviri (`63:4`): 63. sûrede ikiyüzlülerin göz alıcı dış gövdelerine ve akıcı sözlerine karşın içsel bilinçten yoksun, duvara dayandırılmış kalın kütüklere (`خُشُبٌ مُّسَنَّدَةٌ`) benzetilmesi."
+      }
+    ],
+    "context_default": "Kesilmiş kereste kütüğü benzetmesi bağlamı"
   }
 }
