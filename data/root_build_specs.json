@@ -49719,5 +49719,106 @@
       }
     ],
     "context_default": "Sımsıkı bükülmüş lif / halat maddesi bağlamı"
+  },
+  "ش-ه-و": {
+    "buckwalter": "$hw",
+    "slug": "shw",
+    "concept_name": "Şehvet ve İştihâ (Canın Şiddetle Çektiği Güçlü İştah, Çekici Arzu ve Tutku)",
+    "keywords": [
+      "arzu",
+      "arzuladıkları",
+      "canlarının çektiği",
+      "tutku",
+      "iştah",
+      "çekici arzular"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$~ahawa`t",
+        "ayahs": [
+          "3:14"
+        ],
+        "label": "`حُبُّ` ismine muzâfun ileyh olan marife cem-i müennes sâlim mecrûr isim (`حُبُّ ٱلشَّهَوَٰتِ` — çekici arzu nesnelerine duyulan sevgi; 1 geçiş: 3:14)"
+      },
+      {
+        "lemma": "$~ahawa`t",
+        "ayahs": [
+          "4:27",
+          "19:59"
+        ],
+        "label": "`يَتَّبِعُونَ` / `ٱتَّبَعُوا۟` fiillerinin kesra ile mansûb mef'ûlü olan marife çoğul isim (`ٱلشَّهَوَٰتِ` — dizginsiz tutkular; 2 geçiş: 4:27, 19:59)"
+      },
+      {
+        "lemma": "$ahowap",
+        "ayahs": [
+          "7:81",
+          "27:55"
+        ],
+        "label": "Sebep bildiren mef'ûlün li-eclih veya hâl konumunda nekre mansûb tekil isim (`شَهْوَةً` — dürtüsel arzu ile; 2 geçiş: 7:81, 27:55)"
+      },
+      {
+        "lemma": "{$otahato",
+        "ayahs": [
+          "21:102"
+        ],
+        "label": "Form VIII mâzi 3. tekil dişil fiil (`ٱشْتَهَتْ أَنفُسُهُمْ` — canlarının arzuladığı şey; 1 geçiş: 21:102)"
+      },
+      {
+        "lemma": "{$otahato",
+        "ayahs": [
+          "41:31",
+          "43:71"
+        ],
+        "label": "Form VIII muzâri 3. tekil dişil fiil (`تَشْتَهِىٓ` / `تَشْتَهِيهِ` — canların çekip arzuladığı; 2 geçiş: 41:31, 43:71)"
+      },
+      {
+        "lemma": "{$otahato",
+        "ayahs": [
+          "16:57",
+          "34:54",
+          "52:22",
+          "56:21",
+          "77:42"
+        ],
+        "label": "Form VIII muzâri 3. çoğul eril fiil (`يَشْتَهُونَ` — canlarının çektiği / arzuladıkları; 5 geçiş: 16:57, 34:54, 52:22, 56:21, 77:42)"
+      }
+    ],
+    "irab_default": "İsim veya Form VIII fiil (`ش-ه-و` kökü — güçlü arzu ve iştah)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:14",
+          "4:27",
+          "19:59"
+        ],
+        "text": "Dünyevî Çekim Nesneleri ve Dizginsiz Tutkuların Peşinden Sürüklenmek (`3:14`, `4:27`, `19:59`): İnsana cazip kılınan aile, mal ve birikim tutkuları (`3:14`) ile bu tutkuları hayatın yönlendiricisi kılıp (`4:27`, `19:59`) ölçüden sapmanın doğurduğu kayıp."
+      },
+      {
+        "ayahs": [
+          "7:81",
+          "27:55"
+        ],
+        "text": "Sınırı Aşan Dürtüsel İtki (`7:81`, `27:55`): Lût kavminin kadınları bırakıp taşkın bir dürtüsel arzuyla (`شَهْوَةً`) erkeklere yönelerek yaratılış dengesini çiğnemesi."
+      },
+      {
+        "ayahs": [
+          "16:57",
+          "34:54"
+        ],
+        "text": "Bencil Tercih ve Engellenmiş Arzu (`16:57`, `34:54`): Ortak koşanların kızları Allah'a yakıştırıp kendi arzuladıkları (`مَا يَشْتَهُونَ`) oğulları kendilerine ayırması (`16:57`) ve hesap anında hakikati örtenlerle şiddetle arzuladıkları kurtuluş arasına kesin engel çekilmesi (`34:54`)."
+      },
+      {
+        "ayahs": [
+          "21:102",
+          "41:31",
+          "43:71",
+          "52:22",
+          "56:21",
+          "77:42"
+        ],
+        "text": "Ödül Yurdunda Canın Arzuladığı Nimetlerin Eksiksiz Karşılanması (`21:102`, `41:31`, `43:71`, `52:22`, `56:21`, `77:42`): Esenlik bahçelerinde gönüllerin çektiği (`مَا تَشْتَهِيهِ ٱلْأَنفُسُ`) meyvelerin, kuş etlerinin ve her türlü temiz rızkın sınırsızca ikram edilmesi."
+      }
+    ],
+    "context_default": "Canın çekmesi, güçlü iştah ve arzu bağlamı"
   }
 }

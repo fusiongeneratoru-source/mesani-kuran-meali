@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 39 / 50 Kök (Toplam Mühürlü: 689 Kök | Güncel Kapsam: %93,96)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 690 Kök | Güncel Kapsam: %93,98)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -46,7 +46,7 @@
 | 37 | Sure %100 Kilidi | 1637 | `ج-ي-د` | `C-Y-D` | **1** | 1 | 111:5 | Cîd (Boynun Ön Yüzü ve Gerdanlık Takılan Gerdan) | ✅ **MÜHÜRLÜ** |
 | 38 | Sure %100 Kilidi | 1050 | `ل-ه-ب` | `L-H-B` | **3** | 3 | 77:31 | Leheb (Parlayarak Yükselen Harlı Alev Dili ve Yalaz) | ✅ **MÜHÜRLÜ** |
 | 39 | Sure %100 Kilidi | 1638 | `م-س-د` | `M-S-D` | **1** | 1 | 111:5 | Mesed (Sımsıkı Bükülmüş Kaba Hurma Lifi ve Örgülü Halat Maddesi) | ✅ **MÜHÜRLÜ** |
-| 40 | Yüksek Frekanslı Çekirdek | 493 | `ش-ه-و` | `S-H-W` | **13** | 13 | 3:14 | Şehvet ve İştihâ' (13 geçiş / 13 ayet: 3:14, 4:27, 7:81, 16:57, 19:59 nefsin şiddetle arzulayıp yöneldiği çekim gücü) | ⏳ *Bekliyor* |
+| 40 | Yüksek Frekanslı Çekirdek | 493 | `ش-ه-و` | `S-H-W` | **13** | 13 | 3:14 | Şehvet ve İştihâ (Canın Şiddetle Çektiği Güçlü İştah, Çekici Arzu ve Tutku) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 508 | `ص-ي-ح` | `S-Y-H` | **13** | 13 | 11:67 | Sayha (13 geçiş / 13 ayet: 11:67, 11:94, 15:73, 15:83, 23:41 çatlatıcı gök gürlemesi ve parçalayan tek sarsıntı sesi) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 503 | `ب-غ-ت` | `B-G-T` | **13** | 13 | 6:31 | Bağte (13 geçiş / 13 ayet: 6:31, 6:44, 6:47, 7:95, 7:187 hiç işaret vermeden ansızın bastırıp yakalamak) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 497 | `ف-و-ه` | `F-W-H` | **13** | 13 | 3:118 | Fû ve Efvâh (13 geçiş / 13 ayet: 3:118, 3:167, 5:41, 9:8, 9:30 söz ve nefes çıkış kapısı olan ağız ve ağızlar) | ⏳ *Bekliyor* |
