@@ -47503,5 +47503,101 @@
       }
     ],
     "context_default": "Hacim ölçüsü ve ticari/erzak hak ölçümünü tam teslim etme bağlamı"
+  },
+  "س-و-م": {
+    "buckwalter": "swm",
+    "slug": "swm",
+    "concept_name": "Sevm, Sîmâ ve Müsevvem (Azap Dayatma, Meraya Salma ve Ayırt Edici Nişan)",
+    "keywords": [
+      "azap",
+      "damga",
+      "alamet",
+      "nişan",
+      "yüzlerinden",
+      "tanı",
+      "otlat"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yasuwmu",
+        "ayahs": [
+          "7:167"
+        ],
+        "label": "Bab I 3. tekil eril muzâri fiil (`مَن يَسُومُهُمْ سُوٓءَ ٱلْعَذَابِ` — kıyamete kadar üzerlerine kötü azabı durmaksızın sürecek kimse; 1 geçiş: 7:167)"
+      },
+      {
+        "lemma": "yasuwmu",
+        "label": "Bab I 3. çoğul eril muzâri fiil (`يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ` — size azabın en kötüsünü peş peşe yükleyip dayatıyorlardı; 3 geçiş: 2:49, 7:141, 14:6)"
+      },
+      {
+        "lemma": "tusiymu",
+        "label": "Bab IV 2. çoğul eril muzâri fiil (`فِيهِ تُسِيمُونَ` — içinde hayvanlarınızı otlamaya salıverirsiniz; 1 geçiş: 16:10)"
+      },
+      {
+        "lemma": "musaw~imiyn",
+        "label": "Bab II etken ortaç (`مُسَوِّمِينَ` — belirgin alâmet ve nişan kuşanmış olarak yardıma katılan güçler; 1 geçiş: 3:125)"
+      },
+      {
+        "lemma": "m~usaw~amap",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "Bab II edilgen ortaç nekre mansûb sıfat (`مُّسَوَّمَةً عِندَ رَبِّكَ` — Rabbinin katında özel nişanla işaretlenmiş taşlar; 2 geçiş: 11:83, 51:34)"
+      },
+      {
+        "lemma": "m~usaw~amap",
+        "label": "Bab II edilgen ortaç marife mecrûr sıfat (`وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ` — seçkin damgalı/nişanlı veya salıverilmiş cins atlar; 1 geçiş: 3:14)"
+      },
+      {
+        "lemma": "siyma`",
+        "ayahs": [
+          "48:29"
+        ],
+        "label": "Merfû mübteda isim (`سِيمَاهُمْ فِى وُجُوهِهِم` — alınlarındaki ayırt edici dış nişanları; 1 geçiş: 48:29)"
+      },
+      {
+        "lemma": "siyma`",
+        "label": "`بِـ` harf-i cerriyle mecrûr isim (`بِسِيمَٰهُمْ / بِسِيمَىٰهُمْ` — tanınmayı sağlayan görünür dış alâmet ve yüz izi; 5 geçiş: 2:273, 7:46, 7:48, 47:30, 55:41)"
+      }
+    ],
+    "irab_default": "Yöneltip dayatma, otlatmaya salma veya ayırt edici nişan (`س-و-م` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:49",
+          "7:141",
+          "7:167",
+          "14:6"
+        ],
+        "text": "Sürekli ve Ezici Azap Dayatma Bağlamı (`2:49`, `7:141`, `7:167`, `14:6`): Firavun düzeninin ve ilahi uyarıya muhatap olanların maruz kaldığı kesintisiz ağır baskı ve yaptırım mekaniği (`يَسُومُ ... سُوٓءَ ٱلْعَذَابِ`)."
+      },
+      {
+        "ayahs": [
+          "16:10"
+        ],
+        "text": "Meraya Salma ve Doğa Çevrimi Bağlamı (`16:10`): Gökten inen suyla yeşeren ağaçlık alanlarda sürülerin serbestçe otlamaya salıverilmesi (`فِيهِ تُسِيمُونَ`)."
+      },
+      {
+        "ayahs": [
+          "2:273",
+          "7:46",
+          "7:48",
+          "47:30",
+          "48:29",
+          "55:41"
+        ],
+        "text": "Görünür Ayırt Edici Nişan (`سِيمَا`) Bağlamı (`2:273`, `7:46`, `7:48`, `47:30`, `48:29`, `55:41`): İffetli yoksulların onuru, A'râf'taki teşhis, ikiyüzlülerin dış belirtisi, eğilip kapanma izi ve suçluların tanınma işareti."
+      },
+      {
+        "ayahs": [
+          "3:14",
+          "3:125",
+          "11:83",
+          "51:34"
+        ],
+        "text": "Damgalı / Nişanlı Seçkinlik ve Yardım Gücü Bağlamı (`3:14`, `3:125`, `11:83`, `51:34`): Özel damgalı cins atlar, belirgin alâmetle donanmış yardım güçleri ve Rabbinin katında nişanlanmış taşlar."
+      }
+    ],
+    "context_default": "Ayırt edici nişan, otlamaya salma veya kesintisiz azap dayatma bağlamı"
   }
 }
