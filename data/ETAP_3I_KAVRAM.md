@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 15 / 50 Kök (Toplam Mühürlü: 665 Kök | Güncel Kapsam: %93,60)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 16 / 50 Kök (Toplam Mühürlü: 666 Kök | Güncel Kapsam: %93,63)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -22,7 +22,7 @@
 | 13 | Yüksek Frekanslı Çekirdek | 475 | `ع-ش-و` | `A-S-W` | **14** | 14 | 3:41 | Aşiyy, İşâ' ve Ya'şu (Akşam Alacası, İlk Gece Karanlığı ve Işıktan Yüz Çevirmek) | ✅ **MÜHÜRLÜ** |
 | 14 | Yüksek Frekanslı Çekirdek | 476 | `ث-و-ي` | `S-W-Y` | **14** | 14 | 3:151 | Mesvâ ve Sâvî (Kalıcı Konak, İkamet Yeri ve Yerleşip Kalmak) | ✅ **MÜHÜRLÜ** |
 | 15 | Yüksek Frekanslı Çekirdek | 478 | `و-ص-ف` | `W-S-F` | **14** | 14 | 6:100 | Vasf ve Yasifûn (Keyfî Nitelik Yakıştırmak ve Asılsız Anlatı Kurmak) | ✅ **MÜHÜRLÜ** |
-| 16 | Yüksek Frekanslı Çekirdek | 482 | `ص-ف-ف` | `S-F-F` | **14** | 12 | 18:48 | Saff, Sâffât ve Masfûfe (14 geçiş / 12 ayet: 18:48, 20:64, 22:36, 24:41, 37:1 düzgün sıra hâlinde dizilmek ve kanat açıp süzülmek) | ⏳ *Bekliyor* |
+| 16 | Yüksek Frekanslı Çekirdek | 482 | `ص-ف-ف` | `S-F-F` | **14** | 12 | 18:48 | Saff, Sâffât ve Masfûfe (Düzgün Hizada Saf Bağlamak, Kanat Açmak ve Sıralamak) | ✅ **MÜHÜRLÜ** |
 | 17 | Yüksek Frekanslı Çekirdek | 477 | `ل-و-م` | `L-W-M` | **14** | 12 | 5:54 | Levm, Melûm ve Mulîm (14 geçiş / 12 ayet: 5:54, 12:32, 14:22, 17:29, 17:39 kınamak, suçlamak ve kınanmayı hak etmek) | ⏳ *Bekliyor* |
 | 18 | Yüksek Frekanslı Çekirdek | 479 | `ز-ر-ع` | `Z-R-A` | **14** | 12 | 6:141 | Zer', Zurrâ' ve Tezraûn (14 geçiş / 12 ayet: 6:141, 12:47, 13:4, 14:37, 16:11 tohum ekip yeşertmek, ekin ve ekin yetiştirenler) | ⏳ *Bekliyor* |
 | 19 | Yüksek Frekanslı Çekirdek | 470 | `ح-ر-ث` | `H-R-S` | **14** | 11 | 2:71 | Hars ve Tahrüsûn (14 geçiş / 11 ayet: 2:71, 2:205, 2:223, 3:14, 3:117 toprağı sürüp ekine hazırlamak ve emeğin ürün verimi) | ⏳ *Bekliyor* |

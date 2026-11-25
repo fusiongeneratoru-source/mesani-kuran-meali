@@ -48056,5 +48056,101 @@
       }
     ],
     "context_default": "Asılsız nitelik yakıştırma ve kurmaca anlatı bağlamı"
+  },
+  "ص-ف-ف": {
+    "buckwalter": "Sff",
+    "slug": "Sff",
+    "concept_name": "Saff, Sâffât ve Masfûfe (Düzgün Hizada Saf Bağlamak, Kanat Açmak ve Sıralamak)",
+    "keywords": [
+      "saf",
+      "sıra",
+      "dizil",
+      "kanat",
+      "sıralan"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "SawaA^f~",
+        "label": "`فَوَاعِل` vezninde gayri munsarıf mansûb hâl (`فَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهَا صَوَآفَّ` — büyük develer hizaya dizili dururken; 1 geçiş: 22:36)"
+      },
+      {
+        "lemma": "S~aA^f~uwn",
+        "label": "Merfû eril çoğul haber (`وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ` — gerçekten saf saf dizilenler elbette biziz; 1 geçiş: 37:165)"
+      },
+      {
+        "lemma": "maSofuwfap",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Nekre merfû edilgen ortaç sıfat (`وَنَمَارِقُ مَصْفُوفَةٌ` — sırayla dizilmiş yastıklar; 1 geçiş: 88:15)"
+      },
+      {
+        "lemma": "maSofuwfap",
+        "label": "Nekre mecrûr edilgen ortaç sıfat (`عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ` — yan yana sıralanmış tahtlar üzerine; 1 geçiş: 52:20)"
+      },
+      {
+        "lemma": "Sa`^f~a`t",
+        "ayahs": [
+          "37:1"
+        ],
+        "label": "Kasem vavıyla mecrûr marife dişil çoğul etken ortaç (`وَٱلصَّٰٓفَّٰتِ صَفًّا` — saf saf dizilenlere ant olsun; 1 geçiş: 37:1)"
+      },
+      {
+        "lemma": "Sa`^f~a`t",
+        "label": "Cemi müennes sâlim kesra ile mansûb hâl (`وَٱلطَّيْرُ صَٰٓفَّٰتٍ / فَوْقَهُمْ صَٰٓفَّٰتٍ` — kanatlarını tek düzlemde yanlara açmış kuşlar; 2 geçiş: 24:41, 67:19)"
+      },
+      {
+        "lemma": "Saf~",
+        "ayahs": [
+          "37:1"
+        ],
+        "label": "Anlamı pekiştiren mansûb mef'ûl-i mutlak (`وَٱلصَّٰٓفَّٰتِ صَفًّا` — eksiksiz bir dizi halinde saf bağlayanlar; 1 geçiş: 37:1)"
+      },
+      {
+        "lemma": "Saf~",
+        "label": "Nekre mansûb hâl (`صَفًّا` / `صَفًّا صَفًّا` — tek hizada veya sıra sıra dizilerek; 6 geçiş: 18:48, 20:64, 61:4, 78:38, 89:22 x2)"
+      }
+    ],
+    "irab_default": "Düzgün hizada saf bağlama, sıralanma veya kanat açma durumu (`ص-ف-ف` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:48",
+          "78:38",
+          "89:22"
+        ],
+        "text": "Büyük Toplanma ve Hesap Gününde Saf Düzeni (`18:48`, `78:38`, `89:22`): İnsanların, görevli elçilerin ve orduların mutlak otorite karşısında sıra sıra hizalanması."
+      },
+      {
+        "ayahs": [
+          "20:64",
+          "61:4"
+        ],
+        "text": "Karşılaşma ve Mücadelede Saf Disiplini (`20:64`, `61:4`): Güç birliği için saf halinde geliş (`20:64`) ve hak yolunda kurşunla kenetlenmiş duvar gibi saf bağlama (`61:4`)."
+      },
+      {
+        "ayahs": [
+          "24:41",
+          "67:19"
+        ],
+        "text": "Kuşların Uçuş Fiziği ve Süzülme Dengesi (`24:41`, `67:19`): Kuşların gökyüzünde kanatlarını düz çizgide açıp (`صَٰٓفَّٰتٍ`) ve toplayarak (`وَيَقْبِضْنَ`) tutulması."
+      },
+      {
+        "ayahs": [
+          "37:1",
+          "37:165"
+        ],
+        "text": "Görevli Saflar ve Yöneliş Düzeni (`37:1`, `37:165`): Saf saf dizilenler üzerine ant ve görev bilinciyle saf tutanların beyanı."
+      },
+      {
+        "ayahs": [
+          "22:36",
+          "52:20",
+          "88:15"
+        ],
+        "text": "Hizalanmış Develer ve Sıralı İkram Döşekleri (`22:36`, `52:20`, `88:15`): Adanmış develerin ayakları üzerinde hizalı duruşu (`22:36`) ile esenlik yurdundaki sıralı taht ve yastıklar (`52:20`, `88:15`)."
+      }
+    ],
+    "context_default": "Düzenli saf oluşturma, sıralanma ve hizalanma bağlamı"
   }
 }
