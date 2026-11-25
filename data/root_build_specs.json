@@ -47599,5 +47599,115 @@
       }
     ],
     "context_default": "Ayırt edici nişan, otlamaya salma veya kesintisiz azap dayatma bağlamı"
+  },
+  "ك-ف-ف": {
+    "buckwalter": "kff",
+    "slug": "kff",
+    "concept_name": "Keff, Keffeyn ve Kâffe (Eli Geri Çekip Durdurma, Avuç İçi ve Bütüncül Halka)",
+    "keywords": [
+      "el çek",
+      "avuç",
+      "tut",
+      "durdur",
+      "hep birlikte",
+      "bütün"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "kaf~a",
+        "ayahs": [
+          "5:110"
+        ],
+        "label": "Bab I idğâmı çözülmüş 1. tekil mâzî fiil (`إِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ` — sessiz zamir ekiyle her iki kök `ف` harfi ayrı yazılır: 'onların ellerini senden geri tuttuğumda'; 1 geçiş: 5:110)"
+      },
+      {
+        "lemma": "kaf~a",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Bab I 2. çoğul eril emir fiili (`كُفُّوٓا۟ أَيْدِيَكُمْ` — ellerinizi çatışmadan geri çekip tutun; 1 geçiş: 4:77)"
+      },
+      {
+        "lemma": "kaf~a",
+        "features_contains": [
+          "SUBJ"
+        ],
+        "label": "Bab I 3. tekil eril mansûb muzâri (`عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ` — umulur ki sert saldırılarını geri durdurur; 1 geçiş: 4:84)"
+      },
+      {
+        "lemma": "kaf~a",
+        "features_contains": [
+          "JUS"
+        ],
+        "label": "Bab I 3. çoğul eril meczûm muzâri (`وَيَكُفُّوٓا۟ أَيْدِيَهُمْ` — ve saldırı ellerini geri çekip tutmazlarsa; 1 geçiş: 4:91)"
+      },
+      {
+        "lemma": "kaf~a",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Bab I 3. çoğul eril merfû muzâri (`لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ` — yüzlerinden ateşi geriye itip savuşturamayacakları zaman; 1 geçiş: 21:39)"
+      },
+      {
+        "lemma": "kaf~a",
+        "label": "Bab I 3. tekil eril mâzî fiil (`فَكَفَّ / وَكَفَّ / كَفَّ أَيْدِىَ` — saldırıya uzanan elleri geri çekip engelledi; 3 geçiş: 5:11, 48:20, 48:24)"
+      },
+      {
+        "lemma": "kaf~ay",
+        "ayahs": [
+          "13:14"
+        ],
+        "label": "Tesniye izâfetle `ن` düşmüş mecrûr isim (`كَبَٰسِطِ كَفَّيْهِ إِلَى ٱلْمَآءِ` — Korpus `0.4`'te `NOM` görünse de sıfat tamlamasında mecrûr muzâfun ileyh: iki avcunu suya uzatan; 1 geçiş: 13:14)"
+      },
+      {
+        "lemma": "kaf~ay",
+        "ayahs": [
+          "18:42"
+        ],
+        "label": "Tesniye izâfetle `ن` düşmüş mansûb mef'ûlün bih (`فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ` — Korpus `0.4`'te `NOM` görünse de irabta mansûb nesne: iki boş avcunu evirip çevirir hale geldi; 1 geçiş: 18:42)"
+      },
+      {
+        "lemma": "kaA^f~ap",
+        "label": "Nekre mansûb hâl ögesi (`كَافَّةً` — hiç kimseyi dışarıda bırakmaksızın tek halka halinde ve hep birlikte; 5 geçiş: 2:208, 9:36 x2, 9:122, 34:28)"
+      }
+    ],
+    "irab_default": "Eli geri çekip durdurma, iki avuç veya topyekûn kapsayıcı halka (`ك-ف-ف` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:77",
+          "4:84",
+          "4:91",
+          "5:11",
+          "5:110",
+          "48:20",
+          "48:24"
+        ],
+        "text": "Saldırı Elini Geri Çekme ve Çatışmayı Durdurma Bağlamı (`4:77`, `4:84`, `4:91`, `5:11`, `5:110`, `48:20`, `48:24`): İnsanların şiddete uzanan ellerinin veya sert baskının geri çekilip durdurulması suretiyle sağlanan koruma ve esenlik dengesi."
+      },
+      {
+        "ayahs": [
+          "21:39"
+        ],
+        "text": "Kuşatan Ateşi Savuşturamama Bağlamı (`21:39`): Önden ve arkadan yaklaşan azap ateşini yüzlerden ve sırtlardan geri itmeye güç yetirememe anı."
+      },
+      {
+        "ayahs": [
+          "13:14",
+          "18:42"
+        ],
+        "text": "İki Çukur Avuç (`كَفَّيْهِ`) İmgesi Bağlamı (`13:14`, `18:42`): Ağza ulaşmayan suya uzatılan iki boş avuç ve yıkılan bağın ardından çaresizlikle evirip çevrilen iki avuç."
+      },
+      {
+        "ayahs": [
+          "2:208",
+          "9:36",
+          "9:122",
+          "34:28"
+        ],
+        "text": "Dağılmayı Önleyen Bütüncül Halka (`كَافَّةً`) Bağlamı (`2:208`, `9:36`, `9:122`, `34:28`): Esenliğe eksiksiz giriş, topluca savunma/mücadele, seferberlikte iş bölümü sınırı (`9:122`) ve tüm insanlığa kapsayıcı elçilik."
+      }
+    ],
+    "context_default": "Engelleme, avuç açma veya bütüncül kapsayıcılık bağlamı"
   }
 }

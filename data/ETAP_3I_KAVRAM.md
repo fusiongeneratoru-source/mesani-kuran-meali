@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 660 Kök | Güncel Kapsam: %93,46)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 11 / 50 Kök (Toplam Mühürlü: 661 Kök | Güncel Kapsam: %93,49)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -17,7 +17,7 @@
 | 8 | Yüksek Frekanslı Çekirdek | 450 | `م-ه-د` | `M-H-D` | **16** | 15 | 2:206 | Mehd, Mihâd ve Temhîd (Beşikten Yayvan Döşeğe Düzleştirip Hazırlanan Zemin) | ✅ **MÜHÜRLÜ** |
 | 9 | Yüksek Frekanslı Çekirdek | 459 | `ك-ي-ل` | `K-Y-L` | **16** | 13 | 6:152 | Keyl, Mikyâl ve İktiyâl (Hacim Ölçüsü ve Hak Ölçüsünü Tam Teslim Etmek) | ✅ **MÜHÜRLÜ** |
 | 10 | Yüksek Frekanslı Çekirdek | 461 | `س-و-م` | `S-W-M` | **15** | 15 | 2:49 | Sevm, Sîmâ ve Müsevvem (Azap Dayatma, Meraya Salma ve Ayırt Edici Nişan) | ✅ **MÜHÜRLÜ** |
-| 11 | Yüksek Frekanslı Çekirdek | 463 | `ك-ف-ف` | `K-F-F` | **15** | 14 | 2:208 | Keff, Keffân ve Kâffe (15 geçiş / 14 ayet: 2:208, 4:77, 4:84, 4:91, 5:11 avuç içi, elini tutup durdurmak ve topyekûn kuşatma) | ⏳ *Bekliyor* |
+| 11 | Yüksek Frekanslı Çekirdek | 463 | `ك-ف-ف` | `K-F-F` | **15** | 14 | 2:208 | Keff, Keffeyn ve Kâffe (Eli Geri Çekip Durdurma, Avuç İçi ve Bütüncül Halka) | ✅ **MÜHÜRLÜ** |
 | 12 | Yüksek Frekanslı Çekirdek | 467 | `م-ط-ر` | `M-T-R` | **15** | 9 | 4:102 | Matar ve İmtâr (15 geçiş / 9 ayet: 4:102, 7:84, 8:32, 11:82, 15:74 gökten yoğun yağmur ve taş yağdırılması) | ⏳ *Bekliyor* |
 | 13 | Yüksek Frekanslı Çekirdek | 475 | `ع-ش-و` | `A-S-W` | **14** | 14 | 3:41 | Aşiyy, İşâ' ve Ya'şû (14 geçiş / 14 ayet: 3:41, 6:52, 12:16, 18:28, 19:11 gün batımı akşam karanlığı ve zifiri körlük/gaflet) | ⏳ *Bekliyor* |
 | 14 | Yüksek Frekanslı Çekirdek | 476 | `ث-و-ي` | `S-W-Y` | **14** | 14 | 3:151 | Mesvâ ve Sâvî (14 geçiş / 14 ayet: 3:151, 6:128, 12:21, 12:23, 16:29 kalıcı konak/ikamet yeri ve sükûnla yerleşmek) | ⏳ *Bekliyor* |
