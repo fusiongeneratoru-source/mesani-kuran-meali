@@ -46975,5 +46975,122 @@
       }
     ],
     "context_default": "Hedefe doğru sevk etme, taşıyıcı sap/bacak veya çarşı bağlamı"
+  },
+  "ر-ب-ص": {
+    "buckwalter": "rbS",
+    "slug": "rbs",
+    "concept_name": "Terabbus ve Müterabbis (Belirlenen Süreyi Tutup Beklemek ve Sonucu Gözetlemek)",
+    "keywords": [
+      "bekle",
+      "gözet",
+      "bekleme",
+      "müddet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tarab~uS",
+        "label": "V. bab masdar (`تَرَبُّصُ` — `لِّلَّذِينَ` haberinin merfû muahhar mübtedası ve `أَرْبَعَةِ` muzâfı; 1 geçiş: 2:226)"
+      },
+      {
+        "lemma": "tarab~aSo",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "V. bab mâzî fiil (`وَتَرَبَّصْتُمْ` — `فَتَنتُمْ` üzerine matuf 2. çoğul eril; kökün tek mâzî kullanımı, 1 geçiş: 57:14)"
+      },
+      {
+        "lemma": "tarab~aSo",
+        "features_contains": [
+          "3FP"
+        ],
+        "label": "V. bab muzâri fiil (`يَتَرَبَّصْنَ` — nûn-ı nisve üzerine mebnî 3. çoğul dişil + `بِأَنفُسِهِنَّ`; 2 geçiş: 2:228, 2:234)"
+      },
+      {
+        "lemma": "tarab~aSo",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "V. bab emir fiili (`فَتَرَبَّصُوا۟ / تَرَبَّصُوا۟` — nûnun düşmesiyle mebnî 2. çoğul eril; 5 geçiş: 9:24, 9:52, 20:135, 23:25, 52:31)"
+      },
+      {
+        "lemma": "tarab~aSo",
+        "features_contains": [
+          "1P"
+        ],
+        "label": "V. bab muzâri fiil (`نَتَرَبَّصُ / نَّتَرَبَّصُ` — merfû 1. çoğul + `بِكُمْ / بِهِۦ`; 2 geçiş: 9:52, 52:30)"
+      },
+      {
+        "lemma": "tarab~aSo",
+        "features_contains": [
+          "2MP"
+        ],
+        "label": "V. bab muzâri fiil (`تَرَبَّصُونَ` [= `تَتَرَبَّصُونَ`] — iki `ت`'den biri hafifletilmiş merfû 2. çoğul eril; 1 geçiş: 9:52)"
+      },
+      {
+        "lemma": "tarab~aSo",
+        "features_contains": [
+          "3MP"
+        ],
+        "label": "V. bab muzâri fiil (`يَتَرَبَّصُونَ` — `ٱلَّذِينَ` sılasında merfû 3. çoğul eril + `بِكُمْ`; 1 geçiş: 4:141)"
+      },
+      {
+        "lemma": "tarab~aSo",
+        "features_contains": [
+          "3MS"
+        ],
+        "label": "V. bab muzâri fiil (`وَيَتَرَبَّصُ` — merfû 3. tekil eril + `بِكُمُ ٱلدَّوَآئِرَ`; 1 geçiş: 9:98)"
+      },
+      {
+        "lemma": "m~utarab~iS",
+        "features_contains": [
+          "MP",
+          "GEN"
+        ],
+        "label": "V. bab marife çoğul ism-i fâil (`ٱلْمُتَرَبِّصِينَ` — `مِنَ` ile mecrûr; 1 geçiş: 52:31)"
+      },
+      {
+        "lemma": "m~utarab~iS",
+        "features_contains": [
+          "MP",
+          "NOM"
+        ],
+        "label": "V. bab nekre çoğul ism-i fâil (`مُّتَرَبِّصُونَ` — `إِنَّ`nin merfû haberi; 1 geçiş: 9:52)"
+      },
+      {
+        "lemma": "m~utarab~iS",
+        "label": "V. bab tekil eril nekre ism-i fâil (`مُّتَرَبِّصٌ` — `كُلٌّ` mübtedasının merfû haberi; 1 geçiş: 20:135)"
+      }
+    ],
+    "irab_default": "V. bab bekleyiş ve gözetleyiş türevi (`ر-ب-ص` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:226",
+          "2:228",
+          "2:234"
+        ],
+        "text": "Aile ve Sözleşme Hukukunda Belirlenmiş Bekleme Süresi (`2:226`, `2:228`, `2:234`): Eşine yaklaşmama sözü veren için dört aylık bekleme (`تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ`), boşanan kadınların üç temizlik/âdet döngüsü (`ثَلَٰثَةَ قُرُوٓءٍ`) ve eşini kaybeden kadınların dört ay on gün (`أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا`) yeni bir bağ kurmadan kendilerini tutup beklemeleri."
+      },
+      {
+        "ayahs": [
+          "4:141",
+          "9:98",
+          "57:14"
+        ],
+        "text": "İki Çıkışlı Kaypakların ve Fırsatçıların Kriz Kollayan Pusulu Bekleyişi (`4:141`, `9:98`, `57:14`): Güvenenlere zafer açılırsa ortaklık iddia edip aksi durumda rakiplere yaslananların (`4:141`), paylaşımı kayıp sayıp başınıza dönecek felaketleri gözleyenlerin (`9:98`) ve benliklerini fitneye atıp ikircik içinde kenardan seyrederek bekleyenlerin (`57:14`) tavrı."
+      },
+      {
+        "ayahs": [
+          "9:24",
+          "9:52",
+          "20:135",
+          "23:25",
+          "52:30",
+          "52:31"
+        ],
+        "text": "Buyruğun Gelişini ve Hakikatin Ortaya Çıkışını Karşılıklı Bekleyiş (`9:24`, `9:52`, `20:135`, `23:25`, `52:30`, `52:31`): Dünya bağlarını öncü sorumluluktan üstün tutanlara Allah'ın buyruğu gelinceye dek beklemelerinin bildirilmesi (`9:24`), elçiyi zamanın yıpratmasını bekleyenlere (`23:25`, `52:30`) karşı sonucun kimin lehine kesinleşeceğini karşılıklı bekleyiş çağrısı (`9:52`, `20:135`, `52:31`)."
+      }
+    ],
+    "context_default": "Belirlenmiş süreyi tutup bekleme veya bir sonucun ortaya çıkmasını gözetleme bağlamı"
   }
 }
