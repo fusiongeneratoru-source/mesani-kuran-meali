@@ -48575,5 +48575,63 @@
       }
     ],
     "context_default": "Taşıyıcı dik sütun ve kasıtlı yönelim bağlamı"
+  },
+  "ح-ط-م": {
+    "buckwalter": "HTm",
+    "slug": "HTm",
+    "concept_name": "Hatm, Hutâm ve Hutame (Ezip Kırmak, Kuru Ekin Kırıntısı ve Öğütücü Kırıcı Güç)",
+    "keywords": [
+      "kır",
+      "ez",
+      "ufala",
+      "kırıntı",
+      "çöp"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaHoTima",
+        "label": "Bab I 3. tekil eril ağır te'kîd nûnlu (`لَا يَحْطِمَنَّكُمْ` — sizi sakın farkında olmadan ezip kırmasın; 1 geçiş: 27:18)"
+      },
+      {
+        "lemma": "HuTa`m",
+        "label": "`فُعَال` kalıbında kırılmış/ufalanmış nesne ismi, nekre mansûb (`حُطَٰمًا` — kuruyup parçalanmış saman kırıntısı; 3 geçiş: 39:21, 56:65, 57:20)"
+      },
+      {
+        "lemma": "HuTamap",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "`فُعَلَة` mübalağalı kalıpta `فِى` ile mecrûr dişil isim (`فِى ٱلْحُطَمَةِ` — öğütüp parçalayan yıkım ortamının içine; 1 geçiş: 104:4)"
+      },
+      {
+        "lemma": "HuTamap",
+        "label": "`فُعَلَة` mübalağalı kalıpta merfû dişil isim (`مَا ٱلْحُطَمَةُ` — her şeyi kırıp öğüten o güç nedir?; 1 geçiş: 104:5)"
+      }
+    ],
+    "irab_default": "Kırıp ufalama, kuru döküntü veya öğütücü güç (`ح-ط-م` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "27:18"
+        ],
+        "text": "Küçük Gövdelerin Farkında Olmadan Ezilmesi Tehlikesi (`27:18`): Karıncalar vadisinde ilerleyen Süleyman ve ordusunun ağır adımları altında karıncaların farkında olmadan kırılıp ezilmemesi için yapılan uyarı (`لَا يَحْطِمَنَّكُمْ`)."
+      },
+      {
+        "ayahs": [
+          "39:21",
+          "56:65",
+          "57:20"
+        ],
+        "text": "Canlı Ekin ve Bitkinin Kuruyup Ufak Kırıntıya Dönüşmesi (`39:21`, `56:65`, `57:20`): Yağmurla yeşeren ekin ve bitkilerin (`39:21`, `57:20`) önce kuruyup kabararak sararması, ardından kırılıp ufalanmış saman döküntüsüne (`حُطَٰمًا`) çevrilmesi ve geçici dünya övüncünün aynı hızla ufalanabilmesi (`56:65`)."
+      },
+      {
+        "ayahs": [
+          "104:4",
+          "104:5"
+        ],
+        "text": "Sure 104 İçinde Kıran ve Öğüten Yıkım Ortamı (`104:4`, `104:5`): Servet yığıp ölümsüzlük hayaline kapılan küstah alaycının, atıldığı ve içine düşeni kırıp ufalayarak öğüten ortam (`ٱلْحُطَمَة`) ile yüzleştirilmesi."
+      }
+    ],
+    "context_default": "Kırıp ufalama ve kuru kırıntıya çevirme bağlamı"
   }
 }

@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 21 / 50 Kök (Toplam Mühürlü: 671 Kök | Güncel Kapsam: %93,76)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 22 / 50 Kök (Toplam Mühürlü: 672 Kök | Güncel Kapsam: %93,77)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -28,7 +28,7 @@
 | 19 | Yüksek Frekanslı Çekirdek | 470 | `ح-ر-ث` | `H-R-S` | **14** | 11 | 2:71 | Hars ve Tahrusûn (Toprağı Sürmek, Tarım Mahsulü ve Emek Kazancı) | ✅ **MÜHÜRLÜ** |
 | 20 | Yüksek Frekanslı Çekirdek | 473 | `و-ل-ج` | `W-L-C` | **14** | 9 | 3:27 | Vülûc, Îlâc ve Velîce (Dar Aralıktan İçeri Süzülmek, İç İçe Yedirmek ve Gizli İç Sırdaş) | ✅ **MÜHÜRLÜ** |
 | 21 | Sure %100 Kilidi | 676 | `ع-م-د` | `A-M-D` | **7** | 7 | 4:93 | Amed, İmâd ve Teammüd (Taşıyıcı Dik Direk/Sütun ve Doğrudan Kasıtlı Yöneliş) | ✅ **MÜHÜRLÜ** |
-| 22 | Sure %100 Kilidi | 742 | `ح-ط-م` | `H-T-M` | **6** | 6 | 27:18 | Hutame ve Hutâm (Sure 104 Hümeze kilidi + 6 geçiş: 27:18, 39:21, 56:65, 57:20, 104:4 kırıp ufalayarak öğütmek) | ⏳ *Bekliyor* |
+| 22 | Sure %100 Kilidi | 742 | `ح-ط-م` | `H-T-M` | **6** | 6 | 27:18 | Hatm, Hutâm ve Hutame (Ezip Kırmak, Kuru Ekin Kırıntısı ve Öğütücü Kırıcı Güç) | ✅ **MÜHÜRLÜ** |
 | 23 | Sure %100 Kilidi | 515 | `ن-ب-ذ` | `N-B-Z` | **12** | 12 | 2:100 | Nebz ve İntibâz (Sure 104 Hümeze kilidi + 12 geçiş: 2:100, 2:101, 3:187, 8:58, 19:16 önemsemeyip arkaya atmak ve fırlatmak) | ⏳ *Bekliyor* |
 | 24 | Sure %100 Kilidi | 1003 | `و-ص-د` | `W-S-D` | **3** | 3 | 18:18 | Vasîd ve Mü'sade (Sure 104 Hümeze son kilidi + 18:18, 90:20, 104:8 geçit vermeyecek şekilde sımsıkı kilitleyip kapamak) | ⏳ *Bekliyor* |
 | 25 | Sure %100 Kilidi | 706 | `ح-م-ر` | `H-M-R` | **6** | 6 | 2:259 | Hımâr ve Humur (Sure 62 Cum'a kilidi + 6 geçiş: 2:259, 16:8, 31:19, 35:27, 62:5 yük taşıyıcı eşek ve kızıl çizgi/renk) | ⏳ *Bekliyor* |
