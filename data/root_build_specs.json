@@ -48633,5 +48633,102 @@
       }
     ],
     "context_default": "Kırıp ufalama ve kuru kırıntıya çevirme bağlamı"
+  },
+  "ن-ب-ذ": {
+    "buckwalter": "nb*",
+    "slug": "nbz",
+    "concept_name": "Nebz ve İntibâz (Değer Vermeyip Arkaya/Uzağa Fırlatmak ve Kenara Çekilmek)",
+    "keywords": [
+      "at",
+      "fırlat",
+      "kenar",
+      "çekil",
+      "boz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "naba*a",
+        "features_contains": [
+          "IMPF",
+          "PASS"
+        ],
+        "label": "Bab I 3. tekil eril ağır te'kîd nûnlu edilgen muzâri (`كَلَّا لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ` — hayır, kesinlikle kırıp öğüten yıkım ortamının içine fırlatılacak; 1 geçiş: 104:4)"
+      },
+      {
+        "lemma": "naba*a",
+        "features_contains": [
+          "PERF",
+          "PASS"
+        ],
+        "label": "Bab I 3. tekil eril edilgen mâzi (`لَنُبِذَ بِٱلْعَرَآءِ` — çıplak açık kıyıya fırlatılıp bırakılmış olacaktı; 1 geçiş: 68:49)"
+      },
+      {
+        "lemma": "naba*a",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Bab I 2. tekil eril emir (`فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ` — antlaşmayı eşit şartlarda karşılarına açıkça iade edip at; 1 geçiş: 8:58)"
+      },
+      {
+        "lemma": "naba*a",
+        "features_contains": [
+          "1S"
+        ],
+        "label": "Bab I 1. tekil mâzi (`فَنَبَذْتُهَا` — avucumdakini fırlatıp attım; 1 geçiş: 20:96)"
+      },
+      {
+        "lemma": "naba*a",
+        "features_contains": [
+          "1P"
+        ],
+        "label": "Bab I 1. çoğul mâzi (`فَنَبَذْنَٰهُمْ / فَنَبَذْنَٰهُ` — denizin içine veya çıplak kıyıya fırlattık; 3 geçiş: 28:40, 37:145, 51:40)"
+      },
+      {
+        "lemma": "naba*a",
+        "features_contains": [
+          "3MP"
+        ],
+        "label": "Bab I 3. çoğul eril mâzi (`فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ` — kesin sözleşmeyi sırtlarının gerisine atıp bıraktılar; 1 geçiş: 3:187)"
+      },
+      {
+        "lemma": "naba*a",
+        "label": "Bab I 3. tekil eril mâzi (`نَّبَذَهُۥ / نَبَذَ فَرِيقٌ` — verilen antlaşmayı veya kitabı önemsemeyip attı; 2 geçiş: 2:100, 2:101)"
+      },
+      {
+        "lemma": "{ntaba*ato",
+        "label": "Bab VIII 3. tekil dişil dönüşlü mâzi (`ٱنتَبَذَتْ` — kendini yakınlarından ayırıp ayrı bir köşeye çekildi; 2 geçiş: 19:16, 19:22)"
+      }
+    ],
+    "irab_default": "Fırlatıp atma veya kendini kenara çekme (`ن-ب-ذ` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:100",
+          "2:101",
+          "3:187",
+          "8:58"
+        ],
+        "text": "Antlaşma ve Kitabın Sırtın Ardına Atılması ya da Açık İadesi (`2:100`, `2:101`, `3:187`, `8:58`): Verilen ahit ve ilâhî metnin hiçe sayılıp sırtların ardına fırlatılması (`2:100`, `2:101`, `3:187`) ile hainlik sezildiğinde gizlice arkadan vurmak yerine anlaşmanın eşit şeffaflıkla (`عَلَىٰ سَوَآءٍ`) geri atılıp feshedilmesi (`8:58`)."
+      },
+      {
+        "ayahs": [
+          "19:16",
+          "19:22"
+        ],
+        "text": "Topluluktan Ayrılıp Tek Başına Uzak Köşeye Çekilme (`19:16`, `19:22`): Meryem'in ailesinden doğu yönüne (`19:16`), ardından bebeği yüklenerek uzak bir noktaya (`19:22`) Bab VIII dönüşlü yapısıyla kendisini ayırıp çekilmesi."
+      },
+      {
+        "ayahs": [
+          "20:96",
+          "28:40",
+          "37:145",
+          "51:40",
+          "68:49",
+          "104:4"
+        ],
+        "text": "Somut Mekânsal Fırlatma: Avuç, Deniz, Açık Kıyı ve Öğütücü Ateş (`20:96`, `28:40`, `37:145`, `51:40`, `68:49`, `104:4`): Sâmirî'nin elçinin izinden aldığı tozu döküp atması (`20:96`), Firavun ve ordularının derin suya fırlatılışı (`28:40`, `51:40`), Yûnus'un çıplak sahile bırakılışı (`37:145`, `68:49`) ve Sure 104'te alaycı servet yığıcının kırıp öğütücü yıkım ortamına (`ٱلْحُطَمَة`) atılması (`104:4`)."
+      }
+    ],
+    "context_default": "Fırlatıp bırakma veya kendini ayırıp kenara çekme bağlamı"
   }
 }
