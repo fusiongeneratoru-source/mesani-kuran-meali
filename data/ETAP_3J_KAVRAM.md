@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 13 / 50 Kök (Toplam Mühürlü: 713 Kök | Güncel Kapsam: %94,36)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 14 / 50 Kök (Toplam Mühürlü: 714 Kök | Güncel Kapsam: %94,37)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -20,7 +20,7 @@
 | 11 | Sure %100 Kilidi | 714 | `م-ق-ت` | `M-K-T` | **6** | 5 | 4:22 | Makt (Çirkin Fiil ve Tutarsızlığa Karşı Kabaran Şiddetli Nefret ve Tiksinti) | ✅ **MÜHÜRLÜ** |
 | 12 | Sure %100 Kilidi | 957 | `ط-ف-أ` | `T-F-E` | **3** | 3 | 5:64 | İtfâ (Ateşin Alevini ve Parlayan Aydınlığı Bütünüyle Söndürmek) | ✅ **MÜHÜRLÜ** |
 | 13 | Sure %100 Kilidi | 1548 | `ر-ص-ص` | `R-S-S` | **1** | 1 | 61:4 | Mersûs (Boşluksuz Kenetlenmiş ve Kurşunla Perçinlenmiş Yekpare Yapı) | ✅ **MÜHÜRLÜ** |
-| 14 | Sure %100 Kilidi | 750 | `ث-و-ر` | `S-W-R` | **5** | 5 | 2:71 | İsâre (Sure 100 Âdiyât kilidi + 5 geçiş: 2:71, 30:9, 30:48, 35:9, 100:4 toprağı, bulutu veya tozu altüst edip havaya kaldırmak) | ⏳ *Bekliyor* |
+| 14 | Sure %100 Kilidi | 750 | `ث-و-ر` | `S-W-R` | **5** | 5 | 2:71 | İsâre (Durgun Toprağı, Bulutu veya Tozu Yerinden Kaldırıp Harekete Geçirmek) | ✅ **MÜHÜRLÜ** |
 | 15 | Sure %100 Kilidi | 1630 | `ح-ص-ل` | `H-S-L` | **1** | 1 | 100:10 | Tahsîl ve Hussile (Sure 100 Âdiyât kilidi: 100:10 kabuktan/özden ayıklayıp göğüslerdeki gerçeği açığa çıkarmak) | ⏳ *Bekliyor* |
 | 16 | Sure %100 Kilidi | 1626 | `ض-ب-ح` | `D-B-H` | **1** | 1 | 100:1 | Dabh (Sure 100 Âdiyât kilidi: 100:1 hızla koşan atların nefes nefese soluma sesi) | ⏳ *Bekliyor* |
 | 17 | Sure %100 Kilidi | 1627 | `ق-د-ح` | `K-D-H` | **1** | 1 | 100:2 | Kadh ve Mûriyât (Sure 100 Âdiyât kilidi: 100:2 sert çarpışmayla kıvılcım ve ateş çakmak) | ⏳ *Bekliyor* |

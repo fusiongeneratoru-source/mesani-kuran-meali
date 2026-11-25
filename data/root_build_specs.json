@@ -51452,5 +51452,67 @@
       }
     ],
     "context_default": "Sıkıca kenetlenmiş yapısal dayanışma bağlamı"
+  },
+  "ث-و-ر": {
+    "buckwalter": "vwr",
+    "slug": "vwr",
+    "concept_name": "İsâre (Durgun Toprağı, Bulutu veya Tozu Yerinden Kaldırıp Harekete Geçirmek)",
+    "keywords": [
+      "surmek",
+      "kaldirmak",
+      "harekete gecirmek",
+      "bulut",
+      "toz",
+      "toprak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">avaAru",
+        "ayahs": [
+          "2:71",
+          "30:48",
+          "35:9"
+        ],
+        "label": "Form IV 3. tekil dişil merfû muzâri fiil (`تُثِيرُ ٱلْأَرْضَ` `2:71`, `فَتُثِيرُ سَحَابًا` `30:48, 35:9`; 3 geçiş)"
+      },
+      {
+        "lemma": ">avaAru",
+        "ayahs": [
+          "30:9"
+        ],
+        "label": "Form IV 3. çoğul eril mâzî fiil (`وَأَثَارُوا۟ ٱلْأَرْضَ` — geçmiş uygarlıkların toprağı kazıp sürmesi; 1 geçiş: 30:9)"
+      },
+      {
+        "lemma": ">avaAru",
+        "ayahs": [
+          "100:4"
+        ],
+        "label": "Form IV 3. çoğul dişil mâzî fiil (`فَأَثَرْنَ بِهِۦ نَقْعًا` — koşanların yoğun toz kaldırması; 1 geçiş: 100:4)"
+      }
+    ],
+    "irab_default": "Toprağı, bulutu veya tozu yerinden kaldırıp harekete geçiren Form IV fiil (`ث-و-ر` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:71",
+          "30:9"
+        ],
+        "text": "Toprağı Sürüp Altüst Etme ve İmar (`2:71`, `30:9`): Boyunduruk altına alınıp toprağı sürmeyen sığır niteliği (`2:71`) ve güçlü geçmiş toplumların yeryüzünü derinlemesine kazıp sürerek bayındır kılmaları (`30:9`)."
+      },
+      {
+        "ayahs": [
+          "30:48",
+          "35:9"
+        ],
+        "text": "Rüzgârların Bulut Kütlesini Harekete Geçirmesi (`30:48`, `35:9`): Allah'ın gönderdiği rüzgârların bulutları yerinden kaldırıp yükseltmesi (`فَتُثِيرُ سَحَابًا`) ve bunun yağmur ile ölü toprağı diriltmeye yol açması."
+      },
+      {
+        "ayahs": [
+          "100:4"
+        ],
+        "text": "Hızlı Akında Toz Bulutu Kaldırma (`100:4`): Nefes nefese koşup kıvılcım çakan atların o hamleyle göğe yoğun bir toz bulutu kaldırıp savurması (`فَأَثَرْنَ بِهِۦ نَقْعًا`)."
+      }
+    ],
+    "context_default": "Toprağı, bulutu veya tozu yerinden kaldırıp harekete geçirme bağlamı"
   }
 }
