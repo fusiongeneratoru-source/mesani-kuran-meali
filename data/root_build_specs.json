@@ -49608,5 +49608,35 @@
       }
     ],
     "context_default": "Bağlayıcı ip/halat, yaşam damarı hattı veya koruma/ahit bağı bağlamı"
+  },
+  "ج-ي-د": {
+    "buckwalter": "jyd",
+    "slug": "jyd",
+    "concept_name": "Cîd (Boynun Ön Yüzü ve Gerdanlık Takılan Gerdan)",
+    "keywords": [
+      "gerdan",
+      "boyun",
+      "boynunda",
+      "boynu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jiyd",
+        "ayahs": [
+          "111:5"
+        ],
+        "label": "Sure 111 Mesed kilidi: `فِى` harf-i cerriyle mecrûr, müennes `هَا` zamirine muzâf tekil isim (`فِى جِيدِهَا` — onun gerdanında/boynunda; şibh-i cümle mukaddem haber; 1 geçiş: 111:5)"
+      }
+    ],
+    "irab_default": "Tekil isim (`ج-ي-د` kökü — gerdan/ön boyun)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "111:5"
+        ],
+        "text": "Sure 111 Mesed Kilidinde Süs Yerine Lif Halatı Taşıyan Gerdan (`111:5`): Alevli yıkıma yakacak odun taşıyan zorba ortağın, normalde süs ve kolye takılan gerdanında (`فِى جِيدِهَا`) sıkı bükülmüş hurma lifinden kaba bir halatın (`حَبْلٌ مِّن مَّسَدٍۭ`) bulunması."
+      }
+    ],
+    "context_default": "Boynun ön yüzü / gerdan bağlamı"
   }
 }
