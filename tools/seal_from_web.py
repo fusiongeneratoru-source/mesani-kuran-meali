@@ -36,6 +36,7 @@ STAGE_CONFIGS = [
     ('Etap 3G', 'etap_3g_key_roots.json', 'etap_3g_roots', 'etap_3g_rank'),
     ('Etap 3H', 'etap_3h_key_roots.json', 'etap_3h_roots', 'etap_3h_rank'),
     ('Etap 3I', 'etap_3i_key_roots.json', 'etap_3i_roots', 'etap_3i_rank'),
+    ('Etap 3J', 'etap_3j_key_roots.json', 'etap_3j_roots', 'etap_3j_rank'),
 ]
 
 
@@ -60,7 +61,7 @@ def load_all_stage_roots():
 def print_next_brief(count=1):
     _, active_stage = load_all_stage_roots()
     if not active_stage:
-        print("Tüm aktif etaplar (700 kök) mühürlendi! Yeni Faz 1 etabı tanımlanabilir.")
+        print("Tüm aktif etaplar (750 kök) mühürlendi! Yeni Faz 1 etabı tanımlanabilir.")
         return
 
     etap_label, roots, rank_key = active_stage
@@ -186,11 +187,11 @@ def seal_package(json_path, do_push=False):
                     t_roots.append(r_key)
 
     total_locked = len(locked_json['locked_roots'])
-    e3i_locked = max(0, total_locked - 650)
+    e3j_locked = max(0, total_locked - 700)
     locked_json['phase'] = (
         f"Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) "
         f"+ Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) "
-        f"+ Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I ({e3i_locked}/50 — Toplam {total_locked} Kök Mühürlü)"
+        f"+ Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J ({e3j_locked}/50 — Toplam {total_locked} Kök Mühürlü)"
     )
 
     with open(locked_path, 'w', encoding='utf-8') as f:
@@ -218,6 +219,7 @@ def seal_package(json_path, do_push=False):
         'generate_etap_3g.py',
         'generate_etap_3h.py',
         'generate_etap_3i.py',
+        'generate_etap_3j.py',
         'generate_compact_roots.py',
         'verify_project.py',
     ]:
