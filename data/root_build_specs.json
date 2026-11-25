@@ -49422,5 +49422,60 @@
       }
     ],
     "context_default": "Fiziksel taş/kıvılcım fırlatma veya hukukî isnat bağlamı"
+  },
+  "س-ج-ل": {
+    "buckwalter": "sjl",
+    "slug": "sjl",
+    "concept_name": "Siccîl ve Sicill (Damgalı Pişmiş Kil-Taş Kütlesi ve Yazılı Kayıt Tomarı)",
+    "keywords": [
+      "siccil",
+      "sicil",
+      "taş",
+      "kil",
+      "tomar",
+      "kayıt"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sij~iyl",
+        "ayahs": [
+          "11:82",
+          "15:74"
+        ],
+        "label": "`حِجَارَةً` cinsini açıklayan `مِن` beyâniyye harf-i cerriyle mecrûr tenvinli isim (`حِجَارَةً مِّن سِجِّيلٍ` — sertleşmiş balçık-taş kütlesinden taşlar; 2 geçiş: 11:82, 15:74)"
+      },
+      {
+        "lemma": "sij~iyl",
+        "ayahs": [
+          "105:4"
+        ],
+        "label": "Sure 105 Fîl son kilidi: `بِحِجَارَةٍ` mecrûrunun cinsini beyan eden `مِن` ile mecrûr nekre isim (`تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ` — fırınlanmış sert kil-taş mühimmatı; 1 geçiş: 105:4)"
+      },
+      {
+        "lemma": "s~ijil~",
+        "ayahs": [
+          "21:104"
+        ],
+        "label": "`كَطَىِّ` teşbih masdarına harf-i tarifli muzâfun ileyh olarak bağlanan eril tekil mecrûr isim (`كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ` — kitapları/kayıtları düren sicil tomarı gibi; 1 geçiş: 21:104)"
+      }
+    ],
+    "irab_default": "Mecrûr konumda isim (`س-ج-ل` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:82",
+          "15:74",
+          "105:4"
+        ],
+        "text": "Sertleşmiş ve İşaretlenmiş Balçık-Taş Mühimmatı (`11:82`, `15:74`, `105:4`): Altüst edilen zalim şehirlerin (`11:82`, `15:74`) ve Sure 105 Fîl %100 son kilidinde zırhlı istila ordusunun (`105:4`) üzerine gönderilen, Rabbin katında hedeflerine göre damgalı (`11:83` `مُّسَوَّمَةً`) kaskatı balçık taşları (`سِجِّيل`)."
+      },
+      {
+        "ayahs": [
+          "21:104"
+        ],
+        "text": "Kozmik Dürülüş Sahnesinde Yazılı Sicil Tomarı (`21:104`): Göğün dürüleceği o büyük dönüş gününün, yazılı kitap sayfalarını içine alıp muhafaza etmek üzere katlanan resmî kayıt tomarına (`كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ`) benzetilmesi."
+      }
+    ],
+    "context_default": "Damgalı pişmiş kil-taş veya yazılı kayıt tomarı bağlamı"
   }
 }
