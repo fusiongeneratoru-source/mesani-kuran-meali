@@ -49336,5 +49336,91 @@
       }
     ],
     "context_default": "Devasa fil ve zırhlı saldırı ordusu bağlamı"
+  },
+  "ر-م-ي": {
+    "buckwalter": "rmy",
+    "slug": "rmy",
+    "concept_name": "Remy (Hedefe Taş/Kıvılcım veya Temelsiz Suçlama Fırlatıp Atmak)",
+    "keywords": [
+      "atmak",
+      "fırlatmak",
+      "suçlama",
+      "iftira",
+      "taş"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ramaY`",
+        "features_contains": [
+          "IMPF",
+          "MOOD:JUS"
+        ],
+        "label": "`ثُمَّ` atfıyla şartın cevabına bağlı Form I meczûm muzâri fiil (illetli son `ي` düşmüş: `ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا` — masumun üstüne suçu fırlatıp atması; 1 geçiş: 4:112)"
+      },
+      {
+        "lemma": "ramaY`",
+        "features_contains": [
+          "PERF",
+          "2MS"
+        ],
+        "label": "Form I muhatap eril tekil (`2MS`) mâzî fiil (`وَمَا رَمَيْتَ إِذْ رَمَيْتَ` — senin fiziksel fırlatışın; 2 geçiş: 8:17)"
+      },
+      {
+        "lemma": "ramaY`",
+        "features_contains": [
+          "PERF",
+          "3MS"
+        ],
+        "label": "Form I gâib eril tekil (`3MS`) mâzî fiil (`وَلَٰكِنَّ ٱللَّهَ رَمَىٰ` — menzile ulaştıran ilâhî atış; 1 geçiş: 8:17)"
+      },
+      {
+        "lemma": "ramaY`",
+        "features_contains": [
+          "IMPF",
+          "3MP"
+        ],
+        "label": "`ٱلَّذِينَ` mevsûlünün sılasında Form I merfû eril çoğul (`3MP`) muzâri fiil (`يَرْمُونَ` — dört tanık olmaksızın ağır suçlama yöneltip atanlar; 3 geçiş: 24:4, 24:6, 24:23)"
+      },
+      {
+        "lemma": "ramaY`",
+        "ayahs": [
+          "77:32"
+        ],
+        "label": "Form I dişil tekil (`3FS`) merfû muzâri fiil (`إِنَّهَا تَرْمِى بِشَرَرٍ` — o kızgın ateş ocağının devasa kıvılcımlar fırlatması; 1 geçiş: 77:32)"
+      },
+      {
+        "lemma": "ramaY`",
+        "ayahs": [
+          "105:4"
+        ],
+        "label": "`طَيْرًا` çoğul anlamına râci Form I `3FS` muzâri fiil + `هم` mef'ûl zamiri (`تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ` — kuş sürülerinin ordunun üzerine pişmiş balçık taşları fırlatması; 1 geçiş: 105:4)"
+      }
+    ],
+    "irab_default": "Form I (`رَمَىٰ - يَرْمِي`) fiil çekimi (`ر-م-ي` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "8:17"
+        ],
+        "text": "Fiilde Görünür Sebep ve İlâhî Menzil Ayrımı (`8:17`): Mücadele meydanında elçinin fiziksel olarak yaptığı atışın (`إِذْ رَمَيْتَ`) karşısında bütün safları dağıtan asıl isabetin (`وَلَٰكِنَّ ٱللَّهَ رَمَىٰ`) ilâhî kudretle gerçekleştiğinin vurgulanması."
+      },
+      {
+        "ayahs": [
+          "77:32",
+          "105:4"
+        ],
+        "text": "Fiziksel Fırlatma: Kuş Taşlaması ve Kızgın Kıvılcımlar (`77:32`, `105:4`): Sure 105 Fîl kilidinde bölükler hâlindeki kuşların ağır orduyu pişmiş balçık taşlarıyla (`105:4` `تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ`) hedef alması ve azap ocağının saraylar boyutunda kıvılcımlar savurması (`77:32`)."
+      },
+      {
+        "ayahs": [
+          "4:112",
+          "24:4",
+          "24:6",
+          "24:23"
+        ],
+        "text": "Hukukî-Ahlâkî Atış: Suç ve Namus Töhmeti İsnadı (`4:112`, `24:4`, `24:6`, `24:23`): İşlenen suçu masum kimsenin üstüne atma (`4:112`) ile korunmuş iffetli kadınlara veya eşlere dört tanık getirmeden ağır suçlama fırlatmanın (`24:4, 6, 23`) yol açtığı yaptırım ve hukukî yük."
+      }
+    ],
+    "context_default": "Fiziksel taş/kıvılcım fırlatma veya hukukî isnat bağlamı"
   }
 }

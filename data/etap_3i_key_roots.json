@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3I (18-13 Geçiş Çekirdek Zırhı ve +4 Sure %100 Tam Kilidi [Sure 104, 62, 105, 111 -> 29 Sure] — 50 Kök -> 700 Kök)",
   "target_count": 50,
-  "locked_count": 32,
+  "locked_count": 33,
   "total_tokens_in_package": 558,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 93.9,
+  "current_coverage_pct": 93.92,
   "target_coverage_pct": 94.24,
   "etap_3i_roots": [
     {
@@ -623,8 +623,8 @@
       "frequency": 9,
       "unique_ayahs": 7,
       "rationale": "Remy (Sure 105 Fîl kilidi + 9 geçiş: 4:112, 8:17, 24:4, 24:6, 105:4 taş veya asılsız suçlama fırlatıp atmak)",
-      "concept_label": "Analiz Bekliyor (ramaY`)",
-      "is_locked": false,
+      "concept_label": "Remy (Hedefe Taş/Kıvılcım veya Temelsiz Suçlama Fırlatıp Atmak)",
+      "is_locked": true,
       "sample_ayah": "4:112",
       "top_lemmas": [
         "ramaY`"
