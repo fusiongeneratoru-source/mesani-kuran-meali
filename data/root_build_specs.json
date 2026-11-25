@@ -50564,5 +50564,97 @@
       }
     ],
     "context_default": "Korunan kaynak deposu ve görevli bekçi bağlamı"
+  },
+  "ح-ل-ف": {
+    "buckwalter": "Hlf",
+    "slug": "Hlf",
+    "concept_name": "Half ve Hallâf (Bağlayıcı Kesin Ant İçmek ve Aldatıcı Ant Savurmak)",
+    "keywords": [
+      "ant içmek",
+      "ant içerler",
+      "kesin söz",
+      "çok ant içen",
+      "hallaf"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Halafo",
+        "ayahs": [
+          "5:89"
+        ],
+        "label": "Form I sülâsî 2. çoğul eril mâzî fiil (`إِذَا حَلَفْتُمْ` — şart zarfı sonrası: bağlayıcı ant içtiğinizde; 1 geçiş: 5:89)"
+      },
+      {
+        "lemma": "Halafo",
+        "ayahs": [
+          "4:62",
+          "9:56",
+          "9:62",
+          "9:74",
+          "9:96",
+          "58:14",
+          "58:18"
+        ],
+        "label": "Form I sülâsî 3. çoğul eril merfû muzâri fiil (`يَحْلِفُونَ / فَيَحْلِفُونَ` — nûn sabitliğiyle: aldatıcı/yalan ant içerler; 8 geçiş, 58:18'de 2 kez)"
+      },
+      {
+        "lemma": "Halafo",
+        "ayahs": [
+          "9:42",
+          "9:95"
+        ],
+        "label": "`سَـ` gelecek ekiyle Form I 3. çoğul eril merfû muzâri fiil (`وَسَيَحْلِفُونَ / سَيَحْلِفُونَ` — yakında ant içecekler; 2 geçiş: 9:42, 9:95)"
+      },
+      {
+        "lemma": "Halafo",
+        "ayahs": [
+          "9:107"
+        ],
+        "label": "Tekit lâmı ve ağır tekit nûnu ile mebnî Form I 3. çoğul eril muzâri fiil (`وَلَيَحْلِفُنَّ` — elbette kesinlikle ant içeceklerdir; 1 geçiş: 9:107)"
+      },
+      {
+        "lemma": "Hal~aAf",
+        "ayahs": [
+          "68:10"
+        ],
+        "label": "`كُلَّ` kelimesinin muzâfün ileyhi olarak nekre mecrûr `فَعَّال` mübalağa ismi (`كُلَّ حَلَّافٍ مَّهِينٍ` — durmadan ucuzca ant içen her değersiz kimse; 1 geçiş: 68:10)"
+      }
+    ],
+    "irab_default": "Bağlayıcı ant içme eylemi veya çok ant içen kimse (`ح-ل-ف` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:89"
+        ],
+        "text": "Bağlayıcı Antların Hukukî Sorumluluğu (`5:89`): Düğümleyip bağlayıcı kılınan antların (`إِذَا حَلَفْتُمْ`) korunması ve bozulduğunda telafi edilmesi düzenlemesi."
+      },
+      {
+        "ayahs": [
+          "4:62",
+          "9:42",
+          "9:56",
+          "9:62",
+          "9:74",
+          "9:95",
+          "9:96",
+          "9:107"
+        ],
+        "text": "İkiyüzlülerin Kaçış ve Aklanma Kalkanı Olarak Allah Adına Antları (`4:62`, `9:42, 56, 62, 74, 95, 96, 107`): Seferden geri kalan, yıkım kuran ve elçiyi inciten içi dışı bir olmayan kimselerin kendilerini temize çıkarmak için Allah adına savurdukları sahte antlar."
+      },
+      {
+        "ayahs": [
+          "58:14",
+          "58:18"
+        ],
+        "text": "Bile Bile Yalan Üzerine Ant İçme Alışkanlığı (`58:14`, `58:18`): Dünyada bile bile yalan üzerine ant içenlerin (`وَيَحْلِفُونَ عَلَى ٱلْكَذِبِ`), diriliş gününde de alışkanlıkları gereği Allah'a karşı aynı sahte antlara sarılacaklarının teşhiri."
+      },
+      {
+        "ayahs": [
+          "68:10"
+        ],
+        "text": "Ucuzca Ant İçen Karaktere Boyun Eğmeme İlkesi (`68:10`): Sözünün itibarını yitirdiği için sürekli ucuz antlarla kendini kanıtlamaya çalışan aşağılık kimselere (`حَلَّافٍ مَّهِينٍ`) itaat edilmemesi emri."
+      }
+    ],
+    "context_default": "Bağlayıcı ant ve sahte ant teşhiri bağlamı"
   }
 }
