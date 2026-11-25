@@ -48338,5 +48338,103 @@
       }
     ],
     "context_default": "Tohum ekimi, ekinlerin büyümesi ve tarımsal üretim bağlamı"
+  },
+  "ح-ر-ث": {
+    "buckwalter": "Hrv",
+    "slug": "Hrv",
+    "concept_name": "Hars ve Tahrusûn (Toprağı Sürmek, Tarım Mahsulü ve Emek Kazancı)",
+    "keywords": [
+      "tarla",
+      "ekin",
+      "sür",
+      "kazanç",
+      "mahsul"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "taHoruvu",
+        "label": "Bab I 2. çoğul eril merfû muzâri (`أَفَرَءَيْتُم مَّا تَحْرُثُونَ` — sürüp ektiğiniz şeye bir baksanıza; 1 geçiş: 56:63)"
+      },
+      {
+        "lemma": "Harov",
+        "ayahs": [
+          "2:223"
+        ],
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "Nekre merfû haber (`نِسَآؤُكُمْ حَرْثٌ لَّكُمْ` — eşleriniz sizin için soy/nesil ekim alanıdır; 1 geçiş: 2:223)"
+      },
+      {
+        "lemma": "Harov",
+        "ayahs": [
+          "6:138"
+        ],
+        "label": "Nekre merfû atıf isim (`هَٰذِهِۦٓ أَنْعَٰمٌ وَحَرْثٌ حِجْرٌ` — şu hayvanlar ve ekinler yasaklanmıştır derler; 1 geçiş: 6:138)"
+      },
+      {
+        "lemma": "Harov",
+        "ayahs": [
+          "42:20"
+        ],
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "`يُرِيدُ` fiilinin muzâf mansûb mef'ûlü (`حَرْثَ ٱلْءَاخِرَةِ / حَرْثَ ٱلدُّنْيَا` — öte yaşam veya dünya ekinini isteyen; 2 geçiş: 42:20)"
+      },
+      {
+        "lemma": "Harov",
+        "ayahs": [
+          "42:20"
+        ],
+        "label": "`فِى` harf-i cerriyle zamire muzâf mecrûr isim (`نَزِدْ لَهُۥ فِى حَرْثِهِۦ` — kazanç ekinini artırırız; 1 geçiş: 42:20)"
+      },
+      {
+        "lemma": "Harov",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Fiil nesnesi mansûb isim (`تَسْقِى ٱلْحَرْثَ / يُهْلِكَ ٱلْحَرْثَ / فَأْتُوا۟ حَرْثَكُمْ / أَصَابَتْ حَرْثَ` — ekili tarla; 4 geçiş: 2:71, 2:205, 2:223, 3:117)"
+      },
+      {
+        "lemma": "Harov",
+        "label": "Mecrûr isim (`وَٱلْحَرْثِ / مِنَ ٱلْحَرْثِ / فِى ٱلْحَرْثِ / عَلَىٰ حَرْثِكُمْ` — tarla ve mahsul; 4 geçiş: 3:14, 6:136, 21:78, 68:22)"
+      }
+    ],
+    "irab_default": "Toprağı sürme fiili veya sürülmüş tarla/kazanç (`ح-ر-ث` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:71",
+          "3:14",
+          "56:63",
+          "68:22"
+        ],
+        "text": "Toprak İşleme, Çiftçilik ve Mahsul Devşirme (`2:71`, `3:14`, `56:63`, `68:22`): Çift sürmeyen sığır (`2:71`), dünya varlığı sayılan tarla sevgisi (`3:14`), toprağı sürme çabası (`56:63`) ve sabah kesime gidilen bahçe ürünü (`68:22`)."
+      },
+      {
+        "ayahs": [
+          "2:205",
+          "3:117",
+          "21:78"
+        ],
+        "text": "Tarımsal Üretimin Zarara Uğraması ve Adil Yargı (`2:205`, `3:117`, `21:78`): Bozgunculukla ekini helak etme (`2:205`), dondurucu rüzgârla yanıp yok olan tarla (`3:117`) ve geceleyin sürülerin girdiği tarla davası (`21:78`)."
+      },
+      {
+        "ayahs": [
+          "6:136",
+          "6:138"
+        ],
+        "text": "Mahsul Üzerinden Uydurulan Paylaşım ve Yasaklar (`6:136`, `6:138`): Tarım ürünlerinden ve hayvanlardan ortak koştukları varlıklara hayali paylar ve keyfî yasaklar ayırma."
+      },
+      {
+        "ayahs": [
+          "2:223",
+          "42:20"
+        ],
+        "text": "Nesil Tarlası ve İki Dünya Emek Kazancı Metaforu (`2:223`, `42:20`): Eşlerin soy yetiştiren tarla kılınması (`2:223`) ve insanın dünya ile öte yaşam için ektiği kazancın karşılığı (`42:20`)."
+      }
+    ],
+    "context_default": "Toprak sürme, tarımsal mahsul ve emek kazancı bağlamı"
   }
 }
