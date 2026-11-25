@@ -51077,5 +51077,49 @@
       }
     ],
     "context_default": "Serbest dolaşım ve arınmış hakikat seyri bağlamı"
+  },
+  "ص-غ-و": {
+    "buckwalter": "Sgw",
+    "slug": "sgw",
+    "concept_name": "Sağv (Bir Kabın veya Kulağın Yatması Gibi Kalbin Bir Yana Eğilip Meyletmesi)",
+    "keywords": [
+      "meyletmek",
+      "eğilmek",
+      "yatmak",
+      "kalp kayması",
+      "sagv"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Sagato",
+        "ayahs": [
+          "6:113"
+        ],
+        "label": "Form I sebep lâmıyla (`لِـ`) mansûb 3. tekil dişil muzâri fiil (`وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ` — gönülleri ona doğru eğilip yatsın diye; 1 geçiş: 6:113)"
+      },
+      {
+        "lemma": "Sagato",
+        "ayahs": [
+          "66:4"
+        ],
+        "label": "Form I `قَدْ` pekiştirme harfiyle 3. tekil dişil mâzî fiil (`فَقَدْ صَغَتْ قُلُوبُكُمَا` — ikinizin kalpleri gerçekten eğilip kaymıştır; 1 geçiş: 66:4)"
+      }
+    ],
+    "irab_default": "Bir tarafa doğru eğilip meyletmek anlamında Form I fiil (`ص-غ-و` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:113"
+        ],
+        "text": "Aldatıcı Yaldızlı Sözlere Gönül Eğilimi (`6:113`): Sonraki hayata inanmayanların gönüllerinin (`أَفْـِٔدَةُ`) süslü aldatıcı sözlere doğru meyledip yatması, ondan hoşnut olması ve yanlış eylemlere sürüklenmesi."
+      },
+      {
+        "ayahs": [
+          "66:4"
+        ],
+        "text": "Kalplerin Dengeden Kayması ve Dönüş Çağrısı (`66:4`): 66. sûrede iki eşe yönelik olarak kalplerinin adil ve dürüst eksenden yana kaydığının (`صَغَتْ قُلُوبُكُمَا`) bildirilmesi ve Allah'a dönüşe davet edilmesi."
+      }
+    ],
+    "context_default": "Kalbin bir yana eğilip meyletmesi bağlamı"
   }
 }
