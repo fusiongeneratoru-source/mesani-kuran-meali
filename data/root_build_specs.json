@@ -48436,5 +48436,81 @@
       }
     ],
     "context_default": "Toprak sürme, tarımsal mahsul ve emek kazancı bağlamı"
+  },
+  "و-ل-ج": {
+    "buckwalter": "wlj",
+    "slug": "wlj",
+    "concept_name": "Vülûc, Îlâc ve Velîce (Dar Aralıktan İçeri Süzülmek, İç İçe Yedirmek ve Gizli İç Sırdaş)",
+    "keywords": [
+      "gir",
+      "süzül",
+      "kat",
+      "iç",
+      "sırdaş"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yuwliju",
+        "features_contains": [
+          "2MS"
+        ],
+        "label": "Bab IV 2. tekil eril merfû muzâri (`تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ / وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ` — geceyi gündüzün, gündüzü gecenin içine yedirip geçirirsin; 2 geçiş: 3:27)"
+      },
+      {
+        "lemma": "yuwliju",
+        "features_contains": [
+          "3MS"
+        ],
+        "label": "Bab IV 3. tekil eril merfû muzâri (`يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ / وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ` — zaman katmanlarını kesintisiz birbirinin içine aktarır; 8 geçiş: 22:61, 31:29, 35:13, 57:6)"
+      },
+      {
+        "lemma": "yalija",
+        "features_contains": [
+          "SUBJ"
+        ],
+        "label": "Bab I 3. tekil eril `حَتَّىٰ` ile mansûb muzâri (`حَتَّىٰ يَلِجَ ٱلْجَمَلُ فِى سَمِّ ٱلْخِيَاطِ` — kaba gövde/halat iğnenin dar deliğinden geçmedikçe; 1 geçiş: 7:40)"
+      },
+      {
+        "lemma": "yalija",
+        "label": "Bab I 3. tekil eril merfû muzâri (`يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ` — yerin derinliğine süzülüp giren her şeyi eksiksiz bilir; 2 geçiş: 34:2, 57:4)"
+      },
+      {
+        "lemma": "waliyjap",
+        "label": "`يَتَّخِذُوا۟` fiilinin nekre dişil mansûb ikinci mef'ûlü (`وَلَمْ يَتَّخِذُوا۟ ... وَلِيجَةً` — iç halkaya sokulmuş gizli sırdaş ve özel dayanak edinmeyenler; 1 geçiş: 9:16)"
+      }
+    ],
+    "irab_default": "Dar boşluktan içeri süzülme, iç içe yedirme veya iç sırdaş (`و-ل-ج` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:27",
+          "22:61",
+          "31:29",
+          "35:13",
+          "57:6"
+        ],
+        "text": "Gece ile Gündüzün Kesintisiz İç İçe Geçiş Döngüsü (`3:27`, `22:61`, `31:29`, `35:13`, `57:6`): Mevsimler boyu geceden eksilenin gündüzün içine, gündüzden eksilenin gecenin içine tedricen yedirilip bütünlenmesi; göksel zaman düzeninin kesintisiz akışı ve içlerde gizlenenlerin bilinmesiyle eşleştirilmesi."
+      },
+      {
+        "ayahs": [
+          "34:2",
+          "57:4"
+        ],
+        "text": "Yerkabuğunun Derinliğine Süzülen Unsurlar (`34:2`, `57:4`): Yağmur damlalarından bitki tohumlarına, madenlerden yeraltına gömülen her kütleye dek toprağın içine nüfuz eden tüm hareketlerin üstten çıkanlarla birlikte kuşatıcı bilgi altında tutulması."
+      },
+      {
+        "ayahs": [
+          "7:40"
+        ],
+        "text": "Dar İğne Deliğinden Geçiş Eşiği ile Kesin Engelleme (`7:40`): Ayetleri büyüklük taslayarak yalanlayanların mutluluk bahçesine girişinin, devenin yahut kalın halatın (`ٱلْجَمَل`) iğnenin dar deliğinden (`سَمِّ ٱلْخِيَاطِ`) geçmesine bağlanan mutlak olanaksızlığı."
+      },
+      {
+        "ayahs": [
+          "9:16"
+        ],
+        "text": "Güven Çevresine Sızdırılan Yabancı Sırdaş Yasağı (`9:16`): Zorlu çaba ve sınama anlarında Allah, Elçisi ve güvenenler topluluğunun mahremiyet dairesi dışından gizli sırdaş ve çıkar ortağı (`وَلِيجَة`) edinilmemesi ölçütü."
+      }
+    ],
+    "context_default": "İçeri nüfuz etme, iç içe yedirme ve gizli iç dayanak bağlamı"
   }
 }
