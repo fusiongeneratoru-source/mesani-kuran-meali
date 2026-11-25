@@ -49015,5 +49015,96 @@
       }
     ],
     "context_default": "Yetişip ulaşma veya bir safa katma/iliştirme bağlamı"
+  },
+  "س-ف-ر": {
+    "buckwalter": "sfr",
+    "slug": "sfr",
+    "concept_name": "Sefer, Esfâr ve Müsfira (Örtüyü Açıp Aydınlatmak, Açık Yolculuk ve Yazılı Tomarlar)",
+    "keywords": [
+      "yolculuk",
+      "sefer",
+      "kitap",
+      "aydın",
+      "tomar"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "safar",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "Nekre mansûb atıflı `كَانَ` haberi (`وَسَفَرًا قَاصِدًا` — ölçülü ve kolay aşılabilir bir yolculuk; 1 geçiş: 9:42)"
+      },
+      {
+        "lemma": "safar",
+        "ayahs": [
+          "18:62"
+        ],
+        "label": "`مِن` harf-i cerriyle zamire muzâf tekil mecrûr (`لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًا` — şu yolculuğumuzda yorgunluk çektik; 1 geçiş: 18:62)"
+      },
+      {
+        "lemma": "safar",
+        "label": "`عَلَىٰ` harf-i cerriyle nekre mecrûr (`أَوْ عَلَىٰ سَفَرٍ` — yahut yolculuk hâli üzerinde bulunursa; 5 geçiş: 2:184, 2:185, 2:283, 4:43, 5:6)"
+      },
+      {
+        "lemma": ">asofaAr",
+        "ayahs": [
+          "34:19"
+        ],
+        "label": "`سَفَر` isminin kırık çoğulu, `بَيْنَ` muzâfun ileyhi mecrûr (`بَٰعِدْ بَيْنَ أَسْفَارِنَا` — yolculuklarımızın/konaklarımızın arasını uzaklaştır; 1 geçiş: 34:19)"
+      },
+      {
+        "lemma": ">asofaAr",
+        "label": "`سِفْر` isminin kırık çoğulu nekre mansûb mef'ûl (`يَحْمِلُ أَسْفَارًۢا` — yazılı büyük kitap/tomar ciltleri sırtlanan; 1 geçiş: 62:5)"
+      },
+      {
+        "lemma": ">asofara",
+        "label": "Bab IV 3. tekil eril mâzi fiil (`وَٱلصُّبْحِ إِذَآ أَسْفَرَ` — karanlık örtüsünü kaldırıp aydınlandığında sabah; 1 geçiş: 74:34)"
+      },
+      {
+        "lemma": "safarap",
+        "label": "`فَعَلَة` kalıbında kırık çoğul nekre mecrûr muzâfun ileyh (`بِأَيْدِى سَفَرَةٍ` — gerçeği açığa çıkaran aktarıcı yazıcıların ellerinde; 1 geçiş: 80:15)"
+      },
+      {
+        "lemma": "m~usofirap",
+        "label": "Bab IV dişil tekil nekre merfû ism-i fâil haber (`وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ` — o gün perdesi açılmış apaydınlık yüzler; 1 geçiş: 80:38)"
+      }
+    ],
+    "irab_default": "Aydınlatıp açığa çıkarma, yolculuk veya yazılı tomar (`س-ف-ر` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:184",
+          "2:185",
+          "2:283",
+          "4:43",
+          "5:6"
+        ],
+        "text": "Yolculuk Halinde Kolaylık ve Sözleşme Güvencesi (`2:184`, `2:185`, `2:283`, `4:43`, `5:6`): Yerleşik düzenden çıkıp yolda olanlar (`عَلَىٰ سَفَرٍ`) için sağlıkla birlikte tanınan esneklikler ve kâtip bulunmadığında elden alınan rehin güvencesi (`2:283`)."
+      },
+      {
+        "ayahs": [
+          "9:42",
+          "18:62",
+          "34:19"
+        ],
+        "text": "Mesafe Zorluğu, Yolculuk Yorgunluğu ve Uzaklaştırma Talebi (`9:42`, `18:62`, `34:19`): Kısa mesafeli seferde ortaya çıkıp uzun yolda geri duranlar (`9:42`), Mûsâ'nın yolculukta hissettiği yorgunluk (`18:62`) ve nimet şımarıklığıyla duraklar arasının açılmasını isteyen Sebe halkı (`34:19`)."
+      },
+      {
+        "ayahs": [
+          "62:5",
+          "80:15"
+        ],
+        "text": "Gerçeği Açığa Çıkaran Büyük Tomarlar ve Yazıcı Elçiler (`62:5`, `80:15`): Sayfaları tutan sadık aktarıcılar (`80:15` `سَفَرَةٍ`) ile Sure 62 içinde içindekini kavramadan yalnızca dış yükünü sırtlanılan büyük yazılı tomarlar (`62:5` `أَسْفَارًۢا`)."
+      },
+      {
+        "ayahs": [
+          "74:34",
+          "80:38"
+        ],
+        "text": "Karanlık ve Keder Perdesinin Sıyrılıp Aydınlanması (`74:34`, `80:38`): Gece örtüsünü açıp aydınlatan sabah (`74:34` `أَسْفَرَ`) ile büyük hesap gününde mutlulukla parıldayan yüzler (`80:38` `مُّسْفِرَةٌ`)."
+      }
+    ],
+    "context_default": "Örtüyü açıp aydınlatma, sefer yolculuğu veya yazılı tomar bağlamı"
   }
 }
