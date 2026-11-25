@@ -47804,5 +47804,87 @@
       }
     ],
     "context_default": "Gökten sağanak yağışı veya ceza yağdırma bağlamı"
+  },
+  "ع-ش-و": {
+    "buckwalter": "E$w",
+    "slug": "Esw",
+    "concept_name": "Aşiyy, İşâ' ve Ya'şu (Akşam Alacası, İlk Gece Karanlığı ve Işıktan Yüz Çevirmek)",
+    "keywords": [
+      "akşam",
+      "yatsı",
+      "karanlık",
+      "yüz çevir",
+      "alaca"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaEo$u",
+        "label": "Bab I şart ile meczûm nakıs 3. tekil eril muzâri (`وَمَن يَعْشُ عَنْ ذِكْرِ ٱلرَّحْمَٰنِ` — son `و` düşer: kim loş gözle hatırlatmadan yüz çevirirse; 1 geçiş: 43:36)"
+      },
+      {
+        "lemma": "Ea$iy~ap",
+        "label": "Tekil müennes mansûb zaman zarfı (`إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا` — sanki yalnızca bir akşam alacası yaşamış gibi; 1 geçiş: 79:46)"
+      },
+      {
+        "lemma": "Ei$aA^'",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "Nekre mansûb zaman zarfı (`وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ` — akşam karanlığı çöktüğünde ağlayarak geldiler; 1 geçiş: 12:16)"
+      },
+      {
+        "lemma": "Ei$aA^'",
+        "label": "Marife mecrûr muzâfun ileyh (`مِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ` — akşam karanlığı buluşmasının ardından; 1 geçiş: 24:58)"
+      },
+      {
+        "lemma": "Ea$iY~",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "`بِـ` harf-i cerriyle marife mecrûr zaman ismi (`بِٱلْعَشِىِّ` — akşam alacasında; 6 geçiş: 3:41, 6:52, 18:28, 38:18, 38:31, 40:55)"
+      },
+      {
+        "lemma": "Ea$iY~",
+        "label": "Nekre mansûb zaman zarfı (`وَعَشِيًّا` — akşam vaktinde; 4 geçiş: 19:11, 19:62, 30:18, 40:46)"
+      }
+    ],
+    "irab_default": "Akşam karanlığı vakti veya göz yumup yüz çevirme fiili (`ع-ش-و` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:41",
+          "6:52",
+          "18:28",
+          "19:11",
+          "19:62",
+          "30:18",
+          "38:18",
+          "40:46",
+          "40:55"
+        ],
+        "text": "Sabah ve Akşam Simetrisi Bağlamı (`3:41`, `6:52`, `18:28`, `19:11`, `19:62`, `30:18`, `38:18`, `40:46`, `40:55`): `بُكْرَة / إِبْكَار / غَدَاة / إِشْرَاق / ظُهُور` zamanlarıyla eşleştirilerek günün iki ucunu kuşatan yöneliş, rızık veya uyarı döngüsü."
+      },
+      {
+        "ayahs": [
+          "12:16",
+          "24:58"
+        ],
+        "text": "İlk Gece Karanlığı (`عِشَاء`) Bağlamı (`12:16`, `24:58`): Karanlık çökünce kardeşlerin ağlayarak gelişi (`12:16`) ve ev içi mahremiyetin akşam karanlığı sonrasındaki üçüncü sınırı (`24:58`)."
+      },
+      {
+        "ayahs": [
+          "38:31",
+          "79:46"
+        ],
+        "text": "Öğleden Sonra Sınavı ve Ömrün Kısalığı Bağlamı (`38:31`, `79:46`): Süleyman'ın akşam alacasında cins atları denetlemesi ve kıyamet karşısında dünya ömrünün tek bir akşamcık gibi algılanması."
+      },
+      {
+        "ayahs": [
+          "43:36"
+        ],
+        "text": "Hatırlatmaya Karşı Göz Yumma (`يَعْشُ`) Bağlamı (`43:36`): Alacakaranlık loşluğundaymış gibi Rahmân'ın hatırlatmasından yüz çevirenin azgın bir yoldaşla baş başa bırakılması."
+      }
+    ],
+    "context_default": "Akşam vakti, ilk gece karanlığı veya ışıktan göz yumma bağlamı"
   }
 }

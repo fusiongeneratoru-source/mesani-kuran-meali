@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 12 / 50 Kök (Toplam Mühürlü: 662 Kök | Güncel Kapsam: %93,52)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 13 / 50 Kök (Toplam Mühürlü: 663 Kök | Güncel Kapsam: %93,55)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -19,7 +19,7 @@
 | 10 | Yüksek Frekanslı Çekirdek | 461 | `س-و-م` | `S-W-M` | **15** | 15 | 2:49 | Sevm, Sîmâ ve Müsevvem (Azap Dayatma, Meraya Salma ve Ayırt Edici Nişan) | ✅ **MÜHÜRLÜ** |
 | 11 | Yüksek Frekanslı Çekirdek | 463 | `ك-ف-ف` | `K-F-F` | **15** | 14 | 2:208 | Keff, Keffeyn ve Kâffe (Eli Geri Çekip Durdurma, Avuç İçi ve Bütüncül Halka) | ✅ **MÜHÜRLÜ** |
 | 12 | Yüksek Frekanslı Çekirdek | 467 | `م-ط-ر` | `M-T-R` | **15** | 9 | 4:102 | Matar, İmtâr ve Mumtir (Yoğun Sağanak, Azap Yağışı ve Taş Yağdırmak) | ✅ **MÜHÜRLÜ** |
-| 13 | Yüksek Frekanslı Çekirdek | 475 | `ع-ش-و` | `A-S-W` | **14** | 14 | 3:41 | Aşiyy, İşâ' ve Ya'şû (14 geçiş / 14 ayet: 3:41, 6:52, 12:16, 18:28, 19:11 gün batımı akşam karanlığı ve zifiri körlük/gaflet) | ⏳ *Bekliyor* |
+| 13 | Yüksek Frekanslı Çekirdek | 475 | `ع-ش-و` | `A-S-W` | **14** | 14 | 3:41 | Aşiyy, İşâ' ve Ya'şu (Akşam Alacası, İlk Gece Karanlığı ve Işıktan Yüz Çevirmek) | ✅ **MÜHÜRLÜ** |
 | 14 | Yüksek Frekanslı Çekirdek | 476 | `ث-و-ي` | `S-W-Y` | **14** | 14 | 3:151 | Mesvâ ve Sâvî (14 geçiş / 14 ayet: 3:151, 6:128, 12:21, 12:23, 16:29 kalıcı konak/ikamet yeri ve sükûnla yerleşmek) | ⏳ *Bekliyor* |
 | 15 | Yüksek Frekanslı Çekirdek | 478 | `و-ص-ف` | `W-S-F` | **14** | 14 | 6:100 | Vasf ve Yasifûn (14 geçiş / 14 ayet: 6:100, 6:139, 12:18, 12:77, 16:62 yakıştırma/nitelendirme ile asılsız isnatta bulunmak) | ⏳ *Bekliyor* |
 | 16 | Yüksek Frekanslı Çekirdek | 482 | `ص-ف-ف` | `S-F-F` | **14** | 12 | 18:48 | Saff, Sâffât ve Masfûfe (14 geçiş / 12 ayet: 18:48, 20:64, 22:36, 24:41, 37:1 düzgün sıra hâlinde dizilmek ve kanat açıp süzülmek) | ⏳ *Bekliyor* |

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 662,
+    "total_locked": 663,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -916,7 +916,8 @@
         "س-ل-م (س-ل-م ↔ ن-و-ر Mesânî simetrisi)",
         "ب-ر-ه-ن (ب-ر-ه-ن ↔ ن-و-ر Mesânî simetrisi)",
         "ظ-ل-ل [كَيْفَ مَدَّ ٱلظِّلَّ ... ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا] (Doğrudan Yayılan Parlak Işık ve Aydınlık ↔ Işığın Bir Cisimle Perdelenmesiyle Oluşan Gölge: 25:45, 35:20-21)",
-        "م-و-ه (م-و-ه ↔ ن-و-ر Mesânî simetrisi)"
+        "م-و-ه (م-و-ه ↔ ن-و-ر Mesânî simetrisi)",
+        "ع-ش-و (A-S-W (E$w) — Çift Yönlü Mesânî Karşılığı: 43:36 [وَمَن يَعْشُ عَن ذِكْرِ ٱلرَّحْمَٰنِ — loşluk içinde göz yumup kararmak ↔ yol aydınlatan saf ışık])"
       ]
     },
     "ح-س-ن": {
@@ -3885,7 +3886,8 @@
         "ب-ر-ر [إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ / كِتَٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ ... كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ] (Geniş İyilik ve Sadakat Ehli ↔ Ahlaki Sınırları Yırtıp Taşanlar: 82:13-14, 83:7, 83:18)",
         "ل-ي-ل [مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ / غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ / لَيْلَةُ ٱلْقَدْرِ ... حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ] (Gece Karanlığının Örtüsü ↔ Karanlığı Genişçe Yarıp Fışkıran Tan Aydınlığı: 2:187, 17:78, 97:5)",
         "ح-ج-ر (H-C-R (Hjr) — Çift Yönlü Mesânî Karşılığı: 25:53, 25:22, 89:5, 49:4)",
-        "غ-س-ق (Kapalı bir seti, kayayı, karanlığı veya sınırı genişçe yarıp içinden şiddetle fışkırıp taş ↔ Karanlığın veya bulanık/soğuk sıvının birikip dolması ve koyulaşması (ظُلْمَةُ اللَّيْلِ و: 17:78, 38:57, 78:25)"
+        "غ-س-ق (Kapalı bir seti, kayayı, karanlığı veya sınırı genişçe yarıp içinden şiddetle fışkırıp taş ↔ Karanlığın veya bulanık/soğuk sıvının birikip dolması ve koyulaşması (ظُلْمَةُ اللَّيْلِ و: 17:78, 38:57, 78:25)",
+        "ع-ش-و (A-S-W (E$w) — Çift Yönlü Mesânî Karşılığı: 24:58 [مِّن قَبْلِ صَلَوٰةِ ٱلْفَجْرِ ... وَمِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ — tan ağarması ↔ akşam karanlığının çöküşü])"
       ]
     },
     "أ-ف-ك": {
@@ -8317,7 +8319,8 @@
         "ر-و-ح",
         "غ-ر-ب",
         "ل-ي-ل",
-        "ق-د-م"
+        "ق-د-م",
+        "ع-ش-و (A-S-W (E$w) — Çift Yönlü Mesânî Karşılığı: 6:52, 18:28, 40:46 [بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ / غُدُوًّا وَعَشِيًّا — sabah aydınlığı ↔ akşam alacası])"
       ]
     },
     "م-ه-د": {
@@ -8378,6 +8381,18 @@
         "ن-ب-ت",
         "ح-ي-ي",
         "ر-ف-ع"
+      ]
+    },
+    "ع-ش-و": {
+      "latin": "A-S-W (E$w)",
+      "core": "Işığın çekilip alacakaranlığın ve ilk gece karanlığının çökmesi (`ظَلاَمٌ وَقِلَّةُ وُضُوحٍ`) çekirdeği kökün `14` geçişini kesintisiz örer: `13` zaman-vakit geçişinde (`10` `عَشِيّ`, `2` `عِشَاء`, `1` `عَشِيَّةً`) güneşin batışa yöneldiği gün sonu ve akşam karanlığı (`غَدَاة`, `بُكْرَة`, `إِشْرَاق`, `ضُحًى`, `فَجْر`, `ظَهِيرَة` vakitlerinin simetrik karşısı) olarak; `1` fiil geçişinde (`43:36` `يَعْشُ عَنْ`) ise loşluk ve bulanıklık içinde gerçeğin aydınlığından göz yumup uzaklaşmak olarak işler.",
+      "physical": "İbn Fâris'in tespit ettiği tek çekirdek (`ظَلاَمٌ وَقِلَّةُ وُضُوحٍ فِى الشَّيْءِ` — ışığın çekilmeye başlamasıyla çöken alacakaranlık, gölgenin koyulaşması ve buna bağlı görme bulanıklığı): Günün ikinci yarısından güneş batımına kadar ışığın eğilip azaldığı zaman dilimini (`عَشِيّ` `10`, `عَشِيَّة` `1`), gecenin ilk karanlığının çökmesini (`عِشَاء` `2`) ve ışığın azalmasıyla gözün bulanıklaşıp haktan yüz çevirmesini (`يَعْشُ` `1`) tek optik-zamansal mekanikte toplar.",
+      "opposites": [
+        "ض-ح-و",
+        "ش-ر-ق",
+        "غ-د-و",
+        "ف-ج-ر",
+        "ن-و-ر"
       ]
     }
   }
