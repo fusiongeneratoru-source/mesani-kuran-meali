@@ -47301,5 +47301,103 @@
       }
     ],
     "context_default": "Sabahın ilk aydınlık vakti, erkenden çıkış veya yarın bağlamı"
+  },
+  "م-ه-د": {
+    "buckwalter": "mhd",
+    "slug": "mhd",
+    "concept_name": "Mehd, Mihâd ve Temhîd (Beşikten Yayvan Döşeğe Düzleştirip Hazırlanan Zemin)",
+    "keywords": [
+      "döşek",
+      "beşik",
+      "zemin",
+      "hazırla",
+      "yay"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yamohadu",
+        "label": "Bab I merfû muzâri fiil (`فَلِأَنفُسِهِمْ يَمْهَدُونَ` — onarıcı iş yapanlar bizzat kendi benlikleri için elverişli zemin hazırlarlar; 1 geçiş: 30:44)"
+      },
+      {
+        "lemma": "ma`hiduwn",
+        "label": "Bab I çoğul ism-i fâil (`فَنِعْمَ ٱلْمَٰهِدُونَ` — yeryüzünü yayıp döşeyen ne güzel hazırlayıcılarız; 1 geçiş: 51:48)"
+      },
+      {
+        "lemma": "mah~ad",
+        "label": "Bab II 1. tekil mâzî fiil (`وَمَهَّدتُّ لَهُۥ` — önündeki engelleri kaldırıp imkânı genişçe serdim; 1 geçiş: 74:14)"
+      },
+      {
+        "lemma": "tamohiyd",
+        "label": "Bab II mef'ûl-i mutlak masdar (`تَمْهِيدًا` — tam ve eksiksiz bir kolaylaştırma ve düzleyip serme ile; 1 geçiş: 74:14)"
+      },
+      {
+        "lemma": "mahod",
+        "features_contains": [
+          "GEN"
+        ],
+        "label": "`فِى` ile mecrûr tekil isim (`فِى ٱلْمَهْدِ` — korunaklı beşik çağında konuşması; 3 geçiş: 3:46, 5:110, 19:29)"
+      },
+      {
+        "lemma": "mahod",
+        "label": "`جَعَلَ` fiilinin mansûb ikinci mef'ûlü (`جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا` — Rasm `مهدا`, yeryüzünü sizin için beşik/düz döşek kıldı; 2 geçiş: 20:53, 43:10)"
+      },
+      {
+        "lemma": "miha`d",
+        "ayahs": [
+          "78:6"
+        ],
+        "label": "`نَجْعَلِ` fiilinin mansûb ikinci mef'ûlü (`أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًا` — yeryüzünü düz bir döşek kılmadık mı; 1 geçiş: 78:6)"
+      },
+      {
+        "lemma": "miha`d",
+        "ayahs": [
+          "7:41"
+        ],
+        "label": "Nekre merfû muahhar mübteda (`لَهُم مِّن جَهَنَّمَ مِهَادٌ` — onlara yakıcı yıkım yurdundan alt döşek vardır; 1 geçiş: 7:41)"
+      },
+      {
+        "lemma": "miha`d",
+        "label": "`بِئْسَ` fiilinin merfû öznesi (`وَلَبِئْسَ / وَبِئْسَ / فَبِئْسَ ٱلْمِهَادُ` — varılacak o yer ne kötü yatak ve döşektir; 5 geçiş: 2:206, 3:12, 3:197, 13:18, 38:56)"
+      }
+    ],
+    "irab_default": "Beşik, yayvan döşek veya düzleştirip hazırlama türevi (`م-ه-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "20:53",
+          "43:10",
+          "51:48",
+          "78:6"
+        ],
+        "text": "Yeryüzünün Yaşam Döşeği Olarak Düzleştirilmesi (`20:53`, `43:10`, `51:48`, `78:6`): Yeryüzünün sarsıntısız, engebesiz ve yolları açılmış bir döşek (`مَهْد / مِهَٰد`) kılınması ve onu döşeyen yaratıcı gücün övülmesi (`فَنِعْمَ ٱلْمَٰهِدُونَ`)."
+      },
+      {
+        "ayahs": [
+          "3:46",
+          "5:110",
+          "19:29"
+        ],
+        "text": "Korunaklı Beşik Çağında Tanıklık (`3:46`, `5:110`, `19:29`): Meryem oğlu Îsâ'nın henüz beşikteki (`فِى ٱلْمَهْدِ`) çocukluk evresinde de olgunluk çağında da insanlarla bilgece konuşması."
+      },
+      {
+        "ayahs": [
+          "30:44",
+          "74:14"
+        ],
+        "text": "Kendi Geleceğini Döşeme ve Dünya İmkânlarının Serilmesi (`30:44`, `74:14`): Onarıcı işler yapanların bizzat kendi benlikleri için rahat ve güvenli zemin hazırlamaları (`30:44`) ile şımarık önder için dünya koşullarının alabildiğine kolaylaştırılıp serilmesi (`74:14`)."
+      },
+      {
+        "ayahs": [
+          "2:206",
+          "3:12",
+          "3:197",
+          "7:41",
+          "13:18",
+          "38:56"
+        ],
+        "text": "Azgınların Varacağı Karşı-Döşek İronisi (`2:206`, `3:12`, `3:197`, `7:41`, `13:18`, `38:56`): Kibirle sapmada diretenlerin ve gerçeği örtenlerin yakıcı yıkım yurdunda altlarına serilecek ateş döşeği (`لَهُم مِّن جَهَنَّمَ مِهَادٌ` / `وَبِئْسَ ٱلْمِهَادُ`)."
+      }
+    ],
+    "context_default": "Beşikten yeryüzü döşeğine kadar düzleştirip yumuşatarak hazırlanan zemin bağlamı"
   }
 }

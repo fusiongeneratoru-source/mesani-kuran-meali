@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 7 / 50 Kök (Toplam Mühürlü: 657 Kök | Güncel Kapsam: %93,36)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 8 / 50 Kök (Toplam Mühürlü: 658 Kök | Güncel Kapsam: %93,40)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -14,7 +14,7 @@
 | 5 | Yüksek Frekanslı Çekirdek | 440 | `ر-ب-ص` | `R-B-S` | **17** | 12 | 2:226 | Terabbus ve Müterabbis (Belirlenen Süreyi Tutup Beklemek ve Sonucu Gözetlemek) | ✅ **MÜHÜRLÜ** |
 | 6 | Yüksek Frekanslı Çekirdek | 455 | `ع-ت-د` | `A-T-D` | **16** | 16 | 4:18 | Atîd ve A'tede (Eksiği Kalmadan Önceden Kurup Yanı Başında Hazır Bekletmek) | ✅ **MÜHÜRLÜ** |
 | 7 | Yüksek Frekanslı Çekirdek | 453 | `غ-د-و` | `G-D-W` | **16** | 16 | 3:121 | Gudüvv ve Gad (Sabahın İlk Aydınlık Vakti, Erkenden Çıkış ve Yarın) | ✅ **MÜHÜRLÜ** |
-| 8 | Yüksek Frekanslı Çekirdek | 450 | `م-ه-د` | `M-H-D` | **16** | 15 | 2:206 | Mehd, Mihâd ve Temhîd (16 geçiş / 15 ayet: 2:206, 3:12, 3:46, 3:197, 5:110 beşikten yayvan döşeğe kadar düzleştirip hazırlanan zemin) | ⏳ *Bekliyor* |
+| 8 | Yüksek Frekanslı Çekirdek | 450 | `م-ه-د` | `M-H-D` | **16** | 15 | 2:206 | Mehd, Mihâd ve Temhîd (Beşikten Yayvan Döşeğe Düzleştirip Hazırlanan Zemin) | ✅ **MÜHÜRLÜ** |
 | 9 | Yüksek Frekanslı Çekirdek | 459 | `ك-ي-ل` | `K-Y-L` | **16** | 13 | 6:152 | Keyl, Mikyâl ve İktiyâl (16 geçiş / 13 ayet: 6:152, 7:85, 11:84, 11:85, 12:59 hacim ölçüsü ve hak ölçüsünü tam teslim etmek) | ⏳ *Bekliyor* |
 | 10 | Yüksek Frekanslı Çekirdek | 461 | `س-و-م` | `S-W-M` | **15** | 15 | 2:49 | Sevm, Sîmâ ve Müsevvem (15 geçiş / 15 ayet: 2:49, 2:273, 3:14, 3:125, 7:46 belirgin işaret/damga, salıverme ve azaba maruz bırakma) | ⏳ *Bekliyor* |
 | 11 | Yüksek Frekanslı Çekirdek | 463 | `ك-ف-ف` | `K-F-F` | **15** | 14 | 2:208 | Keff, Keffân ve Kâffe (15 geçiş / 14 ayet: 2:208, 4:77, 4:84, 4:91, 5:11 avuç içi, elini tutup durdurmak ve topyekûn kuşatma) | ⏳ *Bekliyor* |
