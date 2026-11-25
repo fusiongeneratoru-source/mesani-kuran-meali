@@ -1,0 +1,408 @@
+{
+  "root": "س-و-ق",
+  "root_latin": "S-W-K (SWQ)",
+  "concept_name": "Sevk, Sâk ve Esvâk (Hedefe Yöneltip Sürmek, Taşıyıcı Bacak/Sap ve Çarşılar)",
+  "rank": 444,
+  "total_occurrences": 17,
+  "unique_ayahs_count": 16,
+  "unified_core_mechanism": "Bir şeyi arkadan itip yönlendirerek hedefe doğru yürütmek (`حدو الشيء وجذبه ممتداً`): `7` Bab I fiilde ve `2` isimde (`سَائِق`, `مَسَاق`) bulutu, suyu veya insan gruplarını sonuca sevk etmek; `6` isimde (`سَاق` ve `سُوق` `38:33, 48:29`) yürümeyi ve duruşu taşıyan alt bacak/ekin sapı; `2` çoğulda (`ٱلْأَسْوَاقِ` `25:7, 20`) ise mal ve insanların sevk edildiği çarşı/pazarı ifade eder.",
+  "physical_core": "İbn Fâris'in saptadığı tek somut çekirdek ('bir şeyi arkadan sürüp öne doğru kesintisiz yürütmek [حدو الشيء وجذبه ممتداً]'): eylemsel düzlemde yağmur yüklü bulutları, suyu ya da insan gruplarını hedefe doğru sürmeyi (`سَاقَ`, `سَائِق`, `مَسَاق` — `9` geçiş); bedensel/bitkisel düzlemde yürümeyi ve gövdeyi ayakta taşıyan 'incik/baldır ve kalın gövde sapını' (`سَاق`, çoğ. `سُوق` `38:33, 48:29` — `6` geçiş); toplumsal düzlemde ise herkesin ve malların sevk edilip buluştuğu 'çarşı/pazarı' (`ٱلْأَسْوَاقِ` `25:7, 20` — `2` geçiş) tanımlar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "`سَاقَ` fiilini, üzerine yürünüp ileri atılan `السَّاق` bacak organını ve mal ile insanların dört bir yandan sevk edildiği `السُّوق` çarşısını tek bir `حدو الشيء` ('ileri doğru çekip sürmek') köküne bağlar.",
+    "lisan_al_arab": "İbn Manzûr `سَاق` kelimesinin çoğulunun `سُوق` (`38:33` ve `48:29`) olduğunu vurgular ve `كشف عن ساقٍ` deyiminin 'büyük çetinlik ve hazırlık anı'nı gösterdiğini açıklar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî `سَوْق` kavramını hayvanın veya bulut/suyun arkadan sevk edilmesi, `سَاق` ismini ise gövdeyi taşıyıp yürüten destek direği olarak özetler; Korpus `0.4` veri tabanının `38:33` ve `48:29`'daki `سُوق` (bacaklar/saplar) ile `25:7,20` `أَسْوَاق` (çarşı) kelimelerini aynı `s~uwq` lemmasının altında tuttuğunu, ancak bağlamın iki anlamı kesinlikle ayırdığını özellikle kaydeder.",
+    "arbitration_decision": "Hareketi arkadan itip hedefe ulaştıran `سَوْق` (`9` geçiş), yürümeyi/duruşu taşıyan `سَاق / سُوق` (`6` geçiş) ve mal-insan akış merkezi `أَسْوَاق` (`2` geçiş) tek mekanizmada (`17` geçiş) ayrıştırılarak birleştirilmiştir."
+  },
+  "semitic_cognates": {
+    "note": "Karşılaştırmalı Sami etimoloji bu kökte iki kadim tabanı ayırır: 1) Anatomik `سَاق` ('incik, alt bacak'): İbranice `שׁוֹק` (`šōq`), Aramice/Süryanice `שָׁקָא / ܫܩܐ` (`šāqā`) ile Arapça arasında düzenli ıslıklı ses denkliği (*š ↔ s) gösteren ortak Sami bedensel terimidir (Akadca `sâqu` 'ince/dar olmak' köküyle bağlantılı görülür). 2) Ticari mekân `سُوق` ('çarşı, pazar'): Doğu Sami Akadca `sūqu` ('sokak, geçit') teriminden Aramice `שׁוּקָא` (`šūqā`) üzerinden Arapça `سُوق / أَسْوَاق` ve İbranice `שׁוּק` biçimine geçmiş kültürel ticaret sözcüğüdür. Arapça her ikisini de `س-و-ق` şemsiyesinde birleştirir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ح-ش-ر",
+      "ق-ع-د",
+      "س-ك-ن",
+      "ث-ب-ت",
+      "م-ن-ع"
+    ],
+    "key_ayahs": [
+      "19:85-86 (يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَٰنِ وَفْدًا وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا — saygın heyet hâlinde ağırlanarak toplanmak `ح-ش-ر` ↔ susuz sürü gibi azaba sürülmek `س-و-ق`)",
+      "7:57 & 32:27 & 35:9 (سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ / نَسُوقُ ٱلْمَآءَ — rahmeti, rüzgârı ve suyu yürütüp harekete geçirmek `س-و-ق` ↔ yerinde hareketsiz durdurmak `س-ك-ن`, sabitlemek `ث-ب-ت` ve akışı engellemek `م-ن-ع`)",
+      "25:7 & 25:20 & 48:29 (وَيَمْشِى فِى ٱلْأَسْوَاقِ / فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ — ayakta dikilip çarşılarda aktifçe yürümek ↔ oturup sabit kalmak `ق-ع-د`)"
+    ],
+    "reverse_stress_test": "Saygın toplanma (`ح-ش-ر` `19:85-86` simetrisi), yerinde oturup kalma (`ق-ع-د`), durgunluk (`س-ك-ن`), hareketsiz sabitlenme (`ث-ب-ت`) ve geçişi engelleme (`م-ن-ع`) tersine çevrildiğinde, `س-و-ق` kökünün 'belirli hedefe doğru sevk edip yürütmek ve taşıyıcı bacak/sap/akış mekânı sağlamak' çekirdeği tüm `17` geçişi %100 doğrular."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ح-ش-ر",
+      "ق-ع-د",
+      "س-ك-ن",
+      "ث-ب-ت",
+      "م-ن-ع",
+      "ر-س-ل",
+      "ر-و-ح",
+      "ش-ه-د",
+      "ع-ن-ق",
+      "ز-ر-ع",
+      "ك-ش-ف",
+      "ل-ف-ف"
+    ],
+    "mechanical_difference": "1) `19:85-86`: `ح-ش-ر` (topluca huzura alıp bir araya getirme) ile `نَسُوقُ` (arkadan sevk edip sürme) arasındaki yöntem ve statü farkını kurar. 2) `50:21`: `سَآئِقٌ وَشَهِيدٌ` — `سَائِق` kişiyi hesap alanına sevk eden görevliyi, `شَهِيد` (`ش-ه-د`) ise eylemleri doğrulayan tanığı ayırır. 3) `38:33`: `بِٱلسُّوقِ وَٱلْأَعْنَاقِ` — hayvan bedeninin alt hareket ekseni bacaklar (`سُوق`) ile üst boyun (`أَعْنَاق`) ayrılır. 4) `75:29-30`: `ٱلسَّاقُ بِٱلسَّاقِ ... إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ` — bedeni ayakta tutan iki bacağın (`سَاق`) ölüm anında düğümlenmesinden kişinin nihai sevk durağına (`ٱلْمَسَاق`) geçişini tek kelime oyunuyla mühürler. 5) `7:57` & `35:9`: `يُرْسِلُ ٱلرِّيَٰحَ ... سُقْنَٰهُ` — `أَرْسَلَ` (`ر-س-ل`) başlangıç gönderimini, `سَاقَ` ise bulutların tam hedef beldeye kadar güdülmesini ayırır."
+  },
+  "anchor_ayahs": [
+    "7:57 & 32:27 & 35:9 (سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ / أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ — ölü ve çorak toprağı diriltmek üzere yağmur bulutlarının ve suyun özenle sevk edilişi)",
+    "39:71 & 39:73 & 50:21 (وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ / وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ / مَّعَهَا سَآئِقٌ وَشَهِيدٌ — tercih edilen hayat çizgisine göre grupların refakatçi ile son duraklara sevki)",
+    "75:29-30 (وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ — dünya yürüyüşünün bitişi ve Rabbe yönelik nihai sevk yolculuğu)",
+    "27:44 & 68:42 & 38:33 & 48:29 (كَشَفَتْ عَن سَاقَيْهَا / يَوْمَ يُكْشَفُ عَن سَاقٍ / فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ — insanda incik, işin çetin kritik yüzü, at bacakları ve dik duran ekin gövde sapları)",
+    "25:7 & 25:20 (يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ — elçilerin olağan beşerî yaşam içinde çarşı ve pazarlarda halkla iç içe yürümesi)"
+  ],
+  "grammar_and_branch_rules": "17 geçiş 5 Korpus lemmasında toplanır: 1) **Bab I Fiil `سَاقَ` (`7` geçiş):** `4` etken (`7:57`, `19:86`, `32:27`, `35:9`) ve `3` edilgen (`8:6` muzari `يُسَاقُونَ`, `39:71` ve `39:73` mâzi `سِيقَ`). 2) **`سَاق` Tekil/İkil İsim (`4` geçiş):** `27:44` (`سَاقَيْهَا` ikil mecrur), `68:42` (`سَاقٍ` nekre mecrur), `75:29` (`ٱلسَّاقُ بِٱلسَّاقِ` marife merfu + mecrur). 3) **`سُوق` Etiketli İki Ayrı Anlam (`4` geçiş):** `25:7` ve `25:20`'de `سُوق` ('çarşı') kelimesinin cemi mükesseri `ٱلْأَسْوَاقِ`; `38:33` (`بِٱلسُّوقِ`) ve `48:29` (`عَلَىٰ سُوقِهِۦ`) ayetlerinde ise `سَاق` ('bacak / sap') kelimesinin cemi mükesseri `سُوق`'tur. 4) **İsm-i Fâil `سَائِق` (`1` geçiş: `50:21`):** Merfu fail. 5) **Mimli Masdar/Mekân `مَسَاق` (`1` geçiş: `75:30`):** Mübteda-i muahhar merfu (`ٱلْمَسَاقُ`).",
+  "derivatives": {
+    "سَاقَ / سِيقَ (Sâka / Sîka)": "Bab I Etken/Edilgen Fiil (7 geçiş: 7:57, 8:6, 19:86, 32:27, 35:9, 39:71, 39:73) — yağmur, su veya toplulukları belirli yöne sevk etmek",
+    "سَاق / سُوق (Sâk / Sûk [bacak-sap])": "Tekil/İkil/Cemi Mükesser İsim (6 geçiş: 27:44, 38:33, 48:29, 68:42, 75:29 x2) — incik/bacak, çetin durum ve bitki sapları",
+    "أَسْوَاق (Esvâk)": "Cemi Mükesser İsim (2 geçiş: 25:7, 25:20) — halkın ve malların aktığı çarşı ve pazarlar",
+    "سَائِق (Sâik)": "Bab I İsm-i Fâil (1 geçiş: 50:21) — kişiyi hesap yerine sevk eden görevli",
+    "مَسَاق (Mesâk)": "Mimli Masdar / Mekân (1 geçiş: 75:30) — varılacak son sevk durağı ve yöneliş"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 7,
+      "ayah": 57,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:57",
+      "word_position": 14,
+      "target_word_uthmani": "سُقْنَٰهُ",
+      "target_word_rasm": "سقنه",
+      "target_word_literal_irab": "Bab I etken fiil (`سُقْنَٰهُ / نَسُوقُ` — 7:57, 19:86, 32:27, 35:9) — bulutu, suyu veya suçluları hedefe sürmek",
+      "context_snippet_arabic": "أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا",
+      "context_snippet_turkish_tabula_rasa": "... Sonucu rüzgarlar, ağır yağmur bulutlarını yüklenince onları ölmüş bir ülkeye sevk ederiz, oraya böylece yağmur yağdırırız da her çeşit meyveler yetiştiririz. Düşünün de ibret almaya bakın, çünkü biz, ölüyü de işte böyle diriltiriz.",
+      "morphology": {
+        "lemma": "siyqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:siyqa|ROOT:swq|1P"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle bir mabuttur ki rahmetinden önce müjdeci olarak rüzgarları yollar. Sonucu rüzgarlar, ağır yağmur bulutlarını yüklenince onları ölmüş bir ülkeye sevk ederiz, oraya böylece yağmur yağdırırız da her çeşit meyveler yetiştiririz. Düşünün de ibret almaya bakın, çünkü biz, ölüyü de işte böyle diriltiriz.",
+      "contextual_meaning": "Ekolojik Rahmet Sevki (`7:57`, `32:27`, `35:9`): Rüzgârlar aracılığıyla yüklü bulutların ve suyun ölü/çorak topraklara yaşam vermek üzere sevk edilişi."
+    },
+    {
+      "surah": 8,
+      "ayah": 6,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:6",
+      "word_position": 7,
+      "target_word_uthmani": "يُسَاقُونَ",
+      "target_word_rasm": "يساقون",
+      "target_word_literal_irab": "Bab I edilgen fiil (`يُسَاقُونَ / وَسِيقَ` — 8:6, 39:71, 39:73) — belirlenen sonuca sevk edilip götürülmek",
+      "context_snippet_arabic": "بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Gerçek, apaçık meydana çıktıktan sonra bile bu hususta, gözleri bakabaka ölüme sürükleniyorlarmış gibi seninle çekişmeye kalkışıyorlardı.",
+      "morphology": {
+        "lemma": "siyqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:siyqa|ROOT:swq|3MP"
+      },
+      "ayah_text_arabic_full": "يُجَٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçek, apaçık meydana çıktıktan sonra bile bu hususta, gözleri bakabaka ölüme sürükleniyorlarmış gibi seninle çekişmeye kalkışıyorlardı.",
+      "contextual_meaning": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+    },
+    {
+      "surah": 19,
+      "ayah": 86,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:86",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَسُوقُ",
+      "target_word_rasm": "ونسوق",
+      "target_word_literal_irab": "Bab I etken fiil (`سُقْنَٰهُ / نَسُوقُ` — 7:57, 19:86, 32:27, 35:9) — bulutu, suyu veya suçluları hedefe sürmek",
+      "context_snippet_arabic": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ",
+      "context_snippet_turkish_tabula_rasa": "Ve mücrimleri susamış bir halde yakıcı yıkım yurduna sevk ederiz.",
+      "morphology": {
+        "lemma": "siyqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:siyqa|ROOT:swq|1P"
+      },
+      "ayah_text_arabic_full": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve mücrimleri susamış bir halde yakıcı yıkım yurduna sevk ederiz.",
+      "contextual_meaning": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+    },
+    {
+      "surah": 25,
+      "ayah": 7,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:7",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْأَسْوَاقِ",
+      "target_word_rasm": "ٱلأسواق",
+      "target_word_literal_irab": "Cemi mükesser isim (`ٱلْأَسْوَاقِ` — 25:7, 25:20) — mal ve insanların aktığı açık çarşılar",
+      "context_snippet_arabic": "ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ لَوْلَآ أُنزِلَ إِلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "Ve bu ne çeşit elçi dediler, yemek yiyor, sokaklarda geziyor; ona bir buyruk elçisi indirilseydi de yanında bir korkutucu olsaydı ya;",
+      "morphology": {
+        "lemma": "s~uwq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:s~uwq|ROOT:swq|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَالِ هَٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُۥ نَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ve bu ne çeşit elçi dediler, yemek yiyor, sokaklarda geziyor; ona bir buyruk elçisi indirilseydi de yanında bir korkutucu olsaydı ya;",
+      "contextual_meaning": "Bedenin Taşıyıcı Alt Direği, Ekin Sapı ve Toplumsal Çarşı (`25:7,20`, `27:44`, `38:33`, `48:29`, `68:42`): Elçilerin halk çarşılarında yürümesi, Belkıs ve at bacakları, çetin sınav anı ile ekinin kendi kalın gövde sapları üzerinde doğrulması."
+    },
+    {
+      "surah": 25,
+      "ayah": 20,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:20",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْأَسْوَاقِ",
+      "target_word_rasm": "ٱلأسواق",
+      "target_word_literal_irab": "Cemi mükesser isim (`ٱلْأَسْوَاقِ` — 25:7, 25:20) — mal ve insanların aktığı açık çarşılar",
+      "context_snippet_arabic": "ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "Senden önce de elçilerden hiçbirini yollamadık ki onlar, yemek yememiş, sokaklarda gezmemiş olsunlar ve biz, sizin bir kısmınızı, bir kısmınızla denedik,...",
+      "morphology": {
+        "lemma": "s~uwq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:s~uwq|ROOT:swq|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce de elçilerden hiçbirini yollamadık ki onlar, yemek yememiş, sokaklarda gezmemiş olsunlar ve biz, sizin bir kısmınızı, bir kısmınızla denedik, bakalım dayanacak mısınız? Ve Rabbin, her şeyi görür.",
+      "contextual_meaning": "Bedenin Taşıyıcı Alt Direği, Ekin Sapı ve Toplumsal Çarşı (`25:7,20`, `27:44`, `38:33`, `48:29`, `68:42`): Elçilerin halk çarşılarında yürümesi, Belkıs ve at bacakları, çetin sınav anı ile ekinin kendi kalın gövde sapları üzerinde doğrulması."
+    },
+    {
+      "surah": 27,
+      "ayah": 44,
+      "surah_name": "Neml",
+      "ayah_ref": "27:44",
+      "word_position": 11,
+      "target_word_uthmani": "سَاقَيْهَا",
+      "target_word_rasm": "ساقيها",
+      "target_word_literal_irab": "Tekil/ikil isim (`سَاقَيْهَا / سَاقٍ / ٱلسَّاقُ / بِٱلسَّاقِ` — 27:44, 68:42, 75:29 x2) — incik/bacak veya durumun çetin yüzü",
+      "context_snippet_arabic": "لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا قَالَ إِنَّهُۥ صَرْحٌ",
+      "context_snippet_turkish_tabula_rasa": "Ona, saraya gir dendi. Billur döşemeyi görünce derin bir su sandı ve bacaklarını sıvadı. Süleyman, bu dedi, billur döşenmiş düz bir saha. ...",
+      "morphology": {
+        "lemma": "saAq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:saAq|ROOT:swq|MD|GEN"
+      },
+      "ayah_text_arabic_full": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَٰنَ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona, saraya gir dendi. Billur döşemeyi görünce derin bir su sandı ve bacaklarını sıvadı. Süleyman, bu dedi, billur döşenmiş düz bir saha. Bunun üzerine o da Rabbim dedi, ben kendime zulmettim ve teslim oldum Süleyman'la beraber alemlerin Rabbi Allah'a.",
+      "contextual_meaning": "Bedenin Taşıyıcı Alt Direği, Ekin Sapı ve Toplumsal Çarşı (`25:7,20`, `27:44`, `38:33`, `48:29`, `68:42`): Elçilerin halk çarşılarında yürümesi, Belkıs ve at bacakları, çetin sınav anı ile ekinin kendi kalın gövde sapları üzerinde doğrulması."
+    },
+    {
+      "surah": 32,
+      "ayah": 27,
+      "surah_name": "Secde",
+      "ayah_ref": "32:27",
+      "word_position": 4,
+      "target_word_uthmani": "نَسُوقُ",
+      "target_word_rasm": "نسوق",
+      "target_word_literal_irab": "Bab I etken fiil (`سُقْنَٰهُ / نَسُوقُ` — 7:57, 19:86, 32:27, 35:9) — bulutu, suyu veya suçluları hedefe sürmek",
+      "context_snippet_arabic": "أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Görmediler mi ki biz, suyu, kurak ve çorak yerlere akıtırız da o sayede hayvanlarının ve kendilerinin yiyecekleri otları bitiririz; hala mı görmezler?",
+      "morphology": {
+        "lemma": "siyqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:siyqa|ROOT:swq|1P"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ فَنُخْرِجُ بِهِۦ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَٰمُهُمْ وَأَنفُسُهُمْ أَفَلَا يُبْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmediler mi ki biz, suyu, kurak ve çorak yerlere akıtırız da o sayede hayvanlarının ve kendilerinin yiyecekleri otları bitiririz; hala mı görmezler?",
+      "contextual_meaning": "Ekolojik Rahmet Sevki (`7:57`, `32:27`, `35:9`): Rüzgârlar aracılığıyla yüklü bulutların ve suyun ölü/çorak topraklara yaşam vermek üzere sevk edilişi."
+    },
+    {
+      "surah": 35,
+      "ayah": 9,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:9",
+      "word_position": 7,
+      "target_word_uthmani": "فَسُقْنَٰهُ",
+      "target_word_rasm": "فسقنه",
+      "target_word_literal_irab": "Bab I etken fiil (`سُقْنَٰهُ / نَسُوقُ` — 7:57, 19:86, 32:27, 35:9) — bulutu, suyu veya suçluları hedefe sürmek",
+      "context_snippet_arabic": "ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ve Allah, öyle bir mabuttur ki rüzgarları yollar da bulutu sürer, derken ölü şehri yağmurla suya kandırırız da ölümünden sonra yeryüzünü diriltiriz onunla,...",
+      "morphology": {
+        "lemma": "siyqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:siyqa|ROOT:swq|1P"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا كَذَٰلِكَ ٱلنُّشُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Allah, öyle bir mabuttur ki rüzgarları yollar da bulutu sürer, derken ölü şehri yağmurla suya kandırırız da ölümünden sonra yeryüzünü diriltiriz onunla, işte ölülerin diriltilmesi de böyledir.",
+      "contextual_meaning": "Ekolojik Rahmet Sevki (`7:57`, `32:27`, `35:9`): Rüzgârlar aracılığıyla yüklü bulutların ve suyun ölü/çorak topraklara yaşam vermek üzere sevk edilişi."
+    },
+    {
+      "surah": 38,
+      "ayah": 33,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:33",
+      "word_position": 5,
+      "target_word_uthmani": "بِٱلسُّوقِ",
+      "target_word_rasm": "بٱلسوق",
+      "target_word_literal_irab": "Cemi mükesser `سَاق` çoğulu (`بِٱلسُّوقِ / عَلَىٰ سُوقِهِۦ` — 38:33, 48:29) — at bacakları ve bitkinin kalın gövde sapları",
+      "context_snippet_arabic": "عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ",
+      "context_snippet_turkish_tabula_rasa": "Getirin onları bana demişti, atlar getirilince de onların ayaklarını, boyunlarını okşamıya, yelerini taramaya koyulmuştu.",
+      "morphology": {
+        "lemma": "s~uwq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:s~uwq|ROOT:swq|M|GEN"
+      },
+      "ayah_text_arabic_full": "رُدُّوهَا عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Getirin onları bana demişti, atlar getirilince de onların ayaklarını, boyunlarını okşamıya, yelerini taramaya koyulmuştu.",
+      "contextual_meaning": "Bedenin Taşıyıcı Alt Direği, Ekin Sapı ve Toplumsal Çarşı (`25:7,20`, `27:44`, `38:33`, `48:29`, `68:42`): Elçilerin halk çarşılarında yürümesi, Belkıs ve at bacakları, çetin sınav anı ile ekinin kendi kalın gövde sapları üzerinde doğrulması."
+    },
+    {
+      "surah": 39,
+      "ayah": 71,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:71",
+      "word_position": 1,
+      "target_word_uthmani": "وَسِيقَ",
+      "target_word_rasm": "وسيق",
+      "target_word_literal_irab": "Bab I edilgen fiil (`يُسَاقُونَ / وَسِيقَ` — 8:6, 39:71, 39:73) — belirlenen sonuca sevk edilip götürülmek",
+      "context_snippet_arabic": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ve gerçeğin üzerini örten olanlar, bölükbölük yakıcı yıkım yurduna sürülmüştür, oraya geldikleri zaman kapıları açılmıştır da bekçileri, onlara, sizin...",
+      "morphology": {
+        "lemma": "siyqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:siyqa|ROOT:swq|3MS"
+      },
+      "ayah_text_arabic_full": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve gerçeğin üzerini örten olanlar, bölükbölük yakıcı yıkım yurduna sürülmüştür, oraya geldikleri zaman kapıları açılmıştır da bekçileri, onlara, sizin içinizden, Rabbinizin ayetlerini okuyan ve sizi, bugüne kavuşacağınızı söyleyerek korkutan elçiler gelmedi mi size derler. Onlar da evet derler ve fakat azap hükmü, hak olmuştur gerçeğin üzerini örtenlere.",
+      "contextual_meaning": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+    },
+    {
+      "surah": 39,
+      "ayah": 73,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:73",
+      "word_position": 1,
+      "target_word_uthmani": "وَسِيقَ",
+      "target_word_rasm": "وسيق",
+      "target_word_literal_irab": "Bab I edilgen fiil (`يُسَاقُونَ / وَسِيقَ` — 8:6, 39:71, 39:73) — belirlenen sonuca sevk edilip götürülmek",
+      "context_snippet_arabic": "وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ve Rablerinden çekinenler de bölükbölük esenlik bahçesine sürülmüştür, oraya geldikleri zaman kapıları açılmıştır da bekçileri, esenlik size, tertemiz oldunuz,...",
+      "morphology": {
+        "lemma": "siyqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:siyqa|ROOT:swq|3MS"
+      },
+      "ayah_text_arabic_full": "وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَٰلِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve Rablerinden çekinenler de bölükbölük esenlik bahçesine sürülmüştür, oraya geldikleri zaman kapıları açılmıştır da bekçileri, esenlik size, tertemiz oldunuz, artık girin ebedi olarak derler.",
+      "contextual_meaning": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 39,
+      "target_word_uthmani": "سُوقِهِۦ",
+      "target_word_rasm": "سوقه",
+      "target_word_literal_irab": "Cemi mükesser `سَاق` çoğulu (`بِٱلسُّوقِ / عَلَىٰ سُوقِهِۦ` — 38:33, 48:29) — at bacakları ve bitkinin kalın gövde sapları",
+      "context_snippet_arabic": "فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ",
+      "context_snippet_turkish_tabula_rasa": "... adeta ekilmiş bir taneye benzer ki filiz vermiştir, derken filizi kuvvetlenmiştir, derken kalınlaşmıştır da dümdüz boy vermiştir, gövdelerine dayanıp yücelmiştir; ekincileri şaşırtır, sevindirir, gerçeğin üzerini örtenleri, bununla kızdırıp yerindirmek için. ...",
+      "morphology": {
+        "lemma": "s~uwq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:s~uwq|ROOT:swq|M|GEN"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed, Allah'ın elçi ve onunla beraber bulunanlar, gerçeğin üzerini örtenlere karşı çetindirler, kendi aralarında merhametli, onları görürsün ki tevazu ile öne eğilme etmekteler, boyun eğmeye kapanmaktalar Allah'tan lütuf ve ihsan ve razılık dileyerek; yüzlerinde, boyun eğme ve teslimiyet eserinin alametleri görünmededir ve onların bu vasıfları, Tevrat'ta da vardır ve onlara ait bu vasıflar, İncil'de de var; adeta ekilmiş bir taneye benzer ki filiz vermiştir, derken filizi kuvvetlenmiştir, derken kalınlaşmıştır da dümdüz boy vermiştir, gövdelerine dayanıp yücelmiştir; ekincileri şaşırtır, sevindirir, gerçeğin üzerini örtenleri, bununla kızdırıp yerindirmek için. Allah, güvene erenlere ve iyi işlerde bulunanlara yarlıganma ve pek büyük bir mükafat vaad etmiştir.",
+      "contextual_meaning": "Bedenin Taşıyıcı Alt Direği, Ekin Sapı ve Toplumsal Çarşı (`25:7,20`, `27:44`, `38:33`, `48:29`, `68:42`): Elçilerin halk çarşılarında yürümesi, Belkıs ve at bacakları, çetin sınav anı ile ekinin kendi kalın gövde sapları üzerinde doğrulması."
+    },
+    {
+      "surah": 50,
+      "ayah": 21,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:21",
+      "word_position": 5,
+      "target_word_uthmani": "سَآئِقٌ",
+      "target_word_rasm": "سائق",
+      "target_word_literal_irab": "İsm-i fâil (`سَآئِقٌ` — 50:21) — sevk edici refakatçi",
+      "context_snippet_arabic": "كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ",
+      "context_snippet_turkish_tabula_rasa": "Ve herkes, yanında bir sürüp götüren ve bir tanık olarak gelir.",
+      "morphology": {
+        "lemma": "saA^}iq",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saA^}iq|ROOT:swq|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve herkes, yanında bir sürüp götüren ve bir tanık olarak gelir.",
+      "contextual_meaning": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+    },
+    {
+      "surah": 68,
+      "ayah": 42,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:42",
+      "word_position": 4,
+      "target_word_uthmani": "سَاقٍ",
+      "target_word_rasm": "ساق",
+      "target_word_literal_irab": "Tekil/ikil isim (`سَاقَيْهَا / سَاقٍ / ٱلسَّاقُ / بِٱلسَّاقِ` — 27:44, 68:42, 75:29 x2) — incik/bacak veya durumun çetin yüzü",
+      "context_snippet_arabic": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ",
+      "context_snippet_turkish_tabula_rasa": "O gün, işler güçleşir ve boyun eğmeye davet edilirler, derken güçleri yetmez.",
+      "morphology": {
+        "lemma": "saAq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:saAq|ROOT:swq|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, işler güçleşir ve boyun eğmeye davet edilirler, derken güçleri yetmez.",
+      "contextual_meaning": "Bedenin Taşıyıcı Alt Direği, Ekin Sapı ve Toplumsal Çarşı (`25:7,20`, `27:44`, `38:33`, `48:29`, `68:42`): Elçilerin halk çarşılarında yürümesi, Belkıs ve at bacakları, çetin sınav anı ile ekinin kendi kalın gövde sapları üzerinde doğrulması."
+    },
+    {
+      "surah": 75,
+      "ayah": 29,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:29",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلسَّاقُ",
+      "target_word_rasm": "ٱلساق",
+      "target_word_literal_irab": "Tekil/ikil isim (`سَاقَيْهَا / سَاقٍ / ٱلسَّاقُ / بِٱلسَّاقِ` — 27:44, 68:42, 75:29 x2) — incik/bacak veya durumun çetin yüzü",
+      "context_snippet_arabic": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "context_snippet_turkish_tabula_rasa": "Ve baldır, baldıra dolaşınca.",
+      "morphology": {
+        "lemma": "saAq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:saAq|ROOT:swq|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve baldır, baldıra dolaşınca.",
+      "contextual_meaning": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+    },
+    {
+      "surah": 75,
+      "ayah": 29,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:29",
+      "word_position": 3,
+      "target_word_uthmani": "بِٱلسَّاقِ",
+      "target_word_rasm": "بٱلساق",
+      "target_word_literal_irab": "Tekil/ikil isim (`سَاقَيْهَا / سَاقٍ / ٱلسَّاقُ / بِٱلسَّاقِ` — 27:44, 68:42, 75:29 x2) — incik/bacak veya durumun çetin yüzü",
+      "context_snippet_arabic": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "context_snippet_turkish_tabula_rasa": "Ve baldır, baldıra dolaşınca.",
+      "morphology": {
+        "lemma": "saAq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:saAq|ROOT:swq|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve baldır, baldıra dolaşınca.",
+      "contextual_meaning": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+    },
+    {
+      "surah": 75,
+      "ayah": 30,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:30",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْمَسَاقُ",
+      "target_word_rasm": "ٱلمساق",
+      "target_word_literal_irab": "Mimli masdar/mekân (`ٱلْمَسَاقُ` — 75:30) — Rabbe yönelen son sevk noktası",
+      "context_snippet_arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "context_snippet_turkish_tabula_rasa": "O gün, Rabbinin tapısına götürülür.",
+      "morphology": {
+        "lemma": "masaAq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masaAq|ROOT:swq|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, Rabbinin tapısına götürülür.",
+      "contextual_meaning": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+    }
+  ]
+}

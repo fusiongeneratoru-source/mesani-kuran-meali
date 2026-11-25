@@ -46892,5 +46892,88 @@
       }
     ],
     "context_default": "Yurda yerleşme veya eylem karşılığını yüklenme bağlamı"
+  },
+  "س-و-ق": {
+    "buckwalter": "swq",
+    "slug": "swq",
+    "concept_name": "Sevk, Sâk ve Esvâk (Hedefe Yöneltip Sürmek, Taşıyıcı Bacak/Sap ve Çarşılar)",
+    "keywords": [
+      "sevk",
+      "sürmek",
+      "bacak",
+      "gövde",
+      "çarşı"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "siyqa",
+        "features_contains": [
+          "PASS"
+        ],
+        "label": "Bab I edilgen fiil (`يُسَاقُونَ / وَسِيقَ` — 8:6, 39:71, 39:73) — belirlenen sonuca sevk edilip götürülmek"
+      },
+      {
+        "lemma": "siyqa",
+        "label": "Bab I etken fiil (`سُقْنَٰهُ / نَسُوقُ` — 7:57, 19:86, 32:27, 35:9) — bulutu, suyu veya suçluları hedefe sürmek"
+      },
+      {
+        "lemma": "s~uwq",
+        "features_contains": [
+          "MP"
+        ],
+        "label": "Cemi mükesser isim (`ٱلْأَسْوَاقِ` — 25:7, 25:20) — mal ve insanların aktığı açık çarşılar"
+      },
+      {
+        "lemma": "s~uwq",
+        "label": "Cemi mükesser `سَاق` çoğulu (`بِٱلسُّوقِ / عَلَىٰ سُوقِهِۦ` — 38:33, 48:29) — at bacakları ve bitkinin kalın gövde sapları"
+      },
+      {
+        "lemma": "saAq",
+        "label": "Tekil/ikil isim (`سَاقَيْهَا / سَاقٍ / ٱلسَّاقُ / بِٱلسَّاقِ` — 27:44, 68:42, 75:29 x2) — incik/bacak veya durumun çetin yüzü"
+      },
+      {
+        "lemma": "saA^}iq",
+        "label": "İsm-i fâil (`سَآئِقٌ` — 50:21) — sevk edici refakatçi"
+      },
+      {
+        "lemma": "masaAq",
+        "label": "Mimli masdar/mekân (`ٱلْمَسَاقُ` — 75:30) — Rabbe yönelen son sevk noktası"
+      }
+    ],
+    "irab_default": "Sevk türevi — hedefe doğru yürütmek, taşıyıcı alt gövde/sap veya akış çarşısı",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:57",
+          "32:27",
+          "35:9"
+        ],
+        "text": "Ekolojik Rahmet Sevki (`7:57`, `32:27`, `35:9`): Rüzgârlar aracılığıyla yüklü bulutların ve suyun ölü/çorak topraklara yaşam vermek üzere sevk edilişi."
+      },
+      {
+        "ayahs": [
+          "8:6",
+          "19:86",
+          "39:71",
+          "39:73",
+          "50:21",
+          "75:29",
+          "75:30"
+        ],
+        "text": "Hesap Yolculuğu ve Nihai Sevk Durağı (`8:6`, `19:86`, `39:71,73`, `50:21`, `75:29-30`): Ölüm anında düğümlenen adımdan hesap alanına toplu ve bireysel sevk sahneleri."
+      },
+      {
+        "ayahs": [
+          "25:7",
+          "25:20",
+          "27:44",
+          "38:33",
+          "48:29",
+          "68:42"
+        ],
+        "text": "Bedenin Taşıyıcı Alt Direği, Ekin Sapı ve Toplumsal Çarşı (`25:7,20`, `27:44`, `38:33`, `48:29`, `68:42`): Elçilerin halk çarşılarında yürümesi, Belkıs ve at bacakları, çetin sınav anı ile ekinin kendi kalın gövde sapları üzerinde doğrulması."
+      }
+    ],
+    "context_default": "Hedefe doğru sevk etme, taşıyıcı sap/bacak veya çarşı bağlamı"
   }
 }
