@@ -49237,5 +49237,73 @@
       }
     ],
     "context_default": "Deve cinsi veya ardışık sürü katarı bağlamı"
+  },
+  "ع-ص-ف": {
+    "buckwalter": "ESf",
+    "slug": "ESf",
+    "concept_name": "Asf ve Âsıfe (Hızla Savuran Fırtına ve Savrulan Ekin Kabuğu/Saman)",
+    "keywords": [
+      "fırtına",
+      "kasırga",
+      "savur",
+      "saman",
+      "kabuk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EaASif",
+        "features_contains": [
+          "NOM"
+        ],
+        "label": "`رِيحٌ` isminin tekil eril nekre merfû sıfatı (`جَآءَتْهَا رِيحٌ عَاصِفٌ` — şiddetle esip savuran fırtınalı bir rüzgâr geldi; 1 geçiş: 10:22)"
+      },
+      {
+        "lemma": "EaASif",
+        "label": "`فِى` ile mecrûr `يَوْمٍ` sıfatı/ismi (`فِى يَوْمٍ عَاصِفٍ` — şiddetle savurucu fırtınalı bir günde; 1 geçiş: 14:18)"
+      },
+      {
+        "lemma": "EaASifap",
+        "label": "Dişil `ٱلرِّيحَ` ismine bağlı tekil dişil nekre mansûb hâl (`وَلِسُلَيْمَٰنَ ٱلرِّيحَ عَاصِفَةً` — buyruğuyla süratle akıp giden fırtınalı rüzgâr; 1 geçiş: 21:81)"
+      },
+      {
+        "lemma": "Ea`Sifa`t",
+        "label": "Kasem harfiyle mecrûr dişil çoğul etken ism-i fâil (`فَٱلْعَٰصِفَٰتِ` — hızla esip savuran kuvvetlere/rüzgârlara ant olsun; 1 geçiş: 77:2)"
+      },
+      {
+        "lemma": "EaSof2",
+        "label": "Mef'ûl-i mutlak pekiştirmeli masdar nekre mansûb (`فَٱلْعَٰصِفَٰتِ عَصْفًا` — şiddetle esip savurdukça savuranlar; 1 geçiş: 77:2)"
+      },
+      {
+        "lemma": "EaSof",
+        "ayahs": [
+          "55:12"
+        ],
+        "label": "`ذُو` muzâfının ardından elif-lâmlı ma'rife mecrûr isim (`وَٱلْحَبُّ ذُو ٱلْعَصْفِ` — dış sapı/kabuğu bulunan dane; 1 geçiş: 55:12)"
+      },
+      {
+        "lemma": "EaSof",
+        "label": "`كَـ` benzetme edatıyla nekre mecrûr isim (`فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ` — içi yenilip boşalmış savruk saman kabuğu gibi; 1 geçiş: 105:5)"
+      }
+    ],
+    "irab_default": "Savurucu fırtınalı esinti veya savrulan hafif ekin kabuğu (`ع-ص-ف` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "10:22",
+          "14:18",
+          "21:81",
+          "77:2"
+        ],
+        "text": "Hızla Esen ve Önüne Kattığını Savuran Fırtına Gücü (`10:22`, `14:18`, `21:81`, `77:2`): Denizde gemiyi kuşatan şiddetli fırtına (`10:22`), karşılıksız işlerin kül gibi uçtuğu fırtınalı gün (`14:18`), Süleyman'ın emrine verilen süratli rüzgâr (`21:81`) ve savurdukça savuran kasırga akışı (`77:2`)."
+      },
+      {
+        "ayahs": [
+          "55:12",
+          "105:5"
+        ],
+        "text": "Daneyi Çevreleyen Yapraklı Sap ve Tüketilmiş Boş Kabuk (`55:12`, `105:5`): Daneyi koruyan dış yaprak ve harman kabuğu (`55:12`) ile Sure 105 içinde kuş sürülerinin taşlarıyla içi yenilmiş/dağılmış saman döküntüsüne döndürülen ordu (`105:5`)."
+      }
+    ],
+    "context_default": "Savurucu rüzgâr veya hafif ekin kabuğu bağlamı"
   }
 }
