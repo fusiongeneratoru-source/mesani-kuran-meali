@@ -50828,5 +50828,50 @@
       }
     ],
     "context_default": "Doğru hattan eğip bükme ve yana çevirme bağlamı"
+  },
+  "ج-س-م": {
+    "buckwalter": "jsm",
+    "slug": "jsm",
+    "concept_name": "Cism ve Ecsâm (Üç Boyutlu Fiziksel Cüsse, Bedensel Yapı ve Dış Gövde)",
+    "keywords": [
+      "cüsse",
+      "gövde",
+      "beden",
+      "fiziksel yapı",
+      "cism",
+      "ecsam"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jisom",
+        "ayahs": [
+          "2:247"
+        ],
+        "label": "`فِى ٱلْعِلْمِ` mecrûr ismine atfedilmiş marife tekil isim (`وَٱلْجِسْمِ` — fiziksel cüsse ve bedensel yapı bakımından; 1 geçiş: 2:247)"
+      },
+      {
+        "lemma": "jisom",
+        "ayahs": [
+          "63:4"
+        ],
+        "label": "`تُعْجِبُكَ` fiilinin merfû kırık çoğul fâili (`أَجْسَامُهُمْ` — göz alıcı dış gövdeleri; 1 geçiş: 63:4)"
+      }
+    ],
+    "irab_default": "Fiziksel cüsse ve gövde bildiren isim (`ج-س-م` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:247"
+        ],
+        "text": "Bilgiyle Bütünleşen Fiziksel Yeterlilik (`2:247`): Tâlût'un mal varlığıyla değil, bilgi (`ٱلْعِلْم`) ve bedensel yapı/cüsse (`ٱلْجِسْم`) genişliğiyle seçkin kılınması."
+      },
+      {
+        "ayahs": [
+          "63:4"
+        ],
+        "text": "İçsel Özden Kopuk Gösterişli Dış Gövde (`63:4`): 63. sûrede ikiyüzlülerin dışarıdan bakanı etkileyen iri gövdelerinin (`أَجْسَامُهُمْ`) içsel dirençten yoksun yaslı kerestelere benzetilmesi."
+      }
+    ],
+    "context_default": "Fiziksel cüsse ve dış gövde bağlamı"
   }
 }
