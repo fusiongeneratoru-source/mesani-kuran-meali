@@ -47399,5 +47399,109 @@
       }
     ],
     "context_default": "Beşikten yeryüzü döşeğine kadar düzleştirip yumuşatarak hazırlanan zemin bağlamı"
+  },
+  "ك-ي-ل": {
+    "buckwalter": "kyl",
+    "slug": "kyl",
+    "concept_name": "Keyl, Mikyâl ve İktiyâl (Hacim Ölçüsü ve Hak Ölçüsünü Tam Teslim Etmek)",
+    "keywords": [
+      "ölçek",
+      "ölçü",
+      "kile",
+      "tahıl",
+      "ölç"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mikoyaAl",
+        "label": "`مِفْعَال` kalıbında mansûb alet ismi (`ٱلْمِكْيَالَ` — standart hacim ölçme kabını eksiltmeyip adaletle tam doldurmak; 2 geçiş: 11:84, 11:85)"
+      },
+      {
+        "lemma": "{kotaAlu",
+        "features_contains": [
+          "JUS"
+        ],
+        "label": "Bab VIII meczûm 1. çoğul muzâri fiil (`نَكْتَلْ` — talep cevabı olarak 'erzak ölçüsü alalım'; 1 geçiş: 12:63)"
+      },
+      {
+        "lemma": "{kotaAlu",
+        "label": "Bab VIII 3. çoğul eril mâzî fiil (`إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ` — halktan kendi adlarına ölçtürüp alırken; 1 geçiş: 83:2)"
+      },
+      {
+        "lemma": "kaAlu",
+        "ayahs": [
+          "17:35"
+        ],
+        "label": "Bab I 2. çoğul eril mâzî fiil (`إِذَا كِلْتُمْ` — Korpus `0.4` dosyasında `PASS` etiketlense de dilbilgisi bakımından etken 'ölçtüğünüz zaman'; 1 geçiş: 17:35)"
+      },
+      {
+        "lemma": "kaAlu",
+        "label": "Bab I 3. çoğul eril mâzî fiil + bitişik mef'ûl zamiri (`وَإِذَا كَالُوهُمْ` — insanlara ölçüp verdiklerinde; 1 geçiş: 83:3)"
+      },
+      {
+        "lemma": "kayol",
+        "ayahs": [
+          "12:60"
+        ],
+        "label": "Cinsini nefyeden `لَا`'nın fetha üzere mebnî ismi (`فَلَا كَيْلَ لَكُمْ عِندِى` — yanımda size verilecek hiçbir erzak ölçüsü yoktur; 1 geçiş: 12:60)"
+      },
+      {
+        "lemma": "kayol",
+        "ayahs": [
+          "12:63"
+        ],
+        "label": "Edilgen mâzînin merfû nâib-i fâili (`مُنِعَ مِنَّا ٱلْكَيْلُ` — bizden tahıl/erzak ölçüsü kesilip yasaklandı; 1 geçiş: 12:63)"
+      },
+      {
+        "lemma": "kayol",
+        "features_contains": [
+          "INDEF"
+        ],
+        "label": "Nekre merfû haber (`ذَٰلِكَ كَيْلٌ يَسِيرٌ` — bu az/kolay bir erzak ölçüsüdür; 1 geçiş: 12:65)"
+      },
+      {
+        "lemma": "kayol",
+        "ayahs": [
+          "12:65"
+        ],
+        "label": "`نَزْدَادُ` fiilinin mansûb mef'ûlü muzâf (`وَنَزْدَادُ كَيْلَ بَعِيرٍ` — bir deve yükü erzak ölçüsü daha artırırız; 1 geçiş: 12:65)"
+      },
+      {
+        "lemma": "kayol",
+        "label": "Mansûb mef'ûlün bih (`ٱلْكَيْلَ` — ölçüyü/erzak payını tam teslim etmek; 6 geçiş: 6:152, 7:85, 12:59, 12:88, 17:35, 26:181)"
+      }
+    ],
+    "irab_default": "Hacim ölçüsü, ölçü kabı veya ölçüm fiili (`ك-ي-ل` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:152",
+          "7:85",
+          "11:84",
+          "11:85",
+          "17:35",
+          "26:181"
+        ],
+        "text": "Ticarette ve Toplumsal Hukukta Tam Ölçü İlkesi (`6:152`, `7:85`, `11:84-85`, `17:35`, `26:181`): Ölçüyü (`ٱلْكَيْلَ`) ve ölçü kabını (`ٱلْمِكْيَالَ`) teraziyle birlikte hakkaniyetle tam doldurup eksiltmemek, yeryüzünde düzeni bozmamak."
+      },
+      {
+        "ayahs": [
+          "83:2",
+          "83:3"
+        ],
+        "text": "Ölçüde Çifte Standardın İfşası (`83:2`, `83:3`): Alırken halkın aleyhine tam isteyen (`ٱكْتَالُوا۟ ... يَسْتَوْفُونَ`), ancak başkasına ölçüp verirken (`كَالُوهُمْ`) kırpıp eksilten (`يُخْسِرُونَ`) çifte ölçütlü sömürü düzeni."
+      },
+      {
+        "ayahs": [
+          "12:59",
+          "12:60",
+          "12:63",
+          "12:65",
+          "12:88"
+        ],
+        "text": "Kıtlık Döneminde Adil Erzak Ölçüsü Yönetimi (`12:59`, `12:60`, `12:63`, `12:65`, `12:88`): Yûsuf'un kardeşi getirme şartıyla erzak ölçüsünü tam vermesi (`12:59-60`), kardeşlerin 'bize ölçü yasaklandı, gönder ki alalım' demesi (`12:63`), deve yükü ölçüsünü artırma umudu (`12:65`) ve son darlıkta tam ölçü talebi (`12:88`)."
+      }
+    ],
+    "context_default": "Hacim ölçüsü ve ticari/erzak hak ölçümünü tam teslim etme bağlamı"
   }
 }
