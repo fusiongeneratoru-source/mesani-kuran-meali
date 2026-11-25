@@ -46764,5 +46764,68 @@
       }
     ],
     "context_default": "Sağlam yerleştirme, imkân verme veya korunaklı konum bağlamı"
+  },
+  "م-د-ن": {
+    "buckwalter": "mdn",
+    "slug": "mdn",
+    "concept_name": "Medîne ve Medâin (Yönetim ve Toplumsal Düzene Sahip Merkezî Şehir)",
+    "keywords": [
+      "şehir",
+      "kent",
+      "yerleşim",
+      "merkez",
+      "yönetim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "madaA^}in",
+        "label": "Cemi mükesser isim (`ٱلْمَدَآئِنِ` — 7:111, 26:36, 26:53) — merkezi idari şehirler"
+      },
+      {
+        "lemma": "madiynap",
+        "pos": "PN",
+        "label": "Özel kent adı PN (`ٱلْمَدِينَةِ` — 9:101, 9:120, 33:60, 63:8) — Yesrib/Medîne kenti"
+      },
+      {
+        "lemma": "madiynap",
+        "label": "Tekil isim (`ٱلْمَدِينَةِ / ٱلْمَدِينَةَ` — 10 geçiş) — yönetim, piyasa ve toplumsal düzen merkezi şehir"
+      }
+    ],
+    "irab_default": "Medîne ismi — yasalı, yönetim merkezli yerleşik büyük şehir",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:111",
+          "7:123",
+          "12:30",
+          "15:67",
+          "26:36",
+          "26:53",
+          "27:48",
+          "28:15",
+          "28:18",
+          "28:20"
+        ],
+        "text": "Siyasi İktidar, Kent Çatışması ve Kamuoyu (`7:111,123`, `12:30`, `15:67`, `26:36,53`, `27:48`, `28:15,18,20`): Devletin taşra şehirlerine çağrısı, saray söylentileri, dokuzlu çete bozgunculuğu ve şehirden ayrılış/uyarı sahneleri."
+      },
+      {
+        "ayahs": [
+          "18:19",
+          "18:82",
+          "36:20"
+        ],
+        "text": "Çarşı, Sosyal Emanet ve Uzak Uçtan Gelen Uyarıcı (`18:19,82`, `36:20`): Ekonomik alışveriş, yetim malını koruyan kent duvarı ve şehrin en uzak ucundan koşup gelen samimi davetçi."
+      },
+      {
+        "ayahs": [
+          "9:101",
+          "9:120",
+          "33:60",
+          "63:8"
+        ],
+        "text": "Medîne Kent Toplumu ve Çevre İlişkisi (`9:101,120`, `33:60`, `63:8`): Kent halkı ile çevredeki kırsal topluluğun karşılaştırılması, bozguncu propaganda ve kente dönüşte üstünlük iddiası."
+      }
+    ],
+    "context_default": "Yerleşik ve yönetimli kent merkezi bağlamı"
   }
 }

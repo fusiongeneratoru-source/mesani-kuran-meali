@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 651,
+    "total_locked": 652,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1025,7 +1025,8 @@
         "ق-ر-ي (K-R-Y (qry) — Çift Yönlü Mesânî Karşılığı: 2:58, 4:75, 7:82, 7:88)",
         "ن-ز-ل (N-Z-L — Çift Yönlü Mesânî Karşılığı: 34:2, 57:4)",
         "خ-ف-ي (خ-ف-ي ↔ خ-ر-ج Mesânî simetrisi)",
-        "أ-و-ي [فَمَأْوَىٰهُمُ ٱلنَّارُ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا] (Dışarı Çıkmak ↔ İçine Kapanılan Kalıcı Barınağa Dönmek: 32:20)"
+        "أ-و-ي [فَمَأْوَىٰهُمُ ٱلنَّارُ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا] (Dışarı Çıkmak ↔ İçine Kapanılan Kalıcı Barınağa Dönmek: 32:20)",
+        "م-د-ن (م-د-ن ↔ خ-ر-ج Mesânî simetrisi)"
       ]
     },
     "ص-ل-ح": {
@@ -4844,7 +4845,8 @@
         "ع-ج-م [لِسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّ وَهَٰذَا لِسَانٌ عَرَبِىٌّ مُّبِينٌ / ءَا۬عْجَمِىٌّ وَعَرَبِىٌّ] (Kapalı, Anlaşılmaz ve Yabancı Dil ↔ Duru, Apaçık ve Anlaşılır Arapça İfade [أَعْجَمِىّ & عَرَبِىّ]: 16:103, 41:44)",
         "ع-ق-ل [إِنَّآ أَنزَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ / إِنَّا جَعَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ] (Duru ve Açık İfade Dili ↔ Akıl Yürütüp Bağlantı Kurabilmek [عَرَبِيًّا & تَعْقِلُونَ]: 12:2, 43:3)",
         "ب-ي-ن [بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ / لِسَانٌ عَرَبِىٌّ مُّبِينٌ] (Pürüzsüz Arapça İfade ↔ Gerçeği Apaçık Ortaya Koyan Anlatım [عَرَبِىّ & مُّبِين]: 16:103, 26:195)",
-        "ل-س-ن (L-S-N (lsn) — Çift Yönlü Mesânî Karşılığı: 30:22, 14:4, 16:116, 3:78)"
+        "ل-س-ن (L-S-N (lsn) — Çift Yönlü Mesânî Karşılığı: 30:22, 14:4, 16:116, 3:78)",
+        "م-د-ن (م-د-ن ↔ ع-ر-ب Mesânî simetrisi)"
       ]
     },
     "ف-ك-ر": {
@@ -5881,7 +5883,8 @@
         "ع-ك-ف [سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ] (Orada Yerleşik Kalıp Duran [ٱلْعَٰكِفُ] ↔ Dışarıdan/Açık Bozkırdan Gelen [وَٱلْبَادِ]: 22:25)",
         "ض-ر-ب (ض-ر-ب ↔ ب-د-و Mesânî simetrisi)",
         "ق-ر-ي (ق-ر-ي ↔ ب-د-و Mesânî simetrisi)",
-        "خ-م-ر (خ-م-ر ↔ ب-د-و Mesânî simetrisi)"
+        "خ-م-ر (خ-م-ر ↔ ب-د-و Mesânî simetrisi)",
+        "م-د-ن (م-د-ن ↔ ب-د-و Mesânî simetrisi)"
       ]
     },
     "ن-ز-ع": {
@@ -7574,7 +7577,8 @@
         "م-ل-أ",
         "ح-ض-ر",
         "ل-ق-ي",
-        "ف-ر-غ"
+        "ف-ر-غ",
+        "م-د-ن (م-د-ن ↔ خ-ل-و Mesânî simetrisi)"
       ]
     },
     "ش-ج-ر": {
@@ -8199,6 +8203,17 @@
         "ع-ج-ز",
         "ن-ز-ع",
         "خ-و-ن"
+      ]
+    },
+    "م-د-ن": {
+      "latin": "M-D-N (MDN)",
+      "core": "İdari hukuk düzeni, yönetim aygıtı, ticaret ağı ve kalıcı yerleşik toplumsal yapıya sahip 'merkezî şehir / büyük kent' (`13` geçişte Firavun şehirleri, Sâlih, Lût, Yûsuf, Ashâb-ı Kehf ve Antakya kent bağlamları; `4` geçişte Medîne kent merkezi — tam `17` isim kullanımı).",
+      "physical": "Klasik Arap dilcilerinin işaret ettiği 'belirli bir düzende kalıcı yerleşip mesken tutmak (`مدن بالمكان`)' ile Sami/Aramice `*d-y-n` ('yargı, yönetim ve yasa alanı -> *mĕdīntā*') mirasının kesiştiği çekirdek: göçebe veya başıboş kır alanının aksine kendi kurumsal yasası, yönetimi, çarşısı ve yerleşik toplumsal düzeni olan 'ana merkez şehir / uygar yerleşim alanı'nı anlatır.",
+      "opposites": [
+        "ع-ر-ب",
+        "ب-د-و",
+        "خ-ل-و",
+        "خ-ر-ج"
       ]
     }
   }

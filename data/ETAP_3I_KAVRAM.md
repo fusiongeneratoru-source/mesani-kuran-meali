@@ -3,12 +3,12 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 650 mühürlü kökten (`%93,13`) sonra, kalan `18-14` geçişli `20` çekirdek kök, `4` sureyi daha `%100` kilitleyen `19` kök (Sure 104 Hümeze, 62 Cum'a, 105 Fîl, 111 Mesed → **29 tam kilitli sure**) ve `13` geçişli `11` çekirdek kök olmak üzere **50 kök** (558 geçiş) mühürlenerek toplam sözlük **700 kilitli köke (`%94,24` kümülatif kök kapsamı)** ulaştırılır.
-> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 1 / 50 Kök (Toplam Mühürlü: 651 Kök | Güncel Kapsam: %93,16)
+> **Etap 3I İçinde Şu Ana Kadar Mühürlenen:** 2 / 50 Kök (Toplam Mühürlü: 652 Kök | Güncel Kapsam: %93,20)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | 1 | Yüksek Frekanslı Çekirdek | 430 | `م-ك-ن` | `M-K-N` | **18** | 16 | 6:6 | Temkîn ve Mekîn (Sağlam Zeminde Yerleştirme, İmkân ve Korunaklı Konum) | ✅ **MÜHÜRLÜ** |
-| 2 | Yüksek Frekanslı Çekirdek | 445 | `م-د-ن` | `M-D-N` | **17** | 17 | 7:111 | Medîne ve Medâin (17 geçiş / 17 ayet: 7:111, 7:123, 9:101, 9:120, 12:30 düzenli şehir ve uygar yerleşim merkezi) | ⏳ *Bekliyor* |
+| 2 | Yüksek Frekanslı Çekirdek | 445 | `م-د-ن` | `M-D-N` | **17** | 17 | 7:111 | Medîne ve Medâin (Yönetim ve Toplumsal Düzene Sahip Merkezî Şehir) | ✅ **MÜHÜRLÜ** |
 | 3 | Yüksek Frekanslı Çekirdek | 434 | `ب-و-أ` | `B-W-E` | **17** | 16 | 2:61 | Bev' ve Tebevvü' (17 geçiş / 16 ayet: 2:61, 2:90, 3:112, 3:121, 3:162 bir yere yerleşmek, konaklamak ve dönüp yüklenmek) | ⏳ *Bekliyor* |
 | 4 | Yüksek Frekanslı Çekirdek | 444 | `س-و-ق` | `S-W-K` | **17** | 16 | 7:57 | Sevk, Sâk ve Esveâk (17 geçiş / 16 ayet: 7:57, 8:6, 19:86, 25:7, 25:20 gütmek/sevk etmek, baldır ve çarşı) | ⏳ *Bekliyor* |
 | 5 | Yüksek Frekanslı Çekirdek | 440 | `ر-ب-ص` | `R-B-S` | **17** | 12 | 2:226 | Terabbus ve Müterabbis (17 geçiş / 12 ayet: 2:226, 2:228, 2:234, 4:141, 9:24 fırsat veya süre tamamlanmasını beklemek/gözetlemek) | ⏳ *Bekliyor* |
