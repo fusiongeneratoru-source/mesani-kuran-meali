@@ -48947,5 +48947,73 @@
       }
     ],
     "context_default": "Topluluktan çözülüp dağılma veya gümüş madeni bağlamı"
+  },
+  "ل-ح-ق": {
+    "buckwalter": "lHq",
+    "slug": "lHq",
+    "concept_name": "Lühûk ve İlhâk (Arkadan Yetişip Kavuşmak ve Safına Katıp Bağlamak)",
+    "keywords": [
+      "yetiş",
+      "kat",
+      "ekle",
+      "ulaş",
+      "kavuş"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaloHaqu",
+        "features_contains": [
+          "JUS"
+        ],
+        "label": "Bab I `لَمْ` ile meczûm 3. çoğul eril muzâri (`لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ` — arkalarından henüz kendilerine yetişmemiş olanlar; 1 geçiş: 3:170)"
+      },
+      {
+        "lemma": "yaloHaqu",
+        "label": "Bab I `لَمَّا` ile 3. çoğul eril muzâri (`لَمَّا يَلْحَقُوا۟ بِهِمْ` — onlardan henüz kendilerine yetişip katılmamış diğerleri; 1 geçiş: 62:3)"
+      },
+      {
+        "lemma": ">aloHaqo",
+        "features_contains": [
+          "IMPV"
+        ],
+        "label": "Bab IV 2. tekil eril emir + kaynaştırma `نِى` mef'ûlü (`وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ` — beni erdemli öncülerin safına kat; 2 geçiş: 12:101, 26:83)"
+      },
+      {
+        "lemma": ">aloHaqo",
+        "features_contains": [
+          "2MP"
+        ],
+        "label": "Bab IV 2. çoğul eril mâzi (`ٱلَّذِينَ أَلْحَقْتُم بِهِۦ شُرَكَآءَ` — O'na ortaklar diye dıştan ekledikleriniz; 1 geçiş: 34:27)"
+      },
+      {
+        "lemma": ">aloHaqo",
+        "label": "Bab IV 1. çoğul mâzi (`أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ` — soylarını kendi düzeylerine yetiştirip onlara kattık; 1 geçiş: 52:21)"
+      }
+    ],
+    "irab_default": "Arkadan yetişip kavuşma veya safa katıp bağlama (`ل-ح-ق` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:170",
+          "62:3"
+        ],
+        "text": "Sonraki Kuşakların Öncülere Yetişme Süreci (`3:170`, `62:3`): Kendilerinden önce geçenlerle arkadan gelip henüz onlara kavuşmamış sonraki kuşakların (`لَمْ يَلْحَقُوا۟ بِهِم` / `لَمَّا يَلْحَقُوا۟ بِهِمْ`) aynı bütünlük içinde birleşmesi."
+      },
+      {
+        "ayahs": [
+          "12:101",
+          "26:83",
+          "52:21"
+        ],
+        "text": "Erdemli Safa Katılma ve Soyların Değer Eksiltmeden Yetiştirilmesi (`12:101`, `26:83`, `52:21`): Yûsuf ve İbrâhîm'in erdemli öncüler topluluğuna katılma duası (`12:101`, `26:83`) ile ebeveynlerinin amellerinden hiçbir pay eksiltmeden izleyen soyların aynı seviyeye yetiştirilip bağlanması (`52:21`)."
+      },
+      {
+        "ayahs": [
+          "34:27"
+        ],
+        "text": "Eşsiz Yaratıcıya Dışarıdan Zorla Yapılan Ortak Eklentisinin Reddi (`34:27`): Gerçeği örtenlerin tekil Yaratıcıya dıştan yamayıp ekledikleri (`أَلْحَقْتُم بِهِۦ شُرَكَآءَ`) yapay varlıkların geçersizliğinin yüzleştirilmesi."
+      }
+    ],
+    "context_default": "Yetişip ulaşma veya bir safa katma/iliştirme bağlamı"
   }
 }
