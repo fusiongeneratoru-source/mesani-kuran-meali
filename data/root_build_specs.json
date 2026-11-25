@@ -50656,5 +50656,109 @@
       }
     ],
     "context_default": "Bağlayıcı ant ve sahte ant teşhiri bağlamı"
+  },
+  "ن-ص-ح": {
+    "buckwalter": "nSH",
+    "slug": "nSH",
+    "concept_name": "Nush, Nâsih ve Nasûh (Söküğü Onarırcasına Hilesiz İyilik, Arı-Duru Sadakat ve Gediksiz Dönüş)",
+    "keywords": [
+      "hilesiz iyilik",
+      "içten öğüt",
+      "onarıcı",
+      "arı-duru sadakat",
+      "nasuh"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "naSaHu",
+        "ayahs": [
+          "7:62",
+          "11:34"
+        ],
+        "label": "Form I sülâsî 1. tekil muzâri fiil (`7:62`: merfû `وَأَنصَحُ لَكُمْ`; `11:34`: `أَنْ` ile mansûb `أَنْ أَنصَحَ لَكُمْ` — sizin iyiliğiniz için hilesiz çabalarım; 2 geçiş)"
+      },
+      {
+        "lemma": "naSaHu",
+        "ayahs": [
+          "7:79",
+          "7:93",
+          "9:91"
+        ],
+        "label": "Form I sülâsî mâzî fiil (`7:79, 7:93`: 1. tekil `وَنَصَحْتُ لَكُمْ`; `9:91`: 3. çoğul eril `إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ`; 3 geçiş)"
+      },
+      {
+        "lemma": "naASiH",
+        "ayahs": [
+          "7:68"
+        ],
+        "label": "İsim cümlesinde nekre merfû tekil ism-i fâil (`نَاصِحٌ أَمِينٌ` — güvenilir, hilesiz iyilik kılavuzu; 1 geçiş: 7:68)"
+      },
+      {
+        "lemma": "naASiH",
+        "ayahs": [
+          "12:11",
+          "28:12"
+        ],
+        "label": "İsim cümlesi veya `إِنَّ` haberinde merfû kurallı eril çoğul ism-i fâil (`12:11`: tekit lâmı ile `لَنَٰصِحُونَ`; `28:12`: `نَٰصِحُونَ`; 2 geçiş)"
+      },
+      {
+        "lemma": "naASiH",
+        "ayahs": [
+          "7:21",
+          "7:79",
+          "28:20"
+        ],
+        "label": "`مِنْ` ile mecrûr (`7:21, 28:20`: `مِنَ ٱلنَّٰصِحِينَ`) veya `تُحِبُّونَ` fiilinin mansûb mef'ûlü (`7:79`: `ٱلنَّٰصِحِينَ`) marife çoğul ism-i fâil (3 geçiş)"
+      },
+      {
+        "lemma": "nuSoH",
+        "ayahs": [
+          "11:34"
+        ],
+        "label": "`يَنفَعُكُمْ` fiilinin mütekellim zamirine muzâf takdiren merfû fâili (`نُصْحِىٓ` — benim onarıcı iyilik çabam; 1 geçiş: 11:34)"
+      },
+      {
+        "lemma": "n~aSuwH",
+        "ayahs": [
+          "66:8"
+        ],
+        "label": "`تَوْبَةً` mef'ûl-i mutlakının mansûb `فَعُول` mübalağa sıfatı (`تَوْبَةً نَّصُوحًا` — söküğü ve hilesi kalmamış arı-duru, onarıcı dönüş; 1 geçiş: 66:8)"
+      }
+    ],
+    "irab_default": "Hilesiz iyilik, onarım ve arı-duru bağlılık bildiren fiil/isim/sıfat (`ن-ص-ح` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:62",
+          "7:68",
+          "7:79",
+          "7:93",
+          "11:34"
+        ],
+        "text": "Elçilerin Topluma Yönelik Çıkarsız Onarım Çabası (`7:62, 7:68, 7:79, 7:93, 11:34`): Nûh, Hûd, Sâlih ve Şuayb'ın ilahî mesajları ulaştırıp toplumlarının bozulan dokusunu hilesizce onarma çabaları (`نَصَحْتُ لَكُمْ / نُصْحِىٓ`) ve kibirli toplumların iyilikseverleri sevmemesi (`7:79`)."
+      },
+      {
+        "ayahs": [
+          "7:21",
+          "12:11"
+        ],
+        "text": "Aldatıcıların Taktığı Sahte İyilik Maskesi (`7:21`, `12:11`): İblîs'in Âdem ile eşine (`7:21`) ve Yûsuf'un kardeşlerinin babalarına (`12:11`) gizli tuzaklarını örterken 'biz elbette sizin iyiliğinizi isteyenleriz (`نَٰصِحُونَ / مِنَ ٱلنَّٰصِحِينَ`)' maskesini kullanmaları."
+      },
+      {
+        "ayahs": [
+          "28:12",
+          "28:20"
+        ],
+        "text": "Eylemle Kanıtlanan Gerçek İyilikseverlik (`28:12`, `28:20`): Bebek Mûsâ'nın bakımını üstlenecek öz ailesinin gerçek özeni (`28:12`) ve şehrin öte ucundan koşarak gelip onu suikasttan kurtaran adamın içten uyarısı (`28:20`)."
+      },
+      {
+        "ayahs": [
+          "9:91",
+          "66:8"
+        ],
+        "text": "Allah'a Katıksız Sadakat ve Gediksiz Onarıcı Dönüş (`9:91`, `66:8`): Güçsüz ve mazeretli kimselerin Allah'a ve elçisine hilesiz bağlılığı (`9:91`) ile inananlara çağrılan söküğü kalmamış, arı-duru kesin dönüş (`66:8`: `تَوْبَةً نَّصُوحًا`)."
+      }
+    ],
+    "context_default": "Hilesiz onarım, içten iyilik ve arı-duru bağlılık bağlamı"
   }
 }
