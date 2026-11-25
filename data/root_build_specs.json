@@ -49638,5 +49638,56 @@
       }
     ],
     "context_default": "Boynun ön yüzü / gerdan bağlamı"
+  },
+  "ل-ه-ب": {
+    "buckwalter": "lhb",
+    "slug": "lhb",
+    "concept_name": "Leheb (Parlayarak Yükselen Harlı Alev Dili ve Yalaz)",
+    "keywords": [
+      "alev",
+      "alevli",
+      "yalaz",
+      "leheb"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "lahab",
+        "ayahs": [
+          "77:31"
+        ],
+        "label": "`وَلَا يُغْنِى` olumsuz fiilinden sonra `مِنَ` harf-i cerriyle gelen el-takılı marife mecrûr isim (`مِنَ ٱللَّهَبِ` — harlı alev dilinden korumaz; 1 geçiş: 77:31)"
+      },
+      {
+        "lemma": "lahab",
+        "ayahs": [
+          "111:1"
+        ],
+        "label": "Esma-i hamseden mecrûr `أَبِى` ismine muzâfun ileyh olan nekre mecrûr isim (`أَبِى لَهَبٍ` — Alev Babası / Ebû Leheb künyesi; 1 geçiş: 111:1)"
+      },
+      {
+        "lemma": "lahab",
+        "ayahs": [
+          "111:3"
+        ],
+        "label": "`نَارًا` kelimesinin sıfatı olan `ذَاتَ` ismine muzâfun ileyh nekre mecrûr isim (`نَارًا ذَاتَ لَهَبٍ` — harlı alev dillerine sahip ateş; 1 geçiş: 111:3)"
+      }
+    ],
+    "irab_default": "Tekil mecrûr isim (`ل-ه-ب` kökü — harlı alev dili)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "77:31"
+        ],
+        "text": "Üç Kollu Duman Gölgesinin Engelleyemediği Harlı Alev (`77:31`): Yalanlayıcıların sevk edildiği üç kollu koyu duman gölgesinin ne gerçek bir serinlik vermesi ne de ateşin yükselen harlı alev dilinden (`مِنَ ٱللَّهَبِ`) koruması."
+      },
+      {
+        "ayahs": [
+          "111:1",
+          "111:3"
+        ],
+        "text": "Künye ile Akıbetin Özdeşleştiği Harlı Alev (`111:1`, `111:3`): Zorbalıkla elçiye karşı duran `أَبِى لَهَبٍ` figürünün bütün imkânlarının boşa çıkıp tam da künyesinin taşıdığı harlı alev dilli yakıcı ateşe (`نَارًا ذَاتَ لَهَبٍ`) yaslanması."
+      }
+    ],
+    "context_default": "Harlı alev dili / yalaz bağlamı"
   }
 }
