@@ -482,7 +482,7 @@ def verify_all():
 
     print(
         f"SIFIR HATA DOĞRULANDI! 6236 ayet hizalaması, {len(locked_roots)} kilitli kök v3.0 şeması, "
-        f"tüm kavram JSON dosyaları, Edat/Köksüz haritası ve Top 100 / İkinci 100 / Etap 2.5 / Etap 3 / Etap 3C / Etap 3D / Etap 3E / Etap 3F / Etap 3G / Etap 3H indeksleri %100 tutarlı ve Tabula Rasa arınmış."
+        f"tüm kavram JSON dosyaları, Edat/Köksüz haritası ve Top 100 / İkinci 100 / Etap 2.5 / Etap 3 / Etap 3C / Etap 3D / Etap 3E / Etap 3F / Etap 3G / Etap 3H / Etap 3I indeksleri %100 tutarlı ve Tabula Rasa arınmış."
     )
     return 0
 
