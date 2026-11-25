@@ -48854,5 +48854,98 @@
       }
     ],
     "context_default": "Kızıl renk veya yük/yaban eşeği kıyas bağlamı"
+  },
+  "ف-ض-ض": {
+    "buckwalter": "fDD",
+    "slug": "fDD",
+    "concept_name": "Fidda ve İnfidâd (Çözülüp Dağılmak ve İşlenen Parlak Beyaz Maden Gümüş)",
+    "keywords": [
+      "gümüş",
+      "dağıl",
+      "kop",
+      "çözül",
+      "ayrıl"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{nfaD~u",
+        "features_contains": [
+          "SUBJ"
+        ],
+        "label": "Bab VII 3. çoğul eril `حَتَّىٰ` ile mansûb muzâri (`حَتَّىٰ يَنفَضُّوا۟` — etrafından çözülüp dağılıncaya kadar; 1 geçiş: 63:7)"
+      },
+      {
+        "lemma": "{nfaD~u",
+        "ayahs": [
+          "3:159"
+        ],
+        "label": "Bab VII `لَـ` şart cevabında 3. çoğul eril mâzi (`لَٱنفَضُّوا۟ مِنْ حَوْلِكَ` — çevrenden mutlaka dağılıp giderlerdi; 1 geçiş: 3:159)"
+      },
+      {
+        "lemma": "{nfaD~u",
+        "label": "Bab VII 3. çoğul eril mâzi (`ٱنفَضُّوٓا۟ إِلَيْهَا` — ona doğru kopup dağıldılar; 1 geçiş: 62:11)"
+      },
+      {
+        "lemma": "fiD~ap",
+        "features_contains": [
+          "ACC"
+        ],
+        "label": "`يَكْنِزُونَ` nesnesi atıflı ma'rife dişil mansûb isim (`وَٱلذَّهَبَ وَٱلْفِضَّةَ` — altın ve gümüşü yığıp saklayanlar; 1 geçiş: 9:34)"
+      },
+      {
+        "lemma": "fiD~ap",
+        "ayahs": [
+          "3:14"
+        ],
+        "label": "`مِنَ` ile ma'rife dişil mecrûr atıf (`مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ` — yığılmış altın ve gümüş tutkusu; 1 geçiş: 3:14)"
+      },
+      {
+        "lemma": "fiD~ap",
+        "ayahs": [
+          "43:33"
+        ],
+        "label": "`مِّن` beyâniyyesiyle nekre dişil mecrûr (`سُقُفًا مِّن فِضَّةٍ` — gümüşten tavanlar; 1 geçiş: 43:33)"
+      },
+      {
+        "lemma": "fiD~ap",
+        "ayahs": [
+          "76:15",
+          "76:16"
+        ],
+        "label": "`مِّن` beyâniyyesiyle nekre dişil mecrûr (`بِـَٔانِيَةٍ مِّن فِضَّةٍ` / `قَوَارِيرَا۟ مِن فِضَّةٍ` — gümüş kaplar ve billur berraklığında gümüş kadehler; 2 geçiş: 76:15, 76:16)"
+      },
+      {
+        "lemma": "fiD~ap",
+        "label": "`مِن` beyâniyyesiyle nekre dişil mecrûr (`أَسَاوِرَ مِن فِضَّةٍ` — gümüş bilezikler; 1 geçiş: 76:21)"
+      }
+    ],
+    "irab_default": "Çözülüp dağılma veya beyaz kıymetli maden gümüş (`ف-ض-ض` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:159",
+          "62:11",
+          "63:7"
+        ],
+        "text": "Topluluğun Merkezden Çözülüp Dağılması (`3:159`, `62:11`, `63:7`): Sert ve kaba kalplilik karşısında halkın dağılacağı yasası (`3:159`), Sure 62 içinde ticaret veya eğlence görünce hitabı bırakıp dağılanlar (`62:11`) ve destek kesilerek elçinin yanındakilerin dağıtılması planı (`63:7`)."
+      },
+      {
+        "ayahs": [
+          "3:14",
+          "9:34",
+          "43:33"
+        ],
+        "text": "Dünyada Yığma Tutkusu ve Paylaşılmayan Gümüş (`3:14`, `9:34`, `43:33`): Dünyevî çekim eşyaları arasında sayılan gümüş (`3:14`), paylaşılmayıp kilitlenen altın-gümüş yığını uyarısı (`9:34`) ve geçici dünyanın aldatıcı değersizliği karşısında gümüşten tavanlar örneği (`43:33`)."
+      },
+      {
+        "ayahs": [
+          "76:15",
+          "76:16",
+          "76:21"
+        ],
+        "text": "Esenlik Yurdunda Kusursuz Ölçülü Gümüş Kaplar ve Süsler (`76:15`, `76:16`, `76:21`): Gümüşün göz alıcı beyazlığıyla billurun saydamlığını birleştiren ölçülü kadehler (`76:15-16`) ve ince gümüş bilezikler (`76:21`)."
+      }
+    ],
+    "context_default": "Topluluktan çözülüp dağılma veya gümüş madeni bağlamı"
   }
 }
