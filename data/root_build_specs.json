@@ -54551,5 +54551,50 @@
       }
     ],
     "context_default": "Sol taraf ve bereket yitimi bağlamı"
+  },
+  "ل-ب-د": {
+    "buckwalter": "lbd",
+    "slug": "lbd",
+    "concept_name": "Libed / Lübed (Keçe Gibi Üst Üste Yığılıp Yoğunlaşmak)",
+    "keywords": [
+      "libed",
+      "lubed",
+      "malen lubeda",
+      "ust uste yigilma",
+      "kece gibi sikisma",
+      "yigin yigin mal"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "libad",
+        "ayahs": [
+          "72:19"
+        ],
+        "label": "Mansub çoğul isim (`لِبَدًا` — `يَكُونُونَ` haberi: üst üste yığılmış kalabalık kümeler; 1 geçiş: 72:19)"
+      },
+      {
+        "lemma": "l~ubad",
+        "ayahs": [
+          "90:6"
+        ],
+        "label": "Mansub yoğunluk sıfatı (`مَالًا لُّبَدًا` — `مَالًا` sıfatı: yığın yığın üst üste birikmiş çok mal; 1 geçiş: 90:6)"
+      }
+    ],
+    "irab_default": "Üst üste yığılıp sıkışma bildiren `ل-ب-د` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "72:19"
+        ],
+        "text": "Çağrı Etrafında Yığılma (`72:19`): Allah'ın kulu kalkıp çağrı yaptığında görünmeyen varlıkların (cinn)/insanların onun etrafında neredeyse üst üste yığılmış bir küme oluşturması."
+      },
+      {
+        "ayahs": [
+          "90:6"
+        ],
+        "text": "Gösterişçi Servet Övünmesi (`90:6`): Gücüne güvenen insanın 'yığın yığın mal harcayıp tükettim' diyerek övünmesi."
+      }
+    ],
+    "context_default": "Üst üste yığılma ve yoğunlaşma bağlamı"
   }
 }
