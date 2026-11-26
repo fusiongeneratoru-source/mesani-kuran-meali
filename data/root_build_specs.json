@@ -57629,5 +57629,44 @@
       }
     ],
     "context_default": "Düşmanca cepheyi bastırıp alçaltarak geri püskürtme bağlamı"
+  },
+  "ح-و-ذ": {
+    "buckwalter": "Hw*",
+    "slug": "hwz",
+    "concept_name": "İstihvâz (Sürüyü Önüne Katıp Çevirir Gibi Tamamen Kuşatıp Kontrol ve Tahakküm Altına Almak)",
+    "root_latin": "H-W-Z",
+    "keywords": [
+      "istihvaz",
+      "kusatmak",
+      "tahakkum",
+      "onune katip gutmek",
+      "tam egemenlik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{sotaHowa*a",
+        "ayahs": [
+          "4:141",
+          "58:19"
+        ],
+        "label": "Form X fiil (`نَسْتَحْوِذْ` / `اسْتَحْوَذَ` — tamamen kuşatıp kontrol ve egemenliği altına almak; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Tamamen kuşatıp önüne katarak kontrol altına almayı bildiren `ح-و-ذ` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:141"
+        ],
+        "text": "Siyasi-Askerî Kuşatma İddiası (`4:141`): İki yüzlü fırsatçıların, hakikati örtenler pay aldığında 'size üstün gelip üzerinizde egemenlik kurabilecekken sizi güvenenlerden korumadık mı?' (`أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ`) demeleri."
+      },
+      {
+        "ayahs": [
+          "58:19"
+        ],
+        "text": "Zihinsel ve İradî Kuşatma (`58:19`): Yoldan çıkarıcı ayartıcı gücün (`الشَّيْطَان`) zihinleri tamamen kuşatıp kontrolüne alması (`اسْتَحْوَذَ عَلَيْهِمُ`) ve bunun sonucunda Allah'ın bilincini/hatırlanmasını unutturması."
+      }
+    ],
+    "context_default": "Tam kuşatma, egemenlik kurma ve önüne katıp yönlendirme bağlamı"
   }
 }

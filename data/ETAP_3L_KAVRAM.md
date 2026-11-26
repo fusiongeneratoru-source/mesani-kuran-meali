@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 21 / 50 Kök (Toplam Mühürlü: 821 Kök | Güncel Kapsam: %95,60)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 22 / 50 Kök (Toplam Mühürlü: 822 Kök | Güncel Kapsam: %95,61)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -28,7 +28,7 @@
 | 19 | Sure %100 Kilidi | 985 | `ش-ك-و` | `S-K-W` | **3** | 3 | 12:86 | Şekvâ, İştikâ ve Mişkât (İçteki Acı ve Haksızlığı Gidermesi İçin Allah'a Arz Etmek; Duvardaki Lamba Yuvası) | ✅ **MÜHÜRLÜ** |
 | 20 | Sure %100 Kilidi | 1044 | `ف-س-ح` | `F-S-H` | **3** | 1 | 58:11 | Fesh ve Tefessüh (Oturulan Mekânda Yer Açıp Genişlik Sağlamak ve Ferahlık Sunmak) | ✅ **MÜHÜRLÜ** |
 | 21 | Sure %100 Kilidi | 944 | `ك-ب-ت` | `K-B-T` | **3** | 2 | 3:127 | Kebt (Düşmanı Öfkesiyle Baş Başa Bırakıp Yüzüstü Bastırarak Geri Püskürtmek ve Alçaltmak) | ✅ **MÜHÜRLÜ** |
-| 22 | Sure %100 Kilidi | 1086 | `ح-و-ذ` | `H-W-Z` | **2** | 2 | 4:141 | İstihvâz (Sure 58 Mücâdele kilidi + 2 geçiş: 4:141, 58:19 sürü güder gibi bütünüyle kuşatıp denetim altına almak) | ⏳ *Bekliyor* |
+| 22 | Sure %100 Kilidi | 1086 | `ح-و-ذ` | `H-W-Z` | **2** | 2 | 4:141 | İstihvâz (Sürüyü Önüne Katıp Çevirir Gibi Tamamen Kuşatıp Kontrol ve Tahakküm Altına Almak) | ✅ **MÜHÜRLÜ** |
 | 23 | Sure %100 Kilidi | 1547 | `ج-ل-س` | `C-L-S` | **1** | 1 | 58:11 | Mecâlis (Sure 58 Mücâdele son kilidi: 58:11 topluca oturulup görüşülen toplantı/meclis alanları) | ⏳ *Bekliyor* |
 | 24 | Sure %100 Kilidi | 749 | `ص-ف-ر` | `S-F-R` | **5** | 5 | 2:69 | Safrâ, Musferr ve Sufr (Sure 77 Mürselât kilidi + 5 geçiş: 2:69, 30:51, 39:21, 57:20, 77:33 parlak sarı renk ve ekinin kuruyup sararması) | ⏳ *Bekliyor* |
 | 25 | Sure %100 Kilidi | 828 | `ن-س-ف` | `N-S-F` | **5** | 3 | 20:97 | Nesf (Sure 77 Mürselât kilidi + 5 geçiş: 20:97, 20:105, 77:10 kökünden söküp savurarak toz gibi dağıtmak) | ⏳ *Bekliyor* |
