@@ -3,13 +3,13 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 2 / 50 Kök (Toplam Mühürlü: 752 Kök | Güncel Kapsam: %94,85)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 3 / 50 Kök (Toplam Mühürlü: 753 Kök | Güncel Kapsam: %94,86)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | 1 | Sure %100 Kilidi | 567 | `ش-ف-ق` | `S-F-K` | **11** | 11 | 18:49 | Şefak / İşfâk (İncelik, Akşam Kızıllığı ve Özenli Titrek Sakınma) | ✅ **MÜHÜRLÜ** |
 | 2 | Sure %100 Kilidi | 689 | `و-ع-ي` | `W-A-Y` | **7** | 4 | 12:76 | Va'y / Viâ' (Kapta Toplayıp Muhafaza Etmek ve Bilinçle Kavramak) | ✅ **MÜHÜRLÜ** |
-| 3 | Sure %100 Kilidi | 823 | `ث-ب-ر` | `S-B-R` | **5** | 4 | 17:102 | Sübûr ve Mesbûr (Sure 84 İnşikâk kilidi + 5 geçiş: 17:102, 25:13, 25:14, 84:11 çaresiz yıkım, bozgun ve hayırdan alıkonulmuş hâl) | ⏳ *Bekliyor* |
+| 3 | Sure %100 Kilidi | 823 | `ث-ب-ر` | `S-B-R` | **5** | 4 | 17:102 | Sübûr / Mesbûr (Kırılıp Bozguna Uğrama ve Çaresiz Yıkım) | ✅ **MÜHÜRLÜ** |
 | 4 | Sure %100 Kilidi | 929 | `ط-ب-ق` | `T-B-K` | **4** | 3 | 67:3 | Tıbâk ve Tabak (Sure 84 İnşikâk kilidi + 4 geçiş: 67:3, 71:15, 84:19 birbirine tam oturan katmanlar ve bir hâlden başka bir hâle geçiş) | ⏳ *Bekliyor* |
 | 5 | Sure %100 Kilidi | 1245 | `ك-د-ح` | `K-D-H` | **2** | 1 | 84:6 | Kadh ve Kâdih (Sure 84 İnşikâk kilidi + 2 geçiş: 84:6 iz bırakıncaya dek yoğun çaba, emek ve didinme) | ⏳ *Bekliyor* |
 | 6 | Sure %100 Kilidi | 1246 | `و-س-ق` | `W-S-K` | **2** | 2 | 84:17 | Veseka ve İtteseka (Sure 84 İnşikâk son kilidi + 2 geçiş: 84:17, 84:18 gecenin örtüp derleyip toplaması ve ayın dolunay hâlinde bütünlenmesi) | ⏳ *Bekliyor* |

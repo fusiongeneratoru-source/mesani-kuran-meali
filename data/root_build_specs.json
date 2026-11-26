@@ -53946,5 +53946,55 @@
       }
     ],
     "context_default": "Kapta muhafaza etme veya bilinçle kavrama bağlamı"
+  },
+  "ث-ب-ر": {
+    "buckwalter": "vbr",
+    "slug": "vbr",
+    "concept_name": "Sübûr / Mesbûr (Kırılıp Bozguna Uğrama ve Çaresiz Yıkım)",
+    "keywords": [
+      "subur",
+      "mesbur",
+      "yikim",
+      "helak",
+      "kirilma",
+      "bozgun",
+      "yok olus cagirmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "vubuwr",
+        "ayahs": [
+          "25:13",
+          "25:14",
+          "84:11"
+        ],
+        "label": "Mansub masdar (`ثُبُورًا` — `د-ع-و` fiilinin mef'ûlün bihi: çaresizce yıkım ve yok oluş çağırmak; 4 geçiş)"
+      },
+      {
+        "lemma": "mavobuwr",
+        "ayahs": [
+          "17:102"
+        ],
+        "label": "Mansub edilgen ortaç (`مَثْبُورًا` — `أَظُنُّكَ` fiilinin ikinci mef'ûlü: kırılıp yıkıma uğratılmış; 1 geçiş: 17:102)"
+      }
+    ],
+    "irab_default": "Kırılıp yıkıma uğrama bildiren `ث-ب-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:102"
+        ],
+        "text": "Firavun'un Kaçınılmaz Çöküşü (`17:102`): Musa'nın, apaçık delillere rağmen direten Firavun'a 'büyülenmiş' suçlamasına karşılık 'yıkıma mahkûm edilmiş (`مَثْبُورًا`)' cevabını vermesi."
+      },
+      {
+        "ayahs": [
+          "25:13",
+          "25:14",
+          "84:11"
+        ],
+        "text": "Darlıkta ve Hesap Anında Yıkım Çağırmak (`25:13`, `25:14`, `84:11`): Zincirle dar bir yere atılanların veya kaydı arkasından verilenin çaresizce defalarca yok oluş (`ثُبُورًا`) çağırması."
+      }
+    ],
+    "context_default": "Kırılma ve ağır yıkım bağlamı"
   }
 }

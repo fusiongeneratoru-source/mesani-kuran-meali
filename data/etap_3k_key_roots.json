@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3K (+5 Sure %100 Tam Kilidi [Sure 84, 86, 90, 91, 45 -> 40 Sure], Kalan Tüm 2+ Açık Mesânî Tepe Uçları ve 12–11 Geçişli Çekirdek Kökler — 50 Kök -> 800 Kök)",
   "target_count": 50,
-  "locked_count": 2,
+  "locked_count": 3,
   "total_tokens_in_package": 308,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 94.85,
+  "current_coverage_pct": 94.86,
   "target_coverage_pct": 95.43,
   "etap_3k_roots": [
     {
@@ -56,8 +56,8 @@
       "frequency": 5,
       "unique_ayahs": 4,
       "rationale": "Sübûr ve Mesbûr (Sure 84 İnşikâk kilidi + 5 geçiş: 17:102, 25:13, 25:14, 84:11 çaresiz yıkım, bozgun ve hayırdan alıkonulmuş hâl)",
-      "concept_label": "Analiz Bekliyor (vubuwr, mavobuwr)",
-      "is_locked": false,
+      "concept_label": "Sübûr / Mesbûr (Kırılıp Bozguna Uğrama ve Çaresiz Yıkım)",
+      "is_locked": true,
       "sample_ayah": "17:102",
       "top_lemmas": [
         "vubuwr",
