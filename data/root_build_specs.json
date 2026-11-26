@@ -57945,5 +57945,37 @@
       }
     ],
     "context_default": "Susuzluğu gideren son derece tatlı ve yumuşak içimli su bağlamı"
+  },
+  "ش-م-خ": {
+    "buckwalter": "$mx",
+    "slug": "smx",
+    "concept_name": "Şâmihât (Göğe Doğru Dimdik ve Heybetle Yükselen Ulu Dağ Zirveleri)",
+    "root_latin": "S-M-H",
+    "keywords": [
+      "samihat",
+      "samih",
+      "goge yukselen",
+      "ulu daglar",
+      "heybetli yukseklik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$a`mixa`t",
+        "ayahs": [
+          "77:27"
+        ],
+        "label": "Çoğul ism-i fâil (`شَامِخَاتٍ` — göğe doğru dimdik yükselen heybetli ve ulu dağlar; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Göğe doğru dimdik ve heybetle yükselmeyi bildiren `ش-م-خ` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "77:27"
+        ],
+        "text": "Yeryüzündeki Ulu Dağ Zirveleri ve Su Döngüsü (`77:27`): Yeryüzünün sarsılmaz dayanakları olarak göğe yükselen heybetli dağların (`رَوَاسِيَ شَامِخَاتٍ`) ve onlarla bağlantılı tatlı suyun (`مَاءً فُرَاتًا`) var edilmesi."
+      }
+    ],
+    "context_default": "Göğe doğru dimdik yükselen ulu dağ zirveleri bağlamı"
   }
 }
