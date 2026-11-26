@@ -54596,5 +54596,50 @@
       }
     ],
     "context_default": "Üst üste yığılma ve yoğunlaşma bağlamı"
+  },
+  "ق-ح-م": {
+    "buckwalter": "qHm",
+    "slug": "qhm",
+    "concept_name": "İktihâm (Zorlu Sarp Yokuşa veya Tehlikeye Sert Hamleyle Atılıp Dalmak)",
+    "keywords": [
+      "iktiham",
+      "muktehim",
+      "akabe",
+      "sarp yokusu asmak",
+      "sertce dalmak",
+      "gogus germek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{qotaHama",
+        "ayahs": [
+          "90:11"
+        ],
+        "label": "Form VIII malum mâzi fiil (`فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ` — o sarp yokuşa atılıp göğüs germedi; 1 geçiş: 90:11)"
+      },
+      {
+        "lemma": "m~uqotaHim",
+        "ayahs": [
+          "38:59"
+        ],
+        "label": "Form VIII merfû etken ortaç (`فَوْجٌ مُّقْتَحِمٌ` — `فَوْجٌ` sıfatı: sertçe dalıp giren bölük; 1 geçiş: 38:59)"
+      }
+    ],
+    "irab_default": "Zorlu alana sert hamleyle atılmayı bildiren `ق-ح-م` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "90:11"
+        ],
+        "text": "Sarp Yokuşu Aşma Sınavı (`90:11`): İnsanın bencil rahatlığını kırıp esir özgürleştirmek ve kıtlıkta doyurmak gibi sarp toplumsal sorumluluk yokuşuna atılmaması."
+      },
+      {
+        "ayahs": [
+          "38:59"
+        ],
+        "text": "Ateşe Dalan Azgın Bölük (`38:59`): Zorbaların peşinden gidenlerin onlarla birlikte azaba sertçe dalıp birbirini suçlaması."
+      }
+    ],
+    "context_default": "Zorlu geçide sertçe atılma bağlamı"
   }
 }
