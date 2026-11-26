@@ -59056,5 +59056,73 @@
       }
     ],
     "context_default": "Çekip sürükleme hareketi ve rüzgârla sürüklenen bulut bağlamı"
+  },
+  "س-ب-ب": {
+    "buckwalter": "sbb",
+    "slug": "sbb_sabab",
+    "concept_name": "Sebb ve Sebeb (Hedefe Ulaştıran İp-Bağ-Yol-İmkân ve Ağır Sözle Sövüp Bağ Kesmek)",
+    "root_latin": "S-B-B",
+    "keywords": [
+      "sebeb",
+      "esbab",
+      "ip",
+      "bag",
+      "yol",
+      "imkan",
+      "sovmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sabab",
+        "ayahs": [
+          "2:166",
+          "18:84",
+          "18:85",
+          "18:89",
+          "18:92",
+          "22:15",
+          "38:10",
+          "40:36",
+          "40:37"
+        ],
+        "label": "İsim (`سَبَبًا / ٱلْأَسْبَابُ` — yukarıya veya hedefe ulaştıran ip, bağ, yol, imkân ve vesile; 9 geçiş)"
+      },
+      {
+        "lemma": "yasub~u",
+        "ayahs": [
+          "6:108"
+        ],
+        "label": "Form I muzâri fiil (`تَسُبُّوا۟ / فَيَسُبُّوا۟` — ağır sözle sövmek, hakaret etmek; 2 geçiş — her ikisi de 6:108'de)"
+      }
+    ],
+    "irab_default": "Ulaşma ipi-bağı-imkânı (`سَبَب`) veya ağır sövgüyü (`يَسُبُّ`) bildiren `س-ب-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:84",
+          "18:85",
+          "18:89",
+          "18:92"
+        ],
+        "text": "Zülkarneyn'in İzlediği Yol ve İmkân Aracı (`18:84`, `18:85`, `18:89`, `18:92`): Her amaca ulaştıracak imkân ve araç, bilgi ve sefer yolu (`سَبَبًا`)."
+      },
+      {
+        "ayahs": [
+          "2:166",
+          "22:15",
+          "38:10",
+          "40:36",
+          "40:37"
+        ],
+        "text": "Somut İp, Kopan Bağlar ve Göklere Çıkan Yollar (`2:166`, `22:15`, `38:10`, `40:36`, `40:37`): Tavana uzatılan ip (`22:15`), kopup giden sadakat bağları (`2:166`) ve göklerin bağlantı yolları (`38:10`, `40:36-37`)."
+      },
+      {
+        "ayahs": [
+          "6:108"
+        ],
+        "text": "Sözlü Saldırı ve Sövgü Yasağı (`6:108`): Başkalarının kutsal bildiklerine sövmeyin (`لَا تَسُبُّوا۟`) ki onlar da bilgisizce haddi aşarak Allah'a sövmesinler (`فَيَسُبُّوا۟`)."
+      }
+    ],
+    "context_default": "Hedefe ulaştıran ip-bağ-yol-imkân (`سَبَب`) veya sövgü (`سَبَّ`) bağlamı"
   }
 }
