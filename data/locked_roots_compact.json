@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 873,
+    "total_locked": 874,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1657,7 +1657,8 @@
         "ع-ب-د (A-B-D — Çift Yönlü Mesânî Karşılığı: 36:60, 19:44)",
         "و-ك-ل (W-K-L (wkl) — Çift Yönlü Mesânî Karşılığı: 33:48)",
         "ق-س-م (K-S-M (qsm) — Çift Yönlü Mesânî Karşılığı: 24:53)",
-        "ن-ز-ع (ن-ز-ع ↔ ط-و-ع Mesânî simetrisi)"
+        "ن-ز-ع (ن-ز-ع ↔ ط-و-ع Mesânî simetrisi)",
+        "ق-س-ر (Kasr: şiddet ve baskın güçle zorla boyun eğdirmek ↔ ط-و-ع zorlama olmaksızın kendi isteğiyle itaat etmek)"
       ]
     },
     "ع-ظ-م": {
@@ -3324,7 +3325,8 @@
         "ج-س-م (J-S-M (jsm) — Çift Yönlü Mesânî Karşılığı: `2:247` bağlamında iri, geniş ve güçlü fiziksel yapı `بَسْطَةً فِى ٱلْجِسْمِ` ↔ fiziksel güçsüzlük ve bedensel zayıflık `ضَعْف`)",
         "أ-ي-د (E-Y-D (Ayd) — Çift Yönlü Mesânî Karşılığı: `8:26` [قَلِيلٌ مُّسْتَضْعَفُونَ ... وَأَيَّدَكُم بِنَصْرِهِۦ] — zayıf ve savunmasız bırakılmış hâl `مُّسْتَضْعَفُونَ` ↔ ilahi yardımla sarsılmaz biçimde güçlendirilmek `أَيَّدَكُم`)",
         "س-م-ن (S-M-N (smn) — Çift Yönlü Mesânî Karşılığı: `12:43,46`, `51:26` — besili, dolgun ve verimli güçlülük `سِمَان / سَمِين` ↔ cılızlık, sıskalık ve bedensel güçsüzlük `ضَعْف`)",
-        "ص-ل-ب (S-L-B (Slb) — Çift Yönlü Mesânî Karşılığı: `4:23`, `86:7` — sert ve sağlam sırt omurgası/katılık `صُلْب` ↔ gevşeklik ve zayıflık `ضَعْف`)"
+        "ص-ل-ب (S-L-B (Slb) — Çift Yönlü Mesânî Karşılığı: `4:23`, `86:7` — sert ve sağlam sırt omurgası/katılık `صُلْب` ↔ gevşeklik ve zayıflık `ضَعْف`)",
+        "ق-س-ر (Kasvera/Kasr: ezici baskın kuvvet ve yırtıcı üstünlük ↔ ض-ع-ف güçsüzlük ve zayıflık)"
       ]
     },
     "ت-ح-ت": {
@@ -10963,6 +10965,15 @@
       "opposites": [
         "ك-ش-ف (Üzerindeki örtüyü açıp ortaya çıkmak ↔ د-ث-ر dış örtüye kat kat sarınıp kapanmak)",
         "ع-ر-ي (Örtüsüz ve çıplak kalmak ↔ د-ث-ر kalın dış örtüye bürünmek)"
+      ]
+    },
+    "ق-س-ر": {
+      "latin": "Q-S-R",
+      "core": "`ق-س-ر` kökü Kur'an'daki tek geçişinde (`74:51`, `قَسْوَرَةٍۭ`) **'şiddetli baskın gücüyle avını ürküten yırtıcı aslan / zorlu avcı'** çekirdeğini işler.",
+      "physical": "Şiddet ve üstün kuvvetle zorla bastırmak, kahredip alt etmek (`قهر وغلبة بشدة`); bu baskın kuvvetinden dolayı aslana (veya avını kıstıran zorlu avcıya) `قَسْوَرَة` denir.",
+      "opposites": [
+        "ط-و-ع (Zorlama olmadan gönüllü uyum ve itaat ↔ ق-س-ر şiddetle zorlayıp alt etme)",
+        "ض-ع-ف (Güçsüzlük ve savunmasızlık ↔ ق-س-ر ezici yırtıcı üstünlük)"
       ]
     }
   }

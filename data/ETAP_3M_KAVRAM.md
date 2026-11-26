@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 23 / 50 Kök (Toplam Mühürlü: 873 Kök | Güncel Kapsam: %96,08)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 24 / 50 Kök (Toplam Mühürlü: 874 Kök | Güncel Kapsam: %96,08)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -30,7 +30,7 @@
 | 21 | Sure %100 Kilidi | 942 | `ر-ه-ن` | `R-H-N` | **3** | 3 | 2:283 | Rehin ve Rihân (Bir Hakka veya Kendi Kazancına Karşılık Tutulup Bağlı Kalmak / Güvence Rehin) | ✅ **MÜHÜRLÜ** |
 | 22 | Sure %100 Kilidi | 1241 | `ب-س-ر` | `B-S-R` | **2** | 2 | 74:22 | Busr ve Bâsira (Yüzün Şiddetle Ekşiyip Solması, Renginin Kararıp Donuklaşması) | ✅ **MÜHÜRLÜ** |
 | 23 | Sure %100 Kilidi | 1573 | `د-ث-ر` | `D-S-R` | **1** | 1 | 74:1 | Müddessir (Üzerine Kalın Dış Örtü/Bürgü Sarınmış Olan) | ✅ **MÜHÜRLÜ** |
-| 24 | Sure %100 Kilidi | 1574 | `ق-س-ر` | `K-S-R` | **1** | 1 | 74:51 | Kasvera (Sure 74 Müddessir son kilidi: 74:51 yaban eşeklerini kaçıran güçlü aslan veya avcı) | ⏳ *Bekliyor* |
+| 24 | Sure %100 Kilidi | 1574 | `ق-س-ر` | `K-S-R` | **1** | 1 | 74:51 | Kasvera (Gücüyle Her Şeyi Bastırıp Ürküten Yırtıcı Aslan / Zorlu Avcı) | ✅ **MÜHÜRLÜ** |
 | 25 | Sure %100 Kilidi | 658 | `خ-س-ف` | `H-S-F` | **8** | 8 | 16:45 | Hasf (Sure 75 Kıyâmet kilidi | 1M + 8 geçiş: 16:45, 17:68, 28:81, 28:82, 29:40, 34:9, 67:16, 75:8 yerin dibine geçirmek ve ayın ışığının tutulup sönmesi) | ⏳ *Bekliyor* |
 | 26 | Sure %100 Kilidi | 912 | `ر-ق-ي` | `R-K-Y` | **4** | 3 | 17:93 | Rukiyy, Terakkî ve Râk (Sure 75 Kıyâmet kilidi + 4 geçiş: 17:93, 38:10, 75:27 basamak basamak yukarı tırmanmak ve can boğazdayken şifa/okuma aramak) | ⏳ *Bekliyor* |
 | 27 | Sure %100 Kilidi | 998 | `ل-ف-ف` | `L-F-F` | **3** | 3 | 17:104 | İltifâf, Eltâf ve Lefîf (Sure 75 Kıyâmet kilidi + 3 geçiş: 17:104, 75:29, 78:16 birbirine dolanıp sarılmak ve sık sarmaşık/toplu hâlde gelmek) | ⏳ *Bekliyor* |
