@@ -52925,5 +52925,95 @@
       }
     ],
     "context_default": "Himaye, komşuluk veya doğrudan sapma bağlamı"
+  },
+  "ج-ب-ي": {
+    "buckwalter": "jby",
+    "slug": "jby",
+    "concept_name": "Cibâye ve İctibâ (Suyu Havuzda ve Ürünü Merkezde Toplamak; Seçip Süzerek Katına Almak)",
+    "keywords": [
+      "cibaye",
+      "ictiba",
+      "icteba",
+      "cevap",
+      "cabiye",
+      "havuz",
+      "secip toplamak",
+      "derlemek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{jotabaY`",
+        "ayahs": [
+          "6:87",
+          "16:121",
+          "19:58",
+          "20:122",
+          "22:78",
+          "68:50"
+        ],
+        "label": "Form VIII malum mâzi fiil (`ٱجْتَبَىٰهُ / ٱجْتَبَيْنَٰهُمْ / ٱجْتَبَىٰكُمْ / ٱجْتَبَيْنَآ` — Allah'ın elçileri ve topluluğu seçip kendi katına alması; 6 geçiş)"
+      },
+      {
+        "lemma": "{jotabaY`",
+        "ayahs": [
+          "7:203"
+        ],
+        "label": "Form VIII malum mâzi 2. tekil eril fiil (`لَوْلَا ٱجْتَبَيْتَهَا` — muhaliflerin 'kendin derleyip ortaya koysaydın ya' sorusu; 1 geçiş: 7:203)"
+      },
+      {
+        "lemma": "{jotabaY`",
+        "ayahs": [
+          "3:179",
+          "12:6",
+          "42:13"
+        ],
+        "label": "Form VIII malum muzâri 3. tekil eril fiil (`يَجْتَبِى / يَجْتَبِيكَ / يَجْتَبِىٓ` — dilediğini seçip süzerek katına toplamak; 3 geçiş: 3:179, 12:6, 42:13)"
+      },
+      {
+        "lemma": "yujobaY`^",
+        "ayahs": [
+          "28:57"
+        ],
+        "label": "Form I meçhul muzâri 3. tekil eril fiil (`يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍ` — ürünlerin güvenli merkeze derlenip toplanması; 1 geçiş: 28:57)"
+      },
+      {
+        "lemma": "jawaAb2",
+        "ayahs": [
+          "34:13"
+        ],
+        "label": "`كَ` teşbih harfiyle mecrur çoğul isim (`كَٱلْجَوَابِ`, aslı `جَوَابِي` — büyük su toplama havuzları gibi; 1 geçiş: 34:13)"
+      }
+    ],
+    "irab_default": "Derleyip toplama veya seçerek katına alma bildiren `ج-ب-ي` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "28:57",
+          "34:13"
+        ],
+        "text": "Somut Toplama Mekaniği: Havuzlar ve Harem'e Derlenen Ürünler (`28:57`, `34:13`): Süleyman için yapılan büyük su havuzları (`كَٱلْجَوَابِ`) genişliğindeki çanaklar ve güvenli Harem merkezine her türlü ürünün derlenip toplanması (`يُجْبَىٰٓ إِلَيْهِ`)."
+      },
+      {
+        "ayahs": [
+          "3:179",
+          "6:87",
+          "12:6",
+          "16:121",
+          "19:58",
+          "20:122",
+          "22:78",
+          "42:13",
+          "68:50"
+        ],
+        "text": "İlahî İctibâ: Seçip Süzerek Doğru Yol ve Göreve Toplama (`3:179`, `6:87`, `12:6`, `16:121`, `19:58`, `20:122`, `22:78`, `42:13`, `68:50`): Adem, İbrahim, Yusuf, Yunus ve elçiler silsilesi ile güvenip bağlanan topluluğun seçilip doğru yola ve sorumluluğa alınması."
+      },
+      {
+        "ayahs": [
+          "7:203"
+        ],
+        "text": "Ayetin İnsan Eliyle Derlenemeyeceği Gerçeği (`7:203`): Muhaliflerin 'kendin derleyip çıkarsaydın ya' talebine karşı elçinin yalnızca vahyedilene uyduğunu ilanı."
+      }
+    ],
+    "context_default": "Derleyip toplama veya seçerek katına alma bağlamı"
   }
 }
