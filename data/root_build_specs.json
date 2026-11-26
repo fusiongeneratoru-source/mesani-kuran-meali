@@ -57242,5 +57242,38 @@
       }
     ],
     "context_default": "Toplumsal iletişimde incitici lakap ve yafta yasağı bağlamı"
+  },
+  "ل-ي-ت": {
+    "buckwalter": "lyt",
+    "slug": "lyt",
+    "concept_name": "Leyt / Lâte-Yelîtu (Hak Edilen Karşılıktan Bir Parça Eksiltmek, Kırpmak ve Noksanlaştırmak)",
+    "root_latin": "L-Y-T",
+    "keywords": [
+      "leyt",
+      "yelit",
+      "eksiltmek",
+      "kirpmak",
+      "hakki noksanlastirmak",
+      "tam karsilik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yalito",
+        "ayahs": [
+          "49:14"
+        ],
+        "label": "Form I meczûm muzâri fiil (`لَا يَلِتْكُمْ` — eylemlerinizin karşılığından hiçbir şey eksiltmez/kırpmaz; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Hak edilen karşılıktan eksiltip kırpmayı bildiren `ل-ي-ت` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "49:14"
+        ],
+        "text": "Eylemlerin Eksiksiz Karşılığı (`49:14`): İtaat ve sadakat gösteren bedevilere, yaptıkları işlerin değerinden hiçbir şeyin kırpılıp eksiltilmeyeceği (`لَا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ شَيْئًا`) güvencesi."
+      }
+    ],
+    "context_default": "Hak edilen eylem karşılığının eksiltilmemesi güvencesi bağlamı"
   }
 }
