@@ -55334,5 +55334,56 @@
       }
     ],
     "context_default": "Diretme, ayaz veya çığlık bağlamı"
+  },
+  "ع-ت-ب": {
+    "buckwalter": "Etb",
+    "slug": "etb",
+    "concept_name": "İsti'tâb ve Mu'tebîn (Hoşnutsuzluğu Giderip Telafi ve Rızaya Dönüş Dilemek)",
+    "keywords": [
+      "istitab",
+      "yustatebun",
+      "mutebin",
+      "telafi firsati",
+      "hosnutsuzluk",
+      "casiye suresi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yasotaEotibu",
+        "ayahs": [
+          "16:84",
+          "30:57",
+          "45:35"
+        ],
+        "label": "Meçhul Form X muzâri fiil (`وَلَا هُمْ يُسْتَعْتَبُونَ` — kendilerinden rızaya dönme telafisi istenmez; 3 geçiş)"
+      },
+      {
+        "lemma": "yasotaEotibu",
+        "ayahs": [
+          "41:24"
+        ],
+        "label": "Malum şart meczûmu Form X muzâri fiil (`وَإِن يَسْتَعْتِبُوا۟` — telafi ve hoşnutluk dileseler de; 1 geçiş)"
+      },
+      {
+        "lemma": "muEotabiyn",
+        "ayahs": [
+          "41:24"
+        ],
+        "label": "Mecrûr Form IV çoğul ism-i mef'ûl (`مِّنَ ٱلْمُعْتَبِينَ` — hoşnutlukla karşılanıp telafisi kabul edilenler; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Telafi ve hoşnutsuzluğu giderme talebi bildiren `ع-ت-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "16:84",
+          "30:57",
+          "41:24",
+          "45:35"
+        ],
+        "text": "Hesap Gününde Telafi Kapısının Kapanması (`16:84`, `30:57`, `41:24`, `45:35`): Ayetleri alaya alan ve zulmedenlerin hesap anında ne mazeret sunabilmeleri ne de hoşnutsuzluğu giderecek yeni bir dönüş fırsatı bulabilmeleri."
+      }
+    ],
+    "context_default": "Hesap gününde telafi kapısının kapanması bağlamı"
   }
 }
