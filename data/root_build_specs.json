@@ -55857,5 +55857,86 @@
       }
     ],
     "context_default": "Koruyucu kılıf ve gizleme bağlamı"
+  },
+  "ل-ح-م": {
+    "buckwalter": "lHm",
+    "slug": "lhm_lahm",
+    "concept_name": "Lahm ve Lühûm (Kemikleri Saran Et Dokusu ve Besin Eti)",
+    "keywords": [
+      "lahm",
+      "luhum",
+      "et dokusu",
+      "kemige et giydirmek",
+      "taze et",
+      "giybet benzetmesi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "laHom",
+        "ayahs": [
+          "2:259",
+          "23:14"
+        ],
+        "label": "Nekre mansûb ikinci mef'ûl (`نَكْسُوهَا / فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا` — kemiklere giydirilen et dokusu; 2 geçiş)"
+      },
+      {
+        "lemma": "laHom",
+        "ayahs": [
+          "2:173",
+          "5:3",
+          "6:145",
+          "16:115",
+          "49:12"
+        ],
+        "label": "Muzâf tekil isim (`لَحْمَ ٱلْخِنزِيرِ / لَحْمَ أَخِيهِ` — yasak besin ve gıybet benzetmesi; 5 geçiş)"
+      },
+      {
+        "lemma": "laHom",
+        "ayahs": [
+          "16:14",
+          "35:12",
+          "52:22",
+          "56:21",
+          "22:37"
+        ],
+        "label": "Tekil veya çoğul et ismi (`لَحْمًا طَرِيًّا / لَحْمِ طَيْرٍ / لُحُومُهَا` — deniz, ödül bahçesi ve sunulan hayvan eti; 5 geçiş)"
+      }
+    ],
+    "irab_default": "Et/kas dokusu bildiren `ل-ح-م` ismi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:259",
+          "23:14"
+        ],
+        "text": "Biyolojik Oluşum ve Diriliş (`2:259`, `23:14`): İskelet kemiklerinin yumuşak et dokusuyla (`لَحْمًا`) giydirilmesi."
+      },
+      {
+        "ayahs": [
+          "2:173",
+          "5:3",
+          "6:145",
+          "16:115",
+          "22:37"
+        ],
+        "text": "Beslenme Sınırları ve Paylaşım Bilinci (`2:173`, `5:3`, `6:145`, `16:115`, `22:37`): Domuz etinin yasaklanması ve kesilip paylaşılan hayvanlardan Allah'a ulaşanın et değil bilinçli sakınma oluşu."
+      },
+      {
+        "ayahs": [
+          "16:14",
+          "35:12",
+          "52:22",
+          "56:21"
+        ],
+        "text": "Temiz Deniz ve Ödül Bahçesi (جَنَّات) Rızıkları (`16:14`, `35:12`, `52:22`, `56:21`): İki denizden çıkarılan taze et (`لَحْمًا طَرِيًّا`) ve ödül bahçelerindeki (جَنَّات) seçkin et ikramları."
+      },
+      {
+        "ayahs": [
+          "49:12"
+        ],
+        "text": "Gıybetin Sarsıcı Benzetmesi (`49:12`): Kardeşin arkasından çekiştirmenin, ölü kardeşinin etini yemeye benzetilmesi."
+      }
+    ],
+    "context_default": "Et dokusu ve besin eti bağlamı"
   }
 }

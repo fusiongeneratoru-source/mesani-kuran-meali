@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (40/50 — Toplam 790 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (41/50 — Toplam 791 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -3890,7 +3890,8 @@
           "ل-ب-س (L-B-S (lbs) — Çift Yönlü Mesânî Karşılığı: 2:187, 7:26-27, 2:42, 3:71)",
           "ع-د-و (ع-د-و ↔ و-ق-ي Mesânî simetrisi)",
           "ش-ق-و (ش-ق-و ↔ و-ق-ي Mesânî simetrisi)",
-          "ش-ق-و"
+          "ش-ق-و",
+          "ل-ح-م (L-H-M (lHm) — Çift Yönlü Mesânî Karşılığı: `22:37` — Allah'a asıl ulaşan bilinçli sakınma ve içsel sorumluluk `التَّقْوَىٰ` ↔ sunulan hayvanın Allah'a ulaşmayan dışsal et ve kan maddesi `لُحُومُهَا`)"
         ],
         "key_ayahs": [
           "16:81 & 7:26 & 2:197 (تَقِيكُمُ ٱلْحَرَّ ... تَقِيكُم بَأْسَكُمْ / وَلِبَاسُ ٱلتَّقْوَىٰ / خَيْرَ ٱلزَّادِ — Fiziksel ısı/darbe zırhından içsel korunma giysisine ve hayat yolculuğu azığına doğrudan benzetme)",
@@ -66559,6 +66560,76 @@
         "أَكِنَّة (Çoğul İsim — `كِنَان` çoğulu)": "4 geçiş (6:25, 17:46, 18:57, 41:5) — kalpleri kavrayışa kapatan kalın kılıflar/örtüler",
         "أَكْنَٰنًا (Çoğul İsim — `كِنّ` çoğulu)": "1 geçiş (16:81) — dağlarda koruyucu barınaklar/sığınaklar",
         "مَكْنُون / ٱلْمَكْنُون (Form I İsm-i Mef'ûl)": "4 geçiş (37:49, 52:24, 56:23, 56:78) — kılıfında/kabuğunda el değmeden özenle korunmuş"
+      }
+    },
+    "ل-ح-م": {
+      "root_latin": "L-H-M (lHm)",
+      "arabic": "لَحْمًا",
+      "rank": 519,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "لحم / لحما (`11` geçiş — `2:173`, `2:259`, `5:3`, `6:145`, `16:14`, `16:115`, `23:14`, `35:12`, `49:12`, `52:22`, `56:21` — tekil cins ismi: kemikleri saran iç içe geçmiş kas ve et dokusu; yenilen et)",
+          "لحومها (`1` geçiş — `22:37` `لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا` — `فُعُول` kırık çoğulu: kesilip paylaşılan hayvanların (الْبُدْن/الْهَدْي) maddi etleri)"
+        ],
+        "verb_forms_used": [
+          "Korpusta çekimli fiil geçişi yoktur; kökün 12 geçişinin tamamı tekil `لَحْم` (`11` kez) ve çoğul `لُحُوم` (`1` kez, `22:37`) ismidir.",
+          "Anatomi ve Besin İsmi (`12` geçiş): `لَحْم / لُحُوم` (`2:173`, `2:259`, `5:3`, `6:145`, `16:14`, `16:115`, `22:37`, `23:14`, `35:12`, `49:12`, `52:22`, `56:21` — kemiği örten kas/et dokusu, temiz deniz/ödül bahçelerinin (جَنَّات) eti, yasaklanan domuz eti, gıybet benzetmesindeki ölü kardeş eti ve kesilip sunulan hayvanların etleri)"
+        ],
+        "preposition_patterns": [
+          "`فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا` (`23:14`) / `ثُمَّ نَكْسُوهَا لَحْمًا` (`2:259`) — embriyo oluşumu ve yeniden dirilişte sert kemik iskeletini örten yumuşak et dokusu",
+          "`لَحْمَ ٱلْخِنزِيرِ` (`2:173`, `5:3`, `6:145`, `16:115` — 4 kez yasak besin maddesi), `لَحْمًا طَرِيًّا` (`16:14`, `35:12` — denizlerden çıkan taze et) ve `لَحْمَ أَخِيهِ مَيْتًا` (`49:12` — gıybetin somut tiksindirici benzetmesi)",
+          "`لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ` (`22:37` — kesilen hayvanların maddi etinin değil, bilinçli sakınmanın Allah'a ulaşması)"
+        ],
+        "approx_frequency": "12 geçiş / 12 ayet (10 sure; referans amaçlı)"
+      },
+      "physical_core": "İbn Fâris'in saptadığı **'liflerin ve parçaların birbirinin içine girip sıkıca kenetlenmesi (`تَدَاخُلُ بَعْضِهِ فِي بَعْضٍ`)'** fiziksel çekirdeğinden **'kemik iskeletini saran, lifleri birbirine geçmiş canlı et/kas dokusu ve besin olarak tüketilen et (`اللَّحْم`)'** (`2:259`, `16:14`, `23:14`, `49:12`).",
+      "ibn_faris_asl": {
+        "text": "(لحم) اللام والحاء والميم أصل صحيح يدل على تداخل، كاللحم الذي هو متداخل بعضه في بعض. من ذلك اللحم. وسميت الحرب ملحمة لمعنيين: أحدهما تلاحم الناس: تداخلهم بعضهم في بعض.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (لحم maddesi, c. 5)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ل-ح-م` kökünün temel mekaniğini `تَدَاخُل` ('birbirinin içine geçip kenetlenme') olarak tespit eder: kas liflerinin birbirine kenetlenmiş dokusu (`لَحْم`), kumaşın atkı ipliği (`لُحْمَة`), iki şeyi birleştirmek (`لَاحَمَ`) ve orduların iç içe geçmesi (`مَلْحَمَة`) hep bu tek somut asıldan türer.",
+        "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*, لحم maddesi) `اللَّحْمُ: مَعْرُوفٌ، وَالْجَمْعُ لُحُومٌ وَلِحَامٌ` ve `الِالْتِحَامُ: الِالْتِئَامُ وَالتَّدَاخُلُ` ('birbirine kaynayıp kenetlenme') tanımlarını verir.",
+        "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*, لحم maddesi) `اللَّحْمُ` kelimesinin canlıların et dokusu olduğunu belirttikten sonra `49:12`'deki `أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا` ayetinde bir insanın arkasından konuşup onurunu çiğnemenin ölü etini yemeye benzetilmesindeki sarsıcı ahlaki mecaza işaret eder.",
+        "arbitration_decision": "Üç klasik sözlüğün mutabakatıyla `ل-ح-م` kökü **'lifleri birbirine geçmiş, kemiği saran yumuşak et/kas dokusu ve besin eti'** çekirdeğinde kilitlenir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Proto-Sami `*laḥm-` ('temel besin: ekmek veya et')",
+        "note": "Karşılaştırmalı Sami dilbiliminin en meşhur anlam özelleşme örneklerinden biridir: Proto-Sami `*laḥm-` 'temel gıda' kökü, tarım toplumlarında İbranice *leḥem* (`לֶחֶם` 'ekmek') ve Aramice *laḥmā* ('ekmek') yönünde özelleşirken, Arapçada `لَحْم` ('et') ve Güney Arapça/Mehricede 'balık' yönünde özelleşmiştir (Ugaritçe *lḥm* her iki 'besin/et' alanını korur)."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ع-ظ-م (A-Z-M — Çift Yönlü Mesânî Karşılığı: `2:259`, `23:14` `فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا` — bedenin sert iskelet çatısı `عِظَام` ↔ o sert iskeleti saran yumuşak et dokusu `لَحْم`)",
+          "و-ق-ي (V-K-Y — Çift Yönlü Mesânî Karşılığı: `22:37` `لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ` — sunulan hayvanın Allah'a ulaşmayan dışsal et ve kan maddesi `لُحُومُهَا` ↔ Allah'a asıl ulaşan bilinçli sakınma ve içsel sorumluluk `التَّقْوَىٰ`)"
+        ],
+        "key_ayahs": [
+          "23:14 (فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا — Çiğnemlik et parçasını kemiklere dönüştürdük, sonra kemiklere et giydirdik)",
+          "22:37 (لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ — Onların ne etleri ne kanları Allah'a ulaşır; fakat O'na sizden ulaşan, bilinçli sakınmanızdır)",
+          "49:12 (أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ — Sizden biriniz ölmüş kardeşinin etini yemekten hoşlanır mı? İşte bundan tiksindiniz!)"
+        ],
+        "reverse_stress_test": "Sert kemik iskeletinin (`ع-ظ-م`) ve dışsal maddenin ötesindeki bilinçli sakınmanın (`و-ق-ي`) karşısına konduğunda; `ل-ح-م` kökünün 'kemiği saran yumuşak et dokusu ve maddi besin eti' çekirdeği eksiksiz doğrulanır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ع-ظ-م",
+          "د-م-و",
+          "م-ض-غ",
+          "ط-ر-و",
+          "غ-ي-ب"
+        ],
+        "mechanical_difference": "Anatomi ve besin bağlamında **`ع-ظ-م`** sert taşıyıcı iskeleti, **`م-ض-غ`** embriyoda henüz kemikleşmemiş çiğnemlik doku evresini (`23:14`), **`د-م-و`** akıcı yaşam sıvısı kanı anlatırken; **`ل-ح-م`** kemikleri giydiren lifli kas dokusunu ve beslenme/etik sınırlarının (domuz eti yasağı, taze deniz eti, kesilip sunulan hayvan eti, gıybet benzetmesi) merkezindeki eti belirtir."
+      },
+      "anchor_ayahs": [
+        "2:173 (إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ)",
+        "16:14 (لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا)",
+        "22:37 (لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا)",
+        "23:14 (فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا)",
+        "49:12 (أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا)"
+      ],
+      "unified_core_mechanism": "`ل-ح-م` kökü Kur'an'daki 12 geçişinin tamamında **'lifleri birbirine kenetlenmiş, kemikleri örten et/kas dokusu'** somut çekirdeğini taşır; embriyoloji ve diriliş (`2:259`, `23:14`), beslenme sınırları (`2:173`, `5:3`, `6:145`, `16:115`), deniz ve ödül bahçelerinin (جَنَّات) rızıkları (`16:14`, `35:12`, `52:22`, `56:21`), kesilip paylaşılan hayvanların etinin değil içsel sakınma bilincinin ulaşması (`22:37`) ve gıybetin tiksindiriciliği (`49:12`) bağlamlarında işler.",
+      "grammar_and_branch_rules": "Korpusta çekimli fiil geçişi yoktur. 11 kez tekil eril isim `لَحْم` ve 1 kez kırık çoğul `لُحُومُهَا` (`22:37`) olarak geçer.",
+      "derivatives": {
+        "لَحْم / لُحُوم (İsim — Tekil ve Çoğul)": "12 geçiş (2:173, 2:259, 5:3, 6:145, 16:14, 16:115, 22:37, 23:14, 35:12, 49:12, 52:22, 56:21) — kemikleri saran kas/et dokusu, besin olarak tüketilen et"
       }
     }
   }
