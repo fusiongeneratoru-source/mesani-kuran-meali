@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 28 / 50 Kök (Toplam Mühürlü: 878 Kök | Güncel Kapsam: %96,12)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 29 / 50 Kök (Toplam Mühürlü: 879 Kök | Güncel Kapsam: %96,12)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -35,7 +35,7 @@
 | 26 | Sure %100 Kilidi | 912 | `ر-ق-ي` | `R-K-Y` | **4** | 3 | 17:93 | Rukiyy, İrtikâ ve Râkî (Basamak/Yollarla Yukarı Tırmanmak ve Ölüm Anında Kurtarıcı/Okuyucu Aramak) | ✅ **MÜHÜRLÜ** |
 | 27 | Sure %100 Kilidi | 998 | `ل-ف-ف` | `L-F-F` | **3** | 3 | 17:104 | Leff, Lefîf, Elfâf ve İltifâf (Parçaların Birbirine Dolanıp Sarılması ve Sıkıca Bir Araya Toplanması) | ✅ **MÜHÜRLÜ** |
 | 28 | Sure %100 Kilidi | 1113 | `ب-ن-ن` | `B-N-N` | **2** | 2 | 8:12 | Benân (Parmak Uçları, İnce Eklem Boğumları ve İnsanın En Hassas Fiziksel Detayı) | ✅ **MÜHÜRLÜ** |
-| 29 | Sure %100 Kilidi | 1575 | `ح-ر-ك` | `H-R-K` | **1** | 1 | 75:16 | Tuharrik (Sure 75 Kıyâmet kilidi: 75:16 vahyi aceleyle yakalamak için dilini kıpırdatıp hareket ettirmek) | ⏳ *Bekliyor* |
+| 29 | Sure %100 Kilidi | 1575 | `ح-ر-ك` | `H-R-K` | **1** | 1 | 75:16 | Tahrîk (Bir Şeyi Kıpırdatıp Harekete Geçirmek — Vahyi Aceleyle Yakalamak İçin Dili Kıpırdatma Uyarısı) | ✅ **MÜHÜRLÜ** |
 | 30 | Sure %100 Kilidi | 1577 | `م-ط-و` | `M-T-W` | **1** | 1 | 75:33 | Yetemattâ (Sure 75 Kıyâmet kilidi: 75:33 kibirle gerinip çalım satarak salına salına yürümek) | ⏳ *Bekliyor* |
 | 31 | Sure %100 Kilidi | 1576 | `ت-ر-ق` | `T-R-K` | **1** | 1 | 75:26 | Terâkî (Sure 75 Kıyâmet son kilidi: 75:26 canın boğazdaki köprücük kemiklerine dayanma anı) | ⏳ *Bekliyor* |
 | 32 | Sure %100 Kilidi | 593 | `ز-ل-ف` | `Z-L-F` | **10** | 10 | 11:114 | Zülfâ, Zülef ve Üzlifet (Sure 81 Tekvîr kilidi | 1M + 10 geçiş: 11:114, 26:64, 26:90, 34:37, 38:25, 38:40, 39:3, 50:31, 67:27, 81:13 yaklaştırmak, yakınlık derecesi ve gecenin gündüze yakın saatleri) | ⏳ *Bekliyor* |
