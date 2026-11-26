@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 33 / 50 Kök (Toplam Mühürlü: 783 Kök | Güncel Kapsam: %95,11)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 34 / 50 Kök (Toplam Mühürlü: 784 Kök | Güncel Kapsam: %95,11)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -40,7 +40,7 @@
 | 31 | Sure %100 Kilidi | 710 | `ص-ر-ر` | `S-R-R` | **6** | 6 | 3:117 | Israr, Sır ve Sarre (Yanlışta Diretmek, Dondurucu Ayaz ve Hayret Çığlığı) | ✅ **MÜHÜRLÜ** |
 | 32 | Sure %100 Kilidi | 819 | `ع-ت-ب` | `A-T-B` | **5** | 4 | 16:84 | İsti'tâb ve Mu'tebîn (Hoşnutsuzluğu Giderip Telafi ve Rızaya Dönüş Dilemek) | ✅ **MÜHÜRLÜ** |
 | 33 | Sure %100 Kilidi | 863 | `ج-ر-ح` | `C-R-H` | **4** | 4 | 5:4 | Cerh, Cürûh ve İctirâh (Eylemle Kazanmak, Avcı Hayvanlar ve Fiziksel Yaralar) | ✅ **MÜHÜRLÜ** |
-| 34 | Sure %100 Kilidi | 1008 | `ج-ث-و` | `C-S-W` | **3** | 3 | 19:68 | Câsiye ve Cisi (Sure 45 Câsiye kilidi + 3 geçiş: 19:68, 19:72, 45:28 dehşet ve hesap karşısında dizleri üstüne çökmüş hâl) | ⏳ *Bekliyor* |
+| 34 | Sure %100 Kilidi | 1008 | `ج-ث-و` | `C-S-W` | **3** | 3 | 19:68 | Cüsüv ve Câsiye (Hesap Huzurunda Dizleri Üzerine Çökmek) | ✅ **MÜHÜRLÜ** |
 | 35 | Sure %100 Kilidi | 1223 | `د-ه-ر` | `D-H-R` | **2** | 2 | 45:24 | Dehr (Sure 45 Câsiye son kilidi + 2 geçiş: 45:24, 76:1 uzun akıp giden zaman çağları ve tarihsel süre) | ⏳ *Bekliyor* |
 | 36 | Açık Mesânî Zırhı | 777 | `ل-ي-ن` | `L-Y-N` | **5** | 5 | 3:159 | Lîn ve Elyene (2 açık Mesânî ref: ق-ل-ب, خ-ش-ب + 2F! 5 geçiş: 3:159, 20:44, 34:10, 39:23, 59:5 sertliğin zıddı yumuşaklık, esneklik ve ince/yumuşak hurma fidanı) | ⏳ *Bekliyor* |
 | 37 | Açık Mesânî Zırhı | 1315 | `ص-م-ت` | `S-M-T` | **1** | 1 | 7:193 | Sâmitûn (2 açık Mesânî ref: ق-و-ل, ض-ب-ح! 7:193 sesini kesip tam suskunluğa bürünmek) | ⏳ *Bekliyor* |

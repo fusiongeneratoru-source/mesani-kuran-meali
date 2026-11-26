@@ -55452,5 +55452,51 @@
       }
     ],
     "context_default": "Eylem kazanımı veya fiziksel yara bağlamı"
+  },
+  "ج-ث-و": {
+    "buckwalter": "jvw",
+    "slug": "jvw",
+    "concept_name": "Cüsüv ve Câsiye (Hesap Huzurunda Dizleri Üzerine Çökmek)",
+    "keywords": [
+      "casiye",
+      "cisiyyen",
+      "diz ustu cokmek",
+      "hesap gunu",
+      "casiye suresi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jaAviyap",
+        "ayahs": [
+          "45:28"
+        ],
+        "label": "Nekre mansûb müennes ism-i fâil / hâl (`كُلَّ أُمَّةٍ جَاثِيَةً` — her toplum diz üstü çökmüş halde; 1 geçiş)"
+      },
+      {
+        "lemma": "jiviy~",
+        "ayahs": [
+          "19:68",
+          "19:72"
+        ],
+        "label": "Nekre mansûb kırık çoğul / hâl (`جِثِيًّا` — dizleri üzerine çökmüş topluluklar halinde; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Diz üstü çöküş bildiren `ج-ث-و` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "45:28"
+        ],
+        "text": "Kitabına Çağrılan Diz Çökmüş Toplumlar (`45:28`): Hesap gününde her toplumun kendi amel kaydına çağrılırken dizleri üzerine çökmüş (`جَاثِيَةً`) vaziyette beklemesi."
+      },
+      {
+        "ayahs": [
+          "19:68",
+          "19:72"
+        ],
+        "text": "Yakıcı Uçurum (جَهَنَّم) Çevresinde Diz Üstü Çöküş (`19:68`, `19:72`): Zalimlerin yakıcı uçurum (جَهَنَّم) çevresinde ve içinde diz üstü çökmüş (`جِثِيًّا`) halde bırakılması, sakınanların kurtarılması."
+      }
+    ],
+    "context_default": "Hesap gününde diz üstü çökme bağlamı"
   }
 }
