@@ -52830,5 +52830,100 @@
       }
     ],
     "context_default": "Hak, ölçü veya değerden haksızca eksiltme bağlamı"
+  },
+  "ج-و-ر": {
+    "buckwalter": "jwr",
+    "slug": "jwr",
+    "concept_name": "Cevr, Civâr ve İcâre (Yana Eğilip Sapmak; Bitişik Komşuluk ve Himaye/Eman Vermek)",
+    "keywords": [
+      "cevr",
+      "car",
+      "civar",
+      "icare",
+      "isticare",
+      "komsu",
+      "himaye",
+      "eman",
+      "cair",
+      "mutecavirat"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yujiyru",
+        "ayahs": [
+          "9:6",
+          "23:88",
+          "46:31",
+          "67:28",
+          "72:22"
+        ],
+        "label": "Form IV fiil (`فَأَجِرْهُ` emir, `يُجِيرُ / يُجَارُ` malum/meçhul merfû, `وَيُجِرْكُم` meczum, `لَن يُجِيرَنِى` mansub — himaye ve eman vermek; 6 geçiş)"
+      },
+      {
+        "lemma": "{sotajaAra",
+        "ayahs": [
+          "9:6"
+        ],
+        "label": "Form X malum mâzi 3. tekil eril fiil (`ٱسْتَجَارَكَ` — şart cümlesinde eman ve himaye istemek; 1 geçiş: 9:6)"
+      },
+      {
+        "lemma": "yujaAwiru",
+        "ayahs": [
+          "33:60"
+        ],
+        "label": "Form III malum muzâri 3. çoğul eril fiil (`لَا يُجَاوِرُونَكَ` — aynı şehirde yan yana komşuluk yapmak; 1 geçiş: 33:60)"
+      },
+      {
+        "lemma": "jaAr",
+        "ayahs": [
+          "4:36",
+          "8:48"
+        ],
+        "label": "Tekil eril isim (`وَٱلْجَارِ` mecrur x2 komşu hukuku, `جَارٌ` merfû haber koruyucu/müttefik; 3 geçiş: 4:36 x2, 8:48)"
+      },
+      {
+        "lemma": "m~utaja`wira`t",
+        "ayahs": [
+          "13:4"
+        ],
+        "label": "Form VI ism-i fâil dişil çoğul merfû sıfat (`قِطَعٌ مُّتَجَٰوِرَٰتٌ` — yan yana bitişik toprak parçaları; 1 geçiş: 13:4)"
+      },
+      {
+        "lemma": "jaA^}ir",
+        "ayahs": [
+          "16:9"
+        ],
+        "label": "Form I ism-i fâil merfû mübteda (`وَمِنْهَا جَآئِرٌ` — doğru yoldan yana eğilip sapan yol; 1 geçiş: 16:9)"
+      }
+    ],
+    "irab_default": "Himaye, komşuluk veya yoldan sapma bildiren `ج-و-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "8:48",
+          "9:6",
+          "23:88",
+          "46:31",
+          "67:28",
+          "72:22"
+        ],
+        "text": "Eman, Himaye ve Mutlak Koruyuculuk (`8:48`, `9:6`, `23:88`, `46:31`, `67:28`, `72:22`): Sığınma isteyene eman verilmesi, saptırıcının sahte himaye vaadinden dönmesi ve gerçekte herkesi koruyup kendisine karşı kimsenin himaye edilemediği tek otoritenin Allah olması."
+      },
+      {
+        "ayahs": [
+          "4:36",
+          "13:4",
+          "33:60"
+        ],
+        "text": "Toplumsal ve Tabii Bitişiklik / Komşuluk (`4:36`, `13:4`, `33:60`): Akraba ve yabancı komşuya iyilik hukuku, yeryüzünde yan yana bitişik olup farklı ürünler veren toprak parçaları ve bozguncuların şehirde uzun süre komşuluk edememesi."
+      },
+      {
+        "ayahs": [
+          "16:9"
+        ],
+        "text": "Doğru Hattan Yana Eğilip Sapma (`16:9`): Allah'ın gösterdiği dosdoğru yol (`قَصْدُ ٱلسَّبِيلِ`) karşısında eğrilip sapan yol (`جَآئِرٌ`)."
+      }
+    ],
+    "context_default": "Himaye, komşuluk veya doğrudan sapma bağlamı"
   }
 }
