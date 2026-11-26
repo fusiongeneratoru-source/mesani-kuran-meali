@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 41 / 50 Kök (Toplam Mühürlü: 791 Kök | Güncel Kapsam: %95,23)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 42 / 50 Kök (Toplam Mühürlü: 792 Kök | Güncel Kapsam: %95,25)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -48,7 +48,7 @@
 | 39 | Yüksek Frekanslı Çekirdek | 525 | `ط-ي-ن` | `T-Y-N` | **12** | 12 | 3:49 | Tîn (Suyla Yoğrulmuş Toprak, Balçık ve Kil) | ✅ **MÜHÜRLÜ** |
 | 40 | Yüksek Frekanslı Çekirdek | 524 | `ك-ن-ن` | `K-N-N` | **12** | 12 | 2:235 | Kinn, Ekinne ve Meknûn (Kılıf İçinde Koruyup Örtmek ve Göğüste Gizlemek) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 519 | `ل-ح-م` | `L-H-M` | **12** | 12 | 2:173 | Lahm ve Lühûm (Kemikleri Saran Et Dokusu ve Besin Eti) | ✅ **MÜHÜRLÜ** |
-| 42 | Yüksek Frekanslı Çekirdek | 539 | `ن-ط-ف` | `N-T-F` | **12** | 12 | 16:4 | Nutfe (12 geçiş | 2F: 16:4, 18:37, 22:5, 23:13, 23:14, 35:11, 36:77, 40:67, 53:46, 75:37, 76:2, 80:19 süzülüp damlayan saf ve küçücük sıvı damlası) | ⏳ *Bekliyor* |
+| 42 | Yüksek Frekanslı Çekirdek | 539 | `ن-ط-ف` | `N-T-F` | **12** | 12 | 16:4 | Nutfe (İnsan Yaşamını Başlatan Saf Döllenme Damlası) | ✅ **MÜHÜRLÜ** |
 | 43 | Yüksek Frekanslı Çekirdek | 529 | `و-د-ي` | `W-D-Y` | **12** | 11 | 4:92 | Vâdî, Evdiye ve Diye (12 geçiş: 4:92 [2x], 9:121, 13:17, 14:37, 20:12, 26:225, 27:18, 28:30, 46:24, 79:16, 89:9 suların aktığı vadi yatağı ve öldürmede ödenen tazminat/bedel) | ⏳ *Bekliyor* |
 | 44 | Yüksek Frekanslı Çekirdek | 516 | `ن-ي-ل` | `N-Y-L` | **12** | 10 | 2:124 | Neyl ve Yenâlu (12 geçiş: 2:124, 3:92, 5:94, 7:49, 9:120 [2x], 22:37, 24:11, 33:25, 60:2 [2x], 64:14 uzanıp elde etmek, erişmek ve payına ulaşmak) | ⏳ *Bekliyor* |
 | 45 | Yüksek Frekanslı Çekirdek | 563 | `و-ر-د` | `W-R-D` | **11** | 9 | 11:98 | Vürûd, Vârid ve Verîd (11 geçiş | 1M: ص-د-ر + 2F: 11:98 [2x], 12:19, 19:71, 19:86, 21:98, 21:99, 28:23, 50:16, 55:37 su başına inip varmak ve şahdamarı) | ⏳ *Bekliyor* |
