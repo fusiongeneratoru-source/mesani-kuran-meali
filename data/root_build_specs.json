@@ -59880,5 +59880,48 @@
       }
     ],
     "context_default": "Hoşnutsuzluk ve sıkıntıyla kaşların çatılıp yüzün asılması bağlamı"
+  },
+  "ح-د-ق": {
+    "buckwalter": "Hdq",
+    "slug": "hdq",
+    "concept_name": "Hadâik (Çevresi Duvar veya Sınırla Kuşatılmış, Sık Ağaçlı ve Göz Alıcı Bahçeler)",
+    "root_latin": "H-D-Q",
+    "keywords": [
+      "hadaik",
+      "hadika",
+      "bahce",
+      "kusatilmis",
+      "sik agacli",
+      "yesillik",
+      "behcet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "HadaA^}iq",
+        "ayahs": [
+          "27:60",
+          "78:32",
+          "80:30"
+        ],
+        "label": "Kırık çoğul isim (`حَدَآئِقَ`, tekili `حَدِيقَة` — çevresi kuşatılmış, suyla beslenen sık ağaçlı verimli bahçeler; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Çevresi kuşatılmış sık ağaçlı verimli bahçeleri bildiren `ح-د-ق` çoğul ismi (`حَدَائِق`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "27:60",
+          "80:30"
+        ],
+        "text": "Yağmurla Yeşeren Çevrili Bahçeler (`27:60`, `80:30`): Gökten indirilen suyla bitirilen göz alıcı güzellikteki bahçeler (`حَدَآئِقَ ذَاتَ بَهْجَةٍ`) ve gür/kalın gövdeli sık ağaçlı bahçeler (`حَدَآئِقَ غُلْبًا`)."
+      },
+      {
+        "ayahs": [
+          "78:32"
+        ],
+        "text": "Esenlik Yurdunda Bahçeler (`78:32`): Sakınanlara verilecek kurtuluş ve nimetler içinde üzüm bağlarıyla birlikte anılan bahçeler (`حَدَآئِقَ وَأَعْنَٰبًا`)."
+      }
+    ],
+    "context_default": "Çevresi kuşatılmış, suyla beslenen sık ağaçlı bahçeler bağlamı"
   }
 }
