@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3L (+5 Sure %100 Tam Kilidi [Sure 71, 49, 58, 77, 89 -> 45 Sure], Kalan Tüm 4+ Açık Furûk Tepe Uçları ve 11–10 Geçişli Çekirdek Kökler — 50 Kök -> 850 Kök)",
   "target_count": 50,
-  "locked_count": 33,
+  "locked_count": 34,
   "total_tokens_in_package": 254,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 95.7,
+  "current_coverage_pct": 95.71,
   "target_coverage_pct": 95.94,
   "etap_3l_roots": [
     {
@@ -608,8 +608,8 @@
       "frequency": 5,
       "unique_ayahs": 4,
       "rationale": "Sabb (Sure 89 Fecr kilidi + 5 geçiş: 22:19, 44:48, 80:25, 89:13 yukarıdan aşağıya güçlü ve kesintisiz akışla boşaltıp dökmek)",
-      "concept_label": "Analiz Bekliyor (Sab~a, Sab~)",
-      "is_locked": false,
+      "concept_label": "Sabb (Yukarıdan Aşağıya Kesintisiz ve Bolca Dökmek, Boşaltmak)",
+      "is_locked": true,
       "sample_ayah": "22:19",
       "top_lemmas": [
         "Sab~a",

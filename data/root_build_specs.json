@@ -58224,5 +58224,61 @@
       }
     ],
     "context_default": "Tetikte hazırlanma, geçit gözetleme ve kesintisiz denetim bağlamı"
+  },
+  "ص-ب-ب": {
+    "buckwalter": "Sbb",
+    "slug": "sbb_sabb",
+    "concept_name": "Sabb (Yukarıdan Aşağıya Kesintisiz ve Bolca Dökmek, Boşaltmak)",
+    "root_latin": "S-B-B",
+    "keywords": [
+      "sabb",
+      "dokmek",
+      "bosaltmak",
+      "yagmur",
+      "kaynar su",
+      "karsilik kamcisi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Sab~a",
+        "ayahs": [
+          "22:19",
+          "44:48",
+          "80:25",
+          "89:13"
+        ],
+        "label": "Form I fiil (`صَبَبْنَا / فَصَبَّ / يُصَبُّ / صُبُّوا۟` — yukarıdan aşağıya bolca dökmek, boşaltmak; 4 geçiş)"
+      },
+      {
+        "lemma": "Sab~",
+        "ayahs": [
+          "80:25"
+        ],
+        "label": "Masdar / mef'ûl-i mutlak (`صَبًّا` — gökten suyun gürül gürül, kesintisiz dökülüşü; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yukarıdan aşağıya bolca dökmeyi ve boşaltmayı bildiren `ص-ب-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "80:25"
+        ],
+        "text": "Bereketli Yağmurun Gökten Boşalması (`80:25`): `أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا` — insanın rızkı için suyun gökten gürül gürül dökülüşü."
+      },
+      {
+        "ayahs": [
+          "89:13"
+        ],
+        "text": "Zorbaların Tepesinden Boşaltılan Karşılık (`89:13`): `فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ` — Âd, Semûd ve Firavun üzerine inen kaçınılmaz tarihî yıkım."
+      },
+      {
+        "ayahs": [
+          "22:19",
+          "44:48"
+        ],
+        "text": "Baş Üstünden Dökülen Kaynar Su (`22:19`, `44:48`): Hakkı örtüp direnen zorbaların başlarının üstünden kaynar su (`ٱلْحَمِيم`) dökülmesi."
+      }
+    ],
+    "context_default": "Yukarıdan aşağıya bolca ve kesintisiz dökme/boşaltma bağlamı"
   }
 }
