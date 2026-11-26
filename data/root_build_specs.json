@@ -56325,5 +56325,71 @@
       }
     ],
     "context_default": "Yoğun öfke ve hiddet bağlamı"
+  },
+  "ي-م-م": {
+    "buckwalter": "ymm",
+    "slug": "ymm",
+    "concept_name": "Yemm ve Teyemmüm (Engin Su Kütlesi/Deniz ve Bilinçli Olarak Yönelmek)",
+    "keywords": [
+      "yemm",
+      "teyemmum",
+      "engin deniz",
+      "buyuk nehir",
+      "yonelm",
+      "temiz toprak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yam~",
+        "ayahs": [
+          "7:136",
+          "20:39",
+          "20:78",
+          "20:97",
+          "28:7",
+          "28:40",
+          "51:40"
+        ],
+        "label": "Marife eril isim (`ٱلْيَمّ` — Musa kıssasındaki büyük nehir/deniz; 8 geçiş)"
+      },
+      {
+        "lemma": "tayam~amu",
+        "ayahs": [
+          "2:267",
+          "4:43",
+          "5:6"
+        ],
+        "label": "Form V fiil (`تَيَمَّمُوا۟` — kasten yönelip seçmek; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Engin su kütlesi veya kasten yönelme bildiren `ي-م-م` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "20:39",
+          "28:7"
+        ],
+        "text": "Bebek Musa'yı Koruyup Kıyıya Ulaştıran Büyük Su (`20:39`, `28:7`): Sandıkla suya bırakılan Musa'nın ilahî gözetimle sağ salim kıyıya çıkarılması."
+      },
+      {
+        "ayahs": [
+          "7:136",
+          "20:78",
+          "20:97",
+          "28:40",
+          "51:40"
+        ],
+        "text": "Firavun Ordusunun Boğuluşu ve Buzağının Savruluşu (`7:136`, `20:78`, `20:97`, `28:40`, `51:40`): Zorba ordunun ve putlaştırılan buzağı küllerinin engin denize gömülmesi."
+      },
+      {
+        "ayahs": [
+          "2:267",
+          "4:43",
+          "5:6"
+        ],
+        "text": "Bilinçli Yöneliş: Paylaşımda Kalite ve Temiz Toprağa Yönelmek (`2:267`, `4:43`, `5:6`): Paylaşım için çürüğe yönelmeme ve su olmadığında temiz toprak yüzeyine yönelme."
+      }
+    ],
+    "context_default": "Engin su veya kasten yönelme bağlamı"
   }
 }
