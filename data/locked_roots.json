@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (95/50 — Toplam 895 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (96/50 — Toplam 896 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -5853,7 +5853,8 @@
           "ب-غ-ي (ب-غ-ي ↔ ص-ل-ح Mesânî simetrisi)",
           "خ-ص-م (خ-ص-م ↔ ص-ل-ح Mesânî simetrisi)",
           "ح-ط-م (H-T-M (HTm) — Çift Yönlü Mesânî Karşılığı: 27:18, 104:4-5)",
-          "د-م-و (Sefk-i Dimâ': bozgunculuk çıkarıp kan dökmek ↔ ص-ل-ح barışı ve canlı yaşamını koruyup iyileştirmek — `2:30`)"
+          "د-م-و (Sefk-i Dimâ': bozgunculuk çıkarıp kan dökmek ↔ ص-ل-ح barışı ve canlı yaşamını koruyup iyileştirmek — `2:30`)",
+          "ج-ب-ر (Cebbâr: yeryüzünde zorbalık ve baskı kurmak ↔ ص-ل-ح barış ve iyileştirme yolunda çalışmak — `28:19` `جَبَّارًا فِى ٱلْأَرْضِ ... مِنَ ٱلْمُصْلِحِينَ`)"
         ],
         "key_ayahs": [
           "2:11 & 2:220 & 7:56 & 7:85 (لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ / وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ / وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا: Bozan ile onaranın doğrudan ayrışması)",
@@ -75115,6 +75116,83 @@
             "6:145",
             "16:66",
             "22:37"
+          ]
+        }
+      ]
+    },
+    "ج-ب-ر": {
+      "root_latin": "J-B-R",
+      "arabic": "ج-ب-ر",
+      "rank": 583,
+      "morphology_and_rasm": {
+        "buckwalter": "jbr",
+        "rasm_skeleton": "جبر (harekesiz iskelet; yalnızca فعّال mübalağa kalıbı جبار / جبارين / الجبار biçimleriyle 10 kez)",
+        "approx_frequency": "10 geçiş / 10 ayet (tamamı `جَبَّار` / `جَبَّارِينَ` mübalağa sıfatı: 1x Allah'ın ismi `59:23`, 9x insan/kavim bağlamı)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "جَبَّار / جَبَّارِينَ (`فَعَّال` mübalağa sıfatı — 10 geçiş: `5:22`, `11:59`, `14:15`, `19:14`, `19:32`, `26:130`, `28:19`, `40:35`, `50:45`, `59:23`)"
+        ],
+        "preposition_patterns": [
+          "وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ (`50:45`: `عَلَى` ile onların üzerinde baskıcı/dayatmacı bir zorba değilsin)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tek asılda birleştirdiği somut çekirdek: 'büyüklük, ulaşılmaz yükseklik ve kırık/eğri olanı zorla da olsa doğrultup düzeltmek' (`جنس من العظمة والعلو والاستقامة` — kırık kemiği sarıp doğrultmak `جَبَرَ الْعَظْمَ`, elin erişemeyeceği kadar yüksek hurma ağacı `نَخْلَةٌ جَبَّارَةٌ`).",
+      "ibn_faris_asl": "(جَبَرَ) الْجِيمُ وَالْبَاءُ وَالرَّاءُ أَصْلٌ وَاحِدٌ، وَهُوَ جِنْسٌ مِنَ الْعَظَمَةِ وَالْعُلُوِّ وَالِاسْتِقَامَةِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 1, s. 501-502, باب الجيم والباء وما يثلثهما, جبر maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ج-ب-ر` kökünü tek bir fiziksel asla bağlar: 'büyüklük, yükseklik ve doğrultma' (`العظمة والعلو والاستقامة`); başkasını bir şeye zorlamak (`أَجْبَرَ`) da bu üstünlük ve baskıdan doğar.",
+        "lisan_al_arab": "İbn Manzûr `الْجَبَّارُ` kelimesinin Allah hakkında kullanıldığında (`59:23`) 'yüceliğiyle erişilmez, yaratıkların işlerini ve kırıklarını onarıp düzenleyen mutlak kudret', insan hakkında kullanıldığında ise 'haddini aşıp başkasını ezen, acımasızca dayatan kibirli zorba' olduğunu açıklar.",
+        "ragib_al_isfahani": "Râgıb `50:45` (`وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ`) ayetinin inanç özgürlüğünde temel bir ölçüt koyduğunu: elçinin dahi insanları zorla boyun eğdirme yetkisinin bulunmadığını, görevinin yalnızca Kur'an ile hatırlatmak olduğunu vurgular.",
+        "verdict": "Tüm 10 geçiş **'erişilmez büyüklük ve doğrultucu kudret (`59:23` Allah'ın ismi) ↔ insanın buna haksızca özenerek başkasını ezmesi ve dayatması (9 ayet)'** tek ekseninde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*g-b-r ('güçlü, üstün, heybetli olmak')",
+        "hebrew": "İbranice gābar / gibbôr (גִּבּוֹר — 'güçlü, yiğit, üstün gelen') birebir eşkökenlidir.",
+        "aramaic_syriac": "Aramice/Süryanice gabbārā (ܓܒܪܐ — 'güçlü, heybetli, zorba') birebir eşkökenlidir.",
+        "akkadian": "Akadca gabru ('güçlü, denk/üstün') eşkökenlidir.",
+        "comparative_note": "Tüm Sâmî dillerde `*g-b-r` 'üstün güç ve heybet' taşır; Kur'an bu gücün hakiki ve onarıcı sahibinin yalnızca Allah (`59:23`) olduğunu, insanın elinde ise bu sıfatın `بَرّ` (`19:14, 32`) ve `مُصْلِح` (`28:19`) karşıtı bir zorbalığa dönüştüğünü net biçimde ayırır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ب-ر-ر (Anne-babaya ve insanlara geniş iyilik, şefkat ve yumuşaklıkla davranmak ↔ ج-ب-ر kibirli ve acımasız zorba olmak — `19:14`, `19:32` aynı ayet zıtlığı)",
+          "ص-ل-ح (Yeryüzünde barış ve iyileştirme yolunda çalışmak ↔ ج-ب-ر yeryüzünde zorbalık kurmak — `28:19` aynı ayet zıtlığı)"
+        ],
+        "bidirectional_test": "`19:14` ve `19:32` (`بَرًّا ... وَلَمْ يَكُن جَبَّارًا`) ile `28:19` (`جَبَّارًا فِى ٱلْأَرْضِ ... مِنَ ٱلْمُصْلِحِينَ`) zıtlığı doğrudan aynı ayet içinde kurar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ب-ر-ر",
+          "ص-ل-ح",
+          "ك-ب-ر",
+          "ع-ن-د"
+        ],
+        "analysis": "`40:35`'te `مُتَكَبِّرٍ جَبَّارٍ` çiftinde `مُتَكَبِّر` içteki büyüklük kuruntusunu, `جَبَّار` ise bu kuruntunun dışarıya zorbalık ve baskı olarak vurmasını gösterir. `11:59` ve `14:15`'te `جَبَّارٍ عَنِيدٍ` ikilisi zorbalıkla hakka karşı inatçı direnişi birleştirir."
+      },
+      "anchor_ayahs": [
+        "59:23 (ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ — mutlak üstün, kırığı onarıp düzeni doğrultan yüce kudret sahibi, tüm büyüklüğün tek sahibi)",
+        "50:45 (وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ — sen onların üzerinde zorba/dayatmacı değilsin; sen yalnızca uyarımın karşılığından çekinenlere Kur'an ile hatırlat)",
+        "19:14 (وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا — anne-babasına iyilikçidir; zorba ve baş kaldıran biri değildir)",
+        "28:19 (إِن تُرِيدُ إِلَّآ أَن تَكُونَ جَبَّارًا فِى ٱلْأَرْضِ وَمَا تُرِيدُ أَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ — sen yeryüzünde iyileştiricilerden değil, yalnızca zorba olmak istiyorsun)",
+        "14:15 (وَٱسْتَفْتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ — hüküm/açılım istediler ve her inatçı zorba hüsrana uğradı)"
+      ],
+      "unified_core_mechanism": "`ج-ب-ر` kökü 10 geçişinde yalnızca `جَبَّار` kalıbıyla **'erişilmez yücelik ve onarıcı mutlak kudret (`59:23`) ↔ insanın haksız üstünlük taslayıp baskı kuran zorbalığı (9 ayet)'** eksenini işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — İlahî İsim (`ٱلْجَبَّارُ` — `59:23`): Marife merfû haber/sıfat.",
+          "Dal 2 — İnsan/Topluluk Zorbalığı (`جَبَّار / جَبَّارِينَ` — 9 geçiş): Haber, hâl, sıfat ve muzâfun ileyh konumlarında."
+        ],
+        "irab_notes": "`50:45`'te `بِجَبَّارٍ` olumsuz `مَا` haberinde zâid `بِـ` ile pekiştirilmiştir; `26:130`'da `جَبَّارِينَ` hâl olarak mansûbtur."
+      },
+      "derivatives": [
+        {
+          "form": "جَبَّار / جَبَّارِينَ",
+          "pos": "Mübalağa Sıfatı / İsim",
+          "meaning": "Kırığı onarıp doğrultan mutlak yüce kudret (Allah için); haksızca ezen, dayatmacı zorba (insan için)",
+          "examples": [
+            "59:23",
+            "50:45",
+            "19:14",
+            "28:19",
+            "40:35"
           ]
         }
       ]
