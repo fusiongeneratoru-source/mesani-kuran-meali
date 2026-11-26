@@ -58436,5 +58436,64 @@
       }
     ],
     "context_default": "Yere çakılarak sabitleyen kazık, direk ve iktidar dayanağı bağlamı"
+  },
+  "و-ت-ر": {
+    "buckwalter": "wtr",
+    "slug": "wtr",
+    "concept_name": "Vetr, Tetrâ ve Yetire (Çiftin Karşısında Tek, Fasılalı Ardı Ardına Gelme ve Emeği Eksiltmeme)",
+    "root_latin": "W-T-R",
+    "keywords": [
+      "vetr",
+      "tetra",
+      "tek",
+      "aralikli ardisik",
+      "eksiltmemek",
+      "sefa ve vetr"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tatoraA",
+        "ayahs": [
+          "23:44"
+        ],
+        "label": "İsim/hâl (`تَتْرَا` — aslı `وَتْرَى`, `و→ت` dönüşümlü: aralarında fasıla bırakarak tek tek, ardı ardına; 1 geçiş)"
+      },
+      {
+        "lemma": "yatira",
+        "ayahs": [
+          "47:35"
+        ],
+        "label": "Form I muzâri fiil (`لَن يَتِرَكُمْ` — hak edilen emeği ve karşılığı eksiltmek, kırpmak; 1 geçiş)"
+      },
+      {
+        "lemma": "wator",
+        "ayahs": [
+          "89:3"
+        ],
+        "label": "İsim (`ٱلْوَتْرِ` — çiftin karşısındaki tek, eşsiz ve bölünmemiş birlik; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Tekliği, aralıklı ardışıklığı veya eksiltmeyi bildiren `و-ت-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "89:3"
+        ],
+        "text": "Çiftlik ve Teklik Kozmik Dengesi (`89:3`): `وَٱلشَّفْعِ وَٱلْوَتْرِ` — varlıktaki çiftler yasası ile eşsiz tekliğin dengesi."
+      },
+      {
+        "ayahs": [
+          "23:44"
+        ],
+        "text": "Elçilerin Belli Aralıklarla Peş Peşe Gönderilişi (`23:44`): `ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا` — çağlar arasında fasıla bulunarak tek tek gelen uyarı zinciri."
+      },
+      {
+        "ayahs": [
+          "47:35"
+        ],
+        "text": "Emeğin Asla Eksiltilmeyeceği Adalet Güvencesi (`47:35`): `وَلَن يَتِرَكُمْ أَعْمَٰلَكُمْ` — kararlı mücadelede hiçbir emeğin kırpılıp zayi edilmemesi."
+      }
+    ],
+    "context_default": "Teklik, aralıklı ardışıklık ve hakkı eksiltmeme bağlamı"
   }
 }
