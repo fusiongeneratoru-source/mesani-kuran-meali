@@ -60876,5 +60876,52 @@
       }
     ],
     "context_default": "Tutuşturup alevlendirme ve taşarcasına doldurup kaynatma bağlamı"
+  },
+  "ع-ط-ل": {
+    "buckwalter": "ETl",
+    "slug": "etl",
+    "concept_name": "Ta'tîl ve Muattale (Boş ve İşlevsiz Bırakılmak, Bakımsız Kalıp Terk Edilmek)",
+    "root_latin": "A-T-L",
+    "keywords": [
+      "tatil",
+      "muattale",
+      "bos kalmak",
+      "islevsiz",
+      "terk edilmis",
+      "kuyu",
+      "gebe develer"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "m~uEaT~alap",
+        "ayahs": [
+          "22:45"
+        ],
+        "label": "Form II (Tef'îl) dişil ism-i mef'ûl (`وَبِئْرٍ مُّعَطَّلَةٍ` — halkı yok olduğu için su çekeninin kalmadığı, boş ve işlevsiz bırakılmış kuyu; 1 geçiş)"
+      },
+      {
+        "lemma": "EuT~ilato",
+        "ayahs": [
+          "81:4"
+        ],
+        "label": "Form II (Tef'îl) edilgen mâzî fiil (`وَإِذَا ٱلْعِشَارُ عُطِّلَتْ` — doğurmak üzere olan en değerli on aylık gebe develer bile başıboş ve sahipsiz bırakıldığında; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Boş, bakımsız ve işlevsiz bırakılmayı bildiren `ع-ط-ل` Form II türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "22:45"
+        ],
+        "text": "Terk Edilmiş Kuyu (`22:45`): Haksızlıkları yüzünden yıkıma uğrayan kentlerin geride bıraktığı sessiz iz — tavanları üzerine çökmüş yapılar, kimsenin su çekmediği boş kalmış kuyu (`وَبِئْرٍ مُّعَطَّلَةٍ`) ve yükselmiş ıssız köşk."
+      },
+      {
+        "ayahs": [
+          "81:4"
+        ],
+        "text": "En Değerli Malın Başıboş Bırakılması (`81:4`): Büyük kozmik altüst oluş dehşeti karşısında çöl toplumunun göz bebeği sayılan doğumu yaklaşmış gebe develerin (`ٱلْعِشَارُ`) dahi çobansız, bakımsız ve terk edilmiş hâlde bırakılması (`عُطِّلَتْ`)."
+      }
+    ],
+    "context_default": "Boş, bakımsız ve işlevsiz bırakılma bağlamı"
   }
 }
