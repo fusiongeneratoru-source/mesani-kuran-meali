@@ -58769,5 +58769,80 @@
       }
     ],
     "context_default": "Üzüm ve üzüm bağları tarım-rızık bağlamı"
+  },
+  "ط-ر-ف": {
+    "buckwalter": "Trf",
+    "slug": "trf_taraf",
+    "concept_name": "Taraf ve Tarf (Mekân/Zaman/Topluluk Ucu-Kenarı ve Göz Kırpımı / Bakış Yönelimi)",
+    "root_latin": "T-R-F",
+    "keywords": [
+      "taraf",
+      "tarf",
+      "uc",
+      "kenar",
+      "sinir",
+      "bakis",
+      "goz kirpimi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Taraf",
+        "ayahs": [
+          "3:127",
+          "11:114",
+          "13:41",
+          "20:130",
+          "21:44"
+        ],
+        "label": "İsim (`طَرَفًا` / `طَرَفَىِ` / `أَطْرَاف` — bir ordunun ucu/kanadı, gündüzün iki ucu, yeryüzünün uçları/sınırları; 5 geçiş)"
+      },
+      {
+        "lemma": "Tarof",
+        "ayahs": [
+          "14:43",
+          "27:40",
+          "37:48",
+          "38:52",
+          "42:45",
+          "55:56"
+        ],
+        "label": "İsim/masdar (`طَرْف` — göz kırpımı, bakış yönelimi ve kaçamak göz ucu bakışı; 6 geçiş)"
+      }
+    ],
+    "irab_default": "Uç-kenar (`طَرَف`) veya bakış-göz kırpımı (`طَرْف`) anlamındaki `ط-ر-ف` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:114",
+          "20:130"
+        ],
+        "text": "Gündüzün İki Ucu (`11:114`, `20:130`): Sabah ve akşam uçlarında (`طَرَفَىِ ٱلنَّهَارِ` / `أَطْرَافَ ٱلنَّهَارِ`) yürütülen bilinç ve anış ritmi."
+      },
+      {
+        "ayahs": [
+          "3:127",
+          "13:41",
+          "21:44"
+        ],
+        "text": "Sınır ve Kanatların Eksiltilmesi (`3:127`, `13:41`, `21:44`): Karşı gücün bir kanadının kesilmesi (`طَرَفًا`) ve yeryüzünün uçlarından/sınırlarından eksiltilmesi (`مِنْ أَطْرَافِهَا`)."
+      },
+      {
+        "ayahs": [
+          "14:43",
+          "27:40",
+          "42:45"
+        ],
+        "text": "Göz Kırpımı Süresi ve Dehşet/Korku Bakışı (`14:43`, `27:40`, `42:45`): Göz kırpıp açılıncaya kadar geçen an (`قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ`), dehşetten donan bakış (`14:43`) ve gizli/kaçamak bakış (`42:45`)."
+      },
+      {
+        "ayahs": [
+          "37:48",
+          "38:52",
+          "55:56"
+        ],
+        "text": "Bakışlarını Yalnızca Eşlerine Odaklayanlar (`37:48`, `38:52`, `55:56`): `قَٰصِرَٰتُ ٱلطَّرْفِ` — sadakat ve odaklanmış bakış niteliği."
+      }
+    ],
+    "context_default": "Kenar-uç (`طَرَف`) veya göz kırpımı-bakış (`طَرْف`) bağlamı"
   }
 }

@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 43 / 50 Kök (Toplam Mühürlü: 843 Kök | Güncel Kapsam: %95,79)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 44 / 50 Kök (Toplam Mühürlü: 844 Kök | Güncel Kapsam: %95,81)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -50,7 +50,7 @@
 | 41 | Açık Furûk Tepe Ucu | 618 | `ص-ع-د` | `S-A-D` | **9** | 9 | 3:153 | Su'ûd, Sa'îd ve Tasa'ud (Yukarıya Yükselmek, Sarp Yokuşa Tırmanmak ve Yerin Üst Yüzeyi) | ✅ **MÜHÜRLÜ** |
 | 42 | Açık Furûk Tepe Ucu | 694 | `ب-ر-ق` | `B-R-K` | **6** | 6 | 2:19 | Berk ve Berika (Anlık Parıltı Çakması, Şimşek ve Gözün Kamaşıp Donakalması) | ✅ **MÜHÜRLÜ** |
 | 43 | Yüksek Frekanslı Çekirdek | 553 | `ع-ن-ب` | `A-N-B` | **11** | 11 | 2:266 | İneb ve A'nâb (Üzüm Meyvesi ve Bereketli Üzüm Bağları) | ✅ **MÜHÜRLÜ** |
-| 44 | Yüksek Frekanslı Çekirdek | 557 | `ط-ر-ف` | `T-R-F` | **11** | 11 | 3:127 | Tarf ve Etrâf (11 geçiş: 3:127, 11:114, 13:41, 14:43, 20:130, 21:44, 27:40, 37:48, 38:52, 42:45, 55:56 bir şeyin uç/kenar sınırı ve göz kırpım bakışı) | ⏳ *Bekliyor* |
+| 44 | Yüksek Frekanslı Çekirdek | 557 | `ط-ر-ف` | `T-R-F` | **11** | 11 | 3:127 | Taraf ve Tarf (Mekân/Zaman/Topluluk Ucu-Kenarı ve Göz Kırpımı / Bakış Yönelimi) | ✅ **MÜHÜRLÜ** |
 | 45 | Yüksek Frekanslı Çekirdek | 552 | `ف-أ-ي` | `F-E-Y` | **11** | 9 | 2:249 | Fie ve Fieteyn (11 geçiş: 2:249, 3:13, 4:88, 8:16, 8:19, 8:45, 8:48, 18:43, 28:81 bir bayrak/hedef etrafında toplanıp geri yaslanılan topluluk/bölük) | ⏳ *Bekliyor* |
 | 46 | Yüksek Frekanslı Çekirdek | 545 | `غ-م-م` | `G-M-M` | **11** | 10 | 2:57 | Ğamm ve Ğamâm (11 geçiş: 2:57, 2:210, 3:153, 3:154, 7:160, 10:71, 20:40, 21:88, 22:22, 25:25 göğü örten beyaz bulut tabakası ve zihni kaplayıp daraltan keder/sıkıntı) | ⏳ *Bekliyor* |
 | 47 | Yüksek Frekanslı Çekirdek | 548 | `س-ح-ب` | `S-H-B` | **11** | 11 | 2:164 | Sehâb ve Yüshabûn (11 geçiş: 2:164, 7:57, 13:12, 24:40, 24:43, 27:88, 30:48, 35:9, 40:71, 52:44, 54:48 yüzey boyunca sürükleyip çekmek ve gökte sürüklenen bulutlar) | ⏳ *Bekliyor* |
