@@ -56551,5 +56551,85 @@
       }
     ],
     "context_default": "Yıldırım ve sarsıcı şok bağlamı"
+  },
+  "ز-ب-ر": {
+    "buckwalter": "zbr",
+    "slug": "zbr",
+    "concept_name": "Zebûr, Zübür ve Züber (Kazınmış Sağlam Kitaplar, Amel Kayıtları ve İri Demir Blokları)",
+    "keywords": [
+      "zebur",
+      "zubur",
+      "zuber",
+      "demir bloklari",
+      "amel kayitlari",
+      "davud kitabi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "zabuwr",
+        "ayahs": [
+          "4:163",
+          "17:55",
+          "21:105"
+        ],
+        "label": "Özel kitap ismi (`زَبُورًا / ٱلزَّبُورِ` — Davud'a verilen yazılı kitap; 3 geçiş)"
+      },
+      {
+        "lemma": "zubur",
+        "ayahs": [
+          "3:184",
+          "16:44",
+          "26:196",
+          "35:25",
+          "54:43",
+          "54:52"
+        ],
+        "label": "Mecrûr kırık çoğul isim (`ٱلزُّبُرِ / زُبُرِ` — önceki elçilerin yazılı kitapları ve amel kayıtları; 6 geçiş)"
+      },
+      {
+        "lemma": "zubur",
+        "ayahs": [
+          "23:53"
+        ],
+        "label": "Mansûb hâl/çoğul isim (`فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ زُبُرًا` — ayrı bloklara/kitapçıklara bölünme; 1 geçiş)"
+      },
+      {
+        "lemma": "zubar",
+        "ayahs": [
+          "18:96"
+        ],
+        "label": "Mansûb muzâf kırık çoğul isim (`زُبَرَ ٱلْحَدِيدِ` — iri demir kütleleri/blokları; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Kazınmış yazılı kitap, kayıt veya iri blok bildiren `ز-ب-ر` ismi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:163",
+          "17:55",
+          "21:105"
+        ],
+        "text": "Davud'un Zebûr'u (`4:163`, `17:55`, `21:105`): Davud'a verilen ve yeryüzüne erdemli kulların mirasçı olacağı yazılı kitap."
+      },
+      {
+        "ayahs": [
+          "3:184",
+          "16:44",
+          "26:196",
+          "35:25",
+          "54:43",
+          "54:52"
+        ],
+        "text": "Önceki Vahiy Kitapları ve Eksiksiz Amel Kayıtları (`3:184`, `16:44`, `26:196`, `35:25`, `54:43`, `54:52`): Önceki elçilerin getirdiği yazılı belgeler ve insanların yaptıklarının tek tek işlendiği kayıtlar."
+      },
+      {
+        "ayahs": [
+          "18:96",
+          "23:53"
+        ],
+        "text": "İri Demir Blokları ve Fırkalara Bölünme (`18:96`, `23:53`): Zülkarneyn'in set için istediği demir blokları (`زُبَرَ ٱلْحَدِيدِ`) ve toplulukların ortak düzeni ayrı parçalara (`زُبُرًا`) bölmesi."
+      }
+    ],
+    "context_default": "Kazınmış kitap, kayıt veya iri blok bağlamı"
   }
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 799,
+    "total_locked": 800,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1600,7 +1600,8 @@
         "ن-ف-ش (N-F-Ş (nf$) — Çift Yönlü Mesânî Karşılığı: `101:5` [كَٱلْعِهْنِ ٱلْمَنفُوشِ] — lifleri birbirinden ayrılıp kabartılarak dağıtılmış yün `ٱلْمَنفُوشِ` ↔ dağınık parçaları sıkıca bir araya toplayıp kenetlemek `جَمَعَ`)",
         "س-ط-ح (S-T-H (sTH) — Çift Yönlü Mesânî Karşılığı: `88:20` [سُطِحَتْ] — geniş bir yüzey hâlinde dışa doğru yayılıp açılmak ↔ tek bir kütle hâlinde içe doğru toplanıp büzülmek `جَمَعَ`)",
         "ص-د-ع (S-D-E (SdE) — Çift Yönlü Mesânî Karşılığı: `30:43` [يَوْمَئِذٍ يَصَّدَّعُونَ] — insanların bölük bölük yarılıp ayrışması `تَصَدُّع` ↔ bir araya toplanması `جَمْع`)",
-        "ط-ح-و (T-H-V (THw) — Çift Yönlü Mesânî Karşılığı: `91:6` — dağılmış olanı bir araya büzüp toplamak `جَمْع` ↔ yeryüzünü her yöne genişletip yaymak `طَحَىٰهَا`)"
+        "ط-ح-و (T-H-V (THw) — Çift Yönlü Mesânî Karşılığı: `91:6` — dağılmış olanı bir araya büzüp toplamak `جَمْع` ↔ yeryüzünü her yöne genişletip yaymak `طَحَىٰهَا`)",
+        "ز-ب-ر (Z-B-R (zbr) — Çift Yönlü Mesânî Karşılığı: `23:53` — tek bütün halinde birleşip toplanmak `جَمْع` ↔ ortak hakikat işini parçalayıp ayrı bloklara/kümeler halinde bölmek `زُبُرًا`)"
       ]
     },
     "ن-ظ-ر": {
@@ -4538,7 +4539,8 @@
         "ح-ذ-ر",
         "ع-ب-ر",
         "ع-ت-د (ع-ت-د ↔ غ-ف-ل Mesânî simetrisi)",
-        "ل-ه-م (L-H-M (lhm) — Çift Yönlü Mesânî Karşılığı: `91:8` — içsel farkındalıktan kopup aymazlığa düşmek `غَفْلَة` ↔ yaratılış bilincine sapma ve sakınma ayrımını doğrudan yerleştirmek `أَلْهَمَهَا`)"
+        "ل-ه-م (L-H-M (lhm) — Çift Yönlü Mesânî Karşılığı: `91:8` — içsel farkındalıktan kopup aymazlığa düşmek `غَفْلَة` ↔ yaratılış bilincine sapma ve sakınma ayrımını doğrudan yerleştirmek `أَلْهَمَهَا`)",
+        "ز-ب-ر (Z-B-R (zbr) — Çift Yönlü Mesânî Karşılığı: `54:52` — kayıtsız kalıp unutkanlık ve aymazlığa düşmek `غَفْلَة` ↔ yapılan her işin silinmez biçimde sağlam kayıtlara kazınması `ٱلزُّبُر`)"
       ]
     },
     "ك-ت-م": {
@@ -10216,6 +10218,15 @@
       "opposites": [
         "ق-و-م (K-V-M — Çift Yönlü Mesânî Karşılığı: `39:68` `فَصَعِقَ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ ... ثُمَّ نُفِخَ فِيهِ أُخْرَىٰ فَإِذَا هُمْ قِيَامٌ يَنظُرُونَ` — sarsıcı şokla bilincini yitirip yere yığılmak `فَصَعِقَ` ↔ yeniden dirilip ayakları üstüne dimdik kalkmak `قِيَامٌ`)",
         "أ-م-ن (A-M-N — Çift Yönlü Mesânî Karşılığı: `2:19`, `13:13` — ölüm korkusuyla parmaklarını kulaklarına tıkatan yıldırım sarsıntısı `ٱلصَّوَٰعِق` ↔ korkudan arınmış güven ve esenlik `أَمْن`)"
+      ]
+    },
+    "ز-ب-ر": {
+      "latin": "Z-B-R (zbr)",
+      "core": "`ز-ب-ر` kökü Kur'an'da İbn Fâris'in iki aslıyla işler: Asl 1'de sağlam iri demir blokları (`زُبَرَ ٱلْحَدِيدِ`, `18:96`) ve toplumsal bölünme blokları (`زُبُرًا`, `23:53`); Asl 2'de ise derin ve silinmez biçimde yazılmış Zebûr (`4:163`, `17:55`, `21:105`), önceki vahiylerin kitapları (`3:184`, `16:44`, `26:196`, `35:25`) ve eksiksiz amel kayıtları (`54:43`, `54:52`).",
+      "physical": "İbn Fâris'in tespit ettiği **iki sahih asıl** Kur'an'da yan yana görünür: (1) **Bir yapıyı taş/demir bloklarla sağlamlaştırıp örmek ve iri kütle (`إِحْكَامُ الشَّيْءِ وَتَوْثِيقُهُ` — `زُبَرَ ٱلْحَدِيدِ` `18:96`)**; (2) **Silinmeyecek biçimde sert yüzeye derin ve kalın harflerle kazıyıp yazmak (`الْكِتَابَةُ وَالْقِرَاءَةُ` — `زَبَرْتُ الْكِتَابَ` → `زَبُور / زُبُر`)** (`3:184`, `4:163`, `17:55`, `21:105`, `54:52`).",
+      "opposites": [
+        "غ-ف-ل (G-F-L — Çift Yönlü Mesânî Karşılığı: `54:52` `وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ` — yapılan her işin silinmez biçimde sağlam kayıtlara kazınması `ٱلزُّبُر` ↔ kayıtsız kalıp unutkanlık ve aymazlığa düşmek `غَفْلَة`)",
+        "ج-م-ع (C-M-A — Çift Yönlü Mesânî Karşılığı: `23:53` `فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ زُبُرًا` — ortak hakikat işini parçalayıp ayrı bloklara/kümeler halinde bölmek `زُبُرًا` ↔ tek bütün halinde birleşip toplanmak `جَمْع`)"
       ]
     }
   }
