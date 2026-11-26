@@ -57210,5 +57210,37 @@
       }
     ],
     "context_default": "Gizli olanı yoklayıp mahremiyeti deşme yasağı bağlamı"
+  },
+  "ل-ق-ب": {
+    "buckwalter": "lqb",
+    "slug": "lqb",
+    "concept_name": "Elkab (Aslî Adın Dışında Kişiye Sonradan Takılan Nitelendirici/Yaftalayıcı Lakap)",
+    "root_latin": "L-K-B",
+    "keywords": [
+      "elkab",
+      "lakap",
+      "yafta",
+      "sonradan takilan ad",
+      "onur zedeleme"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aloqa`b",
+        "ayahs": [
+          "49:11"
+        ],
+        "label": "Çoğul isim (`بِالْأَلْقَابِ` — kişinin aslî adı dışında ona sonradan yapıştırılan niteleyici/incitici lakaplar; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Aslî adın dışında kişiye takılan lakap ve yaftayı bildiren `ل-ق-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "49:11"
+        ],
+        "text": "Topluluk İçi Saygınlık ve Yaflaşma Yasağı (`49:11`): Alay (`سُخْرِيَة`) ve kaş-gözle ayıplamanın (`لَمْز`) ardından birbirini incitici lakaplarla çağırmanın (`لَا تَنَابَزُوا بِالْأَلْقَابِ`) yasaklanması."
+      }
+    ],
+    "context_default": "Toplumsal iletişimde incitici lakap ve yafta yasağı bağlamı"
   }
 }

@@ -1,5 +1,5 @@
 # MÜHÜRLÜ KÖKLER KAVRAM VE MESÂNÎ ÖZETİ (TABULA RASA v3.0)
-> **Toplam Mühürlü Kök:** 812 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
+> **Toplam Mühürlü Kök:** 813 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
 
 | Kök (Arapça) | Kök (Latin) | Tek Çekirdek Mekanizması (Unified Core) | Mesânî Zıttı |
 | :--- | :--- | :--- | :--- |
@@ -815,3 +815,4 @@
 | `ع-ن-ت` | `A-N-T` | `ع-ن-ت` kökü 5 geçişinin tamamında **'dayanma sınırını aşan kırıcı zorluk ve ağır sıkıntı'** mekanizmasını işletir: ilahi düzenlemeler bunu insanın üzerinden kaldırır (`2:220`, `4:25`), düşmanlar bunu arzular (`3:118`), elçi ise topluluğun buna düşmesinden derin rahatsızlık duyup onları bu uçurumdan korur (`9:128`, `49:7`). | ي-س-ر (Kolaylık, akıcılık ve yükün hafifletilmesi ↔ عَنَت taşıma sınırını aşan ağır zorluk — `2:220`, `4:25`), ل-ي-ن (Yumuşaklık ve esneklik ↔ عَنَت sert, kırıcı ve yıpratıcı baskı) |
 | `ش-ع-ب` | `S-A-B` | `ش-ع-ب` kökü 2 geçişinde **'tek bir ana gövdeden dallanıp çatallanan kollar'** mekanizmasını işletir: kozmik-insani düzlemde tek bir çiftten dallanarak tanışma zenginliği oluşturan büyük halklar (`شُعُوب`: `49:13`), tasvirî-fiziksel düzlemde ise göğe yükselirken üç kola ayrılan yoğun duman kütlesi (`شُعَب`: `77:30`). | و-ح-د (Bölünmemiş tek parça birlik ve yekparelik ↔ شُعَب / شُعُوب tek gövdeden kollara ve çoklu topluluklara çatallanma) |
 | `ج-س-س` | `C-S-S` | `ج-س-س` kökü `49:12`'deki tek geçişinde **'elle nabız yoklar gibi başkalarının örtülü ve mahrem alanlarını ısrarla kurcalayıp açık aramak'** mekanizmasını işletir; zihindeki kuşkuyu (`ظَنّ`) toplumsal yıpratmaya (`غِيبَة`) bağlayan ihlal köprüsünü yasaklar. | غ-ض-ض (Bakışı ve merakı sınırda tutup kısmak, başkasının mahremine girmemek ↔ تَجَسُّس gizli açıkları ısrarla kurcalayıp deşmek) |
+| `ل-ق-ب` | `L-K-B` | `ل-ق-ب` kökü `49:11`'deki tek geçişinde **'kişinin aslî adının yerine geçirilen, onu bir kusura veya geçmişe sabitleyen ikincil etiket'** mekanizmasını taşır; `ن-ب-ز` ile birlikte kullanıldığında toplumsal kardeşliği parçalayan yaftalama aracını ifade eder. | س-م-و (Kişiyi yücelten, tanıtan aslî ve onurlu ad ↔ لَقَب kişiye sonradan yapıştırılan ikincil etiket/yafta — `49:11`) |
