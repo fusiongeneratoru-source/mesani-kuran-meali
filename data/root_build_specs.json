@@ -58341,5 +58341,58 @@
       }
     ],
     "context_default": "Bir araya toplama, yaklaşıp dokunma ve toptan süpürme bağlamı"
+  },
+  "ص-خ-ر": {
+    "buckwalter": "Sxr",
+    "slug": "sxr",
+    "concept_name": "Sahr ve Sahra (Büyük, Sert ve Yekpare Kaya Kütlesi)",
+    "root_latin": "S-X-R",
+    "keywords": [
+      "sahr",
+      "sahra",
+      "kaya",
+      "yekpare kaya",
+      "semud",
+      "lokman ogudu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Saxorap",
+        "ayahs": [
+          "18:63",
+          "31:16"
+        ],
+        "label": "İsm-i vahde (`ٱلصَّخْرَةِ` / `صَخْرَةٍ` — tekil büyük, sert ve yekpare kaya kütlesi; 2 geçiş)"
+      },
+      {
+        "lemma": "S~axor",
+        "ayahs": [
+          "89:9"
+        ],
+        "label": "Cins ismi (`ٱلصَّخْرَ` — Semûd'un vadide oyup biçimlendirdiği devasa kaya kütleleri; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Büyük ve sert yekpare kaya kütlesini bildiren `ص-خ-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:63"
+        ],
+        "text": "Kıyıdaki Büyük Sığınak Kayası (`18:63`): Mûsâ ile genç arkadaşının dinlenmek için sığındığı, balığın denize yol bulduğu işaret noktası (`ٱلصَّخْرَةِ`)."
+      },
+      {
+        "ayahs": [
+          "31:16"
+        ],
+        "text": "İçine Ulaşılamayan Kapalı Sert Kaya (`31:16`): Hardal tanesi ağırlığındaki en küçük işin bile sert bir kayanın içinde (`فِى صَخْرَةٍ`) gizli kalamayacağı mutlak kuşatıcılık."
+      },
+      {
+        "ayahs": [
+          "89:9"
+        ],
+        "text": "Vadide Yekpare Kayaları Oyan Semûd (`89:9`): Taş işçiliği ve mühendislik gücüne rağmen azgınlığı yüzünden yıkılan Semûd'un oyduğu kayalar (`جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ`)."
+      }
+    ],
+    "context_default": "Sert, büyük ve yekpare kaya kütlesi bağlamı"
   }
 }
