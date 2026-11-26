@@ -1,5 +1,5 @@
 # MÜHÜRLÜ KÖKLER KAVRAM VE MESÂNÎ ÖZETİ (TABULA RASA v3.0)
-> **Toplam Mühürlü Kök:** 881 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
+> **Toplam Mühürlü Kök:** 882 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
 
 | Kök (Arapça) | Kök (Latin) | Tek Çekirdek Mekanizması (Unified Core) | Mesânî Zıttı |
 | :--- | :--- | :--- | :--- |
@@ -884,3 +884,4 @@
 | `ح-ر-ك` | `H-R-K` | `ح-ر-ك` kökü Kur'an'daki tek geçişinde (`75:16`, Form II) **'acele ve telaşla dili tekrar tekrar kıpırdatma yasağı ve sükûnetle dinleme'** çekirdeğini işler. | س-ك-ن (Durgunluk, hareketsizlik ve sükûnet ↔ ح-ر-ك kıpırdanma ve hareket — `الحركة ضد السكون`), ث-ب-ت (Yerinde sabit ve dingin durma ↔ ح-ر-ك yerinden oynayıp kıpırdama) |
 | `م-ط-و` | `M-T-W` | `م-ط-و` kökü Kur'an'daki tek geçişinde (`75:33`, Form V) **'sırtını ve omuzlarını gerip uzatarak kibirle ve çalım satarak yürüme'** çekirdeğini işler. | خ-ش-ع (Başını ve omuzlarını alçakgönüllülükle eğmek ↔ م-ط-و sırtını ve omuzlarını kibirle gerip çalım satmak) |
 | `ت-ر-ق` | `T-R-Q` | `ت-ر-ق` kökü Kur'an'daki tek geçişinde (`75:26`, `ٱلتَّرَاقِىَ`) **'göğsün üst sınırı olan köprücük kemikleri — canın çıkış eşiğindeki son anatomik durak'** çekirdeğini taşır. | ق-د-م (Bedenin yere basan en alt ucu olan ayaklar ↔ ت-ر-ق bedenin üst göğüs ve boğaz sınırındaki köprücük kemikleri) |
+| `ز-ل-ف` | `Z-L-F` | `ز-ل-ف` kökü 10 geçişinde **'mesafeyi kapatarak ileri doğru yaklaşmak (zaman/mekân), yaklaştırmak (Form IV) ve erişilen seçkin yakınlık derecesi (`زُلْفَىٰ`)'** çekirdeğini işler. | ب-ع-د (Uzak olmak ve uzaklaşmak ↔ ز-ل-ف hemen yanına yaklaştırılmak — `50:31` `وَأُزْلِفَتِ ... غَيْرَ بَعِيدٍ` doğrudan aynı ayet zıtlığı), ن-أ-ي (Uzaklaşıp arayı açmak ↔ ز-ل-ف ileri adım atıp yaklaşmak) |

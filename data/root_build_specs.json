@@ -60665,5 +60665,79 @@
       }
     ],
     "context_default": "Canın köprücük kemiklerine dayandığı ölüm eşiği bağlamı"
+  },
+  "ز-ل-ف": {
+    "buckwalter": "zlf",
+    "slug": "zlf",
+    "concept_name": "Zülfâ, Zülfe ve İzlâf (İleri Doğru Yaklaşmak, Yakınlık Mertebesi ve Karşılığın/Esenlik Yurdunun Yaklaştırılması)",
+    "root_latin": "Z-L-F",
+    "keywords": [
+      "zulfa",
+      "zulfe",
+      "izlaf",
+      "yaklasmak",
+      "yaklastirmak",
+      "yakinlik",
+      "gece saatleri"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">uzolifato",
+        "ayahs": [
+          "26:64",
+          "26:90",
+          "50:31",
+          "81:13"
+        ],
+        "label": "Form IV (İf'âl) etken/edilgen mâzî fiil (`وَأَزْلَفْنَا` `26:64` — Firavun ordusunu suya yaklaştırmamız; `أُزْلِفَتْ` `26:90, 50:31, 81:13` — esenlik bahçesinin sakınanlara yaklaştırılması; 4 geçiş)"
+      },
+      {
+        "lemma": "zulofaY`^",
+        "ayahs": [
+          "34:37",
+          "38:25",
+          "38:40",
+          "39:3"
+        ],
+        "label": "İsim/masdar (`زُلْفَىٰ` — Allah katında yakınlık ve yüksek mertebe: mal-evlat değil doğru eylemle kazanılan `34:37`, Davud ve Süleyman'a verilen `38:25, 38:40`, aracı edinenlerin sahte yakınlık bahanesi `39:3`; 4 geçiş)"
+      },
+      {
+        "lemma": "zulofap",
+        "ayahs": [
+          "11:114",
+          "67:27"
+        ],
+        "label": "İsim (`زُلَفًا مِّنَ ٱلَّيْلِ` `11:114` — gecenin gündüze yakın saatleri/bölümleri; `زُلْفَةً` `67:27` — vaadin hemen yakında görünmesi; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Yaklaşmayı, yaklaştırmayı veya yakınlık mertebesini bildiren `ز-ل-ف` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "26:90",
+          "50:31",
+          "81:13"
+        ],
+        "text": "Esenlik Yurdunun Yaklaştırılması (`26:90`, `50:31`, `81:13`): Sakınanlar için korunaklı bahçelerin uzak kalmadan hemen yanlarına yaklaştırılması (`أُزْلِفَتِ ... غَيْرَ بَعِيدٍ`)."
+      },
+      {
+        "ayahs": [
+          "34:37",
+          "38:25",
+          "38:40",
+          "39:3"
+        ],
+        "text": "Gerçek ve Sahte Yakınlık (`34:37`, `38:25`, `38:40`, `39:3`): Mal ve çocukların değil yalnızca inanç ve iyileştirici eylemin sağladığı gerçek yakınlık (`زُلْفَىٰ`), buna karşın Allah'tan başka koruyucu edinenlerin 'bizi Allah'a yaklaştırsınlar diye' (`لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ`, `39:3`) öne sürdükleri geçersiz bahane."
+      },
+      {
+        "ayahs": [
+          "11:114",
+          "26:64",
+          "67:27"
+        ],
+        "text": "Zaman ve Mekânda Yakınlık (`11:114`, `26:64`, `67:27`): Gecenin gündüze yakın saatleri (`زُلَفًا مِّنَ ٱلَّيْلِ`), Firavun ordusunun deniz kıyısına yaklaştırılması (`أَزْلَفْنَا`) ve azap vaadinin yakında görünmesi (`رَأَوْهُ زُلْفَةً`)."
+      }
+    ],
+    "context_default": "İleri doğru yaklaşma, yaklaştırma ve yakınlık mertebesi bağlamı"
   }
 }

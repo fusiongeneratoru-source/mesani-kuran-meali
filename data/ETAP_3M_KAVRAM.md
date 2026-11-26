@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 31 / 50 Kök (Toplam Mühürlü: 881 Kök | Güncel Kapsam: %96,12)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 32 / 50 Kök (Toplam Mühürlü: 882 Kök | Güncel Kapsam: %96,14)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -38,7 +38,7 @@
 | 29 | Sure %100 Kilidi | 1575 | `ح-ر-ك` | `H-R-K` | **1** | 1 | 75:16 | Tahrîk (Bir Şeyi Kıpırdatıp Harekete Geçirmek — Vahyi Aceleyle Yakalamak İçin Dili Kıpırdatma Uyarısı) | ✅ **MÜHÜRLÜ** |
 | 30 | Sure %100 Kilidi | 1577 | `م-ط-و` | `M-T-W` | **1** | 1 | 75:33 | Temattî (Sırtını ve Omuzlarını Gerip Uzatarak Kibirle ve Çalım Satarak Yürümek) | ✅ **MÜHÜRLÜ** |
 | 31 | Sure %100 Kilidi | 1576 | `ت-ر-ق` | `T-R-K` | **1** | 1 | 75:26 | Terâkî (Köprücük Kemikleri — Canın Çıkış Eşiğindeki Üst Göğüs/Boğaz Sınırı) | ✅ **MÜHÜRLÜ** |
-| 32 | Sure %100 Kilidi | 593 | `ز-ل-ف` | `Z-L-F` | **10** | 10 | 11:114 | Zülfâ, Zülef ve Üzlifet (Sure 81 Tekvîr kilidi | 1M + 10 geçiş: 11:114, 26:64, 26:90, 34:37, 38:25, 38:40, 39:3, 50:31, 67:27, 81:13 yaklaştırmak, yakınlık derecesi ve gecenin gündüze yakın saatleri) | ⏳ *Bekliyor* |
+| 32 | Sure %100 Kilidi | 593 | `ز-ل-ف` | `Z-L-F` | **10** | 10 | 11:114 | Zülfâ, Zülfe ve İzlâf (İleri Doğru Yaklaşmak, Yakınlık Mertebesi ve Karşılığın/Esenlik Yurdunun Yaklaştırılması) | ✅ **MÜHÜRLÜ** |
 | 33 | Sure %100 Kilidi | 1038 | `أ-ف-ق` | `E-F-K` | **3** | 3 | 41:53 | Ufuk ve Âfâk (Sure 81 Tekvîr kilidi + 3 geçiş: 41:53, 53:7, 81:23 gök ile yerin birleştiği açık çevre ufku ve dış evren sınırları) | ⏳ *Bekliyor* |
 | 34 | Sure %100 Kilidi | 1032 | `ك-و-ر` | `K-W-R` | **3** | 2 | 39:5 | Tekvîr (Sure 81 Tekvîr kilidi | 1M + 3 geçiş: 39:5, 81:1 sarık sarar gibi geceyi gündüze dolamak ve güneşin ışığını dürüp sarmak) | ⏳ *Bekliyor* |
 | 35 | Sure %100 Kilidi | 1035 | `س-ج-ر` | `S-C-R` | **3** | 3 | 40:72 | Tescîr ve Mescûr (Sure 81 Tekvîr kilidi + 3 geçiş: 40:72, 52:6, 81:6 alevlendirip tutuşturmak ve denizlerin taşıp tutuşması) | ⏳ *Bekliyor* |
