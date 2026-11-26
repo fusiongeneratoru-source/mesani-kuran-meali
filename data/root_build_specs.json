@@ -61152,5 +61152,92 @@
       }
     ],
     "context_default": "Issız yabanlarda yaşayan hayvanların bir araya toplanması bağlamı"
+  },
+  "ط-و-ل": {
+    "buckwalter": "Twl",
+    "slug": "twl",
+    "concept_name": "Tûl, Tavl ve Tavîl (Boyca, Zamanca ve İmkânca Uzayıp Genişlemek — Uzunluk, Süre Uzaması ve Geniş Lütuf/Varlık)",
+    "root_latin": "T-W-L",
+    "keywords": [
+      "tul",
+      "tavl",
+      "tavil",
+      "uzamak",
+      "uzunluk",
+      "maddi guc",
+      "genis lutuf",
+      "omrun uzamasi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "TaAla",
+        "ayahs": [
+          "20:86",
+          "21:44",
+          "57:16"
+        ],
+        "label": "Form I mâzî fiil (`أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ` `20:86`, `طَالَ عَلَيْهِمُ ٱلْعُمُرُ` `21:44`, `فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ` `57:16` — verilen sözün, ömrün veya aradaki sürenin uzayıp gitmesi; 3 geçiş)"
+      },
+      {
+        "lemma": "taTaAwala",
+        "ayahs": [
+          "28:45"
+        ],
+        "label": "Form VI (Tefâul) mâzî fiil (`فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ` — kuşaklar boyunca ömür ve zamanın iyice uzayıp gitmesi; 1 geçiş)"
+      },
+      {
+        "lemma": "Tawol",
+        "ayahs": [
+          "4:25",
+          "9:86",
+          "40:3"
+        ],
+        "label": "İsim/masdar `طَوْل` (`فَـ` fethalı — maddi imkân, varlık genişliği ve Allah'ın geniş lütuf kudreti: `4:25` evlilik için maddi güç, `9:86` `أُو۟لُوا۟ ٱلطَّوْلِ` servet ve imkân sahipleri, `40:3` `ذِى ٱلطَّوْلِ` sınırsız lütuf ve kudret sahibi Allah; 3 geçiş)"
+      },
+      {
+        "lemma": "Tuwl",
+        "ayahs": [
+          "17:37"
+        ],
+        "label": "İsim `طُول` (`ضَـ` zammeli — `وَلَن تَبْلُغَ ٱلْجِبَالَ طُولًا` — boyca dağların yüksekliğine/uzunluğuna erişemezsin; 1 geçiş)"
+      },
+      {
+        "lemma": "Tawiyl",
+        "ayahs": [
+          "73:7",
+          "76:26"
+        ],
+        "label": "Sıfat-ı müşebbehe `طَوِيل` (`سَبْحًا طَوِيلًا` `73:7` gündüzde uzun süren yoğun meşguliyet; `لَيْلًا طَوِيلًا` `76:26` uzun gece boyunca Allah'ı yüceltme; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Boyca, zamanca veya imkânca uzayıp genişlemeyi bildiren `ط-و-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "20:86",
+          "21:44",
+          "28:45",
+          "57:16"
+        ],
+        "text": "Sürenin ve Ömrün Uzaması (`20:86`, `21:44`, `28:45`, `57:16`): Aradan geçen zamanın uzamasıyla (`طَالَ / تَطَاوَلَ`) kalplerin katılaşması (`57:16`), verilen sözün unutulması (`20:86`) veya nimet içinde uzun ömür sürmenin insanı yanıltması (`21:44`, `28:45`)."
+      },
+      {
+        "ayahs": [
+          "4:25",
+          "9:86",
+          "40:3"
+        ],
+        "text": "İmkân Genişliği ve İlahî Lütuf (`4:25`, `9:86`, `40:3`): `طَوْل` kelimesiyle elde edilen maddi yeterlilik ve servet (`4:25`, `9:86`) ile Allah'ın hiç daralmayan engin lütuf ve kudreti (`ذِى ٱلطَّوْلِ`, `40:3`)."
+      },
+      {
+        "ayahs": [
+          "17:37",
+          "73:7",
+          "76:26"
+        ],
+        "text": "Fiziksel Yükseklik ve Zaman Uzunluğu (`17:37`, `73:7`, `76:26`): Böbürlenen insanın boyca dağlara erişemeyeceği (`17:37`), gündüzün uzun meşguliyet süresi (`73:7`) ve gecenin uzun yüceltme vakti (`76:26`)."
+      }
+    ],
+    "context_default": "Boyca, zamanca veya imkânca uzayıp genişleme bağlamı"
   }
 }
