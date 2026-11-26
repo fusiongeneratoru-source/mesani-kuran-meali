@@ -52205,5 +52205,66 @@
       }
     ],
     "context_default": "Besili/dolgun olma veya bedeni besleme bağlamı"
+  },
+  "ك-و-ب": {
+    "buckwalter": "kwb",
+    "slug": "kwb",
+    "concept_name": "Kûb / Ekvâb (Kulpsuz ve Emziksiz Yuvarlak Ağızlı İçme Kadehi)",
+    "keywords": [
+      "kub",
+      "ekvab",
+      "kadeh",
+      "kulpsuz kap",
+      "masrapa",
+      "icecek kabi",
+      "billur kadeh"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">akowaAb",
+        "ayahs": [
+          "43:71",
+          "76:15"
+        ],
+        "label": "Kırık çoğul nekre mecrûr isim (`وَأَكْوَابٍ` — `بِصِحَافٍ` / `بِـَٔانِيَةٍ` üzerine atıfla mecrûr; 2 geçiş: 43:71, 76:15)"
+      },
+      {
+        "lemma": ">akowaAb",
+        "ayahs": [
+          "56:18"
+        ],
+        "label": "`بِ` harf-i cerriyle mecrûr kırık çoğul isim (`بِأَكْوَابٍ` — `يَطُوفُ` fiiline müteallik; 1 geçiş: 56:18)"
+      },
+      {
+        "lemma": ">akowaAb",
+        "ayahs": [
+          "88:14"
+        ],
+        "label": "Merfû nekre kırık çoğul isim (`وَأَكْوَابٌ مَّوْضُوعَةٌ` — `سُرُرٌ` üzerine atıf, sıfatı `مَّوْضُوعَةٌ`; 1 geçiş: 88:14)"
+      }
+    ],
+    "irab_default": "Kulpsuz ve emziksiz içecek kadehi bildiren kırık çoğul isim (`ك-و-ب` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "43:71",
+          "76:15"
+        ],
+        "text": "Çevrede Dolaştırılan Altın ve Gümüş-Billur Takımlar (`43:71`, `76:15`): Altın tepsiler ve gümüş/billur kaplar eşliğinde misafirlerin çevresinde kesintisiz dolaştırılan kulpsuz kadehler."
+      },
+      {
+        "ayahs": [
+          "56:18"
+        ],
+        "text": "Üçlü Sunum Zinciri (`56:18`): Kulpsuz kadehler (`أَكْوَاب`), emzikli dökme ibrikleri (`أَبَارِيق`) ve duru pınardan dolu kâse (`كَأْس`) birlikteliği."
+      },
+      {
+        "ayahs": [
+          "88:14"
+        ],
+        "text": "Akan Pınar Başında Hazır Yerleştirilmiş Kadehler (`88:14`): Yükseltilmiş sedirlerin yanında zahmetsiz erişim için el altında hazır bırakılmış (`مَّوْضُوعَةٌ`) kulpsuz kadehler."
+      }
+    ],
+    "context_default": "Ağırlama meclisinde sunulan kulpsuz içecek kadehleri bağlamı"
   }
 }

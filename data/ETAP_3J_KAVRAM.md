@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 27 / 50 Kök (Toplam Mühürlü: 727 Kök | Güncel Kapsam: %94,47)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 28 / 50 Kök (Toplam Mühürlü: 728 Kök | Güncel Kapsam: %94,47)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -34,7 +34,7 @@
 | 25 | Sure %100 Kilidi | 1178 | `ن-ف-ش` | `N-F-S` | **2** | 2 | 21:78 | Nefş / Menfûş (Gece Çobansız Dağılıp Yayılmak; Lif Lif Didilip Kabartılmak) | ✅ **MÜHÜRLÜ** |
 | 26 | Sure %100 Kilidi | 645 | `ض-ر-ع` | `D-R-A` | **8** | 8 | 6:42 | Tazarru / Darî' (Katılığı Kırıp Yumuşayarak Alçalıp Yakarmak; Besinsiz Kuru Dikenli Ot) | ✅ **MÜHÜRLÜ** |
 | 27 | Sure %100 Kilidi | 897 | `س-م-ن` | `S-M-N` | **4** | 4 | 12:43 | Semîn / İsmân (Besili ve Dolgun Olmak; Bedeni Besleyip Et-Yağ Bağlatmak) | ✅ **MÜHÜRLÜ** |
-| 28 | Sure %100 Kilidi | 928 | `ك-و-ب` | `K-W-B` | **4** | 4 | 43:71 | Ekvâb (Sure 88 Ğâşiye kilidi + 4 geçiş: 43:71, 56:18, 76:15, 88:14 kulpsuz, ağızı yuvarlak ve düzgün içecek kapları) | ⏳ *Bekliyor* |
+| 28 | Sure %100 Kilidi | 928 | `ك-و-ب` | `K-W-B` | **4** | 4 | 43:71 | Kûb / Ekvâb (Kulpsuz ve Emziksiz Yuvarlak Ağızlı İçme Kadehi) | ✅ **MÜHÜRLÜ** |
 | 29 | Sure %100 Kilidi | 1610 | `س-ط-ح` | `S-T-H` | **1** | 1 | 88:20 | Sutihat (Sure 88 Ğâşiye son kilidi: 88:20 geniş ve yaşanabilir bir yüzey hâlinde yayılıp döşenmek) | ⏳ *Bekliyor* |
 | 30 | Açık Mesânî Zırhı | 782 | `ط-م-س` | `T-M-S` | **5** | 5 | 4:47 | Tams (3 açık Mesânî ref: ع-ي-ن, ك-و-ك-ب, ن-ج-م! 5 geçiş: 4:47, 10:88, 36:66, 54:37, 77:8 izi, ışığı ve belirginliği tamamen silip belirsizleştirmek) | ⏳ *Bekliyor* |
 | 31 | Açık Mesânî Zırhı | 1327 | `ث-ب-ط` | `S-B-T` | **1** | 1 | 9:46 | Tesbît (3 açık Mesânî ref: ب-ع-ث, س-ر-ع, ع-د-د! 9:46 harekete geçmekten alıkoyup ağırlaştırarak geri bırakmak) | ⏳ *Bekliyor* |
