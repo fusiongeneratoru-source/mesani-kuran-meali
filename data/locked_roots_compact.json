@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 887,
+    "total_locked": 888,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -528,7 +528,8 @@
         "ز-ك-و & ش-ح-ح (`91:7-10`, `59:9` — Kendini eğitip arındırmak (`زَكَّىٰهَا`) veya bencil cimriliği yenip başkasını kendi benliğinin önüne koymak (`وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ`))",
         "ظ-ل-م (Z-L-M — Çift Yönlü Mesânî Karşılığı: 2:57, 10:44, 18:35, 21:87)",
         "ح-ي-ي (ح-ي-ي ↔ ن-ف-س Mesânî simetrisi)",
-        "أ-ف-ق (Âfâk/Ufuk: dışa doğru alabildiğine açılan geniş evren ufukları ↔ ن-ف-س insanın kendi iç dünyası ve öz benliği — `41:53` `فِى ٱلْءَافَاقِ وَفِىٓ أَنفُسِهِمْ`)"
+        "أ-ف-ق (Âfâk/Ufuk: dışa doğru alabildiğine açılan geniş evren ufukları ↔ ن-ف-س insanın kendi iç dünyası ve öz benliği — `41:53` `فِى ٱلْءَافَاقِ وَفِىٓ أَنفُسِهِمْ`)",
+        "ع-س-ع-س (As'ase: gecenin karanlığının çöküp ardından çekilmesi ↔ ن-ف-س sabahın soluk alıp aydınlıkla açılması — `81:17` ↔ `81:18`)"
       ]
     },
     "ن-ز-ل": {
@@ -7590,7 +7591,8 @@
       "physical": "Şafağın ufukta beliren kızıl-aydınlık rengi ve günün ışıyıp açılması (`لَوْنٌ أَصْلُهُ الْحُمْرَةُ وَنُورُ النَّهَارِ`); bu fiziksel parıltı ve sabah eşiğinden üç berrak hat doğar: (1) Şafak ve sabah vakti (`صُبْح / صَبَاح / إِصْبَاح / مُصْبِحِين / صَبَّحَ`), (2) Alevinin kızıl-parlak ışığıyla etrafı aydınlatan kandil/yıldız ışığı (`مِصْبَاح / مَصَابِيح`) ve (3) Bir geceden sabaha çıkar gibi bir hâlden yeni bir hâle dönüşmeyi bildiren `أَصْبَحَ` dönüşüm fiili.",
       "opposites": [
         "ل-ي-ل [فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا / وَٱلصُّبْحِ إِذَآ أَسْفَرَ] (Gecenin Karanlığını Yarıp Açan Sabah Aydınlığı ↔ Dinlenme ve Örtü Vakti Olan Gece: 6:96, 11:81, 74:33-34, 81:17-18)",
-        "ظ-ل-م [مِشْكَوٰةٍ فِيهَا مِصْبَاحٌ / وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ] (Ufku ve Karanlığı Aydınlatan Sabah Işığı ve Kandil Parıltısı ↔ Işıksız Karanlık: 24:35, 41:12, 67:5)"
+        "ظ-ل-م [مِشْكَوٰةٍ فِيهَا مِصْبَاحٌ / وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ] (Ufku ve Karanlığı Aydınlatan Sabah Işığı ve Kandil Parıltısı ↔ Işıksız Karanlık: 24:35, 41:12, 67:5)",
+        "ع-س-ع-س (As'ase: gece karanlığının kararması/çekilmesi ↔ ص-ب-ح sabah aydınlığının doğması — `81:17-18`)"
       ]
     },
     "ب-ح-ر": {
@@ -11110,6 +11112,15 @@
       "opposites": [
         "ع-ط-و (Gönülden verip sunmak ↔ ض-ن-ن kıymetli olanı cimrice esirgemek)",
         "ك-ر-م (Cömertçe ikram edip paylaşmak ↔ ض-ن-ن kıskanıp elde tutmak)"
+      ]
+    },
+    "ع-س-ع-س": {
+      "latin": "A-S-A-S",
+      "core": "`ع-س-ع-س` dört harfli kökü Kur'an'daki tek geçişinde (`81:17`, `عَسْعَسَ`) **'gecenin karanlığının sessizce yaklaşıp çökmesi ve sabah eşiğinde incelerek çekilmesi'** çekirdeğini işler.",
+      "physical": "İkilemeli `ع-س` (`الدُّنُوُّ فِي ظُلْمَةٍ`) yapısıyla gecenin karanlığının yere doğru inip yaklaşması (`أَقْبَلَ`) ve klasik dilde ezdâd (çift yönlü sınır fiili) olarak karanlığın zayıflayıp çekilmesi (`أَدْبَرَ`).",
+      "opposites": [
+        "ن-ف-س (Sabahın soluk alıp aydınlıkla açılması ↔ ع-س-ع-س gecenin karanlık eşiğinde kararması ve çekilmesi — `81:17` ↔ `81:18`)",
+        "ص-ب-ح (Sabah aydınlığı ↔ ع-س-ع-س gece karanlığının hareketi)"
       ]
     }
   }

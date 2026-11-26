@@ -60956,5 +60956,38 @@
       }
     ],
     "context_default": "Değerli bir şeyi cimrice elinde tutup esirgeme bağlamı"
+  },
+  "ع-س-ع-س": {
+    "buckwalter": "EsEs",
+    "slug": "eses",
+    "concept_name": "As'ase (Gecenin Karanlığının İnip Kararması veya Sona Doğru Çekilip Gitmesi — Eşik Dönüşümü)",
+    "root_latin": "A-S-A-S",
+    "keywords": [
+      "asase",
+      "gece karanligi",
+      "gecenin donmesi",
+      "kararmak",
+      "cekilmek",
+      "sabah esigi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EasoEasa",
+        "ayahs": [
+          "81:17"
+        ],
+        "label": "Dört harfli (rubâî mücerred) mâzî fiil (`وَٱلَّيْلِ إِذَا عَسْعَسَ` — gece karanlığını bastırıp çöktüğünde veya karanlığı incelip çekilmeye başladığında; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Gecenin karanlığının çökmesini veya çekilip gitmesini bildiren dört harfli `ع-س-ع-س` fiili (`عَسْعَسَ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "81:17"
+        ],
+        "text": "Gecenin Dönüşümü ve Sabahın Soluk Alması (`81:17-18`): `وَٱلَّيْلِ إِذَا عَسْعَسَ * وَٱلصُّبْحِ إِذَا تَنَفَّسَ` çiftinde gecenin karanlığını çökertip ardından çekilmeye başlamasıyla sabahın soluk alır gibi aydınlanıp açılması kozmik bir ritim olarak tanık gösterilir."
+      }
+    ],
+    "context_default": "Gecenin karanlığının inmesi ve çekilip sabah eşiğine dönmesi bağlamı"
   }
 }
