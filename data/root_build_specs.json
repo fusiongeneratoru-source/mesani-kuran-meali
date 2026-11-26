@@ -54083,5 +54083,46 @@
       }
     ],
     "context_default": "Yorucu emek ve didinme bağlamı"
+  },
+  "و-س-ق": {
+    "buckwalter": "wsq",
+    "slug": "wsq",
+    "concept_name": "Vesk / İttisâk (Dağınık Olanı Derleyip Yüklenmek ve Düzenli Bütünleşmek)",
+    "keywords": [
+      "vesk",
+      "ittisak",
+      "vesaka",
+      "ittesaka",
+      "derleyip toplamak",
+      "dolunay",
+      "butunlesmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "wasaqa",
+        "ayahs": [
+          "84:17"
+        ],
+        "label": "Form I malum mâzi fiil (`وَمَا وَسَقَ` — sıla cümlesi: gecenin derleyip bünyesinde topladığı; 1 geçiş: 84:17)"
+      },
+      {
+        "lemma": "{t~asaqa",
+        "ayahs": [
+          "84:18"
+        ],
+        "label": "Form VIII malum mâzi fiil (`إِذَا ٱتَّسَقَ` — `إِذَا` zarfına muzâfün ileyh cümle: derlenip dolunay bütünlüğüne oturduğunda; 1 geçiş: 84:18)"
+      }
+    ],
+    "irab_default": "Derleyip toplama ve düzenli bütünleşme bildiren `و-س-ق` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "84:17",
+          "84:18"
+        ],
+        "text": "Gece ve Dolunay Kasem Çifti (`84:17`, `84:18`): Gecenin dağınık varlıkları derleyip bünyesinde kucaklaması (`وَسَقَ`) ile ayın ışığının derlenip kusursuz dolunay düzenine oturması (`ٱتَّسَقَ`) üzerinden evrensel aşama dönüşümüne tanıklık."
+      }
+    ],
+    "context_default": "Derleyip toplama ve düzenli bütünleşme bağlamı"
   }
 }
