@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (77/50 — Toplam 877 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (78/50 — Toplam 878 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -71603,7 +71603,8 @@
         "roots": [
           "ب-ك-ر (Günün ilk erken sabah vakti ↔ أ-ص-ل ikindi sonrası akşamüstü vakti — `25:5`, `33:42`, `48:9`, `76:25`)",
           "غ-د-و (Sabahın erken dilimi ↔ أ-ص-ل güneşin eğildiği akşamüstü vakti — `7:205`, `13:15`, `24:36`)",
-          "ف-ر-ع (Ağacın göğe yükselen dalı/ucu ↔ أ-ص-ل ağacın yere sağlamca tutunan kökü — `14:24`)"
+          "ف-ر-ع (Ağacın göğe yükselen dalı/ucu ↔ أ-ص-ل ağacın yere sağlamca tutunan kökü — `14:24`)",
+          "ب-ن-ن (Benân: bedenin en uçtaki en ince parmak uçları ve eklem detayları ↔ أ-ص-ل ana kök, temel ve gövde)"
         ],
         "bidirectional_test": "Akşamüstü (`أَصِيل / آصَال`) tersine çevrildiğinde erken sabah (`ب-ك-ر` ve `غ-د-و`), ağacın yere tutunan kökü (`أَصْل`) tersine çevrildiğinde ise göğe yükselen dal (`ف-ر-ع`) ortaya çıkar."
       },
@@ -73741,6 +73742,75 @@
           "meaning": "Ağaç dalları birbirine sıkıca dolanıp sarılmış",
           "examples": [
             "78:16"
+          ]
+        }
+      ]
+    },
+    "ب-ن-ن": {
+      "root_latin": "B-N-N",
+      "arabic": "ب-ن-ن",
+      "rank": 1113,
+      "morphology_and_rasm": {
+        "buckwalter": "bnn",
+        "rasm_skeleton": "بنن (harekesiz iskelet; بنان / بنانه biçimleriyle 2 kez)",
+        "approx_frequency": "2 geçiş / 2 ayet (tamamı cins isim `بَنَان`, tekili `بَنَانَة`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "بَنَان (cins isim — 2 geçiş: `8:12`, `75:4`; parmak uçları / parmaklar ve ince uç eklemler)"
+        ],
+        "preposition_patterns": [
+          "أَن نُّسَوِّىَ بَنَانَهُۥ (`75:4`: insanın en ince parmak uçlarını dahi tastamam düzleyip yeniden kurmak)"
+        ]
+      },
+      "physical_core": "İnsan elinin ve ayağının en uçtaki hassas bölümü olan parmak uçları ve ince eklem boğumları (`الأصابع والأطراف`).",
+      "ibn_faris_asl": "(بَنّ) الْبَاءُ وَالنُّونُ فِي الْمُضَاعَفِ أَصْلٌ وَاحِدٌ، هُوَ اللُّزُومُ وَالْإِقَامَةُ... وَالْبَنَانُ: الْأَصَابِعُ، وَيُقَالُ الْأَطْرَافُ. [Mu'cemü Mekâyîsi'l-Luğa, c. 1, باب الباء وما بعدها في المضاعف, بن maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ب-ن-ن` mudâaf kökünün ana eksenini 'bir şeye tutunup sabit kalmak/yerleşmek' (`اللزوم والإقامة`) olarak verir ve `الْبَنَانُ: الْأَصَابِعُ، وَيُقَالُ الْأَطْرَافُ` (parmaklar ve parmak uçları) tanımını kaydeder; insanın işini görüp geçimini sağlaması parmaklarıyla mümkün olduğundan bu köke bağlandığını aktarır.",
+        "lisan_al_arab": "İbn Manzûr `الْبَنَانُ` kelimesinin hem parmakların tamamını hem de özellikle parmak uçlarını (`أطراف الأصابع`) ifade ettiğini, tekilinin `بَنَانَة` olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `75:4`'te büyük kemiklerin (`عِظَامَهُۥ`, `75:3`) ardından özellikle `بَنَانَهُۥ` (parmak uçları) ifadesinin seçilmesinin, diriliş kudretinin sadece iri kemikleri değil en ince, en hassas ve kişiye özgü uç dokuları bile yeniden inşa etmeye yettiğini gösterdiğini vurgular.",
+        "verdict": "Her iki geçiş (`8:12`, `75:4`) **'parmak uçları ve ince eklem uçları'** somut anatomik anlamında tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Doğrudan Sâmî ön-kökü kesinleştirilememiştir.",
+        "hebrew": "İbranicede doğrudan eşkökenli doğrulanamadı.",
+        "aramaic_syriac": "Aramice/Süryanicede doğrudan eşkökenli doğrulanamadı.",
+        "akkadian": "Akadcada doğrudan eşkökenli doğrulanamadı.",
+        "comparative_note": "Klasik Arapçada `بَنَان` (parmak uçları) kelimesinin `75:3-4`'te `عِظَام` (büyük kemikler) ile karşıt ölçek oluşturması, yaratılıştaki mikroskobik ince işçiliğe yapılan doğrudan bir vurgudur."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "أ-ص-ل (Ana kök, kalın gövde ve temel ↔ ب-ن-ن en uçtaki en ince parmak uçları ve detaylar)"
+        ],
+        "bidirectional_test": "İnsan bedenindeki en ince dış uçlar (`ب-ن-ن`) ile ana temel/kök (`أ-ص-ل`) uç–merkez karşıtlığını kurar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ع-ظ-م",
+          "س-و-ي",
+          "ع-ن-ق"
+        ],
+        "analysis": "`75:3-4` ikilisinde direten kişinin imkânsız gördüğü `عِظَامَهُۥ` (iri kemiklerin toplanması) ile Allah'ın meydan okuduğu `أَن نُّسَوِّىَ بَنَانَهُۥ` (en ince parmak uçlarının bile eksiksiz düzenlenmesi) arasındaki ölçek farkı olağanüstüdür. `8:12`'de ise `فَوْقَ ٱلْأَعْنَاقِ` (boyunların üstü) ile `كُلَّ بَنَانٍ` (silah tutan tüm parmak uçları/eklemler) yan yana gelir."
+      },
+      "anchor_ayahs": [
+        "75:3-4 (أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ * بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ — insan kemiklerini bir araya getiremeyeceğimizi mi sanıyor? Evet! Biz onun parmak uçlarını bile tastamam düzenlemeye gücü yetenleriz)",
+        "8:12 (فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ — boyunlarının üstüne vurun ve onların silah tutan bütün parmak uçlarına/eklemlerine vurun)"
+      ],
+      "unified_core_mechanism": "`ب-ن-ن` kökü 2 geçişinde **'insan el ve ayaklarının en ince, en hassas parmak uçları ve eklem boğumları (`بَنَان`)'** çekirdeğini işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Savaş Bağlamı (`كُلَّ بَنَانٍ` — `8:12`): `كُلَّ` muzâfun ileyhi olarak mecrûr cins isim.",
+          "Dal 2 — Diriliş Kudreti Bağlamı (`بَنَانَهُۥ` — `75:4`): `نُّسَوِّىَ` fiilinin mansûb mef'ûlü."
+        ],
+        "irab_notes": "`8:12`'de muzâfun ileyh olarak mecrûr (`بَنَانٍ`), `75:4`'te `نُّسَوِّىَ` fiilinin mansûb mef'ûlüdür (`بَنَانَهُۥ`)."
+      },
+      "derivatives": [
+        {
+          "form": "بَنَان",
+          "pos": "İsim (Cins İsim)",
+          "meaning": "Parmak uçları, parmaklar ve ince uç eklemler",
+          "examples": [
+            "8:12",
+            "75:4"
           ]
         }
       ]
