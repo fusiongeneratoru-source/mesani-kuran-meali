@@ -59270,5 +59270,85 @@
       }
     ],
     "context_default": "Ağaç kökü/dip tabanı (`أَصْل`) veya akşamüstü vakti (`أَصِيل / آصَال`) bağlamı"
+  },
+  "ض-ح-ك": {
+    "buckwalter": "DHk",
+    "slug": "dhk",
+    "concept_name": "Dahk ve İdhâk (Yüzün Açılıp Gülmesi, Sevinçle veya Alayla Gülmek ve Güldürmek)",
+    "root_latin": "D-H-K",
+    "keywords": [
+      "dahk",
+      "idhak",
+      "gulmek",
+      "guldurmek",
+      "alay",
+      "sevinc",
+      "yuz acilmasi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "DaHikato",
+        "ayahs": [
+          "9:82",
+          "11:71",
+          "23:110",
+          "43:47",
+          "53:60",
+          "83:29",
+          "83:34"
+        ],
+        "label": "Form I fiil (`فَلْيَضْحَكُوا۟`, `فَضَحِكَتْ`, `تَضْحَكُونَ`, `يَضْحَكُونَ` — gülmek: müjdeye sevinçle açılma `11:71`, alaycı gülme `23:110, 43:47, 53:60, 83:29`, kısa gülüş uyarısı `9:82` ve karşılığın tersine dönmesi `83:34`; 7 geçiş)"
+      },
+      {
+        "lemma": "DaAHik",
+        "ayahs": [
+          "27:19"
+        ],
+        "label": "Form I eril ism-i fâil / hâl (`فَتَبَسَّمَ ضَاحِكًا` — Süleyman'ın karıncanın sözüne gülümseyerek gülmesi; 1 geçiş)"
+      },
+      {
+        "lemma": ">aDoHaka",
+        "ayahs": [
+          "53:43"
+        ],
+        "label": "Form IV (İf'âl) mâzî fiil (`أَضْحَكَ وَأَبْكَىٰ` — güldüren ve ağlatan yalnızca O'dur; 1 geçiş)"
+      },
+      {
+        "lemma": "DaAHikap",
+        "ayahs": [
+          "80:39"
+        ],
+        "label": "Form I dişil ism-i fâil (`ضَاحِكَةٌ مُّسْتَبْشِرَةٌ` — o gün gülen ve müjdeyle ışıldayan yüzler; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yüzün sevinçle veya alayla açılıp gülmesini ya da güldürmeyi bildiren `ض-ح-ك` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:71",
+          "27:19",
+          "80:39"
+        ],
+        "text": "Sevinç ve Ferahlık Açılması (`11:71`, `27:19`, `80:39`): İbrahim'in eşinin ayaktayken gülmesi, Süleyman'ın şükürle gülümseyip gülmesi (`فَتَبَسَّمَ ضَاحِكًا`) ve o gün müjdeyle gülen yüzler (`ضَاحِكَةٌ مُّسْتَبْشِرَةٌ`)."
+      },
+      {
+        "ayahs": [
+          "23:110",
+          "43:47",
+          "53:60",
+          "83:29",
+          "83:34"
+        ],
+        "text": "Alaycı Gülme ve Karşılığının Tersine Dönmesi (`23:110`, `43:47`, `53:60`, `83:29`, `83:34`): Mesajla ve inananlarla alay edip gülenlerin tavrı (`يَضْحَكُونَ`) karşısında hesap gününde rollerin tersine dönmesi (`83:34`)."
+      },
+      {
+        "ayahs": [
+          "9:82",
+          "53:43"
+        ],
+        "text": "Gülme ve Ağlama Dengesi (`9:82`, `53:43`): Az gülüp çok ağlama uyarısı (`9:82`) ve güldürme ile ağlatma yasasını yaratanın yalnızca Allah oluşu (`53:43`)."
+      }
+    ],
+    "context_default": "Yüzün sevinçle veya alayla açılıp gülmesi ve güldürme bağlamı"
   }
 }

@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3M (+5 Sure %100 Tam Kilidi [Sure 83, 80, 74, 75, 81 -> 50 Sure & Son 35 Sure Kesintisiz %100] ve Kalan Tüm 10 Geçişli Çekirdek Kökler — 50 Kök -> 900 Kök)",
   "target_count": 50,
-  "locked_count": 0,
+  "locked_count": 1,
   "total_tokens_in_package": 190,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 95.94,
+  "current_coverage_pct": 95.96,
   "target_coverage_pct": 96.32,
   "etap_3m_roots": [
     {
@@ -17,8 +17,8 @@
       "frequency": 10,
       "unique_ayahs": 10,
       "rationale": "Dahik, Edhake ve Dâhike (Sure 83 Mutaffifîn + Sure 80 Abese ortak kilidi + 10 geçiş: 9:82, 11:71, 23:110, 27:19, 43:47, 53:43, 53:60, 80:39, 83:29, 83:34 gülmek, sevinçle açılmak ve alaycı gülüş)",
-      "concept_label": "Analiz Bekliyor (DaHikato, DaAHik, >aDoHaka, DaAHikap)",
-      "is_locked": false,
+      "concept_label": "Dahk ve İdhâk (Yüzün Açılıp Gülmesi, Sevinçle veya Alayla Gülmek ve Güldürmek)",
+      "is_locked": true,
       "sample_ayah": "9:82",
       "top_lemmas": [
         "DaHikato",
