@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3L (+5 Sure %100 Tam Kilidi [Sure 71, 49, 58, 77, 89 -> 45 Sure], Kalan Tüm 4+ Açık Furûk Tepe Uçları ve 11–10 Geçişli Çekirdek Kökler — 50 Kök -> 850 Kök)",
   "target_count": 50,
-  "locked_count": 0,
+  "locked_count": 1,
   "total_tokens_in_package": 254,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 95.43,
+  "current_coverage_pct": 95.45,
   "target_coverage_pct": 95.94,
   "etap_3l_roots": [
     {
@@ -17,8 +17,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Vakr, Vakâr ve Tevkîr (Sure 71 Nûh kilidi + 9 geçiş: 6:25, 17:46, 18:57, 31:7, 41:5, 41:44, 48:9, 51:2, 71:13 kulaktaki ağırlık/tıkanıklık, ağır yük taşıyan bulut ve yüce saygınlık)",
-      "concept_label": "Analiz Bekliyor (waqor, tuwaq~iru, wiqor, waqaAr)",
-      "is_locked": false,
+      "concept_label": "Vakr, Vikr, Vakâr ve Tevkîr (Ağırlık, İşitmeyi Tıkayan Ağırlık, Yüklü Bulut ve Ağırbaşlı Saygınlık)",
+      "is_locked": true,
       "sample_ayah": "6:25",
       "top_lemmas": [
         "waqor",

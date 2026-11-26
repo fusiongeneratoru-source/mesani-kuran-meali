@@ -3,11 +3,11 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 0 / 50 Kök (Toplam Mühürlü: 800 Kök | Güncel Kapsam: %95,43)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 1 / 50 Kök (Toplam Mühürlü: 801 Kök | Güncel Kapsam: %95,45)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
-| 1 | Sure %100 Kilidi | 622 | `و-ق-ر` | `W-K-R` | **9** | 9 | 6:25 | Vakr, Vakâr ve Tevkîr (Sure 71 Nûh kilidi + 9 geçiş: 6:25, 17:46, 18:57, 31:7, 41:5, 41:44, 48:9, 51:2, 71:13 kulaktaki ağırlık/tıkanıklık, ağır yük taşıyan bulut ve yüce saygınlık) | ⏳ *Bekliyor* |
+| 1 | Sure %100 Kilidi | 622 | `و-ق-ر` | `W-K-R` | **9** | 9 | 6:25 | Vakr, Vikr, Vakâr ve Tevkîr (Ağırlık, İşitmeyi Tıkayan Ağırlık, Yüklü Bulut ve Ağırbaşlı Saygınlık) | ✅ **MÜHÜRLÜ** |
 | 2 | Sure %100 Kilidi | 725 | `ت-ب-ر` | `T-B-R` | **6** | 4 | 7:139 | Tebâr, Tetbîr ve Mütetebbir (Sure 71 Nûh kilidi + 6 geçiş: 7:139, 17:7, 25:39, 71:28 parçalayıp un ufak ederek tamamen yıkıma uğratmak) | ⏳ *Bekliyor* |
 | 3 | Sure %100 Kilidi | 866 | `د-ر-ر` | `D-R-R` | **4** | 4 | 6:6 | Midrâr ve Dürrî (Sure 71 Nûh kilidi + 4 geçiş: 6:6, 11:52, 24:35, 71:11 bolca ve kesintisiz akıp dökülen yağmur ve inci gibi parıldayan yıldız) | ⏳ *Bekliyor* |
 | 4 | Sure %100 Kilidi | 922 | `س-ر-ج` | `S-R-C` | **4** | 4 | 25:61 | Sirâc (Sure 71 Nûh kilidi + 4 geçiş: 25:61, 33:46, 71:16, 78:13 karanlığı delen aydınlatıcı ve ısıtıcı ışık/kandil kaynağı) | ⏳ *Bekliyor* |

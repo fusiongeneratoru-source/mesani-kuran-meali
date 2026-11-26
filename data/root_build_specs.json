@@ -56631,5 +56631,83 @@
       }
     ],
     "context_default": "Kazınmış kitap, kayıt veya iri blok bağlamı"
+  },
+  "و-ق-ر": {
+    "buckwalter": "wqr",
+    "slug": "wqr",
+    "concept_name": "Vakr, Vikr, Vakâr ve Tevkîr (Ağırlık, İşitmeyi Tıkayan Ağırlık, Yüklü Bulut ve Ağırbaşlı Saygınlık)",
+    "root_latin": "V-K-R",
+    "keywords": [
+      "vakr",
+      "vikr",
+      "vakar",
+      "tevkir",
+      "agirlik",
+      "kulak agirligi",
+      "sayginlik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "waqor",
+        "ayahs": [
+          "6:25",
+          "17:46",
+          "18:57",
+          "31:7",
+          "41:5",
+          "41:44"
+        ],
+        "label": "Nekre isim (`وَقْرًا / وَقْرٌ` — kulakta işitmeyi engelleyen ağır tıkanıklık; 6 geçiş)"
+      },
+      {
+        "lemma": "tuwaq~iru",
+        "ayahs": [
+          "48:9"
+        ],
+        "label": "Form II muzâri fiil (`وَتُوَقِّرُوهُ` — ağırlığını ve değerini gözeterek saygı göstermek; 1 geçiş)"
+      },
+      {
+        "lemma": "wiqor",
+        "ayahs": [
+          "51:2"
+        ],
+        "label": "Mansûb isim (`وِقْرًا` — bulutların taşıdığı ağır yağmur yükü; 1 geçiş)"
+      },
+      {
+        "lemma": "waqaAr",
+        "ayahs": [
+          "71:13"
+        ],
+        "label": "Mansûb mastar/isim (`وَقَارًا` — Allah'ın yüce ağırlığı ve saygınlığı; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Ağırlık, yük ve saygınlık bildiren `و-ق-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:25",
+          "17:46",
+          "18:57",
+          "31:7",
+          "41:5",
+          "41:44"
+        ],
+        "text": "Kulaktaki İşitsel Tıkanıklık (`6:25`, `17:46`, `18:57`, `31:7`, `41:5`, `41:44`): Hakikati duymaya kapanan zihnin kulaklarında ağırlık (`وَقْر`) bulunması."
+      },
+      {
+        "ayahs": [
+          "48:9",
+          "71:13"
+        ],
+        "text": "Yüce Ağırlık ve Saygı (`48:9`, `71:13`): Allah'ın yüce ağırlığını (`وَقَار`) takdir edip elçisine/mesaja saygınlıkla (`تُوَقِّرُوهُ`) yaklaşmak."
+      },
+      {
+        "ayahs": [
+          "51:2"
+        ],
+        "text": "Doğadaki Ağır Yağmur Yükü (`51:2`): Su yüklü bulutların taşıdığı bereketli ağırlık (`وِقْر`)."
+      }
+    ],
+    "context_default": "Ağırlık, yük ve oturaklı saygınlık bağlamı"
   }
 }
