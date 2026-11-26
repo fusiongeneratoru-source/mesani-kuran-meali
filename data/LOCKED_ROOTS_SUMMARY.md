@@ -1,5 +1,5 @@
 # MÜHÜRLÜ KÖKLER KAVRAM VE MESÂNÎ ÖZETİ (TABULA RASA v3.0)
-> **Toplam Mühürlü Kök:** 857 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
+> **Toplam Mühürlü Kök:** 858 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
 
 | Kök (Arapça) | Kök (Latin) | Tek Çekirdek Mekanizması (Unified Core) | Mesânî Zıttı |
 | :--- | :--- | :--- | :--- |
@@ -860,3 +860,4 @@
 | `ر-ق-م` | `R-Q-M` | `ر-ق-م` kökü 3 geçişinde **'belirgin çizgilerle işlenmiş, silinmez ve üzerinde oynanamayan kalıcı kayıt/kitabe'** çekirdeğini işler. | م-ح-و (Yazıyı ve izi silip ortadan kaldırmak ↔ ر-ق-م silinmez çizgilerle işleyip kayıt altına almak) |
 | `ط-ف-ف` | `T-F-F` | `ط-ف-ف` kökü Kur'an'daki tek geçişinde (`83:1`, `مُطَفِّفِينَ`) **'küçük ve göze batmaz sanılan kenar paylarını kırparak çifte standartla ölçü-tartı eksiltme'** çekirdeğini taşır. | و-ف-ي (Ölçüyü ve hakkı eksiksiz tam doldurmak ↔ ط-ف-ف üst kenardan kırpıp eksik bırakmak — `83:1-2` aynı bağlam zıtlığı), ق-س-ط (Adaletli ve dengeli tartı ↔ ط-ف-ف çifte standartla hak kırpma) |
 | `غ-م-ز` | `G-M-Z` | `غ-م-ز` kökü Kur'an'daki tek geçişinde (`83:30`, Form VI) **'bir şeye hafifçe dürter gibi göz ve kaş hareketiyle karşılıklı gizli alay işareti verme'** çekirdeğini işler. | ج-ه-ر (Sözü ve duruşu açıkça, gizlemeden ortaya koymak ↔ غ-م-ز göz-kaş kırparak gizlice ve sinsi biçimde alay etmek) |
+| `ر-ح-ق` | `R-H-Q` | `ر-ح-ق` kökü Kur'an'daki tek geçişinde (`83:25`) **'hiçbir tortu ve bozulma barındırmayan, mühürle korunmuş en duru ve seçkin içecek'** çekirdeğini taşır. | ك-د-ر (Bulanmak, tortulanmak ve duruluğunu yitirmek ↔ ر-ح-ق tortusuz, katkısız ve duru saf içecek) |

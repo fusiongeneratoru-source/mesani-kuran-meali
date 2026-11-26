@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (57/50 — Toplam 857 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (58/50 — Toplam 858 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -72170,6 +72170,73 @@
           "meaning": "Birbirine karşılıklı kaş-göz kırpıp gizlice alay işareti etmek",
           "examples": [
             "83:30"
+          ]
+        }
+      ]
+    },
+    "ر-ح-ق": {
+      "root_latin": "R-H-Q",
+      "arabic": "ر-ح-ق",
+      "rank": 1540,
+      "morphology_and_rasm": {
+        "buckwalter": "rHq",
+        "rasm_skeleton": "رحق (harekesiz iskelet; رحيق biçimiyle 1 kez)",
+        "approx_frequency": "1 geçiş / 1 ayet (1x isim `رَّحِيقٍ` — `83:25`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "رَحِيق (isim — 1 geçiş: `83:25`; saf, tortusuz, katkısız içecek)"
+        ],
+        "preposition_patterns": [
+          "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ (`83:25`: `مِنْ` ile mühürlü saf içecekten sunulması)"
+        ]
+      },
+      "physical_core": "İçinde hiçbir tortu, hile veya bozucu karışım bulunmayan, süzülüp arıtılmış en duru ve seçkin içecek (`رَحِيق`).",
+      "ibn_faris_asl": "(رَحَقَ) الرَّاءُ وَالْحَاءُ وَالْقَافُ كَلِمَةٌ وَاحِدَةٌ. وَهِيَ الرَّحِيقُ: اسْمٌ مِنْ أَسْمَاءِ الْخَمْرِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 2, s. 497, رحق maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ر-ح-ق` kökünün tek bir kelimeden ibaret olduğunu kaydeder: `الرَّحِيقُ` — klasik Arapçada seçkin içeceğin/şarabın adlarından biri.",
+        "lisan_al_arab": "İbn Manzûr `الرَّحِيقُ` kelimesini 'hiçbir hile ve bozucu karışım içermeyen en halis, en saf ve en seçkin içecek' (`الصافي الخالص الذي لا غش فيه`) olarak açıklar.",
+        "ragib_al_isfahani": "Râgıb `رَحِيق`'in en arı ve katkısız içecek olduğunu, hemen yanındaki `مَّخْتُومٍ` sıfatının ise tazeliği ve saflığı el değmeden korunmuş olma anlamını pekiştirdiğini belirtir.",
+        "verdict": "Bu tek geçiş (`83:25`), **'tortusuz, katkısız, el değmeden mühürlenmiş en duru ve seçkin içecek'** somut anlamını taşır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Doğrudan Sâmî ön-kökü kesinleştirilememiştir.",
+        "hebrew": "İbranicede doğrudan eşkökenli doğrulanamadı (İbranice rḥq 'uzak olmak' kökü anlamca farklıdır).",
+        "aramaic_syriac": "Aramice/Süryanicede doğrudan eşkökenli doğrulanamadı.",
+        "akkadian": "Akadcada doğrudan eşkökenli doğrulanamadı.",
+        "comparative_note": "İbn Fâris'in de dürüstçe kaydettiği gibi `ر-ح-ق` klasik Arapçada `رَحِيق` (en saf, katkısız içecek) kelimesine özgü tekil bir köktür; başka Sâmî köklerle zorlama bağlantı kurulmamalıdır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ك-د-ر (Bulanmak, tortulanmak ve duruluğunu yitirmek ↔ ر-ح-ق tortusuz, katkısız ve duru saf içecek)"
+        ],
+        "bidirectional_test": "Hiçbir tortu ve bulanıklık taşımayan saf içecek (`ر-ح-ق`) tersine çevrildiğinde bulanıklık ve tortulanma (`ك-د-ر`) ortaya çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "خ-ت-م",
+          "س-ق-ي",
+          "م-ز-ج",
+          "س-ن-م"
+        ],
+        "analysis": "`83:25-27` ayetlerinde `رَحِيقٍ` (başlangıçta bütünüyle saf ve tortusuz içecek), `مَّخْتُومٍ` (`خ-ت-م` — ağzı/sonu mühürlü ve korumalı), `مِزَاجُهُۥ` (`م-ز-ج` — ona eklenen seçkin harman) ve `تَسْنِيم` (`س-ن-م` — o harmanın geldiği yüce kaynak) adım adım birbirini tamamlar."
+      },
+      "anchor_ayahs": [
+        "83:25 (يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ — kendilerine mühürlü, katkısız saf bir içecekten sunulur)"
+      ],
+      "unified_core_mechanism": "`ر-ح-ق` kökü Kur'an'daki tek geçişinde (`83:25`) **'hiçbir tortu ve bozulma barındırmayan, mühürle korunmuş en duru ve seçkin içecek'** çekirdeğini taşır.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Nekre İsim (`مِن رَّحِيقٍ مَّخْتُومٍ` — `83:25`): Nekre gelişi bu saf içeceğin eşsizliğini ve tazîmini, `مَّخْتُومٍ` sıfatı ise korunduğunu vurgular."
+        ],
+        "irab_notes": "`مِنْ` ile mecrûr nekre isimdir; `مَّخْتُومٍ` onun mecrûr sıfatıdır."
+      },
+      "derivatives": [
+        {
+          "form": "رَّحِيقٍ",
+          "pos": "İsim (Fa'îl)",
+          "meaning": "Katkısız, tortusuz, en duru ve seçkin içecek",
+          "examples": [
+            "83:25"
           ]
         }
       ]
