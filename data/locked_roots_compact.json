@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 750,
+    "total_locked": 751,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -44,7 +44,8 @@
         "ق-ر-ع [تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ ... ٱلْقَارِعَةُ] (Şiddetle Çarpıp Sarsan Büyük Darbe ve Uyanış ↔ Sarsılmaz Güven ve Emniyet: 13:31, 101:1-3)",
         "ج-و-ع [أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ / قَرْيَةً كَانَتْ ءَامِنَةً ... لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ] (Açlık ve Korku Kuşatması ↔ Bolluk ve Güvenlik Hâli: 16:112, 106:4)",
         "ح-ذ-ر",
-        "ص-ي-ح (S-Y-H (SyH) — Çift Yönlü Mesânî Karşılığı: `63:4` [يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ] vs `2:126`, `16:112` — her yüksek ses ve çığlıktan baskın paniğine kapılmak ↔ korkusuz güven ve esenlik `أَمْن`)"
+        "ص-ي-ح (S-Y-H (SyH) — Çift Yönlü Mesânî Karşılığı: `63:4` [يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ] vs `2:126`, `16:112` — her yüksek ses ve çığlıktan baskın paniğine kapılmak ↔ korkusuz güven ve esenlik `أَمْن`)",
+        "ش-ف-ق (Ş-F-Q ($fq) — Çift Yönlü Mesânî Karşılığı: `52:26`, `70:27` — endişe ve sakınma içinde titremek `مُشْفِقِينَ` ↔ korkudan emin olup tam güvende olmak `أَمْن`)"
       ]
     },
     "ن-ف-ق": {
@@ -5693,7 +5694,8 @@
         "أ-ن-ي",
         "و-ق-ت",
         "س-ن-و (`22:47` `وَيَسْتَعْجِلُونَكَ ... وَإِنَّ يَوْمًا عِندَ رَبِّكَ كَأَلْفِ سَنَةٍ` — aceleyle hemen istemek karşısında uzun vadeli bin yıllık ölçü)",
-        "ر-ب-ص (ر-ب-ص ↔ ع-ج-ل Mesânî simetrisi)"
+        "ر-ب-ص (ر-ب-ص ↔ ع-ج-ل Mesânî simetrisi)",
+        "ش-ف-ق (Ş-F-Q ($fq) — Çift Yönlü Mesânî Karşılığı: `42:18` [يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا] — hakikati örtenlerin saati alayla acele istemesi `يَسْتَعْجِلُ` ↔ inananların ondan titrek bir duyarlıkla sakınması `مُشْفِقُونَ`)"
       ]
     },
     "ت-ر-ك": {
@@ -9670,6 +9672,16 @@
         "خ-و-ف (X-W-F — Çift Yönlü Mesânî Karşılığı: `7:56`, `13:12`, `30:24`, `32:16` [خَوْفًا وَطَمَعًا] — dört ayrı ayette doğrudan ikiz çift: zarardan ve yıldırımdan/hesaptan duyulan endişe `خَوْف` ↔ yağmur, rahmet ve iyilik yönündeki güçlü beklenti ve umut `طَمَع`)",
         "ي-أ-س (Y-A-S — Çift Yönlü Mesânî Karşılığı: `7:56`, `26:51`, `26:82` — *Lisân*'ın doğrudan sözlük zıddı `الطَّمَعُ: ضِدُّ الْيَأْسِ`: beklentiyi bütünüyle bırakıp ümitsizliğe düşmek `يَأْس` ↔ gönülde güçlü umut ve beklenti beslemek `طَمَع`)",
         "ق-ن-ط (Q-N-T — Çift Yönlü Mesânî Karşılığı: `7:56`, `32:16` — ilahî rahmetten ümidi tamamen kesip çökmek `قُنُوط` ↔ korku ile birlikte rahmete güçlü umutla yönelmek `خَوْفًا وَطَمَعًا`)"
+      ]
+    },
+    "ش-ف-ق": {
+      "latin": "Ş-F-Q ($fq)",
+      "core": "`ش-ف-ق` kökü Kur'an'daki 11 geçişinin tamamında **'incelik ve hassasiyetten doğan özenli, titrek sakınma (ve ufukta gün batımının ince kızıl ışık şeridi)'** mekaniğini işletir. Kozmik düzlemde gündüz ışığının geceye karıştığı ince kızıl eşiği (`84:16`), ahlaki-psikolojik düzlemde ise ağır emanet (`33:72`), mali yükümlülük (`58:13`), hesap defteri (`18:49`, `42:22`) ve saat/azap (`21:28`, `21:49`, `23:57`, `42:18`, `52:26`, `70:27`) karşısında yüreğin incelip titreyerek sakınmasını ifade eder.",
+      "physical": "Bir şeydeki **incelik, narinlik ve hassas dokunuş (`رِقَّةٌ فِي الشَّيْءِ`)** — gün batımında gündüz ışığının gece karanlığıyla harmanlanıp ufukta oluşturduğu ince kızıl şerit (`ٱلشَّفَق`, `84:16`) gibi, kalbin de sevgi, özen ve sorumluluk bilinciyle incelerek zarar gelmesinden yahut ağır bir yükün altından kalkamamaktan **titreyip sakınması (`عِنَايَةٌ مُخْتَلِطَةٌ بِخَوْفٍ`)**.",
+      "opposites": [
+        "ح-م-ل (H-M-L — Çift Yönlü Mesânî Karşılığı: `33:72` [فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَٰنُ] — göklerin, yerin ve dağların ağır emanet karşısında titreyip sakınması `أَشْفَقْنَ` ↔ insanın onu üstlenip yüklenmesi `حَمَلَهَا`)",
+        "ع-ج-ل (E-J-L — Çift Yönlü Mesânî Karşılığı: `42:18` [يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا] — aynı ayette doğrudan zıtlık: hakikati örtenlerin saati alayla acele çağırması `يَسْتَعْجِلُ` ↔ inananların o saatten incelikli bir sakınmayla titremesi `مُشْفِقُونَ`)",
+        "أ-م-ن (A-M-N — Çift Yönlü Mesânî Karşılığı: `52:26`, `70:27` — endişe ve sakınma hâlinde titremek `مُشْفِقِينَ` ↔ korkudan bütünüyle kurtulup güvende olmak `أَمْن`)"
       ]
     }
   }

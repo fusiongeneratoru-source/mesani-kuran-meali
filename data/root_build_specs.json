@@ -53792,5 +53792,91 @@
       }
     ],
     "context_default": "Güçlü beklenti, umut veya heves yönelimi bağlamı"
+  },
+  "ش-ف-ق": {
+    "buckwalter": "$fq",
+    "slug": "sfq",
+    "concept_name": "Şefak / İşfâk (İncelik, Akşam Kızıllığı ve Özenli Titrek Sakınma)",
+    "keywords": [
+      "sefak",
+      "safak",
+      "isfak",
+      "musfikun",
+      "sakinarak titremek",
+      "incelik",
+      "aksam kizilligi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mu$ofiquwn",
+        "ayahs": [
+          "21:28",
+          "21:49",
+          "23:57",
+          "42:18",
+          "70:27"
+        ],
+        "label": "Form IV merfû etken ortaç çoğul (`مُشْفِقُونَ` — haber: derin duyarlık ve kaygıyla sakınanlar; 5 geçiş)"
+      },
+      {
+        "lemma": "mu$ofiquwn",
+        "ayahs": [
+          "18:49",
+          "42:22",
+          "52:26"
+        ],
+        "label": "Form IV mansub etken ortaç çoğul (`مُشْفِقِينَ` — hâl / `كُنَّا` haberi: titreyen bir kaygı hâlinde; 3 geçiş)"
+      },
+      {
+        "lemma": ">a$ofaqo",
+        "ayahs": [
+          "33:72",
+          "58:13"
+        ],
+        "label": "Form IV malum mâzi fiil (`أَشْفَقْنَ / ءَأَشْفَقْتُمْ` — ağır sorumluluk veya yükümlülükten çekinmek; 2 geçiş)"
+      },
+      {
+        "lemma": "$~afaq",
+        "ayahs": [
+          "84:16"
+        ],
+        "label": "Mecrûr isim (`بِٱلشَّفَقِ` — kasem harfiyle mecrûr: gün batımındaki ince kızıl ufuk ışığı; 1 geçiş: 84:16)"
+      }
+    ],
+    "irab_default": "İncelik ve sakınma duygusunu bildiren `ش-ف-ق` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "21:28",
+          "21:49",
+          "23:57",
+          "42:18",
+          "52:26",
+          "70:27"
+        ],
+        "text": "İnananların ve Göksel Görevlilerin Diri Duyarlığı (`21:28`, `21:49`, `23:57`, `42:18`, `52:26`, `70:27`): Rabbin haşyeti, saat ve azap karşısında pervasızlıktan uzak, incelikli bir teyakkuz ve titrek sakınma bilinci."
+      },
+      {
+        "ayahs": [
+          "18:49",
+          "42:22"
+        ],
+        "text": "Suçluların Kayıt ve Kazanç Karşısındaki Ürpertisi (`18:49`, `42:22`): Küçük büyük hiçbir şeyi bırakmayan amel defteri ve başlarına inecek yaptıkları karşısında zalimlerin kapıldığı kaygı."
+      },
+      {
+        "ayahs": [
+          "33:72",
+          "58:13"
+        ],
+        "text": "Ağır Yükümlülük Karşısında Çekinme (`33:72`, `58:13`): Göklerin, yerin ve dağların emaneti yüklenmekten çekinmesi ve özel görüşme öncesi sadaka vermekten ürkmek."
+      },
+      {
+        "ayahs": [
+          "84:16"
+        ],
+        "text": "Kozmik Geçiş Eşiği (`84:16`): Gündüz ışığının gece karanlığına karıştığı akşam şafağı üzerine ant."
+      }
+    ],
+    "context_default": "İncelik ve titrek sakınma bağlamı"
   }
 }

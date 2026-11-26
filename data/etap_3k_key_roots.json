@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3K (+5 Sure %100 Tam Kilidi [Sure 84, 86, 90, 91, 45 -> 40 Sure], Kalan Tüm 2+ Açık Mesânî Tepe Uçları ve 12–11 Geçişli Çekirdek Kökler — 50 Kök -> 800 Kök)",
   "target_count": 50,
-  "locked_count": 0,
+  "locked_count": 1,
   "total_tokens_in_package": 308,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 94.81,
+  "current_coverage_pct": 94.84,
   "target_coverage_pct": 95.43,
   "etap_3k_roots": [
     {
@@ -17,8 +17,8 @@
       "frequency": 11,
       "unique_ayahs": 11,
       "rationale": "İşfâk, Müşfikûn ve Şefak (Sure 84 İnşikâk kilidi | 1M: ح-م-ل + 11 geçiş: 21:28, 21:49, 23:57, 33:72, 52:26, 84:16 akşam kızıllığı ve incelikle karışık derin sakınma/ürperti)",
-      "concept_label": "Analiz Bekliyor (mu$ofiquwn, >a$ofaqo, $~afaq)",
-      "is_locked": false,
+      "concept_label": "Şefak / İşfâk (İncelik, Akşam Kızıllığı ve Özenli Titrek Sakınma)",
+      "is_locked": true,
       "sample_ayah": "18:49",
       "top_lemmas": [
         "mu$ofiquwn",
