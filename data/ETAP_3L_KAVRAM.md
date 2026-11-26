@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 34 / 50 Kök (Toplam Mühürlü: 834 Kök | Güncel Kapsam: %95,71)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 35 / 50 Kök (Toplam Mühürlü: 835 Kök | Güncel Kapsam: %95,71)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -41,7 +41,7 @@
 | 32 | Sure %100 Kilidi | 684 | `د-ك-ك` | `D-K-K` | **7** | 4 | 7:143 | Dekk ve Dekkâ' (Vurup Ufalayarak Dümdüz Etmek, Yükseltiyi Yerle Bir Düzlemek) | ✅ **MÜHÜRLÜ** |
 | 33 | Sure %100 Kilidi | 729 | `ر-ص-د` | `R-S-D` | **6** | 6 | 9:5 | Rasad, Marsad, İrsâd ve Mirsâd (Önceden Hazırlanıp Gözetlemek, Geçit Başı ve Kesintisiz Denetim Hattı) | ✅ **MÜHÜRLÜ** |
 | 34 | Sure %100 Kilidi | 830 | `ص-ب-ب` | `S-B-B` | **5** | 4 | 22:19 | Sabb (Yukarıdan Aşağıya Kesintisiz ve Bolca Dökmek, Boşaltmak) | ✅ **MÜHÜRLÜ** |
-| 35 | Sure %100 Kilidi | 877 | `ل-م-م` | `L-M-M` | **4** | 4 | 6:150 | Lemm ve Lemem (Sure 89 Fecr kilidi + 4 geçiş: 6:150, 33:18, 53:32, 89:19 dağınık olanı sıyırıp toplamak, ufak sürçmeler ve "haydi gelin" çağrısı) | ⏳ *Bekliyor* |
+| 35 | Sure %100 Kilidi | 877 | `ل-م-م` | `L-M-M` | **4** | 4 | 6:150 | Lemm, Lemem ve Helumme (Bir Araya Toplamak, Kıyısından Dokunan Ufak Sürçme ve Buraya Katılın/Getirin) | ✅ **MÜHÜRLÜ** |
 | 36 | Sure %100 Kilidi | 1005 | `ص-خ-ر` | `S-H-R` | **3** | 3 | 18:63 | Sahr ve Sahre (Sure 89 Fecr kilidi + 3 geçiş: 18:63, 31:16, 89:9 yekpare sert ve büyük kaya kütlesi) | ⏳ *Bekliyor* |
 | 37 | Sure %100 Kilidi | 1031 | `و-ت-د` | `W-T-D` | **3** | 3 | 38:12 | Evtâd (Sure 89 Fecr kilidi + 3 geçiş: 38:12, 78:7, 89:10 yere derinlemesine çakılıp sabitleyen kazık/direkler) | ⏳ *Bekliyor* |
 | 38 | Sure %100 Kilidi | 1018 | `و-ت-ر` | `W-T-R` | **3** | 3 | 23:44 | Vetr, Tetrâ ve Yetireküm (Sure 89 Fecr kilidi + 3 geçiş: 23:44, 47:35, 89:3 tek/eşsiz sayı, birbiri ardınca gönderilmek ve hakkı eksiltmek) | ⏳ *Bekliyor* |

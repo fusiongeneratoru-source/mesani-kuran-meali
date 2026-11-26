@@ -58280,5 +58280,66 @@
       }
     ],
     "context_default": "Yukarıdan aşağıya bolca ve kesintisiz dökme/boşaltma bağlamı"
+  },
+  "ل-م-م": {
+    "buckwalter": "lmm",
+    "slug": "lmm",
+    "concept_name": "Lemm, Lemem ve Helumme (Bir Araya Toplamak, Kıyısından Dokunan Ufak Sürçme ve Buraya Katılın/Getirin)",
+    "root_latin": "L-M-M",
+    "keywords": [
+      "lemm",
+      "lemem",
+      "helumme",
+      "bir araya toplamak",
+      "ufak surcme",
+      "mirasi supurmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "lum~a",
+        "ayahs": [
+          "6:150",
+          "33:18"
+        ],
+        "label": "Form I emir / birleşik ism-i fiil (`هَلُمَّ` = `هَـ` + `لُمَّ` — buraya toplayıp getirin [6:150] / bize gelip katılın [33:18]; 2 geçiş)"
+      },
+      {
+        "lemma": "l~amam",
+        "ayahs": [
+          "53:32"
+        ],
+        "label": "İsim/masdar (`ٱللَّمَمَ` — büyük yıkıcı sapmalara varmayan, kıyısından dokunup geçilen ufak sürçmeler; 1 geçiş)"
+      },
+      {
+        "lemma": "l~am~",
+        "ayahs": [
+          "89:19"
+        ],
+        "label": "Masdar / sıfat değerinde (`أَكْلًا لَّمًّا` — başkalarının payını da kendi payına katıp toptan süpürürcesine yeme; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Bir araya toplamayı ve hafifçe yaklaşıp dokunmayı bildiren `ل-م-م` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:150",
+          "33:18"
+        ],
+        "text": "Buraya Toplayıp Getirme / Katılma Çağrısı (`6:150`, `33:18`): Müteaddî 'şahitlerinizi buraya getirin' (`6:150`) ve lâzım 'bize gelin/katılın' (`33:18`) çağrıları."
+      },
+      {
+        "ayahs": [
+          "53:32"
+        ],
+        "text": "Kıyısından Dokunulan Ufak Sürçmeler (`53:32`): Büyük ihlallerden ve açık çirkinliklerden kaçınanların yerleşik olmayan anlık sürçmeleri (`ٱللَّمَمَ`)."
+      },
+      {
+        "ayahs": [
+          "89:19"
+        ],
+        "text": "Mirası Hak-Pay Ayırmadan Toptan Süpürme (`89:19`): Yetimin ve zayıfların miras paylarını da önüne katıp tek elde toplayarak yeme haksızlığı (`أَكْلًا لَّمًّا`)."
+      }
+    ],
+    "context_default": "Bir araya toplama, yaklaşıp dokunma ve toptan süpürme bağlamı"
   }
 }
