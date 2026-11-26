@@ -59206,5 +59206,69 @@
       }
     ],
     "context_default": "Bir dayanağa, asaya veya divana güven ve huzurla yaslanma bağlamı"
+  },
+  "أ-ص-ل": {
+    "buckwalter": "ASl",
+    "slug": "asl",
+    "concept_name": "Asl, Asîl ve Âsâl (Yere Tutunan Kök-Temel-Dip ve İkindi Sonrası Akşamüstü Vakti)",
+    "root_latin": "A-S-L",
+    "keywords": [
+      "asl",
+      "asil",
+      "asal",
+      "kok",
+      "temel",
+      "dip",
+      "aksamustu",
+      "gunun sonu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aSiyl",
+        "ayahs": [
+          "7:205",
+          "13:15",
+          "24:36",
+          "25:5",
+          "33:42",
+          "48:9",
+          "76:25"
+        ],
+        "label": "İsim (`أَصِيلًا / ٱلْءَاصَالِ` — ikindiden gün batımına kadarki akşamüstü zaman dilimi; 7 geçiş)"
+      },
+      {
+        "lemma": ">aSol",
+        "ayahs": [
+          "14:24",
+          "37:64",
+          "59:5"
+        ],
+        "label": "İsim (`أَصْلُهَا / أَصْلِ / أُصُولِهَا` — ağacın yere tutunan kökü, gövde temeli ve en dip taban; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Kök-dip-temel (`أَصْل`) veya akşamüstü zaman dilimi (`أَصِيل / آصَال`) anlamındaki `أ-ص-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:205",
+          "13:15",
+          "24:36",
+          "25:5",
+          "33:42",
+          "48:9",
+          "76:25"
+        ],
+        "text": "Sabah ve Akşamüstü Kesintisiz Bilinç Ritmi (`7:205`, `13:15`, `24:36`, `25:5`, `33:42`, `48:9`, `76:25`): Daima `غُدُوّ` veya `بُكْرَة` sabah vaktiyle eşleşerek günün tüm döngüsünü kuşatan akşamüstü vakti (`ٱلْءَاصَالِ` / `أَصِيلًا`)."
+      },
+      {
+        "ayahs": [
+          "14:24",
+          "37:64",
+          "59:5"
+        ],
+        "text": "Ağacın Kökü, Gövde Temeli ve En Dip Taban (`14:24`, `37:64`, `59:5`): Güzel sözün sabit köklü ağacı (`أَصْلُهَا ثَابِتٌ`), ateşin en dibinden çıkan zakkum (`أَصْلِ ٱلْجَحِيمِ`) ve kökleri üzerinde ayakta bırakılan hurmalıklar (`عَلَىٰٓ أُصُولِهَا`)."
+      }
+    ],
+    "context_default": "Ağaç kökü/dip tabanı (`أَصْل`) veya akşamüstü vakti (`أَصِيل / آصَال`) bağlamı"
   }
 }

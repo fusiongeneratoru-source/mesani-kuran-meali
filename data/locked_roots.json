@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (49/50 — Toplam 849 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50 — Toplam 850 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -56689,7 +56689,8 @@
           "غ-ر-ب",
           "ل-ي-ل",
           "ق-د-م",
-          "ع-ش-و (A-S-W (E$w) — Çift Yönlü Mesânî Karşılığı: 6:52, 18:28, 40:46 [بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ / غُدُوًّا وَعَشِيًّا — sabah aydınlığı ↔ akşam alacası])"
+          "ع-ش-و (A-S-W (E$w) — Çift Yönlü Mesânî Karşılığı: 6:52, 18:28, 40:46 [بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ / غُدُوًّا وَعَشِيًّا — sabah aydınlığı ↔ akşam alacası])",
+          "أ-ص-ل (Asîl/Âsâl: güneşin eğildiği ikindi-akşamüstü zaman dilimi ↔ غ-د-و günün erken sabah vakti [bkz. 7:205, 13:15, 24:36])"
         ],
         "key_ayahs": [
           "34:12 (وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ — rüzgârın sabah erken saatte ileri gidişi `غُدُوّ` ↔ öğleden sonra ve akşam serinliğinde dönüşü `رَوَاح` [`ر-و-ح`])",
@@ -71524,6 +71525,98 @@
             "55:76",
             "56:16",
             "76:13"
+          ]
+        }
+      ]
+    },
+    "أ-ص-ل": {
+      "root_latin": "A-S-L",
+      "arabic": "أ-ص-ل",
+      "rank": 590,
+      "morphology_and_rasm": {
+        "buckwalter": "ASl",
+        "rasm_skeleton": "أصل (harekesiz iskelet; الآصال / أصيلا / أصلها / أصل / أصولها biçimleriyle 10 kez)",
+        "approx_frequency": "10 geçiş / 10 ayet (fiil geçişi yok; 7x أَصِيل/آصَال, 3x أَصْل/أُصُول)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "أَصِيل / آصَال (7 geçiş: `7:205`, `13:15`, `24:36`, `25:5`, `33:42`, `48:9`, `76:25` — ikindiden gün batımına kadarki akşamüstü vakti)",
+          "أَصْل / أُصُول (3 geçiş: `14:24`, `37:64`, `59:5` — ağacın yere tutunan kökü, gövde temeli ve en dip nokta)"
+        ],
+        "preposition_patterns": [
+          "بِٱلْغُدُوِّ وَٱلْءَاصَالِ (`7:205`, `13:15`, `24:36`: sabahları ve akşamüstleri)",
+          "بُكْرَةً وَأَصِيلًا (`25:5`, `33:42`, `48:9`, `76:25`: erken sabah ve akşamüstü)",
+          "قَآئِمَةً عَلَىٰٓ أُصُولِهَا (`59:5`: kökleri/gövdeleri üzerinde dimdik ayakta)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in birbirinden ayrı asıllar olarak kaydettiği iki Kur'ânî eksen: (1) bir ağacın veya yapının yere tutunan kökü, temeli ve en dip tabanı (`أَصْل / أُصُول`: 3 geçiş), (2) güneşin batıya eğildiği ikindi sonrası akşamüstü vakti (`أَصِيل / آصَال`: 7 geçiş).",
+      "ibn_faris_asl": "(أَصَلَ) الْهَمْزَةُ وَالصَّادُ وَاللَّامُ ثَلَاثَةُ أُصُولٍ مُتَبَاعِدٌ بَعْضُهَا مِنْ بَعْضٍ: أَحَدُهَا أَسَاسُ الشَّيْءِ (الْأَصْلُ)، وَالثَّانِي الْحَيَّةُ (الْأَصَلَةُ)، وَالثَّالِثُ مَا كَانَ مِنَ النَّهَارِ بَعْدَ الْعَشِيِّ (الْأَصِيلُ، وَالْجَمْعُ آصَالٌ). [Mu'cemü Mekâyîsi'l-Luğa, c. 1, s. 109, أصل maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris örnek bir filolojik dürüstlükle üç ayrı asıl tespit eder: (1) temel ve kök (`الأَصْل`), (2) bir yılan türü (`الأَصَلَة` — Kur'an'da geçmez), (3) gündüzün ikindiden günbatımına kadarki son bölümü (`الأَصِيل / الآصَال`).",
+        "lisan_al_arab": "İbn Manzûr `الأَصْل` kelimesini 'her şeyin en alt temeli/dibi' (`أسفل كل شيء`), `الأَصِيل` kelimesini ise 'ikindi ile akşam arası vakit' olarak tanımlar ve `آصَال`'ın onun çoğulu olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `14:24`'te güzel sözün 'kökü sabit (`أَصْلُهَا ثَابِتٌ`), dalı gökte' ağaca benzetilmesinin sağlam ilke ile verimli etki ilişkisini kurduğunu, sabah-akşamüstü (`بُكْرَةً وَأَصِيلًا`) ikilisinin ise kesintisiz sürekliliği ifade ettiğini vurgular.",
+        "verdict": "Modern Türkçedeki 'asil = soylu' anlam kayması Kur'an'da HİÇ yoktur: `أَصِيل / آصَال` 7 geçişin tamamında **'akşamüstü / günün son dilimi'**, `أَصْل / أُصُول` ise 3 geçişin tamamında somut **'ağaç kökü / gövde temeli / en dip'** anlamındadır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*ʾṣl ('kök, dip, temel, yan')",
+        "hebrew": "İbranice אֵצֶל (ʾēṣel: dibi, yanı) ve אָצִיל (ʾāṣîl: köklü, uzak uç/köşe) ile doğrudan kökteştir.",
+        "aramaic_syriac": "Aramice/Süryanice ܐܨܠܐ (ʾaṣlā: kök, temel) aynı somut temel çekirdeğini taşır.",
+        "akkadian": "Zaman dilimi anlamındaki `أَصِيل / آصَال` ('ikindi-akşamüstü') ise klasik Arapçada `غُدُوّ / بُكْرَة` karşısında kristalize olmuş özgül bir zamansal terimdir.",
+        "comparative_note": "Mekâyîs'in çok-asıllılık ilkesi sayesinde `أَصْل` (temel/kök) ile `أَصِيل` (akşamüstü) birbirine zorla indirgenmeden her biri kendi berrak bağlamında mühürlenir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ب-ك-ر (Günün ilk erken sabah vakti ↔ أ-ص-ل ikindi sonrası akşamüstü vakti — `25:5`, `33:42`, `48:9`, `76:25`)",
+          "غ-د-و (Sabahın erken dilimi ↔ أ-ص-ل güneşin eğildiği akşamüstü vakti — `7:205`, `13:15`, `24:36`)",
+          "ف-ر-ع (Ağacın göğe yükselen dalı/ucu ↔ أ-ص-ل ağacın yere sağlamca tutunan kökü — `14:24`)"
+        ],
+        "bidirectional_test": "Akşamüstü (`أَصِيل / آصَال`) tersine çevrildiğinde erken sabah (`ب-ك-ر` ve `غ-د-و`), ağacın yere tutunan kökü (`أَصْل`) tersine çevrildiğinde ise göğe yükselen dal (`ف-ر-ع`) ortaya çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ب-ك-ر",
+          "غ-د-و",
+          "ث-ب-ت",
+          "ف-ر-ع"
+        ],
+        "analysis": "`14:24` (`أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ`) ayeti `أَصْل` (kök) ile `فَرْع` (dal) karşıtlığını tek cümlede kurar. Zaman ekseninde ise 7 `أَصِيل / آصَال` geçişinin TAMAMI ya `غُدُوّ` (`7:205`, `13:15`, `24:36`) ya da `بُكْرَة` (`25:5`, `33:42`, `48:9`, `76:25`) sabah eşiyle birlikte gelerek kesintisiz günlük döngüyü tamamlar."
+      },
+      "anchor_ayahs": [
+        "14:24 (كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ — kökü yere sağlamca tutunmuş, dalları göğe yükselen güzel bir ağaç gibi)",
+        "37:64 (إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ — doğrusu o, harlı ateşin en dibinden çıkıp yükselen bir ağaçtır)",
+        "59:5 (أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا — yahut kökleri/gövdeleri üzerinde dimdik ayakta bıraktıklarınız)",
+        "7:205 (بِٱلْغُدُوِّ وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ — sabahları ve akşamüstleri [Rabbini an] ve kayıtsız kalanlardan olma)"
+      ],
+      "unified_core_mechanism": "`أ-ص-ل` kökü Kur'an'da iki ayrı ve son derece berrak eksen işletir: **'ağacın/yapının yere tutunan kökü ve en dip temeli (`أَصْل`, 3x)'** ile **'sabah eşiyle gün döngüsünü tamamlayan akşamüstü vakti (`أَصِيل / آصَال`, 7x)'**.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Sabah-Akşamüstü Döngüsü (`آصَال` 3x, `أَصِيلًا` 4x): Kesintisiz zikir, tesbih ve doğadaki gölge hareketi zamanı.",
+          "Dal 2 — Kök, Gövde Temeli ve En Dip (`أَصْل / أُصُول` — `14:24`, `37:64`, `59:5`): Her üçü de ağaç/bitki ve dip-temel somutluğundadır."
+        ],
+        "irab_notes": "`أَصِيلًا` (`25:5`, `33:42`, `48:9`, `76:25`) zarf-ı zaman olarak mansûb; `ٱلْءَاصَالِ` (`7:205`, `13:15`, `24:36`) `بِٱلْغُدُوِّ` üzerine matûf mecrûr; `أَصْلُهَا` (`14:24`) mübteda merfûdur."
+      },
+      "derivatives": [
+        {
+          "form": "أَصِيل / آصَال",
+          "pos": "İsim",
+          "meaning": "İkindiden gün batımına kadarki akşamüstü vakti",
+          "examples": [
+            "7:205",
+            "13:15",
+            "24:36",
+            "25:5",
+            "33:42",
+            "48:9",
+            "76:25"
+          ]
+        },
+        {
+          "form": "أَصْل / أُصُول",
+          "pos": "İsim",
+          "meaning": "Ağacın yere tutunan kökü, gövde temeli, en dip nokta",
+          "examples": [
+            "14:24",
+            "37:64",
+            "59:5"
           ]
         }
       ]
