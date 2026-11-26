@@ -534,6 +534,30 @@ def verify_all():
             if expected_e3l_prefix not in e3l_md_text:
                 errors.append(f"ETAP_3L_KAVRAM.md özet satırı güncel değil: '{expected_e3l_prefix}...' bekleniyordu")
 
+    # 8l. etap_3m_key_roots.json ve ETAP_3M_KAVRAM.md tutarlılığı
+    etap3m_path = os.path.join(DATA_DIR, 'etap_3m_key_roots.json')
+    if os.path.exists(etap3m_path):
+        with open(etap3m_path, 'r', encoding='utf-8') as f:
+            etap3m = json.load(f)
+        e3m_locked = [r for r in etap3m['etap_3m_roots'] if r['is_locked']]
+        expected_e3m_locked = [r for r in etap3m['etap_3m_roots'] if r['root_arabic'] in locked_roots]
+        if len(e3m_locked) != len(expected_e3m_locked) or etap3m['locked_count'] != len(expected_e3m_locked):
+            errors.append("etap_3m_key_roots.json mühür sayısı locked_roots.json ile uyumsuz")
+
+        e3m_md_path = os.path.join(DATA_DIR, 'ETAP_3M_KAVRAM.md')
+        if not os.path.exists(e3m_md_path):
+            errors.append(f"Eksik indeks dosyası: {e3m_md_path}")
+        else:
+            with open(e3m_md_path, 'r', encoding='utf-8') as f:
+                e3m_md_text = f.read()
+            expected_e3m_prefix = (
+                f"**Etap 3M İçinde Şu Ana Kadar Mühürlenen:** "
+                f"{len(expected_e3m_locked)} / {len(etap3m['etap_3m_roots'])} Kök "
+                f"(Toplam Mühürlü: {len(locked_roots)} Kök"
+            )
+            if expected_e3m_prefix not in e3m_md_text:
+                errors.append(f"ETAP_3M_KAVRAM.md özet satırı güncel değil: '{expected_e3m_prefix}...' bekleniyordu")
+
     # 9. particles_and_prepositions.json Tabula Rasa ve JSON bütünlüğü
     particles_path = os.path.join(DATA_DIR, 'particles_and_prepositions.json')
     if os.path.exists(particles_path):
@@ -554,7 +578,7 @@ def verify_all():
 
     print(
         f"SIFIR HATA DOĞRULANDI! 6236 ayet hizalaması, {len(locked_roots)} kilitli kök v3.0 şeması, "
-        f"tüm kavram JSON dosyaları, Edat/Köksüz haritası ve Top 100 / İkinci 100 / Etap 2.5 / Etap 3 / Etap 3C / Etap 3D / Etap 3E / Etap 3F / Etap 3G / Etap 3H / Etap 3I / Etap 3J / Etap 3K / Etap 3L indeksleri %100 tutarlı ve Tabula Rasa arınmış."
+        f"tüm kavram JSON dosyaları, Edat/Köksüz haritası ve Top 100 / İkinci 100 / Etap 2.5 / Etap 3 / Etap 3C / Etap 3D / Etap 3E / Etap 3F / Etap 3G / Etap 3H / Etap 3I / Etap 3J / Etap 3K / Etap 3L / Etap 3M indeksleri %100 tutarlı ve Tabula Rasa arınmış."
     )
     return 0
 
