@@ -58527,5 +58527,37 @@
       }
     ],
     "context_default": "Birikerek taşan, ölçüsüz yoğunlukta mal sevgisi bağlamı"
+  },
+  "س-و-ط": {
+    "buckwalter": "swT",
+    "slug": "swt_sawt",
+    "concept_name": "Savt (İç İçe Katıp Karıştırmak, Örülü Deri Kamçı ve Keskin Karşılık/Sıkıntı Payı)",
+    "root_latin": "S-W-T",
+    "keywords": [
+      "savt",
+      "kamci",
+      "karisim",
+      "karsilik kamcisi",
+      "fecr suresi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sawoT",
+        "ayahs": [
+          "89:13"
+        ],
+        "label": "İsim (`سَوْطَ عَذَابٍ` — örülü kamçı / iç içe geçmiş keskin sıkıntı ve karşılık darbesi; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Karışım ve örülü kamçıyı bildiren `س-و-ط` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "89:13"
+        ],
+        "text": "Zorbaların Tepesinden Boşaltılan Karşılık Kamçısı (`89:13`): `فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ` — ülkelerde azgınlaşıp bozgunculuğu artıran Âd, Semûd ve Firavun düzenlerinin üzerine inen keskin ve kuşatıcı karşılık."
+      }
+    ],
+    "context_default": "Azgınlık ve bozgunculuk üzerine inen karşılık kamçısı bağlamı"
   }
 }
