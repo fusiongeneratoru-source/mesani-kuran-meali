@@ -57590,5 +57590,44 @@
       }
     ],
     "context_default": "Toplantı mekânında yer açma ve genişlik/ferahlık bulma bağlamı"
+  },
+  "ك-ب-ت": {
+    "buckwalter": "kbt",
+    "slug": "kbt",
+    "concept_name": "Kebt (Düşmanı Öfkesiyle Baş Başa Bırakıp Yüzüstü Bastırarak Geri Püskürtmek ve Alçaltmak)",
+    "root_latin": "K-B-T",
+    "keywords": [
+      "kebt",
+      "yuzustu bastirmak",
+      "geri puskurtmek",
+      "bozguna ugratmak",
+      "alcaltmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "kubita",
+        "ayahs": [
+          "3:127",
+          "58:5"
+        ],
+        "label": "Form I etken ve edilgen fiil (`يَكْبِتَهُمْ` / `كُبِتُوا كَمَا كُبِتَ` — düşmanı bastırıp bozguna uğratarak geri püskürtmek; 3 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Bastırıp yüzüstü devirmeyi, alçaltıp geri püskürtmeyi bildiren `ك-ب-ت` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:127"
+        ],
+        "text": "Savaşta Karşı Cepheyi Püskürtme (`3:127`): Hakikati örtenlerin bir kanadını kesmek veya onları ağır bir hayal kırıklığıyla bastırıp püskürtmek (`أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا خَائِبِينَ`)."
+      },
+      {
+        "ayahs": [
+          "58:5"
+        ],
+        "text": "Sınır Aşan Muhalefetin Tarihsel Bozgunu (`58:5`): Allah'a ve elçisine karşı cephe alıp sınır koymaya kalkanların (`يُحَادُّونَ`), kendilerinden öncekilerin bastırılıp alçaltıldığı gibi (`كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ`) bertaraf edilmeleri."
+      }
+    ],
+    "context_default": "Düşmanca cepheyi bastırıp alçaltarak geri püskürtme bağlamı"
   }
 }
