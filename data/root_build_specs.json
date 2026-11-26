@@ -60348,5 +60348,62 @@
       }
     ],
     "context_default": "Baskın gücüyle ürküten aslan/avcıdan kaçış benzetmesi bağlamı"
+  },
+  "خ-س-ف": {
+    "buckwalter": "xsf",
+    "slug": "xsf",
+    "concept_name": "Hasf (Yerin Çöküp Dibe Göçmesi ve Ay'ın Işığının Sönüp Kararması / Tutulması)",
+    "root_latin": "KH-S-F",
+    "keywords": [
+      "hasf",
+      "yere batirmak",
+      "yer cokmesi",
+      "ay tutulmasi",
+      "kararmak",
+      "karun"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xasafa",
+        "ayahs": [
+          "16:45",
+          "17:68",
+          "28:81",
+          "28:82",
+          "29:40",
+          "34:9",
+          "67:16",
+          "75:8"
+        ],
+        "label": "Form I mâzî/muzâri fiil (`يَخْسِفَ`, `خَسَفْنَا`, `خَسَفَ`, `نَخْسِفْ` — yerin/karanın bir kenarının çöküp dibe göçürülmesi `16:45, 17:68, 28:81-82, 29:40, 34:9, 67:16` ve ayın ışığının sönüp kararması `75:8`; 8 geçiş)"
+      }
+    ],
+    "irab_default": "Yerin çöküp dibe batırılmasını veya ayın ışığının sönüp kararmasını bildiren `خ-س-ف` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "16:45",
+          "17:68",
+          "34:9",
+          "67:16"
+        ],
+        "text": "Yerin Çökme Tehdidine Karşı Güven Yanılsaması (`16:45`, `17:68`, `34:9`, `67:16`): Kötü tuzaklar kuranların ve şımaranların, Allah'ın kendilerini yere batırıvermesinden (`أَن يَخْسِفَ بِهِمُ / بِكُمُ ٱلْأَرْضَ` / `جَانِبَ ٱلْبَرِّ`) emin olup olmadıklarının sorulması."
+      },
+      {
+        "ayahs": [
+          "28:81",
+          "28:82",
+          "29:40"
+        ],
+        "text": "Karun'un ve Önceki Zalimlerin Yere Batırılması (`28:81`, `28:82`, `29:40`): Servetiyle böbürlenen Karun'un eviyle birlikte yere geçirilmesi (`فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ`) ve bunu görenlerin ibretle uyanışı."
+      },
+      {
+        "ayahs": [
+          "75:8"
+        ],
+        "text": "Ay'ın Tutulup Sönmesi (`75:8`): Hesap gününün kozmik işaretleri arasında gözün kamaşmasının hemen ardından ayın ışığının batıp kararması (`وَخَسَفَ ٱلْقَمَرُ`)."
+      }
+    ],
+    "context_default": "Yerin çöküp dibe göçmesi veya ayın ışığının sönüp kararması bağlamı"
   }
 }
