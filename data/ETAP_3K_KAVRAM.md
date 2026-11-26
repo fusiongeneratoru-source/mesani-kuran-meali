@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 28 / 50 Kök (Toplam Mühürlü: 778 Kök | Güncel Kapsam: %95,04)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 29 / 50 Kök (Toplam Mühürlü: 779 Kök | Güncel Kapsam: %95,06)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -35,7 +35,7 @@
 | 26 | Sure %100 Kilidi | 1619 | `د-س-و` | `D-S-W` | **1** | 1 | 91:10 | Tedsiye / Desv (Öz Benliği Bastırıp Gömerek Köreltmek) | ✅ **MÜHÜRLÜ** |
 | 27 | Sure %100 Kilidi | 1618 | `ل-ه-م` | `L-H-M` | **1** | 1 | 91:8 | İlhâm (Benliğin İçine Ahlaki Ayrım Bilincini Yerleştirip Özümsetmek) | ✅ **MÜHÜRLÜ** |
 | 28 | Sure %100 Kilidi | 540 | `ن-ط-ق` | `N-T-K` | **12** | 11 | 21:63 | Nutk ve Mantık (Anlaşılır Sözle Konuşmak ve Hakikati Dillendirmek) | ✅ **MÜHÜRLÜ** |
-| 29 | Sure %100 Kilidi | 585 | `ح-ي-ق` | `H-Y-K` | **10** | 10 | 6:10 | Hâka / Yahîku (Sure 45 Câsiye kilidi + 10 geçiş: 6:10, 11:8, 16:34, 21:41, 35:43, 39:48, 40:83, 45:33, 46:26 alay ve tuzağın dönüp dolaşıp sahibini çepeçevre kuşatması) | ⏳ *Bekliyor* |
+| 29 | Sure %100 Kilidi | 585 | `ح-ي-ق` | `H-Y-K` | **10** | 10 | 6:10 | Hayk (Kötülük, Tuzak ve Alayın Failini Çepeçevre Kuşatması) | ✅ **MÜHÜRLÜ** |
 | 30 | Sure %100 Kilidi | 570 | `ر-ج-ز` | `R-C-Z` | **10** | 9 | 2:59 | Ricz ve Rucz (Sure 45 Câsiye kilidi + 10 geçiş: 2:59, 7:134, 7:135, 7:162, 8:11, 29:34, 34:5, 45:11, 74:5 sarsıcı bela, yıkıcı yaptırım ve kirli putperestlik) | ⏳ *Bekliyor* |
 | 31 | Sure %100 Kilidi | 710 | `ص-ر-ر` | `S-R-R` | **6** | 6 | 3:117 | İsrâr ve Sır (Sure 45 Câsiye kilidi + 6 geçiş: 3:117, 3:135, 45:8, 56:46, 71:7, 68:25 sert düğüm gibi diretip ayak diremek ve yakıcı kavurucu rüzgâr) | ⏳ *Bekliyor* |
 | 32 | Sure %100 Kilidi | 819 | `ع-ت-ب` | `A-T-B` | **5** | 4 | 16:84 | İsti'tâb ve Mu'tebîn (Sure 45 Câsiye kilidi + 5 geçiş: 16:84, 30:57, 41:24, 45:35 [2x] sitemi giderip özür dileyerek yeniden hoşnutluk kazanmak) | ⏳ *Bekliyor* |

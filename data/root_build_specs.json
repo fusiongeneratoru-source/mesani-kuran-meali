@@ -55144,5 +55144,66 @@
       }
     ],
     "context_default": "Anlaşılır konuşma ve beyan bağlamı"
+  },
+  "ح-ي-ق": {
+    "buckwalter": "Hyq",
+    "slug": "hyq",
+    "concept_name": "Hayk (Kötülük, Tuzak ve Alayın Failini Çepeçevre Kuşatması)",
+    "keywords": [
+      "hayk",
+      "haka bihim",
+      "cepecevre kusatmak",
+      "kotu tuzak",
+      "alayin donmesi",
+      "basina inmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "HaAqa",
+        "ayahs": [
+          "6:10",
+          "11:8",
+          "16:34",
+          "21:41",
+          "39:48",
+          "40:45",
+          "40:83",
+          "45:33",
+          "46:26"
+        ],
+        "label": "Form I mâzi fiil + `بِ` (`حَاقَ بِهِم` — alay edilen veya işlenen kötülüğün failini çepeçevre kuşatması; 9 geçiş)"
+      },
+      {
+        "lemma": "HaAqa",
+        "ayahs": [
+          "35:43"
+        ],
+        "label": "Form I muzâri fiil + `بِ` (`لَا يَحِيقُ ... إِلَّا بِأَهْلِهِۦ` — kötü tuzağın yalnızca kendi sahibini kuşatması; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Kötü sonucun failini çepeçevre kuşatmasını bildiren `ح-ي-ق` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:10",
+          "11:8",
+          "16:34",
+          "21:41",
+          "39:48",
+          "40:83",
+          "45:33",
+          "46:26"
+        ],
+        "text": "Alayın Geri Dönüp Kuşatması (`6:10`, `11:8`, `16:34`, `21:41`, `39:48`, `40:83`, `45:33`, `46:26`): Elçilerle ve uyarıyla alay edenleri, bizzat alaya aldıkları gerçeğin dört yandan kuşatması."
+      },
+      {
+        "ayahs": [
+          "35:43",
+          "40:45"
+        ],
+        "text": "Kötü Tuzağın Sahibini Boğması (`35:43`, `40:45`): Kötü tuzağın yalnızca kendi sahibini sarması ve Firavun çevresini en ağır azabın kuşatması."
+      }
+    ],
+    "context_default": "Kötü akıbetin failini kuşatması bağlamı"
   }
 }
