@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 766,
+    "total_locked": 767,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -4550,7 +4550,8 @@
         "ف-و-ه (F-W-H (fwh) — Çift Yönlü Mesânî Karşılığı: `3:118` — ağızlardan açığa taşmak `بَدَتْ مِنْ أَفْوَٰهِهِمْ` ↔ içeride saklayıp gizlemek `تُخْفِى`)",
         "د-ل-ل (D-L-L (dll) — Çift Yönlü Mesânî Karşılığı: `34:14` bağlamında gizli kalan ölümü somut bir belirtiyle açığa çıkarmak `دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ` ↔ belirtiyi gizleyip örtülü bırakmak `خَفِىَ`)",
         "ح-ص-ل (H-S-L (HSl) — Çift Yönlü Mesânî Karşılığı: gizli duran iç dünyayı tüm çıplaklığıyla ayrıştırıp ortaya koymak `حُصِّلَ` ↔ gözden ırak tutup gizlemek `خَفِىَ / أَخْفَى`)",
-        "ث-ق-ب (V-Q-B (vqb) — Çift Yönlü Mesânî Karşılığı: `86:3`, `37:10` — karanlığı yarıp apaçık görünür kılan delici ışık `ثَاقِب` ↔ örtünüp gizlenmek `خَفَاء`)"
+        "ث-ق-ب (V-Q-B (vqb) — Çift Yönlü Mesânî Karşılığı: `86:3`, `37:10` — karanlığı yarıp apaçık görünür kılan delici ışık `ثَاقِب` ↔ örtünüp gizlenmek `خَفَاء`)",
+        "ن-ج-د (N-J-D (njd) — Çift Yönlü Mesânî Karşılığı: `90:10` — yüksekliğiyle uzaktan apaçık görünen iki belirgin yol `ٱلنَّجْدَيْنِ` ↔ gizli ve belirsiz kalmak `خَفَاء`)"
       ]
     },
     "ن-ق-ض": {
@@ -5996,7 +5997,8 @@
         "س-و-ر [إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ / سُورَةٌ أَنزَلْنَٰهَا] (Aşağılık ve Alçalma ↔ Yüksek Duvar, Tırmanılan Yükseklik ve Yüce Vahiy Katmanı: 24:1, 38:21, 57:13)",
         "ت-ي-ن (ت-ي-ن ↔ س-ف-ل Mesânî simetrisi)",
         "ت-ي-ن",
-        "ر-أ-س (ر-أ-س ↔ س-ف-ل Mesânî simetrisi)"
+        "ر-أ-س (ر-أ-س ↔ س-ف-ل Mesânî simetrisi)",
+        "ن-ج-د (N-J-D (njd) — Çift Yönlü Mesânî Karşılığı: `90:10` [وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ] — yüksekliğiyle tepeden seçilen yayla ve yüksek yol `نَجْد` ↔ alçak çukur ve aşağı seviye `سُفْل`)"
       ]
     },
     "ث-ق-ل": {
@@ -9861,6 +9863,15 @@
       "opposites": [
         "و-ل-ي (W-L-Y — Çift Yönlü Mesânî Karşılığı: `90:11` [فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ] — sarp yokuşa göğüs gerip atılmak `اِقْتِحَام` ↔ zorluktan yüz çevirip geri dönmek `تَوَلِّي`)",
         "ع-ج-ز (E-J-Z — Çift Yönlü Mesânî Karşılığı: `90:11` — zorlu engeli aşmak için kendini hamleye atmak `اِقْتَحَمَ` ↔ güçsüzlük gösterip geride kalmak `عَجْز`)"
+      ]
+    },
+    "ن-ج-د": {
+      "latin": "N-J-D (njd)",
+      "core": "`ن-ج-د` kökü Kur'an'daki tek geçişinde (`90:10`) **'yükselip tepeden apaçık seçilen iki belirgin tercih yolu (`ٱلنَّجْدَيْنِ`)'** mekaniğini işletir; insana duyusal ve dilsel yetinin ardından iyilik ve kötülük güzergâhlarının gizli değil, yüksek sırtlar kadar açık biçimde gösterildiğini bildirir.",
+      "physical": "Yeryüzünde **yükselip belirginleşen, sırt ve yayla gibi uzaktan açıkça seçilen yüksek yer ve tepe yolu (`اعْتِلَاءٌ وَقُوَّةٌ وَإِشْرَافٌ — الطَّرِيقُ الْمُرْتَفِعُ الْوَاضِحُ`)** — çukurda gizli kalan silik patikaların aksine, iki yüksek sırt hâlinde insanın önünde apaçık duran iyilik ve kötülük güzergâhı (`ٱلنَّجْدَيْنِ`, `90:10`).",
+      "opposites": [
+        "س-ف-ل (S-F-L — Çift Yönlü Mesânî Karşılığı: `90:10` [وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ] — yükselip tepeden açıkça seçilen yayla ve yüksek yol `نَجْد` ↔ çukur, alçak ve aşağı seviye `سُفْل`)",
+        "خ-ف-ي (X-F-Y — Çift Yönlü Mesânî Karşılığı: `90:10` — yüksekliğiyle uzaktan apaçık görünen iki belirgin yol `ٱلنَّجْدَيْنِ` ↔ örtülü, belirsiz ve gizli kalmak `خَفَاء`)"
       ]
     }
   }
