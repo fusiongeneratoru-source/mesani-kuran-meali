@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 12 / 50 Kök (Toplam Mühürlü: 862 Kök | Güncel Kapsam: %96,03)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 13 / 50 Kök (Toplam Mühürlü: 863 Kök | Güncel Kapsam: %96,03)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -19,7 +19,7 @@
 | 10 | Sure %100 Kilidi | 1606 | `س-ن-م` | `S-N-M` | **1** | 1 | 83:27 | Tesnîm (En Yüksek Doruktan ve Yüce Kaynaktan İnen Seçkin Pınar) | ✅ **MÜHÜRLÜ** |
 | 11 | Sure %100 Kilidi | 592 | `ر-ه-ق` | `R-H-K` | **10** | 10 | 10:26 | Rahak ve İrhâk (Üzerine Çöküp Kaplamak, Ağır Yükle Bunalıp Sıkıştırmak ve Taşkınlığa Sürüklemek) | ✅ **MÜHÜRLÜ** |
 | 12 | Sure %100 Kilidi | 888 | `ش-أ-ن` | `S-E-N` | **4** | 4 | 10:61 | Şe'n (İnsanı veya İlahi İdareyi Meşgul Eden Önemli İş, Yönelim ve Somut Durum) | ✅ **MÜHÜRLÜ** |
-| 13 | Sure %100 Kilidi | 1047 | `ع-ب-س` | `A-B-S` | **3** | 3 | 74:22 | Abese ve Abûs (Sure 80 Abese + Sure 74 Müddessir ortak kilidi + 3 geçiş: 74:22, 76:10, 80:1 yüzünü buruşturup kaşlarını çatmak) | ⏳ *Bekliyor* |
+| 13 | Sure %100 Kilidi | 1047 | `ع-ب-س` | `A-B-S` | **3** | 3 | 74:22 | Ubûs ve Abûs (Hoşnutsuzluk ve Sıkıntıyla Kaşların Çatılıp Yüzün Asılması) | ✅ **MÜHÜRLÜ** |
 | 14 | Sure %100 Kilidi | 1026 | `ح-د-ق` | `H-D-K` | **3** | 3 | 27:60 | Hadâik (Sure 80 Abese kilidi + 3 geçiş: 27:60, 78:32, 80:30 etrafı duvar/çitle çevrili bol ağaçlı bahçeler) | ⏳ *Bekliyor* |
 | 15 | Sure %100 Kilidi | 1114 | `ص-د-ي` | `S-D-Y` | **2** | 2 | 8:35 | Tesaddâ ve Tasdiye (Sure 80 Abese kilidi + 2 geçiş: 8:35, 80:6 ses/el çırpma ve birine özellikle yüzünü çevirip yönelmek) | ⏳ *Bekliyor* |
 | 16 | Sure %100 Kilidi | 1594 | `أ-ب-ب` | `E-B-B` | **1** | 1 | 80:31 | Ebb (Sure 80 Abese kilidi: 80:31 hayvanların otlaması için yerden biten taze mera bitkisi) | ⏳ *Bekliyor* |

@@ -59827,5 +59827,58 @@
       }
     ],
     "context_default": "Önemli iş, yönelim ve meşgul edici somut durum bağlamı"
+  },
+  "ع-ب-س": {
+    "buckwalter": "Ebs",
+    "slug": "ebs",
+    "concept_name": "Ubûs ve Abûs (Hoşnutsuzluk ve Sıkıntıyla Kaşların Çatılıp Yüzün Asılması)",
+    "root_latin": "E-B-S",
+    "keywords": [
+      "ubus",
+      "abus",
+      "yuz asmak",
+      "kas catmak",
+      "hosnutsuzluk",
+      "cetinkeskin gun"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Eabasa",
+        "ayahs": [
+          "74:22",
+          "80:1"
+        ],
+        "label": "Form I mâzî fiil (`عَبَسَ` — hoşnutsuzluk, daralma veya öfkeyle kaşlarını çatıp yüzünü asmak; 2 geçiş)"
+      },
+      {
+        "lemma": "Eabuws",
+        "ayahs": [
+          "76:10"
+        ],
+        "label": "Fa'ûl mübalağa sıfatı (`يَوْمًا عَبُوسًا قَمْطَرِيرًا` — dehşeti yüzleri çatıp ekşiten, alabildiğine çetin ve asık yüzlü gün; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Hoşnutsuzluk ve daralmayla kaşların çatılıp yüzün asılmasını bildiren `ع-ب-س` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "74:22"
+        ],
+        "text": "Kibirli Direncin Yüz İfadesi (`74:22`): Hakikate karşı plan kurup kasılan kişinin `ثُمَّ عَبَسَ وَبَسَرَ` diyerek yüzünü asıp suratını ekşitmesi."
+      },
+      {
+        "ayahs": [
+          "76:10"
+        ],
+        "text": "Çetin ve Yüzleri Çatan Gün (`76:10`): İyilerin korktuğu, dehşetinden yüzleri çatıp karartan son derece sert gün (`يَوْمًا عَبُوسًا قَمْطَرِيرًا`)."
+      },
+      {
+        "ayahs": [
+          "80:1"
+        ],
+        "text": "Anlık Yüz Asma ve Dönüş Uyarısı (`80:1`): Görme engelli samimi arayıcı geldiğinde `عَبَسَ وَتَوَلَّىٰٓ` diyerek yüzünü asıp dönen tavra yöneltilen açık ilahi ikaz."
+      }
+    ],
+    "context_default": "Hoşnutsuzluk ve sıkıntıyla kaşların çatılıp yüzün asılması bağlamı"
   }
 }

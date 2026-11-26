@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (62/50 — Toplam 862 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (63/50 — Toplam 863 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -71675,7 +71675,8 @@
       "mesani_opposite": {
         "roots": [
           "ب-ك-ي (Ağlamak ve gözyaşı dökmek ↔ ض-ح-ك gülmek — `9:82`, `53:43`, `53:60` aynı ayet zıtlığı)",
-          "ح-ز-ن (İçin sıkışması ve keder ↔ ض-ح-ك yüzün sevinçle açılıp gülmesi)"
+          "ح-ز-ن (İçin sıkışması ve keder ↔ ض-ح-ك yüzün sevinçle açılıp gülmesi)",
+          "ع-ب-س (Ubûs: hoşnutsuzluk ve daralmayla kaş çatıp yüzü asmak ↔ ض-ح-ك yüzün sevinçle açılıp gülmesi — `80:1` ↔ `80:39`)"
         ],
         "bidirectional_test": "Gülmenin (`ض-ح-ك`) Kur'an içi doğrudan Mesânî zıddı `9:82`, `53:43` ve `53:60`'da bizzat eşleştirilen ağlamaktır (`ب-ك-ي`); duygu kutbunda ise keder (`ح-ز-ن`) onun karşıtıdır."
       },
@@ -72552,6 +72553,88 @@
             "24:62",
             "55:29",
             "80:37"
+          ]
+        }
+      ]
+    },
+    "ع-ب-س": {
+      "root_latin": "E-B-S",
+      "arabic": "ع-ب-س",
+      "rank": 1047,
+      "morphology_and_rasm": {
+        "buckwalter": "Ebs",
+        "rasm_skeleton": "عبس (harekesiz iskelet; عبس / عبوسا biçimleriyle 3 kez)",
+        "approx_frequency": "3 geçiş / 3 ayet (2x Form I mâzî fiil `عَبَسَ`, 1x mübalağa sıfatı `عَبُوسًا`)",
+        "verb_forms_used": [
+          "Form I (`عَبَسَ` — 2 geçiş: `74:22`, `80:1`)"
+        ],
+        "noun_forms_used": [
+          "عَبُوس (fa'ûl kalıbında mübalağa sıfatı — 1 geçiş: `76:10`; yüzleri çatıp ekşiten çetin gün)"
+        ],
+        "preposition_patterns": [
+          "عَبَسَ وَبَسَرَ (`74:22`: yüzünü astı ve suratını büsbütün ekşitti)",
+          "عَبَسَ وَتَوَلَّىٰٓ (`80:1`: yüzünü astı ve sırtını döndü)"
+        ]
+      },
+      "physical_core": "İki kaş arasındaki derinin gerilip büzüşmesi, hoşnutsuzluk, daralma veya öfke nedeniyle yüzün çatılıp asılması.",
+      "ibn_faris_asl": "(عَبَسَ) الْعَيْنُ وَالْبَاءُ وَالسِّينُ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى تَكَرُّهٍ فِي شَيْءٍ. وَاشْتُقَّ مِنْهُ عَبَسَ الرَّجُلُ يَعْبِسُ عُبُوسًا. [Mu'cemü Mekâyîsi'l-Luğa, c. 4, s. 210–211, عبس maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ع-ب-س` kökünü tek ve sahih bir asla indirger: 'bir şeyden hoşlanmama ve tiksinme/daralma' (`تكره في شيء`); insanın yüzünü asması (`عَبَسَ عُبُوسًا`) bu iç hoşnutsuzluğun dışa vurumudur.",
+        "lisan_al_arab": "İbn Manzûr `عَبَسَ وَجْهُهُ` ifadesinin 'iki gözünün arasını büzüp kaşlarını çatması' (`كلح وقطب ما بين عينيه`), `يَوْمٌ عَبُوسٌ` (`76:10`) kullanımının ise dehşet ve şiddetinden insanların yüzünü çattırdığı gün olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `74:22`'deki `عَبَسَ وَبَسَرَ` ardışıklığına dikkat çekerek `عَبَسَ`'in kaş çatma/yüz asma başlangıcı, `بَسَرَ`'in ise yüzün renginin ve hattının iyice ekşiyip kararması olduğunu ayırt eder.",
+        "verdict": "Tüm 3 geçiş **'hoşnutsuzluk, daralma veya şiddet karşısında kaşların çatılıp yüzün büzüşerek asılması'** somut mimik çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Doğrudan Sâmî ön-kökü kesinleştirilememiştir.",
+        "hebrew": "İbranicede doğrudan eşkökenli doğrulanamadı.",
+        "aramaic_syriac": "Aramice/Süryanicede doğrudan eşkökenli doğrulanamadı.",
+        "akkadian": "Akadcada doğrudan eşkökenli doğrulanamadı.",
+        "comparative_note": "Klasik Arapçada `ع-ب-س`, yüzdeki iki kaş arasının büzüşüp gerilmesini betimleyen son derece keskin bir duyusal fiildir; `76:10`'da günün kendisinin `عَبُوسًا` diye nitelenmesi, yaşanan zorluğun yüzlerde yarattığı etkiyi doğrudan güne yükleyen canlı bir anlatımdır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ن-ض-ر (Yüzün taze parlaklık ve ferahlıkla ışıldaması ↔ ع-ب-س yüzün hoşnutsuzlukla çatılıp asılması)",
+          "ض-ح-ك (Yüzün sevinçle açılıp gülmesi ↔ ع-ب-س kaşların çatılıp yüzün büzüşmesi — `80:1` ↔ `80:39`)"
+        ],
+        "bidirectional_test": "Yüzün hoşnutsuzlukla büzüşüp asılması (`ع-ب-س`) tersine çevrildiğinde yüzün ferahlıkla açılıp gülmesi (`ض-ح-ك`) ve taze parlaklıkla ışıldaması (`ن-ض-ر`) ortaya çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ب-س-ر",
+          "و-ل-ي",
+          "ق-م-ط-ر"
+        ],
+        "analysis": "`74:22`'de `عَبَسَ` (kaş çatıp yüz asma) ile `بَسَرَ` (yüzün renginin ve çizgilerinin büsbütün ekşiyip kararması) yoğunluk derecesiyle ayrılır. `80:1`'de `عَبَسَ` (yüzdeki ilk tepki) hemen `تَوَلَّىٰٓ` (bedenle sırtını dönüp uzaklaşma) ile birleşir. `76:10`'da `عَبُوسًا` (çatık yüzlü) ve `قَمْطَرِيرًا` (büzüştürücü/alabildiğine çetin) şiddeti pekiştirir."
+      },
+      "anchor_ayahs": [
+        "80:1 (عَبَسَ وَتَوَلَّىٰٓ — yüzünü astı ve döndü)",
+        "74:22 (ثُمَّ عَبَسَ وَبَسَرَ — sonra kaşlarını çattı ve suratını büsbütün ekşitti)",
+        "76:10 (إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا — biz Rabbimizden, yüzleri çatıp büzen o çetin günden korkarız)"
+      ],
+      "unified_core_mechanism": "`ع-ب-س` kökü 3 geçişinde **'hoşnutsuzluk, kibir veya dehşet karşısında kaşların çatılıp yüzün büzüşerek asılması'** fiziksel çekirdeğini işletir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Form I Mâzî Fiil (`عَبَسَ` — `74:22`, `80:1`): Kişinin somut yüz asma hareketi.",
+          "Dal 2 — Mübalağa Sıfatı (`عَبُوسًا` — `76:10`): `يَوْمًا` mef'ûlünün birinci sıfatı olarak mansûb."
+        ],
+        "irab_notes": "`74:22` ve `80:1`'de lâzım mâzî fiildir; `76:10`'da `عَبُوسًا`, `قَمْطَرِيرًا` ile birlikte `يَوْمًا`'nın mansûb sıfatıdır."
+      },
+      "derivatives": [
+        {
+          "form": "عَبَسَ",
+          "pos": "Fiil (Form I)",
+          "meaning": "Kaşlarını çatıp yüzünü asmak",
+          "examples": [
+            "74:22",
+            "80:1"
+          ]
+        },
+        {
+          "form": "عَبُوسًا",
+          "pos": "Sıfat (Fa'ûl)",
+          "meaning": "Yüzleri çatıp ekşiten, alabildiğine sert ve çetin",
+          "examples": [
+            "76:10"
           ]
         }
       ]
