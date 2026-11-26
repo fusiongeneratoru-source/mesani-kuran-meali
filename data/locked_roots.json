@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (46/50 — Toplam 846 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (47/50 — Toplam 847 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -39194,7 +39194,8 @@
           "س-ن-د (S-N-D (snd) — Çift Yönlü Mesânî Karşılığı: kökünü derine salarak kendi yerinde sarsılmaz biçimde sabitlenmek `ثَابِت` ↔ yeri ve kökü olmayıp dış desteğe dayandırılmış kalmak `مُّسَنَّدَةٌ`)",
           "ص-غ-و (S-G-W (Sgw) — Çift Yönlü Mesânî Karşılığı: kalbin hakikat ekseninde sarsılmadan sabit kalması `ثَبَتَ` ↔ süslü sözlere veya yanlış tutuma doğru kayıp meyletmesi `صَغَتْ قُلُوبُكُمَا`)",
           "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: yerinden oynatıp harekete geçirmek `أَثَارَ` ↔ yerinden kımıldamadan sabit kalmak `ثَبَتَ`)",
-          "د-ك-ك (Dekk: yüksek kütlelerin darbeyle ezilip dümdüz edilmesi ↔ ث-ب-ت sarsılmadan yerinde sağlamca sabit durmak)"
+          "د-ك-ك (Dekk: yüksek kütlelerin darbeyle ezilip dümdüz edilmesi ↔ ث-ب-ت sarsılmadan yerinde sağlamca sabit durmak)",
+          "س-ح-ب (Sahb/Sehâb: dış kuvvetle veya rüzgârla çekilip sürüklenmek ↔ ث-ب-ت kendi yerinde sağlamca sabit durmak)"
         ],
         "key_ayahs": [
           "2:250",
@@ -39909,7 +39910,8 @@
           "ض-ب-ح (D-B-H (DbH) — Çift Yönlü Mesânî Karşılığı: `100:1` [وَٱلْعَٰدِيَٰتِ ضَبْحًا] — nefes nefese soluyarak hızla ileri atılmak `ضَبْحًا` ↔ yerinden kımıldamadan sabitçe yerleşip durmak `قَرَّ`)",
           "ن-ق-ع (N-K-A (nqE) — Çift Yönlü Mesânî Karşılığı: `100:4` [فَأَثَرْنَ بِهِۦ نَقْعًا] — hızla koparılıp göğe savrulan yoğun toz kütlesi `نَقْعًا` ↔ savrulmadan zeminde dingin ve sabitçe yerleşip oturmak `قَرَّ`)",
           "ج-ح-د (J-H-D (jHd) — Çift Yönlü Mesânî Karşılığı: `27:14`, `29:49` — bilinen hakkı açıkça tanıyıp onaylamak `إِقْرَار` ↔ bilinen hakkı bile bile reddedip yadsımak `جُحُود / جَحَدُوا۟`)",
-          "س-ر-ي (Sery/İsrâ: geceleyin harekete geçip yol almak ↔ ق-ر-ر tek bir mekânda yerleşik ve sabit kalmak)"
+          "س-ر-ي (Sery/İsrâ: geceleyin harekete geçip yol almak ↔ ق-ر-ر tek bir mekânda yerleşik ve sabit kalmak)",
+          "س-ح-ب (Sahb/Sehâb: sürüklenip akıp gitmek ↔ ق-ر-ر bir konumda yerleşip hareketsiz kalmak)"
         ],
         "key_ayahs": [
           "2:36",
@@ -71234,6 +71236,95 @@
           "meaning": "Üstü kapalı, belirsiz ve kafa karıştıran bulanık durum",
           "examples": [
             "10:71"
+          ]
+        }
+      ]
+    },
+    "س-ح-ب": {
+      "root_latin": "S-H-B",
+      "arabic": "س-ح-ب",
+      "rank": 548,
+      "morphology_and_rasm": {
+        "buckwalter": "sHb",
+        "rasm_skeleton": "سحب (harekesiz iskelet; السحاب / سحابا / سحاب / يسحبون biçimleriyle 11 kez)",
+        "approx_frequency": "11 geçiş / 11 ayet (2x Form I meçhul يُسْحَبُونَ `40:71`, `54:48`, 9x cins ismi سَحَاب)",
+        "verb_forms_used": [
+          "Form I meçhul (يُسْحَبُونَ — 2 geçiş: `40:71`, `54:48`)"
+        ],
+        "noun_forms_used": [
+          "سَحَاب (9 geçiş: `2:164`, `7:57`, `13:12`, `24:40`, `24:43`, `27:88`, `30:48`, `35:9`, `52:44` — rüzgârla sürüklenen bulut)"
+        ],
+        "preposition_patterns": [
+          "يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ (`54:48`: yüzüstü sürüklenmek)",
+          "تَمُرُّ مَرَّ ٱلسَّحَابِ (`27:88`: dağların bulutların sürüklenip geçişi gibi akması)"
+        ]
+      },
+      "physical_core": "Yayılı veya ağır bir kütleyi yüzey boyunca çekip sürüklemek (`سَحَبَ`); buradan rüzgârların gökyüzünde sürükleyip yürüttüğü yağmur yüklü bulut (`سَحَاب`).",
+      "ibn_faris_asl": "(سَحَبَ) السِّينُ وَالْحَاءُ وَالْبَاءُ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى جَرِّ شَيْءٍ مَبْسُوطٍ وَمَدِّهِ؛ يُقَالُ سَحَبْتُ الذَّيْلَ أَسْحَبُهُ سَحْبًا، وَالسَّحَابُ مُشْتَقٌّ مِنْ ذَلِكَ لِأَنَّ الرِّيَاحَ تَسْحَبُهُ أَوْ لِانْسِحَابِهِ فِي الْهَوَاءِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 3, s. 142–143, سحب maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris kökü tek sahih asla bağlar: 'yayılı bir şeyi çekip sürüklemek ve uzatmak' (`جر شيء مبسوط ومده`). Bulutun `سَحَاب` adını rüzgârlar tarafından gökte sürüklenip çekilmesinden aldığını belirtir.",
+        "lisan_al_arab": "İbn Manzûr `سَحَبَ` fiilinin yerde etek veya ağır yük sürüklemek olduğunu, `يُسْحَبُونَ` (`40:71`, `54:48`) ifadesinin ise zincirlerle/yüzüstü zorla çekilip sürüklenmeyi anlattığını kaydeder.",
+        "ragib_al_isfahani": "Râgıb `سَحَاب`'ın (sürüklenen yağmur bulutu) Kur'an'da rüzgârlar (`رِيَاح`) ve su çevrimiyle kopmaz biçimde eşleştiğini vurgular.",
+        "verdict": "Tüm 11 geçiş **'çekip sürükleme ve rüzgârla sürüklenen dinamik bulut'** çekirdeğinde birleşir; kavram deposunda `ص-ح-ب` (`shb`) kökünden `shb_sahab` etiketiyle ayrıştırılmıştır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*sḥb ('çekmek, yerde sürüklemek')",
+        "hebrew": "İbranice סָחַב (sāḥaḇ: yerde çekip sürüklemek — Yeremya 22:19, 2. Samuel 17:13) ile birebir kökteştir.",
+        "aramaic_syriac": "Aramice/Süryanice ܣܚܒ (sḥaḇ: çekip sürüklemek) doğrudan kökteştir.",
+        "akkadian": "Akkadca saḫāpu ('bastırmak/örtmek') ile fonetik yakınlık tartışılsa da Batı Sâmî *sḥb ('çekip sürüklemek') Arapçayla tam örtüşür.",
+        "comparative_note": "Arapçada `س-ح-ب` (`sHb`: sürüklemek / bulut) ile `ص-ح-ب` (`SHb`: arkadaş/eşlik etmek) arasındaki `س` ↔ `ص` farkı iki bütünüyle ayrı kökü ayırır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ث-ب-ت (Kendi yerinde sağlamca sabit durmak ↔ س-ح-ب dış kuvvetle veya rüzgârla çekilip sürüklenmek — `27:88`, `40:71`)",
+          "ق-ر-ر (Bir konumda yerleşip hareketsiz kalmak ↔ س-ح-ب gökte veya yüzeyde sürüklenip akmak — `27:88`)"
+        ],
+        "bidirectional_test": "Rüzgâr veya zincirle çekilip sürüklenmek (`س-ح-ب`) tersine çevrildiğinde sabit duruş (`ث-ب-ت`) ve hareketsiz yerleşim (`ق-ر-ر`) ortaya çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "غ-م-م",
+          "ب-ر-ق",
+          "ر-و-ح",
+          "ث-ق-ل"
+        ],
+        "analysis": "`سَحَاب` (`س-ح-ب`: rüzgârların gökte sürüklediği ağır yağmur bulutu — `7:57`, `13:12`) ile `غَمَام` (`غ-م-م`: güneşi örten beyaz gölgelik bulut tabakası) arasındaki Furûk son derece berraktır. `27:88`'de donuk/sabit (`جَامِدَة`) sanılan dağların aslında `سَحَاب` (sürüklenip akan bulut) gibi sürekli hareket hâlinde olduğu vurgulanır."
+      },
+      "anchor_ayahs": [
+        "2:164 (وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ — ve gök ile yer arasında yasaya boyun eğdirilip sürüklenen bulutlarda)",
+        "27:88 (وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ — dağları görür, onları yerlerinde donuk/sabit sanırsın; oysa onlar bulutların sürüklenip geçişi gibi akıp gitmektedir)",
+        "40:71 (إِذِ ٱلْأَغْلَٰلُ فِىٓ أَعْنَٰقِهِمْ وَٱلسَّلَٰسِلُ يُسْحَبُونَ — boyunlarında halkalar ve zincirler olduğu hâlde sürüklenecekleri zaman)",
+        "54:48 (يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ — yüzüstü ateşte sürüklenecekleri gün)"
+      ],
+      "unified_core_mechanism": "`س-ح-ب` kökü 11 geçişinin tamamında **'yüzey boyunca çekip sürüklenme'** fiziksel yasasını gökteki yağmur bulutlarının rüzgârla sevkinde (`سَحَاب`, 9x) ve kibirli zorbaların sürüklenişinde (`يُسْحَبُونَ`, 2x) tutarlıca işletir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Rüzgârla Sürüklenen Bulut (`سَحَاب` — 9 geçiş): Meteorolojik su döngüsü ve kozmik devinim imgesi.",
+          "Dal 2 — Zorla Sürüklenme (Form I meçhul `يُسْحَبُونَ` — `40:71`, `54:48`): Zincirle ve yüzüstü sürüklenme."
+        ],
+        "irab_notes": "`يُسْحَبُونَ` (`40:71`, `54:48`) merfû meçhul muzâri; `سَحَابًا` (`7:57`, `13:12`, `24:43`, `30:48`, `35:9`) sevk/inşâ fiillerinin mef'ûlü olarak mansûbtur."
+      },
+      "derivatives": [
+        {
+          "form": "سَحَاب",
+          "pos": "İsim (Cins İsmi)",
+          "meaning": "Rüzgârla gökte sürüklenen yağmur/fırtına bulutu",
+          "examples": [
+            "2:164",
+            "7:57",
+            "13:12",
+            "24:43",
+            "27:88",
+            "30:48"
+          ]
+        },
+        {
+          "form": "يُسْحَبُونَ",
+          "pos": "Fiil (Form I meçhul)",
+          "meaning": "Çekilip sürüklenmek",
+          "examples": [
+            "40:71",
+            "54:48"
           ]
         }
       ]

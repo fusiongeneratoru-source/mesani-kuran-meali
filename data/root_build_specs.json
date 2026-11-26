@@ -58987,5 +58987,74 @@
       }
     ],
     "context_default": "Üstünü bütünüyle örtme: gölgelik bulut, boğucu keder ve bulanık belirsizlik bağlamı"
+  },
+  "س-ح-ب": {
+    "buckwalter": "sHb",
+    "slug": "shb_sahab",
+    "concept_name": "Sahb ve Sehâb (Yüzey Boyunca Çekip Sürüklemek ve Rüzgârla Sürüklenen Yağmur Bulutu)",
+    "root_latin": "S-H-B",
+    "keywords": [
+      "sahb",
+      "sehab",
+      "suruklemek",
+      "bulut",
+      "yagmur bulutu",
+      "daglarin akisi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "saHaAb",
+        "ayahs": [
+          "2:164",
+          "7:57",
+          "13:12",
+          "24:40",
+          "24:43",
+          "27:88",
+          "30:48",
+          "35:9",
+          "52:44"
+        ],
+        "label": "Cins ismi (`سَحَاب / ٱلسَّحَاب` — rüzgârların gökyüzünde çekip sürüklediği yağmur yüklü bulut; 9 geçiş)"
+      },
+      {
+        "lemma": "yusoHabu",
+        "ayahs": [
+          "40:71",
+          "54:48"
+        ],
+        "label": "Form I meçhul muzâri fiil (`يُسْحَبُونَ` — zincirlerle veya yüzüstü çekilip sürüklenmek; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Çekip sürüklemeyi ve rüzgârla sürüklenen bulutu bildiren `س-ح-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:164",
+          "7:57",
+          "13:12",
+          "24:43",
+          "30:48",
+          "35:9"
+        ],
+        "text": "Rüzgârla Sevk Edilen Yağmur Bulutları (`2:164`, `7:57`, `13:12`, `24:43`, `30:48`, `35:9`): Ölü toprağı diriltmek üzere rüzgârların gökte sürükleyip birleştirdiği ağır bulutlar."
+      },
+      {
+        "ayahs": [
+          "24:40",
+          "27:88",
+          "52:44"
+        ],
+        "text": "Karanlık Katman ve Kozmik Hareket Benzetmesi (`24:40`, `27:88`, `52:44`): Derin deniz üstündeki karanlık bulut (`24:40`), sabit sanılan dağların bulut gibi akışı (`27:88`) ve üst üste yığılmış bulut bahanesi (`52:44`)."
+      },
+      {
+        "ayahs": [
+          "40:71",
+          "54:48"
+        ],
+        "text": "Kibirli Zorbaların Yüzüstü/Zincirle Sürüklenmesi (`40:71`, `54:48`): Gerçeğe karşı kibirlenenlerin boyunlarında zincirlerle ve yüzüstü sürüklenmeleri (`يُسْحَبُونَ`)."
+      }
+    ],
+    "context_default": "Çekip sürükleme hareketi ve rüzgârla sürüklenen bulut bağlamı"
   }
 }
