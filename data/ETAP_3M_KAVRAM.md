@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 46 / 50 Kök (Toplam Mühürlü: 896 Kök | Güncel Kapsam: %96,24)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 47 / 50 Kök (Toplam Mühürlü: 897 Kök | Güncel Kapsam: %96,26)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -53,7 +53,7 @@
 | 44 | Yüksek Frekanslı Çekirdek | 581 | `ط-و-ل` | `T-W-L` | **10** | 10 | 4:25 | Tûl, Tavl ve Tavîl (Boyca, Zamanca ve İmkânca Uzayıp Genişlemek — Uzunluk, Süre Uzaması ve Geniş Lütuf/Varlık) | ✅ **MÜHÜRLÜ** |
 | 45 | Yüksek Frekanslı Çekirdek | 568 | `د-م-و` | `D-M-W` | **10** | 10 | 2:30 | Dem ve Dimâ' (Damarlarda Akan Canlılık Sıvısı Olan Kan — Kan Dökmekten Kaçınma ve Beslenme Sınırı) | ✅ **MÜHÜRLÜ** |
 | 46 | Yüksek Frekanslı Çekirdek | 583 | `ج-ب-ر` | `C-B-R` | **10** | 10 | 5:22 | Cebbâr (Kırığı Onarıp Doğrultan Mutlak Yücelik ve Haksızca Tepeden Bakan Zorbalık/Dayatmacılık) | ✅ **MÜHÜRLÜ** |
-| 47 | Yüksek Frekanslı Çekirdek | 594 | `ج-د-د` | `C-D-D` | **10** | 10 | 13:5 | Cedîd, Cüded ve Cedd (10 geçiş: 13:5, 17:49, 17:98, 32:10, 34:7, 35:16, 35:27, 50:15, 72:3 yeni/taze yaratılış, dağlardaki yol çizgileri ve yüce azamet) | ⏳ *Bekliyor* |
+| 47 | Yüksek Frekanslı Çekirdek | 594 | `ج-د-د` | `C-D-D` | **10** | 10 | 13:5 | Cedîd, Cüded ve Cedd (Tezgahtan Yeni Kesilmişçesine Yeni Yaratılış, Dağ Şeritleri/Yolları ve Yüce Azamet) | ✅ **MÜHÜRLÜ** |
 | 48 | Yüksek Frekanslı Çekirdek | 575 | `ز-ي-ل` | `Z-Y-L` | **10** | 10 | 2:217 | Lâ Yezâlü ve Tezeyyele (10 geçiş: 2:217, 5:13, 11:118, 13:31, 15:60, 21:15, 35:41, 48:25 ayrılıp kopmak ve olumsuzuyla kesintisiz sürmek) | ⏳ *Bekliyor* |
 | 49 | Yüksek Frekanslı Çekirdek | 580 | `م-ل-و` | `M-L-W` | **10** | 9 | 3:178 | İmlâ ve Meliyy (10 geçiş: 2:282, 3:178, 7:183, 13:32, 19:46, 22:44, 22:48, 25:5, 47:25, 68:45 ipi/süreyi uzatmak, mühlet vermek ve yazdırıp dikte ettirmek) | ⏳ *Bekliyor* |
 | 50 | Yüksek Frekanslı Çekirdek | 578 | `م-أ-ي` | `M-E-Y` | **10** | 7 | 2:259 | Mi'e ve Mi'eteyn (10 geçiş | 1M: 2:259, 2:261, 8:65, 8:66, 18:25, 24:2, 37:147 yüz sayısı ve iki yüz — ≥10 geçişli açık kök 0 & 900. Kök!) | ⏳ *Bekliyor* |

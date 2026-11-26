@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (96/50 — Toplam 896 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (97/50 — Toplam 897 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -24789,7 +24789,8 @@
           "س-و-أ (س-و-أ ↔ ب-ل-و Mesânî simetrisi)",
           "ش-ر-ر (ش-ر-ر ↔ ب-ل-و Mesânî simetrisi)",
           "م-ل-ك (م-ل-ك ↔ ب-ل-و Mesânî simetrisi)",
-          "خ-ل-د (خ-ل-د ↔ ب-ل-و Mesânî simetrisi)"
+          "خ-ل-د (خ-ل-د ↔ ب-ل-و Mesânî simetrisi)",
+          "ج-د-د (Cedîd: yepyeni bir yaratılışla tazelenmek ↔ ب-ل-و eskiyip yıpranmak — `17:49`, `50:15`)"
         ],
         "key_ayahs": [
           "21:35 & 7:168 & 89:15-16 (İyilik-kötülük ve bolluk-darlık ikilisiyle tarafsız sınama yasası)",
@@ -38768,7 +38769,8 @@
           "ن-ص-ي [فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ] (Başın Ön Üst Tepesi / Alın Perçemi ↔ Bedenin En Alt Dayanağı Olan Ayaklar: 55:41)",
           "ر-أ-س (ر-أ-س ↔ ق-د-م Mesânî simetrisi)",
           "غ-د-و (غ-د-و ↔ ق-د-م Mesânî simetrisi)",
-          "ت-ر-ق (Terâkî: bedenin üst göğüs/boğaz sınırındaki köprücük kemikleri ↔ ق-د-م bedenin yere basan en alt ucu olan ayaklar)"
+          "ت-ر-ق (Terâkî: bedenin üst göğüs/boğaz sınırındaki köprücük kemikleri ↔ ق-د-م bedenin yere basan en alt ucu olan ayaklar)",
+          "ج-د-د (Cedîd: yepyeni, henüz taze olan ↔ ق-د-م eskiden beri süregelen, kadim — `50:15`)"
         ],
         "key_ayahs": [
           "2:95",
@@ -75193,6 +75195,101 @@
             "19:14",
             "28:19",
             "40:35"
+          ]
+        }
+      ]
+    },
+    "ج-د-د": {
+      "root_latin": "J-D-D",
+      "arabic": "ج-د-د",
+      "rank": 594,
+      "morphology_and_rasm": {
+        "buckwalter": "jdd",
+        "rasm_skeleton": "جدد (harekesiz iskelet; جديد / جديدا / جدد / جد biçimleriyle 10 kez)",
+        "approx_frequency": "10 geçiş / 10 ayet (8x `جَدِيد`, 1x `جُدَدٌۢ`, 1x `جَدُّ`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "جَدِيد (sıfat-ı müşebbehe — 8 geçiş: `13:5`, `14:19`, `17:49`, `17:98`, `32:10`, `34:7`, `35:16`, `50:15`; her zaman `خَلْق` sıfatı)",
+          "جُدَدٌۢ (kırık çoğul isim, tekili `جُدَّة` — 1 geçiş: `35:27`; dağlardaki renkli katman şeritleri/yolları)",
+          "جَدُّ (isim — 1 geçiş: `72:3`; yüce şan, azamet)"
+        ],
+        "preposition_patterns": [
+          "فِى خَلْقٍ جَدِيدٍ / بِخَلْقٍ جَدِيدٍ (`13:5`, `14:19`, `32:10`, `34:7`, `35:16`, `50:15`: yeni yaratılış içinde / yeni bir yaratılışla)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in üç klasik asılla özetlediği somut kök: (1) 'yücelik ve azamet' (`العظمة` → `جَدُّ رَبِّنَا`, `72:3`), (2) 'pay/nasip' (`الحظ`) ve (3) 'kesmek / şerit hâlinde ayırmak' (`القطع` → dokuma tezgahından yeni kesilip indirilmiş kumaş gibi yepyeni `جَدِيد` ve dağ yamacında keskin çizgi/şerit gibi uzanan katman/yol `جُدَّة / جُدَد`).",
+      "ibn_faris_asl": "(جَدَّ) الْجِيمُ وَالدَّالُ أُصُولٌ ثَلَاثَةٌ: الْأَوَّلُ الْعَظَمَةُ، وَالثَّانِي الْحَظُّ، وَالثَّالِثُ الْقَطْعُ. [Mu'cemü Mekâyîsi'l-Luğa, c. 1, باب ما جاء من كلام العرب في المضاعف, جد maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ج-د-د` kökünü üç asla ayırır ve Kur'an'daki üç türevin tamamı bunlara tam oturur: `جَدُّ رَبِّنَا` (`72:3`) doğrudan birinci asıl ('azamet/yücelik'), `جَدِيد` (8 ayet) ve `جُدَد` (`35:27`) ise üçüncü asıl ('kesmek/şerit ayırmak' — tezgâhtan yeni kesilmiş olan `جَدِيد` ve dağda çizgi gibi kesilip uzanan renkli şerit `جُدَّة`) altındadır.",
+        "lisan_al_arab": "İbn Manzûr `الْجُدَّةُ` kelimesinin 'dağda veya sırtta rengi çevre kayasından ayrılan uzun şerit/yol' (`الطَّرِيقَةُ وَالْخُطَّةُ فِي الْجَبَلِ`) olduğunu, çoğulunun `جُدَد` (`35:27`) geldiğini; `جَدِيد`'in ise `خَلَق` (eskimiş) zıddı olarak 'yeni kesilmiş/yepyeni' anlamını taşıdığını kaydeder.",
+        "ragib_al_isfahani": "Râgıb Kur'an'da `جَدِيد` sıfatının sekiz geçişin sekizinde de yalnızca `خَلْق` (yaratılış) kelimesine bağlandığına dikkat çeker: insan aklının 'eskimiş kemiklerden yeni yaratılış' karşısındaki şaşkınlığı `50:15`'te ilk yaratılışla (`ٱلْخَلْقِ ٱلْأَوَّلِ`) kesin çözüme kavuşturulur.",
+        "verdict": "Tüm 10 geçiş İbn Fâris'in asıllarıyla birebir örtüşür: 8x **'yeni yaratılış (`خَلْق جَدِيد`)'**, 1x **'dağlardaki renkli katman şeritleri (`جُدَد`)'** ve 1x **'Rabb'in yüce azameti (`جَدُّ`)'**."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*g-d-d ('kesmek, ayırmak' ve 'talih/yücelik' ekseni)",
+        "hebrew": "İbranice gādad ('kesmek, çizmek') ve gād ('talih, ululuk') kök paralelliği taşır.",
+        "aramaic_syriac": "Aramice/Süryanice gədad ('kesmek, biçmek') ve gaddā ('talih, şan') doğrudan eşkökenlidir.",
+        "akkadian": "Akadca gadādu ('kesmek, doğramak') 'kesme' ekseninde eşkökenlidir.",
+        "comparative_note": "Sâmî dillerde 'kesmek' anlamından Arapçada hem 'tezgâhtan yeni kesilmiş' (`جَدِيد` = yeni) hem de 'dağ yüzeyinde şerit gibi kesilip ayrılmış katman' (`جُدَد`, `35:27`) türemiş; 'ululuk/şan' ekseni de `72:3` `جَدُّ رَبِّنَا`'da korunmuştur."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ق-د-م (Eski ve önceki olan ↔ ج-د-د yepyeni olan — `50:15` `بِٱلْخَلْقِ ٱلْأَوَّلِ ... مِّنْ خَلْقٍ جَدِيدٍ`)",
+          "ب-ل-و (Eskiyip yıpranmak ↔ ج-د-د yepyeni bir yaratılışla tazelenmek)"
+        ],
+        "bidirectional_test": "`50:15` ilk yaratılış (`ٱلْخَلْقِ ٱلْأَوَّلِ`) ile yeni yaratılışı (`خَلْقٍ جَدِيدٍ`) yan yana koyar; genel eksende `جَدِيد` (yeni) eskime ve yıpranmanın (`ق-د-م`, `ب-ل-و`) zıddıdır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "خ-ل-ق",
+          "أ-و-ل",
+          "ل-و-ن",
+          "ع-ل-و"
+        ],
+        "analysis": "`50:15`'te `ٱلْخَلْقِ ٱلْأَوَّلِ` (ilk yaratılış) ↔ `خَلْقٍ جَدِيدٍ` (yeni yaratılış) mantıksal bir kıyas kurar. `35:27`'de ise `جُدَدٌۢ بِيضٌ وَحُمْرٌ ... وَغَرَابِيبُ سُودٌ` jeolojik renk katmanlarını suyun indirilmesi ve meyve çeşitliliğiyle aynı ayette birleştirir."
+      },
+      "anchor_ayahs": [
+        "50:15 (أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ — ilk yaratışta yorulup aciz mi kaldık? Hayır, onlar yeni bir yaratılıştan kuşku içindedirler)",
+        "14:19 (إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ — dilerse sizi giderir ve yepyeni bir yaratılış/nesil getirir)",
+        "35:27 (وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌ — dağlarda da renkleri farklı beyaz, kırmızı ve simsiyah şeritler/katmanlar vardır)",
+        "72:3 (وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةً وَلَا وَلَدًا — doğrusu Rabbimizin yüce şanı ve azameti pek yüksektir; O ne bir eş ne de bir çocuk edinmiştir)"
+      ],
+      "unified_core_mechanism": "`ج-د-د` kökü 10 geçişinde İbn Fâris'in asıllarına uygun biçimde **'yeni yaratılış (`جَدِيد` 8x), dağlardaki renkli katman şeritleri (`جُدَد` 1x) ve Rabb'in yüce azameti (`جَدُّ` 1x)'** anlamlarını taşır.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Yeni Yaratılış Sıfatı (`جَدِيد` — 8 geçiş): Altı geçişte mecrûr (`خَلْقٍ جَدِيدٍ`), iki geçişte mansûb (`خَلْقًا جَدِيدًا`, `17:49, 98`).",
+          "Dal 2 — Dağ Şeritleri Çoğulu (`جُدَدٌۢ` — `35:27`): Mübtedâ-i muahhar olarak merfû.",
+          "Dal 3 — Yüce Azamet (`جَدُّ` — `72:3`): `تَعَٰلَىٰ` fiilinin merfû faili."
+        ],
+        "irab_notes": "`35:27`'deki `جُدَدٌۢ` (`فُعَل` kalıbında `جُدَّة` çoğulu) ile `جُدُد` (yeni kelimesinin çoğulu) hareke farkıyla birbirinden ayrılır; ayetteki `جُدَدٌۢ` dağ yolları/şeritleridir."
+      },
+      "derivatives": [
+        {
+          "form": "جَدِيد",
+          "pos": "Sıfat-ı Müşebbehe",
+          "meaning": "Yepyeni (Kur'an'da tüm geçişlerinde yeni yaratılış)",
+          "examples": [
+            "13:5",
+            "14:19",
+            "17:49",
+            "35:16",
+            "50:15"
+          ]
+        },
+        {
+          "form": "جُدَدٌۢ",
+          "pos": "İsim (Kırık Çoğul)",
+          "meaning": "Dağlardaki renkli katman şeritleri ve yollar",
+          "examples": [
+            "35:27"
+          ]
+        },
+        {
+          "form": "جَدُّ",
+          "pos": "İsim",
+          "meaning": "Yüce şan, azamet, ululuk",
+          "examples": [
+            "72:3"
           ]
         }
       ]

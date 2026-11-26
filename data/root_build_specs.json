@@ -61374,5 +61374,79 @@
       }
     ],
     "context_default": "Yüce onarıcı kudret veya haksız zorbalık/dayatmacılık bağlamı"
+  },
+  "ج-د-د": {
+    "buckwalter": "jdd",
+    "slug": "jdd",
+    "concept_name": "Cedîd, Cüded ve Cedd (Tezgahtan Yeni Kesilmişçesine Yeni Yaratılış, Dağ Şeritleri/Yolları ve Yüce Azamet)",
+    "root_latin": "J-D-D",
+    "keywords": [
+      "cedid",
+      "cuded",
+      "cedd",
+      "yeni yaratilis",
+      "dag seritleri",
+      "yuce azamet",
+      "yeniden dirilis"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jadiyd",
+        "ayahs": [
+          "13:5",
+          "14:19",
+          "17:49",
+          "17:98",
+          "32:10",
+          "34:7",
+          "35:16",
+          "50:15"
+        ],
+        "label": "Sıfat-ı müşebbehe `جَدِيد` (`خَلْقٍ جَدِيدٍ / خَلْقًا جَدِيدًا` — her sekiz geçişte de `خَلْق` [yaratılış] kelimesinin sıfatı olarak 'yepyeni bir yaratılış'; 8 geçiş)"
+      },
+      {
+        "lemma": "judad",
+        "ayahs": [
+          "35:27"
+        ],
+        "label": "Kırık çoğul isim `جُدَدٌۢ` (tekili `جُدَّة` — `وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌ وَحُمْرٌ` — dağların yüzeyinde ak, kızıl ve koyu siyah katmanlar hâlinde uzanan çizgili yollar/şeritler; 1 geçiş)"
+      },
+      {
+        "lemma": "jad~",
+        "ayahs": [
+          "72:3"
+        ],
+        "label": "İsim `جَدُّ` (`وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا` — Rabbimizin yüce şanı, azameti ve egemenliği pek yüksektir; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yeni yaratılışı (`جَدِيد`), dağ şeritlerini (`جُدَد`) veya yüce azameti (`جَدّ`) bildiren `ج-د-د` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:5",
+          "17:49",
+          "17:98",
+          "32:10",
+          "34:7",
+          "50:15"
+        ],
+        "text": "Yeniden Yaratılış (`خَلْق جَدِيد`) Tartışması (`13:5`, `17:49`, `17:98`, `32:10`, `34:7`, `50:15`): Toprağa ve kemik kırıntısına karıştıktan sonra 'yepyeni bir yaratılışla mı diriltileceğiz?' diye kuşku duyanlara karşı `50:15`'in kesin cevabı: 'İlk yaratışta aciz mi kaldık ki onlar yeni bir yaratılıştan kuşku duyuyorlar?'"
+      },
+      {
+        "ayahs": [
+          "14:19",
+          "35:16"
+        ],
+        "text": "Yeni Bir Topluluk Getirme Kudreti (`14:19`, `35:16`): Allah'ın dilerse mevcut nesli giderip yerine bambaşka, yepyeni bir yaratılış/topluluk (`بِخَلْقٍ جَدِيدٍ`) getirebileceği uyarısı."
+      },
+      {
+        "ayahs": [
+          "35:27",
+          "72:3"
+        ],
+        "text": "Dağlardaki Renkli Katman Şeritleri ve Rabb'in Yüce Şanı (`35:27`, `72:3`): Doğadaki çeşitlilik delili olarak dağların beyaz, kırmızı ve simsiyah çizgili katman şeritleri (`جُدَدٌۢ`, `35:27`) ile Sure 72'de Kur'an'ı dinleyen topluluğun Rabb'in eşten ve çocuktan uzak yüce azametini (`تَعَٰلَىٰ جَدُّ رَبِّنَا`, `72:3`) ikrarı."
+      }
+    ],
+    "context_default": "Yeni yaratılış, dağlardaki çizgili katman şeritleri ve yüce azamet bağlamı"
   }
 }
