@@ -54205,5 +54205,74 @@
       }
     ],
     "context_default": "Yol, yöntem, katman veya gece çıkagelen yıldız bağlamı"
+  },
+  "ص-ل-ب": {
+    "buckwalter": "Slb",
+    "slug": "slb",
+    "concept_name": "Sulb / Salb (Sert Omurga-Bel Kemiği ve Direğe Gerip Asarak İnfaz)",
+    "keywords": [
+      "sulb",
+      "aslab",
+      "salb",
+      "taslib",
+      "omurga",
+      "bel kemigi",
+      "direge germek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "S~ulob",
+        "ayahs": [
+          "4:23",
+          "86:7"
+        ],
+        "label": "Mecrûr isim (`أَصْلَٰبِكُمْ` çoğul `4:23`; `ٱلصُّلْبِ` tekil `86:7` — sert sırt omurgası ve öz soy kaynağı; 2 geçiş)"
+      },
+      {
+        "lemma": "Salabu",
+        "ayahs": [
+          "4:157",
+          "12:41"
+        ],
+        "label": "Form I fiil (`صَلَبُوهُ` malum mâzi `4:157`; `فَيُصْلَبُ` edilgen muzâri `12:41` — direğe gerip asmak; 2 geçiş)"
+      },
+      {
+        "lemma": "yuSal~abu",
+        "ayahs": [
+          "5:33",
+          "7:124",
+          "20:71",
+          "26:49"
+        ],
+        "label": "Form II teksîr/şiddet fiili (`يُصَلَّبُوٓا۟` edilgen `5:33`; `لَأُصَلِّبَنَّكُمْ` malum tekitli `7:124`, `20:71`, `26:49` — toplu/ağır biçimde gerip asmak; 4 geçiş)"
+      }
+    ],
+    "irab_default": "Sert omurga veya direğe gerip asma bildiren `ص-ل-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:23",
+          "86:7"
+        ],
+        "text": "Sert Omurga ve Öz Soy (`4:23`, `86:7`): İnsanı oluşturan suyun sırt omurgası ile göğüs kemikleri arasından çıkması ve evlilik sınırlarında öz belden gelen oğullar ayrımı."
+      },
+      {
+        "ayahs": [
+          "4:157",
+          "12:41"
+        ],
+        "text": "Tarihsel İnfaz ve İsa'ya Dair Hakikat (`4:157`, `12:41`): Yusuf'un zindan arkadaşlarından birinin asılacağına dair rüya tabiri ve Meryem oğlu İsa'nın öldürülüp asılmadığının beyanı."
+      },
+      {
+        "ayahs": [
+          "5:33",
+          "7:124",
+          "20:71",
+          "26:49"
+        ],
+        "text": "Ağır ve Toplu Cezalandırma (`5:33`, `7:124`, `20:71`, `26:49`): Firavun'un iman eden büyücüleri hurma gövdelerinde asma tehdidi ve yeryüzünde bozgunculuk/savaş çıkaranlara dair ağır yaptırım seçenekleri."
+      }
+    ],
+    "context_default": "Sert omurga veya direğe germe bağlamı"
   }
 }
