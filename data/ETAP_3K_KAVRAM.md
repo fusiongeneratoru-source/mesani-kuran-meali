@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 48 / 50 Kök (Toplam Mühürlü: 798 Kök | Güncel Kapsam: %95,39)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 49 / 50 Kök (Toplam Mühürlü: 799 Kök | Güncel Kapsam: %95,41)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -55,5 +55,5 @@
 | 46 | Yüksek Frekanslı Çekirdek | 556 | `غ-ي-ظ` | `G-Y-Z` | **11** | 10 | 3:119 | Gayz ve Tegayyuz (İçte Kaynayan Yoğun Öfke, Hiddet ve Keder) | ✅ **MÜHÜRLÜ** |
 | 47 | Yüksek Frekanslı Çekirdek | 554 | `ي-م-م` | `Y-M-M` | **11** | 10 | 2:267 | Yemm ve Teyemmüm (Engin Su Kütlesi/Deniz ve Bilinçli Olarak Yönelmek) | ✅ **MÜHÜRLÜ** |
 | 48 | Yüksek Frekanslı Çekirdek | 562 | `ج-م-ل` | `C-M-L` | **11** | 11 | 7:40 | Cemîl, Cemâl, Cümle ve Cemel (Ahlaki Zarafet, Görsel Güzellik, Toptan Bütünlük ve Deve) | ✅ **MÜHÜRLÜ** |
-| 49 | Yüksek Frekanslı Çekirdek | 544 | `ص-ع-ق` | `S-A-K` | **11** | 10 | 2:19 | Sâika ve Saık (11 geçiş | 2F: 2:19, 2:55, 4:153, 7:143, 13:13, 39:68, 41:13 [2x], 41:17, 51:44, 52:45 gökten inen sarsıcı yıldırım ve bayılıp yığılmak) | ⏳ *Bekliyor* |
+| 49 | Yüksek Frekanslı Çekirdek | 544 | `ص-ع-ق` | `S-A-K` | **11** | 10 | 2:19 | Sa'k ve Sâika (Yıldırım Çarpması, Sarsıcı Gürleme ve Şokla Yığılmak) | ✅ **MÜHÜRLÜ** |
 | 50 | Yüksek Frekanslı Çekirdek | 558 | `ز-ب-ر` | `Z-B-R` | **11** | 11 | 3:184 | Zebûr, Zübür ve Züber (11 geçiş | 1F: 3:184, 4:163, 16:44, 17:55, 18:96, 21:105, 23:53, 26:196, 35:25, 54:43, 54:52 sert yüzeye kazınmış yazılı metin/kayıt ve sağlam demir bloklar) | ⏳ *Bekliyor* |

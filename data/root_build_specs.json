@@ -56479,5 +56479,77 @@
       }
     ],
     "context_default": "Güzellik, bütünlük veya deve bağlamı"
+  },
+  "ص-ع-ق": {
+    "buckwalter": "SEq",
+    "slug": "seq",
+    "concept_name": "Sa'k ve Sâika (Yıldırım Çarpması, Sarsıcı Gürleme ve Şokla Yığılmak)",
+    "keywords": [
+      "saika",
+      "savaik",
+      "saik",
+      "yildirim",
+      "bayilip yigilmak",
+      "sur uflenisi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "SaAEiqap",
+        "ayahs": [
+          "2:19",
+          "2:55",
+          "4:153",
+          "13:13",
+          "41:13",
+          "41:17",
+          "51:44"
+        ],
+        "label": "Tekil veya kırık çoğul isim (`ٱلصَّٰعِقَة / ٱلصَّوَٰعِق` — yıldırım ve helâk edici sarsıcı azap; 8 geçiş)"
+      },
+      {
+        "lemma": "SaEiqa",
+        "ayahs": [
+          "39:68",
+          "52:45"
+        ],
+        "label": "Form I fiil (`فَصَعِقَ / يُصْعَقُونَ` — sarsıcı şokla kendinden geçip yığılmak; 2 geçiş)"
+      },
+      {
+        "lemma": "SaEiq",
+        "ayahs": [
+          "7:143"
+        ],
+        "label": "Mansûb sıfat / hâl (`وَخَرَّ مُوسَىٰ صَعِقًا` — bilincini yitirip yere yığılmış halde; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yıldırım çarpması veya şokla yığılma bildiren `ص-ع-ق` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:19",
+          "13:13"
+        ],
+        "text": "Atmosferik Yıldırımlar (`2:19`, `13:13`): Ölüm korkusuyla kulak tıkatan ve Allah'ın iradesiyle hedefini vuran yıldırımlar (`ٱلصَّوَٰعِق`)."
+      },
+      {
+        "ayahs": [
+          "2:55",
+          "4:153",
+          "41:13",
+          "41:17",
+          "51:44"
+        ],
+        "text": "Tarihî Kavimleri Vuran Sâika Azabı (`2:55`, `4:153`, `41:13`, `41:17`, `51:44`): Allah'ı açıktan görmeyi dayatanların ve Âd ile Semûd'un göz göre göre yıldırım azabına yakalanması."
+      },
+      {
+        "ayahs": [
+          "7:143",
+          "39:68",
+          "52:45"
+        ],
+        "text": "Tecelli ve Sûr Karşısında Bilinç Yitimi/Yığılma (`7:143`, `39:68`, `52:45`): Dağ tecellisinde Musa'nın bayılıp düşmesi ve Sûr üflendiğinde tüm varlıkların sarsılıp yığılması."
+      }
+    ],
+    "context_default": "Yıldırım ve sarsıcı şok bağlamı"
   }
 }
