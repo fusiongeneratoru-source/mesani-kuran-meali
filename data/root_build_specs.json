@@ -54408,5 +54408,50 @@
       }
     ],
     "context_default": "Sert gövdede yarılma ve ayrışma bağlamı"
+  },
+  "ث-ق-ب": {
+    "buckwalter": "vqb",
+    "slug": "vqb",
+    "concept_name": "Sâkıb (Karanlığı ve Hedefini Keskin Işığıyla Delip Geçen)",
+    "keywords": [
+      "sakib",
+      "necmus sakib",
+      "sihabun sakib",
+      "delip gecen",
+      "nufuz eden isik",
+      "parlak yildiz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "vaAqib",
+        "ayahs": [
+          "37:10"
+        ],
+        "label": "Merfû nekre etken ortaç sıfat (`شِهَابٌ ثَاقِبٌ` — hedefini delip geçen parlak ışık huzmesi; 1 geçiş: 37:10)"
+      },
+      {
+        "lemma": "vaAqib",
+        "ayahs": [
+          "86:3"
+        ],
+        "label": "Merfû marife etken ortaç sıfat (`ٱلنَّجْمُ ٱلثَّاقِبُ` — `ٱلطَّارِق` için açıklama haberinin sıfatı: karanlığı delip geçen yıldız; 1 geçiş: 86:3)"
+      }
+    ],
+    "irab_default": "Delip geçen keskin ışığı bildiren `ث-ق-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "37:10"
+        ],
+        "text": "Göksel Koruma ve Delici Şihâb (`37:10`): Yüce topluluktan gizlice söz kapmaya çalışanı takip eden delici parlak ışık huzmesi."
+      },
+      {
+        "ayahs": [
+          "86:3"
+        ],
+        "text": "Târık'ın Tanımı: Karanlığı Delen Yıldız (`86:3`): Gece çıkagelen Târık'ın karanlığı delen keskin parlaklığıyla tanımlanması."
+      }
+    ],
+    "context_default": "Karanlığı delip geçen ışık bağlamı"
   }
 }
