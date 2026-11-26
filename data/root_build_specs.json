@@ -57700,5 +57700,68 @@
       }
     ],
     "context_default": "Ortak toplantı, sohbet ve öğrenme mekânı bağlamı"
+  },
+  "ص-ف-ر": {
+    "buckwalter": "Sfr",
+    "slug": "sfr_asfar",
+    "concept_name": "Safrâ, Musferr ve Sufr (Parlak Sarı Renk, Solup Sararmış Bitki ve Bakırımsı Sarı Kıvılcım/Deve Sürüsü)",
+    "root_latin": "S-F-R",
+    "keywords": [
+      "safra",
+      "musferr",
+      "sufr",
+      "sari renk",
+      "sararmis ekin",
+      "kivilcim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "SaforaA^'",
+        "ayahs": [
+          "2:69"
+        ],
+        "label": "Renk sıfatı (`صَفْرَاءُ` — bakanlara ferahlık veren parlak, koyu sarı renk; 1 geçiş)"
+      },
+      {
+        "lemma": "muSofar~",
+        "ayahs": [
+          "30:51",
+          "39:21",
+          "57:20"
+        ],
+        "label": "Form IX ism-i fâil (`مُصْفَرًّا` — yeşilliğini yitirip kurumaya yüz tutarak sararmış ekin; 3 geçiş)"
+      },
+      {
+        "lemma": "Sufor",
+        "ayahs": [
+          "77:33"
+        ],
+        "label": "Çoğul renk sıfatı (`صُفْرٌ` — ateşten savrulan devasa kıvılcımların benzetildiği sarı/bakırımsı deve sürüsü; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Sarı rengi ve kuruyup sararmayı bildiren `ص-ف-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "30:51",
+          "39:21",
+          "57:20"
+        ],
+        "text": "Ekinin Sararıp Kuruma Evresi (`30:51`, `39:21`, `57:20`): Yağmurla yeşeren bitkinin rüzgârla veya doğal ömür döngüsüyle sararıp (`مُصْفَرًّا`) ardından ufalanıp çöpe (`حُطَام`) dönüşmesi — dünya hayatının geçicilik yasası."
+      },
+      {
+        "ayahs": [
+          "2:69"
+        ],
+        "text": "Parlak ve Canlı Sarı Renk (`2:69`): İsrailoğullarının sığır sorgusunda nitelenen, rengi parlak ve göz alıcı sarı (`صَفْرَاءُ فَاقِعٌ لَوْنُهَا`)."
+      },
+      {
+        "ayahs": [
+          "77:33"
+        ],
+        "text": "Alevden Savrulan Kıvılcımların Rengi (`77:33`): Saray/kütük büyüklüğündeki kıvılcımların sarı/bakırımsı deve sürüsüne (`جِمَالَتٌ صُفْرٌ`) benzetilmesi."
+      }
+    ],
+    "context_default": "Sarı renk, kuruyup sararma ve ateş kıvılcımı görseli bağlamı"
   }
 }
