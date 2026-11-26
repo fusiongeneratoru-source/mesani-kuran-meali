@@ -58083,5 +58083,74 @@
       }
     ],
     "context_default": "Geceleyin yürüyüş, gece yola çıkarma ve Meryem'in altındaki su arkı bağlamı"
+  },
+  "د-ك-ك": {
+    "buckwalter": "dkk",
+    "slug": "dkk",
+    "concept_name": "Dekk ve Dekkâ' (Vurup Ufalayarak Dümdüz Etmek, Yükseltiyi Yerle Bir Düzlemek)",
+    "root_latin": "D-K-K",
+    "keywords": [
+      "dekk",
+      "dekka",
+      "ufalamak",
+      "dumduz etmek",
+      "yerle bir",
+      "dagin duzlesmesi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "dak~",
+        "ayahs": [
+          "7:143",
+          "89:21"
+        ],
+        "label": "Masdar (`دَكًّا` / `دَكًّا دَكًّا` — dağın ve yerin ufalınıp dümdüz edilmesi; 3 geçiş: 7:143'te 1x, 89:21'de 2x)"
+      },
+      {
+        "lemma": "dak~aA^'",
+        "ayahs": [
+          "18:98"
+        ],
+        "label": "Dişil sıfat (`دَكَّآءَ` — tümseksiz, çöküp dümdüz olmuş zemin/set; 1 geçiş)"
+      },
+      {
+        "lemma": "duk~ati",
+        "ayahs": [
+          "69:14",
+          "89:21"
+        ],
+        "label": "Form I meçhul mâzi fiil (`دُكَّتَا` / `دُكَّتِ` — darbeyle ezilip dümdüz edilmek; 2 geçiş)"
+      },
+      {
+        "lemma": "dak~ap",
+        "ayahs": [
+          "69:14"
+        ],
+        "label": "İsm-i merre (`دَكَّةً وَٰحِدَةً` — tek bir şiddetli ufalama/düzleme darbesi; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yüksekliği vurup ufalayarak dümdüz etmeyi bildiren `د-ك-ك` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:143"
+        ],
+        "text": "Tecelli Karşısında Dağın Ufalanıp Düzleşmesi (`7:143`): Mûsâ'nın bakış sınavında dağın yerinde duramayıp toz-düz olması (`جَعَلَهُۥ دَكًّا`)."
+      },
+      {
+        "ayahs": [
+          "18:98"
+        ],
+        "text": "Zülkarneyn Seddinin Vade Gelince Düzlenmesi (`18:98`): Demir-bakır duvarın bile mutlak vade geldiğinde dümdüz bir zemine (`دَكَّآءَ`) dönüşeceği gerçeği."
+      },
+      {
+        "ayahs": [
+          "69:14",
+          "89:21"
+        ],
+        "text": "Yer ve Dağların Kozmik Düzlenmesi (`69:14`, `89:21`): Yer ile dağların tek darbede (`دَكَّةً وَٰحِدَةً`) ve art arda (`دَكًّا دَكًّا`) ezilip yerle bir edilmesi."
+      }
+    ],
+    "context_default": "Yükseltilerin vurulup ufalanarak dümdüz edilmesi bağlamı"
   }
 }

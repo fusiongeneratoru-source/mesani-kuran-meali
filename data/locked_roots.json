@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (31/50 — Toplam 831 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (32/50 — Toplam 832 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -39177,7 +39177,8 @@
           "ع-ص-ف (A-S-F (ESf) — Çift Yönlü Mesânî Karşılığı: 14:18, 77:2, 105:5)",
           "س-ن-د (S-N-D (snd) — Çift Yönlü Mesânî Karşılığı: kökünü derine salarak kendi yerinde sarsılmaz biçimde sabitlenmek `ثَابِت` ↔ yeri ve kökü olmayıp dış desteğe dayandırılmış kalmak `مُّسَنَّدَةٌ`)",
           "ص-غ-و (S-G-W (Sgw) — Çift Yönlü Mesânî Karşılığı: kalbin hakikat ekseninde sarsılmadan sabit kalması `ثَبَتَ` ↔ süslü sözlere veya yanlış tutuma doğru kayıp meyletmesi `صَغَتْ قُلُوبُكُمَا`)",
-          "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: yerinden oynatıp harekete geçirmek `أَثَارَ` ↔ yerinden kımıldamadan sabit kalmak `ثَبَتَ`)"
+          "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: yerinden oynatıp harekete geçirmek `أَثَارَ` ↔ yerinden kımıldamadan sabit kalmak `ثَبَتَ`)",
+          "د-ك-ك (Dekk: yüksek kütlelerin darbeyle ezilip dümdüz edilmesi ↔ ث-ب-ت sarsılmadan yerinde sağlamca sabit durmak)"
         ],
         "key_ayahs": [
           "2:250",
@@ -69886,6 +69887,109 @@
           "meaning": "Küçük su arkı / derecik (ikinci veçhe: soylu-seçkin)",
           "examples": [
             "19:24"
+          ]
+        }
+      ]
+    },
+    "د-ك-ك": {
+      "root_latin": "D-K-K",
+      "arabic": "د-ك-ك",
+      "rank": 684,
+      "morphology_and_rasm": {
+        "buckwalter": "dkk",
+        "rasm_skeleton": "دك (mudâaf iskelet; دكا / دكاء / دكتا / دكة / دكت biçimleriyle 7 kez)",
+        "approx_frequency": "7 geçiş / 4 ayet (2x Form I meçhul دُكَّتَا/دُكَّتِ, 3x masdar دَكًّا, 1x ism-i merre دَكَّةً, 1x sıfat دَكَّآءَ)",
+        "verb_forms_used": [
+          "Form I meçhul (دُكَّتَا / دُكَّتِ — 2 geçiş: `69:14`, `89:21`)"
+        ],
+        "noun_forms_used": [
+          "دَكّ (3 geçiş: `7:143`, `89:21` x2 — ufalayıp dümdüz etme)",
+          "دَكَّاء (1 geçiş: `18:98` — tümseksiz, dümdüz edilmiş arazi/kütle)",
+          "دَكَّة (1 geçiş: `69:14` — tek bir şiddetli düzleme darbesi)"
+        ],
+        "preposition_patterns": [
+          "جَعَلَهُۥ دَكًّا / دَكَّآءَ (`7:143`, `18:98`: bir yükseltiyi ufalanmış düz zemine çevirmek)"
+        ]
+      },
+      "physical_core": "Yüksek, sert veya çıkıntılı bir kütleyi (dağ, demir set, yerkabuğu) şiddetli darbeyle vurup ufalayarak dümdüz, tümseksiz ve yerle bir hâle getirmek.",
+      "ibn_faris_asl": "(دَكَّ) الدَّالُ وَالْكَافُ أَصْلَانِ: أَحَدُهُمَا بَسْطٌ وَتَمْهِيدٌ (وَالْأَرْضُ الدَّكَّاءُ: الْمُسْتَوِيَةُ)، وَالْآخَرُ دَقَقْتُ الشَّيْءَ فَدَكَكْتُهُ إِذَا كَسَرْتَهُ وَسَوَّيْتَهُ بِالْأَرْضِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 2, s. 262, دك maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris kökü 'yaymak-düzlemek' (`بَسْطٌ وَتَمْهِيدٌ`) ve 'dövüp ufalamak' (`دَقّ`) biçiminde iki tamamlayıcı asılla açar: yükselti önce darbeyle ufalanır, ardından dümdüz bir zemine dönüşür.",
+        "lisan_al_arab": "İbn Manzûr `الدَّكُّ` fiilini 'yüksek bir şeyi dövüp kırarak yerle bir etmek ve düzlemek', `دَكَّاء` kelimesini ise 'üzerinde tepe/çıkıntı kalmamış dümdüz yer' diye tanımlar.",
+        "ragib_al_isfahani": "Râgıb `7:143`'teki `جَعَلَهُۥ دَكًّا` ifadesinde masdarın mef'ûl ('ufalanıp düzlenmiş') değerinde kullanıldığını, `89:21`'deki `دَكًّا دَكًّا` tekrarının ise kademeli ve tam düzlenmeyi pekiştirdiğini belirtir.",
+        "verdict": "Tüm 7 geçiş **'vurup ufalayarak dümdüz zemine indirgeme'** fiziksel mekanizmasında birleşir; `69:14` tek darbenin (`دَكَّةً وَٰحِدَةً`), `89:21` ise ardışık tekrarlamanın (`دَكًّا دَكًّا`) şiddetini verir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*dkk / *dqq ('ezmek, dövüp ufalamak, düzlemek')",
+        "hebrew": "İbranice דָּכָא / דָּכַךְ (dāḵāʾ / dāḵaḵ: ezmek, toz etmek) ve דָּקַק (dāqaq: incecik ufalamak) ile birebir kökteştir.",
+        "aramaic_syriac": "Aramice/Süryanice ܕܟܟ / ܕܩܩ (dkk / dqq: dövmek, ufalayıp düzlemek) aynı fiziksel darbe çekirdeğini taşır.",
+        "akkadian": "Akkadca dakāku ('ezmek, ufalamak') Doğu Sâmî kolunda doğrudan kökteşliği kanıtlar.",
+        "comparative_note": "Proto-Sâmîden Kur'an Arapçasına kadar fiziksel 'ezme + düzleme' çift aşamalı somutluğu kesintisiz korunmuştur."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ط-و-ر (Yüksek ve heybetli dağ kütlesi ↔ د-ك-ك dağın ufalanıp dümdüz zemine indirgenmesi — `7:143`)",
+          "ث-ب-ت (Yerinde sarsılmadan sağlamca sabit durmak ↔ د-ك-ك ezilip yerle bir çökmesi — `69:14`, `89:21`)"
+        ],
+        "bidirectional_test": "Yüksek bir dağ veya seddin ezilip dümdüz olması (`د-ك-ك`) tersine çevrildiğinde heybetle yükselen dağ kütlesi (`ط-و-ر`) ve sarsılmaz sabitlik (`ث-ب-ت`) belirir."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ج-ب-ل",
+          "ق-ر-ر",
+          "ن-س-ف",
+          "ب-س-س"
+        ],
+        "analysis": "`7:143`'te `فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ` (yerinde sabit kalabilirse) şartının tam zıddı olarak `جَعَلَهُۥ دَكًّا` (onu ufalayıp dümdüz etti) gelir. Furûk ekseninde: `ن-س-ف` ufalanan kütleyi rüzgârla savurup dağıtmayı, `ب-س-س` un-toz hâline getirip serpmeyi, `د-ك-ك` ise yüksekliği aşağıya basıp ezerek dümdüz zemine indirgemeyi vurgular."
+      },
+      "anchor_ayahs": [
+        "7:143 (فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا — Rabbi dağa tecelli edince onu ufalayıp dümdüz etti)",
+        "18:98 (فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ — Rabbimin vaadi gelince onu çökertip dümdüz eder)",
+        "69:14 (وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةً وَٰحِدَةً — yer ve dağlar kaldırılıp tek bir darbeyle ezilip dümdüz edildiğinde)",
+        "89:21 (كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا — hayır! Yeryüzü art arda ezilip dümdüz edildiğinde)"
+      ],
+      "unified_core_mechanism": "`د-ك-ك` kökü 4 ayetteki 7 geçişin tamamında **'yüksek ve sert kütleyi darbeyle ufalayarak dümdüz, çıkıntısız zemine çevirme'** fiziksel yasasını işletir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Meçhul Ezilme Fiili (`دُكَّتَا`, `دُكَّتِ` — `69:14`, `89:21`): Kozmik düzleme eylemini özne vurgusundan çok olayın kesinliğiyle verir.",
+          "Dal 2 — Tek Darbe vs Ardışık Darbe (`دَكَّةً وَٰحِدَةً` `69:14` vs `دَكًّا دَكًّا` `89:21`): İsm-i merre tek anlık bitiriciliği, ikilenmiş masdar/hâl ise ardışık parçalanmayı gösterir.",
+          "Dal 3 — Düzlenmiş Sonuç (`دَكًّا` `7:143`, `دَكَّآءَ` `18:98`): Yükseltinin yerle bir olmuş nihai topoğrafyası."
+        ],
+        "irab_notes": "`89:21`'deki `دَكًّا دَكًّا` peş peşe hâl veya te'kidli mef'ûl-i mutlak olarak mansûb; `18:98`'deki `دَكَّآءَ` gayr-i munsarif ikinci mef'ûl olarak tenvinsiz mansûbtur."
+      },
+      "derivatives": [
+        {
+          "form": "دُكَّتِ / دُكَّتَا",
+          "pos": "Fiil (Form I meçhul)",
+          "meaning": "Darbeyle ezilip dümdüz edilmek",
+          "examples": [
+            "69:14",
+            "89:21"
+          ]
+        },
+        {
+          "form": "دَكّ",
+          "pos": "Masdar",
+          "meaning": "Ufalayıp dümdüz etme / düzlenmiş kütle",
+          "examples": [
+            "7:143",
+            "89:21"
+          ]
+        },
+        {
+          "form": "دَكَّاء",
+          "pos": "Sıfat (dişil)",
+          "meaning": "Tümseksiz, yerle bir düzlenmiş zemin",
+          "examples": [
+            "18:98"
+          ]
+        },
+        {
+          "form": "دَكَّة",
+          "pos": "İsm-i Merre",
+          "meaning": "Tek bir şiddetli düzleme darbesi",
+          "examples": [
+            "69:14"
           ]
         }
       ]
