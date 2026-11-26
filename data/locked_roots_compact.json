@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 808,
+    "total_locked": 809,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2511,7 +2511,8 @@
         "ل-و-م (L-W-M (lwm) — Çift Yönlü Mesânî Karşılığı: 23:6, 51:54, 70:30 [غَيْرُ مَلُومِينَ / فَمَآ أَنتَ بِمَلُومٍ — hoşnutsuzlukla kınamak ↔ tam hoşnutluk ve rıza ile karşılamak])",
         "م-ق-ت (M-Q-T (mqt) — Çift Yönlü Mesânî Karşılığı: çirkin fiile karşı kabaran ağır hoşnutsuzluk ve nefret `مَقْت` ↔ kalbin gönül ferahlığıyla razı olup hoşnut olması `رِضْوَٰن`)",
         "ع-ت-ب (A-T-B (Etb) — Çift Yönlü Mesânî Karşılığı: `41:24` — tam hoşnutluk ve razı oluş `رِضْوَان` ↔ pürüz ve hoşnutsuzluğun kalkmayıp telafi kapısının kapanması `عَتَب / فَمَا هُم مِّنَ ٱلْمُعْتَبِينَ`)",
-        "غ-ي-ظ (G-Y-Z (gyZ) — Çift Yönlü Mesânî Karşılığı: `48:29` — iç dinginliği ve hoşnutluk `رِضْوَان` ↔ boğucu iç hiddeti ve öfke `غَيْظ`)"
+        "غ-ي-ظ (G-Y-Z (gyZ) — Çift Yönlü Mesânî Karşılığı: `48:29` — iç dinginliği ve hoşnutluk `رِضْوَان` ↔ boğucu iç hiddeti ve öfke `غَيْظ`)",
+        "ن-د-م (Nedâmet: geçmiş tercihinden dolayı içi burkulup keşke demek ↔ ر-ض-و kendi tercihinden ve sonucundan tam gönül hoşnutluğu)"
       ]
     },
     "ب-ي-ت": {
@@ -6761,7 +6762,8 @@
         "ب-ل-س [حَتَّىٰٓ إِذَا فَرِحُوا۟ بِمَآ أُوتُوٓا۟ أَخَذْنَٰهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ] (Elde Edilenlerle Şımarıp Coşmak ↔ Ansızın Yakalanıp Sesi Soluğu Kesilerek Çökmek: 6:44)",
         "ق-ن-ط [وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً فَرِحُوا۟ بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌۢ ... إِذَا هُمْ يَقْنَطُونَ] (Rahmet Tadınca Hemen Şımarıp Coşmak ↔ Sıkıntı Gelince Hemen Umudunu Kesip Çökmek: 30:36)",
         "أ-س-و",
-        "ح-س-ر (H-S-R (Hsr) — Çift Yönlü Mesânî Karşılığı: `2:167`, `3:156`, `69:50` — elde edilenle coşup sevinmek `فَرَح` ↔ elden kaçan geri dönülmez kaybın örtüsü açılınca yakıcı pişmanlıkla kıvranmak `حَسْرَة`)"
+        "ح-س-ر (H-S-R (Hsr) — Çift Yönlü Mesânî Karşılığı: `2:167`, `3:156`, `69:50` — elde edilenle coşup sevinmek `فَرَح` ↔ elden kaçan geri dönülmez kaybın örtüsü açılınca yakıcı pişmanlıkla kıvranmak `حَسْرَة`)",
+        "ن-د-م (Nedâmet/Nâdimîn: işlenmiş bir eylemin acı sonucuyla içi yakan pişmanlık ↔ ف-ر-ح yapılan şeyden duyulan sevinç ve taşkın kıvanç)"
       ]
     },
     "خ-ف-ف": {
@@ -10303,6 +10305,15 @@
       "opposites": [
         "غ-ض-ض (Sesi ve bakışı ölçülü biçimde kısmak/alçaltmak ↔ صَوْت yüksek çıkan ses şiddeti — `31:19`, `49:3`)",
         "ص-م-ت (Tam sessizlik, hiç ses çıkarmama ↔ صَوْت kulakta yankılanan fiziksel ses)"
+      ]
+    },
+    "ن-د-م": {
+      "latin": "N-D-M",
+      "core": "`ن-د-م` kökü 7 geçişinin tamamında **'geri döndürülemeyen bir eylemin acı sonucuyla yüzleşildiğinde içi yakan pişmanlık'** mekanizmasını işletir; `5:31`, `26:157`, `49:6`'da fevri ve tahrip edici davranışın ardından, `10:54` ve `34:33`'te ise kaçınılmaz sonuç görüldüğünde içe çöken yakıcı bir duygu halidir.",
+      "physical": "Olup bitmiş ve artık geri alınamayan bir fiilin ardından kişinin kendi içinde kıvranıp 'keşke yapmasaydım' diye kederlenmesi; bu yakıcı geriye dönük üzüntü Kur'an'da her zaman `أَصْبَحَ` (bir halden başka bir hale dönüşmek) veya `أَسَرُّوا` (içinde gizleyip yutkunmak) fiilleriyle birlikte, eylemin sonuçlarıyla çarpışma anında belirir.",
+      "opposites": [
+        "ف-ر-ح (Yapılan işten ve sonucundan duyulan taşkın sevinç ↔ نَدَامَة yapılan işten duyulan yakıcı pişmanlık)",
+        "ر-ض-و (Tercihinden ve sonucundan duyulan gönül hoşnutluğu ↔ نَدَامَة keşke yapmasaydım duygusu)"
       ]
     }
   }

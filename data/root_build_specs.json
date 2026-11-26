@@ -57015,5 +57015,65 @@
       }
     ],
     "context_default": "Fiziksel ses, konuşma tonu ve işitsel etki bağlamı"
+  },
+  "ن-د-م": {
+    "buckwalter": "ndm",
+    "slug": "ndm",
+    "concept_name": "Nedâmet ve Nâdimîn (İşlenmiş Bir Eylemden Sonra İçi Yakan Pişmanlık ve Keşke Duygusu)",
+    "root_latin": "N-D-M",
+    "keywords": [
+      "nedamet",
+      "nadimin",
+      "pismanlik",
+      "ic yakici uzuntu",
+      "geri donulemez hata"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "na`dimiyn",
+        "ayahs": [
+          "5:31",
+          "5:52",
+          "23:40",
+          "26:157",
+          "49:6"
+        ],
+        "label": "Çoğul ism-i fâil (`نَادِمِينَ` / `النَّادِمِينَ` — yapılan eylemin ardından pişmanlığa düşenler; 5 geçiş)"
+      },
+      {
+        "lemma": "n~adaAmap",
+        "ayahs": [
+          "10:54",
+          "34:33"
+        ],
+        "label": "Mastar isim (`النَّدَامَةَ` — acı sonuçla yüzleşince içine gömülen pişmanlık; 2 geçiş)"
+      }
+    ],
+    "irab_default": "İşlenmiş bir eylemin ardından duyulan yakıcı pişmanlığı bildiren `ن-د-م` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:31",
+          "26:157",
+          "49:6"
+        ],
+        "text": "Düşüncesiz/Fevri Eylem Sonrası Pişmanlık (`5:31`, `26:157`, `49:6`): Kardeşini öldürdükten (`5:31`), dişi deveyi kestikten (`26:157`) veya doğrulatmadan bir topluluğa zarar verdikten (`49:6`) sonra pişman olanlar (`فَأَصْبَحُوا نَادِمِينَ`)."
+      },
+      {
+        "ayahs": [
+          "5:52",
+          "23:40"
+        ],
+        "text": "Gizli Hesap ve Gerçeği Örtmenin Çöküşüyle Gelen Pişmanlık (`5:52`, `23:40`): İçlerinde sakladıkları ikiyüzlü hesaplar açığa çıktığında veya tehdit gerçekleştiğinde çok geçmeden pişmanlığa düşmek."
+      },
+      {
+        "ayahs": [
+          "10:54",
+          "34:33"
+        ],
+        "text": "Azabı Görünce İçine Gömülen Pişmanlık (`10:54`, `34:33`): Sonuçla yüzleşince `وَأَسَرُّوا النَّدَامَةَ` (pişmanlığı içlerine gömdüler/açığa vurdular) tablosu."
+      }
+    ],
+    "context_default": "İşlenmiş bir eylemden sonra duyulan pişmanlık bağlamı"
   }
 }
