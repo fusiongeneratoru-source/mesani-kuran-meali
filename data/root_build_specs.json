@@ -55773,5 +55773,89 @@
       }
     ],
     "context_default": "Balçık/kil maddesi bağlamı"
+  },
+  "ك-ن-ن": {
+    "buckwalter": "knn",
+    "slug": "knn",
+    "concept_name": "Kinn, Ekinne ve Meknûn (Kılıf İçinde Koruyup Örtmek ve Göğüste Gizlemek)",
+    "keywords": [
+      "kinn",
+      "ekinne",
+      "eknan",
+      "meknun",
+      "tukin",
+      "kilif",
+      "barinak",
+      "sakli inci"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">akonan",
+        "ayahs": [
+          "2:235",
+          "27:74",
+          "28:69"
+        ],
+        "label": "Form IV fiil (`أَكْنَنتُمْ / تُكِنُّ` — içte ve göğüste gizleyip saklamak; 3 geçiş)"
+      },
+      {
+        "lemma": ">akin~ap",
+        "ayahs": [
+          "6:25",
+          "17:46",
+          "18:57",
+          "41:5"
+        ],
+        "label": "Çoğul örtü/kılıf ismi (`أَكِنَّة` — kalpleri kavrayışa kapatan kılıflar; 4 geçiş)"
+      },
+      {
+        "lemma": ">akona`n",
+        "ayahs": [
+          "16:81"
+        ],
+        "label": "Mansûb çoğul barınak ismi (`أَكْنَٰنًا` — dağlarda koruyucu sığınaklar; 1 geçiş)"
+      },
+      {
+        "lemma": "m~akonuwn",
+        "ayahs": [
+          "37:49",
+          "52:24",
+          "56:23",
+          "56:78"
+        ],
+        "label": "Form I ism-i mef'ûl (`مَّكْنُون / ٱلْمَكْنُونِ` — özenle korunup saklanmış yumurta, inci ve kitap; 4 geçiş)"
+      }
+    ],
+    "irab_default": "Kılıf içinde koruma veya gizleme bildiren `ك-ن-ن` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:235",
+          "27:74",
+          "28:69"
+        ],
+        "text": "Göğüste Gizlenen Niyetler (`2:235`, `27:74`, `28:69`): İnsanın içinde örtüp gizlediğinin de açığa vurduğunun da Allah tarafından bilinmesi."
+      },
+      {
+        "ayahs": [
+          "6:25",
+          "17:46",
+          "18:57",
+          "41:5"
+        ],
+        "text": "Kalpleri Kavrayışa Kapatan Kılıflar (`6:25`, `17:46`, `18:57`, `41:5`): Ayetlerden yüz çevirenlerin kalplerinin kalın kılıflarla (`أَكِنَّة`) örtülmesi."
+      },
+      {
+        "ayahs": [
+          "16:81",
+          "37:49",
+          "52:24",
+          "56:23",
+          "56:78"
+        ],
+        "text": "Koruyucu Barınaklar ve El Değmemiş Saklı Değerler (`16:81`, `37:49`, `52:24`, `56:23`, `56:78`): Dağlardaki koruyucu barınaklar (`أَكْنَٰنًا`) ve kabuğunda/mahfazasında korunmuş (`مَكْنُون`) değerler ile kitap."
+      }
+    ],
+    "context_default": "Koruyucu kılıf ve gizleme bağlamı"
   }
 }
