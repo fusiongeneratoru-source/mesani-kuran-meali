@@ -3,12 +3,12 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 1 / 50 Kök (Toplam Mühürlü: 851 Kök | Güncel Kapsam: %95,96)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 2 / 50 Kök (Toplam Mühürlü: 852 Kök | Güncel Kapsam: %95,97)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | 1 | Sure %100 Kilidi | 591 | `ض-ح-ك` | `D-H-K` | **10** | 10 | 9:82 | Dahk ve İdhâk (Yüzün Açılıp Gülmesi, Sevinçle veya Alayla Gülmek ve Güldürmek) | ✅ **MÜHÜRLÜ** |
-| 2 | Sure %100 Kilidi | 824 | `أ-ر-ك` | `E-R-K` | **5** | 5 | 18:31 | Erâik (Sure 83 Mutaffifîn kilidi + 5 geçiş: 18:31, 36:56, 76:13, 83:23, 83:35 gölgelikli ve süslü oturma divanları/tahtlar) | ⏳ *Bekliyor* |
+| 2 | Sure %100 Kilidi | 824 | `أ-ر-ك` | `E-R-K` | **5** | 5 | 18:31 | Erâik (Gölgelikli ve Süslü Dinlenme Sedirleri / Huzurlu Oturma Yerleşimi) | ✅ **MÜHÜRLÜ** |
 | 3 | Sure %100 Kilidi | 1049 | `م-ز-ج` | `M-Z-C` | **3** | 3 | 76:5 | Mizâc (Sure 83 Mutaffifîn kilidi + 3 geçiş: 76:5, 76:17, 83:27 içeceğe katılan hoş koku ve tat karışımı) | ⏳ *Bekliyor* |
 | 4 | Sure %100 Kilidi | 1048 | `ن-ض-ر` | `N-D-R` | **3** | 3 | 75:22 | Nadra ve Nâdıra (Sure 83 Mutaffifîn + Sure 75 Kıyâmet ortak kilidi | 1M + 3 geçiş: 75:22, 76:11, 83:24 taze parlaklık, yüzdeki canlı ışık ve dirilik) | ⏳ *Bekliyor* |
 | 5 | Sure %100 Kilidi | 1001 | `ر-ق-م` | `R-K-M` | **3** | 3 | 18:9 | Merkûm ve Rakîm (Sure 83 Mutaffifîn kilidi + 3 geçiş: 18:9, 83:9, 83:20 silinmez biçimde nakşedilip yazılmış kayıt/kitabe) | ⏳ *Bekliyor* |

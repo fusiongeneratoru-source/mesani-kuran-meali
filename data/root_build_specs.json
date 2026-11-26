@@ -59350,5 +59350,52 @@
       }
     ],
     "context_default": "Yüzün sevinçle veya alayla açılıp gülmesi ve güldürme bağlamı"
+  },
+  "أ-ر-ك": {
+    "buckwalter": "Ark",
+    "slug": "ark",
+    "concept_name": "Erâik (Gölgelikli ve Süslü Dinlenme Sedirleri / Huzurlu Oturma Yerleşimi)",
+    "root_latin": "A-R-K",
+    "keywords": [
+      "eraik",
+      "erike",
+      "sedir",
+      "taht",
+      "yaslanmak",
+      "huzur",
+      "dinlenme"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">araA^}ik",
+        "ayahs": [
+          "18:31",
+          "36:56",
+          "76:13",
+          "83:23",
+          "83:35"
+        ],
+        "label": "Kırık çoğul isim (`ٱلْأَرَآئِكِ`, tekili `أَرِيكَة` — tüm 5 geçişte `عَلَى ٱلْأَرَآئِكِ` mecrûr terkibinde gölgelikli/örtülü rahat dinlenme sedirleri; 5 geçiş)"
+      }
+    ],
+    "irab_default": "Gölgelikli, örtülü ve rahat dinlenme sedirlerini bildiren `أ-ر-ك` çoğul ismi (`أَرَائِك`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:31",
+          "36:56",
+          "76:13"
+        ],
+        "text": "Sedirler Üzerinde Yaslanarak Dinlenme (`18:31`, `36:56`, `76:13`): `مُتَّكِئِينَ / مُتَّكِئُونَ` (yaslanmış hâlde) sıfatıyla birlikte tam bir esenlik, gölgelik ve dengeli iklim içinde yerleşme."
+      },
+      {
+        "ayahs": [
+          "83:23",
+          "83:35"
+        ],
+        "text": "Sedirler Üzerinden Seyretme (`83:23`, `83:35`): İyilerin esenlik içinde `عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ` diyerek olup biteni huzur ve güven makamından izlemesi."
+      }
+    ],
+    "context_default": "Gölgelikli ve rahat sedirler üzerinde huzurla yerleşme bağlamı"
   }
 }
