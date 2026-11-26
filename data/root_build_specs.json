@@ -54769,5 +54769,62 @@
       }
     ],
     "context_default": "Ağır meşakkat ve mücadele bağlamı"
+  },
+  "ع-ق-ر": {
+    "buckwalter": "Eqr",
+    "slug": "eqr",
+    "concept_name": "Akr ve Âkır (Ayak Sinirini Kesip Devirmek ve Doğurganlığı Kesilmiş Olmak)",
+    "keywords": [
+      "akr",
+      "akir",
+      "deveyi kesmek",
+      "kisir",
+      "semud",
+      "zekeriyya"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Eaqara",
+        "ayahs": [
+          "7:77",
+          "11:65",
+          "26:157",
+          "54:29",
+          "91:14"
+        ],
+        "label": "Form I mâzi fiil (`عَقَرَ / عَقَرُوا۟` — Semûd'un sınama ayeti olan dişi deveyi kesip devirmesi; 5 geçiş)"
+      },
+      {
+        "lemma": "EaAqir",
+        "ayahs": [
+          "3:40",
+          "19:5",
+          "19:8"
+        ],
+        "label": "Müenneslik eksiz `فَاعِل` sıfatı (`عَاقِر` — Zekeriyya'nın doğurganlığı kesilmiş eşi; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Kesip devirme veya doğurganlık kesintisi bildiren `ع-ق-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:77",
+          "11:65",
+          "26:157",
+          "54:29",
+          "91:14"
+        ],
+        "text": "Semûd'un Sınama Ayetini Katletmesi (`7:77`, `11:65`, `26:157`, `54:29`, `91:14`): Sâlih elçinin uyarısına karşın su payı ortaklığı tanınan dişi devenin ayak sinirlerinin kesilip devrilmesi ve ardından gelen yıkım."
+      },
+      {
+        "ayahs": [
+          "3:40",
+          "19:5",
+          "19:8"
+        ],
+        "text": "Zekeriyya'nın Eşindeki Doğurganlık Kesintisi (`3:40`, `19:5`, `19:8`): Yaşlılık ve doğurganlık kesintisi (`عَاقِر`) koşuluna rağmen Allah'ın dilediği yaratma yasasını işletmesi."
+      }
+    ],
+    "context_default": "Ayak sinirini kesme veya doğurganlık kesintisi bağlamı"
   }
 }

@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 770 Kök | Güncel Kapsam: %94,97)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 21 / 50 Kök (Toplam Mühürlü: 771 Kök | Güncel Kapsam: %94,98)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -27,7 +27,7 @@
 | 18 | Sure %100 Kilidi | 1616 | `س-غ-ب` | `S-G-B` | **1** | 1 | 90:14 | Mesğabe (Bitkinlik ve Yorgunlukla Birleşen Şiddetli Açlık ve Kıtlık) | ✅ **MÜHÜRLÜ** |
 | 19 | Sure %100 Kilidi | 1614 | `ش-ف-ه` | `S-F-H` | **1** | 1 | 90:9 | Şefe / Şefeteyn (Ağzın Kıyısını Çevreleyen ve Konuşmayı Biçimlendiren İki Dudak) | ✅ **MÜHÜRLÜ** |
 | 20 | Sure %100 Kilidi | 1613 | `ك-ب-د` | `K-B-D` | **1** | 1 | 90:4 | Kebed (Ağırlık ve Yoğun Dirençle Göğüslenen Zorlu Meşakkat ve Mücadele) | ✅ **MÜHÜRLÜ** |
-| 21 | Sure %100 Kilidi | 640 | `ع-ق-ر` | `A-K-R` | **8** | 8 | 3:40 | Akr ve Âkır (Sure 91 Şems kilidi + 8 geçiş: 3:40, 7:77, 11:65, 19:5, 19:8, 26:157, 54:29, 91:14 sinirini/kökünü kesip devirmek ve doğurganlıktan kesilmiş kısır hâl) | ⏳ *Bekliyor* |
+| 21 | Sure %100 Kilidi | 640 | `ع-ق-ر` | `A-K-R` | **8** | 8 | 3:40 | Akr ve Âkır (Ayak Sinirini Kesip Devirmek ve Doğurganlığı Kesilmiş Olmak) | ✅ **MÜHÜRLÜ** |
 | 22 | Sure %100 Kilidi | 681 | `ن-و-ق` | `N-W-K` | **7** | 7 | 7:73 | Nâka (Sure 91 Şems kilidi + 7 geçiş: 7:73, 7:77, 11:64, 17:59, 26:155, 54:27, 91:13 Semûd toplumuna sınama nişanesi kılınan dişi deve) | ⏳ *Bekliyor* |
 | 23 | Sure %100 Kilidi | 774 | `خ-ي-ب` | `H-Y-B` | **5** | 5 | 3:127 | Haybe ve Hâibîn (Sure 91 Şems kilidi + 5 geçiş: 3:127, 14:15, 20:61, 20:111, 91:10 umduğunu bulamayıp eli boş, hüsrana uğramış kalmak) | ⏳ *Bekliyor* |
 | 24 | Sure %100 Kilidi | 1617 | `ط-ح-و` | `T-H-W` | **1** | 1 | 91:6 | Tahâhâ (Sure 91 Şems kilidi: 91:6 yeryüzünü her yöne genişçe yayıp açmak) | ⏳ *Bekliyor* |
