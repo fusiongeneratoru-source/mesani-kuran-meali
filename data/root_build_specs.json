@@ -53272,5 +53272,106 @@
       }
     ],
     "context_default": "İvmeli çöküş, devrilme veya tam boyun eğerek yere kapanma bağlamı"
+  },
+  "خ-ط-ب": {
+    "buckwalter": "xTb",
+    "slug": "xtb",
+    "concept_name": "Hitâb ve Hatb (İki Taraf Arası Karşılıklı Sözleşme, Talep ve Sorgulanan Ciddi Mesele)",
+    "keywords": [
+      "hitab",
+      "hatb",
+      "hitbe",
+      "muhataba",
+      "faslul hitab",
+      "karsilikli konusma",
+      "mesele",
+      "evlilik talebi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xaTob",
+        "ayahs": [
+          "12:51",
+          "15:57",
+          "20:95",
+          "28:23",
+          "51:31"
+        ],
+        "label": "Merfû isim, izafetle mübteda/haber (`مَا / فَمَا خَطْبُكُمْ / خَطْبُكَ / خَطْبُكُنَّ / خَطْبُكُمَا` — ciddi bir durumu sorgulama; 5 geçiş)"
+      },
+      {
+        "lemma": "xiTaAb",
+        "ayahs": [
+          "38:20",
+          "38:23"
+        ],
+        "label": "Form III masdar/isim, mecrur (`وَفَصْلَ ٱلْخِطَابِ` muzâfun ileyh, `فِى ٱلْخِطَابِ` harf-i cerle mecrur; 2 geçiş: 38:20, 38:23)"
+      },
+      {
+        "lemma": "xiTaAb",
+        "ayahs": [
+          "78:37"
+        ],
+        "label": "Form III masdar/isim, mensub mef'ûlün bih (`لَا يَمْلِكُونَ مِنْهُ خِطَابًا` — Rahmân'ın huzurunda hitap yetkisi; 1 geçiş: 78:37)"
+      },
+      {
+        "lemma": "xiTobap",
+        "ayahs": [
+          "2:235"
+        ],
+        "label": "Kesreli isim, `مِنْ` ile mecrur (`مِنْ خِطْبَةِ ٱلنِّسَآءِ` — evlilik için sözlü talip olma; 1 geçiş: 2:235)"
+      },
+      {
+        "lemma": "xaATaba",
+        "ayahs": [
+          "11:37",
+          "23:27"
+        ],
+        "label": "Form III nehiy/meczum muzâri 2. tekil eril fiil (`وَلَا تُخَٰطِبْنِى` — zalimler hakkında sözlü başvuruda bulunmama emri; 2 geçiş: 11:37, 23:27)"
+      },
+      {
+        "lemma": "xaATaba",
+        "ayahs": [
+          "25:63"
+        ],
+        "label": "Form III malum mâzi 3. tekil eril fiil (`وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ` — cahillerin sözle sataşıp hitap etmesi; 1 geçiş: 25:63)"
+      }
+    ],
+    "irab_default": "İki taraf arası karşılıklı hitap, sözlü talep veya sorgulanan ciddi mesele bildiren `خ-ط-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:51",
+          "15:57",
+          "20:95",
+          "28:23",
+          "51:31"
+        ],
+        "text": "Kıssalarda 'Meseleniz Nedir?' (`مَا خَطْبُ...`) Sorgulamaları (`12:51`, `15:57`, `20:95`, `28:23`, `51:31`): Mısır kadınlarının sorgulanması, İbrahim'in gönderilen elçilere görevlerini sorması, Musa'nın Sâmirî'ye ve Medyen suyundaki iki kadına durumlarını sorması."
+      },
+      {
+        "ayahs": [
+          "38:20",
+          "38:23",
+          "78:37"
+        ],
+        "text": "Hüküm, Tartışma ve Hesap Huzurunda Hitap (`38:20`, `38:23`, `78:37`): Davud'a hak ile batılı ayıran kesin sözlü hüküm (`فَصْلَ ٱلْخِطَابِ`) verilmesi, davacının tartışmada sözle bastırılma şikâyeti ve Rahmân huzurunda izinsiz hitap edilememesi."
+      },
+      {
+        "ayahs": [
+          "11:37",
+          "23:27",
+          "25:63"
+        ],
+        "text": "Sözlü Başvuru Yasağı ve Cahil Hitabına Duruş (`11:37`, `23:27`, `25:63`): Nûh'un zalimler hakkında söz açmaktan menedilmesi ve Rahmân'ın kullarının cahillerin sataşan hitabına esenlik sözüyle karşılık vermesi."
+      },
+      {
+        "ayahs": [
+          "2:235"
+        ],
+        "text": "Evlilik İçin Sözlü Talip Olma (`2:235`): İddet bekleyen kadınlara üstü kapalı evlilik niyeti sezdirmenin (`خِطْبَةِ ٱلنِّسَآءِ`) hukuki sınırı."
+      }
+    ],
+    "context_default": "Karşılıklı sözlü hitap, talep veya sorgulanan mesele bağlamı"
   }
 }
