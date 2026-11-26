@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 18 / 50 Kök (Toplam Mühürlü: 718 Kök | Güncel Kapsam: %94,37)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 19 / 50 Kök (Toplam Mühürlü: 719 Kök | Güncel Kapsam: %94,38)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -25,7 +25,7 @@
 | 16 | Sure %100 Kilidi | 1626 | `ض-ب-ح` | `D-B-H` | **1** | 1 | 100:1 | Dabh (Hızlı Koşu Sırasında Göğüsten Yükselen Nefes Nefese Soluma Sesi) | ✅ **MÜHÜRLÜ** |
 | 17 | Sure %100 Kilidi | 1627 | `ق-د-ح` | `K-D-H` | **1** | 1 | 100:2 | Kadh (Sert Çarpışmayla Kıvılcım ve Ateş Çakmak) | ✅ **MÜHÜRLÜ** |
 | 18 | Sure %100 Kilidi | 1629 | `ك-ن-د` | `K-N-D` | **1** | 1 | 100:6 | Kenûd (Bağı Kesip Koparmak ve Çorak Toprak Gibi Nimete Aşırı Nankörlük) | ✅ **MÜHÜRLÜ** |
-| 19 | Sure %100 Kilidi | 1628 | `ن-ق-ع` | `N-K-A` | **1** | 1 | 100:4 | Nak' (Sure 100 Âdiyât son kilidi: 100:4 hızla koparılıp göğe savrulan yoğun toz bulutu) | ⏳ *Bekliyor* |
+| 19 | Sure %100 Kilidi | 1628 | `ن-ق-ع` | `N-K-A` | **1** | 1 | 100:4 | Nak' (Şiddetli Hareketle Koparılıp Göğe Savrulan Yoğun Toz Bulutu) | ✅ **MÜHÜRLÜ** |
 | 20 | Sure %100 Kilidi | 602 | `ب-ث-ث` | `B-S-S` | **9** | 9 | 2:164 | Bess ve Mebsûs (Sure 101 Kâria & 88 Ğâşiye kilidi + 9 geçiş: 2:164, 4:1, 12:86, 88:16, 101:4 dört bir yana saçıp yaymak ve içteki derdi dökmek) | ⏳ *Bekliyor* |
 | 21 | Sure %100 Kilidi | 649 | `ع-ي-ش` | `A-Y-S` | **8** | 8 | 7:10 | Îşe ve Meâş (Sure 101 Kâria kilidi + 8 geçiş: 7:10, 15:20, 20:124, 69:21, 101:7 geçim zemini ve yaşanılan hayat düzeyi) | ⏳ *Bekliyor* |
 | 22 | Sure %100 Kilidi | 722 | `ح-م-ي` | `H-M-Y` | **6** | 5 | 5:103 | Hamiyye ve Hâmiye (Sure 101 Kâria & 88 Ğâşiye kilidi | 1M + 6 geçiş: 5:103, 9:35, 48:26, 88:4, 101:11 kızışıp kor hâline gelmek ve koruyucu taşkınlık) | ⏳ *Bekliyor* |
