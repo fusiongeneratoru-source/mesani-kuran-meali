@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 19 / 50 Kök (Toplam Mühürlü: 819 Kök | Güncel Kapsam: %95,59)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 820 Kök | Güncel Kapsam: %95,60)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -26,7 +26,7 @@
 | 17 | Sure %100 Kilidi | 641 | `خ-م-س` | `H-M-S` | **8** | 8 | 3:125 | Hamse, Humus, Hâmise ve Hamsîn (Beş, Beşte Bir Pay, Beşinci Tanıklık ve Elli Ölçüsü) | ✅ **MÜHÜRLÜ** |
 | 18 | Sure %100 Kilidi | 779 | `س-د-س` | `S-D-S` | **5** | 4 | 4:11 | Südüs ve Sâdis (Miras Paylaşımında Altıda Bir Kesir ve Sıralamada Altıncı Konum) | ✅ **MÜHÜRLÜ** |
 | 19 | Sure %100 Kilidi | 985 | `ش-ك-و` | `S-K-W` | **3** | 3 | 12:86 | Şekvâ, İştikâ ve Mişkât (İçteki Acı ve Haksızlığı Gidermesi İçin Allah'a Arz Etmek; Duvardaki Lamba Yuvası) | ✅ **MÜHÜRLÜ** |
-| 20 | Sure %100 Kilidi | 1044 | `ف-س-ح` | `F-S-H` | **3** | 1 | 58:11 | Tefessüh ve Fesh (Sure 58 Mücâdele kilidi + 3 geçiş: 58:11 darlığı giderip oturumda başkalarına yer açmak ve gönül genişliği) | ⏳ *Bekliyor* |
+| 20 | Sure %100 Kilidi | 1044 | `ف-س-ح` | `F-S-H` | **3** | 1 | 58:11 | Fesh ve Tefessüh (Oturulan Mekânda Yer Açıp Genişlik Sağlamak ve Ferahlık Sunmak) | ✅ **MÜHÜRLÜ** |
 | 21 | Sure %100 Kilidi | 944 | `ك-ب-ت` | `K-B-T` | **3** | 2 | 3:127 | Kebt (Sure 58 Mücâdele kilidi + 3 geçiş: 3:127, 58:5 öfkeyle yüzüstü bastırıp bozguna ve alçalmaya uğratmak) | ⏳ *Bekliyor* |
 | 22 | Sure %100 Kilidi | 1086 | `ح-و-ذ` | `H-W-Z` | **2** | 2 | 4:141 | İstihvâz (Sure 58 Mücâdele kilidi + 2 geçiş: 4:141, 58:19 sürü güder gibi bütünüyle kuşatıp denetim altına almak) | ⏳ *Bekliyor* |
 | 23 | Sure %100 Kilidi | 1547 | `ج-ل-س` | `C-L-S` | **1** | 1 | 58:11 | Mecâlis (Sure 58 Mücâdele son kilidi: 58:11 topluca oturulup görüşülen toplantı/meclis alanları) | ⏳ *Bekliyor* |

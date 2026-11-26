@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (19/50 — Toplam 819 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (20/50 — Toplam 820 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -42692,7 +42692,8 @@
           "و-س-ع [ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ ... مَكَانًا ضَيِّقًا ... أَرْضُ ٱللَّهِ وَٰسِعَةٌ] (Bolluk, Ferahlık ve Geniş Alan ↔ Sıkışıp Kısıtlanan Darlık: 4:97, 9:118, 25:13, 65:6-7)",
           "ص-ف-ح",
           "م-ه-د (م-ه-د ↔ ض-ي-ق Mesânî simetrisi)",
-          "ف-ج-ج (Fecc/Ficâc: dağlar ve yükseltiler arasında genişçe açılıp aralanan geçit ↔ ض-ي-ق darlık, tıkanıklık ve geçit vermez sıkışma)"
+          "ف-ج-ج (Fecc/Ficâc: dağlar ve yükseltiler arasında genişçe açılıp aralanan geçit ↔ ض-ي-ق darlık, tıkanıklık ve geçit vermez sıkışma)",
+          "ف-س-ح (Fesh/Tefessüh: daralan bir mekânda aralık açıp yer ve ferahlık sağlamak ↔ ض-ي-ق sıkıştırıp daraltmak ve geçişi/alanı kapatmak)"
         ],
         "key_ayahs": [
           "6:125",
@@ -68934,6 +68935,84 @@
           "meaning": "Duvarın içinde arkası kapalı lamba/kandil yuvası (niş)",
           "examples": [
             "24:35"
+          ]
+        }
+      ]
+    },
+    "ف-س-ح": {
+      "root_latin": "F-S-H",
+      "arabic": "ف-س-ح",
+      "rank": 1044,
+      "morphology_and_rasm": {
+        "buckwalter": "fsH",
+        "rasm_skeleton": "فسح (harekesiz iskelet; تفسحوا / فافسحوا / يفسح biçimleriyle `58:11`'de 3 kez)",
+        "approx_frequency": "3 geçiş / 1 ayet (1x Form V تَفَسَّحُوا, 2x Form I فَافْسَحُوا ve يَفْسَحِ — tamamı `58:11`)",
+        "verb_forms_used": [
+          "Form V (تَفَعُّل — 1 geçiş): تَفَسَّحُوا (`58:11` — birbirine çaba göstererek yer açıp genişlemek)",
+          "Form I (فَعَلَ يَفْعَلُ — 2 geçiş): فَافْسَحُوا (`58:11` — emir: derhal yer açın), يَفْسَحِ (`58:11` — şart cevabı meczûm: Allah da size genişlik/ferahlık açsın)"
+        ],
+        "noun_forms_used": [],
+        "preposition_patterns": [
+          "تَفَسَّحُوا فِي الْمَجَالِسِ (`58:11`: mekân zarfı `فِي` ile oturulan toplantı alanlarında yer açmak)",
+          "يَفْسَحِ اللَّهُ لَكُمْ (`58:11`: fayda `لِـ` ile Allah'ın sizin için alan/ferahlık açması)"
+        ]
+      },
+      "physical_core": "Sıkışmış bir fiziksel mekânda kenara çekilerek aralık ve açıklık oluşturmak, sıkışıklığı giderip ferah bir alan (`فُسْحَة` / `مَكَان فَسِيح`) açmak; `58:11`'de üç ardışık fiil (`تَفَسَّحُوا` → `فَافْسَحُوا` → `يَفْسَحِ`) toplumsal nezakette fiziksel yer açma ile Allah'ın insanın önünü ve ufkunu açması arasında birebir karşılıklılık yasası kurar.",
+      "ibn_faris_asl": "(فَسَحَ) الْفَاءُ وَالسِّينُ وَالْحَاءُ: كَلِمَةٌ وَاحِدَةٌ تَدُلُّ عَلَى سَعَةٍ وَاتِّسَاعٍ؛ مِنْ ذَلِكَ الْفَسِيحُ: الْوَاسِعُ، وَفَسَّحْتُ الْمَجْلِسَ. [Mu'cemü Mekâyîsi'l-Luğa, c. 4, s. 503, فسح maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökü tek bir asıl kelimeye indirger: 'genişlik ve açılıp ferahlama (سَعَةٌ وَاتِّسَاعٌ)'; `فَسِيح` (geniş ve açık yer) ve `فَسَّحْتُ الْمَجْلِسَ` (oturma yerini genişlettim) örneklerini verir.",
+        "lisan_al_arab": "İbn Manzûr `فَسَحَ لَهُ فِي الْمَجْلِسِ` ifadesini 'oturabilmesi için ona aralık ve yer açmak (`فَرَّجَ لَهُ عَنْ مَكَانٍ يَسَعُهُ`)' olarak tanımlar; `بَلَدٌ فَسِيحٌ` (engelsiz geniş arazi) ve `اِنْفَسَحَ صَدْرُهُ` (göğsü açılıp ferahladı) kullanımlarını aktarır.",
+        "ragib_al_isfahani": "Râğıb `فَسْح` ile `وُسْع` (`و-س-ع`) farkını belirginleştirir: `و-س-ع` genel kapsayıcılık ve yeterlilik iken, `ف-س-ح` özellikle daralmış bir mekânda aralık açıp sıkışıklığı gidererek ferahlık vermektir; insanın başkasının oturmasına yer açması (`فَافْسَحُوا`) Allah'ın da onun yaşam ve gönül alanını genişletmesini (`يَفْسَحِ اللَّهُ لَكُمْ`) doğurur.",
+        "verdict": "`58:11`'deki 3 ardışık geçiş tamamen tek somut eksendedir: **sıkışık mekânda başkasına bilinçli biçimde yer açmak ve bunun karşılığında ilahi ferahlık/genişlik bulmak**."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*psḥ / *pśḥ ('açmak, ferahlatmak, geçit/genişlik vermek')",
+        "hebrew": "פָּסַח (pāsaḥ: adım atıp geçmek/atlamak — farklı semantik kol) ile פָּשַׂח (pāśaḥ: ayırmak/yarmak); Arapça `ف-س-ح` özellikle 'sıkışık mekânı açıp ferahlatmak' anlamında billurlaşmıştır.",
+        "aramaic_syriac": "פְּסַח / ܦܣܚ (pəsaḥ) ve geç Aramice/Süryanicede genişleme-ferahlama çağrışımları; Arapça `فُسْحَة` ve `فَسِيح` mekânsal genişlik alanında özgün bir zenginlik gösterir.",
+        "akkadian": "pašāḫu ('sakinleşmek, gevşemek, rahatlayıp ferahlamak' — dikkat çekici biçimde fiziksel gerginliğin çözülüp ferahlığa dönmesi anlamıyla paralel!)",
+        "comparative_note": "Akadca `pašāḫu` ('gerginliğin çözülüp ferahlaması') ile Arapça `ف-س-ح` ('sıkışıklığı açıp ferahlık sağlamak') arasındaki paralellik, kökün yalnızca geometrik en-boy değil, 'sıkışıklıktan ferahlığa geçiş' deneyimini taşıdığını gösterir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ض-ي-ق (Mekânı ve göğsü daraltıp sıkıştırmak, başkasına yer vermemek ↔ فَسْح sıkışıklığı açıp yer ve ferahlık vermek — `58:11`)"
+        ],
+        "bidirectional_test": "Başkasına yer açıp sıkışıklığı gidermek (`ف-س-ح`) tersine çevrildiğinde alanı kapatıp sıkıştırmak ve daraltmak (`ض-ي-ق`) ortaya çıkar; bu karşıtlık hem mekânsal hem psikolojik düzlemde tam simetriktir."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ج-ل-س",
+          "ن-ش-ز",
+          "ر-ف-ع",
+          "و-س-ع"
+        ],
+        "analysis": "`58:11` iki tamamlayıcı meclis kuralını yan yana koyar: 1) `تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا` (`ف-س-ح` + `ج-ل-س`: oturulan yerde yeni gelenlere yer açmak → karşılığı `يَفْسَحِ اللَّهُ لَكُمْ`), 2) `انشُزُوا فَانشُزُوا` (`ن-ش-ز`: gerektiğinde yerinden kalkıp ayrılmak → karşılığı `يَرْفَعِ اللَّهُ ... دَرَجَاتٍ` `ر-ف-ع`). Ayrıca `و-س-ع` genel genişliği ve kapasiteyi, `ف-س-ح` ise sıkışık bir ortamda aralık açarak başkasını içeri almayı anlatır."
+      },
+      "anchor_ayahs": [
+        "58:11 (يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ — ey güvenenler! Size 'toplantı yerlerinde yer açın' denildiğinde hemen yer açın ki Allah da size genişlik ve ferahlık açsın)"
+      ],
+      "unified_core_mechanism": "`ف-س-ح` kökü `58:11`'deki üç ardışık fiilde **'sıkışık mekânı açarak başkasına alan tanıma ve aynı yasayla ilahi ferahlık bulma'** mekanizmasını işletir: Form V (`تَفَسَّحُوا`) gönüllü ve çabalı biçimde açılmayı, Form I emir (`فَافْسَحُوا`) tereddütsüz icrayı, Form I meczûm (`يَفْسَحِ`) ise bu paylaşımın garantili karşılığını kurar.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Gönüllü Açılma Çağrısı (Form V `تَفَسَّحُوا` — `58:11`): Topluluk içinde birbirine yer açma yönünde karşılıklı esneme ve alan oluşturma.",
+          "Dal 2 — Fiilen Yer Açma ve Karşılık Bulma (Form I `فَافْسَحُوا يَفْسَحِ` — `58:11` [2x]): Emrin anında yerine getirilmesi ve Allah'ın da kuluna ferahlık/alan açması."
+        ],
+        "irab_notes": "`تَفَسَّحُوا` Form V emir çoğul, `فَافْسَحُوا` Form I emir çoğul (`إِذَا` şartının cevabı), `يَفْسَحِ` ise emrin (`افْسَحُوا`) cevabı olarak meczûm muzâri olup sonraki `اللَّهُ` lafzındaki sükûn nedeniyle kesre ile geçilmiştir (`يَفْسَحِ اللَّهُ`)."
+      },
+      "derivatives": [
+        {
+          "form": "تَفَسَّحُوا",
+          "pos": "Fiil (Form V — emir)",
+          "meaning": "Birbirine yer açıp mekânı ferahlatmak",
+          "examples": [
+            "58:11"
+          ]
+        },
+        {
+          "form": "افْسَحُوا / يَفْسَحِ",
+          "pos": "Fiil (Form I — emir / meczûm)",
+          "meaning": "Yer açmak, genişlik ve ferahlık sağlamak",
+          "examples": [
+            "58:11"
           ]
         }
       ]

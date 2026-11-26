@@ -57550,5 +57550,45 @@
       }
     ],
     "context_default": "Acıyı/derdi Allah'a arz etme ve ışığı toplayan duvar yuvası bağlamı"
+  },
+  "ف-س-ح": {
+    "buckwalter": "fsH",
+    "slug": "fsh",
+    "concept_name": "Fesh ve Tefessüh (Oturulan Mekânda Yer Açıp Genişlik Sağlamak ve Ferahlık Sunmak)",
+    "root_latin": "F-S-H",
+    "keywords": [
+      "fesh",
+      "tefessuh",
+      "yer acmak",
+      "genislik vermek",
+      "ferahlik",
+      "meclis edebi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tafas~aHu",
+        "ayahs": [
+          "58:11"
+        ],
+        "label": "Form V emir fiil (`تَفَسَّحُوا` — oturma alanlarında birbirinize yer açıp ferahlık oluşturun; 1 geçiş)"
+      },
+      {
+        "lemma": "yafosaHi",
+        "ayahs": [
+          "58:11"
+        ],
+        "label": "Form I emir ve şart cevabı meczûm fiil (`فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ` — yer açın ki Allah da size genişlik ve ferahlık açsın; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Mekânda ve yaşam alanında yer açıp genişlik sağlamayı bildiren `ف-س-ح` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "58:11"
+        ],
+        "text": "Topluluk Meclisinde Yer Açma ve İlahi Karşılık (`58:11`): Toplantılarda sonradan gelenlere yer açılması istendiğinde daraltmadan genişlik sağlamanın (`تَفَسَّحُوا` / `فَافْسَحُوا`), Allah'ın da o kimselerin önünü ve alanını genişletmesiyle (`يَفْسَحِ اللَّهُ لَكُمْ`) karşılık bulması."
+      }
+    ],
+    "context_default": "Toplantı mekânında yer açma ve genişlik/ferahlık bulma bağlamı"
   }
 }
