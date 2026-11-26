@@ -53551,5 +53551,82 @@
       }
     ],
     "context_default": "Alıkonup hapsedilme, zindan veya mahpus kayıt bağlamı"
+  },
+  "س-ل-ك": {
+    "buckwalter": "slk",
+    "slug": "slk",
+    "concept_name": "Sülûk (Bir Kanaldan veya Hattan Dosdoğru Geçirmek, Nüfuz Ettirmek ve Yola Koyulmak)",
+    "keywords": [
+      "suluk",
+      "seleke",
+      "gecirmek",
+      "nufuz ettirmek",
+      "yola koyulmak",
+      "pinarlara yurutmek",
+      "zincire gecirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "salaka",
+        "ayahs": [
+          "20:53",
+          "26:200",
+          "39:21",
+          "74:42"
+        ],
+        "label": "Form I malum mâzi fiil (`سَلَكَ / سَلَكْنَٰهُ / سَلَكَكُمْ` — `20:53`, `39:21`, `74:42` 3. tekil eril; `26:200` 1. çoğul; 4 geçiş)"
+      },
+      {
+        "lemma": "salaka",
+        "ayahs": [
+          "15:12",
+          "71:20",
+          "72:17",
+          "72:27"
+        ],
+        "label": "Form I malum muzâri fiil (`نَسْلُكُهُۥ`, `لِّتَسْلُكُوا۟` mansub, `يَسْلُكْهُ` şart cevabı meczum, `يَسْلُكُ` merfû; 4 geçiş)"
+      },
+      {
+        "lemma": "salaka",
+        "ayahs": [
+          "16:69",
+          "23:27",
+          "28:32",
+          "69:32"
+        ],
+        "label": "Form I emir fiil (`فَٱسْلُكِى` 2. tekil dişil, `فَٱسْلُكْ / ٱسْلُكْ` 2. tekil eril, `فَٱسْلُكُوهُ` 2. çoğul eril; 4 geçiş)"
+      }
+    ],
+    "irab_default": "Bir kanaldan/hattan geçirmeyi veya yolda ilerlemeyi bildiren Form I fiil (`س-ل-ك` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "16:69",
+          "20:53",
+          "39:21",
+          "71:20"
+        ],
+        "text": "Doğa ve Yeryüzünde Açılan Yollar ve Yeraltı Su Damarları (`16:69`, `20:53`, `39:21`, `71:20`): Yağmur suyunun yeraltı pınarlarına yürütülmesi, yeryüzünde insan ve bal arısı için kolay ve geniş yollar açılıp o yollardan ilerlenmesi."
+      },
+      {
+        "ayahs": [
+          "23:27",
+          "28:32",
+          "72:27"
+        ],
+        "text": "Elçilere Verilen Somut Geçirme ve Koruma Emirleri (`23:27`, `28:32`, `72:27`): Nûh'un gemiye her türden ikişer eş geçirmesi, Musa'nın elini yaka boşluğundan koynuna sokup bembeyaz çıkarması ve seçilen elçinin önüne arkasına gözcü hattı yerleştirilmesi."
+      },
+      {
+        "ayahs": [
+          "15:12",
+          "26:200",
+          "69:32",
+          "72:17",
+          "74:42"
+        ],
+        "text": "Suçlu Kalplere Nüfuz ve Sonraki Hayat Cezasına Geçirilme (`15:12`, `26:200`, `69:32`, `72:17`, `74:42`): Alaycı direnç ve uyarının suçluların kalplerinden geçirilmesi ve yüz çevirenlerin zincire, sarp azaba veya Sakar'a geçirilip sürülmesi."
+      }
+    ],
+    "context_default": "Bir kanal/hat içine geçirme veya açılmış yolda ilerleme bağlamı"
   }
 }
