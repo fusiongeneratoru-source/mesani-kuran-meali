@@ -52402,5 +52402,62 @@
       }
     ],
     "context_default": "Harekete kalkışmaktan alıkonulup geride bırakılma bağlamı"
+  },
+  "غ-و-ر": {
+    "buckwalter": "gwr",
+    "slug": "gwr",
+    "concept_name": "Gavr / Gâr / Megârât (Yerin Dibine Çekilip Derinleşmek ve Dağ İçi Kuytu Kovuk)",
+    "keywords": [
+      "gavr",
+      "gar",
+      "magara",
+      "megarat",
+      "suyun cekilmesi",
+      "derinlik",
+      "kovuk",
+      "yerin dibi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "gawor",
+        "ayahs": [
+          "18:41",
+          "67:30"
+        ],
+        "label": "Mansûb masdar-haber (`أَوْ يُصْبِحَ مَآؤُهَا غَوْرًا`, `إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا` — nâkıs fiil `أَصْبَحَ`'nin haberi olarak `غَائِرًا` anlamında mübalağa; 2 geçiş: 18:41, 67:30)"
+      },
+      {
+        "lemma": "gaAr",
+        "ayahs": [
+          "9:40"
+        ],
+        "label": "Marife mecrûr tekil isim (`إِذْ هُمَا فِى ٱلْغَارِ` — `فِى` harf-i cerriyle mecrûr, dağ içindeki sığınma kovuğu; 1 geçiş: 9:40)"
+      },
+      {
+        "lemma": "maga`ra`t",
+        "ayahs": [
+          "9:57"
+        ],
+        "label": "Düzenli dişil çoğul ism-i mekân (`أَوْ مَغَٰرَٰتٍ` — `مَلْجَـًٔا` üzerine atıfla mansûb, nasb alâmeti kesra; 1 geçiş: 9:57)"
+      }
+    ],
+    "irab_default": "Derinliğe çekilme veya dağ içi kovuk bildiren isim (`غ-و-ر` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:41",
+          "67:30"
+        ],
+        "text": "Suyun Yerin Dibine Çekilip Erişilmez Olması (`18:41`, `67:30`): Bahçe sahibinin kibir sınaması ve genel insanlık uyarısı içinde suyun toprağın dibine batıp (`غَوْرًا`) göz önündeki akan pınar (`مَآءٍ مَّعِينٍۭ`) nimetinden kopması."
+      },
+      {
+        "ayahs": [
+          "9:40",
+          "9:57"
+        ],
+        "text": "Dağ İçi Mağara ve Kaçış Kovukları (`9:40`, `9:57`): Zorunlu hicret anında iki kişinin sığındığı ve sükûnetin indiği mağara (`ٱلْغَارِ`) ile sorumluluktan kaçanların can havliyle aradığı kuytu kovuklar (`مَغَٰرَٰتٍ`) karşıtlığı."
+      }
+    ],
+    "context_default": "Derinliğe çekilen su ve dağ içi kovuk bağlamı"
   }
 }

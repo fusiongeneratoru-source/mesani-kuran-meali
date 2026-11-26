@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 731,
+    "total_locked": 732,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2593,7 +2593,8 @@
         "ك-ب-ر (K-B-R — Çift Yönlü Mesânî Karşılığı: 2:45)",
         "ك-ل-م (K-L-M (klm) — Çift Yönlü Mesânî Karşılığı: 9:40)",
         "م-ل-أ (M-L-' (mlA) — Çift Yönlü Mesânî Karşılığı: 3:91, 37:66, 56:53, 18:18)",
-        "ض-ر-ع (D-R-A (DrE) — Çift Yönlü Mesânî Karşılığı: `7:55`, `23:76` — içten alçalıp aşağıdan yakarmak `تَضَرُّعًا` ↔ üstünlük ve yükseklik iddiasıyla dikleşip taşkınlık yapmak `عَلَا`)"
+        "ض-ر-ع (D-R-A (DrE) — Çift Yönlü Mesânî Karşılığı: `7:55`, `23:76` — içten alçalıp aşağıdan yakarmak `تَضَرُّعًا` ↔ üstünlük ve yükseklik iddiasıyla dikleşip taşkınlık yapmak `عَلَا`)",
+        "غ-و-ر (G-W-R (gwr) — Çift Yönlü Mesânî Karşılığı: `9:40` [فِى ٱلْغَارِ ... كَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا], `67:30` — aşağıya ve yerin dibine çökmüş derinlik `غَوْر / غَار` ↔ yukarıya yükselmiş yücelik ve irtifa `عُلْيَا`)"
       ]
     },
     "و-ك-ل": {
@@ -9441,6 +9442,16 @@
         "ع-د-د (A-D-D — Çift Yönlü Mesânî Karşılığı: `9:46` [وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً ... فَثَبَّطَهُمْ] — yola çıkmak için önceden teçhizat ve hazırlık yapmak `أَعَدُّوا۟ لَهُۥ عُدَّةً` ↔ hazırlıksızlık içinde ağırdan alıp geride kalmak `فَثَبَّطَهُمْ`)",
         "س-ر-ع (S-R-A (srE) — Çift Yönlü Mesânî Karşılığı: `9:46` [فَثَبَّطَهُمْ] — çevikçe ve ivmeyle ileri atılmak `سَرُعَ` ↔ ağırlık basıp oyalanarak geri kalmak `ثَبَّطَ`)",
         "خ-ر-ج (H-R-C — Çift Yönlü Mesânî Karşılığı: `9:46` [وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ ... فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟] — kararlılıkla dışarı/sefere çıkmak `ٱلْخُرُوجَ` ↔ yerinde alıkonup oturanlarla kalmak `فَثَبَّطَهُمْ`)"
+      ]
+    },
+    "غ-و-ر": {
+      "latin": "G-W-R (gwr)",
+      "core": "`غ-و-ر` kökü Kur'an korpusundaki 4 isim geçişinin tamamında İbn Fâris'in birinci aslı olan **'aşağıya ve içe çöküp derinleşmek, yerin dibine çekilmek'** mekaniğini işletir: `18:41` ve `67:30`'da canlı yaşamının kaynağı olan suyun toprağın dibine çekilip erişilmez hâle gelmesi (`غَوْرًا` ↔ `مَآءٍ مَّعِينٍۭ`), `9:40` ve `9:57`'de ise dağın derinliğine doğru oyulmuş kuytu kaya kovuğu (`ٱلْغَارِ` / `مَغَٰرَٰتٍ`). İbn Fâris'in ikinci aslı olan baskın/akın anlamı (`إِغَارَة`) sözlükte ayrı bir asıl olarak korunur (QAC `100:3` `ٱلْمُغِيرَٰتِ` geçişini `غ-ي-ر` altında işler).",
+      "physical": "İki ayrık sözlük aslının Kur'an'daki tam karşılığı olan birinci asıl: bir yüzeyin, suyun veya arazi kesiminin **aşağıya ve içe doğru çöküp alçalması, yerin dibine çekilip derin bir çukur/kovuk oluşturması** (`خُفُوضٌ فِي الشَّيْءِ وَانْحِطَاطٌ وَتَطَامُنٌ`): yerin dibine çekilip kaybolan su (`غَوْرًا`), alçak ova/çöküntü (`الْغَوْر`) ve dağın içine doğru oyulup derinleşen kovuk (`الْغَار / مَغَارَات`).",
+      "opposites": [
+        "ع-ي-ن (A-Y-N — Çift Yönlü Mesânî Karşılığı: `67:30` [إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ] — yerin dibine çekilip görünmez ve erişilmez olan su `غَوْرًا` ↔ göz önünde fışkırıp akan duru pınar suyu `مَآءٍ مَّعِينٍۭ`)",
+        "م-و-ه (M-W-H (mwh) — Çift Yönlü Mesânî Karşılığı: `18:41`, `67:30` [يُصْبِحَ مَآؤُهَا غَوْرًا / مَآؤُكُمْ غَوْرًا] — suyun toprağın dibine çekilip kaybolması `غَوْرًا` ↔ yaşam veren akıcı yüzey suyunun varlığı `مَآء`)",
+        "ع-ل-و (A-L-W — Çift Yönlü Mesânî Karşılığı: `9:40` [فِى ٱلْغَارِ ... كَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا], `67:30` — aşağıya ve yerin dibine çökmüş derinlik `غَوْر / غَار` ↔ yukarıya yükselmiş yücelik ve irtifa `عُلْيَا`)"
       ]
     }
   }
