@@ -57904,5 +57904,46 @@
       }
     ],
     "context_default": "Dıştan zayıf/önemsiz görünen başlangıç veya bayağı/değersiz karakter bağlamı"
+  },
+  "ف-ر-ت": {
+    "buckwalter": "frt",
+    "slug": "frt",
+    "concept_name": "Furât (Susuzluğu Kökünden Kırıp Söndüren, Son Derece Tatlı, Durgun ve İçimi Yumuşak Su)",
+    "root_latin": "F-R-T",
+    "keywords": [
+      "furat",
+      "tatli su",
+      "susuzlugu kiran su",
+      "icimi kolay su",
+      "iki deniz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "furaAt",
+        "ayahs": [
+          "25:53",
+          "35:12",
+          "77:27"
+        ],
+        "label": "Sıfat/isim (`فُرَاتٌ` / `فُرَاتًا` — susuzluğu anında kırıp söndüren son derece tatlı ve yumuşak su; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Susuzluğu kıran son derece tatlı ve içimi rahat suyu bildiren `ف-ر-ت` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "25:53",
+          "35:12"
+        ],
+        "text": "İki Su Kütlesinin Karşıtlığı (`25:53`, `35:12`): Biri son derece tatlı ve içimi yumuşak (`عَذْبٌ فُرَاتٌ`), diğeri yakıcı derecede tuzlu ve acı (`مِلْحٌ أُجَاجٌ`) iki büyük su kütlesinin birbirine karışmadan yan yana akması."
+      },
+      {
+        "ayahs": [
+          "77:27"
+        ],
+        "text": "Yüksek Dağlarla Beslenen Tatlı Su Kaynakları (`77:27`): Yeryüzüne yüksek dağlar (`رَوَاسِيَ شَامِخَاتٍ`) yerleştirilip insanlara onlardan süzülen tatlı suyun (`مَاءً فُرَاتًا`) içirilmesi."
+      }
+    ],
+    "context_default": "Susuzluğu gideren son derece tatlı ve yumuşak içimli su bağlamı"
   }
 }

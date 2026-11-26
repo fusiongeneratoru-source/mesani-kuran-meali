@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 27 / 50 Kök (Toplam Mühürlü: 827 Kök | Güncel Kapsam: %95,64)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 28 / 50 Kök (Toplam Mühürlü: 828 Kök | Güncel Kapsam: %95,65)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -34,7 +34,7 @@
 | 25 | Sure %100 Kilidi | 828 | `ن-س-ف` | `N-S-F` | **5** | 3 | 20:97 | Nesf (Temelinden Söküp Un Ufak Ederek Rüzgârla veya Suya Savurup İzini Silmek) | ✅ **MÜHÜRLÜ** |
 | 26 | Sure %100 Kilidi | 855 | `ه-ن-أ` | `H-N-E` | **4** | 4 | 4:4 | Henî' (Zahmetsiz, İç Huzuruyla Sindirilen, Boğazda Kalmayan Afiyetli ve Gönül Hoşnutluğu Veren Nimet) | ✅ **MÜHÜRLÜ** |
 | 27 | Sure %100 Kilidi | 924 | `م-ه-ن` | `M-H-N` | **4** | 4 | 32:8 | Mehîn (Dıştan Bakınca Değersiz, Zayıf ve Önemsiz Görünen Su Damlası; Bayağı ve Aşağılık Karakter) | ✅ **MÜHÜRLÜ** |
-| 28 | Sure %100 Kilidi | 1023 | `ف-ر-ت` | `F-R-T` | **3** | 3 | 25:53 | Furât (Sure 77 Mürselât kilidi + 3 geçiş: 25:53, 35:12, 77:27 susuzluğu anında kesen tatlı, berrak ve içimi rahat su) | ⏳ *Bekliyor* |
+| 28 | Sure %100 Kilidi | 1023 | `ف-ر-ت` | `F-R-T` | **3** | 3 | 25:53 | Furât (Susuzluğu Kökünden Kırıp Söndüren, Son Derece Tatlı, Durgun ve İçimi Yumuşak Su) | ✅ **MÜHÜRLÜ** |
 | 29 | Sure %100 Kilidi | 1583 | `ش-م-خ` | `S-M-H` | **1** | 1 | 77:27 | Şâmihât (Sure 77 Mürselât kilidi: 77:27 başını göğe doğru yüceltip yükselen ulu dağlar) | ⏳ *Bekliyor* |
 | 30 | Sure %100 Kilidi | 1582 | `ك-ف-ت` | `K-F-T` | **1** | 1 | 77:25 | Kifât (Sure 77 Mürselât son kilidi: 77:25 dirileri ve ölüleri sinesinde derleyip toplayan yeryüzü) | ⏳ *Bekliyor* |
 | 31 | Sure %100 Kilidi | 656 | `س-ر-ي` | `S-R-Y` | **8** | 8 | 11:81 | Esrâ, Yesrî ve Seriyy (Sure 89 Fecr kilidi + 8 geçiş: 11:81, 15:65, 17:1, 19:24, 20:77, 26:52, 44:23, 89:4 geceleyin yola koyulup yürümek ve ince dere/akarsu) | ⏳ *Bekliyor* |
