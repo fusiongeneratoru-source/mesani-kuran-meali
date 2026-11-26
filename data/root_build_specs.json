@@ -61448,5 +61448,75 @@
       }
     ],
     "context_default": "Yeni yaratılış, dağlardaki çizgili katman şeritleri ve yüce azamet bağlamı"
+  },
+  "ز-ي-ل": {
+    "buckwalter": "zyl",
+    "slug": "zyl",
+    "concept_name": "Zeyl, Tezyîl ve Tezeyyül (Birbirinden Ayırıp Koparmak — Olumsuzlukla 'Ayrılmayıp Sürekli Devam Etmek')",
+    "root_latin": "Z-Y-L",
+    "keywords": [
+      "zeyl",
+      "tezyil",
+      "tezeyyul",
+      "ayirmak",
+      "ayrilmak",
+      "devam etmek",
+      "la yezalu",
+      "ma zalet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "zaAlat",
+        "ayahs": [
+          "2:217",
+          "5:13",
+          "9:110",
+          "11:118",
+          "13:31",
+          "21:15",
+          "22:55",
+          "40:34"
+        ],
+        "label": "Form I nâkıs süreklilik fiili (`مَا زَالَ / لَا يَزَالُ` — kökü 'ayrılmak' olup olumsuzlukla birleşince 'ayrılmamak = kesintisiz devam etmek': `2:217, 5:13, 9:110, 11:118, 13:31, 21:15, 22:55, 40:34`; 8 geçiş)"
+      },
+      {
+        "lemma": "zay~alo",
+        "ayahs": [
+          "10:28"
+        ],
+        "label": "Form II (Tef'îl) mâzî fiil (`فَزَيَّلْنَا بَيْنَهُمْ` — ortak koşanlarla koştukları ortakların aralarındaki tüm bağları kesin biçimde ayırıp kopardık; 1 geçiş)"
+      },
+      {
+        "lemma": "tazay~alu",
+        "ayahs": [
+          "48:25"
+        ],
+        "label": "Form V (Tefe'ul) mâzî fiil (`لَوْ تَزَيَّلُوا۟` — Mekke'deki gizli inananlarla diğerleri birbirlerinden ayrılıp seçilmiş olsalardı; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Ayırmayı/ayrılmayı veya olumsuzlukla kesintisiz sürekliliği bildiren `ز-ي-ل` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:217",
+          "5:13",
+          "9:110",
+          "11:118",
+          "13:31",
+          "21:15",
+          "22:55",
+          "40:34"
+        ],
+        "text": "Olumsuzlukla Kesintisiz Süreklilik (`مَا زَالَ / لَا يَزَالُ` — 8 ayet): Düşmanların savaşmayı sürdürmesi (`2:217`), anlaşmayı bozanların hıyanetinin sürmesi (`5:13`), fitne yapısının kalpte sürekli kuşku bırakması (`9:110`), insanların görüş ayrılığının sürmesi (`11:118`), hakikati örtenlerin kuşku ve musibet içinde kalmayı sürdürmesi (`13:31`, `22:55`, `40:34`) ve yıkılan kentlerin feryadının kesilmemesi (`21:15`)."
+      },
+      {
+        "ayahs": [
+          "10:28",
+          "48:25"
+        ],
+        "text": "Somut Ayırma ve Birbirinden Seçilip Ayrılma (`10:28`, `48:25`): Hesap gününde ortak koşanlarla ortak edindiklerinin arasının kesin biçimde ayrılıp koparılması (`فَزَيَّلْنَا بَيْنَهُمْ`, `10:28`) ve Hudeybiye bağlamında Mekke'deki tanınmayan inananlarla diğerleri birbirinden ayrılmış olsaydı (`لَوْ تَزَيَّلُوا۟`, `48:25`) hükmün farklı olacağı vurgusu."
+      }
+    ],
+    "context_default": "Ayırma/ayrılma ve olumsuzlukla kesintisiz süreklilik bağlamı"
   }
 }

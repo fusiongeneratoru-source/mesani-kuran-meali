@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 897,
+    "total_locked": 898,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1622,7 +1622,8 @@
         "س-ط-ح (S-T-H (sTH) — Çift Yönlü Mesânî Karşılığı: `88:20` [سُطِحَتْ] — geniş bir yüzey hâlinde dışa doğru yayılıp açılmak ↔ tek bir kütle hâlinde içe doğru toplanıp büzülmek `جَمَعَ`)",
         "ص-د-ع (S-D-E (SdE) — Çift Yönlü Mesânî Karşılığı: `30:43` [يَوْمَئِذٍ يَصَّدَّعُونَ] — insanların bölük bölük yarılıp ayrışması `تَصَدُّع` ↔ bir araya toplanması `جَمْع`)",
         "ط-ح-و (T-H-V (THw) — Çift Yönlü Mesânî Karşılığı: `91:6` — dağılmış olanı bir araya büzüp toplamak `جَمْع` ↔ yeryüzünü her yöne genişletip yaymak `طَحَىٰهَا`)",
-        "ز-ب-ر (Z-B-R (zbr) — Çift Yönlü Mesânî Karşılığı: `23:53` — tek bütün halinde birleşip toplanmak `جَمْع` ↔ ortak hakikat işini parçalayıp ayrı bloklara/kümeler halinde bölmek `زُبُرًا`)"
+        "ز-ب-ر (Z-B-R (zbr) — Çift Yönlü Mesânî Karşılığı: `23:53` — tek bütün halinde birleşip toplanmak `جَمْع` ↔ ortak hakikat işini parçalayıp ayrı bloklara/kümeler halinde bölmek `زُبُرًا`)",
+        "ز-ي-ل (Tezyîl: aralarını ayırıp seçmek ↔ ج-م-ع bir araya toplayıp birleştirmek — `10:28` `نَحْشُرُهُمْ جَمِيعًا ... فَزَيَّلْنَا بَيْنَهُمْ`)"
       ]
     },
     "ن-ظ-ر": {
@@ -6335,7 +6336,8 @@
         "ف-ض-ض (F-D-D (fDD) — Çift Yönlü Mesânî Karşılığı: 3:159, 62:11, 63:7)",
         "ك-ن-د (K-N-D (knd) — Çift Yönlü Mesânî Karşılığı: `100:6` [لَكَنُودٌ] — İbn Fâris'in ipi kesme çekirdeğiyle vefa bağını koparmak `كَنُود` ↔ sorumluluk ve vefa bağını koparmadan bitiştirip sürdürmek `وَصَلَ`)",
         "ص-د-ع (S-D-E (SdE) — Çift Yönlü Mesânî Karşılığı: `59:21`, `86:12` — sert yapıda yarık ve çatlak açılması `صَدْع / تَصَدُّع` ↔ kopuksuz bitişip birleşmek `وَصْل`)",
-        "ق-ض-ب (Kadb: dalı veya yeşil bitkiyi kesip biçmek ↔ و-ص-ل koparmadan birbirine bitiştirip birleştirmek)"
+        "ق-ض-ب (Kadb: dalı veya yeşil bitkiyi kesip biçmek ↔ و-ص-ل koparmadan birbirine bitiştirip birleştirmek)",
+        "ز-ي-ل (Tezyîl/Tezeyyül: aradaki bağı koparıp birbirinden ayırmak ↔ و-ص-ل birleştirip bağ kurmak — `10:28`)"
       ]
     },
     "ف-ر-د": {
@@ -11214,6 +11216,15 @@
       "opposites": [
         "ق-د-م (Eski ve önceki olan ↔ ج-د-د yepyeni olan — `50:15` `بِٱلْخَلْقِ ٱلْأَوَّلِ ... مِّنْ خَلْقٍ جَدِيدٍ`)",
         "ب-ل-و (Eskiyip yıpranmak ↔ ج-د-د yepyeni bir yaratılışla tazelenmek)"
+      ]
+    },
+    "ز-ي-ل": {
+      "latin": "Z-Y-L",
+      "core": "`ز-ي-ل` kökü 10 geçişinde **'arayı ayırıp birbirinden seçmek (`10:28`, `48:25`) ve olumsuzluk edatıyla bir hâlden ayrılmayıp kesintisiz sürdürmek (`مَا زَالَ / لَا يَزَالُ`, 8 geçiş)'** çekirdeğini işler.",
+      "physical": "İki şeyi veya iki grubu birbirinden ayırıp mesafe koymak (`التَّفْرِيقُ وَالْمُبَايَنَةُ` — `زَيَّلَ بَيْنَهُمْ`: aralarını ayırdı; `تَزَيَّلُوا`: birbirlerinden seçilip ayrıldılar); bu ayrılma fiili olumsuzlukla birleştiğinde (`مَا زَالَ / لَا يَزَالُ`: 'bir hâlden ayrılmadı/kopmadı') kesintisiz süreklilik doğar.",
+      "opposites": [
+        "و-ص-ل (Bağlayıp bitiştirmek ↔ ز-ي-ل aradaki bağı ayırıp koparmak — `10:28`)",
+        "ج-م-ع (Bir araya toplayıp birleştirmek ↔ ز-ي-ل birbirinden ayırıp seçmek — `10:28` `نَحْشُرُهُمْ جَمِيعًا ... فَزَيَّلْنَا بَيْنَهُمْ`)"
       ]
     }
   }
