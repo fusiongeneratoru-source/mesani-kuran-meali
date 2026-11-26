@@ -61654,5 +61654,77 @@
       }
     ],
     "context_default": "Yüz ve iki yüz sayı ölçeği, zaman süresi ve oran ölçütü bağlamı"
+  },
+  "ع-ر-ج": {
+    "buckwalter": "Erj",
+    "slug": "erj",
+    "concept_name": "Urûc, Meâric ve A'rec (Basamaklı Yükselme / Çıkış Merdivenleri ve Yürüyüşte Eğilerek Aksama)",
+    "root_latin": "A-R-C",
+    "keywords": [
+      "uruc",
+      "mearic",
+      "arec",
+      "yukselmek",
+      "cikis merdivenleri",
+      "aksayan",
+      "topal"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaEoruju",
+        "ayahs": [
+          "15:14",
+          "32:5",
+          "34:2",
+          "57:4",
+          "70:4"
+        ],
+        "label": "I. bab muzâri fiil (`يَعْرُجُ / يَعْرُجُونَ / تَعْرُجُ` — göğe doğru basamak basamak yükselmek, kozmik işlerin ve görevlilerin Allah katına yükselip çıkışı; `15:14`, `32:5`, `34:2`, `57:4`, `70:4`; 5 geçiş)"
+      },
+      {
+        "lemma": "maEaArij",
+        "ayahs": [
+          "43:33",
+          "70:3"
+        ],
+        "label": "İsm-i mekân / âlet kırık çoğulu (`مَعَارِجَ / ٱلْمَعَارِجِ`, tekili `مِعْرَاج / مَعْرَج` — üzerine çıkılan gümüş merdivenler [`43:33`] ve yüce yükselme basamaklarının sahibi Allah [`70:3 ذِى ٱلْمَعَارِجِ`]; 2 geçiş)"
+      },
+      {
+        "lemma": ">aEoraj",
+        "ayahs": [
+          "24:61",
+          "48:17"
+        ],
+        "label": "Sıfat-ı müşebbehe (`ٱلْأَعْرَجِ` — yürüyüşünde bir yana eğilerek aksayan, fiziksel yürüme engeli bulunan kimse; sorumluluk ve güçlükten muaf tutulma bağlamında `24:61`, `48:17`; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Basamaklı yükselmeyi (`يَعْرُجُ / مَعَارِج`) veya yürüyüşteki aksamayı (`ٱلْأَعْرَج`) bildiren `ع-ر-ج` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "32:5",
+          "34:2",
+          "57:4",
+          "70:3",
+          "70:4"
+        ],
+        "text": "Gök ile Yer Arasındaki Çift Yönlü Yükseliş ve `ذِى ٱلْمَعَارِجِ` (`32:5`, `34:2`, `57:4`, `70:3`, `70:4`): Allah'ın gökten yere yönettiği düzenin tekrar O'na yükselmesi (`32:5`), gökten inenle (`يَنزِلُ`) göğe yükseleni (`يَعْرُجُ`) eksiksiz bilmesi (`34:2`, `57:4`) ve yükseliş basamaklarının sahibi (`ذِى ٱلْمَعَارِجِ`) katına elçilik görevlileri (`ٱلْمَلَٰٓئِكَةُ`) ile vahiy taşıyıcısının (`ٱلرُّوحُ`) çıkışı (`70:3-4`)."
+      },
+      {
+        "ayahs": [
+          "15:14",
+          "43:33"
+        ],
+        "text": "Somut Çıkış Merdiveni ve İnatçı Önyargı (`15:14`, `43:33`): Göğe bir kapı açılıp oradan durmadan yukarı çıksalar bile (`يَعْرُجُونَ`, `15:14`) önyargılıların gözlerinin bağlandığını söyleyeceği tespiti ile dünya nimetinin ölçüsüz değeri olsaydı evlere üzerine çıkılan gümüş merdivenler (`مَعَارِجَ`, `43:33`) kurulabileceği benzetmesi."
+      },
+      {
+        "ayahs": [
+          "24:61",
+          "48:17"
+        ],
+        "text": "Yürüme Engellinin (`ٱلْأَعْرَج`) Yükümlülük Muafiyeti (`24:61`, `48:17`): Görme engelli ve hasta ile birlikte aksayarak yürüyen kimseye (`ٱلْأَعْرَجِ`) hem toplumsal yemek paylaşımında (`24:61`) hem de sefer/mücadele yükümlülüğünde (`48:17`) hiçbir darlık ve güçlük (`حَرَجٌ`) yüklenmemesi ilkesi."
+      }
+    ],
+    "context_default": "Basamaklı yükselme/çıkış merdivenleri veya yürüyüşteki aksama muafiyeti bağlamı"
   }
 }

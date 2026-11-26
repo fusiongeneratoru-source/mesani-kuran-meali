@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3N (+5 Sure %100 Tam Kilidi [Sure 32, 44, 78, 76, 70 -> 55 Tam Kilitli Sure] ve Kalan Tüm 9 Geçişli Çekirdek Kökler + 2 Stratejik Kök — 50 Kök -> 950 Kök)",
   "target_count": 50,
-  "locked_count": 0,
+  "locked_count": 1,
   "total_tokens_in_package": 231,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 96.32,
+  "current_coverage_pct": 96.34,
   "target_coverage_pct": 96.78,
   "etap_3n_roots": [
     {
@@ -17,8 +17,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Urûc, Meâric ve A'rec (Sure 32 Secde + Sure 70 Meâric ortak kilidi | 1M + 9 geçiş: 15:14, 24:61, 32:5, 34:2, 43:33, 48:17, 57:4, 70:3, 70:4 basamaklı yükselme/çıkış merdivenleri ve yürüyüşte aksama)",
-      "concept_label": "Analiz Bekliyor (yaEoruju, >aEoraj, maEaArij)",
-      "is_locked": false,
+      "concept_label": "Urûc, Meâric ve A'rec (Basamaklı Yükselme / Çıkış Merdivenleri ve Yürüyüşte Eğilerek Aksama)",
+      "is_locked": true,
       "sample_ayah": "15:14",
       "top_lemmas": [
         "yaEoruju",
