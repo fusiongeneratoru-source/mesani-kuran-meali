@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3K (+5 Sure %100 Tam Kilidi [Sure 84, 86, 90, 91, 45 -> 40 Sure], Kalan Tüm 2+ Açık Mesânî Tepe Uçları ve 12–11 Geçişli Çekirdek Kökler — 50 Kök -> 800 Kök)",
   "target_count": 50,
-  "locked_count": 8,
+  "locked_count": 9,
   "total_tokens_in_package": 308,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 94.91,
+  "current_coverage_pct": 94.93,
   "target_coverage_pct": 95.43,
   "etap_3k_roots": [
     {
@@ -165,8 +165,8 @@
       "frequency": 6,
       "unique_ayahs": 5,
       "rationale": "Mehl, Temhîl ve Mühl (Sure 86 Târık kilidi + 6 geçiş: 18:29, 44:45, 70:8, 73:11, 86:17 ağır/yavaş mühlet vermek ve erimiş maden tortusu)",
-      "concept_label": "Analiz Bekliyor (muhol, mah~ili, >amohilo)",
-      "is_locked": false,
+      "concept_label": "Mehl / Mühl (Ağırdan Alıp Süre Tanımak ve Erimiş Maden/Kaynar Tortu)",
+      "is_locked": true,
       "sample_ayah": "18:29",
       "top_lemmas": [
         "muhol",

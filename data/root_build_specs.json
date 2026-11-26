@@ -54274,5 +54274,64 @@
       }
     ],
     "context_default": "Sert omurga veya direğe germe bağlamı"
+  },
+  "م-ه-ل": {
+    "buckwalter": "mhl",
+    "slug": "mhl",
+    "concept_name": "Mehl / Mühl (Ağırdan Alıp Süre Tanımak ve Erimiş Maden/Kaynar Tortu)",
+    "keywords": [
+      "mehl",
+      "muhl",
+      "muhlet",
+      "emhil",
+      "sure tanimak",
+      "erimis maden",
+      "kaynar tortu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "muhol",
+        "ayahs": [
+          "18:29",
+          "44:45",
+          "70:8"
+        ],
+        "label": "Teşbih harfi `كَـ` ile mecrûr isim (`كَٱلْمُهْلِ` — erimiş maden veya kaynar yağ tortusu gibi; 3 geçiş)"
+      },
+      {
+        "lemma": "mah~ili",
+        "ayahs": [
+          "73:11",
+          "86:17"
+        ],
+        "label": "Form II emir fiil (`وَمَهِّلْهُمْ / فَمَهِّلِ` — ağırdan al, biraz süre tanı; 2 geçiş)"
+      },
+      {
+        "lemma": ">amohilo",
+        "ayahs": [
+          "86:17"
+        ],
+        "label": "Form IV emir fiil (`أَمْهِلْهُمْ رُوَيْدًۢا` — pekiştirme emri: onlara azıcık daha mühlet ver; 1 geçiş: 86:17)"
+      }
+    ],
+    "irab_default": "Mühlet tanıma veya kavurucu eriyik bildiren `م-ه-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:29",
+          "44:45",
+          "70:8"
+        ],
+        "text": "Kavurucu Eriyik İmgesi (`18:29`, `44:45`, `70:8`): Yüzleri kavuran su, karınlarda kaynayan zakkum ve kıyamet günü erimiş maden/yağ tortusu gibi hâle gelen gök."
+      },
+      {
+        "ayahs": [
+          "73:11",
+          "86:17"
+        ],
+        "text": "Kısa Mühlet ve İlahî Karşılığa Güven (`73:11`, `86:17`): Nimet içindeki yalanlayıcılara ve hakikati örtenlere karşı telaşa kapılmadan çok kısa bir süre tanınması."
+      }
+    ],
+    "context_default": "Mühlet tanıma veya kavurucu eriyik bağlamı"
   }
 }
