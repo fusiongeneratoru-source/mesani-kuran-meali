@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 11 / 50 Kök (Toplam Mühürlü: 811 Kök | Güncel Kapsam: %95,53)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 12 / 50 Kök (Toplam Mühürlü: 812 Kök | Güncel Kapsam: %95,54)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -18,7 +18,7 @@
 | 9 | Sure %100 Kilidi | 679 | `ن-د-م` | `N-D-M` | **7** | 7 | 5:31 | Nedâmet ve Nâdimîn (İşlenmiş Bir Eylemden Sonra İçi Yakan Pişmanlık ve Keşke Duygusu) | ✅ **MÜHÜRLÜ** |
 | 10 | Sure %100 Kilidi | 763 | `ع-ن-ت` | `A-N-T` | **5** | 5 | 2:220 | Anet ve İ'nât (Dayanılması Güç Zorluk, Kırıcı Sıkıntı ve Ağır Yük Altında Ezilme) | ✅ **MÜHÜRLÜ** |
 | 11 | Sure %100 Kilidi | 1227 | `ش-ع-ب` | `S-A-B` | **2** | 2 | 49:13 | Şuûb ve Şuab (Tek Gövdeden Dallanıp Ayrılan Büyük İnsan Toplulukları ve Üç Kollu Gölge/Duman Kolları) | ✅ **MÜHÜRLÜ** |
-| 12 | Sure %100 Kilidi | 1513 | `ج-س-س` | `C-S-S` | **1** | 1 | 49:12 | Tecessüs (Sure 49 Hucurât kilidi: 49:12 el yordamıyla yoklarcasına insanların gizli kusurlarını araştırıp gözetlemek) | ⏳ *Bekliyor* |
+| 12 | Sure %100 Kilidi | 1513 | `ج-س-س` | `C-S-S` | **1** | 1 | 49:12 | Tecessüs (Elle Nabız Yoklar Gibi Başkalarının Gizli ve Mahrem Hallerini Deşip Araştırma) | ✅ **MÜHÜRLÜ** |
 | 13 | Sure %100 Kilidi | 1512 | `ل-ق-ب` | `L-K-B` | **1** | 1 | 49:11 | Elkâb (Sure 49 Hucurât kilidi | 1M: 49:11 insanları küçültücü/incitici takma adlarla damgalamak) | ⏳ *Bekliyor* |
 | 14 | Sure %100 Kilidi | 1514 | `ل-ي-ت` | `L-Y-T` | **1** | 1 | 49:14 | Yelitküm (Sure 49 Hucurât kilidi: 49:14 bir kimsenin hak ettiği emeğin karşılığından zerre kadar eksiltmek) | ⏳ *Bekliyor* |
 | 15 | Sure %100 Kilidi | 1511 | `ن-ب-ز` | `N-B-Z` | **1** | 1 | 49:11 | Tenâbüz (Sure 49 Hucurât son kilidi: 49:11 karşılıklı kötü lakaplar fırlatarak birbirini aşağılamak) | ⏳ *Bekliyor* |

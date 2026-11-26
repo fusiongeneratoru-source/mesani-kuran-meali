@@ -57178,5 +57178,37 @@
       }
     ],
     "context_default": "Tek gövdeden dallanma, kol ve büyük insan topluluğu bağlamı"
+  },
+  "ج-س-س": {
+    "buckwalter": "jss",
+    "slug": "jss",
+    "concept_name": "Tecessüs (Elle Nabız Yoklar Gibi Başkalarının Gizli ve Mahrem Hallerini Deşip Araştırma)",
+    "root_latin": "C-S-S",
+    "keywords": [
+      "tecessus",
+      "casusluk",
+      "gizliyi desmek",
+      "mahremiyet ihlali",
+      "el ile yoklamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tajas~asu",
+        "ayahs": [
+          "49:12"
+        ],
+        "label": "Form V nehy-i hâzır fiil (`وَلَا تَجَسَّسُوا` — başkalarının gizli kusur ve mahrem hallerini yoklayıp deşmeyin; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Gizli olanı elle yoklar gibi araştırıp deşmeyi bildiren `ج-س-س` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "49:12"
+        ],
+        "text": "Toplumsal Güven ve Mahremiyetin Korunması (`49:12`): Kötü zandan (`ظَنّ`) kaçınmanın ardından başkalarının gizli açıklarını deşmeme (`لَا تَجَسَّسُوا`) ve arkadan çekiştirmeme (`لَا يَغْتَب`) zincirinin orta halkası."
+      }
+    ],
+    "context_default": "Gizli olanı yoklayıp mahremiyeti deşme yasağı bağlamı"
   }
 }
