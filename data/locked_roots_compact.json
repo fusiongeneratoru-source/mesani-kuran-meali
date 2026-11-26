@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 901,
+    "total_locked": 902,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2799,7 +2799,8 @@
         "م-ك-ن (م-ك-ن ↔ ه-ل-ك Mesânî simetrisi)",
         "ز-ر-ع (Z-R-A (zrE) — Çift Yönlü Mesânî Karşılığı: 39:21 [يُخْرِجُ بِهِۦ زَرْعًا ... حُطَٰمًا — ürünü kurutup helak etmek ↔ tohumu canlandırıp büyütmek])",
         "ح-ر-ث (H-R-S (Hrv) — Çift Yönlü Mesânî Karşılığı: 2:205, 3:117 [وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ / أَصَابَتْ حَرْثَ قَوْمٍ ... فَأَهْلَكَتْهُ — tarlayı ve ekini mahvetmek ↔ sürüp yetiştirmek])",
-        "ع-ي-ش (A-Y-Ş (Ey$) — Doğrudan Aynı Ayet Mesânî Karşılığı: `28:58` [وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا] — refah ve geçim bolluğunu şımarıklıkla heba eden yerleşim `مَعِيشَتَهَا` ↔ o düzenin tamamen yıkılıp yok edilmesi `أَهْلَكْنَا`)"
+        "ع-ي-ش (A-Y-Ş (Ey$) — Doğrudan Aynı Ayet Mesânî Karşılığı: `28:58` [وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا] — refah ve geçim bolluğunu şımarıklıkla heba eden yerleşim `مَعِيشَتَهَا` ↔ o düzenin tamamen yıkılıp yok edilmesi `أَهْلَكْنَا`)",
+        "ن-س-ل (Nesl: canlılığın ve soyun süzülerek sürmesi ↔ ه-ل-ك soyu ve ekini kökten tüketip yok etmek — `2:205` `وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ`)"
       ]
     },
     "ب-ع-ث": {
@@ -11258,6 +11259,15 @@
       "opposites": [
         "ن-ز-ل (Gökten aşağı doğru inmek `يَنزِلُ` ↔ göğe doğru kademeli biçimde yükselmek `يَعْرُجُ` — `34:2`, `57:4` doğrudan aynı ayet dikey döngüsü)",
         "س-و-ي (Dengeli, düzgün ve aksaksız yürüyüş/yapı ↔ ع-ر-ج [الأعرج] bir yana eğilerek aksama — `24:61`, `48:17`)"
+      ]
+    },
+    "ن-س-ل": {
+      "latin": "N-S-L",
+      "core": "`ن-س-ل` kökü tüm 4 geçişinde **'bir kaynaktan sıyrılıp süzülerek dışarı akmak'** tek fiziksel çekirdeğiyle, 2 ayette süzülüp süren soy/kuşağı (`نَسْل`), 2 ayette ise bulunduğu yerden hızla sıyrılıp akın etmeyi (`يَنسِلُونَ`) ifade eder.",
+      "physical": "İbn Fâris'in tek asılda birleştirdiği somut çekirdek: 'bir şeyin içinden sıyrılıp süzülerek çıkması ve akıp gitmesi' (`سَلُّ شَيْءٍ وَانْسِلَالُهُ` — yavruların/soyun anadan süzülüp çıkması `نَسْل`, yürüyenin bulunduğu yerden sıyrılıp hızla akması `يَنْسِلُ`).",
+      "opposites": [
+        "ه-ل-ك (Ekini ve soyu kökten tüketip yok etmek `يُهْلِكَ` ↔ ن-س-ل soyun süzülüp çoğalarak sürmesi `ٱلنَّسْلَ` — `2:205` doğrudan aynı ayet karşıtlığı)",
+        "ع-ق-م (Kısır kalıp soyu ve ürünü kesilmek ↔ ن-س-ل süzülüp çoğalan canlı soy)"
       ]
     }
   }

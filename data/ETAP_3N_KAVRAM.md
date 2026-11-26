@@ -3,12 +3,12 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 1 / 50 Kök (Toplam Mühürlü: 901 Kök | Güncel Kapsam: %96,34)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 2 / 50 Kök (Toplam Mühürlü: 902 Kök | Güncel Kapsam: %96,35)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | 1 | Sure %100 Kilidi | 626 | `ع-ر-ج` | `A-R-C` | **9** | 9 | 15:14 | Urûc, Meâric ve A'rec (Basamaklı Yükselme / Çıkış Merdivenleri ve Yürüyüşte Eğilerek Aksama) | ✅ **MÜHÜRLÜ** |
-| 2 | Sure %100 Kilidi | 842 | `ن-س-ل` | `N-S-L` | **4** | 4 | 2:205 | Nesl ve Yensilûn (Sure 32 Secde kilidi + 4 geçiş: 2:205, 21:96, 32:8, 36:51 soydan süzülüp çıkma ve tepelerden/kabirlerden hızla akın etme) | ⏳ *Bekliyor* |
+| 2 | Sure %100 Kilidi | 842 | `ن-س-ل` | `N-S-L` | **4** | 4 | 2:205 | Nesl ve Yensilûn (Süzülüp Çıkarak Süren Soy/Kuşak ve Tepelerden/Mezarlardan Hızla Akın Etmek) | ✅ **MÜHÜRLÜ** |
 | 3 | Sure %100 Kilidi | 946 | `ض-ج-ع` | `D-C-A` | **3** | 3 | 3:154 | Medâci' (Sure 32 Secde kilidi + 3 geçiş: 3:154, 4:34, 32:16 yan üzere uzanılan yataklar ve düşüp yatılan yerler) | ⏳ *Bekliyor* |
 | 4 | Sure %100 Kilidi | 1013 | `ن-ك-س` | `N-K-S` | **3** | 3 | 21:65 | Neks, Nâkisû ve Tenkîs (Sure 32 Secde kilidi + 3 geçiş: 21:65, 32:12, 36:68 baş aşağı çevirmek, başını mahcubiyetle eğmek ve yaşlılıkta yaratılışı geriye döndürmek) | ⏳ *Bekliyor* |
 | 5 | Sure %100 Kilidi | 1017 | `س-ل-ل` | `S-L-L` | **3** | 3 | 23:12 | Sülâle ve Yetesellelûn (Sure 32 Secde kilidi + 3 geçiş: 23:12, 24:63, 32:8 yumuşakça süzülüp çekilen öz ve sezdirmeden sıvışıp çıkma) | ⏳ *Bekliyor* |

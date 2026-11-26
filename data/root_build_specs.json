@@ -61726,5 +61726,55 @@
       }
     ],
     "context_default": "Basamaklı yükselme/çıkış merdivenleri veya yürüyüşteki aksama muafiyeti bağlamı"
+  },
+  "ن-س-ل": {
+    "buckwalter": "nsl",
+    "slug": "nsl",
+    "concept_name": "Nesl ve Yensilûn (Süzülüp Çıkarak Süren Soy/Kuşak ve Tepelerden/Mezarlardan Hızla Akın Etmek)",
+    "root_latin": "N-S-L",
+    "keywords": [
+      "nesl",
+      "nesil",
+      "soy",
+      "yensilun",
+      "hizla akin etmek",
+      "kusak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nasol",
+        "ayahs": [
+          "2:205",
+          "32:8"
+        ],
+        "label": "Masdar/isim (`ٱلنَّسْلَ / نَسْلَهُۥ` — bir canlıdan süzülüp çıkarak devam eden soy, döl ve yeni kuşaklar: `2:205` ekini ve soyu yok etme bozgunculuğu, `32:8` insanın soyunun süzülmüş özden kılınması; 2 geçiş)"
+      },
+      {
+        "lemma": "yansilu",
+        "ayahs": [
+          "21:96",
+          "36:51"
+        ],
+        "label": "I. bab muzâri fiil (`يَنسِلُونَ` — hiçbir engel tanımadan hızlı ve akıcı biçimde sıyrılıp akın etmek: `21:96` her tepeden akın edenler, `36:51` mezarlardan Rablerine doğru hızla akın edenler; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Süzülüp çıkarak süren soyu (`نَسْل`) veya hızlı ve akıcı biçimde akın etmeyi (`يَنسِلُونَ`) bildiren `ن-س-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:205",
+          "32:8"
+        ],
+        "text": "Soyun Oluşumu ve Korunması (`2:205`, `32:8`): İnsanın soyunun (`نَسْلَهُۥ`) basit bir suyun süzülmüş özünden (`سُلَٰلَةٍ`) var edilmesi (`32:8`) ve yeryüzünde yetki ele geçirince bozgunculuk yapıp ekini ve soyu (`ٱلْحَرْثَ وَٱلنَّسْلَ`) helak etmeye çalışmanın kınanması (`2:205`)."
+      },
+      {
+        "ayahs": [
+          "21:96",
+          "36:51"
+        ],
+        "text": "Tepelerden ve Mezarlardan Hızlı Akın (`21:96`, `36:51`): Ye'cûc ve Me'cûc'un önü açıldığında her yüksek tepeden (`كُلِّ حَدَبٍ`) hızla akın etmeleri (`21:96`) ile sûra üflendiğinde insanların mezarlarından (`مِنَ ٱلْأَجْدَاثِ`) Rablerine doğru hızla akın ederek çıkmaları (`36:51`)."
+      }
+    ],
+    "context_default": "Soyun süzülerek sürmesi veya engel tanımaksızın hızlı akın bağlamı"
   }
 }

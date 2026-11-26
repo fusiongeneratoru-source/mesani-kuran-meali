@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3N (+5 Sure %100 Tam Kilidi [Sure 32, 44, 78, 76, 70 -> 55 Tam Kilitli Sure] ve Kalan Tüm 9 Geçişli Çekirdek Kökler + 2 Stratejik Kök — 50 Kök -> 950 Kök)",
   "target_count": 50,
-  "locked_count": 1,
+  "locked_count": 2,
   "total_tokens_in_package": 231,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 96.34,
+  "current_coverage_pct": 96.35,
   "target_coverage_pct": 96.78,
   "etap_3n_roots": [
     {
@@ -36,8 +36,8 @@
       "frequency": 4,
       "unique_ayahs": 4,
       "rationale": "Nesl ve Yensilûn (Sure 32 Secde kilidi + 4 geçiş: 2:205, 21:96, 32:8, 36:51 soydan süzülüp çıkma ve tepelerden/kabirlerden hızla akın etme)",
-      "concept_label": "Analiz Bekliyor (nasol, yansilu)",
-      "is_locked": false,
+      "concept_label": "Nesl ve Yensilûn (Süzülüp Çıkarak Süren Soy/Kuşak ve Tepelerden/Mezarlardan Hızla Akın Etmek)",
+      "is_locked": true,
       "sample_ayah": "2:205",
       "top_lemmas": [
         "nasol",
