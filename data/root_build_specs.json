@@ -59969,5 +59969,38 @@
       }
     ],
     "context_default": "Bir kimseye istekle yönelme veya el çırpıp gürültü çıkarma bağlamı"
+  },
+  "أ-ب-ب": {
+    "buckwalter": "Abb",
+    "slug": "abb",
+    "concept_name": "Ebb (Hayvanların Otlandığı Taze Çayır, Mer'a ve Yeşil Bitki Örtüsü)",
+    "root_latin": "A-B-B",
+    "keywords": [
+      "ebb",
+      "mera",
+      "otlak",
+      "cayir",
+      "taze yesillik",
+      "hayvan yemi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">ab~",
+        "ayahs": [
+          "80:31"
+        ],
+        "label": "İsim (`وَفَٰكِهَةً وَأَبًّا` — meyvelerle birlikte insanın ve hayvanların yararlandığı taze çayır, otlak ve yeşil bitki örtüsü; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Hayvanların otlandığı taze çayır ve yeşil otlağı bildiren `أ-ب-ب` ismi (`أَبّ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "80:31"
+        ],
+        "text": "İnsan ve Hayvanlar İçin Ortak Rızık Zinciri (`80:31`): `80:24-32` ayetlerinde gökten indirilen suyun yeryüzünü yarıp tane, üzüm, yeşil sebze, zeytin, hurma, sık bahçeler, meyve ve çayır/otlak (`وَفَٰكِهَةً وَأَبًّا`) bitirmesi — hemen sonraki `80:32` (`مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ`) bu ikili paylaşımı bizzat açıklar."
+      }
+    ],
+    "context_default": "Yeryüzünden bitirilen taze çayır ve hayvan otlağı bağlamı"
   }
 }
