@@ -55205,5 +55205,69 @@
       }
     ],
     "context_default": "Kötü akıbetin failini kuşatması bağlamı"
+  },
+  "ر-ج-ز": {
+    "buckwalter": "rjz",
+    "slug": "rjz",
+    "concept_name": "Ricz ve Rucz (Sarsıcı Felaket, Ağır Azap ve Terk Edilecek Kirlilik)",
+    "keywords": [
+      "ricz",
+      "rucz",
+      "sarsici felaket",
+      "agir azap",
+      "riczus seytan",
+      "kirlilik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "rijoz",
+        "ayahs": [
+          "2:59",
+          "7:134",
+          "7:135",
+          "7:162",
+          "8:11",
+          "29:34",
+          "34:5",
+          "45:11"
+        ],
+        "label": "Kesralı isim (`رِجْز / ٱلرِّجْز` — gökten inen sarsıcı bela, ağır azap veya saptırıcı odağın (الشَّيْطَان) sarsıcı kirliliği; 9 geçiş)"
+      },
+      {
+        "lemma": "r~ujoz",
+        "ayahs": [
+          "74:5"
+        ],
+        "label": "Ötreli marife mansûb isim (`وَٱلرُّجْزَ فَٱهْجُرْ` — terk edilmesi emredilen kirli sapkınlık ve azap sebebi; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Sarsıcı bela veya kirlilik bildiren `ر-ج-ز` ismi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:59",
+          "7:134",
+          "7:135",
+          "7:162",
+          "29:34"
+        ],
+        "text": "Tarihî Kavimlere İnen Sarsıcı Felaket (`2:59`, `7:134-135`, `7:162`, `29:34`): Sözü bozanlara, Firavun çevresine ve Lût kasabasına inen sarsıcı toplu bela."
+      },
+      {
+        "ayahs": [
+          "34:5",
+          "45:11"
+        ],
+        "text": "En Sarsıcı Türden Elem Verici Azap (`34:5`, `45:11`): Ayetleri boşa çıkarmaya çalışanlara ve örtenlere yönelik `عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ` karşılığı."
+      },
+      {
+        "ayahs": [
+          "8:11",
+          "74:5"
+        ],
+        "text": "Arınmanın Karşısında Saptırıcı Kir ve Sapkınlık (`8:11`, `74:5`): Suyla arınarak saptırıcı odağın (الشَّيْطَان) sarsıcı kirliliğinin giderilmesi ve her türlü kirli sapkınlığın terk edilmesi."
+      }
+    ],
+    "context_default": "Sarsıcı felaket ve kirlilik bağlamı"
   }
 }

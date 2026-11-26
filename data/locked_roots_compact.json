@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 779,
+    "total_locked": 780,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -45,7 +45,8 @@
         "ج-و-ع [أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ / قَرْيَةً كَانَتْ ءَامِنَةً ... لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ] (Açlık ve Korku Kuşatması ↔ Bolluk ve Güvenlik Hâli: 16:112, 106:4)",
         "ح-ذ-ر",
         "ص-ي-ح (S-Y-H (SyH) — Çift Yönlü Mesânî Karşılığı: `63:4` [يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ] vs `2:126`, `16:112` — her yüksek ses ve çığlıktan baskın paniğine kapılmak ↔ korkusuz güven ve esenlik `أَمْن`)",
-        "ش-ف-ق (Ş-F-Q ($fq) — Çift Yönlü Mesânî Karşılığı: `52:26`, `70:27` — endişe ve sakınma içinde titremek `مُشْفِقِينَ` ↔ korkudan emin olup tam güvende olmak `أَمْن`)"
+        "ش-ف-ق (Ş-F-Q ($fq) — Çift Yönlü Mesânî Karşılığı: `52:26`, `70:27` — endişe ve sakınma içinde titremek `مُشْفِقِينَ` ↔ korkudan emin olup tam güvende olmak `أَمْن`)",
+        "ر-ج-ز (R-C-Z (rjz) — Çift Yönlü Mesânî Karşılığı: `8:11` — kalbi yatıştıran güven ve esenlik `أَمَنَة` ↔ zihni sarsıp korkuya iten saptırıcı kir ve felaket `رِجْز`)"
       ]
     },
     "ن-ف-ق": {
@@ -3506,7 +3507,8 @@
         "م-س-ح (M-S-H (msH) — Çift Yönlü Mesânî Karşılığı: 5:6, 4:43, 38:33)",
         "ح-ر-ج (H-R-C (Hrj) — Çift Yönlü Mesânî Karşılığı: 6:125, 22:78, 5:6, 24:61)",
         "ن-ج-س (N-C-S (njs) — Çift Yönlü Mesânî Karşılığı: 9:28)",
-        "د-س-و (D-S-V (dsw) — Çift Yönlü Mesânî Karşılığı: `91:9-10` — kirlerden arındırıp temiz kılmak `طَهَارَة` ↔ öz benliği karanlığa gömüp kirleterek bastırmak `دَسَّىٰهَا`)"
+        "د-س-و (D-S-V (dsw) — Çift Yönlü Mesânî Karşılığı: `91:9-10` — kirlerden arındırıp temiz kılmak `طَهَارَة` ↔ öz benliği karanlığa gömüp kirleterek bastırmak `دَسَّىٰهَا`)",
+        "ر-ج-ز (R-C-Z (rjz) — Çift Yönlü Mesânî Karşılığı: `8:11`, `74:4-5` — arındırıp duru kılmak `طَهَارَة` ↔ zihni ve hayatı bulandıran sarsıcı kir ve felaket `رِجْز / رُجْز`)"
       ]
     },
     "ف-ط-ر": {
@@ -10002,6 +10004,15 @@
       "opposites": [
         "ن-ج-و (N-C-V — Çift Yönlü Mesânî Karşılığı: `40:45` `فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ` — kötü tuzak ve azabın failini çepeçevre kuşatması `حَاقَ بِهِم` ↔ tehlike ve tuzaktan korunup kurtulmak `نَجَاة`)",
         "س-ل-م (S-L-M — Çift Yönlü Mesânî Karşılığı: `35:43` — kötü tuzağın dönüp sahibini boğup sarması `يَحِيقُ بِأَهْلِهِۦ` ↔ zarardan arınmış esenlik ve selamet `سَلَام`)"
+      ]
+    },
+    "ر-ج-ز": {
+      "latin": "R-C-Z (rjz)",
+      "core": "`ر-ج-ز` kökü Kur'an'daki 10 geçişinin tamamında **'toplumu sarsıp altüst eden ağır felaket/azap ve zihni-ahlakı bulandırıp sarsan kir'** mekaniğini işletir; ya sözü bozup zulmedenlerin üstüne inen sarsıcı ceza (`2:59`, `7:134-135`, `7:162`, `29:34`, `34:5`, `45:11`) ya da arınarak terk edilmesi gereken saptırıcı kirlilik (`8:11`, `74:5`) olarak görünür.",
+      "physical": "İbn Fâris'in saptadığı **'titreme, sarsıntı ve art arda gelen çarpıntılı hareket (`اضْطِرَابٌ`)'** çekirdeği ile klasik dilcilerin `رِجْز ↔ رِجْس` ses denkliği (ibdâl) üzerinden birleştirdiği **'insanı ve toplumu sarsıp altüst eden ağır bela/azap ve uzak durulması gereken zihinsel-ahlaki kirlilik (`الْعَذَابُ وَالْقَذَرُ الْمُضْطَرِبُ`)'** (`2:59`, `7:134-135`, `8:11`, `45:11`, `74:5`).",
+      "opposites": [
+        "ط-ه-ر (T-H-R — Çift Yönlü Mesânî Karşılığı: `8:11` `لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَٰنِ` ve `74:4-5` `وَثِيَابَكَ فَطَهِّرْ ۝ وَٱلرُّجْزَ فَٱهْجُرْ` — arındırıp duru kılmak `طَهَارَة` ↔ zihni ve hayatı bulandıran sarsıcı kir ve felaket `رِجْز / رُجْز`)",
+        "أ-م-ن (A-M-N — Çift Yönlü Mesânî Karşılığı: `8:11` `أَمَنَةً مِّنْهُ ... وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَٰنِ` — kalbi yatıştıran güven ve esenlik `أَمَنَة` ↔ zihni sarsıp korkuya iten saptırıcı kir ve felaket `رِجْز`)"
       ]
     }
   }
