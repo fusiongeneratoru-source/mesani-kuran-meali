@@ -54485,5 +54485,37 @@
       }
     ],
     "context_default": "İtkiyle fışkırıp atılma bağlamı"
+  },
+  "ه-ز-ل": {
+    "buckwalter": "hzl",
+    "slug": "hzl",
+    "concept_name": "Hezl (Ağırlıktan ve Ciddiyetten Yoksun Cılız Şaka / Boş Söz)",
+    "keywords": [
+      "hezl",
+      "huzal",
+      "ciddiyetsizlik",
+      "saka",
+      "bos soz",
+      "kavlun fasl"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "hazol",
+        "ayahs": [
+          "86:14"
+        ],
+        "label": "Tekit harfi `بِـ` ile mecrûr masdar isim (`وَمَا هُوَ بِٱلْهَزْلِ` — `مَا` haberi: asla cılız ve ciddiyetsiz bir şaka değildir; 1 geçiş: 86:14)"
+      }
+    ],
+    "irab_default": "Cılız ve ciddiyetsiz söz bildiren `ه-ز-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "86:14"
+        ],
+        "text": "Vahyin Sarsılmaz Ciddiyeti (`86:13-14`): Dönen gök ve yarılan yer antlarının ardından vahyin hak ile batılı ayıran kesin söz olduğu, asla cılız bir şaka (`هَزْل`) olmadığı ilanı."
+      }
+    ],
+    "context_default": "Ciddiyetsizlik ve boş sözün reddi bağlamı"
   }
 }

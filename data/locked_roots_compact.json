@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 762,
+    "total_locked": 763,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -609,7 +609,8 @@
         "ز-ع-م",
         "م-ر-ي (`2:147`, `3:60`, `6:114`, `10:94`, `11:17`, `19:34`, `42:18` — sarsılmaz gerçeklik `ٱلْحَقُّ` karşısında kuşkuyu kurcalamak ve tartışmak)",
         "و-ص-ف (W-S-F (wSf) — Çift Yönlü Mesânî Karşılığı: 21:18, 21:112 [نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَٰطِلِ ... مِمَّا تَصِفُونَ — keyfî yakıştırma ve kurgu ↔ sarsılmaz nesnel gerçeklik])",
-        "خ-و-ض (X-W-D (xwD) — Çift Yönlü Mesânî Karşılığı: `6:91`, `9:65`, `52:12` — gerçek, sağlam ve sorumlu söz üzerinde durmak `حَقّ` ↔ ciddiyetsiz oyun ve batıl lakırdı bataklığına dalmak `خَوْض / يَلْعَبُونَ`)"
+        "خ-و-ض (X-W-D (xwD) — Çift Yönlü Mesânî Karşılığı: `6:91`, `9:65`, `52:12` — gerçek, sağlam ve sorumlu söz üzerinde durmak `حَقّ` ↔ ciddiyetsiz oyun ve batıl lakırdı bataklığına dalmak `خَوْض / يَلْعَبُونَ`)",
+        "ه-ز-ل (H-Z-L (hzl) — Çift Yönlü Mesânî Karşılığı: `86:14` — ağırlıksız ve ciddiyetsiz boş söz `هَزْل` ↔ sağlam gerçeklik ve hakikat `حَقّ`)"
       ]
     },
     "ك-ذ-ب": {
@@ -4350,7 +4351,8 @@
         "ج-م-ع [هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ] (Herkesin Tek Meydanda Toplanması ↔ Haklı ile Haksızın Kesin Sınırla Ayrılması [ج-م-ع & ف-ص-ل]: 77:38)",
         "ف-ر-ق [وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ / قَوْلٌ فَصْلٌ] (İç İçe Geçmiş Bulanıklık ↔ Net Çizgiyle Ayrıştırma ve Ayırt Etme [ف-ص-ل & ف-ر-ق]: 6:55, 86:13)",
         "ف-ر-ي (ف-ر-ي ↔ ف-ص-ل Mesânî simetrisi)",
-        "و-ل-ج (W-L-C (wlj) — Çift Yönlü Mesânî Karşılığı: 3:27, 22:61, 31:29, 35:13, 57:6)"
+        "و-ل-ج (W-L-C (wlj) — Çift Yönlü Mesânî Karşılığı: 3:27, 22:61, 31:29, 35:13, 57:6)",
+        "ه-ز-ل (H-Z-L (hzl) — Çift Yönlü Mesânî Karşılığı: `86:13-14` [إِنَّهُۥ لَقَوْلٌ فَصْلٌ ۝ وَمَا هُوَ بِٱلْهَزْلِ] — hak ile batılı keskin biçimde ayıran ağır söz `قَوْلٌ فَصْلٌ` ↔ cılız ve ciddiyetsiz şaka `هَزْل`)"
       ]
     },
     "ط-و-ف": {
@@ -9816,6 +9818,15 @@
       "opposites": [
         "ج-م-د (J-M-D — Çift Yönlü Mesânî Karşılığı: `86:6` [مِن مَّآءٍ دَافِقٍ] — güçlü bir itkiyle ileriye fışkırıp akan canlı sıvı `دَافِق` ↔ donup katılaşarak akışını yitirmek `جُمُود`)",
         "س-ك-ن (S-K-N — Çift Yönlü Mesânî Karşılığı: `86:6` — ani bir itkiyle ileriye doğru hızla atılıp boşalmak `دَفْق` ↔ hareketsizce durulup yerleşmek `سُكُون`)"
+      ]
+    },
+    "ه-ز-ل": {
+      "latin": "H-Z-L (hzl)",
+      "core": "`ه-ز-ل` kökü Kur'an'daki tek geçişinde (`86:14`) **'zayıflık ve cılızlık ekseninde ağırlıktan ve ciddiyetten yoksun boş şaka/söz'** mekaniğini işletir ve hemen öncesindeki `قَوْلٌ فَصْلٌ` (`86:13`) ile tam bir mesânî karşıtlığı kurarak vahyin sarsılmaz ciddiyetini ilan eder.",
+      "physical": "Gövdede veya sözde **zayıflık, cılızlık ve ağırlık/dolgunluk yoksunluğu (`ضَعْفٌ — خِلَافُ السِّمَنِ وَنَقِيضُ الْجِدِّ`)** — bedenin etini yitirip cılızlaşması (`هُزَال`) ile sözün ciddiyetini, ağırlığını ve hakikat dayanağını yitirip boş şakaya/lakırdıya dönüşmesi (`هَزْل`, `86:14`) aynı 'zayıflık ve boşluk' ölçüsünde birleşir.",
+      "opposites": [
+        "ف-ص-ل (F-S-L — Çift Yönlü Mesânî Karşılığı: `86:13-14` [إِنَّهُۥ لَقَوْلٌ فَصْلٌ ۝ وَمَا هُوَ بِٱلْهَزْلِ] — doğrudan bitişik ayet çifti: hak ile batılı keskin biçimde ayıran ağır ve kesin söz `قَوْلٌ فَصْلٌ` ↔ cılız, ciddiyetsiz ve temelsiz şaka `هَزْل`)",
+        "ح-ق-ق (H-Q-Q — Çift Yönlü Mesânî Karşılığı: `86:14` — ağırlıksız, zayıf ve ciddiyetsiz boş söz `هَزْل` ↔ sağlam gerçeklik ve sarsılmaz hakikat `حَقّ`)"
       ]
     }
   }
