@@ -53092,5 +53092,107 @@
       }
     ],
     "context_default": "Bilinen ayetleri veya nimeti bile bile yadsıma bağlamı"
+  },
+  "ح-س-ر": {
+    "buckwalter": "Hsr",
+    "slug": "hsr",
+    "concept_name": "Hasret ve Husûr (Örtünün ve Gücün Sıyrılıp Tükenmesi, Yakıcı Pişmanlık)",
+    "keywords": [
+      "hasret",
+      "haserat",
+      "hasir",
+      "mahsur",
+      "yestahsirun",
+      "pismanlik",
+      "bitkinlik",
+      "tukenmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Hasorap",
+        "ayahs": [
+          "2:167",
+          "35:8"
+        ],
+        "label": "Çoğul isim (`حَسَرَٰتٍ` — `2:167` mef'ûl/hâl mensub, `35:8` mef'ûlün lieclih / hâl; 2 geçiş)"
+      },
+      {
+        "lemma": "Hasorap",
+        "ayahs": [
+          "3:156",
+          "8:36",
+          "19:39",
+          "36:30",
+          "69:50"
+        ],
+        "label": "Tekil masdar/isim (`حَسْرَةً / ٱلْحَسْرَةِ / حَسْرَةٌ` — `3:156` ve `8:36` mensub, `19:39` muzâfun ileyh mecrur, `36:30` münâda mensub, `69:50` haber merfû; 5 geçiş)"
+      },
+      {
+        "lemma": "Hasorat",
+        "ayahs": [
+          "6:31"
+        ],
+        "label": "Nida izafetli mensub münâda (`يَٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا` — kaçırılan fırsata karşı yakıcı hayıflanma; 1 geçiş: 6:31)"
+      },
+      {
+        "lemma": "HasorataY`",
+        "ayahs": [
+          "39:56"
+        ],
+        "label": "Elife kalbedilmiş mütekellim zamirli nida (`يَٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ` — kendi savsaklayışına yakıcı feryat; 1 geçiş: 39:56)"
+      },
+      {
+        "lemma": "m~aHosuwr",
+        "ayahs": [
+          "17:29"
+        ],
+        "label": "Form I ism-i mef'ûl mensub hâl (`فَتَقْعُدَ مَلُومًا مَّحْسُورًا` — varlığı ve takati soyulup tükenmiş; 1 geçiş: 17:29)"
+      },
+      {
+        "lemma": "Hasiyr",
+        "ayahs": [
+          "67:4"
+        ],
+        "label": "`فَعِيل` kalıbında merfû haber (`وَهُوَ حَسِيرٌ` — yorgun ve takati tükenmiş bakış; 1 geçiş: 67:4)"
+      },
+      {
+        "lemma": "yasotaHosiru",
+        "ayahs": [
+          "21:19"
+        ],
+        "label": "Form X malum muzâri 3. çoğul eril fiil (`وَلَا يَسْتَحْسِرُونَ` — yorulup güçten kesilmek; 1 geçiş: 21:19)"
+      }
+    ],
+    "irab_default": "Örtü ve gücün sıyrılıp tükenmesi veya yakıcı pişmanlık bildiren `ح-س-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:167",
+          "6:31",
+          "19:39",
+          "39:56",
+          "69:50"
+        ],
+        "text": "Gaflet Perdesi Kalktığında Yaşanan Hesap Günü Pişmanlığı (`2:167`, `6:31`, `19:39`, `39:56`, `69:50`): Hüküm kesinleşip dönüş kapısı kapandığında savsaklanan sorumluluğun ve boşa giden amellerin yakıcı pişmanlık (`يَوْمَ ٱلْحَسْرَةِ / يَٰحَسْرَتَىٰ / حَسَرَٰت`) olarak açığa çıkması."
+      },
+      {
+        "ayahs": [
+          "3:156",
+          "8:36",
+          "35:8",
+          "36:30"
+        ],
+        "text": "Dünya Yaşamında ve Çağrı Sürecinde Hasret (`3:156`, `8:36`, `35:8`, `36:30`): Hak yolundan alıkoymak için harcanan malların ve yanlış yargıların yüreğe sızı olarak dönmesi; elçinin inatçı topluluklar yüzünden kendini hasretlerle tüketmemesi."
+      },
+      {
+        "ayahs": [
+          "17:29",
+          "21:19",
+          "67:4"
+        ],
+        "text": "Takat, Varlık ve Bakışın Sıyrılıp Bitkin Düşmesi (`17:29`, `21:19`, `67:4`): Ölçüsüz saçıp savuranın her şeyi tükenmiş hâlde oturakalması (`مَّحْسُورًا`), göklerde gedik arayan gözün yorulup bitkin dönmesi (`حَسِيرٌ`) ve Allah katındaki varlıkların hiç bitkinleşmemesi (`لَا يَسْتَحْسِرُونَ`)."
+      }
+    ],
+    "context_default": "Gücün sıyrılıp tükenmesi veya yakıcı pişmanlık bağlamı"
   }
 }
