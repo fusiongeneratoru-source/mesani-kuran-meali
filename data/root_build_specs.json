@@ -58648,5 +58648,63 @@
       }
     ],
     "context_default": "Yukarıya yükselme, zorlu tırmanış ve yerin üst yüzeyi bağlamı"
+  },
+  "ب-ر-ق": {
+    "buckwalter": "brq",
+    "slug": "brq",
+    "concept_name": "Berk ve Berika (Anlık Parıltı Çakması, Şimşek ve Gözün Kamaşıp Donakalması)",
+    "root_latin": "B-R-Q",
+    "keywords": [
+      "berk",
+      "simsek",
+      "parilti",
+      "goz kamasmasi",
+      "korku ve umut"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "baroq",
+        "ayahs": [
+          "2:19",
+          "2:20",
+          "13:12",
+          "24:43",
+          "30:24"
+        ],
+        "label": "İsim (`بَرْق` — karanlığı yaran, hem korku hem umut kaynağı şimşek parıltısı; 5 geçiş)"
+      },
+      {
+        "lemma": "bariqa",
+        "ayahs": [
+          "75:7"
+        ],
+        "label": "Form I mâzi fiil (`بَرِقَ ٱلْبَصَرُ` — dehşet ve keskin parıltı karşısında gözün kamaşıp donakalması; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Şimşek parıltısını ve göz kamaşmasını bildiren `ب-ر-ق` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:19",
+          "2:20"
+        ],
+        "text": "Karanlıkta Gözleri Kaparcasına Çakan Şimşek (`2:19`, `2:20`): İkiyüzlülerin şimşek aydınlattıkça yürüyüp karanlık çökünce donup kalması temsili."
+      },
+      {
+        "ayahs": [
+          "13:12",
+          "24:43",
+          "30:24"
+        ],
+        "text": "Korku ve Umut Kaynağı Kozmik Şimşek (`13:12`, `24:43`, `30:24`): Yağmur bulutları arasından çakarak hem yıldırım korkusu hem bereket umudu (`خَوْفًا وَطَمَعًا`) uyandıran şimşek."
+      },
+      {
+        "ayahs": [
+          "75:7"
+        ],
+        "text": "Gözün Kamaşıp Donakalması (`75:7`): `فَإِذَا بَرِقَ ٱلْبَصَرُ` — büyük kozmik kırılmada gözün odaklanamayıp kamaşması."
+      }
+    ],
+    "context_default": "Şimşek parıltısı ve gözün kamaşıp donakalması bağlamı"
   }
 }
