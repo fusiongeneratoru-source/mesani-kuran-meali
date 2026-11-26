@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3J (+6 Sure %100 Tam Kilidi [Sure 63, 66, 61, 100, 101, 88 -> 35 Sure], Kalan Tüm 2+ Açık Mesânî Tepe Uçları ve 13–12 Geçişli Çekirdek Kökler — 50 Kök -> 750 Kök)",
   "target_count": 50,
-  "locked_count": 37,
+  "locked_count": 38,
   "total_tokens_in_package": 285,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 94.51,
+  "current_coverage_pct": 94.53,
   "target_coverage_pct": 94.81,
   "etap_3j_roots": [
     {
@@ -675,8 +675,8 @@
       "frequency": 10,
       "unique_ayahs": 9,
       "rationale": "Sevâd, Esved ve Seyyid (1M+3F: ب-ي-ض zıddı! 10 geçiş: 2:187, 3:39, 3:106, 12:25, 16:58 koyu siyahlık, kararmak ve önder/efendi)",
-      "concept_label": "Analiz Bekliyor (say~id, {sowad~ato, musowad~, >asowad)",
-      "is_locked": false,
+      "concept_label": "Sevâd / Seyyid (Koyu Siyahlık, Yüzün Kararması ve Topluluğun Başındaki Önder)",
+      "is_locked": true,
       "sample_ayah": "2:187",
       "top_lemmas": [
         "say~id",

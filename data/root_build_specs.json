@@ -52666,5 +52666,96 @@
       }
     ],
     "context_default": "Rüzgârın kesilmesiyle gemilerin yüzeyde hareketsiz kalması bağlamı"
+  },
+  "س-و-د": {
+    "buckwalter": "swd",
+    "slug": "swd",
+    "concept_name": "Sevâd / Seyyid (Koyu Siyahlık, Yüzün Kararması ve Topluluğun Başındaki Önder)",
+    "keywords": [
+      "sevad",
+      "esved",
+      "siyah",
+      "kararmak",
+      "musved",
+      "seyyid",
+      "sade",
+      "onder",
+      "efendi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">asowad",
+        "ayahs": [
+          "2:187"
+        ],
+        "label": "Renk sıfatı — mecrûr na't (`ٱلْخَيْطِ ٱلْأَسْوَدِ` — `أَفْعَل` vezninde `ٱلْخَيْطِ` sıfatı; 1 geçiş: 2:187)"
+      },
+      {
+        "lemma": "suwd",
+        "ayahs": [
+          "35:27"
+        ],
+        "label": "Çoğul renk sıfatı — merfû (`وَغَرَابِيبُ سُودٌ` — `فُعْل` vezninde simsiyah katmanlar; 1 geçiş: 35:27)"
+      },
+      {
+        "lemma": "{sowad~ato",
+        "ayahs": [
+          "3:106"
+        ],
+        "label": "Form IX renk/hâl dönüşümü fiili (`تَسْوَدُّ وُجُوهٌ` / `ٱسْوَدَّتْ وُجُوهُهُمْ` — 3. tekil dişil muzâri ve mâzi; 2 geçiş: 3:106)"
+      },
+      {
+        "lemma": "musowad~",
+        "ayahs": [
+          "16:58",
+          "43:17"
+        ],
+        "label": "Form IX ism-i fâil — `ظَلَّ` haberi (`ظَلَّ وَجْهُهُۥ مُسْوَدًّا` — mansûb eril ism-i fâil; 2 geçiş: 16:58, 43:17)"
+      },
+      {
+        "lemma": "m~usowad~ap",
+        "ayahs": [
+          "39:60"
+        ],
+        "label": "Form IX dişil ism-i fâil — merfû haber (`وُجُوهُهُم مُّسْوَدَّةٌ` — 1 geçiş: 39:60)"
+      },
+      {
+        "lemma": "say~id",
+        "ayahs": [
+          "3:39",
+          "12:25",
+          "33:67"
+        ],
+        "label": "Önderlik/merci ismi (`سَيِّدًا` hâl/matûf, `سَيِّدَهَا` mef'ûlün bih, `سَادَتَنَا` kırık çoğul mef'ûlün bih; 3 geçiş: 3:39, 12:25, 33:67)"
+      }
+    ],
+    "irab_default": "Koyu siyahlık, kararma veya önderlik bildiren `س-و-د` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:187",
+          "35:27"
+        ],
+        "text": "Kozmik ve Jeolojik Renk Ayrımı (`2:187`, `35:27`): Şafakta ak iplikle geceye ait siyah ipliğin (`ٱلْخَيْطِ ٱلْأَسْوَدِ`) seçilmesi ve dağlarda beyaz-kırmızı yollar yanında kuzgunî simsiyah (`غَرَابِيبُ سُودٌ`) katmanların varlığı."
+      },
+      {
+        "ayahs": [
+          "3:106",
+          "16:58",
+          "39:60",
+          "43:17"
+        ],
+        "text": "İçsel Keder ve Hesap Hüznünün Yüze Vurması (`3:106`, `16:58`, `39:60`, `43:17`): Kız çocuğu müjdesiyle öfkeden yüzü kararan (`مُسْوَدًّا`) cahiliye tutumu ile hesap gününde yalan ve hakikati örtme sebebiyle yüzlerin kararması (`تَسْوَدُّ / ٱسْوَدَّتْ / مُّسْوَدَّةٌ`)."
+      },
+      {
+        "ayahs": [
+          "3:39",
+          "12:25",
+          "33:67"
+        ],
+        "text": "Önderlik, Hane Yetkisi ve Saptıran Otoriteler (`3:39`, `12:25`, `33:67`): Yahya'nın erdemli önderliği (`سَيِّدًا`), Mısır'da kapıda karşılaşılan hane reisi/eş (`سَيِّدَهَا`) ve hesap gününde kendilerine körü körüne itaat edildiği itiraf edilen ileri gelenler (`سَادَتَنَا`)."
+      }
+    ],
+    "context_default": "Siyahlık/kararma veya önderlik makamı bağlamı"
   }
 }
