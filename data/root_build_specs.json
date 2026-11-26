@@ -52061,5 +52061,87 @@
       }
     ],
     "context_default": "Denetimsiz yayılma veya lif lif didilip kabartılma bağlamı"
+  },
+  "ض-ر-ع": {
+    "buckwalter": "DrE",
+    "slug": "dre",
+    "concept_name": "Tazarru / Darî' (Katılığı Kırıp Yumuşayarak Alçalıp Yakarmak; Besinsiz Kuru Dikenli Ot)",
+    "keywords": [
+      "tazarru",
+      "dari",
+      "yalvarmak",
+      "yumusamak",
+      "alcalmak",
+      "boyun egmek",
+      "dikenli ot",
+      "corak bitki"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yataDar~aEu",
+        "ayahs": [
+          "6:42",
+          "23:76"
+        ],
+        "label": "Form V muzâri 3. çoğul eril fiil (`يَتَضَرَّعُونَ` — `6:42`'de `لَعَلَّ` haberi; `23:76`'da olumsuz haber; 2 geçiş)"
+      },
+      {
+        "lemma": "yataDar~aEu",
+        "ayahs": [
+          "7:94"
+        ],
+        "label": "Form V muzâri 3. çoğul eril fiil, idğâmlı (`يَضَّرَّعُونَ` < `يَتَضَرَّعُونَ` — `لَعَلَّ` haberi; 1 geçiş: 7:94)"
+      },
+      {
+        "lemma": "taDar~aEu",
+        "ayahs": [
+          "6:43"
+        ],
+        "label": "Form V mâzi 3. çoğul eril fiil (`تَضَرَّعُوا۟` — `فَلَوْلَآ` kınama/teşvik yapısı içinde; korpusta bab etiketsiz `PERF`; 1 geçiş: 6:43)"
+      },
+      {
+        "lemma": "taDar~uE",
+        "ayahs": [
+          "6:63",
+          "7:55",
+          "7:205"
+        ],
+        "label": "Form V mansûb masdar (`تَضَرُّعًا` — `تَدْعُونَهُۥ` / `ٱدْعُوا۟` / `ٱذْكُر` fiillerinin hâli veya mef'ûl-i mutlakı; 3 geçiş)"
+      },
+      {
+        "lemma": "DariyE",
+        "ayahs": [
+          "88:6"
+        ],
+        "label": "Nekre mecrûr isim (`مِن ضَرِيعٍ` — `فَعِيل` kalıbında; `طَعَامٌ` kapsamındaki istisna beyanı; 1 geçiş: 88:6)"
+      }
+    ],
+    "irab_default": "Yumuşayıp alçalarak yakarma veya cılız/besinsiz dikenli ot bildiren kelime (`ض-ر-ع` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:42",
+          "6:43",
+          "7:94",
+          "23:76"
+        ],
+        "text": "Darlık ve Sarsıntı Karşısında Katılığı Kırıp Yumuşayarak Boyun Eğmek (`6:42-43`, `7:94`, `23:76`): Topluluklara yöneltilen sıkıntıların amacı, kalplerin taşlaşması (`قَسَتْ`) yerine kırılıp yumuşayarak muhtaçlıklarını ikrar edip yakarmalarıdır."
+      },
+      {
+        "ayahs": [
+          "6:63",
+          "7:55",
+          "7:205"
+        ],
+        "text": "Gizlilik ve Ürperti İçinde Alçalarak Çağrı ve Anma (`6:63`, `7:55`, `7:205`): Kara ve denizin karanlıklarından çıkış çağrısında, taşkınlıktan uzak duran gizli yakarışta ve sabah-akşam içten anmada temel duruş `تَضَرُّعًا` (yumuşayıp alçalma) hâlidir."
+      },
+      {
+        "ayahs": [
+          "88:6"
+        ],
+        "text": "Besleyicilikten Yoksun Kuru Dikenli Çorak Bitki (`88:6`): Yorgun ve bezgin yüzlere sunulan tek yiyeceğin, hemen ertesi ayette ne beslediği ne açlığı giderdiği belirtilen `ضَرِيع` olması."
+      }
+    ],
+    "context_default": "Yumuşayıp alçalarak yakarma veya besinsiz kuru bitki bağlamı"
   }
 }
