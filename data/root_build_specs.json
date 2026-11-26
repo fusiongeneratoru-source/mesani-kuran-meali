@@ -61239,5 +61239,73 @@
       }
     ],
     "context_default": "Boyca, zamanca veya imkânca uzayıp genişleme bağlamı"
+  },
+  "د-م-و": {
+    "buckwalter": "dmw",
+    "slug": "dmw",
+    "concept_name": "Dem ve Dimâ' (Damarlarda Akan Canlılık Sıvısı Olan Kan — Kan Dökmekten Kaçınma ve Beslenme Sınırı)",
+    "root_latin": "D-M-W",
+    "keywords": [
+      "dem",
+      "dima",
+      "kan",
+      "kan dokmek",
+      "akitilmis kan",
+      "hedy",
+      "sut olusumu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "dam",
+        "ayahs": [
+          "2:173",
+          "5:3",
+          "6:145",
+          "7:133",
+          "12:18",
+          "16:66",
+          "16:115"
+        ],
+        "label": "Tekil isim `دَم` (`ٱلدَّمَ / ٱلدَّمُ / دَمًا مَّسْفُوحًا` `2:173, 5:3, 6:145, 16:115` — tüketilmesi yasaklanan akıtılmış kan; `7:133` Firavun topluluğuna gönderilen kan işareti; `12:18` Yusuf'un gömleğindeki yalan kan; `16:66` sağmal hayvanın karnında dışkı ile kan arasından süzülen arı süt; 7 geçiş)"
+      },
+      {
+        "lemma": "dam",
+        "ayahs": [
+          "2:30",
+          "2:84",
+          "22:37"
+        ],
+        "label": "Kırık çoğul isim `دِمَآء` (`يَسْفِكُ ٱلدِّمَآءَ` `2:30` ve `لَا تَسْفِكُونَ دِمَآءَكُمْ` `2:84` — insan kanı dökmek ve dökmemek üzere alınan söz; `22:37` `لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا` — kesilen hedy hayvanlarının etleri ve kanları değil yalnızca sorumluluk bilinci Allah'a ulaşır; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Canlıların damarlarında dolaşan kırmızı yaşam sıvısını bildiren `د-م-و` ismi (`دَم` / `دِمَآء`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:173",
+          "5:3",
+          "6:145",
+          "16:115"
+        ],
+        "text": "Beslenme Yasağındaki Akıtılmış Kan (`2:173`, `5:3`, `6:145`, `16:115`): Dört ayette yenilmesi yasaklanan maddeler arasında `ٱلدَّمَ` sayılır ve `6:145` bunu `دَمًا مَّسْفُوحًا` (akıtılmış/sıvı hâlde akan kan) kaydıyla açıkça sınırlar."
+      },
+      {
+        "ayahs": [
+          "2:30",
+          "2:84"
+        ],
+        "text": "Kan Dökme Yasağı ve İnsan Hayatının Dokunulmazlığı (`2:30`, `2:84`): Görevli gök elçilerinin yeryüzünde bozgunculuk çıkarıp kan dökecek (`وَيَسْفِكُ ٱلدِّمَآءَ`) varlık üzerine sorusu ve İsrailoğullarından alınan 'birbirinizin kanını dökmeyeceksiniz' (`لَا تَسْفِكُونَ دِمَآءَكُمْ`) temel sözleşmesi."
+      },
+      {
+        "ayahs": [
+          "7:133",
+          "12:18",
+          "16:66",
+          "22:37"
+        ],
+        "text": "İşaret, Sahte Kanıt, Biyolojik Delil ve Adak Bilinci (`7:133`, `12:18`, `16:66`, `22:37`): Mısır'a gönderilen kan işareti (`7:133`), Yusuf'un kardeşlerinin gömleğe sürdüğü sahte kan (`بِدَمٍ كَذِبٍ`, `12:18`), hayvanın karnında dışkı ile kan arasından süzülen temiz süt (`16:66`) ve kesilen hayvanların etlerinin ve kanlarının Allah'a ulaşmayıp yalnızca sakınma bilincinin ulaşması (`22:37`)."
+      }
+    ],
+    "context_default": "Canlıların damarlarında akan kan ve bunun ahlâkî/biyolojik bağlamı"
   }
 }
