@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (7/50 — Toplam 807 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (8/50 — Toplam 808 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -66343,7 +66343,8 @@
           "د-ع-و (D-A-V — Çift Yönlü Mesânî Karşılığı: `7:193` `أَدَعَوْتُمُوهُمْ أَمْ أَنتُمْ صَٰمِتُونَ` — seslenip doğru yola çağırmak `دَعَوْتُمُوهُمْ` ↔ tek ses çıkarmayıp suskun kalmak `صَٰمِتُونَ`)",
           "ق-و-ل (K-V-L — Çift Yönlü Mesânî Karşılığı: `7:193` — söz söyleyip beyanda bulunmak `قَوْل` ↔ konuşmaktan tamamen geri durup susmak `صَمْت`)",
           "ن-ط-ق (N-T-K — Çift Yönlü Mesânî Karşılığı: `7:193` — anlaşılır sözle dile getirmek `نُطْق` ↔ bütünüyle suskun kalıp ses vermemek `صَٰمِتُونَ`)",
-          "ض-ب-ح (D-B-H — Çift Yönlü Mesânî Karşılığı: `7:193`, `100:1` — hızla atılırken güçlü soluk sesi çıkarmak `ضَبْحًا` ↔ hiçbir ses vermeden suskun kalmak `صَٰمِتُونَ`)"
+          "ض-ب-ح (D-B-H — Çift Yönlü Mesânî Karşılığı: `7:193`, `100:1` — hızla atılırken güçlü soluk sesi çıkarmak `ضَبْحًا` ↔ hiçbir ses vermeden suskun kalmak `صَٰمِتُونَ`)",
+          "ص-و-ت (Savt/Asvât: kulakta yankılanan fiziksel ses, çağrı ve konuşma tonu ↔ ص-م-ت tam suskunluk ve ses kesilmesi)"
         ],
         "key_ayahs": [
           "7:193 (وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَتَّبِعُوكُمْ سَوَآءٌ عَلَيْكُمْ أَدَعَوْتُمُوهُمْ أَمْ أَنتُمْ صَٰمِتُونَ — Onları doğru yola çağırsanız da size uymazlar; onları çağırmanız da bütünüyle suskun kalmanız da sizin için birdir)"
@@ -67918,6 +67919,96 @@
           "meaning": "Yırtıcı akbaba/kartal adından gelen, Nûh toplumunun kutsadığı sahte odaklardan biri",
           "examples": [
             "71:23"
+          ]
+        }
+      ]
+    },
+    "ص-و-ت": {
+      "root_latin": "S-W-T",
+      "arabic": "ص-و-ت",
+      "rank": 659,
+      "morphology_and_rasm": {
+        "buckwalter": "Swt",
+        "rasm_skeleton": "صوت / اصوت (harekesiz iskelet; بصوتك / الاصوات / صوتك / لصوت / اصواتكم / صوت / اصواتهم biçimleriyle 8 kez)",
+        "approx_frequency": "8 geçiş / 5 ayet (4x tekil صَوْت `17:64`, `31:19` [2x], `49:2`; 4x çoğul أَصْوَات `20:108`, `31:19`, `49:2`, `49:3`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "صَوْت (4 geçiş: `17:64` بِصَوْتِكَ, `31:19` مِن صَوْتِكَ ve لَصَوْتُ الْحَمِيرِ, `49:2` صَوْتِ النَّبِيِّ — tekil ses / konuşma tonu)",
+          "أَصْوَات (4 geçiş: `20:108` الْأَصْوَاتُ, `31:19` الْأَصْوَاتِ, `49:2` أَصْوَاتَكُمْ, `49:3` أَصْوَاتَهُمْ — çoğul sesler)"
+        ],
+        "preposition_patterns": [
+          "بِصَوْتِكَ (`17:64`: sesinle/çağrınla yerinden oynatmak)",
+          "مِن صَوْتِكَ (`31:19`: sesinin şiddetinden bir miktar kısmak — teb'îz `مِن`)",
+          "فَوْقَ صَوْتِ (`49:2`: başkasının sesinin üstüne çıkacak biçimde yükseltmek)"
+        ]
+      },
+      "physical_core": "İki cismin çarpışması, titreşimi veya canlıların nefes-boğaz düzeneğinden çıkıp havayı sıkıştırarak işitme organında yankı uyandıran somut akustik dalga; bu çekirdek insan konuşmasının yüksekliği ve tonu (`49:2`, `49:3`, `31:19`), hayvan anırmasının tırmalayıcı gürültüsü (`31:19`), ayartıcı çağrı (`17:64`) ve tüm seslerin sinip fısıltıya inmesi (`20:108`) sahnelerinde işler.",
+      "ibn_faris_asl": "(صَوَتَ) الصَّادُ وَالْوَاوُ وَالتَّاءُ: أَصْلٌ صَحِيحٌ، وَهُوَ الصَّوْتُ، وَهُوَ جِنْسٌ لِكُلِّ مَا وَقَرَ فِي أُذُنِ السَّامِعِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 3, s. 318, صوت maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökü tek sağlam asıl olarak 'dinleyenin kulağında yer eden/yankılanan her türlü işitsel etkinin genel cinsi (الصَّوْتُ جِنْسٌ لِكُلِّ مَا وَقَرَ فِي أُذُنِ السَّامِعِ)' biçiminde tanımlar.",
+        "lisan_al_arab": "İbn Manzûr `صَوْت` kelimesinin hem insan sözündeki akustik taşıyıcıyı hem de canlı-cansız her şeyden çıkan tınıyı kapsadığını, `صَاتَ يَصُوتُ` ve `صَوَّتَ` fiillerinin ses çıkarmak/çağırmak anlamına geldiğini kaydeder.",
+        "ragib_al_isfahani": "Râğıb sesi 'iki cismin vuruşuyla sıkışan havanın kulağa ulaşması' diye fiziksel olarak tanımlar; insan konuşmasının harf ve anlamdan bağımsız akustik boyutunun `صَوْت` olduğunu, bu yüzden `31:19`'da eşeklerin sesine de aynı cins adın verildiğini vurgular.",
+        "verdict": "Tüm 8 geçişte `ص-و-ت`, anlamlı sözden (`قَوْل`) önce gelen fiziksel akustik taşıyıcıyı ve ses şiddetini ifade eder; ahlaki incelik sesin bastırıcı biçimde yükseltilmemesi (`49:2`, `31:19`) ve ölçülü biçimde kısılması (`49:3`) üzerinden ölçülür."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*ṣwt / *ṣyṭ ('ses çıkarmak, ünlemek, işitsel çağrı')",
+        "hebrew": "צָוַח (ṣāwaḥ: yüksek sesle bağırmak/haykırmak — yakın ikili/üçlü akustik kök alanı; klasik İbranicede doğrudan 'ses' için daha çok קוֹל qôl kullanılır)",
+        "aramaic_syriac": "צְוַת (ṣəwat: dinlemek, kulak kesilmek, sesle yönelmek); Süryanice ܨܘܬ (ṣāt: kulak vermek, işitmek)",
+        "akkadian": "Arapçadaki tam *ṣwt ses dalgası karşılığı Akadca standart sözlükte rigmu/qūlu ile taşınır; Arapça ve Aramice-Süryanice kolu ses ve kulağa erişme alanında ortak kök taşır.",
+        "comparative_note": "Aramice/Süryanicede `ṣ-w-t` 'sesi dinlemek/kulak vermek', Arapçada ise 'kulağa ulaşan sesin kendisi' kutbunda uzmanlaşarak işitsel iletişimin iki ucunu yansıtır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "غ-ض-ض (Sesi ve bakışı ölçülü biçimde kısmak/alçaltmak ↔ صَوْت yüksek çıkan ses şiddeti — `31:19`, `49:3`)",
+          "ص-م-ت (Tam sessizlik, hiç ses çıkarmama ↔ صَوْت kulakta yankılanan fiziksel ses)"
+        ],
+        "bidirectional_test": "Fiziksel sesin (`ص-و-ت`) yükselip yayılması tersine çevrildiğinde ya ses şiddetinin bilinçli kısılması (`غ-ض-ض`: `31:19`, `49:3`) ya da sesin tamamen kesilip suskunluğa dönmesi (`ص-م-ت`) ortaya çıkar; bu karşıtlık her iki yönde de tam simetriktir."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "غ-ض-ض",
+          "ر-ف-ع",
+          "ج-ه-ر",
+          "ق-و-ل",
+          "خ-ش-ع"
+        ],
+        "analysis": "`49:2`'de `لَا تَرْفَعُوا أَصْوَاتَكُمْ` (ses tonunuzu/şiddetinizi yükseltmeyin) ile `وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ` (ona sözü açıktan bağırır gibi söylemeyin) yan yana gelir: `صَوْت` harf ve anlamdan bağımsız fiziksel ses yüksekliğini, `قَوْل` ise dile dökülen anlamlı ifadeyi taşır. `20:108`'de `خَشَعَتِ الْأَصْوَاتُ` (sesler sinip alçaldı) hemen ardından gelen `هَمْس` (hışırtılı fısıltı) ile keskin bir akustik fark çizer."
+      },
+      "anchor_ayahs": [
+        "17:64 (وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ — onlardan gücünün yettiğini sesinle/çağrınla yerinden oynat)",
+        "20:108 (وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًا — sesler Rahmân karşısında sinmiştir; artık fısıltıdan başka bir şey duymazsın)",
+        "31:19 (وَٱغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ — sesini biraz kıs; kuşkusuz seslerin en yadırgananı eşeklerin sesidir)",
+        "49:2 (لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ — seslerinizi elçinin sesinin üstüne yükseltmeyin)",
+        "49:3 (إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ — Allah'ın elçisinin huzurunda seslerini kısanlar)"
+      ],
+      "unified_core_mechanism": "`ص-و-ت` kökü 8 geçişinin tamamında **'kulağa çarpan fiziksel ses ve akustik şiddet'** çekirdeğini taşır: ölçüsüzce yükseltildiğinde kaba ve saygısız gürültüye (`31:19`, `49:2`), bilinçli biçimde kısıldığında edep ve sükûnete (`49:3`, `20:108`), ayartıcı amaçla kullanıldığında ise iradeyi sarsan dışsal çağrıya (`17:64`) dönüşür.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Tekil Fiziksel Ses ve Konuşma Tonu (`صَوْت` — 4 geçiş: `17:64`, `31:19` [2x], `49:2`): Tek bir kaynağın çıkardığı ses dalgası veya konuşma yüksekliği.",
+          "Dal 2 — Çoğul Sesler ve Toplu Akustik Ortam (`أَصْوَات` — 4 geçiş: `20:108`, `31:19`, `49:2`, `49:3`): Topluluk seslerinin alçaltılması, sinmesi veya ölçülendirilmesi."
+        ],
+        "irab_notes": "Kur'an'da kökten fiil çekimi bulunmaz; 8 geçişin tamamı `صَوْت` (tekil) ve `أَصْوَات` (kırık çoğul) isim formlarıdır. `31:19`'da `مِن صَوْتِكَ` içindeki `مِن` edatı sesin tamamen kesilmesini değil ölçülü biçimde kısılmasını (teb'îz) belirtir."
+      },
+      "derivatives": [
+        {
+          "form": "صَوْت",
+          "pos": "İsim (tekil)",
+          "meaning": "Kulakta yankılanan fiziksel ses, konuşma tonu veya çağrı",
+          "examples": [
+            "17:64",
+            "31:19",
+            "49:2"
+          ]
+        },
+        {
+          "form": "أَصْوَات",
+          "pos": "İsim (çoğul)",
+          "meaning": "Sesler, toplu konuşma tonları",
+          "examples": [
+            "20:108",
+            "31:19",
+            "49:2",
+            "49:3"
           ]
         }
       ]

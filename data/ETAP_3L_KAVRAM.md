@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 7 / 50 Kök (Toplam Mühürlü: 807 Kök | Güncel Kapsam: %95,49)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 8 / 50 Kök (Toplam Mühürlü: 808 Kök | Güncel Kapsam: %95,51)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -14,7 +14,7 @@
 | 5 | Sure %100 Kilidi | 1012 | `ف-ج-ج` | `F-C-C` | **3** | 3 | 21:31 | Fecc ve Ficâc (İki Dağ veya Yükselti Arasında Yarılarak Açılan Geniş Geçit / Uzak Vadi Yolu) | ✅ **MÜHÜRLÜ** |
 | 6 | Sure %100 Kilidi | 1052 | `ص-ب-ع` | `S-B-A` | **2** | 2 | 2:19 | Esâbi' (Parmaklar — Çağrıyı ve Uyarıyı Duymamak İçin Kulağı Tıkama Eylemi) | ✅ **MÜHÜRLÜ** |
 | 7 | Sure %100 Kilidi | 1564 | `ن-س-ر` | `N-S-R` | **1** | 1 | 71:23 | Nesr (Yırtıcı Akbaba/Kartal Simgeli Tarihsel Put/Otorite Odağı — Sure 71 Nûh Son Kilidi) | ✅ **MÜHÜRLÜ** |
-| 8 | Sure %100 Kilidi | 659 | `ص-و-ت` | `S-W-T` | **8** | 5 | 17:64 | Savt ve Esvât (Sure 49 Hucurât kilidi + 8 geçiş: 17:64, 20:108, 31:19, 49:2, 49:3 titreşimle çıkan işitilir ses ve ses tonunu ölçülü tutmak) | ⏳ *Bekliyor* |
+| 8 | Sure %100 Kilidi | 659 | `ص-و-ت` | `S-W-T` | **8** | 5 | 17:64 | Savt ve Asvât (Kulakta Yankılanan Fiziksel Ses, Ses Tonu ve İşitsel Çağırma) | ✅ **MÜHÜRLÜ** |
 | 9 | Sure %100 Kilidi | 679 | `ن-د-م` | `N-D-M` | **7** | 7 | 5:31 | Nedâme ve Nâdimîn (Sure 49 Hucurât kilidi + 7 geçiş: 5:31, 5:52, 10:54, 23:40, 26:157, 34:33, 49:6 yanlış eylem sonrası içten kemiren yakıcı pişmanlık) | ⏳ *Bekliyor* |
 | 10 | Sure %100 Kilidi | 763 | `ع-ن-ت` | `A-N-T` | **5** | 5 | 2:220 | Anet ve A'nete (Sure 49 Hucurât kilidi + 5 geçiş: 2:220, 3:118, 4:25, 9:128, 49:7 kırık kemiğin yeniden incinmesi gibi ağır sıkıntı, darlık ve yıpranma) | ⏳ *Bekliyor* |
 | 11 | Sure %100 Kilidi | 1227 | `ش-ع-ب` | `S-A-B` | **2** | 2 | 49:13 | Şuûb ve Şuab (Sure 49 Hucurât + Sure 77 Mürselât ortak kilidi + 2 geçiş: 49:13, 77:30 ana gövdeden ayrılıp kollara bölünen büyük halk toplulukları ve üç kollu gölge) | ⏳ *Bekliyor* |

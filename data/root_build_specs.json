@@ -56964,5 +56964,56 @@
       }
     ],
     "context_default": "Nûh kavminin yırtıcı kuş simgeli sahte odağı bağlamı"
+  },
+  "ص-و-ت": {
+    "buckwalter": "Swt",
+    "slug": "swt",
+    "concept_name": "Savt ve Asvât (Kulakta Yankılanan Fiziksel Ses, Ses Tonu ve İşitsel Çağırma)",
+    "root_latin": "S-W-T",
+    "keywords": [
+      "savt",
+      "asvat",
+      "ses",
+      "ses tonu",
+      "isitsel etki",
+      "kisik ses"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Sawot",
+        "ayahs": [
+          "17:64",
+          "20:108",
+          "31:19",
+          "49:2",
+          "49:3"
+        ],
+        "label": "Tekil ve çoğul isim (`صَوْت` / `أَصْوَات` — kulakta yankılanan ses dalgası ve konuşma tonu; 8 geçiş / 5 ayet)"
+      }
+    ],
+    "irab_default": "Kulakta duyulan fiziksel ses ve konuşma tonunu bildiren `ص-و-ت` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "31:19",
+          "49:2",
+          "49:3"
+        ],
+        "text": "Ses Tonu Ölçülülüğü ve Saygı (`31:19`, `49:2`, `49:3`): Sesini ölçülü tutup kısmak (`غَضُّ الصَّوْت`), kaba çığlıktan ve liderin/elçinin sesini bastıran yükseltmeden (`رَفْعُ الصَّوْت`) kaçınmak."
+      },
+      {
+        "ayahs": [
+          "20:108"
+        ],
+        "text": "Hesap Günü Seslerin Sinmesi (`20:108`): Çağırana yönelirken tüm seslerin derin bir sükûnetle sinip (`خَشَعَتِ الْأَصْوَاتُ`) yalnızca fısıltının (`هَمْس`) kalması."
+      },
+      {
+        "ayahs": [
+          "17:64"
+        ],
+        "text": "Kışkırtıcı İşitsel Çağrı (`17:64`): Dıştan gelen ayartıcı sesle (`بِصَوْتِكَ`) iradesi zayıf olanları yerinden oynatmaya çalışmak."
+      }
+    ],
+    "context_default": "Fiziksel ses, konuşma tonu ve işitsel etki bağlamı"
   }
 }
