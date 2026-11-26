@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 352 mühürlü kökten (`%83,08`) sonra, meal aşamasına geçmeden önce ceza-aile-ibadet hukuku düğümlerini, kısa sure kilitlerini ve en yüksek açık Mesânî referanslarını kapatan **48 kritik kök** (714 geçiş) mühürlenerek toplam sözlük **400 kilitli köke (`%95,49` kümülatif kapsam)** ulaştırılır.
-> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 48 / 48 Kök (Toplam Mühürlü: 806 Kök | Güncel Kapsam: %95,49)
+> **Etap 3C İçinde Şu Ana Kadar Mühürlenen:** 48 / 48 Kök (Toplam Mühürlü: 807 Kök | Güncel Kapsam: %95,49)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |

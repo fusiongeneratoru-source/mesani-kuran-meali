@@ -56932,5 +56932,37 @@
       }
     ],
     "context_default": "Parmaklarla işitme kanalını tıkama bağlamı"
+  },
+  "ن-س-ر": {
+    "buckwalter": "nsr",
+    "slug": "nsr_nasr",
+    "concept_name": "Nesr (Yırtıcı Akbaba/Kartal Simgeli Tarihsel Put/Otorite Odağı — Sure 71 Nûh Son Kilidi)",
+    "root_latin": "N-S-R",
+    "keywords": [
+      "nesr",
+      "akbaba",
+      "kartal",
+      "nuh kavmi",
+      "put"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nasor",
+        "ayahs": [
+          "71:23"
+        ],
+        "label": "Mansûb özel isim (`وَنَسْرًا` — yırtıcı akbaba/kartal adından gelen, Nûh toplumunun kutsadığı sahte odak; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yırtıcı kuş adından gelen özel ad (`ن-س-ر`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "71:23"
+        ],
+        "text": "Nûh Kavminin Çoklu Tapınım Odağı (`71:23`): Vedd, Suvâ, Yeğûs ve Yeûk ile birlikte anılan kartal/akbaba simgeli geleneksel odak (`نَسْر`)."
+      }
+    ],
+    "context_default": "Nûh kavminin yırtıcı kuş simgeli sahte odağı bağlamı"
   }
 }
