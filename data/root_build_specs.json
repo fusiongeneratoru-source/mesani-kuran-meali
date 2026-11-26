@@ -53373,5 +53373,89 @@
       }
     ],
     "context_default": "Karşılıklı sözlü hitap, talep veya sorgulanan mesele bağlamı"
+  },
+  "خ-و-ض": {
+    "buckwalter": "xwD",
+    "slug": "xwd",
+    "concept_name": "Havd (Suya Girip Çalkalar Gibi Batıl ve Alaycı Sözlere Dalmak)",
+    "keywords": [
+      "havd",
+      "hada",
+      "yahudun",
+      "haidin",
+      "batila dalmak",
+      "alayci soze dalmak",
+      "lafa dalip oynamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xaADu",
+        "ayahs": [
+          "9:69"
+        ],
+        "label": "Form I malum mâzi fiil (`وَخُضْتُمْ كَٱلَّذِى خَاضُوٓا۟` — 2. çoğul eril ve 3. çoğul eril; geçmişlerin batıl dalışını tekrarlamak; 2 geçiş: 9:69)"
+      },
+      {
+        "lemma": "xaADu",
+        "ayahs": [
+          "4:140",
+          "6:68"
+        ],
+        "label": "Form I malum muzâri fiil (`يَخُوضُونَ` merfû, `حَتَّىٰ يَخُوضُوا۟` mansub — ayetlere dil uzatıp dalmak ve başka söze geçmek; 3 geçiş: 4:140, 6:68 x2)"
+      },
+      {
+        "lemma": "xaADu",
+        "ayahs": [
+          "9:65",
+          "43:83",
+          "70:42",
+          "74:45"
+        ],
+        "label": "Form I malum muzâri fiil (`نَخُوضُ` merfû, `فَذَرْهُمْ يَخُوضُوا۟` talep cevabı meczum — alay ve oyalanmayla batıl sözlere dalmak; 4 geçiş)"
+      },
+      {
+        "lemma": "xawoD",
+        "ayahs": [
+          "6:91",
+          "52:12"
+        ],
+        "label": "Form I masdar, `فِى` ile mecrur (`فِى خَوْضِهِمْ يَلْعَبُونَ` / `فِى خَوْضٍ يَلْعَبُونَ`; 2 geçiş: 6:91, 52:12)"
+      },
+      {
+        "lemma": "xaA^}iDiyn",
+        "ayahs": [
+          "74:45"
+        ],
+        "label": "Form I ism-i fâil çoğul muzâfun ileyh mecrur (`مَعَ ٱلْخَآئِضِينَ` — batıla dalanlarla birlikte; 1 geçiş: 74:45)"
+      }
+    ],
+    "irab_default": "Batıl veya alaycı söze dalmayı bildiren `خ-و-ض` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:140",
+          "6:68"
+        ],
+        "text": "Ayetlere Dalan Meclislerden Yüz Çevirme İlkesi (`4:140`, `6:68`): Allah'ın ayetlerinin alaya alınıp batıl sözlerle çalkalandığı oturumlardan başka bir konuya geçilinceye kadar uzaklaşma sorumluluğu."
+      },
+      {
+        "ayahs": [
+          "6:91",
+          "9:65",
+          "9:69",
+          "43:83",
+          "52:12",
+          "70:42"
+        ],
+        "text": "Batıl Dalış ve Oyun İkizliği (`6:91`, `9:65`, `9:69`, `43:83`, `52:12`, `70:42`): Ayetlerle alayı 'sadece lafa dalıp eğleniyorduk' diye örtme çabası, geçmiş bozguncuların dalışını yineleme ve onları buluşma gününe dek kendi dalışlarında bırakma."
+      },
+      {
+        "ayahs": [
+          "74:45"
+        ],
+        "text": "Sakar Ehlinin Sürü Psikolojisi İtirafı (`74:45`): Hesap gününde 'biz de dalanlarla birlikte batıla dalardık' diyerek sorumsuz kalabalık uyumunu itiraf etme."
+      }
+    ],
+    "context_default": "Batıl ve alaycı sözlere dalma bağlamı"
   }
 }
