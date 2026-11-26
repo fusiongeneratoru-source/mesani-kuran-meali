@@ -59397,5 +59397,48 @@
       }
     ],
     "context_default": "Gölgelikli ve rahat sedirler üzerinde huzurla yerleşme bağlamı"
+  },
+  "م-ز-ج": {
+    "buckwalter": "mzj",
+    "slug": "mzj",
+    "concept_name": "Mizâc (İki Sıvı veya Özün Dengeli Biçimde Karıştırılıp Harmanlanması)",
+    "root_latin": "M-Z-J",
+    "keywords": [
+      "mizac",
+      "karisim",
+      "harman",
+      "kafur",
+      "zencebil",
+      "tesnim",
+      "icecek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mizaAj",
+        "ayahs": [
+          "76:5",
+          "76:17",
+          "83:27"
+        ],
+        "label": "İsim (`مِزَاجُهَا` `76:5, 76:17`, `وَمِزَاجُهُۥ` `83:27` — bir içeceğe koku, tat ve denge katmak için karıştırılan öz/katkı; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Bir içeceğe dengeli biçimde katılan karışımı ve harmanı bildiren `م-ز-ج` ismi (`مِزَاج`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "76:5",
+          "76:17"
+        ],
+        "text": "Kâfûr ve Zencebil Karışımı (`76:5`, `76:17`): İyilere sunulan kadehlerin serinletici kâfûr (`كَافُورًا`) ve ısıtıcı/rayihalı zencebil (`زَنجَبِيلًا`) ile dengelenmiş karışımı."
+      },
+      {
+        "ayahs": [
+          "83:27"
+        ],
+        "text": "Tesnîm Kaynağından Karışım (`83:27`): Mühürlü saf içeceğin (`رَّحِيقٍ مَّخْتُومٍ`) yüce `تَسْنِيم` kaynağından gelen özle harmanlanması."
+      }
+    ],
+    "context_default": "İçeceğe tat, rayiha ve denge katan karışım bağlamı"
   }
 }
