@@ -56083,5 +56083,72 @@
       }
     ],
     "context_default": "Vadi yatağı veya can bedeli bağlamı"
+  },
+  "ن-ي-ل": {
+    "buckwalter": "nyl",
+    "slug": "nyl",
+    "concept_name": "Neyl (El Uzatıp Erişmek, Hak Edişle Elde Etmek ve Sonucun Ulaşması)",
+    "keywords": [
+      "neyl",
+      "yenal",
+      "tenalul birr",
+      "erismek",
+      "elde etmek",
+      "ulasmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yanaAlu",
+        "ayahs": [
+          "2:124",
+          "3:92",
+          "5:94",
+          "7:37",
+          "7:49",
+          "7:152",
+          "9:74",
+          "9:120",
+          "22:37",
+          "33:25"
+        ],
+        "label": "Form I muzâri fiil (`يَنَالُ / تَنَالُوا۟ / يَنَالُونَ` — somut veya ahlaki olarak erişip elde etmek; 11 geçiş)"
+      },
+      {
+        "lemma": "n~ayol",
+        "ayahs": [
+          "9:120"
+        ],
+        "label": "Mansûb mef'ûl-i mutlak masdar (`وَلَا يَنَالُونَ مِنْ عَدُوٍّ نَّيْلًا` — elde edilen her türlü üstünlük ve başarı; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Erişme ve elde etme bildiren `ن-ي-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:124",
+          "3:92",
+          "22:37"
+        ],
+        "text": "Ahlaki Hak Ediş Yasaları (`2:124`, `3:92`, `22:37`): İlahî ahdin zalimlere erişmemesi, geniş erdeme sevdiğinden paylaşarak erişilmesi ve Allah'a et-kan değil bilinçli sakınmanın ulaşması."
+      },
+      {
+        "ayahs": [
+          "5:94",
+          "9:74",
+          "9:120",
+          "33:25"
+        ],
+        "text": "Somut Erişim, Mücadele ve Sonuç (`5:94`, `9:74`, `9:120`, `33:25`): Ellerin eriştiği av sınaması, düşmana karşı elde edilen başarı ve saldırganların hiçbir hayra erişemeden geri çevrilmesi."
+      },
+      {
+        "ayahs": [
+          "7:37",
+          "7:49",
+          "7:152"
+        ],
+        "text": "Hak Edilmiş Pay, Rahmet ve Gazabın Ulaşması (`7:37`, `7:49`, `7:152`): Yazılı payın, ilahî rahmetin veya buzağı edinenlere gazabın gelip erişmesi."
+      }
+    ],
+    "context_default": "Erişme ve elde etme bağlamı"
   }
 }
