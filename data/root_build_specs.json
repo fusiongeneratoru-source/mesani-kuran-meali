@@ -57307,5 +57307,63 @@
       }
     ],
     "context_default": "Karşılıklı aşağılayıcı lakap takışma yasağı bağlamı"
+  },
+  "س-ت-ت": {
+    "buckwalter": "stt",
+    "slug": "stt",
+    "concept_name": "Sitte ve Sittîn (Altı Kozmik Evre ve Altmış Kişilik Toplumsal Doyurma Ölçüsü)",
+    "root_latin": "S-T-T",
+    "keywords": [
+      "sitte",
+      "sittin",
+      "alti",
+      "altmis",
+      "alti evre",
+      "kozmik olcu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sit~ap",
+        "ayahs": [
+          "7:54",
+          "10:3",
+          "11:7",
+          "25:59",
+          "32:4",
+          "50:38",
+          "57:4"
+        ],
+        "label": "Sayı ismi (`سِتَّةِ أَيَّامٍ` — göklerin ve yerin yaratılışındaki altı evre/dönem; 7 geçiş)"
+      },
+      {
+        "lemma": "sit~iyn",
+        "ayahs": [
+          "58:4"
+        ],
+        "label": "Onluk sayı ismi (`سِتِّينَ مِسْكِينًا` — zıhâr kefaretinde altmış yoksulu doyurma ölçüsü; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Altı ve altmış sayısal ölçüsünü bildiren `س-ت-ت` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:54",
+          "10:3",
+          "11:7",
+          "25:59",
+          "32:4",
+          "50:38",
+          "57:4"
+        ],
+        "text": "Göklerin ve Yerin Altı Evrede Yaratılışı (`7:54`, `10:3`, `11:7`, `25:59`, `32:4`, `50:38`, `57:4`): Evrenin yorgunluk olmaksızın (`50:38`) altı aşamalı düzenli süreçte (`فِي سِتَّةِ أَيَّامٍ`) inşa edilip yönetim makamına (`عَرْش`) yerleşilmesi."
+      },
+      {
+        "ayahs": [
+          "58:4"
+        ],
+        "text": "Altmış Yoksulu Doyurma Telafisi (`58:4`): İki ardışık ay kendini tutmaya (`صِيَام`) gücü yetmeyen kimsenin altmış muhtacı (`سِتِّينَ مِسْكِينًا`) doyurarak aile içi hatasını onarması."
+      }
+    ],
+    "context_default": "Altı evreli kozmik ölçü ve altmışlı toplumsal onarım sayısı bağlamı"
   }
 }
