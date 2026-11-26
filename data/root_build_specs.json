@@ -54333,5 +54333,80 @@
       }
     ],
     "context_default": "Mühlet tanıma veya kavurucu eriyik bağlamı"
+  },
+  "ص-د-ع": {
+    "buckwalter": "SdE",
+    "slug": "sde",
+    "concept_name": "Sad' / Tasaddu' (Sert Gövdede Yarık Açılması, Ayrışma ve Hakikati Yarıp İlan Etme)",
+    "keywords": [
+      "sad",
+      "tasaddu",
+      "suda",
+      "catlak",
+      "yarilma",
+      "ayrisma",
+      "fasda"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{SodaEo",
+        "ayahs": [
+          "15:94"
+        ],
+        "label": "Form I emir fiil (`فَٱصْدَعْ بِمَا تُؤْمَرُ` — hakikati keskin biçimde yarıp apaçık ortaya koy; 1 geçiş: 15:94)"
+      },
+      {
+        "lemma": "yuSad~aEu",
+        "ayahs": [
+          "56:19"
+        ],
+        "label": "Form II edilgen muzâri (`لَّا يُصَدَّعُونَ` — baş ağrısıyla çatlayıp sarsılmazlar; 1 geçiş: 56:19)"
+      },
+      {
+        "lemma": "yaS~ad~aEu",
+        "ayahs": [
+          "30:43"
+        ],
+        "label": "Form V idgamlı malum muzâri (`يَصَّدَّعُونَ` — o gün bölük bölük ayrışırlar; 1 geçiş: 30:43)"
+      },
+      {
+        "lemma": "m~utaSad~iE",
+        "ayahs": [
+          "59:21"
+        ],
+        "label": "Form V mansub etken ortaç (`مُّتَصَدِّعًا` — ikinci mef'ûl/hâl: haşyetten çatlayıp yarılmış hâlde; 1 geçiş: 59:21)"
+      },
+      {
+        "lemma": "S~adoE",
+        "ayahs": [
+          "86:12"
+        ],
+        "label": "Mecrûr masdar isim (`ذَاتِ ٱلصَّدْعِ` — muzâfün ileyh: yarık ve çatlak sahibi yer; 1 geçiş: 86:12)"
+      }
+    ],
+    "irab_default": "Sert gövdede yarılma veya ayrışma bildiren `ص-د-ع` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "86:12",
+          "59:21"
+        ],
+        "text": "Yer ve Dağın Somut Yarılması (`86:12`, `59:21`): Bitki ve kabuk dinamiğiyle yarılan yeryüzü ile vahyin ağırlığı karşısında haşyetten çatlayıp yarılacak olan dağ."
+      },
+      {
+        "ayahs": [
+          "15:94",
+          "30:43"
+        ],
+        "text": "Hakikati Yarıp İlan Etme ve İnsanların Ayrışması (`15:94`, `30:43`): Elçiye emrolunanı apaçık ortaya koyma buyruğu ile hesap gününde insanların bölük bölük ayrışması."
+      },
+      {
+        "ayahs": [
+          "56:19"
+        ],
+        "text": "Baş Çatlamasından Arınmış Esenlik İçeceği (`56:19`): Nimet bahçelerindeki içeceğin ne baş çatlaması/ağrısı (`صُدَاع`) ne de bilinç bulanıklığı vermemesi."
+      }
+    ],
+    "context_default": "Sert gövdede yarılma ve ayrışma bağlamı"
   }
 }
