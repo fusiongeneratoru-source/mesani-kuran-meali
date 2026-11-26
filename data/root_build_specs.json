@@ -60127,5 +60127,61 @@
       }
     ],
     "context_default": "Dokuz, on dokuz veya doksan dokuz sayısal ölçüsü bağlamı"
+  },
+  "ن-ق-ر": {
+    "buckwalter": "nqr",
+    "slug": "nqr",
+    "concept_name": "Nakr, Nâkûr ve Nakîr (Sertçe Vurup Oymak, Çekirdekteki Küçücük Oyuk ve Çınlayan Boru)",
+    "root_latin": "N-Q-R",
+    "keywords": [
+      "nakr",
+      "nakur",
+      "nakir",
+      "cekirdek oyugu",
+      "vurma",
+      "boru",
+      "adalet olcusu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "naqiyr",
+        "ayahs": [
+          "4:53",
+          "4:124"
+        ],
+        "label": "Mef'ûl anlamlı fa'îl ismi (`نَقِيرًا` — hurma çekirdeğinin sırtındaki iğne ucu kadar küçücük oyuk/nokta; aşırı cimrilik `4:53` ve zerre kadar haksızlık edilmemesi `4:124` ölçüsü; 2 geçiş)"
+      },
+      {
+        "lemma": "nuqira",
+        "ayahs": [
+          "74:8"
+        ],
+        "label": "Form I edilgen mâzî fiil (`فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ` — boruya/nâkûra şiddetle vurulup/üflenip keskin ses çıkarıldığında; 1 geçiş)"
+      },
+      {
+        "lemma": "n~aAquwr",
+        "ayahs": [
+          "74:8"
+        ],
+        "label": "Fâ'ûl alet/mübalağa ismi (`ٱلنَّاقُورِ` — içine üflenip/vurulup çınlatılan büyük hesap borusu / sûr; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Oyma noktasını (`نَقِير`) veya borunun keskin çınlayışını (`نُقِرَ فِى ٱلنَّاقُورِ`) bildiren `ن-ق-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:53",
+          "4:124"
+        ],
+        "text": "Hurma Çekirdeğindeki Küçücük Oyuk (`4:53`, `4:124`): Mülkten payları olsaydı insanlara çekirdek oyuğu kadar bile vermeyecek olanların cimriliği (`4:53`) karşısında, Allah'ın iyilik yapanlara çekirdek oyuğu kadar bile haksızlık etmeyeceği (`4:124`) mutlak adalet ölçüsü."
+      },
+      {
+        "ayahs": [
+          "74:8"
+        ],
+        "text": "Büyük Borunun Çınlaması (`74:8`): `فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ` — o keskin boru çınlatıldığında başlayan çetin hesap günü (`74:9-10`)."
+      }
+    ],
+    "context_default": "Küçücük oyma çukuru veya keskin sesle çınlayan boru bağlamı"
   }
 }
