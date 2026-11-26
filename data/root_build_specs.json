@@ -58394,5 +58394,47 @@
       }
     ],
     "context_default": "Sert, büyük ve yekpare kaya kütlesi bağlamı"
+  },
+  "و-ت-د": {
+    "buckwalter": "wtd",
+    "slug": "wtd",
+    "concept_name": "Veted ve Evtâd (Yere Çakılıp Sabitleyen Kazık, Dağların Sabitleyici İşlevi ve Firavun'un Kazıkları/Dayanakları)",
+    "root_latin": "W-T-D",
+    "keywords": [
+      "veted",
+      "evtad",
+      "kazik",
+      "sabitleyen daglar",
+      "firavun",
+      "dikili direk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">awotaAd",
+        "ayahs": [
+          "38:12",
+          "78:7",
+          "89:10"
+        ],
+        "label": "Cemi teksir (`أَوْتَادًا / ٱلْأَوْتَادِ` — yere derinlemesine çakılan sabitleyici kazıklar / dikili güç dayanakları; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Yere çakılıp sabitleyen kazık ve direkleri bildiren `و-ت-د` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "78:7"
+        ],
+        "text": "Dağların Yerkabuğunu Sabitleyen Kazık İşlevi (`78:7`): `وَٱلْجِبَالَ أَوْتَادًا` — serilmiş döşek (`مِهَٰدًا`) üzerindeki çadırı yere tutturan kazıklar gibi dağlar."
+      },
+      {
+        "ayahs": [
+          "38:12",
+          "89:10"
+        ],
+        "text": "Firavun'un 'Kazıklar/Dayanaklar Sahibi' Unvanı (`38:12`, `89:10`): `فِرْعَوْنُ ذُو / ذِى ٱلْأَوْتَادِ` — sarsılmaz sanılan devasa ordular, anıtsal dikili yapılar veya zorbalık dayanakları."
+      }
+    ],
+    "context_default": "Yere çakılarak sabitleyen kazık, direk ve iktidar dayanağı bağlamı"
   }
 }
