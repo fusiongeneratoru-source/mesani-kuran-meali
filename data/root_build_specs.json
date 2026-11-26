@@ -52521,5 +52521,51 @@
       }
     ],
     "context_default": "Sağlam tutunmadan kayma ve kaydırılma bağlamı"
+  },
+  "غ-ي-ض": {
+    "buckwalter": "gyD",
+    "slug": "gyd",
+    "concept_name": "Gayd / Gîda (Taşkın Suyun veya Ölçünün İçe Çekilip Eksilmesi)",
+    "keywords": [
+      "gayd",
+      "gida",
+      "suyun cekilmesi",
+      "eksilmek",
+      "alcalmak",
+      "rahimlerin eksiltmesi",
+      "tegid"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "giyDa",
+        "ayahs": [
+          "11:44"
+        ],
+        "label": "Form I ecvef meçhul mâzi 3. tekil eril fiil (`وَغِيضَ ٱلْمَآءُ` — nâib-i fâili `ٱلْمَآءُ`; 1 geçiş: 11:44)"
+      },
+      {
+        "lemma": "giyDa",
+        "ayahs": [
+          "13:8"
+        ],
+        "label": "Form I ecvef malum muzâri 3. tekil dişil fiil (`وَمَا تَغِيضُ ٱلْأَرْحَامُ` — `مَا` mevsûlünün sılası, faili `ٱلْأَرْحَامُ`; 1 geçiş: 13:8)"
+      }
+    ],
+    "irab_default": "Çekilerek eksilme ve alçalma bildiren Form I ecvef fiil (`غ-ي-ض` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:44"
+        ],
+        "text": "Tufan Sularının Çekilip Alçalması (`11:44`): Yerin suyu yutması ve göğün yağışı kesmesinin hemen ardından taşkın sularının çekilip inmesi (`وَغِيضَ ٱلْمَآءُ`)."
+      },
+      {
+        "ayahs": [
+          "13:8"
+        ],
+        "text": "Rahimlerdeki Eksilme ve Artışın Hassas Ölçüsü (`13:8`): Dişilerin taşıdığı varlıkta rahimlerin eksilttiği (`تَغِيضُ`) ile artırdığının (`تَزْدَادُ`) tam bir ölçü (`بِمِقْدَارٍ`) dâhilinde bilinmesi."
+      }
+    ],
+    "context_default": "Çekilerek eksilme ve alçalma bağlamı"
   }
 }
