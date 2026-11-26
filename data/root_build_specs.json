@@ -56002,5 +56002,86 @@
       }
     ],
     "context_default": "Yaratılışın başlangıç damlası bağlamı"
+  },
+  "و-د-ي": {
+    "buckwalter": "wdy",
+    "slug": "wdy",
+    "concept_name": "Vâdî, Evdiye ve Diye (Dağlar Arası Vadi Yatağı ve Can Bedeli Tazminatı)",
+    "keywords": [
+      "vadi",
+      "evdiye",
+      "diye",
+      "diyet",
+      "kutsal vadi",
+      "ekinsiz vadi",
+      "can bedeli"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "waAd",
+        "ayahs": [
+          "14:37",
+          "20:12",
+          "26:225",
+          "27:18",
+          "28:30",
+          "79:16",
+          "89:9"
+        ],
+        "label": "Mecrûr mankûs isim (`وَادٍ / ٱلْوَادِ` — kutsal vadi, Mekke vadisi, karınca vadisi vb.; 7 geçiş)"
+      },
+      {
+        "lemma": "waAdiy",
+        "ayahs": [
+          "9:121"
+        ],
+        "label": "Mansûb tekil isim (`وَلَا يَقْطَعُونَ وَادِيًا` — aşılan vadi; 1 geçiş)"
+      },
+      {
+        "lemma": ">awodiyap",
+        "ayahs": [
+          "13:17",
+          "46:24"
+        ],
+        "label": "Kırık çoğul isim (`أَوْدِيَةٌۢ / أَوْدِيَتِهِمْ` — sel taşıyan vadiler; 2 geçiş)"
+      },
+      {
+        "lemma": "diyap",
+        "ayahs": [
+          "4:92"
+        ],
+        "label": "Merfû nekre isim (`دِيَةٌ` — kasıtsız öldürmede aileye ödenen can bedeli; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Vadi yatağı veya can bedeli bildiren `و-د-ي` ismi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "14:37",
+          "20:12",
+          "27:18",
+          "28:30",
+          "79:16",
+          "89:9"
+        ],
+        "text": "Tarihî ve Kutsal Vadiler (`14:37`, `20:12`, `27:18`, `28:30`, `79:16`, `89:9`): Mekke'nin ekinsiz vadisi, Musa'nın kutsal Tuvâ vadisi, karınca vadisi ve Semûd'un kaya oyduğu vadi."
+      },
+      {
+        "ayahs": [
+          "9:121",
+          "13:17",
+          "26:225",
+          "46:24"
+        ],
+        "text": "Sel Yatağı Meseli, Sefer ve Savrulma Vadileri (`9:121`, `13:17`, `26:225`, `46:24`): Vadilerin kapasitesince su taşıması, Âd vadilerine gelen bulut, seferde aşılan vadi ve şairlerin her vadide savrulması."
+      },
+      {
+        "ayahs": [
+          "4:92"
+        ],
+        "text": "Kasıtsız Öldürmede Can Bedeli (`4:92`): Hataen ölüm halinde maktulün ailesine teslim edilen onarıcı tazminat (`دِيَة`)."
+      }
+    ],
+    "context_default": "Vadi yatağı veya can bedeli bağlamı"
   }
 }
