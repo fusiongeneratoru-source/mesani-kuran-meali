@@ -57075,5 +57075,62 @@
       }
     ],
     "context_default": "İşlenmiş bir eylemden sonra duyulan pişmanlık bağlamı"
+  },
+  "ع-ن-ت": {
+    "buckwalter": "Ent",
+    "slug": "ent",
+    "concept_name": "Anet ve İ'nât (Dayanılması Güç Zorluk, Kırıcı Sıkıntı ve Ağır Yük Altında Ezilme)",
+    "root_latin": "A-N-T",
+    "keywords": [
+      "anet",
+      "inat",
+      "agir sikinti",
+      "ezici zorluk",
+      "dayanilmaz yuk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aEonata",
+        "ayahs": [
+          "2:220"
+        ],
+        "label": "Form IV mâzi fiil (`لَأَعْنَتَكُمْ` — ağır sıkıntıya ve taşıyamayacağınız zorluğa sokmak; 1 geçiş)"
+      },
+      {
+        "lemma": "Eani",
+        "ayahs": [
+          "3:118",
+          "9:128",
+          "49:7"
+        ],
+        "label": "Form I mâzi fiil (`عَنِتُّمْ` / `لَعَنِتُّمْ` — ağır zorluğa, yıpratıcı sıkıntıya ve zarara düşmek; 3 geçiş)"
+      },
+      {
+        "lemma": "Eanat",
+        "ayahs": [
+          "4:25"
+        ],
+        "label": "Mastar isim (`الْعَنَتَ` — insanı zorlayıp taşkınlığa sürükleyen ağır sıkıntı; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Ağır sıkıntı, ezici zorluk ve kırıcı meşakkati bildiren `ع-ن-ت` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:220",
+          "4:25"
+        ],
+        "text": "Toplumsal Düzenlemede Zorluğu Kaldırma (`2:220`, `4:25`): Yetimlerle bir arada yaşama kuralında yükü ağırlaştırmamak (`لَأَعْنَتَكُمْ`) ve evlilikte ağır sıkıntıdan (`الْعَنَت`) korkanlar için kolaylaştırıcı çıkış yolu açmak."
+      },
+      {
+        "ayahs": [
+          "3:118",
+          "9:128",
+          "49:7"
+        ],
+        "text": "Topluluğun Sıkıntıya Düşmesi Üzerine İki Karşıt Tutum (`3:118`, `9:128`, `49:7`): Düşman sırdaşların sıkıntıya düşmenizi arzulaması (`وَدُّوا مَا عَنِتُّمْ`), buna karşılık elçinin sizin sıkıntıya düşmenizden ağır üzüntü duyması (`عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ`) ve aceleci taleplerinize uysa sıkıntıya düşeceğiniz uyarısı (`لَعَنِتُّمْ`)."
+      }
+    ],
+    "context_default": "Ağır zorluk, ezici sıkıntı ve bunaltıcı yük bağlamı"
   }
 }
