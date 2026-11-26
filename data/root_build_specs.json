@@ -57812,5 +57812,48 @@
       }
     ],
     "context_default": "Kökünden sökme, un ufak etme ve savurup dağıtma bağlamı"
+  },
+  "ه-ن-أ": {
+    "buckwalter": "hnA",
+    "slug": "hna",
+    "concept_name": "Henî' (Zahmetsiz, İç Huzuruyla Sindirilen, Boğazda Kalmayan Afiyetli ve Gönül Hoşnutluğu Veren Nimet)",
+    "root_latin": "H-N-E",
+    "keywords": [
+      "heni",
+      "afiyetle",
+      "ic huzuruyla",
+      "zahmetsiz iyilik",
+      "sindirim kolayligi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "haniy^_#",
+        "ayahs": [
+          "4:4",
+          "52:19",
+          "69:24",
+          "77:43"
+        ],
+        "label": "Sıfat-ı müşebbehe / hâl (`هَنِيئًا` — zahmetsiz, gönül rahatlığıyla ve afiyetle yiyip içerek; 4 geçiş)"
+      }
+    ],
+    "irab_default": "Zahmetsiz gelen ve gönül rahatlığıyla sinen afiyeti bildiren `ه-ن-أ` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "52:19",
+          "69:24",
+          "77:43"
+        ],
+        "text": "Eylemlerin Karşılığı Olarak Afiyetle Yiyip İçme (`52:19`, `69:24`, `77:43`): Önceki günlerde yapılan dürüst eylemlerin karşılığı olarak hiçbir keder ve sakınca olmaksızın afiyetle yiyip içme çağrısı (`كُلُوا وَاشْرَبُوا هَنِيئًا`)."
+      },
+      {
+        "ayahs": [
+          "4:4"
+        ],
+        "text": "Gönül Rızasıyla Verilen Payın Sindirilebilirliği (`4:4`): Eşlerin kendi gönül hoşnutluğuyla (`طِبْنَ نَفْسًا`) bağışladığı mehir payının hiçbir vicdani yük olmadan afiyetle ve rahatlıkla (`هَنِيئًا مَرِيئًا`) yenmesi."
+      }
+    ],
+    "context_default": "Zahmetsiz, gönül rahatlığı ve afiyetle sindirilen nimet bağlamı"
   }
 }
