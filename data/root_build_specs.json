@@ -60467,5 +60467,66 @@
       }
     ],
     "context_default": "Yukarı tırmanma veya ölüm eşiğinde kurtarıcı/şifacı arama bağlamı"
+  },
+  "ل-ف-ف": {
+    "buckwalter": "lff",
+    "slug": "lff",
+    "concept_name": "Leff, Lefîf, Elfâf ve İltifâf (Parçaların Birbirine Dolanıp Sarılması ve Sıkıca Bir Araya Toplanması)",
+    "root_latin": "L-F-F",
+    "keywords": [
+      "leff",
+      "lefif",
+      "elfaf",
+      "iltifaf",
+      "dolanmak",
+      "sarilmak",
+      "sik bahce",
+      "toplanmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "lafiyf",
+        "ayahs": [
+          "17:104"
+        ],
+        "label": "Fa'îl ism-i/hâl (`جِئْنَا بِكُمْ لَفِيفًا` — farklı yerlerden derlenip birbirine katılmış topluluk hâlinde bir araya getirmemiz; 1 geçiş)"
+      },
+      {
+        "lemma": "{lotaf~ati",
+        "ayahs": [
+          "75:29"
+        ],
+        "label": "Form VIII (İfti'âl) mâzî fiil (`وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ` — ölüm anında iki bacağın [veya son anın şiddetlerinin] birbirine dolanıp kilitlenmesi; 1 geçiş)"
+      },
+      {
+        "lemma": ">alofaAf",
+        "ayahs": [
+          "78:16"
+        ],
+        "label": "Çoğul sıfat (`وَجَنَّٰتٍ أَلْفَافًا` — ağaçlarının dalları birbirine sıkıca dolanıp sarılmış gür bahçeler; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Birbirine dolanıp sarılmayı ve sıkıca bir araya toplanmayı bildiren `ل-ف-ف` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:104"
+        ],
+        "text": "Toplulukların Bir Araya Sarılıp Toplanması (`17:104`): Son vaat geldiğinde İsrailoğullarının dağınıklıktan toplanıp karma bir topluluk hâlinde (`لَفِيفًا`) bir araya getirilmesi."
+      },
+      {
+        "ayahs": [
+          "75:29"
+        ],
+        "text": "Ölüm Eşiğinde Dolanıp Kilitlenme (`75:29`): Can boğaza dayandığında `وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ` — bacağın bacağa (ve bir şiddetin diğer şiddete) dolanıp sarılması."
+      },
+      {
+        "ayahs": [
+          "78:16"
+        ],
+        "text": "Dalları Birbirine Sarılmış Sık Bahçeler (`78:16`): Bulutlardan indirilen bol suyla dalları birbirine dolanıp örtüşmüş sık bahçelerin (`وَجَنَّٰتٍ أَلْفَافًا`) çıkarılması."
+      }
+    ],
+    "context_default": "Birbirine dolanıp sarılma ve sıkıca toplanma bağlamı"
   }
 }
