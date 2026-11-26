@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 899,
+    "total_locked": 900,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2776,7 +2776,8 @@
         "ش-ع-ب (Şuûb/Şuab: tek gövdeden çatallanıp çoklu kollara ve geniş halklara ayrılma ↔ و-ح-د bölünmemiş tek parça birlik)",
         "س-ت-ت (Sitte/Sittîn: altı aşamalı çoklu evre ve altmışlı toplumsal sayı ölçüsü ↔ و-ح-د tekil başlangıç birimi ve bölünmemiş teklik)",
         "خ-م-س (Hamse/Humus/Hamsîn: beşli çokluk, beşinci kademe ve beşte bir dilim ↔ و-ح-د bölünmemiş tekil tam birim)",
-        "ت-س-ع (Tis'/Tis'ûn: dokuz ve doksan dokuz gibi çokluk eşiği ↔ و-ح-د tek ve bir olmak — `38:23` `تِسْعٌ وَتِسْعُونَ` ↔ `وَٰحِدَةٌ`)"
+        "ت-س-ع (Tis'/Tis'ûn: dokuz ve doksan dokuz gibi çokluk eşiği ↔ و-ح-د tek ve bir olmak — `38:23` `تِسْعٌ وَتِسْعُونَ` ↔ `وَٰحِدَةٌ`)",
+        "م-أ-ي (Mi'e: onlukları tam yüzlük bütünlüğe taşıyan büyük sayı basamağı ↔ و-ح-د tekil birim — `2:261` tek tohum → yedi başak × yüz tane)"
       ]
     },
     "ه-ل-ك": {
@@ -6083,7 +6084,8 @@
         "خ-ص-م (خ-ص-م ↔ أ-ل-ف Mesânî simetrisi)",
         "ف-ض-ض (F-D-D (fDD) — Çift Yönlü Mesânî Karşılığı: 3:159, 63:7)",
         "ش-ك-س (S-K-S ($ks) — Çift Yönlü Mesânî Karşılığı: `39:29` [شُرَكَآءُ مُتَشَٰكِسُونَ] — uyumlu bütünlük içinde kaynaşıp birleşmek `أَلَّفَ` ↔ birbiriyle uzlaşmaz biçimde zıtlaşıp çekişmek `مُتَشَٰكِسُونَ`)",
-        "ص-د-ع (S-D-E (SdE) — Çift Yönlü Mesânî Karşılığı: `30:43` — çatlayıp gruplara ayrışmak `يَصَّدَّعُونَ` ↔ kaynaşıp bütünleşmek `أُلْفَة`)"
+        "ص-د-ع (S-D-E (SdE) — Çift Yönlü Mesânî Karşılığı: `30:43` — çatlayıp gruplara ayrışmak `يَصَّدَّعُونَ` ↔ kaynaşıp bütünleşmek `أُلْفَة`)",
+        "م-أ-ي (Mi'e: yüzlük sayı basamağı ↔ أ-ل-ف binlik üst basamak — `8:65`, `8:66`, `37:147`)"
       ]
     },
     "و-ض-ع": {
@@ -11236,6 +11238,16 @@
       "opposites": [
         "ع-ج-ل (Acele edip hemen karşılığını vermek ↔ م-ل-و süreyi uzatıp uzun mühlet tanımak)",
         "أ-خ-ذ (Süre dolduğunda ansızın yakalayıp hesaba çekmek ↔ م-ل-و süre tanıyıp serbest bırakmak — `13:32`, `22:44`, `22:48`)"
+      ]
+    },
+    "م-أ-ي": {
+      "latin": "M-A-Y",
+      "core": "`م-أ-ي` kökü 10 geçişinde (`8x مِا۟ئَة`, `2x مِا۟ئَتَيْنِ`) **'onluk basamaktan yüzlük ölçeğe yükselen tam yüz (`100`) ve iki yüz (`200`) sayı ölçütü'** çekirdeğini zaman, bereket, direniş oranı ve hukukî ölçü düzlemlerinde işler.",
+      "physical": "On tane onluğun birleşmesiyle oluşan tam 'yüz' (`10 × 10 = 100`) temel sayı basamağı (`الْمِائَةُ: عَشْرُ عَشَرَاتٍ`).",
+      "opposites": [
+        "ع-ش-ر (Onluk taban basamağı ↔ م-أ-ي onlukların on katı olan yüzlük basamak — `8:65` `عِشْرُونَ ... مِا۟ئَتَيْنِ`)",
+        "و-ح-د (Tekil birim ↔ م-أ-ي yüzlük tam bütünlük — `2:261` tek tohum → her başakta yüz tane)",
+        "أ-ل-ف (Binlik üst basamak ↔ م-أ-ي yüzlük ara basamak — `8:65`, `8:66`, `37:147`)"
       ]
     }
   }

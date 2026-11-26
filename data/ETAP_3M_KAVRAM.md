@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 49 / 50 Kök (Toplam Mühürlü: 899 Kök | Güncel Kapsam: %96,30)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 900 Kök | Güncel Kapsam: %96,32)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -56,4 +56,4 @@
 | 47 | Yüksek Frekanslı Çekirdek | 594 | `ج-د-د` | `C-D-D` | **10** | 10 | 13:5 | Cedîd, Cüded ve Cedd (Tezgahtan Yeni Kesilmişçesine Yeni Yaratılış, Dağ Şeritleri/Yolları ve Yüce Azamet) | ✅ **MÜHÜRLÜ** |
 | 48 | Yüksek Frekanslı Çekirdek | 575 | `ز-ي-ل` | `Z-Y-L` | **10** | 10 | 2:217 | Zeyl, Tezyîl ve Tezeyyül (Birbirinden Ayırıp Koparmak — Olumsuzlukla 'Ayrılmayıp Sürekli Devam Etmek') | ✅ **MÜHÜRLÜ** |
 | 49 | Yüksek Frekanslı Çekirdek | 580 | `م-ل-و` | `M-L-W` | **10** | 9 | 3:178 | İmlâ ve Meliyy (Süreyi Uzatıp Mühlet Tanımak, Uzun Bir Zaman Dilimi ve Süreklilikle Yazdırıp Okumak) | ✅ **MÜHÜRLÜ** |
-| 50 | Yüksek Frekanslı Çekirdek | 578 | `م-أ-ي` | `M-E-Y` | **10** | 7 | 2:259 | Mi'e ve Mi'eteyn (10 geçiş | 1M: 2:259, 2:261, 8:65, 8:66, 18:25, 24:2, 37:147 yüz sayısı ve iki yüz — ≥10 geçişli açık kök 0 & 900. Kök!) | ⏳ *Bekliyor* |
+| 50 | Yüksek Frekanslı Çekirdek | 578 | `م-أ-ي` | `M-E-Y` | **10** | 7 | 2:259 | Mi'e ve Mi'eteyn (Yüz ve İki Yüz — Onluk Basamaktan Yüzlük Ölçeğe Geçen Sayı ve Katlama Ölçütü) | ✅ **MÜHÜRLÜ** |

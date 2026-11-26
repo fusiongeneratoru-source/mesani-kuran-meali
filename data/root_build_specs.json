@@ -61589,5 +61589,70 @@
       }
     ],
     "context_default": "Zamanı uzatma, mühlet tanıma ve sürekli dikte/yazdırma bağlamı"
+  },
+  "م-أ-ي": {
+    "buckwalter": "mAy",
+    "slug": "may",
+    "concept_name": "Mi'e ve Mi'eteyn (Yüz ve İki Yüz — Onluk Basamaktan Yüzlük Ölçeğe Geçen Sayı ve Katlama Ölçütü)",
+    "root_latin": "M-A-Y",
+    "keywords": [
+      "mie",
+      "mieteyn",
+      "yuz",
+      "iki yuz",
+      "uc yuz",
+      "yuz bin",
+      "yuz kat",
+      "sayi olcegi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "miA}ap",
+        "ayahs": [
+          "2:259",
+          "2:261",
+          "8:65",
+          "8:66",
+          "18:25",
+          "24:2",
+          "37:147"
+        ],
+        "label": "Sayı ismi `مِا۟ئَة` (`مِا۟ئَةَ عَامٍ` 2x `2:259` yüz yıl; `مِّا۟ئَةُ حَبَّةٍ` `2:261` her başakta yüz tane; `مِّا۟ئَةٌ` `8:65, 8:66` yüz dirençli kişi; `ثَلَٰثَ مِا۟ئَةٍ` `18:25` üç yüz yıl; `مِا۟ئَةَ جَلْدَةٍ` `24:2` yüz değnek; `مِا۟ئَةِ أَلْفٍ` `37:147` yüz bin kişi; 8 geçiş)"
+      },
+      {
+        "lemma": "miA}ap",
+        "ayahs": [
+          "8:65",
+          "8:66"
+        ],
+        "label": "İkil sayı ismi `مِا۟ئَتَيْنِ` (`يَغْلِبُوا۟ مِا۟ئَتَيْنِ` `8:65, 8:66` — iki yüz kişiye üstün gelmek; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Yüz sayısını veya iki yüz ikil ölçeğini bildiren `م-أ-ي` sayı ismi (`مِا۟ئَة` / `مِا۟ئَتَيْنِ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:259",
+          "18:25"
+        ],
+        "text": "Yüzyıllık Zaman Ölçeği (`2:259`, `18:25`): Yıkık kente uğrayan kişinin yüz yıl (`مِا۟ئَةَ عَامٍ`, 2 kez) ölü bırakılıp yeniden diriltilmesi ve Ashâb-ı Kehf'in mağarada üç yüz yıl ve dokuz fazlası (`ثَلَٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا`, `18:25`) kalması."
+      },
+      {
+        "ayahs": [
+          "2:261",
+          "37:147"
+        ],
+        "text": "Bereket Katlaması ve Büyük Topluluk Ölçeği (`2:261`, `37:147`): Allah yolunda harcanan malın yedi başak veren ve her başakta yüz tane (`مِّا۟ئَةُ حَبَّةٍ`, `2:261`) barındıran tek bir tohuma benzetilmesi ile Yunus'un yüz bin veya daha fazla (`مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ`, `37:147`) kişilik topluluğa gönderilmesi."
+      },
+      {
+        "ayahs": [
+          "8:65",
+          "8:66",
+          "24:2"
+        ],
+        "text": "Direniş Oranı ve Hukukî Ölçü (`8:65`, `8:66`, `24:2`): Sebat ve direniş gücünün 1'e 10'dan (`20 → 200`, `100 → 1000`, `8:65`) hafifletilerek 1'e 2'ye (`100 → 200`, `1000 → 2000`, `8:66`) indirilmesi ve zina suçunda belirli ceza sınırı (`مِا۟ئَةَ جَلْدَةٍ`, `24:2`)."
+      }
+    ],
+    "context_default": "Yüz ve iki yüz sayı ölçeği, zaman süresi ve oran ölçütü bağlamı"
   }
 }
