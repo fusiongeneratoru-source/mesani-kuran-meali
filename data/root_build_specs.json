@@ -51610,5 +51610,37 @@
       }
     ],
     "context_default": "Sert darbe ve çarpışmayla kıvılcım çakma bağlamı"
+  },
+  "ك-ن-د": {
+    "buckwalter": "knd",
+    "slug": "knd",
+    "concept_name": "Kenûd (Bağı Kesip Koparmak ve Çorak Toprak Gibi Nimete Aşırı Nankörlük)",
+    "keywords": [
+      "nankor",
+      "kenud",
+      "inatci",
+      "corak",
+      "nimet",
+      "bag kesmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "kanuwd",
+        "ayahs": [
+          "100:6"
+        ],
+        "label": "Te'kid lamlı (`لَـ`) merfû `فَعُول` mübalağa sıfat-ismi (`إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌ` — `إِنَّ` haberi, `لِرَبِّهِۦ` öne alınmış tümleciyle; 1 geçiş: 100:6)"
+      }
+    ],
+    "irab_default": "Şükran bağını kesen aşırı nankörlüğü bildiren `فَعُول` mübalağa sıfatı (`ك-ن-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "100:6"
+        ],
+        "text": "İnsanın Rabbine Karşı Bağ Kesen Nankörlüğü (`100:6`): Surenin ilk beş ayetindeki kararlı hız ve atılım sahnesinin ardından insanın aldığı tüm nimetlere karşılık bağını kesen çorak nankörlüğünü (`لَكَنُودٌ`) ilan eden odak ayet."
+      }
+    ],
+    "context_default": "Nimete karşı karşılık ve şükran bağını kesen aşırı nankörlük bağlamı"
   }
 }
