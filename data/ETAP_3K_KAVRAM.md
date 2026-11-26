@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 780 Kök | Güncel Kapsam: %95,08)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 31 / 50 Kök (Toplam Mühürlü: 781 Kök | Güncel Kapsam: %95,09)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -37,7 +37,7 @@
 | 28 | Sure %100 Kilidi | 540 | `ن-ط-ق` | `N-T-K` | **12** | 11 | 21:63 | Nutk ve Mantık (Anlaşılır Sözle Konuşmak ve Hakikati Dillendirmek) | ✅ **MÜHÜRLÜ** |
 | 29 | Sure %100 Kilidi | 585 | `ح-ي-ق` | `H-Y-K` | **10** | 10 | 6:10 | Hayk (Kötülük, Tuzak ve Alayın Failini Çepeçevre Kuşatması) | ✅ **MÜHÜRLÜ** |
 | 30 | Sure %100 Kilidi | 570 | `ر-ج-ز` | `R-C-Z` | **10** | 9 | 2:59 | Ricz ve Rucz (Sarsıcı Felaket, Ağır Azap ve Terk Edilecek Kirlilik) | ✅ **MÜHÜRLÜ** |
-| 31 | Sure %100 Kilidi | 710 | `ص-ر-ر` | `S-R-R` | **6** | 6 | 3:117 | İsrâr ve Sır (Sure 45 Câsiye kilidi + 6 geçiş: 3:117, 3:135, 45:8, 56:46, 71:7, 68:25 sert düğüm gibi diretip ayak diremek ve yakıcı kavurucu rüzgâr) | ⏳ *Bekliyor* |
+| 31 | Sure %100 Kilidi | 710 | `ص-ر-ر` | `S-R-R` | **6** | 6 | 3:117 | Israr, Sır ve Sarre (Yanlışta Diretmek, Dondurucu Ayaz ve Hayret Çığlığı) | ✅ **MÜHÜRLÜ** |
 | 32 | Sure %100 Kilidi | 819 | `ع-ت-ب` | `A-T-B` | **5** | 4 | 16:84 | İsti'tâb ve Mu'tebîn (Sure 45 Câsiye kilidi + 5 geçiş: 16:84, 30:57, 41:24, 45:35 [2x] sitemi giderip özür dileyerek yeniden hoşnutluk kazanmak) | ⏳ *Bekliyor* |
 | 33 | Sure %100 Kilidi | 863 | `ج-ر-ح` | `C-R-H` | **4** | 4 | 5:4 | Cerh, İctirâh ve Cevârih (Sure 45 Câsiye kilidi + 4 geçiş: 5:4, 6:60, 45:21, 5:45 yaralamak, avcı hayvanla kazanmak ve bilinçli eylem/kötülük işlemek) | ⏳ *Bekliyor* |
 | 34 | Sure %100 Kilidi | 1008 | `ج-ث-و` | `C-S-W` | **3** | 3 | 19:68 | Câsiye ve Cisi (Sure 45 Câsiye kilidi + 3 geçiş: 19:68, 19:72, 45:28 dehşet ve hesap karşısında dizleri üstüne çökmüş hâl) | ⏳ *Bekliyor* |

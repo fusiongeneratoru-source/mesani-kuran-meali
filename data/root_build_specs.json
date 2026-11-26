@@ -55269,5 +55269,70 @@
       }
     ],
     "context_default": "Sarsıcı felaket ve kirlilik bağlamı"
+  },
+  "ص-ر-ر": {
+    "buckwalter": "Srr",
+    "slug": "srr_israr",
+    "concept_name": "Israr, Sır ve Sarre (Yanlışta Diretmek, Dondurucu Ayaz ve Hayret Çığlığı)",
+    "keywords": [
+      "israr",
+      "yusirru",
+      "sirr",
+      "sarra",
+      "diretmek",
+      "dondurucu ayaz",
+      "ciglik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aSar~u",
+        "ayahs": [
+          "3:135",
+          "45:8",
+          "56:46",
+          "71:7"
+        ],
+        "label": "Form IV fiil (`أَصَرُّوا۟ / يُصِرُّ / يُصِرُّونَ` — yanlışta ve büyüklenmede bile bile inatla diretmek; 4 geçiş)"
+      },
+      {
+        "lemma": "Sir~",
+        "ayahs": [
+          "3:117"
+        ],
+        "label": "Nekre merfû isim (`صِرٌّ` — ekini mahveden dondurucu soğuk/ayaz; 1 geçiş)"
+      },
+      {
+        "lemma": "Sar~ap",
+        "ayahs": [
+          "51:29"
+        ],
+        "label": "Nekre mecrûr isim (`فِى صَرَّةٍ` — İbrahim'in eşinin hayret çığlığı içinde atılması; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Israr, dondurucu ayaz veya çığlık bildiren `ص-ر-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:135",
+          "45:8",
+          "56:46",
+          "71:7"
+        ],
+        "text": "Bile Bile Yanlışta Diretme (`3:135`, `45:8`, `56:46`, `71:7`): Hata yapınca bağışlanma dileyip diretmeyenlerin aksine, ayetlere kulak tıkayıp kibirle inatlaşanların kilitlenmesi."
+      },
+      {
+        "ayahs": [
+          "3:117"
+        ],
+        "text": "Dondurucu Ayazlı Rüzgâr Meseli (`3:117`): Hakikati örtenlerin harcamalarının, ekini kavurup yok eden ayazlı rüzgâra (`رِيحٍ فِيهَا صِرٌّ`) benzetilmesi."
+      },
+      {
+        "ayahs": [
+          "51:29"
+        ],
+        "text": "Müjde Karşısında Hayret Çığlığı (`51:29`): İbrahim'in eşinin yaşlılık ve kısırlık halinde bilgin oğul müjdesini işitince şaşkınlık çığlığı (`فِى صَرَّةٍ`) atması."
+      }
+    ],
+    "context_default": "Diretme, ayaz veya çığlık bağlamı"
   }
 }
