@@ -61776,5 +61776,51 @@
       }
     ],
     "context_default": "Soyun süzülerek sürmesi veya engel tanımaksızın hızlı akın bağlamı"
+  },
+  "ض-ج-ع": {
+    "buckwalter": "DjE",
+    "slug": "dje",
+    "concept_name": "Medâci' (Yan Üzere Uzanılan Yataklar ve Düşüp Yatılan Yerler)",
+    "root_latin": "D-C-A",
+    "keywords": [
+      "medaci",
+      "yatak",
+      "yataklar",
+      "yan uzerine uzanmak",
+      "dusulen yer"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "maDaAjiE",
+        "ayahs": [
+          "3:154",
+          "4:34",
+          "32:16"
+        ],
+        "label": "İsm-i mekân kırık çoğulu (`مَضَاجِعِهِمْ / ٱلْمَضَاجِعِ`, tekili `مَضْجَع` — yan üzere uzanılıp yatılan yer: `3:154` ölümün yazıldığı düşüp yatma yerleri, `4:34` evlilik içi uzaklaşma ölçütü olarak yataklar, `32:16` gece dua ve uyanıklık için yanların kendisinden ayrıldığı yataklar; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Yan üzere uzanılıp yatılan yeri/yatağı bildiren `ض-ج-ع` çoğul ism-i mekânı (`مَضَاجِع`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "32:16"
+        ],
+        "text": "Gece Uyanıklığı ve Yataklardan Uzaklaşma (`32:16`): Allah'ın ayetlerine derinden karşılık verenlerin yanlarının yataklardan uzaklaşması (`تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ`), korku ve ümitle Rablerine çağrıda bulunmaları ve kendilerine verilen rızıktan paylaştırmaları."
+      },
+      {
+        "ayahs": [
+          "4:34"
+        ],
+        "text": "Evlilik İçi Geçimsizlikte Kademeli Sınır (`4:34`): Aile içi ciddi geçimsizlik (`نُشُوز`) tehlikesinde ilk aşama olan öğütten sonra uygulanan mesafe adımı olarak yataklarda ayrılma (`وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ`)."
+      },
+      {
+        "ayahs": [
+          "3:154"
+        ],
+        "text": "Ölümün Yazıldığı Düşüp Yatma Yerleri (`3:154`): 'Evlerimizde kalsaydık öldürülmezdik' diyenlere karşı, kendilerine ölüm yazılmış kimselerin evlerinde olsalar dahi düşüp yatacakları yerlere (`إِلَىٰ مَضَاجِعِهِمْ`) mutlaka çıkacaklarının bildirilmesi."
+      }
+    ],
+    "context_default": "Yan üzere uzanılan yataklar ve düşüp yatılan yerler bağlamı"
   }
 }
