@@ -60821,5 +60821,60 @@
       }
     ],
     "context_default": "Dairesel biçimde dolayıp sarma ve dürüp toplama bağlamı"
+  },
+  "س-ج-ر": {
+    "buckwalter": "sjr",
+    "slug": "sjr",
+    "concept_name": "Secr, Mescûr ve Tescîr (Fırını Yakıp Alevlendirmek, Taşarcasına Doldurmak ve Denizlerin Kaynayıp Tutuşması)",
+    "root_latin": "S-J-R",
+    "keywords": [
+      "secr",
+      "mescur",
+      "tescir",
+      "tutusturmak",
+      "doldurmak",
+      "kaynayan deniz",
+      "alevlenmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yusojaru",
+        "ayahs": [
+          "40:72"
+        ],
+        "label": "Form I edilgen muzâri fiil (`فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ` — kızgın suyun ardından ateşte fırın odunu gibi tutuşturulup yakılmaları; 1 geçiş)"
+      },
+      {
+        "lemma": "masojuwr",
+        "ayahs": [
+          "52:6"
+        ],
+        "label": "Form I ism-i mef'ûl (`وَٱلْبَحْرِ ٱلْمَسْجُورِ` — dolup taşan / tabanından kaynayıp tutuşturulmuş deniz; 1 geçiş)"
+      },
+      {
+        "lemma": "suj~irato",
+        "ayahs": [
+          "81:6"
+        ],
+        "label": "Form II (Tef'îl) edilgen mâzî fiil (`وَإِذَا ٱلْبِحَارُ سُجِّرَتْ` — denizler birbirine karışıp taşarcasına dolduğunda ve ateş gibi kaynatılıp tutuşturulduğunda; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Tutuşturup alevlendirmeyi veya taşarcasına doldurup kaynatmayı bildiren `س-ج-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "40:72"
+        ],
+        "text": "Ateşte Tutuşturulma (`40:72`): Kitabı ve elçileri yalanlayıp büyüklük taslayanların kaynar sudan sonra ateşte yakıt gibi tutuşturulup yakılması (`ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ`)."
+      },
+      {
+        "ayahs": [
+          "52:6",
+          "81:6"
+        ],
+        "text": "Dolu ve Kaynayıp Tutuşan Denizler (`52:6`, `81:6`): `52:6`'da tanıklık çağrısı olarak anılan `ٱلْبَحْرِ ٱلْمَسْجُورِ` (suyla tıka basa dolu / altından tutuşup kaynayan deniz) ile `81:6`'da kozmik altüst oluşta `ٱلْبِحَارُ سُجِّرَتْ` (denizlerin engelleri kalkıp birbirine karışarak dolup taşması ve alevlenip kaynaması)."
+      }
+    ],
+    "context_default": "Tutuşturup alevlendirme ve taşarcasına doldurup kaynatma bağlamı"
   }
 }
