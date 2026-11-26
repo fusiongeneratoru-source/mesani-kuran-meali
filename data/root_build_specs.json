@@ -54705,5 +54705,37 @@
       }
     ],
     "context_default": "Kıtlık ve şiddetli açlık bağlamı"
+  },
+  "ش-ف-ه": {
+    "buckwalter": "$fh",
+    "slug": "shfh",
+    "concept_name": "Şefe / Şefeteyn (Ağzın Kıyısını Çevreleyen ve Konuşmayı Biçimlendiren İki Dudak)",
+    "keywords": [
+      "sefe",
+      "sefeteyn",
+      "iki dudak",
+      "lisanen ve sefeteyn",
+      "konusma organi",
+      "agiz kenari"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$afatayon",
+        "ayahs": [
+          "90:9"
+        ],
+        "label": "Yâ ile mansub nekre müennes ikil isim (`وَلِسَانًا وَشَفَتَيْنِ` — matuf mef'ûl: iki dudak; 1 geçiş: 90:9)"
+      }
+    ],
+    "irab_default": "İki dudak organını bildiren `ش-ف-ه` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "90:9"
+        ],
+        "text": "İnsanın Algı ve İfade Donanımı (`90:8-9`): İnsana iki göz, bir dil ve iki dudak verilerek sorumluluk ve tercih bilincinin hatırlatılması."
+      }
+    ],
+    "context_default": "İfade organı ve yaratılış nimeti bağlamı"
   }
 }
