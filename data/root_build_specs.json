@@ -56247,5 +56247,83 @@
       }
     ],
     "context_default": "Su başına varış, şahdamar veya kızıl-gül rengi bağlamı"
+  },
+  "غ-ي-ظ": {
+    "buckwalter": "gyZ",
+    "slug": "gyz",
+    "concept_name": "Gayz ve Tegayyuz (İçte Kaynayan Yoğun Öfke, Hiddet ve Keder)",
+    "keywords": [
+      "gayz",
+      "tegayyuz",
+      "ofke",
+      "ofkeyi yutmak",
+      "hiddet",
+      "kaynayan ofke"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "gayoZ",
+        "ayahs": [
+          "3:119",
+          "3:134",
+          "9:15",
+          "33:25",
+          "67:8"
+        ],
+        "label": "Masdar/isim (`ٱلْغَيْظ` — içte kaynayan yoğun öfke ve hiddet; 6 geçiş)"
+      },
+      {
+        "lemma": "yagiyZu",
+        "ayahs": [
+          "9:120",
+          "22:15",
+          "48:29"
+        ],
+        "label": "Form I muzâri fiil (`يَغِيظُ / لِيَغِيظَ` — öfkelendirmek; 3 geçiş)"
+      },
+      {
+        "lemma": "tagay~uZ",
+        "ayahs": [
+          "25:12"
+        ],
+        "label": "Form V masdarı (`تَغَيُّظًا` — ateşin öfkeyle kaynayıp gürlemesi; 1 geçiş)"
+      },
+      {
+        "lemma": "gaA^}iZuwn",
+        "ayahs": [
+          "26:55"
+        ],
+        "label": "Merfû çoğul ism-i fâil (`لَغَآئِظُونَ` — öfkelendirenler; 1 geçiş)"
+      }
+    ],
+    "irab_default": "İçte kaynayan öfke ve hiddet bildiren `غ-ي-ظ` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:134",
+          "9:15"
+        ],
+        "text": "Öfkenin Öz-Denetimle Yutulması ve Kalpten Giderilmesi (`3:134`, `9:15`): Erdemlilerin öfkelerini yutup bağışlaması ve mağdur kalplerdeki öfke sıkışmasının giderilmesi."
+      },
+      {
+        "ayahs": [
+          "3:119",
+          "9:120",
+          "22:15",
+          "26:55",
+          "33:25",
+          "48:29"
+        ],
+        "text": "Hasımların Çaresiz Öfkesi (`3:119`, `9:120`, `22:15`, `26:55`, `33:25`, `48:29`): Hakikat topluluğunun büyümesi ve direnci karşısında saldırganların çaresiz hiddete boğulması."
+      },
+      {
+        "ayahs": [
+          "25:12",
+          "67:8"
+        ],
+        "text": "Azap Ateşinin Kaynayan Hiddeti (`25:12`, `67:8`): Ateşin uzaktan duyulan hiddetli uğultusu ve neredeyse parçalanacak gibi kaynaması."
+      }
+    ],
+    "context_default": "Yoğun öfke ve hiddet bağlamı"
   }
 }
