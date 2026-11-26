@@ -56150,5 +56150,102 @@
       }
     ],
     "context_default": "Erişme ve elde etme bağlamı"
+  },
+  "و-ر-د": {
+    "buckwalter": "wrd",
+    "slug": "wrd",
+    "concept_name": "Vürûd, Vird, Verîd ve Verde (Su Başına/Akıbete Varmak, Şahdamar ve Kızıl-Gül Rengi)",
+    "keywords": [
+      "vurud",
+      "vird",
+      "varid",
+      "hablul verid",
+      "sahdamar",
+      "verde",
+      "su basina varmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "warada",
+        "ayahs": [
+          "21:99",
+          "28:23"
+        ],
+        "label": "Form I mâzi fiil (`وَرَدَ / وَرَدُوهَا` — su başına veya ateşe varmak; 2 geçiş)"
+      },
+      {
+        "lemma": ">aworada",
+        "ayahs": [
+          "11:98"
+        ],
+        "label": "Form IV mâzi fiil (`فَأَوْرَدَهُمُ ٱلنَّارَ` — öncülük edip ateşe vardırdı; 1 geçiş)"
+      },
+      {
+        "lemma": "waArid",
+        "ayahs": [
+          "12:19",
+          "19:71",
+          "21:98"
+        ],
+        "label": "İsm-i fâil (`وَارِدَهُمْ / وَارِدُهَا / وَٰرِدُونَ` — sucu öncü ve varacak olanlar; 3 geçiş)"
+      },
+      {
+        "lemma": "wirod",
+        "ayahs": [
+          "11:98",
+          "19:86"
+        ],
+        "label": "Masdar/isim (`ٱلْوِرْدُ / وِرْدًا` — su başına varış / susamış sürü halinde sevk; 2 geçiş)"
+      },
+      {
+        "lemma": "maworuwd",
+        "ayahs": [
+          "11:98"
+        ],
+        "label": "Form I ism-i mef'ûl (`ٱلْمَوْرُودُ` — varılan yer; 1 geçiş)"
+      },
+      {
+        "lemma": "wariyd",
+        "ayahs": [
+          "50:16"
+        ],
+        "label": "Mecrûr anatomi ismi (`حَبْلِ ٱلْوَرِيدِ` — boyundaki şahdamar; 1 geçiş)"
+      },
+      {
+        "lemma": "warodap",
+        "ayahs": [
+          "55:37"
+        ],
+        "label": "Mansûb renk ismi (`وَرْدَةً كَٱلدِّهَانِ` — kızıl-gül rengi; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Su başına/akıbete varış veya renk bildiren `و-ر-د` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:19",
+          "28:23"
+        ],
+        "text": "Kuyu ve Su Başına Varış (`12:19`, `28:23`): Yusuf kıssasında kervanın sucu öncüsü (`وَارِدَهُمْ`) ve Musa'nın Medyen suyuna varıp çobanların çekilmesini bekleyen kadınlara yardım etmesi."
+      },
+      {
+        "ayahs": [
+          "11:98",
+          "19:71",
+          "19:86",
+          "21:98",
+          "21:99"
+        ],
+        "text": "Hesap Akıbetine Varış (`11:98`, `19:71`, `19:86`, `21:98-99`): Firavun'un kavmini ateşe vardırması, suçluların susamış sürü halinde sevki ve hesap alanına varış."
+      },
+      {
+        "ayahs": [
+          "50:16",
+          "55:37"
+        ],
+        "text": "Şahdamarı Yakınlığı ve Göğün Kızıl-Gül Rengi (`50:16`, `55:37`): Allah'ın insana şahdamarından (`حَبْلِ ٱلْوَرِيدِ`) yakın oluşu ve yarılan göğün kızıl-gül rengine (`وَرْدَةً`) bürünmesi."
+      }
+    ],
+    "context_default": "Su başına varış, şahdamar veya kızıl-gül rengi bağlamı"
   }
 }

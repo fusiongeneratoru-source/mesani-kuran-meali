@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 794,
+    "total_locked": 795,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1082,7 +1082,8 @@
         "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 16:29, 39:72, 40:76 [ٱدْخُلُوٓا۟ أَبْوَٰبَ ... فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ — bir yerden dışarı çıkıp ayrılmak ↔ içine girilip kalıcı kalınan konak])",
         "ث-ب-ط (V-B-T (vbT) — Çift Yönlü Mesânî Karşılığı: `9:46` [وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ ... فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟] — kararlılıkla dışarı/sefere çıkmak `ٱلْخُرُوجَ` ↔ yerinde alıkonup oturanlarla kalmak `فَثَبَّطَهُمْ`)",
         "س-ج-ن (S-J-N (sjn) — Çift Yönlü Mesânî Karşılığı: `12:100` [إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ] — kapalı tutsaklıktan dışarı çıkarıp özgürlüğe kavuşturmak `أَخْرَجَ` ↔ içeri kapatıp hapsetmek `سَجَنَ / سِجْن`)",
-        "س-ل-ك (S-L-K (slk) — Çift Yönlü Mesânî Karşılığı: `28:32`, `39:21`, `16:69`, `20:53` — dışarı çıkarmak `تَخْرُجْ / يُخْرِجُ` ↔ bir kanaldan, yaka boşluğundan veya yol hattından içeri geçirip yürütmek `ٱسْلُكْ / فَسَلَكَهُۥ / فَٱسْلُكِى`)"
+        "س-ل-ك (S-L-K (slk) — Çift Yönlü Mesânî Karşılığı: `28:32`, `39:21`, `16:69`, `20:53` — dışarı çıkarmak `تَخْرُجْ / يُخْرِجُ` ↔ bir kanaldan, yaka boşluğundan veya yol hattından içeri geçirip yürütmek `ٱسْلُكْ / فَسَلَكَهُۥ / فَٱسْلُكِى`)",
+        "و-ر-د (V-R-D (wrd) — Çift Yönlü Mesânî Karşılığı: `11:98`, `21:98-99` — oradan dışarı çıkıp uzaklaşmak `خُرُوج` ↔ sürü halinde yakıcı akıbete varmak `وُرُود`)"
       ]
     },
     "ص-ل-ح": {
@@ -10162,6 +10163,15 @@
       "opposites": [
         "خ-ي-ب (H-Y-B — Çift Yönlü Mesânî Karşılığı: `9:74`, `33:25` `لَمْ يَنَالُوا۟ خَيْرًا` — hedeflediği erdeme, hayra ve paya erişip elde etmek `نَيْل` ↔ çabası boşa çıkıp aradığından mahrum kalmak `خَيْبَة`)",
         "خ-س-ر (H-S-R — Çift Yönlü Mesânî Karşılığı: `3:92`, `33:25` — verip paylaşarak yüksek erdeme erişmek `تَنَالُوا۟ ٱلْبِرَّ` ↔ eksiltip yitirerek hüsrana uğramak `خُسْرَان`)"
+      ]
+    },
+    "و-ر-د": {
+      "latin": "V-R-D (wrd)",
+      "core": "`و-ر-د` kökü Kur'an'da İbn Fâris'in iki aslına göre işler: Asl 1 (`10` geçiş) su başına/akıbete inip varmak (`وَرَدَ / أَوْرَدَ / وَارِد / وِرْد / مَوْرُود`) ve kanın kalbe akıp vardığı şahdamar (`وَرِيد`); Asl 2 (`1` geçiş, `55:37`) yarılan göğün aldığı kızıl-gül rengi (`وَرْدَة`).",
+      "physical": "İbn Fâris'in saptadığı **iki ayrı somut asıl** Kur'an'da birlikte yaşar: (1) **Su başına inip varmak / bir hedefe ulaşmak (`الْمُوَافَاةُ إِلَى الشَّيْءِ` — `الْوِرْدُ خِلَافُ الصَّدَرِ`)** (`11:98`, `12:19`, `19:71`, `19:86`, `21:98-99`, `28:23` ve kanın kalbe vardığı şahdamar `حَبْلِ ٱلْوَرِيدِ` `50:16`); (2) **Kızıl-pembe/gül rengi tonu (`لَوْنٌ مِنَ الْأَلْوَانِ`)** (`55:37` `وَرْدَةً كَٱلدِّهَانِ`).",
+      "opposites": [
+        "ص-د-ر (S-D-R — Çift Yönlü Mesânî Karşılığı: `28:23` `وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ ... لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ` — su başına inip varmak `وَرَدَ / وِرْد` ↔ su başından çekilip ayrılmak `يُصْدِرَ / صَدَر`)",
+        "خ-ر-ج (H-R-C — Çift Yönlü Mesânî Karşılığı: `11:98`, `21:98-99` — sürü halinde yakıcı akıbete varmak `وُرُود` ↔ oradan dışarı çıkıp uzaklaşmak `خُرُوج`)"
       ]
     }
   }

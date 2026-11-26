@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 44 / 50 Kök (Toplam Mühürlü: 794 Kök | Güncel Kapsam: %95,30)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 45 / 50 Kök (Toplam Mühürlü: 795 Kök | Güncel Kapsam: %95,32)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -51,7 +51,7 @@
 | 42 | Yüksek Frekanslı Çekirdek | 539 | `ن-ط-ف` | `N-T-F` | **12** | 12 | 16:4 | Nutfe (İnsan Yaşamını Başlatan Saf Döllenme Damlası) | ✅ **MÜHÜRLÜ** |
 | 43 | Yüksek Frekanslı Çekirdek | 529 | `و-د-ي` | `W-D-Y` | **12** | 11 | 4:92 | Vâdî, Evdiye ve Diye (Dağlar Arası Vadi Yatağı ve Can Bedeli Tazminatı) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 516 | `ن-ي-ل` | `N-Y-L` | **12** | 10 | 2:124 | Neyl (El Uzatıp Erişmek, Hak Edişle Elde Etmek ve Sonucun Ulaşması) | ✅ **MÜHÜRLÜ** |
-| 45 | Yüksek Frekanslı Çekirdek | 563 | `و-ر-د` | `W-R-D` | **11** | 9 | 11:98 | Vürûd, Vârid ve Verîd (11 geçiş | 1M: ص-د-ر + 2F: 11:98 [2x], 12:19, 19:71, 19:86, 21:98, 21:99, 28:23, 50:16, 55:37 su başına inip varmak ve şahdamarı) | ⏳ *Bekliyor* |
+| 45 | Yüksek Frekanslı Çekirdek | 563 | `و-ر-د` | `W-R-D` | **11** | 9 | 11:98 | Vürûd, Vird, Verîd ve Verde (Su Başına/Akıbete Varmak, Şahdamar ve Kızıl-Gül Rengi) | ✅ **MÜHÜRLÜ** |
 | 46 | Yüksek Frekanslı Çekirdek | 556 | `غ-ي-ظ` | `G-Y-Z` | **11** | 10 | 3:119 | Ğayz ve Teğayyuz (11 geçiş | 1M: ع-ج-ب: 3:119 [2x], 3:134, 9:15, 9:120, 22:15, 25:12, 33:25, 48:29, 67:8 içte kabarıp taşan yakıcı öfke ve hınç) | ⏳ *Bekliyor* |
 | 47 | Yüksek Frekanslı Çekirdek | 554 | `ي-م-م` | `Y-M-M` | **11** | 10 | 2:267 | Yemm ve Teyemmüm (11 geçiş | 1M: أ-ر-ض: 2:267, 4:43, 5:6, 7:136, 20:39, 20:78, 20:97, 28:7, 28:40, 51:40 engin su/deniz ve bir yöne/temiz toprağa bilinçle yönelmek) | ⏳ *Bekliyor* |
 | 48 | Yüksek Frekanslı Çekirdek | 562 | `ج-م-ل` | `C-M-L` | **11** | 11 | 7:40 | Cemîl, Cemâl, Cemel ve Cümle (11 geçiş | 3F: 7:40, 12:18, 12:83, 15:85, 16:6, 25:32, 33:28, 33:49, 70:5, 73:10, 77:33 derli toplu bütünlük, zarif güzellik ve iri deve) | ⏳ *Bekliyor* |
