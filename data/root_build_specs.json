@@ -52143,5 +52143,67 @@
       }
     ],
     "context_default": "Yumuşayıp alçalarak yakarma veya besinsiz kuru bitki bağlamı"
+  },
+  "س-م-ن": {
+    "buckwalter": "smn",
+    "slug": "smn",
+    "concept_name": "Semîn / İsmân (Besili ve Dolgun Olmak; Bedeni Besleyip Et-Yağ Bağlatmak)",
+    "keywords": [
+      "semin",
+      "siman",
+      "besili",
+      "semiz",
+      "dolgun",
+      "beslemek",
+      "et baglamak",
+      "bolluk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "samiyn",
+        "ayahs": [
+          "12:43",
+          "12:46"
+        ],
+        "label": "Kırık çoğul nekre mecrûr sıfat (`سِمَانٍ` — `بَقَرَٰتٍ` muzâfün ileyhinin sıfatı; 2 geçiş: 12:43, 12:46)"
+      },
+      {
+        "lemma": "samiyn",
+        "ayahs": [
+          "51:26"
+        ],
+        "label": "Tekil eril nekre mecrûr sıfat (`سَمِينٍ` — `بِعِجْلٍ` mecrûr isminin sıfatı; 1 geçiş: 51:26)"
+      },
+      {
+        "lemma": "yusominu",
+        "ayahs": [
+          "88:7"
+        ],
+        "label": "Form IV muzâri 3. tekil eril fiil (`لَّا يُسْمِنُ` — `88:6`'daki `ضَرِيعٍ` isminin sıfat cümlesi; 1 geçiş: 88:7)"
+      }
+    ],
+    "irab_default": "Besili/dolgun olma veya bedeni besleyip semirtme bildiren kelime (`س-م-ن` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:43",
+          "12:46"
+        ],
+        "text": "Bolluk ve Verimlilik Yıllarının Simgesi (`12:43`, `12:46`): Mısır hükümdarının rüyasında yedi cılız ineğin (`عِجَاف`) yediği yedi besili inek (`سَبْعَ بَقَرَٰتٍ سِمَانٍ`), yaklaşan yedi bolluk ve ardından gelecek kıtlık yılının işaretidir."
+      },
+      {
+        "ayahs": [
+          "51:26"
+        ],
+        "text": "Seçkin Konuk İkramı (`51:26`): İbrahim'in ağırladığı konuklara çabucak gidip en besili ve dolgun buzağıyı (`عِجْلٍ سَمِينٍ`) hazırlayıp sunması."
+      },
+      {
+        "ayahs": [
+          "88:7"
+        ],
+        "text": "Besleyicilikten Yoksunluk (`88:7`): `ضَرِيع` bitkisinin ne bedeni besleyip dolgunlaştırması (`لَّا يُسْمِنُ`) ne de açlık sancısını gidermesi (`وَلَا يُغْنِى مِن جُوعٍ`)."
+      }
+    ],
+    "context_default": "Besili/dolgun olma veya bedeni besleme bağlamı"
   }
 }
