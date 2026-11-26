@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 42 / 50 Kök (Toplam Mühürlü: 892 Kök | Güncel Kapsam: %96,18)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 43 / 50 Kök (Toplam Mühürlü: 893 Kök | Güncel Kapsam: %96,18)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -49,7 +49,7 @@
 | 40 | Sure %100 Kilidi | 1596 | `ك-د-ر` | `K-D-R` | **1** | 1 | 81:2 | İnkidâr (Berraklığını ve Parıltısını Yitirip Bulanmak, Karararak Hızla Dökülüp Saçılmak) | ✅ **MÜHÜRLÜ** |
 | 41 | Sure %100 Kilidi | 1600 | `ك-ن-س` | `K-N-S` | **1** | 1 | 81:16 | Künnes (Yuvasına/Yörüngesine Çekilip Gizlenen ve Geçtiği Yeri Süpürüp Temizleyen Gök Cisimleri) | ✅ **MÜHÜRLÜ** |
 | 42 | Sure %100 Kilidi | 1598 | `و-أ-د` | `W-E-D` | **1** | 1 | 81:8 | Mev'ûde (Diri Diri Toprağa Gömülüp Ağır Toprak Altında Boğularak Öldürülen Kız Çocuğu) | ✅ **MÜHÜRLÜ** |
-| 43 | Sure %100 Kilidi | 1597 | `و-ح-ش` | `W-H-S` | **1** | 1 | 81:5 | Vuhûş (Sure 81 Tekvîr son kilidi: 81:5 yabanıl hayvanların bir araya toplanması — Sure 80–114 [son 35 sure] kesintisiz %100 & 50. tam kilitli sure!) | ⏳ *Bekliyor* |
+| 43 | Sure %100 Kilidi | 1597 | `و-ح-ش` | `W-H-S` | **1** | 1 | 81:5 | Vuhûş (İnsandan Ürküp Issız Yabanlara Çekilen Yabanî Canlılar / Kır Hayvanları) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 581 | `ط-و-ل` | `T-W-L` | **10** | 10 | 4:25 | Tûl, Tavl ve Tâle (10 geçiş: 4:25, 9:86, 17:37, 20:86, 21:44, 28:45, 40:3, 57:16, 73:7, 76:26 süre/boy uzunluğu ve el genişliği/imkân) | ⏳ *Bekliyor* |
 | 45 | Yüksek Frekanslı Çekirdek | 568 | `د-م-و` | `D-M-W` | **10** | 10 | 2:30 | Dem ve Dimâ' (10 geçiş: 2:30, 2:84, 2:173, 5:3, 6:145, 7:133, 12:18, 16:115, 22:37 canın taşıyıcısı akan kan ve kan dökme yasağı) | ⏳ *Bekliyor* |
 | 46 | Yüksek Frekanslı Çekirdek | 583 | `ج-ب-ر` | `C-B-R` | **10** | 10 | 5:22 | Cebbâr (10 geçiş | 1M + 2F: 5:22, 11:59, 14:15, 19:14, 19:32, 26:130, 28:19, 40:35, 50:45, 59:23 kırığı zorla onaran ve başkasına boyun eğdiren zorba/mutlak ıslah edici güç) | ⏳ *Bekliyor* |
