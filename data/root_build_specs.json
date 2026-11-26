@@ -60034,5 +60034,39 @@
       }
     ],
     "context_default": "Kulakları sağır eden keskin ve sarsıcı büyük ses bağlamı"
+  },
+  "ق-ض-ب": {
+    "buckwalter": "qDb",
+    "slug": "qdb",
+    "concept_name": "Kadb (Biçilip Kesilerek Taze Tüketilen Yeşil Sebze, Yonca ve Sürekli Süren Yeşillik)",
+    "root_latin": "Q-D-B",
+    "keywords": [
+      "kadb",
+      "yesillik",
+      "sebze",
+      "yonca",
+      "bicmek",
+      "kesmek",
+      "taze bitki"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qaDob",
+        "ayahs": [
+          "80:28"
+        ],
+        "label": "Masdardan isim (`وَعِنَبًا وَقَضْبًا` — biçilip kesildikçe yeniden taze süren yenilebilir yeşillikler, sebzeler ve yonca türleri; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Biçilip kesilerek taze tüketilen yeşillik ve sebzeleri bildiren `ق-ض-ب` ismi (`قَضْب`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "80:28"
+        ],
+        "text": "Yeryüzünden Bitirilen Taze Yeşillikler (`80:28`): `80:27-31` rızık sayımında tahıl taneleri (`حَبًّا`) ve üzümün (`عِنَبًا`) hemen yanında anılan, taze biçilip yenilen yeşil sebzeler ve yonca/ot türleri (`وَقَضْبًا`)."
+      }
+    ],
+    "context_default": "Biçilip kesilerek taze tüketilen yeşillik ve sebze bağlamı"
   }
 }

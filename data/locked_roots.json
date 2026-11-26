@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (67/50 — Toplam 867 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (68/50 — Toplam 868 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -38582,7 +38582,8 @@
           "ح-و-ل",
           "ف-ض-ض (F-D-D (fDD) — Çift Yönlü Mesânî Karşılığı: 3:159, 62:11, 63:7)",
           "ك-ن-د (K-N-D (knd) — Çift Yönlü Mesânî Karşılığı: `100:6` [لَكَنُودٌ] — İbn Fâris'in ipi kesme çekirdeğiyle vefa bağını koparmak `كَنُود` ↔ sorumluluk ve vefa bağını koparmadan bitiştirip sürdürmek `وَصَلَ`)",
-          "ص-د-ع (S-D-E (SdE) — Çift Yönlü Mesânî Karşılığı: `59:21`, `86:12` — sert yapıda yarık ve çatlak açılması `صَدْع / تَصَدُّع` ↔ kopuksuz bitişip birleşmek `وَصْل`)"
+          "ص-د-ع (S-D-E (SdE) — Çift Yönlü Mesânî Karşılığı: `59:21`, `86:12` — sert yapıda yarık ve çatlak açılması `صَدْع / تَصَدُّع` ↔ kopuksuz bitişip birleşmek `وَصْل`)",
+          "ق-ض-ب (Kadb: dalı veya yeşil bitkiyi kesip biçmek ↔ و-ص-ل koparmadan birbirine bitiştirip birleştirmek)"
         ],
         "key_ayahs": [
           "2:27",
@@ -72926,6 +72927,72 @@
           "meaning": "Kulakları sağır edecek şiddetteki keskin ve sarsıcı büyük çağrı",
           "examples": [
             "80:33"
+          ]
+        }
+      ]
+    },
+    "ق-ض-ب": {
+      "root_latin": "Q-D-B",
+      "arabic": "ق-ض-ب",
+      "rank": 1593,
+      "morphology_and_rasm": {
+        "buckwalter": "qDb",
+        "rasm_skeleton": "قضب (harekesiz iskelet; قضبا biçimiyle 1 kez)",
+        "approx_frequency": "1 geçiş / 1 ayet (1x masdardan isim `قَضْبًا` — `80:28`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "قَضْب (masdar anlamlı cins isim — 1 geçiş: `80:28`; biçilip kesilerek taze tüketilen yeşil sebze/yonca)"
+        ],
+        "preposition_patterns": [
+          "وَعِنَبًا وَقَضْبًا (`80:28`: `فَأَنۢبَتْنَا` fiiline atfedilen nekre mef'ûl)"
+        ]
+      },
+      "physical_core": "Bir dalı, sapı veya taze bitkiyi kesip biçmek (`قَطْع`); `قَضْب` özellikle tazeyken biçilip tüketilen ve kesildikçe yeniden filizlenen yeşil bitkiler/sebzelerdir.",
+      "ibn_faris_asl": "(قَضَبَ) الْقَافُ وَالضَّادُ وَالْبَاءُ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى قَطْعِ الشَّيْءِ. يُقَالُ: قَضَبْتُ الشَّيْءَ. [Mu'cemü Mekâyîsi'l-Luğa, c. 5, باب القاف والضاد وما يثلثهما, قضب maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ق-ض-ب` kökünü tek ve sahih bir fiziksel asla indirger: 'bir şeyi kesmek/biçmek' (`قطع الشيء`); kesilen ince dala `قَضِيب`, biçilip taze yenen yeşilliğe de `قَضْب` denir.",
+        "lisan_al_arab": "İbn Manzûr `الْقَضْبُ` kelimesinin hem hayvanlar için tekrar tekrar biçilen taze yonca (`الرَّطْبَةُ` / `الْفِصْفِصَةُ`) hem de insanların çiğ/taze biçip yediği her türlü yeşil sebze (`كل ما يُقتَضَبُ من البقول والخضر`) olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `قَضْب`'ın taze kesilip tüketilen yeşillik olduğunu, `80:27-31` listesinde saklanabilen kuru tahıl (`حَبّ`) ile taze biçilip yenen yeşil bitki (`قَضْب`) dengesinin kurulduğunu vurgular.",
+        "verdict": "Bu tek geçiş (`80:28`), **'biçilip kesilerek taze tüketilen ve yeniden süren yeşil sebze/yonca türleri'** somut tarım anlamını eksiksiz taşır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Doğrudan Sâmî ön-kökü kesinleştirilememiştir.",
+        "hebrew": "İbranicede doğrudan eşkökenli doğrulanamadı (İbranice qṣb 'kesmek, kırkmak' anlamca yakın olmakla birlikte *ḍ/*ṣ denkliği kesin değildir).",
+        "aramaic_syriac": "Aramice/Süryanicede doğrudan eşkökenli doğrulanamadı.",
+        "akkadian": "Akadcada doğrudan eşkökenli doğrulanamadı.",
+        "comparative_note": "Klasik Arapçada `قَضَبَ` (kesip biçmek) fiilinin masdarı olan `قَضْب`, 'biçilen şey' (`مَقْضُوب`) anlamında somut bir cins isme dönüşerek taze yeşillikleri adlandırır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "و-ص-ل (Birleştirmek, koparmadan bütün tutmak ↔ ق-ض-ب kesip biçerek ayırmak)"
+        ],
+        "bidirectional_test": "Fiziksel olarak bir bitkiyi/dalı kesip biçmek (`ق-ض-ب`) tersine çevrildiğinde koparmadan bitiştirip birleştirmek (`و-ص-ل`) ortaya çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ح-ب-ب",
+          "ع-ن-ب",
+          "أ-ب-ب"
+        ],
+        "analysis": "`80:27-31` besin dizisinde `حَبًّا` (depolanabilen kuru tahıl taneleri), `عِنَبًا` (sulu bağ meyvesi), `قَضْبًا` (biçilip taze yenilen yeşil sebzeler/yoncalar) ve `أَبًّا` (hayvanların doğrudan otlandığı mer'a çayırı) dört ayrı besin kategorisini kesin biçimde ayırt eder."
+      },
+      "anchor_ayahs": [
+        "80:27-28 (فَأَنۢبَتْنَا فِيهَا حَبًّا * وَعِنَبًا وَقَضْبًا — orada taneler, üzümler ve taze biçilen yeşillikler/sebzeler bitirdik)"
+      ],
+      "unified_core_mechanism": "`ق-ض-ب` kökü Kur'an'daki tek geçişinde (`80:28`) **'kesip biçerek taze tüketilen, kesildikçe yeniden süren yeşil sebze ve yonca bitkileri'** çekirdeğini taşır.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Mef'ûl Anlamlı Masdar (`وَقَضْبًا` — `80:28`): `مَقْضُوب` (biçilen) anlamında cins isim olarak tekil kullanılmıştır."
+        ],
+        "irab_notes": "`حَبًّا` ve `عِنَبًا` üzerine atfedilmiş mansûb nekre isimdir."
+      },
+      "derivatives": [
+        {
+          "form": "قَضْبًا",
+          "pos": "İsim (Masdardan)",
+          "meaning": "Biçilip kesilerek taze tüketilen yeşil sebze ve yonca türleri",
+          "examples": [
+            "80:28"
           ]
         }
       ]
