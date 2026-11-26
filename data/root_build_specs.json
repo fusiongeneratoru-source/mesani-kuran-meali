@@ -60781,5 +60781,45 @@
       }
     ],
     "context_default": "Uzak uçlara açılan geniş ufuk ve dış âlem bağlamı"
+  },
+  "ك-و-ر": {
+    "buckwalter": "kwr",
+    "slug": "kwr",
+    "concept_name": "Tekvîr (Sarık Gibi Küresel Biçimde Üzerine Dolayıp Sarmak ve Dürülüp Toplanarak Işığını Söndürmek)",
+    "root_latin": "K-W-R",
+    "keywords": [
+      "tekvir",
+      "sarmak",
+      "dolamak",
+      "gece gunduz",
+      "gunesin durulmesi",
+      "kuresel donus"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "kuw~irato",
+        "ayahs": [
+          "39:5",
+          "81:1"
+        ],
+        "label": "Form II (Tef'îl) etken ve edilgen fiil (`يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ` `39:5` [2 kez] — geceyi gündüzün, gündüzü de gecenin üzerine sarık gibi dairesel biçimde dolayıp sarması; `إِذَا ٱلشَّمْسُ كُوِّرَتْ` `81:1` — güneş dürülüp toplanarak ışığı söndürüldüğünde; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Dairesel/küresel biçimde dolayıp sarmayı veya dürüp toplamayı bildiren `ك-و-ر` fiili (`يُكَوِّرُ` / `كُوِّرَتْ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "39:5"
+        ],
+        "text": "Gece ile Gündüzün Birbiri Üzerine Dairesel Sarılması (`39:5`): Göklerin ve yerin hak ile yaratılışının delili olarak gece ile gündüzün küresel bir yüzey üzerine sarık dolanır gibi kesintisiz birbirinin üstüne sarılması (`يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ`)."
+      },
+      {
+        "ayahs": [
+          "81:1"
+        ],
+        "text": "Güneşin Dürülüp Toplanması (`81:1`): Kozmik düzenin sona eriş sahnesinin ilk cümlesi — `إِذَا ٱلشَّمْسُ كُوِّرَتْ` (güneşin yayılan ışığı ve kütlesi sarık gibi dürülüp toplandığında)."
+      }
+    ],
+    "context_default": "Dairesel biçimde dolayıp sarma ve dürüp toplama bağlamı"
   }
 }

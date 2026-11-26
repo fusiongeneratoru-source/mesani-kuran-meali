@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 33 / 50 Kök (Toplam Mühürlü: 883 Kök | Güncel Kapsam: %96,15)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 34 / 50 Kök (Toplam Mühürlü: 884 Kök | Güncel Kapsam: %96,16)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -40,7 +40,7 @@
 | 31 | Sure %100 Kilidi | 1576 | `ت-ر-ق` | `T-R-K` | **1** | 1 | 75:26 | Terâkî (Köprücük Kemikleri — Canın Çıkış Eşiğindeki Üst Göğüs/Boğaz Sınırı) | ✅ **MÜHÜRLÜ** |
 | 32 | Sure %100 Kilidi | 593 | `ز-ل-ف` | `Z-L-F` | **10** | 10 | 11:114 | Zülfâ, Zülfe ve İzlâf (İleri Doğru Yaklaşmak, Yakınlık Mertebesi ve Karşılığın/Esenlik Yurdunun Yaklaştırılması) | ✅ **MÜHÜRLÜ** |
 | 33 | Sure %100 Kilidi | 1038 | `أ-ف-ق` | `E-F-K` | **3** | 3 | 41:53 | Ufuk ve Âfâk (Gök ve Yerin Uzak Uçlara Açılan Geniş Çevresi / Dış Âlem Ufukları) | ✅ **MÜHÜRLÜ** |
-| 34 | Sure %100 Kilidi | 1032 | `ك-و-ر` | `K-W-R` | **3** | 2 | 39:5 | Tekvîr (Sure 81 Tekvîr kilidi | 1M + 3 geçiş: 39:5, 81:1 sarık sarar gibi geceyi gündüze dolamak ve güneşin ışığını dürüp sarmak) | ⏳ *Bekliyor* |
+| 34 | Sure %100 Kilidi | 1032 | `ك-و-ر` | `K-W-R` | **3** | 2 | 39:5 | Tekvîr (Sarık Gibi Küresel Biçimde Üzerine Dolayıp Sarmak ve Dürülüp Toplanarak Işığını Söndürmek) | ✅ **MÜHÜRLÜ** |
 | 35 | Sure %100 Kilidi | 1035 | `س-ج-ر` | `S-C-R` | **3** | 3 | 40:72 | Tescîr ve Mescûr (Sure 81 Tekvîr kilidi + 3 geçiş: 40:72, 52:6, 81:6 alevlendirip tutuşturmak ve denizlerin taşıp tutuşması) | ⏳ *Bekliyor* |
 | 36 | Sure %100 Kilidi | 1184 | `ع-ط-ل` | `A-T-L` | **2** | 2 | 22:45 | Ta'tîl ve Muattala (Sure 81 Tekvîr kilidi + 2 geçiş: 22:45, 81:4 bakımsız, sahipsiz ve işlevsiz bırakılmak) | ⏳ *Bekliyor* |
 | 37 | Sure %100 Kilidi | 1602 | `ض-ن-ن` | `D-N-N` | **1** | 1 | 81:24 | Danîn (Sure 81 Tekvîr kilidi: 81:24 gayb bilgisi konusunda cimrilik edip bilgiyi saklayan) | ⏳ *Bekliyor* |
