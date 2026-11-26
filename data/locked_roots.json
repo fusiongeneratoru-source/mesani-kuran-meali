@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (13/50 — Toplam 763 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (14/50 — Toplam 764 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -23739,7 +23739,8 @@
           "و-ز-ن (W-Z-N (wzn) — Çift Yönlü Mesânî Karşılığı: 15:19, 55:7-9, 42:17, 57:25)",
           "ج-ر-م (ج-ر-م ↔ ف-ل-ح Mesânî simetrisi)",
           "ش-ح-ح",
-          "ث-ب-ر (V-B-R (vbr) — Çift Yönlü Mesânî Karşılığı: `25:13-14`, `84:11` — kırılıp yıkıma ve bozguna düşmek `ثُبُور` ↔ yarıp verime ve esenliğe ermek `فَلَاح`)"
+          "ث-ب-ر (V-B-R (vbr) — Çift Yönlü Mesânî Karşılığı: `25:13-14`, `84:11` — kırılıp yıkıma ve bozguna düşmek `ثُبُور` ↔ yarıp verime ve esenliğe ermek `فَلَاح`)",
+          "ش-أ-م (Ş-A-M ($Am) — Çift Yönlü Mesânî Karşılığı: `90:18-19` — ayetleri örtüp sol ve bereket yitimi zümresine düşmek `أَصْحَٰبُ ٱلْمَشْـَٔمَةِ` ↔ verime ve kurtuluşa ermek `فَلَاح`)"
         ],
         "key_ayahs": [
           "7:8-9 & 23:102-103 (terazisi ağır gelenler = ٱلْمُفْلِحُونَ ↔ terazisi hafif gelenler = خَسِرُوٓا۟ أَنفُسَهُمْ)",
@@ -64698,6 +64699,70 @@
       "grammar_and_branch_rules": "Korpusta çekimli fiil geçişi yoktur. Tek geçiş olan `بِٱلْهَزْلِ` (`86:14`), `مَا` olumsuzluk edatının haberi başında tekit `بِـ` harf-i cerriyle mecrûr marife masdar isimdir.",
       "derivatives": {
         "ٱلْهَزْلِ (Masdar İsim — `فَعْل`)": "1 geçiş (86:14) — ağırlıktan ve ciddiyetten yoksun cılız şaka, boş lakırdı"
+      }
+    },
+    "ش-أ-م": {
+      "root_latin": "Ş-A-M ($Am)",
+      "arabic": "ٱلْمَشْـَٔمَةِ",
+      "rank": 1042,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "المشئمة (`3` geçiş — `56:9` [2x] `وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ`, `90:19` `هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ` — `مَفْعَلَة` kalıbında yer/yön ve nitelik ismi: sol taraf ve kutsuz/bereketi kesilmiş zümre)"
+        ],
+        "verb_forms_used": [
+          "Korpusta çekimli fiil geçişi yoktur; kökün 3 geçişinin tamamı `أَصْحَٰبُ` kelimesine muzâfün ileyh olan `ٱلْمَشْـَٔمَةِ` ismidir.",
+          "Yön / Nitelik İsmi (`3` geçiş): `ٱلْمَشْـَٔمَةِ` (`56:9` [2x], `90:19` — doğrudan `ٱلْمَيْمَنَةِ` [sağ ve bereket yönü] karşısında: sol taraf ve uğur/bereket yitimi zümresi)"
+        ],
+        "preposition_patterns": [
+          "`فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ ۝ وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ` (`56:8-9` — mutlak mesânî ikizliği: sağ/bereket ehli ↔ sol/kutsuzluk ehli)",
+          "`أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ ۝ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ` (`90:18-19` — sarp yokuşu aşan merhamet ehli ↔ ayetleri örten sol/kutsuzluk ehli)"
+        ],
+        "approx_frequency": "3 geçiş / 2 ayet (2 sure; referans amaçlı)"
+      },
+      "physical_core": "Mekândaki **sol taraf ve kuzey yönü (`الْجَانِبُ الْيَسَارُ`)** — klasik Arap kullanımında sağ tarafın (`يَمِين / مَيْمَنَة`) güç, bereket ve esenlik çağrıştırmasına karşılık, sol tarafın (`شَأْم / مَشْأَمَة`) zayıflık, kutsuzluk ve bereket kesilmesiyle eşleşmesi (`56:9`, `90:19`).",
+      "ibn_faris_asl": {
+        "text": "(شأم) الشين والهمزة والميم أصل واحد يدل على الجانب اليسار.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (شأم maddesi, c. 3)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökün tek ve somut mekânsal aslını net biçimde koyar: `أَصْلٌ وَاحِدٌ يَدُلُّ عَلَى الْجَانِبِ الْيَسَارِ` ('sol taraf'). Böylece `مَشْأَمَة` kelimesinin soyut bir batıl inanç değil, doğrudan yön kutuplaşmasının (`مَيْمَنَة` sağ ↔ `مَشْأَمَة` sol) adı olduğunu belgeler.",
+        "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*, شأم maddesi) `الشَّأْمَةُ وَالْمَشْأَمَةُ: الشِّمَالُ` ('sol taraf') ve `الشُّؤْمُ: خِلَافُ الْيُمْنِ` ('bereket ve uğurun zıddı') tanımlarını verir; `أَصْحَٰبُ ٱلْمَشْـَٔمَةِ` terkibini hem 'sol taraf ehli' hem de 'kendi eylemleriyle bereketini yitirip felakete düşenler' diye açıklar.",
+        "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*, شأم maddesi) `الْمَشْأَمَة`nin `الْمَيْمَنَة` karşısındaki sol yön olduğunu ve `56:9` ile `90:19`'da ayetleri örtenlerin kendi tercihleriyle düştükleri bereket yitimi konumunu (`الشُّؤْم`) ifade ettiğini belirtir.",
+        "arbitration_decision": "Üç klasik sözlüğün birliğiyle `ش-أ-م` kökü **'sol taraf ve buradan doğan bereket/esenlik yitimi konumu'** çekirdeğinde kilitlenir. Kur'an'da bu kök asla nesnelere yüklenen batıl bir 'uğursuzluk' anlamında değil, yalnızca hesap günündeki `مَيْمَنَة ↔ مَشْأَمَة` ahlaki yön ayrımında (`56:9`, `90:19`) kullanılır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Arapçada sol yönü bildiren `ش-أ-م` kökü (Sami dillerindeki `*śimʾal-` 'sol, kuzey' alanıyla anlamsal ve yapısal komşuluk taşır)",
+        "note": "Proto-Sami `*s₂ / ś` sibilantının Arapçada `ش`, İbranicede `שׂ` (*śəmōl* `שְׂמֹאל`) olarak yansıması `ش-م-ل` kökünde doğrudan gözlenir; Arapçadaki `ش-أ-م` kökü ise hemzeli üçlü yapısıyla 'sol taraf / kuzey (`الشَّام`)' ve 'bereketin zıddı (`شُؤْم`)' eksenini taşır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ي-م-ن (Y-M-N — Çift Yönlü Mesânî Karşılığı: `56:8↔56:9`, `90:18↔90:19` [أَصْحَٰبُ ٱلْمَيْمَنَةِ ↔ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ] — Kur'an'ın en doğrudan simetrik yön çifti: sağ ve bereket ehli `ٱلْمَيْمَنَة` ↔ sol ve bereket yitimi ehli `ٱلْمَشْـَٔمَة`)",
+          "ف-ل-ح (F-L-H — Çift Yönlü Mesânî Karşılığı: `90:18-19` — ayetleri örtüp bereket yitimi tarafına düşmek `أَصْحَٰبُ ٱلْمَشْـَٔمَةِ` ↔ verime ve kurtuluşa ermek `فَلَاح`)"
+        ],
+        "key_ayahs": [
+          "56:9 (وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ — Ve sol/kutsuzluk tarafının ehli; nedir o sol tarafın ehli!)",
+          "90:19 (وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ — Ayetlerimizi örtenler ise işte onlar sol/kutsuzluk tarafının ehlidir)"
+        ],
+        "reverse_stress_test": "Sağ ve bereket tarafının (`ي-م-ن`: `ٱلْمَيْمَنَة`) ve verimli kurtuluşun (`ف-ل-ح`) zıddı alındığında; `ش-أ-م` kökünün `56:9` ve `90:19`'daki 'sol taraf ve bereket yitimi konumu' çekirdeği eksiksiz doğrulanır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ي-م-ن",
+          "ش-م-ل",
+          "ص-ح-ب",
+          "ك-ف-ر",
+          "أ-ي-ي"
+        ],
+        "mechanical_difference": "Sol yön kökleri furûku: **`ش-م-ل` (`أَصْحَٰبُ ٱلشِّمَالِ`, `56:41`)** daha çok **fiziksel ve geometrik sol tarafı** belirtirken; **`ش-أ-م` (`أَصْحَٰبُ ٱلْمَشْـَٔمَةِ`, `56:9`, `90:19`)** `مَفْعَلَة` kalıbının taşıdığı nitelik yoğunluğuyla **sol yönü doğrudan bereketin kesilmesi, kutsuzluk ve ağır akıbetle (`الشُّؤْم`)** birleştirir. Bu yüzden Sure 56'da önce `ٱلْمَيْمَنَة ↔ ٱلْمَشْـَٔمَة` (`56:8-9`) ile değer-akıbet tablosu açılır, sonra `أَصْحَٰبُ ٱلْيَمِينِ ↔ أَصْحَٰبُ ٱلشِّمَالِ` (`56:27`, `56:41`) ile somut tasvir detaylandırılır."
+      },
+      "anchor_ayahs": [
+        "56:9 (وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ)",
+        "90:19 (وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ)"
+      ],
+      "unified_core_mechanism": "`ش-أ-م` kökü Kur'an'daki 3 geçişinin tamamında (`56:9` [2x], `90:19`) **'sağ ve bereket yönünün (`ٱلْمَيْمَنَة`) karşısındaki sol taraf ve bereket yitimi konumu (`ٱلْمَشْـَٔمَة`)'** mekaniğini işletir; ayetleri örtenlerin kendi seçimleriyle düştükleri ağır akıbet zümresini adlandırır.",
+      "grammar_and_branch_rules": "Korpusta çekimli fiil geçişi yoktur. 3 geçişin tamamı `أَصْحَٰبُ` kelimesine muzâfün ileyh olarak mecrûr gelen marife `ٱلْمَشْـَٔمَةِ` (`مَفْعَلَة`) ismidir.",
+      "derivatives": {
+        "ٱلْمَشْـَٔمَةِ (Yön ve Nitelik İsmi — `مَفْعَلَة`)": "3 geçiş (56:9 [2x], 90:19) — sol taraf, bereket ve esenlikten mahrum kalış konumu"
       }
     }
   }

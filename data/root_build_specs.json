@@ -54517,5 +54517,39 @@
       }
     ],
     "context_default": "Ciddiyetsizlik ve boş sözün reddi bağlamı"
+  },
+  "ش-أ-م": {
+    "buckwalter": "$Am",
+    "slug": "sh_am",
+    "concept_name": "Meş'eme (Sol Taraf ve Bereket Yitimi Ehli)",
+    "keywords": [
+      "meseme",
+      "ashabul meseme",
+      "sol taraf",
+      "kutsuzluk",
+      "bereket yitimi",
+      "meymene karsiti"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ma$o_#amap",
+        "ayahs": [
+          "56:9",
+          "90:19"
+        ],
+        "label": "Mecrûr marife `مَفْعَلَة` ismi (`أَصْحَٰبُ ٱلْمَشْـَٔمَةِ` — muzâfün ileyh: sol ve kutsuzluk tarafının ehli; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Sol taraf ve bereket yitimi bildiren `ش-أ-م` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "56:9",
+          "90:19"
+        ],
+        "text": "Meymene ↔ Meş'eme Hesap Ayrımı (`56:9`, `90:19`): Sarp yokuşu aşan bereket ehlinin (`أَصْحَٰبُ ٱلْمَيْمَنَةِ`) karşısında ayetleri örten sol/kutsuzluk ehli (`أَصْحَٰبُ ٱلْمَشْـَٔمَةِ`)."
+      }
+    ],
+    "context_default": "Sol taraf ve bereket yitimi bağlamı"
   }
 }
