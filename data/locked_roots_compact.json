@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 715,
+    "total_locked": 716,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2618,7 +2618,8 @@
         "ع-ص-ف (A-S-F (ESf) — Çift Yönlü Mesânî Karşılığı: 10:22, 14:18, 21:81, 77:2)",
         "ص-ي-ح (S-Y-H (SyH) — Çift Yönlü Mesânî Karşılığı: `36:29`, `54:31`, `63:4` vs `6:13`, `10:67` — sükûnet, dinginlik ve hareketsiz huzur `سَكَن` ↔ ortamı altüst eden ani sarsıcı gürleme ve çığlık `صَيْحَة`)",
         "س-ي-ح (S-Y-H (syH) — Çift Yönlü Mesânî Karşılığı: yüzeyde sürekli akış ve hareket hâlinde olmak `سَيْح` ↔ hareketsiz durgunlaşmak ve tek mekânda yerleşip kalmak `سَكَنَ`)",
-        "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: durgun hâldeki toprağı, bulutu veya tozu yerinden kaldırıp kabartmak `أَثَارَ / تُثِيرُ` ↔ kıpırdamadan durgunlaşıp hareketsiz kalmak `سَكَنَ`)"
+        "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: durgun hâldeki toprağı, bulutu veya tozu yerinden kaldırıp kabartmak `أَثَارَ / تُثِيرُ` ↔ kıpırdamadan durgunlaşıp hareketsiz kalmak `سَكَنَ`)",
+        "ض-ب-ح (D-B-H (DbH) — Çift Yönlü Mesânî Karşılığı: `100:1` [وَٱلْعَٰدِيَٰتِ ضَبْحًا] — hızla koşarken göğüsten şiddetle taşan soluk sesi `ضَبْحًا` ↔ hareketi ve sesi kesip durgunluk/dinginlik hâline geçmek `سَكَنَ`)"
       ]
     },
     "ظ-ن-ن": {
@@ -6320,7 +6321,8 @@
         "و-د-ع",
         "م-ر-ر",
         "س-ي-ر",
-        "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: tabakayı altüst edip toz ve bulutu göğe savurmak `أَثَارَ` ↔ olduğu zemine oturup sabitçe yerleşmek `قَرَّ`)"
+        "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: tabakayı altüst edip toz ve bulutu göğe savurmak `أَثَارَ` ↔ olduğu zemine oturup sabitçe yerleşmek `قَرَّ`)",
+        "ض-ب-ح (D-B-H (DbH) — Çift Yönlü Mesânî Karşılığı: `100:1` [وَٱلْعَٰدِيَٰتِ ضَبْحًا] — nefes nefese soluyarak hızla ileri atılmak `ضَبْحًا` ↔ yerinden kımıldamadan sabitçe yerleşip durmak `قَرَّ`)"
       ]
     },
     "ف-ت-ح": {
@@ -9230,6 +9232,17 @@
         "خ-ف-ي (X-F-Y — Çift Yönlü Mesânî Karşılığı: gizli duran iç dünyayı tüm çıplaklığıyla ayrıştırıp ortaya koymak `حُصِّلَ` ↔ gözden ırak tutup gizlemek `خَفِىَ / أَخْفَى`)",
         "خ-ل-ط (X-L-T — Çift Yönlü Mesânî Karşılığı: saf özü cüruftan ayıklayıp netleştirmek `حُصِّلَ` ↔ temiz ile bulanığı birbirine karıştırıp belirsizleştirmek `خَلَطَ`)",
         "ض-ي-ع (D-Y-A — Çift Yönlü Mesânî Karşılığı: amellerin ve niyetlerin tek bir kırıntısını kaçırmadan hasılasını toplayıp sabitlemek `حُصِّلَ` ↔ boşa gidip yitmek `ضَاعَ`)"
+      ]
+    },
+    "ض-ب-ح": {
+      "latin": "D-B-H (DbH)",
+      "core": "Korpusta tek geçişte (`100:1` `ضَبْحًا`) yer alan `ض-ب-ح` kökü (İbn Fâris'in tespit ettiği ses aslı), **'şiddetli ve hızlı koşu sırasında göğüsten keskin biçimde yükselen nefes nefese soluma sesi'** çekirdeğini taşır. Âdiyât sûresinin açılışında, tüm gücünü sınırsız bir hızla seferber eden varlığın işitsel soluğunu canlandırarak, hemen devamında (`100:6`) kendisine verilen nimetlere karşılık bağını kesen nankör insanla keskin bir karşıtlık zemini kurar.",
+      "physical": "Şiddetli ve hızlı koşu sırasında göğüs boşluğundan keskin, hırıltılı biçimde taşan nefes nefese soluma sesi (`ضَبْح` — İbn Fâris'in ayırdığı birinci asıl olan ses/soluk; ikinci ayrı asıl ise ateşin odunun üstünü veya çakmak taşını kavurup rengini karartmasıdır).",
+      "opposites": [
+        "س-ك-ن (S-K-N — Çift Yönlü Mesânî Karşılığı: hızla koşarken göğüsten şiddetle taşan soluk sesi `ضَبْحًا` ↔ hareketi ve sesi kesip durgunluk/dinginlik hâline geçmek `سَكَنَ`)",
+        "ق-ر-ر (Q-R-R — Çift Yönlü Mesânî Karşılığı: nefes nefese soluyarak hızla ileri atılmak `وَٱلْعَٰدِيَٰتِ ضَبْحًا` ↔ yerinden kımıldamadan sabitçe yerleşip durmak `قَرَّ`)",
+        "ه-م-س (H-M-S — Çift Yönlü Mesânî Karşılığı: zorlu koşuda duyulan güçlü ve keskin soluma sesi `ضَبْحًا` ↔ fısıltı düzeyinde alçak ve kısılmış ses `هَمْسًا` [`20:108`])",
+        "ص-م-ت (S-M-T — Çift Yönlü Mesânî Karşılığı: hızla atılırken soluk sesi çıkarmak `ضَبْحًا` ↔ bütünüyle sessiz kalıp hiçbir ses vermemek `صَٰمِتُونَ` [`7:193`])"
       ]
     }
   }
