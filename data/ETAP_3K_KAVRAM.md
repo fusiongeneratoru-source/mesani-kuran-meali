@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 6 / 50 Kök (Toplam Mühürlü: 756 Kök | Güncel Kapsam: %94,88)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 7 / 50 Kök (Toplam Mühürlü: 757 Kök | Güncel Kapsam: %94,90)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -13,7 +13,7 @@
 | 4 | Sure %100 Kilidi | 929 | `ط-ب-ق` | `T-B-K` | **4** | 3 | 67:3 | Tabak / Tıbâk (Tam Örtüşen Katman ve Ardışık Varoluş Evresi) | ✅ **MÜHÜRLÜ** |
 | 5 | Sure %100 Kilidi | 1245 | `ك-د-ح` | `K-D-H` | **2** | 1 | 84:6 | Kedh / Kâdih (İz Bırakan Yorucu Emek ve Kesintisiz Didinme) | ✅ **MÜHÜRLÜ** |
 | 6 | Sure %100 Kilidi | 1246 | `و-س-ق` | `W-S-K` | **2** | 2 | 84:17 | Vesk / İttisâk (Dağınık Olanı Derleyip Yüklenmek ve Düzenli Bütünleşmek) | ✅ **MÜHÜRLÜ** |
-| 7 | Sure %100 Kilidi | 561 | `ط-ر-ق` | `T-R-K` | **11** | 11 | 4:168 | Tarîk, Tarâik ve Târık (Sure 86 Târık kilidi + 11 geçiş: 4:168, 20:63, 20:77, 23:17, 72:11, 86:1-2 ayakla/vuruşla çiğnenmiş yol ve geceleyin kapıyı çalar gibi beliren yıldız) | ⏳ *Bekliyor* |
+| 7 | Sure %100 Kilidi | 561 | `ط-ر-ق` | `T-R-K` | **11** | 11 | 4:168 | Tarîk / Tarîka / Târık (Açılmış Yol, İzlenen Çizgi, Katmanlı Yörünge ve Gece Çıkagelen Yıldız) | ✅ **MÜHÜRLÜ** |
 | 8 | Sure %100 Kilidi | 643 | `ص-ل-ب` | `S-L-B` | **8** | 8 | 4:23 | Salb ve Sulb (Sure 86 Târık kilidi + 8 geçiş: 4:23, 4:157, 5:33, 7:124, 12:41, 20:71, 26:49, 86:7 sert omurga/bel kemiği ve asıp çarmıha germek) | ⏳ *Bekliyor* |
 | 9 | Sure %100 Kilidi | 738 | `م-ه-ل` | `M-H-L` | **6** | 5 | 18:29 | Mehl, Temhîl ve Mühl (Sure 86 Târık kilidi + 6 geçiş: 18:29, 44:45, 70:8, 73:11, 86:17 ağır/yavaş mühlet vermek ve erimiş maden tortusu) | ⏳ *Bekliyor* |
 | 10 | Sure %100 Kilidi | 818 | `ص-د-ع` | `S-D-A` | **5** | 5 | 15:94 | Sad' ve Yessadda'ûne (Sure 86 Târık kilidi + 5 geçiş: 15:94, 30:43, 56:19, 59:21, 86:12 sert yüzeyi yarıp açmak, baş çatlatmak ve hakikati açıkça ortaya koymak) | ⏳ *Bekliyor* |

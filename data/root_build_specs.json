@@ -54124,5 +54124,86 @@
       }
     ],
     "context_default": "Derleyip toplama ve düzenli bütünleşme bağlamı"
+  },
+  "ط-ر-ق": {
+    "buckwalter": "Trq",
+    "slug": "trq",
+    "concept_name": "Tarîk / Tarîka / Târık (Açılmış Yol, İzlenen Çizgi, Katmanlı Yörünge ve Gece Çıkagelen Yıldız)",
+    "keywords": [
+      "tarik",
+      "tarika",
+      "taraik",
+      "yol",
+      "yontem",
+      "gece cikagelen yildiz",
+      "yedi gok yolu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Tariyq",
+        "ayahs": [
+          "4:168",
+          "4:169",
+          "20:77",
+          "46:30"
+        ],
+        "label": "Eril isim (`طَرِيقًا / طَرِيقَ / طَرِيقٍ` — belirgin güzergâh ve açılmış yol; 4 geçiş)"
+      },
+      {
+        "lemma": "Tariyqap",
+        "ayahs": [
+          "20:63",
+          "20:104",
+          "72:16"
+        ],
+        "label": "Müennes tekil isim (`طَرِيقَتِكُمُ / طَرِيقَةً / ٱلطَّرِيقَةِ` — izlenen seçkin yöntem, görüş ve istikamet çizgisi; 3 geçiş)"
+      },
+      {
+        "lemma": "Tariyqap",
+        "ayahs": [
+          "23:17",
+          "72:11"
+        ],
+        "label": "Kırık çoğul mansub isim (`سَبْعَ طَرَآئِقَ` `23:17` yedi gök katmanı/yolu; `طَرَآئِقَ قِدَدًا` `72:11` bölük bölük farklı gidişatlar; 2 geçiş)"
+      },
+      {
+        "lemma": "T~aAriq",
+        "ayahs": [
+          "86:1",
+          "86:2"
+        ],
+        "label": "Etken ortaç (`وَٱلطَّارِقِ` mecrûr kasem `86:1`; `مَا ٱلطَّارِقُ` merfû `86:2` — gece vakti çıkagelen delici yıldız; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Yol, yöntem, katman veya gece çıkagelen gök cismi bildiren `ط-ر-ق` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:168",
+          "4:169",
+          "20:77",
+          "46:30"
+        ],
+        "text": "Açılmış Yol ve Güzergâh (`4:168`, `4:169`, `20:77`, `46:30`): Denizde açılan kuru geçit, dosdoğru kılavuzluk yolu veya zulümde diretenlerin sürüklendiği azap yolu."
+      },
+      {
+        "ayahs": [
+          "20:63",
+          "20:104",
+          "72:11",
+          "72:16"
+        ],
+        "text": "İzlenen Yöntem ve Hayat Çizgisi (`20:63`, `20:104`, `72:11`, `72:16`): Toplumsal düzen, en dengeli görüş, farklı bölük hâlindeki gidişatlar ve dosdoğru çizgide sebat."
+      },
+      {
+        "ayahs": [
+          "23:17",
+          "86:1",
+          "86:2"
+        ],
+        "text": "Kozmik Katmanlar ve Gece Çıkagelen Yıldız (`23:17`, `86:1`, `86:2`): İnsanın üstündeki yedi katmanlı gök yolu ile gece karanlığında delici ışığıyla çıkagelen Târık."
+      }
+    ],
+    "context_default": "Yol, yöntem, katman veya gece çıkagelen yıldız bağlamı"
   }
 }
