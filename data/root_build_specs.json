@@ -53457,5 +53457,99 @@
       }
     ],
     "context_default": "Batıl ve alaycı sözlere dalma bağlamı"
+  },
+  "س-ج-ن": {
+    "buckwalter": "sjn",
+    "slug": "sjn",
+    "concept_name": "Sicn ve Siccîn (Sıkı Sıkıya Alıkoyup Hapsetmek, Zindan ve Mahpus Dip Kayıt)",
+    "keywords": [
+      "sicn",
+      "siccin",
+      "zindan",
+      "hapis",
+      "mescunin",
+      "alikoymak",
+      "yusuf zindani"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yusojana",
+        "ayahs": [
+          "12:25",
+          "12:32"
+        ],
+        "label": "Form I meçhul muzâri 3. tekil eril fiil (`أَن يُسْجَنَ` mansub, `لَيُسْجَنَنَّ` tekit nûnlu mebnî; 2 geçiş: 12:25, 12:32)"
+      },
+      {
+        "lemma": "yusojana",
+        "ayahs": [
+          "12:35"
+        ],
+        "label": "Form I malum muzâri 3. çoğul eril tekit nûnlu fiil (`لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ` — apaçık delillere rağmen geçici süreyle hapsetme kararı; 1 geçiş: 12:35)"
+      },
+      {
+        "lemma": "s~ijon",
+        "ayahs": [
+          "12:33",
+          "12:36",
+          "12:39",
+          "12:41",
+          "12:42",
+          "12:100"
+        ],
+        "label": "Belirli tekil isim/masdar (`ٱلسِّجْنُ / ٱلسِّجْنَ / ٱلسِّجْنِ` — `12:33` mübteda merfû, `12:36` mef'ûl mensub, `12:39`, `12:41` muzâfun ileyh mecrur, `12:42`, `12:100` harf-i cerle mecrur; 6 geçiş)"
+      },
+      {
+        "lemma": "masojuwniyn",
+        "ayahs": [
+          "26:29"
+        ],
+        "label": "Form I ism-i mef'ûl çoğul mecrur (`مِنَ ٱلْمَسْجُونِينَ` — Firavun'un zindan tehdidi; 1 geçiş: 26:29)"
+      },
+      {
+        "lemma": "sij~iyn",
+        "ayahs": [
+          "83:7",
+          "83:8"
+        ],
+        "label": "`فِعِّيل` mübalağa kalıbında isim (`لَفِى سِجِّينٍ` mecrur, `مَا سِجِّينٌ` merfû — fâcirlerin mahpus ve en dip kayıt kütüğü; 2 geçiş: 83:7, 83:8)"
+      }
+    ],
+    "irab_default": "Alıkoyup hapsetmeyi, zindanı veya mahpus dip kaydı bildiren `س-ج-ن` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:25",
+          "12:32",
+          "12:33",
+          "12:35"
+        ],
+        "text": "Yusuf'un Zindanla Tehdit Edilmesi ve Ahlaki Tercihi (`12:25`, `12:32`, `12:33`, `12:35`): Masumiyet delilleri görüldüğü hâlde Yusuf'un zindanla tehdit edilmesi, onun zindanı ahlaksız çağrıya tercih etmesi ve geçici süreyle hapsedilme kararı."
+      },
+      {
+        "ayahs": [
+          "12:36",
+          "12:39",
+          "12:41",
+          "12:42",
+          "12:100"
+        ],
+        "text": "Zindanda Tek İlah Çağrısı, Bekleyiş ve Özgürlüğe Çıkış (`12:36`, `12:39`, `12:41`, `12:42`, `12:100`): Yusuf'un zindan arkadaşlarına tek olan Allah'ı anlatması, yıllarca orada kalması ve sonunda zindandan çıkarılıp temize çıkmasını nimet olarak anması."
+      },
+      {
+        "ayahs": [
+          "26:29"
+        ],
+        "text": "Firavun'un Zindan Zorbalığı (`26:29`): Firavun'un, kendisinden başka bir ilah tanıması hâlinde Musa'yı zindana atmakla tehdit etmesi."
+      },
+      {
+        "ayahs": [
+          "83:7",
+          "83:8"
+        ],
+        "text": "Fâcirlerin Mahpus Dip Kaydı: Siccîn (`83:7`, `83:8`): `عِلِّيِّين`'in tam karşısında fâcirlerin yazılmış amel defterinin sıkı sıkıya mahpus tutulduğu dar ve en aşağı kütük."
+      }
+    ],
+    "context_default": "Alıkonup hapsedilme, zindan veya mahpus kayıt bağlamı"
   }
 }

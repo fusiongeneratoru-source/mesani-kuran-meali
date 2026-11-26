@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 46 / 50 Kök (Toplam Mühürlü: 746 Kök | Güncel Kapsam: %94,72)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 47 / 50 Kök (Toplam Mühürlü: 747 Kök | Güncel Kapsam: %94,74)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -53,7 +53,7 @@
 | 44 | Yüksek Frekanslı Çekirdek | 534 | `خ-ر-ر` | `H-R-R` | **12** | 12 | 7:143 | Harr (Yüksekten veya Dik Duruştan İvmeyle Çöküp Yere Devrilmek / Kapanmak) | ✅ **MÜHÜRLÜ** |
 | 45 | Yüksek Frekanslı Çekirdek | 523 | `خ-ط-ب` | `H-T-B` | **12** | 12 | 2:235 | Hitâb ve Hatb (İki Taraf Arası Karşılıklı Sözleşme, Talep ve Sorgulanan Ciddi Mesele) | ✅ **MÜHÜRLÜ** |
 | 46 | Yüksek Frekanslı Çekirdek | 530 | `خ-و-ض` | `H-W-D` | **12** | 9 | 4:140 | Havd (Suya Girip Çalkalar Gibi Batıl ve Alaycı Sözlere Dalmak) | ✅ **MÜHÜRLÜ** |
-| 47 | Yüksek Frekanslı Çekirdek | 537 | `س-ج-ن` | `S-C-N` | **12** | 12 | 12:25 | Sicn ve Siccîn (12 geçiş | 1M: ع-ل-و! 12:25, 12:32-42, 26:29, 83:7-8 dar kapalı yere hapsedip kapatmak ve sıkı kilitli sicil) | ⏳ *Bekliyor* |
+| 47 | Yüksek Frekanslı Çekirdek | 537 | `س-ج-ن` | `S-C-N` | **12** | 12 | 12:25 | Sicn ve Siccîn (Sıkı Sıkıya Alıkoyup Hapsetmek, Zindan ve Mahpus Dip Kayıt) | ✅ **MÜHÜRLÜ** |
 | 48 | Yüksek Frekanslı Çekirdek | 538 | `س-ل-ك` | `S-L-K` | **12** | 12 | 15:12 | Sülûk (12 geçiş: 15:12, 16:69, 20:53, 23:27, 26:200, 69:32, 74:42 bir geçide/yola girmek veya bir şeyi diğerinin içine geçirip dizmek) | ⏳ *Bekliyor* |
 | 49 | Yüksek Frekanslı Çekirdek | 533 | `ش-م-ل` | `S-M-L` | **12** | 11 | 6:143 | Şimâl ve İştemelet (12 geçiş | 1M: ي-م-ن! 6:143-144, 7:17, 16:48, 18:17, 56:41 sol yön/taraf ve rahmin içine alıp kuşatması) | ⏳ *Bekliyor* |
 | 50 | Yüksek Frekanslı Çekirdek | 514 | `ط-م-ع` | `T-M-A` | **12** | 12 | 2:75 | Tama' (12 geçiş | 1M: خ-و-ف! 2:75, 5:84, 7:46, 7:56, 13:12, 32:16 gerçekleşmesini güçlü bir umut ve istekle arzulayıp beklemek) | ⏳ *Bekliyor* |
