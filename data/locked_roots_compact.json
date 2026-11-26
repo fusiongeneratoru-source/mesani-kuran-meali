@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 729,
+    "total_locked": 730,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -937,7 +937,8 @@
         "ب-ر-ه-ن (ب-ر-ه-ن ↔ ن-و-ر Mesânî simetrisi)",
         "ظ-ل-ل [كَيْفَ مَدَّ ٱلظِّلَّ ... ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا] (Doğrudan Yayılan Parlak Işık ve Aydınlık ↔ Işığın Bir Cisimle Perdelenmesiyle Oluşan Gölge: 25:45, 35:20-21)",
         "م-و-ه (م-و-ه ↔ ن-و-ر Mesânî simetrisi)",
-        "ع-ش-و (A-S-W (E$w) — Çift Yönlü Mesânî Karşılığı: 43:36 [وَمَن يَعْشُ عَن ذِكْرِ ٱلرَّحْمَٰنِ — loşluk içinde göz yumup kararmak ↔ yol aydınlatan saf ışık])"
+        "ع-ش-و (A-S-W (E$w) — Çift Yönlü Mesânî Karşılığı: 43:36 [وَمَن يَعْشُ عَن ذِكْرِ ٱلرَّحْمَٰنِ — loşluk içinde göz yumup kararmak ↔ yol aydınlatan saf ışık])",
+        "ط-م-س (T-M-S (Tms) — Çift Yönlü Mesânî Karşılığı: `77:8` [فَإِذَا ٱلنُّجُومُ طُمِسَتْ] — aydınlatıp görünür kılan ışık `نُور` ↔ yıldızların parlaklık ve ışık izinin gökten silinip sönmesi `طُمِسَتْ`)"
       ]
     },
     "ح-س-ن": {
@@ -1419,7 +1420,8 @@
         "ف-أ-د (F-E-D (fAd) — Çift Yönlü Mesânî Karşılığı: 17:36, 16:78, 23:78, 32:9)",
         "غ-ض-ض (G-D-D (gDD) — Çift Yönlü Mesânî Karşılığı: 24:30, 24:31, 31:19, 49:3)",
         "س-ك-ر (S-K-R (skr) — Çift Yönlü Mesânî Karşılığı: 4:43, 15:15, 16:67, 15:72)",
-        "ظ-ل-م (ظ-ل-م ↔ ب-ص-ر Mesânî simetrisi)"
+        "ظ-ل-م (ظ-ل-م ↔ ب-ص-ر Mesânî simetrisi)",
+        "ط-م-س (T-M-S (Tms) — Çift Yönlü Mesânî Karşılığı: `36:66` [لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ فَأَنَّىٰ يُبْصِرُونَ] — gözlerdeki görme izinin silinmesi `لَطَمَسْنَا` ↔ yolu seçerek berrakça görmek `يُبْصِرُونَ`)"
       ]
     },
     "ر-و-د": {
@@ -9415,6 +9417,18 @@
         "ر-ف-ع (R-F-A (rfE) — Çift Yönlü Mesânî Karşılığı: `88:18` ↔ `88:20` [وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ ... وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ] — göğün dikey eksende yukarıya yükseltilmesi `رُفِعَتْ` ↔ yeryüzünün yatay eksende geniş bir yüzey hâlinde serilmesi `سُطِحَتْ`)",
         "ن-ص-ب (N-S-B (nSb) — Çift Yönlü Mesânî Karşılığı: `88:19` ↔ `88:20` [وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ * وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ] — dağların dikey kütleler olarak yükseltilip dikilmesi `نُصِبَتْ` ↔ yeryüzünün tümseksiz yatay bir düzlem olarak yayılıp serilmesi `سُطِحَتْ`)",
         "ج-م-ع (C-M-A (jmE) — Çift Yönlü Mesânî Karşılığı: `88:20` [سُطِحَتْ] — geniş bir yüzey hâlinde dışa doğru yayılıp açılmak ↔ tek bir kütle hâlinde içe doğru toplanıp büzülmek `جَمَعَ`)"
+      ]
+    },
+    "ط-م-س": {
+      "latin": "T-M-S (Tms)",
+      "core": "`ط-م-س` kökü Kur'an'daki 5 geçişinin tamamında Form I fiil olarak **'ayırt edici izi, görme açıklığını, özgün biçimi veya ışık parıltısını silip dümdüz ve belirsiz hâle getirmek'** tek mekaniğini taşır: yüzlerin yön ve hatlarının silinmesi (`4:47`), zorba düzenin mal ve gösteriş izinin silinmesi (`10:88`), gözlerin görüş açıklığının silinmesi (`36:66`, `54:37`) ve kıyamet sahnesinde yıldızların ışık izinin gökten silinmesi (`77:8`).",
+      "physical": "Bir yüzeydeki yazıyı, ayak izini, belirgin hatları, görme açıklığını veya parlak ışık izini **süpürüp silerek belirsiz, dümdüz ve seçilmez hâle getirmek (`مَحْوُ الشَّيْءِ وَمَسْحُهُ`)**: rüzgârın kum üzerindeki izi silmesi (`طَمَسَ الْأَثَرَ`), göz kapağı yarığının dümdüz kapanıp görüşün sönmesi (`الْمَطْمُوسُ`) ve yıldızın parıltısının gökten silinmesi (`طُمِسَتْ`).",
+      "opposites": [
+        "ع-ي-ن (A-Y-N — Çift Yönlü Mesânî Karşılığı: `36:66`, `54:37` [لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ / فَطَمَسْنَآ أَعْيُنَهُمْ] — gözün görme açıklığının silinip köreltilmesi `طَمَسَ` ↔ açık göz ve seçici gözlem `عَيْن`)",
+        "ب-ص-ر (B-S-R — Çift Yönlü Mesânî Karşılığı: `36:66` [لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ فَأَنَّىٰ يُبْصِرُونَ] — gözlerdeki görme izinin silinmesi `لَطَمَسْنَا` ↔ yolu seçerek berrakça görmek `يُبْصِرُونَ`)",
+        "ن-ج-م (N-C-M (njm) — Çift Yönlü Mesânî Karşılığı: `77:8` [فَإِذَا ٱلنُّجُومُ طُمِسَتْ] — karanlıkta doğup yön gösteren parıltılı yıldızlar `ٱلنُّجُومُ` ↔ parıltı ve ışık izinin gökten silinip söndürülmesi `طُمِسَتْ`)",
+        "ك-و-ك-ب (K-W-K-B (kwkb) — Çift Yönlü Mesânî Karşılığı: `77:8` — parlayıp seçilen gök cismi ↔ ışığı ve izi silinip belirsizleşme `طَمْس`)",
+        "ن-و-ر (N-W-R — Çift Yönlü Mesânî Karşılığı: `77:8` [فَإِذَا ٱلنُّجُومُ طُمِسَتْ] — aydınlatıp görünür kılan ışık `نُور` ↔ ışık ve ayırt edici izin bütünüyle silinip sönmesi `طُمِسَتْ`)"
       ]
     }
   }
