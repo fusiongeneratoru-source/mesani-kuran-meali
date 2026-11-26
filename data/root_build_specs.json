@@ -56900,5 +56900,37 @@
       }
     ],
     "context_default": "Dağlar arasında açılan geniş geçit bağlamı"
+  },
+  "ص-ب-ع": {
+    "buckwalter": "SbE",
+    "slug": "sbe",
+    "concept_name": "Esâbi' (Parmaklar — Çağrıyı ve Uyarıyı Duymamak İçin Kulağı Tıkama Eylemi)",
+    "root_latin": "S-B-A",
+    "keywords": [
+      "esabi",
+      "parmaklar",
+      "kulak tikamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aSa`biE",
+        "ayahs": [
+          "2:19",
+          "71:7"
+        ],
+        "label": "Mansûb kırık çoğul isim (`أَصَٰبِعَهُمْ` — parmaklar; kulaklara bastırıp sesi engelleme eylemi; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Parmak uzvu bildiren `ص-ب-ع` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:19",
+          "71:7"
+        ],
+        "text": "Parmaklarla Kulakları Tıkama (`2:19`, `71:7`): Yıldırım dehşetinden ya da Nûh'un hakikat çağrısını işitmemek için parmakları kulak deliklerine bastırmak."
+      }
+    ],
+    "context_default": "Parmaklarla işitme kanalını tıkama bağlamı"
   }
 }
