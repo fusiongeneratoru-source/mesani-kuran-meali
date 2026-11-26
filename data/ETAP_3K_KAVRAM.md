@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 11 / 50 Kök (Toplam Mühürlü: 761 Kök | Güncel Kapsam: %94,94)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 12 / 50 Kök (Toplam Mühürlü: 762 Kök | Güncel Kapsam: %94,94)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -18,7 +18,7 @@
 | 9 | Sure %100 Kilidi | 738 | `م-ه-ل` | `M-H-L` | **6** | 5 | 18:29 | Mehl / Mühl (Ağırdan Alıp Süre Tanımak ve Erimiş Maden/Kaynar Tortu) | ✅ **MÜHÜRLÜ** |
 | 10 | Sure %100 Kilidi | 818 | `ص-د-ع` | `S-D-A` | **5** | 5 | 15:94 | Sad' / Tasaddu' (Sert Gövdede Yarık Açılması, Ayrışma ve Hakikati Yarıp İlan Etme) | ✅ **MÜHÜRLÜ** |
 | 11 | Sure %100 Kilidi | 1210 | `ث-ق-ب` | `S-K-B` | **2** | 2 | 37:10 | Sâkıb (Karanlığı ve Hedefini Keskin Işığıyla Delip Geçen) | ✅ **MÜHÜRLÜ** |
-| 12 | Sure %100 Kilidi | 1608 | `د-ف-ق` | `D-F-K` | **1** | 1 | 86:6 | Dâfik (Sure 86 Târık kilidi: 86:6 ileri doğru güçlü basınçla atılıp dökülen su) | ⏳ *Bekliyor* |
+| 12 | Sure %100 Kilidi | 1608 | `د-ف-ق` | `D-F-K` | **1** | 1 | 86:6 | Dâfık (İleriye Doğru İtkiyle Fışkırıp Atılan) | ✅ **MÜHÜRLÜ** |
 | 13 | Sure %100 Kilidi | 1609 | `ه-ز-ل` | `H-Z-L` | **1** | 1 | 86:14 | Hezl (Sure 86 Târık son kilidi: 86:14 ciddi ölçünün karşıtı boş şaka ve ciddiyetsizlik) | ⏳ *Bekliyor* |
 | 14 | Sure %100 Kilidi | 1042 | `ش-أ-م` | `S-E-M` | **3** | 2 | 56:9 | Meş'eme (Sure 90 Beled kilidi | 1M: ي-م-ن + 3 geçiş: 56:9 [2x], 90:19 uğursuzluk ve olumsuz akıbet kanadı olan sol taraf) | ⏳ *Bekliyor* |
 | 15 | Sure %100 Kilidi | 1239 | `ل-ب-د` | `L-B-D` | **2** | 2 | 72:19 | Lübed ve Libed (Sure 90 Beled kilidi + 2 geçiş: 72:19, 90:6 üst üste yığılıp sıkışmış yoğun kütle ve yığın mal) | ⏳ *Bekliyor* |
