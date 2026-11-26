@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 840 Kök | Güncel Kapsam: %95,74)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 41 / 50 Kök (Toplam Mühürlü: 841 Kök | Güncel Kapsam: %95,75)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -47,7 +47,7 @@
 | 38 | Sure %100 Kilidi | 1018 | `و-ت-ر` | `W-T-R` | **3** | 3 | 23:44 | Vetr, Tetrâ ve Yetire (Çiftin Karşısında Tek, Fasılalı Ardı Ardına Gelme ve Emeği Eksiltmeme) | ✅ **MÜHÜRLÜ** |
 | 39 | Sure %100 Kilidi | 1612 | `ج-م-م` | `C-M-M` | **1** | 1 | 89:20 | Cemm (Kuyunun Dolup Taşması Gibi Birikerek Pek Çok ve Ölçüsüz Olmak) | ✅ **MÜHÜRLÜ** |
 | 40 | Sure %100 Kilidi | 1611 | `س-و-ط` | `S-W-T` | **1** | 1 | 89:13 | Savt (İç İçe Katıp Karıştırmak, Örülü Deri Kamçı ve Keskin Karşılık/Sıkıntı Payı) | ✅ **MÜHÜRLÜ** |
-| 41 | Açık Furûk Tepe Ucu | 618 | `ص-ع-د` | `S-A-D` | **9** | 9 | 3:153 | Saîd, Suûd ve Yes'adu (4 açık Furûk ref + 1M! 9 geçiş: 3:153, 4:43, 5:6, 6:125, 18:8, 18:40, 35:10, 72:17, 74:17 yukarı tırmanıp yükselmek, düz toprak yüzeyi ve çetin yokuş) | ⏳ *Bekliyor* |
+| 41 | Açık Furûk Tepe Ucu | 618 | `ص-ع-د` | `S-A-D` | **9** | 9 | 3:153 | Su'ûd, Sa'îd ve Tasa'ud (Yukarıya Yükselmek, Sarp Yokuşa Tırmanmak ve Yerin Üst Yüzeyi) | ✅ **MÜHÜRLÜ** |
 | 42 | Açık Furûk Tepe Ucu | 694 | `ب-ر-ق` | `B-R-K` | **6** | 6 | 2:19 | Berk ve Berika (4 açık Furûk ref! 6 geçiş: 2:19, 2:20, 13:12, 24:43, 30:24, 75:7 ani parlayıp çakan şimşek ve gözün kamaşıp şaşkına dönmesi) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 553 | `ع-ن-ب` | `A-N-B` | **11** | 11 | 2:266 | İneb ve A'nâb (11 geçiş: 2:266, 6:99, 13:4, 16:11, 16:67, 17:91, 18:32, 23:19, 36:34, 78:32, 80:28 salkım salkım üzüm ve üzüm bağları) | ⏳ *Bekliyor* |
 | 44 | Yüksek Frekanslı Çekirdek | 557 | `ط-ر-ف` | `T-R-F` | **11** | 11 | 3:127 | Tarf ve Etrâf (11 geçiş: 3:127, 11:114, 13:41, 14:43, 20:130, 21:44, 27:40, 37:48, 38:52, 42:45, 55:56 bir şeyin uç/kenar sınırı ve göz kırpım bakışı) | ⏳ *Bekliyor* |

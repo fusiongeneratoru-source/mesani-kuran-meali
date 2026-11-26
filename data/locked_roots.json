@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (40/50 — Toplam 840 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (41/50 — Toplam 841 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -37214,7 +37214,8 @@
           "ت-ي-ن",
           "ر-أ-س (ر-أ-س ↔ س-ف-ل Mesânî simetrisi)",
           "ن-ج-د (N-J-D (njd) — Çift Yönlü Mesânî Karşılığı: `90:10` [وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ] — yüksekliğiyle tepeden seçilen yayla ve yüksek yol `نَجْد` ↔ alçak çukur ve aşağı seviye `سُفْل`)",
-          "ش-م-خ (Şâmihât/Şümûh: göğe doğru dimdik ve heybetle yükselmek ↔ س-ف-ل aşağıda, alçakta ve çukurda kalmak)"
+          "ش-م-خ (Şâmihât/Şümûh: göğe doğru dimdik ve heybetle yükselmek ↔ س-ف-ل aşağıda, alçakta ve çukurda kalmak)",
+          "ص-ع-د (Su'ûd/Sa'îd: yukarıya doğru yükselmek ve sarp yokuşa tırmanmak ↔ س-ف-ل aşağıya inip alçalmak)"
         ],
         "key_ayahs": [
           "4:145",
@@ -70668,6 +70669,122 @@
           "meaning": "Örülü kamçı, içe işleyen şiddetli sıkıntı/karşılık darbesi",
           "examples": [
             "89:13"
+          ]
+        }
+      ]
+    },
+    "ص-ع-د": {
+      "root_latin": "S-E-D",
+      "arabic": "ص-ع-د",
+      "rank": 618,
+      "morphology_and_rasm": {
+        "buckwalter": "SEd",
+        "rasm_skeleton": "صعد (harekesiz iskelet; تصعدون / صعيدا / يصعد / صعدا / صعودا biçimleriyle 9 kez)",
+        "approx_frequency": "9 geçiş / 9 ayet (1x Form IV تُصْعِدُونَ `3:153`, 1x Form V يَصَّعَّدُ `6:125`, 1x Form I يَصْعَدُ `35:10`, 4x صَعِيدًا, 1x صَعَدًا, 1x صَعُودًا)",
+        "verb_forms_used": [
+          "Form IV (تُصْعِدُونَ — 1 geçiş: `3:153`)",
+          "Form V (يَصَّعَّدُ — 1 geçiş: `6:125`)",
+          "Form I (يَصْعَدُ — 1 geçiş: `35:10`)"
+        ],
+        "noun_forms_used": [
+          "صَعِيد (4 geçiş: `4:43`, `5:6`, `18:8`, `18:40` — yeryüzünün üst yüzeyi / zemin katmanı)",
+          "صَعَد (1 geçiş: `72:17` — giderek yükselen ve ağırlaşan sıkıntı)",
+          "صَعُود (1 geçiş: `74:17` — aşılması güç sarp yokuş)"
+        ],
+        "preposition_patterns": [
+          "إِلَيْهِ يَصْعَدُ (`35:10`: güzel sözün doğrudan Allah'a yükselmesi)",
+          "يَصَّعَّدُ فِى ٱلسَّمَآءِ (`6:125`: göğe doğru zorlukla tırmanır gibi daralma)"
+        ]
+      },
+      "physical_core": "Yukarıya doğru yükselmek, nefes kesen sarp bir yokuşa zorlukla tırmanmak ve yeryüzünün üst yüzeyi/yüksek dış tabakası (`صَعِيد`).",
+      "ibn_faris_asl": "(صَعِدَ) الصَّادُ وَالْعَيْنُ وَالدَّالُ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى ارْتِفَاعٍ وَمَشَقَّةٍ؛ يُقَالُ صَعِدَ يَصْعَدُ صُعُودًا، وَالصَّعُودُ الْعَقَبَةُ الشَّاقَّةُ، وَالصَّعِيدُ وَجْهُ الْأَرْضِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 3, s. 285, صعد maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris kökü tek ve sahih bir asla indirger: 'yükselme ve zorluk/meşakkat' (`ارتفاع ومشقة`). `صَعُود` zorlu dik yokuş, `صَعِيد` ise toprağın üst katmanıdır.",
+        "lisan_al_arab": "İbn Manzûr `أَصْعَدَ` (`3:153`) fiilinin 'tepeye/vadiye doğru hızla uzaklaşmak', `صَعِيد` kelimesinin ise yalnızca ince toz değil 'yerin üst yüzeyi' (`وجه الأرض`) olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `6:125`'teki `يَصَّعَّدُ` (Tefa''ul) kalıbının, yükselirken artan zahmet ve göğüs daralmasını bilhassa öne çıkardığını vurgular.",
+        "verdict": "Tüm 9 geçiş **'yükselme, zorlu tırmanış ve yerin üst yüzeyi'** mekanizmasında tam birlik gösterir; `صَعِيد` (`4:43`, `5:6`, `18:8`, `18:40`) her 4 ayette de 'yer yüzeyi / zemin' tutarlılığıyla okunmalıdır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*ṣʕd ('yükselmek, yukarı adım atmak')",
+        "hebrew": "İbranice צָעַד (ṣāʿaḏ: adım atmak, yukarı çıkmak) ile doğrudan kökteştir.",
+        "aramaic_syriac": "Ugaritçe ṣʿd ('yükselmek, tırmanmak') ve Güney Arapça/Sabaca ṣʿd ('yokuşa çıkmak, yükseltmek') aynı çekirdeği paylaşır.",
+        "akkadian": "Batı ve Güney Sâmî kollarında 'yukarıya doğru adım atma ve tırmanma' fiziksel vektörü ortaktır.",
+        "comparative_note": "`6:125`'te yüksek irtifada göğsün daralmasını (`يَصَّعَّدُ فِى ٱلسَّمَآءِ`) Tefa''ul babıyla betimlemesi, kökün 'yükselme + meşakkat' ikili yapısının zirve örneğidir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ن-ز-ل (Yukarıdan aşağıya inmek ↔ ص-ع-د yukarıya yükselmek — `35:10`, `6:125`)",
+          "س-ف-ل (Alçalmak ve aşağıya düşmek ↔ ص-ع-د yükseğe ve sarp yokuşa tırmanmak — `74:17`)"
+        ],
+        "bidirectional_test": "Yukarıya yükselmek (`ص-ع-د`) tersine çevrildiğinde aşağıya iniş (`ن-ز-ل`) ve alçalış (`س-ف-ل`) ortaya çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ر-ف-ع",
+          "ع-ر-ج",
+          "ض-ي-ق",
+          "ح-ر-ج"
+        ],
+        "analysis": "`35:10`'da `يَصْعَدُ` (öznenin kendi yükselişiyle yukarı çıkması) ile `يَرْفَعُهُ` (bir başka etkenin onu daha yukarı kaldırması) arasındaki Furûk nettir; `ع-ر-ج` ise merdiven/kavisli hatla yükselmektir. `6:125`'te `ضَيِّقًا حَرَجًا` (dar ve sıkışık) göğüs hâli, `يَصَّعَّدُ فِى ٱلسَّمَآءِ` benzetmesiyle somutlaşır."
+      },
+      "anchor_ayahs": [
+        "35:10 (إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ — güzel söz O'na yükselir ve onu iyileştirici/doğru eylem yukarı taşır)",
+        "6:125 (يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ — göğsünü, sanki göğe zorlukla tırmanıyormuş gibi dar ve sıkışık kılar)",
+        "4:43 (فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا — temiz bir yer yüzeyine yönelin)",
+        "74:17 (سَأُرْهِقُهُۥ صَعُودًا — onu aşılması güç sarp bir yokuşa süreceğim)"
+      ],
+      "unified_core_mechanism": "`ص-ع-د` kökü 9 geçişinde **'yukarıya yükselme, zorlu tırmanış meşakkati ve yerin üst yüzey katmanı (`صَعِيد`)'** çekirdeğini üç ayrı fiil babı ve üç isim kalıbıyla işletir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Fiil Babları (`يَصْعَدُ` I, `تُصْعِدُونَ` IV, `يَصَّعَّدُ` V): Doğrudan yükseliş, tepeye uzaklaşış ve zorlukla tırmanış.",
+          "Dal 2 — Yerin Üst Yüzeyi (`صَعِيدًا` — `4:43`, `5:6`, `18:8`, `18:40`): Temiz, çorak veya kaygan üst zemin.",
+          "Dal 3 — Yükselen Sıkıntı ve Sarp Yokuş (`صَعَدًا` `72:17`, `صَعُودًا` `74:17`): Tırmanıldıkça ağırlaşan meşakkat."
+        ],
+        "irab_notes": "`يَصَّعَّدُ` (`6:125`) aslen `يَتَصَعَّدُ` olup `ت→ص` idgamıyla zorluğu sesçe pekiştirir; `صَعَدًا` (`72:17`) `عَذَابًا`'nın sıfatı, `صَعُودًا` (`74:17`) `أُرْهِقُهُ`'nun ikinci mef'ûlü olarak mansûbtur."
+      },
+      "derivatives": [
+        {
+          "form": "يَصْعَدُ",
+          "pos": "Fiil (Form I)",
+          "meaning": "Yukarıya yükselmek",
+          "examples": [
+            "35:10"
+          ]
+        },
+        {
+          "form": "تُصْعِدُونَ",
+          "pos": "Fiil (Form IV)",
+          "meaning": "Yokuşa/uzağa doğru hızla uzaklaşmak",
+          "examples": [
+            "3:153"
+          ]
+        },
+        {
+          "form": "يَصَّعَّدُ",
+          "pos": "Fiil (Form V)",
+          "meaning": "Zorlukla ve nefes darlığıyla tırmanmak",
+          "examples": [
+            "6:125"
+          ]
+        },
+        {
+          "form": "صَعِيد",
+          "pos": "İsim",
+          "meaning": "Yeryüzünün üst yüzeyi, zemin katmanı",
+          "examples": [
+            "4:43",
+            "5:6",
+            "18:8",
+            "18:40"
+          ]
+        },
+        {
+          "form": "صَعَد / صَعُود",
+          "pos": "Sıfat / İsim",
+          "meaning": "Yükselip ağırlaşan sıkıntı / sarp yokuş",
+          "examples": [
+            "72:17",
+            "74:17"
           ]
         }
       ]

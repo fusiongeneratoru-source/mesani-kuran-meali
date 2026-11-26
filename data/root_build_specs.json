@@ -58559,5 +58559,94 @@
       }
     ],
     "context_default": "Azgınlık ve bozgunculuk üzerine inen karşılık kamçısı bağlamı"
+  },
+  "ص-ع-د": {
+    "buckwalter": "SEd",
+    "slug": "sed",
+    "concept_name": "Su'ûd, Sa'îd ve Tasa'ud (Yukarıya Yükselmek, Sarp Yokuşa Tırmanmak ve Yerin Üst Yüzeyi)",
+    "root_latin": "S-E-D",
+    "keywords": [
+      "suud",
+      "said",
+      "yukselmek",
+      "sarp yokus",
+      "yer yuzeyi",
+      "daralma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tuSoEidu",
+        "ayahs": [
+          "3:153"
+        ],
+        "label": "Form IV (İf'âl) muzâri fiil (`تُصْعِدُونَ` — yokuşa/uzağa doğru kimseye dönmeden tırmanıp uzaklaşmak; 1 geçiş)"
+      },
+      {
+        "lemma": "SaEiyd",
+        "ayahs": [
+          "4:43",
+          "5:6",
+          "18:8",
+          "18:40"
+        ],
+        "label": "İsim (`صَعِيدًا` — yeryüzünün üst yüzeyi: temiz zemin `4:43, 5:6`, çorak çıplak zemin `18:8`, kaygan çıplak zemin `18:40`; 4 geçiş)"
+      },
+      {
+        "lemma": "yaS~aE~adu",
+        "ayahs": [
+          "6:125"
+        ],
+        "label": "Form V (Tefa''ul) muzâri fiil (`يَصَّعَّدُ` = `يَتَصَعَّدُ` — göğe zorlukla tırmanır gibi göğsün daralması; 1 geçiş)"
+      },
+      {
+        "lemma": "yaSoEadu",
+        "ayahs": [
+          "35:10"
+        ],
+        "label": "Form I muzâri fiil (`يَصْعَدُ` — güzel ve temiz sözün Allah'a yükselmesi; 1 geçiş)"
+      },
+      {
+        "lemma": "SaEad",
+        "ayahs": [
+          "72:17"
+        ],
+        "label": "Masdar/sıfat (`عَذَابًا صَعَدًا` — giderek yükselen ve ağırlaşan sıkıntı; 1 geçiş)"
+      },
+      {
+        "lemma": "SaEuwd",
+        "ayahs": [
+          "74:17"
+        ],
+        "label": "İsim (`صَعُودًا` — tırmanması güç sarp yokuş / dik azap yamacı; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yükselmeyi, zorlu tırmanışı veya yerin üst yüzeyini bildiren `ص-ع-د` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:43",
+          "5:6",
+          "18:8",
+          "18:40"
+        ],
+        "text": "Yeryüzünün Üst Yüzeyi (`صَعِيدًا`): Su bulunmadığında yönelinen temiz yer yüzeyi (`4:43`, `5:6`) ile bitkisiz çorak/kaygan çıplak zemin (`18:8`, `18:40`)."
+      },
+      {
+        "ayahs": [
+          "3:153",
+          "6:125",
+          "35:10"
+        ],
+        "text": "Üç Ayrı Fiil Babında Yükseliş ve Zorluk (`3:153`, `6:125`, `35:10`): Savaşta tepeye/uzağa tırmanıp kaçış (`تُصْعِدُونَ`), göğe tırmanır gibi göğüs daralması (`يَصَّعَّدُ`) ve güzel sözün yükselişi (`يَصْعَدُ`)."
+      },
+      {
+        "ayahs": [
+          "72:17",
+          "74:17"
+        ],
+        "text": "Ağırlaşan Sıkıntı ve Sarp Yokuş (`72:17`, `74:17`): Öğütten yüz çevirenin sürüklendiği tırmanan sıkıntı (`صَعَدًا`) ve kibirliye yüklenen sarp yokuş (`صَعُودًا`)."
+      }
+    ],
+    "context_default": "Yukarıya yükselme, zorlu tırmanış ve yerin üst yüzeyi bağlamı"
   }
 }
