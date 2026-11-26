@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (54/50 — Toplam 854 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (55/50 — Toplam 855 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -45583,7 +45583,8 @@
           "أ-ي-ي [فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً] (Göstergenin Aydınlık İzini Silip Karartmak ↔ Göstergeyi Gösteren/Aydınlatıcı Kılmak: 17:12)",
           "ك-ت-ب [يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُۥٓ أُمُّ ٱلْكِتَٰبِ] (Kayıttan Silip Kaldırmak ↔ Ana Kayıtta Sabit Tutup Yazılı Kılmak: 13:39)",
           "ح-ق-ق [وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ] (Asılsız Olanın İzini Silip Yok Etmek ↔ Gerçeği Yerli Yerine Oturtup Gerçekleştirmek: 42:24)",
-          "س-ج-ل (S-C-L (sjl) — Çift Yönlü Mesânî Karşılığı: `21:104`, `13:39`, `17:12` — yazıyı ve izi tamamen silip ortadan kaldırmak `مَحَا / يَمْحُوا۟` ↔ kayıtların toplanıp muhafaza edildiği yazılı sicil defteri ve hükmü sabit taş `سِجِلّ / سِجِّيل`)"
+          "س-ج-ل (S-C-L (sjl) — Çift Yönlü Mesânî Karşılığı: `21:104`, `13:39`, `17:12` — yazıyı ve izi tamamen silip ortadan kaldırmak `مَحَا / يَمْحُوا۟` ↔ kayıtların toplanıp muhafaza edildiği yazılı sicil defteri ve hükmü sabit taş `سِجِلّ / سِجِّيل`)",
+          "ر-ق-م (Rakm: silinmez biçimde çizip işleyerek kalıcı kayıt altına almak ↔ م-ح-و yazıyı ve izi bütünüyle silip ortadan kaldırmak)"
         ],
         "key_ayahs": [
           "13:39",
@@ -71953,6 +71954,84 @@
           "examples": [
             "76:11",
             "83:24"
+          ]
+        }
+      ]
+    },
+    "ر-ق-م": {
+      "root_latin": "R-Q-M",
+      "arabic": "ر-ق-م",
+      "rank": 1025,
+      "morphology_and_rasm": {
+        "buckwalter": "rqm",
+        "rasm_skeleton": "رقم (harekesiz iskelet; والرقيم / مرقوم biçimleriyle 3 kez)",
+        "approx_frequency": "3 geçiş / 3 ayet (1x `ٱلرَّقِيمِ`, 2x ism-i mef'ûl `مَّرْقُومٌ`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "رَقِيم (fa'îl/mef'ûl anlamlı isim — 1 geçiş: `18:9`, yazılı levha/kitabe)",
+          "مَرْقُوم (ism-i mef'ûl / sıfat — 2 geçiş: `83:9`, `83:20`, çizilip işlenmiş kesin kayıt)"
+        ],
+        "preposition_patterns": [
+          "كِتَٰبٌ مَّرْقُومٌ (`83:9`, `83:20`: nekre sıfat tamlaması olarak iki kez tekrarlanan kesin kayıt formülü)"
+        ]
+      },
+      "physical_core": "Bir yüzey üzerine (taş, levha, kumaş veya sayfa) belirgin çizgilerle nakşedip işlemek, okunaklı ve kalıcı biçimde yazıya geçirmek.",
+      "ibn_faris_asl": "(رَقَمَ) الرَّاءُ وَالْقَافُ وَالْمِيمُ أَصْلٌ وَاحِدٌ يَدُلُّ عَلَى خَطٍّ وَكِتَابَةٍ وَمَا أَشْبَهَ ذَلِكَ. [Mu'cemü Mekâyîsi'l-Luğa, c. 2, s. 425, رقم maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ر-ق-م` kökünü tek bir asla indirger: 'çizgi çekmek, yazmak ve buna benzer biçimde işlemek' (`خط وكتابة وما أشبه ذلك`).",
+        "lisan_al_arab": "İbn Manzûr `رَقَمَ الْكِتَابَ` ifadesinin harfleri belirginleştirip noktalamak/çizgiyle sabitlemek, `رَقِيم`'in ise `مَرْقُوم` (yazılı levha/kitap) anlamında fa'îl kalıbı olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `رَقْم`'ın kalın ve kalıcı çizgiyle yazmak olduğunu; `كِتَٰبٌ مَّرْقُومٌ` (`83:9`, `83:20`) ifadesinin, hükmü tamamlanmış ve üzerinde oynama yapılamayan kesin kayıt anlamını taşıdığını belirtir.",
+        "verdict": "Tüm 3 geçiş **'belirgin çizgiyle işlenip sabitlenmiş kalıcı yazı/kayıt'** çekirdeğinde tam birlik gösterir; `18:9`'daki `ٱلرَّقِيمِ` de aynı kökten 'yazılı kitabe/levha' olarak kök anlamıyla doğrudan örtüşür."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*rqm ('çizgiyle işlemek, nakşetmek, desenleyip yazmak')",
+        "hebrew": "İbranice רָקַם (rāqam: çizgi ve nakışla işlemek, desenlemek) doğrudan kökteştir.",
+        "aramaic_syriac": "Aramice/Süryanice rqm ('işlemek, çizgiyle belirtmek, yazıp nakşetmek') aynı fiziksel çekirdeği taşır.",
+        "akkadian": "Akadcada doğrudan eşkökenli doğrulanamadı.",
+        "comparative_note": "Batı Sâmî dillerindeki *rqm çekirdeği yüzeysel bir iz değil, yüzeye işlenmiş kalıcı çizgi ve nakış vurgusu taşır; `كِتَٰبٌ مَّرْقُومٌ` ifadesindeki kesinlik ve silinmezlik bu somut eylemden doğar."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "م-ح-و (Yazıyı ve izi silip ortadan kaldırmak ↔ ر-ق-م silinmez çizgilerle işleyip kayıt altına almak)"
+        ],
+        "bidirectional_test": "Bir kaydı çizgiyle işleyip sabitlemek (`ر-ق-م`) tersine çevrildiğinde o yazının ve izin silinmesi (`م-ح-و`) ortaya çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ك-ت-ب",
+          "ك-ه-ف"
+        ],
+        "analysis": "`83:9` ve `83:20`'de `كِتَٰبٌ` (`ك-ت-ب` — bir araya getirilip derlenen yazılı metin/kayıt) ile `مَّرْقُومٌ` (`ر-ق-م` — belirgin çizgi ve işaretlerle kesinleştirilmiş, üzerinde değişiklik yapılamayan) arasındaki Furûk açıktır: her `كِتَاب` derlenmiş bir yazıdır, `مَرْقُوم` ise mühürlenip sabitlenmiş kesin kayıttır."
+      },
+      "anchor_ayahs": [
+        "18:9 (أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا — yoksa sen mağara ve yazılı kitabe arkadaşlarının bizim şaşılacak tek işaretimiz olduğunu mu sandın)",
+        "83:9 (كِتَٰبٌ مَّرْقُومٌ — çizilip kesinleştirilmiş bir kayıttır [siccîn])",
+        "83:20 (كِتَٰبٌ مَّرْقُومٌ — çizilip kesinleştirilmiş bir kayıttır [illiyyûn])"
+      ],
+      "unified_core_mechanism": "`ر-ق-م` kökü 3 geçişinde **'belirgin çizgilerle işlenmiş, silinmez ve üzerinde oynanamayan kalıcı kayıt/kitabe'** çekirdeğini işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Yazılı Kitabe (`ٱلرَّقِيمِ` — `18:9`): `ٱلْكَهْفِ` üzerine matuf mecrûr isim.",
+          "Dal 2 — Kesin Kayıt Sıfatı (`مَّرْقُومٌ` — `83:9`, `83:20`): İki zıt amel defterini niteleyen merfû ism-i mef'ûl sıfat."
+        ],
+        "irab_notes": "`ٱلرَّقِيمِ` (`18:9`) atıfla mecrûr, `مَّرْقُومٌ` (`83:9`, `83:20`) mahzuf mübtedânın (`هُوَ`) haberi olan `كِتَٰبٌ` kelimesinin merfû sıfatıdır."
+      },
+      "derivatives": [
+        {
+          "form": "ٱلرَّقِيمِ",
+          "pos": "İsim (Fa'îl)",
+          "meaning": "Üzerine yazı işlenmiş kitabe / yazılı levha",
+          "examples": [
+            "18:9"
+          ]
+        },
+        {
+          "form": "مَّرْقُومٌ",
+          "pos": "İsm-i Mef'ûl / Sıfat",
+          "meaning": "Belirgin çizgiyle işlenip kesinleştirilmiş, silinmez kayıtlı",
+          "examples": [
+            "83:9",
+            "83:20"
           ]
         }
       ]

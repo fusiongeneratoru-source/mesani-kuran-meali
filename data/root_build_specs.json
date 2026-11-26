@@ -59489,5 +59489,54 @@
       }
     ],
     "context_default": "Yüzde beliren taze parlaklık ve canlı esenlik ışıltısı bağlamı"
+  },
+  "ر-ق-م": {
+    "buckwalter": "rqm",
+    "slug": "rqm",
+    "concept_name": "Rakîm ve Merkûm (Silinmez Biçimde Çizilip İşlenmiş, Damgalı ve Kesin Kayıt)",
+    "root_latin": "R-Q-M",
+    "keywords": [
+      "rakim",
+      "merkum",
+      "yazili kayit",
+      "kitabe",
+      "islenmis",
+      "damgali",
+      "kesin defter"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "r~aqiym",
+        "ayahs": [
+          "18:9"
+        ],
+        "label": "Fa'îl kalıbında isim (`أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ` — mağara ve yazılı kitabe/kayıtlı levha arkadaşları; 1 geçiş)"
+      },
+      {
+        "lemma": "m~aroquwm",
+        "ayahs": [
+          "83:9",
+          "83:20"
+        ],
+        "label": "Form I ism-i mef'ûl / sıfat (`كِتَٰبٌ مَّرْقُومٌ` — üzerine silinmez biçimde çizilip işlenmiş, mühürlü/kesinleştirilmiş kayıt defteri; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Silinmez biçimde çizilip işlenmiş yazıyı ve kesin kaydı bildiren `ر-ق-م` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:9"
+        ],
+        "text": "Mağara ve Rakîm (`18:9`): Mağara arkadaşlarının (`أَصْحَٰبَ ٱلْكَهْفِ`) yanında anılan, kıssanın/isimlerin kazındığı yazılı kitabe veya kayıt (`ٱلرَّقِيمِ`)."
+      },
+      {
+        "ayahs": [
+          "83:9",
+          "83:20"
+        ],
+        "text": "İki Zıt Kesin Kayıt (`83:9`, `83:20`): Hem `سِجِّين` (`83:7-9`) hem de `عِلِّيُّون` (`83:18-20`) açıklanırken kullanılan `كِتَٰبٌ مَّرْقُومٌ` — eklenip çıkarılamayan, çizilip işlenmiş kesin kayıt."
+      }
+    ],
+    "context_default": "Silinmez biçimde çizilip işlenmiş kesin yazı ve kayıt bağlamı"
   }
 }
