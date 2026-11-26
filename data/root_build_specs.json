@@ -52757,5 +52757,78 @@
       }
     ],
     "context_default": "Siyahlık/kararma veya önderlik makamı bağlamı"
+  },
+  "ب-خ-س": {
+    "buckwalter": "bxs",
+    "slug": "bxs",
+    "concept_name": "Bahs (Hakkı, Ölçüyü veya Bedeli Haksızca Kırpıp Eksiltmek)",
+    "keywords": [
+      "bahs",
+      "eksiltmek",
+      "kirpmak",
+      "dusuk bedel",
+      "hak yemek",
+      "olcu hilesi",
+      "yebhas"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaboxaso",
+        "ayahs": [
+          "2:282",
+          "7:85",
+          "11:85",
+          "26:183"
+        ],
+        "label": "Form I malum meczûm muzâri fiil (`وَلَا يَبْخَسْ` / `وَلَا تَبْخَسُوا۟` — nehiy `لَا` ile meczûm; 4 geçiş: 2:282, 7:85, 11:85, 26:183)"
+      },
+      {
+        "lemma": "yaboxaso",
+        "ayahs": [
+          "11:15"
+        ],
+        "label": "Form I meçhul muzâri 3. çoğul eril fiil (`لَا يُبْخَسُونَ` — karşılıktan eksiltilmeye uğramamak; 1 geçiş: 11:15)"
+      },
+      {
+        "lemma": "baxos",
+        "ayahs": [
+          "12:20"
+        ],
+        "label": "Mastar kaynaklı sıfat — mecrûr na't (`بِثَمَنٍۭ بَخْسٍ` — değerinin çok altında düşük bedel; 1 geçiş: 12:20)"
+      },
+      {
+        "lemma": "baxos",
+        "ayahs": [
+          "72:13"
+        ],
+        "label": "Mastar isim — mansûb mef'ûlün bih (`فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا` — hak edişten eksiltilme; 1 geçiş: 72:13)"
+      }
+    ],
+    "irab_default": "Haksız eksiltme ve değer kırpma bildiren `ب-خ-س` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:85",
+          "11:85",
+          "26:183"
+        ],
+        "text": "Medyen Ekonomisinde Ölçü ve Hak Kırpma Yasağı (`7:85`, `11:85`, `26:183`): Şuayb'ın ölçüyü tam tutma emrinin hemen peşinden insanların mallarını ve haklarını kırpıp eksiltmeme (`وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ`) uyarısı."
+      },
+      {
+        "ayahs": [
+          "2:282",
+          "12:20"
+        ],
+        "text": "Borç Kaydı Doğruluğu ve Düşük Bedel (`2:282`, `12:20`): Borçlunun yazdırırken tutardan tek bir parça eksiltmemesi (`وَلَا يَبْخَسْ مِنْهُ شَيْـًٔا`) ve Yusuf'un birkaç dirhem gibi kırpılmış bir bedelle (`بِثَمَنٍۭ بَخْسٍ`) satılması."
+      },
+      {
+        "ayahs": [
+          "11:15",
+          "72:13"
+        ],
+        "text": "İlahî Karşılıkta Eksiltilmeme Güvencesi (`11:15`, `72:13`): Emeklerin karşılığının eksiltilmeden tastamam verilmesi (`لَا يُبْخَسُونَ`) ve Rabbine güvenenin hak kaybından (`بَخْسًا`) korkmaması."
+      }
+    ],
+    "context_default": "Hak, ölçü veya değerden haksızca eksiltme bağlamı"
   }
 }
