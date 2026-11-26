@@ -57365,5 +57365,86 @@
       }
     ],
     "context_default": "Altı evreli kozmik ölçü ve altmışlı toplumsal onarım sayısı bağlamı"
+  },
+  "خ-م-س": {
+    "buckwalter": "xms",
+    "slug": "xms",
+    "concept_name": "Hamse, Humus, Hâmise ve Hamsîn (Beş, Beşte Bir Pay, Beşinci Tanıklık ve Elli Ölçüsü)",
+    "root_latin": "H-M-S",
+    "keywords": [
+      "hamse",
+      "humus",
+      "hamise",
+      "hamsin",
+      "bes",
+      "beste bir",
+      "elli"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xamosap",
+        "ayahs": [
+          "3:125",
+          "18:22",
+          "58:7"
+        ],
+        "label": "Sayı ismi (`خَمْسَة` — beş bin destek gücü, beş kişi tahminleri ve beş kişinin fısıldaşması; 3 geçiş)"
+      },
+      {
+        "lemma": "xumus",
+        "ayahs": [
+          "8:41"
+        ],
+        "label": "Kesir ismi (`خُمُسَهُ` — savaş ganimetinden kamusal ve sosyal dayanışmaya ayrılan beşte bir pay; 1 geçiş)"
+      },
+      {
+        "lemma": "xa`misap",
+        "ayahs": [
+          "24:7",
+          "24:9"
+        ],
+        "label": "Sıra sayısı (`الْخَامِسَةُ` / `الْخَامِسَةَ` — liân sürecindeki belirleyici beşinci beyan; 2 geçiş)"
+      },
+      {
+        "lemma": "xamosiyn",
+        "ayahs": [
+          "29:14",
+          "70:4"
+        ],
+        "label": "Onluk sayı ismi (`خَمْسِينَ` — elli yıl ve elli bin yıllık kozmik zaman ölçüsü; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Beş, beşte bir, beşinci ve elli sayısal ölçülerini bildiren `خ-م-س` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:125",
+          "18:22",
+          "58:7"
+        ],
+        "text": "Beş Sayısı (`3:125`, `18:22`, `58:7`): Beş bin nişanlı destek gücü (`3:125`), mağara arkadaşlarının sayısına dair 'beştirler' tahmini (`18:22`) ve beş kişinin gizli fısıldaşmasında altıncının Allah olması (`58:7`)."
+      },
+      {
+        "ayahs": [
+          "8:41"
+        ],
+        "text": "Toplumsal Paylaşım Kesri (`8:41`): Elde edilen ganimetin beşte birinin (`خُمُسَهُ`) Allah, elçi, yakınlar, yetimler, yoksullar ve yolda kalmışlar için kamusal pay olarak ayrılması."
+      },
+      {
+        "ayahs": [
+          "24:7",
+          "24:9"
+        ],
+        "text": "Hukuki Liân Sürecinde Beşinci Beyan (`24:7`, `24:9`): Eşlerin dört kez Allah adına tanıklık ettikten sonra beşinci beyanda (`الْخَامِسَة`) ağır sorumluluğu bizzat üstlenmeleri."
+      },
+      {
+        "ayahs": [
+          "29:14",
+          "70:4"
+        ],
+        "text": "Elli ve Elli Binlik Zaman Ölçekleri (`29:14`, `70:4`): Nûh'un toplumunda kalış süresindeki 'elli yıl eksik bin yıl' (`29:14`) ve kozmik yükseliş gününün 'elli bin yıl' ölçüsü (`70:4`)."
+      }
+    ],
+    "context_default": "Beş, beşte bir, beşinci ve elli sayısal/hukuki ölçüsü bağlamı"
   }
 }
