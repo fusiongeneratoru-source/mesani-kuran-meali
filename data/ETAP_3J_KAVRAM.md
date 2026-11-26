@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 43 / 50 Kök (Toplam Mühürlü: 743 Kök | Güncel Kapsam: %94,65)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 44 / 50 Kök (Toplam Mühürlü: 744 Kök | Güncel Kapsam: %94,67)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -50,7 +50,7 @@
 | 41 | Yüksek Frekanslı Çekirdek | 526 | `ج-ب-ي` | `C-B-Y` | **12** | 12 | 3:179 | Cibâye ve İctibâ (Suyu Havuzda ve Ürünü Merkezde Toplamak; Seçip Süzerek Katına Almak) | ✅ **MÜHÜRLÜ** |
 | 42 | Yüksek Frekanslı Çekirdek | 531 | `ج-ح-د` | `C-H-D` | **12** | 12 | 6:33 | Cuhûd (İçten Bilinen Hakikati ve Nimeti Kibirle Bile Bile Yadsımak) | ✅ **MÜHÜRLÜ** |
 | 43 | Yüksek Frekanslı Çekirdek | 518 | `ح-س-ر` | `H-S-R` | **12** | 12 | 2:167 | Hasret ve Husûr (Örtünün ve Gücün Sıyrılıp Tükenmesi, Yakıcı Pişmanlık) | ✅ **MÜHÜRLÜ** |
-| 44 | Yüksek Frekanslı Çekirdek | 534 | `خ-ر-ر` | `H-R-R` | **12** | 12 | 7:143 | Harr ve Harra (12 geçiş: 7:143, 12:100, 16:26, 17:107, 22:31, 25:73 yüksekten ses çıkararak düşmek ve derhâl yüzüstü kapanmak) | ⏳ *Bekliyor* |
+| 44 | Yüksek Frekanslı Çekirdek | 534 | `خ-ر-ر` | `H-R-R` | **12** | 12 | 7:143 | Harr (Yüksekten veya Dik Duruştan İvmeyle Çöküp Yere Devrilmek / Kapanmak) | ✅ **MÜHÜRLÜ** |
 | 45 | Yüksek Frekanslı Çekirdek | 523 | `خ-ط-ب` | `H-T-B` | **12** | 12 | 2:235 | Hatb ve Hitâb (12 geçiş: 2:235, 11:37, 12:51, 15:57, 20:95, 38:20 yüz yüze hitap etmek, evlilik teklifi ve ağır mesele/iş) | ⏳ *Bekliyor* |
 | 46 | Yüksek Frekanslı Çekirdek | 530 | `خ-و-ض` | `H-W-D` | **12** | 9 | 4:140 | Havd ve Hâidîn (12 geçiş: 4:140, 6:68, 6:91, 9:65, 9:69, 74:45 suyun içine dalar gibi boş, alaycı ve yıkıcı lafa dalmak) | ⏳ *Bekliyor* |
 | 47 | Yüksek Frekanslı Çekirdek | 537 | `س-ج-ن` | `S-C-N` | **12** | 12 | 12:25 | Sicn ve Siccîn (12 geçiş | 1M: ع-ل-و! 12:25, 12:32-42, 26:29, 83:7-8 dar kapalı yere hapsedip kapatmak ve sıkı kilitli sicil) | ⏳ *Bekliyor* |

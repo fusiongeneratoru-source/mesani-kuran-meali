@@ -53194,5 +53194,83 @@
       }
     ],
     "context_default": "Gücün sıyrılıp tükenmesi veya yakıcı pişmanlık bağlamı"
+  },
+  "خ-ر-ر": {
+    "buckwalter": "xrr",
+    "slug": "xrr",
+    "concept_name": "Harr (Yüksekten veya Dik Duruştan İvmeyle Çöküp Yere Devrilmek / Kapanmak)",
+    "keywords": [
+      "harr",
+      "harre",
+      "yere kapanmak",
+      "yuzustu kapanmak",
+      "cokmek",
+      "devrilmek",
+      "yikilmak",
+      "yehirrune"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xar~a",
+        "ayahs": [
+          "7:143",
+          "16:26",
+          "22:31",
+          "34:14",
+          "38:24"
+        ],
+        "label": "Form I muzaaf malum mâzi 3. tekil eril fiil (`خَرَّ` — yere devrilmek, tavanın çökmesi, gökten düşmek veya saygıyla eğilip yere kapanmak; 5 geçiş)"
+      },
+      {
+        "lemma": "xar~a",
+        "ayahs": [
+          "12:100",
+          "19:58",
+          "32:15"
+        ],
+        "label": "Form I muzaaf malum mâzi 3. çoğul eril fiil (`خَرُّوا۟ سُجَّدًا` — derhâl tam boyun eğerek yüzüstü yere kapanmak; 3 geçiş: 12:100, 19:58, 32:15)"
+      },
+      {
+        "lemma": "xar~a",
+        "ayahs": [
+          "17:107",
+          "17:109",
+          "19:90",
+          "25:73"
+        ],
+        "label": "Form I muzaaf malum muzâri fiil (`يَخِرُّونَ` / `تَخِرُّ` / `لَمْ يَخِرُّوا۟` — 4 geçiş: 17:107, 17:109, 19:90, 25:73)"
+      }
+    ],
+    "irab_default": "İvmeli düşüş, çöküş veya yere kapanma bildiren Form I muzaaf fiil (`خ-ر-ر` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:100",
+          "17:107",
+          "17:109",
+          "19:58",
+          "25:73",
+          "32:15",
+          "38:24"
+        ],
+        "text": "İlahî Ayetler ve Azamet Karşısında Bilinçli Yere Kapanış (`12:100`, `17:107`, `17:109`, `19:58`, `25:73`, `32:15`, `38:24`): Ayetler okunduğunda kibirlenmeden ve sağır-kör gibi davranmadan bilinçli biçimde çeneler üzerine tam boyun eğerek, gözyaşı ve yönelişle yere kapanmak."
+      },
+      {
+        "ayahs": [
+          "16:26",
+          "19:90",
+          "22:31"
+        ],
+        "text": "Kozmik ve Yapısal Çöküş / Gökten Savruluş (`16:26`, `19:90`, `22:31`): Tuzak kuranların üstüne tavanın çökmesi (`فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ`), dağların gürültüyle yıkılması (`وَتَخِرُّ ٱلْجِبَالُ هَدًّا`) ve ortak koşmanın gökten düşüşe benzetilmesi."
+      },
+      {
+        "ayahs": [
+          "7:143",
+          "34:14"
+        ],
+        "text": "Bedenî Dikeyliğin Aniden Boşalması (`7:143`, `34:14`): Dağ paramparça olunca Musa'nın bayılıp yere yığılması (`وَخَرَّ مُوسَىٰ صَعِقًا`) ve asâsını kurt yiyince Süleyman'ın yere devrilmesi (`فَلَمَّا خَرَّ`)."
+      }
+    ],
+    "context_default": "İvmeli çöküş, devrilme veya tam boyun eğerek yere kapanma bağlamı"
   }
 }
