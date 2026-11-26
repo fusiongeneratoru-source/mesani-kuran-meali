@@ -57668,5 +57668,37 @@
       }
     ],
     "context_default": "Tam kuşatma, egemenlik kurma ve önüne katıp yönlendirme bağlamı"
+  },
+  "ج-ل-س": {
+    "buckwalter": "jls",
+    "slug": "jls",
+    "concept_name": "Mecâlis (Yatıştan Doğrulup Oturulan Topluluk Mekânı ve Ortak İstişare/Öğrenme Alanı)",
+    "root_latin": "C-L-S",
+    "keywords": [
+      "mecalis",
+      "meclis",
+      "oturma yeri",
+      "toplanti alani",
+      "dogrulup oturmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "maja`lis",
+        "ayahs": [
+          "58:11"
+        ],
+        "label": "Çoğul ism-i mekân (`الْمَجَالِسِ` — insanların bir araya gelip oturdukları toplantı ve öğrenme mekânları; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Bir araya gelip oturulan toplantı ve paylaşım mekânını bildiren `ج-ل-س` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "58:11"
+        ],
+        "text": "Topluluk Toplantılarında Yer Paylaşımı (`58:11`): Bir araya gelinen ortak oturma ve öğrenme alanlarında (`فِي الْمَجَالِسِ`) darlık çıkarmadan yeni gelenlere yer açılması ilkesi."
+      }
+    ],
+    "context_default": "Ortak toplantı, sohbet ve öğrenme mekânı bağlamı"
   }
 }
