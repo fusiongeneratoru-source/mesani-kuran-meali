@@ -54673,5 +54673,37 @@
       }
     ],
     "context_default": "Apaçık iki tercih yolu bağlamı"
+  },
+  "س-غ-ب": {
+    "buckwalter": "sgb",
+    "slug": "sgb",
+    "concept_name": "Mesğabe (Bitkinlik ve Yorgunlukla Birleşen Şiddetli Açlık ve Kıtlık)",
+    "keywords": [
+      "mesgabe",
+      "sagab",
+      "kitlik",
+      "siddetli aclik",
+      "darlik gunu",
+      "doyurmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "masogabap",
+        "ayahs": [
+          "90:14"
+        ],
+        "label": "Mecrûr nekre `مَفْعَلَة` masdar ismi (`يَوْمٍ ذِى مَسْغَبَةٍ` — muzâfün ileyh: kıtlık ve şiddetli açlık günü; 1 geçiş: 90:14)"
+      }
+    ],
+    "irab_default": "Şiddetli açlık ve kıtlık bildiren `س-غ-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "90:14"
+        ],
+        "text": "Kıtlık Gününde Dayanışma (`90:14`): Sarp yokuşu aşmanın somut karşılığı olarak kıtlık ve şiddetli açlık gününde akraba yetimi ve yoksulu doyurmak."
+      }
+    ],
+    "context_default": "Kıtlık ve şiddetli açlık bağlamı"
   }
 }
