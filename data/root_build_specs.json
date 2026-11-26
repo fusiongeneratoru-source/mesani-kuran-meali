@@ -52567,5 +52567,38 @@
       }
     ],
     "context_default": "Çekilerek eksilme ve alçalma bağlamı"
+  },
+  "ش-ك-س": {
+    "buckwalter": "$ks",
+    "slug": "sks",
+    "concept_name": "Şekâse / Müteşâkisûn (Birbiriyle Uzlaşmaz Biçimde Karşılıklı Zıtlaşıp Çekişmek)",
+    "keywords": [
+      "mutesakisun",
+      "sekase",
+      "gecimsiz",
+      "uzlasmaz",
+      "cekisen ortaklar",
+      "zitlasmak",
+      "cok baslilik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "muta$a`kisuwn",
+        "ayahs": [
+          "39:29"
+        ],
+        "label": "Tefâ'ul (VI. bab) düzenli eril çoğul ism-i fâil (`شُرَكَآءُ مُتَشَٰكِسُونَ` — merfû `شُرَكَآءُ`'nun sıfatı, ref alâmeti `و`; 1 geçiş: 39:29)"
+      }
+    ],
+    "irab_default": "Karşılıklı zıtlaşma ve geçimsizlik bildiren Tefâ'ul ism-i fâili (`ش-ك-س` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "39:29"
+        ],
+        "text": "Bölünmüş Bağlılık ile Tek Merkeze Esenlikle Bağlılık Meseli (`39:29`): Tek bir adam üzerinde hak iddia edip birbirine ters düşen geçimsiz ortaklar (`شُرَكَآءُ مُتَشَٰكِسُونَ`) ile tek bir kişiye bütünüyle esenlikle bağlı adam (`سَلَمًا لِّرَجُلٍ`) kıyası."
+      }
+    ],
+    "context_default": "Birbiriyle uzlaşmaz ve çekişen çoklu otoriteler meseli bağlamı"
   }
 }
