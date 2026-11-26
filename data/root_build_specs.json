@@ -55065,5 +55065,84 @@
       }
     ],
     "context_default": "Benliğe ahlaki ayrım bilincinin yerleştirilmesi bağlamı"
+  },
+  "ن-ط-ق": {
+    "buckwalter": "nTq",
+    "slug": "ntq",
+    "concept_name": "Nutk ve Mantık (Anlaşılır Sözle Konuşmak ve Hakikati Dillendirmek)",
+    "keywords": [
+      "nutk",
+      "mantik",
+      "konusmak",
+      "dile getirmek",
+      "kitabun yentiku",
+      "mantikut tayr"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yanTiqu",
+        "ayahs": [
+          "21:63",
+          "21:65",
+          "23:62",
+          "27:85",
+          "37:92",
+          "45:29",
+          "51:23",
+          "53:3",
+          "77:35"
+        ],
+        "label": "Form I muzâri fiil (`يَنطِقُ / يَنطِقُونَ / تَنطِقُونَ` — anlaşılır sözle konuşmak ve hakikati beyan etmek; 9 geçiş)"
+      },
+      {
+        "lemma": ">anTaqa",
+        "ayahs": [
+          "41:21"
+        ],
+        "label": "Form IV mâzi fiil (`أَنطَقَنَا / أَنطَقَ` — her varlığı konuşturup şahit kılmak; 2 geçiş)"
+      },
+      {
+        "lemma": "manTiq",
+        "ayahs": [
+          "27:16"
+        ],
+        "label": "Mansûb masdar-ı mîmî / muzâf (`مَنطِقَ ٱلطَّيْرِ` — kuşların anlamlı iletişim dili; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Anlaşılır konuşma ve beyan bildiren `ن-ط-ق` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "23:62",
+          "45:29",
+          "51:23",
+          "53:3"
+        ],
+        "text": "Hakikati Açıkça Dillendiren Kayıt ve Vahiy (`23:62`, `45:29`, `51:23`, `53:3`): Amel kaydının hakikati dile getirmesi, vahiy elçisinin hevesten konuşmaması ve konuşma yetisi kadar kesin olan gerçeklik."
+      },
+      {
+        "ayahs": [
+          "21:63",
+          "21:65",
+          "37:92"
+        ],
+        "text": "Putların Konuşma Aczi (`21:63`, `21:65`, `37:92`): İbrahim'in putlara yönelttiği 'konuşmuyor musunuz?' sorgusuyla dilsiz nesnelerin ilahlık iddiasının çökertilmesi."
+      },
+      {
+        "ayahs": [
+          "27:85",
+          "41:21",
+          "77:35"
+        ],
+        "text": "Hesap Gününde Suskunluk ve Organların Konuşturulması (`27:85`, `41:21`, `77:35`): Zalimlerin savunma nutkunun kesilmesi karşısında derilerin Allah tarafından konuşturulması."
+      },
+      {
+        "ayahs": [
+          "27:16"
+        ],
+        "text": "Kuşların İletişim Dili (`27:16`): Süleyman'a kuşların anlamlı ses dizgesinin (`مَنطِقَ ٱلطَّيْرِ`) öğretilmesi."
+      }
+    ],
+    "context_default": "Anlaşılır konuşma ve beyan bağlamı"
   }
 }
