@@ -53015,5 +53015,82 @@
       }
     ],
     "context_default": "Derleyip toplama veya seçerek katına alma bağlamı"
+  },
+  "ج-ح-د": {
+    "buckwalter": "jHd",
+    "slug": "jhd",
+    "concept_name": "Cuhûd (İçten Bilinen Hakikati ve Nimeti Kibirle Bile Bile Yadsımak)",
+    "keywords": [
+      "cuhud",
+      "cehade",
+      "yadsima",
+      "bilerek reddetmek",
+      "ikrar karsiti",
+      "ayetleri yadsimak",
+      "nimeti yadsimak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jaHadu",
+        "ayahs": [
+          "11:59",
+          "27:14"
+        ],
+        "label": "Form I malum mâzi 3. çoğul eril fiil (`جَحَدُوا۟ بِـَٔايَٰتِ رَبِّهِمْ` / `وَجَحَدُوا۟ بِهَا` — `بِ` ile geçişli; 2 geçiş: 11:59, 27:14)"
+      },
+      {
+        "lemma": "jaHadu",
+        "ayahs": [
+          "29:47",
+          "29:49",
+          "31:32"
+        ],
+        "label": "Form I malum muzâri 3. tekil eril fiil (`وَمَا يَجْحَدُ بِـَٔايَٰتِنَآ إِلَّا ...` — hasr üslubunda merfû muzâri; 3 geçiş: 29:47, 29:49, 31:32)"
+      },
+      {
+        "lemma": "jaHadu",
+        "ayahs": [
+          "6:33",
+          "7:51",
+          "16:71",
+          "40:63",
+          "41:15",
+          "41:28",
+          "46:26"
+        ],
+        "label": "Form I malum muzâri 3. çoğul eril fiil (`يَجْحَدُونَ` — `بِ` harf-i cerriyle ayetleri veya nimeti yadsımak; 7 geçiş)"
+      }
+    ],
+    "irab_default": "Bilinen hakikati veya nimeti bile bile yadsımayı bildiren Form I fiil (`ج-ح-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:33",
+          "27:14",
+          "29:47",
+          "29:49",
+          "31:32"
+        ],
+        "text": "İçsel Kesinliğe Rağmen Bilinçli Yadsıma Mekaniği (`6:33`, `27:14`, `29:47`, `29:49`, `31:32`): Kalpte kesinleştiği hâlde zulüm ve kibirle yadsımanın (`وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ`) yalanlamadan ayrılması ve yalnız hakkı örten, zulmeden ve sözünden dönenlerce işlenmesi."
+      },
+      {
+        "ayahs": [
+          "11:59",
+          "41:15",
+          "46:26"
+        ],
+        "text": "Âd ve Geçmiş Güçlü Kavimlerin Ayetleri Yadsıması (`11:59`, `41:15`, `46:26`): Kendilerine güç, kulak, göz ve gönül verildiği hâlde kibirlenip Rablerinin ayetlerini bile bile yadsıyan geçmiş toplulukların akıbeti."
+      },
+      {
+        "ayahs": [
+          "7:51",
+          "16:71",
+          "40:63",
+          "41:28"
+        ],
+        "text": "Nimeti ve Hesap İşaretlerini Yadsımanın Sonucu (`7:51`, `16:71`, `40:63`, `41:28`): Rızık nimetini yadsımak, ayetlerden yüz çevirmek ve bu bilinçli direnişin kalıcı karşılığı."
+      }
+    ],
+    "context_default": "Bilinen ayetleri veya nimeti bile bile yadsıma bağlamı"
   }
 }
