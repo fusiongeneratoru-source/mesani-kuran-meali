@@ -58844,5 +58844,70 @@
       }
     ],
     "context_default": "Kenar-uç (`طَرَف`) veya göz kırpımı-bakış (`طَرْف`) bağlamı"
+  },
+  "ف-أ-ي": {
+    "buckwalter": "fAy",
+    "slug": "fay",
+    "concept_name": "Fi'e (Birbirine Arka Çıkıp Dayanan Düzenli Birlik, Bölük ve Destek Topluluğu)",
+    "root_latin": "F-A-Y",
+    "keywords": [
+      "fie",
+      "birlik",
+      "boluk",
+      "destek birligi",
+      "cephe",
+      "dayanisma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fi}ap",
+        "ayahs": [
+          "2:249",
+          "3:13",
+          "4:88",
+          "8:16",
+          "8:45",
+          "8:48",
+          "18:43",
+          "28:81"
+        ],
+        "label": "İsim (`فِئَة / فِئَتَيْنِ` — karşı karşıya saf tutan düzenli birlik, fikir bölüğü veya sığınılan destek birliği; 10 geçiş — 2:249 ve 3:13'te 2'şer kez)"
+      },
+      {
+        "lemma": "fi}at",
+        "ayahs": [
+          "8:19"
+        ],
+        "label": "Zamire muzâf isim (`فِئَتُكُمْ` — sayıca kalabalık olsa da fayda vermeyecek destek birliğiniz/topluluğunuz; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Birbirine arka çıkan düzenli birlik ve bölüğü bildiren `ف-أ-ي` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:249",
+          "3:13",
+          "8:16",
+          "8:19",
+          "8:45",
+          "8:48"
+        ],
+        "text": "Meydanda Karşılaşan Düzenli Birlikler (`2:249`, `3:13`, `8:16`, `8:19`, `8:45`, `8:48`): Az sayıdaki kenetlenmiş birliğin büyük birliği aşması (`2:249`), saf düzeni (`8:16`, `8:45`) ve sayısal çokluğun tek başına yetmemesi (`8:19`)."
+      },
+      {
+        "ayahs": [
+          "18:43",
+          "28:81"
+        ],
+        "text": "Dar Günde Allah'tan Başka Destek Birliği Bulunmaması (`18:43`, `28:81`): Bağı çöken kibirli adamın ve yerin dibine geçirilen Kârûn'un yardımına koşacak tek bir destek birliği (`فِئَة`) kalmaması."
+      },
+      {
+        "ayahs": [
+          "4:88"
+        ],
+        "text": "Tutum ve Fikir İki Bölüğe Ayrılması (`4:88`): İkiyüzlüler konusunda toplumun iki ayrı tutum grubuna (`فِئَتَيْنِ`) bölünmesi."
+      }
+    ],
+    "context_default": "Birbirine arka çıkıp saf tutan düzenli birlik ve destek topluluğu bağlamı"
   }
 }
