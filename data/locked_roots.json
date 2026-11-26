@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (3/50 — Toplam 903 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (4/50 — Toplam 904 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -607,7 +607,8 @@
           "ج-ل-س (Cülûs/Mecâlis: toplu halde oturma ve yerleşme ↔ ق-و-م ayakta dikilme ve harekete geçme)",
           "و-ك-أ (Tevekkü/İttikâ: ağırlığını bırakıp huzurla yaslanarak dinlenmek ↔ ق-و-م ayağa kalkıp dikilmek ve görev üzere ayakta durmak)",
           "أ-ر-ك (Erâik: gölgelikli sedirlerde huzurla yerleşip yaslanmak ↔ ق-و-م ayakta durup emek, çaba ve hesap bekleyişinde bulunmak)",
-          "ض-ج-ع (Medâci': yan üzere uzanıp yatılan yerler ↔ ق-و-م yataktan doğrulup ayakta durmak ve harekete geçmek — `32:16`)"
+          "ض-ج-ع (Medâci': yan üzere uzanıp yatılan yerler ↔ ق-و-م yataktan doğrulup ayakta durmak ve harekete geçmek — `32:16`)",
+          "ن-ك-س (Neks / Tenkîs: yönü ve yaratılış gücünü tersine çevirip baş aşağı etmek ↔ ق-و-م dik ve düzgün biçimde ayakta tutup doğrultmak — `21:65`, `36:68`)"
         ],
         "key_ayahs": [
           "4:95",
@@ -37176,7 +37177,8 @@
           "ف-ر-ش (F-R-Ş (fr$) — Çift Yönlü Mesânî Karşılığı: `56:34` [وَفُرُشٍ مَّرْفُوعَةٍ] ve `2:22` — yatay düzlemde zemine serip yaymak `فَرَشَ / فِرَاش` ↔ dikey doğrultuda yukarı yükseltip kaldırmak `رَفَعَ`)",
           "س-ط-ح (S-T-H (sTH) — Çift Yönlü Mesânî Karşılığı: `88:18` ↔ `88:20` [وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ ... وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ] — göğün dikey eksende yukarıya yükseltilmesi `رُفِعَتْ` ↔ yeryüzünün yatay eksende geniş bir yüzey hâlinde serilmesi `سُطِحَتْ`)",
           "خ-ر-ر (X-R-R (xrr) — Çift Yönlü Mesânî Karşılığı: `12:100` [وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا] — yüksek tahta çıkarıp yükseltmek `رَفَعَ` ↔ aşağıya doğru yere kapanmak `خَرُّوا۟`)",
-          "خ-س-ف (Hasf: yerin çöküp aşağı dibe batırılması ↔ ر-ف-ع yukarıya kaldırıp yükseltmek)"
+          "خ-س-ف (Hasf: yerin çöküp aşağı dibe batırılması ↔ ر-ف-ع yukarıya kaldırıp yükseltmek)",
+          "ن-ك-س (Neks / Nâkisû: başı utançla aşağı eğmek veya baş aşağı çevirmek ↔ ر-ف-ع başı ve dereceyi yukarı kaldırmak — `32:12`)"
         ],
         "key_ayahs": [
           "2:127",
@@ -75835,6 +75837,97 @@
             "3:154",
             "4:34",
             "32:16"
+          ]
+        }
+      ]
+    },
+    "ن-ك-س": {
+      "root_latin": "N-K-S",
+      "arabic": "ن-ك-س",
+      "rank": 1013,
+      "morphology_and_rasm": {
+        "buckwalter": "nks",
+        "rasm_skeleton": "نكس (harekesiz iskelet; نكسوا, ناكسوا ve ننكسه biçimleriyle 3 kez)",
+        "approx_frequency": "3 geçiş / 3 ayet (1x I. bab meçhul mâzi `نُكِسُوا۟`, 1x I. bab ism-i fâil `نَاكِسُوا۟`, 1x II. bab muzâri `نُنَكِّسْهُ`)",
+        "verb_forms_used": [
+          "Form I (`نُكِسُوا۟` meçhul mâzi — 1 geçiş: `21:65`)",
+          "Form II (`نُنَكِّسْهُ` muzâri meczûm — 1 geçiş: `36:68`)"
+        ],
+        "noun_forms_used": [
+          "نَاكِسُوا۟ (`فَاعِل` çoğul ism-i fâil — 1 geçiş: `32:12`)"
+        ],
+        "preposition_patterns": [
+          "نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ (`21:65`: `عَلَى` ile tepetaklak başları üzerine ters dönmek)",
+          "نُنَكِّسْهُ فِى ٱلْخَلْقِ (`36:68`: `فِى` ile yaratılış/bedenî gelişim düzleminde geriye döndürmek)"
+        ]
+      },
+      "physical_core": "Lisânü'l-Arab'ın tespit ettiği somut çekirdek: 'bir şeyi üstünü alta getirerek baş aşağı ters çevirmek' (`قَلْبُ الشَّيْءِ عَلَى رَأْسِهِ`). Buradan başını utanç ve zilletle öne eğmek (`نَاكِسُو رُءُوسِهِمْ`) ve gelişim yönünü tersine çevirip güçsüzlüğe geri döndürmek (`نُنَكِّسْهُ`) dallanır.",
+      "ibn_faris_asl": "النَّكْسُ: قَلْبُ الشَّيْءِ عَلَى رَأْسِهِ، نَكَسَهُ يَنْكُسُهُ نَكْسًا... وَالنَّاكِسُ: الْمُطَأْطِئُ رَأْسَهُ، وَنَكَسَ رَأْسَهُ إِذَا طَأْطَأَهُ مِنْ ذُلٍّ. [Lisânü'l-Arab, c. 14, نكس maddesi; bu maddede İbn Fâris alıntısı yerine doğrudan İbn Manzûr'un doğrulanmış metni esas alınmıştır]",
+      "dictionary_arbitration": {
+        "ibn_faris": "Bu maddede doğrudan doğrulanmış Arapça metin kaynağı olarak Lisânü'l-Arab esas alınmış olup, kökün çekirdeği 'bir nesneyi baş aşağı tersine çevirmek' (`قَلْبُ الشَّيْءِ عَلَى رَأْسِهِ`) biçiminde ortak sözlük geleneğinde tam mutabakatla yer alır.",
+        "lisan_al_arab": "İbn Manzûr `النَّكْسُ` kelimesini 'bir şeyi başı üzerine ters çevirmek' (`قَلْبُ الشَّيْءِ عَلَى رَأْسِهِ`), `النَّاكِسُ` sıfatını 'zillet ve utançla başını öne eğen' (`الْمُطَأْطِئُ رَأْسَهُ مِنْ ذُلٍّ`), `36:68`'deki `نُنَكِّسْهُ فِى ٱلْخَلْقِ` ifadesini ise 'yaşlılıkta gücün ve aklın çocukluktaki zayıflık hâline geri döndürülmesi' olarak açıklar.",
+        "ragib_al_isfahani": "Râgıb `21:65`'teki `نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ` deyiminin, hakikati fark edip düzelmeye yaklaşmışken eski batıl inatçılığa tepetaklak geri yuvarlanmayı tasvir ettiğini, II. bab `نُنَكِّسْهُ` (`36:68`) kalıbının ise yaşlanmadaki kademeli ve tekrarlı gerilemeyi (`تَكْثِير / تَدْرِيج`) gösterdiğini vurgular.",
+        "verdict": "Tüm 3 geçiş **'tepetaklak baş aşağı çevirmek (`21:65`), başı mahcubiyetle aşağı eğmek (`32:12`) ve yaratılış sürecini kademeli olarak tersine/zayıflığa döndürmek (`36:68`)'** tek fiziksel ekseninde birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Klasik karşılaştırmalı Sâmî sözlüklerde doğrudan eşkökenli kesinleştirilmemiştir; spekülatif eşleştirme yapılmaz.",
+        "hebrew": "Doğrudan eşkökenli doğrulanmamıştır.",
+        "aramaic_syriac": "Doğrudan eşkökenli doğrulanmamıştır.",
+        "akkadian": "Doğrudan eşkökenli doğrulanmamıştır.",
+        "comparative_note": "Arapça içinde `ن-ك-س` ('baş aşağı ters çevirmek') tıbbî nüksetme (hastalığın geri dönmesi) ve `36:68`'deki biyolojik geriye dönüş anlamını doğrudan aynı 'yönü tersine çevirme' fiziksel çekirdeğinden üretir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ر-ف-ع (Başı ve makamı yukarı kaldırmak ↔ ن-ك-س başı utançla aşağı eğmek `نَاكِسُوا۟ رُءُوسِهِمْ` — `32:12`)",
+          "ق-و-م (Doğrultup dik ve sağlam biçimde ayakta tutmak ↔ ن-ك-س baş aşağı ters çevirmek ve yaratılış gücünü geriye döndürmek — `21:65`, `36:68`)"
+        ],
+        "bidirectional_test": "`32:12`'de başını eğmiş suçlu duruşu (`نَاكِسُوا۟ رُءُوسِهِمْ`) ile `36:68`'de ömür uzadıkça yaratılışın tersine çevrilmesi (`نُنَكِّسْهُ`), yükselme (`ر-ف-ع`) ve dik durma (`ق-و-م`) eksenlerinin tam fiziksel tersidir."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ر-أ-س",
+          "ع-م-ر",
+          "خ-ل-ق"
+        ],
+        "analysis": "`21:65` ve `32:12`'de `رُءُوسِهِمْ` ('başları') ile birleşerek hem zihinsel tepetaklak oluşu hem de utançla baş eğmeyi somutlaştırır. `36:68`'de `نُعَمِّرْهُ` ('uzun ömür verip yaşatırız') şartının cevabı olarak `نُنَكِّسْهُ` ('yaratılışta tersine çeviririz') gelir; sayıca artan ömür ile biyolojik olarak gerileyen güç arasındaki çarpıcı karşıtlığı kurar."
+      },
+      "anchor_ayahs": [
+        "36:68 (وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِى ٱلْخَلْقِ أَفَلَا يَعْقِلُونَ — kime uzun ömür verirsek onu yaratılış bakımından geriye doğru ters çeviririz; hâlâ akıl yürütmeyecekler mi?)",
+        "32:12 (إِذِ ٱلْمُجْرِمُونَ نَاكِسُوا۟ رُءُوسِهِمْ عِندَ رَبِّهِمْ — suçlular Rableri katında başlarını önlerine eğmiş hâldeyken)",
+        "21:65 (ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ — sonra başları üzerine tepetaklak eski hâllerine döndüler: 'Bunların konuşmadığını zaten biliyorsun' dediler)"
+      ],
+      "unified_core_mechanism": "`ن-ك-س` kökü 3 geçişinde **'bir şeyi üstünü alta getirerek baş aşağı ters çevirmek'** somut çekirdeğiyle, zihinsel inada geri yuvarlanmayı (`21:65`), utançla başı öne eğmeyi (`32:12`) ve uzun ömürde bedensel gücün kademeli geriye dönüşünü (`36:68`) bildirir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Meçhul Tepetaklak Dönüş (`نُكِسُوا۟` — `21:65`): I. bab meçhul mâzi; hakikat karşısında eski inatçı tutuma savrulmayı bildirir.",
+          "Dal 2 — Başı Eğik Durma (`نَاكِسُوا۟` — `32:12`): I. bab çoğul ism-i fâil; `رُءُوسِهِمْ` kelimesine izafetle nûn harfi düşmüş haber konumundadır.",
+          "Dal 3 — Kademeli Geriye Döndürme (`نُنَكِّسْهُ` — `36:68`): II. bab (tef'îl) muzâri; `مَن` şartının cevabı olduğu için meczûmdur."
+        ],
+        "irab_notes": "`32:12`'de Mushaf imlasında `نَاكِسُوا۟` kelimesinin sonundaki elif (elif-i fârika) resm-i Osmânî yazım özelliğidir; dilbilgisi bakımından cemi müzekker sâlim izafetidir (`نَاكِسُو`)."
+      },
+      "derivatives": [
+        {
+          "form": "نُكِسُوا۟",
+          "pos": "Fiil (I. Bab Meçhul Mâzi)",
+          "meaning": "Baş aşağı ters çevrilmek, eski inatçı tutuma tepetaklak geri dönmek",
+          "examples": [
+            "21:65"
+          ]
+        },
+        {
+          "form": "نَاكِسُوا۟",
+          "pos": "İsm-i Fâil (Çoğul)",
+          "meaning": "Utanç ve yenilgiyle başlarını önlerine eğmiş olanlar",
+          "examples": [
+            "32:12"
+          ]
+        },
+        {
+          "form": "نُنَكِّسْهُ",
+          "pos": "Fiil (II. Bab Muzâri Meczûm)",
+          "meaning": "Yaratılış ve güç bakımından kademe kademe tersine/zayıflığa geri döndürmek",
+          "examples": [
+            "36:68"
           ]
         }
       ]

@@ -61822,5 +61822,64 @@
       }
     ],
     "context_default": "Yan üzere uzanılan yataklar ve düşüp yatılan yerler bağlamı"
+  },
+  "ن-ك-س": {
+    "buckwalter": "nks",
+    "slug": "nks",
+    "concept_name": "Neks, Nâkisû ve Tenkîs (Baş Aşağı Ters Çevirmek, Başını Mahcubiyetle Eğmek ve Yaşlılıkta Geriye Döndürmek)",
+    "root_latin": "N-K-S",
+    "keywords": [
+      "neks",
+      "nakisu",
+      "tenkis",
+      "bas asagi cevirmek",
+      "basini egmek",
+      "geriye dondurmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nukisu",
+        "ayahs": [
+          "21:65"
+        ],
+        "label": "I. bab meçhul mâzi fiil (`ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ` — gerçeği bir an görüp kendilerine döndükten sonra yeniden baş aşağı ters dönüp eski inatçı tutumlarına saplanmaları; `21:65`; 1 geçiş)"
+      },
+      {
+        "lemma": "naAkisuwA",
+        "ayahs": [
+          "32:12"
+        ],
+        "label": "I. bab ism-i fâil çoğulu (`نَاكِسُوا۟ رُءُوسِهِمْ عِندَ رَبِّهِمْ` — hesap ânında suçluların utanç ve yenilgiyle başlarını önlerine eğmiş hâlde durmaları; `32:12`; 1 geçiş)"
+      },
+      {
+        "lemma": "nunak~iso",
+        "ayahs": [
+          "36:68"
+        ],
+        "label": "II. bab (tef'îl) muzâri meczûm fiil (`وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِى ٱلْخَلْقِ` — kime uzun ömür verirsek onu yaratılış bakımından kademe kademe tersine/çocukluk güçsüzlüğüne geri çeviririz; `36:68`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Baş aşağı çevirmeyi (`نُكِسُوا۟`), başı mahcubiyetle eğmeyi (`نَاكِسُوا۟`) veya yaratılışta geriye döndürmeyi (`نُنَكِّسْهُ`) bildiren `ن-ك-س` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "21:65"
+        ],
+        "text": "Zihinsel Ters Dönüş (`21:65`): İbrahim'in açık delili karşısında bir an vicdanlarına dönen topluluğun (`21:64`), hemen ardından eski saplantılarına baş aşağı ters dönerek (`نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ`) 'bunların konuşmadığını zaten biliyorsun' itirafına mecbur kalmaları."
+      },
+      {
+        "ayahs": [
+          "32:12"
+        ],
+        "text": "Hesap Gününde Eğik Başlar (`32:12`): Suçluların Rableri huzurunda başlarını utanç ve yenilgiyle önlerine eğmiş hâlde (`نَاكِسُوا۟ رُءُوسِهِمْ`) 'gördük ve işittik, bizi geri döndür de yapıcı işler yapalım' diye yakarışları."
+      },
+      {
+        "ayahs": [
+          "36:68"
+        ],
+        "text": "Uzun Ömürde Biyolojik Geriye Dönüş (`36:68`): Yaşamın doğal yasası olarak uzun ömür verilen insanın güç ve kavrayışının zamanla geriye doğru ters çevrilmesi (`نُنَكِّسْهُ فِى ٱلْخَلْقِ`) ve bunun akıl yürütmeye açık bir kanıt oluşu."
+      }
+    ],
+    "context_default": "Baş aşağı çevrilme, utançla baş eğme ve biyolojik geriye dönüş bağlamı"
   }
 }
