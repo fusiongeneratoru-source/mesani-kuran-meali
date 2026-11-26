@@ -59777,5 +59777,55 @@
       }
     ],
     "context_default": "Üzerine çöküp kaplama, ağır yükle bunaltma ve ezici baskı bağlamı"
+  },
+  "ش-أ-ن": {
+    "buckwalter": "$An",
+    "slug": "shn",
+    "concept_name": "Şe'n (İnsanı veya İlahi İdareyi Meşgul Eden Önemli İş, Yönelim ve Somut Durum)",
+    "root_latin": "SH-A-N",
+    "keywords": [
+      "sen",
+      "is",
+      "durum",
+      "mesguliyet",
+      "hal",
+      "yonelim",
+      "tedbir"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$a>on",
+        "ayahs": [
+          "10:61",
+          "24:62",
+          "55:29",
+          "80:37"
+        ],
+        "label": "İsim (`شَأْنٍ`, `شَأْنِهِمْ`, `شَأْنٌ` — yönelinen önemli iş, meşguliyet ve içinde bulunulan somut hâl; 4 geçiş)"
+      }
+    ],
+    "irab_default": "İçinde bulunulan önemli işi, meşguliyeti veya somut durumu bildiren `ش-أ-ن` ismi (`شَأْن`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "10:61",
+          "24:62"
+        ],
+        "text": "İnsanın Yöneldiği İş ve Toplumsal Meşguliyet (`10:61`, `24:62`): Elçinin içinde bulunduğu her önemli işin (`فِى شَأْنٍ`) Allah'ın gözetiminde olması ve inananların ortak işten kendi özel işleri (`لِبَعْضِ شَأْنِهِمْ`) için izin alarak ayrılması."
+      },
+      {
+        "ayahs": [
+          "55:29"
+        ],
+        "text": "Her An Süren İlahi Tasarruf (`55:29`): Göklerde ve yerde herkesin O'ndan istediği, O'nun ise her an ayrı bir iş ve yaratma-yönetme düzeni (`كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ`) içinde oluşu."
+      },
+      {
+        "ayahs": [
+          "80:37"
+        ],
+        "text": "Kişiyi Başkasından Koparan Ağır Meşguliyet (`80:37`): O gün herkesin kendisini tümüyle meşgul edip başkasına bakmasına imkân bırakmayan kendi hâli ve işi (`شَأْنٌ يُغْنِيهِ`)."
+      }
+    ],
+    "context_default": "Önemli iş, yönelim ve meşgul edici somut durum bağlamı"
   }
 }
