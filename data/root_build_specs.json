@@ -60989,5 +60989,37 @@
       }
     ],
     "context_default": "Gecenin karanlığının inmesi ve çekilip sabah eşiğine dönmesi bağlamı"
+  },
+  "ك-ش-ط": {
+    "buckwalter": "k$T",
+    "slug": "kst",
+    "concept_name": "Keşt (Bir Örtüyü veya Deriyi Yüzüp Sıyırarak Kaldırıp Ortadan Çekmek)",
+    "root_latin": "K-SH-T",
+    "keywords": [
+      "kest",
+      "siyirmak",
+      "yuzmek",
+      "gogun siyirilmasi",
+      "ortuyu kaldirmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ku$iTato",
+        "ayahs": [
+          "81:11"
+        ],
+        "label": "Form I edilgen mâzî fiil (`وَإِذَا ٱلسَّمَآءُ كُشِطَتْ` — gök bir örtü/deri gibi sıyrılıp yerinden çekilip kaldırıldığında; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Bir örtüyü veya dış katmanı sıyırıp kaldırarak açığa çıkarmayı bildiren `ك-ش-ط` fiili (`كُشِطَتْ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "81:11"
+        ],
+        "text": "Göğün Örtü Gibi Sıyrılıp Kaldırılması (`81:11`): `81:1-13` kozmik çözülme ve hesap sahnesinde, gök kubbenin bir örtü veya tavan perdesi gibi sıyrılıp çekilmesi (`وَإِذَا ٱلسَّمَآءُ كُشِطَتْ`) ve hemen ardından kızgın ateşin harlanıp esenlik yurdunun yaklaştırılması (`81:12-13`)."
+      }
+    ],
+    "context_default": "Dış örtü veya katmanın sıyrılıp yerinden kaldırılması bağlamı"
   }
 }
