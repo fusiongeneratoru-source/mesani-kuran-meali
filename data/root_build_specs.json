@@ -59923,5 +59923,51 @@
       }
     ],
     "context_default": "Çevresi kuşatılmış, suyla beslenen sık ağaçlı bahçeler bağlamı"
+  },
+  "ص-د-ي": {
+    "buckwalter": "Sdy",
+    "slug": "sdy_sada",
+    "concept_name": "Tasaddî ve Tasdiye (Başını Kaldırıp Birine/Bir Şeye İstekle Yönelmek ve El Çırparak Gürültü Çıkarmak)",
+    "root_latin": "S-D-Y",
+    "keywords": [
+      "tasaddi",
+      "tasdiye",
+      "yonelmek",
+      "ilgi gostermek",
+      "el cirpmak",
+      "gurultu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "taSodiyap",
+        "ayahs": [
+          "8:35"
+        ],
+        "label": "Form II (Tef'îl) masdarı (`مُكَآءً وَتَصْدِيَةً` — Kâbe yanında ıslık çalma ve el çırparak gürültü/engelleme çıkarma; 1 geçiş)"
+      },
+      {
+        "lemma": "taSad~aY`",
+        "ayahs": [
+          "80:6"
+        ],
+        "label": "Form V (Tefa''ul) muzâri fiil (`فَأَنتَ لَهُۥ تَصَدَّىٰ` = `تَتَصَدَّىٰ` — kendini müstağni gören kimseye başını uzatıp istekle yönelmek ve özel ilgi göstermek; 1 geçiş)"
+      }
+    ],
+    "irab_default": "İstekle yönelmeyi (`تَصَدَّىٰ`) veya el çırparak ses/engel çıkarmayı (`تَصْدِيَة`) bildiren `ص-د-ي` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "8:35"
+        ],
+        "text": "Beyt Yanında Islık ve El Çırpma (`8:35`): Mekke'de ortak koşanların Beyt yanındaki yönelişlerinin yalnızca ıslık (`مُكَآءً`) ve el çırpma/engelleme gürültüsü (`تَصْدِيَةً`) olduğunun ifşası."
+      },
+      {
+        "ayahs": [
+          "80:6"
+        ],
+        "text": "Müstağniye Yönelme Uyarısı (`80:6`): Kendini yeterli görüp kibirlenene özel ilgiyle yönelme (`فَأَنتَ لَهُۥ تَصَدَّىٰ`) ile samimiyetle koşup gelenden yüz çevirme arasındaki öncelik eleştirisi."
+      }
+    ],
+    "context_default": "Bir kimseye istekle yönelme veya el çırpıp gürültü çıkarma bağlamı"
   }
 }

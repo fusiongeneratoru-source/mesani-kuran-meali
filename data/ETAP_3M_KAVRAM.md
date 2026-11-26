@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 14 / 50 Kök (Toplam Mühürlü: 864 Kök | Güncel Kapsam: %96,04)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 15 / 50 Kök (Toplam Mühürlü: 865 Kök | Güncel Kapsam: %96,04)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -21,7 +21,7 @@
 | 12 | Sure %100 Kilidi | 888 | `ش-أ-ن` | `S-E-N` | **4** | 4 | 10:61 | Şe'n (İnsanı veya İlahi İdareyi Meşgul Eden Önemli İş, Yönelim ve Somut Durum) | ✅ **MÜHÜRLÜ** |
 | 13 | Sure %100 Kilidi | 1047 | `ع-ب-س` | `A-B-S` | **3** | 3 | 74:22 | Ubûs ve Abûs (Hoşnutsuzluk ve Sıkıntıyla Kaşların Çatılıp Yüzün Asılması) | ✅ **MÜHÜRLÜ** |
 | 14 | Sure %100 Kilidi | 1026 | `ح-د-ق` | `H-D-K` | **3** | 3 | 27:60 | Hadâik (Çevresi Duvar veya Sınırla Kuşatılmış, Sık Ağaçlı ve Göz Alıcı Bahçeler) | ✅ **MÜHÜRLÜ** |
-| 15 | Sure %100 Kilidi | 1114 | `ص-د-ي` | `S-D-Y` | **2** | 2 | 8:35 | Tesaddâ ve Tasdiye (Sure 80 Abese kilidi + 2 geçiş: 8:35, 80:6 ses/el çırpma ve birine özellikle yüzünü çevirip yönelmek) | ⏳ *Bekliyor* |
+| 15 | Sure %100 Kilidi | 1114 | `ص-د-ي` | `S-D-Y` | **2** | 2 | 8:35 | Tasaddî ve Tasdiye (Başını Kaldırıp Birine/Bir Şeye İstekle Yönelmek ve El Çırparak Gürültü Çıkarmak) | ✅ **MÜHÜRLÜ** |
 | 16 | Sure %100 Kilidi | 1594 | `أ-ب-ب` | `E-B-B` | **1** | 1 | 80:31 | Ebb (Sure 80 Abese kilidi: 80:31 hayvanların otlaması için yerden biten taze mera bitkisi) | ⏳ *Bekliyor* |
 | 17 | Sure %100 Kilidi | 1595 | `ص-خ-خ` | `S-H-H` | **1** | 1 | 80:33 | Sâhha (Sure 80 Abese kilidi: 80:33 kulak zarını sarsıp sağır eden şiddetli çarpma/haykırış sesi) | ⏳ *Bekliyor* |
 | 18 | Sure %100 Kilidi | 1593 | `ق-ض-ب` | `K-D-B` | **1** | 1 | 80:28 | Kadb (Sure 80 Abese son kilidi: 80:28 biçilip tekrar yeşeren taze yeşil ot/yonca) | ⏳ *Bekliyor* |
