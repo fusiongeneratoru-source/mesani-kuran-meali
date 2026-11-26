@@ -51578,5 +51578,37 @@
       }
     ],
     "context_default": "Hızlı koşuda yükselen keskin soluma sesi bağlamı"
+  },
+  "ق-د-ح": {
+    "buckwalter": "qdH",
+    "slug": "qdh",
+    "concept_name": "Kadh (Sert Çarpışmayla Kıvılcım ve Ateş Çakmak)",
+    "keywords": [
+      "kivilcim",
+      "cakmak",
+      "kadh",
+      "ates",
+      "carpisma",
+      "sacanlar"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qadoH",
+        "ayahs": [
+          "100:2"
+        ],
+        "label": "Mansûb nekra eril mastar (`فَٱلْمُورِيَٰتِ قَدْحًا` — `ٱلْمُورِيَٰتِ` ism-i fâiline bağlı olarak çakma/vuruş mekaniğini bildiren mansûb mastar; 1 geçiş: 100:2)"
+      }
+    ],
+    "irab_default": "Sert çarpışmayla kıvılcım ve ateş çakmayı bildiren mansûb mastar isim (`ق-د-ح` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "100:2"
+        ],
+        "text": "Sert Çarpışmayla Kıvılcım Çakma Sahnesi (`100:2`): Hızlı koşu soluğunun (`100:1`) hemen ardından sert zemine vurup çakarak kıvılcım fışkırtan (`فَٱلْمُورِيَٰتِ قَدْحًا`) dinamik darbe enerjisini tasvir eder."
+      }
+    ],
+    "context_default": "Sert darbe ve çarpışmayla kıvılcım çakma bağlamı"
   }
 }
