@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (17/50 — Toplam 817 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (18/50 — Toplam 818 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -2145,7 +2145,8 @@
           "ع-د-ل / خ-ي-ر (Üretken Adalet vs Atıl Yük `كَلّ`: 16:76 `هُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ ... لَا يَأْتِ بِخَيْرٍ` vs `يَأْمُرُ بِٱلْعَدْلِ`)",
           "خ-ي-ر (خ-ي-ر ↔ ك-ل-ل Mesânî simetrisi)",
           "ق-د-ر (ق-د-ر ↔ ك-ل-ل Mesânî simetrisi)",
-          "ج-م-ع (ج-م-ع ↔ ك-ل-ل Mesânî simetrisi)"
+          "ج-م-ع (ج-م-ع ↔ ك-ل-ل Mesânî simetrisi)",
+          "س-د-س (Südüs/Sâdis: bütünün altıda bir dilimi ve altıncı basamak ↔ ك-ل-ل bölünmemiş tam bütün ve toplam kütle)"
         ],
         "key_ayahs": [
           "19:95 (وَكُلُّهُمْ ءَاتِيهِ يَوْمَ ٱلْقِيَٰمَةِ فَرْدًا — Herkesin istisnasız (`كُلُّهُمْ`) ama birbirinden bağımsız tekil birey (`فَرْدًا`) olarak gelmesi)",
@@ -68753,6 +68754,91 @@
           "examples": [
             "29:14",
             "70:4"
+          ]
+        }
+      ]
+    },
+    "س-د-س": {
+      "root_latin": "S-D-S",
+      "arabic": "س-د-س",
+      "rank": 779,
+      "morphology_and_rasm": {
+        "buckwalter": "sds",
+        "rasm_skeleton": "سدس (harekesiz iskelet; السدس / سادسهم biçimleriyle 5 kez)",
+        "approx_frequency": "5 geçiş / 4 ayet (3x السُّدُسُ `4:11` [2x], `4:12`; 2x سَادِسُهُمْ `18:22`, `58:7`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "السُّدُس (3 geçiş: `4:11` [2x], `4:12` — altıda bir miras payı)",
+          "سَادِس (2 geçiş: `18:22`, `58:7` — altıncı olan, beşi altıya tamamlayan)"
+        ],
+        "preposition_patterns": [
+          "لِكُلِّ وَاحِدٍ مِّنْهُمَا السُّدُسُ (`4:11`, `4:12`: mülkiyet/hak `لِـ` ile her biri için altıda bir)",
+          "وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ (`58:7`: istisna `إِلَّا` ile beş kişinin her gizli konuşmasında altıncı olmak)"
+        ]
+      },
+      "physical_core": "Bir bütünün altı eşit parçaya bölünmesinden elde edilen bir dilim (`سُدُس`: 1/6) ve beşlinin hemen ardından gelip diziyi altıya tamamlayan altıncı konum (`سَادِس`); morfolojik olarak `سِتَّة` (`س-ت-ت`, Proto-Sami `*šidṯ-`) sayısının benzeşmeden önceki özgün üçlü ünsüz iskeletini (`س-د-س`) korur.",
+      "ibn_faris_asl": "(سَدَسَ) السِّينُ وَالدَّالُ وَالسِّينُ: أَصْلٌ فِي الْعَدَدِ، وَهُوَ قَوْلُهُمُ السُّدْسُ: جُزْءٌ مِنْ سِتَّةٍ. وَسَدَسْتُ الْقَوْمَ: أَخَذْتُ سُدْسَ أَمْوَالِهِمْ؛ وَالسَّادِسُ مِنَ الْعَدَدِ. وَأَصْلُ سِتَّةٍ سِدْسَةٌ، فَأُدْغِمَتِ الدَّالُ فِي السِّينِ وَأُبْدِلَتَا تَاءً. [Mu'cemü Mekâyîsi'l-Luğa, c. 3, s. 151, سدس maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökü doğrudan sayı sistemine (`أَصْلٌ فِي الْعَدَدِ`) bağlar; altıda bir (`سُدْس/سُدُس`) ile altıncıyı (`سَادِس`) verir ve `سِتَّة` sayısının aslının `سِدْسَة` olduğunu fonetik dönüşümle kanıtlar.",
+        "lisan_al_arab": "İbn Manzûr `سُدُس` (altıda bir, `فُعُل` ve `فُعْل` okunuşlarıyla) ve `سَادِس` (beşi altıya tamamlayan altıncı) formlarını kaydeder; devenin altıncı yılda diş değiştirmesine (`سَدِيس`) değin tüm türevlerin 6 sayısından çıktığını gösterir.",
+        "ragib_al_isfahani": "Râğıb `السُّدُس` payını miras dağılımındaki adil kesirler zincirinin (`نِصْف`, `ثُلُث`, `رُبُع`, `سُدُس`, `ثُمُن`) vazgeçilmez birimi olarak, `58:7`'deki `سَادِسُهُمْ` ifadesini de ilahi bilginin her gizli fısıldaşmayı kuşatması olarak çözümler.",
+        "verdict": "Tüm 5 geçişte `س-د-س`, `س-ت-ت` sayısının kesir (`1/6`: miras adaleti) ve sıralama (`6.`: sayısal tamamlama ve ilahi hazır bulunuş) eksenindeki berrak teknik karşılığıdır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*šidṯ- ('altı' — Arapçada kesir ve sıra sayısında orta *d korunduğu için s-d-s, ana sayıda ise benzeşerek s-t-t)",
+        "hebrew": "שִׁשִּׁי (šiššî: altıncı) — İbranicede orta *d tamamen erimiştir; Arapça `سَادِس` ve `سُدُس` bu yönüyle Proto-Sami `*d` sesini koruyan en arkaik tanıklardır.",
+        "aramaic_syriac": "שְׁתִיתָיָא / ܫܬܝܬܝܐ (štîtāyā: altıncı); Eski Güney Arapça (Sabaic) s¹dṯ ('altı', sıra ve kesir formlarında d korunur) ve Ge'ez səds / sādəs ('altıda bir / altıncı'!).",
+        "akkadian": "šeššu / suddušu ('altıncı')",
+        "comparative_note": "Arapça `سُدُس / سَادِس` ile Ge'ez `səds / sādəs` ve Sabaic `s¹dṯ` arasındaki birebir uyum, Proto-Sami '6' sayısının özgün orta harfinin `*d` olduğunu ispatlayan ders kitabı niteliğinde bir Sami filolojisi bulgusudur."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ك-ل-ل (Bölünmemiş tam bütün ve mirasın/varlığın tümü ↔ سُدُس bütünün yalnızca altıda birlik kesir payı — `4:11`, `4:12`)"
+        ],
+        "bidirectional_test": "Bir bütünün altıda birlik payı (`س-د-س`) tersine çevrildiğinde paylaştırılmamış tam bütün (`ك-ل-ل`) ortaya çıkar; miras ayetlerindeki kesir paylaşım mekanizması tam bu bütün-parça ekseninde işler."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "س-ت-ت",
+          "خ-م-س",
+          "ث-ل-ث",
+          "ر-ب-ع",
+          "ن-ص-ف",
+          "ث-م-ن"
+        ],
+        "analysis": "`4:11-12`'de miras kesirleri tam bir matematiksel harmoni kurar: `نِصْف` (1/2), `ثُلُث` (1/3), `رُبُع` (1/4), `سُدُس` (1/6) ve `ثُمُن` (1/8) — her biri hak sahiplerinin yakınlık derecesine göre kesin oran belirler. `18:22` ve `58:7`'de ise `خَمْسَة` (`خ-م-س`) ile `سَادِسُهُمْ` (`س-د-س`) 5 → 6 ardışık basamağını kurar."
+      },
+      "anchor_ayahs": [
+        "4:11 (وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ — eğer çocuğu varsa, anne ve babasının her birine bıraktığının altıda biri düşer)",
+        "4:12 (فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ — [kelâle halinde] o iki kardeşin her birine altıda bir düşer)",
+        "18:22 (وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ — karanlığa taş atarcasına 'beştirler, altıncıları köpekleridir' derler)",
+        "58:7 (وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ — beş kişinin gizli konuşması olmaz ki altıncıları O olmasın)"
+      ],
+      "unified_core_mechanism": "`س-د-س` kökü 5 geçişinin tamamında **'altı sayısının kesir (1/6) ve sıra (6.) eksenindeki kesin bölüşüm/tamamlama işlevi'** mekanizmasını işletir: miras hukukunda adil pay dilimi (`السُّدُسُ`: 3x), sayısal dizide ise beşliyi altıya tamamlayan unsur (`سَادِسُهُمْ`: 2x).",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Altıda Bir Miras Kesri (`السُّدُسُ` — 3 geçiş: `4:11` [2x], `4:12`): Anne-baba ve kelâle kardeşleri için belirlenmiş 1/6 miras payı.",
+          "Dal 2 — Altıncı Sıra Konumu (`سَادِسُهُمْ` — 2 geçiş: `18:22`, `58:7`): Beşli gruba eklenen altıncı üye/tanık."
+        ],
+        "irab_notes": "`السُّدُسُ` her üç geçişinde de mukaddem haberden sonra gelen muahhar mübtedâ olarak merfûdur. `سَادِسُهُمْ` (`فَاعِل` kalıbında sıra sayısı) `18:22`'de mukaddem haber (veya mübtedâ), `58:7`'de ise `هُوَ` mübtedâsının haberi olarak merfûdur."
+      },
+      "derivatives": [
+        {
+          "form": "السُّدُس",
+          "pos": "Kesir İsmi",
+          "meaning": "Altıda bir pay (miras hukuku)",
+          "examples": [
+            "4:11",
+            "4:12"
+          ]
+        },
+        {
+          "form": "سَادِس",
+          "pos": "Sıra Sayısı",
+          "meaning": "Altıncı (beşi altıya tamamlayan)",
+          "examples": [
+            "18:22",
+            "58:7"
           ]
         }
       ]

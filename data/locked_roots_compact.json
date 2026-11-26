@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 817,
+    "total_locked": 818,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -361,7 +361,8 @@
         "ع-د-ل / خ-ي-ر (Üretken Adalet vs Atıl Yük `كَلّ`: 16:76 `هُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ ... لَا يَأْتِ بِخَيْرٍ` vs `يَأْمُرُ بِٱلْعَدْلِ`)",
         "خ-ي-ر (خ-ي-ر ↔ ك-ل-ل Mesânî simetrisi)",
         "ق-د-ر (ق-د-ر ↔ ك-ل-ل Mesânî simetrisi)",
-        "ج-م-ع (ج-م-ع ↔ ك-ل-ل Mesânî simetrisi)"
+        "ج-م-ع (ج-م-ع ↔ ك-ل-ل Mesânî simetrisi)",
+        "س-د-س (Südüs/Sâdis: bütünün altıda bir dilimi ve altıncı basamak ↔ ك-ل-ل bölünmemiş tam bütün ve toplam kütle)"
       ]
     },
     "ع-م-ل": {
@@ -10391,6 +10392,14 @@
       "physical": "Bir elin beş parmağıyla somutlaşan temel nicelik (`خَمْسَة`), o bütünün beşte birlik dilimi (`خُمُس`), sıralamada beşinci halka (`خَامِسَة`) ve on katıyla elli (`خَمْسِينَ`); Kur'an bu temel sayı kökünün dört biçimini (adet, kesir, sıra, onluk) ekonomik bölüşüm, hukuki tanıklık, tarihsel süre ve gözetim bağlamlarında tam bir hassasiyetle işletir.",
       "opposites": [
         "و-ح-د (Tekil tam bütün ↔ خَمْسَة beşli çokluk ve خُمُس bütünün beşte birlik dilimi)"
+      ]
+    },
+    "س-د-س": {
+      "latin": "S-D-S",
+      "core": "`س-د-س` kökü 5 geçişinin tamamında **'altı sayısının kesir (1/6) ve sıra (6.) eksenindeki kesin bölüşüm/tamamlama işlevi'** mekanizmasını işletir: miras hukukunda adil pay dilimi (`السُّدُسُ`: 3x), sayısal dizide ise beşliyi altıya tamamlayan unsur (`سَادِسُهُمْ`: 2x).",
+      "physical": "Bir bütünün altı eşit parçaya bölünmesinden elde edilen bir dilim (`سُدُس`: 1/6) ve beşlinin hemen ardından gelip diziyi altıya tamamlayan altıncı konum (`سَادِس`); morfolojik olarak `سِتَّة` (`س-ت-ت`, Proto-Sami `*šidṯ-`) sayısının benzeşmeden önceki özgün üçlü ünsüz iskeletini (`س-د-س`) korur.",
+      "opposites": [
+        "ك-ل-ل (Bölünmemiş tam bütün ve mirasın/varlığın tümü ↔ سُدُس bütünün yalnızca altıda birlik kesir payı — `4:11`, `4:12`)"
       ]
     }
   }

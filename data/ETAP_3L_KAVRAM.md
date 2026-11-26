@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 17 / 50 Kök (Toplam Mühürlü: 817 Kök | Güncel Kapsam: %95,57)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 18 / 50 Kök (Toplam Mühürlü: 818 Kök | Güncel Kapsam: %95,58)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -24,7 +24,7 @@
 | 15 | Sure %100 Kilidi | 1511 | `ن-ب-ز` | `N-B-Z` | **1** | 1 | 49:11 | Tenâbüz (Karşılıklı Kötüleyici Lakap Takışmak ve Aşağılayıcı Damgayla Hitap Etmek) | ✅ **MÜHÜRLÜ** |
 | 16 | Sure %100 Kilidi | 652 | `س-ت-ت` | `S-T-T` | **8** | 8 | 7:54 | Sitte ve Sittîn (Altı Kozmik Evre ve Altmış Kişilik Toplumsal Doyurma Ölçüsü) | ✅ **MÜHÜRLÜ** |
 | 17 | Sure %100 Kilidi | 641 | `خ-م-س` | `H-M-S` | **8** | 8 | 3:125 | Hamse, Humus, Hâmise ve Hamsîn (Beş, Beşte Bir Pay, Beşinci Tanıklık ve Elli Ölçüsü) | ✅ **MÜHÜRLÜ** |
-| 18 | Sure %100 Kilidi | 779 | `س-د-س` | `S-D-S` | **5** | 4 | 4:11 | Sâdis ve Südüs (Sure 58 Mücâdele kilidi + 5 geçiş: 4:11, 4:12, 18:22, 58:7 altıncı ve miras paylaşımındaki altıda bir hisse) | ⏳ *Bekliyor* |
+| 18 | Sure %100 Kilidi | 779 | `س-د-س` | `S-D-S` | **5** | 4 | 4:11 | Südüs ve Sâdis (Miras Paylaşımında Altıda Bir Kesir ve Sıralamada Altıncı Konum) | ✅ **MÜHÜRLÜ** |
 | 19 | Sure %100 Kilidi | 985 | `ش-ك-و` | `S-K-W` | **3** | 3 | 12:86 | Şekvâ, Teştekî ve Mişkât (Sure 58 Mücâdele kilidi + 3 geçiş: 12:86, 24:35, 58:1 içindeki derdi/haksızlığı açıp yakarmak ve duvardaki ışık oyuğu) | ⏳ *Bekliyor* |
 | 20 | Sure %100 Kilidi | 1044 | `ف-س-ح` | `F-S-H` | **3** | 1 | 58:11 | Tefessüh ve Fesh (Sure 58 Mücâdele kilidi + 3 geçiş: 58:11 darlığı giderip oturumda başkalarına yer açmak ve gönül genişliği) | ⏳ *Bekliyor* |
 | 21 | Sure %100 Kilidi | 944 | `ك-ب-ت` | `K-B-T` | **3** | 2 | 3:127 | Kebt (Sure 58 Mücâdele kilidi + 3 geçiş: 3:127, 58:5 öfkeyle yüzüstü bastırıp bozguna ve alçalmaya uğratmak) | ⏳ *Bekliyor* |

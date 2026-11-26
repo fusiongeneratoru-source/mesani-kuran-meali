@@ -57446,5 +57446,55 @@
       }
     ],
     "context_default": "Beş, beşte bir, beşinci ve elli sayısal/hukuki ölçüsü bağlamı"
+  },
+  "س-د-س": {
+    "buckwalter": "sds",
+    "slug": "sds",
+    "concept_name": "Südüs ve Sâdis (Miras Paylaşımında Altıda Bir Kesir ve Sıralamada Altıncı Konum)",
+    "root_latin": "S-D-S",
+    "keywords": [
+      "sudus",
+      "sadis",
+      "altida bir",
+      "altinci",
+      "miras payi",
+      "ilahi gozetim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "s~udus",
+        "ayahs": [
+          "4:11",
+          "4:12"
+        ],
+        "label": "Kesir ismi (`السُّدُسُ` — miras hukukunda anne-babaya ve kelâle kardeşlere düşen altıda bir pay; 3 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "saAdis",
+        "ayahs": [
+          "18:22",
+          "58:7"
+        ],
+        "label": "Sıra sayısı (`سَادِسُهُمْ` — beş kişilik grubu altıya tamamlayan altıncı unsur; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Altıda bir kesir payını veya altıncı sırayı bildiren `س-د-س` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:11",
+          "4:12"
+        ],
+        "text": "Miras Hukukunda Altıda Bir Pay (`4:11` [2x], `4:12`): Çocuk varsa anne ve babanın her birine (`4:11`), kardeşler varsa anneye (`4:11`) ve kelâle halinde bir erkek veya kız kardeşe düşen kesin `السُّدُسُ` (1/6) hakkı."
+      },
+      {
+        "ayahs": [
+          "18:22",
+          "58:7"
+        ],
+        "text": "Beşliye Eklenen Altıncı (`18:22`, `58:7`): Mağara arkadaşları hakkında 'beştirler, altıncıları köpekleridir' tahmini (`18:22`) ve beş kişinin gizli konuşmasında her an hazır olan altıncı olarak Allah (`58:7`)."
+      }
+    ],
+    "context_default": "Altıda bir miras kesri ve altıncı sıra konumu bağlamı"
   }
 }
