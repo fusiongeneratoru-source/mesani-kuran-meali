@@ -56767,5 +56767,54 @@
       }
     ],
     "context_default": "Kırıp ufalayarak kökten yıkım bağlamı"
+  },
+  "د-ر-ر": {
+    "buckwalter": "drr",
+    "slug": "drr",
+    "concept_name": "Midrâr ve Dürrî (Kesintisiz Bol Akış / Bereketli Yağmur ve İnci Gibi Duru Parıltı)",
+    "root_latin": "D-R-R",
+    "keywords": [
+      "midrar",
+      "durri",
+      "bol yagmur",
+      "inci pariltisi",
+      "kesintisiz akis"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "m~idoraAr",
+        "ayahs": [
+          "6:6",
+          "11:52",
+          "71:11"
+        ],
+        "label": "Mansûb hâl/mübalağa sıfatı (`مِّدْرَارًا` — gökten kesintisiz ve bolca boşalan yağmur; 3 geçiş)"
+      },
+      {
+        "lemma": "dur~iY~",
+        "ayahs": [
+          "24:35"
+        ],
+        "label": "Merfû nispet sıfatı (`كَوْكَبٌ دُرِّىٌّ` — inci gibi saf ve duru parıldayan yıldız; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Kesintisiz bol akış ve inci parıltısı bildiren `د-ر-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:6",
+          "11:52",
+          "71:11"
+        ],
+        "text": "Kesintisiz ve Bol Yağmur Bereketi (`6:6`, `11:52`, `71:11`): Gökten aralıksız akışla (`مِدْرَارًا`) yağmur indirilmesi."
+      },
+      {
+        "ayahs": [
+          "24:35"
+        ],
+        "text": "İnci Gibi Saf Parıltı (`24:35`): Işık temsilinde billur fanusun inci berraklığında parlayan yıldıza (`كَوْكَبٌ دُرِّىٌّ`) benzetilmesi."
+      }
+    ],
+    "context_default": "Kesintisiz bol akış ve duru parıltı bağlamı"
   }
 }
