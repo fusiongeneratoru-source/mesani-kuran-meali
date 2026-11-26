@@ -53996,5 +53996,53 @@
       }
     ],
     "context_default": "Kırılma ve ağır yıkım bağlamı"
+  },
+  "ط-ب-ق": {
+    "buckwalter": "Tbq",
+    "slug": "tbq",
+    "concept_name": "Tabak / Tıbâk (Tam Örtüşen Katman ve Ardışık Varoluş Evresi)",
+    "keywords": [
+      "tabak",
+      "tibak",
+      "tabakan an tabak",
+      "katman",
+      "ortusme",
+      "evre",
+      "yedi gok"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Tabaq",
+        "ayahs": [
+          "67:3",
+          "71:15"
+        ],
+        "label": "Mansub çoğul/masdar sıfat (`طِبَاقًا` — `سَبْعَ سَمَٰوَٰتٍ` sıfatı: tam örtüşen uyumlu katmanlar hâlinde; 2 geçiş)"
+      },
+      {
+        "lemma": "Tabaq",
+        "ayahs": [
+          "84:19"
+        ],
+        "label": "Mansub ve mecrûr tekil isim (`طَبَقًا عَن طَبَقٍ` — mef'ûlün bih + câr-mecrûr sıfat: bir aşamadan öteki aşamaya; 2 geçiş: 84:19)"
+      }
+    ],
+    "irab_default": "Tam örtüşen katman veya ardışık evre bildiren `ط-ب-ق` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "67:3",
+          "71:15"
+        ],
+        "text": "Uyumlu Kozmik Katmanlar (`67:3`, `71:15`): Yedi göğün dengesizlik (`تَفَاوُت`) ve çatlak (`فُطُور`) olmaksızın üst üste tam örtüşen katmanlar hâlinde yaratılması."
+      },
+      {
+        "ayahs": [
+          "84:19"
+        ],
+        "text": "Ardışık Varoluş Evreleri (`84:19`): Şafak, gece ve dolunay antlarının ardından insanın bir hâlden/katmandan başka bir hâle kesin olarak geçeceğinin bildirilmesi."
+      }
+    ],
+    "context_default": "Tam örtüşen katman ve evre bağlamı"
   }
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 753,
+    "total_locked": 754,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -3496,7 +3496,8 @@
         "ف-و-ت [مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ ... هَلْ تَرَىٰ مِن فُطُورٍ] (Kusursuz Bütüncül Uyum ↔ Çatlak, Yarık ve Uyumsuzluk: 67:3)",
         "ش-ر-ك [وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ حَنِيفًا وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ] (Gökleri ve Yeri İlk Başlatana Yönelmek ↔ Yetkisiz Ortaklar Uydurmak: 6:79, 6:14, 12:101)",
         "ج-ع-ل (C-A-L — Çift Yönlü Mesânî Karşılığı: 6:1, 25:54, 42:11, 67:23)",
-        "ش-ق-ق (Ş-K-K ($qq) — Çift Yönlü Mesânî Karşılığı: 80:26, 2:74, 4:35, 16:7)"
+        "ش-ق-ق (Ş-K-K ($qq) — Çift Yönlü Mesânî Karşılığı: 80:26, 2:74, 4:35, 16:7)",
+        "ط-ب-ق (T-B-Q (Tbq) — Çift Yönlü Mesânî Karşılığı: `67:3` [طِبَاقًا ... هَلْ تَرَىٰ مِن فُطُورٍ] — kesintisiz örtüşen katman bütünlüğü `طِبَاقًا` ↔ çatlak ve yarık `فُطُور`)"
       ]
     },
     "خ-ش-ع": {
@@ -7770,7 +7771,8 @@
         "أ-خ-ذ",
         "ف-ط-ر",
         "ث-ق-ف",
-        "ل-ح-ق (L-H-K (lHq) — Çift Yönlü Mesânî Karşılığı: 3:170, 62:3)"
+        "ل-ح-ق (L-H-K (lHq) — Çift Yönlü Mesânî Karşılığı: 3:170, 62:3)",
+        "ط-ب-ق (T-B-Q (Tbq) — Çift Yönlü Mesânî Karşılığı: `67:3` [سَبْعَ سَمَٰوَٰتٍ طِبَاقًا مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ] — birbiriyle tam örtüşen denk katmanlar `طِبَاقًا` ↔ ölçüsüzlük ve dengesizlik `تَفَاوُت`)"
       ]
     },
     "خ-و-ي": {
@@ -9708,6 +9710,15 @@
         "ف-ل-ح (F-L-H — Çift Yönlü Mesânî Karşılığı: `25:13-14`, `84:11` — kırılıp yıkıma ve bozguna düşmek `ثُبُور` ↔ toprağı yarıp verime, kurtuluşa ve başarıya ermek `فَلَاح`)",
         "ن-ج-و (N-J-W — Çift Yönlü Mesânî Karşılığı: `17:102`, `25:13-14` — kırılıp helake sürüklenmek `مَثْبُور / ثُبُور` ↔ tehlikeden sıyrılıp kurtuluşa çıkmak `نَجَاة`)",
         "ف-و-ز (F-W-Z — Çift Yönlü Mesânî Karşılığı: `84:7-12` — kitabını arkasından alıp yıkım çağırmak `فَسَوْفَ يَدْعُوا۟ ثُبُورًا` ↔ ağır hesap ve yıkımdan sıyrılıp büyük başarıya ulaşmak `فَوْز`)"
+      ]
+    },
+    "ط-ب-ق": {
+      "latin": "T-B-Q (Tbq)",
+      "core": "`ط-ب-ق` kökü Kur'an'daki 4 geçişinin tamamında **'bir yüzeyin veya yapının dengi üzerine tam örtüşerek uyumlu katman ya da ardışık evre oluşturması'** mekaniğini işletir. Uzamsal düzlemde çatlak ve dengesizlik barındırmayan yedi gök katmanını (`67:3`, `71:15`), zamansal-varoluşsal düzlemde ise insanın bir evreyi geride bırakıp bir sonraki evreye kaçınılmaz biçimde geçişini (`84:19`) ifade eder.",
+      "physical": "Yayvan bir yüzeyin veya yapının **kendi dengi başka bir yüzeyin üzerine tam örtüşecek biçimde konması ve üst üste katman oluşturması (`وَضْعُ شَيْءٍ مَبْسُوطٍ عَلَى مِثْلِهِ حَتَّى يُغَطِّيَهُ`)** — hem yedi göğün çatlak ve uyumsuzluk olmaksızın birbiriyle tam örtüşen katmanları (`طِبَاقًا`, `67:3`, `71:15`), hem de insanın varoluş yolculuğunda bir evreyi örtüp aşarak bir sonraki evreye geçmesi (`طَبَقًا عَن طَبَقٍ`, `84:19`).",
+      "opposites": [
+        "ف-و-ت (F-W-T — Çift Yönlü Mesânî Karşılığı: `67:3` [خَلَقَ سَبْعَ سَمَٰوَٰتٍ طِبَاقًا مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ] — aynı ayette doğrudan zıtlık: birbiriyle tam örtüşen denk katmanlar `طِبَاقًا` ↔ ölçüsüzlük, boşluk ve dengesizlik `تَفَاوُت`)",
+        "ف-ط-ر (F-T-R — Çift Yönlü Mesânî Karşılığı: `67:3` [طِبَاقًا ... هَلْ تَرَىٰ مِن فُطُورٍ] — aynı ayette kozmik karşıtlık: kesintisiz tam örtüşen katman bütünlüğü `طِبَاقًا` ↔ çatlak, yarık ve yırtık `فُطُور`)"
       ]
     }
   }

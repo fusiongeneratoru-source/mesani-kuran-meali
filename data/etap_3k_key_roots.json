@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3K (+5 Sure %100 Tam Kilidi [Sure 84, 86, 90, 91, 45 -> 40 Sure], Kalan Tüm 2+ Açık Mesânî Tepe Uçları ve 12–11 Geçişli Çekirdek Kökler — 50 Kök -> 800 Kök)",
   "target_count": 50,
-  "locked_count": 3,
+  "locked_count": 4,
   "total_tokens_in_package": 308,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 94.86,
+  "current_coverage_pct": 94.87,
   "target_coverage_pct": 95.43,
   "etap_3k_roots": [
     {
@@ -74,8 +74,8 @@
       "frequency": 4,
       "unique_ayahs": 3,
       "rationale": "Tıbâk ve Tabak (Sure 84 İnşikâk kilidi + 4 geçiş: 67:3, 71:15, 84:19 birbirine tam oturan katmanlar ve bir hâlden başka bir hâle geçiş)",
-      "concept_label": "Analiz Bekliyor (Tabaq)",
-      "is_locked": false,
+      "concept_label": "Tabak / Tıbâk (Tam Örtüşen Katman ve Ardışık Varoluş Evresi)",
+      "is_locked": true,
       "sample_ayah": "67:3",
       "top_lemmas": [
         "Tabaq"
