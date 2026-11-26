@@ -57855,5 +57855,54 @@
       }
     ],
     "context_default": "Zahmetsiz, gönül rahatlığı ve afiyetle sindirilen nimet bağlamı"
+  },
+  "م-ه-ن": {
+    "buckwalter": "mhn",
+    "slug": "mhn_mahin",
+    "concept_name": "Mehîn (Dıştan Bakınca Değersiz, Zayıf ve Önemsiz Görünen Su Damlası; Bayağı ve Aşağılık Karakter)",
+    "root_latin": "M-H-N",
+    "keywords": [
+      "mehin",
+      "degersiz",
+      "zayif su",
+      "bayagi",
+      "hakir",
+      "kucumsenen"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "m~ahiyn",
+        "ayahs": [
+          "32:8",
+          "43:52",
+          "68:10",
+          "77:20"
+        ],
+        "label": "Sıfat-ı müşebbehe (`مَهِين` — dış görünüşü zayıf/önemsiz sayılan su özü ve ahlaken bayağı/değersiz kişi; 4 geçiş)"
+      }
+    ],
+    "irab_default": "Zayıflık, sıradanlık ve değersizliği/bayağılığı bildiren `م-ه-ن` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "32:8",
+          "77:20"
+        ],
+        "text": "İnsanın Biyolojik Başlangıcındaki Mütevazı Sıvı (`32:8`, `77:20`): Kibirlenen insana, ilk yaratılış özünün dıştan bakınca zayıf, basit ve önemsiz görünen bir su (`مَاءٍ مَهِينٍ`) olduğunun hatırlatılması."
+      },
+      {
+        "ayahs": [
+          "43:52"
+        ],
+        "text": "Firavun'un Mûsâ'yı Küçümsemesi (`43:52`): Gösterişli iktidarına güvenen Firavun'un, Mûsâ'yı kibirle 'güçsüz, değersiz ve meramını bile anlatamayan' (`هَٰذَا الَّذِي هُوَ مَهِينٌ`) diye aşağılaması."
+      },
+      {
+        "ayahs": [
+          "68:10"
+        ],
+        "text": "Ahlaki Bayağılık (`68:10`): Durmadan and savuran, karakteri ucuz ve bayağı kimseye (`كُلَّ حَلَّافٍ مَهِينٍ`) boyun eğmeme uyarısı."
+      }
+    ],
+    "context_default": "Dıştan zayıf/önemsiz görünen başlangıç veya bayağı/değersiz karakter bağlamı"
   }
 }
