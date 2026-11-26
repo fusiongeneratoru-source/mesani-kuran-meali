@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 21 / 50 Kök (Toplam Mühürlü: 721 Kök | Güncel Kapsam: %94,41)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 22 / 50 Kök (Toplam Mühürlü: 722 Kök | Güncel Kapsam: %94,42)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -28,7 +28,7 @@
 | 19 | Sure %100 Kilidi | 1628 | `ن-ق-ع` | `N-K-A` | **1** | 1 | 100:4 | Nak' (Şiddetli Hareketle Koparılıp Göğe Savrulan Yoğun Toz Bulutu) | ✅ **MÜHÜRLÜ** |
 | 20 | Sure %100 Kilidi | 602 | `ب-ث-ث` | `B-S-S` | **9** | 9 | 2:164 | Bess (Dört Bir Yana Yayıp Dağıtmak / İçte Tutulamayıp Dışa Saçılan Keder) | ✅ **MÜHÜRLÜ** |
 | 21 | Sure %100 Kilidi | 649 | `ع-ي-ش` | `A-Y-S` | **8** | 8 | 7:10 | Ayş / Maîşet (Geçim Vasıtalarıyla Sürdürülen Yaşam Düzeni ve Dirlik Hâli) | ✅ **MÜHÜRLÜ** |
-| 22 | Sure %100 Kilidi | 722 | `ح-م-ي` | `H-M-Y` | **6** | 5 | 5:103 | Hamiyye ve Hâmiye (Sure 101 Kâria & 88 Ğâşiye kilidi | 1M + 6 geçiş: 5:103, 9:35, 48:26, 88:4, 101:11 kızışıp kor hâline gelmek ve koruyucu taşkınlık) | ⏳ *Bekliyor* |
+| 22 | Sure %100 Kilidi | 722 | `ح-م-ي` | `H-M-Y` | **6** | 5 | 5:103 | Hamy / Hamiyye (Kor Derecede Kızışmak; Dokunulmaz Kılıp Yasaklamak ve Taşkın Öfke Ateşi) | ✅ **MÜHÜRLÜ** |
 | 23 | Sure %100 Kilidi | 695 | `ف-ر-ش` | `F-R-S` | **6** | 6 | 2:22 | Firâş ve Ferâş (Sure 101 Kâria kilidi | 1M+2F + 6 geçiş: 2:22, 6:142, 51:48, 55:54, 56:34, 101:4 yere serilen döşek ve yayılmış pervaneler) | ⏳ *Bekliyor* |
 | 24 | Sure %100 Kilidi | 1237 | `ع-ه-ن` | `A-H-N` | **2** | 2 | 70:9 | Ihn (Sure 101 Kâria kilidi + 2 geçiş: 70:9, 101:5 renk renk boyanıp dağılmış ince yün lifleri) | ⏳ *Bekliyor* |
 | 25 | Sure %100 Kilidi | 1178 | `ن-ف-ش` | `N-F-S` | **2** | 2 | 21:78 | Nefş ve Menfûş (Sure 101 Kâria son kilidi + 2 geçiş: 21:78, 101:5 geceleyin dağılıp yayılmak ve atılıp kabartılmış yün) | ⏳ *Bekliyor* |
