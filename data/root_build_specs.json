@@ -57496,5 +57496,59 @@
       }
     ],
     "context_default": "Altıda bir miras kesri ve altıncı sıra konumu bağlamı"
+  },
+  "ش-ك-و": {
+    "buckwalter": "$kw",
+    "slug": "skw",
+    "concept_name": "Şekvâ, İştikâ ve Mişkât (İçteki Acı ve Haksızlığı Gidermesi İçin Allah'a Arz Etmek; Duvardaki Lamba Yuvası)",
+    "root_latin": "S-K-W",
+    "keywords": [
+      "sekva",
+      "istika",
+      "miskat",
+      "sikayet",
+      "aci arz etmek",
+      "lamba yuvasi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">a$okuwA@",
+        "ayahs": [
+          "12:86"
+        ],
+        "label": "Form I muzâri fiil (`أَشْكُو` — içteki derin acı ve kederi yalnızca Allah'a arz etmek; 1 geçiş)"
+      },
+      {
+        "lemma": "ta$otakiY^",
+        "ayahs": [
+          "58:1"
+        ],
+        "label": "Form VIII muzâri fiil (`تَشْتَكِي` — uğradığı haksızlıktan kaynaklanan derdini içtenlikle Allah'a sunmak; 1 geçiş)"
+      },
+      {
+        "lemma": "mi$okaw`p",
+        "ayahs": [
+          "24:35"
+        ],
+        "label": "İsim (`كَمِشْكَاةٍ` — duvarın içine oyulmuş, kandili toplayıp yansıtan kapalı lamba yuvası/niş; 1 geçiş)"
+      }
+    ],
+    "irab_default": "İçteki acıyı/derdi dile getirip arz etmeyi veya lamba nişini bildiren `ش-ك-و` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:86",
+          "58:1"
+        ],
+        "text": "Derdini Yalnızca Allah'a Arz Etmek (`12:86`, `58:1`): Yakûb'un taşan kederini yalnızca Allah'a sunması (`إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ`) ve kocası konusunda hak arayan kadının doğrudan Allah'a derdini açması (`تَشْتَكِي إِلَى اللَّهِ`)."
+      },
+      {
+        "ayahs": [
+          "24:35"
+        ],
+        "text": "Işığı Odaklayan Duvar Yuvası (`24:35`): Işık benzetmesinde (`نُور`) kandilin yerleştirildiği, arkası kapalı olduğu için ışığı dağıtmayıp öne yansıtan duvar nişi (`مِشْكَاة`)."
+      }
+    ],
+    "context_default": "Acıyı/derdi Allah'a arz etme ve ışığı toplayan duvar yuvası bağlamı"
   }
 }
