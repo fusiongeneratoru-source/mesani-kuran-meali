@@ -52369,5 +52369,38 @@
       }
     ],
     "context_default": "Ayırt edici izi, görüşü veya parıltıyı silme bağlamı"
+  },
+  "ث-ب-ط": {
+    "buckwalter": "vbT",
+    "slug": "vbt",
+    "concept_name": "Tesbît / Sebbata (Harekete Kalkışmaktan Ağırlaştırıp Oyalayarak Geride Alıkoymak)",
+    "keywords": [
+      "tesbit",
+      "sebbata",
+      "alikoymak",
+      "agirlastirmak",
+      "geride birakmak",
+      "oyalamak",
+      "ivmeyi kirmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "vab~aTa",
+        "ayahs": [
+          "9:46"
+        ],
+        "label": "Form II (Tef'îl) malum mâzi 3. tekil eril fiil (`فَثَبَّطَهُمْ` — `فَ` sebebiyet harfiyle `كَرِهَ` cümlesine ma'tûf, mef'ûl bih `ـهُمْ`; 1 geçiş: 9:46)"
+      }
+    ],
+    "irab_default": "Harekete geçmekten oyalayıp ağırlaştırarak alıkoyma bildiren Form II fiil (`ث-ب-ط` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:46"
+        ],
+        "text": "Hazırlıksız Kalkışmanın Geride Bırakılması (`9:46`): Gerçek bir çıkış iradesi ve hazırlığı (`عُدَّةً`) taşımayanların harekete kalkışmasının (`ٱنۢبِعَاثَهُمْ`) istenmeyip ağırlaştırılarak alıkonması (`فَثَبَّطَهُمْ`) ve geride oturanlarla bırakılması."
+      }
+    ],
+    "context_default": "Harekete kalkışmaktan alıkonulup geride bırakılma bağlamı"
   }
 }

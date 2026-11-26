@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 730 Kök | Güncel Kapsam: %94,49)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 31 / 50 Kök (Toplam Mühürlü: 731 Kök | Güncel Kapsam: %94,49)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -37,7 +37,7 @@
 | 28 | Sure %100 Kilidi | 928 | `ك-و-ب` | `K-W-B` | **4** | 4 | 43:71 | Kûb / Ekvâb (Kulpsuz ve Emziksiz Yuvarlak Ağızlı İçme Kadehi) | ✅ **MÜHÜRLÜ** |
 | 29 | Sure %100 Kilidi | 1610 | `س-ط-ح` | `S-T-H` | **1** | 1 | 88:20 | Sath / Sutiha (Yatay Eksende Genişçe Yayıp Düz Bir Yüzey Hâline Getirmek) | ✅ **MÜHÜRLÜ** |
 | 30 | Açık Mesânî Zırhı | 782 | `ط-م-س` | `T-M-S` | **5** | 5 | 4:47 | Tams (Ayırt Edici İzi, Biçimi, Görüşü veya Parıltıyı Silip Dümdüz Etmek) | ✅ **MÜHÜRLÜ** |
-| 31 | Açık Mesânî Zırhı | 1327 | `ث-ب-ط` | `S-B-T` | **1** | 1 | 9:46 | Tesbît (3 açık Mesânî ref: ب-ع-ث, س-ر-ع, ع-د-د! 9:46 harekete geçmekten alıkoyup ağırlaştırarak geri bırakmak) | ⏳ *Bekliyor* |
+| 31 | Açık Mesânî Zırhı | 1327 | `ث-ب-ط` | `S-B-T` | **1** | 1 | 9:46 | Tesbît / Sebbata (Harekete Kalkışmaktan Ağırlaştırıp Oyalayarak Geride Alıkoymak) | ✅ **MÜHÜRLÜ** |
 | 32 | Açık Mesânî Zırhı | 885 | `غ-و-ر` | `G-W-R` | **4** | 4 | 9:40 | Ğâr ve Ğavr (2 açık Mesânî ref: ع-ي-ن, م-و-ه! 4 geçiş: 9:40, 9:57, 18:41, 67:30 suyun dibe çekilip kaybolması ve sığınılan derin mağara) | ⏳ *Bekliyor* |
 | 33 | Açık Mesânî Zırhı | 834 | `ز-ل-ل` | `Z-L-L` | **4** | 4 | 2:36 | Zelle ve İstizlâl (2 açık Mesânî ref: ث-ب-ت, ق-د-م! 4 geçiş: 2:36, 2:209, 3:155, 16:94 sağlam zeminden ayağın kayıp sendelemesi) | ⏳ *Bekliyor* |
 | 34 | Açık Mesânî Zırhı | 1125 | `غ-ي-ض` | `G-Y-D` | **2** | 2 | 11:44 | Ğayd ve Tağîdu (2 açık Mesânî ref: ز-ي-د, ن-ه-ر! 2 geçiş: 11:44, 13:8 suyun veya rahimdeki birikimin eksilip çekilmesi) | ⏳ *Bekliyor* |

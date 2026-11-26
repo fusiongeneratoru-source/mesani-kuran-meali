@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 730,
+    "total_locked": 731,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1060,7 +1060,8 @@
         "أ-و-ي [فَمَأْوَىٰهُمُ ٱلنَّارُ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا] (Dışarı Çıkmak ↔ İçine Kapanılan Kalıcı Barınağa Dönmek: 32:20)",
         "م-د-ن (م-د-ن ↔ خ-ر-ج Mesânî simetrisi)",
         "ب-و-أ (ب-و-أ ↔ خ-ر-ج Mesânî simetrisi)",
-        "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 16:29, 39:72, 40:76 [ٱدْخُلُوٓا۟ أَبْوَٰبَ ... فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ — bir yerden dışarı çıkıp ayrılmak ↔ içine girilip kalıcı kalınan konak])"
+        "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 16:29, 39:72, 40:76 [ٱدْخُلُوٓا۟ أَبْوَٰبَ ... فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ — bir yerden dışarı çıkıp ayrılmak ↔ içine girilip kalıcı kalınan konak])",
+        "ث-ب-ط (V-B-T (vbT) — Çift Yönlü Mesânî Karşılığı: `9:46` [وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ ... فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟] — kararlılıkla dışarı/sefere çıkmak `ٱلْخُرُوجَ` ↔ yerinde alıkonup oturanlarla kalmak `فَثَبَّطَهُمْ`)"
       ]
     },
     "ص-ل-ح": {
@@ -9429,6 +9430,17 @@
         "ن-ج-م (N-C-M (njm) — Çift Yönlü Mesânî Karşılığı: `77:8` [فَإِذَا ٱلنُّجُومُ طُمِسَتْ] — karanlıkta doğup yön gösteren parıltılı yıldızlar `ٱلنُّجُومُ` ↔ parıltı ve ışık izinin gökten silinip söndürülmesi `طُمِسَتْ`)",
         "ك-و-ك-ب (K-W-K-B (kwkb) — Çift Yönlü Mesânî Karşılığı: `77:8` — parlayıp seçilen gök cismi ↔ ışığı ve izi silinip belirsizleşme `طَمْس`)",
         "ن-و-ر (N-W-R — Çift Yönlü Mesânî Karşılığı: `77:8` [فَإِذَا ٱلنُّجُومُ طُمِسَتْ] — aydınlatıp görünür kılan ışık `نُور` ↔ ışık ve ayırt edici izin bütünüyle silinip sönmesi `طُمِسَتْ`)"
+      ]
+    },
+    "ث-ب-ط": {
+      "latin": "V-B-T (vbT)",
+      "core": "`ث-ب-ط` kökü Kur'an'daki tekil (`hapax`) geçişinde (`9:46`) Form II fiil (`فَثَبَّطَهُمْ`) olarak **'harekete kalkışmaya yelteneni meşgul edip ağırlaştırarak ivmesini kırmak ve geride alıkoymak'** mekaniğini işletir. Ayet içinde hazırlık (`عُدَّةً`), çıkış (`ٱلْخُرُوجَ`) ve kalkışma (`ٱنۢبِعَاثَهُمْ`) üçlüsünün tam karşı kutbuna yerleşerek samimi hazırlıktan yoksun kimselerin eylemden elenip oturanlarla birlikte geride kalmasını (`ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ`) tasvir eder.",
+      "physical": "Bir kimseyi veya bedeni **harekete geçip yola koyulacağı sırada meşgul edip ağırlaştırarak yerinden kımıldayamaz hâle getirmek ve geride alıkoymak** (`شَغَلَهُ عَنِ الشَّيْءِ وَحَبَسَهُ وَرَيَّثَهُ`): yakasını bırakmayan hastalığın bedeni yerinden kaldırtmayıp yatağa çivilemesi (`أَثْبَطَهُ الْمَرَضُ`) ve kalkışmaya niyetlenen birini başka işlerle oyalayıp geri bırakması (`ثَبَّطَهُ عَنِ الْأَمْرِ`).",
+      "opposites": [
+        "ب-ع-ث (B-A-V — Çift Yönlü Mesânî Karşılığı: `9:46` [وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ] — sefer ve eylem için harekete kalkışma `ٱنۢبِعَاثَهُمْ` ↔ ağırlaştırıp oyalayarak geride alıkoyma `فَثَبَّطَهُمْ`)",
+        "ع-د-د (A-D-D — Çift Yönlü Mesânî Karşılığı: `9:46` [وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً ... فَثَبَّطَهُمْ] — yola çıkmak için önceden teçhizat ve hazırlık yapmak `أَعَدُّوا۟ لَهُۥ عُدَّةً` ↔ hazırlıksızlık içinde ağırdan alıp geride kalmak `فَثَبَّطَهُمْ`)",
+        "س-ر-ع (S-R-A (srE) — Çift Yönlü Mesânî Karşılığı: `9:46` [فَثَبَّطَهُمْ] — çevikçe ve ivmeyle ileri atılmak `سَرُعَ` ↔ ağırlık basıp oyalanarak geri kalmak `ثَبَّطَ`)",
+        "خ-ر-ج (H-R-C — Çift Yönlü Mesânî Karşılığı: `9:46` [وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ ... فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟] — kararlılıkla dışarı/sefere çıkmak `ٱلْخُرُوجَ` ↔ yerinde alıkonup oturanlarla kalmak `فَثَبَّطَهُمْ`)"
       ]
     }
   }
