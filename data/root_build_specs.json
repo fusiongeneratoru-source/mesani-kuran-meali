@@ -52600,5 +52600,38 @@
       }
     ],
     "context_default": "Birbiriyle uzlaşmaz ve çekişen çoklu otoriteler meseli bağlamı"
+  },
+  "س-د-ي": {
+    "buckwalter": "sdy",
+    "slug": "sdy",
+    "concept_name": "Südâ (Hiçbir Gözetim ve Hesap Sorumluluğu Olmadan Başıboş Salıverilmiş Hâl)",
+    "keywords": [
+      "suda",
+      "basibos",
+      "ihmal edilmis",
+      "sorumluluksuz",
+      "amacsiz",
+      "hesapsiz",
+      "kendi haline birakilmis"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sudFY",
+        "ayahs": [
+          "75:36"
+        ],
+        "label": "Nekre maksûr isim — mansûb hâl (`أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى` — `يُتْرَكَ` fiilinin gizli nâib-i fâilinden mukadder fetha ile mansûb hâl; 1 geçiş: 75:36)"
+      }
+    ],
+    "irab_default": "Başıboş ve sorumsuz bırakılma hâlini bildiren maksûr isim (`س-د-ي` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "75:36"
+        ],
+        "text": "İnsanın Başıboş Bırakılmadığı Sorgusu (`75:36`): İnsanın hiçbir ölçü ve hesap olmaksızın kendi hâline salıverileceği (`أَن يُتْرَكَ سُدًى`) sanısının hemen ardından gelen biyolojik yaratılış delilleriyle (`75:37-40`) çürütülmesi."
+      }
+    ],
+    "context_default": "İnsanın başıboş bırakılmadığı ve hesap sorumluluğu bağlamı"
   }
 }

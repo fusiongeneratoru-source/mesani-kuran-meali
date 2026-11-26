@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 35 / 50 Kök (Toplam Mühürlü: 735 Kök | Güncel Kapsam: %94,51)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 36 / 50 Kök (Toplam Mühürlü: 736 Kök | Güncel Kapsam: %94,51)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -42,7 +42,7 @@
 | 33 | Açık Mesânî Zırhı | 834 | `ز-ل-ل` | `Z-L-L` | **4** | 4 | 2:36 | Zelle / İzâle / İstizlâl (Sağlam Zeminden Ayağın Kayması ve Kaymaya Sürüklenmek) | ✅ **MÜHÜRLÜ** |
 | 34 | Açık Mesânî Zırhı | 1125 | `غ-ي-ض` | `G-Y-D` | **2** | 2 | 11:44 | Gayd / Gîda (Taşkın Suyun veya Ölçünün İçe Çekilip Eksilmesi) | ✅ **MÜHÜRLÜ** |
 | 35 | Açık Mesânî Zırhı | 1498 | `ش-ك-س` | `S-K-S` | **1** | 1 | 39:29 | Şekâse / Müteşâkisûn (Birbiriyle Uzlaşmaz Biçimde Karşılıklı Zıtlaşıp Çekişmek) | ✅ **MÜHÜRLÜ** |
-| 36 | Açık Mesânî Zırhı | 1578 | `س-د-ي` | `S-D-Y` | **1** | 1 | 75:36 | Südâ (2 açık Mesânî ref: ح-س-ب, و-ق-ت! 75:36 amaçsız, sorumluluksuz ve başıboş salıverilmiş hâl) | ⏳ *Bekliyor* |
+| 36 | Açık Mesânî Zırhı | 1578 | `س-د-ي` | `S-D-Y` | **1** | 1 | 75:36 | Südâ (Hiçbir Gözetim ve Hesap Sorumluluğu Olmadan Başıboş Salıverilmiş Hâl) | ✅ **MÜHÜRLÜ** |
 | 37 | Açık Mesânî Zırhı | 1501 | `ر-ك-د` | `R-K-D` | **1** | 1 | 42:33 | Ravâkid (2 açık Mesânî ref: ج-ر-ي, ر-و-ح! 42:33 rüzgâr kesilince denizin üstünde hareketsiz çakılıp duran gemiler) | ⏳ *Bekliyor* |
 | 38 | Açık Mesânî Zırhı | 574 | `س-و-د` | `S-W-D` | **10** | 9 | 2:187 | Sevâd, Esved ve Seyyid (1M+3F: ب-ي-ض zıddı! 10 geçiş: 2:187, 3:39, 3:106, 12:25, 16:58 koyu siyahlık, kararmak ve önder/efendi) | ⏳ *Bekliyor* |
 | 39 | Açık Mesânî Zırhı | 671 | `ب-خ-س` | `B-H-S` | **7** | 7 | 2:282 | Bahs (1M+3F: و-ف-ي zıddı! 7 geçiş: 2:282, 7:85, 11:15, 11:85, 12:20, 20:102, 26:183 hak edilen ölçüyü ve değeri haksızca eksiltip kısmak) | ⏳ *Bekliyor* |
