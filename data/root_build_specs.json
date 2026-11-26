@@ -52633,5 +52633,38 @@
       }
     ],
     "context_default": "İnsanın başıboş bırakılmadığı ve hesap sorumluluğu bağlamı"
+  },
+  "ر-ك-د": {
+    "buckwalter": "rkd",
+    "slug": "rkd",
+    "concept_name": "Revâkid (Akış İtkisi Kesilince Yüzeyde Hareketsiz Çakılıp Kalanlar)",
+    "keywords": [
+      "revakid",
+      "rukud",
+      "durgun",
+      "hareketsiz",
+      "cakilip kalmak",
+      "ruzgarin dinmesi",
+      "gemilerin durmasi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "rawaAkid",
+        "ayahs": [
+          "42:33"
+        ],
+        "label": "Gayr-ı munsarif kırık çoğul ism-i fâil — `ظَلَّ` haberi (`فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ` — `فَوَاعِل` vezninde tenvinsiz mansûb haber; 1 geçiş: 42:33)"
+      }
+    ],
+    "irab_default": "Hareketsiz ve durgun kalmayı bildiren çoğul ism-i fâil (`ر-ك-د` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "42:33"
+        ],
+        "text": "Rüzgârın Dindirilmesi ve Gemilerin Denizde Çakılıp Kalması (`42:33`): Denizde dağlar gibi akan gemilerin (`42:32`) rüzgâr dindirildiğinde suyun sırtında kıpırtısız durgunlaşmasının (`فَيَظْلَلْنَ رَوَاكِدَ`) sebatkâr ve değer bilenler için apaçık delil kılınması."
+      }
+    ],
+    "context_default": "Rüzgârın kesilmesiyle gemilerin yüzeyde hareketsiz kalması bağlamı"
   }
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 736,
+    "total_locked": 737,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -7936,7 +7936,8 @@
         "ق-ر-ر",
         "ر-س-و",
         "ج-م-د",
-        "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 28:45, 47:19 [ثَاوِيًا / مَثْوَىٰكُمْ — yeryüzünde yol alıp dolaşmak ↔ durup sabit ikamete çekilmek])"
+        "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 28:45, 47:19 [ثَاوِيًا / مَثْوَىٰكُمْ — yeryüzünde yol alıp dolaşmak ↔ durup sabit ikamete çekilmek])",
+        "ر-ك-د (R-K-D (rkd) — Çift Yönlü Mesânî Karşılığı: `42:33` [فَيَظْلَلْنَ رَوَاكِدَ] — yol alıp seyretmek ve mesafe katetmek `سَيْر` ↔ itkisi kesilince olduğu yüzeyde hareketsiz durgunlaşmak `رُكُود / رَوَاكِدَ`)"
       ]
     },
     "ن-ب-ت": {
@@ -9495,6 +9496,16 @@
         "ح-س-ب (H-S-B — Çift Yönlü Mesânî Karşılığı: `75:36` [أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى] — hiçbir ölçü ve hesap vermeksizin başıboş bırakılmak `سُدًى` ↔ ince hesaplama, değerlendirme ve hesap verme sorumluluğu `حِسَاب / يَحْسَبُ`)",
         "و-ق-ت (W-Q-T — Çift Yönlü Mesânî Karşılığı: `75:36` [أَن يُتْرَكَ سُدًى] — belirli bir vade, gaye ve tayin edilmiş zaman düzenine bağlı olmak `وَقْت` ↔ gayesiz, ölçüsüz ve başıboş salıverilmiş olmak `سُدًى`)",
         "أ-م-ر (A-M-R — Çift Yönlü Mesânî Karşılığı: `75:36` [أَن يُتْرَكَ سُدًى] — İbn Fâris'in doğrudan karşıt tanımı: `مُهْمَلًا لَا يُؤْمَرُ وَلَا يُنْهَى` — yönlendirici buyruk ve düzen sorumluluğu altında olmak `أَمْر` ↔ hiçbir buyruğa tabi olmadan başıboş bırakılmak `سُدًى`)"
+      ]
+    },
+    "ر-ك-د": {
+      "latin": "R-K-D (rkd)",
+      "core": "`ر-ك-د` kökü Kur'an'daki tekil (`hapax`) geçişinde (`42:33` `رَوَاكِدَ`) **'akış ve hareket itkisi kesilince bulunduğu yüzeyde kıpırtısız, durgun ve çakılı hâlde kalmak'** somut mekaniğini işletir. Denizde dağlar gibi süzülen gemilerin (`42:32` `ٱلْجَوَارِ`) rüzgâr dindirildiğinde (`يُسْكِنِ ٱلرِّيحَ`) bir anda kımıldayamaz hâle gelmesini tasvir ederek insan elinden çıkma devasa araçların bile ilahî yasaya bütünüyle bağımlı olduğunu kanıtlar.",
+      "physical": "Hareket, akış veya salınım hâlindeki bir nesnenin **ivmesini bütünüyle yitirip olduğu noktada ağır, dingin ve hareketsiz biçimde çakılıp durması (`سُكُونٌ وَثَبَاتٌ فِي مَكَانٍ لَا يَجْرِي`)**: akmayan durgun su (`رَكَدَ الْمَاءُ`), esintisi kesilen rüzgâr (`رَكَدَتِ الرِّيحُ`), kefeleri sallanmayı bırakıp tam dengede duran terazi (`رَكَدَ الْمِيزَانُ`), ocakta sabit duran üç sacayağı taşı (`الرَّوَاكِدُ / الْأَثَافِي`) ve rüzgâr kesilince deniz yüzeyinde kıpırtısız kalakalan yelkenli gemiler (`فَيَظْلَلْنَ رَوَاكِدَ`).",
+      "opposites": [
+        "ج-ر-ي (J-R-Y — Çift Yönlü Mesânî Karşılığı: `42:32-33` [ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ ... فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ] — denizde dağlar gibi süzülüp akmak `ٱلْجَوَارِ` ↔ rüzgâr kesilince su üstünde hareketsiz çakılıp kalmak `رَوَاكِدَ`)",
+        "س-ي-ر (S-Y-R — Çift Yönlü Mesânî Karşılığı: `42:33` [فَيَظْلَلْنَ رَوَاكِدَ] — yol alıp seyretmek ve mesafe katetmek `سَيْر` ↔ ivmesini yitirip olduğu noktada hareketsiz durgunlaşmak `رُكُود / رَوَاكِدَ`)",
+        "ر-و-ح (R-W-H — Çift Yönlü Mesânî Karşılığı: `42:33` [يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ] — gemileri itip yürüten hareketli rüzgâr akışı `ٱلرِّيحَ` ↔ rüzgârın durdurulmasıyla doğan hareketsiz durgunluk `رَوَاكِدَ`)"
       ]
     }
   }

@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (36/50 — Toplam 736 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (37/50 — Toplam 737 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -51819,7 +51819,8 @@
           "ق-ر-ر",
           "ر-س-و",
           "ج-م-د",
-          "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 28:45, 47:19 [ثَاوِيًا / مَثْوَىٰكُمْ — yeryüzünde yol alıp dolaşmak ↔ durup sabit ikamete çekilmek])"
+          "ث-و-ي (S-W-Y (vwy) — Çift Yönlü Mesânî Karşılığı: 28:45, 47:19 [ثَاوِيًا / مَثْوَىٰكُمْ — yeryüzünde yol alıp dolaşmak ↔ durup sabit ikamete çekilmek])",
+          "ر-ك-د (R-K-D (rkd) — Çift Yönlü Mesânî Karşılığı: `42:33` [فَيَظْلَلْنَ رَوَاكِدَ] — yol alıp seyretmek ve mesafe katetmek `سَيْر` ↔ itkisi kesilince olduğu yüzeyde hareketsiz durgunlaşmak `رُكُود / رَوَاكِدَ`)"
         ],
         "key_ayahs": [
           "10:22",
@@ -62571,6 +62572,69 @@
       "grammar_and_branch_rules": "Korpusta tekil (`hapax`) geçiş olan `75:36` `سُدًى`, `فُعَل` vezninde nekre maksûr isim olup `يُتْرَكَ` meçhul muzâri fiilinin `ٱلْإِنسَٰنُ`'a dönen gizli nâib-i fâilinden mukadder fetha ile mansûb **hâl** (veya `تَرَكَ` fiilinin 'kılmak/bırakmak' anlamıyla ikinci mef'ûlü) konumundadır.",
       "derivatives": {
         "سُدًى (Maksûr İsim / Hâl — `فُعَل`)": "1 geçiş (75:36) — gözetimsiz, buyruksuz ve hesapsız biçimde başıboş salıverilmiş hâl"
+      }
+    },
+    "ر-ك-د": {
+      "root_latin": "R-K-D (rkd)",
+      "arabic": "رَوَاكِدَ",
+      "rank": 1501,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "رواكد (`1` geçiş — `42:33` `إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ` — `فَوَاعِل` vezninde `رَاكِدَة` ism-i fâilinin kırık çoğulu, mansûb haber-i `ظَلَّ`: rüzgâr dindiğinde deniz yüzeyinde akışını yitirip olduğu yerde hareketsiz çakılıp kalan gemiler)"
+        ],
+        "verb_forms_used": [
+          "Bu kök Kur'an korpusunda yalnızca çoğul ism-i fâil (`رَوَاكِدَ`, `1` geçiş: `42:33`) olarak yer alır; korpusta fiil çekimi yoktur. (Sözlük tabanı `رَكَدَ / يَرْكُدُ رُكُودًا` geçişsiz durgunlaşma yapısına dayanır.)"
+        ],
+        "preposition_patterns": [
+          "`فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ` (`42:33` — `ظَلَّ` nakıs fiilinin mansûb haberi konumunda `رَوَاكِدَ` + `عَلَىٰ ظَهْرِهِۦٓ` ['denizin sırtı/yüzeyi üzerinde'] zarf tümleci: rüzgârın durdurulması sonucu gemilerin su üstünde kıpırtısız çakılıp kalması)"
+        ],
+        "approx_frequency": "1 geçiş / 1 ayet (1 sure; referans amaçlı)"
+      },
+      "physical_core": "Hareket, akış veya salınım hâlindeki bir nesnenin **ivmesini bütünüyle yitirip olduğu noktada ağır, dingin ve hareketsiz biçimde çakılıp durması (`سُكُونٌ وَثَبَاتٌ فِي مَكَانٍ لَا يَجْرِي`)**: akmayan durgun su (`رَكَدَ الْمَاءُ`), esintisi kesilen rüzgâr (`رَكَدَتِ الرِّيحُ`), kefeleri sallanmayı bırakıp tam dengede duran terazi (`رَكَدَ الْمِيزَانُ`), ocakta sabit duran üç sacayağı taşı (`الرَّوَاكِدُ / الْأَثَافِي`) ve rüzgâr kesilince deniz yüzeyinde kıpırtısız kalakalan yelkenli gemiler (`فَيَظْلَلْنَ رَوَاكِدَ`).",
+      "ibn_faris_asl": {
+        "text": "( ركد ) الراء والكاف والدال أصل يدل على سكون . يقال ركد الماء سكن . وركدت الريح . وركد الميزان استوى . وركد القوم ركودا سكنوا وهدءوا . وجفنة ركود مملوءة .",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (ركد maddesi, c. 2, s. 433, باب الراء والكاف وما يثلثهما)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökün tek fiziksel çekirdeğini `أصل يدل على سكون` ('durgunluk ve hareketsiz kalma') olarak belirler; suyun akışı kesilip durgunlaşmasını (`ركد الماء`), rüzgârın dinmesini (`ركدت الريح`), terazinin salınımı durdurup dengeye oturmasını (`ركد الميزان استوى`), topluluğun yatışıp sessizliğe bürünmesini (`ركد القوم`) ve taşacak kadar dolup ağırlaşmış kabı (`جفنة ركود مملوءة`) hep bu tek durgunluk ekseninde toplar.",
+        "lisan_al_arab": "İbn Manzûr (`122/3254`, c. 6, s. 213) fiziksel görüntüyü genişletir: `وَرَكَدَ الْمَاءُ وَالرِّيحُ وَالسَّفِينَةُ وَالْحَرُّ وَالشَّمْسُ إِذَا قَامَ قَائِمُ الظَّهِيرَةِ. وَكُلُّ ثَابِتٍ فِي مَكَانٍ فَهُوَ رَاكِدٌ`. Ebû Ubeyd'in kesin tanımını aktarır: `الرَّاكِدُ هُوَ الدَّائِمُ السَّاكِنُ الَّذِي لَا يَجْرِي` ('akmadan sürekli yerinde sakin duran'); ayrıca ateş ocağında kıpırdamadan sabit duran üç sacayağı taşlarına (`الْأَثَافِي`) `الرَّوَاكِدُ` dendiğini kaydeder.",
+        "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*, ركد maddesi) `42:33` (`فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ`) ayetini doğrudan merkez alarak kökün 'sürekli durgunluk ve hareketsiz sabitlik' çekirdeğini vurgular ve ağzına kadar dolu ağır kap (`وَجَفْنَةٌ رَكُودٌ: عِبَارَةٌ عَنِ الِامْتِلَاءِ`) mecazını kaydeder.",
+        "arbitration_decision": "Üç klasik sözlüğün tam mutabakatıyla `ر-ك-د` kökü **'hareket ve akış itkisinin kesilmesiyle bulunduğu yüzeyde kıpırtısız, durgun ve çakılı hâlde kalmak'** çekirdeğinde kilitlenir. `42:32-33` pasajında dağlar gibi denizde süzülüp akan gemilerin (`ٱلْجَوَارِ`) tek bir ilahî iradeyle rüzgâr dindirilince (`يُسْكِنِ ٱلرِّيحَ`) suyun sırtında hareketsiz kalakalması (`رَوَاكِدَ`) üzerinden doğa yasalarının mutlak bağımlılığı sergilenir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Klasik Arapçada özgün durgunlaşma-sabitlenme kökü (`ر-ك-د`)",
+        "note": "Karşılaştırmalı Sami sözlük taramasında `ر-ك-د` ('durgunlaşmak, hareketsiz kalmak') kökü için doğrulanmış ortak bir Proto-Sami eşköklü kaydı tespit edilmemiştir; bu nedenle uydurma eşleme yapılmamıştır. (Modern Levant Arapçasındaki 'koşmak' anlamlı *rakad* fiili `ر-ك-د` değil, `ض > د` ses değişimiyle `ر-ك-ض` kökünün devamıdır; kök ayrımı titizlikle korunmuştur.)"
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ج-ر-ي (J-R-Y — Çift Yönlü Mesânî Karşılığı: `42:32-33` [ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ ... فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ] — denizde dağlar gibi süzülüp akmak `ٱلْجَوَارِ` ↔ rüzgâr kesilince su üstünde hareketsiz çakılıp kalmak `رَوَاكِدَ`)",
+          "س-ي-ر (S-Y-R — Çift Yönlü Mesânî Karşılığı: `42:33` [فَيَظْلَلْنَ رَوَاكِدَ] — yol alıp seyretmek ve mesafe katetmek `سَيْر` ↔ ivmesini yitirip olduğu noktada hareketsiz durgunlaşmak `رُكُود / رَوَاكِدَ`)",
+          "ر-و-ح (R-W-H — Çift Yönlü Mesânî Karşılığı: `42:33` [يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ] — gemileri itip yürüten hareketli rüzgâr akışı `ٱلرِّيحَ` ↔ rüzgârın durdurulmasıyla doğan hareketsiz durgunluk `رَوَاكِدَ`)"
+        ],
+        "key_ayahs": [
+          "42:33 (إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ — Dilerse rüzgârı dindirir de gemiler onun [denizin] sırtında hareketsiz çakılıp kalırlar; kuşkusuz bunda her sebatkâr ve değer bilen için açık işaretler vardır)"
+        ],
+        "reverse_stress_test": "Akışkan seyir (`ج-ر-ي`: `ٱلْجَوَارِ`), ilerleyen yolculuk (`س-ي-ر`) ve itici rüzgâr hareketinin (`ر-و-ح`: `ٱلرِّيحَ`) zıddı alındığında; `ر-ك-د` kökünün `42:33`'teki 'itki kesilince bulunduğu yüzeyde kıpırtısız çakılıp durgunlaşma' mekaniği sıfır çelişkiyle doğrulanır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "س-ك-ن",
+          "ج-ر-ي",
+          "ر-و-ح",
+          "ظ-ل-ل",
+          "ب-ح-ر",
+          "ث-ب-ت",
+          "ق-ر-ر"
+        ],
+        "mechanical_difference": "Durgunluk ve sabitlik kavramları furûku: Aynı ayette (`42:33`) yan yana gelen `يُسْكِنِ ٱلرِّيحَ` (`س-ك-ن`) ile `فَيَظْلَلْنَ رَوَاكِدَ` (`ر-ك-د`) arasında incelikli neden-sonuç ayrımı vardır: `س-ك-ن` hareketli bir gücün (rüzgârın) dinginleşip sükûnete ermesini (etken/neden), `ق-ر-ر` soğuyup yerleşik karargâh bulmayı, `ث-ب-ت` kök salarak sağlamlaşmayı bildirir. **`ر-ك-د` (`رَوَاكِدَ`)** ise özellikle **normalde akıp gitmesi gereken bir cismin (su veya geminin) itici gücü kesildiğinde yüzeyde ağır, atıl ve kıpırtısız biçimde çakılıp kalması** sonucunu ayırır."
+      },
+      "anchor_ayahs": [
+        "42:33 (إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ)"
+      ],
+      "unified_core_mechanism": "`ر-ك-د` kökü Kur'an'daki tekil (`hapax`) geçişinde (`42:33` `رَوَاكِدَ`) **'akış ve hareket itkisi kesilince bulunduğu yüzeyde kıpırtısız, durgun ve çakılı hâlde kalmak'** somut mekaniğini işletir. Denizde dağlar gibi süzülen gemilerin (`42:32` `ٱلْجَوَارِ`) rüzgâr dindirildiğinde (`يُسْكِنِ ٱلرِّيحَ`) bir anda kımıldayamaz hâle gelmesini tasvir ederek insan elinden çıkma devasa araçların bile ilahî yasaya bütünüyle bağımlı olduğunu kanıtlar.",
+      "grammar_and_branch_rules": "Korpusta tekil (`hapax`) geçiş olan `42:33` `رَوَاكِدَ`, gayr-ı munsarif (`فَوَاعِل` vezninde) kırık çoğul ism-i fâil olup `فَيَظْلَلْنَ` (`ظَلَّ` nakıs fiilinin gemilere dönen dişil çoğul çekimi) fiilinin tenvinsiz fetha ile mansûb haberidir.",
+      "derivatives": {
+        "رَوَاكِدَ (Çoğul İsm-i Fâil — `فَوَاعِل`, tekili `رَاكِدَة`)": "1 geçiş (42:33) — rüzgâr kesilince deniz yüzeyinde hareketsiz, durgun ve çakılı hâlde kalan gemiler"
       }
     }
   }
