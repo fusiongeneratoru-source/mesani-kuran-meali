@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 36 / 50 Kök (Toplam Mühürlü: 786 Kök | Güncel Kapsam: %95,13)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 37 / 50 Kök (Toplam Mühürlü: 787 Kök | Güncel Kapsam: %95,13)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -43,7 +43,7 @@
 | 34 | Sure %100 Kilidi | 1008 | `ج-ث-و` | `C-S-W` | **3** | 3 | 19:68 | Cüsüv ve Câsiye (Hesap Huzurunda Dizleri Üzerine Çökmek) | ✅ **MÜHÜRLÜ** |
 | 35 | Sure %100 Kilidi | 1223 | `د-ه-ر` | `D-H-R` | **2** | 2 | 45:24 | Dehr (Her Şeyi Kuşatıp Aşındıran Engin Zaman Akışı) | ✅ **MÜHÜRLÜ** |
 | 36 | Açık Mesânî Zırhı | 777 | `ل-ي-ن` | `L-Y-N` | **5** | 5 | 3:159 | Lîn ve Leyyin (Katılıktan Çözülüp Yumuşamak, Esneklik ve Yumuşak Söz) | ✅ **MÜHÜRLÜ** |
-| 37 | Açık Mesânî Zırhı | 1315 | `ص-م-ت` | `S-M-T` | **1** | 1 | 7:193 | Sâmitûn (2 açık Mesânî ref: ق-و-ل, ض-ب-ح! 7:193 sesini kesip tam suskunluğa bürünmek) | ⏳ *Bekliyor* |
+| 37 | Açık Mesânî Zırhı | 1315 | `ص-م-ت` | `S-M-T` | **1** | 1 | 7:193 | Samt ve Sâmitûn (Tek Ses Çıkarmayıp Bütünüyle Suskun Kalmak) | ✅ **MÜHÜRLÜ** |
 | 38 | Yüksek Frekanslı Çekirdek | 512 | `ع-ص-و` | `A-S-W` | **12** | 12 | 2:60 | Asâ (12 geçiş: 2:60, 7:107, 7:117, 7:160, 20:18, 20:66, 26:32, 26:44, 26:45, 26:63, 27:10, 28:31 dayanılan ve yönlendirilen sağlam değnek/asâ) | ⏳ *Bekliyor* |
 | 39 | Yüksek Frekanslı Çekirdek | 525 | `ط-ي-ن` | `T-Y-N` | **12** | 12 | 3:49 | Tîn (12 geçiş: 3:49, 5:110, 6:2, 7:12, 17:61, 23:12, 28:38, 32:7, 37:11, 38:71, 38:76, 51:33 su ile yoğrulup biçim alan balçık/çamur) | ⏳ *Bekliyor* |
 | 40 | Yüksek Frekanslı Çekirdek | 524 | `ك-ن-ن` | `K-N-N` | **12** | 12 | 2:235 | Kinn, Eknân ve Meknûn (12 geçiş | 1M: ع-ر-ض + 2F: 2:235, 6:25, 16:81, 17:46, 18:57, 27:74, 28:69, 37:49, 41:5, 52:24, 56:23, 56:78 koruyucu örtü ve sığınak içinde gizleyip muhafaza etmek) | ⏳ *Bekliyor* |

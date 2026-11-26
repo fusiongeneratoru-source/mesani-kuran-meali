@@ -55606,5 +55606,36 @@
       }
     ],
     "context_default": "Yumuşama ve esneklik bağlamı"
+  },
+  "ص-م-ت": {
+    "buckwalter": "Smt",
+    "slug": "smt",
+    "concept_name": "Samt ve Sâmitûn (Tek Ses Çıkarmayıp Bütünüyle Suskun Kalmak)",
+    "keywords": [
+      "samt",
+      "samitun",
+      "suskun kalmak",
+      "sessiz kalmak",
+      "cagri karsiti"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Sa`mituwn",
+        "ayahs": [
+          "7:193"
+        ],
+        "label": "Merfû çoğul ism-i fâil / haber (`أَمْ أَنتُمْ صَٰمِتُونَ` — bütünüyle suskun kalanlar; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Tam suskunluk bildiren `ص-م-ت` ism-i fâili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:193"
+        ],
+        "text": "Çağrı ile Suskunluğun Eşitlenmesi (`7:193`): Cansız putların veya çağrıya kapalı ortakların doğru yola çağrılması ile onlara karşı tamamen suskun kalınması arasında hiçbir fark kalmaması."
+      }
+    ],
+    "context_default": "Tam suskunluk bağlamı"
   }
 }
