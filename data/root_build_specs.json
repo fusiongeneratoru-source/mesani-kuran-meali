@@ -58909,5 +58909,83 @@
       }
     ],
     "context_default": "Birbirine arka çıkıp saf tutan düzenli birlik ve destek topluluğu bağlamı"
+  },
+  "غ-م-م": {
+    "buckwalter": "gmm",
+    "slug": "gmm",
+    "concept_name": "Gamm, Gamâm ve Gumme (Üstünü Örtüp Kaplamak, Gölgelik Bulut, Boğucu Keder ve Üstü Kapalı Bulanık İş)",
+    "root_latin": "G-M-M",
+    "keywords": [
+      "gamm",
+      "gamam",
+      "gumme",
+      "golgelik bulut",
+      "bogucu keder",
+      "belirsiz is"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "gama`m",
+        "ayahs": [
+          "2:57",
+          "2:210",
+          "7:160",
+          "25:25"
+        ],
+        "label": "Cins ismi (`ٱلْغَمَامَ / ٱلْغَمَامِ` — güneşi ve göğü örten beyaz gölgelik bulut tabakası; 4 geçiş)"
+      },
+      {
+        "lemma": "gam~",
+        "ayahs": [
+          "3:153",
+          "3:154",
+          "20:40",
+          "21:88",
+          "22:22"
+        ],
+        "label": "İsim/masdar (`غَمّ / ٱلْغَمِّ` — kalbi ve nefesi çepeçevre örtüp boğan yoğun darlık ve keder; 6 geçiş — 3:153'te 2x)"
+      },
+      {
+        "lemma": "gum~ap",
+        "ayahs": [
+          "10:71"
+        ],
+        "label": "İsim (`غُمَّةً` — üstüne perde çekilmiş, belirsiz ve kafa karıştıran bulanık iş/durum; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Üstünü örtüp kaplamayı, gölgelik bulutu veya boğucu darlığı bildiren `غ-م-م` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:57",
+          "7:160"
+        ],
+        "text": "Çölde Koruyucu Gölgelik Bulut (`2:57`, `7:160`): `وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ` — kavurucu güneşi örten beyaz bulut gölgeliği."
+      },
+      {
+        "ayahs": [
+          "2:210",
+          "25:25"
+        ],
+        "text": "Hesap Sahnesinde Açılan Bulut Gölgelikleri (`2:210`, `25:25`): Gök perdesinin bulutla yarılıp emrin kesinleştiği büyük gün sahnesi."
+      },
+      {
+        "ayahs": [
+          "3:153",
+          "3:154",
+          "20:40",
+          "21:88",
+          "22:22"
+        ],
+        "text": "Kalbi Saran Boğucu Darlık ve Kurtuluş (`3:153`, `3:154`, `20:40`, `21:88`, `22:22`): Uhud'da darlık üstüne darlık (`غَمًّۢا بِغَمٍّ`) ve ardından inen güven, Mûsâ ve Yûnus'un boğucu darlıktan kurtarılışı."
+      },
+      {
+        "ayahs": [
+          "10:71"
+        ],
+        "text": "Üstü Kapalı Bulanık Plan (`10:71`): Nûh'un 'planınız sizin için örtülü/belirsiz bir tasa (`غُمَّةً`) olmasın, açıkça karar verin' meydan okuması."
+      }
+    ],
+    "context_default": "Üstünü bütünüyle örtme: gölgelik bulut, boğucu keder ve bulanık belirsizlik bağlamı"
   }
 }
