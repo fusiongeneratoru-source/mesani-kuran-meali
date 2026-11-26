@@ -54737,5 +54737,37 @@
       }
     ],
     "context_default": "İfade organı ve yaratılış nimeti bağlamı"
+  },
+  "ك-ب-د": {
+    "buckwalter": "kbd",
+    "slug": "kbd",
+    "concept_name": "Kebed (Ağırlık ve Yoğun Dirençle Göğüslenen Zorlu Meşakkat ve Mücadele)",
+    "keywords": [
+      "kebed",
+      "mukabede",
+      "fi kebed",
+      "mesakkat",
+      "zorlu mucadele",
+      "agirlik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "kabad",
+        "ayahs": [
+          "90:4"
+        ],
+        "label": "Mecrûr nekre masdar/isim (`فِى كَبَدٍ` — `فِى` ile zarf/hâl: ağır meşakkat ve zorlu mücadele içinde; 1 geçiş: 90:4)"
+      }
+    ],
+    "irab_default": "Ağır meşakkat ve mücadele bildiren `ك-ب-د` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "90:4"
+        ],
+        "text": "İnsanın Varoluş Koşulu (`90:4`): Belde, baba ve çocuk antlarının ardından insanın ağır bir meşakkat ve zorlu mücadele içinde yaratıldığının ilanı."
+      }
+    ],
+    "context_default": "Ağır meşakkat ve mücadele bağlamı"
   }
 }
