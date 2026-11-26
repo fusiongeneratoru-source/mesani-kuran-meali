@@ -51673,5 +51673,93 @@
       }
     ],
     "context_default": "Şiddetli hareketle göğe savrulan yoğun toz bulutu bağlamı"
+  },
+  "ب-ث-ث": {
+    "buckwalter": "bvv",
+    "slug": "bvv",
+    "concept_name": "Bess (Dört Bir Yana Yayıp Dağıtmak / İçte Tutulamayıp Dışa Saçılan Keder)",
+    "keywords": [
+      "yaymak",
+      "dagitmak",
+      "sacmak",
+      "bess",
+      "sacilmis",
+      "serilmis",
+      "tasan keder"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "bav~a",
+        "ayahs": [
+          "2:164",
+          "4:1",
+          "31:10",
+          "42:29",
+          "45:4"
+        ],
+        "label": "Form I Sülâsî geçişli fiil (`بَثَّ` mâzi 4x / `يَبُثُّ` muzâri 1x — canlıları ve insanları dört bir yana yayıp dağıtmak; 5 geçiş)"
+      },
+      {
+        "lemma": "bav~",
+        "ayahs": [
+          "12:86"
+        ],
+        "label": "1. tekil şahıs iyelik zamirine muzâf mastar/isim (`بَثِّى` — `أَشْكُوا۟` fiilinin mukadder fetha ile mansûb mef'ûlün bihi; 1 geçiş: 12:86)"
+      },
+      {
+        "lemma": "m~unbav~",
+        "ayahs": [
+          "56:6"
+        ],
+        "label": "Form VII (İnfial) mansûb nekra sıfat (`هَبَآءً مُّنۢبَثًّا` — dağılıp etrafa saçılmış olma hâli; 1 geçiş: 56:6)"
+      },
+      {
+        "lemma": "mabovuwvap",
+        "ayahs": [
+          "88:16"
+        ],
+        "label": "Form I ism-i mef'ûl dişil merfû sıfat (`وَزَرَابِىُّ مَبْثُوثَةٌ` — genişçe yayılıp serilmiş; 1 geçiş: 88:16)"
+      },
+      {
+        "lemma": "mabovuwv",
+        "ayahs": [
+          "101:4"
+        ],
+        "label": "Form I ism-i mef'ûl eril marife mecrûr sıfat (`كَٱلْفَرَاشِ ٱلْمَبْثُوثِ` — her yöne savrulup saçılmış; 1 geçiş: 101:4)"
+      }
+    ],
+    "irab_default": "Dört bir yana yayıp dağıtma veya saçılma bildiren çekimli fiil / isim / sıfat (`ب-ث-ث` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:164",
+          "4:1",
+          "31:10",
+          "42:29",
+          "45:4"
+        ],
+        "text": "Canlıların ve İnsan Neslinin Evrene Yayılışı (`2:164`, `4:1`, `31:10`, `42:29`, `45:4`): Yeryüzüne ve göklere her türden canlıyı (`مِن كُلِّ دَآبَّةٍ`) ve tek bir çiftten çok sayıda erkek ve kadını yayıp dağıtma; `42:29`'da doğrudan `جَمْعِهِمْ` (bir araya toplama) ile mesânî karşıtlığı kurar."
+      },
+      {
+        "ayahs": [
+          "12:86"
+        ],
+        "text": "İçe Sığmayıp Dışa Taşan Kederin Arzı (`12:86`): Ya'kûb'un içine sığmayıp açığa vurmak zorunda kaldığı en yoğun kederini (`بَثِّى`) ve üzüntüsünü (`حُزْنِىٓ`) yalnızca Allah'a arz etmesi."
+      },
+      {
+        "ayahs": [
+          "56:6",
+          "101:4"
+        ],
+        "text": "Büyük Sarsılışta Savrulup Saçılma (`56:6`, `101:4`): Dağların etrafa saçılan ince toz zerrelerine (`هَبَآءً مُّنۢبَثًّا`) ve insanların her yöne savrulan pervaneler hâline (`كَٱلْفَرَاشِ ٱلْمَبْثُوثِ`) dönüşmesi."
+      },
+      {
+        "ayahs": [
+          "88:16"
+        ],
+        "text": "Genişçe Yayılıp Serilmiş Örtüler (`88:16`): İkram mekânında dört bir yana düzenli biçimde serilmiş nakışlı yaygılar (`وَزَرَابِىُّ مَبْثُوثَةٌ`)."
+      }
+    ],
+    "context_default": "Bir merkezden veya içeriden dört bir yana yayılma, saçılma ve açığa çıkma bağlamı"
   }
 }
