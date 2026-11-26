@@ -3,14 +3,14 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 3 / 50 Kök (Toplam Mühürlü: 803 Kök | Güncel Kapsam: %95,47)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 4 / 50 Kök (Toplam Mühürlü: 804 Kök | Güncel Kapsam: %95,48)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | 1 | Sure %100 Kilidi | 622 | `و-ق-ر` | `W-K-R` | **9** | 9 | 6:25 | Vakr, Vikr, Vakâr ve Tevkîr (Ağırlık, İşitmeyi Tıkayan Ağırlık, Yüklü Bulut ve Ağırbaşlı Saygınlık) | ✅ **MÜHÜRLÜ** |
 | 2 | Sure %100 Kilidi | 725 | `ت-ب-ر` | `T-B-R` | **6** | 4 | 7:139 | Tetbîr, Mütebber ve Tebâr (Kırıp Ufalayarak Yıkmak, Parçalanıp Boşa Çıkmak ve Tam Yıkım) | ✅ **MÜHÜRLÜ** |
 | 3 | Sure %100 Kilidi | 866 | `د-ر-ر` | `D-R-R` | **4** | 4 | 6:6 | Midrâr ve Dürrî (Kesintisiz Bol Akış / Bereketli Yağmur ve İnci Gibi Duru Parıltı) | ✅ **MÜHÜRLÜ** |
-| 4 | Sure %100 Kilidi | 922 | `س-ر-ج` | `S-R-C` | **4** | 4 | 25:61 | Sirâc (Sure 71 Nûh kilidi + 4 geçiş: 25:61, 33:46, 71:16, 78:13 karanlığı delen aydınlatıcı ve ısıtıcı ışık/kandil kaynağı) | ⏳ *Bekliyor* |
+| 4 | Sure %100 Kilidi | 922 | `س-ر-ج` | `S-R-C` | **4** | 4 | 25:61 | Sirâc (Kendi Kaynağından Işık ve Isı Yayan Ocak, Parlak Kandil ve Yol Aydınlatıcı) | ✅ **MÜHÜRLÜ** |
 | 5 | Sure %100 Kilidi | 1012 | `ف-ج-ج` | `F-C-C` | **3** | 3 | 21:31 | Fecc ve Ficâc (Sure 71 Nûh kilidi + 3 geçiş: 21:31, 22:27, 71:20 iki dağ arasından açılan geniş geçit ve uzak yol) | ⏳ *Bekliyor* |
 | 6 | Sure %100 Kilidi | 1052 | `ص-ب-ع` | `S-B-A` | **2** | 2 | 2:19 | Esâbi' (Sure 71 Nûh kilidi + 2 geçiş: 2:19, 71:7 parmaklar — gerçeği duymamak için kulakları tıkama imgesi) | ⏳ *Bekliyor* |
 | 7 | Sure %100 Kilidi | 1564 | `ن-س-ر` | `N-S-R` | **1** | 1 | 71:23 | Nesr (Sure 71 Nûh son kilidi: 71:23 Nûh kavminin akbaba/kartal simgeli geleneksel put/odağı) | ⏳ *Bekliyor* |

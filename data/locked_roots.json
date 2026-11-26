@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (3/50 — Toplam 803 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (4/50 — Toplam 804 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -2834,7 +2834,8 @@
           "ز-ي-ت",
           "ش-ر-ق",
           "ل-ه-ب (L-H-B (lhb) — Çift Yönlü Mesânî Karşılığı: `77:31`, `111:3` vs `2:17-20` — sönük ve ışıksız karanlık `ظُلُمَٰت` ↔ parlayıp ışıldayarak yükselen alev dili `لَهَب`)",
-          "ث-ق-ب (V-Q-B (vqb) — Çift Yönlü Mesânî Karşılığı: `86:3` [ٱلنَّجْمُ ٱلثَّاقِبُ] — karanlığı keskin ışığıyla delip geçen parlaklık `ثَاقِب` ↔ her şeyi örten karanlık `ظُلْمَة`)"
+          "ث-ق-ب (V-Q-B (vqb) — Çift Yönlü Mesânî Karşılığı: `86:3` [ٱلنَّجْمُ ٱلثَّاقِبُ] — karanlığı keskin ışığıyla delip geçen parlaklık `ثَاقِب` ↔ her şeyi örten karanlık `ظُلْمَة`)",
+          "س-ر-ج (Sirâc: karanlığı yarıp kendi kaynağından ışık ve ısı saçan kandil/güneş ↔ ظ-ل-م ışık yokluğu ve karanlık)"
         ],
         "key_ayahs": [
           "2:257 & 24:40 & 35:20 (مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ / ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ — Çoğul karanlık katmanları karşısında tekil aydınlık ilkesi)",
@@ -67614,6 +67615,84 @@
           "meaning": "İnci gibi duru, lekesiz ve parlak ışık saçan",
           "examples": [
             "24:35"
+          ]
+        }
+      ]
+    },
+    "س-ر-ج": {
+      "root_latin": "S-R-C",
+      "arabic": "س-ر-ج",
+      "rank": 922,
+      "morphology_and_rasm": {
+        "buckwalter": "srj",
+        "rasm_skeleton": "سرج (harekesiz iskelet; سراجا biçiminde 4 kez, 25:61 ve 71:16'da elif-i hançeriyye ile سِرَٰجًا)",
+        "approx_frequency": "4 geçiş / 4 ayet (tamamı tekil isim `سِرَاجًا`: `25:61`, `33:46`, `71:16`, `78:13`)",
+        "verb_forms_used": [
+          "Kur'an korpusunda fiil çekimi geçmez; 4 geçişin tamamı `سِرَاج` isim formundadır."
+        ],
+        "noun_forms_used": [
+          "سِرَاجًا (4 geçiş: `25:61`, `33:46`, `71:16`, `78:13` — kendi enerjisinden yanıp aydınlatan ışık/kandil kaynağı)"
+        ],
+        "preposition_patterns": [
+          "جَعَلَ ... سِرَاجًا (`25:61`, `71:16`, `78:13`: güneşi yanıp ısıtan ve aydınlatan bir kandil/ocak kılmak)",
+          "سِرَاجًا مُنِيرًا (`33:46`: elçinin hakikate çağıran aydınlatıcı bir kandil oluşu)",
+          "سِرَاجًا وَهَّاجًا (`78:13`: hararetle parlayıp alev saçan kandil — güneş)"
+        ]
+      },
+      "physical_core": "Karanlığı yaran, kendi yakıtıyla yanarak çevresine hem parlak ışık hem sıcaklık yayan kandil/lamba (`سِرَاج`); bu somut kaynak-ışık imgesi kozmolojide doğrudan güneşi (`25:61`, `71:16`, `78:13` — yansıtıcı olan aydan farklı olarak), mesaj aktarımında ise hakikat ışığını yayan elçiyi (`33:46`) niteler.",
+      "ibn_faris_asl": "(سَرَجَ) السِّينُ وَالرَّاءُ وَالْجِيمُ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى الْحُسْنِ وَالزِّينَةِ وَالْجَمَالِ. مِنْ ذَلِكَ السِّرَاجُ، سُمِّيَ لِضِيَائِهِ وَحُسْنِهِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 3, باب السين والراء وما يثلثهما, سرج maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökün temelini 'güzellik, parlaklık ve süs (الْحُسْنُ وَالزِّينَةُ وَالْجَمَالُ)' olarak koyar ve `السِّرَاج` (kandil) kelimesinin parlaklığı ve aydınlatıcı güzelliğinden ötürü bu kökten adlandırıldığını belirtir.",
+        "lisan_al_arab": "`السِّرَاج` kelimesini 'gece yanıp aydınlatan fitilli lamba/kandil' olarak tanımlar ve `71:16` ile `78:13`'te güneşin parlaklığı ve yakıcılığı sebebiyle `سِرَاج` diye adlandırıldığını vurgular.",
+        "ragib_al_isfahani": "`سِرَاج` kavramını ışık saçan her kaynak olarak açıklar; `25:61` ve `71:16`'da güneşin `سِرَاج`, ayın ise `نُور / مُنِير` diye ayrılmasını, ayrıca `33:46`'da elçinin bilgi ve yol göstericilikle aydınlatan `سِرَاجًا مُنِيرًا` oluşunu kaydeder.",
+        "verdict": "Kur'an'daki 4 geçişin tamamında `سِرَاج`, pasif yansıtıcı değil 'kendi kaynağından etkin biçimde ışık (ve kozmik düzeyde ısı) üreten kandil/ocak' çekirdeğinde birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Arapça'da kökleşmiş kültürel/Aramice temaslı sözvarlığı; Proto-Sami özgün fiil kökü canlı aramada doğrulanamadı",
+        "hebrew": "İbranice'de doğrudan yerleşik İncil eşkökeni tespit edilmedi (İbranice kandil için נֵר nēr kullanılır)",
+        "aramaic_syriac": "Süryanice ܫܪܓܐ (šrāgā: 'lamba, kandil'), Yahudi Aramicesi שְׁרָגָא (šərāgā: 'kandil, ışık kaynağı' — akademik filolojide Orta Farsça čirāɣ ile kültürel temas ve Aramice aracılığıyla Arapça'ya geçiş tartışılmaktadır)",
+        "akkadian": "Doğrudan eşkökenli tespit edilmedi",
+        "comparative_note": "Aramice/Süryanice `šrāgā` ('kandil') ile Arapça `سِرَاج` ses ve anlamca doğrudan örtüşür (Sami ıslıklı yazışım: Aramice `š` ↔ Arapça `s`)."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ظ-ل-م (Işığın yokluğu ve zifiri karanlık ↔ سِرَاج karanlığı yarıp çevreyi aydınlatan ışık kaynağı)"
+        ],
+        "bidirectional_test": "س-ر-ج'in 'karanlığı yaran kendi kaynaklı ışık ocağı' tanımının tersi, ışığın bütünüyle kesildiği karanlık (`ظ-ل-م`) olur; `33:43–46` bağlamında karanlıklardan aydınlığa çıkarma (`مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ`) ardından elçinin `سِرَاجًا مُنِيرًا` olarak nitelenmesi bu zıtlığı metin içinde doğrular."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ن-و-ر",
+          "ش-م-س",
+          "ق-م-ر",
+          "و-ه-ج"
+        ],
+        "analysis": "`25:61` (`سِرَٰجًا وَقَمَرًا مُّنِيرًا`) ve `71:16` (`وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا`) ayetlerinde kusursuz bir Furûk ayrımı işler: ay yansıyan ve yumuşak aydınlık anlamında `نُور / مُنِير` (`ن-و-ر`) iken, güneş kendi yakıtıyla yanıp ısı ve ışık üreten ocak anlamında `سِرَاج` (`س-ر-ج`) olarak ayrıştırılır; `78:13`'te `وَهَّاجًا` (`و-ه-ج`: hararetle parlayıp alev saçan) sıfatı bu yakıcı kaynak niteliğini pekiştirir. `33:46`'da ise `سِرَاجًا مُنِيرًا` terkibi, elçinin yakıcı değil aydınlatıcı bir kaynak olduğunu vurgular."
+      },
+      "anchor_ayahs": [
+        "25:61 (وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا — gökte bir kandil [güneş] ve aydınlık veren bir ay var etti)",
+        "33:46 (وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًا مُّنِيرًا — Allah'ın izniyle O'na çağıran ve aydınlatan bir kandil olarak)",
+        "71:16 (وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا — onların içinde ayı bir aydınlık, güneşi de bir kandil/ocak kıldı)",
+        "78:13 (وَجَعَلْنَا سِرَاجًا وَهَّاجًا — ve hararetle parıldayan bir kandil [güneş] var ettik)"
+      ],
+      "unified_core_mechanism": "`س-ر-ج` kökü Kur'an'daki 4 geçişinin tamamında (`سِرَاج`) **'kendi kaynağından ışık (ve doğada ısı) üreterek karanlığı yaran parlak kandil/ocak'** tek çekirdeğini taşır: kozmik düzlemde yansıtıcı aydan (`نُور`) ayrılan güneş (`25:61`, `71:16`, `78:13`), toplumsal-ahlaki düzlemde ise insanları karanlıklardan çıkarıp yol gösteren elçi (`33:46`).",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Kozmik Işık ve Isı Kaynağı (`25:61`, `71:16`, `78:13`): `جَعَلَ` fiilinin nesnesi olarak göksel sistemdeki enerji ve ışık kaynağı güneş.",
+          "Dal 2 — Yol Gösterici Aydınlatıcı Kaynak (`33:46`): `سِرَاجًا مُنِيرًا` hâl terkibinde elçinin bilgi ve çağrı ışığı."
+        ],
+        "irab_notes": "Tüm 4 geçişte mansub nekre tekil (`سِرَاجًا`) olarak gelir; `25:61` ve `71:16`'da `قَمَر` + `نُور/مُنِير` ile yapısal karşıtlık/tamamlayıcılık kurar."
+      },
+      "derivatives": [
+        {
+          "form": "سِرَاج",
+          "pos": "İsim",
+          "meaning": "Kendi kaynağından ışık (ve ısı) üreterek karanlığı yaran parlak kandil/ocak",
+          "examples": [
+            "25:61",
+            "33:46",
+            "71:16",
+            "78:13"
           ]
         }
       ]

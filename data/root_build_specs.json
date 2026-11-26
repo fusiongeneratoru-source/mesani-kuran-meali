@@ -56816,5 +56816,48 @@
       }
     ],
     "context_default": "Kesintisiz bol akış ve duru parıltı bağlamı"
+  },
+  "س-ر-ج": {
+    "buckwalter": "srj",
+    "slug": "srj",
+    "concept_name": "Sirâc (Kendi Kaynağından Işık ve Isı Yayan Ocak, Parlak Kandil ve Yol Aydınlatıcı)",
+    "root_latin": "S-R-C",
+    "keywords": [
+      "sirac",
+      "kandil",
+      "isik kaynagi",
+      "gunes",
+      "aydinlatici"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "siraAj",
+        "ayahs": [
+          "25:61",
+          "33:46",
+          "71:16",
+          "78:13"
+        ],
+        "label": "Mansûb tekil isim (`سِرَاجًا` — kendi kaynağından ışık [ve kozmik düzlemde ısı] yayan kandil/ocak; 4 geçiş)"
+      }
+    ],
+    "irab_default": "Kendi kaynağından ışık yayan kandil/ocak bildiren `س-ر-ج` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "25:61",
+          "71:16",
+          "78:13"
+        ],
+        "text": "Kozmik Işık ve Isı Ocağı Olarak Güneş (`25:61`, `71:16`, `78:13`): Yansıtıcı aydan (`نُور/مُنِير`) farklı olarak kendi yakıtıyla yanıp ısıtan güneş (`سِرَاج`)."
+      },
+      {
+        "ayahs": [
+          "33:46"
+        ],
+        "text": "Aydınlatıcı Elçi (`33:46`): Karanlıklardan çıkarıp hakikate çağıran aydınlatıcı kandil (`سِرَاجًا مُنِيرًا`)."
+      }
+    ],
+    "context_default": "Karanlığı yaran parlak kandil ve ışık kaynağı bağlamı"
   }
 }
