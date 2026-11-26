@@ -57275,5 +57275,37 @@
       }
     ],
     "context_default": "Hak edilen eylem karşılığının eksiltilmemesi güvencesi bağlamı"
+  },
+  "ن-ب-ز": {
+    "buckwalter": "nbz",
+    "slug": "nbz_laqab",
+    "concept_name": "Tenâbüz (Karşılıklı Kötüleyici Lakap Takışmak ve Aşağılayıcı Damgayla Hitap Etmek)",
+    "root_latin": "N-B-Z",
+    "keywords": [
+      "tenabuz",
+      "nebz",
+      "lakap takismak",
+      "kotuleyici damga",
+      "onur zedeleme"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tanaAbazu",
+        "ayahs": [
+          "49:11"
+        ],
+        "label": "Form VI nehy-i hâzır fiil (`وَلَا تَنَابَزُوا` — karşılıklı incitici/kötüleyici lakaplarla çağrışmayın; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Karşılıklı kötüleyici lakap takıp aşağılayıcı damgayla hitap etmeyi bildiren `ن-ب-ز` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "49:11"
+        ],
+        "text": "Topluluk İçi Karşılıklı Yaftalama Yasağı (`49:11`): Kişiyi rencide eden, geçmiş kusurunu veya yetersizliğini yüzüne vuran lakaplarla birbirine hitap etmenin (`لَا تَنَابَزُوا بِالْأَلْقَابِ`) yasaklanması."
+      }
+    ],
+    "context_default": "Karşılıklı aşağılayıcı lakap takışma yasağı bağlamı"
   }
 }

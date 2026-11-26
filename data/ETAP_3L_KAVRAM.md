@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 14 / 50 Kök (Toplam Mühürlü: 814 Kök | Güncel Kapsam: %95,54)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 15 / 50 Kök (Toplam Mühürlü: 815 Kök | Güncel Kapsam: %95,54)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -21,7 +21,7 @@
 | 12 | Sure %100 Kilidi | 1513 | `ج-س-س` | `C-S-S` | **1** | 1 | 49:12 | Tecessüs (Elle Nabız Yoklar Gibi Başkalarının Gizli ve Mahrem Hallerini Deşip Araştırma) | ✅ **MÜHÜRLÜ** |
 | 13 | Sure %100 Kilidi | 1512 | `ل-ق-ب` | `L-K-B` | **1** | 1 | 49:11 | Elkab (Aslî Adın Dışında Kişiye Sonradan Takılan Nitelendirici/Yaftalayıcı Lakap) | ✅ **MÜHÜRLÜ** |
 | 14 | Sure %100 Kilidi | 1514 | `ل-ي-ت` | `L-Y-T` | **1** | 1 | 49:14 | Leyt / Lâte-Yelîtu (Hak Edilen Karşılıktan Bir Parça Eksiltmek, Kırpmak ve Noksanlaştırmak) | ✅ **MÜHÜRLÜ** |
-| 15 | Sure %100 Kilidi | 1511 | `ن-ب-ز` | `N-B-Z` | **1** | 1 | 49:11 | Tenâbüz (Sure 49 Hucurât son kilidi: 49:11 karşılıklı kötü lakaplar fırlatarak birbirini aşağılamak) | ⏳ *Bekliyor* |
+| 15 | Sure %100 Kilidi | 1511 | `ن-ب-ز` | `N-B-Z` | **1** | 1 | 49:11 | Tenâbüz (Karşılıklı Kötüleyici Lakap Takışmak ve Aşağılayıcı Damgayla Hitap Etmek) | ✅ **MÜHÜRLÜ** |
 | 16 | Sure %100 Kilidi | 652 | `س-ت-ت` | `S-T-T` | **8** | 8 | 7:54 | Sitte ve Sittîn (Sure 58 Mücâdele kilidi + 8 geçiş: 7:54, 10:3, 11:7, 25:59, 32:4, 50:38, 57:4, 58:4 altı sayısı — altı evre/gün ve altmış yoksulu doyurma ölçüsü) | ⏳ *Bekliyor* |
 | 17 | Sure %100 Kilidi | 641 | `خ-م-س` | `H-M-S` | **8** | 8 | 3:125 | Hamse, Hâmis ve Humus (Sure 58 Mücâdele kilidi + 8 geçiş: 3:125, 8:41, 18:22, 24:7, 24:9, 29:14, 58:7, 70:4 beş sayısı, beşinci ve beşte bir payı) | ⏳ *Bekliyor* |
 | 18 | Sure %100 Kilidi | 779 | `س-د-س` | `S-D-S` | **5** | 4 | 4:11 | Sâdis ve Südüs (Sure 58 Mücâdele kilidi + 5 geçiş: 4:11, 4:12, 18:22, 58:7 altıncı ve miras paylaşımındaki altıda bir hisse) | ⏳ *Bekliyor* |
