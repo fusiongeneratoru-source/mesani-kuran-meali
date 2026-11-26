@@ -61518,5 +61518,76 @@
       }
     ],
     "context_default": "Ayırma/ayrılma ve olumsuzlukla kesintisiz süreklilik bağlamı"
+  },
+  "م-ل-و": {
+    "buckwalter": "mlw",
+    "slug": "mlw",
+    "concept_name": "İmlâ ve Meliyy (Süreyi Uzatıp Mühlet Tanımak, Uzun Bir Zaman Dilimi ve Süreklilikle Yazdırıp Okumak)",
+    "root_latin": "M-L-W",
+    "keywords": [
+      "imla",
+      "meliyy",
+      "muhlet vermek",
+      "sureyi uzatmak",
+      "uzun zaman",
+      "yazdirmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">amolaY`",
+        "ayahs": [
+          "3:178",
+          "7:183",
+          "13:32",
+          "22:44",
+          "22:48",
+          "47:25",
+          "68:45"
+        ],
+        "label": "Form IV (İf'âl) etken fiil (`نُمْلِى` 2x `3:178`, `أُمْلِى` `7:183, 68:45`, `أَمْلَيْتُ` `13:32, 22:44, 22:48`, `أَمْلَىٰ` `47:25` — azgınlara/hakikati örtenlere süre uzatıp mühlet tanımak; `47:25`'te saptırıcının uzun kuruntular/mühlet hissi vermesi; 8 geçiş)"
+      },
+      {
+        "lemma": ">amolaY`",
+        "ayahs": [
+          "25:5"
+        ],
+        "label": "Form IV (İf'âl) edilgen muzâri fiil (`فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا` — iftiracıların 'sabah akşam ona yazdırılıp/dikte edilip okunuyor' iddiası; 1 geçiş)"
+      },
+      {
+        "lemma": "maliy~",
+        "ayahs": [
+          "19:46"
+        ],
+        "label": "Zaman zarfı olarak sıfat/isim (`وَٱهْجُرْنِى مَلِيًّا` — İbrahim'in babasının 'uzun bir süre benden uzaklaş!' sözü; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Süreyi uzatmayı, mühlet tanımayı veya uzun zaman dilimini bildiren `م-ل-و` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:178",
+          "7:183",
+          "13:32",
+          "22:44",
+          "22:48",
+          "68:45"
+        ],
+        "text": "Allah'ın İmlâsı — Süre Tanıyıp Ardından Hesaba Çekmek (`3:178`, `7:183`, `13:32`, `22:44`, `22:48`, `68:45`): Hakikati örtenlere ve zulmeden kentlere tanınan uzun mühletin (`إِمْلَاء`) onların lehine bir onay değil, sorumluluklarını artıran sınama süresi olduğu ve ardından kesin yakalayışın (`ثُمَّ أَخَذْتُهُمْ`) geldiği ilkesi."
+      },
+      {
+        "ayahs": [
+          "47:25"
+        ],
+        "text": "Saptırıcının Uzun Emel Vermesi (`47:25`): Doğru yol kendilerine apaçık belli olduktan sonra geri dönenlere azgın saptırıcının kötülüğü süslemesi ve onlara uzun süre/boş umut (`وَأَمْلَىٰ لَهُمْ`) aşılaması."
+      },
+      {
+        "ayahs": [
+          "19:46",
+          "25:5"
+        ],
+        "text": "Uzun Zaman Dilimi ve Sabah Akşam Yazdırılma İddiası (`19:46`, `25:5`): İbrahim'in babasının 'uzun bir süre (`مَلِيًّا`) benden ayrıl' tehdidi (`19:46`) ile elçiye yönelik 'öncekilerin masallarını yazdırıyor da sabah akşam ona okunup dikte ediliyor (`تُمْلَىٰ عَلَيْهِ`)' iftirası (`25:5`)."
+      }
+    ],
+    "context_default": "Zamanı uzatma, mühlet tanıma ve sürekli dikte/yazdırma bağlamı"
   }
 }

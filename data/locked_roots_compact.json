@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 898,
+    "total_locked": 899,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -693,7 +693,8 @@
         "أ-خ-ر (أ-خ-ر ↔ أ-خ-ذ Mesânî simetrisi)",
         "ل-ق-ي (ل-ق-ي ↔ أ-خ-ذ Mesânî simetrisi)",
         "ف-و-ت",
-        "ن-ب-ذ (N-B-Z (nb*) — Çift Yönlü Mesânî Karşılığı: 3:187, 28:40, 51:40)"
+        "ن-ب-ذ (N-B-Z (nb*) — Çift Yönlü Mesânî Karşılığı: 3:187, 28:40, 51:40)",
+        "م-ل-و (İmlâ: zulmedenlere süre tanıyıp serbest bırakmak ↔ أ-خ-ذ süre dolduğunda ansızın yakalayıp hesaba çekmek — `13:32`, `22:44`, `22:48` `أَمْلَيْتُ ... ثُمَّ أَخَذْتُهُمْ`)"
       ]
     },
     "خ-ل-ق": {
@@ -5848,7 +5849,8 @@
         "س-ن-و (`22:47` `وَيَسْتَعْجِلُونَكَ ... وَإِنَّ يَوْمًا عِندَ رَبِّكَ كَأَلْفِ سَنَةٍ` — aceleyle hemen istemek karşısında uzun vadeli bin yıllık ölçü)",
         "ر-ب-ص (ر-ب-ص ↔ ع-ج-ل Mesânî simetrisi)",
         "ش-ف-ق (Ş-F-Q ($fq) — Çift Yönlü Mesânî Karşılığı: `42:18` [يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا] — hakikati örtenlerin saati alayla acele istemesi `يَسْتَعْجِلُ` ↔ inananların ondan titrek bir duyarlıkla sakınması `مُشْفِقُونَ`)",
-        "م-ه-ل (M-H-L (mhl) — Çift Yönlü Mesânî Karşılığı: `73:11`, `86:17` [وَمَهِّلْهُمْ قَلِيلًا / فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا] — ağırdan alıp ölçülü süre tanımak `تَمْهِيل / إِمْهَال` ↔ hemen hızlandırıp acele etmek `عَجَلَة`)"
+        "م-ه-ل (M-H-L (mhl) — Çift Yönlü Mesânî Karşılığı: `73:11`, `86:17` [وَمَهِّلْهُمْ قَلِيلًا / فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا] — ağırdan alıp ölçülü süre tanımak `تَمْهِيل / إِمْهَال` ↔ hemen hızlandırıp acele etmek `عَجَلَة`)",
+        "م-ل-و (İmlâ/Meliyy: süreyi uzatıp uzun mühlet tanımak ↔ ع-ج-ل acele edip hemen karşılığını vermek — `3:178`, `13:32`, `22:48`)"
       ]
     },
     "ت-ر-ك": {
@@ -11225,6 +11227,15 @@
       "opposites": [
         "و-ص-ل (Bağlayıp bitiştirmek ↔ ز-ي-ل aradaki bağı ayırıp koparmak — `10:28`)",
         "ج-م-ع (Bir araya toplayıp birleştirmek ↔ ز-ي-ل birbirinden ayırıp seçmek — `10:28` `نَحْشُرُهُمْ جَمِيعًا ... فَزَيَّلْنَا بَيْنَهُمْ`)"
+      ]
+    },
+    "م-ل-و": {
+      "latin": "M-L-W",
+      "core": "`م-ل-و` kökü 10 geçişinde **'zamanı ve süreyi uzatıp genişletmek (`مَلِيًّا`), sınama gereği uzun mühlet tanımak (`أَمْلَىٰ لَـ`) ve süreklilikle dikte edip yazdırmak (`تُمْلَىٰ عَلَيْهِ`)'** çekirdeğini işler.",
+      "physical": "Bir zaman diliminin veya mesafenin ileriye doğru kesintisiz uzayıp genişlemesi (`امْتِدَادٌ فِي شَيْءٍ زَمَانٍ أَوْ غَيْرِهِ` — deve yularını gevşetip salıvererek uzun mesafe tanımak gibi süre uzatmak).",
+      "opposites": [
+        "ع-ج-ل (Acele edip hemen karşılığını vermek ↔ م-ل-و süreyi uzatıp uzun mühlet tanımak)",
+        "أ-خ-ذ (Süre dolduğunda ansızın yakalayıp hesaba çekmek ↔ م-ل-و süre tanıyıp serbest bırakmak — `13:32`, `22:44`, `22:48`)"
       ]
     }
   }
