@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 5 / 50 Kök (Toplam Mühürlü: 855 Kök | Güncel Kapsam: %95,99)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 6 / 50 Kök (Toplam Mühürlü: 856 Kök | Güncel Kapsam: %95,99)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -12,7 +12,7 @@
 | 3 | Sure %100 Kilidi | 1049 | `م-ز-ج` | `M-Z-C` | **3** | 3 | 76:5 | Mizâc (İki Sıvı veya Özün Dengeli Biçimde Karıştırılıp Harmanlanması) | ✅ **MÜHÜRLÜ** |
 | 4 | Sure %100 Kilidi | 1048 | `ن-ض-ر` | `N-D-R` | **3** | 3 | 75:22 | Nadra ve Nâdıra (Yüzdeki Taze Parlaklık, Canlılık ve Esenlik Işıltısı) | ✅ **MÜHÜRLÜ** |
 | 5 | Sure %100 Kilidi | 1001 | `ر-ق-م` | `R-K-M` | **3** | 3 | 18:9 | Rakîm ve Merkûm (Silinmez Biçimde Çizilip İşlenmiş, Damgalı ve Kesin Kayıt) | ✅ **MÜHÜRLÜ** |
-| 6 | Sure %100 Kilidi | 1603 | `ط-ف-ف` | `T-F-F` | **1** | 1 | 83:1 | Mutaffifîn (Sure 83 Mutaffifîn kilidi: 83:1 ölçü ve tartıda alırken tam, verirken ufak ufak kırpıp eksiltenler) | ⏳ *Bekliyor* |
+| 6 | Sure %100 Kilidi | 1603 | `ط-ف-ف` | `T-F-F` | **1** | 1 | 83:1 | Tatfîf ve Mutaffifîn (Ölçü ve Tartının Üst Kenarından Küçük Paylar Çalıp Eksiltmek) | ✅ **MÜHÜRLÜ** |
 | 7 | Sure %100 Kilidi | 1607 | `غ-م-ز` | `G-M-Z` | **1** | 1 | 83:30 | Yetegâmezûn (Sure 83 Mutaffifîn kilidi: 83:30 yanlarından geçerken kaş-göz işaretiyle alaylı biçimde fısıldaşmak) | ⏳ *Bekliyor* |
 | 8 | Sure %100 Kilidi | 1605 | `ر-ح-ق` | `R-H-K` | **1** | 1 | 83:25 | Rahîk (Sure 83 Mutaffifîn kilidi: 83:25 tortusuz, katkısız ve saf içecek) | ⏳ *Bekliyor* |
 | 9 | Sure %100 Kilidi | 1604 | `ر-ي-ن` | `R-Y-N` | **1** | 1 | 83:14 | Râne (Sure 83 Mutaffifîn kilidi: 83:14 işlenenlerin kalbin üzerini pas/kir tabakası gibi kaplayıp örtmesi) | ⏳ *Bekliyor* |
