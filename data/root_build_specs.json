@@ -54044,5 +54044,44 @@
       }
     ],
     "context_default": "Tam örtüşen katman ve evre bağlamı"
+  },
+  "ك-د-ح": {
+    "buckwalter": "kdH",
+    "slug": "kdh",
+    "concept_name": "Kedh / Kâdih (İz Bırakan Yorucu Emek ve Kesintisiz Didinme)",
+    "keywords": [
+      "kedh",
+      "kadih",
+      "didinme",
+      "mesakkatli emek",
+      "yorucu caba",
+      "asindiran gayret"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "kaAdiH",
+        "ayahs": [
+          "84:6"
+        ],
+        "label": "Merfû etken ortaç (`إِنَّكَ كَادِحٌ` — `إِنَّ` haberi: yorucu ve kesintisiz emekle didinen; 1 geçiş: 84:6)"
+      },
+      {
+        "lemma": "kadoH",
+        "ayahs": [
+          "84:6"
+        ],
+        "label": "Mansub masdar (`كَدْحًا` — `كَادِحٌ` için pekiştirici mef'ûl-i mutlak: yoğun meşakkatle didinerek; 1 geçiş: 84:6)"
+      }
+    ],
+    "irab_default": "Yorucu ve iz bırakan emek bildiren `ك-د-ح` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "84:6"
+        ],
+        "text": "İnsanın Rabbine Doğru Yorucu Yürüyüşü (`84:6`): İnsanın ömür boyu üzerinde iz bırakan kesintisiz bir meşakkatle Rabbine doğru yol alıp sonunda O'na ve emeğinin karşılığına kavuşması."
+      }
+    ],
+    "context_default": "Yorucu emek ve didinme bağlamı"
   }
 }
