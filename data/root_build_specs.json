@@ -56391,5 +56391,93 @@
       }
     ],
     "context_default": "Engin su veya kasten yönelme bağlamı"
+  },
+  "ج-م-ل": {
+    "buckwalter": "jml",
+    "slug": "jml",
+    "concept_name": "Cemîl, Cemâl, Cümle ve Cemel (Ahlaki Zarafet, Görsel Güzellik, Toptan Bütünlük ve Deve)",
+    "keywords": [
+      "cemil",
+      "cemal",
+      "cumle",
+      "cemel",
+      "cimalet",
+      "ahlaki zarafet",
+      "deve",
+      "toptan"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jamiyl",
+        "ayahs": [
+          "12:18",
+          "12:83",
+          "15:85",
+          "33:28",
+          "33:49",
+          "70:5",
+          "73:10"
+        ],
+        "label": "`فَعِيل` sıfatı (`جَمِيل` — yakınmasız direnç, zarif bağışlama, incitmeden ayrılma ve mesafe koyma; 7 geçiş)"
+      },
+      {
+        "lemma": "jamaAl",
+        "ayahs": [
+          "16:6"
+        ],
+        "label": "Merfû isim (`جَمَالٌ` — sürülerdeki görsel güzellik ve görkem; 1 geçiş)"
+      },
+      {
+        "lemma": "jumolap",
+        "ayahs": [
+          "25:32"
+        ],
+        "label": "Mansûb hâl (`جُمْلَةً وَٰحِدَةً` — tek bütün halinde toptan; 1 geçiş)"
+      },
+      {
+        "lemma": "jamal",
+        "ayahs": [
+          "7:40"
+        ],
+        "label": "Merfû fail (`ٱلْجَمَلُ` — iri deve / kalın halat; 1 geçiş)"
+      },
+      {
+        "lemma": "jima`lat",
+        "ayahs": [
+          "77:33"
+        ],
+        "label": "Merfû çoğul isim (`جِمَٰلَتٌ صُفْرٌ` — kıvılcımların benzetildiği sarı deve sürüleri; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Güzellik, bütünlük veya deve bildiren `ج-م-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:18",
+          "12:83",
+          "15:85",
+          "33:28",
+          "33:49",
+          "70:5",
+          "73:10"
+        ],
+        "text": "Zorlu Anlarda Ahlaki Zarafet (`12:18`, `12:83`, `15:85`, `33:28`, `33:49`, `70:5`, `73:10`): Yakınmasız dirençli duruş (`صَبْرٌ جَمِيل`), başa kakmasız hoşgörü (`صَفْح`), incitmeden boşanma (`سَرَاح`) ve kırmadan uzaklaşma (`هَجْر`)."
+      },
+      {
+        "ayahs": [
+          "16:6",
+          "25:32"
+        ],
+        "text": "Sürülerdeki Güzellik ve Toptan İndirme Talebi (`16:6`, `25:32`): Hayvanların sabah-akşam hareketindeki estetik görkem (`جَمَال`) ve Kur'an'ın tek bütün (`جُمْلَةً`) yerine aşama aşama indirilmesi."
+      },
+      {
+        "ayahs": [
+          "7:40",
+          "77:33"
+        ],
+        "text": "İri Deve ve Kıvılcım Sürüleri İmgesi (`7:40`, `77:33`): İmkânsızlık ölçütü olarak devenin iğne deliğinden geçişi ve ateş kıvılcımlarının sarı deve sürülerine benzetilmesi."
+      }
+    ],
+    "context_default": "Güzellik, bütünlük veya deve bağlamı"
   }
 }
