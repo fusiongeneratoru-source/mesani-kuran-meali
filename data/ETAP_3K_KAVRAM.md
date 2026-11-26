@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 25 / 50 Kök (Toplam Mühürlü: 775 Kök | Güncel Kapsam: %95,01)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 26 / 50 Kök (Toplam Mühürlü: 776 Kök | Güncel Kapsam: %95,01)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -32,7 +32,7 @@
 | 23 | Sure %100 Kilidi | 774 | `خ-ي-ب` | `H-Y-B` | **5** | 5 | 3:127 | Haybe (Çabanın Boşa Çıkması ve Mahrumiyet) | ✅ **MÜHÜRLÜ** |
 | 24 | Sure %100 Kilidi | 1617 | `ط-ح-و` | `T-H-W` | **1** | 1 | 91:6 | Tahv (Yeryüzünü Her Yöne Genişletip Yaymak) | ✅ **MÜHÜRLÜ** |
 | 25 | Sure %100 Kilidi | 1620 | `د-م-د-م` | `D-M-D-M` | **1** | 1 | 91:14 | Demdeme (Üstünü Yıkımla Örtüp Ezerek Yerle Bir Etmek) | ✅ **MÜHÜRLÜ** |
-| 26 | Sure %100 Kilidi | 1619 | `د-س-و` | `D-S-W` | **1** | 1 | 91:10 | Dessâhâ (Sure 91 Şems kilidi: 91:10 benliğini kötülüğe gömüp bastırarak karartmak) | ⏳ *Bekliyor* |
+| 26 | Sure %100 Kilidi | 1619 | `د-س-و` | `D-S-W` | **1** | 1 | 91:10 | Tedsiye / Desv (Öz Benliği Bastırıp Gömerek Köreltmek) | ✅ **MÜHÜRLÜ** |
 | 27 | Sure %100 Kilidi | 1618 | `ل-ه-م` | `L-H-M` | **1** | 1 | 91:8 | Elhemehâ (Sure 91 Şems son kilidi: 91:8 içine yuttururcasına yerleştirip sezgi ve ahlaki ayırt etme kabiliyeti vermek) | ⏳ *Bekliyor* |
 | 28 | Sure %100 Kilidi | 540 | `ن-ط-ق` | `N-T-K` | **12** | 11 | 21:63 | Nutk ve Mantık (Sure 45 Câsiye kilidi + 12 geçiş: 21:63, 21:65, 23:62, 27:16, 41:21, 45:29, 51:23, 53:3, 77:35 açık ve anlaşılır sesli sözle konuşmak) | ⏳ *Bekliyor* |
 | 29 | Sure %100 Kilidi | 585 | `ح-ي-ق` | `H-Y-K` | **10** | 10 | 6:10 | Hâka / Yahîku (Sure 45 Câsiye kilidi + 10 geçiş: 6:10, 11:8, 16:34, 21:41, 35:43, 39:48, 40:83, 45:33, 46:26 alay ve tuzağın dönüp dolaşıp sahibini çepeçevre kuşatması) | ⏳ *Bekliyor* |

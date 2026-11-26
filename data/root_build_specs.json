@@ -55001,5 +55001,37 @@
       }
     ],
     "context_default": "Kuşatıcı yıkım ve yerle bir etme bağlamı"
+  },
+  "د-س-و": {
+    "buckwalter": "dsw",
+    "slug": "dsw",
+    "concept_name": "Tedsiye / Desv (Öz Benliği Bastırıp Gömerek Köreltmek)",
+    "keywords": [
+      "tedsiye",
+      "dessaha",
+      "benligi koreltmek",
+      "bastirip gommek",
+      "tezkiye karsiti",
+      "sems suresi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "das~aY`",
+        "ayahs": [
+          "91:10"
+        ],
+        "label": "Mâzi fiil + müennes zamir (`دَسَّىٰهَا` — öz benliğini bastırıp gömerek köreltmek; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Bastırıp gömerek köreltme bildiren `د-س-و` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "91:10"
+        ],
+        "text": "Tezkiye ↔ Tedsiye Öz-Ahlâk Ekseni (`91:9-10`): İnsanın benliğini arındırıp büyüterek verime ermesine (`زَكَّىٰهَا / أَفْلَحَ`) karşılık, onu bastırıp körelterek boşa çıkması (`دَسَّىٰهَا / خَابَ`)."
+      }
+    ],
+    "context_default": "Öz benliği bastırıp köreltme bağlamı"
   }
 }
