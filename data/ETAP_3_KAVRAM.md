@@ -5,7 +5,7 @@
 > **HEDEF KAPSAM:** İlk 221 kök (`100` Top 100 + `5` Çekirdek + `100` İkinci 100 + `16` Etap 2.5 = **%77,12**) mühürlendikten sonra, Faz 2 ayet çözümlemesine geçmeden önce geleneksel algıda en çok anlam kaymasına uğrayan kavramları ve açık Mesânî/Furûk eşleniklerini kapatan **131 kök** (2979 geçiş) iki aşamada mühürlenir:
 > - **⭐ Etap 3A (Çekirdek Kafa Karıştırıcılar):** 55 / 55 Kök (1509 geçiş -> **%80,14** kümülatif kapsam)
 > - **Etap 3B (Tam Mesânî, Furûk, Hukuk ve Zihin Zırhı):** 76 / 76 Kök (1470 geçiş -> **%83,08** kümülatif kapsam)
-> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 131 / 131 Kök (Toplam Mühürlü: 787 Kök)
+> **Etap 3 İçinde Şu Ana Kadar Mühürlenen:** 131 / 131 Kök (Toplam Mühürlü: 788 Kök)
 
 | Etap Sıra | Paket | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |

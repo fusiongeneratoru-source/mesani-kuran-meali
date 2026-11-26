@@ -55637,5 +55637,71 @@
       }
     ],
     "context_default": "Tam suskunluk bağlamı"
+  },
+  "ع-ص-و": {
+    "buckwalter": "ESw",
+    "slug": "esw",
+    "concept_name": "Asâ ve Isîy (Dayanılan Değnek, Asa ve Musa Kıssasında Hakikat İşareti)",
+    "keywords": [
+      "asa",
+      "asahu",
+      "isiy",
+      "degnek",
+      "musa asasi",
+      "kayadan su",
+      "denizin yarilmasi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EaSaA2",
+        "ayahs": [
+          "2:60",
+          "7:107",
+          "7:117",
+          "7:160",
+          "20:18",
+          "26:32",
+          "26:45",
+          "26:63",
+          "27:10",
+          "28:31"
+        ],
+        "label": "Zamire muzâf tekil müennes isim (`عَصَاكَ / عَصَاهُ / عَصَاىَ` — Musa'nın asası; 10 geçiş)"
+      },
+      {
+        "lemma": "EiSiy~",
+        "ayahs": [
+          "20:66",
+          "26:44"
+        ],
+        "label": "Zamire muzâf kırık çoğul isim (`عِصِيُّهُمْ / عِصِيَّهُمْ` — büyücülerin değnekleri; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Değnek/asa bildiren `ع-ص-و` ismi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:107",
+          "7:117",
+          "20:18",
+          "20:66",
+          "26:32",
+          "26:44",
+          "26:45",
+          "27:10",
+          "28:31"
+        ],
+        "text": "Gündelik Değnekten Hakikat Kanıtına ve İllüzyonla Karşılaşma (`7:107`, `7:117`, `20:18`, `20:66`, `26:32`, `26:44-45`, `27:10`, `28:31`): Musa'nın sıradan çoban asasının Firavun büyücülerinin değnek ve iplerini yutan gerçek ayete dönüşmesi."
+      },
+      {
+        "ayahs": [
+          "2:60",
+          "7:160",
+          "26:63"
+        ],
+        "text": "Kayadan Pınar Fışkırtma ve Denizi Yarma (`2:60`, `7:160`, `26:63`): Asayla kayaya vurularak on iki su pınarının açılması ve denize vurularak kurtuluş yolunun yarılması."
+      }
+    ],
+    "context_default": "Musa kıssasında asa ve değnek bağlamı"
   }
 }
