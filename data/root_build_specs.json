@@ -60633,5 +60633,37 @@
       }
     ],
     "context_default": "Sırtını gerip uzatarak kibirle çalım satıp yürüme bağlamı"
+  },
+  "ت-ر-ق": {
+    "buckwalter": "trq",
+    "slug": "trq_taraqi",
+    "concept_name": "Terâkî (Köprücük Kemikleri — Canın Çıkış Eşiğindeki Üst Göğüs/Boğaz Sınırı)",
+    "root_latin": "T-R-Q",
+    "keywords": [
+      "teraki",
+      "terkuve",
+      "koprucuk kemigi",
+      "bogaz esigi",
+      "can cekisme"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "t~araAqiY",
+        "ayahs": [
+          "75:26"
+        ],
+        "label": "Kırık çoğul isim (`كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ`, tekili `تَرْقُوَة` — can/soluk göğsün üst sınırındaki köprücük kemiklerine dayandığında; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Boğaz çukuruyla omuz başı arasındaki köprücük kemiklerini bildiren `ت-ر-ق` çoğul ismi (`ٱلتَّرَاقِىَ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "75:26"
+        ],
+        "text": "Canın Köprücük Kemiklerine Dayanma Anı (`75:26`): `75:26-30` sahnesinde canın/soluğun üst göğüs sınırına (`ٱلتَّرَاقِىَ`) ulaştığı, çevredekilerin 'kurtaracak kim var?' (`مَنْ رَاقٍ`) dediği ve kişinin kesin ayrılık anını anladığı son eşik."
+      }
+    ],
+    "context_default": "Canın köprücük kemiklerine dayandığı ölüm eşiği bağlamı"
   }
 }
