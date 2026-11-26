@@ -59440,5 +59440,54 @@
       }
     ],
     "context_default": "İçeceğe tat, rayiha ve denge katan karışım bağlamı"
+  },
+  "ن-ض-ر": {
+    "buckwalter": "nDr",
+    "slug": "ndr",
+    "concept_name": "Nadra ve Nâdıra (Yüzdeki Taze Parlaklık, Canlılık ve Esenlik Işıltısı)",
+    "root_latin": "N-D-R",
+    "keywords": [
+      "nadra",
+      "nadira",
+      "parlaklik",
+      "tazelik",
+      "yuz isiltisi",
+      "canlilik",
+      "esenlik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "n~aADirap",
+        "ayahs": [
+          "75:22"
+        ],
+        "label": "Dişil ism-i fâil (`وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ` — o gün taze, canlı ve ışıl ışıl parlayan yüzler; 1 geçiş)"
+      },
+      {
+        "lemma": "naDorap",
+        "ayahs": [
+          "76:11",
+          "83:24"
+        ],
+        "label": "Masdar/isim (`نَضْرَةً وَسُرُورًا` `76:11`, `نَضْرَةَ ٱلنَّعِيمِ` `83:24` — yüzde açıkça okunan taze parlaklık ve esenlik ışıltısı; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Yüzde beliren taze parlaklığı ve canlı güzelliği bildiren `ن-ض-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "75:22"
+        ],
+        "text": "Rabbine Yönelen Parlak Yüzler (`75:22`): `نَّاضِرَةٌ` (taze ve ışıl ışıl) yüzlerin hemen ardından `إِلَىٰ رَبِّهَا نَاظِرَةٌ` (`75:23`) ile Rabbine bakan esenlik hâli."
+      },
+      {
+        "ayahs": [
+          "76:11",
+          "83:24"
+        ],
+        "text": "Yüzde Okunan Esenlik Işıltısı (`76:11`, `83:24`): O günün şerrinden korunup yüzlerine taze parlaklık ve sevinç (`نَضْرَةً وَسُرُورًا`) verilenler ile yüzlerinde esenlik ve nimet ışıltısı (`نَضْرَةَ ٱلنَّعِيمِ`) hemen tanınanlar."
+      }
+    ],
+    "context_default": "Yüzde beliren taze parlaklık ve canlı esenlik ışıltısı bağlamı"
   }
 }
