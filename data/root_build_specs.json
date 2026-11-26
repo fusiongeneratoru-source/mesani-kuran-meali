@@ -60739,5 +60739,47 @@
       }
     ],
     "context_default": "İleri doğru yaklaşma, yaklaştırma ve yakınlık mertebesi bağlamı"
+  },
+  "أ-ف-ق": {
+    "buckwalter": "Afq",
+    "slug": "afq",
+    "concept_name": "Ufuk ve Âfâk (Gök ve Yerin Uzak Uçlara Açılan Geniş Çevresi / Dış Âlem Ufukları)",
+    "root_latin": "A-F-Q",
+    "keywords": [
+      "ufuk",
+      "afak",
+      "dis alem",
+      "genislik",
+      "yuksek ufuk",
+      "apacik ufuk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">ufuq",
+        "ayahs": [
+          "41:53",
+          "53:7",
+          "81:23"
+        ],
+        "label": "Tekil ve kırık çoğul isim (`فِى ٱلْءَافَاقِ` `41:53` — dış evrenin tüm geniş ufuklarında; `بِٱلْأُفُقِ ٱلْأَعْلَىٰ` `53:7` — en yüce ufukta; `بِٱلْأُفُقِ ٱلْمُبِينِ` `81:23` — apaçık aydınlık ufukta; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Gök ve yerin uzak uçlara açılan geniş sınırını ve dış ufukları bildiren `أ-ف-ق` ismi (`أُفُق` / `آفَاق`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "41:53"
+        ],
+        "text": "Dış Ufuklar ve İç Dünya İşaretleri (`41:53`): Hakikatin apaçık anlaşılması için Allah'ın işaretlerini hem dış evrenin uzak ufuklarında (`فِى ٱلْءَافَاقِ`) hem de insanların kendi iç dünyalarında (`وَفِىٓ أَنفُسِهِمْ`) göstereceği vaadi."
+      },
+      {
+        "ayahs": [
+          "53:7",
+          "81:23"
+        ],
+        "text": "Vahiy Elçisinin Apaçık ve Yüce Ufukta Görülmesi (`53:7`, `81:23`): Kur'an mesajının karanlıkta fısıldanan bir kuruntu değil, `بِٱلْأُفُقِ ٱلْأَعْلَىٰ` (en yüce ufukta) ve `بِٱلْأُفُقِ ٱلْمُبِينِ` (apaçık seçilen ufukta) berrak biçimde tanık olunan bir hakikat oluşu."
+      }
+    ],
+    "context_default": "Uzak uçlara açılan geniş ufuk ve dış âlem bağlamı"
   }
 }
