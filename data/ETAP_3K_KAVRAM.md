@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 750 mühürlü kökten (`%94,81`) sonra, `5` sureyi daha `%100` kilitleyen `35` kök (Sure 84 İnşikâk, 86 Târık, 90 Beled, 91 Şems, 45 Câsiye → **40 tam kilitli sure**; Sure 60–66 ve Sure 90–114 [son 25 sure] kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî tepe uçları (`2` kök), kalan tüm `12` geçişli çekirdek kökler (`7` kök) ve `11` geçişli açık Mesânî/Furûk çekirdek kökleri (`6` kök) olmak üzere **50 kök** (308 geçiş) mühürlenerek toplam sözlük **800 kilitli köke (`%95,43` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,05`'i)** ulaştırılır.
-> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 38 / 50 Kök (Toplam Mühürlü: 788 Kök | Güncel Kapsam: %95,15)
+> **Etap 3K İçinde Şu Ana Kadar Mühürlenen:** 39 / 50 Kök (Toplam Mühürlü: 789 Kök | Güncel Kapsam: %95,18)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -45,7 +45,7 @@
 | 36 | Açık Mesânî Zırhı | 777 | `ل-ي-ن` | `L-Y-N` | **5** | 5 | 3:159 | Lîn ve Leyyin (Katılıktan Çözülüp Yumuşamak, Esneklik ve Yumuşak Söz) | ✅ **MÜHÜRLÜ** |
 | 37 | Açık Mesânî Zırhı | 1315 | `ص-م-ت` | `S-M-T` | **1** | 1 | 7:193 | Samt ve Sâmitûn (Tek Ses Çıkarmayıp Bütünüyle Suskun Kalmak) | ✅ **MÜHÜRLÜ** |
 | 38 | Yüksek Frekanslı Çekirdek | 512 | `ع-ص-و` | `A-S-W` | **12** | 12 | 2:60 | Asâ ve Isîy (Dayanılan Değnek, Asa ve Musa Kıssasında Hakikat İşareti) | ✅ **MÜHÜRLÜ** |
-| 39 | Yüksek Frekanslı Çekirdek | 525 | `ط-ي-ن` | `T-Y-N` | **12** | 12 | 3:49 | Tîn (12 geçiş: 3:49, 5:110, 6:2, 7:12, 17:61, 23:12, 28:38, 32:7, 37:11, 38:71, 38:76, 51:33 su ile yoğrulup biçim alan balçık/çamur) | ⏳ *Bekliyor* |
+| 39 | Yüksek Frekanslı Çekirdek | 525 | `ط-ي-ن` | `T-Y-N` | **12** | 12 | 3:49 | Tîn (Suyla Yoğrulmuş Toprak, Balçık ve Kil) | ✅ **MÜHÜRLÜ** |
 | 40 | Yüksek Frekanslı Çekirdek | 524 | `ك-ن-ن` | `K-N-N` | **12** | 12 | 2:235 | Kinn, Eknân ve Meknûn (12 geçiş | 1M: ع-ر-ض + 2F: 2:235, 6:25, 16:81, 17:46, 18:57, 27:74, 28:69, 37:49, 41:5, 52:24, 56:23, 56:78 koruyucu örtü ve sığınak içinde gizleyip muhafaza etmek) | ⏳ *Bekliyor* |
 | 41 | Yüksek Frekanslı Çekirdek | 519 | `ل-ح-م` | `L-H-M` | **12** | 12 | 2:173 | Lahm ve Lühûm (12 geçiş | 1M: ع-ظ-م: 2:173, 2:259, 5:3, 6:145, 16:14, 16:115, 22:37, 23:14, 35:12, 49:12, 52:22, 56:21 kemiği örten kas/et dokusu ve yiyecek et) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 539 | `ن-ط-ف` | `N-T-F` | **12** | 12 | 16:4 | Nutfe (12 geçiş | 2F: 16:4, 18:37, 22:5, 23:13, 23:14, 35:11, 36:77, 40:67, 53:46, 75:37, 76:2, 80:19 süzülüp damlayan saf ve küçücük sıvı damlası) | ⏳ *Bekliyor* |
