@@ -60183,5 +60183,59 @@
       }
     ],
     "context_default": "Küçücük oyma çukuru veya keskin sesle çınlayan boru bağlamı"
+  },
+  "ر-ه-ن": {
+    "buckwalter": "rhn",
+    "slug": "rhn",
+    "concept_name": "Rehin ve Rihân (Bir Hakka veya Kendi Kazancına Karşılık Tutulup Bağlı Kalmak / Güvence Rehin)",
+    "root_latin": "R-H-N",
+    "keywords": [
+      "rehin",
+      "rihan",
+      "guvence",
+      "bagli kalmak",
+      "sorumluluk",
+      "borc teminati"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "riha`n",
+        "ayahs": [
+          "2:283"
+        ],
+        "label": "Kırık çoğul isim (`فَرِهَٰنٌ مَّقْبُوضَةٌ` — yolculukta yazıcı bulunmadığında borç güvencesi olarak teslim alınıp tutulan rehinler; 1 geçiş)"
+      },
+      {
+        "lemma": "rahiyn",
+        "ayahs": [
+          "52:21"
+        ],
+        "label": "Eril fa'îl sıfatı (`كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌ` — her kişinin kendi yapıp kazandığına karşılık bağlı/rehin olması; 1 geçiş)"
+      },
+      {
+        "lemma": "rahiynap",
+        "ayahs": [
+          "74:38"
+        ],
+        "label": "Dişil fa'îl sıfatı (`كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ` — her canın/kişinin kendi kazandığına karşılık rehin tutulması; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Bir hak veya eylem karşılığında tutulup bağlı kalmayı bildiren `ر-ه-ن` ismi/sıfatı",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:283"
+        ],
+        "text": "Hukuki Borç Güvencesi (`2:283`): Yolculukta borç yazacak kâtip bulunmadığında hakkı koruyan somut güvence olarak teslim alınan rehin (`فَرِهَٰنٌ مَّقْبُوضَةٌ`)."
+      },
+      {
+        "ayahs": [
+          "52:21",
+          "74:38"
+        ],
+        "text": "Bireysel Sorumluluk Yasası (`52:21`, `74:38`): Hiç kimsenin başkasının yüküyle değil, yalnızca kendi kazandığıyla rehin/bağlı tutulması (`رَهِينٌ` / `رَهِينَةٌ`); `74:39`'da yalnızca sağ taraf ehli (doğruluk üzere olanlar) bu tutsaklıktan kurtulur."
+      }
+    ],
+    "context_default": "Bir hak veya kendi eylemi karşılığında tutulup bağlı kalma bağlamı"
   }
 }
