@@ -55498,5 +55498,50 @@
       }
     ],
     "context_default": "Hesap gününde diz üstü çökme bağlamı"
+  },
+  "د-ه-ر": {
+    "buckwalter": "dhr",
+    "slug": "dhr",
+    "concept_name": "Dehr (Her Şeyi Kuşatıp Aşındıran Engin Zaman Akışı)",
+    "keywords": [
+      "dehr",
+      "ed-dehr",
+      "engin zaman",
+      "caglar butunu",
+      "zaman akisi",
+      "casiye suresi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "d~ahor",
+        "ayahs": [
+          "45:24"
+        ],
+        "label": "Marife merfû fail (`وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ` — kör zaman akışını tek yok edici sayma iddiası; 1 geçiş)"
+      },
+      {
+        "lemma": "d~ahor",
+        "ayahs": [
+          "76:1"
+        ],
+        "label": "Marife mecrûr isim (`حِينٌ مِّنَ ٱلدَّهْرِ` — engin zaman bütünlüğünden bir dönem; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Engin zaman akışı bildiren `د-ه-ر` ismi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "45:24"
+        ],
+        "text": "Kör Zaman İndirgemeciliğinin Eleştirisi (`45:24`): Yaşamı yalnızca dünya ile sınırlayıp ölümü kör zaman akışına (`ٱلدَّهْر`) bağlayan bilgisiz sanının reddi."
+      },
+      {
+        "ayahs": [
+          "76:1"
+        ],
+        "text": "Engin Zaman İçinde İnsanın Yoktan Var Edilişi (`76:1`): İnsanın, engin zaman bütünlüğü (`ٱلدَّهْر`) içinde henüz anılmaya değer bir şey olmadığı dönemden bilinçli bir varlığa taşınması."
+      }
+    ],
+    "context_default": "Engin zaman akışı bağlamı"
   }
 }
