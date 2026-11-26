@@ -58152,5 +58152,77 @@
       }
     ],
     "context_default": "Yükseltilerin vurulup ufalanarak dümdüz edilmesi bağlamı"
+  },
+  "ر-ص-د": {
+    "buckwalter": "rSd",
+    "slug": "rsd",
+    "concept_name": "Rasad, Marsad, İrsâd ve Mirsâd (Önceden Hazırlanıp Gözetlemek, Geçit Başı ve Kesintisiz Denetim Hattı)",
+    "root_latin": "R-S-D",
+    "keywords": [
+      "rasad",
+      "marsad",
+      "mirsad",
+      "irsad",
+      "gozetleme",
+      "denetim hatti",
+      "gecit basi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "maroSad",
+        "ayahs": [
+          "9:5"
+        ],
+        "label": "İsm-i mekân (`مَرْصَدٍ` — yol/geçit başındaki gözetleme noktası; 1 geçiş)"
+      },
+      {
+        "lemma": "<iroSaAd",
+        "ayahs": [
+          "9:107"
+        ],
+        "label": "Form IV (İf'âl) masdar (`إِرْصَادًا` — düşman için önceden üs ve bekleme noktası hazırlama; 1 geçiş)"
+      },
+      {
+        "lemma": "raSad",
+        "ayahs": [
+          "72:9",
+          "72:27"
+        ],
+        "label": "İsim/vasıf (`رَصَدًا` — tetikte bekleyen gözetleyici alev veya vahyi koruyan gözetim hattı; 2 geçiş)"
+      },
+      {
+        "lemma": "miroSaAd",
+        "ayahs": [
+          "78:21",
+          "89:14"
+        ],
+        "label": "İsm-i âlet / mübalağalı mekân (`مِرْصَادًا / بِٱلْمِرْصَادِ` — kaçışı olmayan kesintisiz gözetim ve hesap geçidi; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Önceden hazırlanıp tetikte gözetlemeyi bildiren `ر-ص-د` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:5",
+          "9:107"
+        ],
+        "text": "Askerî-Siyasî Gözetleme ve Üs Kurma (`9:5`, `9:107`): Savaş hâlindeki geçiş noktalarının tutulması (`مَرْصَد`) ile zarar mescidinin düşmana önceden üs hazırlanması (`إِرْصَادًا`)."
+      },
+      {
+        "ayahs": [
+          "72:9",
+          "72:27"
+        ],
+        "text": "Vahiy ve Gök Güvenlik Hattı (`72:9`, `72:27`): Gizlice kulak kabartanı karşılayan gözetleyici alev (`شِهَابًا رَّصَدًا`) ve elçinin önü ile ardında yürütülen koruyucu gözetim (`رَصَدًا`)."
+      },
+      {
+        "ayahs": [
+          "78:21",
+          "89:14"
+        ],
+        "text": "Kaçışsız İlahî Gözetim ve Hesap Geçidi (`78:21`, `89:14`): Zorbaların ve azgınların kurtulamayacağı kesin denetim geçidi (`مِرْصَادًا` / `بِٱلْمِرْصَادِ`)."
+      }
+    ],
+    "context_default": "Tetikte hazırlanma, geçit gözetleme ve kesintisiz denetim bağlamı"
   }
 }
