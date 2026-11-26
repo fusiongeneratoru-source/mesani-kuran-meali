@@ -60002,5 +60002,37 @@
       }
     ],
     "context_default": "Yeryüzünden bitirilen taze çayır ve hayvan otlağı bağlamı"
+  },
+  "ص-خ-خ": {
+    "buckwalter": "Sxx",
+    "slug": "sxx",
+    "concept_name": "Sâhha (Kulakları Sağır Edecek Şiddette Çarpan ve Her Şeyi Bastıran Keskin Haykırış)",
+    "root_latin": "S-KH-KH",
+    "keywords": [
+      "sahha",
+      "sagir edici ses",
+      "carpisma sesi",
+      "haykiris",
+      "sarsici cagri"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "S~aA^x~ap",
+        "ayahs": [
+          "80:33"
+        ],
+        "label": "Dişil ism-i fâil (`فَإِذَا جَآءَتِ ٱلصَّآخَّةُ` — taş veya demirin sertçe çarpması gibi kulak zarını delip sağır eden büyük çağrı/sayha; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Kulakları sağır edecek şiddetteki keskin ve sarsıcı sesi bildiren `ص-خ-خ` ism-i fâili (`ٱلصَّآخَّةُ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "80:33"
+        ],
+        "text": "Tüm Aile Bağlarını Dağıtan Sağır Edici Ses (`80:33`): `80:33-37` akışında `ٱلصَّآخَّةُ` (kulakları sağır eden o dehşetli ses) geldiğinde kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçıp yalnızca kendi hesabına kilitlendiği an."
+      }
+    ],
+    "context_default": "Kulakları sağır eden keskin ve sarsıcı büyük ses bağlamı"
   }
 }
