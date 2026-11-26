@@ -60068,5 +60068,64 @@
       }
     ],
     "context_default": "Biçilip kesilerek taze tüketilen yeşillik ve sebze bağlamı"
+  },
+  "ت-س-ع": {
+    "buckwalter": "tsE",
+    "slug": "tse",
+    "concept_name": "Tis' ve Tis'a (Dokuz ve Doksan — Tamamlanma Eşiği Öncesindeki Sayısal Ölçü)",
+    "root_latin": "T-S-E",
+    "keywords": [
+      "tis",
+      "dokuz",
+      "doksan",
+      "on dokuz",
+      "sayi",
+      "dokuz ayet"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tisoE",
+        "ayahs": [
+          "17:101",
+          "18:25",
+          "27:12",
+          "38:23"
+        ],
+        "label": "Sayı ismi (`تِسْعَ`, `تِسْعًا`, `تِسْعِ`, `تِسْعٌ`, `تِسْعُونَ` — Musa'nın dokuz açık işareti `17:101, 27:12`, mağarada üç yüz yıla eklenen dokuz yıl `18:25`, doksan dokuz koyun `38:23` [2 kez]; 5 geçiş)"
+      },
+      {
+        "lemma": "tisoEap",
+        "ayahs": [
+          "27:48",
+          "74:30"
+        ],
+        "label": "Dişil tâ'lı sayı ismi (`تِسْعَةُ رَهْطٍ` `27:48` — şehirde bozgunculuk yapan dokuz çete/elebaşı; `تِسْعَةَ عَشَرَ` `74:30` — Sakar üzerindeki on dokuz görevli; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Dokuz veya doksan sayısını bildiren `ت-س-ع` sayı ismi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:101",
+          "27:12"
+        ],
+        "text": "Musa'ya Verilen Dokuz Açık İşaret (`17:101`, `27:12`): Firavun ve çevresine karşı Musa'ya verilen dokuz açık ayet/delil (`تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ`)."
+      },
+      {
+        "ayahs": [
+          "18:25",
+          "38:23"
+        ],
+        "text": "Zaman ve Paylaşım Sayıları (`18:25`, `38:23`): Mağarada kalış süresinde üç yüz yıla eklenen dokuz (`وَٱزْدَادُوا۟ تِسْعًا`) ile Davud'a sunulan meseldeki doksan dokuz koyuna karşı tek koyun haksızlığı (`تِسْعٌ وَتِسْعُونَ نَعْجَةً`)."
+      },
+      {
+        "ayahs": [
+          "27:48",
+          "74:30"
+        ],
+        "text": "Dokuzlu Topluluk ve On Dokuz Ölçüsü (`27:48`, `74:30`): Semûd şehrinde bozgunculuk yapan dokuz çete (`تِسْعَةُ رَهْطٍ`) ve Sakar üzerinde sınama ölçüsü kılınan on dokuz (`تِسْعَةَ عَشَرَ`)."
+      }
+    ],
+    "context_default": "Dokuz, on dokuz veya doksan dokuz sayısal ölçüsü bağlamı"
   }
 }

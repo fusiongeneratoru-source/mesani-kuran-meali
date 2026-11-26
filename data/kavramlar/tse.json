@@ -1,0 +1,217 @@
+{
+  "root": "ت-س-ع",
+  "root_latin": "T-S-E",
+  "concept_name": "Tis' ve Tis'a (Dokuz ve Doksan — Tamamlanma Eşiği Öncesindeki Sayısal Ölçü)",
+  "rank": 691,
+  "total_occurrences": 7,
+  "unique_ayahs_count": 6,
+  "unified_core_mechanism": "`ت-س-ع` kökü 7 geçişinin tamamında **'dokuz (9) ve onun türevleri olan on dokuz (19) ile doksan (90)'** kesin sayısal değerini bildirir.",
+  "physical_core": "Onluk sayı sisteminin tamamlanmasından hemen önceki dokuz (`9`) niceliği ve onun on katı olan doksan (`90`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris `ت-س-ع` kökünün tek bir temel kelimeden ibaret olduğunu açıkça söyler: sayıdaki dokuz (`التسعة في العدد`).",
+    "lisan_al_arab": "İbn Manzûr dokuz (`تِسْع` / `تِسْعَة`) ve doksan (`تِسْعُونَ`) sayı formlarını, Arapça sayı-sayılan cinsiyet tersliği kuralına uygun olarak kaydeder.",
+    "ragib_al_isfahani": "Râgıb `تِسْع` sayısının Kur'an'da somut tarihsel ve temsili ölçüleri bildirdiğini; özellikle `74:30-31`'de `تِسْعَةَ عَشَرَ` sayısının doğrudan gerçeği örtenler için bir sınama (`فِتْنَة`) ve inananlar için kesinlik artışı kılındığını belirtir.",
+    "verdict": "Tüm 7 geçiş doğrudan **'dokuz (9), on dokuz (19) ve doksan dokuz (99)'** somut sayısal değerini taşır; hiçbir gizemci/keyfî yorum eklenmeden ayet içi işleviyle okunmalıdır."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*tišʕ- ('dokuz')",
+    "hebrew": "İbranice תֵּשַׁע (tēšaʿ: dokuz) doğrudan kökteştir.",
+    "aramaic_syriac": "Aramice/Süryanice təšaʿ ('dokuz') aynı Proto-Sâmî sayı kökünü korur.",
+    "akkadian": "Akadca tiše / tišû ('dokuz') aynı ortak Sâmî sayısal köke dayanır.",
+    "comparative_note": "Tüm Sâmî dillerinde *tišʕ- en kararlı çekirdek sayı sözcüklerinden biridir (`ت-س-ع` = 9)."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "و-ح-د (Tek/bir olmak ↔ ت-س-ع doksan dokuzluk büyük çoğunluk — `38:23` `تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ`)",
+      "ع-ش-ر (Onluk tam sayı ↔ ت-س-ع onluk öncesi dokuz eşiği ve `74:30` `تِسْعَةَ عَشَرَ` eşleşmesi)"
+    ],
+    "bidirectional_test": "`38:23`'te haksızlık `تِسْعٌ وَتِسْعُونَ` (99) ile `وَٰحِدَةٌ` (1) arasındaki aşırı uçurumla kurulur; `74:30`'da ise `تِسْعَةَ` ile `عَشَرَ` birlikte on dokuz ölçüsünü oluşturur."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "و-ح-د",
+      "ع-ش-ر",
+      "م-أ-ي",
+      "ث-ل-ث"
+    ],
+    "analysis": "`18:25`'te `ثَلَٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا` (300 yıl + 9 yıl — güneş ve ay takvimi arasındaki 9 yıllık farkla dikkat çeken kesin ifade), `38:23`'te `تِسْعٌ وَتِسْعُونَ` ↔ `وَٰحِدَةٌ`, `74:30`'da ise `تِسْعَةَ عَشَرَ` sayıları her ayette tam matematiksel açıklıkla kullanılır."
+  },
+  "anchor_ayahs": [
+    "17:101 (وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ — andolsun Musa'ya dokuz apaçık işaret verdik)",
+    "18:25 (وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا — mağaralarında üç yüz yıl kaldılar ve buna dokuz daha eklediler)",
+    "38:23 (إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ — bu kardeşimin doksan dokuz koyunu var, benimse tek bir koyunum)",
+    "74:30 (عَلَيْهَا تِسْعَةَ عَشَرَ — onun üzerinde on dokuz [görevli] vardır)"
+  ],
+  "grammar_and_branch_rules": {
+    "branches": [
+      "Dal 1 — Tekil Sayı (`تِسْع` / `تِسْعَة` — 6 geçiş): Dişil sayılan (`ءَايَٰتٍ`, `نَعْجَةً`) önünde tâ'sız `تِسْع`, eril sayılan (`رَهْطٍ`, `عَشَرَ`) önünde tâ'lı `تِسْعَة` gelir.",
+      "Dal 2 — Onluk Çoğul (`تِسْعُونَ` — `38:23`): Düzenli eril çoğula mülhak olarak `و` ile merfûdur."
+    ],
+    "irab_notes": "`74:30`'da `تِسْعَةَ عَشَرَ` iki parçası da fetha üzere mebnî olup `عَلَيْهَا` mukaddem haberine bağlı ref mahallinde muahhar mübtedâdır."
+  },
+  "derivatives": [
+    {
+      "form": "تِسْع / تِسْعَة",
+      "pos": "Sayı İsmi",
+      "meaning": "Dokuz (9); `عَشَرَ` ile on dokuz (19)",
+      "examples": [
+        "17:101",
+        "18:25",
+        "27:12",
+        "27:48",
+        "38:23",
+        "74:30"
+      ]
+    },
+    {
+      "form": "تِسْعُونَ",
+      "pos": "Sayı İsmi (Onluk)",
+      "meaning": "Doksan (90)",
+      "examples": [
+        "38:23"
+      ]
+    }
+  ],
+  "ayah_occurrences": [
+    {
+      "surah": 17,
+      "ayah": 101,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:101",
+      "word_position": 4,
+      "target_word_uthmani": "تِسْعَ",
+      "target_word_rasm": "تسع",
+      "target_word_literal_irab": "Sayı ismi (`تِسْعَ`, `تِسْعًا`, `تِسْعِ`, `تِسْعٌ`, `تِسْعُونَ` — Musa'nın dokuz açık işareti `17:101, 27:12`, mağarada üç yüz yıla eklenen dokuz yıl `18:25`, doksan dokuz koyun `38:23` [2 kez]; 5 geçiş)",
+      "context_snippet_arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ",
+      "context_snippet_turkish_tabula_rasa": "Andolsun ki biz, Musa'ya dokuz tane apaçık delil vermiştik; sor İsrailoğullarına; ...",
+      "morphology": {
+        "lemma": "tisoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tisoE|ROOT:tsE|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Andolsun ki biz, Musa'ya dokuz tane apaçık delil vermiştik; sor İsrailoğullarına; Musa, onlara gelince Firavun ya Musa demişti, şüphe yok ki ben seni büyülenmiş sanıyorum.",
+      "contextual_meaning": "Musa'ya Verilen Dokuz Açık İşaret (`17:101`, `27:12`): Firavun ve çevresine karşı Musa'ya verilen dokuz açık ayet/delil (`تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 25,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:25",
+      "word_position": 8,
+      "target_word_uthmani": "تِسْعًا",
+      "target_word_rasm": "تسعا",
+      "target_word_literal_irab": "Sayı ismi (`تِسْعَ`, `تِسْعًا`, `تِسْعِ`, `تِسْعٌ`, `تِسْعُونَ` — Musa'nın dokuz açık işareti `17:101, 27:12`, mağarada üç yüz yıla eklenen dokuz yıl `18:25`, doksan dokuz koyun `38:23` [2 kez]; 5 geçiş)",
+      "context_snippet_arabic": "مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا",
+      "context_snippet_turkish_tabula_rasa": "Onlar, mağaralarında üç yüz yıl yatıp kaldılar ve bu yıllara dokuz yıl daha kattılar.",
+      "morphology": {
+        "lemma": "tisoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tisoE|ROOT:tsE|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, mağaralarında üç yüz yıl yatıp kaldılar ve bu yıllara dokuz yıl daha kattılar.",
+      "contextual_meaning": "Zaman ve Paylaşım Sayıları (`18:25`, `38:23`): Mağarada kalış süresinde üç yüz yıla eklenen dokuz (`وَٱزْدَادُوا۟ تِسْعًا`) ile Davud'a sunulan meseldeki doksan dokuz koyuna karşı tek koyun haksızlığı (`تِسْعٌ وَتِسْعُونَ نَعْجَةً`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 12,
+      "surah_name": "Neml",
+      "ayah_ref": "27:12",
+      "word_position": 11,
+      "target_word_uthmani": "تِسْعِ",
+      "target_word_rasm": "تسع",
+      "target_word_literal_irab": "Sayı ismi (`تِسْعَ`, `تِسْعًا`, `تِسْعِ`, `تِسْعٌ`, `تِسْعُونَ` — Musa'nın dokuz açık işareti `17:101, 27:12`, mağarada üç yüz yıla eklenen dokuz yıl `18:25`, doksan dokuz koyun `38:23` [2 kez]; 5 geçiş)",
+      "context_snippet_arabic": "غَيْرِ سُوٓءٍ فِى تِسْعِ ءَايَٰتٍ إِلَىٰ فِرْعَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "Ve elini koynuna sok da bir hastalık yüzünden olmaksızın bembeyaz, parıl parıl parlar bir halde çıksın; bu, Firavun'la kavmine gösterilen dokuz delil içindedir; şüphe yok ki onlar, buyruktan çıkmış bir topluluktur.",
+      "morphology": {
+        "lemma": "tisoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tisoE|ROOT:tsE|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ فِى تِسْعِ ءَايَٰتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve elini koynuna sok da bir hastalık yüzünden olmaksızın bembeyaz, parıl parıl parlar bir halde çıksın; bu, Firavun'la kavmine gösterilen dokuz delil içindedir; şüphe yok ki onlar, buyruktan çıkmış bir topluluktur.",
+      "contextual_meaning": "Musa'ya Verilen Dokuz Açık İşaret (`17:101`, `27:12`): Firavun ve çevresine karşı Musa'ya verilen dokuz açık ayet/delil (`تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 48,
+      "surah_name": "Neml",
+      "ayah_ref": "27:48",
+      "word_position": 4,
+      "target_word_uthmani": "تِسْعَةُ",
+      "target_word_rasm": "تسعة",
+      "target_word_literal_irab": "Dişil tâ'lı sayı ismi (`تِسْعَةُ رَهْطٍ` `27:48` — şehirde bozgunculuk yapan dokuz çete/elebaşı; `تِسْعَةَ عَشَرَ` `74:30` — Sakar üzerindeki on dokuz görevli; 2 geçiş)",
+      "context_snippet_arabic": "وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Şehirde dokuz kişi vardı ki yeryüzünde bozgunculuk ediyorlar, düzene hiç yanaşmıyorlardı.",
+      "morphology": {
+        "lemma": "tisoEap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tisoEap|ROOT:tsE|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şehirde dokuz kişi vardı ki yeryüzünde bozgunculuk ediyorlar, düzene hiç yanaşmıyorlardı.",
+      "contextual_meaning": "Dokuzlu Topluluk ve On Dokuz Ölçüsü (`27:48`, `74:30`): Semûd şehrinde bozgunculuk yapan dokuz çete (`تِسْعَةُ رَهْطٍ`) ve Sakar üzerinde sınama ölçüsü kılınan on dokuz (`تِسْعَةَ عَشَرَ`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 23,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:23",
+      "word_position": 5,
+      "target_word_uthmani": "تِسْعٌ",
+      "target_word_rasm": "تسع",
+      "target_word_literal_irab": "Sayı ismi (`تِسْعَ`, `تِسْعًا`, `تِسْعِ`, `تِسْعٌ`, `تِسْعُونَ` — Musa'nın dokuz açık işareti `17:101, 27:12`, mağarada üç yüz yıla eklenen dokuz yıl `18:25`, doksan dokuz koyun `38:23` [2 kez]; 5 geçiş)",
+      "context_snippet_arabic": "هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki şu, benim kardeşimdir, doksan dokuz dişi koyunu var ve benimse bir tek dişi koyunum; öyleyken onu da bana ver dedi ve konuşmamızda beni alt da etti.",
+      "morphology": {
+        "lemma": "tisoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tisoE|ROOT:tsE|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki şu, benim kardeşimdir, doksan dokuz dişi koyunu var ve benimse bir tek dişi koyunum; öyleyken onu da bana ver dedi ve konuşmamızda beni alt da etti.",
+      "contextual_meaning": "Zaman ve Paylaşım Sayıları (`18:25`, `38:23`): Mağarada kalış süresinde üç yüz yıla eklenen dokuz (`وَٱزْدَادُوا۟ تِسْعًا`) ile Davud'a sunulan meseldeki doksan dokuz koyuna karşı tek koyun haksızlığı (`تِسْعٌ وَتِسْعُونَ نَعْجَةً`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 23,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:23",
+      "word_position": 6,
+      "target_word_uthmani": "وَتِسْعُونَ",
+      "target_word_rasm": "وتسعون",
+      "target_word_literal_irab": "Sayı ismi (`تِسْعَ`, `تِسْعًا`, `تِسْعِ`, `تِسْعٌ`, `تِسْعُونَ` — Musa'nın dokuz açık işareti `17:101, 27:12`, mağarada üç yüz yıla eklenen dokuz yıl `18:25`, doksan dokuz koyun `38:23` [2 kez]; 5 geçiş)",
+      "context_snippet_arabic": "أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki şu, benim kardeşimdir, doksan dokuz dişi koyunu var ve benimse bir tek dişi koyunum; öyleyken onu da bana ver dedi ve konuşmamızda beni alt da etti.",
+      "morphology": {
+        "lemma": "tisoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tisoE|ROOT:tsE|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki şu, benim kardeşimdir, doksan dokuz dişi koyunu var ve benimse bir tek dişi koyunum; öyleyken onu da bana ver dedi ve konuşmamızda beni alt da etti.",
+      "contextual_meaning": "Zaman ve Paylaşım Sayıları (`18:25`, `38:23`): Mağarada kalış süresinde üç yüz yıla eklenen dokuz (`وَٱزْدَادُوا۟ تِسْعًا`) ile Davud'a sunulan meseldeki doksan dokuz koyuna karşı tek koyun haksızlığı (`تِسْعٌ وَتِسْعُونَ نَعْجَةً`)."
+    },
+    {
+      "surah": 74,
+      "ayah": 30,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:30",
+      "word_position": 2,
+      "target_word_uthmani": "تِسْعَةَ",
+      "target_word_rasm": "تسعة",
+      "target_word_literal_irab": "Dişil tâ'lı sayı ismi (`تِسْعَةُ رَهْطٍ` `27:48` — şehirde bozgunculuk yapan dokuz çete/elebaşı; `تِسْعَةَ عَشَرَ` `74:30` — Sakar üzerindeki on dokuz görevli; 2 geçiş)",
+      "context_snippet_arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+      "context_snippet_turkish_tabula_rasa": "On dokuz memuru vardır.",
+      "morphology": {
+        "lemma": "tisoEap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tisoEap|ROOT:tsE|F|ACC"
+      },
+      "ayah_text_arabic_full": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+      "ayah_text_turkish_tabula_rasa_full": "On dokuz memuru vardır.",
+      "contextual_meaning": "Dokuzlu Topluluk ve On Dokuz Ölçüsü (`27:48`, `74:30`): Semûd şehrinde bozgunculuk yapan dokuz çete (`تِسْعَةُ رَهْطٍ`) ve Sakar üzerinde sınama ölçüsü kılınan on dokuz (`تِسْعَةَ عَشَرَ`)."
+    }
+  ]
+}

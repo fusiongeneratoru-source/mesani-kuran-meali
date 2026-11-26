@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (68/50 — Toplam 868 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (69/50 — Toplam 869 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -17427,7 +17427,8 @@
           "ن-س-ر (Nesr: Nûh toplumunun çoklu ilahlaştırma dizisindeki yırtıcı kuş simgeli odak ↔ و-ح-د tek ve bölünmez ilahi birlik — `71:23`)",
           "ش-ع-ب (Şuûb/Şuab: tek gövdeden çatallanıp çoklu kollara ve geniş halklara ayrılma ↔ و-ح-د bölünmemiş tek parça birlik)",
           "س-ت-ت (Sitte/Sittîn: altı aşamalı çoklu evre ve altmışlı toplumsal sayı ölçüsü ↔ و-ح-د tekil başlangıç birimi ve bölünmemiş teklik)",
-          "خ-م-س (Hamse/Humus/Hamsîn: beşli çokluk, beşinci kademe ve beşte bir dilim ↔ و-ح-د bölünmemiş tekil tam birim)"
+          "خ-م-س (Hamse/Humus/Hamsîn: beşli çokluk, beşinci kademe ve beşte bir dilim ↔ و-ح-د bölünmemiş tekil tam birim)",
+          "ت-س-ع (Tis'/Tis'ûn: dokuz ve doksan dokuz gibi çokluk eşiği ↔ و-ح-د tek ve bir olmak — `38:23` `تِسْعٌ وَتِسْعُونَ` ↔ `وَٰحِدَةٌ`)"
         ],
         "key_ayahs": [
           "12:39 (ءَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ)",
@@ -51726,7 +51727,8 @@
         "roots": [
           "و-ح-د",
           "م-أ-ي",
-          "ض-ر-ر"
+          "ض-ر-ر",
+          "ت-س-ع (Tis': onluk tam sayıya bir adım kala duran dokuz eşiği ↔ ع-ش-ر onluk tam bütünlük — `74:30` `تِسْعَةَ عَشَرَ`)"
         ],
         "key_ayahs": [
           "4:19",
@@ -72993,6 +72995,94 @@
           "meaning": "Biçilip kesilerek taze tüketilen yeşil sebze ve yonca türleri",
           "examples": [
             "80:28"
+          ]
+        }
+      ]
+    },
+    "ت-س-ع": {
+      "root_latin": "T-S-E",
+      "arabic": "ت-س-ع",
+      "rank": 691,
+      "morphology_and_rasm": {
+        "buckwalter": "tsE",
+        "rasm_skeleton": "تسع (harekesiz iskelet; تسع / تسعا / تسعة / وتسعون biçimleriyle 7 kez)",
+        "approx_frequency": "7 geçiş / 6 ayet (5x `تِسْع / تِسْعُونَ`, 2x `تِسْعَة`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "تِسْع (eril sayı ismi — 4 geçiş: `17:101`, `18:25`, `27:12`, `38:23`)",
+          "تِسْعُونَ (onluk çoğul sayı 'doksan' — 1 geçiş: `38:23`)",
+          "تِسْعَة (dişil tâ'lı sayı ismi — 2 geçiş: `27:48`, `74:30`)"
+        ],
+        "preposition_patterns": [
+          "فِى تِسْعِ ءَايَٰتٍ (`27:12`: dokuz işaret kapsamında)",
+          "تِسْعَةَ عَشَرَ (`74:30`: iki parçası da fetha üzere mebnî bileşik sayı 'on dokuz')"
+        ]
+      },
+      "physical_core": "Onluk sayı sisteminin tamamlanmasından hemen önceki dokuz (`9`) niceliği ve onun on katı olan doksan (`90`).",
+      "ibn_faris_asl": "(تَسَعَ) التَّاءُ وَالسِّينُ وَالْعَيْنُ كَلِمَةٌ وَاحِدَةٌ، وَهِيَ التِّسْعَةُ فِي الْعَدَدِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 1, تسع maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ت-س-ع` kökünün tek bir temel kelimeden ibaret olduğunu açıkça söyler: sayıdaki dokuz (`التسعة في العدد`).",
+        "lisan_al_arab": "İbn Manzûr dokuz (`تِسْع` / `تِسْعَة`) ve doksan (`تِسْعُونَ`) sayı formlarını, Arapça sayı-sayılan cinsiyet tersliği kuralına uygun olarak kaydeder.",
+        "ragib_al_isfahani": "Râgıb `تِسْع` sayısının Kur'an'da somut tarihsel ve temsili ölçüleri bildirdiğini; özellikle `74:30-31`'de `تِسْعَةَ عَشَرَ` sayısının doğrudan gerçeği örtenler için bir sınama (`فِتْنَة`) ve inananlar için kesinlik artışı kılındığını belirtir.",
+        "verdict": "Tüm 7 geçiş doğrudan **'dokuz (9), on dokuz (19) ve doksan dokuz (99)'** somut sayısal değerini taşır; hiçbir gizemci/keyfî yorum eklenmeden ayet içi işleviyle okunmalıdır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*tišʕ- ('dokuz')",
+        "hebrew": "İbranice תֵּשַׁע (tēšaʿ: dokuz) doğrudan kökteştir.",
+        "aramaic_syriac": "Aramice/Süryanice təšaʿ ('dokuz') aynı Proto-Sâmî sayı kökünü korur.",
+        "akkadian": "Akadca tiše / tišû ('dokuz') aynı ortak Sâmî sayısal köke dayanır.",
+        "comparative_note": "Tüm Sâmî dillerinde *tišʕ- en kararlı çekirdek sayı sözcüklerinden biridir (`ت-س-ع` = 9)."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "و-ح-د (Tek/bir olmak ↔ ت-س-ع doksan dokuzluk büyük çoğunluk — `38:23` `تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ`)",
+          "ع-ش-ر (Onluk tam sayı ↔ ت-س-ع onluk öncesi dokuz eşiği ve `74:30` `تِسْعَةَ عَشَرَ` eşleşmesi)"
+        ],
+        "bidirectional_test": "`38:23`'te haksızlık `تِسْعٌ وَتِسْعُونَ` (99) ile `وَٰحِدَةٌ` (1) arasındaki aşırı uçurumla kurulur; `74:30`'da ise `تِسْعَةَ` ile `عَشَرَ` birlikte on dokuz ölçüsünü oluşturur."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "و-ح-د",
+          "ع-ش-ر",
+          "م-أ-ي",
+          "ث-ل-ث"
+        ],
+        "analysis": "`18:25`'te `ثَلَٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا` (300 yıl + 9 yıl — güneş ve ay takvimi arasındaki 9 yıllık farkla dikkat çeken kesin ifade), `38:23`'te `تِسْعٌ وَتِسْعُونَ` ↔ `وَٰحِدَةٌ`, `74:30`'da ise `تِسْعَةَ عَشَرَ` sayıları her ayette tam matematiksel açıklıkla kullanılır."
+      },
+      "anchor_ayahs": [
+        "17:101 (وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ — andolsun Musa'ya dokuz apaçık işaret verdik)",
+        "18:25 (وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا — mağaralarında üç yüz yıl kaldılar ve buna dokuz daha eklediler)",
+        "38:23 (إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ — bu kardeşimin doksan dokuz koyunu var, benimse tek bir koyunum)",
+        "74:30 (عَلَيْهَا تِسْعَةَ عَشَرَ — onun üzerinde on dokuz [görevli] vardır)"
+      ],
+      "unified_core_mechanism": "`ت-س-ع` kökü 7 geçişinin tamamında **'dokuz (9) ve onun türevleri olan on dokuz (19) ile doksan (90)'** kesin sayısal değerini bildirir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Tekil Sayı (`تِسْع` / `تِسْعَة` — 6 geçiş): Dişil sayılan (`ءَايَٰتٍ`, `نَعْجَةً`) önünde tâ'sız `تِسْع`, eril sayılan (`رَهْطٍ`, `عَشَرَ`) önünde tâ'lı `تِسْعَة` gelir.",
+          "Dal 2 — Onluk Çoğul (`تِسْعُونَ` — `38:23`): Düzenli eril çoğula mülhak olarak `و` ile merfûdur."
+        ],
+        "irab_notes": "`74:30`'da `تِسْعَةَ عَشَرَ` iki parçası da fetha üzere mebnî olup `عَلَيْهَا` mukaddem haberine bağlı ref mahallinde muahhar mübtedâdır."
+      },
+      "derivatives": [
+        {
+          "form": "تِسْع / تِسْعَة",
+          "pos": "Sayı İsmi",
+          "meaning": "Dokuz (9); `عَشَرَ` ile on dokuz (19)",
+          "examples": [
+            "17:101",
+            "18:25",
+            "27:12",
+            "27:48",
+            "38:23",
+            "74:30"
+          ]
+        },
+        {
+          "form": "تِسْعُونَ",
+          "pos": "Sayı İsmi (Onluk)",
+          "meaning": "Doksan (90)",
+          "examples": [
+            "38:23"
           ]
         }
       ]

@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 18 / 50 Kök (Toplam Mühürlü: 868 Kök | Güncel Kapsam: %96,05)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 19 / 50 Kök (Toplam Mühürlü: 869 Kök | Güncel Kapsam: %96,06)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -25,7 +25,7 @@
 | 16 | Sure %100 Kilidi | 1594 | `أ-ب-ب` | `E-B-B` | **1** | 1 | 80:31 | Ebb (Hayvanların Otlandığı Taze Çayır, Mer'a ve Yeşil Bitki Örtüsü) | ✅ **MÜHÜRLÜ** |
 | 17 | Sure %100 Kilidi | 1595 | `ص-خ-خ` | `S-H-H` | **1** | 1 | 80:33 | Sâhha (Kulakları Sağır Edecek Şiddette Çarpan ve Her Şeyi Bastıran Keskin Haykırış) | ✅ **MÜHÜRLÜ** |
 | 18 | Sure %100 Kilidi | 1593 | `ق-ض-ب` | `K-D-B` | **1** | 1 | 80:28 | Kadb (Biçilip Kesilerek Taze Tüketilen Yeşil Sebze, Yonca ve Sürekli Süren Yeşillik) | ✅ **MÜHÜRLÜ** |
-| 19 | Sure %100 Kilidi | 691 | `ت-س-ع` | `T-S-A` | **7** | 6 | 17:101 | Tis'a ve Tis'ûn (Sure 74 Müddessir kilidi + 7 geçiş: 17:101, 27:12, 27:48, 18:25, 38:23, 74:30 dokuz sayısı ve doksan dokuz) | ⏳ *Bekliyor* |
+| 19 | Sure %100 Kilidi | 691 | `ت-س-ع` | `T-S-A` | **7** | 6 | 17:101 | Tis' ve Tis'a (Dokuz ve Doksan — Tamamlanma Eşiği Öncesindeki Sayısal Ölçü) | ✅ **MÜHÜRLÜ** |
 | 20 | Sure %100 Kilidi | 860 | `ن-ق-ر` | `N-K-R` | **4** | 3 | 4:53 | Nâkûr ve Nakîr (Sure 74 Müddessir kilidi + 4 geçiş: 4:53, 4:124, 74:8 delip oyarak vurmak, çekirdekteki küçücük oyuk ve ses borusu) | ⏳ *Bekliyor* |
 | 21 | Sure %100 Kilidi | 942 | `ر-ه-ن` | `R-H-N` | **3** | 3 | 2:283 | Rahîn ve Rihân (Sure 74 Müddessir kilidi + 3 geçiş: 2:283, 52:21, 74:38 bir borca veya eyleme karşılık rehin/teminat tutulmak) | ⏳ *Bekliyor* |
 | 22 | Sure %100 Kilidi | 1241 | `ب-س-ر` | `B-S-R` | **2** | 2 | 74:22 | Besere ve Bâsira (Sure 74 Müddessir + Sure 75 Kıyâmet ortak kilidi + 2 geçiş: 74:22, 75:24 yüzü asılıp kararmak, somurtmak) | ⏳ *Bekliyor* |
