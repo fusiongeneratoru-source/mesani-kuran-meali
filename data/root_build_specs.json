@@ -56709,5 +56709,63 @@
       }
     ],
     "context_default": "Ağırlık, yük ve oturaklı saygınlık bağlamı"
+  },
+  "ت-ب-ر": {
+    "buckwalter": "tbr",
+    "slug": "tbr",
+    "concept_name": "Tetbîr, Mütebber ve Tebâr (Kırıp Ufalayarak Yıkmak, Parçalanıp Boşa Çıkmak ve Tam Yıkım)",
+    "root_latin": "T-B-R",
+    "keywords": [
+      "tetbir",
+      "mutebber",
+      "tebar",
+      "kirip ufalamak",
+      "yikim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mutab~ar",
+        "ayahs": [
+          "7:139"
+        ],
+        "label": "Form II ism-i mef'ûl (`مُتَبَّرٌ` — parçalanıp yıkıma mahkûm edilmiş; 1 geçiş)"
+      },
+      {
+        "lemma": "tab~aro",
+        "ayahs": [
+          "17:7",
+          "25:39"
+        ],
+        "label": "Form II fiil (`وَلِيُتَبِّرُوا۟` / `تَبَّرْنَا` — kırıp ufalayarak yerle bir etmek; 2 geçiş)"
+      },
+      {
+        "lemma": "tatobiyr",
+        "ayahs": [
+          "17:7",
+          "25:39"
+        ],
+        "label": "Form II mef'ûl-i mutlak (`تَتْبِيرًا` — tam ve geri dönüşsüz parçalanma; 2 geçiş)"
+      },
+      {
+        "lemma": "tabaAr",
+        "ayahs": [
+          "71:28"
+        ],
+        "label": "Mansûb mastar/isim (`تَبَارًا` — zalimlerin sürüklendiği kökten yıkım; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Kırıp ufalayarak kökten yıkım bildiren `ت-ب-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:139",
+          "17:7",
+          "25:39",
+          "71:28"
+        ],
+        "text": "Bütünlüğü Parçalayıp Kökten Yıkma (`7:139`, `17:7`, `25:39`, `71:28`): Temelsiz tapınım düzenlerinin, azgınlaşan saltanatların ve zalim kavimlerin kırılıp un ufak edilmesi."
+      }
+    ],
+    "context_default": "Kırıp ufalayarak kökten yıkım bağlamı"
   }
 }

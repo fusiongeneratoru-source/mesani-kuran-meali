@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3L (+5 Sure %100 Tam Kilidi [Sure 71, 49, 58, 77, 89 -> 45 Sure], Kalan Tüm 4+ Açık Furûk Tepe Uçları ve 11–10 Geçişli Çekirdek Kökler — 50 Kök -> 850 Kök)",
   "target_count": 50,
-  "locked_count": 1,
+  "locked_count": 2,
   "total_tokens_in_package": 254,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 95.45,
+  "current_coverage_pct": 95.46,
   "target_coverage_pct": 95.94,
   "etap_3l_roots": [
     {
@@ -37,8 +37,8 @@
       "frequency": 6,
       "unique_ayahs": 4,
       "rationale": "Tebâr, Tetbîr ve Mütetebbir (Sure 71 Nûh kilidi + 6 geçiş: 7:139, 17:7, 25:39, 71:28 parçalayıp un ufak ederek tamamen yıkıma uğratmak)",
-      "concept_label": "Analiz Bekliyor (tab~aro, tatobiyr, mutab~ar, tabaAr)",
-      "is_locked": false,
+      "concept_label": "Tetbîr, Mütebber ve Tebâr (Kırıp Ufalayarak Yıkmak, Parçalanıp Boşa Çıkmak ve Tam Yıkım)",
+      "is_locked": true,
       "sample_ayah": "7:139",
       "top_lemmas": [
         "tab~aro",
