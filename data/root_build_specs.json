@@ -57132,5 +57132,51 @@
       }
     ],
     "context_default": "Ağır zorluk, ezici sıkıntı ve bunaltıcı yük bağlamı"
+  },
+  "ش-ع-ب": {
+    "buckwalter": "$Eb",
+    "slug": "seb",
+    "concept_name": "Şuûb ve Şuab (Tek Gövdeden Dallanıp Ayrılan Büyük İnsan Toplulukları ve Üç Kollu Gölge/Duman Kolları)",
+    "root_latin": "S-A-B",
+    "keywords": [
+      "suub",
+      "suab",
+      "halklar",
+      "dallanma",
+      "kollar",
+      "ayrilma ve birlesme"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$uEuwb",
+        "ayahs": [
+          "49:13"
+        ],
+        "label": "Çoğul isim (`شُعُوبًا` — tek kökenden dallanıp genişleyen büyük insan toplulukları/halklar; 1 geçiş)"
+      },
+      {
+        "lemma": "$uEab",
+        "ayahs": [
+          "77:30"
+        ],
+        "label": "Çoğul isim (`شُعَبٍ` — tek dumandan üçe ayrılan dallar/kollar; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Tek gövdeden dallanıp kollara ayrılmayı veya o kolların oluşturduğu büyük topluluğu bildiren `ش-ع-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "49:13"
+        ],
+        "text": "Tek Kökenden Dallanan İnsan Toplulukları (`49:13`): Tek bir erkek ve dişiden yaratılan insanlığın birbirini tanımak (`لِتَعَارَفُوا`) üzere büyük halklara (`شُعُوب`) ve daha alt boylara (`قَبَائِل`) ayrılması."
+      },
+      {
+        "ayahs": [
+          "77:30"
+        ],
+        "text": "Üç Kola Ayrılan Karaltı/Duman Gölgesi (`77:30`): Gölgelendirmeyen ve alevden korumayan üç çatallı/üç kollu (`ذِي ثَلَاثِ شُعَبٍ`) duman kütlesi."
+      }
+    ],
+    "context_default": "Tek gövdeden dallanma, kol ve büyük insan topluluğu bağlamı"
   }
 }
