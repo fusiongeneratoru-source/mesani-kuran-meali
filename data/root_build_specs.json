@@ -51905,5 +51905,81 @@
       }
     ],
     "context_default": "Kor derecede kızışma, dokunulmaz kılıp yasaklama veya hiddetli öfke ateşi bağlamı"
+  },
+  "ف-ر-ش": {
+    "buckwalter": "fr$",
+    "slug": "frs",
+    "concept_name": "Ferş / Firâş / Ferâş (Genişçe Serip Döşemek; Serili Zemin, Küçükbaş Hayvanlar ve Hafif Pervaneler)",
+    "keywords": [
+      "sermek",
+      "dosemek",
+      "dosek",
+      "firas",
+      "fers",
+      "pervane",
+      "kucukbas"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "fira`$",
+        "ayahs": [
+          "2:22",
+          "55:54",
+          "56:34"
+        ],
+        "label": "Tekil mansûb (`فِرَٰشًا` `جَعَلَ` ikinci mef'ûlü, 2:22) ve kırık çoğul mecrûr (`فُرُشٍ` 55:54, 56:34) isim (`فِعَال / فُعُل`; 3 geçiş)"
+      },
+      {
+        "lemma": "faro$",
+        "ayahs": [
+          "6:142"
+        ],
+        "label": "Mansûb nekra eril isim (`حَمُولَةً وَفَرْشًا` — `حَمُولَةً` üzerine matuf; yük taşımayan yere yakın küçükbaş hayvanlar; 1 geçiş: 6:142)"
+      },
+      {
+        "lemma": "fara$o",
+        "ayahs": [
+          "51:48"
+        ],
+        "label": "Form I mâzi 1. çoğul geçişli fiil (`وَٱلْأَرْضَ فَرَشْنَٰهَا` — `هَٰا` zamiri yeryüzüne dönen mef'ûlün bih; 1 geçiş: 51:48)"
+      },
+      {
+        "lemma": "faraA$",
+        "ayahs": [
+          "101:4"
+        ],
+        "label": "Marife eril cins ismi (`كَٱلْفَرَاشِ ٱلْمَبْثُوثِ` — `كَـ` teşbih harf-i cerriyle mecrûr; 1 geçiş: 101:4)"
+      }
+    ],
+    "irab_default": "Düzleyip serme, serili döşek, yere yakın küçükbaş veya hafif pervane bildiren kelime (`ف-ر-ش` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:22",
+          "51:48"
+        ],
+        "text": "Yeryüzünün Yaşanabilir Zemin Olarak Serilmesi (`2:22`, `51:48`): Yeryüzünün gök kubbesi (`بِنَآءً`) karşısında insanın yerleşip yaşayacağı düz ve geniş bir döşek (`فِرَٰشًا / فَرَشْنَٰهَا`) kılınması."
+      },
+      {
+        "ayahs": [
+          "55:54",
+          "56:34"
+        ],
+        "text": "İkram Mekânındaki Döşek ve Sedirler (`55:54`, `56:34`): Astarları kalın ipekten serili döşekler (`فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ`) ve yükseltilmiş sedirler (`فُرُشٍ مَّرْفُوعَةٍ`)."
+      },
+      {
+        "ayahs": [
+          "6:142"
+        ],
+        "text": "Yere Yakın Küçükbaş ve Genç Hayvanlar (`6:142`): Ağır yük taşıyan iri hayvanların (`حَمُولَةً`) karşısında yünü, sütü ve eti için yararlanılan yere yakın küçük hayvanlar (`فَرْشًا`)."
+      },
+      {
+        "ayahs": [
+          "101:4"
+        ],
+        "text": "Dört Bir Yana Saçılmış Hafif Pervaneler (`101:4`): Büyük çarpış gününde insanların şaşkınlık içinde her yöne savrulan hafif pervaneler (`كَٱلْفَرَاشِ ٱلْمَبْثُوثِ`) hâline gelmesi."
+      }
+    ],
+    "context_default": "Yatay düzlemde serip döşeme, yere yakınlık veya hafif kanatlı yayılma bağlamı"
   }
 }
