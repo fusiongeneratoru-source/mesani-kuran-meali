@@ -61881,5 +61881,53 @@
       }
     ],
     "context_default": "Baş aşağı çevrilme, utançla baş eğme ve biyolojik geriye dönüş bağlamı"
+  },
+  "س-ل-ل": {
+    "buckwalter": "sll",
+    "slug": "sll",
+    "concept_name": "Sülâle ve Yetesellelûn (Yumuşakça Süzülüp Çekilen Saf Öz ve Sezdirmeden Gizlice Sıvışıp Çıkmak)",
+    "root_latin": "S-L-L",
+    "keywords": [
+      "sulale",
+      "yetesellelun",
+      "suzulen oz",
+      "sivisma",
+      "gizlice cikmak",
+      "damitilmis oz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sula`lap",
+        "ayahs": [
+          "23:12",
+          "32:8"
+        ],
+        "label": "İsim (`سُلَٰلَةٍ` — bir bütünden ince ve yumuşak biçimde çekilip süzülerek alınmış saf öz/hülasa: `23:12` çamurdan süzülmüş öz, `32:8` basit bir sudan süzülmüş öz; 2 geçiş)"
+      },
+      {
+        "lemma": "yatasal~alu",
+        "ayahs": [
+          "24:63"
+        ],
+        "label": "V. bab (tefe''ul) muzâri fiil (`يَتَسَلَّلُونَ مِنكُمْ لِوَاذًا` — elçinin topluluğundan birbirini siper ederek usulca, sezdirmeden ve gizlice sıvışıp çıkanlar; `24:63`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yumuşakça süzülüp çekilen özü (`سُلَٰلَة`) veya sezdirmeden gizlice sıvışmayı (`يَتَسَلَّلُونَ`) bildiren `س-ل-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "23:12",
+          "32:8"
+        ],
+        "text": "İnsan Yaratılışındaki Süzülmüş Öz (`23:12`, `32:8`): İnsanın ilk kökeninin çamurdan çekilip süzülmüş bir özden (`سُلَٰلَةٍ مِّن طِينٍ`, `23:12`), soyunun devamının ise sıradan bir sudan süzülmüş bir özden (`سُلَٰلَةٍ مِّن مَّآءٍ مَّهِينٍ`, `32:8`) kılınması."
+      },
+      {
+        "ayahs": [
+          "24:63"
+        ],
+        "text": "Toplantıdan Sezdirmeden Sıvışıp Çıkma (`24:63`): Elçinin çağrısını hafife alıp izin almadan, birbirinin arkasına saklanarak (`لِوَاذًا`) usulca sıvışıp çıkanları (`يَتَسَلَّلُونَ`) Allah'ın bildiği uyarısı."
+      }
+    ],
+    "context_default": "Yumuşakça süzülüp çekilen öz veya sezdirmeden gizlice sıvışıp çıkma bağlamı"
   }
 }
