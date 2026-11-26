@@ -58009,5 +58009,79 @@
       }
     ],
     "context_default": "Yeryüzünün dirileri ve ölüleri derleyip barındırma işlevi bağlamı"
+  },
+  "س-ر-ي": {
+    "buckwalter": "sry",
+    "slug": "sry",
+    "concept_name": "Sery, İsrâ ve Serî (Geceleyin Yol Almak, Gece Yola Çıkarmak ve İnce Su Arkı / Seçkin Destek)",
+    "root_latin": "S-R-Y",
+    "keywords": [
+      "isra",
+      "gece yuruyusu",
+      "yola cikarmak",
+      "seri",
+      "su arki",
+      "akip giden gece"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">asoraY`",
+        "ayahs": [
+          "11:81",
+          "15:65",
+          "17:1",
+          "20:77",
+          "26:52",
+          "44:23"
+        ],
+        "label": "Form IV (İf'âl) fiil (`أَسْرِ / أَسْرَىٰ` — geceleyin yürütmek ve kurtuluş/geçiş yolculuğuna çıkarmak; 6 geçiş)"
+      },
+      {
+        "lemma": "sariy~",
+        "ayahs": [
+          "19:24"
+        ],
+        "label": "İsim/sıfat (`سَرِيًّا` — bahçe/vadi su arkı veya soylu-seçkin destek; 1 geçiş)"
+      },
+      {
+        "lemma": "yasori",
+        "ayahs": [
+          "89:4"
+        ],
+        "label": "Form I muzâri fiil (`يَسْرِ` — gecenin durmadan akıp yürümesi, fasıla uyumuyla son yâ'sız; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Gece yürüyüşü veya su arkı anlam alanındaki `س-ر-ي` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:81",
+          "15:65",
+          "20:77",
+          "26:52",
+          "44:23"
+        ],
+        "text": "Zulüm Düzeninden Geceleyin Çıkış Stratejisi (`11:81`, `15:65`, `20:77`, `26:52`, `44:23`): Lût'a ailesiyle, Mûsâ'ya ise kullarıyla geceleyin yola çıkma (`أَسْرِ`) emri."
+      },
+      {
+        "ayahs": [
+          "17:1"
+        ],
+        "text": "Kulun Gecenin Bir Bölümünde Yürütülmesi (`17:1`): `سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا` — geceleyin gerçekleştirilen tarihî ve ayet gösterici yolculuk."
+      },
+      {
+        "ayahs": [
+          "89:4"
+        ],
+        "text": "Akıp Giden Gecenin Dinamik Ritmi (`89:4`): `وَٱلَّيْلِ إِذَا يَسْرِ` — gecenin durgun değil, fecre doğru akıp yürüyen kozmik bir süreç oluşu."
+      },
+      {
+        "ayahs": [
+          "19:24"
+        ],
+        "text": "Meryem'in Altında Var Edilen Su Arkı (`19:24`): Doğum sancısındaki Meryem'e sunulan su kaynağı (`سَرِيًّا`) ve hurma tazeliği."
+      }
+    ],
+    "context_default": "Geceleyin yürüyüş, gece yola çıkarma ve Meryem'in altındaki su arkı bağlamı"
   }
 }
