@@ -52015,5 +52015,51 @@
       }
     ],
     "context_default": "Dağların direncini yitirip renkli yumuşak yüne dönüşmesi bağlamı"
+  },
+  "ن-ف-ش": {
+    "buckwalter": "nf$",
+    "slug": "nfs_nfsh",
+    "concept_name": "Nefş / Menfûş (Gece Çobansız Dağılıp Yayılmak; Lif Lif Didilip Kabartılmak)",
+    "keywords": [
+      "didilmis",
+      "kabartilmis",
+      "atilan yun",
+      "nefş",
+      "menfus",
+      "gece dagilan suru",
+      "basibos otlamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nafa$ato",
+        "ayahs": [
+          "21:78"
+        ],
+        "label": "Form I mâzi 3. tekil dişil fiil (`إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ` — `إِذْ` zarfının muzâfün ileyhi; fâili `غَنَمُ`; 1 geçiş: 21:78)"
+      },
+      {
+        "lemma": "manfuw$",
+        "ayahs": [
+          "101:5"
+        ],
+        "label": "Form I ism-i mef'ûl eril marife mecrûr sıfat (`كَٱلْعِهْنِ ٱلْمَنفُوشِ` — `ٱلْعِهْنِ` isminin sıfatı; 1 geçiş: 101:5)"
+      }
+    ],
+    "irab_default": "Başıboş dağılıp yayılma veya lif lif didilip kabartılma bildiren kelime (`ن-ف-ش` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "21:78"
+        ],
+        "text": "Gece Çobansız Dağılan Sürünün Ekin Tarlasına Yayılması (`21:78`): Dâvûd ve Süleyman'ın, kavmin davarlarının geceleyin çobansız dağılıp içine yayıldığı (`نَفَشَتْ فِيهِ`) ekin zararı hakkında verdikleri hüküm."
+      },
+      {
+        "ayahs": [
+          "101:5"
+        ],
+        "text": "Dağların Didilip Kabartılmış Renkli Yüne Dönüşmesi (`101:5`): Kâria sarsılışında dağların bütün sertlik ve ağırlığını yitirip lifleri birbirinden ayrılıp kabartılmış renkli yün (`كَٱلْعِهْنِ ٱلْمَنفُوشِ`) gibi dağılması."
+      }
+    ],
+    "context_default": "Denetimsiz yayılma veya lif lif didilip kabartılma bağlamı"
   }
 }
