@@ -55385,5 +55385,72 @@
       }
     ],
     "context_default": "Hesap gününde telafi kapısının kapanması bağlamı"
+  },
+  "ج-ر-ح": {
+    "buckwalter": "jrH",
+    "slug": "jrh",
+    "concept_name": "Cerh, Cürûh ve İctirâh (Eylemle Kazanmak, Avcı Hayvanlar ve Fiziksel Yaralar)",
+    "keywords": [
+      "cerh",
+      "curuh",
+      "ictirah",
+      "cevarih",
+      "yaralar",
+      "kotuluk islemek",
+      "casiye suresi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jaraHo",
+        "ayahs": [
+          "6:60"
+        ],
+        "label": "Form I mâzi fiil (`مَا جَرَحْتُم بِٱلنَّهَارِ` — gündüzün eyleyip kazandıklarınız; 1 geçiş)"
+      },
+      {
+        "lemma": "{jotaraHu",
+        "ayahs": [
+          "45:21"
+        ],
+        "label": "Form VIII mâzi fiil (`ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ` — kötülük işleyip üstlenenler; 1 geçiş)"
+      },
+      {
+        "lemma": "jawaAriH",
+        "ayahs": [
+          "5:4"
+        ],
+        "label": "Mecrûr çoğul ism-i fâil (`مِنَ ٱلْجَوَارِحِ` — eğitilmiş avcı hayvanlar; 1 geçiş)"
+      },
+      {
+        "lemma": "juruwH",
+        "ayahs": [
+          "5:45"
+        ],
+        "label": "Mansûb/atfedilmiş çoğul isim (`وَٱلْجُرُوحَ قِصَاصٌ` — bedensel yaralar; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Eylem kazanımı veya fiziksel yara bildiren `ج-ر-ح` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:60",
+          "45:21"
+        ],
+        "text": "Organlarla İşlenen Eylemler ve Kötülük Sorumluluğu (`6:60`, `45:21`): Gündüzün yapılanların eksiksiz bilinmesi ve kötülük işleyip biriktirenlerle erdemli iş yapanların bir tutulmaması."
+      },
+      {
+        "ayahs": [
+          "5:4"
+        ],
+        "text": "Eğitilmiş Avcı Hayvanlar (`5:4`): Allah'ın öğrettiği usulle eğitilen avcı hayvanların (`ٱلْجَوَارِح`) yakaladığı temiz avlar."
+      },
+      {
+        "ayahs": [
+          "5:45"
+        ],
+        "text": "Yaralanmalarda Denklik Hukuku (`5:45`): Beden bütünlüğüne yönelik fiziksel yaralamalarda (`ٱلْجُرُوح`) kısas/denklik ilkesi."
+      }
+    ],
+    "context_default": "Eylem kazanımı veya fiziksel yara bağlamı"
   }
 }
