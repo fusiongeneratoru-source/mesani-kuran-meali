@@ -54881,5 +54881,61 @@
       }
     ],
     "context_default": "Semûd kıssasında dişi deve sınaması bağlamı"
+  },
+  "خ-ي-ب": {
+    "buckwalter": "xyb",
+    "slug": "xyb",
+    "concept_name": "Haybe (Çabanın Boşa Çıkması ve Mahrumiyet)",
+    "keywords": [
+      "haybe",
+      "habe",
+      "bosa cikmak",
+      "mahrumiyet",
+      "eli bos donmek",
+      "felah karsiti"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xaAba",
+        "ayahs": [
+          "14:15",
+          "20:61",
+          "20:111",
+          "91:10"
+        ],
+        "label": "Form I mâzi fiil (`خَابَ` — kesin sonuç yasası olarak boşa çıkmak ve mahrum kalmak; 4 geçiş)"
+      },
+      {
+        "lemma": "xaA^}ibiyn",
+        "ayahs": [
+          "3:127"
+        ],
+        "label": "Mansûb çoğul ism-i fâil / hâl (`خَآئِبِينَ` — hedeflediği bozgunu gerçekleştiremeden eli boş dönenler; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Boşa çıkma ve mahrumiyet bildiren `خ-ي-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "91:10"
+        ],
+        "text": "Felah ↔ Haybe Öz-Ahlâk Yasası (`91:9-10`): Özünü arındırıp büyütenin verime ermesine (`أَفْلَحَ`) karşılık, özünü bastırıp gömenin boşa çıkıp mahrum kalması (`خَابَ`)."
+      },
+      {
+        "ayahs": [
+          "14:15",
+          "20:61",
+          "20:111"
+        ],
+        "text": "Zorbalık, İftira ve Zulmün İflası (`14:15`, `20:61`, `20:111`): İnatçı zorbanın, yalan uyduranın ve zulüm yüklenenin kaçınılmaz mahrumiyeti."
+      },
+      {
+        "ayahs": [
+          "3:127"
+        ],
+        "text": "Saldırganların Eli Boş Dönüşü (`3:127`): Hakikati örten saldırganların amaçlarına ulaşamadan bozgun ve mahrumiyetle (`خَآئِبِينَ`) geri dönmesi."
+      }
+    ],
+    "context_default": "Boşa çıkma ve mahrumiyet bağlamı"
   }
 }
