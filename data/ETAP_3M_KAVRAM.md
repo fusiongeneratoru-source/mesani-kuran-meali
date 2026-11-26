@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,32` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 860 Kök | Güncel Kapsam: %96,00)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 11 / 50 Kök (Toplam Mühürlü: 861 Kök | Güncel Kapsam: %96,02)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -17,7 +17,7 @@
 | 8 | Sure %100 Kilidi | 1605 | `ر-ح-ق` | `R-H-K` | **1** | 1 | 83:25 | Rahîk (Katkısız, Tortusuz, Mühürlü ve Seçkin Saf İçecek) | ✅ **MÜHÜRLÜ** |
 | 9 | Sure %100 Kilidi | 1604 | `ر-ي-ن` | `R-Y-N` | **1** | 1 | 83:14 | Reyn (Yapılıp Biriktirilen Kötülüklerin Kalbin Üzerini Pas ve Örtü Gibi Kaplaması) | ✅ **MÜHÜRLÜ** |
 | 10 | Sure %100 Kilidi | 1606 | `س-ن-م` | `S-N-M` | **1** | 1 | 83:27 | Tesnîm (En Yüksek Doruktan ve Yüce Kaynaktan İnen Seçkin Pınar) | ✅ **MÜHÜRLÜ** |
-| 11 | Sure %100 Kilidi | 592 | `ر-ه-ق` | `R-H-K` | **10** | 10 | 10:26 | Rehak ve İrhâk (Sure 80 Abese + Sure 74 Müddessir ortak kilidi + 10 geçiş: 10:26, 10:27, 18:73, 18:80, 68:43, 70:44, 72:6, 72:13, 74:17, 80:41 kaplayıp bürümek ve dayanılması güç yükle bunaltmak) | ⏳ *Bekliyor* |
+| 11 | Sure %100 Kilidi | 592 | `ر-ه-ق` | `R-H-K` | **10** | 10 | 10:26 | Rahak ve İrhâk (Üzerine Çöküp Kaplamak, Ağır Yükle Bunalıp Sıkıştırmak ve Taşkınlığa Sürüklemek) | ✅ **MÜHÜRLÜ** |
 | 12 | Sure %100 Kilidi | 888 | `ش-أ-ن` | `S-E-N` | **4** | 4 | 10:61 | Şe'n (Sure 80 Abese kilidi + 4 geçiş: 10:61, 24:62, 55:29, 80:37 kişinin tüm dikkatini bağlayan önemli iş, hâl ve gündem) | ⏳ *Bekliyor* |
 | 13 | Sure %100 Kilidi | 1047 | `ع-ب-س` | `A-B-S` | **3** | 3 | 74:22 | Abese ve Abûs (Sure 80 Abese + Sure 74 Müddessir ortak kilidi + 3 geçiş: 74:22, 76:10, 80:1 yüzünü buruşturup kaşlarını çatmak) | ⏳ *Bekliyor* |
 | 14 | Sure %100 Kilidi | 1026 | `ح-د-ق` | `H-D-K` | **3** | 3 | 27:60 | Hadâik (Sure 80 Abese kilidi + 3 geçiş: 27:60, 78:32, 80:30 etrafı duvar/çitle çevrili bol ağaçlı bahçeler) | ⏳ *Bekliyor* |

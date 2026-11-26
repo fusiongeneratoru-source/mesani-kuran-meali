@@ -59703,5 +59703,79 @@
       }
     ],
     "context_default": "En yüksek doruktan inen yüce kaynak ve seçkin ikram bağlamı"
+  },
+  "ر-ه-ق": {
+    "buckwalter": "rhq",
+    "slug": "rhq_rahaq",
+    "concept_name": "Rahak ve İrhâk (Üzerine Çöküp Kaplamak, Ağır Yükle Bunalıp Sıkıştırmak ve Taşkınlığa Sürüklemek)",
+    "root_latin": "R-H-Q",
+    "keywords": [
+      "rahak",
+      "irhak",
+      "bunalim",
+      "kaplamak",
+      "agir yuk",
+      "zillet",
+      "zorlamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yarohaqu",
+        "ayahs": [
+          "10:26",
+          "10:27",
+          "68:43",
+          "70:44",
+          "80:41"
+        ],
+        "label": "Form I muzâri fiil (`يَرْهَقُ`, `تَرْهَقُهُمْ`, `تَرْهَقُهَا` — kara is, zillet veya ezikliğin yüzleri çöküp kaplaması; 5 geçiş)"
+      },
+      {
+        "lemma": "yurohiqa",
+        "ayahs": [
+          "18:73",
+          "18:80",
+          "74:17"
+        ],
+        "label": "Form IV (İf'âl) muzâri fiil (`تُرْهِقْنِى`, `يُرْهِقَهُمَا`, `سَأُرْهِقُهُۥ` — bir kimseye gücünü aşan ağır bir zorluk, taşkınlık veya sarp yokuş yüklemek; 3 geçiş)"
+      },
+      {
+        "lemma": "rahaq",
+        "ayahs": [
+          "72:6",
+          "72:13"
+        ],
+        "label": "Masdar/isim (`رَهَقًا` — bunaltıcı yük, şaşkınlık ve ezici haksızlık/baskı; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Üzerine çöküp kaplamayı, ağır yükle bunaltmayı veya ezici baskıyı bildiren `ر-ه-ق` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "10:26",
+          "10:27",
+          "68:43",
+          "70:44",
+          "80:41"
+        ],
+        "text": "Yüzleri Kaplayan Kara İs ve Zillet (`10:26`, `10:27`, `68:43`, `70:44`, `80:41`): İyilerin yüzlerini hiçbir kara is ve eziklik kaplamaz (`لَا يَرْهَقُ`, `10:26`); kötülük işleyenleri ise zillet (`تَرْهَقُهُمْ ذِلَّةٌ`) ve kara is (`تَرْهَقُهَا قَتَرَةٌ`) sarar."
+      },
+      {
+        "ayahs": [
+          "18:73",
+          "18:80",
+          "74:17"
+        ],
+        "text": "Ağır Yük ve Zorluğa Sürme — Form IV (`18:73`, `18:80`, `74:17`): Musa'nın 'işimde bana güçlük yükleme' (`لَا تُرْهِقْنِى عُسْرًا`), gencin anne-babasını taşkınlığa sürükleme endişesi (`أَن يُرْهِقَهُمَا`) ve kibirliye sarp yokuş yüklenmesi (`سَأُرْهِقُهُۥ صَعُودًا`)."
+      },
+      {
+        "ayahs": [
+          "72:6",
+          "72:13"
+        ],
+        "text": "Bunaltı ve Haksız Baskı — `رَهَقًا` (`72:6`, `72:13`): Görünmeyen varlıklardan (`ٱلْجِنِّ`) sığınak arayanların yalnızca bunaltı ve taşkınlıklarının artması (`72:6`), Rabbine güvenenin ise ne eksiltmeden ne de ezici yükten korkmaması (`72:13`)."
+      }
+    ],
+    "context_default": "Üzerine çöküp kaplama, ağır yükle bunaltma ve ezici baskı bağlamı"
   }
 }
