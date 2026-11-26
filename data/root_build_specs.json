@@ -57763,5 +57763,54 @@
       }
     ],
     "context_default": "Sarı renk, kuruyup sararma ve ateş kıvılcımı görseli bağlamı"
+  },
+  "ن-س-ف": {
+    "buckwalter": "nsf",
+    "slug": "nsf",
+    "concept_name": "Nesf (Temelinden Söküp Un Ufak Ederek Rüzgârla veya Suya Savurup İzini Silmek)",
+    "root_latin": "N-S-F",
+    "keywords": [
+      "nesf",
+      "kokunden sokmek",
+      "un ufak edip savurmak",
+      "daglarin savrulmasi",
+      "toz etmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nusifato",
+        "ayahs": [
+          "20:97",
+          "20:105",
+          "77:10"
+        ],
+        "label": "Form I fiil (`لَنَنسِفَنَّهُ` / `يَنسِفُهَا` / `نُسِفَتْ` — yakılmış putu ve dağları kökünden söküp toz ederek savurmak; 3 geçiş)"
+      },
+      {
+        "lemma": "nasof",
+        "ayahs": [
+          "20:97",
+          "20:105"
+        ],
+        "label": "Mastar / mef'ûl-i mutlak (`نَسْفًا` — zerresi kalmayacak biçimde kesin savurup dağıtma pekiştirmesi; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Kökünden söküp un ufak ederek savurup dağıtmayı bildiren `ن-س-ف` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "20:105",
+          "77:10"
+        ],
+        "text": "Dağların Kökünden Sökülüp Savrulması (`20:105`, `77:10`): Hesap günü geldiğinde sabit sanılan dağların un ufak edilip savrulması (`يَنسِفُهَا رَبِّي نَسْفًا` / `وَإِذَا الْجِبَالُ نُسِفَتْ`) ve yerin dümdüz kalması."
+      },
+      {
+        "ayahs": [
+          "20:97"
+        ],
+        "text": "Altın Buzağının Yakılıp Denize Savrulması (`20:97`): Mûsâ'nın Sâmirî'nin yaptığı buzağıyı önce yakıp ardından tozunu denize savurarak (`لَنَنسِفَنَّهُ فِي الْيَمِّ نَسْفًا`) hiçbir fiziksel kalıntı bırakmaması."
+      }
+    ],
+    "context_default": "Kökünden sökme, un ufak etme ve savurup dağıtma bağlamı"
   }
 }

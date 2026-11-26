@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (24/50 — Toplam 824 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (25/50 — Toplam 825 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -5518,7 +5518,8 @@
           "أ-ر-ض (أ-ر-ض ↔ ب-ن-ي Mesânî simetrisi)",
           "ق-ع-د (ق-ع-د ↔ ب-ن-ي Mesânî simetrisi)",
           "ح-ط-م (H-T-M (HTm) — Çift Yönlü Mesânî Karşılığı: 27:18, 39:21, 57:20, 104:4-5)",
-          "ت-ب-ر (Tetbîr/Tebâr: parçalayıp ufalayarak kökünden yıkmak ↔ ب-ن-ي sağlam biçimde inşa edip kurmak)"
+          "ت-ب-ر (Tetbîr/Tebâr: parçalayıp ufalayarak kökünden yıkmak ↔ ب-ن-ي sağlam biçimde inşa edip kurmak)",
+          "ن-س-ف (Nesf: bir yapıyı veya kütleyi temelinden kazıyıp dağıtmak ↔ ب-ن-ي parçaları üst üste koyup sağlam biçimde inşa etmek)"
         ],
         "key_ayahs": [
           "9:109-110 & 16:26 & 61:4 (أَسَّسَ بُنْيَٰنَهُۥ عَلَىٰ تَقْوَىٰ ... كَأَنَّهُم بُنْيَٰنٌ مَّرْصُوصٌ: Temel ilkeye oturan sarsılmaz toplumsal yapı vs kaypak zemin üzerinde çöken sahte bina)",
@@ -53914,7 +53915,8 @@
           "ج-ر-ي",
           "س-ي-ر",
           "ع-ص-ف (A-S-F (ESf) — Çift Yönlü Mesânî Karşılığı: 10:22, 21:81, 105:5)",
-          "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: rüzgâr veya hamleyle kütleyi yerinden kaldırıp sürüklemek `تُثِيرُ سَحَابًا` ↔ ağır ve köklü biçimde zemine çakılıp durmak `رَاسِيَٰت`)"
+          "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: rüzgâr veya hamleyle kütleyi yerinden kaldırıp sürüklemek `تُثِيرُ سَحَابًا` ↔ ağır ve köklü biçimde zemine çakılıp durmak `رَاسِيَٰت`)",
+          "ن-س-ف (Nesf: kütleyi kökünden söküp toz ederek savurmak ↔ ر-س-و dağları ve yapıları zemine sarsılmaz biçimde sabitleyip çivilemek)"
         ],
         "key_ayahs": [
           "7:187",
@@ -69332,6 +69334,91 @@
           "meaning": "Sarı / sarıya çalan bakır tonlu",
           "examples": [
             "77:33"
+          ]
+        }
+      ]
+    },
+    "ن-س-ف": {
+      "root_latin": "N-S-F",
+      "arabic": "ن-س-ف",
+      "rank": 828,
+      "morphology_and_rasm": {
+        "buckwalter": "nsf",
+        "rasm_skeleton": "نسف (harekesiz iskelet; لننسفنه / نسفا / ينسفها / نسفت biçimleriyle 5 kez)",
+        "approx_frequency": "5 geçiş / 3 ayet (3x Form I fiil لَنَنسِفَنَّهُ `20:97`, يَنسِفُهَا `20:105`, نُسِفَتْ `77:10`; 2x mastar نَسْفًا `20:97`, `20:105`)",
+        "verb_forms_used": [
+          "Form I (فَعَلَ يَفْعِلُ — 3 geçiş): لَنَنسِفَنَّهُ (`20:97` etken tekitli), يَنسِفُهَا (`20:105` etken muzâri), نُسِفَتْ (`77:10` edilgen mâzi — kökünden söküp toz ederek savurmak)"
+        ],
+        "noun_forms_used": [
+          "نَسْف (2 geçiş: `20:97`, `20:105` — mef'ûl-i mutlak mastar: zerresi kalmaksızın savurup dağıtma)"
+        ],
+        "preposition_patterns": [
+          "لَنَنسِفَنَّهُ فِي الْيَمِّ نَسْفًا (`20:97`: zarf `فِي` ile tozunu denize savurup dağıtmak)",
+          "يَنسِفُهَا رَبِّي نَسْفًا (`20:105`: mef'ûl-i mutlak ile dağları kökten savurmak)"
+        ]
+      },
+      "physical_core": "Tahılı geniş savurma tepsisiyle (`مِنسَف`) havaya kaldırıp saman ve tozunu rüzgâra savurmak (`نَسَفَ الطَّعَامَ`) ve bir binayı veya yükseltiyi temel taşından kazıyıp toz ederek dağıtmak (`نَسَفَ الْبِنَاءَ`); Kur'an'da bu somut 'kökünden kazıyıp tozunu savurma' eylemi hem yakılan buzağının denize savrulmasında (`20:97`) hem de dağların silinip yeryüzünün dümdüz edilmesinde (`20:105`, `77:10`) işler.",
+      "ibn_faris_asl": "(نَسَفَ) النُّونُ وَالسِّينُ وَالْفَاءُ: أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى قَلْعِ الشَّيْءِ مِنْ أَصْلِهِ وَتَذْرِيَتِهِ وَتَفْرِيقِهِ. يُقَالُ نَسَفَ الطَّعَامَ بِالْمِنْسَفِ، وَنَسَفَ الْبِنَاءَ إِذَا قَلَعَهُ مِنْ أَصْلِهِ؛ قَالَ اللَّهُ تَعَالَى: ﴿فَقُلْ يَنسِفُهَا رَبِّي نَسْفًا﴾. [Mu'cemü Mekâyîsi'l-Luğa, c. 5, s. 419, نسف maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "Kökün tek sağlam aslını 'bir şeyi kökünden söküp havaya savurarak dağıtmak' olarak belirler; savurma kabı (`مِنسَف`) ile tahılın kabuğunu ayırıp savurmayı ve yapıyı temelinden sökmeyi aynı fiziksel çekirdekte birleştirir.",
+        "lisan_al_arab": "İbn Manzûr `نَسَفَ` fiilinin üç fiziksel sahnesini kaydeder: 1) Tahılı `مِنسَف` ile savurup tozunu uçurmak, 2) Binayı veya dağı temelinden kazıyıp toz ederek rüzgâra dağıtmak (`20:105`, `77:10`), 3) Yakılmış kütleyi un ufak edip suya savurmak (`20:97`).",
+        "ragib_al_isfahani": "Râğıb `نَسْف`'in sıradan bir yıkım değil, 'tüm kütleyi toz zerreciklerine indirgeyip rüzgârla veya suyla dağıtarak hiçbir yükselti ve iz bırakmama' olduğunu vurgular; nitekim `20:106` hemen ardından `فَيَذَرُهَا قَاعًا صَفْصَفًا` (onu dümdüz, çıplak bir ova olarak bırakır) diyerek sonucu tamamlar.",
+        "verdict": "Tüm 5 geçiş sıfır çatlakla tek somut fiziksel mekanizmada birleşir: **sabit ve heybetli sanılan kütleyi (altın putu ya da dağları) kökünden söküp toz zerreciklerine ayırarak savurup izini tamamen silmek**."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*nsp / *nšp ('üflemek, savurmak, rüzgârla dağıtmak')",
+        "hebrew": "נָשַׁף (nāšap: şiddetle üflemek, esip savurmak — Mısır'dan Çıkış 15:10 נָשַׁפְתָּ בְרוּחֲךָ 'rüzgârınla üfledin/savurdun')",
+        "aramaic_syriac": "נְשַׁף / ܢܫܦ (nəšap: esmek, savurmak, üfleyip dağıtmak)",
+        "akkadian": "našāpu ('rüzgârla savurmak, üfleyip dağıtmak')",
+        "comparative_note": "Akadca `našāpu`, İbranice `nāšap`, Süryanice `nəšap` ve Arapça `نَسَفَ` (`*š > s` düzenli ses denkliğiyle!) Proto-Sami `*nšp` ('şiddetle savurup dağıtmak') kökünün dört büyük Sami kolundaki eksiksiz ve şaşmaz eşkökenidir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ر-س-و (Dağları ve kütleleri zemine derin köklerle çivileyip sabitlemek ↔ نَسْف dağları kökünden söküp toz ederek savurmak — krş. aynı sure `77:10` vs `77:27`!)",
+          "ب-ن-ي (Parçaları üst üste örüp sağlam bir yapı kurmak ↔ نَسْف yapıyı temelinden kazıyıp dağıtmak)"
+        ],
+        "bidirectional_test": "Bir kütleyi kökünden kazıyıp toz ederek savurmak (`ن-س-ف`) tersine çevrildiğinde kütleyi zemine çivileyip sabitlemek (`ر-س-و`) ve inşa edip birleştirmek (`ب-ن-ي`) ortaya çıkar; Sure 77 Mürselât'ta `77:10` (`وَإِذَا الْجِبَالُ نُسِفَتْ`) ile `77:27` (`رَوَاسِيَ شَامِخَاتٍ`) bu kozmik karşıtlığı doğrudan sahneler!"
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ح-ر-ق",
+          "ج-ب-ل",
+          "د-ك-ك",
+          "ر-س-و"
+        ],
+        "analysis": "`20:97`'de iki ardışık imha evresi ayrışır: önce `لَنُحَرِّقَنَّهُ` (`ح-ر-ق`: ateşle yakıp/eğelemek), sonra `لَنَنسِفَنَّهُ` (`ن-س-ف`: kalan külü ve tozu denize savurup izini silmek). Dağlarla ilgili Furûk'ta ise `د-ك-ك` (`69:14`, `89:21`) dağları çarpıp ezerek yerle bir etmeyi, `ن-س-ف` (`20:105`, `77:10`) ise o ufalanmış kütleyi temelinden söküp rüzgârla havaya savurarak geride en küçük tümsek bile bırakmamayı anlatır."
+      },
+      "anchor_ayahs": [
+        "20:97 (لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا — onu kesinlikle yakacağız, sonra da tozunu denize savurup dağıtacağız)",
+        "20:105 (وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًا — sana dağlardan soruyorlar; de ki: 'Rabbim onları kökünden söküp un ufak ederek savuracaktır')",
+        "77:10 (وَإِذَا ٱلْجِبَالُ نُسِفَتْ — ve dağlar kökünden sökülüp savrulduğunda)"
+      ],
+      "unified_core_mechanism": "`ن-س-ف` kökü 5 geçişinin tamamında **'sağlam ve kalıcı sanılan kütleyi temelinden kazıyıp toz zerreciklerine ayırarak rüzgâr/su içine savurup izini silme'** mekanizmasını işletir; `20:97`'de putun mutlak imhasını, `20:105` ve `77:10`'da ise dağların kozmik silinişini kurar.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Etken ve Tekitli Savurma (`لَنَنسِفَنَّهُ ... نَسْفًا` `20:97`, `يَنسِفُهَا ... نَسْفًا` `20:105`): Hem etken fiil hem mef'ûl-i mutlak mastarla kesin, eksiksiz savurma.",
+          "Dal 2 — Edilgen Kozmik Savrulma (`نُسِفَتْ` `77:10`): `إِذَا` şart cümlesinde dağların kaçınılmaz biçimde kökünden sökülüp savrulması."
+        ],
+        "irab_notes": "`نَسْفًا` (`20:97`, `20:105`) her iki geçişte de fiilin gerçekleşme kesinliğini ve tamlığını pekiştiren mansûb mef'ûl-i mutlaktır; `لَنَنسِفَنَّهُ` kasem lamı ve ağır tekit nûnu (`نّ`) taşır."
+      },
+      "derivatives": [
+        {
+          "form": "لَنَنسِفَنَّهُ / يَنسِفُهَا / نُسِفَتْ",
+          "pos": "Fiil (Form I)",
+          "meaning": "Kökünden söküp un ufak ederek savurup dağıtmak",
+          "examples": [
+            "20:97",
+            "20:105",
+            "77:10"
+          ]
+        },
+        {
+          "form": "نَسْف",
+          "pos": "Mastar (mef'ûl-i mutlak)",
+          "meaning": "Zerresi kalmaksızın kökünden savurma",
+          "examples": [
+            "20:97",
+            "20:105"
           ]
         }
       ]
