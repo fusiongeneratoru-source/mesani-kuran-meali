@@ -51761,5 +51761,80 @@
       }
     ],
     "context_default": "Bir merkezden veya içeriden dört bir yana yayılma, saçılma ve açığa çıkma bağlamı"
+  },
+  "ع-ي-ش": {
+    "buckwalter": "Ey$",
+    "slug": "eys",
+    "concept_name": "Ayş / Maîşet (Geçim Vasıtalarıyla Sürdürülen Yaşam Düzeni ve Dirlik Hâli)",
+    "keywords": [
+      "gecim",
+      "dirlik",
+      "yasayis",
+      "maiset",
+      "meas",
+      "ise",
+      "gecim kaynaklari"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "maEa`yi$",
+        "ayahs": [
+          "7:10",
+          "15:20"
+        ],
+        "label": "Gayr-i munsarıf çoğul mansûb isim (`مَعَٰيِشَ` — `جَعَلْنَا` fiilinin mef'ûlün bihi; tenvinsiz fetha ile mansûb; 2 geçiş: 7:10, 15:20)"
+      },
+      {
+        "lemma": "maEiy$ap",
+        "ayahs": [
+          "20:124",
+          "28:58",
+          "43:32"
+        ],
+        "label": "Tekil dişil mansûb isim (`مَعِيشَةً` `إِنَّ` ismi 20:124; `مَعِيشَتَهَا` `بَطِرَتْ` mef'ûlü 28:58; `مَّعِيشَتَهُمْ` `قَسَمْنَا` mef'ûlü 43:32; 3 geçiş)"
+      },
+      {
+        "lemma": "Eiy$ap",
+        "ayahs": [
+          "69:21",
+          "101:7"
+        ],
+        "label": "İsm-i hey'et dişil nekra mecrûr isim (`فِى عِيشَةٍ رَّاضِيَةٍ` — `فِى` harf-i cerriyle mecrûr, haber konumundaki câr-mecrûr; 2 geçiş: 69:21, 101:7)"
+      },
+      {
+        "lemma": "maEaA$",
+        "ayahs": [
+          "78:11"
+        ],
+        "label": "İsm-i zaman / mimli mastar mansûb eril isim (`وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا` — `جَعَلْنَا` fiilinin ikinci mef'ûlü; 1 geçiş: 78:11)"
+      }
+    ],
+    "irab_default": "Geçim kaynağı, yaşayış biçimi veya dirlik zamanını bildiren isim (`ع-ي-ش` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:10",
+          "15:20",
+          "78:11"
+        ],
+        "text": "Yeryüzünde Geçim İmkânları ve Gündüzün İşleyişi (`7:10`, `15:20`, `78:11`): Yeryüzünün geçim kaynaklarıyla (`مَعَٰيِشَ`) donatılması ve gündüzün geçim çabası vakti (`مَعَاشًا`) kılınması."
+      },
+      {
+        "ayahs": [
+          "43:32",
+          "28:58",
+          "20:124"
+        ],
+        "text": "Dünyadaki Geçim Paylaşımı, Şımarıklık ve Daralma (`43:32`, `28:58`, `20:124`): Geçim düzeninin insanlar arasında taksimi (`43:32`), refahtan şımaran yerleşimlerin yok oluşu (`28:58`) ve zikirden yüz çevirenin düştüğü dar, bunaltıcı yaşayış (`20:124`)."
+      },
+      {
+        "ayahs": [
+          "69:21",
+          "101:7"
+        ],
+        "text": "Hoşnut Edici Dirlik ve Yaşayış (`69:21`, `101:7`): Kaydı sağdan verilen ve tartısı ağır basan kimsenin içine yerleştiği doyurucu, hoşnutluk verici dirlik hâli (`فِى عِيشَةٍ رَّاضِيَةٍ`)."
+      }
+    ],
+    "context_default": "Geçim kaynakları, yaşamın sürdürülmesi ve dirlik niteliği bağlamı"
   }
 }
