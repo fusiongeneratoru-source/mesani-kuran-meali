@@ -61021,5 +61021,37 @@
       }
     ],
     "context_default": "Dış örtü veya katmanın sıyrılıp yerinden kaldırılması bağlamı"
+  },
+  "ك-د-ر": {
+    "buckwalter": "kdr",
+    "slug": "kdr",
+    "concept_name": "İnkidâr (Berraklığını ve Parıltısını Yitirip Bulanmak, Karararak Hızla Dökülüp Saçılmak)",
+    "root_latin": "K-D-R",
+    "keywords": [
+      "inkidar",
+      "keder",
+      "bulanmak",
+      "yildizlarin dokulmesi",
+      "pariltinin sonmesi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{nkadarato",
+        "ayahs": [
+          "81:2"
+        ],
+        "label": "Form VII (İnfiâl) dönüşlü mâzî fiil (`وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ` — yıldızlar parıltısını yitirip bulanarak hızla aşağı doğru dökülüp saçıldığında; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Berraklığın bozulup bulanmasını ve hızla aşağı dökülüp savrulmayı bildiren `ك-د-ر` Form VII fiili (`ٱنكَدَرَتْ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "81:2"
+        ],
+        "text": "Yıldızların Sönükleşip Dökülmesi (`81:2`): `81:1-2` kozmik çözülme açılışında güneşin dürülmesinin (`إِذَا ٱلشَّمْسُ كُوِّرَتْ`) hemen ardından yıldızların berrak parıltılarını yitirip hızla yörüngelerinden koparak dökülmesi (`وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ`)."
+      }
+    ],
+    "context_default": "Berraklığın bulanıp parıltının sönmesi ve hızla aşağı dökülme bağlamı"
   }
 }
