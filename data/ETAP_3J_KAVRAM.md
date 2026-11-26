@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 700 mühürlü kökten (`%94,24`) sonra, `6` sureyi daha `%100` kilitleyen `29` kök (Sure 63 Münâfikûn, 66 Tahrîm, 61 Saff, 100 Âdiyât, 101 Kâria, 88 Ğâşiye → **35 tam kilitli sure**; Sure 60–66 ve Sure 92–114 kesintisiz `%100` kilit), kalan tüm `2+` açık Mesânî/Furûk tepe uçları (`10` kök) ve `13–12` geçişli `11` çekirdek kök olmak üzere **50 kök** (285 geçiş) mühürlenerek toplam sözlük **750 kilitli köke (`%94,81` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%96,65`'i)** ulaştırılır.
-> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 48 / 50 Kök (Toplam Mühürlü: 748 Kök | Güncel Kapsam: %94,77)
+> **Etap 3J İçinde Şu Ana Kadar Mühürlenen:** 49 / 50 Kök (Toplam Mühürlü: 749 Kök | Güncel Kapsam: %94,79)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -55,5 +55,5 @@
 | 46 | Yüksek Frekanslı Çekirdek | 530 | `خ-و-ض` | `H-W-D` | **12** | 9 | 4:140 | Havd (Suya Girip Çalkalar Gibi Batıl ve Alaycı Sözlere Dalmak) | ✅ **MÜHÜRLÜ** |
 | 47 | Yüksek Frekanslı Çekirdek | 537 | `س-ج-ن` | `S-C-N` | **12** | 12 | 12:25 | Sicn ve Siccîn (Sıkı Sıkıya Alıkoyup Hapsetmek, Zindan ve Mahpus Dip Kayıt) | ✅ **MÜHÜRLÜ** |
 | 48 | Yüksek Frekanslı Çekirdek | 538 | `س-ل-ك` | `S-L-K` | **12** | 12 | 15:12 | Sülûk (Bir Kanaldan veya Hattan Dosdoğru Geçirmek, Nüfuz Ettirmek ve Yola Koyulmak) | ✅ **MÜHÜRLÜ** |
-| 49 | Yüksek Frekanslı Çekirdek | 533 | `ش-م-ل` | `S-M-L` | **12** | 11 | 6:143 | Şimâl ve İştemelet (12 geçiş | 1M: ي-م-ن! 6:143-144, 7:17, 16:48, 18:17, 56:41 sol yön/taraf ve rahmin içine alıp kuşatması) | ⏳ *Bekliyor* |
+| 49 | Yüksek Frekanslı Çekirdek | 533 | `ش-م-ل` | `S-M-L` | **12** | 11 | 6:143 | Şimâl ve İştimal (Sağın Karşısındaki Sol Yön/El ve Rahimlerin Çepeçevre Kuşatması) | ✅ **MÜHÜRLÜ** |
 | 50 | Yüksek Frekanslı Çekirdek | 514 | `ط-م-ع` | `T-M-A` | **12** | 12 | 2:75 | Tama' (12 geçiş | 1M: خ-و-ف! 2:75, 5:84, 7:46, 7:56, 13:12, 32:16 gerçekleşmesini güçlü bir umut ve istekle arzulayıp beklemek) | ⏳ *Bekliyor* |

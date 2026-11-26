@@ -53628,5 +53628,86 @@
       }
     ],
     "context_default": "Bir kanal/hat içine geçirme veya açılmış yolda ilerleme bağlamı"
+  },
+  "ش-م-ل": {
+    "buckwalter": "$ml",
+    "slug": "sml",
+    "concept_name": "Şimâl ve İştimal (Sağın Karşısındaki Sol Yön/El ve Rahimlerin Çepeçevre Kuşatması)",
+    "keywords": [
+      "simal",
+      "semail",
+      "istimal",
+      "sol yon",
+      "sol el",
+      "ashabus simal",
+      "kusatmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{$otamalato",
+        "ayahs": [
+          "6:143",
+          "6:144"
+        ],
+        "label": "Form VIII malum mâzi müennes fiil (`اِشْتَمَلَتْ` — Asl 1: rahmin cenini çepeçevre sarıp içine alması; 2 geçiş: 6:143, 6:144)"
+      },
+      {
+        "lemma": "$amaA^}il",
+        "ayahs": [
+          "7:17",
+          "16:48"
+        ],
+        "label": "Mecrûr kırık çoğul isim (`شَمَآئِلِهِمْ / ٱلشَّمَآئِلِ` — Asl 2: `عَنْ` harf-i cerriyle sol yanlar; 2 geçiş: 7:17, 16:48)"
+      },
+      {
+        "lemma": "$~imaAl",
+        "ayahs": [
+          "18:17",
+          "18:18",
+          "34:15",
+          "50:17",
+          "70:37"
+        ],
+        "label": "Mecrûr tekil isim (`ٱلشِّمَالِ / شِمَالٍ` — Asl 2: sağ yönle simetrik fiziksel sol taraf ve yan; 5 geçiş)"
+      },
+      {
+        "lemma": "$~imaAl",
+        "ayahs": [
+          "56:41",
+          "69:25"
+        ],
+        "label": "Mecrûr tekil isim (`أَصْحَٰبُ ٱلشِّمَالِ` [2x] / `بِشِمَالِهِۦ` — Asl 2: hesap gününde sol taraf ehli ve sol el; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Sol yön/el (Asl 2) veya çepeçevre sarıp kuşatma (Asl 1) bildiren `ش-م-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:143",
+          "6:144"
+        ],
+        "text": "Asl 1 — Rahimlerin Çepeçevre Kuşatması (`6:143`, `6:144`): Geleneksel hayvan yasaklarını çürüten akıl yürütmede, iki dişinin rahimlerinin sarıp barındırdığı yavruların hükmü sorgulanır."
+      },
+      {
+        "ayahs": [
+          "7:17",
+          "16:48",
+          "18:17",
+          "18:18",
+          "34:15",
+          "50:17",
+          "70:37"
+        ],
+        "text": "Asl 2 — Sağ-Sol Mekân, Doğa ve Kayıt Simetrisi (`7:17`, `16:48`, `18:17`, `18:18`, `34:15`, `50:17`, `70:37`): Gölgelerin eğilişi, güneşin mağarayı sıyırışı, Sebe'nin iki bahçesi, sağda ve solda duran kayıt görevlileri ile kuşatma ve toplanma yönleri."
+      },
+      {
+        "ayahs": [
+          "56:41",
+          "69:25"
+        ],
+        "text": "Asl 2 — Hesap Bilançosunda Sol Taraf ve Sol El (`56:41` [2x], `69:25`): Sağ taraf ehlinin karşısındaki `أَصْحَٰبُ ٱلشِّمَالِ` ve kayıt belgesi sol eline verilen kişinin pişmanlığı."
+      }
+    ],
+    "context_default": "Sol yön/taraf veya çepeçevre kuşatma bağlamı"
   }
 }
