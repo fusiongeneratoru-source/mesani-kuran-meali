@@ -58706,5 +58706,68 @@
       }
     ],
     "context_default": "Şimşek parıltısı ve gözün kamaşıp donakalması bağlamı"
+  },
+  "ع-ن-ب": {
+    "buckwalter": "Enb",
+    "slug": "enb",
+    "concept_name": "İneb ve A'nâb (Üzüm Meyvesi ve Bereketli Üzüm Bağları)",
+    "root_latin": "E-N-B",
+    "keywords": [
+      "ineb",
+      "anab",
+      "uzum",
+      "uzum baglari",
+      "rizik",
+      "biyolojik cesitlilik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Einab",
+        "ayahs": [
+          "2:266",
+          "6:99",
+          "13:4",
+          "16:11",
+          "16:67",
+          "17:91",
+          "18:32",
+          "23:19",
+          "36:34",
+          "78:32",
+          "80:28"
+        ],
+        "label": "İsim (10x çoğul `أَعْنَاب` üzüm bağları/üzümler, 1x tekil/cins `عِنَبًا` `80:28`; toplam 11 geçiş)"
+      }
+    ],
+    "irab_default": "Üzüm ve üzüm bağlarını bildiren `ع-ن-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:99",
+          "13:4",
+          "16:11",
+          "23:19",
+          "36:34",
+          "80:28"
+        ],
+        "text": "Suyun Canlandırdığı Çeşitlilik ve Rızık Ayeti (`6:99`, `13:4`, `16:11`, `23:19`, `36:34`, `80:28`): Aynı yağmurla sulanan topraktan çıkan üzüm bağları, hurmalıklar ve ekinler."
+      },
+      {
+        "ayahs": [
+          "2:266",
+          "18:32"
+        ],
+        "text": "Mülkün Geçiciliği ve Paylaşım Meseli (`2:266`, `18:32`): Hurmalık ve üzüm bağlarından oluşan bahçe mesellerinde emeğin boşa gitmesi ve kibrin çöküşü."
+      },
+      {
+        "ayahs": [
+          "16:67",
+          "17:91",
+          "78:32"
+        ],
+        "text": "Üzümün Kullanım Tercihi ve Nimet Ödülü (`16:67`, `17:91`, `78:32`): Üzümden hem sarhoş edici içki hem güzel rızık üretilebilmesi (`16:67`) ve esenlik ödülü (`78:32`)."
+      }
+    ],
+    "context_default": "Üzüm ve üzüm bağları tarım-rızık bağlamı"
   }
 }
