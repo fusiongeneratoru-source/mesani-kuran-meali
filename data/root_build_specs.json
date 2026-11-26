@@ -56859,5 +56859,46 @@
       }
     ],
     "context_default": "Karanlığı yaran parlak kandil ve ışık kaynağı bağlamı"
+  },
+  "ف-ج-ج": {
+    "buckwalter": "fjj",
+    "slug": "fjj",
+    "concept_name": "Fecc ve Ficâc (İki Dağ veya Yükselti Arasında Yarılarak Açılan Geniş Geçit / Uzak Vadi Yolu)",
+    "root_latin": "F-C-C",
+    "keywords": [
+      "fecc",
+      "ficac",
+      "dag gecidi",
+      "vadi yolu",
+      "genis gecit"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "faj~",
+        "ayahs": [
+          "21:31",
+          "22:27",
+          "71:20"
+        ],
+        "label": "Tekil/çoğul isim (`فَجٍّ` / `فِجَاجًا` — dağlar ve yükseltiler arasında genişçe açılan doğal vadi geçidi; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Yükseltiler arasında genişçe açılan geçit bildiren `ف-ج-ج` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "21:31",
+          "71:20"
+        ],
+        "text": "Yeryüzündeki Açık Geçiş Koridorları (`21:31`, `71:20`): Dağların ve engebelerin arasında ulaşım için açılmış geniş geçitli yollar (`فِجَاجًا سُبُلًا`)."
+      },
+      {
+        "ayahs": [
+          "22:27"
+        ],
+        "text": "Uzak Diyarların Derin Geçitleri (`22:27`): Her uzak ve derin dağ geçidinden (`فَجٍّ عَمِيقٍ`) çağrıya gelen topluluklar."
+      }
+    ],
+    "context_default": "Dağlar arasında açılan geniş geçit bağlamı"
   }
 }
