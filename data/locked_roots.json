@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (71/50 — Toplam 871 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (72/50 — Toplam 872 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -9709,7 +9709,8 @@
           "عَذَاب أَلِيم (`فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ` — Müjdeli Haber Beklentisinin Acı Sonla Tersinmesi — `3:21`, `4:138`, `9:3,34`, `84:24`)",
           "ٱشْمَأَزَّتْ ↔ يَسْتَبْشِرُونَ (`39:45` — Yüzün Buruşup Gerilmesi vs Sevinçle Açılıp Parlaması; `80:39-40` `مُّسْتَبْشِرَةٌ ↔ غَبَرَةٌ`)",
           "ح-ز-ن (ح-ز-ن ↔ ب-ش-ر Mesânî simetrisi)",
-          "ق-ن-ط (ق-ن-ط ↔ ب-ش-ر Mesânî simetrisi)"
+          "ق-ن-ط (ق-ن-ط ↔ ب-ش-ر Mesânî simetrisi)",
+          "ب-س-ر (Busr: yüzün keder ve hoşnutsuzlukla ekşiyip kararması ↔ ب-ش-ر yüzün müjdeyle açılıp sevinçle aydınlanması)"
         ],
         "key_ayahs": [
           "2:119 & 5:19 & 33:45 (بَشِيرًا وَنَذِيرًا / مُبَشِّرًا وَنَذِيرًا — dengeli elçilik ekseni)",
@@ -71934,7 +71935,8 @@
         "roots": [
           "ن-ظ-ر (Mesânî çifti — `75:22-23` `وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ * إِلَىٰ رَبِّهَا نَاظِرَةٌ`: dışa vuran taze yüz parlaklığı ↔ Rabbine yönelen beklentili bakış)",
           "س-و-د (Yüzün keder ve hüsranla kararması ↔ ن-ض-ر yüzün taze parlaklıkla ışıldaması)",
-          "ع-ب-س (Yüzün ekşiyip asılması ve solması ↔ ن-ض-ر yüzün tazelik ve ferahlıkla açılması — `75:22-24`)"
+          "ع-ب-س (Yüzün ekşiyip asılması ve solması ↔ ن-ض-ر yüzün tazelik ve ferahlıkla açılması — `75:22-24`)",
+          "ب-س-ر (Bâsira: yüzün felaket ve hınçla büsbütün ekşiyip solması ↔ ن-ض-ر yüzün taze parlaklık ve esenlikle ışıldaması — `75:22` ↔ `75:24`)"
         ],
         "bidirectional_test": "`75:22-24` akışında `نَّاضِرَةٌ` (parlak/taze yüzler) bir yandan `نَاظِرَةٌ` (`ن-ظ-ر`) ile ses-anlam eşleşmesi kurarken diğer yandan hemen peşindeki ekşimiş/kararmış yüzler (`بَاسِرَة` / `ع-ب-س`, `س-و-د`) ile doğrudan zıtlaşır."
       },
@@ -73255,6 +73257,85 @@
           "examples": [
             "52:21",
             "74:38"
+          ]
+        }
+      ]
+    },
+    "ب-س-ر": {
+      "root_latin": "B-S-R",
+      "arabic": "ب-س-ر",
+      "rank": 1241,
+      "morphology_and_rasm": {
+        "buckwalter": "bsr",
+        "rasm_skeleton": "بسر (harekesiz iskelet; وبسر / باسرة biçimleriyle 2 kez)",
+        "approx_frequency": "2 geçiş / 2 ayet (1x Form I mâzî fiil `بَسَرَ`, 1x dişil ism-i fâil `بَاسِرَةٌ`)",
+        "verb_forms_used": [
+          "Form I (`بَسَرَ` — 1 geçiş: `74:22`)"
+        ],
+        "noun_forms_used": [
+          "بَاسِرَة (dişil ism-i fâil — 1 geçiş: `75:24`; ekşiyip solmuş, kararmış yüzler)"
+        ],
+        "preposition_patterns": [
+          "ثُمَّ عَبَسَ وَبَسَرَ (`74:22`: `عَبَسَ` üzerine atfedilerek yüz ekşimesinde ileri aşama)"
+        ]
+      },
+      "physical_core": "Henüz olgunlaşmamış ham meyvenin burukluğu veya bir şeyin hareketsiz kalıp donuklaşması (`وقوف الشيء وقلة حركته`); insan yüzünde ise rengin solup hatların sertleşerek büsbütün ekşimesi (`كُلُوح`).",
+      "ibn_faris_asl": "(بَسَرَ) الْبَاءُ وَالسِّينُ وَالرَّاءُ أَصْلَانِ: أَحَدُهُمَا الطَّرَاءَةُ وَأَنْ يَكُونَ الشَّيْءُ قَبْلَ إِنَاهُ. وَالْأَصْلُ الْآخَرُ وُقُوفُ الشَّيْءِ وَقِلَّةُ حَرَكَتِهِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 1, باب الباء والسين وما يثلثهما, بسر maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ب-س-ر` kökünde iki asıl tespit eder: 'bir şeyin vaktinden önce ham/buruk hâli' (`الطراءة وأن يكون الشيء قبل إناه`) ve 'bir şeyin durgunlaşıp donuklaşması' (`وقوف الشيء وقلة حركته`).",
+        "lisan_al_arab": "İbn Manzûr `بَسَرَ وَجْهُهُ` kullanımının 'kaş çatmaktan (`عَبَسَ`) daha ağır biçimde suratını ekşitmek ve rengi solup kararmak' (`كلح وتغير لونه`) olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `74:22`'deki `عَبَسَ وَبَسَرَ` ikilisinde `بَسَرَ`'in şiddetli yüz ekşimesi ve donuklaşma, `75:24`'teki `بَاسِرَةٌ`'nın ise `75:22`'deki `نَّاضِرَةٌ` (taze parlak) yüzlerin tam zıddı olarak solgun, ekşimiş ve dehşet içindeki yüzler olduğunu vurgular.",
+        "verdict": "Her iki geçiş (`74:22`, `75:24`) **'yüzün kibirli öfke veya dehşet beklentisiyle büsbütün ekşiyip renginin solup donuklaşması'** somut ifadesinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*bsr ('ham/ekşi meyve' — İbranice בֹּסֶר bōser: ham koruk üzüm ile ses-anlam bağı bulunur)",
+        "hebrew": "İbranice בֹּסֶר (bōser: henüz olgunlaşmamış ekşi/buruk üzüm koruğu) İbn Fâris'in ilk aslıyla ('vaktinden önce ham/ekşi olma') doğrudan örtüşür.",
+        "aramaic_syriac": "Aramice/Süryanice bsr ('ham meyve; ekşilik/küçümseme') yakın Sâmî hattı taşır.",
+        "akkadian": "Akadcada doğrudan eşkökenli doğrulanamadı.",
+        "comparative_note": "Ham/ekşi koruk üzümün yüzü buruşturan tadı ile yüzün şiddetle ekşiyip buruşması (`بَسَرَ`, `بَاسِرَةٌ`) arasındaki duyusal geçiş, kökün canlı fiziksel imgesini açıklar."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ن-ض-ر (Yüzün taze parlaklık ve canlılıkla ışıldaması ↔ ب-س-ر yüzün şiddetle ekşiyip solması — `75:22` ↔ `75:24` doğrudan ayet karşıtlığı)",
+          "ب-ش-ر (Yüzün müjdeyle açılıp sevinçle aydınlanması ↔ ب-س-ر yüzün kötü son beklentisiyle ekşiyip kararması)"
+        ],
+        "bidirectional_test": "`75:22-24` ayetleri zıtlığı bizzat kurar: `وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ` (parlak/taze yüzler) ↔ `وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ` (ekşiyip solmuş yüzler)."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ع-ب-س",
+          "ن-ض-ر",
+          "ف-ق-ر"
+        ],
+        "analysis": "`74:22`'de `عَبَسَ` (iki kaşın çatılıp yüzün asılması) ilk aşama, `بَسَرَ` (yüzün renginin değişip büsbütün ekşiyip kararması) daha şiddetli ikinci aşamadır. `75:24-25`'te ise `بَاسِرَةٌ` yüzün dış görüntüsünü, `تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ` (bel kemiğini kıracak bir felakete uğrayacağını sezmesi) bu ekşimenin iç sebebini açıklar."
+      },
+      "anchor_ayahs": [
+        "74:22 (ثُمَّ عَبَسَ وَبَسَرَ — sonra kaşlarını çattı ve suratını büsbütün ekşitti)",
+        "75:24 (وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ — o gün kimi yüzler de büsbütün ekşimiş ve solup kararmıştır)"
+      ],
+      "unified_core_mechanism": "`ب-س-ر` kökü 2 geçişinde **'kaş çatmanın da ötesine geçerek yüzün hınç veya dehşetle büsbütün ekşiyip solması ve donuklaşması'** çekirdeğini işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Form I Mâzî Fiil (`وَبَسَرَ` — `74:22`): `عَبَسَ` üzerine atfedilmiş lâzım fiil.",
+          "Dal 2 — Dişil İsm-i Fâil (`بَاسِرَةٌ` — `75:24`): `وُجُوهٌ` mübtedâsının merfû haberi/sıfatı."
+        ],
+        "irab_notes": "`75:24`'te `بَاسِرَةٌ` merfûdur ve hemen önceki `75:22` `نَّاضِرَةٌ` ile birebir gramatikal ve sesli simetri kurar."
+      },
+      "derivatives": [
+        {
+          "form": "بَسَرَ",
+          "pos": "Fiil (Form I)",
+          "meaning": "Suratını büsbütün ekşitip yüzünün rengini karartmak",
+          "examples": [
+            "74:22"
+          ]
+        },
+        {
+          "form": "بَاسِرَةٌ",
+          "pos": "İsm-i Fâil (Dişil)",
+          "meaning": "Dehşet beklentisiyle büsbütün ekşimiş, solup kararmış",
+          "examples": [
+            "75:24"
           ]
         }
       ]

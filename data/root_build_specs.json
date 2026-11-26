@@ -60237,5 +60237,51 @@
       }
     ],
     "context_default": "Bir hak veya kendi eylemi karşılığında tutulup bağlı kalma bağlamı"
+  },
+  "ب-س-ر": {
+    "buckwalter": "bsr",
+    "slug": "bsr",
+    "concept_name": "Busr ve Bâsira (Yüzün Şiddetle Ekşiyip Solması, Renginin Kararıp Donuklaşması)",
+    "root_latin": "B-S-R",
+    "keywords": [
+      "busr",
+      "basira",
+      "yuz eksimesi",
+      "surat asma",
+      "renk solmasi",
+      "kederli yuz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "basara",
+        "ayahs": [
+          "74:22"
+        ],
+        "label": "Form I mâzî fiil (`ثُمَّ عَبَسَ وَبَسَرَ` — kaşlarını çattıktan sonra suratını büsbütün ekşitip yüzünün rengini karartması; 1 geçiş)"
+      },
+      {
+        "lemma": "baAsirap",
+        "ayahs": [
+          "75:24"
+        ],
+        "label": "Dişil ism-i fâil (`وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ` — başına bel kırıcı bir felaket geleceğini sezip büsbütün ekşimiş, solup kararmış yüzler; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yüzün şiddetle ekşiyip renginin solmasını ve kararmasını bildiren `ب-س-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "74:22"
+        ],
+        "text": "Kibir ve Hınçla Yüzün Ekşimesi (`74:22`): Kur'an mesajına karşı plan kurup kasılan kişinin `ثُمَّ عَبَسَ وَبَسَرَ` diyerek önce yüzünü asıp ardından suratını büsbütün ekşitmesi."
+      },
+      {
+        "ayahs": [
+          "75:24"
+        ],
+        "text": "Felaket Beklentisiyle Ekşiyip Solan Yüzler (`75:24`): `75:22`'deki parlak (`نَّاضِرَةٌ`) yüzlerin tam karşısında, başına bel kırıcı bir iş (`فَاقِرَةٌ`, `75:25`) geleceğini sezen asık ve kararmış yüzler (`بَاسِرَةٌ`)."
+      }
+    ],
+    "context_default": "Yüzün şiddetle ekşiyip solması ve kararması bağlamı"
   }
 }
