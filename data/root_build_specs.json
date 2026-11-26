@@ -59124,5 +59124,87 @@
       }
     ],
     "context_default": "Hedefe ulaştıran ip-bağ-yol-imkân (`سَبَب`) veya sövgü (`سَبَّ`) bağlamı"
+  },
+  "و-ك-أ": {
+    "buckwalter": "wkA",
+    "slug": "wka",
+    "concept_name": "Tevekkü, İttikâ ve Müttekâ (Ağırlığını Verip Dayanmak ve Huzurla Yaslanmak)",
+    "root_latin": "W-K-A",
+    "keywords": [
+      "tevekku",
+      "ittika",
+      "mutteka",
+      "dayanmak",
+      "yaslanmak",
+      "asa",
+      "tahtlar"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mut~aka_#",
+        "ayahs": [
+          "12:31"
+        ],
+        "label": "Form VIII ism-i mekân (`مُتَّكَـًٔا` — üzerine yaslanılan minderli ziyafet düzeni/yeri; 1 geçiş)"
+      },
+      {
+        "lemma": "mut~aki_#iyn",
+        "ayahs": [
+          "18:31",
+          "36:56",
+          "38:51",
+          "52:20",
+          "55:54",
+          "55:76",
+          "56:16",
+          "76:13"
+        ],
+        "label": "Form VIII ism-i fâil cemi (`مُتَّكِـِٔينَ / مُتَّكِـُٔونَ` — esenlik yurdunda tahtlara/divanlara huzurla yaslananlar; 8 geçiş)"
+      },
+      {
+        "lemma": ">atawak~a&uA@",
+        "ayahs": [
+          "20:18"
+        ],
+        "label": "Form V (Tefa''ul) muzâri fiil (`أَتَوَكَّؤُا۟` — Mûsâ'nın yürürken asasına ağırlığını verip dayanması; 1 geçiş)"
+      },
+      {
+        "lemma": "yat~aki_#u",
+        "ayahs": [
+          "43:34"
+        ],
+        "label": "Form VIII (İfti'âl) muzâri fiil (`يَتَّكِـُٔونَ` — evlerindeki divanlara yaslanmaları; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Ağırlığını bir dayanağa verip yaslanmayı bildiren `و-ك-أ` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "20:18"
+        ],
+        "text": "Mûsâ'nın Asasına Dayanması (`20:18`): `هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا` — yürüyüş ve çobanlıkta bedenin yükünü asaya verme."
+      },
+      {
+        "ayahs": [
+          "12:31",
+          "43:34"
+        ],
+        "text": "Dünyevî Ziyafet ve Ev Konforu (`12:31`, `43:34`): Mısır ziyafetindeki minderli oturma düzeni (`مُتَّكَـًٔا`) ve gümüş divanlara yaslanma (`يَتَّكِـُٔونَ`)."
+      },
+      {
+        "ayahs": [
+          "18:31",
+          "36:56",
+          "38:51",
+          "52:20",
+          "55:54",
+          "55:76",
+          "56:16",
+          "76:13"
+        ],
+        "text": "Esenlik Yurdunda Huzurla Yaslananlar (`18:31`, `36:56`, `38:51`, `52:20`, `55:54`, `55:76`, `56:16`, `76:13`): Yorgunluk ve kaygının bittiği karşılıklı dostluk meclislerinde tahtlara/minderlere yaslanma (`مُتَّكِـِٔينَ`)."
+      }
+    ],
+    "context_default": "Bir dayanağa, asaya veya divana güven ve huzurla yaslanma bağlamı"
   }
 }

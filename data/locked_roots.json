@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (48/50 — Toplam 848 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (49/50 — Toplam 849 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -604,7 +604,8 @@
           "خ-ر-ر (X-R-R (xrr) — Çift Yönlü Mesânî Karşılığı: `34:14`, `16:26` — ayakta dik ve sağlam durmak `قِيَام / قَائِم` ↔ dayanağını yitirip veya boyun eğip aniden yere devrilmek/kapanmak `خَرَّ`)",
           "ج-ث-و (C-S-V (jvw) — Çift Yönlü Mesânî Karşılığı: `19:68`, `19:72`, `45:28` — ayakları üzerinde dikilip dimdik ayakta durmak `قِيَام` ↔ hesap dehşeti ve ağırlığıyla dizleri üzerine çöküp yığılmak `جَاثِيَةً / جِثِيًّا`)",
           "ص-ع-ق (S-A-K (SEq) — Çift Yönlü Mesânî Karşılığı: `39:68` — yeniden dirilip ayakları üstüne dimdik kalkmak `قِيَامٌ` ↔ sarsıcı şokla bilincini yitirip yere yığılmak `فَصَعِقَ`)",
-          "ج-ل-س (Cülûs/Mecâlis: toplu halde oturma ve yerleşme ↔ ق-و-م ayakta dikilme ve harekete geçme)"
+          "ج-ل-س (Cülûs/Mecâlis: toplu halde oturma ve yerleşme ↔ ق-و-م ayakta dikilme ve harekete geçme)",
+          "و-ك-أ (Tevekkü/İttikâ: ağırlığını bırakıp huzurla yaslanarak dinlenmek ↔ ق-و-م ayağa kalkıp dikilmek ve görev üzere ayakta durmak)"
         ],
         "key_ayahs": [
           "4:95",
@@ -71415,6 +71416,114 @@
           "meaning": "Sövmek, ağır sözle hakaret etmek",
           "examples": [
             "6:108"
+          ]
+        }
+      ]
+    },
+    "و-ك-أ": {
+      "root_latin": "W-K-A",
+      "arabic": "و-ك-أ",
+      "rank": 564,
+      "morphology_and_rasm": {
+        "buckwalter": "wkA",
+        "rasm_skeleton": "وكأ (harekesiz iskelet; Form VIII'de و→ت idgamlı متكأ / متكئين / متكئون / يتكئون ve Form V أتوكؤا biçimleriyle 11 kez)",
+        "approx_frequency": "11 geçiş / 11 ayet (1x Form V أَتَوَكَّؤُا۟ `20:18`, 1x Form VIII fiil يَتَّكِـُٔونَ `43:34`, 1x Form VIII ism-i mekân مُتَّكَـًٔا `12:31`, 8x Form VIII ism-i fâil مُتَّكِـِٔينَ/مُتَّكِـُٔونَ)",
+        "verb_forms_used": [
+          "Form V (أَتَوَكَّؤُا۟ — 1 geçiş: `20:18`)",
+          "Form VIII (يَتَّكِـُٔونَ — 1 geçiş: `43:34`)"
+        ],
+        "noun_forms_used": [
+          "مُتَّكَأ (1 geçiş: `12:31` — Form VIII ism-i mekân: yaslanılacak minderli ziyafet yeri)",
+          "مُتَّكِئُون / مُتَّكِئِين (8 geçiş: `18:31`, `36:56`, `38:51`, `52:20`, `55:54`, `55:76`, `56:16`, `76:13` — Form VIII ism-i fâil: huzurla yaslananlar)"
+        ],
+        "preposition_patterns": [
+          "أَتَوَكَّؤُا۟ عَلَيْهَا (`20:18`: bir dayanağın/asanın üzerine ağırlığını vermek)",
+          "مُتَّكِـِٔينَ عَلَىٰ ٱلْأَرَآئِكِ / سُرُرٍ / رَفْرَفٍ (`18:31`, `52:20`, `55:76`: tahtlar/divanlar üzerine yaslanmak)"
+        ]
+      },
+      "physical_core": "Vücudunun yükünü ve ağırlığını bir asaya, mindere veya divana bırakarak emniyet, destek ve rahatlık içinde dayanıp yaslanmak.",
+      "ibn_faris_asl": "(وَكأَ) تَوَكَّأَ عَلَى الشَّيْءِ وَاتَّكَأَ: تَحَمَّلَ وَاعْتَمَدَ، فَهُوَ مُتَّكِئٌ؛ وَأَصْلُ اتَّكَأَ اوْتَكَأَ فَأُدْغِمَتِ الْوَاوُ فِي التَّاءِ، وَالتَّوَكُّؤُ التَّحَامُلُ عَلَى الْعَصَا فِي الْمَشْيِ، وَالْمُتَّكَأُ الْمَوْضِعُ الَّذِي يُتَّكَأُ عَلَيْهِ. [Lisânü'l-Arab, c. 15, وكأ maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris bu kısa maddeyi hemzeli-vavlı yapı içinde işlerken, İbn Manzûr ve Râgıb'ın birleştiği çekirdek nettir: 'ağırlığını bir şeye verip dayanmak ve yaslanmak' (`تحمل واعتمد`).",
+        "lisan_al_arab": "İbn Manzûr (*Lisân*, c. 15, `وكأ`) `اتَّكَأَ` fiilinin aslının `اوْتَكَأَ` (`و→ت` idgamı) olduğunu, `التَّوَكُّؤ`'un yürürken asaya ağırlık verip dayanmak (`20:18`), `المُتَّكَأ`'ın ise üzerine yaslanılan minderli oturma/ziyafet yeri (`12:31`) olduğunu belirtir.",
+        "ragib_al_isfahani": "Râgıb `مُتَّكِـِٔينَ` (8x) tasvirinin yorgunluğun, kaygının ve tehlikenin tamamen sona erdiği tam bir emniyet ve dostluk huzurunu simgelediğini vurgular.",
+        "verdict": "Tüm 11 geçiş **'ağırlığını güvenle bir dayanağa/divana bırakıp yaslanmak'** somut mekanizmasında birleşir; `12:31`'deki `مُتَّكَـًٔا` ism-i mekân olarak 'yaslanacakları minderli ziyafet düzeni' anlamını taşır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*wkʾ ('dayanmak, ağırlığını vermek')",
+        "hebrew": "Sâmî dillerde dayanma ve yaslanma alanı paralel köklerle (`smk`, `šʿn`, `wkl`) bölüşülürken, Arapçada `و-ك-أ` fiziksel yaslanma-dayanma işlevine özgülenmiştir.",
+        "aramaic_syriac": "Güney Arapça ve klasik Arapça konuşma geleneğinde `تَوَكَّأَ` (asaya dayanmak) ile `اتَّكَأَ` (divana yaslanmak) ince bir duruş farkı taşır.",
+        "akkadian": "Arapçadaki `و-ك-أ` ('bedenen dayanıp yaslanmak') ile `و-ك-ل` ('işini/sorumluluğunu vekil olarak havale etmek') arasındaki komşuluk, somut bedensel dayanma ile soyut güven arasındaki bağı gösterir.",
+        "comparative_note": "Form VIII'de başlangıçtaki `و`'ın `ت`'ya dönüşüp idgamlanması (`اوْتَكَأَ > اتَّكَأَ`), kökün `ت-ك-أ` sanılmaması için morfolojik dikkat gerektirir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ق-و-م (Ayağa kalkıp dikilmek ve görev/çaba üzere ayakta durmak ↔ و-ك-أ yükünü bırakıp huzurla yaslanarak dinlenmek — `20:18`, `36:56`)"
+        ],
+        "bidirectional_test": "Yükünü bir divana bırakıp huzurla yaslanmak (`و-ك-أ`) tersine çevrildiğinde ayağa kalkıp dikilme ve çaba duruşu (`ق-و-م`) ortaya çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "س-ر-ر",
+          "ر-ف-ق",
+          "ق-ب-ل",
+          "و-ك-ل"
+        ],
+        "analysis": "`و-ك-ل` sorumluluğu ve güveni manevi/hukukî olarak emanet etmeyi, `و-ك-أ` ise bedenin ağırlığını fiziksel bir dayanağa (asa, minder, taht) bırakmayı bildirir. `52:20` ve `56:16`'da `مُتَّكِـِٔينَ` ile `مُتَقَٰبِلِينَ` (karşılıklı/yüz yüze) yan yana gelerek bu yaslanmanın tembellik değil, yorgunluktan arınmış kardeşçe sohbet ve esenlik meclisi olduğunu gösterir."
+      },
+      "anchor_ayahs": [
+        "20:18 (قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا — 'O benim asamdır, ona dayanırım' dedi)",
+        "12:31 (وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا — onlar için yaslanacakları minderli bir ziyafet yeri hazırladı)",
+        "36:56 (هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ — onlar ve eşleri gölgeliklerde, süslü tahtlar/divanlar üzerine huzurla yaslanmışlardır)",
+        "43:34 (وَلِبُيُوتِهِمْ أَبْوَٰبًا وَسُرُرًا عَلَيْهَا يَتَّكِـُٔونَ — evleri için kapılar ve üzerine yaslandıkları divanlar)"
+      ],
+      "unified_core_mechanism": "`و-ك-أ` kökü 11 geçişinin tamamında **'ağırlığını bir dayanağa (asa, minder, taht) güven ve huzurla bırakıp yaslanma'** fiziksel mekanizmasını işletir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Asaya Fiziksel Dayanma (Form V `أَتَوَكَّؤُا۟` `20:18`): Yürürken destek alma.",
+          "Dal 2 — Minderli Ziyafet Yeri (Form VIII ism-i mekân `مُتَّكَـًٔا` `12:31`): Yaslanılan meclis düzeni.",
+          "Dal 3 — Divan ve Tahtlara Yaslanma (Form VIII `يَتَّكِـُٔونَ` `43:34` ve `مُتَّكِـِٔينَ/مُتَّكِـُٔونَ` 8x): Esenlik ve rahatlık duruşu."
+        ],
+        "irab_notes": "`مُتَّكِـِٔينَ` (7x) hâl olarak mansûb, `مُتَّكِـُٔونَ` (`36:56`) haber olarak merfû, `مُتَّكَـًٔا` (`12:31`) mef'ûl olarak mansûbtur."
+      },
+      "derivatives": [
+        {
+          "form": "أَتَوَكَّؤُا",
+          "pos": "Fiil (Form V)",
+          "meaning": "Ağırlığını verip dayanmak",
+          "examples": [
+            "20:18"
+          ]
+        },
+        {
+          "form": "يَتَّكِئُونَ",
+          "pos": "Fiil (Form VIII)",
+          "meaning": "Divanlara yaslanmak",
+          "examples": [
+            "43:34"
+          ]
+        },
+        {
+          "form": "مُتَّكَأ",
+          "pos": "İsm-i Mekân (Form VIII)",
+          "meaning": "Yaslanılacak minderli ziyafet yeri",
+          "examples": [
+            "12:31"
+          ]
+        },
+        {
+          "form": "مُتَّكِئُون / مُتَّكِئِين",
+          "pos": "İsm-i Fâil (Form VIII)",
+          "meaning": "Huzur ve güvenle yaslananlar",
+          "examples": [
+            "18:31",
+            "36:56",
+            "38:51",
+            "52:20",
+            "55:54",
+            "55:76",
+            "56:16",
+            "76:13"
           ]
         }
       ]
