@@ -52459,5 +52459,67 @@
       }
     ],
     "context_default": "Derinliğe çekilen su ve dağ içi kovuk bağlamı"
+  },
+  "ز-ل-ل": {
+    "buckwalter": "zll",
+    "slug": "zll",
+    "concept_name": "Zelle / İzâle / İstizlâl (Sağlam Zeminden Ayağın Kayması ve Kaymaya Sürüklenmek)",
+    "keywords": [
+      "zelle",
+      "kaymak",
+      "ayak kaymasi",
+      "sabitlikten kaymak",
+      "ezelle",
+      "istezelle",
+      "suruklenmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "zalalo",
+        "ayahs": [
+          "2:209"
+        ],
+        "label": "Form I mâzi 2. çoğul eril fiil (`فَإِن زَلَلْتُم` — şart edatı `إِنْ` kapsamında, zamir bitiştiği için idğam çözülmüş; 1 geçiş: 2:209)"
+      },
+      {
+        "lemma": "zalalo",
+        "ayahs": [
+          "16:94"
+        ],
+        "label": "Form I mansûb muzâri 3. tekil dişil fiil (`فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا` — nehyin cevabında sebebiyet `فَ`'siyle mansûb; 1 geçiş: 16:94)"
+      },
+      {
+        "lemma": ">azal~a",
+        "ayahs": [
+          "2:36"
+        ],
+        "label": "Form IV mâzi 3. tekil eril fiil (`فَأَزَلَّهُمَا ... عَنْهَا` — bulunduğu yerden kaydırıp düşürme; 1 geçiş: 2:36)"
+      },
+      {
+        "lemma": "{sotazal~a",
+        "ayahs": [
+          "3:155"
+        ],
+        "label": "Form X mâzi 3. tekil eril fiil (`إِنَّمَا ٱسْتَزَلَّهُمُ ... بِبَعْضِ مَا كَسَبُوا۟` — talep ve sürükleme yoğunluklu kaydırma; 1 geçiş: 3:155)"
+      }
+    ],
+    "irab_default": "Sağlam tutunmadan kayma veya kaydırma bildiren muzaaf fiil (`ز-ل-ل` kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "16:94",
+          "2:209"
+        ],
+        "text": "Sağlam Durduktan ve Apaçık Kanıtlar Geldikten Sonra Kayma Uyarısı (`16:94`, `2:209`): Bağlayıcı sözleri hileye dönüştürmenin veya apaçık delillerden sonra tutunmayı yitirmenin yol açtığı tehlikeli ayak kayması."
+      },
+      {
+        "ayahs": [
+          "2:36",
+          "3:155"
+        ],
+        "text": "Dış Etkenle Kaydırılma ve Zaaf Üzerinden Sürüklenme (`2:36`, `3:155`): İlk konumdan kaydırılıp çıkarılma (`أَزَلَّ`) ile cephe anında kendi önceki zaafları sebebiyle kaymaya sürüklenme (`ٱسْتَزَلَّ`) arasındaki bab hassasiyeti."
+      }
+    ],
+    "context_default": "Sağlam tutunmadan kayma ve kaydırılma bağlamı"
   }
 }

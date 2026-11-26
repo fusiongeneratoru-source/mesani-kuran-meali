@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 732,
+    "total_locked": 733,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -470,7 +470,8 @@
         "و-ع-ظ (V-A-Z (wEZ) — Çift Yönlü Mesânî Karşılığı: 16:125, 10:57, 31:13, 34:46)",
         "ن-و-ر (ن-و-ر ↔ ه-د-ي Mesânî simetrisi)",
         "ب-ص-ر (ب-ص-ر ↔ ه-د-ي Mesânî simetrisi)",
-        "ص-د-د (**Öne geçip yolu açmak, ince bir işaretle yön göstermek ve iyi niyet nişanesi olarak armağ ↔ Yüzünü ve yanını bir tarafa kırıp dönerek yüz çevirmek (الإِعْرَاضُ وَالمَيْلُ إِلَى أَحَد: 2:217, 3:99, 4:61)"
+        "ص-د-د (**Öne geçip yolu açmak, ince bir işaretle yön göstermek ve iyi niyet nişanesi olarak armağ ↔ Yüzünü ve yanını bir tarafa kırıp dönerek yüz çevirmek (الإِعْرَاضُ وَالمَيْلُ إِلَى أَحَد: 2:217, 3:99, 4:61)",
+        "ز-ل-ل (Z-L-L (zll) — Çift Yönlü Mesânî Karşılığı: `2:209`, `16:94` [فَإِن زَلَلْتُم مِّنۢ بَعْدِ مَا جَآءَتْكُمُ ٱلْبَيِّنَٰتُ] — apaçık kılavuzluk doğrultusunda dengeli yürümek `هُدًى` ↔ doğru çizgiden kayıp sapmak `زَلَلْتُم`)"
       ]
     },
     "ظ-ل-م": {
@@ -9452,6 +9453,16 @@
         "ع-ي-ن (A-Y-N — Çift Yönlü Mesânî Karşılığı: `67:30` [إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ] — yerin dibine çekilip görünmez ve erişilmez olan su `غَوْرًا` ↔ göz önünde fışkırıp akan duru pınar suyu `مَآءٍ مَّعِينٍۭ`)",
         "م-و-ه (M-W-H (mwh) — Çift Yönlü Mesânî Karşılığı: `18:41`, `67:30` [يُصْبِحَ مَآؤُهَا غَوْرًا / مَآؤُكُمْ غَوْرًا] — suyun toprağın dibine çekilip kaybolması `غَوْرًا` ↔ yaşam veren akıcı yüzey suyunun varlığı `مَآء`)",
         "ع-ل-و (A-L-W — Çift Yönlü Mesânî Karşılığı: `9:40` [فِى ٱلْغَارِ ... كَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا], `67:30` — aşağıya ve yerin dibine çökmüş derinlik `غَوْر / غَار` ↔ yukarıya yükselmiş yücelik ve irtifa `عُلْيَا`)"
+      ]
+    },
+    "ز-ل-ل": {
+      "latin": "Z-L-L (zll)",
+      "core": "`ز-ل-ل` kökü Kur'an'daki 4 fiil geçişinin tamamında **'sağlam bir dayanak ve istikrar noktasından ayağın veya konumun kayarak ayrılması'** çekirdek mekaniğini üç bab kademesiyle işletir: kendi kayışı (Form I: `2:209`, `16:94`), dıştan kaydırılıp konumdan çıkarılması (Form IV: `2:36`) ve kişinin kendi zaafları üzerinden sürüklenerek kaymaya çekilmesi (Form X: `3:155`).",
+      "physical": "Ayağın veya bir nesnenin pürüzsüz/kaygan bir yüzeyde **tutunmasını yitirip yerinden kayarak ayrılması (`زَلَّ عَنْ مَكَانِهِ / زَلِقَ`)**: okun zırhtan sekip kayması, insanın kaygan taşta ayağının kayması (`الْمِزَلَّةُ: الْمَكَانُ الدَّحْضُ`), serin duru suyun inceliğinden dil sırtından akıp kayması (`الْمَاءُ الزُّلَالُ`) ve bu somut kayma üzerinden sağlam doğruluk çizgisinden istemsiz veya dış kışkırtmayla sapma (`زَلَّة`).",
+      "opposites": [
+        "ث-ب-ت (V-B-T — Çift Yönlü Mesânî Karşılığı: `16:94` [فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا] — ayağın zemine sağlamca tutunup sarsılmadan durması `ثُبُوتِهَا` ↔ ayağın tutunmasını yitirip kayması `فَتَزِلَّ`)",
+        "ق-د-م (Q-D-M — Çift Yönlü Mesânî Karşılığı: `16:94` [فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا] — sağlam basıp ileriye doğru adım atan ayak `قَدَمٌۢ` ↔ bastığı yerden kayıp dengesini yitirmek `فَتَزِلَّ`)",
+        "ه-د-ي (H-D-Y — Çift Yönlü Mesânî Karşılığı: `2:209`, `16:94` [فَإِن زَلَلْتُم مِّنۢ بَعْدِ مَا جَآءَتْكُمُ ٱلْبَيِّنَٰتُ] — apaçık kılavuzluk doğrultusunda dengeli yürümek `هُدًى` ↔ doğru çizgiden kayıp sapmak `زَلَلْتُم`)"
       ]
     }
   }
