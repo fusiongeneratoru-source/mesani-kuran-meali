@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 800 mühürlü kökten (`%95,43`) sonra, `5` sureyi daha `%100` kilitleyen `40` kök (Sure 71 Nûh, 49 Hucurât, 58 Mücâdele, 77 Mürselât, 89 Fecr → **45 tam kilitli sure**; Sure 60–66 ve Sure 84–114 [son 31 sure] kesintisiz `%100` kilit), kalan tüm `4+` açık Furûk tepe uçları (`2` kök: `ص-ع-د`, `ب-ر-ق`), kalan tüm `11` geçişli çekirdek kökler (`7` kök) ve `10` geçişli ilk çekirdek kök (`1` kök: `أ-ص-ل`) olmak üzere **50 kök** (254 geçiş) mühürlenerek toplam sözlük **850 kilitli köke (`%95,94` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,38`'i)** ulaştırılır.
-> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 29 / 50 Kök (Toplam Mühürlü: 829 Kök | Güncel Kapsam: %95,65)
+> **Etap 3L İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 830 Kök | Güncel Kapsam: %95,65)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -36,7 +36,7 @@
 | 27 | Sure %100 Kilidi | 924 | `م-ه-ن` | `M-H-N` | **4** | 4 | 32:8 | Mehîn (Dıştan Bakınca Değersiz, Zayıf ve Önemsiz Görünen Su Damlası; Bayağı ve Aşağılık Karakter) | ✅ **MÜHÜRLÜ** |
 | 28 | Sure %100 Kilidi | 1023 | `ف-ر-ت` | `F-R-T` | **3** | 3 | 25:53 | Furât (Susuzluğu Kökünden Kırıp Söndüren, Son Derece Tatlı, Durgun ve İçimi Yumuşak Su) | ✅ **MÜHÜRLÜ** |
 | 29 | Sure %100 Kilidi | 1583 | `ش-م-خ` | `S-M-H` | **1** | 1 | 77:27 | Şâmihât (Göğe Doğru Dimdik ve Heybetle Yükselen Ulu Dağ Zirveleri) | ✅ **MÜHÜRLÜ** |
-| 30 | Sure %100 Kilidi | 1582 | `ك-ف-ت` | `K-F-T` | **1** | 1 | 77:25 | Kifât (Sure 77 Mürselât son kilidi: 77:25 dirileri ve ölüleri sinesinde derleyip toplayan yeryüzü) | ⏳ *Bekliyor* |
+| 30 | Sure %100 Kilidi | 1582 | `ك-ف-ت` | `K-F-T` | **1** | 1 | 77:25 | Kifât (Yeryüzünün Dirileri Üstünde, Ölüleri İçinde Sıkıca Derleyip Toplayan ve Zayi Etmeyen Kapsayıcı Kucağı) | ✅ **MÜHÜRLÜ** |
 | 31 | Sure %100 Kilidi | 656 | `س-ر-ي` | `S-R-Y` | **8** | 8 | 11:81 | Esrâ, Yesrî ve Seriyy (Sure 89 Fecr kilidi + 8 geçiş: 11:81, 15:65, 17:1, 19:24, 20:77, 26:52, 44:23, 89:4 geceleyin yola koyulup yürümek ve ince dere/akarsu) | ⏳ *Bekliyor* |
 | 32 | Sure %100 Kilidi | 684 | `د-ك-ك` | `D-K-K` | **7** | 4 | 7:143 | Dekk ve Dekke (Sure 89 Fecr kilidi + 7 geçiş: 7:143, 18:98, 69:14, 89:21 yüksek ve sert kütleyi dövüp parçalayarak yerle düzlemek) | ⏳ *Bekliyor* |
 | 33 | Sure %100 Kilidi | 729 | `ر-ص-د` | `R-S-D` | **6** | 6 | 9:5 | Rasad, İrsâd ve Mirsâd (Sure 89 Fecr kilidi + 6 geçiş: 9:5, 9:107, 72:9, 72:27, 78:21, 89:14 hedefi kesintisiz gözetleyen pusuda/gözetleme noktasında beklemek) | ⏳ *Bekliyor* |
