@@ -60405,5 +60405,67 @@
       }
     ],
     "context_default": "Yerin çöküp dibe göçmesi veya ayın ışığının sönüp kararması bağlamı"
+  },
+  "ر-ق-ي": {
+    "buckwalter": "rqy",
+    "slug": "rqy",
+    "concept_name": "Rukiyy, İrtikâ ve Râkî (Basamak/Yollarla Yukarı Tırmanmak ve Ölüm Anında Kurtarıcı/Okuyucu Aramak)",
+    "root_latin": "R-Q-Y",
+    "keywords": [
+      "rukiyy",
+      "irtika",
+      "raki",
+      "tirmanmak",
+      "yukselmek",
+      "okuyucu",
+      "sifaci"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "taroqaY`",
+        "ayahs": [
+          "17:93"
+        ],
+        "label": "Form I muzâri fiil (`أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ` — göğe basamakla/tırmanarak çıkman; 1 geçiş)"
+      },
+      {
+        "lemma": "ruqiy~",
+        "ayahs": [
+          "17:93"
+        ],
+        "label": "Masdar (`وَلَن نُّؤْمِنَ لِرُقِيِّكَ` — senin göğe yükselip tırmanışına bile inanmayız; 1 geçiş)"
+      },
+      {
+        "lemma": "yarotaqu",
+        "ayahs": [
+          "38:10"
+        ],
+        "label": "Form VIII (İfti'âl) emir/meczûm muzâri fiil (`فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَٰبِ` — haydi göklerin yollarına/iplerine tutunup yukarı tırmansınlar; 1 geçiş)"
+      },
+      {
+        "lemma": "raAq",
+        "ayahs": [
+          "75:27"
+        ],
+        "label": "Form I ism-i fâil (`وَقِيلَ مَنْ رَاقٍ` — can köprücük kemiklerine dayandığında 'iyileştirecek/okuyup kurtaracak kim var?' arayışı; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yukarıya tırmanışı (`تَرْقَىٰ`, `رُقِيّ`, `يَرْتَقُوا۟`) veya şifa/kurtuluş aramayı (`رَاقٍ`) bildiren `ر-ق-ي` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:93",
+          "38:10"
+        ],
+        "text": "Göğe Tırmanma ve Meydan Okuma (`17:93`, `38:10`): İnatçıların elçiden göğe çıkıp kitap indirmesini istemeleri (`أَوْ تَرْقَىٰ ... لِرُقِيِّكَ`) ve göklerin yönetimine ortaklık iddia edenlere 'haydi sebeplere/yollara tutunup yukarı tırmansınlar' (`فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَٰبِ`) meydan okuması."
+      },
+      {
+        "ayahs": [
+          "75:27"
+        ],
+        "text": "Can Boğaza Dayandığında Çaresiz Kurtarıcı Arayışı (`75:27`): `75:26-28` ayetlerinde can köprücük kemiklerine dayandığında çevredeki insanların 'kim okuyup şifa verecek, kim kurtaracak?' (`مَنْ رَاقٍ`) diye çaresizce sorması."
+      }
+    ],
+    "context_default": "Yukarı tırmanma veya ölüm eşiğinde kurtarıcı/şifacı arama bağlamı"
   }
 }
