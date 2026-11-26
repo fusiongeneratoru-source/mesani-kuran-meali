@@ -53709,5 +53709,88 @@
       }
     ],
     "context_default": "Sol yön/taraf veya çepeçevre kuşatma bağlamı"
+  },
+  "ط-م-ع": {
+    "buckwalter": "TmE",
+    "slug": "tme",
+    "concept_name": "Tama' (Kalbin Bir Şeye Güçlü Beklenti, İştiyak ve Umutla Yönelmesi)",
+    "keywords": [
+      "tama",
+      "tamah",
+      "havfen ve tamea",
+      "umut",
+      "guclu beklenti",
+      "heves",
+      "arzulamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "TamaE",
+        "ayahs": [
+          "7:56",
+          "13:12",
+          "30:24",
+          "32:16"
+        ],
+        "label": "Mansub masdar (`خَوْفًا وَطَمَعًا` ikiz çiftinde mef'ûlün lieclih / hâl; 4 geçiş: 7:56, 13:12, 30:24, 32:16)"
+      },
+      {
+        "lemma": "yaTomaEu",
+        "ayahs": [
+          "5:84",
+          "7:46",
+          "26:51",
+          "26:82"
+        ],
+        "label": "Form I malum merfû muzâri fiil (`نَطْمَعُ / يَطْمَعُونَ / أَطْمَعُ` — rahmet, bağışlanma ve salihlerle beraberlik umudu; 4 geçiş)"
+      },
+      {
+        "lemma": "yaTomaEu",
+        "ayahs": [
+          "2:75",
+          "70:38",
+          "74:15"
+        ],
+        "label": "Form I malum merfû muzâri fiil (`أَفَتَطْمَعُونَ / أَيَطْمَعُ / يَطْمَعُ` — yersiz beklenti veya doyumsuz artış hevesi; 3 geçiş)"
+      },
+      {
+        "lemma": "yaTomaEu",
+        "ayahs": [
+          "33:32"
+        ],
+        "label": "Form I malum mansub muzâri fiil (`فَيَطْمَعَ` — fâ-i sebebiyye ile mansub: kalbi hastanın yersiz hevese kapılması; 1 geçiş: 33:32)"
+      }
+    ],
+    "irab_default": "Kalbin güçlü beklenti, umut veya hevesle yönelmesini bildiren `ط-م-ع` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:56",
+          "13:12",
+          "30:24",
+          "32:16"
+        ],
+        "text": "Korku ve Umut Dengesi (`خَوْفًا وَطَمَعًا` — `7:56`, `13:12`, `30:24`, `32:16`): Şimşeğin hem tehlike endişesi hem yağmur umudu uyandırması ve Rabbe çağrıda korku ile rahmet umudunun birlikte taşınması."
+      },
+      {
+        "ayahs": [
+          "5:84",
+          "7:46",
+          "26:51",
+          "26:82"
+        ],
+        "text": "Bağışlanma ve Salihlerle Buluşma Umudu (`5:84`, `7:46`, `26:51`, `26:82`): İbrahim'in, Firavun karşısında hakka yönelenlerin, A'râf üzerindekilerin ve hakka şahitlik edenlerin Rabbin bağışlama ve lütfuna yönelik güçlü umudu."
+      },
+      {
+        "ayahs": [
+          "2:75",
+          "33:32",
+          "70:38",
+          "74:15"
+        ],
+        "text": "Yersiz Beklenti, Hastalıklı Heves ve Doyumsuzluk (`2:75`, `33:32`, `70:38`, `74:15`): Kelâmı tahrif edenlere bağlanan saf beklenti, kalbi hastanın hevese kapılması, sorumluluksuz nimet bahçesi beklentisi ve nankörün daha fazlasına heveslenmesi."
+      }
+    ],
+    "context_default": "Güçlü beklenti, umut veya heves yönelimi bağlamı"
   }
 }

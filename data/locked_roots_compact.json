@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 749,
+    "total_locked": 750,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -6316,7 +6316,8 @@
         "ف-ر-ح [وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً فَرِحُوا۟ بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ] (Rahmeti Tadınca Şımarıkça Sevinmek [فَرِحُوا۟ بِهَا] ↔ Sıkıntı Dokununca Anında Ümidi Kesip Çökmek [يَقْنَطُونَ]: 30:36)",
         "ب-ش-ر [قَالُوا۟ بَشَّرْنَٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَٰنِطِينَ] (Gerçek Müjdeyle Aydınlanmak [بَشَّرْنَٰكَ بِٱلْحَقِّ] ↔ Ümidini Kesip Çökenlerden Olmak [ٱلْقَٰنِطِينَ]: 15:55)",
         "غ-ف-ر (غ-ف-ر ↔ ق-ن-ط Mesânî simetrisi)",
-        "ع-س-ي"
+        "ع-س-ي",
+        "ط-م-ع (T-M-E (TmE) — Çift Yönlü Mesânî Karşılığı: `7:56`, `32:16` — ilahî rahmetten ümidi tamamen kesip çökmek `قُنُوط` ↔ korku ile birlikte rahmete güçlü umutla yönelmek `خَوْفًا وَطَمَعًا`)"
       ]
     },
     "س-ر-ر": {
@@ -6649,7 +6650,8 @@
         "ر-و-ح [وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ] (Allah'ın Rahatlatıcı Ferahlığına Umut Bağlamak ↔ Ferahlıktan Tamamen Ümit Kesmek: 12:87)",
         "ب-ل-س (Beklentisi Kesilip Şaşkınlıkla Susakalma Alanıyla Karşılaştırmalı Çift Kilit: 12:87, 30:12)",
         "ر-ج-و (Umutla Beklemek — Etap 3E Sıra 49'da kilitlenecek doğrudan Mesânî karşıtı)",
-        "ع-س-ي"
+        "ع-س-ي",
+        "ط-م-ع (T-M-E (TmE) — Çift Yönlü Mesânî Karşılığı: `7:56`, `26:51`, `26:82` — beklentiyi bırakıp ümitsizliğe düşmek `يَأْس` ↔ gönülde güçlü umut ve beklenti beslemek `طَمَع`)"
       ]
     },
     "ن-ش-أ": {
@@ -9658,6 +9660,16 @@
         "ي-م-ن (Y-M-N — Çift Yönlü Mesânî Karşılığı [Asl 2]: `7:17`, `16:48`, `18:17`, `18:18`, `34:15`, `50:17`, `56:27`↔`56:41`, `69:19`↔`69:25`, `70:37` — dokuz ayrı bağlamda sağ yan, sağ yön ve sağ el `ٱلْيَمِين / أَيْمَٰن` ↔ sol yan, sol yön ve sol el `ٱلشِّمَال / شَمَآئِل`)",
         "ف-ر-ق (F-R-Q — Çift Yönlü Mesânî Karşılığı [Asl 1 & `70:37`]: çepeçevre sarıp bir bütün içinde toplamak ve kuşatmak `شَمْل / اِشْتِمَال` ↔ parçalara bölüp ayrı gruplara dağıtmak `فَرْق` [krş. `70:37` sağdan ve soldan dağınık öbekler `عِزِينَ`])",
         "ك-ش-ف (K-S-F — Çift Yönlü Mesânî Karşılığı [Asl 1]: `6:143`, `6:144` — rahmin/örtünün içine alıp çepeçevre sararak saklamak `اِشْتَمَلَتْ` ↔ üzerindeki örtüyü sıyırıp açığa çıkarmak `كَشْف`)"
+      ]
+    },
+    "ط-م-ع": {
+      "latin": "T-M-E (TmE)",
+      "core": "`ط-م-ع` kökü Kur'an'daki 12 geçişinin tamamında **'kalbin bir şeye doğru güçlü bir beklenti, iştiyak ve arzuyla yönelmesi'** mekaniğini işletir. Bu yönelim; ilahî rahmete, yağmura, bağışlanmaya ve salihlerle buluşmaya döndüğünde `خَوْف` ile dengelenen diri ve övgüye değer bir umut (`7:56`, `13:12`, `30:24`, `32:16`, `5:84`, `7:46`, `26:51`, `26:82`); hak etmediği ayrıcalığa, doyumsuz servete veya hastalıklı hevese döndüğünde ise kınanan bir beklenti (`2:75`, `33:32`, `70:38`, `74:15`) olarak açığa çıkar.",
+      "physical": "Gönlün ve iç arzunun **bir şeye doğru şiddetle uzanıp can atması, onu elde etme yönünde güçlü bir beklenti ve tutku beslemesi (`رَجَاءٌ فِي الْقَلْبِ قَوِيٌّ وَنُزُوعُ النَّفْسِ إِلَى الشَّيْءِ شَهْوَةً لَهُ`)** — *Lisân*'daki canlı doğa tanığıyla **yağmurun ilk damlalarının çiseleyip ardından bol sağanak beklentisini kabartması (`تَطْمِيعُ الْقَطْرِ`)** gibi, şimşeğin yağmur beklentisi uyandırması (`13:12`, `30:24`), insanın bağışlanma umuduyla yönelmesi (`26:51`, `26:82`) yahut açgözlülükle daha fazlasına heveslenmesi (`74:15`).",
+      "opposites": [
+        "خ-و-ف (X-W-F — Çift Yönlü Mesânî Karşılığı: `7:56`, `13:12`, `30:24`, `32:16` [خَوْفًا وَطَمَعًا] — dört ayrı ayette doğrudan ikiz çift: zarardan ve yıldırımdan/hesaptan duyulan endişe `خَوْف` ↔ yağmur, rahmet ve iyilik yönündeki güçlü beklenti ve umut `طَمَع`)",
+        "ي-أ-س (Y-A-S — Çift Yönlü Mesânî Karşılığı: `7:56`, `26:51`, `26:82` — *Lisân*'ın doğrudan sözlük zıddı `الطَّمَعُ: ضِدُّ الْيَأْسِ`: beklentiyi bütünüyle bırakıp ümitsizliğe düşmek `يَأْس` ↔ gönülde güçlü umut ve beklenti beslemek `طَمَع`)",
+        "ق-ن-ط (Q-N-T — Çift Yönlü Mesânî Karşılığı: `7:56`, `32:16` — ilahî rahmetten ümidi tamamen kesip çökmek `قُنُوط` ↔ korku ile birlikte rahmete güçlü umutla yönelmek `خَوْفًا وَطَمَعًا`)"
       ]
     }
   }
