@@ -55543,5 +55543,68 @@
       }
     ],
     "context_default": "Engin zaman akışı bağlamı"
+  },
+  "ل-ي-ن": {
+    "buckwalter": "lyn",
+    "slug": "lyn",
+    "concept_name": "Lîn ve Leyyin (Katılıktan Çözülüp Yumuşamak, Esneklik ve Yumuşak Söz)",
+    "keywords": [
+      "lin",
+      "leyyin",
+      "yumusamak",
+      "yumusak soz",
+      "demiri yumusatmak",
+      "kalbin yumusamasi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "lin",
+        "ayahs": [
+          "3:159",
+          "39:23"
+        ],
+        "label": "Form I fiil (`لِنتَ / تَلِينُ` — davranışta ve kalpte yumuşayıp yatışmak; 2 geçiş)"
+      },
+      {
+        "lemma": ">ala",
+        "ayahs": [
+          "34:10"
+        ],
+        "label": "Form IV mâzi fiil (`وَأَلَنَّا لَهُ ٱلْحَدِيدَ` — Davud için demiri yumuşattık; 1 geçiş)"
+      },
+      {
+        "lemma": "l~ay~in",
+        "ayahs": [
+          "20:44"
+        ],
+        "label": "Mansûb sıfat (`قَوْلًا لَّيِّنًا` — yumuşak ve ikna edici söz; 1 geçiş)"
+      },
+      {
+        "lemma": "l~iynap",
+        "ayahs": [
+          "59:5"
+        ],
+        "label": "Mecrûr nekre isim (`مِن لِّينَةٍ` — yumuşak cins hurma ağacı; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yumuşaklık ve esneklik bildiren `ل-ي-ن` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:159",
+          "20:44",
+          "39:23"
+        ],
+        "text": "İletişimde ve Kalpte Yumuşaklık (`3:159`, `20:44`, `39:23`): Rahmet kaynaklı liderlik yumuşaklığı, muhataba yumuşak sözle hitap ilkesi ve zikir karşısında kalplerin yumuşaması."
+      },
+      {
+        "ayahs": [
+          "34:10",
+          "59:5"
+        ],
+        "text": "Fiziksel Yumuşatma ve Seçkin Hurma (`34:10`, `59:5`): Davud için demirin yumuşatılması ve yumuşak cins hurma ağacı (`لِينَة`)."
+      }
+    ],
+    "context_default": "Yumuşama ve esneklik bağlamı"
   }
 }
