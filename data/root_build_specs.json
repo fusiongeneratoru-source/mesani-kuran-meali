@@ -68952,5 +68952,74 @@
       }
     ],
     "context_default": "Taş savuran kasırga veya ateşe atılan yakıt bağlamı"
+  },
+  "ح-ر-ص": {
+    "buckwalter": "HrS",
+    "slug": "HrS",
+    "concept_name": "Harîs, Ahras ve Harastüm (Bir Hedefe Yoğun İstek, Aşırı Düşkünlük ve Yüksek Özen Göstermek)",
+    "root_latin": "H-R-S",
+    "keywords": [
+      "haris",
+      "ahras",
+      "hirs",
+      "duskunluk",
+      "ozen",
+      "yogun istek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aHoraS",
+        "ayahs": [
+          "2:96"
+        ],
+        "label": "İsm-i tafdîl, ikinci mef'ûl ve mansûb (`وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍ` — salt hayatta kalmaya insanların en düşkünü; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "HaraSo",
+        "ayahs": [
+          "4:129",
+          "12:103"
+        ],
+        "label": "I. Bab mâzi fiil, `وَلَوْ` yapısında (`وَلَوْ حَرَصْتُمْ` / `وَلَوْ حَرَصْتَ` — ne kadar yoğun özen ve çaba gösterseniz/göstermiş olsan da; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "HariyS",
+        "ayahs": [
+          "9:128"
+        ],
+        "label": "Sıfat-ı müşebbehe, `رَسُولٌ` sıfatı ve merfû (`حَرِيصٌ عَلَيْكُم` — elçinin topluluğunun iyiliğine ve esenliğine son derece düşkün ve özenli oluşu; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "HaraSo",
+        "ayahs": [
+          "16:37"
+        ],
+        "label": "I. Bab meczûm muzâri fiil, şart fiili (`إِن تَحْرِصْ عَلَىٰ هُدَىٰهُمْ` — onların doğru yolu bulması için ne kadar yoğun arzu göstersen de; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Yoğun arzu, aşırı düşkünlük veya yüksek özeni bildiren `ح-ر-ص` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:96"
+        ],
+        "text": "Salt Hayata Aşırı Düşkünlük (`2:96`): Ölümü isteme iddialarına karşın niteliksiz bir ömre insanların en düşkünü (`أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍ`) olduklarının açığa çıkarılması."
+      },
+      {
+        "ayahs": [
+          "4:129"
+        ],
+        "text": "Duygusal Eşitlikte İnsan Çabasının Sınırı (`4:129`): Ne kadar özen gösterilip çabalanılsa da (`وَلَوْ حَرَصْتُمْ`) eşler arasında mutlak duygusal eşitliğin kurulamayacağı, bu yüzden bir tarafa büsbütün eğilmemek gerektiği."
+      },
+      {
+        "ayahs": [
+          "9:128",
+          "12:103",
+          "16:37"
+        ],
+        "text": "Elçinin Topluluğuna Yoğun Özeni ve İradenin Sınırı (`9:128, 12:103, 16:37`): Elçinin insanlara son derece düşkün ve şefkatli oluşu (`حَرِيصٌ عَلَيْكُم`, `9:128`), ancak ne kadar arzu gösterse de (`حَرَصْتَ / تَحْرِصْ`) herkesin zorla doğru yola yönelmeyeceği (`12:103, 16:37`)."
+      }
+    ],
+    "context_default": "Yoğun arzu, düşkünlük veya özen bağlamı"
   }
 }
