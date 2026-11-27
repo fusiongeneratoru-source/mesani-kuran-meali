@@ -67609,5 +67609,71 @@
       }
     ],
     "context_default": "Düz eksenden yana kayma/saptırma (`إِلْحَاد`) veya yana sapılarak sığınılan kaçış yeri (`مُلْتَحَد`) bağlamı"
+  },
+  "م-ر-ج": {
+    "buckwalter": "mrj",
+    "slug": "mrj",
+    "concept_name": "Merece, Merîc, Mâric ve Mercân (Salıverip Akışkanlaştırmak, Çalkantılı Karışıklık ve Denizden Çıkan Mercan)",
+    "root_latin": "M-R-C",
+    "keywords": [
+      "merece",
+      "meric",
+      "maric",
+      "mercan",
+      "salivermek",
+      "calkantili"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "maraja",
+        "ayahs": [
+          "25:53",
+          "55:19"
+        ],
+        "label": "I. Bab (Sülâsî) mâzî fiil (`مَرَجَ ٱلْبَحْرَيْنِ` — iki büyük su kütlesini/denizi birbirine komşu akışa salıverip serbestçe buluşturmak, arada engel/berzah tutarak birbirini aşmasını önlemek; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "marojaAn",
+        "ayahs": [
+          "55:22",
+          "55:58"
+        ],
+        "label": "İsim (`وَٱلْمَرْجَانُ` — iki denizin buluşmasından çıkarılan değerli deniz taşları/mercan [`55:22`] ve eşlerin parlak/duru güzelliği için yakutla birlikte kurulan benzetme [`55:58`]; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "m~ariyj",
+        "ayahs": [
+          "50:5"
+        ],
+        "label": "Sıfat-ı müşebbehe (`فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ` — hakkı yalanladıkları için içine düştükleri karmakarışık, çalkantılı, tutarsız ve gidip gelen bir bocalama hali; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "m~aArij",
+        "ayahs": [
+          "55:15"
+        ],
+        "label": "İsm-i fâil / isim (`مِن مَّارِجٍ مِّن نَّارٍ` — dumansız, dalgalanıp çalkalanan, saf ve harmanlanmış ateş alevi; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Salıverip akışkanlaştırmayı (`مَرَجَ`), çalkantılı karışıklığı (`مَرِيج / مَارِج`) veya denizden çıkan mercanı (`مَرْجَان`) bildiren `م-ر-ج` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "25:53",
+          "55:19",
+          "55:22"
+        ],
+        "text": "İki Denizin Salıverilmesi ve Denizden Çıkan Mercan (`25:53, 55:19, 55:22`): Tatlı-içilebilir ve tuzlu-acı iki denizin birbiriyle karşılaşmak üzere salıverilmesi (`مَرَجَ ٱلْبَحْرَيْنِ`, `25:53, 55:19`), aralarına aşım engelleyici berzah konması ve bu denizlerden inci ile mercanın (`وَٱلْمَرْجَانُ`, `55:22`) çıkarılması."
+      },
+      {
+        "ayahs": [
+          "50:5",
+          "55:15",
+          "55:58"
+        ],
+        "text": "Çalkantılı Bocalama, Dalgalanan Alev ve Mercan Parlaklığı (`50:5, 55:15, 55:58`): Hakikati yalanlayanların çalkantılı ve karmakarışık bir tutarsızlık içinde kalması (`أَمْرٍ مَّرِيجٍ`, `50:5`), görünmez varlığın dalgalanan saf ateş alevinden (`مَّارِجٍ مِّن نَّارٍ`, `55:15`) yaratılması ve ödül yurdundaki eşlerin yakut ve mercan (`وَٱلْمَرْجَانُ`, `55:58`) gibi betimlenmesi."
+      }
+    ],
+    "context_default": "Salıverilen iki deniz, çalkantılı karışıklık, dalgalanan ateş alevi veya denizden çıkan mercan bağlamı"
   }
 }

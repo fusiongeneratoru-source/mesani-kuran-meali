@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 15 / 50 Kök (Toplam Mühürlü: 1015 Kök | Güncel Kapsam: %97,41)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 16 / 50 Kök (Toplam Mühürlü: 1016 Kök | Güncel Kapsam: %97,42)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -22,7 +22,7 @@
 | 13 | 6 Geçişli Çekirdek | 736 | `ك-ه-ف` | `K-H-F` | **6** | 6 | 18:9 | Kehf (Dağ İçindeki Geniş Mağara ve Baskıdan Korunup Sığınılan Doğal Barınak) | ✅ **MÜHÜRLÜ** |
 | 14 | 6 Geçişli Çekirdek | 699 | `ك-ر-ر` | `K-R-R` | **6** | 6 | 2:167 | Kerre ve Kerreteyn (Bir Kez Daha Geri Dönüş, Hamlenin/Üstünlüğün İadesi ve Bakışı Tekrar Çevirmek) | ✅ **MÜHÜRLÜ** |
 | 15 | 6 Geçişli Çekirdek | 727 | `ل-ح-د` | `L-H-D` | **6** | 6 | 7:180 | İlhâd ve Mültehad (Doğru Eksenden Yana Kayıp Saptırmak ve Sığınmak İçin Yana Sapılan Yer) | ✅ **MÜHÜRLÜ** |
-| 16 | 6 Geçişli Çekirdek | 741 | `م-ر-ج` | `M-R-C` | **6** | 6 | 25:53 | Merece, Mercân, Merîc ve Mâric (6/6: salıverip kavuşturmak, karmaşık/karışık iş, dumansız yalın alev ve mercan) | ⏳ *Bekliyor* |
+| 16 | 6 Geçişli Çekirdek | 741 | `م-ر-ج` | `M-R-C` | **6** | 6 | 25:53 | Merece, Merîc, Mâric ve Mercân (Salıverip Akışkanlaştırmak, Çalkantılı Karışıklık ve Denizden Çıkan Mercan) | ✅ **MÜHÜRLÜ** |
 | 17 | 6 Geçişli Çekirdek | 734 | `ق-م-ص` | `K-M-S` | **6** | 6 | 12:18 | Kamîs (6/6: bedeni saran gömlek — Yusuf kıssasının üç dönüm noktası kanıtı) | ⏳ *Bekliyor* |
 | 18 | 6 Geçişli Çekirdek | 717 | `ص-ي-د` | `S-Y-D` | **6** | 5 | 5:1 | Sayd ve İstedû (6/5: av ve avlanmak — ihram yasakları ve deniz avı helalliği) | ⏳ *Bekliyor* |
 | 19 | 6 Geçişli Çekirdek | 713 | `س-د-د` | `S-D-D` | **6** | 5 | 4:9 | Sedd ve Sedîd (6/5: geçidi kapatan sağlam set ve gediksiz, dosdoğru söz) | ⏳ *Bekliyor* |
