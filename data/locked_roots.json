@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (12/50 — Toplam 962 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (13/50 — Toplam 963 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -35455,7 +35455,8 @@
           "ك-ر-م [وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا] (Seviyesiz Boş Söz ve Davranış [ٱللَّغْوِ] ↔ Onurlu ve Asil Duruşla Geçip Gitmek [كِرَامًا]: 25:72)",
           "ز-و-ر [وَلَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ] (Çarpık Yalan Tanıklık [ٱلزُّورَ] ↔ Faydasız Boş Söz ve Gürültü [ٱللَّغْوِ]: 25:72)",
           "ق-ر-أ [لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ] (Anlamlı Vahiy Okunuşu [ٱلْقُرْءَانِ] ↔ Onu Bastırmak İçin Koparılan Anlamsız Yaygara [ٱلْغَوْا۟]: 41:26)",
-          "ع-ق-د [لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ ... وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ] (Kasıtsız ve Bağlayıcısız Boş Söz [ٱللَّغْوِ] ↔ Bilinçle Düğümlenen Bağlayıcı Kesin And [عَقَّدتُّمُ]: 5:89)"
+          "ع-ق-د [لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ ... وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ] (Kasıtsız ve Bağlayıcısız Boş Söz [ٱللَّغْوِ] ↔ Bilinçle Düğümlenen Bağlayıcı Kesin And [عَقَّدتُّمُ]: 5:89)",
+          "ن-ص-ت (İnsât: okunan söze saygıyla susup kulak vermek `وَأَنصِتُوا۟` `7:204` ↔ ل-غ-و okunuşu bastırmak için gürültü ve boş söz çıkarmak `وَٱلْغَوْا۟ فِيهِ` `41:26`)"
         ],
         "key_ayahs": [
           "2:225 & 5:89 (لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ — kasıtsız boş sözün bağlayıcı olmaması)",
@@ -80673,6 +80674,76 @@
           "examples": [
             "46:33",
             "50:15"
+          ]
+        }
+      ]
+    },
+    "ن-ص-ت": {
+      "root_latin": "N-S-T",
+      "arabic": "ن-ص-ت",
+      "rank": 1112,
+      "morphology_and_rasm": {
+        "buckwalter": "nSt",
+        "rasm_skeleton": "نصت (üçlü sahih iskelet; Kur'an'da yalnızca IV. bab çoğul emir `أَنصِتُوا۟` olarak 2 geçiş / 2 ayet)",
+        "approx_frequency": "2 geçiş / 2 ayet (tamamı IV. bab emir `أَنصِتُوا۟`: `7:204`, `46:29`)",
+        "verb_forms_used": [
+          "IV. Bab Emir (أَنصِتُوا۟ — 2 geçiş: 7:204, 46:29)"
+        ],
+        "noun_forms_used": [],
+        "preposition_patterns": [
+          "فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟ (`7:204`: `ٱسْتِمَاع` kulak verme eyleminin ardından gelen sessiz odaklanma)",
+          "قَالُوٓا۟ أَنصِتُوا۟ (`46:29`: Kur'an'ın huzurunda anında susup dinlemeye çağrı)"
+        ]
+      },
+      "physical_core": "Klasik Arap sözlüklerinin ortak somut çekirdeği: 'konuşmayı ve her türlü sesi keserek bütün dikkati dinlemeye toplamak' (`السُّكُوتُ لِلِاسْتِمَاعِ` — sıradan sessizlik değil, dinlemek için bilinçli susma `إِنْصَات`).",
+      "ibn_faris_asl": "İbn Fâris `Mekâyîsü'l-Luğa`'da `ن-ص-ت` maddesine ayrı bir kıyas başlığı açmaz; Lisânü'l-Arab (c. 14, نصت maddesi) klasik sözlük çekirdeğini şöyle belirler: `(نَصَتَ) وَالْإِنْصَاتُ: هُوَ السُّكُوتُ وَالِاسْتِمَاعُ لِلْحَدِيثِ. قَالَ ابْنُ الْأَعْرَابِيِّ: نَصَتَ وَأَنْصَتَ وَانْتَصَتَ: اسْتَمَعَ الْحَدِيثَ وَسَكَتَ.` [Lisânü'l-Arab, c. 14, نصت maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `Mekâyîs`'te `ن-ص-ت` için müstakil bir kıyas kaydı vermediğinden, kök tanımı İbnü'l-A'râbî'den aktaran Lisânü'l-Arab ve el-Müfredât kaynaklarına dayandırılır.",
+        "lisan_al_arab": "İbn Manzûr `الْإِنْصَاتُ` kelimesinin yalnızca susmak (`سُكُوت`) değil, 'konuşulan sözü iyice işitmek amacıyla susup kulak kabartmak' (`السُّكُوتُ وَالِاسْتِمَاعُ لِلْحَدِيثِ`) olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `أَنصَتَ` fiilinin 'dinlemek üzere kendini susturup hazırlamak' olduğunu vurgular; `7:204`'te önce `فَٱسْتَمِعُوا۟` (kulak verin), ardından `وَأَنصِتُوا۟` (sözü kesip susun) buyrulmasının hem dış gürültüyü hem iç dağınıklığı gidermeyi hedeflediğini belirtir.",
+        "verdict": "Her iki geçiş **'Kur'an okunurken konuşmayı kesip tam bir sessizlik ve dikkatle kulak vermek (`أَنصِتُوا۟`)'** tek bilinçli dinleme çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*n-ṣ-t ('susup dikkatle dinlemek')",
+        "hebrew": "Doğrudan kesin bir İbranice eşkökeni tespit edilmemiştir.",
+        "aramaic_syriac": "Aramice/Süryanice nṣt / aṣīṯ ('kulak kabartmak, dikkatle dinlemek') ile doğrudan eşkökenlidir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Süryanice/Aramice ile paylaşılan `ن-ص-ت` kökü Kur'an'da yalnızca iki ayette (`7:204`, `46:29`) ve ikisinde de doğrudan Kur'an okunurken sessiz dikkat kesilme emri (`أَنصِتُوا۟`) olarak yer alır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ق-ر-أ (Sesli okuyup aktarmak `قُرِئَ ٱلْقُرْءَانُ` ↔ ن-ص-ت okunanı almak için susup dikkat kesilmek `أَنصِتُوا۟` — `7:204`, `46:29`)",
+          "ل-غ-و (Okunuşu bastırmak için gürültü ve boş söz çıkarmak `وَٱلْغَوْا۟ فِيهِ` `41:26` ↔ ن-ص-ت saygıyla susup dinlemek `وَأَنصِتُوا۟` `7:204`)"
+        ],
+        "bidirectional_test": "`7:204`'teki `وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟` emri, `41:26`'daki `لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ` tavrının tam ters simetrisidir; aynı zamanda okuma (`ق-ر-أ`) ile dinleyici suskunluğu (`ن-ص-ت`) eşli iletişim çifti oluşturur."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "س-م-ع",
+          "ق-ر-أ",
+          "ر-ح-م"
+        ],
+        "analysis": "`7:204`'te `فَٱسْتَمِعُوا۟` (`س-م-ع`) kulağı kasten okunan söze yöneltmeyi, `وَأَنصِتُوا۟` ise konuşmayı ve gürültüyü keserek tam bir sessizlik ortamı sağlamayı ayırır; bu ikilinin meyvesi `لَعَلَّكُمْ تُرْحَمُونَ` (merhamete kavuşma umudu) olur."
+      },
+      "anchor_ayahs": [
+        "7:204 (وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟ لَعَلَّكُمْ تُرْحَمُونَ — Kur'an okunduğu zaman ona kulak verin ve susup dikkatle dinleyin ki merhamete eresiniz)",
+        "46:29 (فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ — onun okunuşunda hazır bulununca birbirlerine 'susun, dikkatle dinleyin!' dediler)"
+      ],
+      "unified_core_mechanism": "`ن-ص-ت` kökü her iki geçişinde de IV. bab emir (`أَنصِتُوا۟`) olarak **'Kur'an okunurken sözü ve gürültüyü kesip tam bir dikkatle susmak'** eylemini yürütür.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — IV. Bab Çoğul Emir (`أَنصِتُوا۟` — `7:204`, `46:29`): Her iki ayette de Kur'an'ın dinlenmesi (`ٱسْتِمَاع`) bağlamında lâzım (geçişsiz) fiil olarak gelir."
+        ],
+        "irab_notes": "Emir fiili `أَنصِتُوا۟`, nûnun düşmesiyle mebnîdir; fâili bitişik cemaat vâvıdır."
+      },
+      "derivatives": [
+        {
+          "form": "أَنصِتُوا۟",
+          "pos": "Fiil (IV. Bab Emir)",
+          "meaning": "Konuşmayı kesip tam bir sessizlik ve dikkatle dinlemek",
+          "examples": [
+            "7:204",
+            "46:29"
           ]
         }
       ]
