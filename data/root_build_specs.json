@@ -67544,5 +67544,70 @@
       }
     ],
     "context_default": "İlk seferden sonra tekrar geri dönüş, üstünlük hamlesi veya bakışı yineleme bağlamı"
+  },
+  "ل-ح-د": {
+    "buckwalter": "lHd",
+    "slug": "lhd",
+    "concept_name": "İlhâd ve Mültehad (Doğru Eksenden Yana Kayıp Saptırmak ve Sığınmak İçin Yana Sapılan Yer)",
+    "root_latin": "L-H-D",
+    "keywords": [
+      "ilhad",
+      "yulhidun",
+      "multehad",
+      "yana kaymak",
+      "saptirmak",
+      "siginak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yuloHidu",
+        "ayahs": [
+          "7:180",
+          "16:103",
+          "41:40"
+        ],
+        "label": "IV. Bab (İf'âl) muzâri fiil (`يُلْحِدُونَ فِىٓ / يُلْحِدُونَ إِلَيْهِ` — düz çizgiden yana meyledip eğmek, saptırmak veya birine doğru ima/eğilimle yöneltmek: `7:180` Allah'ın en güzel isimlerinde eksenden kayıp tahrife gidenler; `16:103` vahyi öğrettiğini iddia ederek kendisine doğru meylettikleri/nispet ettikleri kişinin yabancı dili; `41:40` ayetlerimizde eğip bükerek saptırmaya gidenler; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "mulotaHad",
+        "ayahs": [
+          "18:27",
+          "72:22"
+        ],
+        "label": "VIII. Bab (İftiâl) ism-i mekân (`وَلَن تَجِدَ / وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا` — insanın tehlikeden kaçıp yana saparak içine sığınabileceği yan oyuk, sığınak veya kaçış yeri; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "<iloHaAd",
+        "ayahs": [
+          "22:25"
+        ],
+        "label": "IV. Bab (İf'âl) mastar (`وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍ` — Mescid-i Harâm'da haksızlık ederek doğru eksenden yana sapmaya ve orayı bozmaya yeltenmek; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Düz eksenden yana kayıp eğmeyi/saptırmayı (`يُلْحِدُونَ / إِلْحَاد`) veya yana sapılıp sığınılan yeri (`مُلْتَحَد`) bildiren `ل-ح-د` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:180",
+          "41:40"
+        ],
+        "text": "İsimlerde ve Ayetlerde Eksenden Kaydırma (`7:180, 41:40`): Allah'ın en güzel isimlerini (`7:180`) ve ayetlerini (`41:40`) yerli yerinden eğip bükerek doğru eksenden saptıranların (`يُلْحِدُونَ فِىٓ`) yaptıklarının gizli kalmayacağı ve karşılığını görecekleri uyarısı."
+      },
+      {
+        "ayahs": [
+          "16:103",
+          "22:25"
+        ],
+        "text": "Haksız Nispet Eğilimi ve Harem'de Sapma Girişimi (`16:103, 22:25`): Vahyi bir beşere isnat ederek kendisine doğru meylettikleri (`يُلْحِدُونَ إِلَيْهِ`, `16:103`) kişinin dilinin yabancı (`أَعْجَمِىّ`) olmasına karşılık Kur'an'ın apaçık Arapça oluşu; ve Mescid-i Harâm'da zulümle eksenden sapmaya (`بِإِلْحَادٍۭ بِظُلْمٍ`, `22:25`) kalkışanın acı azapla uyarılması."
+      },
+      {
+        "ayahs": [
+          "18:27",
+          "72:22"
+        ],
+        "text": "Allah'tan Başka Sığınılacak Yan Oyuk Olmaması (`18:27, 72:22`): İki ayette aynı yapıyla (`وَلَن تَجِدَ / وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا`), Allah'ın sözlerini değiştirecek kimse olmadığı gibi O'ndan başka yana sapılıp sığınılacak hiçbir barınak (`مُلْتَحَدًا`) bulunamayacağının vurgulanması."
+      }
+    ],
+    "context_default": "Düz eksenden yana kayma/saptırma (`إِلْحَاد`) veya yana sapılarak sığınılan kaçış yeri (`مُلْتَحَد`) bağlamı"
   }
 }
