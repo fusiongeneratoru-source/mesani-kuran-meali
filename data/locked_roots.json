@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (50/50) + Etap 3P (21/50 — Toplam 1021 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (50/50) + Etap 3P (22/50 — Toplam 1022 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -37306,7 +37306,8 @@
           "خ-س-ف (Hasf: yerin çöküp aşağı dibe batırılması ↔ ر-ف-ع yukarıya kaldırıp yükseltmek)",
           "ن-ك-س (Neks / Nâkisû: başı utançla aşağı eğmek veya baş aşağı çevirmek ↔ ر-ف-ع başı ve dereceyi yukarı kaldırmak — `32:12`)",
           "س-ق-ط (Sukût/İskât: yukarıdan aşağıya düşmek ve düşürmek ↔ ر-ف-ع yukarıya doğru kaldırıp yükseltmek — `6:59, 34:9`)",
-          "و-ط-أ (Vat': tabana basıp zemini düzlemek, alçaltıp çiğnemek `يَطَـُٔونَ` ↔ ر-ف-ع yukarı kaldırıp yükseltmek — `9:120, 48:25`)"
+          "و-ط-أ (Vat': tabana basıp zemini düzlemek, alçaltıp çiğnemek `يَطَـُٔونَ` ↔ ر-ف-ع yukarı kaldırıp yükseltmek — `9:120, 48:25`)",
+          "ك-ل-ب (K-L-B [klb] — Çift Yönlü Mesânî Karşılığı)"
         ],
         "key_ayahs": [
           "2:127",
@@ -85636,7 +85637,8 @@
       "mesani_opposite": {
         "roots": [
           "ت-ر-ك (Dokunmadan salıverip serbest bırakmak ↔ ص-ي-د takip edip yakalayarak avlamak — `5:94, 5:95`)",
-          "ح-ر-م (Dokunulmazlık halinde yasağı korumak `وَأَنتُمْ حُرُمٌ` ↔ ص-ي-د serbestlikte avlanmak `فَٱصْطَادُوا۟` — `5:1, 5:2, 5:96`)"
+          "ح-ر-م (Dokunulmazlık halinde yasağı korumak `وَأَنتُمْ حُرُمٌ` ↔ ص-ي-د serbestlikte avlanmak `فَٱصْطَادُوا۟` — `5:1, 5:2, 5:96`)",
+          "ك-ل-ب (K-L-B [klb] — Çift Yönlü Mesânî Karşılığı)"
         ],
         "bidirectional_test": "`5:1-2` ve `5:95-96`'da `حُرُم` (dokunulmazlık) ile `حَلَلْتُمْ فَٱصْطَادُوا۟` (çıkınca avlanabilirsiniz) doğrudan zıt durumlar olarak eşleşir."
       },
@@ -86026,6 +86028,105 @@
           "meaning": "Sert azarlama ve tehditle susturulup engellenmek",
           "examples": [
             "54:9"
+          ]
+        }
+      ]
+    },
+    "ك-ل-ب": {
+      "root_latin": "K-L-B",
+      "arabic": "ك-ل-ب",
+      "rank": 719,
+      "morphology_and_rasm": {
+        "buckwalter": "klb",
+        "rasm_skeleton": "كلب (sâlim sülâsî iskelet; Kur'an'da çekimli fiil geçmez — II. bab ism-i fâil `مُكَلِّبِينَ` 1x ve yalın isim `كَلْب` 5x olmak üzere 6 geçiş)",
+        "approx_frequency": "6 geçiş / 4 ayet (`5:4, 7:176, 18:18, 18:22 [3x]`)",
+        "verb_forms_used": [
+          "Kur'an'da çekimli fiil formu yoktur; yalnızca II. bab ism-i fâil (`مُكَلِّبِينَ`, `5:4` [1x]) ve yalın isim (`كَلْب`, 5x) geçer"
+        ],
+        "noun_forms_used": [
+          "كَلْب (`7:176, 18:18, 18:22 [3x]` [5x] — köpek: hem mağara arkadaşlarının eşikteki yoldaşı hem de soluma davranışıyla benzetme öğesi)",
+          "مُكَلِّبِينَ (`5:4` [1x] — II. bab ism-i fâil: av köpeklerini ve yırtıcı av hayvanlarını eğitip ava salanlar)"
+        ],
+        "preposition_patterns": [
+          "مِنَ ٱلْجَوَارِحِ مُكَلِّبِينَ (`5:4`: hâl olarak — yırtıcı av hayvanlarını eğitip alıştırarak salanlar olarak)",
+          "كَمَثَلِ ٱلْكَلْبِ (`7:176`: benzetme tamlaması — üstüne varılsa da bırakılsa da soluyan köpeğin durumu gibi)",
+          "وَكَلْبُهُم بَٰسِطٌ ذِرَاعَيْهِ بِٱلْوَصِيدِ (`18:18`: mağara eşiğinde ön ayaklarını uzatmış yatan köpekleri)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tespit ettiği somut çekirdek: 'bir şeyin başka bir şeye şiddetle tutunup kenetlenmesi ve güçlüce çekmesi (`تَعَلُّقُ الشَّيْءِ بِالشَّيْءِ فِي شِدَّةٍ وَشِدَّةِ جَذْبٍ`)' — ortak Sami dil mirasında en eski hayvan adlarından olan `كَلْب` (*kalb-: köpek) bu tutunma/avı kavrama özelliğiyle anılır; II. bab ism-i fâili `مُكَلِّبِينَ` (`5:4`) de köpekleri ve yırtıcıları avı yakalayıp tutmak üzere eğiten avcıları ifade eder.",
+      "ibn_faris_asl": "(كَلَبَ) الْكَافُ وَاللَّامُ وَالْبَاءُ أَصْلٌ وَاحِدٌ صَحِيحٌ يَدُلُّ عَلَى تَعَلُّقِ الشَّيْءِ بِالشَّيْءِ فِي شِدَّةٍ وَشِدَّةِ جَذْبٍ. مِنْ ذَلِكَ الْكَلْبُ، وَهُوَ مَعْرُوفٌ، وَالْجَمْعُ كِلَابٌ وَكَلِيبٌ. وَالْكَلَّابُ وَالْمُكَلِّبُ: الَّذِي يُعَلِّمُ الْكَلْبَ الصَّيْدَ... [Mu'cemü Mekâyîsi'l-Luğa, c. 5, s. 134, كتاب الكاف, باب الكاف واللام وما يثلثهما, كلب maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ك-ل-ب` kökünü 'şiddetle tutunup kavramak' aslına bağlar; hem bilinen köpek (`الْكَلْبُ`) hem de av köpeğini eğiten kişi (`الْمُكَلِّبُ`) bu köktendir.",
+        "lisan_al_arab": "İbn Manzûr `الْكَلْبُ` kelimesinin hem bilinen köpek cinsi hem de geniş kullanımda av yakalayan yırtıcı hayvan (`كُلُّ سَبُعٍ عَقُورٍ`) için kullanıldığını ve `مُكَلِّبِينَ` (`5:4`) ifadesinin yırtıcıları av için eğitenleri anlattığını kaydeder.",
+        "ragib_al_isfahani": "Râgıb avı yakalayıp sıkıca tutma niteliğine (`لِإِمْسَاكِهِ مَا يُعَلَّقُ عَلَيْهِ إِمْسَاكَ الْكَلْبِ`) dikkat çeker ve `7:176`'da dışarıdan kovulsa da kendi haline bırakılsa da dilini çıkarıp soluyan (`يَلْهَثْ`) köpek temsilini açıklar.",
+        "verdict": "Altı geçişin tamamı **'köpek (`كَلْب`: mağara arkadaşlarının eşikteki yoldaşı ve `7:176`'daki soluyan hayvan temsili) ile av hayvanlarını yakalayıp tutmak üzere eğitip salmak (`مُكَلِّبِينَ`)'** tek somut çekirdeğinde birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*kalb- (Köpek — tüm ana Sami dil kollarında kesintisiz korunan ortak Proto-Sami hayvan adı)",
+        "hebrew": "כֶּלֶב (keleḇ — Strong H3611 / BDB: köpek)",
+        "aramaic_syriac": "Aramice כַּלְבָּא (kalbā) / Klasik Süryanice ܟܠܒܐ (kalbā — CAL `klb`: köpek)",
+        "akkadian": "kalbu(m) (CAD K, s. 68: köpek)",
+        "ugaritic_and_sabaic": "Ugaritçe klb (/kalbu/), Eski Güney Arapça (Sebece) klb (köpek)",
+        "comparative_note": "Proto-Sami `*kalb-` Doğu Samiceden (Akadca `kalbu`) Kuzeybatı (İbranice `keleḇ`, Aramice/Süryanice `kalbā`, Ugaritçe `klb`) ve Güney/Merkez Samiye (Sebece `klb`, Arapça `kalb`) kadar fonetik ve semantik olarak birebir korunmuştur; Arapçada II. bab `كَلَّبَ / مُكَلِّب` doğrudan bu isimden türemiş (denominal) av eğitimi fiilidir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ر-ف-ع (Yüceltip yukarı kaldırmak `لَرَفَعْنَٰهُ` ↔ ك-ل-ب yere çakılıp her durumda soluyan köpek temsili `كَمَثَلِ ٱلْكَلْبِ` — `7:176`)",
+          "ص-ي-د (Yakalanan yaban avı ↔ ك-ل-ب avı yakalayıp tutmak üzere eğitilip salınan yırtıcı/köpek `مُكَلِّبِينَ` — `5:4`)"
+        ],
+        "bidirectional_test": "`7:176`'da ayetlerle yücelme imkânı (`لَرَفَعْنَٰهُ`) karşısında yere çakılıp tutkusunun peşinden her şartta soluyan köpek temsili (`كَمَثَلِ ٱلْكَلْبِ`) net bir yükseliş-düşüş karşıtlığı kurar; `5:4`'te ise eğitilmiş avcılar (`مُكَلِّبِينَ`) ile avlanan hayvan (`ص-ي-د`) işlevsel olarak ayrılır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ج-ر-ح",
+          "ع-ل-م",
+          "م-س-ك",
+          "خ-ل-د",
+          "ه-و-ي"
+        ],
+        "analysis": "`5:4`'te `ٱلْجَوَارِحِ` (`ج-ر-ح`) av yakalayan tüm yırtıcı hayvanları (köpek, doğan, şahin vb.), `مُكَلِّبِينَ` (`ك-ل-ب`) bunları köpek gibi avı tutup getirmeye alıştıran eğiticileri, `تُعَلِّمُونَهُنَّ` (`ع-ل-م`) sistemli eğitimi ve `أَمْسَكْنَ` (`م-س-ك`) avı yemeyip sahibi için tutmasını ayırır; `7:176`'da `أَخْلَدَ` (`خ-ل-د`) yere yapışmayı, `هَوَىٰهُ` (`ه-و-ي`) boş tutkuyu, `ٱلْكَلْبِ` ise uyarılsa da bırakılsa da soluması kesilmeyen somut davranışı temsil eder."
+      },
+      "anchor_ayahs": [
+        "5:4 (وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ — av yakalayıcı yırtıcılardan eğitip saldıklarınızın sizin için yakalayıp tuttuklarından yiyin)",
+        "7:176 (فَمَثَلُهُۥ كَمَثَلِ ٱلْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث — onun durumu, üstüne varsan da soluyan, kendi haline bıraksan da soluyan köpeğin durumu gibidir)",
+        "18:18 (وَكَلْبُهُم بَٰسِطٌ ذِرَاعَيْهِ بِٱلْوَصِيدِ — köpekleri de mağaranın eşiğinde ön ayaklarını uzatmış yatmaktadır)",
+        "18:22 (ثَلَٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ ... خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ ... سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ — üçtürler dördüncüleri köpekleridir, beştirler altıncıları köpekleridir, yedidirler sekizincileri köpekleridir diyecekler)"
+      ],
+      "unified_core_mechanism": "`ك-ل-ب` kökü 6 geçişin tamamında **'köpek (`كَلْب`: mağara arkadaşlarının eşikteki yoldaşı ve `7:176`'da dış etkiden bağımsız soluma temsili) ile av hayvanlarını yakalayıp tutmak üzere eğitip salmak (`مُكَلِّبِينَ`)'** tek somut çekirdeğiyle işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Av Hayvanlarını Eğitip Salmak (`مُكَلِّبِينَ` — `5:4` [1x]): II. bab ism-i fâil hâl olarak yırtıcıları avı yakalayıp sahibi için tutmaya alıştırmak.",
+          "Dal 2 — Somut Köpek: Yoldaş ve Davranış Temsili (`كَلْب` — `7:176, 18:18, 18:22 [3x]` [5x]): Mağara arkadaşlarının eşikte bekleyen köpeği (`18:18, 22`) ile her hâlükârda soluyan köpek benzetmesi (`7:176`)."
+        ]
+      },
+      "anti_distortion_and_tabula_rasa": [
+        "Geleneksel kültürdeki köpeği bütünüyle dışlayan önyargıların aksine, Kur'an'da köpek `5:4`'te eğitilmiş av yardımcısı (yakalayıp tuttuğu yiyecek temiz ve yenilebilir sayılır) ve `18:18, 22`'de zulümden kaçan gençlerin eşikteki sadık yoldaşı olarak geçer; `7:176`'daki temsil ise hayvanın özüne değil, dış uyarı olsa da olmasa da süren soluma davranışına dayanır."
+      ],
+      "turkish_translation_protocol": {
+        "primary": "köpek / av hayvanlarını eğitip salanlar (`كَلْب / مُكَلِّبِينَ`)",
+        "contextual_variants": [
+          "5:4 (`مُكَلِّبِينَ`): av köpeği gibi eğitip ava salanlar olarak",
+          "7:176 (`كَمَثَلِ ٱلْكَلْبِ`): köpeğin durumu gibi",
+          "18:18, 18:22 (`كَلْبُهُمْ`): köpekleri"
+        ]
+      },
+      "derivatives": [
+        {
+          "form": "كَلْب",
+          "pos": "İsim",
+          "meaning": "Köpek (mağara arkadaşlarının eşikteki yoldaşı ve `7:176`'daki davranış temsilinin öğesi)",
+          "examples": [
+            "7:176",
+            "18:18",
+            "18:22"
+          ]
+        },
+        {
+          "form": "مُكَلِّبِينَ",
+          "pos": "II. Bab İsm-i Fâil (Çoğul)",
+          "meaning": "Av köpeklerini ve yırtıcı av hayvanlarını eğitip alıştırarak ava salanlar",
+          "examples": [
+            "5:4"
           ]
         }
       ]

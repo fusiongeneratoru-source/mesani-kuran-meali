@@ -67983,5 +67983,65 @@
       }
     ],
     "context_default": "Sert sesle sürme, tek kesin haykırış veya caydırıp engelleme bağlamı"
+  },
+  "ك-ل-ب": {
+    "buckwalter": "klb",
+    "slug": "klb",
+    "concept_name": "Kelb ve Mükellibîn (Köpek ve Av Hayvanlarını Eğitip Salmak)",
+    "root_latin": "K-L-B",
+    "keywords": [
+      "kelb",
+      "mukellibin",
+      "kopek",
+      "av hayvani",
+      "egitmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mukal~ibiyn",
+        "ayahs": [
+          "5:4"
+        ],
+        "label": "II. Bab çoğul müzekker ism-i fâil, hâl ve mansûb (`وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ` — yırtıcı av hayvanlarını av köpeği gibi eğitip alıştırarak salanlar olarak; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "kalob",
+        "ayahs": [
+          "7:176"
+        ],
+        "label": "Muzâfün ileyh ve mecrûr (`فَمَثَلُهُۥ كَمَثَلِ ٱلْكَلْبِ` — üstüne varılsa da kendi haline bırakılsa da soluyan köpeğin durumu gibi; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "kalob",
+        "ayahs": [
+          "18:18",
+          "18:22"
+        ],
+        "label": "Mübtedâ veya haber, merfû (`وَكَلْبُهُم بَٰسِطٌ ذِرَاعَيْهِ` / `رَّابِعُهُمْ كَلْبُهُمْ` — mağara arkadaşlarının eşikte ön ayaklarını uzatmış yatan köpeği ve sayı tahminlerindeki anılışı; 4 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Köpek (`كَلْب`) veya av hayvanı eğiticisi (`مُكَلِّبِينَ`) bildiren `ك-ل-ب` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:4"
+        ],
+        "text": "Eğitilmiş Av Hayvanlarının Tuttuğu Avın Yenilebilirliği (`5:4`): Av yakalayan yırtıcıları eğitip alıştırarak salanların (`مُكَلِّبِينَ`), o hayvanların kendileri için yakalayıp tuttuklarından yemelerinin serbest kılınması."
+      },
+      {
+        "ayahs": [
+          "7:176"
+        ],
+        "text": "Dış Etkiden Bağımsız Doyumsuz Soluma Temsili (`7:176`): Kendisine verilen ayetlerden sıyrılıp yere saplanan kişinin, üzerine gidilse de bırakılsa da soluması dinmeyen köpeğe (`ٱلْكَلْبِ`) benzetilmesi."
+      },
+      {
+        "ayahs": [
+          "18:18",
+          "18:22"
+        ],
+        "text": "Mağara Arkadaşlarının Eşikteki Köpeği (`18:18, 18:22`): Mağara girişinde ön ayaklarını uzatmış bekleyen köpekleri (`وَكَلْبُهُم`, `18:18`) ve insanların bilinmeyene taş atar gibi yürüttükleri sayı tahminlerinde köpeğin tekrar tekrar sayılması (`18:22`)."
+      }
+    ],
+    "context_default": "Köpek veya av hayvanı eğitimi bağlamı"
   }
 }
