@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 44 / 50 Kök (Toplam Mühürlü: 944 Kök | Güncel Kapsam: %96,69)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 45 / 50 Kök (Toplam Mühürlü: 945 Kök | Güncel Kapsam: %96,71)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -51,7 +51,7 @@
 | 42 | Yüksek Frekanslı Çekirdek | 599 | `ب-ق-ر` | `B-K-R` | **9** | 9 | 2:67 | Bakar ve Bakara (Toprağı Sürüp Yaran Sığır Cinsi / İnek) | ✅ **MÜHÜRLÜ** |
 | 43 | Yüksek Frekanslı Çekirdek | 603 | `ف-ي-ض` | `F-Y-D` | **9** | 8 | 2:198 | Feyz ve İfâza (Dolup Taşarak Akıtmak, Sel Gibi Akın Etmek ve Söze/İşe Dalmak) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 616 | `ه-م-م` | `H-M-M` | **9** | 8 | 3:122 | Hemm ve İhmâm (İçte Uyanıp Eyleme Doğru Yönelen Tasarı, Niyetlenmek ve Kaygıya Düşürmek) | ✅ **MÜHÜRLÜ** |
-| 45 | Yüksek Frekanslı Çekirdek | 600 | `ل-و-ن` | `L-W-N` | **9** | 7 | 2:69 | Levn ve Elvân (9 geçiş: 2:69, 16:13, 16:69, 30:22, 35:27, 35:28, 39:21 yaratılıştaki renk, ton ve dış görünüş çeşitliliği) | ⏳ *Bekliyor* |
+| 45 | Yüksek Frekanslı Çekirdek | 600 | `ل-و-ن` | `L-W-N` | **9** | 7 | 2:69 | Levn ve Elvân (Varlıkları Birbirinden Ayıran Dış Görünüm, Renk ve Tür Çeşitliliği) | ✅ **MÜHÜRLÜ** |
 | 46 | Yüksek Frekanslı Çekirdek | 628 | `ق-ذ-ف` | `K-Z-F` | **9** | 8 | 20:39 | Kazf (9 geçiş: 20:39, 20:87, 21:18, 33:26, 34:48, 34:53, 37:8, 59:2 uzağa fırlatıp atmak, kalplere korku salmak ve hakkı batılın üzerine fırlatmak) | ⏳ *Bekliyor* |
 | 47 | Yüksek Frekanslı Çekirdek | 605 | `ق-ب-ض` | `K-B-D` | **9** | 7 | 2:245 | Kabd ve Makbûda (9 geçiş: 2:245, 2:283, 9:67, 20:96, 25:46, 39:67, 67:19 avuçlayıp toplamak, daraltıp kısmak ve kanatlarını kapamak) | ⏳ *Bekliyor* |
 | 48 | Yüksek Frekanslı Çekirdek | 613 | `خ-ي-ل` | `H-Y-L` | **9** | 9 | 3:14 | Hayl, Muhtâl ve Yuhayyel (9 geçiş: 3:14, 4:36, 8:60, 16:8, 17:64, 20:66, 31:18, 57:23, 59:6 atlı birlikler, kibirle böbürlenen ve gözde canlanan yanılsama — ≥9 geçişli açık kök = 0!) | ⏳ *Bekliyor* |
