@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (15/50 — Toplam 915 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (16/50 — Toplam 916 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -46240,7 +46240,8 @@
           "م-و-ه [أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ ... وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ] (Bozulmayan Berrak ve Serin Su ↔ Bağırsakları Parçalayan Kaynar Su: 47:15)",
           "ر-و-ح [فَرَوْحٌ وَرَيْحَانٌ ... فَنُزُلٌ مِّنْ حَمِيمٍ] (Ferahlık ve Esenlik İkramı ↔ Kaynar Su ve Kara Duman Karşılığı: 56:42-43, 56:89, 56:93)",
           "ع-د-و [فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ] (Aralarında Düşmanlık Bulunan Rakip ↔ Candan ve Sıcak Yakın Dost: 41:34)",
-          "ب-ر-د"
+          "ب-ر-د",
+          "ك-أ-س (Ke's: kâfur ve zencefil çeşnili, saf kaynaktan sunulan serin ve hoş ikram kadehi ↔ ح-م-م bağırsakları parçalayan aşırı kaynar ceza içeceği — `37:45`, `76:5`, `78:34`)"
         ],
         "key_ayahs": [
           "6:70",
@@ -76807,6 +76808,83 @@
           "examples": [
             "7:97",
             "68:19"
+          ]
+        }
+      ]
+    },
+    "ك-أ-س": {
+      "root_latin": "K-E-S",
+      "arabic": "ك-أ-س",
+      "rank": 744,
+      "morphology_and_rasm": {
+        "buckwalter": "kAs",
+        "rasm_skeleton": "كاس (harekesiz iskelet; yalnızca tekil nekre isim كأس / كأسا biçimiyle 6 kez)",
+        "approx_frequency": "6 geçiş / 6 ayet (tamamı tekil müennes isim `كَأْس` — fiil formu Kur'an'da geçmez)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "كَأْس (`فَعْل` tekil semâî müennes isim — 6 geçiş: `37:45`, `52:23`, `56:18`, `76:5`, `76:17`, `78:34`)"
+        ],
+        "preposition_patterns": [
+          "بِكَأْسٍ مِّن مَّعِينٍ (`37:45`, `56:18`: `مِن` ile kadehin doldurulduğu saf pınar kaynağı)",
+          "يَشْرَبُونَ مِن كَأْسٍ (`76:5`: `مِن` ile içilen dolu kadeh)"
+        ]
+      },
+      "physical_core": "Lisânü'l-Arab'ın tespit ettiği somut çekirdek: 'içinde içecek bulunan dolu kap/kadeh' (`الْقَدَحُ مَا دَامَ فِيهِ الشَّرَابُ`). Arapça sözlük geleneğinde kap boşken `قَدَح` veya `زُجَاجَة` denir; ancak içi içecekle doluyken `كَأْس` adını alır.",
+      "ibn_faris_asl": "الْكَأْسُ: الْقَدَحُ مَا دَامَ فِيهِ الشَّرَابُ، وَهِيَ مُؤَنَّثَةٌ... كُلُّ إِنَاءٍ مَعَ شَرَابِهِ، وَلَا تُسَمَّى الْكَأْسُ كَأْسًا إِلَّا وَفِيهَا الشَّرَابُ. [Lisânü'l-Arab, كأس maddesi; bu somut isimde doğrudan doğrulanmış Lisânü'l-Arab metni esas alınmıştır]",
+      "dictionary_arbitration": {
+        "ibn_faris": "Somut eşya adı olan `كَأْس` için bu maddede doğrudan doğrulanmış klasik sözlük kaynağı olarak Lisânü'l-Arab metni esas alınmıştır.",
+        "lisan_al_arab": "İbn Manzûr `الْكَأْسُ` kelimesinin semâî müennes olduğunu, boş kaba değil yalnızca içindeki içecekle birlikte dolu kaba (`إِنَاءٌ مَعَ شَرَابِهِ`) ad verildiğini açıklar.",
+        "ragib_al_isfahani": "Râgıb Kur'an'daki tüm 6 `كَأْس` geçişinin ödül ve ikram bağlamında geldiğini, dünya içkisinin yol açtığı baş ağrısı, boş söz ve akıl kaybından bütünüyle arınmış saf bir içimi (`37:47`, `52:23`, `56:19`) ifade ettiğini belirtir.",
+        "verdict": "Tüm 6 geçiş **'içi saf, hoş kokulu ve berrak içecekle dolu ikram kadehi (`كَأْس`)'** tek somut çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*kās- ('içecek kadehi, kap')",
+        "hebrew": "İbranice kôs (כּוֹס — 'kadeh, içki kabı') birebir eşkökenlidir.",
+        "aramaic_syriac": "Aramice/Süryanice kāsā (ܟܣܐ — 'kadeh, çanak') birebir eşkökenlidir.",
+        "akkadian": "Akadca kāsu ('kadeh, kap') birebir eşkökenlidir.",
+        "comparative_note": "Tüm Sâmî dillerde ortak `*kās-` kültürel kabı, Arapçada özel olarak 'içi dolu kadeh' nüansını kazanmış; Kur'an da bu kelimeyi hep `مَعِين` (duru pınar), `كَافُور`, `زَنجَبِيل` ve `دِهَاق` (dopdolu) gibi arılık ve bolluk sıfatlarıyla birlikte kullanmıştır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ح-م-م (Bağırsakları parçalayan aşırı kaynar ceza içeceği ↔ ك-أ-س kâfur ve zencefil karışımlı serin ve saf ikram kadehi — `37:45`, `76:5`, `78:34`)",
+          "ظ-م-أ (Susuzluk ve kavrulma ↔ ك-أ-س kana kana içilen dopdolu kadeh — `78:34`)"
+        ],
+        "bidirectional_test": "Sure 37, 56, 76 ve 78'de ikram yurdundaki `كَأْس` (saf dolu kadeh), aynı surelerin karşıt tablolarındaki yakıcı `حَمِيم` (kaynar su) içeceğinin doğrudan ödül-ceza karşıtıdır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ك-و-ب",
+          "م-ز-ج",
+          "د-ه-ق"
+        ],
+        "analysis": "`56:18`'de `أَكْوَاب` (kulpsuz yuvarlak kaplar), `أَبَارِيق` (ibrikler/sürahiler) ve `كَأْسٍ مِّن مَّعِينٍ` (içi saf kaynak suyuyla dolu kadeh) yan yana gelerek sunum takımını ayırır. `76:5` ve `76:17`'de `مِزَاجُهَا` ('karışımı') kadehin müennesliğini gösterir."
+      },
+      "anchor_ayahs": [
+        "37:45 (يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ — çevrelerinde duru kaynaktan doldurulmuş bir kadeh dolaştırılır)",
+        "52:23 (يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ — orada birbirlerine içinde ne boş söz ne de suçlama bulunan bir kadeh sunarlar)",
+        "76:5 (إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا — iyiler karışımı kâfur olan bir kadehten içerler)",
+        "76:17 (وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا — orada kendilerine karışımı zencefil olan bir kadehten içirilir)",
+        "78:34 (وَكَأْسًا دِهَاقًا — ve ağzına kadar dopdolu bir kadeh)"
+      ],
+      "unified_core_mechanism": "`ك-أ-س` kökü Kur'an'daki 6 geçişinin tamamında tekil müennes `كَأْس` ismiyle **'içi saf, berrak ve hoş çeşnili içecekle dolu ikram kadehi'** somut kavramını taşır.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Tek Dal — Tekil Semâî Müennes İsim (`كَأْس` — 6 geçiş): 3 geçişte harf-i cerr ile mecrûr (`37:45`, `56:18`, `76:5`), 3 geçişte mansûb mef'ûl/ma'tûf (`52:23`, `76:17`, `78:34`); zamiri daima müennestir (`مِزَاجُهَا`, `لَا لَغْوٌ فِيهَا`)."
+        ],
+        "irab_notes": "`78:34`'te `وَكَأْسًا دِهَاقًا` ifadesinde `دِهَاقًا` sıfatı masdar/mübalağa karakterli olduğundan müennes `كَأْسًا` kelimesini müenneslik `ة`'si almadan doğrudan nitelemiştir."
+      },
+      "derivatives": [
+        {
+          "form": "كَأْسٍ / كَأْسًا",
+          "pos": "İsim (Semâî Müennes)",
+          "meaning": "İçi saf ve hoş içecekle dolu ikram kadehi",
+          "examples": [
+            "37:45",
+            "52:23",
+            "56:18",
+            "76:5",
+            "76:17",
+            "78:34"
           ]
         }
       ]

@@ -62387,5 +62387,52 @@
       }
     ],
     "context_default": "Dinlendirici uyku, uyku hâlinde görülen rüya, ölümle benzerlik veya Allah'ın uykudan münezzeh oluşu bağlamı"
+  },
+  "ك-أ-س": {
+    "buckwalter": "kAs",
+    "slug": "kas",
+    "concept_name": "Ke's (İçi Saf ve Hoş İçecekle Dolu İkram Kadehi)",
+    "root_latin": "K-E-S",
+    "keywords": [
+      "kes",
+      "kadeh",
+      "ikram kadehi",
+      "dolu kadeh",
+      "saf icecek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ka>os",
+        "ayahs": [
+          "37:45",
+          "52:23",
+          "56:18",
+          "76:5",
+          "76:17",
+          "78:34"
+        ],
+        "label": "Müennes isim (`كَأْسٍ / كَأْسًا` — içinde içecek bulunan dolu ikram kadehi: `37:45` ve `56:18` saf kaynaktan sunulan kadeh, `52:23` içinde boş söz ve suçlama olmayan elden ele dolaşan kadeh, `76:5` kâfur karışımlı, `76:17` zencefil karışımlı, `78:34` ağzına kadar dopdolu kadeh; 6 geçiş)"
+      }
+    ],
+    "irab_default": "İçi saf ve hoş içecekle dolu ikram kadehini bildiren `ك-أ-س` ismi (`كَأْس`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "37:45",
+          "52:23",
+          "56:18"
+        ],
+        "text": "Akıl Bulanıklığı ve Boş Söz İçermeyen Saf İkram Kadehi (`37:45`, `52:23`, `56:18`): Duru kaynaktan (`مَعِين`) doldurulan, baş ağrısı ve sarhoşluk/akıl kaybı vermeyen (`37:47`, `56:19`), elden ele sunulurken ne boş söz (`لَغْو`) ne de suçlama (`تَأْثِيم`) doğuran (`52:23`) ikram kadehi."
+      },
+      {
+        "ayahs": [
+          "76:5",
+          "76:17",
+          "78:34"
+        ],
+        "text": "Kâfur, Zencefil Karışımlı ve Dopdolu Kadeh (`76:5`, `76:17`, `78:34`): İyilere (`ٱلْأَبْرَار`) sunulan kâfur (`76:5`) ve zencefil (`76:17`) çeşnili kadeh ile Sure 78'de ağzına kadar dopdolu (`دِهَاقًا`) olarak anılan ikram kadehi (`78:34`)."
+      }
+    ],
+    "context_default": "İçi saf ve hoş içecekle dolu ikram kadehi bağlamı"
   }
 }
