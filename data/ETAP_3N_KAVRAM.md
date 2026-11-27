@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 41 / 50 Kök (Toplam Mühürlü: 941 Kök | Güncel Kapsam: %96,64)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 42 / 50 Kök (Toplam Mühürlü: 942 Kök | Güncel Kapsam: %96,65)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -48,7 +48,7 @@
 | 39 | Yüksek Frekanslı Çekirdek | 624 | `ع-ن-ق` | `A-N-K` | **9** | 9 | 8:12 | Unuk ve A'nâk (Baş ile Gövdeyi Birleştiren Boyun; Sorumluluk, Boyun Eğme ve Bukağı Odağı) | ✅ **MÜHÜRLÜ** |
 | 40 | Yüksek Frekanslı Çekirdek | 608 | `ع-و-م` | `A-W-M` | **9** | 7 | 2:259 | Âm (Güneşin Yörüngesinde Tam Devrini Tamamladığı Yıl / Bolluk ve Dönem Yılı) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 604 | `ع-ز-م` | `A-Z-M` | **9** | 9 | 2:227 | Azm (Gönlü Kesin Karara Bağlayıp İradeyi Tereddütsüz Düğümlemek) | ✅ **MÜHÜRLÜ** |
-| 42 | Yüksek Frekanslı Çekirdek | 599 | `ب-ق-ر` | `B-K-R` | **9** | 9 | 2:67 | Bakara ve Bakarât (9 geçiş: 2:67, 2:68, 2:69, 2:70, 2:71, 6:144, 6:146, 12:43, 12:46 sığır/inek kıssası, kurallar ve rüya sembolü) | ⏳ *Bekliyor* |
+| 42 | Yüksek Frekanslı Çekirdek | 599 | `ب-ق-ر` | `B-K-R` | **9** | 9 | 2:67 | Bakar ve Bakara (Toprağı Sürüp Yaran Sığır Cinsi / İnek) | ✅ **MÜHÜRLÜ** |
 | 43 | Yüksek Frekanslı Çekirdek | 603 | `ف-ي-ض` | `F-Y-D` | **9** | 8 | 2:198 | Efâda ve Tefîdu (9 geçiş: 2:198, 2:199, 5:83, 7:50, 9:92, 10:61, 24:14, 46:8 taşmak, gözyaşı dökmek, topluca akın etmek ve söze dalmak) | ⏳ *Bekliyor* |
 | 44 | Yüksek Frekanslı Çekirdek | 616 | `ه-م-م` | `H-M-M` | **9** | 8 | 3:122 | Hemme ve Ehemme (9 geçiş: 3:122, 3:154, 4:113, 5:11, 9:13, 9:74, 12:24, 40:5 bir işe niyetlenip yönelmek ve kaygıyla zihni meşgul etmek) | ⏳ *Bekliyor* |
 | 45 | Yüksek Frekanslı Çekirdek | 600 | `ل-و-ن` | `L-W-N` | **9** | 7 | 2:69 | Levn ve Elvân (9 geçiş: 2:69, 16:13, 16:69, 30:22, 35:27, 35:28, 39:21 yaratılıştaki renk, ton ve dış görünüş çeşitliliği) | ⏳ *Bekliyor* |

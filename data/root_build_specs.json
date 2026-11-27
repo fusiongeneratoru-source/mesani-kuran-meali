@@ -63588,5 +63588,76 @@
       }
     ],
     "context_default": "Kesin karar verme ve sarsılmaz irade sağlamlığı bağlamı"
+  },
+  "ب-ق-ر": {
+    "buckwalter": "bqr",
+    "slug": "bqr",
+    "concept_name": "Bakar ve Bakara (Toprağı Sürüp Yaran Sığır Cinsi / İnek)",
+    "root_latin": "B-Q-R",
+    "keywords": [
+      "bakar",
+      "bakara",
+      "sigir",
+      "inek",
+      "yedi inek",
+      "buyukbas hayvan"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "baqarap",
+        "ayahs": [
+          "2:67",
+          "2:68",
+          "2:69",
+          "2:71"
+        ],
+        "label": "Tekil isim (`بَقَرَةً / بَقَرَةٌ` — bir adet sığır/inek: `2:67`–`71` Musa'nın kavmine bir sığır/inek kesmeleri buyrulduğunda ayrıntı sorarak işi yokuşa sürmeleri; 4 geçiş)"
+      },
+      {
+        "lemma": "baqar",
+        "ayahs": [
+          "2:70",
+          "6:144",
+          "6:146"
+        ],
+        "label": "Cins ismi (`ٱلْبَقَرَ / ٱلْبَقَرِ` — sığır cinsi: `2:70` 'sığırlar bize birbirine benzer geldi', `6:144` sekiz eş büyükbaş/küçükbaş içinde deveden iki, sığırdan iki, `6:146` Yahudilere sığır ve koyunların iç yağlarının yasak kılınması; 3 geçiş)"
+      },
+      {
+        "lemma": "baqara`t",
+        "ayahs": [
+          "12:43",
+          "12:46"
+        ],
+        "label": "Düzenli dişil çoğul (`بَقَرَٰتٍ` — inekler: `12:43`, `12:46` Mısır hükümdarının düşünde yedi cılız ineğin yedi semiz ineği yemesi; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Sığır cinsini veya tekil/çoğul ineği bildiren `ب-ق-ر` ismi (`بَقَرَة / بَقَر / بَقَرَات`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:67",
+          "2:68",
+          "2:69",
+          "2:70",
+          "2:71"
+        ],
+        "text": "Bakara Kıssası — Buyruğu Ayrıntılarla Yokuşa Sürme Sınavı (`2:67`–`71`): Musa kavmine basit ve açık biçimde 'bir inek (`بَقَرَةً`) kesin' dediğinde (`2:67`), onların işi ağırdan alıp yaşını (`2:68`), rengini (`2:69`), 'sığırlar birbirine benzedi' (`ٱلْبَقَرَ`, `2:70`) diyerek niteliğini (`2:71`) sormasıyla kendi yükümlülüklerini ağırlaştırmaları."
+      },
+      {
+        "ayahs": [
+          "6:144",
+          "6:146"
+        ],
+        "text": "Hayvan Türleri ve Beslenme Kuralları (`6:144`, `6:146`): Sekiz çift hayvan sayımında deve ile birlikte sığır (`ٱلْبَقَرِ`) cinsinden iki eşin zikredilerek uydurma yasakların çürütülmesi (`6:144`) ve geçmişte Yahudilere sığır ile koyunun iç yağlarının yasaklanmasının açıklanması (`6:146`)."
+      },
+      {
+        "ayahs": [
+          "12:43",
+          "12:46"
+        ],
+        "text": "Mısır Hükümdarının Düşündeki Yedi Semiz ve Yedi Cılız İnek (`12:43`, `12:46`): Yedi bolluk yılı ile yedi kıtlık yılını simgeleyen 'yedi semiz ineği (`سَبْعَ بَقَرَٰتٍ سِمَانٍ`) yiyen yedi cılız inek' düşü ve Yusuf'un bunu iktisadi planlamayla yorumlaması."
+      }
+    ],
+    "context_default": "Sığır cinsi, Bakara kıssası, beslenme kuralları ve Yusuf kıssasındaki inek simgesi bağlamı"
   }
 }
