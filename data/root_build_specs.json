@@ -68715,5 +68715,74 @@
       }
     ],
     "context_default": "Parlak ateş alevi veya kor parçası bağlamı"
+  },
+  "أ-س-ف": {
+    "buckwalter": "Asf",
+    "slug": "Asf",
+    "concept_name": "Esif, Esef ve Âsefû (Yakıcı Keder, Kederle Harmanlanmış Yoğun Öfke ve Öfkelendirmek)",
+    "root_latin": "E-S-F",
+    "keywords": [
+      "esef",
+      "esif",
+      "asefu",
+      "keder",
+      "ofke",
+      "uzuntu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">asif",
+        "ayahs": [
+          "7:150",
+          "20:86"
+        ],
+        "label": "Sıfat-ı müşebbehe, ikinci hâl ve mansûb (`غَضْبَٰنَ أَسِفًا` — Mûsâ'nın kavmine öfkeli ve derin bir hayal kırıklığı/keder içinde dönmesi; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": ">asaf",
+        "ayahs": [
+          "12:84"
+        ],
+        "label": "I. Bab mastar, mütekellim yâ'sının elife çevrilmiş nidâ biçimi (`يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ` — Yûsuf için yakıcı keder feryadı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": ">asaf",
+        "ayahs": [
+          "18:6"
+        ],
+        "label": "I. Bab mastar, mef'ûl-i li-eclih ve mansûb (`بَٰخِعٌ نَّفْسَكَ ... أَسَفًا` — yüz çevirmeleri karşısındaki yakıcı kederden ötürü; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "'aAsafu",
+        "ayahs": [
+          "43:55"
+        ],
+        "label": "IV. Bab 3. çoğul mâzi fiil (`فَلَمَّآ ءَاسَفُونَا` — taşkınlıkta aşırı giderek bizi şiddetle öfkelendirdiklerinde; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Yakıcı kederi veya kederle karışık öfkeyi/öfkelendirmeyi bildiren `أ-س-ف` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:150",
+          "20:86"
+        ],
+        "text": "Mûsâ'nın Kavmine Kederli Öfkeyle Dönüşü (`7:150, 20:86`): Kavminin kendisinden sonra buzağıya yöneldiğini öğrenen Mûsâ'nın hem öfkeli hem de derin bir hayal kırıklığı içinde (`غَضْبَٰنَ أَسِفًا`) dönmesi."
+      },
+      {
+        "ayahs": [
+          "12:84",
+          "18:6"
+        ],
+        "text": "İç Yakan Derin Keder (`12:84, 18:6`): Yâkûb'un Yûsuf'a duyduğu yakıcı keder feryadı (`يَٰٓأَسَفَىٰ`, `12:84`) ve elçinin insanların bu söze güvenmemesi karşısında kendini tüketecek derecede kederlenmesi (`أَسَفًا`, `18:6`)."
+      },
+      {
+        "ayahs": [
+          "43:55"
+        ],
+        "text": "Şiddetli Öfkeyi Taşıran Taşkınlık (`43:55`): Firavun ve çevresinin elçiyi küçümseyip yalanlamada direterek öfkeyi taşırmaları (`ءَاسَفُونَا`) üzerine boğulmayla karşılık görmeleri."
+      }
+    ],
+    "context_default": "Yakıcı keder, kederli öfke veya öfkelendirme bağlamı"
   }
 }
