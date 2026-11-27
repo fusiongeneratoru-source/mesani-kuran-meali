@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 31 / 50 Kök (Toplam Mühürlü: 981 Kök | Güncel Kapsam: %97,01)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 32 / 50 Kök (Toplam Mühürlü: 982 Kök | Güncel Kapsam: %97,01)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -38,7 +38,7 @@
 | 29 | Sure %100 Kilidi | 1349 | `م-ح-ل` | `M-H-L` | **1** | 1 | 13:13 | Mihâl (Tedbiri, Planlı Yakalayışı ve Cezalandırma Gücü Son Derece Çetin Olmak) | ✅ **MÜHÜRLÜ** |
 | 30 | Sure %100 Kilidi | 775 | `ر-ع-ب` | `R-A-B` | **5** | 5 | 3:151 | Ru'b (Kalbi Tümüyle Doldurup İradeyi Çözen Şiddetli Korku, Panik ve Dehşet) | ✅ **MÜHÜRLÜ** |
 | 31 | Sure %100 Kilidi | 887 | `ج-د-ر` | `C-D-R` | **4** | 4 | 9:97 | Cidâr, Cüdür ve Ecder (Örülüp Yükseltilen Koruyucu Duvar ve Bir Duruma En Yatkın/Elverişli Olmak) | ✅ **MÜHÜRLÜ** |
-| 32 | Sure %100 Kilidi | 836 | `خ-ص-ص` | `H-S-S` | **4** | 4 | 2:105 | Hasâsa ve Yahtassu (Sure 59 Haşr kilidi + 4 geçiş: 2:105, 3:74, 8:25, 59:9 başkalarından ayırıp tahsis etmek ve derin darlık/yoksulluk) | ⏳ *Bekliyor* |
+| 32 | Sure %100 Kilidi | 836 | `خ-ص-ص` | `H-S-S` | **4** | 4 | 2:105 | İhtisâs, Hâssa ve Hasâsa (Aralık/Açıklık Açıp Dar Çerçeveye Özgülemek ve Şiddetli Yokluk Gediği) | ✅ **MÜHÜRLÜ** |
 | 33 | Sure %100 Kilidi | 981 | `ح-و-ج` | `H-W-C` | **3** | 3 | 12:68 | Hâce (Sure 59 Haşr kilidi + 3 geçiş: 12:68, 40:80, 59:9 gönülde taşınan arzu, ihtiyaç ve göğüsteki eksik hissi) | ⏳ *Bekliyor* |
 | 34 | Sure %100 Kilidi | 1075 | `د-و-ل` | `D-W-L` | **2** | 2 | 3:140 | Dûle ve Nüdâvilu (Sure 59 Haşr kilidi + 2 geçiş: 3:140, 59:7 günlerin insanlar arasında el değiştirmesi ve servetin yalnızca zenginler arasında dönüp durmaması) | ⏳ *Bekliyor* |
 | 35 | Sure %100 Kilidi | 1093 | `ه-م-ن` | `H-M-N` | **2** | 2 | 5:48 | Müheymin (Sure 59 Haşr kilidi + 2 geçiş: 5:48, 59:23 gözetip koruyan, güven altında tutup denetleyen) | ⏳ *Bekliyor* |

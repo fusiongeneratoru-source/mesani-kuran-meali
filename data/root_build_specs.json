@@ -65585,5 +65585,66 @@
       }
     ],
     "context_default": "Koruyucu duvar, tahkimli siper ve bir duruma yapısal yatkınlık bağlamı"
+  },
+  "خ-ص-ص": {
+    "buckwalter": "xSS",
+    "slug": "xss",
+    "concept_name": "İhtisâs, Hâssa ve Hasâsa (Aralık/Açıklık Açıp Dar Çerçeveye Özgülemek ve Şiddetli Yokluk Gediği)",
+    "root_latin": "H-S-S",
+    "keywords": [
+      "ihtisas",
+      "hassa",
+      "hasasa",
+      "ozgulemek",
+      "dar cerceve",
+      "yokluk gedigi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaxotaS~u",
+        "ayahs": [
+          "2:105",
+          "3:74"
+        ],
+        "label": "VIII. Bab (İfti'âl) muzâri fiil (`يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ` — `بِ` harf-i cerriyle: genelin içinden dilediği kimseyi seçip ayırarak rahmetini özellikle ona tahsis etmek; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "xaA^S~ap",
+        "ayahs": [
+          "8:25"
+        ],
+        "label": "İsm-i fâil / hal (`خَآصَّةً` — yalnızca dar ve belirli bir zümreye özgü olarak; `8:25` toplumsal sarsıntının yalnızca haksızlık edenlere özgü kalmayıp herkesi saracağı uyarısı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "xaSaASap",
+        "ayahs": [
+          "59:9"
+        ],
+        "label": "İsim (`خَصَاصَةٌ` — temel geçimdeki açık gedik, şiddetli darlık ve yoksulluk; `59:9` Medineli ev sahiplerinin kendilerinde şiddetli geçim açığı bulunsa bile göç edenleri kendi ihtiyaçlarının önüne koymaları; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Genelden seçip dar bir çevreye özgülemeyi (`يَخْتَصُّ / خَآصَّةً`) veya geçimdeki açık darlık gediğini (`خَصَاصَةٌ`) bildiren `خ-ص-ص` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:105",
+          "3:74"
+        ],
+        "text": "Allah'ın Rahmetini Dilediğine Özgülemesi (`2:105, 3:74`): Kendilerine kitap verilenlerden gerçeği örtenlerin kıskançlığına karşı, Allah'ın lütuf ve rahmetini hiçbir zümrenin tekeline bırakmayıp dilediğine tahsis etmesi (`يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ`)."
+      },
+      {
+        "ayahs": [
+          "8:25"
+        ],
+        "text": "Yalnızca Haksızlara Özgü Kalmayan Toplumsal Fitne (`8:25`): Topluluk içinde sessiz kalınan bir çürüme ve sınamanın yalnızca haksızlık yapan kesime özgü kalmayacağı (`لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةً`), bütünü saracağı uyarısı."
+      },
+      {
+        "ayahs": [
+          "59:9"
+        ],
+        "text": "Şiddetli Yokluk Gediğine Rağmen Başkasını Öncelemek (`59:9`): Yurdu ve güveni önceden yerleşik kılanların, kendilerinde şiddetli bir yokluk ve geçim gediği bulunsa dahi (`وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ`) göç eden kardeşlerini kendilerine tercih etmeleri."
+      }
+    ],
+    "context_default": "Belirli bir kesime özgüleme (tahsis) veya şiddetli geçim açığı/yokluğu bağlamı"
   }
 }
