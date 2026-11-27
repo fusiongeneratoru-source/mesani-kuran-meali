@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 39 / 50 Kök (Toplam Mühürlü: 989 Kök | Güncel Kapsam: %97,07)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 990 Kök | Güncel Kapsam: %97,08)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -46,7 +46,7 @@
 | 37 | Sure %100 Kilidi | 1057 | `خ-ر-ب` | `H-R-B` | **2** | 2 | 2:114 | Harâb ve İhrâb (Yapıyı Delip Çökertmek, Bayındırlığı Boşaltıp Issız Harabeye Çevirmek) | ✅ **MÜHÜRLÜ** |
 | 38 | Yüksek Frekanslı Çekirdek | 646 | `س-ق-ط` | `S-K-T` | **8** | 8 | 6:59 | Sukût, İskât ve Tüsâkıt (Dayanağı Koparak Yukarıdan Aşağıya Düşmek, Düşürmek ve Pişmanlıkla Çökmek) | ✅ **MÜHÜRLÜ** |
 | 39 | Yüksek Frekanslı Çekirdek | 639 | `س-ل-ف` | `S-L-F` | **8** | 8 | 2:275 | Selef ve İslâf (Önceden Geçip Geride Kalmak, Önden Yapıp Göndermek ve Geçmiş İbret Örneği) | ✅ **MÜHÜRLÜ** |
-| 40 | Yüksek Frekanslı Çekirdek | 632 | `ه-ب-ط` | `H-B-T` | **8** | 8 | 2:36 | Hubût (8 geçiş: 2:36, 2:38, 2:61, 2:74, 7:13, 7:24, 11:48, 20:123 yüksek konumdan aşağıya/yeryüzüne veya bir kente inmek) | ⏳ *Bekliyor* |
+| 40 | Yüksek Frekanslı Çekirdek | 632 | `ه-ب-ط` | `H-B-T` | **8** | 8 | 2:36 | Hubût (Yüksek Bir Konumdan veya Statüden Aşağıdaki Düzlüğe/Yeryüzüne İnmek) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 644 | `ف-ر-ط` | `F-R-T` | **8** | 8 | 6:31 | Furt ve Tefrît (8 geçiş: 6:31, 6:38, 6:61, 12:80, 16:62, 18:28, 20:45, 39:56 sınırı aşıp ölçüsüzlüğe sapmak veya görevde ihmalkâr/eksik bırakmak) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 653 | `ر-ج-ف` | `R-C-F` | **8** | 7 | 7:78 | Recfe, Râcife ve Mürcifûn (8 geçiş: 7:78, 7:91, 7:155, 29:37, 33:60, 73:14, 79:6 şiddetli yer sarsıntısı ve şehirde panik yayan bozguncular) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 642 | `خ-و-ل` | `H-W-L` | **8** | 6 | 4:23 | Hâl, Hâlât ve Havvele (8 geçiş: 4:23, 6:94, 24:61, 33:50, 39:8, 39:49 dayı, teyze ve emanet/nimet olarak bahşetmek — ≥8 geçişli açık kök = 0!) | ⏳ *Bekliyor* |

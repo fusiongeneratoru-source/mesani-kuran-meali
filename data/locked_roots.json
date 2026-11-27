@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (39/50 — Toplam 989 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (40/50 — Toplam 990 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -70943,7 +70943,8 @@
       "mesani_opposite": {
         "roots": [
           "ن-ز-ل (Yukarıdan aşağıya inmek ↔ ص-ع-د yukarıya yükselmek — `35:10`, `6:125`)",
-          "س-ف-ل (Alçalmak ve aşağıya düşmek ↔ ص-ع-د yükseğe ve sarp yokuşa tırmanmak — `74:17`)"
+          "س-ف-ل (Alçalmak ve aşağıya düşmek ↔ ص-ع-د yükseğe ve sarp yokuşa tırmanmak — `74:17`)",
+          "ه-ب-ط (Hubût: yüksek bir konumdan veya tepeden aşağı düzlüğe inmek `ٱهْبِطُوا۟ / يَهْبِطُ` ↔ ص-ع-د aşağıdan yukarıya tırmanıp yükselmek — `2:36, 2:74`)"
         ],
         "bidirectional_test": "Yukarıya yükselmek (`ص-ع-د`) tersine çevrildiğinde aşağıya iniş (`ن-ز-ل`) ve alçalış (`س-ف-ل`) ortaya çıkar."
       },
@@ -75763,7 +75764,8 @@
       "mesani_opposite": {
         "roots": [
           "ن-ز-ل (Gökten aşağı doğru inmek `يَنزِلُ` ↔ göğe doğru kademeli biçimde yükselmek `يَعْرُجُ` — `34:2`, `57:4` doğrudan aynı ayet dikey döngüsü)",
-          "س-و-ي (Dengeli, düzgün ve aksaksız yürüyüş/yapı ↔ ع-ر-ج [الأعرج] bir yana eğilerek aksama — `24:61`, `48:17`)"
+          "س-و-ي (Dengeli, düzgün ve aksaksız yürüyüş/yapı ↔ ع-ر-ج [الأعرج] bir yana eğilerek aksama — `24:61`, `48:17`)",
+          "ه-ب-ط (Hubût: yüksek mertebeden aşağıya iniş `فَٱهْبِطْ مِنْهَا` ↔ ع-ر-ج basamak basamak yukarıya yükselmek — `7:13`)"
         ],
         "bidirectional_test": "`34:2` ve `57:4` ayetlerinde `وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا` ('gökten ineni de göğe çıkanı da bilir') çifti, iniş (`ن-ز-ل`) ile basamaklı çıkış (`ع-ر-ج`) arasındaki tam çift yönlü zıtlığı doğrudan kurar."
       },
@@ -82924,6 +82926,87 @@
           "meaning": "Önden geçip gitmiş kuşak, sonrakiler için öncü ibret örneği",
           "examples": [
             "43:56"
+          ]
+        }
+      ]
+    },
+    "ه-ب-ط": {
+      "root_latin": "H-B-T",
+      "arabic": "ه-ب-ط",
+      "rank": 632,
+      "morphology_and_rasm": {
+        "buckwalter": "hbT",
+        "rasm_skeleton": "هبط (üçlü sâlim iskelet; Kur'an'da tüm 8 geçiş I. bab fiildir: 7 emir `ٱهْبِطْ / ٱهْبِطَا / ٱهْبِطُوا۟` + 1 muzâri `يَهْبِطُ`)",
+        "approx_frequency": "8 geçiş / 8 ayet (`2:36, 2:38, 2:61, 2:74, 7:13, 7:24, 11:48, 20:123`)",
+        "verb_forms_used": [
+          "Form I (`ٱهْبِطُوا۟ / ٱهْبِطْ / ٱهْبِطَا / يَهْبِطُ` — 8x: yüksekten aşağıya inmek)"
+        ],
+        "noun_forms_used": [],
+        "preposition_patterns": [
+          "ٱهْبِطْ مِنْهَا (`2:38, 7:13, 20:123`: `مِنْ` ile inilen yüksek konum)",
+          "ٱهْبِطُوا۟ مِصْرًا (`2:61`: doğrudan hedef mekân mansûb)",
+          "ٱهْبِطْ بِسَلَٰمٍ (`11:48`: `بِ` ile hal/eşlik — esenlikle in)",
+          "يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ (`2:74`: `مِنْ` ile sebep — Allah korkusundan)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı tek somut hareket çekirdeği: 'yüksek bir düzeyden aşağı düzlüğe doğru iniş ve alçalma (`انْحِدَارٌ` — `وَالْهَبُوطُ: الْحُدُورُ`)'.",
+      "ibn_faris_asl": "(هَبَطَ) الْهَاءُ وَالْبَاءُ وَالطَّاءُ: كَلِمَةٌ تَدُلُّ عَلَى انْحِدَارٍ. وَهَبَطَ هُبُوطًا، وَالْهَبُوطُ: الْحُدُورُ. [Mu'cemü Mekâyîsi'l-Luğa, c. 6, كتاب الهاء, باب الهاء والباء وما يثلثهما, هبط maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ه-ب-ط` kökünü tek ve yalın bir somut fiziksel harekete bağlar: `انْحِدَارٌ` (yüksekten aşağı doğru eğimli iniş).",
+        "lisan_al_arab": "İbn Manzûr `هُبُوط`'un 'yüksekten aşağıya inmek (`النُّزُولُ مِنْ عُلُوٍّ إِلَى سُفْلٍ`)' olduğunu; bir şehre veya vadiye inmek için de (`هَبَطَ الْبَلَدَ`, `2:61`) kullanıldığını, ayrıca bir durumdan daha aşağı bir statüye geçişi de ifade ettiğini belirtir.",
+        "ragib_al_isfahani": "Râgıb `هُبُوط`'un 'zorlayıcı bir yönlendirmeyle yüksekten aşağıya iniş' olduğunu; taşın dağdan yuvarlanışı (`2:74`), Nûh'un gemiden düzlüğe inişi (`11:48`), İsrailoğullarının bir şehre inişi (`2:61`) ve Âdem'in yeryüzüne inişinin (`2:36, 2:38`) tamamında bu aşağı geçişin bulunduğunu açıklar.",
+        "verdict": "Sekiz geçişin tamamı **'yüksek bir konumdan, gemiden, dağdan veya mertebeden aşağı düzlüğe/yeryüzüne/bir şehre inmek (`هَبَطَ`)'** somut iniş çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*h-b-ṭ ('aşağıya inmek, alçalmak')",
+        "hebrew": "Doğrudan kesin bir Klasik İbranice eşkökeni tespit edilmemiştir.",
+        "aramaic_syriac": "Doğrudan kesin bir Aramice/Süryanice eşkökeni tespit edilmemiştir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "`11:48`'de Nûh'a 'esenlik ve bereketlerle in (`ٱهْبِطْ بِسَلَٰمٍ`)' denmesi ve `2:61`'de 'bir şehre inin (`ٱهْبِطُوا۟ مِصْرًا`)' buyurulması, `ه-ب-ط` kökünün özünde cezai bir 'kovulma' değil, nötr bir 'bir konumdan başka bir alt/yerleşik konuma iniş ve geçiş' olduğunu metin içinden kanıtlar."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ص-ع-د (Aşağıdan yukarıya tırmanıp yükselmek ↔ ه-ب-ط yüksekten aşağıya inmek `يَهْبِطُ / ٱهْبِطُوا۟` — `2:36, 2:74`)",
+          "ع-ر-ج (Yüksek mertebelere doğru çıkmak ↔ ه-ب-ط yüksek konumdan aşağıya inmek `فَٱهْبِطْ مِنْهَا` — `7:13`)"
+        ],
+        "bidirectional_test": "`ه-ب-ط` yüksekten aşağıya eğimli iniş eksenidir (`7:13, 2:74`); dikey zıt kutbunda aşağıdan yukarıya çıkış (`ص-ع-د` ve `ع-ر-ج`) yer alır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "خ-ر-ج",
+          "س-ق-ط",
+          "ن-ز-ل"
+        ],
+        "analysis": "`7:13`'te `فَٱهْبِطْ مِنْهَا` (`ه-ب-ط`) yüksek mertebeden aşağıya indirilmeyi, aynı ayetteki `فَٱخْرُجْ` (`خ-ر-ج`) ise o çevreden dışarı çıkarılmayı ayırır; `ه-ب-ط` denetimli bir konum geçişi iken `س-ق-ط` (`#988`) dayanağı koparak düşüştür."
+      },
+      "anchor_ayahs": [
+        "2:38 (قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى — oradan hepiniz inin; benden size bir yol göstericilik geldiğinde...)",
+        "2:61 (ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ — bir şehre inin; istediğiniz şeyler orada sizin için vardır)",
+        "2:74 (وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ — kayalardan öylesi vardır ki Allah korkusundan aşağıya yuvarlanıp iner)",
+        "11:48 (قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ — Ey Nûh, bizden bir esenlik ve bereketlerle gemiden in!)"
+      ],
+      "unified_core_mechanism": "`ه-ب-ط` kökü tüm 8 geçişinde I. bab fiil olarak **'yüksek bir konum, mertebe, gemi veya dağdan aşağı düzlüğe/yeryüzüne/bir şehre inmek'** anlamını istikrarlı biçimde taşır.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Emirle Konum İnişi (`ٱهْبِطْ / ٱهْبِطَا / ٱهْبِطُوا۟` — `2:36, 2:38, 2:61, 7:13, 7:24, 11:48, 20:123` [7x]): Tekil (`7:13, 11:48`), ikil (`20:123`) ve çoğul (`2:36, 2:38, 2:61, 7:24`) emir kipleri.",
+          "Dal 2 — Fiziksel İniş / Yuvarlanma (`يَهْبِطُ` — `2:74` [1x]): Kayaların yüksekten aşağıya inişi."
+        ],
+        "irab_notes": "Sekiz geçişin yedisinde emir kipi (`ٱهْبِطْ...`) kullanılır; `هَبَطَ / يَهْبِطُ` ikinci babdandır (orta harfi muzâride kesreli)."
+      },
+      "derivatives": [
+        {
+          "form": "هَبَطَ / يَهْبِطُ / ٱهْبِطْ",
+          "pos": "Fiil (I. Bab)",
+          "meaning": "Yüksek bir konum, statü, gemi veya tepeden aşağı düzlüğe/şehre inmek",
+          "examples": [
+            "2:36",
+            "2:38",
+            "2:61",
+            "2:74",
+            "7:13",
+            "7:24",
+            "11:48",
+            "20:123"
           ]
         }
       ]
