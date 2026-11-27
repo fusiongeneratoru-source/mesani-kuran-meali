@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (13/50 — Toplam 963 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (14/50 — Toplam 964 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -609,7 +609,8 @@
           "و-ك-أ (Tevekkü/İttikâ: ağırlığını bırakıp huzurla yaslanarak dinlenmek ↔ ق-و-م ayağa kalkıp dikilmek ve görev üzere ayakta durmak)",
           "أ-ر-ك (Erâik: gölgelikli sedirlerde huzurla yerleşip yaslanmak ↔ ق-و-م ayakta durup emek, çaba ve hesap bekleyişinde bulunmak)",
           "ض-ج-ع (Medâci': yan üzere uzanıp yatılan yerler ↔ ق-و-م yataktan doğrulup ayakta durmak ve harekete geçmek — `32:16`)",
-          "ن-ك-س (Neks / Tenkîs: yönü ve yaratılış gücünü tersine çevirip baş aşağı etmek ↔ ق-و-م dik ve düzgün biçimde ayakta tutup doğrultmak — `21:65`, `36:68`)"
+          "ن-ك-س (Neks / Tenkîs: yönü ve yaratılış gücünü tersine çevirip baş aşağı etmek ↔ ق-و-م dik ve düzgün biçimde ayakta tutup doğrultmak — `21:65`, `36:68`)",
+          "ح-ق-ف (Hıkf / Ahkâf: eğilip kıvrılan kavisli yapı ↔ ق-و-م bükülmeden dik ve doğru durmak — `46:21`)"
         ],
         "key_ayahs": [
           "4:95",
@@ -15032,7 +15033,8 @@
           "و-ج-ه (W-C-H (wjh) — Çift Yönlü Mesânî Karşılığı: 67:22)",
           "ن-ف-خ (N-F-X (nfx) — Çift Yönlü Mesânî Karşılığı: 18:96, 15:29, 32:9, 38:72)",
           "خ-د-د",
-          "ع-ر-ج (A'rec: yürüyüşte eğilerek aksama ↔ س-و-ي dengeli, düzgün ve tam uyumlu yürüyüş/yaratılış — `24:61`, `48:17`)"
+          "ع-ر-ج (A'rec: yürüyüşte eğilerek aksama ↔ س-و-ي dengeli, düzgün ve tam uyumlu yürüyüş/yaratılış — `24:61`, `48:17`)",
+          "ح-ق-ف (Ahkâf: rüzgarla eğilip bükülmüş, kıvrımlı kum tepeleri ↔ س-و-ي eğriliksiz düz ve pürüzsüz düzlük — `46:21`)"
         ],
         "key_ayahs": [
           "20:106-107 (عِوَجًا وَلَآ أَمْتًا ↔ düz alan)",
@@ -80744,6 +80746,72 @@
           "examples": [
             "7:204",
             "46:29"
+          ]
+        }
+      ]
+    },
+    "ح-ق-ف": {
+      "root_latin": "H-K-F",
+      "arabic": "ح-ق-ف",
+      "rank": 1503,
+      "morphology_and_rasm": {
+        "buckwalter": "Hqf",
+        "rasm_skeleton": "حقف (üçlü sahih iskelet; Kur'an'da yalnızca kırık çoğul yer adı `بِٱلْأَحْقَافِ` olarak 1 geçiş / 1 ayet)",
+        "approx_frequency": "1 geçiş / 1 ayet (`46:21` `بِٱلْأَحْقَافِ` — 46. sureye adını veren kavram)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "أَحْقَاف (`46:21` — `حِقْف` çoğulu: kıvrımlı, eğimli kum tepeleri / Âd yurdu)"
+        ],
+        "preposition_patterns": [
+          "إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ (`46:21`: `بِـ` zarfiyet harf-i cerriyle uyarının yapıldığı yer)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı somut çekirdek: 'bir şeyin eğilmesi, kıvrılması ve kavis yapması' (`مَيَلُ الشَّيْءِ وَعِوَجُهُ` — rüzgarın çöl kumlarını eğip bükerek oluşturduğu hilal biçimli uzun kum tepeleri `حِقْف / أَحْقَاف`).",
+      "ibn_faris_asl": "(حَقَفَ) الْحَاءُ وَالْقَافُ وَالْفَاءُ أَصْلٌ وَاحِدٌ، وَهُوَ يَدُلُّ عَلَى مَيَلِ الشَّيْءِ وَعِوَجِهِ. يُقَالُ: حَقَفَ الرَّمْلُ يَحْقِفُ، وَالْحِقْفُ: الرَّمْلُ الْمُعْوَجُّ، وَجَمْعُهُ أَحْقَافٌ. [Mu'cemü Mekâyîsi'l-Luğa, c. 2, s. 90, كتاب الحاء, باب الحاء والقاف وما يثلثهما, حقف maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ح-ق-ف` kökünü tek berrak fiziksel ölçüye bağlar: 'bir şeyin eğilip kavislenmesi' (`مَيَلُ الشَّيْءِ وَعِوَجُهُ`). Çöl kumunun rüzgarla kavisli tepeler oluşturmasına `حِقْف`, çoğuluna `أَحْقَاف` denmesini doğrudan bu şekilden açıklar.",
+        "lisan_al_arab": "İbn Manzûr `الْحِقْفُ` kelimesinin 'kıvrılarak uzanan büyük kum yığını' (`الْمُعْوَجُّ مِنَ الرَّمْلِ`), `بِٱلْأَحْقَافِ` (`46:21`) ibaresinin ise Arap yarımadasının güneyinde (Umman-Hadramevt arasındaki kum çölünde) Âd kavminin yaşadığı kıvrımlı kumullar diyarı olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `أَحْقَاف`'ın tekilinin `حِقْف` ('uzun ve eğri kum tepesi') olduğunu belirterek bu kum tepelerinin rüzgarın şekillendirdiği jeomorfolojik yapıya işaret ettiğini ve `46:24`–`25`'te Âd'ı helak eden kasırgayla coğrafi bütünlük kurduğunu vurgular.",
+        "verdict": "Tek geçişi (`46:21`) **'rüzgarla eğilip kıvrılmış kum tepeleri ve Âd kavminin yaşadığı kumullar bölgesi (`ٱلْأَحْقَافِ`)'** somut çekirdeğinde tam açıklık taşır."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*ḥ-q-p (Güney/Kuzey Arapçada 'eğilmek, kıvrılmak, kavisli kumul' çekirdeği)",
+        "hebrew": "Doğrudan kesin bir İbranice eşkökeni tespit edilmemiştir.",
+        "aramaic_syriac": "Doğrudan kesin bir Aramice/Süryanice eşkökeni tespit edilmemiştir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Çöl coğrafyasının tipik rüzgar kumulları (`حِقْف / أَحْقَاف`) adı, 46. surenin hem adını hem de Âd kıssasının rüzgarlı ortamını tek somut imgede toplar."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "س-و-ي (Eğriliksiz düz ve pürüzsüz zemin ↔ ح-ق-ف rüzgarla eğilip bükülmüş kıvrımlı kum tepeleri — `46:21`)",
+          "ق-و-م (Doğru ve dik durmak ↔ ح-ق-ف eğilip kavislenmek — `46:21`)"
+        ],
+        "bidirectional_test": "İbn Fâris'in 'eğilme ve kıvrılma' (`مَيَل وَعِوَج`) çekirdeği, düzlük ve denklik (`س-و-ي`) ile diklik ve doğruluk (`ق-و-م`) kavramlarının doğrudan geometrik karşıtıdır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ن-ذ-ر",
+          "خ-ل-و"
+        ],
+        "analysis": "`46:21`'de `أَنذَرَ` (`ن-ذ-ر`) uyarı eylemini, `بِٱلْأَحْقَافِ` uyarının yapıldığı tarihsel-coğrafi sahneyi, `خَلَتِ ٱلنُّذُرُ` (`خ-ل-و`) ise aynı bölgeden önce ve sonra gelip geçen uyarı zincirini konumlandırır."
+      },
+      "anchor_ayahs": [
+        "46:21 (وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ — Âd'ın kardeşini an; hani o, kıvrımlı kum tepeleri diyarında kavmini uyarmıştı)"
+      ],
+      "unified_core_mechanism": "`ح-ق-ف` kökü `46:21`'de kırık çoğul yer adı (`بِٱلْأَحْقَافِ`) olarak **'rüzgarın eğip büktüğü kıvrımlı kum tepeleri bölgesi'** somut coğrafyasını bildirir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Çoğul Yer Adı (`بِٱلْأَحْقَافِ` — `46:21`): `حِقْف` tekilinden `أَفْعَال` kalıbında kırık çoğul; `بِـ` zarfiyet edatıyla mecrûr."
+        ],
+        "irab_notes": "`بِٱلْأَحْقَافِ` mecrûr câr-mecrûr öbeği `أَنذَرَ` fiiline bağlı yer zarfıdır."
+      },
+      "derivatives": [
+        {
+          "form": "أَحْقَاف",
+          "pos": "İsim / Yer Adı (Çoğul)",
+          "meaning": "Rüzgarla eğilip bükülmüş kıvrımlı kum tepeleri; Âd kavminin yurdu",
+          "examples": [
+            "46:21"
           ]
         }
       ]
