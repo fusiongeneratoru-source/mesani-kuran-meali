@@ -63978,5 +63978,77 @@
       }
     ],
     "context_default": "Avucu kapatıp kavrama, çekip toplama, daraltma ve teslim alma bağlamı"
+  },
+  "خ-ي-ل": {
+    "buckwalter": "xyl",
+    "slug": "xyl",
+    "concept_name": "Hayl, Muhtâl ve Tahyîl (Çalımlı Atlar/Süvariler, Kendini Dev Aynasında Görüp Böbürlenen ve Zihinde Yanılsama Kurulması)",
+    "root_latin": "KH-Y-L",
+    "keywords": [
+      "hayl",
+      "muhtal",
+      "tahyil",
+      "atlar",
+      "suvariler",
+      "boburlenen",
+      "yanilsama"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xayol",
+        "ayahs": [
+          "3:14",
+          "8:60",
+          "16:8",
+          "17:64",
+          "59:6"
+        ],
+        "label": "Cins/topluluk ismi (`ٱلْخَيْلِ / وَٱلْخَيْلَ / بِخَيْلِكَ / خَيْلٍ` — çalımlı yürüyüşüyle bilinen atlar ve süvari birlikleri: `3:14` salma/seçkin atlar, `8:60` besili savaş atları, `16:8` binmeniz ve güzellik için yaratılan atlar, `17:64` azgın gücün süvari ve yayaları, `59:6` üzerine at ve deve sürülmeden elde edilen ganimet; 5 geçiş)"
+      },
+      {
+        "lemma": "muxotaAl",
+        "ayahs": [
+          "4:36",
+          "31:18",
+          "57:23"
+        ],
+        "label": "VIII. bab ism-i fâil (`مُخْتَالٍ / مُخْتَالٍ فَخُورٍ` — zihninde kendi büyüklüğünü kurgulayıp çalım satarak yürüyen kibirli: `4:36`, `31:18`, `57:23` her üçünde de doğrudan `فَخُورٍ` [övünen] ile eşleşir ve Allah'ın böyle kimseleri sevmediği bildirilir; 3 geçiş)"
+      },
+      {
+        "lemma": "yuxay~alu",
+        "ayahs": [
+          "20:66"
+        ],
+        "label": "II. bab edilgen muzâri fiil (`يُخَيَّلُ إِلَيْهِ` — zihinde/gözde öyleymiş gibi yanılsama ve suret canlandırılması: `20:66` onların göz boyamaları yüzünden ipleri ve değnekleri Musa'nın gözüne sanki hızla koşuyormuş gibi göründü/canlandırıldı; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Çalımlı atları (`خَيْل`), kendini büyük görüp çalım atan kibirliyi (`مُخْتَال`) veya gözde yanılsama canlandırılmasını (`يُخَيَّلُ`) bildiren `خ-ي-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:14",
+          "8:60",
+          "16:8",
+          "17:64",
+          "59:6"
+        ],
+        "text": "Atlar ve Süvari Gücü (`3:14`, `8:60`, `16:8`, `17:64`, `59:6`): İnsanlara süslü gösterilen seçkin atlar (`3:14`), caydırıcı savunma hazırlığında beslenen savaş atları (`رِّبَاطِ ٱلْخَيْلِ`, `8:60`), binek ve estetik güzellik için yaratılan atlar (`16:8`), baştan çıkarıcı çağrının 'süvarileri ve yayaları' (`بِخَيْلِكَ وَرَجِلِكَ`, `17:64`) ve savaşta at sürülmeden elde edilen fey (`59:6`)."
+      },
+      {
+        "ayahs": [
+          "4:36",
+          "31:18",
+          "57:23"
+        ],
+        "text": "Kuruntulu Kibirle Çalım Satan Böbürlenici (`4:36`, `31:18`, `57:23`): Üç ayrı surede aynı kalıpla (`إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ / مَن كَانَ مُخْتَالًا فَخُورًا`) yeryüzünde çalım satarak böbürlenen, elindekilerle şımaran kibirli kişiliğin reddedilmesi."
+      },
+      {
+        "ayahs": [
+          "20:66"
+        ],
+        "text": "Göz Boyama ile Üretilen Algı Yanılsaması (`20:66`): Firavun'un göz boyayıcılarının yere attığı iplerin ve değneklerin gerçekte değişmeden, yalnızca görsel yanılsamayla Musa'ya hızla sürünüp koşuyormuş gibi görünmesi (`يُخَيَّلُ إِلَيْهِ`)."
+      }
+    ],
+    "context_default": "Çalımlı atlar, kuruntulu kibirle böbürlenme ve görsel yanılsama bağlamı"
   }
 }
