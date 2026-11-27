@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3N (+5 Sure %100 Tam Kilidi [Sure 32, 44, 78, 76, 70 -> 55 Tam Kilitli Sure] ve Kalan Tüm 9 Geçişli Çekirdek Kökler + 2 Stratejik Kök — 50 Kök -> 950 Kök)",
   "target_count": 50,
-  "locked_count": 25,
+  "locked_count": 26,
   "total_tokens_in_package": 231,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 96.52,
+  "current_coverage_pct": 96.53,
   "target_coverage_pct": 96.78,
   "etap_3n_roots": [
     {
@@ -466,8 +466,8 @@
       "frequency": 3,
       "unique_ayahs": 3,
       "rationale": "Silsile ve Selâsil (Sure 76 İnsân kilidi + 3 geçiş: 40:71, 69:32, 76:4 halkaları birbirine kenetli uzun zincirler)",
-      "concept_label": "Analiz Bekliyor (silosilap)",
-      "is_locked": false,
+      "concept_label": "Silsile ve Selâsil (Halkaları Birbirine Kenetli, Hareketi Bağlayan Uzun Zincirler)",
+      "is_locked": true,
       "sample_ayah": "40:71",
       "top_lemmas": [
         "silosilap"
