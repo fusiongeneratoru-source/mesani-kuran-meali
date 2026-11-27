@@ -66226,5 +66226,67 @@
       }
     ],
     "context_default": "Fiziksel/kozmik şiddetli sarsıntı veya toplumsal panik/söylenti çalkantısı bağlamı"
+  },
+  "خ-و-ل": {
+    "buckwalter": "xwl",
+    "slug": "xwl",
+    "concept_name": "Tahvîl (Havvele), Hâl ve Hâlât (Emanet/Nimet Olarak Tasarrufuna Bahşetmek ve Anne Tarafından Akrabalık: Dayı/Teyze)",
+    "root_latin": "H-W-L",
+    "keywords": [
+      "havvele",
+      "hal",
+      "halat",
+      "dayi",
+      "teyze",
+      "emanet bahsetmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xaw~ala",
+        "ayahs": [
+          "6:94",
+          "39:8",
+          "39:49"
+        ],
+        "label": "II. Bab (Tef'îl) mâzî fiil (`خَوَّلْنَٰكُمْ / خَوَّلَهُۥ نِعْمَةً / خَوَّلْنَٰهُ نِعْمَةً` — bir kimsenin gözetim ve kullanımına karşılıksız nimet/emanet bahşetmek: `6:94` hesap günü bahşedilen her şeyin arkada bırakılıp tek başına gelinmesi; `39:8, 39:49` sıkıntıdan sonra nimet bahşedilince insanın nankörleşip bunu kendi bilgisine bağlaması; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "xaAl",
+        "ayahs": [
+          "24:61",
+          "33:50"
+        ],
+        "label": "Tekil ve çoğul akrabalık ismi (`أَخْوَٰلِكُمْ / خَالِكَ` — anne tarafından erkek kardeş: dayı ve dayılar; `24:61` evlerinde serbestçe yemek yenebilecek yakın akrabalar; `33:50` dayı kızları; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "xa`la`t",
+        "ayahs": [
+          "4:23",
+          "24:61",
+          "33:50"
+        ],
+        "label": "Çoğul akrabalık ismi (`خَٰلَٰتُكُمْ / خَٰلَٰتِكُمْ / خَٰلَٰتِكَ` — anne tarafından kız kardeşler: teyzeler; `4:23` evlenilmesi haram kılınan yakın akrabalar; `24:61` evlerinde yemek yenebilecek akrabalar; `33:50` teyze kızları; 3 geçiş / 3 ayet)"
+      }
+    ],
+    "irab_default": "Nimet/emanet bahşetmeyi (`خَوَّلَ`) veya anne tarafından koruyucu yakın akrabaları (`خَال / خَالَات` — dayı/teyze) bildiren `خ-و-ل` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:94",
+          "39:8",
+          "39:49"
+        ],
+        "text": "Allah'ın Nimet ve İmkân Bahşetmesi ve İnsanın Sınanması (`6:94, 39:8, 39:49`): Hesap gününde herkesin ilk yaratıldığı gibi tek başına gelip kendisine bahşedilen her şeyi (`مَّا خَوَّلْنَٰكُمْ`, `6:94`) sırtının gerisinde bırakması; insanın sıkıntıda Rabbine yalvarıp ardından kendisine bir nimet bahşedildiğinde (`خَوَّلَهُۥ / خَوَّلْنَٰهُ نِعْمَةً`, `39:8, 39:49`) bunu ya unutup eş koşması ya da 'kendi bilgimle elde ettim' demesi."
+      },
+      {
+        "ayahs": [
+          "4:23",
+          "24:61",
+          "33:50"
+        ],
+        "text": "Anne Tarafı Aile Hukuku: Dayılar ve Teyzeler (`4:23, 24:61, 33:50`): Teyzelerle evlilik yasağı (`وَخَٰلَٰتُكُمْ`, `4:23`), dayı ve teyze evlerinde güvenle yemek yeme serbestliği (`بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ`, `24:61`) ve hicret eden dayı ve teyze kızlarıyla evlilik helalliği (`بَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ`, `33:50`)."
+      }
+    ],
+    "context_default": "Nimet/emanet bahşedilmesi (tahvîl) veya anne tarafı akrabalık hukuku (dayı/teyze) bağlamı"
   }
 }

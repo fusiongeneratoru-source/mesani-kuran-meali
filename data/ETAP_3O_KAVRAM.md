@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 42 / 50 Kök (Toplam Mühürlü: 992 Kök | Güncel Kapsam: %97,12)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 43 / 50 Kök (Toplam Mühürlü: 993 Kök | Güncel Kapsam: %97,13)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -49,7 +49,7 @@
 | 40 | Yüksek Frekanslı Çekirdek | 632 | `ه-ب-ط` | `H-B-T` | **8** | 8 | 2:36 | Hubût (Yüksek Bir Konumdan veya Statüden Aşağıdaki Düzlüğe/Yeryüzüne İnmek) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 644 | `ف-ر-ط` | `F-R-T` | **8** | 8 | 6:31 | Furt, Tefrît ve Müfratûn (Ölçü ve Yerinden Saptırıp Aşırılığa Taşmak, İhmal Edip Eksik Bırakmak veya Önden İtilmek) | ✅ **MÜHÜRLÜ** |
 | 42 | Yüksek Frekanslı Çekirdek | 653 | `ر-ج-ف` | `R-C-F` | **8** | 7 | 7:78 | Recfe, Râcife ve Mürcifûn (Şiddetli Yer/Kozmik Sarsıntı ve Şehirde Yalan Haberle Panik/Çalkantı Yayanlar) | ✅ **MÜHÜRLÜ** |
-| 43 | Yüksek Frekanslı Çekirdek | 642 | `خ-و-ل` | `H-W-L` | **8** | 6 | 4:23 | Hâl, Hâlât ve Havvele (8 geçiş: 4:23, 6:94, 24:61, 33:50, 39:8, 39:49 dayı, teyze ve emanet/nimet olarak bahşetmek — ≥8 geçişli açık kök = 0!) | ⏳ *Bekliyor* |
+| 43 | Yüksek Frekanslı Çekirdek | 642 | `خ-و-ل` | `H-W-L` | **8** | 6 | 4:23 | Tahvîl (Havvele), Hâl ve Hâlât (Emanet/Nimet Olarak Tasarrufuna Bahşetmek ve Anne Tarafından Akrabalık: Dayı/Teyze) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 669 | `ن-ص-ف` | `N-S-F` | **7** | 7 | 2:237 | Nısf (7 geçiş: 2:237, 4:11, 4:12, 4:25, 4:176, 73:3, 73:20 bir bütünün tam ikiye bölünmüş yarısı — miras, mehir ve gece payı) | ⏳ *Bekliyor* |
 | 45 | Yüksek Frekanslı Çekirdek | 673 | `ح-ظ-ظ` | `H-Z-Z` | **7** | 7 | 3:176 | Hazz (7 geçiş: 3:176, 4:11, 4:176, 5:13, 5:14, 28:79, 41:35 bir kimseye düşen belirli pay, hisse ve büyük nasip) | ⏳ *Bekliyor* |
 | 46 | Yüksek Frekanslı Çekirdek | 660 | `ع-م-ه` | `A-M-H` | **7** | 7 | 2:15 | Ya'mehûn (7 geçiş: 2:15, 6:110, 7:186, 10:11, 15:72, 23:75, 27:4 yön duygusunu yitirip şaşkınlık içinde bocalamak) | ⏳ *Bekliyor* |
