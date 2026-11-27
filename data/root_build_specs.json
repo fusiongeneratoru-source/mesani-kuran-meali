@@ -67192,5 +67192,70 @@
       }
     ],
     "context_default": "Fiziksel veya hakikati dile getirmeye kapalı iradî dilsizlik bağlamı"
+  },
+  "د-أ-ب": {
+    "buckwalter": "dAb",
+    "slug": "dab",
+    "concept_name": "De'b, Deeb ve Dâibeyn (Aksatmadan Sürekli Sürdürülen Gidişat, Düzenli Yörünge Akışı ve Azimli Çalışma)",
+    "root_latin": "D-E-B",
+    "keywords": [
+      "deb",
+      "deeb",
+      "daibeyn",
+      "sureklilik",
+      "duzenli akis",
+      "aliskanlik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "da>ob",
+        "ayahs": [
+          "3:11",
+          "8:52",
+          "8:54",
+          "40:31"
+        ],
+        "label": "Mastar / isim (`كَدَأْبِ ءَالِ فِرْعَوْنَ / مِثْلَ دَأْبِ قَوْمِ نُوحٍ` — bir topluluğun ısrarla sürdürdüğü yerleşik tutum, alışılmış gidişat ve onun kaçınılmaz sonucu; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "da>ab",
+        "ayahs": [
+          "12:47"
+        ],
+        "label": "Mastar / hal (`تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا` — ara vermeden, her zamanki düzenli ve azimli çalışma temposuyla; Yusuf'un yedi yıl kesintisiz tarım planı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "daA^}ibayon",
+        "ayahs": [
+          "14:33"
+        ],
+        "label": "İsm-i fâil ikil (`وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ` — yörüngelerinde bir an bile aksatmadan, durmaksızın ve düzenli biçimde akıp giden güneş ve ay; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Ara vermeden sürekli sürdürülen düzenli gidişatı, çalışma temposunu veya yörünge akışını (`دَأْب / دَأَب / دَآئِبَيْنِ`) bildiren `د-أ-ب` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:11",
+          "8:52",
+          "8:54",
+          "40:31"
+        ],
+        "text": "Geçmiş Toplulukların Alışılmış Gidişatı ve Akıbeti (`3:11, 8:52, 8:54, 40:31`): Ayetleri yalanlayanların tutum ve akıbetlerinin, tıpkı Firavun hanedanının ve onlardan öncekilerin (`كَدَأْبِ ءَالِ فِرْعَوْنَ`, `3:11, 8:52, 8:54`) yahut Nûh, Âd ve Semûd kavimlerinin alışılmış gidişatı ve sonu (`مِثْلَ دَأْبِ قَوْمِ نُوحٍ`, `40:31`) gibi olması."
+      },
+      {
+        "ayahs": [
+          "12:47"
+        ],
+        "text": "Yedi Yıl Kesintisiz ve Azimli Ekim Planı (`12:47`): Yusuf'un kıtlığa hazırlık olarak 'yedi yıl ara vermeden, alışılmış azimli tempoyla ekin ekersiniz' (`تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا`) önerisi."
+      },
+      {
+        "ayahs": [
+          "14:33"
+        ],
+        "text": "Güneş ve Ayın Aksaksız Sürekli Yörünge Akışı (`14:33`): Allah'ın güneş ve ayı kendi yörüngelerinde durmaksızın, hiç aksatmadan akıp gider halde (`وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ`) insanın yararına amade kılması."
+      }
+    ],
+    "context_default": "Kesintisiz düzenli akış, azimli çalışma temposu veya yerleşik toplumsal gidişat bağlamı"
   }
 }
