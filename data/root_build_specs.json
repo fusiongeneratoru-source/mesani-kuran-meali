@@ -66077,5 +66077,80 @@
       }
     ],
     "context_default": "Yüksek konum, gemi, statü veya dağdan aşağı düzlüğe/şehre/yeryüzüne iniş bağlamı"
+  },
+  "ف-ر-ط": {
+    "buckwalter": "frT",
+    "slug": "frt_farat",
+    "concept_name": "Furt, Tefrît ve Müfratûn (Ölçü ve Yerinden Saptırıp Aşırılığa Taşmak, İhmal Edip Eksik Bırakmak veya Önden İtilmek)",
+    "root_latin": "F-R-T",
+    "keywords": [
+      "furt",
+      "tefrit",
+      "mufratun",
+      "ihmal etmek",
+      "olcusuzluk",
+      "onden itilmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "far~aT",
+        "ayahs": [
+          "6:31",
+          "6:38",
+          "6:61",
+          "12:80",
+          "39:56"
+        ],
+        "label": "II. Bab (Tef'îl) fiil (`فَرَّطْنَا / لَا يُفَرِّطُونَ / فَرَّطتُمْ / فَرَّطتُ` — görevi veya hakkı yerinden uzaklaştırıp ihmal etmek, eksik bırakmak: `6:31, 39:56` zamanı ve Allah'ın hakkını ihmal edenlerin pişmanlığı; `6:38` Kitap'ta hiçbir şeyin eksik bırakılmadığı; `6:61` ölüm elçilerinin görevde kusur etmediği; `12:80` kardeşlerin Yusuf hakkında daha önce yaptıkları ihmal; 5 geçiş / 5 ayet)"
+      },
+      {
+        "lemma": "yaforuTa",
+        "ayahs": [
+          "20:45"
+        ],
+        "label": "I. Bab (Sülâsî) muzâri fiil (`أَن يَفْرُطَ عَلَيْنَآ` — `عَلَىٰ` ile: ölçüyü aşıp aceleyle üstümüze çullanmak, şiddetle taşkınlık etmek; Musa ve Harun'un Firavun karşısındaki kaygısı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "furuT",
+        "ayahs": [
+          "18:28"
+        ],
+        "label": "İsim (`وَكَانَ أَمْرُهُۥ فُرُطًا` — dengeden çıkmış, ölçüsüzlüğe ve savrukluğa sapmış iş/tutum; kalbi anmaktan uzak düşüp hevasına uyan kimsenin işi; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "m~uforaTuwn",
+        "ayahs": [
+          "16:62"
+        ],
+        "label": "IV. Bab edilgen ortaç (`وَأَنَّهُم مُّفْرَطُونَ` — önden aceleyle ateşe sürülenler veya geride unutulup bırakılanlar; dilleri yalan uydurup en güzel sonucun kendilerinin olduğunu iddia edenlerin akıbeti; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Ölçü ve görevden uzaklaşıp ihmal etmeyi (`فَرَّطَ`), sınırı aşıp saldırmayı (`يَفْرُطَ`), savruk ölçüsüzlüğü (`فُرُطًا`) veya önden sürülmeyi (`مُّفْرَطُونَ`) bildiren `ف-ر-ط` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:38",
+          "6:61"
+        ],
+        "text": "İlahi Kayıt ve Görevde Sıfır İhmal (`6:38, 6:61`): Kitap'ta hiçbir şeyin eksik ve ihmal edilmiş bırakılmaması (`مَّا فَرَّطْنَا فِى ٱلْكِتَٰبِ مِن شَىْءٍ`, `6:38`) ile ölüm anı geldiğinde görevli elçilerin canları alırken asla kusur ve ihmal göstermemeleri (`وَهُمْ لَا يُفَرِّطُونَ`, `6:61`)."
+      },
+      {
+        "ayahs": [
+          "6:31",
+          "12:80",
+          "39:56"
+        ],
+        "text": "İnsanın İhmali ve Geç Gelen Pişmanlık (`6:31, 12:80, 39:56`): O saat ansızın gelince 'orada yaptığımız ihmale yazıklar olsun' (`عَلَىٰ مَا فَرَّطْنَا فِيهَا`, `6:31`) ve 'Allah'a yakınlık/hakkı konusunda yaptığım ihmale yazıklar olsun' (`عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ`, `39:56`) feryadı ile büyük kardeşin Yusuf hakkındaki geçmiş ihmali (`مَا فَرَّطتُمْ فِى يُوسُفَ`, `12:80`) hatırlatması."
+      },
+      {
+        "ayahs": [
+          "16:62",
+          "18:28",
+          "20:45"
+        ],
+        "text": "Ölçüyü Aşmak, Savrukluk ve Önden İtilmek (`16:62, 18:28, 20:45`): Firavun'un ölçüsüzce üstlerine çullanmasından kaygılanılması (`أَن يَفْرُطَ عَلَيْنَآ`, `20:45`), hevasına uyan kimsenin bütün işinin dengeden çıkıp savruklaşması (`وَكَانَ أَمْرُهُۥ فُرُطًا`, `18:28`) ve Allah'a beğenmediklerini yakıştırıp yalan söyleyenlerin ateşe önden sürülmeleri/terk edilmeleri (`مُّفْرَطُونَ`, `16:62`)."
+      }
+    ],
+    "context_default": "Görevde ihmal/eksik bırakma, ölçüyü aşıp taşma, savrukluk veya önden sürülme bağlamı"
   }
 }

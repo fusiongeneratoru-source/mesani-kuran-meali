@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 990,
+    "total_locked": 991,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2896,7 +2896,8 @@
         "ك-ن-د (K-N-D (knd) — Çift Yönlü Mesânî Karşılığı: `100:6` [لَكَنُودٌ] — verilen iyiliğe karşılık üretmeden bağı kesmek `كَنُود` ↔ yükümlülüğünü eksiksiz yerine getirip tam karşılık vermek `أَوْفَى`)",
         "ل-ي-ت (Lâte-Yelîtu: hak edilen paydan bir parça kırpıp eksiltmek ↔ و-ف-ي hakkı kılı kılına tam ve eksiksiz ödemek)",
         "و-ت-ر (Vetere/Yetire: hakkı ve emeği eksiltip kırpmak [47:35] ↔ و-ف-ي hakkı eksiksiz ve tastamam ödemek)",
-        "ط-ف-ف (Tatfîf: ölçü ve tartıda üstten ufak paylar kırpıp eksik vermek ↔ و-ف-ي ölçüyü ve hakkı eksiksiz tam olarak doldurup teslim etmek — `83:1-2`)"
+        "ط-ف-ف (Tatfîf: ölçü ve tartıda üstten ufak paylar kırpıp eksik vermek ↔ و-ف-ي ölçüyü ve hakkı eksiksiz tam olarak doldurup teslim etmek — `83:1-2`)",
+        "ف-ر-ط (Tefrît: eksik bırakıp aksatmak `لَا يُفَرِّطُونَ` ↔ و-ف-ي eksiksiz tam olarak yerine getirmek `تَوَفَّتْهُ` — `6:61`)"
       ]
     },
     "ج-ر-م": {
@@ -4606,7 +4607,8 @@
         "س-ه-و (Bir varlığı, emaneti, kaydı veya sınırı kaybolmaktan, aşınmaktan ve bozulmaktan uyanık bir ↔ Zihnin ve kalbin asıl sorumluluktan kayıp uzaklaşması, ona karşı dalgın, duyarsız ve umurs: 23:2, 23:9, 51:11)",
         "ض-ي-ع [أَضَاعُوا۟ ٱلصَّلَوٰةَ ... هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ / وَلَا يُضِيعُ أَجْرَ] (Emaneti ve Emeği İhmal Edip Boşa Çıkarmak ↔ Titizlikle Koruyup Gözetmek: 2:143, 19:59, 23:9)",
         "ن-ب-ذ (N-B-Z (nb*) — Çift Yönlü Mesânî Karşılığı: 2:101, 3:187)",
-        "ع-ق-ر (A-K-R (Eqr) — Çift Yönlü Mesânî Karşılığı: `7:73-77`, `91:13-14` — emanet sınama işaretini gözetip korumak `حِفْظ` ↔ ayak sinirini keserek vahşice telef etmek `فَعَقَرُوهَا`)"
+        "ع-ق-ر (A-K-R (Eqr) — Çift Yönlü Mesânî Karşılığı: `7:73-77`, `91:13-14` — emanet sınama işaretini gözetip korumak `حِفْظ` ↔ ayak sinirini keserek vahşice telef etmek `فَعَقَرُوهَا`)",
+        "ف-ر-ط (Tefrît: görevi ve hakkı yerinden uzaklaştırıp ihmal etmek `فَرَّطَ` ↔ ح-ف-ظ eksiksiz gözetip korumak `حَفَظَةً` — `6:61`)"
       ]
     },
     "ل-و-ح": {
@@ -12213,6 +12215,15 @@
       "opposites": [
         "ص-ع-د (Aşağıdan yukarıya tırmanıp yükselmek ↔ ه-ب-ط yüksekten aşağıya inmek `يَهْبِطُ / ٱهْبِطُوا۟` — `2:36, 2:74`)",
         "ع-ر-ج (Yüksek mertebelere doğru çıkmak ↔ ه-ب-ط yüksek konumdan aşağıya inmek `فَٱهْبِطْ مِنْهَا` — `7:13`)"
+      ]
+    },
+    "ف-ر-ط": {
+      "latin": "F-R-T",
+      "core": "`ف-ر-ط` kökü 'denge noktasından sapma' mekanizmasını bab ayrımıyla keskinleştirir: II. bab `فَرَّطَ` (5x) daima geride kalıp ihmal etmek/eksik bırakmak, I. bab `يَفْرُطَ` (`20:45`) ve `فُرُطًا` (`18:28`) ölçüden taşmak, IV. bab edilgen `مُّفْرَطُونَ` (`16:62`) ise ateşe önden sürülüp terk edilmek anlamındadır.",
+      "physical": "İbn Fâris'in tanımladığı somut çekirdek: 'bir şeyi dengeli yerinden uzaklaştırıp kenara itmek (`إِزَالَةُ شَيْءٍ مِنْ مَكَانِهِ وَتَنْحِيَتُهُ عَنْهُ`)' — ölçünün gerisinde kalınca 'ihmal/eksik bırakma (`تَفْرِيط`)', ölçünün ilerisine taşınca 'aşırılık ve aceleci taşkınlık (`فَرَطَ / فُرُط`)', önden gönderilince 'önden sürülme (`مُفْرَطُونَ`)' doğar.",
+      "opposites": [
+        "ح-ف-ظ (Eksiksiz koruyup gözetmek `حَفَظَةً` ↔ ف-ر-ط ihmal edip aksatmak `لَا يُفَرِّطُونَ` — `6:61`)",
+        "و-ف-ي (Görevini tam ve eksiksiz yerine getirmek `تَوَفَّتْهُ` ↔ ف-ر-ط eksik bırakmak — `6:61`)"
       ]
     }
   }
