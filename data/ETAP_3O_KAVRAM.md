@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 45 / 50 Kök (Toplam Mühürlü: 995 Kök | Güncel Kapsam: %97,16)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 46 / 50 Kök (Toplam Mühürlü: 996 Kök | Güncel Kapsam: %97,17)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -52,7 +52,7 @@
 | 43 | Yüksek Frekanslı Çekirdek | 642 | `خ-و-ل` | `H-W-L` | **8** | 6 | 4:23 | Tahvîl (Havvele), Hâl ve Hâlât (Emanet/Nimet Olarak Tasarrufuna Bahşetmek ve Anne Tarafından Akrabalık: Dayı/Teyze) | ✅ **MÜHÜRLÜ** |
 | 44 | Yüksek Frekanslı Çekirdek | 669 | `ن-ص-ف` | `N-S-F` | **7** | 7 | 2:237 | Nısf (Bir Bütünü Eşit İkiye Bölen Tam Yarı — Miras, Mehir, Ceza ve Gece Ölçüsü) | ✅ **MÜHÜRLÜ** |
 | 45 | Yüksek Frekanslı Çekirdek | 673 | `ح-ظ-ظ` | `H-Z-Z` | **7** | 7 | 3:176 | Hazz (Bir Kimseye Düşen Belirli Pay, Hukuki Hisse, Öğüt Payı ve Büyük Ahlaki Nasip) | ✅ **MÜHÜRLÜ** |
-| 46 | Yüksek Frekanslı Çekirdek | 660 | `ع-م-ه` | `A-M-H` | **7** | 7 | 2:15 | Ya'mehûn (7 geçiş: 2:15, 6:110, 7:186, 10:11, 15:72, 23:75, 27:4 yön duygusunu yitirip şaşkınlık içinde bocalamak) | ⏳ *Bekliyor* |
+| 46 | Yüksek Frekanslı Çekirdek | 660 | `ع-م-ه` | `A-M-H` | **7** | 7 | 2:15 | Ameh / Ya'mehûn (Yön ve Basiret Duygusunu Yitirip Azgınlık/Sarhoşluk İçinde Şaşkınca Bocalamak) | ✅ **MÜHÜRLÜ** |
 | 47 | Yüksek Frekanslı Çekirdek | 661 | `خ-ط-ف` | `H-T-F` | **7** | 6 | 2:20 | Hatf ve Tehattuf (7 geçiş: 2:20, 8:26, 22:31, 28:57, 29:67, 37:10 aniden hızla kapıp götürmek ve şimşeğin gözleri kapıvermesi) | ⏳ *Bekliyor* |
 | 48 | Yüksek Frekanslı Çekirdek | 687 | `م-و-ج` | `M-W-C` | **7** | 6 | 10:22 | Mevc ve Yemûc (7 geçiş: 10:22, 11:42, 11:43, 18:99, 24:40, 31:32 kabarıp çalkalanan deniz dalgaları ve kalabalıkların dalga dalga birbirine karışması) | ⏳ *Bekliyor* |
 | 49 | Yüksek Frekanslı Çekirdek | 670 | `غ-ر-ف` | `G-R-F` | **7** | 5 | 2:249 | Gurfe ve İğterefe (7 geçiş: 2:249, 25:75, 29:58, 34:37, 39:20 avuçla bir yudum su almak ve yüksek üst kat odaları/köşkler) | ⏳ *Bekliyor* |
