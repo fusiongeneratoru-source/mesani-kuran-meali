@@ -62495,5 +62495,61 @@
       }
     ],
     "context_default": "Çıkıntılı ayak bileği kemiği, yükselen küp biçimli Kâbe ve olgunlaşıp serpilmiş eşler bağlamı"
+  },
+  "س-ر-ب": {
+    "buckwalter": "srb",
+    "slug": "srb",
+    "concept_name": "Serâb, Serab ve Sârib (Geniş Alanda Akıp Yol Almak, Suda Açılan Geçit ve Çöldeki Yanıltıcı Serap)",
+    "root_latin": "S-R-B",
+    "keywords": [
+      "serab",
+      "sarib",
+      "serap",
+      "yol almak",
+      "suda gecit",
+      "yaniltici goruntu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "saraAb",
+        "ayahs": [
+          "24:39",
+          "78:20"
+        ],
+        "label": "İsim (`كَسَرَابٍۭ / سَرَابًا` — düz çöl yüzeyinde su gibi parlayıp akıyormuş izlenimi veren yanıltıcı serap: `24:39` gerçeği örtenlerin eylemlerinin susamışa su gibi görünen boş bir seraba benzetilmesi, `78:20` dağların yürütülüp seraba/boş görüntüye dönüşmesi; 2 geçiş)"
+      },
+      {
+        "lemma": "saArib",
+        "ayahs": [
+          "13:10"
+        ],
+        "label": "I. bab ism-i fâil (`وَمَنْ هُوَ مُسْتَخْفٍۭ بِٱلَّيْلِ وَسَارِبٌۢ بِٱلنَّهَارِ` — gece gizlenen ile gündüzün açık alanda rahatça yürüyüp yol alan; `13:10`; 1 geçiş)"
+      },
+      {
+        "lemma": "sarab",
+        "ayahs": [
+          "18:61"
+        ],
+        "label": "Masdar/isim (`فَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ سَرَبًا` — Musa'nın yolculuğunda balığın denizde süzülüp kendine yol/geçit açarak akıp gitmesi; `18:61`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Geniş alanda yol almayı (`سَارِب`), suda süzülüp geçit açmayı (`سَرَب`) veya su gibi görünen serabı (`سَرَاب`) bildiren `س-ر-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "24:39",
+          "78:20"
+        ],
+        "text": "Yanıltıcı Serap ve Dağların Seraba Dönüşmesi (`24:39`, `78:20`): Gerçeği örtenlerin boşa giden eylemlerinin, susamışın uzaktan su sandığı ama yanına varınca hiçbir şey bulamadığı çöl serabına (`سَرَاب`) benzetilmesi (`24:39`) ve sarsıntı gününde devasa dağların yürütülüp uçucu bir seraba (`سَرَابًا`) çevrilmesi (`78:20`)."
+      },
+      {
+        "ayahs": [
+          "13:10",
+          "18:61"
+        ],
+        "text": "Açık Alanda Yol Alma ve Denizde Açılan Geçit (`13:10`, `18:61`): Allah'ın ilmi katında gece karanlığında gizlenenle gündüz açıkça dolaşıp yol alanın (`سَارِبٌۢ بِٱلنَّهَارِ`) eşit olması (`13:10`) ve unutulan balığın denizde süzülüp kendine bir yol/geçit (`سَرَبًا`) açarak akıp gitmesi (`18:61`)."
+      }
+    ],
+    "context_default": "Geniş alanda süzülüp yol alma, suda açılan geçit veya yanıltıcı serap bağlamı"
   }
 }

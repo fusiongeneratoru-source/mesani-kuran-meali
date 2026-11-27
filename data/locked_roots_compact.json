@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 917,
+    "total_locked": 918,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -629,7 +629,8 @@
         "م-ر-ي (`2:147`, `3:60`, `6:114`, `10:94`, `11:17`, `19:34`, `42:18` — sarsılmaz gerçeklik `ٱلْحَقُّ` karşısında kuşkuyu kurcalamak ve tartışmak)",
         "و-ص-ف (W-S-F (wSf) — Çift Yönlü Mesânî Karşılığı: 21:18, 21:112 [نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَٰطِلِ ... مِمَّا تَصِفُونَ — keyfî yakıştırma ve kurgu ↔ sarsılmaz nesnel gerçeklik])",
         "خ-و-ض (X-W-D (xwD) — Çift Yönlü Mesânî Karşılığı: `6:91`, `9:65`, `52:12` — gerçek, sağlam ve sorumlu söz üzerinde durmak `حَقّ` ↔ ciddiyetsiz oyun ve batıl lakırdı bataklığına dalmak `خَوْض / يَلْعَبُونَ`)",
-        "ه-ز-ل (H-Z-L (hzl) — Çift Yönlü Mesânî Karşılığı: `86:14` — ağırlıksız ve ciddiyetsiz boş söz `هَزْل` ↔ sağlam gerçeklik ve hakikat `حَقّ`)"
+        "ه-ز-ل (H-Z-L (hzl) — Çift Yönlü Mesânî Karşılığı: `86:14` — ağırlıksız ve ciddiyetsiz boş söz `هَزْل` ↔ sağlam gerçeklik ve hakikat `حَقّ`)",
+        "س-ر-ب (Serâb: uzaktan su gibi görünüp yaklaşınca yok çıkan aldatıcı görüntü ↔ ح-ق-ق sağlam, kalıcı ve gerçek varlık — `24:39`)"
       ]
     },
     "ك-ذ-ب": {
@@ -4671,7 +4672,8 @@
         "د-ل-ل (D-L-L (dll) — Çift Yönlü Mesânî Karşılığı: `34:14` bağlamında gizli kalan ölümü somut bir belirtiyle açığa çıkarmak `دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ` ↔ belirtiyi gizleyip örtülü bırakmak `خَفِىَ`)",
         "ح-ص-ل (H-S-L (HSl) — Çift Yönlü Mesânî Karşılığı: gizli duran iç dünyayı tüm çıplaklığıyla ayrıştırıp ortaya koymak `حُصِّلَ` ↔ gözden ırak tutup gizlemek `خَفِىَ / أَخْفَى`)",
         "ث-ق-ب (V-Q-B (vqb) — Çift Yönlü Mesânî Karşılığı: `86:3`, `37:10` — karanlığı yarıp apaçık görünür kılan delici ışık `ثَاقِب` ↔ örtünüp gizlenmek `خَفَاء`)",
-        "ن-ج-د (N-J-D (njd) — Çift Yönlü Mesânî Karşılığı: `90:10` — yüksekliğiyle uzaktan apaçık görünen iki belirgin yol `ٱلنَّجْدَيْنِ` ↔ gizli ve belirsiz kalmak `خَفَاء`)"
+        "ن-ج-د (N-J-D (njd) — Çift Yönlü Mesânî Karşılığı: `90:10` — yüksekliğiyle uzaktan apaçık görünen iki belirgin yol `ٱلنَّجْدَيْنِ` ↔ gizli ve belirsiz kalmak `خَفَاء`)",
+        "س-ر-ب (Sârib: gündüzün açık alanda görünür biçimde yürüyüp yol almak `سَارِبٌۢ بِٱلنَّهَارِ` ↔ خ-ف-ي gece karanlığında saklanıp gizlenmek `مُسْتَخْفٍۭ بِٱلَّيْلِ` — `13:10`)"
       ]
     },
     "ن-ق-ض": {
@@ -11425,6 +11427,16 @@
       "opposites": [
         "س-ف-ل (Aşağı çöküp alçalmak ↔ ك-ع-ب yüzeyden belirgin biçimde kabarıp yükselmek — `5:97`)",
         "خ-ف-ض (İnip düzleşmek ↔ ك-ع-ب çıkıntı yapıp yükselmek)"
+      ]
+    },
+    "س-ر-ب": {
+      "latin": "S-R-B",
+      "core": "`س-ر-ب` kökü 4 geçişinde **'geniş bir yüzeyde veya ortamda akıp süzülerek yol almak'** tek somut çekirdeğinden hareketle, gündüz açıkta yol almayı (`سَارِب`), denizde süzülüp geçit açmayı (`سَرَب`) ve çölde akan su yanılsaması veren serabı (`سَرَاب`) ifade eder.",
+      "physical": "İbn Fâris'in kesintisiz tek asılda birleştirdiği somut çekirdek: 'geniş alanda akıp yayılmak ve yeryüzünde yol alıp gitmek' (`الِاتِّسَاعُ وَالذَّهَابُ فِي الْأَرْضِ`). Gündüz açıkta yol alan `سَارِب`, suda süzülüp yol açan `سَرَب` ve çölde su gibi akıp gidiyormuş izlenimi veren `سَرَاب` hep bu 'akıp yol alma' fiziksel hareketinden doğar.",
+      "opposites": [
+        "م-و-ه (Susuzluğu gerçekten gideren hakiki su `مَآءً` ↔ س-ر-ب susamışa su gibi görünüp yaklaşınca boş çıkan serap `كَسَرَابٍۭ` — `24:39` doğrudan aynı ayet)",
+        "خ-ف-ي (Gece karanlığında saklanıp gizlenmek `مُسْتَخْفٍۭ بِٱلَّيْلِ` ↔ س-ر-ب gündüzün açık alanda görünür biçimde yol almak `سَارِبٌۢ بِٱلنَّهَارِ` — `13:10` doğrudan aynı ayet)",
+        "ح-ق-ق (Sağlam, somut ve kalıcı hakikat ↔ س-ر-ب yaklaşınca yok olan aldatıcı serap — `24:39`, `78:20`)"
       ]
     }
   }
