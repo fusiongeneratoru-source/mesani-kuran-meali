@@ -66640,5 +66640,62 @@
       }
     ],
     "context_default": "El avucuyla ölçülü su alma disiplini veya yükseltilmiş güvenli üst kat köşkleri bağlamı"
+  },
+  "ب-ع-ل": {
+    "buckwalter": "bEl",
+    "slug": "bel",
+    "concept_name": "Ba'l ve Bu'ûle (Evlilikte Erkek Eş/Koca ve Eski Kavimlerin 'Efendi/Sahip' Diye Tapındığı Ba'l — 1.000. Kök!)",
+    "root_latin": "B-A-L",
+    "keywords": [
+      "bal",
+      "buule",
+      "es",
+      "koca",
+      "evlilik",
+      "ilyas kavmi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "baEol",
+        "ayahs": [
+          "2:228",
+          "4:128",
+          "11:72",
+          "24:31"
+        ],
+        "label": "Tekil ve kırık çoğul isim (`بَعْلِهَا / بَعْلِى / بُعُولَتُهُنَّ / بُعُولَتِهِنَّ` — evlilik bağı içinde kadının erkek eşi, kocası: `2:228` bekleme süresinde kocaların barışma şartıyla geri dönme hakkı; `4:128` kocasının geçimsizlik veya yüz çevirmesinden kaygılanan kadının uzlaşması; `11:72` İbrahim'in eşinin 'bu kocam da yaşlı bir ihtiyar' demesi; `24:31` [3x] kadınların süslerini gösterebilecekleri kocaları, kocalarının babaları ve oğulları; 6 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "baEol2",
+        "ayahs": [
+          "37:125"
+        ],
+        "label": "Özel isim (`أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ` — İlyas'ın kavminin 'efendi/sahip' anlamındaki Ba'l'e yalvarıp en güzel yaratanı terk etmelerine yöneltilen eleştiri; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Evlilikteki erkek eşi (`بَعْل / بُعُولَة`) veya İlyas kavminin taptığı sahte efendiyi (`بَعْلًا`) bildiren `ب-ع-ل` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:228",
+          "4:128",
+          "24:31"
+        ],
+        "text": "Aile Hukuku ve Mahremiyet Çemberinde Eşler/Kocalar (`2:228, 4:128, 24:31`): Boşanmış kadınların bekleme süresinde kocalarının barışma niyetiyle dönmeye daha haklı olmaları (`وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ`, `2:228`); bir kadının kocasının soğukluk veya uzaklaşmasından endişe ettiğinde aralarını sulhla düzeltmelerinin hayırlı olması (`مِنۢ بَعْلِهَا`, `4:128`); mahremiyet ve aile içi serbestlik halkasında kocalar, kocaların babaları ve kocaların oğulları (`لِبُعُولَتِهِنَّ / ءَابَآءِ بُعُولَتِهِنَّ / أَبْنَآءِ بُعُولَتِهِنَّ`, `24:31`)."
+      },
+      {
+        "ayahs": [
+          "11:72"
+        ],
+        "text": "Yaşlılıkta Müjde Şaşkınlığı (`11:72`): İshak ve Yakub müjdesini alan İbrahim'in yaşlı eşinin, 'ben yaşlı bir kadınım, şu kocam da ihtiyar bir adam iken mi doğuracağım?' (`وَهَٰذَا بَعْلِى شَيْخًا`) diyerek hayretini dile getirmesi."
+      },
+      {
+        "ayahs": [
+          "37:125"
+        ],
+        "text": "İlyas'ın Ba'l Tapınmasına Meydan Okuması (`37:125`): İlyas'ın kavmine 'yaratıcıların en güzelini bırakıp da Ba'l'e mi yalvarıp çağırıyorsunuz?' (`أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ`) diyerek sahte efendilik iddiasını yıkması."
+      }
+    ],
+    "context_default": "Evlilik hukuku/aile içi eşlik (koca) veya eski Sami dünyasında Ba'l adıyla anılan sahte efendiye tapınma bağlamı"
   }
 }
