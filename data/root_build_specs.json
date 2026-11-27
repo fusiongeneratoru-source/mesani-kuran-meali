@@ -63182,5 +63182,42 @@
       }
     ],
     "context_default": "Boynunu uzatıp gözünü dikerek hızla bir yöne koşma bağlamı"
+  },
+  "ج-د-ث": {
+    "buckwalter": "jdv",
+    "slug": "jdv",
+    "concept_name": "Ecdâs (Diriliş Çağrısıyla İçinden Hızla Çıkılan Toprak Kabirleri)",
+    "root_latin": "J-D-TH",
+    "keywords": [
+      "ecdas",
+      "cedas",
+      "kabir",
+      "mezar",
+      "dirilis cikisi",
+      "toprak kabri"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">ajodaAv",
+        "ayahs": [
+          "36:51",
+          "54:7",
+          "70:43"
+        ],
+        "label": "Kırık çoğul isim (`ٱلْأَجْدَاثِ`, tekili `جَدَث` — ölülerin gömülü olduğu toprak kabirler/mezarlar; her 3 ayette de `مِنَ ٱلْأَجْدَاثِ` biçiminde diriliş anında hızla dışarı çıkışı bildirir: `36:51` Rablerine doğru akın akın koşarak, `54:7` yayılmış çekirgeler gibi çıkarak, `70:43` dikili bir hedefe koşarcasına süratle çıkarak; 3 geçiş)"
+      }
+    ],
+    "irab_default": "Diriliş anında içinden hızla çıkılan toprak kabirleri bildiren `ج-د-ث` kırık çoğulu (`ٱلْأَجْدَاثِ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "36:51",
+          "54:7",
+          "70:43"
+        ],
+        "text": "Diriliş Sûruyla Kabirlerden Hızla Çıkış (`36:51`, `54:7`, `70:43`): Sûra üflendiğinde insanların kabirlerinden (`مِنَ ٱلْأَجْدَاثِ`) Rablerine doğru akın akın koşmaları (`36:51`), gözleri yere eğik hâlde yayılmış çekirgeler gibi kabirlerinden çıkmaları (`54:7`) ve dikili bir hedefe hızla koşarcasına kabirlerinden süratle fırlamaları (`70:43`)."
+      }
+    ],
+    "context_default": "Diriliş anında toprak kabirlerden hızla çıkış bağlamı"
   }
 }
