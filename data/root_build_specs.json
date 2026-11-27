@@ -64903,5 +64903,55 @@
       }
     ],
     "context_default": "Elle dokunup yoklama, temas kurma veya arayıp isteme bağlamı"
+  },
+  "ق-ف-و": {
+    "buckwalter": "qfw",
+    "slug": "qfw",
+    "concept_name": "Kafv ve Takfiye (Birinin İzini ve Ardını Sürmek, Peşi Sıra Elçiler Göndermek ve Bilgisiz İddianın Peşine Düşmemek)",
+    "root_latin": "K-F-W",
+    "keywords": [
+      "kafv",
+      "takfiye",
+      "iz surmek",
+      "ardindan gondermek",
+      "pesine dusmek",
+      "bilgisiz iz surmemek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qaf~ayo",
+        "ayahs": [
+          "2:87",
+          "5:46",
+          "57:27"
+        ],
+        "label": "II. bab fiil (`وَقَفَّيْنَا` — `قَفَّى بِـ`: önceki elçilerin izleri üzerinden peşi sıra yeni elçiler ve Meryem oğlu İsa'yı göndermek: `2:87` Musa'nın ardından elçiler; `5:46` onların izleri üzerine İsa'yı; `57:27` [2x] Nuh ve İbrahim soyunun izinden elçilerimizi ve ardından İsa'yı peşi sıra gönderdik; 4 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "taqofu",
+        "ayahs": [
+          "17:36"
+        ],
+        "label": "I. bab nehiy muzârisi (`وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ` — `قَفَا / يَقْفُو`: hakkında kesin bilgin bulunmayan bir sözün, zannın veya iddianın izini sürüp peşine düşme; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Birinin izinden yürümeyi (`قَفَا`) veya birinin ardından peşi sıra göndermeyi (`قَفَّى`) bildiren `ق-ف-و` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:87",
+          "5:46",
+          "57:27"
+        ],
+        "text": "Vahiy Tarihinde Peşi Sıra Gönderilen Elçiler (`2:87`, `5:46`, `57:27`): Musa'nın ardından elçilerin (`2:87`), öncekilerin izleri üzerinden Meryem oğlu İsa'nın (`5:46`) ve Nuh ile İbrahim'den sonra peş peşe elçilerin ve ardından İsa'nın gönderilmesi (`ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ`, `57:27`)."
+      },
+      {
+        "ayahs": [
+          "17:36"
+        ],
+        "text": "Bilgisiz İddianın Peşine Düşme Yasağı (`17:36`): Kulak, göz ve gönlün tamamı sorumlu tutulacağı için insanın hakkında kesin bilgi sahibi olmadığı hiçbir şeyin izini sürmemesi (`وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ`)."
+      }
+    ],
+    "context_default": "İzinden yürümek, peşi sıra göndermek veya bilgisiz iddianın ardına düşmemek bağlamı"
   }
 }
