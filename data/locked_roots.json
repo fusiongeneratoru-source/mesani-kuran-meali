@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (22/50 — Toplam 922 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (23/50 — Toplam 923 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -74456,7 +74456,8 @@
       "mesani_opposite": {
         "roots": [
           "ع-م-ر (Bayındır kılmak, yaşanır ve işler tutmak ↔ ع-ط-ل boş, bakımsız ve işlevsiz bırakmak)",
-          "م-ل-أ (Dolup taşmak ↔ ع-ط-ل boş kalmak)"
+          "م-ل-أ (Dolup taşmak ↔ ع-ط-ل boş kalmak)",
+          "ح-ل-ي (Hilye / Tahliye: takı ve bileziklerle donatılıp süslenmek ↔ ع-ط-ل süssüz, takısız ve çıplak/bakımsız kalmak — `16:14`, `76:21`)"
         ],
         "bidirectional_test": "Kullanıcıdan ve gözetenden boşalıp işlevsiz kalmak (`ع-ط-ل`) tersine çevrildiğinde imar edip işler tutmak (`ع-م-ر`) ortaya çıkar."
       },
@@ -77363,6 +77364,103 @@
           "meaning": "Hem güçlü ısı hem parlak ışık yayarak alevlenen, parıl parıl yanan",
           "examples": [
             "78:13"
+          ]
+        }
+      ]
+    },
+    "ح-ل-ي": {
+      "root_latin": "H-L-Y",
+      "arabic": "ح-ل-ي",
+      "rank": 623,
+      "morphology_and_rasm": {
+        "buckwalter": "Hly",
+        "rasm_skeleton": "حلي (harekesiz iskelet; حلية / الحلية, حليهم ve يحلون / حلوا biçimleriyle 9 kez)",
+        "approx_frequency": "9 geçiş / 9 ayet (4x isim `حِلْيَة`, 1x çoğul isim `حُلِيّ`, 4x II. bab meçhul fiil `يُحَلَّوْنَ / حُلُّوٓا۟`)",
+        "verb_forms_used": [
+          "Form II (`يُحَلَّوْنَ / حُلُّوٓا۟` meçhul — 4 geçiş: `18:31`, `22:23`, `35:33`, `76:21`)"
+        ],
+        "noun_forms_used": [
+          "حِلْيَة (`فِعْلَة` isim — 4 geçiş: `13:17`, `16:14`, `35:12`, `43:18`)",
+          "حُلِيّ (`فُعُول` çoğul isim — 1 geçiş: `7:148`)"
+        ],
+        "preposition_patterns": [
+          "يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ (`18:31`, `22:23`, `35:33`: teb'îz `مِن` ile altın bileziklerle süslenmek)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in üç asıldan ikincisi olarak açıkça ayırdığı somut çekirdek: 'bedene veya eşyaya güzellik katmak üzere takılan madeni/denizsel takı ve ziynet' (`الْحُلِيُّ: حَلْيُ الْمَرْأَةِ` — altın, gümüş, inci, mercan ve bilezik gibi takılar).",
+      "ibn_faris_asl": "(حَلَوَ/حَلَيَ) الْحَاءُ وَاللَّامُ وَمَا بَعْدَهَا مُعْتَلٌّ، ثَلَاثَةُ أُصُولٍ: فَالْأَوَّلُ طِيبُ الشَّيْءِ... وَالْأَصْلُ الثَّانِي: الْحُلِيُّ، حَلْيُ الْمَرْأَةِ، وَهُوَ جَمْعُ حَلْيٍ. [Mu'cemü Mekâyîsi'l-Luğa, c. 2, s. 94, باب الحاء واللام وما يثلثهما, حلو/حلي maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris bu maddede üç asıl ayırır (1. tat/hoşluk, 2. takı/ziynet `حَلْي / حِلْيَة`, 3. sürmek/uzaklaştırmak). Kur'an'daki tüm 9 geçiş istisnasız ikinci asıl olan 'takı ve takıyla süslenme' çekirdeğindedir.",
+        "lisan_al_arab": "İbn Manzûr `الْحَلْيُ` (çoğulu `حُلِيّ`) ve `الْحِلْيَةُ` kelimelerini 'işlenmiş maden veya deniz taşlarından yapılan her türlü takı ve süs eşyası', `حَلَّيْتُهُ تَحْلِيَةً` fiilini ise 'ona takı takıp süsledim' olarak tanımlar.",
+        "ragib_al_isfahani": "Râgıb `13:17`'deki `ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ` ayrımında `حِلْيَة`'nin estetik takı eşyasını, `مَتَٰع`'ın ise günlük kullanım araçlarını belirttiğini; her ikisinde de eritme sırasında köpüğün (`زَبَد`) atılıp saf madenin kaldığını kaydeder.",
+        "verdict": "Tüm 9 geçiş **'madenden veya denizden elde edilen somut takı/ziynet (`حِلْيَة / حُلِيّ`, 5x) ve bilezik/inciyle donatılıp süslenmek (`يُحَلَّوْنَ / حُلُّوٓا۟`, 4x)'** tek somut çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*ḥ-l-y ('süslemek, takı takmak')",
+        "hebrew": "İbranice ḥălî (חֲלִי — 'takı, gerdanlık, mücevher') birebir eşkökenlidir.",
+        "aramaic_syriac": "Aramice/Süryanice doğrudan 'takı' anlamında eşkökenli klasik kaynaklarda kesinleştirilmemiştir.",
+        "akkadian": "Akadca doğrudan eşkökenli klasik kaynaklarda doğrulanmamıştır.",
+        "comparative_note": "İbranice `ḥălî` ('takı, gerdanlık') ile Arapça `حَلْي / حِلْيَة` birebir örtüşür; Kur'an'da `ح-ل-ي` kelimesi 4 ayette de doğrudan `أَسَاوِر` ('bilezikler') ile birlikte geçer."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ع-ط-ل (Süssüz, takısız ve çıplak kalmak — Arapçada takısız kadın `امْرَأَةٌ عَاطِلٌ` ↔ ح-ل-ي takı ve bileziklerle süslenip donatılmak — `16:14`, `76:21`)"
+        ],
+        "bidirectional_test": "Klasik Arapçada `حَالِيَة` ('takılı/süslü') kelimesinin tam karşıtı `عَاطِل` ('takısız/boş bırakılmış') olduğundan, `ح-ل-ي` ile `ع-ط-ل` doğrudan çift yönlü sözlük karşıtıdır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "م-ت-ع",
+          "ذ-ه-ب",
+          "ف-ض-ض",
+          "ل-أ-ل-أ"
+        ],
+        "analysis": "`13:17`'de `حِلْيَة` estetik süs eşyasını, `مَتَٰع` ise işlevsel araç-gereci ayırır. `18:31`, `22:23`, `35:33` ve `76:21`'de `يُحَلَّوْنَ / حُلُّوٓا۟` fiili altın, gümüş ve inci (`لُؤْلُؤًا`) takılarıyla birlikte kullanılır."
+      },
+      "anchor_ayahs": [
+        "16:14 (وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا — ve ondan [denizden] takınıp giyineceğiniz süs eşyaları çıkarasınız diye)",
+        "13:17 (وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ زَبَدٌ مِّثْلُهُۥ — takı veya kullanım eşyası elde etmek için ateşte erittikleri madenlerden de benzer bir köpük çıkar)",
+        "7:148 (وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا — Musa'nın kavmi onun ardından kendi takılarından böğüren bir buzağı heykeli edindiler)",
+        "22:23 (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا — orada altın bilezikler ve inciyle süslenirler)",
+        "76:21 (وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ — ve gümüş bileziklerle donatılmışlardır)"
+      ],
+      "unified_core_mechanism": "`ح-ل-ي` kökü 9 geçişinin tamamında **'maden veya denizden elde edilen takı/ziynet (`حِلْيَة / حُلِيّ`) ve bilezik/inciyle süslenmek (`يُحَلَّوْنَ / حُلُّوٓا۟`)'** tek somut çekirdeğini işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Takı/Ziynet İsmi (`حِلْيَة` 4x + çoğul `حُلِيّ` 1x): `13:17`, `16:14`, `35:12`, `43:18`, `7:148`.",
+          "Dal 2 — II. Bab Meçhul Süslenme Fiili (`يُحَلَّوْنَ` 3x + `حُلُّوٓا۟` 1x): İki mef'ûl alan `حَلَّى` fiilinin meçhulüdür; birinci mef'ûl nâib-i fâil olur, ikinci mef'ûl doğrudan mansûb (`أَسَاوِرَ`, `76:21`) veya teb'îz `مِن` ile (`مِنْ أَسَاوِرَ`, `18:31`, `22:23`, `35:33`) gelir."
+        ],
+        "irab_notes": "`22:23` ve `35:33`'te `وَلُؤْلُؤًا` nasb okunuşu (Hafs) `يُحَلَّوْنَ` fiilinin mansûb mahallindeki ikinci mef'ûlüne atıf nedeniyledir."
+      },
+      "derivatives": [
+        {
+          "form": "حِلْيَة / ٱلْحِلْيَةِ",
+          "pos": "İsim",
+          "meaning": "Takınılan süs eşyası, mücevher ve ziynet",
+          "examples": [
+            "13:17",
+            "16:14",
+            "35:12",
+            "43:18"
+          ]
+        },
+        {
+          "form": "حُلِيِّهِمْ",
+          "pos": "İsim (Çoğul)",
+          "meaning": "Takılar, altın ve süs eşyaları",
+          "examples": [
+            "7:148"
+          ]
+        },
+        {
+          "form": "يُحَلَّوْنَ / حُلُّوٓا۟",
+          "pos": "Fiil (II. Bab Meçhul)",
+          "meaning": "Bilezik ve inci gibi takılarla donatılıp süslenmek",
+          "examples": [
+            "18:31",
+            "22:23",
+            "35:33",
+            "76:21"
           ]
         }
       ]

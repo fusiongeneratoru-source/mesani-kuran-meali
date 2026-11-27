@@ -62708,5 +62708,76 @@
       }
     ],
     "context_default": "Isı ve ışığı birlikte yayan güneş kandili bağlamı (`78:13`)"
+  },
+  "ح-ل-ي": {
+    "buckwalter": "Hly",
+    "slug": "hly",
+    "concept_name": "Hilye, Huliyy ve Tahliye (Denizden/Madenden Çıkarılan Takı-Ziynet ve Bileziklerle Süslenmek)",
+    "root_latin": "H-L-Y",
+    "keywords": [
+      "hilye",
+      "huliyy",
+      "taki",
+      "ziynet",
+      "bilezikle suslenmek",
+      "mucevher"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Hiloyap",
+        "ayahs": [
+          "13:17",
+          "16:14",
+          "35:12",
+          "43:18"
+        ],
+        "label": "İsim (`حِلْيَةٍ / حِلْيَةً / ٱلْحِلْيَةِ` — takınılıp giyilen süs eşyası, mücevher ve takı: `13:17` ateşte eritilen madenden takı yapımı, `16:14` ve `35:12` denizden çıkarılıp giyilen takı/inci, `43:18` süs ve takılar içinde yetiştirilen kimse; 4 geçiş)"
+      },
+      {
+        "lemma": "Hul~u",
+        "ayahs": [
+          "18:31",
+          "22:23",
+          "35:33",
+          "76:21"
+        ],
+        "label": "II. bab (tef'îl) meçhul fiil (`يُحَلَّوْنَ / حُلُّوٓا۟` — altın veya gümüş bileziklerle ve inciyle donatılıp süslenmek: `18:31`, `22:23`, `35:33` altın bileziklerle, `76:21` gümüş bileziklerle süslenmek; 4 geçiş)"
+      },
+      {
+        "lemma": "Huliy~",
+        "ayahs": [
+          "7:148"
+        ],
+        "label": "Çoğul isim (`مِنْ حُلِيِّهِمْ` — tekili `حَلْي` olan çoğul `حُلِيّ` [ziynet ve takı eşyaları]; Musa'nın topluluğunun takılarından böğüren bir buzağı heykeli yapması; `7:148`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Takı ve süs eşyasını (`حِلْيَة / حُلِيّ`) veya takıyla süslenmeyi (`يُحَلَّوْنَ / حُلُّوٓا۟`) bildiren `ح-ل-ي` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:31",
+          "22:23",
+          "35:33",
+          "76:21"
+        ],
+        "text": "Ödül Yurdunda Bilezik ve İnciyle Donatılma (`18:31`, `22:23`, `35:33`, `76:21`): Yapıcı ve yararlı işler yapanların altından ırmaklar akan bahçelerde altın (`18:31`, `22:23`, `35:33`) ve gümüş (`76:21`) bileziklerle ve inciyle süslenip donatılmaları (`يُحَلَّوْنَ / حُلُّوٓا۟`)."
+      },
+      {
+        "ayahs": [
+          "13:17",
+          "16:14",
+          "35:12"
+        ],
+        "text": "Denizlerden ve Madenlerden Çıkarılan Takı Nimeti (`13:17`, `16:14`, `35:12`): Denizlerin insanlara taze et yanında giyinip takınacakları süs eşyaları (`حِلْيَةً تَلْبَسُونَهَا`) sunması (`16:14`, `35:12`) ve madeni eritip takı (`حِلْيَةٍ`) yaparken köpüğün uçup faydalı özün kalmasının hak-batıl örneği kılınması (`13:17`)."
+      },
+      {
+        "ayahs": [
+          "7:148",
+          "43:18"
+        ],
+        "text": "Takıların Yanlış Kullanımı ve Çarpık Algı (`7:148`, `43:18`): Musa'nın yokluğunda kavminin takılarından (`حُلِيِّهِمْ`) buzağı heykeli yapıp sapması (`7:148`) ve kız çocuklarını hakir görenlerin 'süs içinde yetiştirileni' Allah'a yakıştırmalarındaki tutarsızlığın eleştirilmesi (`43:18`)."
+      }
+    ],
+    "context_default": "Takı, ziynet eşyası ve bileziklerle süslenme bağlamı"
   }
 }
