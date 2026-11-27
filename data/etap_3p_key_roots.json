@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3P (En Yüksek Frekanslı Kalan 50 Kök: Kalan Tüm 24 Adet 6 Geçişli Kök [≥6 Açık = 0!] + 26 Adet 5 Geçişli Çekirdek Kök — 1.050 Kök!)",
   "target_count": 50,
-  "locked_count": 17,
+  "locked_count": 18,
   "total_tokens_in_package": 274,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 97.43,
+  "current_coverage_pct": 97.45,
   "target_coverage_pct": 97.78,
   "etap_3p_roots": [
     {
@@ -331,8 +331,8 @@
       "frequency": 6,
       "unique_ayahs": 5,
       "rationale": "Sayd ve İstedû (6/5: av ve avlanmak — ihram yasakları ve deniz avı helalliği)",
-      "concept_label": "Analiz Bekliyor (Sayod, {SoTaAdu)",
-      "is_locked": false,
+      "concept_label": "Sayd ve İstiyâd (Yaban Avını Yakalamak, Kara/Deniz Avı ve Dokunulmazlık Halindeki Av Yasağı)",
+      "is_locked": true,
       "sample_ayah": "5:1",
       "top_lemmas": [
         "Sayod",

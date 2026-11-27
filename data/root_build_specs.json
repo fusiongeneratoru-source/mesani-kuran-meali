@@ -67727,5 +67727,57 @@
       }
     ],
     "context_default": "12. Yûsuf suresinde yalanı, adli delili ve kavuşmayı taşıyan gömlek (`قَمِيص`) bağlamı"
+  },
+  "ص-ي-د": {
+    "buckwalter": "Syd",
+    "slug": "syd",
+    "concept_name": "Sayd ve İstiyâd (Yaban Avını Yakalamak, Kara/Deniz Avı ve Dokunulmazlık Halindeki Av Yasağı)",
+    "root_latin": "S-Y-D",
+    "keywords": [
+      "sayd",
+      "istiyad",
+      "av",
+      "avlanmak",
+      "kara avi",
+      "deniz avi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Sayod",
+        "ayahs": [
+          "5:1",
+          "5:94",
+          "5:95",
+          "5:96"
+        ],
+        "label": "Mastar / isim (`ٱلصَّيْدِ / ٱلصَّيْدَ / صَيْدُ ٱلْبَحْرِ / صَيْدُ ٱلْبَرِّ` — hem avlanma eylemi hem de avlanan yaban hayvanı: `5:1` dokunulmazlık [ihram] halindeyken avı helal saymamak; `5:94` el ve mızrakların yetişeceği kadar yaklaşan avla sınanmak; `5:95` ihramlıyken avı öldürme yasağı ve kasıtlı ihlalin tazmini; `5:96` deniz avının [2x geçiş] serbest, kara avının ise ihram süresince yasak olması; 5 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "{SoTaAdu",
+        "ayahs": [
+          "5:2"
+        ],
+        "label": "VIII. Bab (İftiâl) emir fiili (`وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟` — `ت`'nin `ط`'ya dönüşümüyle: dokunulmazlık halinden çıkıp serbestliğe kavuştuğunuzda artık avlanabilirsiniz; izin [ibâha] bildiren emir; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Avlanma eylemini veya avlanan yaban hayvanını (`صَيْد / ٱصْطَادُوا`) bildiren `ص-ي-د` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:1",
+          "5:2"
+        ],
+        "text": "Dokunulmazlık Halinde Yasak, Çıkışta Serbesti (`5:1, 5:2`): Mâide suresinin açılışında hayvanların helal kılınması ama ihramlıyken (`وَأَنتُمْ حُرُمٌ`) avı helal saymama sınırı (`غَيْرَ مُحِلِّى ٱلصَّيْدِ`, `5:1`); ihramdan çıkıldığında ise (`وَإِذَا حَلَلْتُمْ`) avlanmanın serbest bırakılması (`فَٱصْطَادُوا۟`, `5:2`)."
+      },
+      {
+        "ayahs": [
+          "5:94",
+          "5:95",
+          "5:96"
+        ],
+        "text": "Av Sınavı, İhlalin Tazmini ve Deniz/Kara Ayrımı (`5:94–96`): El ve mızrak mesafesindeki avla (`بِشَىْءٍ مِّنَ ٱلصَّيْدِ`, `5:94`) Allah'tan gizlide çekinenlerin sınanması; ihramlıyken av öldürme yasağı ve kasıtlı ihlalde dengi tazmin/keffâret hükmü (`لَا تَقْتُلُوا۟ ٱلصَّيْدَ`, `5:95`); deniz avının (`صَيْدُ ٱلْبَحْرِ`) serbest, kara avının (`صَيْدُ ٱلْبَرِّ`) ise ihram süresince yasaklanması (`5:96`)."
+      }
+    ],
+    "context_default": "5. Mâide suresinde ihram/dokunulmazlık dönemindeki av yasağı, sınavı ve deniz/kara avı ayrımı bağlamı"
   }
 }
