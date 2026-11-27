@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3N (+5 Sure %100 Tam Kilidi [Sure 32, 44, 78, 76, 70 -> 55 Tam Kilitli Sure] ve Kalan Tüm 9 Geçişli Çekirdek Kökler + 2 Stratejik Kök — 50 Kök -> 950 Kök)",
   "target_count": 50,
-  "locked_count": 5,
+  "locked_count": 6,
   "total_tokens_in_package": 231,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 96.36,
+  "current_coverage_pct": 96.37,
   "target_coverage_pct": 96.78,
   "etap_3n_roots": [
     {
@@ -108,8 +108,8 @@
       "frequency": 2,
       "unique_ayahs": 2,
       "rationale": "Cüruz (Sure 32 Secde kilidi + 2 geçiş: 18:8, 32:27 bitkisiz, kupkuru, tamamen sıyrılıp tıraşlanmış çorak toprak)",
-      "concept_label": "Analiz Bekliyor (juruz)",
-      "is_locked": false,
+      "concept_label": "Cüruz (Bitki Örtüsü Kesilip Sıyrılmış, Kupkuru ve Çorak Toprak)",
+      "is_locked": true,
       "sample_ayah": "18:8",
       "top_lemmas": [
         "juruz"

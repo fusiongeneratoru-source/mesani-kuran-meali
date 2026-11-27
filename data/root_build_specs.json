@@ -61929,5 +61929,44 @@
       }
     ],
     "context_default": "Yumuşakça süzülüp çekilen öz veya sezdirmeden gizlice sıvışıp çıkma bağlamı"
+  },
+  "ج-ر-ز": {
+    "buckwalter": "jrz",
+    "slug": "jrz",
+    "concept_name": "Cüruz (Bitki Örtüsü Kesilip Sıyrılmış, Kupkuru ve Çorak Toprak)",
+    "root_latin": "C-R-Z",
+    "keywords": [
+      "curuz",
+      "corak toprak",
+      "kupkuru arazi",
+      "bitkisiz yer",
+      "kirac"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "juruz",
+        "ayahs": [
+          "18:8",
+          "32:27"
+        ],
+        "label": "Sıfat-ı müşebbehe (`جُرُزًا / ٱلْجُرُزِ` — bitki örtüsünden tamamen sıyrılıp kesilmiş, su tutmayan kupkuru çorak yer: `18:8` yeryüzündeki tüm süslerin sonunda dönüşeceği çıplak çorak düzlük `صَعِيدًا جُرُزًا`, `32:27` Allah'ın su sevk ederek ekin çıkardığı kupkuru toprak `ٱلْأَرْضِ ٱلْجُرُزِ`; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Bitki örtüsünden sıyrılmış kupkuru, çorak toprağı bildiren `ج-ر-ز` sıfatı (`جُرُز`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:8"
+        ],
+        "text": "Dünya Süsünün Geçiciliği (`18:8`): Yeryüzündeki her şeyin bir sınav süsü kılındıktan sonra sonunda tamamen bitkisiz, kupkuru ve çorak bir düzlüğe (`صَعِيدًا جُرُزًا`) çevrileceği hakikati."
+      },
+      {
+        "ayahs": [
+          "32:27"
+        ],
+        "text": "Çorak Toprağın Suyla Diriltilmesi (`32:27`): Suyun kupkuru ve bitkisiz toprağa (`ٱلْأَرْضِ ٱلْجُرُزِ`) sevk edilip oradan hem hayvanların hem insanların yediği ekinin (`زَرْعًا`) çıkarılmasının yeniden diriltme kudretine somut delil oluşu."
+      }
+    ],
+    "context_default": "Bitkisiz çorak toprak ve suyla canlanma/çoraklaşma döngüsü bağlamı"
   }
 }

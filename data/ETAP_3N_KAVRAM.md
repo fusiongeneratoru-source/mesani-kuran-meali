@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 5 / 50 Kök (Toplam Mühürlü: 905 Kök | Güncel Kapsam: %96,36)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 6 / 50 Kök (Toplam Mühürlü: 906 Kök | Güncel Kapsam: %96,37)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -12,7 +12,7 @@
 | 3 | Sure %100 Kilidi | 946 | `ض-ج-ع` | `D-C-A` | **3** | 3 | 3:154 | Medâci' (Yan Üzere Uzanılan Yataklar ve Düşüp Yatılan Yerler) | ✅ **MÜHÜRLÜ** |
 | 4 | Sure %100 Kilidi | 1013 | `ن-ك-س` | `N-K-S` | **3** | 3 | 21:65 | Neks, Nâkisû ve Tenkîs (Baş Aşağı Ters Çevirmek, Başını Mahcubiyetle Eğmek ve Yaşlılıkta Geriye Döndürmek) | ✅ **MÜHÜRLÜ** |
 | 5 | Sure %100 Kilidi | 1017 | `س-ل-ل` | `S-L-L` | **3** | 3 | 23:12 | Sülâle ve Yetesellelûn (Yumuşakça Süzülüp Çekilen Saf Öz ve Sezdirmeden Gizlice Sıvışıp Çıkmak) | ✅ **MÜHÜRLÜ** |
-| 6 | Sure %100 Kilidi | 1158 | `ج-ر-ز` | `C-R-Z` | **2** | 2 | 18:8 | Cüruz (Sure 32 Secde kilidi + 2 geçiş: 18:8, 32:27 bitkisiz, kupkuru, tamamen sıyrılıp tıraşlanmış çorak toprak) | ⏳ *Bekliyor* |
+| 6 | Sure %100 Kilidi | 1158 | `ج-ر-ز` | `C-R-Z` | **2** | 2 | 18:8 | Cüruz (Bitki Örtüsü Kesilip Sıyrılmış, Kupkuru ve Çorak Toprak) | ✅ **MÜHÜRLÜ** |
 | 7 | Sure %100 Kilidi | 1465 | `ج-ف-و` | `C-F-W` | **1** | 1 | 32:16 | Tetecâfâ (Sure 32 Secde son kilidi: 32:16 yanların yataklardan uzaklaşıp ayrılması — 51. tam kilitli sure!) | ⏳ *Bekliyor* |
 | 8 | Sure %100 Kilidi | 685 | `ب-ك-ي` | `B-K-Y` | **7** | 7 | 9:82 | Bükâ ve Ebkâ (Sure 44 Duhân kilidi + 7 geçiş: 9:82, 12:16, 17:109, 19:58, 44:29, 53:43, 53:60 gözyaşı döküp ağlamak ve ağlatmak) | ⏳ *Bekliyor* |
 | 9 | Sure %100 Kilidi | 700 | `أ-د-ي` | `E-D-Y` | **6** | 5 | 2:178 | Edâ (Sure 44 Duhân kilidi + 6 geçiş: 2:178, 2:283, 3:75, 4:58, 44:18 emaneti, borcu veya sorumluluğu eksiksiz biçimde sahibine ulaştırıp ödemek) | ⏳ *Bekliyor* |
