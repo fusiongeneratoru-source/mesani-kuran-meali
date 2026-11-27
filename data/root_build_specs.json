@@ -62239,5 +62239,45 @@
       }
     ],
     "context_default": "Göğün kozmik duman hâli veya apaçık kuşatıcı duman bağlamı"
+  },
+  "غ-ل-ي": {
+    "buckwalter": "gly",
+    "slug": "gly",
+    "concept_name": "Galy (Sıvının Şiddetli Isıyla Kabarıp Fokurdayarak Kaynaması)",
+    "root_latin": "G-L-Y",
+    "keywords": [
+      "galy",
+      "kaynamak",
+      "fokurdamak",
+      "yagli",
+      "kaynar su"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yagoliY",
+        "ayahs": [
+          "44:45"
+        ],
+        "label": "I. bab muzâri fiil (`كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ` — zakkum yiyeceğinin erimiş maden gibi karınların içinde fokurdayıp kaynaması; `44:45`; 1 geçiş)"
+      },
+      {
+        "lemma": "galoY",
+        "ayahs": [
+          "44:46"
+        ],
+        "label": "I. bab masdar (`كَغَلْىِ ٱلْحَمِيمِ` — tıpkı kaynar suyun fokurdayıp kaynaması gibi; benzetmeli pekiştirme; `44:46`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Sıvının aşırı ısıyla kabarıp fokurdayarak kaynamasını bildiren `غ-ل-ي` türevi (`يَغْلِى / غَلْى`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "44:45",
+          "44:46"
+        ],
+        "text": "Karınlarda Kaynayan Zakkum (`44:45`, `44:46`): Suçlunun yiyeceği olan zakkum ağacının (`44:43-44`) erimiş maden/yağ tortusu (`ٱلْمُهْل`) gibi karınlarda fokurdayıp kaynaması (`يَغْلِى فِى ٱلْبُطُونِ`), bunun şiddetinin de kaynar suyun fokurdamasıyla (`كَغَلْىِ ٱلْحَمِيمِ`) betimlenmesi."
+      }
+    ],
+    "context_default": "Erimiş maden ve kaynar suyun karınlarda fokurdayıp kaynaması bağlamı (`44:45-46`)"
   }
 }
