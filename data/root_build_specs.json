@@ -68232,5 +68232,74 @@
       }
     ],
     "context_default": "Kınanıp yerilme veya bağlayıcı sözleşme güvencesi bağlamı"
+  },
+  "م-ض-ي": {
+    "buckwalter": "mDy",
+    "slug": "mDy",
+    "concept_name": "Madâ ve Mudiyy (İleriye Doğru Kesintisiz Yürüyüp Geçmek ve Tarihsel Yasanın İşleyip Geçmesi)",
+    "root_latin": "M-D-Y",
+    "keywords": [
+      "mada",
+      "mudiyy",
+      "ilerlemek",
+      "gecip gitmek",
+      "yururluk",
+      "mesani"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "maDaY`",
+        "ayahs": [
+          "8:38",
+          "43:8"
+        ],
+        "label": "I. Bab mâzi fiil (`مَضَتْ سُنَّتُ ٱلْأَوَّلِينَ` / `مَضَىٰ مَثَلُ ٱلْأَوَّلِينَ` — önceki toplumların yasasının ve örneğinin tarihte işleyip geçmiş olması; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "maDaY`",
+        "ayahs": [
+          "15:65"
+        ],
+        "label": "I. Bab çoğul emir fiil (`وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ` — geriye dönüp bakmadan emrolunulan yöne doğru ilerleme buyruğu; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "maDaY`",
+        "ayahs": [
+          "18:60"
+        ],
+        "label": "I. Bab mansûb muzâri fiil (`أَوْ أَمْضِىَ حُقُبًا` — iki denizin kavuştuğu yere ulaşana dek uzun çağlar boyu yürüyüşü sürdürme kararlılığı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "muDiy~",
+        "ayahs": [
+          "36:67"
+        ],
+        "label": "I. Bab mastar, mef'ûl-i bih ve mansûb (`فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ` — bulundukları yerden ileriye geçip gitmeye güç yetirememek; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "İleriye doğru yürüyüp geçme veya tarihsel yasanın işleyip geçmesini bildiren `م-ض-ي` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "8:38",
+          "43:8"
+        ],
+        "text": "Tarihte İşleyip Geçen Yasa ve Örnek (`8:38, 43:8`): Önceki toplumlara uygulanan yasanın (`سُنَّتُ ٱلْأَوَّلِينَ`) ve daha çetin güç sahiplerinin örneğinin (`مَثَلُ ٱلْأَوَّلِينَ`) tarihte yürürlükten geçmiş olması."
+      },
+      {
+        "ayahs": [
+          "15:65",
+          "18:60"
+        ],
+        "text": "Duraksamadan İleriye Yürüyüş (`15:65, 18:60`): Lût ve ailesine geriye dönüp bakmadan emrolunan yere doğru ilerleme buyruğu (`15:65`) ile Mûsâ'nın iki denizin kavuştuğu yere ulaşıncaya dek uzun devirler boyu yürümeye kararlı oluşu (`18:60`)."
+      },
+      {
+        "ayahs": [
+          "36:67"
+        ],
+        "text": "İleri Geçememe ve Geri Dönememe (`36:67`): Yerlerinde çakılıp kalarak ne ileriye doğru geçebilme (`مُضِيًّا`) ne de geriye dönebilme (`يَرْجِعُونَ`) gücü kalmaması."
+      }
+    ],
+    "context_default": "İleriye doğru kesintisiz geçiş veya tarihsel yasanın yürürlüğü bağlamı"
   }
 }

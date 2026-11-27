@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (50/50) + Etap 3P (25/50 — Toplam 1025 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (50/50) + Etap 3P (26/50 — Toplam 1026 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -81551,7 +81551,8 @@
       "mesani_opposite": {
         "roots": [
           "ذ-ه-ب (Köpük gibi uçup yitip gitmek `فَيَذْهَبُ جُفَآءً` ↔ م-ك-ث yeryüzünde kalıcı olarak durmak `فَيَمْكُثُ فِى ٱلْأَرْضِ` — `13:17`)",
-          "ع-ج-ل (Beklemeksizin aceleyle bir çırpıda geçmek ↔ م-ك-ث ağır ağır, dura dura ve bekleyerek kalmak `عَلَىٰ مُكْثٍ` — `17:106`, `20:10`)"
+          "ع-ج-ل (Beklemeksizin aceleyle bir çırpıda geçmek ↔ م-ك-ث ağır ağır, dura dura ve bekleyerek kalmak `عَلَىٰ مُكْثٍ` — `17:106`, `20:10`)",
+          "م-ض-ي (M-D-Y [mDy] — Çift Yönlü Mesânî Karşılığı)"
         ],
         "bidirectional_test": "`13:17`'deki `فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ` ikilisi `ذ-ه-ب` ile `م-ك-ث` arasında mükemmel çift yönlü mesânî kurar."
       },
@@ -86441,6 +86442,123 @@
           "examples": [
             "9:8",
             "9:10"
+          ]
+        }
+      ]
+    },
+    "م-ض-ي": {
+      "root_latin": "M-D-Y",
+      "arabic": "م-ض-ي",
+      "rank": 799,
+      "morphology_and_rasm": {
+        "buckwalter": "mDy",
+        "rasm_skeleton": "مضي (nâkıs-ı yâî sülâsî iskelet; Kur'an'da I. bab çekimli fiil 4x [`مَضَتْ`, `وَٱمْضُوا۟`, `أَمْضِىَ`, `مَضَىٰ`] ve yalın mastar `مُضِيًّا` 1x olmak üzere 5 geçiş)",
+        "approx_frequency": "5 geçiş / 5 ayet (`8:38, 15:65, 18:60, 36:67, 43:8`)",
+        "verb_forms_used": [
+          "I. Bab Mâzi `مَضَتْ / مَضَىٰ` (`8:38, 43:8` [2x] — yürürlüğe girip tarihte yaşanıp geçmek)",
+          "I. Bab Emir `وَٱمْضُوا۟` (`15:65` [1x] — geriye dönüp bakmadan ileriye doğru yol alıp gitmek)",
+          "I. Bab Mansûb Muzâri `أَمْضِىَ` (`18:60` [1x] — uzun devirler boyunca yürüyüşü kesintisiz sürdürmek)"
+        ],
+        "noun_forms_used": [
+          "مُضِيًّا (`36:67` [1x] — I. bab mastar: bulundukları yerden ileriye doğru adım atıp geçebilme gücü)"
+        ],
+        "preposition_patterns": [
+          "فَقَدْ مَضَتْ سُنَّتُ ٱلْأَوَّلِينَ / وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ (`8:38, 43:8`: önceki toplumların yasasının ve örneğinin tarihte işleyip geçmesi)",
+          "وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ (`15:65`: `حَيْثُ` mekan zarfıyla — emrolunduğunuz yöne doğru duraksamadan ilerleyin)",
+          "أَوْ أَمْضِىَ حُقُبًا (`18:60`: zaman zarfıyla — uzun çağlar boyu yürüyüşü sürdürmek)",
+          "فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ (`36:67`: `ر-ج-ع` karşıtıyla — ne ileri geçebilirler ne geri dönebilirler)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tespit ettiği tek somut çekirdek: 'engeli yarıp geçmek, ileriye doğru kesintisiz nüfuz edip yürümek (`نَفَاذٍ وَمُرُورٍ`)' — kılıcın hedeften geçip kesmesi (`مَضَى السَّيْفُ مَضَاءً`), atın mesafeyi yarıp ilerlemesi ve insanın ya da zamanın ileriye doğru akıp gitmesi aynı 'kesintisiz ileri geçiş ve yürürlük' mekanizmasından doğar. Kur'an'da hem mekânda ileri yürüyüş (`15:65, 18:60, 36:67`) hem de tarihsel yasaların/örneklerin işleyip geçmesi (`8:38, 43:8`) bu tek eksende birleşir.",
+      "ibn_faris_asl": "(مَضَى) الْمِيمُ وَالضَّادُ وَالْحَرْفُ الْمُعْتَلُّ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى نَفَاذٍ وَمُرُورٍ. وَمَضَى يَمْضِي مُضِيًّا. وَالْمَضَاءُ: النَّفَاذُ فِي الْأَمْرِ. وَالْمُضَوَاءُ: التَّقَدُّمُ... [Mu'cemü Mekâyîsi'l-Luğa, c. 5, باب الميم والضاد وما يثلثهما, مضى maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `م-ض-ي` kökünü `نَفَاذٍ وَمُرُورٍ` (nüfuz edip ileriye doğru geçmek) tek aslına bağlar; `الْمَضَاءُ` (işte yürürlük/keskinlik) ve `الْمُضَوَاءُ` (ileri atılmak) bu çekirdekten çıkar.",
+        "lisan_al_arab": "İbn Manzûr `مَضَى الشَّيْءُ مُضِيًّا: خَلَا وَذَهَبَ` ve `مَضَى فِي الْأَمْرِ مَضَاءً: نَفَذَ` tanımlarını vererek hem gidiş/geçişi hem de kararlı yürürlüğü birleştirir.",
+        "ragib_al_isfahani": "Râgıb `الْمُضِيُّ وَالْمَضَاءُ: النَّفَاذُ، وَيُقَالُ ذَلِكَ فِي الْأَعْيَانِ وَالْأَحْدَاثِ` (hem somut varlıklarda hem olaylarda geçip ilerlemek) diyerek mekânsal ilerleme ile zamansal geçişi tek asılda toplar.",
+        "verdict": "Beş geçişin tamamı **'duraksamadan ileriye doğru yürüyüp geçmek (`وَٱمْضُوا۟`, `أَمْضِىَ`, `مُضِيًّا`) ve tarihsel yasa/örneklerin işleyip geride kalması (`مَضَتْ`, `مَضَىٰ`)'** tek somut mekanizmasında birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*m-ḍ-y (Canlı taramada diğer ana Sami dillerinde aynı üçlü iskelette kesin bir ortak ata formu doğrulanmamıştır)",
+        "hebrew": "Doğrudan aynı üçlü kökte kesin bir İbranice eşkökeni tespit edilmemiştir.",
+        "aramaic_syriac": "Doğrudan kesin bir Aramice/Süryanice eşkökeni tespit edilmemiştir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Arapçada sonu illetli (`نَاقِص يَائِي`) bu kök hem somut mekân geçişinde (`مُضِيّ`) hem de keskin nüfuz ve yürürlükte (`مَضَاء`) üretken bir klasik Arapça hareket köküdür."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ر-ج-ع (Geri dönmek ↔ م-ض-ي ileriye doğru geçip gitmek — `36:67`: `فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ`)",
+          "م-ك-ث (Olduğu yerde bekleyip sabit kalmak ↔ م-ض-ي durmaksızın ileriye doğru yol almak — `15:65, 18:60`)"
+        ],
+        "bidirectional_test": "`36:67`'de `فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ` ifadesi ileriye geçiş (`م-ض-ي`) ile geriye dönüş (`ر-ج-ع`) arasında aynı ayette tam eksensel zıtlık kurar; `15:65` ve `18:60`'ta ise yerinde duraklama (`م-ك-ث`) karşısında kararlı ilerleyiş öne çıkar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "س-ل-ف",
+          "ع-و-د",
+          "ب-ل-غ",
+          "ر-ج-ع"
+        ],
+        "analysis": "`8:38`'de `سَلَفَ` (`س-ل-ف`) geçmişte yapılıp bitmiş eylemleri, `مَضَتْ` (`م-ض-ي`) ise tarihte işleyip yürürlüğü kanıtlanmış olan toplum yasasını ayırır; `18:60`'ta `أَبْلُغَ` (`ب-ل-غ`) hedef noktaya ulaşmayı, `أَمْضِىَ` (`م-ض-ي`) ise hedefe varmasa bile uzun zaman yürüyüşü kesintisiz sürdürmeyi belirtir; `36:67`'de `مُضِيًّا` ileri hareketi, `يَرْجِعُونَ` (`ر-ج-ع`) geri dönüşü karşılar."
+      },
+      "anchor_ayahs": [
+        "8:38 (وَإِن يَعُودُوا۟ فَقَدْ مَضَتْ سُنَّتُ ٱلْأَوَّلِينَ — eğer eskiye dönerlerse, öncekilerin yasası işleyip geçmiştir)",
+        "15:65 (وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ — sizden kimse arkasına bakmasın ve emrolunduğunuz yere doğru ilerleyin)",
+        "18:60 (لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًا — iki denizin kavuştuğu yere varıncaya kadar ya da uzun devirler boyu yürüyüp gidinceye dek durmayacağım)",
+        "36:67 (فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ — ne ileri geçmeye güç yetirebilirler ne de geri dönebilirler)",
+        "43:8 (فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ — onlardan yakalayışı daha çetin olanları yok ettik ve öncekilerin örneği tarihte geçip gitti)"
+      ],
+      "unified_core_mechanism": "`م-ض-ي` kökü 5 geçişin tamamında **'ileriye doğru kesintisiz ilerleyip geçmek (`وَٱمْضُوا۟`, `أَمْضِىَ`, `مُضِيًّا`) ve tarihsel yasa/örneğin işleyip yürürlükten geçmesi (`مَضَتْ`, `مَضَىٰ`)'** tek somut mekanizmasıyla işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Mekânda ve Zamanda İleriye Doğru Yürümek (`وَٱمْضُوا۟`, `أَمْضِىَ`, `مُضِيًّا` — `15:65, 18:60, 36:67` [3x]): Geriye bakmadan ilerleme emri, uzun süreli kararlı yürüyüş ve ileri hareket edebilme gücü.",
+          "Dal 2 — Tarihsel Yasa ve Örneğin İşleyip Geçmesi (`مَضَتْ`, `مَضَىٰ` — `8:38, 43:8` [2x]): Önceki toplumlara uygulanan yasa ve ibret örneğinin tarihte gerçekleşip geride kalması."
+        ]
+      },
+      "anti_distortion_and_tabula_rasa": [
+        "`18:60`'taki `أَوْ أَمْضِىَ حُقُبًا` ifadesi edilgen bir 'zaman harcamak' değil, 'hedefe ulaşana dek uzun çağlar boyunca kesintisiz yürüyüşü sürdürmek' anlamındadır; `8:38` ve `43:8`'deki `مَضَتْ / مَضَىٰ` ise yalnızca 'eski bir olay bitti' demek değil, 'yasa yürürlüğe girdi ve tekrar aynı tutum sergilenirse yine işler' uyarısını taşır."
+      ],
+      "turkish_translation_protocol": {
+        "primary": "ileriye doğru geçip gitmek / yürüyüp ilerlemek / işleyip geçmek (`مَضَى / مُضِيّ`)",
+        "contextual_variants": [
+          "8:38 (`فَقَدْ مَضَتْ سُنَّتُ ٱلْأَوَّلِينَ`): öncekilerin yasası işleyip geçmiştir",
+          "15:65 (`وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ`): emrolunduğunuz yere doğru ilerleyin",
+          "18:60 (`أَوْ أَمْضِىَ حُقُبًا`): ya da uzun devirler boyu yürüyüp gidinceye dek",
+          "36:67 (`مُضِيًّا`): ileriye doğru geçip gitmeye",
+          "43:8 (`وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ`): öncekilerin örneği geçip gitti"
+        ]
+      },
+      "derivatives": [
+        {
+          "form": "مَضَى / مَضَتْ",
+          "pos": "I. Bab Mâzi Fiil",
+          "meaning": "Tarihte yürürlüğe girip işleyerek geçmek",
+          "examples": [
+            "8:38",
+            "43:8"
+          ]
+        },
+        {
+          "form": "ٱمْضُوا۟",
+          "pos": "I. Bab Emir Fiil",
+          "meaning": "Geriye dönüp bakmadan ileriye doğru yol alıp ilerleyin",
+          "examples": [
+            "15:65"
+          ]
+        },
+        {
+          "form": "أَمْضِىَ",
+          "pos": "I. Bab Mansûb Muzâri Fiil",
+          "meaning": "Uzun süre kesintisiz yürüyüşü ileriye doğru sürdürmek",
+          "examples": [
+            "18:60"
+          ]
+        },
+        {
+          "form": "مُضِيّ",
+          "pos": "I. Bab Mastar",
+          "meaning": "Bulunulan noktadan ileriye doğru yürüyüp geçme",
+          "examples": [
+            "36:67"
           ]
         }
       ]
