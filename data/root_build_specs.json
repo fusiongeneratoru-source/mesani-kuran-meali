@@ -68301,5 +68301,57 @@
       }
     ],
     "context_default": "İleriye doğru kesintisiz geçiş veya tarihsel yasanın yürürlüğü bağlamı"
+  },
+  "م-ي-د": {
+    "buckwalter": "myd",
+    "slug": "myd",
+    "concept_name": "Temîde ve Mâide (Yerin Sağa Sola Çalkalanıp Sallanması ve Üzerinde Rızık Sunulan Donatılmış Sofra)",
+    "root_latin": "M-Y-D",
+    "keywords": [
+      "meyd",
+      "temide",
+      "maide",
+      "calkalanmak",
+      "sallanmak",
+      "sofra"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tamiyda",
+        "ayahs": [
+          "16:15",
+          "21:31",
+          "31:10"
+        ],
+        "label": "I. Bab mansûb muzâri fiil (`رَوَٰسِىَ أَن تَمِيدَ بِكُمْ / بِهِمْ` — yeryüzü sizi/onları çalkalayıp sarsmasın diye; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "maA^}idap",
+        "ayahs": [
+          "5:112",
+          "5:114"
+        ],
+        "label": "Müennes isim, mef'ûl-i bih ve mansûb (`مَآئِدَةً مِّنَ ٱلسَّمَآءِ` — üzerinde yiyecek sunulan gökten indirilmiş donatılmış sofra; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Yerin çalkalanıp sallanmasını (`تَمِيدَ`) veya donatılmış sofrayı (`مَآئِدَة`) bildiren `م-ي-د` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "16:15",
+          "21:31",
+          "31:10"
+        ],
+        "text": "Yeryüzünün Çalkalanmasını Önleyen Sabit Ağırlıklar (`16:15, 21:31, 31:10`): Yeryüzünün üzerinde yaşayanları sağa sola çalkalayıp sarsmaması (`أَن تَمِيدَ`) için yerleştirilen sabit dağlar (`رَوَٰسِىَ`)."
+      },
+      {
+        "ayahs": [
+          "5:112",
+          "5:114"
+        ],
+        "text": "Gökten İstenen Donatılmış Sofra (`5:112, 5:114`): Havarilerin kalplerinin yatışması için gökten bir sofra (`مَآئِدَةً`) indirilmesini sormaları ve Îsâ'nın bunu hem öncekiler hem sonrakiler için bir sevinç günü ve ayet olarak istemesi."
+      }
+    ],
+    "context_default": "Yerin çalkalanması veya donatılmış rızık sofrası bağlamı"
   }
 }
