@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 5 / 50 Kök (Toplam Mühürlü: 1005 Kök | Güncel Kapsam: %97,29)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 6 / 50 Kök (Toplam Mühürlü: 1006 Kök | Güncel Kapsam: %97,30)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -12,7 +12,7 @@
 | 3 | 6 Geçişli Çekirdek | 723 | `ذ-ر-أ` | `Z-R-E` | **6** | 6 | 6:136 | Zer' (Tohum Serper Gibi Yeryüzünde ve Varlık Alanında Çok Sayıda Canlıyı Üretip Yaymak) | ✅ **MÜHÜRLÜ** |
 | 4 | 6 Geçişli Çekirdek | 692 | `ض-و-أ` | `D-W-E` | **6** | 6 | 2:17 | Idâe ve Dıyâ (Özünden Güçlü Işık ve Parıltı Saçarak Çevreyi Aydınlatmak — Güneş, Ateş ve Vahiy Işıması) | ✅ **MÜHÜRLÜ** |
 | 5 | 6 Geçişli Çekirdek | 733 | `ض-ي-ف` | `D-Y-F` | **6** | 6 | 11:78 | Dayf ve Tadyîf (Yoldan Meledip Haneye İnen Konuk ve Onu Ağırlayıp Konukseverlikle Korumak) | ✅ **MÜHÜRLÜ** |
-| 6 | 6 Geçişli Çekirdek | 724 | `ح-ص-د` | `H-S-D` | **6** | 6 | 6:141 | Hasad, Hasâd ve Hasîd (6/6: olgunlaşan ekini biçmek ve biçilip kökü kazınmış yurtlar) | ⏳ *Bekliyor* |
+| 6 | 6 Geçişli Çekirdek | 724 | `ح-ص-د` | `H-S-D` | **6** | 6 | 6:141 | Hasad, Hasâd ve Hasîd (Olgunlaşan Ekini Kökünden Biçmek ve Biçilip Silinmiş Yurtlar/Topluluklar) | ✅ **MÜHÜRLÜ** |
 | 7 | 6 Geçişli Çekirdek | 708 | `ح-س-س` | `H-S-S` | **6** | 6 | 3:52 | Ehasse, Tahussû, Tehassesû ve Hasîs (6/6: duyuyla kesin sezmek, kökten biçmek, iz aramak ve hafif hışırtı) | ⏳ *Bekliyor* |
 | 8 | 6 Geçişli Çekirdek | 693 | `ب-ك-م` | `B-K-M` | **6** | 6 | 2:18 | Bükm ve Ebkem (6/6: konuşma ve hakkı dile getirme yetisinden yoksun dilsizlik) | ⏳ *Bekliyor* |
 | 9 | 6 Geçişli Çekirdek | 707 | `د-أ-ب` | `D-E-B` | **6** | 6 | 3:11 | De'b, Deeb ve Dâibeyn (6/6: kesintisiz sürüp giden alışkanlık, düzenli yörünge akışı ve azimli çalışma) | ⏳ *Bekliyor* |

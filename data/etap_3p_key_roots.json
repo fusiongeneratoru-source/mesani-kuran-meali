@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3P (En Yüksek Frekanslı Kalan 50 Kök: Kalan Tüm 24 Adet 6 Geçişli Kök [≥6 Açık = 0!] + 26 Adet 5 Geçişli Çekirdek Kök — 1.050 Kök!)",
   "target_count": 50,
-  "locked_count": 5,
+  "locked_count": 6,
   "total_tokens_in_package": 274,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 97.29,
+  "current_coverage_pct": 97.3,
   "target_coverage_pct": 97.78,
   "etap_3p_roots": [
     {
@@ -110,8 +110,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Hasad, Hasâd ve Hasîd (6/6: olgunlaşan ekini biçmek ve biçilip kökü kazınmış yurtlar)",
-      "concept_label": "Analiz Bekliyor (HaSiyd, HaSaAd, HaSad)",
-      "is_locked": false,
+      "concept_label": "Hasad, Hasâd ve Hasîd (Olgunlaşan Ekini Kökünden Biçmek ve Biçilip Silinmiş Yurtlar/Topluluklar)",
+      "is_locked": true,
       "sample_ayah": "6:141",
       "top_lemmas": [
         "HaSiyd",
