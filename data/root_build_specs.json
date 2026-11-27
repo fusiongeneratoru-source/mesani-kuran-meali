@@ -66581,5 +66581,64 @@
       }
     ],
     "context_default": "Kabarıp kuşatan deniz dalgaları veya kalabalıkların dalga dalga birbirine karışması bağlamı"
+  },
+  "غ-ر-ف": {
+    "buckwalter": "grf",
+    "slug": "grf",
+    "concept_name": "İğtirâf ve Gurfe/Guraf/Gurufât (El Avucuyla Ölçülü Su Almak ve Üst Üste Yükseltilmiş Seçkin Üst Kat Köşkleri)",
+    "root_latin": "G-R-F",
+    "keywords": [
+      "igtiraf",
+      "gurfe",
+      "guraf",
+      "gurufat",
+      "avuc su",
+      "ust kat koskler"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{gotarafa",
+        "ayahs": [
+          "2:249"
+        ],
+        "label": "VIII. Bab (İfti'âl) mâzî fiil (`إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ` — ırmaktan kana kana içmek yerine, eliyle avuçlayıp ölçülü biçimde tek bir avuç su almak; Tâlût'un ordusunun disiplin sınaması; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "gurofap",
+        "ayahs": [
+          "2:249",
+          "25:75",
+          "29:58",
+          "39:20"
+        ],
+        "label": "Tekil ve kırık çoğul isim (`غُرْفَةًۢ / ٱلْغُرْفَةَ / غُرَفًا / غُرَفٌ` — `2:249`'da bir avuçluk ölçülü su miktarı [Hafs'ta damme `غُرْفَةً` miktar, başka kıraatlerde fetha `غَرْفَةً` bir kez avuçlama]; `25:75, 29:58, 39:20`'de [4x] ise direngen ve sakınanlara verilecek yüksek üst kat köşkleri/seçkin konutlar; 5 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "gurufa`t",
+        "ayahs": [
+          "34:37"
+        ],
+        "label": "Düzenli dişil çoğul isim (`فِى ٱلْغُرُفَٰتِ ءَامِنُونَ` — güven ve esenlik içinde oturulan yüksek üst kat köşkleri ve seçkin makamlar; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Avuçla ölçülü su almayı (`ٱغْتَرَفَ غُرْفَةً`) veya yükseltilmiş üst kat seçkin konutları (`غُرْفَة / غُرَف / غُرُفَات`) bildiren `غ-ر-ف` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:249"
+        ],
+        "text": "Irmak Sınamasında Bir Avuç Ölçüsü (`2:249`): Tâlût'un ordusuyla sefere çıkarken askerlerini ırmakla sınaması: ondan kana kana içenin kendisinden sayılmayacağı, ancak eliyle tek bir avuç su alan (`إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ`) ölçülü ve disiplinli kimselerin istisna tutulması."
+      },
+      {
+        "ayahs": [
+          "25:75",
+          "29:58",
+          "34:37",
+          "39:20"
+        ],
+        "text": "Yükseltilmiş Güvenli Üst Kat Köşkleri (`25:75, 29:58, 34:37, 39:20`): Direngenlik gösterenlere esenlik ve selamla karşılanacakları en yüksek makamın (`ٱلْغُرْفَةَ`, `25:75`) verilmesi; güvenip yararlı işler yapanların altından ırmaklar akan yüksek köşklere yerleştirilmesi (`غُرَفًا`, `29:58`), bu yüksek konutlarda tam güven içinde olmaları (`فِى ٱلْغُرُفَٰتِ ءَامِنُونَ`, `34:37`) ve sakınanlar için üst üste yapılmış yüksek köşkler (`غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ`, `39:20`) bulunması."
+      }
+    ],
+    "context_default": "El avucuyla ölçülü su alma disiplini veya yükseltilmiş güvenli üst kat köşkleri bağlamı"
   }
 }
