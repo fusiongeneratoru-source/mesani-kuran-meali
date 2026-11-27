@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 11 / 50 Kök (Toplam Mühürlü: 961 Kök | Güncel Kapsam: %96,87)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 12 / 50 Kök (Toplam Mühürlü: 962 Kök | Güncel Kapsam: %96,87)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -18,7 +18,7 @@
 | 9 | Sure %100 Kilidi | 766 | `ج-و-ز` | `C-W-Z` | **5** | 5 | 2:249 | Mücâveze ve Tecâvüz (Bir Engeli, Suyu veya Sınırı Aşıp Geçmek; Kusurların Üstünden Geçip Bağışlamak) | ✅ **MÜHÜRLÜ** |
 | 10 | Sure %100 Kilidi | 832 | `و-ز-ع` | `W-Z-A` | **5** | 5 | 27:17 | Vez' ve Îzâ' (Dağılmaktan Alıkoyup Sıkı Düzen İçinde Toplamak; Gönlü İyiliğe Sevk Edip Alıkoymak) | ✅ **MÜHÜRLÜ** |
 | 11 | Sure %100 Kilidi | 993 | `أ-ف-ف` | `E-F-F` | **3** | 3 | 17:23 | Üff (Bıkkınlık, Hoşnutsuzluk ve Tiksinme Bildiren En Küçük Tepki Ünlemi) | ✅ **MÜHÜRLÜ** |
-| 12 | Sure %100 Kilidi | 1224 | `ع-ي-ي` | `A-Y-Y` | **2** | 2 | 46:33 | Ayye (Sure 46 Ahkâf kilidi + 2 geçiş: 46:33, 50:15 ilk yaratmada yorulup acze düşmemek) | ⏳ *Bekliyor* |
+| 12 | Sure %100 Kilidi | 1224 | `ع-ي-ي` | `A-Y-Y` | **2** | 2 | 46:33 | İ'yâ ve Ayy (Takati Tükenip Yorulmak, Gücü Yetmeyip Aciz Kalmak) | ✅ **MÜHÜRLÜ** |
 | 13 | Sure %100 Kilidi | 1112 | `ن-ص-ت` | `N-S-T` | **2** | 2 | 7:204 | Ensitû (Sure 46 Ahkâf kilidi + 2 geçiş: 7:204, 46:29 ses kesip pürdikkat dinlemek) | ⏳ *Bekliyor* |
 | 14 | Sure %100 Kilidi | 1503 | `ح-ق-ف` | `H-K-F` | **1** | 1 | 46:21 | Ahkâf (Sure 46 Ahkâf son kilidi: 46:21 rüzgârla kıvrılmış uzun kum tepeleri bölgesi — 57. tam kilitli sure!) | ⏳ *Bekliyor* |
 | 15 | Sure %100 Kilidi | 716 | `ف-خ-ر` | `F-H-R` | **6** | 6 | 4:36 | Fahûr, Tefâhur ve Fahhâr (Sure 57 Hadîd kilidi + 6 geçiş: 4:36, 11:10, 31:18, 55:14, 57:20, 57:23 övünüp böbürlenmek ve pişmiş çanak çömlek) | ⏳ *Bekliyor* |
