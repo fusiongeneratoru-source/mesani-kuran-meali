@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 977,
+    "total_locked": 978,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -3455,7 +3455,8 @@
         "أ-ث-م [فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا] (İnsanlar İçin Kısmi Faydalar ↔ Faydasından Çok Daha Büyük Ağır Yıkım/Kusur: 2:219)",
         "ذ-ه-ب [فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ] (Köpük Gibi Boşa Uçup Giden Geçicilik ↔ İnsanlara Fayda Verip Yeryüzünde Kalıcı Olan Gerçeklik: 13:17)",
         "ب-أ-س (B-E-S (bAs) — Çift Yönlü Mesânî Karşılığı: 57:25)",
-        "ز-ب-د (Zebed: sel ve maden üstünde şişip savrulan işe yaramaz köpük ↔ ن-ف-ع altta kalıp insanlara fayda veren saf su ve öz maden `مَا يَنفَعُ ٱلنَّاسَ` — aynı ayette doğrudan karşıtlık `13:17`)"
+        "ز-ب-د (Zebed: sel ve maden üstünde şişip savrulan işe yaramaz köpük ↔ ن-ف-ع altta kalıp insanlara fayda veren saf su ve öz maden `مَا يَنفَعُ ٱلنَّاسَ` — aynı ayette doğrudan karşıtlık `13:17`)",
+        "ج-ف-أ (Cüfâ': faydasız biçimde atılıp yitmek ↔ ن-ف-ع insanlara yarar sağlayarak yeryüzünde tutunmak `وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ` — aynı ayette doğrudan karşıtlık `13:17`)"
       ]
     },
     "ع-ق-ل": {
@@ -6503,7 +6504,8 @@
         "خ-ي-ر (خ-ي-ر ↔ ب-ق-ي Mesânî simetrisi)",
         "م-ت-ع (م-ت-ع ↔ ب-ق-ي Mesânî simetrisi)",
         "ب-ت-ر (Yok olup tükenmenin (فَنَاء / نَفَاد) tam zıddı olarak varlığını sürdürmek, kalıcı olmak v ↔ Bir şeyi tamamlanmadan kesip koparmak, kuyruğunu/devamını dipten kesip güdük bırakmak (الْ: 108:1, 108:3)",
-        "و-ذ-ر [وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ / لَا تُبْقِى وَلَا تَذَرُ] (Elini Çekip Tamamen Bırakmak veya Hiç Kalıntı Bırakmamak ↔ Geride Kalıp Sürmek: 2:278, 74:28)"
+        "و-ذ-ر [وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ / لَا تُبْقِى وَلَا تَذَرُ] (Elini Çekip Tamamen Bırakmak veya Hiç Kalıntı Bırakmamak ↔ Geride Kalıp Sürmek: 2:278, 74:28)",
+        "ج-ف-أ (Cüfâ': selin kıyıya savurup attığı geçici ve işe yaramaz atık `فَيَذْهَبُ جُفَآءً` ↔ ب-ق-ي kalıcı olup özünü korumak — `13:17`)"
       ]
     },
     "ث-ب-ت": {
@@ -12072,6 +12074,15 @@
       "opposites": [
         "س-ك-ن (Sarsıntısız tam durgunluk ve dinginlik ↔ ر-ع-د göğü sarsan hareket ve gürleme — `2:19`, `13:13`)",
         "ص-م-ت (Sesin kesilip tam sessizlik oluşması ↔ ر-ع-د kulakları çınlatan gök gürültüsü — `2:19`, `13:13`)"
+      ]
+    },
+    "ج-ف-أ": {
+      "latin": "C-F-E",
+      "core": "`ج-ف-أ` kökü `13:17`'de hâl olarak **'sel ve eriyik tarafından dışarı savrulup atılan işe yaramaz köpük/atık (`جُفَآءً`)'** somut görüntüsüyle bâtılın geçiciliğini resmeder.",
+      "physical": "İbn Fâris'in tanımladığı somut çekirdek: 'suyun, selin veya kaynayan tencerenin köpüğü ve çerçöpü dışarıya savurup atması' (`مَا نَفَاهُ السَّيْلُ وَرَمَى بِهِ` — işe yaramayan yüzey atığı `جُفَاء`).",
+      "opposites": [
+        "ن-ف-ع (İnsanlara fayda verip değer üretmek `مَا يَنفَعُ ٱلنَّاسَ` ↔ ج-ف-أ faydasız atık halinde savrulup gitmek `جُفَآءً` — `13:17`)",
+        "ب-ق-ي (Kalıcı olup yeryüzünde tutunmak ↔ ج-ف-أ dışarı atılıp yok olmak — `13:17`)"
       ]
     }
   }
