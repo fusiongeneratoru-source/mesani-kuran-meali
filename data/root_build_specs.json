@@ -64365,5 +64365,47 @@
       }
     ],
     "context_default": "Saçın aklaşarak ağarması ve ihtiyarlık/dehşet bağlamı"
+  },
+  "ر-و-ض": {
+    "buckwalter": "rwD",
+    "slug": "rwd_rawda",
+    "concept_name": "Ravda ve Ravdât (Suyun Biriktiği Geniş, Ferah, Yumuşak ve Yemyeşil Çayır/Vaha Bahçesi)",
+    "root_latin": "R-W-D",
+    "keywords": [
+      "ravda",
+      "ravdat",
+      "yemyesil cayir",
+      "vaha",
+      "genis bahce",
+      "ferahlik",
+      "sulak duzluk"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "rawoDap",
+        "ayahs": [
+          "30:15"
+        ],
+        "label": "Tekil isim (`فِى رَوْضَةٍ` — güvenip yararlı işler yapanların içinde sevinç ve ikramla ağırlanacağı geniş, sulak ve yemyeşil çayır/vaha; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "rawoDaAt",
+        "ayahs": [
+          "42:22"
+        ],
+        "label": "Çoğul isim (`فِى رَوْضَاتِ ٱلْجَنَّاتِ` — has bahçelerin en geniş, en sulak, en ferah ve en seçkin çayır/vaha düzlükleri; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Suyun toplandığı geniş, ferah ve yemyeşil çayır/vaha bahçesini (`رَوْضَة / رَوْضَات`) bildiren `ر-و-ض` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "30:15",
+          "42:22"
+        ],
+        "text": "Sonraki Yurdun En Seçkin ve Ferah Vaha Bahçeleri (`30:15`, `42:22`): Güvenip yararlı işler yapanların geniş, sulak ve yemyeşil bir vahada sevinçle ağırlanması (`فَهُمْ فِى رَوْضَةٍ يُحْبَرُونَ`, `30:15`) ve zalimlerin korku içinde titrediği günde has bahçelerin en ferah çayırlarında Rablerinin katında dilediklerine kavuşmaları (`فِى رَوْضَاتِ ٱلْجَنَّاتِ`, `42:22`)."
+      }
+    ],
+    "context_default": "Sulak, geniş, ferah ve yemyeşil vaha/çayır bahçesi bağlamı"
   }
 }

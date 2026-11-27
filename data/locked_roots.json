@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (4/50 — Toplam 954 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (5/50 — Toplam 955 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -42841,7 +42841,8 @@
           "م-ه-د (م-ه-د ↔ ض-ي-ق Mesânî simetrisi)",
           "ف-ج-ج (Fecc/Ficâc: dağlar ve yükseltiler arasında genişçe açılıp aralanan geçit ↔ ض-ي-ق darlık, tıkanıklık ve geçit vermez sıkışma)",
           "ف-س-ح (Fesh/Tefessüh: daralan bir mekânda aralık açıp yer ve ferahlık sağlamak ↔ ض-ي-ق sıkıştırıp daraltmak ve geçişi/alanı kapatmak)",
-          "أ-ف-ق (Ufuk: uçları birbirinden uzaklaşarak genişleyen açık alan ↔ ض-ي-ق sınırları daralıp sıkışmak)"
+          "أ-ف-ق (Ufuk: uçları birbirinden uzaklaşarak genişleyen açık alan ↔ ض-ي-ق sınırları daralıp sıkışmak)",
+          "ر-و-ض (Ravda / Ravdât: suyun yayıldığı geniş, ferah ve yumuşak çayır düzlüğü ↔ ض-ي-ق darlık, sıkışıklık ve boğucu baskı — `30:15`, `42:22`)"
         ],
         "key_ayahs": [
           "6:125",
@@ -71334,7 +71335,8 @@
       "mesani_opposite": {
         "roots": [
           "ف-ر-ح (İçin açılıp sevinç ve ferahlık duyması ↔ غ-م-م kalbi örtüp boğan darlık ve keder — `3:153`, `21:88`)",
-          "ك-ش-ف (Üstteki örtüyü kaldırıp açığa çıkarmak ve sıkıntıyı gidermek ↔ غ-م-م üstünü örtüp kapatmak ve bulanıklaştırmak — `10:71`, `21:88`)"
+          "ك-ش-ف (Üstteki örtüyü kaldırıp açığa çıkarmak ve sıkıntıyı gidermek ↔ غ-م-م üstünü örtüp kapatmak ve bulanıklaştırmak — `10:71`, `21:88`)",
+          "ر-و-ض (Ravda: ferahlık ve sevinçle nefes aldıran açık yeşil vaha ↔ غ-م-م üstü kapanıp boğan kasvet ve tasa — `30:15`, `42:22`)"
         ],
         "bidirectional_test": "Üstü örtüp boğan darlık (`غ-م-م`) tersine çevrildiğinde duygu ekseninde ferahlık/sevinç (`ف-ر-ح`), açıklık ekseninde ise örtüyü kaldırıp açığa çıkarma (`ك-ش-ف`) ortaya çıkar."
       },
@@ -80047,6 +80049,84 @@
           "meaning": "Saçı ağarmışlar (`أَشْيَب` çoğulu)",
           "examples": [
             "73:17"
+          ]
+        }
+      ]
+    },
+    "ر-و-ض": {
+      "root_latin": "R-W-D",
+      "arabic": "ر-و-ض",
+      "rank": 1202,
+      "morphology_and_rasm": {
+        "buckwalter": "rwD",
+        "rasm_skeleton": "روض (üçlü ecvef-i vâvî iskelet; Kur'an'da yalnızca tekil `رَوْضَة` ve çoğul `رَوْضَات` isimleriyle 2 geçiş / 2 ayet)",
+        "approx_frequency": "2 geçiş / 2 ayet (fiil formu geçmez; `رَوْضَة` `30:15`, `رَوْضَات` `42:22`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "رَوْضَة (`30:15` — sulak, geniş ve yemyeşil çayır/vaha)",
+          "رَوْضَات (`42:22` — bahçelerin en ferah ve seçkin çayır düzlükleri)"
+        ],
+        "preposition_patterns": [
+          "فِى رَوْضَةٍ (`30:15`: `فِى` ile nekre tazim halinde geniş ve ferah bir vahada)",
+          "فِى رَوْضَاتِ ٱلْجَنَّاتِ (`42:22`: `جَنَّات` ile izafet kurarak has bahçelerin en güzide çayırlarında)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tespit ettiği somut çekirdek: 'genişleyip yayılmak ve yumuşayıp elverişli hale gelmek' (`الِاتِّسَاعُ وَالتَّلْيِينُ` — yağmur suyunun birikip toprağı yumuşatarak yeşerttiği geniş, ferah çayır ve vaha `رَوْضَة`).",
+      "ibn_faris_asl": "(رَوَضَ) الرَّاءُ وَالْوَاوُ وَالضَّادُ أَصْلَانِ مُتَقَارِبَانِ فِي الْقِيَاسِ، أَحَدُهُمَا يَدُلُّ عَلَى اتِّسَاعٍ، وَالْآخَرُ عَلَى تَلْيِينٍ وَتَسْهِيلٍ... وَالرَّوْضَةُ مِنَ الْبُقُولِ وَالْعُشْبِ، سُمِّيَتْ لِاسْتِرَاضَةِ الْمَاءِ فِيهَا. [Mu'cemü Mekâyîsi'l-Luğa, c. 2, كتاب الراء, باب الراء والواو وما يثلثهما, روض maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ر-و-ض` kökünün birbirine yakın iki çekirdeğini 'genişlik/ferahlık' (`اتِّسَاع`) ve 'yumuşatıp kolaylaştırma' (`تَلْيِين وَتَسْهِيل`) olarak belirler; `رَوْضَة` kelimesinin suyun gelip toplandığı ve bitkilerin gürleştiği geniş düzlükten (`اسْتِرَاضَةُ الْمَاءِ`) doğduğunu açıklar.",
+        "lisan_al_arab": "İbn Manzûr `رَوْضَة` isminin suyu bol, yeşilliği ve çiçekleri zengin, toprağı yumuşak ve ferah bahçe/çayır olduğunu; `رَاضَ الدَّابَّةَ` ('bineği yumuşatıp alıştırmak') anlamının da aynı yumuşatma eksenine dayandığını kaydeder.",
+        "ragib_al_isfahani": "Râgıb `رَوْضَة`'yi suyu biriken ve yeşilliği gürleşen seçkin arazi olarak tanımlar; `42:22`'deki `رَوْضَاتِ ٱلْجَنَّاتِ` tamlamasının has bahçelerin en güzide, en ferah ve en seçkin köşelerine işaret ettiğini belirtir.",
+        "verdict": "Her iki geçiş **'suyun toplanıp yeşerttiği geniş, ferah ve yumuşak çayır/vaha bahçesi (`رَوْضَة / رَوْضَات`)'** tek somut çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*r-w-ḍ (Arapçada belirginleşen 'genişlemek, yumuşamak, sulak çayır' çekirdeği)",
+        "hebrew": "Doğrudan kesin bir İbranice eşkökeni tespit edilmemiştir (İbranice rṣh 'hoşnut olmak' farklı köktür).",
+        "aramaic_syriac": "Doğrudan kesin bir Aramice/Süryanice eşkökeni tespit edilmemiştir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Klasik Arap çöl coğrafyasında yağmurun çukur düzlükte toplanıp yeşerttiği vaha (`رَوْضَة`) imgesi, Kur'an'da her iki geçişte de (`30:15`, `42:22`) yalnızca güvenip yararlı işler yapanların sonraki yurt ferahlığı için seçilmiştir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ض-ي-ق (Daraltan sıkışıklık ve bunaltı ↔ ر-و-ض suyun yayıldığı geniş, ferah ve yemyeşil çayır — `30:15`, `42:22`)",
+          "غ-م-م (Üstü kapanıp boğan tasa ↔ ر-و-ض nefes aldıran açık ve sevinçli vaha — `30:15`, `42:22`)"
+        ],
+        "bidirectional_test": "`42:22`'de zalimlerin korku ve darlık içinde titremesi (`مُشْفِقِينَ`) ile yararlı işler yapanların `رَوْضَاتِ ٱلْجَنَّاتِ` ferahlığı arasındaki karşıtlık, `ر-و-ض` kökünün `ض-ي-ق` ve `غ-م-م` ile mesânî zıtlığını gösterir."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ج-ن-ن",
+          "ح-ب-ر"
+        ],
+        "analysis": "`42:22`'de `ٱلْجَنَّاتِ` (`ج-ن-ن`) sık ağaçlarla örtülü bahçeleri, `رَوْضَاتِ` ise o bahçelerin içindeki açık, sulak, çiçekli ve en ferah çayır alanlarını ayırır. `30:15`'te `رَوْضَةٍ` mekanın ferahlığını, `يُحْبَرُونَ` (`ح-ب-ر`) ise oradaki sevinç parlaklığını tamamlar."
+      },
+      "anchor_ayahs": [
+        "30:15 (فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَهُمْ فِى رَوْضَةٍ يُحْبَرُونَ — güvenip yararlı işler yapanlar geniş ve yemyeşil bir vahada sevinçle ağırlanırlar)",
+        "42:22 (وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ — güvenip yararlı işler yapanlar has bahçelerin en ferah çayırlarındadır; Rablerinin katında diledikleri onlarındır)"
+      ],
+      "unified_core_mechanism": "`ر-و-ض` kökü 2 geçişinin tamamında **'suyun birikip yeşerttiği geniş, ferah ve seçkin çayır/vaha (`رَوْضَة / رَوْضَات`)'** mekanını güvenip yararlı işler yapanların sonraki yurt ödülü olarak sunar.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Tekil Tazim Nekresi (`فِى رَوْضَةٍ` — `30:15`): Belirsiz tekil biçimle eşsiz bir ferahlık vahası vurgusu.",
+          "Dal 2 — İzafetli Çoğul (`فِى رَوْضَاتِ ٱلْجَنَّاتِ` — `42:22`): Bahçelerin içindeki en güzide çayırlar."
+        ],
+        "irab_notes": "Her iki ayette de `فِى` harf-i cerriyle mecrûr zarf-ı müstakar/haber olarak geçer."
+      },
+      "derivatives": [
+        {
+          "form": "رَوْضَة",
+          "pos": "İsim (Tekil)",
+          "meaning": "Sulak, geniş ve yemyeşil çayır/vaha",
+          "examples": [
+            "30:15"
+          ]
+        },
+        {
+          "form": "رَوْضَات",
+          "pos": "İsim (Çoğul)",
+          "meaning": "Bahçelerin en ferah ve seçkin çayır düzlükleri",
+          "examples": [
+            "42:22"
           ]
         }
       ]
