@@ -66452,5 +66452,70 @@
       }
     ],
     "context_default": "Azgınlık, bilinç sarhoşluğu veya yanılsama içinde yönünü kaybedip şaşkınca bocalama bağlamı"
+  },
+  "خ-ط-ف": {
+    "buckwalter": "xTf",
+    "slug": "xtf",
+    "concept_name": "Hatf ve Tehattuf (Çevik ve Ani Bir Hamleyle Kapıp Götürmek, Yağmalayıp Koparmak)",
+    "root_latin": "H-T-F",
+    "keywords": [
+      "hatf",
+      "tehattuf",
+      "kapip goturmek",
+      "aniden kapmak",
+      "yagmalanmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xaTifa",
+        "ayahs": [
+          "2:20",
+          "22:31",
+          "37:10"
+        ],
+        "label": "I. Bab (Sülâsî) fiil (`يَخْطَفُ / فَتَخْطَفُهُ / خَطِفَ` — aniden, göz açıp kapayıncaya kadar çevik bir hamleyle kapıvermek: `2:20` şimşeğin gözleri kapacak gibi olması; `22:31` Allah'a ortak koşanın gökten düşüp kuşlar tarafından kapılıvermesi; `37:10` gizlice tek bir kırıntı söz kapıveren; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "yataxaT~afa",
+        "ayahs": [
+          "8:26",
+          "28:57",
+          "29:67"
+        ],
+        "label": "V. Bab (Tefa''ul) etken ve edilgen fiil (`يَتَخَطَّفَكُمُ / نُتَخَطَّفْ / يُتَخَطَّفُ` — insanların güvensiz ortamda zorla kapılıp yağmalanması/sürüklenip götürülmesi: `8:26` zayıfken insanların kendilerini kapıp götürmesinden korkanların barındırılması; `28:57, 29:67` güvenli dokunulmaz bölge `حَرَمًا ءَامِنًا` karşısında çevredeki insanların kapılıp yağmalanması; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "xaTofap",
+        "ayahs": [
+          "37:10"
+        ],
+        "label": "İsm-i merre / isim (`ٱلْخَطْفَةَ` — tek bir ani kapma/çalıntı kulak hırsızlığı hamlesi; `37:10` aniden bir kırıntı kapanı delici alevli ışığın izlemesi; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Ani ve çevik bir hamleyle kapıp götürmeyi (`خَطِفَ / تَخَطَّفَ / خَطْفَة`) bildiren `خ-ط-ف` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "8:26",
+          "28:57",
+          "29:67"
+        ],
+        "text": "Güvenli Dokunulmaz Bölge Karşısında Kapılıp Yağmalanma Korkusu (`8:26, 28:57, 29:67`): Zayıf ve az iken insanların kendilerini kapıp götürmesinden (`أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ`, `8:26`) korkanların barındırılması; Mekkeli önderlerin 'seninle doğru yola uyarsak yurdumuzdan kapılıp atılırız (`نُتَخَطَّفْ مِنْ أَرْضِنَآ`, `28:57`)' bahanesine karşı Allah'ın onlara güvenli bir harem (`حَرَمًا ءَامِنًا`) kurduğu halde çevrelerindeki insanların kapılıp yağmalandığının (`وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ`, `29:67`) hatırlatılması."
+      },
+      {
+        "ayahs": [
+          "2:20",
+          "22:31"
+        ],
+        "text": "Şimşeğin Gözleri ve Kuşların Düşeni Kapıvermesi (`2:20, 22:31`): Sağanak altındaki ikiyüzlülerin gözlerini şimşeğin neredeyse kapıverecek olması (`يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ`, `2:20`) ile Allah'a ortak koşan kimsenin gökten düşüp yırtıcı kuşların kendisini havada kapıvermesi (`فَتَخْطَفُهُ ٱلطَّيْرُ`, `22:31`) benzetmesi."
+      },
+      {
+        "ayahs": [
+          "37:10"
+        ],
+        "text": "Ani Bir Kulak Hırsızlığı Hamlesi (`37:10`): Yüce topluluğu dinleyemeyenlerin arasından yalnızca ani bir kapışla bir kırıntı kapan (`إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ`) olursa, onu delip geçen parlak bir alevin izlemesi."
+      }
+    ],
+    "context_default": "Ani ve çevik kapıp götürme, yağmalanma korkusu veya göz kamaştıran hızlı kapma bağlamı"
   }
 }
