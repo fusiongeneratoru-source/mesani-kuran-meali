@@ -64783,5 +64783,67 @@
       }
     ],
     "context_default": "Rüzgarın büktüğü kıvrımlı kum tepeleri ve Âd kavminin yurdu bağlamı"
+  },
+  "ف-خ-ر": {
+    "buckwalter": "fxr",
+    "slug": "fxr",
+    "concept_name": "Fahr, Fahûr, Tefâhur ve Fehhâr (Kendini Büyük Görüp Böbürlenmek, Karşılıklı Övünme Yarışı ve Pişmiş Çömlek/Kuru Kil)",
+    "root_latin": "F-H-R",
+    "keywords": [
+      "fahr",
+      "fahur",
+      "tefahur",
+      "fehhar",
+      "ovunmek",
+      "boburlenmek",
+      "pismis comlek",
+      "kuru balcik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "faxuwr",
+        "ayahs": [
+          "4:36",
+          "11:10",
+          "31:18",
+          "57:23"
+        ],
+        "label": "Mübalağalı sıfat (`فَخُورًا / فَخُورٌ / فَخُورٍ` — elde ettiği nimet veya konumla aşırı övünüp böbürlenen, başkalarına tepeden bakan: `4:36`, `31:18`, `57:23` Allah'ın sevmediği 'kendini beğenmiş böbürlenen' `مُخْتَالٍ فَخُورٍ`; `11:10` darlıktan sonra bolluk tadınca şımarıp böbürlenen insan `لَفَرِحٌ فَخُورٌ`; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "tafaAxur",
+        "ayahs": [
+          "57:20"
+        ],
+        "label": "VI. bab masdarı (`وَتَفَاخُرٌۢ بَيْنَكُمْ` — dünya hayatının geçici yüzlerinden biri olan insanların birbirine üstünlük taslama ve övünme yarışı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "fax~aAr",
+        "ayahs": [
+          "55:14"
+        ],
+        "label": "İsim (`كَٱلْفَخَّارِ` — ateşte pişirilip sertleşmiş, vurulunca tınlayan çömlek/testi kili: insanın yaratıldığı kuru balçığın niteliği `صَلْصَٰلٍ كَٱلْفَخَّارِ`; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Aşırı övünüp böbürlenmeyi (`فَخُور / تَفَاخُر`) veya pişirilmiş sert çömleği (`فَخَّار`) bildiren `ف-خ-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:36",
+          "11:10",
+          "31:18",
+          "57:20",
+          "57:23"
+        ],
+        "text": "Böbürlenme ve Karşılıklı Üstünlük Övünmesi (`4:36`, `11:10`, `31:18`, `57:20`, `57:23`): Allah'ın hiçbir kibirli ve çok böbürlenen kimseyi sevmemesi (`مُخْتَالٍ فَخُورٍ`, `4:36`, `31:18`, `57:23`), sıkıntı sonrası nimeti tadınca şımarıp övünen insan psikolojisi (`لَفَرِحٌ فَخُورٌ`, `11:10`) ve dünya hayatının aldatıcı bir övünme yarışına dönüşmesi (`تَفَاخُرٌۢ بَيْنَكُمْ`, `57:20`)."
+      },
+      {
+        "ayahs": [
+          "55:14"
+        ],
+        "text": "Pişmiş Çömlek Gibi Kuru Balçıktan Yaratılış (`55:14`): İnsanın, tıpkı ateşte pişip vurulunca ses veren çömlek gibi kurumuş bir balçıktan yaratıldığının hatırlatılması (`خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ`)."
+      }
+    ],
+    "context_default": "Kendini büyük görüp böbürlenme, karşılıklı övünme yarışı veya pişmiş çömlek kili bağlamı"
   }
 }
