@@ -65692,5 +65692,50 @@
       }
     ],
     "context_default": "İnsanın içinde taşıdığı gereksinim, ulaşmak istediği hedef veya gönüldeki eksiklik hissi bağlamı"
+  },
+  "د-و-ل": {
+    "buckwalter": "dwl",
+    "slug": "dwl",
+    "concept_name": "Müdâvele ve Dûle (El Değiştirip Sırayla Döndürmek ve Servetin Tek Zümre İçinde Dönüp Durması)",
+    "root_latin": "D-W-L",
+    "keywords": [
+      "mudavele",
+      "dule",
+      "el degistirmek",
+      "servet dolasimi",
+      "gunlerin donusu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nudaAwilu",
+        "ayahs": [
+          "3:140"
+        ],
+        "label": "III. Bab (Müfâ'ale) muzâri fiil (`نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ` — bir durumu, üstünlük ve imtihan günlerini insanlar arasında sırayla el değiştirterek döndürmek; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "duwlap",
+        "ayahs": [
+          "59:7"
+        ],
+        "label": "İsim (`دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ` — `فُعْلَة` kalıbı: yalnızca zenginlerin kendi aralarında elden ele çevirip döndürdükleri tekelleşmiş servet dolaşımı; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Günlerin veya servetin taraflar arasında el değiştirip dönmesini (`نُدَاوِلُ / دُولَة`) bildiren `د-و-ل` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:140"
+        ],
+        "text": "Tarihin ve İmtihan Günlerinin İnsanlar Arasında Döndürülmesi (`3:140`): Uhud'da alınan yaranın ardından, benzer bir yaranın karşı topluluğa da dokunduğunu hatırlatarak Allah'ın üstünlük ve sınav günlerini insanlar arasında sırayla döndürmesi (`وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ`)."
+      },
+      {
+        "ayahs": [
+          "59:7"
+        ],
+        "text": "Servetin Yalnız Zenginler Arasında Dönen Bir Tekele Dönüşmemesi (`59:7`): Savaşsız elde edilen kamu gelirlerinin yetimlere, yoksullara ve yolda kalmışlara paylaştırılmasının temel iktisadi ilkesi: malın yalnızca aranızdaki zenginler arasında dönüp dolaşan bir tekel (`كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ`) olmaması."
+      }
+    ],
+    "context_default": "Tarihsel günlerin dönüşümü veya servetin toplumsal dolaşımı bağlamı"
   }
 }
