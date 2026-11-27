@@ -67140,5 +67140,57 @@
       }
     ],
     "context_default": "Duyuyla sezme, dikkatli iz araştırma, hafif ses belirtisi veya düşmanı kökten alt etme bağlamı"
+  },
+  "ب-ك-م": {
+    "buckwalter": "bkm",
+    "slug": "bkm",
+    "concept_name": "Ebkem ve Bükm (Söz ve Hakkı Dile Getirme Yetisinden Yoksun Dilsizlik / Tutukluk)",
+    "root_latin": "B-K-M",
+    "keywords": [
+      "ebkem",
+      "bukm",
+      "dilsiz",
+      "konusamayan",
+      "hakki dile getirememek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">abokam",
+        "ayahs": [
+          "2:18",
+          "2:171",
+          "6:39",
+          "8:22",
+          "16:76",
+          "17:97"
+        ],
+        "label": "Sıfat-ı müşebbehe tekil ve çoğulu (`أَبْكَمُ / بُكْمٌ / ٱلْبُكْمُ / بُكْمًا` — `أَفْعَل / فُعْل` kalıbı: konuşma ve anlamlı söz üretme yetisinden yoksun dilsiz(ler); `16:76`'da hiçbir şeye gücü yetmeyip efendisine yük olan dilsiz adam meseli; diğer 5 ayette ise işitme ve görme duyularıyla birlikte hakikati dile getirmeye kapalı zihinsel/iradî dilsizlik; 6 geçiş / 6 ayet)"
+      }
+    ],
+    "irab_default": "Konuşma ve anlamlı/hak söz dile getirme yetisinden yoksunluğu (`أَبْكَم / بُكْم`) bildiren `ب-ك-م` sıfat formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:18",
+          "2:171",
+          "6:39",
+          "8:22"
+        ],
+        "text": "Hakikate Kapalı İradî Sağırlık ve Dilsizlik (`2:18, 2:171, 6:39, 8:22`): İkiyüzlülerin (`2:18`), gerçeği örtenlerin (`2:171`), ayetleri yalanlayanların (`6:39`) ve akıllarını işletmeyen canlıların en kötülerinin (`8:22`) hakikati dinlemeyen sağırlar ve hakkı dile getiremeyen dilsizler (`صُمٌّۢ بُكْمٌ`) olarak nitelenmesi."
+      },
+      {
+        "ayahs": [
+          "16:76"
+        ],
+        "text": "Hiçbir Şeye Gücü Yetmeyen Dilsiz Adam Meseli (`16:76`): Hiçbir işe gücü yetmeyen, sorumlusunun sırtında yük olan ve nereye gönderilse hayır getiremeyen dilsiz bir adam (`أَحَدُهُمَآ أَبْكَمُ`) ile dosdoğru yol üzerinde adaleti buyuran kimsenin bir tutulamayacağı benzetmesi."
+      },
+      {
+        "ayahs": [
+          "17:97"
+        ],
+        "text": "Hesap Gününde Kör, Dilsiz ve Sağır Olarak Toplanmak (`17:97`): Allah'ın saptırdığı (sapmayı seçtikleri için başıboş bıraktığı) kimselerin o gün yüzüstü, körler, dilsizler ve sağırlar halinde (`عُمْيًا وَبُكْمًا وَصُمًّا`) bir araya toplanması."
+      }
+    ],
+    "context_default": "Fiziksel veya hakikati dile getirmeye kapalı iradî dilsizlik bağlamı"
   }
 }

@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 7 / 50 Kök (Toplam Mühürlü: 1007 Kök | Güncel Kapsam: %97,31)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 8 / 50 Kök (Toplam Mühürlü: 1008 Kök | Güncel Kapsam: %97,33)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -14,7 +14,7 @@
 | 5 | 6 Geçişli Çekirdek | 733 | `ض-ي-ف` | `D-Y-F` | **6** | 6 | 11:78 | Dayf ve Tadyîf (Yoldan Meledip Haneye İnen Konuk ve Onu Ağırlayıp Konukseverlikle Korumak) | ✅ **MÜHÜRLÜ** |
 | 6 | 6 Geçişli Çekirdek | 724 | `ح-ص-د` | `H-S-D` | **6** | 6 | 6:141 | Hasad, Hasâd ve Hasîd (Olgunlaşan Ekini Kökünden Biçmek ve Biçilip Silinmiş Yurtlar/Topluluklar) | ✅ **MÜHÜRLÜ** |
 | 7 | 6 Geçişli Çekirdek | 708 | `ح-س-س` | `H-S-S` | **6** | 6 | 3:52 | Hass, İhsâs, Tehassüs ve Hasîs (Kökten Biçip Bastırmak, Duyuyla Kesin Sezmek, İz Sürüp Araştırmak ve Hafif Hışırtı) | ✅ **MÜHÜRLÜ** |
-| 8 | 6 Geçişli Çekirdek | 693 | `ب-ك-م` | `B-K-M` | **6** | 6 | 2:18 | Bükm ve Ebkem (6/6: konuşma ve hakkı dile getirme yetisinden yoksun dilsizlik) | ⏳ *Bekliyor* |
+| 8 | 6 Geçişli Çekirdek | 693 | `ب-ك-م` | `B-K-M` | **6** | 6 | 2:18 | Ebkem ve Bükm (Söz ve Hakkı Dile Getirme Yetisinden Yoksun Dilsizlik / Tutukluk) | ✅ **MÜHÜRLÜ** |
 | 9 | 6 Geçişli Çekirdek | 707 | `د-أ-ب` | `D-E-B` | **6** | 6 | 3:11 | De'b, Deeb ve Dâibeyn (6/6: kesintisiz sürüp giden alışkanlık, düzenli yörünge akışı ve azimli çalışma) | ⏳ *Bekliyor* |
 | 10 | 6 Geçişli Çekirdek | 709 | `د-ر-س` | `D-R-S` | **6** | 6 | 3:79 | Derese ve Dirâse (6/6: metni tekrar tekrar okuyup inceleyerek derinlemesine öğrenmek) | ⏳ *Bekliyor* |
 | 11 | 6 Geçişli Çekirdek | 739 | `ف-ز-ع` | `F-Z-A` | **6** | 6 | 21:103 | Fezia, Feza' ve Füzzia (6/6: ansızın kaplayan şiddetli dehşet/telaş ve kalplerden o telaşın giderilmesi) | ⏳ *Bekliyor* |

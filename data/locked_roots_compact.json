@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 1007,
+    "total_locked": 1008,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -279,7 +279,8 @@
         "ع-ر-ب (A-R-B (Erb) — Çift Yönlü Mesânî Karşılığı: 16:103, 41:44, 12:2, 39:28)",
         "م-ر-ي (`11:17` `عَلَىٰ بَيِّنَةٍ ... فَلَا تَكُ فِى مِرْيَةٍ` — açık belge üzerinde durmak karşısında kuşkuya saplanmak)",
         "و-ص-ف (W-S-F (wSf) — Çift Yönlü Mesânî Karşılığı: 6:100, 16:116, 21:18 [تَصِفُونَ — bulanıklaştırıcı yakıştırma ↔ gerçeği apaçık ortaya koyan beyan])",
-        "ل-و-ي (L-W-Y (lwy) — Çift Yönlü Mesânî Karşılığı: açık ve anlaşılır biçimde ortaya koymak `بَيَان` ↔ sözü dille büküp anlaşılmaz ve saptırıcı hâle getirmek `لَيّ`)"
+        "ل-و-ي (L-W-Y (lwy) — Çift Yönlü Mesânî Karşılığı: açık ve anlaşılır biçimde ortaya koymak `بَيَان` ↔ sözü dille büküp anlaşılmaz ve saptırıcı hâle getirmek `لَيّ`)",
+        "ب-ك-م (Bükm: söz ve hakikati açıklayamayan tutuk dilsizlik ↔ ب-ي-ن meramını ve hakkı açıkça ortaya koymak — `6:39, 16:76`)"
       ]
     },
     "ر-س-ل": {
@@ -10337,7 +10338,8 @@
       "opposites": [
         "ك-ت-م (K-T-M — Çift Yönlü Mesânî Karşılığı: `23:62`, `45:29` — hakikati açık ve eklemli beyanla dile getirmek `يَنطِقُ بِٱلْحَقِّ` ↔ gerçeği içine kapatıp gizlemek `كِتْمَان`)",
         "ك-ذ-ب (K-Z-B — Çift Yönlü Mesânî Karşılığı: `23:62`, `45:29`, `53:3` — hevesten uzak biçimde dosdoğru hakikati dillendirmek `يَنطِقُ بِٱلْحَقِّ / مَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ` ↔ gerçeği çarpıtıp yalan üretmek `كَذِب`)",
-        "ص-م-ت (S-M-T (Smt) — Çift Yönlü Mesânî Karşılığı: `7:193` — anlaşılır sözle dile getirmek `نُطْق` ↔ bütünüyle suskun kalıp ses vermemek `صَٰمِتُونَ`)"
+        "ص-م-ت (S-M-T (Smt) — Çift Yönlü Mesânî Karşılığı: `7:193` — anlaşılır sözle dile getirmek `نُطْق` ↔ bütünüyle suskun kalıp ses vermemek `صَٰمِتُونَ`)",
+        "ب-ك-م (Ebkem/Bükm: konuşma ve anlamlı söz üretme yetisinden yoksun dilsiz olmak `بُكْمٌ / أَبْكَمُ` ↔ ن-ط-ق berrak ve anlaşılır biçimde konuşup dile getirmek — `2:18, 16:76`)"
       ]
     },
     "ح-ي-ق": {
@@ -12396,6 +12398,16 @@
       "opposites": [
         "غ-ف-ل (Belirtileri fark etmeden aymazlık içinde kalmak ↔ ح-س-س duyuları açık tutup kesin biçimde sezmek ve iz aramak `أَحَسَّ / تَحَسَّسُوا۟` — `3:52, 12:87`)",
         "خ-ف-ي (Duyulardan gizli kalmak ↔ ح-س-س varlığı sezilmek veya hafif hışırtısı duyulmak `تُحِسُّ / حَسِيسَهَا` — `19:98, 21:102`)"
+      ]
+    },
+    "ب-ك-م": {
+      "latin": "B-K-M",
+      "core": "`ب-ك-م` kökü 6 ayetin tamamında `أَبْكَم / بُكْم` sıfatıyla **'konuşma, anlamlı söz üretme ve hakkı dile getirme yetisinden yoksun dilsizlik'** anlamında işler.",
+      "physical": "İbn Fâris ve Halîl'in tanımladığı tek somut çekirdek: 'dilin ve ifade gücünün tutulmasıyla konuşamamak (`الْخَرَسُ`)' — doğuştan konuşma yoksunluğunu (`16:76`) ve bundan genişleyerek akıl ve hakikati dile getirme yetisini bilerek devre dışı bırakmayı (`2:18, 2:171, 6:39, 8:22, 17:97`) anlatır.",
+      "opposites": [
+        "ن-ط-ق (Anlamlı ve berrak biçimde konuşmak ↔ ب-ك-م konuşma yetisinden yoksun dilsiz olmak `أَبْكَم / بُكْم` — `2:18, 16:76`)",
+        "ب-ي-ن (Hakkı ve adaleti açıkça dile getirip ortaya koymak ↔ ب-ك-م ifade gücünden yoksun tutukluk — `6:39, 16:76`)",
+        "ع-ق-ل (A-K-L (Eql) — Çift Yönlü Mesânî Karşılığı)"
       ]
     }
   }

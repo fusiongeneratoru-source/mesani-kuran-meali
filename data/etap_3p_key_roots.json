@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3P (En Yüksek Frekanslı Kalan 50 Kök: Kalan Tüm 24 Adet 6 Geçişli Kök [≥6 Açık = 0!] + 26 Adet 5 Geçişli Çekirdek Kök — 1.050 Kök!)",
   "target_count": 50,
-  "locked_count": 7,
+  "locked_count": 8,
   "total_tokens_in_package": 274,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 97.31,
+  "current_coverage_pct": 97.33,
   "target_coverage_pct": 97.78,
   "etap_3p_roots": [
     {
@@ -149,8 +149,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Bükm ve Ebkem (6/6: konuşma ve hakkı dile getirme yetisinden yoksun dilsizlik)",
-      "concept_label": "Analiz Bekliyor (>abokam)",
-      "is_locked": false,
+      "concept_label": "Ebkem ve Bükm (Söz ve Hakkı Dile Getirme Yetisinden Yoksun Dilsizlik / Tutukluk)",
+      "is_locked": true,
       "sample_ayah": "2:18",
       "top_lemmas": [
         ">abokam"
