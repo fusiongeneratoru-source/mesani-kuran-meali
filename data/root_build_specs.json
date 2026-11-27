@@ -67257,5 +67257,63 @@
       }
     ],
     "context_default": "Kesintisiz düzenli akış, azimli çalışma temposu veya yerleşik toplumsal gidişat bağlamı"
+  },
+  "د-ر-س": {
+    "buckwalter": "drs",
+    "slug": "drs",
+    "concept_name": "Ders ve Dirâse (Bir Metni İz Sürer Gibi Tekrar Tekrar Okuyup İnceleyerek Derinlemesine Öğrenmek)",
+    "root_latin": "D-R-S",
+    "keywords": [
+      "ders",
+      "dirase",
+      "tekrar okuyup incelemek",
+      "kitap ogrenmek",
+      "metin takibi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "darasu",
+        "ayahs": [
+          "3:79",
+          "6:105",
+          "7:169",
+          "34:44",
+          "68:37"
+        ],
+        "label": "I. Bab (Sülâsî) mâzî ve muzâri fiil (`تَدْرُسُونَ / دَرَسْتَ / دَرَسُوا۟ / يَدْرُسُونَهَا` — bir kitabı veya metni tekrar tekrar okuyup satır satır inceleyerek sindirmek: `3:79` kitabı öğretip üzerinde çalıştığınız için olgun/Rabbanî olun; `6:105` muhatapların 'sen bunları bir yerden okuyup ders almışsın' ithamı; `7:169` kitapta olanı inceleyip bildikleri halde dünya menfaatine sapmaları; `34:44, 68:37` okuyup inceleyecekleri bir kitap verilmediği/ellerinde böyle bir kitap olmadığı; 5 geçiş / 5 ayet)"
+      },
+      {
+        "lemma": "diraAsat",
+        "ayahs": [
+          "6:156"
+        ],
+        "label": "Mastar / isim (`وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَٰفِلِينَ` — önceki iki topluluğun kitap üzerindeki okuma ve inceleme çalışmalarından habersiz olunduğu bahanesini ortadan kaldırmak; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Bir kitabı tekrar tekrar okuyup satır satır inceleyerek öğrenmeyi (`دَرَسَ / دِرَاسَة`) bildiren `د-ر-س` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:79",
+          "7:169"
+        ],
+        "text": "Kitabı Derinlemesine İncelemek ve Sorumluluğu (`3:79, 7:169`): Kitabı öğreten ve üzerinde tekrar tekrar çalışıp inceleyen (`وَبِمَا كُنتُمْ تَدْرُسُونَ`, `3:79`) kimselerin insanları kendine kul etmek yerine Rabbe adanmış olgun eğitimciler olması; buna karşılık kitaba varis olup içindekini inceleyip öğrendikleri halde (`وَدَرَسُوا۟ مَا فِيهِ`, `7:169`) geçici menfaat uğruna sözleşmeyi çiğneyenlerin eleştirisi."
+      },
+      {
+        "ayahs": [
+          "6:105",
+          "6:156"
+        ],
+        "text": "Ayetlerin Çeşitlendirilmesi ve Bilgisizlik Bahanesinin Kaldırılması (`6:105, 6:156`): Ayetlerin farklı açılardan açıklanması üzerine muhatapların 'sen birilerinden ders alıp öğrenmişsin' (`وَلِيَقُولُوا۟ دَرَسْتَ`, `6:105`) demeleri; bu kitabın indirilmesinin, 'kitap bizden önceki iki topluluğa indirildi, biz onların kitap incelemelerinden (`عَن دِرَاسَتِهِمْ`, `6:156`) habersizdik' bahanesini kapatması."
+      },
+      {
+        "ayahs": [
+          "34:44",
+          "68:37"
+        ],
+        "text": "Dayanaksız İddialara Karşı 'İncelediğiniz Bir Kitap mı Var?' Sorusu (`34:44, 68:37`): Mekkelilere daha önce okuyup inceleyecekleri kitaplar verilmediği (`مِن كُتُبٍ يَدْرُسُونَهَا`, `34:44`) ve keyfî hükümler ileri sürenlere 'yoksa içinde okuyup incelediğiniz bir kitabınız mı var?' (`أَمْ لَكُمْ كِتَٰبٌ فِيهِ تَدْرُسُونَ`, `68:37`) sorusu."
+      }
+    ],
+    "context_default": "Kitap ve vahiy metnini tekrar tekrar okuyup inceleyerek öğrenme bağlamı"
   }
 }
