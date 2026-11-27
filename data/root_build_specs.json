@@ -68614,5 +68614,42 @@
       }
     ],
     "context_default": "Aşamalı adım izlerinden sakınma bağlamı"
+  },
+  "ش-ط-ر": {
+    "buckwalter": "$Tr",
+    "slug": "$Tr",
+    "concept_name": "Şatr (Belirlenmiş Odak Noktasının Tarafı, Doğrultusu ve Ortak Yönelim İstikameti)",
+    "root_latin": "Ş-T-R",
+    "keywords": [
+      "satr",
+      "yon",
+      "taraf",
+      "istikamet",
+      "dogrultu",
+      "yonelme"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$aTor",
+        "ayahs": [
+          "2:144",
+          "2:149",
+          "2:150"
+        ],
+        "label": "Mansûb mekân/yön zarfı, muzâf (`شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ` / `شَطْرَهُۥ` — yüzün çevrildiği belirlenmiş taraf ve ortak istikamet doğrultusu; 5 geçiş / 3 ayet)"
+      }
+    ],
+    "irab_default": "Belirlenmiş taraf ve yönelim istikametini bildiren `ش-ط-ر` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:144",
+          "2:149",
+          "2:150"
+        ],
+        "text": "Evrensel Ortak Yönelim Doğrultusunun Sabitlenmesi (`2:144, 2:149, 2:150`): Nereden çıkılırsa çıkılsın ve yeryüzünün neresinde olunursa olunsun, yüzlerin dokunulmaz saygın teslimiyet mekânının istikametine (`شَطْرَ`) çevrilerek ortak bir yönelim ekseni kurulması."
+      }
+    ],
+    "context_default": "Ortak yönelim tarafı ve istikameti bağlamı"
   }
 }
