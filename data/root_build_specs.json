@@ -66343,5 +66343,60 @@
       }
     ],
     "context_default": "Miras, mehir, ceza veya gece vaktinde bir bütünün eşit yarısı (1/2) bağlamı"
+  },
+  "ح-ظ-ظ": {
+    "buckwalter": "HZZ",
+    "slug": "hzz",
+    "concept_name": "Hazz (Bir Kimseye Düşen Belirli Pay, Hukuki Hisse, Öğüt Payı ve Büyük Ahlaki Nasip)",
+    "root_latin": "H-Z-Z",
+    "keywords": [
+      "hazz",
+      "pay",
+      "hisse",
+      "nasip",
+      "miras hissesi",
+      "buyuk nasip"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "HaZ~",
+        "ayahs": [
+          "3:176",
+          "4:11",
+          "4:176",
+          "5:13",
+          "5:14",
+          "28:79",
+          "41:35"
+        ],
+        "label": "Tekil isim (`حَظًّا / حَظِّ / حَظٍّ` — bölüşümde, mirasta, vahiyden yararlanmada veya sonraki yurtta kişinin eline düşen pay ve nasip: `4:11, 4:176` miras hissesi; `5:13, 5:14` kendilerine hatırlatılan öğütten unutulan pay; `3:176` sonraki yurtta paydan yoksunluk; `28:79` Karun'un dünya servetindeki payı; `41:35` kötülüğü iyilikle savma erdemindeki gerçek büyük nasip; 7 geçiş / 7 ayet)"
+      }
+    ],
+    "irab_default": "Kişinin payına düşen belirli hisse, bölüşüm payı veya büyük nasibi (`حَظّ`) bildiren `ح-ظ-ظ` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:11",
+          "4:176"
+        ],
+        "text": "Miras Bölüşümünde Belirli Hisse (`4:11, 4:176`): Çocuklar ve kardeşler arasındaki miras paylaşımında erkeğe iki kadının payı ölçüsünde hisse düşmesi (`لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ`)."
+      },
+      {
+        "ayahs": [
+          "5:13",
+          "5:14"
+        ],
+        "text": "Kendilerine Hatırlatılan Vahiyden Önemli Bir Payı Unutmak (`5:13, 5:14`): Sözleşmelerini bozan önceki kitap topluluklarının, kendilerine öğütlenen hakikatten önemli bir payı (`حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ`) unutarak/terk ederek içsel ayrılığa düşmeleri."
+      },
+      {
+        "ayahs": [
+          "3:176",
+          "28:79",
+          "41:35"
+        ],
+        "text": "Dünyevi Servet Payı Karşısında Gerçek Büyük Nasip (`3:176, 28:79, 41:35`): Gerçeği örtmekte yarışanlara Allah'ın sonraki yurtta hiçbir pay (`حَظًّا فِى ٱلْءَاخِرَةِ`, `3:176`) vermemek istemesi; dünya hayatını arzulayanların Karun'u 'büyük bir pay sahibi' (`لَذُو حَظٍّ عَظِيمٍ`, `28:79`) sanması; Kur'an'ın ise aynı ifadeyi tersine çevirerek kötülüğü en güzel tutumla savma erdemine ancak direngenlik gösterenlerin ve gerçek büyük nasip sahiplerinin (`ذُو حَظٍّ عَظِيمٍ`, `41:35`) eriştirileceğini ilan etmesi."
+      }
+    ],
+    "context_default": "Miras hissesi, vahiyden yararlanma payı, dünyevi servet payı veya ahlaki/uhrevi büyük nasip bağlamı"
   }
 }
