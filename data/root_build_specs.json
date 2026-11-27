@@ -67068,5 +67068,77 @@
       }
     ],
     "context_default": "Ekin biçme/hasat hukuku veya biçilmiş tarla gibi kökü kazınıp silinme bağlamı"
+  },
+  "ح-س-س": {
+    "buckwalter": "Hss",
+    "slug": "hss",
+    "concept_name": "Hass, İhsâs, Tehassüs ve Hasîs (Kökten Biçip Bastırmak, Duyuyla Kesin Sezmek, İz Sürüp Araştırmak ve Hafif Hışırtı)",
+    "root_latin": "H-S-S",
+    "keywords": [
+      "hass",
+      "ihsas",
+      "tehassus",
+      "hasis",
+      "sezmek",
+      "iz aramak",
+      "hisirti"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "taHus~u",
+        "ayahs": [
+          "3:152"
+        ],
+        "label": "I. Bab (Sülâsî) muzâri fiil (`إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ` — düşmanın direncini ve varlığını kökten kırıp biçmek, alt edip ezmek; Uhud'un ilk safhasında Allah'ın izniyle elde edilen üstünlük; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": ">aHas~a",
+        "ayahs": [
+          "3:52",
+          "19:98",
+          "21:12"
+        ],
+        "label": "IV. Bab (İf'âl) fiil (`أَحَسَّ / تُحِسُّ / أَحَسُّوا۟` — duyu ve gözlemle bir durumu kesin biçimde sezmek, farkına varmak: `3:52` İsa'nın onlardaki örtme/reddi açıkça sezmesi; `19:98` yok edilen nesillerden hiçbirinin izini sezememek; `21:12` zalim belde halkının azap şiddetini hissedince kaçışmaya başlaması; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "taHas~asu",
+        "ayahs": [
+          "12:87"
+        ],
+        "label": "V. Bab (Tefa''ul) emir fiil (`فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ` — duyuları açık tutarak iyi niyetle dikkatlice iz sürüp haber araştırmak; Yakub'un oğullarını Yusuf ve kardeşini aramaya göndermesi; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "Hasiys",
+        "ayahs": [
+          "21:102"
+        ],
+        "label": "İsim (`لَا يَسْمَعُونَ حَسِيسَهَا` — ateşin en hafif hışırtısını, uğultusunu veya ses belirtisini bile duymamak; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Duyuyla kesin sezmek (`أَحَسَّ`), iz sürüp araştırmak (`تَحَسَّسُوا`), en hafif ses belirtisi (`حَسِيس`) veya kökten alt edip biçmek (`تَحُسُّونَهُم`) anlamındaki `ح-س-س` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:52",
+          "19:98",
+          "21:12"
+        ],
+        "text": "Duyu ve Gözlemle Kesin Sezme (`3:52, 19:98, 21:12`): İsa'nın kendi kavmindeki gerçeği örtme eğilimini açık belirtileriyle sezmesi (`فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ`, `3:52`); helâk edilen nice nesillerden tek bir kişinin varlığını bile hissedip görememek (`هَلْ تُحِسُّ مِنْهُم مِّنْ أَحَدٍ`, `19:98`); zalim beldenin gelen azap gücünü bizzat hissedince koşarak kaçmaya çalışması (`فَلَمَّآ أَحَسُّوا۟ بَأْسَنَآ`, `21:12`)."
+      },
+      {
+        "ayahs": [
+          "12:87",
+          "21:102"
+        ],
+        "text": "Dikkatli İz Arayışı ve Hafif Hışırtı (`12:87, 21:102`): Yakub'un oğullarına 'gidin, Yusuf ve kardeşinden bir iz ve haber araştırın' (`فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ`, `12:87`) demesi; kendilerine güzel akıbet yazılanların ateşin en hafif uğultusunu/hışırtısını bile (`لَا يَسْمَعُونَ حَسِيسَهَا`, `21:102`) işitmeyecekleri."
+      },
+      {
+        "ayahs": [
+          "3:152"
+        ],
+        "text": "Savaşın İlk Safhasında Düşmanı Kökten Alt Etmek (`3:152`): Uhud'da Allah'ın izniyle karşı safları kökten biçip bozguna uğratırken (`إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ`) emirde tartışmaya ve itaatsizliğe düşülmesiyle dengenin dönmesi."
+      }
+    ],
+    "context_default": "Duyuyla sezme, dikkatli iz araştırma, hafif ses belirtisi veya düşmanı kökten alt etme bağlamı"
   }
 }
