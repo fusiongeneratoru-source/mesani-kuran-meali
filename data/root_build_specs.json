@@ -64845,5 +64845,63 @@
       }
     ],
     "context_default": "Kendini büyük görüp böbürlenme, karşılıklı övünme yarışı veya pişmiş çömlek kili bağlamı"
+  },
+  "ل-م-س": {
+    "buckwalter": "lms",
+    "slug": "lms",
+    "concept_name": "Lems, Mülâmese ve İltimâs (Elle Dokunup Yoklamak, Eşlerle Yakın Temas Kurmak ve Arayıp İstemek)",
+    "root_latin": "L-M-S",
+    "keywords": [
+      "lems",
+      "mulamese",
+      "iltimas",
+      "dokunmak",
+      "yoklamak",
+      "aramak",
+      "temas"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "lamasu",
+        "ayahs": [
+          "4:43",
+          "5:6",
+          "6:7",
+          "72:8"
+        ],
+        "label": "I. ve III. bab fiil (`فَلَمَسُوهُ / لَمَسْنَا / لَٰمَسْتُمُ` — (a) elle somut biçimde dokunup yoklamak `6:7` kağıttaki kitaba elleriyle dokunsalar bile; (b) göğün haberlerini yoklayıp araştırmak `72:8` göğü yokladık da onu sıkı koruyucularla dolu bulduk; (c) karşılıklı temas/eşlerle cinsel yakınlık `4:43`, `5:6` `أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ` [Hafs III. bab `لَامَسَ`, Kûfe kıraatinde I. bab `لَمَسَ`]; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "{lotamisu",
+        "ayahs": [
+          "57:13"
+        ],
+        "label": "VIII. bab emir fiili (`فَٱلْتَمِسُوا۟ نُورًا` — `ٱلْتَمَسَ`: bir şeyi elle yoklar gibi arayıp talep etmek; ikiyüzlülerin ışık istemesi üzerine 'geriye dönün de bir ışık arayın!' denilmesi; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Elle dokunup yoklamayı, temas kurmayı (`لَمَسَ / لَامَسَ`) veya bir şeyi arayıp istemeyi (`ٱلْتَمَسَ`) bildiren `ل-م-س` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:7",
+          "72:8"
+        ],
+        "text": "Somut Dokunuşla Yoklamak ve Araştırmak (`6:7`, `72:8`): Kağıt üzerine yazılı bir kitap indirilip elleriyle dokunsalar bile (`فَلَمَسُوهُ بِأَيْدِيهِمْ`, `6:7`) gerçeği örtenlerin yine inat edeceği ve göğü yoklayıp haber arayanların (`لَمَسْنَا ٱلسَّمَآءَ`, `72:8`) onu sıkı bekçiler ve alev toplarıyla dolu bulmaları."
+      },
+      {
+        "ayahs": [
+          "4:43",
+          "5:6"
+        ],
+        "text": "Eşlerle Yakın Temas ve Temizlenme Hükmü (`4:43`, `5:6`): Temizlenme kurallarında su bulunamadığında teyemmüm gerektiren haller arasında kadınlarla temasın (`أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ`) sayılması."
+      },
+      {
+        "ayahs": [
+          "57:13"
+        ],
+        "text": "Karanlıkta Çaresizce Işık Aramak (`57:13`): İkiyüzlülerin güvenenlerden 'ışığınızdan biraz alalım' demesi üzerine kendilerine alayla 'geriye dönün de bir ışık arayın!' (`فَٱلْتَمِسُوا۟ نُورًا`) karşılığının verilmesi."
+      }
+    ],
+    "context_default": "Elle dokunup yoklama, temas kurma veya arayıp isteme bağlamı"
   }
 }

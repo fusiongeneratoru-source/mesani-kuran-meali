@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 15 / 50 Kök (Toplam Mühürlü: 965 Kök | Güncel Kapsam: %96,89)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 16 / 50 Kök (Toplam Mühürlü: 966 Kök | Güncel Kapsam: %96,90)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -22,7 +22,7 @@
 | 13 | Sure %100 Kilidi | 1112 | `ن-ص-ت` | `N-S-T` | **2** | 2 | 7:204 | İnsât (Sözü Kesip Tam Bir Sessizlik ve Dikkatle Kulak Vermek) | ✅ **MÜHÜRLÜ** |
 | 14 | Sure %100 Kilidi | 1503 | `ح-ق-ف` | `H-K-F` | **1** | 1 | 46:21 | Ahkâf (Rüzgarın Eğip Büktüğü Uzun, Kıvrımlı Kum Tepeleri ve Âd Kavminin Yurdu) | ✅ **MÜHÜRLÜ** |
 | 15 | Sure %100 Kilidi | 716 | `ف-خ-ر` | `F-H-R` | **6** | 6 | 4:36 | Fahr, Fahûr, Tefâhur ve Fehhâr (Kendini Büyük Görüp Böbürlenmek, Karşılıklı Övünme Yarışı ve Pişmiş Çömlek/Kuru Kil) | ✅ **MÜHÜRLÜ** |
-| 16 | Sure %100 Kilidi | 781 | `ل-م-س` | `L-M-S` | **5** | 5 | 4:43 | Lemese, Lâmese ve İltemese (Sure 57 Hadîd kilidi + 5 geçiş: 4:43, 5:6, 6:7, 57:13, 72:8 elle dokunup yoklamak, temas etmek ve ışığı/yolu aramak) | ⏳ *Bekliyor* |
+| 16 | Sure %100 Kilidi | 781 | `ل-م-س` | `L-M-S` | **5** | 5 | 4:43 | Lems, Mülâmese ve İltimâs (Elle Dokunup Yoklamak, Eşlerle Yakın Temas Kurmak ve Arayıp İstemek) | ✅ **MÜHÜRLÜ** |
 | 17 | Sure %100 Kilidi | 752 | `ق-ف-و` | `K-F-W` | **5** | 4 | 2:87 | Kaffâ ve Takfu (Sure 57 Hadîd kilidi + 5 geçiş: 2:87, 5:46, 17:36, 57:27 art arda peşinden göndermek ve bilmediği şeyin ardına düşmemek) | ⏳ *Bekliyor* |
 | 18 | Sure %100 Kilidi | 847 | `أ-م-د` | `E-M-D` | **4** | 4 | 3:30 | Emed (Sure 57 Hadîd kilidi + 4 geçiş: 3:30, 18:12, 57:16, 72:25 sonu belirli uzun zaman aralığı/süre) | ⏳ *Bekliyor* |
 | 19 | Sure %100 Kilidi | 898 | `غ-ي-ث` | `G-Y-S` | **4** | 4 | 12:49 | Gays ve Yuğâsu (Sure 57 Hadîd kilidi + 4 geçiş: 12:49, 31:34, 42:28, 57:20 kuraklığın ardından imdada yetişen canlandırıcı yağmur) | ⏳ *Bekliyor* |
