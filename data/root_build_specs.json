@@ -65047,5 +65047,53 @@
       }
     ],
     "context_default": "Kuraklık ve umutsuzluk sonrası can veren bereket yağmuru bağlamı"
+  },
+  "ق-ب-س": {
+    "buckwalter": "qbs",
+    "slug": "qbs",
+    "concept_name": "Kabes ve İktibâs (Ana Ateşten veya Işıktan Bir Kor Parçası ve Aydınlık Ödünç Almak)",
+    "root_latin": "K-B-S",
+    "keywords": [
+      "kabes",
+      "iktibas",
+      "ates koru",
+      "mesale",
+      "isiktan almak",
+      "isik odunc almak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qabas",
+        "ayahs": [
+          "20:10",
+          "27:7"
+        ],
+        "label": "İsim (`بِقَبَسٍ / بِشِهَابٍ قَبَسٍ` — ana ateşten bir dal veya meşale ucuyla alınıp getirilen yanan kor/alev parçası: Musa'nın soğuk gecede ailesine ısınmaları için gördüğü ateşten bir kor parçası getirmeyi umması; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "naqotabiso",
+        "ayahs": [
+          "57:13"
+        ],
+        "label": "VIII. bab meczûm muzâri (`ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ` — `ٱقْتَبَسَ`: ana ışık kaynağından bir parça aydınlık alıp yararlanmak; ikiyüzlülerin karanlıkta kalınca güvenenlerden ışıklarından faydalanmak için beklemelerini istemeleri; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Ana ateşten veya ışık kaynağından bir kor/aydınlık parçası almayı (`قَبَس / نَقْتَبِسْ`) bildiren `ق-ب-س` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "20:10",
+          "27:7"
+        ],
+        "text": "Gece Yolculuğunda Ateşten Kor Parçası Getirmek (`20:10`, `27:7`): Musa'nın ailesiyle yürürken uzakta bir ateş fark edip 'belki size ondan bir kor parçası (`بِقَبَسٍ` / `بِشِهَابٍ قَبَسٍ`) getiririm de ısınırsınız' diyerek ateşe yönelmesi ve orada vahiy ışığıyla karşılaşması."
+      },
+      {
+        "ayahs": [
+          "57:13"
+        ],
+        "text": "Karanlıkta Güvenenlerin Işığından Pay İstemek (`57:13`): İkiyüzlü erkek ve kadınların, önlerinden ve sağlarından ışık koşan güvenenlere 'bizi bekleyin de ışığınızdan biraz alalım (`نَقْتَبِسْ مِن نُّورِكُمْ`)' diye seslenmeleri."
+      }
+    ],
+    "context_default": "Ana ateşten kor almak veya bir başkasının ışığından aydınlık payı istemek bağlamı"
   }
 }
