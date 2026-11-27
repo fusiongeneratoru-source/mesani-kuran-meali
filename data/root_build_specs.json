@@ -68427,5 +68427,80 @@
       }
     ],
     "context_default": "Mesafe uzaklığı ve en dış uç nokta bağlamı"
+  },
+  "ر-ف-ق": {
+    "buckwalter": "rfq",
+    "slug": "rfq",
+    "concept_name": "Refîk, Mirfak, Merâfik ve Mürtefak (Yumuşak Yoldaşlık, Dirsekler, İş Kolaylığı ve Yaslanılıp Dinlenilen Yer)",
+    "root_latin": "R-F-Q",
+    "keywords": [
+      "refik",
+      "mirfak",
+      "merafik",
+      "murtefak",
+      "yoldas",
+      "dirsek",
+      "kolaylik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "rafiyq",
+        "ayahs": [
+          "4:69"
+        ],
+        "label": "Sıfat-isim, `حَسُنَ` fiilinin temyizi olarak mansûb (`وَحَسُنَ أُو۟لَٰٓئِكَ رَفِيقًا` — onlar ne güzel yol arkadaşıdır; tekil lafız çoğul anlamı da kapsar; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "maraAfiq",
+        "ayahs": [
+          "5:6"
+        ],
+        "label": "Kırık çoğul isim, `إِلَى` ile mecrûr (`وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ` — kolların yıkanma sınırı olan dirsekler; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "m~irofaq",
+        "ayahs": [
+          "18:16"
+        ],
+        "label": "İsim, mef'ûl-i bih ve mansûb (`وَيُهَيِّئْ لَكُم مِّنْ أَمْرِكُم مِّرْفَقًا` — işinizden size yarar ve kolaylık sağlayan bir dayanak hazırlasın; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "murotafaq",
+        "ayahs": [
+          "18:29",
+          "18:31"
+        ],
+        "label": "VIII. Bab ism-i mekân/mef'ûl, `سَآءَتْ / حَسُنَتْ` fiillerinin temyizi olarak mansûb (`وَسَآءَتْ مُرْتَفَقًا` / `وَحَسُنَتْ مُرْتَفَقًا` — yaslanılıp dinlenilecek ne kötü / ne güzel yer; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Yumuşak uyum, yoldaşlık, dirsek veya yaslanılıp dinlenilecek yeri bildiren `ر-ف-ق` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:69"
+        ],
+        "text": "Seçkinlerle Güzel Yoldaşlık (`4:69`): Allah'a ve elçiye uyanların nimet verilen elçiler, özü sözü doğrular, tanıklar ve dürüst yapıcılarla beraber olup en güzel yol arkadaşlığına (`رَفِيقًا`) kavuşması."
+      },
+      {
+        "ayahs": [
+          "5:6"
+        ],
+        "text": "Arınma Ölçüsünde Dirsek Sınırı (`5:6`): Yöneliş duruşuna kalkarken ellerin ve kolların dirseklere (`ٱلْمَرَافِقِ`) kadar yıkanması."
+      },
+      {
+        "ayahs": [
+          "18:16"
+        ],
+        "text": "Mağaraya Sığınan Gençlere İş Kolaylığı (`18:16`): Sığınma çağrısında Rabb'in şefkatini yayması ve işlerinden yararlı bir kolaylık/dayanak (`مِّرْفَقًا`) hazırlaması umudu."
+      },
+      {
+        "ayahs": [
+          "18:29",
+          "18:31"
+        ],
+        "text": "İki Zıt Konaklama ve Yaslanma Yeri (`18:29, 18:31`): Kuşatan ateşin yaslanılacak ne kötü bir yer (`سَآءَتْ مُرْتَفَقًا`, `18:29`) olması karşısında, altından ırmaklar akan kalıcı bahçelerin koltuklara yaslanılan ne güzel bir dinlenme yeri (`حَسُنَتْ مُرْتَفَقًا`, `18:31`) olması."
+      }
+    ],
+    "context_default": "Yumuşak uyum, yoldaşlık, kolaylık veya yaslanılacak yer bağlamı"
   }
 }
