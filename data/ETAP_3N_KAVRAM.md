@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 46 / 50 Kök (Toplam Mühürlü: 946 Kök | Güncel Kapsam: %96,73)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 47 / 50 Kök (Toplam Mühürlü: 947 Kök | Güncel Kapsam: %96,74)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -53,7 +53,7 @@
 | 44 | Yüksek Frekanslı Çekirdek | 616 | `ه-م-م` | `H-M-M` | **9** | 8 | 3:122 | Hemm ve İhmâm (İçte Uyanıp Eyleme Doğru Yönelen Tasarı, Niyetlenmek ve Kaygıya Düşürmek) | ✅ **MÜHÜRLÜ** |
 | 45 | Yüksek Frekanslı Çekirdek | 600 | `ل-و-ن` | `L-W-N` | **9** | 7 | 2:69 | Levn ve Elvân (Varlıkları Birbirinden Ayıran Dış Görünüm, Renk ve Tür Çeşitliliği) | ✅ **MÜHÜRLÜ** |
 | 46 | Yüksek Frekanslı Çekirdek | 628 | `ق-ذ-ف` | `K-Z-F` | **9** | 8 | 20:39 | Kazf (Uzağa veya Hedefe Kuvvetle Fırlatıp Atmak, İçeriye Salmak ve Atıp Tutmak) | ✅ **MÜHÜRLÜ** |
-| 47 | Yüksek Frekanslı Çekirdek | 605 | `ق-ب-ض` | `K-B-D` | **9** | 7 | 2:245 | Kabd ve Makbûda (9 geçiş: 2:245, 2:283, 9:67, 20:96, 25:46, 39:67, 67:19 avuçlayıp toplamak, daraltıp kısmak ve kanatlarını kapamak) | ⏳ *Bekliyor* |
+| 47 | Yüksek Frekanslı Çekirdek | 605 | `ق-ب-ض` | `K-B-D` | **9** | 7 | 2:245 | Kabz ve Kabza (Avucu Kapatıp Kavramak, Kanat/El Toplamak, Çekip Almak ve Daraltmak) | ✅ **MÜHÜRLÜ** |
 | 48 | Yüksek Frekanslı Çekirdek | 613 | `خ-ي-ل` | `H-Y-L` | **9** | 9 | 3:14 | Hayl, Muhtâl ve Yuhayyel (9 geçiş: 3:14, 4:36, 8:60, 16:8, 17:64, 20:66, 31:18, 57:23, 59:6 atlı birlikler, kibirle böbürlenen ve gözde canlanan yanılsama — ≥9 geçişli açık kök = 0!) | ⏳ *Bekliyor* |
 | 49 | Mesânî Karşılık Köprüsü | 1193 | `م-ل-ح` | `M-L-H` | **2** | 2 | 25:53 | Milh ve Ücâc (2 açık Mesânî referansı + 2 geçiş: 25:53, 35:12 acı/tuzlu suyun tatlı suyla karışmadan yan yana akması) | ⏳ *Bekliyor* |
 | 50 | Yüksek Frekanslı Çekirdek | 648 | `ل-ط-ف` | `L-T-F` | **8** | 8 | 6:103 | Latîf ve Yetelattaf (8 geçiş: 6:103, 12:100, 18:19, 22:63, 31:16, 33:34, 42:19, 67:14 en ince ayrıntıya nüfuz eden incelik ve yumuşak/nazik davranış — 950. Kök!) | ⏳ *Bekliyor* |

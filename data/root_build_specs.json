@@ -63902,5 +63902,81 @@
       }
     ],
     "context_default": "Kuvvetle fırlatıp atma, kalbe dehşet salma ve hedefe vurma bağlamı"
+  },
+  "ق-ب-ض": {
+    "buckwalter": "qbD",
+    "slug": "qbd",
+    "concept_name": "Kabz ve Kabza (Avucu Kapatıp Kavramak, Kanat/El Toplamak, Çekip Almak ve Daraltmak)",
+    "root_latin": "Q-B-D",
+    "keywords": [
+      "kabz",
+      "kabza",
+      "makbud",
+      "avucunu sikmak",
+      "kavramak",
+      "kanat toplamak",
+      "daraltmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "qabaDo",
+        "ayahs": [
+          "2:245",
+          "9:67",
+          "20:96",
+          "25:46",
+          "67:19"
+        ],
+        "label": "I. bab fiil (`يَقْبِضُ / يَقْبِضُونَ / قَبَضْتُ / قَبَضْنَٰهُ / يَقْبِضْنَ` — avucu sıkıp daraltmak, elini cimrilikle yummak, avuçlayıp almak, yavaşça çekip toplamak, kuşların kanatlarını kapaması: `2:245`, `9:67`, `20:96`, `25:46`, `67:19`; 5 geçiş)"
+      },
+      {
+        "lemma": "qaboDap",
+        "ayahs": [
+          "20:96",
+          "39:67"
+        ],
+        "label": "Bir kezlik avuçlama / avuç içi (`قَبْضَةً / قَبْضَتُهُۥ` — bir avuç dolusu veya avuç içi/mutlak egemenlik kavrayışı: `20:96` elçinin izinden bir avuç aldım, `39:67` diriliş gününde bütün yeryüzü O'nun avucundadır/tam kavrayışındadır; 2 geçiş)"
+      },
+      {
+        "lemma": "qaboD",
+        "ayahs": [
+          "25:46"
+        ],
+        "label": "Mastar / mef'ûl-i mutlak (`قَبْضًا يَسِيرًا` — gölgeyi yavaş ve ölçülü bir çekişle kendimize doğru toplayıp çekmek: `25:46`; 1 geçiş)"
+      },
+      {
+        "lemma": "m~aqobuwDap",
+        "ayahs": [
+          "2:283"
+        ],
+        "label": "I. bab ism-i mef'ûl (`فَرِهَٰنٌ مَّقْبُوضَةٌ` — elle teslim alınıp fiilen elde tutulan güvence/rehin: `2:283`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Avucu kapatıp kavramayı, el/kanat toplamayı, çekip almayı veya daraltmayı bildiren `ق-ب-ض` türevi (`قَبَضَ / قَبْضَة / قَبْض / مَقْبُوضَة`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:245",
+          "9:67"
+        ],
+        "text": "Rızkı Daraltma ve Cimrilikle Elleri Yumma (`2:245`, `9:67`): Allah'ın rızkı ve imkânı dilediğince daraltıp (`يَقْبِضُ`) genişletmesi (`وَيَبْصُۜطُ`, `2:245`) ve ikiyüzlülerin harcamaktan kaçınarak cimrilikle ellerini sıkıca yummaları (`وَيَقْبِضُونَ أَيْدِيَهُمْ`, `9:67`)."
+      },
+      {
+        "ayahs": [
+          "2:283",
+          "20:96"
+        ],
+        "text": "Elle Teslim Alınan Güvence ve Bir Avuç Almak (`2:283`, `20:96`): Yolculukta yazıcı bulunmadığında borç karşılığı fiilen teslim alınan/elde tutulan rehin (`فَرِهَٰنٌ مَّقْبُوضَةٌ`, `2:283`) ve Sâmirî'nin 'elçinin izinden bir avuç avuçlayıp aldım (`فَقَبَضْتُ قَبْضَةً`)' sözü (`20:96`)."
+      },
+      {
+        "ayahs": [
+          "25:46",
+          "39:67",
+          "67:19"
+        ],
+        "text": "Kozmik Çekip Toplama, Mutlak Kavrayış ve Kuşların Kanat Kapaması (`25:46`, `39:67`, `67:19`): Uzayan gölgenin güneş yükseldikçe yavaş ve ölçülü bir çekişle toplanması (`قَبَضْنَٰهُ ... قَبْضًا يَسِيرًا`, `25:46`), diriliş gününde tüm yeryüzünün Allah'ın mutlak avucunda/kavrayışında (`قَبْضَتُهُۥ`, `39:67`) olması ve gökte uçan kuşların kanatlarını açıp dizdikten sonra geriye toplamaları (`صَٰٓفَّٰتٍ وَيَقْبِضْنَ`, `67:19`)."
+      }
+    ],
+    "context_default": "Avucu kapatıp kavrama, çekip toplama, daraltma ve teslim alma bağlamı"
   }
 }

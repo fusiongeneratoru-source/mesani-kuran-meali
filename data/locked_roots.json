@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (46/50 — Toplam 946 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (47/50 — Toplam 947 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -57582,7 +57582,8 @@
           "ف-ر-ق",
           "ب-ع-ث-ر",
           "ن-ث-ر",
-          "خ-ل-ف"
+          "خ-ل-ف",
+          "ق-ب-ض (Yakbizne: kuşların uçuş sırasında kanatlarını geriye doğru kapatıp toplaması ↔ ص-ف-ف kanatları iki yana dümdüz açıp dizmek — `67:19` [aynı ayette `صَٰٓفَّٰتٍ وَيَقْبِضْنَ`])"
         ],
         "key_ayahs": [
           "61:4 & 20:64 & 18:48 (يُقَٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَٰنٌ مَّرْصُوصٌ / فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّا — darmadağın dağılıp çözülmek [ش-ت-ت, ف-ر-ق] ↔ kenetlenmiş duvar gibi tek hizada saf bağlamak [ص-ف-ف])",
@@ -79325,6 +79326,114 @@
           "meaning": "Her yandan atışla kovulup taşlanmak",
           "examples": [
             "37:8"
+          ]
+        }
+      ]
+    },
+    "ق-ب-ض": {
+      "root_latin": "Q-B-D",
+      "arabic": "ق-ب-ض",
+      "rank": 605,
+      "morphology_and_rasm": {
+        "buckwalter": "qbD",
+        "rasm_skeleton": "قبض (üçlü sahih iskelet; fiil `يقبض/يقبضون/قبضت/قبضناه/يقبضن` 5x, isim `قبضة/قبضته/قبضا/مقبوضة` 4x olmak üzere 9 kez)",
+        "approx_frequency": "9 geçiş / 7 ayet (5x I. bab fiil, 2x `قَبْضَة`, 1x mastar `قَبْضًا`, 1x ism-i mef'ûl `مَّقْبُوضَةٌ`)",
+        "verb_forms_used": [
+          "I. Bab (قَبَضَ / يَقْبِضُ — 5 geçiş: 2:245, 9:67, 20:96, 25:46, 67:19)"
+        ],
+        "noun_forms_used": [
+          "قَبْضَةً / قَبْضَتُهُۥ (`فَعْلَة` bir avuç / avuç içi — 2 geçiş: `20:96`, `39:67`)",
+          "قَبْضًا (`فَعْل` mastar — 1 geçiş: `25:46`)",
+          "مَّقْبُوضَةٌ (`مَفْعُولَة` ism-i mef'ûl — 1 geçiş: `2:283`)"
+        ],
+        "preposition_patterns": [
+          "قَبَضْنَٰهُ إِلَيْنَا (`25:46`: `إِلَى` ile yayılmış gölgeyi yavaşça kendine doğru çekip toplamak)",
+          "قَبَضْتُ قَبْضَةً مِّنْ (`20:96`: `مِنْ` ile bir bütünden bir avuç alıp ayırmak)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı tek somut çekirdek: 'eli/avucu bir şeyin üzerine kapatıp kavramak veya bir bütünlük hâlinde içe doğru toplamak' (`شَيْءٌ مَأْخُوذٌ وَتَجَمُّعٌ فِي شَيْءٍ` — avucu yummak, kılıç kabzasını kavramak, kanadı toplamak, gölgeyi geri çekmek, rehni elde teslim almak).",
+      "ibn_faris_asl": "(قَبَضَ) الْقَافُ وَالْبَاءُ وَالضَّادُ أَصْلٌ وَاحِدٌ صَحِيحٌ يَدُلُّ عَلَى شَيْءٍ مَأْخُوذٍ، وَتَجَمُّعٍ فِي شَيْءٍ. تَقُولُ: قَبَضْتُ الشَّيْءَ مِنَ الْمَالِ وَغَيْرِهِ قَبْضًا. [Mu'cemü Mekâyîsi'l-Luğa, c. 5, s. 50, باب القاف والباء وما يثلثهما, قبض maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ق-ب-ض` kökünü tek sahih çekirdeğe bağlar: avuçla kavrayıp almak ve bir araya toplayıp büzmek (`شَيْءٌ مَأْخُوذٌ وَتَجَمُّعٌ فِي شَيْءٍ`).",
+        "lisan_al_arab": "İbn Manzûr `الْقَبْضُ` kavramının `الْبَسْطُ` (açıp yaymak) kavramının tam zıttı olduğunu ve parmakların tamamıyla bir şeyi kavrayıp tutmayı bildirdiğini kaydeder.",
+        "ragib_al_isfahani": "Râgıb (*el-Müfredât*, s. 391) ince bir ayrım koyar: eli bir şeyin **üzerine** kapamak (`قَبْضُ الْيَدِ عَلَى الشَّيْءِ`) onu alıp elde tutmaktır (`2:283`, `20:96`, `39:67`); eli bir şeyden **önce** yummak (`قَبْضُهَا عَنِ الشَّيْءِ`) ise cimrilik edip geri durmaktır (`9:67` `وَيَقْبِضُونَ أَيْدِيَهُمْ`).",
+        "verdict": "Tüm 9 geçiş **'avucu veya kanadı kapatıp içe toplamak, kavrayıp elde tutmak, yavaşça geri çekmek ve daraltmak (`قَبَضَ / قَبْضَة / مَقْبُوضَة`)'** tek mekanik büzülme-kavrama çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*q-b-ṣ / *q-b-ḍ ('toplamak, avuçta sıkmak, bir araya getirmek')",
+        "hebrew": "İbranice qābaṣ (קָבַץ — 'bir araya toplamak, kavramak') doğrudan eşkökenlidir.",
+        "aramaic_syriac": "Aramice/Süryanice qbaṣ ('toplamak, sıkmak') birebir eşkökenlidir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşköken tespit edilmemiştir.",
+        "comparative_note": "Sâmî dillerde `*q-b-ḍ` / `*q-b-ṣ` parmakları içe doğru kapatarak bir araya toplama ve avuçta sıkıca tutma fiziksel eylemini korur."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ب-س-ط (Avucu açıp yaymak ve rızkı genişletmek ↔ ق-ب-ض avucu sıkıp kapatmak ve daraltmak — `2:245` [aynı ayette])",
+          "ص-ف-ف (Kuşların kanatlarını iki yana dümdüz açıp dizmesi ↔ ق-ب-ض kanatları gövdeye doğru kapatıp toplaması — `67:19` [aynı ayette])"
+        ],
+        "bidirectional_test": "`2:245`'teki `وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ` ve `67:19`'daki `صَٰٓفَّٰتٍ وَيَقْبِضْنَ` ifadeleri, `ق-ب-ض` kökünün hem `ب-س-ط` hem de `ص-ف-ف` ile doğrudan aynı ayetteki fiziksel zıtlığını kanıtlar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ب-س-ط",
+          "ص-ف-ف",
+          "م-د-د",
+          "ط-و-ي",
+          "ر-ه-ن"
+        ],
+        "analysis": "`25:45`–`46`'da gölge önce yayılır (`مَدَّ ٱلظِّلَّ`), sonra yavaşça çekilip toplanır (`قَبَضْنَٰهُ ... قَبْضًا يَسِيرًا`). `39:67`'de yeryüzü `قَبْضَتُهُۥ` (avucunda/tam kavrayışında), gökler ise `مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ` (`ط-و-ي` — sağ elinde dürülmüş) biçiminde ikili bir azamet tablosu kurar."
+      },
+      "anchor_ayahs": [
+        "2:245 (وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ — Allah daraltır da genişletir de; sonunda O'na döndürüleceksiniz)",
+        "2:283 (وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَٰنٌ مَّقْبُوضَةٌ — bir yazıcı bulamazsanız o zaman elle teslim alınan rehinler konulur)",
+        "25:46 (ثُمَّ قَبَضْنَٰهُ إِلَيْنَا قَبْضًا يَسِيرًا — sonra o gölgeyi yavaş ve ölçülü bir çekişle kendimize doğru çeker toplarız)",
+        "67:19 (أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ — üstlerindeki kuşların kanatlarını bir açıp bir kapattıklarını görmezler mi)"
+      ],
+      "unified_core_mechanism": "`ق-ب-ض` kökü 9 geçişinin tamamında **'içe doğru toplayıp kapatma, avuçta kavrama ve daraltma'** fiziksel mekanizmasını işletir.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — I. Bab Fiil (`قَبَضَ / يَقْبِضُ` — 5 geçiş): Rızkı daraltma (`2:245`), cimrilikle el yumma (`9:67`), avuçlama (`20:96`), gölgeyi geri çekme (`25:46`), kuşların kanat kapaması (`67:19`).",
+          "Dal 2 — Birim/Avuç İsmi (`قَبْضَة` — `20:96`, `39:67`) ve Mastar (`قَبْضًا` — `25:46`).",
+          "Dal 3 — İsm-i Mef'ûl (`مَّقْبُوضَةٌ` — `2:283`): Fiilen teslim alınmış rehin."
+        ],
+        "irab_notes": "`67:19`'da `صَٰٓفَّٰتٍ` (isim — sürekli açık kanatla süzülme hâli) ile `وَيَقْبِضْنَ` (muzâri fiil — aralıklı kanat çırpıp kapama hareketi) arasındaki isim-fiil değişimi, kuşun uçuş aerodinamiğindeki süreklilik ve anlık hareket farkını yansıtır."
+      },
+      "derivatives": [
+        {
+          "form": "يَقْبِضُ / يَقْبِضُونَ / قَبَضْتُ / قَبَضْنَٰهُ / يَقْبِضْنَ",
+          "pos": "Fiil (I. Bab)",
+          "meaning": "Daraltmak, elini yummak, avuçlamak, geri çekip toplamak, kanat kapatmak",
+          "examples": [
+            "2:245",
+            "9:67",
+            "20:96",
+            "25:46",
+            "67:19"
+          ]
+        },
+        {
+          "form": "قَبْضَةً / قَبْضَتُهُۥ",
+          "pos": "İsim (`فَعْلَة`)",
+          "meaning": "Bir avuç dolusu / avuç içi (tam kavrayış)",
+          "examples": [
+            "20:96",
+            "39:67"
+          ]
+        },
+        {
+          "form": "قَبْضًا",
+          "pos": "Mastar",
+          "meaning": "Çekip toplama",
+          "examples": [
+            "25:46"
+          ]
+        },
+        {
+          "form": "مَّقْبُوضَةٌ",
+          "pos": "İsm-i Mef'ûl (I. Bab)",
+          "meaning": "Elle teslim alınmış, fiilen elde tutulan",
+          "examples": [
+            "2:283"
           ]
         }
       ]
