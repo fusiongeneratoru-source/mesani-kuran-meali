@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3P (En Yüksek Frekanslı Kalan 50 Kök: Kalan Tüm 24 Adet 6 Geçişli Kök [≥6 Açık = 0!] + 26 Adet 5 Geçişli Çekirdek Kök — 1.050 Kök!)",
   "target_count": 50,
-  "locked_count": 0,
+  "locked_count": 1,
   "total_tokens_in_package": 274,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 97.23,
+  "current_coverage_pct": 97.24,
   "target_coverage_pct": 97.78,
   "etap_3p_roots": [
     {
@@ -17,8 +17,8 @@
       "frequency": 6,
       "unique_ayahs": 6,
       "rationale": "Ğarâm, Mağrem, Ğârimîn ve Muğramûn (6/6 + Açık Mesânî [أ-ج-ر]: yakayı bırakmayan borç yükü, zarar tazmini ve yapışkan azap)",
-      "concept_label": "Analiz Bekliyor (m~agoram, ga`rimiyn, garaAm, mugoramuwn)",
-      "is_locked": false,
+      "concept_label": "Ğarâm, Mağrem, Ğârimîn ve Muğramûn (Yakayı Bırakmayan Borç/Zarar Yükü ve Ayrılmaz Yapışkan Azap)",
+      "is_locked": true,
       "sample_ayah": "9:60",
       "top_lemmas": [
         "m~agoram",

@@ -66697,5 +66697,76 @@
       }
     ],
     "context_default": "Evlilik hukuku/aile içi eşlik (koca) veya eski Sami dünyasında Ba'l adıyla anılan sahte efendiye tapınma bağlamı"
+  },
+  "غ-ر-م": {
+    "buckwalter": "grm",
+    "slug": "grm",
+    "concept_name": "Ğarâm, Mağrem, Ğârimîn ve Muğramûn (Yakayı Bırakmayan Borç/Zarar Yükü ve Ayrılmaz Yapışkan Azap)",
+    "root_latin": "G-R-M",
+    "keywords": [
+      "garam",
+      "magrem",
+      "garimin",
+      "mugramun",
+      "borc yuku",
+      "zarar tazmini"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "m~agoram",
+        "ayahs": [
+          "9:98",
+          "52:40",
+          "68:46"
+        ],
+        "label": "Mastar-ı mîmî / isim (`مَغْرَمًا / مِّن مَّغْرَمٍ مُّثْقَلُونَ` — kişinin sırtına binip yakasını bırakmayan ağır borç veya karşılıksız zarar yükü: `9:98` harcamasını zoraki bir zarar/ceza yükü sayan bedeviler; `52:40, 68:46` elçinin hiçbir ücret istemediği, bu yüzden onların ağır bir borç yükü altında ezilmedikleri; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "ga`rimiyn",
+        "ayahs": [
+          "9:60"
+        ],
+        "label": "İsm-i fâil çoğulu (`وَٱلْغَٰرِمِينَ` — altında ezildikleri ağır borç yükünü tek başına ödeyemeyen borçlular; toplumsal destek paylarının ayrıldığı sekiz kesimden biri; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "garaAm",
+        "ayahs": [
+          "25:65"
+        ],
+        "label": "İsim (`إِنَّ عَذَابَهَا كَانَ غَرَامًا` — alacaklı gibi insanın yakasına yapışıp hiç ayrılmayan kalıcı, tüketici azap; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "mugoramuwn",
+        "ayahs": [
+          "56:66"
+        ],
+        "label": "IV. Bab (İf'âl) edilgen ortaç çoğulu (`إِنَّا لَمُغْرَمُونَ` — ekinleri kuruyup çerçöpe dönünce ağır borç ve zarar altına girmiş, iflasla yakalanmış kimseler; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Yakayı bırakmayan ağır borç/zarar yükünü (`مَغْرَم / غَارِمِين / مُغْرَمُون`) veya ayrılmaz azabı (`غَرَام`) bildiren `غ-ر-م` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:60",
+          "9:98"
+        ],
+        "text": "Toplumsal Borç Dayanışması ve Harcamayı Zoraki Yük Saymak (`9:60, 9:98`): Gerçekten borç yükü altında kalanların (`وَٱلْغَٰرِمِينَ`, `9:60`) toplumsal destek fonundan kurtarılmasına karşılık, bedevilerden bir kesimin Allah yolunda harcadığını gönülsüzce katlanılan ağır bir ceza ve zarar yükü (`مَغْرَمًا`, `9:98`) sayması."
+      },
+      {
+        "ayahs": [
+          "52:40",
+          "68:46"
+        ],
+        "text": "Ücretsiz Çağrı Karşısında Borç Yükü Bahanesinin Çöküşü (`52:40, 68:46`): İki ayette bire bir aynı soruyla, elçinin muhataplarından bir karşılık (`أَجْرًا`) istemediği için onların ağır bir borç yükü altında ezilmediklerinin (`فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ`) vurgulanması."
+      },
+      {
+        "ayahs": [
+          "25:65",
+          "56:66"
+        ],
+        "text": "Ayrılmaz Azap ve Mahvolan Ekinin Zarar Çığlığı (`25:65, 56:66`): Bilinçli kulların, yakayı bırakmayan ayrılmaz azaptan (`إِنَّ عَذَابَهَا كَانَ غَرَامًا`, `25:65`) korunmak için Rablerine yakarmaları; ekinleri ansızın çerçöpe çevrilenlerin ise 'biz ağır borca ve zarara uğratıldık!' (`إِنَّا لَمُغْرَمُونَ`, `56:66`) diye sızlanmaları."
+      }
+    ],
+    "context_default": "Yakayı bırakmayan borç/zarar yükü, borçlulara destek veya ayrılmaz azap bağlamı"
   }
 }
