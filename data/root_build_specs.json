@@ -62000,5 +62000,72 @@
       }
     ],
     "context_default": "Yanların yataklardan uzaklaşıp ayrılması bağlamı (`32:16`)"
+  },
+  "ب-ك-ي": {
+    "buckwalter": "bky",
+    "slug": "bky",
+    "concept_name": "Bükâ ve Ebkâ (Gözyaşı Döküp Ağlamak ve Ağlatma Kudreti)",
+    "root_latin": "B-K-Y",
+    "keywords": [
+      "buka",
+      "ebka",
+      "aglamak",
+      "aglatmak",
+      "gozyasi",
+      "bukiyy"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "bakato",
+        "ayahs": [
+          "9:82",
+          "12:16",
+          "17:109",
+          "44:29",
+          "53:60"
+        ],
+        "label": "I. bab fiil (`يَبْكُونَ / وَلْيَبْكُوا۟ / بَكَتْ / تَبْكُونَ` — hüzün, derin huşû veya sahte rol gereği gözyaşı döküp ağlamak: `9:82` çok ağlasınlar, `12:16` Yusuf'un kardeşlerinin akşam ağlayarak gelişi, `17:109` ayetler okununca ağlayarak yüzüstü kapananlar, `44:29` Firavun topluluğuna göğün ve yerin ağlamaması, `53:60` gülüp ağlamayanlar; 5 geçiş)"
+      },
+      {
+        "lemma": ">abokaY`",
+        "ayahs": [
+          "53:43"
+        ],
+        "label": "IV. bab (if'âl) mâzi fiil (`وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ` — güldüren de ağlatan da yalnızca O'dur; duygusal açılma ve hüzün yasasının yaratıcısı Allah; `53:43`; 1 geçiş)"
+      },
+      {
+        "lemma": "bukiy~",
+        "ayahs": [
+          "19:58"
+        ],
+        "label": "Çoğul ism-i fâil / sıfat (`خَرُّوا۟ سُجَّدًا وَبُكِيًّا` — tekili `بَاكٍ` olan çoğul `بُكِيّ` [ağlayarak, gözyaşı dökenler hâlinde]; Rahmân'ın ayetleri okunduğunda nebilerin derin saygı ve gözyaşıyla yere kapanışı; `19:58`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Gözyaşı döküp ağlamayı (`بَكَى / بُكِيّ`) veya ağlatmayı (`أَبْكَىٰ`) bildiren `ب-ك-ي` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:82",
+          "53:43",
+          "53:60"
+        ],
+        "text": "Gülme ve Ağlama İkilisi (`9:82`, `53:43`, `53:60`): İnsanın güldürülmesi ve ağlatılmasının Allah'ın yasasında olması (`53:43`), sorumluluktan kaçanların az gülüp çok ağlaması uyarısı (`9:82`) ve vahiy karşısında ciddiyetle ağlamak yerine alayla gülmenin eleştirisi (`53:60`)."
+      },
+      {
+        "ayahs": [
+          "17:109",
+          "19:58"
+        ],
+        "text": "Vahiy Karşısında Derin Saygı Gözyaşı (`17:109`, `19:58`): Bilgi verilmiş kimselerin (`17:109`) ve seçkin nebilerin (`19:58`) ayetler okunduğunda gözyaşları içinde (`يَبْكُونَ / بُكِيًّا`) yere kapanıp alçakgönüllülüklerinin (`خُشُوعًا`) artması."
+      },
+      {
+        "ayahs": [
+          "12:16",
+          "44:29"
+        ],
+        "text": "Sahte Ağlayış ve Evrensel Yas Yokluğu (`12:16`, `44:29`): Yusuf'un kardeşlerinin babalarına akşam vakti yapmacık biçimde ağlayarak gelmeleri (`12:16`) ile zulmüyle boğulan Firavun ve ordusunun ardından göğün ve yerin hiç yas tutup ağlamaması (`44:29`)."
+      }
+    ],
+    "context_default": "Gözyaşı döküp ağlama, derin saygı duygusu veya güldürüp ağlatma yasası bağlamı"
   }
 }
