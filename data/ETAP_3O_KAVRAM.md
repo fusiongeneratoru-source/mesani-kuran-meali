@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 35 / 50 Kök (Toplam Mühürlü: 985 Kök | Güncel Kapsam: %97,03)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 36 / 50 Kök (Toplam Mühürlü: 986 Kök | Güncel Kapsam: %97,03)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -42,7 +42,7 @@
 | 33 | Sure %100 Kilidi | 981 | `ح-و-ج` | `H-W-C` | **3** | 3 | 12:68 | Hâce (İçte Duyulan Zorunlu Gereksinim, Gönüldeki Amaç ve Eksiklik Hissi) | ✅ **MÜHÜRLÜ** |
 | 34 | Sure %100 Kilidi | 1075 | `د-و-ل` | `D-W-L` | **2** | 2 | 3:140 | Müdâvele ve Dûle (El Değiştirip Sırayla Döndürmek ve Servetin Tek Zümre İçinde Dönüp Durması) | ✅ **MÜHÜRLÜ** |
 | 35 | Sure %100 Kilidi | 1093 | `ه-م-ن` | `H-M-N` | **2** | 2 | 5:48 | Müheymin (Gözetip Koruyan, Güven Altında Tutan ve Doğruluğu Denetleyen Üst Gözetleyici) | ✅ **MÜHÜRLÜ** |
-| 36 | Sure %100 Kilidi | 1235 | `و-ج-ف` | `W-C-F` | **2** | 2 | 59:6 | Evcefe ve Vâcife (Sure 59 Haşr kilidi + 2 geçiş: 59:6, 79:8 binekleri hızla koşturmak ve kalplerin korkuyla küt küt çarpması) | ⏳ *Bekliyor* |
+| 36 | Sure %100 Kilidi | 1235 | `و-ج-ف` | `W-C-F` | **2** | 2 | 59:6 | Evcefe ve Vâcife (Hızlı ve Sarsıntılı Koşuya Sürmek ve Kalplerin Korkuyla Küt Küt Çarpması) | ✅ **MÜHÜRLÜ** |
 | 37 | Sure %100 Kilidi | 1057 | `خ-ر-ب` | `H-R-B` | **2** | 2 | 2:114 | Harâb ve Yuhribûn (Sure 59 Haşr son kilidi: 2:114, 59:2 yapıyı yıkıp ıssız harabeye çevirmek — 60. tam kilitli sure!) | ⏳ *Bekliyor* |
 | 38 | Yüksek Frekanslı Çekirdek | 646 | `س-ق-ط` | `S-K-T` | **8** | 8 | 6:59 | Sukût ve İskât (8 geçiş: 6:59, 7:149, 9:49, 17:92, 19:25, 26:187, 34:9, 52:44 yukarıdan aşağıya düşmek, yaprağın ve hurmanın düşmesi, pişmanlık ve gökten parça düşürmek) | ⏳ *Bekliyor* |
 | 39 | Yüksek Frekanslı Çekirdek | 639 | `س-ل-ف` | `S-L-F` | **8** | 8 | 2:275 | Selef ve Eslefe (8 geçiş: 2:275, 4:22, 4:23, 5:95, 8:38, 10:30, 43:56, 69:24 geride kalıp geçmiş olmak, önceden yapıp gönderdiğini görmek) | ⏳ *Bekliyor* |
