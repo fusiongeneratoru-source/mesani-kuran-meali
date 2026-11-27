@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 1016,
+    "total_locked": 1017,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -5445,7 +5445,8 @@
         "ث-و-ب [وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِّن سُندُسٍ] (Bedeni Sarıp Kuşanan Giysi ve Örtü ↔ Geri Dönen Karşılık ve Dokunmuş Giysi [ل-ب-س & ثِيَابًا]: 18:31)",
         "ك-ت-م [وَلَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُوا۟ ٱلْحَقَّ / لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ] (Gerçeği Yalanla Karıştırıp Bulandırmak ↔ Bildiği Gerçeği Kasten Saklayıp Gizlemek [تَلْبِسُوا۟ & تَكْتُمُوا۟]: 2:42, 3:71)",
         "و-ق-ي [قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ] (Bedeni Örten Dış Giysi ↔ İnsanı Ahlaki Yıkımdan Koruyan İçsel Bilinçli Sakınma Örtüsü [لِبَاسُ & ٱلتَّقْوَىٰ]: 7:26)",
-        "ن-ش-ر [جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا] (Gecenin Sarıp Dinlendiren Örtüsü ↔ Gündüzün Açılıp Hayata Yayılması [لِبَاسًا & نُشُورًا]: 25:47)"
+        "ن-ش-ر [جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا] (Gecenin Sarıp Dinlendiren Örtüsü ↔ Gündüzün Açılıp Hayata Yayılması [لِبَاسًا & نُشُورًا]: 25:47)",
+        "ق-م-ص (Kamîs: doğrudan tene temas eden özel üst giysi/gömlek ↔ ل-ب-س genel giyinme ve bürünme — `12:25, 12:93`)"
       ]
     },
     "ق-ط-ع": {
@@ -7051,7 +7052,8 @@
         "ش-م-ل (S-M-L ($ml) — Çift Yönlü Mesânî Karşılığı [Asl 1]: `6:143`, `6:144` — üzerindeki örtüyü sıyırıp açığa çıkarmak `كَشْف` ↔ rahmin/örtünün içine alıp çepeçevre sararak kuşatmak `اِشْتَمَلَتْ`)",
         "غ-م-م (Gamm/Gumme: üstünü bütünüyle örtüp kapatmak ve belirsizleştirmek ↔ ك-ش-ف üstteki örtüyü kaldırıp açığa çıkarmak ve sıkıntıyı gidermek)",
         "ر-ي-ن (Reyn: kalbin ve algının üzerini katman katman örtüp kapatmak ↔ ك-ش-ف üzerindeki örtüyü kaldırıp açığa çıkarmak)",
-        "د-ث-ر (Tedessür/Disâr: üzerine kat kat dış örtü sarınıp bürünmek ↔ ك-ش-ف üzerindeki örtüyü açıp ortaya çıkmak)"
+        "د-ث-ر (Tedessür/Disâr: üzerine kat kat dış örtü sarınıp bürünmek ↔ ك-ش-ف üzerindeki örtüyü açıp ortaya çıkmak)",
+        "ق-م-ص (Kamîs: bedeni örtüp içine girilen gömlek giysisi ↔ ك-ش-ف örtüyü kaldırıp açığa çıkarmak — `12:18, 12:25-28`)"
       ]
     },
     "ع-ل-ن": {
@@ -12496,6 +12498,15 @@
       "opposites": [
         "ف-ص-ل (Net sınırla ayırıp kararlı kılmak ↔ م-ر-ج salıverip çalkantılı karışıklığa düşmek — `25:53, 50:5`)",
         "خ-ل-ص (Arı ve tutarlı olmak ↔ م-ر-ج karmakarışık bocalama içinde olmak — `50:5`)"
+      ]
+    },
+    "ق-م-ص": {
+      "latin": "K-M-S",
+      "core": "`ق-م-ص` kökü 6 ayetin tamamında (12. sure) **'bedene giyilen gömlek (`قَمِيص`) ve Yûsuf kıssasının üç dönüm noktasındaki maddi delil'** tek mekanizmasıyla işler.",
+      "physical": "İbn Fâris'in saptadığı iki asıldan ilki: 'bir şeyi giyinip onun içine girmek (`لُبْسُ شَيْءٍ وَالِانْشِيَامُ فِيهِ`)' — doğrudan tene geçirilen gömlek (`قَمِيص`). 12. suredeki 6 geçişin tümü bu somut giysiyi, kıssanın başında yalanın (`12:18`), ortasında adli gerçeğin (`12:25–28`), sonunda ise şifa ve kavuşmanın (`12:93`) maddi tanığı olarak örer.",
+      "opposites": [
+        "ك-ش-ف (Örtüyü açıp gerçeği ortaya çıkarmak ↔ ق-م-ص bedeni örten gömlek giysisi — `12:18, 12:25-28`)",
+        "ل-ب-س (Genel giysi/bürünme ↔ ق-م-ص doğrudan tene giyilen özel gömlek — `12:25, 12:93`)"
       ]
     }
   }
