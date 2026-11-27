@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 29 / 50 Kök (Toplam Mühürlü: 979 Kök | Güncel Kapsam: %96,99)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 980 Kök | Güncel Kapsam: %97,00)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -36,7 +36,7 @@
 | 27 | Sure %100 Kilidi | 1051 | `ر-ع-د` | `R-A-D` | **2** | 2 | 2:19 | Ra'd (Bulutların Çarpışıp Sarsılmasıyla Doğan Gök Gürültüsü ve Allah'ı Hamd ile Yüceltmesi) | ✅ **MÜHÜRLÜ** |
 | 28 | Sure %100 Kilidi | 1350 | `ج-ف-أ` | `C-F-E` | **1** | 1 | 13:17 | Cüfâ' (Selin veya Kaynayan Tencerenin Kıyıya Savurup Attığı İşe Yaramaz Köpük ve Çerçöp) | ✅ **MÜHÜRLÜ** |
 | 29 | Sure %100 Kilidi | 1349 | `م-ح-ل` | `M-H-L` | **1** | 1 | 13:13 | Mihâl (Tedbiri, Planlı Yakalayışı ve Cezalandırma Gücü Son Derece Çetin Olmak) | ✅ **MÜHÜRLÜ** |
-| 30 | Sure %100 Kilidi | 775 | `ر-ع-ب` | `R-A-B` | **5** | 5 | 3:151 | Ru'b (Sure 59 Haşr kilidi + 5 geçiş: 3:151, 8:12, 18:18, 33:26, 59:2 kalbi doldurup iradeyi felç eden derin ürperti ve korku) | ⏳ *Bekliyor* |
+| 30 | Sure %100 Kilidi | 775 | `ر-ع-ب` | `R-A-B` | **5** | 5 | 3:151 | Ru'b (Kalbi Tümüyle Doldurup İradeyi Çözen Şiddetli Korku, Panik ve Dehşet) | ✅ **MÜHÜRLÜ** |
 | 31 | Sure %100 Kilidi | 887 | `ج-د-ر` | `C-D-R` | **4** | 4 | 9:97 | Cidâr ve Cüdur (Sure 59 Haşr kilidi + 4 geçiş: 9:97, 18:77, 18:82, 59:14 kuşatıcı duvar, siper ve bir şeye daha layık/yakışır olmak) | ⏳ *Bekliyor* |
 | 32 | Sure %100 Kilidi | 836 | `خ-ص-ص` | `H-S-S` | **4** | 4 | 2:105 | Hasâsa ve Yahtassu (Sure 59 Haşr kilidi + 4 geçiş: 2:105, 3:74, 8:25, 59:9 başkalarından ayırıp tahsis etmek ve derin darlık/yoksulluk) | ⏳ *Bekliyor* |
 | 33 | Sure %100 Kilidi | 981 | `ح-و-ج` | `H-W-C` | **3** | 3 | 12:68 | Hâce (Sure 59 Haşr kilidi + 3 geçiş: 12:68, 40:80, 59:9 gönülde taşınan arzu, ihtiyaç ve göğüsteki eksik hissi) | ⏳ *Bekliyor* |
