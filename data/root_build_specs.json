@@ -63722,5 +63722,68 @@
       }
     ],
     "context_default": "Dolup taşarak akma, sel gibi akın etme ve bir işe/söze dalma bağlamı"
+  },
+  "ه-م-م": {
+    "buckwalter": "hmm",
+    "slug": "hmm",
+    "concept_name": "Hemm ve İhmâm (İçte Uyanıp Eyleme Doğru Yönelen Tasarı, Niyetlenmek ve Kaygıya Düşürmek)",
+    "root_latin": "H-M-M",
+    "keywords": [
+      "hemm",
+      "ihmam",
+      "niyetlenmek",
+      "yeltenmek",
+      "tasarlamak",
+      "kaygiya dusurmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ham~a",
+        "ayahs": [
+          "3:122",
+          "4:113",
+          "5:11",
+          "9:13",
+          "9:74",
+          "12:24",
+          "40:5"
+        ],
+        "label": "I. bab fiil (`هَمَّت / هَمَّ / هَمُّوا۟` — bir şeye yeltenmek, içten tasarlayıp eyleme yönelmek: `3:122` iki grubun çözülmeye yeltenmesi, `4:113` bir grubun seni saptırmaya yeltenmesi, `5:11` bir topluluğun ellerini size uzatmaya yeltenmesi, `9:13` elçiyi çıkarmaya yeltenmeleri, `9:74` elde edemedikleri şeye yeltenmeleri, `12:24` [2x] kadının Yusuf'a yönelmesi ve Rabbinin kanıtını görmeseydi Yusuf'un da meyledeceği hâl, `40:5` her topluluğun kendi elçisini yakalamaya yeltenmesi; 8 geçiş / 7 ayet)"
+      },
+      {
+        "lemma": ">aham~ato",
+        "ayahs": [
+          "3:154"
+        ],
+        "label": "IV. bab geçişli fiil (`قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ` — içten içe eritip kaygı ve telaşa düşürmek: `3:154` diğer grubu ise yalnızca kendi canlarının derdi kaygılandırıp meşgul etmişti; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Bir eyleme yeltenip tasarlamayı (`هَمَّ`) veya içten içe kaygılandırmayı (`أَهَمَّ`) bildiren `ه-م-م` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:122",
+          "4:113",
+          "5:11",
+          "9:13",
+          "9:74",
+          "40:5"
+        ],
+        "text": "Engellenen veya İleri Adıma Dönüşen Toplumsal/Siyasal Yeltenmeler (`3:122`, `4:113`, `5:11`, `9:13`, `9:74`, `40:5`): Savaşta iki grubun çözülmeye yeltenmesi (`3:122`), elçiyi yanıltmaya (`4:113`), saldırı için el uzatmaya (`5:11`), elçiyi sürgüne çıkarmaya (`9:13`), ulaşamadıkları bir komploya (`9:74`) ve geçmiş toplulukların elçilerini yakalamaya (`40:5`) yeltenmeleri."
+      },
+      {
+        "ayahs": [
+          "12:24"
+        ],
+        "text": "İnsani Eğilim ile İlahi Kanıt Arasındaki Eşik (`12:24`): Kadının Yusuf'a kesin biçimde yönelip yeltenmesi (`هَمَّتْ بِهِۦ`) ve Yusuf'un da Rabbinin apaçık kanıtını (`بُرْهَٰنَ رَبِّهِۦ`) görmeseydi insani bir eğilimle ona yönelebilecek olması (`هَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ`), fakat ilahi korumanın onu kötülükten çevirmesi."
+      },
+      {
+        "ayahs": [
+          "3:154"
+        ],
+        "text": "Savaş Anında Yalnızca Kendi Canının Kaygısına Kapılmak (`3:154`): Bir topluluğa güven veren hafif bir uyku indirilirken, diğer bir grubu yalnızca kendi canlarının kaygısının sarıp eritmesi (`أَهَمَّتْهُمْ أَنفُسُهُمْ`)."
+      }
+    ],
+    "context_default": "Bir işe yeltenip niyetlenme ve içten kaygıya düşürme bağlamı"
   }
 }
