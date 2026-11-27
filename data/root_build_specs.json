@@ -64258,5 +64258,57 @@
       }
     ],
     "context_default": "Güzellik ve sevinç iziyle parlamak veya kitap/ilim emaneti taşıyan bilginler bağlamı"
+  },
+  "ك-س-ف": {
+    "buckwalter": "ksf",
+    "slug": "ksf",
+    "concept_name": "Kisf ve Kisef (Bütünden Kopup Ayrılan Parçalar, Bulut Kümeleri ve Gökten İnen Kopuk Kütleler)",
+    "root_latin": "K-S-F",
+    "keywords": [
+      "kisf",
+      "kisef",
+      "parca",
+      "parcalar",
+      "bulut parcalari",
+      "gokten dusen parca"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "kisaf",
+        "ayahs": [
+          "17:92",
+          "26:187",
+          "30:48",
+          "34:9"
+        ],
+        "label": "Çoğul isim (`كِسَفًا` — `كِسْفَة` tekilinin çoğulu: (a) yağmur öncesi rüzgarla gökte parça parça kümelenen bulut dilimleri `30:48`; (b) yalanlayanların meydan okuyarak üstlerine düşmesini istediği veya Allah'ın dilerse indireceği gök parçaları `17:92`, `26:187`, `34:9`; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "kisof",
+        "ayahs": [
+          "52:44"
+        ],
+        "label": "Tekil/cins isim (`كِسْفًا` — gökten kopup düşen tek büyük bir parça/kütle görseler bile onu 'üst üste yığılmış bulut' sayacakları inat sahnesi; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Gökten veya buluttan kopup ayrılmış parça/parçaları (`كِسَف / كِسْف`) bildiren `ك-س-ف` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "30:48"
+        ],
+        "text": "Rahmet Yüklü Bulut Parçaları (`30:48`): Rüzgarlarla kaldırılan bulutun gökte yayıldıktan sonra parça parça kümelere ayrılması (`وَيَجْعَلُهُۥ كِسَفًا`) ve aralarından yağmurun (`ٱلْوَدْقَ`) çıkıp kulları müjdelemesi."
+      },
+      {
+        "ayahs": [
+          "17:92",
+          "26:187",
+          "34:9",
+          "52:44"
+        ],
+        "text": "Gökten Kopup Düşen Parçalarla Meydan Okuma ve İnat (`17:92`, `26:187`, `34:9`, `52:44`): Yalanlayanların göğü parça parça üstlerine düşürmeyi şart koşması (`17:92`, `26:187`), Allah'ın dilerse yeri batırıp gökten parçalar düşürebileceğini hatırlatması (`34:9`) ve gökten bir parçanın düştüğünü görseler bile 'yığılmış bulut' diyecek kadar diretmeleri (`52:44`)."
+      }
+    ],
+    "context_default": "Gökten veya buluttan kopup ayrılan parça/parçalar bağlamı"
   }
 }
