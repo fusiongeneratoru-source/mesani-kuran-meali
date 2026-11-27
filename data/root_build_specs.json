@@ -64310,5 +64310,60 @@
       }
     ],
     "context_default": "Gökten veya buluttan kopup ayrılan parça/parçalar bağlamı"
+  },
+  "ش-ي-ب": {
+    "buckwalter": "$yb",
+    "slug": "shyb",
+    "concept_name": "Şeyb, Şeybe ve Şîb (Saçın Siyahına Ak Karışıp Ağarması, İhtiyarlık Evresi ve Saçı Ağarmışlar)",
+    "root_latin": "S-Y-B",
+    "keywords": [
+      "seyb",
+      "seybe",
+      "sib",
+      "ak sac",
+      "sac agarmasi",
+      "ihtiyarlik",
+      "yaslilik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$ayob",
+        "ayahs": [
+          "19:4"
+        ],
+        "label": "Masdar/isim (`شَيْبًا` — Zekeriya'nın kemiklerinin gevşemesiyle birlikte başının ak saçla tutuşup parladığını bildiren temyiz: `وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا`; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "$ayobap",
+        "ayahs": [
+          "30:54"
+        ],
+        "label": "İsim (`وَشَيْبَةً` — insanın yaratılış döngüsünde güç evresinden sonra yeniden zayıflık ve saç ağarması/ihtiyarlık evresine döndürülmesi; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "$iyb",
+        "ayahs": [
+          "73:17"
+        ],
+        "label": "Çoğul sıfat (`شِيبًا` — `أَشْيَب` tekilinin çoğulu: dehşetiyle küçük çocukları bile ak saçlı ihtiyarlara çeviren kıyamet günü; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Saçın aklaşarak ağarmasını ve ihtiyarlık evresini (`شَيْب / شَيْبَة / شِيب`) bildiren `ش-ي-ب` isim veya sıfat formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "19:4",
+          "30:54"
+        ],
+        "text": "İnsanın Biyolojik Yaşlanma ve Güçten Düşme Evresi (`19:4`, `30:54`): Zekeriya'nın ilerleyen yaşını kemik gevşemesi ve başın ak saçla tutuşmasıyla ifade etmesi (`وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا`, `19:4`) ve insan ömrünün zayıflık → güç → yeniden zayıflık ve ak saçlı ihtiyarlık (`ضَعْفًا وَشَيْبَةً`) aşamalarından geçmesi (`30:54`)."
+      },
+      {
+        "ayahs": [
+          "73:17"
+        ],
+        "text": "Dehşetle Çocukları Bile Ağartan Gün (`73:17`): Gerçeği örtenlere, dehşetinin şiddetiyle küçük çocukları bile ak saçlı ihtiyarlara çevirecek günden (`يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا`) nasıl korunacaklarının sorulması."
+      }
+    ],
+    "context_default": "Saçın aklaşarak ağarması ve ihtiyarlık/dehşet bağlamı"
   }
 }
