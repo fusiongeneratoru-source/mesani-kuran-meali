@@ -65254,5 +65254,61 @@
       }
     ],
     "context_default": "Kötülüğü, tehlikeyi, cezayı veya suçlamayı itip savuşturma bağlamı"
+  },
+  "س-ي-ل": {
+    "buckwalter": "syl",
+    "slug": "syl",
+    "concept_name": "Seyl ve İsâle (Suyun veya Erimiş Madenin Akıp Uzanması, Vadilerden Taşan Sel ve Arim Seli)",
+    "root_latin": "S-Y-L",
+    "keywords": [
+      "seyl",
+      "sel",
+      "akmak",
+      "akitmak",
+      "erimis bakir",
+      "arim seli",
+      "vadi seli"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "saAlato",
+        "ayahs": [
+          "13:17"
+        ],
+        "label": "I. bab mâzi fiil (`فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا` — `سَالَ / يَسِيلُ`: gökten inen suyla vadilerin her birinin kendi kapasitesi ölçüsünde akıp dolması; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": ">asalo",
+        "ayahs": [
+          "34:12"
+        ],
+        "label": "IV. bab mâzi fiil (`وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ` — `أَسَالَ`: akıtmak; Süleyman için erimiş bakır kaynağını akıcı biçimde akıtıp hizmetine sunmak; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "sayol",
+        "ayahs": [
+          "13:17",
+          "34:16"
+        ],
+        "label": "İsim/masdar (`ٱلسَّيْلُ / سَيْلَ ٱلْعَرِمِ` — vadiden hızla akıp yürüyen gür su akıntısı/sel: `13:17` kabaran köpüğü sırtında taşıyan sel; `34:16` Sebe'nin iki bahçesini yerle bir eden bent yıkımı / Arim seli; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Suyun veya erimiş madenin akıp uzanmasını (`سَالَ / أَسَالَ`) yahut gür akıntılı seli (`سَيْل`) bildiren `س-ي-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:17"
+        ],
+        "text": "Kapasiteye Göre Akan Vadiler ve Köpük Taşıyan Sel (`13:17`): Gökten inen suyla vadilerin kendi ölçüleri kadar akması (`فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا`) ve oluşan selin (`ٱلسَّيْلُ`) üzerinde şişkin bir köpük taşıyarak hakikat ile bâtıl misalini kurması."
+      },
+      {
+        "ayahs": [
+          "34:12",
+          "34:16"
+        ],
+        "text": "Nimet Akışı ve Ceza Seli (`34:12`, `34:16`): Süleyman'a sanayi ve inşa nimeti olarak erimiş bakır kaynağının akıtılması (`وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ`, `34:12`), buna karşılık nimetten yüz çeviren Sebe halkının üzerine baraj/bent yıkımı selinin (`سَيْلَ ٱلْعَرِمِ`, `34:16`) gönderilmesi."
+      }
+    ],
+    "context_default": "Su veya erimiş maden akışı ve vadi seli bağlamı"
   }
 }

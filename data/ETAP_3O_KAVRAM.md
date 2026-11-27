@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 23 / 50 Kök (Toplam Mühürlü: 973 Kök | Güncel Kapsam: %96,96)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 24 / 50 Kök (Toplam Mühürlü: 974 Kök | Güncel Kapsam: %96,97)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -30,7 +30,7 @@
 | 21 | Sure %100 Kilidi | 1215 | `ه-ي-ج` | `H-Y-C` | **2** | 2 | 39:21 | Heyec ve Heyecân (Yeşil Bitkinin Olgunlaşıp Suyunu Çekerek Kuruması ve Sararmaya Dönüşmesi) | ✅ **MÜHÜRLÜ** |
 | 22 | Sure %100 Kilidi | 690 | `م-ك-ث` | `M-K-S` | **7** | 7 | 13:17 | Müks ve Mâkis (Bekleyip Durmak, Ağır Ağır ve Sindire Sindire Kalmak, Yeryüzünde veya Yurtta Kalıcı Olmak) | ✅ **MÜHÜRLÜ** |
 | 23 | Sure %100 Kilidi | 751 | `د-ر-أ` | `D-R-E` | **5** | 5 | 2:72 | Der' ve İddirâ' (Bir Tehlikeyi, Kötülüğü veya Cezayı Kuvvetle İtip Savuşturmak; Suçu Birbirine Atıp İtişmek) | ✅ **MÜHÜRLÜ** |
-| 24 | Sure %100 Kilidi | 903 | `س-ي-ل` | `S-Y-L` | **4** | 3 | 13:17 | Seyl ve Esâle (Sure 13 Ra'd kilidi + 4 geçiş: 13:17, 34:12, 34:16 vadilerden coşkun biçimde akan sel ve erimiş bakırı akıtmak) | ⏳ *Bekliyor* |
+| 24 | Sure %100 Kilidi | 903 | `س-ي-ل` | `S-Y-L` | **4** | 3 | 13:17 | Seyl ve İsâle (Suyun veya Erimiş Madenin Akıp Uzanması, Vadilerden Taşan Sel ve Arim Seli) | ✅ **MÜHÜRLÜ** |
 | 25 | Sure %100 Kilidi | 987 | `ز-ب-د` | `Z-B-D` | **3** | 1 | 13:17 | Zebed (Sure 13 Ra'd kilidi + 3 geçiş: 13:17 selin ve eriyen madenin üstünde toplanıp uçup giden yüzeysel köpük) | ⏳ *Bekliyor* |
 | 26 | Sure %100 Kilidi | 1136 | `ص-ن-و` | `S-N-W` | **2** | 1 | 13:4 | Sinvân (Sure 13 Ra'd kilidi + 2 geçiş: 13:4 tek bir kökten çatallanıp yükselen ikiz hurma ağaçları) | ⏳ *Bekliyor* |
 | 27 | Sure %100 Kilidi | 1051 | `ر-ع-د` | `R-A-D` | **2** | 2 | 2:19 | Ra'd (Sure 13 Ra'd kilidi + 2 geçiş: 2:19, 13:13 bulutlarda yankılanan gök gürültüsü) | ⏳ *Bekliyor* |
