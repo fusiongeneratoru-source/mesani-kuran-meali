@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3P (En Yüksek Frekanslı Kalan 50 Kök: Kalan Tüm 24 Adet 6 Geçişli Kök [≥6 Açık = 0!] + 26 Adet 5 Geçişli Çekirdek Kök — 1.050 Kök!)",
   "target_count": 50,
-  "locked_count": 30,
+  "locked_count": 31,
   "total_tokens_in_package": 274,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 97.58,
+  "current_coverage_pct": 97.59,
   "target_coverage_pct": 97.78,
   "etap_3p_roots": [
     {
@@ -575,8 +575,8 @@
       "frequency": 5,
       "unique_ayahs": 4,
       "rationale": "Hutuvât (5/4 + Açık Mesânî [س-ل-م]: iki ayak arası adım ve şeytanın adım izlerine uymamak)",
-      "concept_label": "Analiz Bekliyor (xuTuwa`t)",
-      "is_locked": false,
+      "concept_label": "Hutuvât (İki Ayak Arası Adımlar ve Aşamalı Ayak İzlerine Uymamak)",
+      "is_locked": true,
       "sample_ayah": "2:168",
       "top_lemmas": [
         "xuTuwa`t"

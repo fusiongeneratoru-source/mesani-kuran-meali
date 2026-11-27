@@ -68566,5 +68566,53 @@
       }
     ],
     "context_default": "Tomar gibi dürme veya Tuvâ vadisi bağlamı"
+  },
+  "خ-ط-و": {
+    "buckwalter": "xTw",
+    "slug": "xTw",
+    "concept_name": "Hutuvât (İki Ayak Arası Adımlar ve Aşamalı Ayak İzlerine Uymamak)",
+    "root_latin": "H-T-W",
+    "keywords": [
+      "hutuvat",
+      "adim",
+      "ayak izi",
+      "asama",
+      "rota"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xuTuwa`t",
+        "ayahs": [
+          "2:168",
+          "2:208",
+          "6:142",
+          "24:21"
+        ],
+        "label": "Düzenli müennes çoğul isim, mef'ûl-i bih ve kesre ile mansûb muzâf (`خُطُوَٰتِ ٱلشَّيْطَٰنِ` — ayartıcı gücün aşamalı adım izleri ve yönlendirme rotası; 5 geçiş / 4 ayet)"
+      }
+    ],
+    "irab_default": "Aşamalı adımları ve ayak izlerini bildiren `خ-ط-و` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:168",
+          "6:142"
+        ],
+        "text": "Temiz Rızık ve Uydurma Kısıtlamalardan Sakınma (`2:168, 6:142`): Yeryüzünün ve hayvanların sağladığı serbest, temiz rızıklardan yararlanırken ayartıcı gücün adım izlerine (`خُطُوَٰتِ`) uymama uyarısı."
+      },
+      {
+        "ayahs": [
+          "2:208"
+        ],
+        "text": "Bütüncül Esenlik Karşısında Parçalayıcı Adımlar (`2:208`): Hep birlikte barış ve esenliğe (`ٱلسِّلْمِ`) girme emrinin tam karşısında, ayrılıkçı ayartıcının adım izlerine uymama uyarısı."
+      },
+      {
+        "ayahs": [
+          "24:21"
+        ],
+        "text": "Taşkınlığa Götüren Aşamalı İzler (`24:21`): Ayartıcı gücün adım izlerine uymanın kaçınılmaz biçimde çirkin taşkınlığa ve sağduyunun reddettiği işlere sürüklediği uyarısı."
+      }
+    ],
+    "context_default": "Aşamalı adım izlerinden sakınma bağlamı"
   }
 }
