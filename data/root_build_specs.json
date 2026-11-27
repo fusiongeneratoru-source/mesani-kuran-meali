@@ -68784,5 +68784,72 @@
       }
     ],
     "context_default": "Yakıcı keder, kederli öfke veya öfkelendirme bağlamı"
+  },
+  "ع-ص-ب": {
+    "buckwalter": "ESb",
+    "slug": "ESb",
+    "concept_name": "Usbe ve Asîb (Birbirine Sımsıkı Kenetlenmiş Güçlü Topluluk ve Çetin, Sıkışık Gün)",
+    "root_latin": "A-S-B",
+    "keywords": [
+      "usbe",
+      "asib",
+      "kenetlenmis grup",
+      "cetin gun",
+      "dayanisma"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EaSiyb",
+        "ayahs": [
+          "11:77"
+        ],
+        "label": "Sıfat-ı müşebbehe, `يَوْمٌ` kelimesinin merfû sıfatı (`هَٰذَا يَوْمٌ عَصِيبٌ` — sıkıntı ve baskının çepeçevre sımsıkı sardığı çetin gün; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "EuSobap",
+        "ayahs": [
+          "12:8",
+          "12:14",
+          "24:11"
+        ],
+        "label": "Topluluk ismi, haber ve merfû (`وَنَحْنُ عُصْبَةٌ` / `عُصْبَةٌ مِّنكُمْ` — birbirine sıkıca kenetlenmiş dayanışmalı güçlü grup; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "EuSobap",
+        "ayahs": [
+          "28:76"
+        ],
+        "label": "Topluluk ismi, `بِ` harf-i cerriyle mecrûr (`لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ` — hazine anahtarlarının bile ağır geldiği güç sahibi kenetlenmiş topluluk; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Birbirine kenetlenmiş topluluğu (`عُصْبَة`) veya çetin sıkışık günü (`عَصِيب`) bildiren `ع-ص-ب` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:77"
+        ],
+        "text": "Lût'un Çetin ve Sıkışık Günü (`11:77`): Elçiler konuk olarak geldiğinde Lût'un kavminin azgınlığından dolayı daralıp 'bu son derece çetin bir gündür (`يَوْمٌ عَصِيبٌ`)' demesi."
+      },
+      {
+        "ayahs": [
+          "12:8",
+          "12:14"
+        ],
+        "text": "Yûsuf'un Kardeşlerinin Dayanışmalı Güç İddiası (`12:8, 12:14`): Kendilerinin kenetlenmiş güçlü bir topluluk (`عُصْبَةٌ`) olduklarını öne sürerek kıskançlık göstermeleri ve babalarını ikna etmeye çalışmaları."
+      },
+      {
+        "ayahs": [
+          "24:11"
+        ],
+        "text": "İftirayı Yayan Kenetlenmiş Klik (`24:11`): Büyük iftirayı ortaya atanların topluluk içinden birbirine bağlı bir grup (`عُصْبَةٌ مِّنكُمْ`) olduğunun bildirilmesi."
+      },
+      {
+        "ayahs": [
+          "28:76"
+        ],
+        "text": "Kârûn'un Hazinelerine Dayanamayan Güçlü Topluluk (`28:76`): Kârûn'un servetinin büyüklüğünün, anahtarlarının dahi güç sahibi kenetlenmiş bir topluluğa (`بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ`) ağır gelmesiyle somutlaştırılması."
+      }
+    ],
+    "context_default": "Birbirine kenetlenmiş topluluk veya çetin sıkışık gün bağlamı"
   }
 }
