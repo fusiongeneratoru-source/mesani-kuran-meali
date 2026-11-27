@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (42/50 — Toplam 942 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (43/50 — Toplam 943 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -33828,7 +33828,8 @@
           "ط-ي-ر [أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ] (İlahî Yasayla Havada Tutulup Dengelenmek ↔ Gök Boşluğunda Süzülüp Uçmak: 16:79, 67:19)",
           "د-ف-ع",
           "ن-ب-ذ (N-B-Z (nb*) — Çift Yönlü Mesânî Karşılığı: 2:100, 2:101, 3:187, 20:96)",
-          "ص-ب-ب (Sabb: yukarıdan bolca döküp boşaltmak ↔ م-س-ك akışı tutup alıkoymak)"
+          "ص-ب-ب (Sabb: yukarıdan bolca döküp boşaltmak ↔ م-س-ك akışı tutup alıkoymak)",
+          "ف-ي-ض (İfâza: bolca döküp akıtmak ve salıvermek ↔ م-س-ك tutup hapsetmek, akışını kesmek — `7:50`, `2:199`)"
         ],
         "key_ayahs": [
           "35:2 & 39:42 (مَا يَفْتَحِ ... فَلَا مُمْسِكَ لَهَا وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ — tutma ve salıverme kozmik yasası)",
@@ -78967,6 +78968,97 @@
           "examples": [
             "12:43",
             "12:46"
+          ]
+        }
+      ]
+    },
+    "ف-ي-ض": {
+      "root_latin": "F-Y-D",
+      "arabic": "ف-ي-ض",
+      "rank": 603,
+      "morphology_and_rasm": {
+        "buckwalter": "fyD",
+        "rasm_skeleton": "فيض (ecvef-i yâî iskelet; I. bab `تفيض` 2x ve IV. bab `أفضتم/أفيضوا/أفاض/تفيضون` 7x olmak üzere 9 kez)",
+        "approx_frequency": "9 geçiş / 8 ayet (2x I. bab fiil `تَفِيضُ`, 7x IV. bab fiil `أَفَاضَ` — isim formu Kur'an'da geçmez)",
+        "verb_forms_used": [
+          "I. Bab (فَاضَ / تَفِيضُ — 2 geçiş: 5:83, 9:92)",
+          "IV. Bab (أَفَاضَ / يُفِيضُ — 7 geçiş: 2:198, 2:199 [2x], 7:50, 10:61, 24:14, 46:8)"
+        ],
+        "noun_forms_used": [],
+        "preposition_patterns": [
+          "تَفِيضُ مِنَ ٱلدَّمْعِ (`5:83`, `9:92`: `مِنْ` beyâniyye/temyiz ile gözlerin yaşla dolup taşması)",
+          "أَفَاضَ مِنْ (`2:198`, `2:199`: bir toplanma noktasından sel gibi akıp dağılmak)",
+          "أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ (`7:50`: `عَلَى` ile yukarıdan bolca döküp akıtmak)",
+          "أَفَاضَ فِى (`10:61`, `24:14`, `46:8`: `فِى` ile bir eyleme veya söze sel gibi dalıp koyulmak)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı somut çekirdek: 'bir şeyin kolayca ve engellenmeden akıp taşması' (`جَرَيَانُ الشَّيْءِ بِسُهُولَةٍ` — dolup kenarından taşan su/gözyaşı, yüksekten bolca dökülen sıvı, bir alandan sel gibi akan kalabalık ve bir söze taşkınca dalmak).",
+      "ibn_faris_asl": "(فَيَضَ) الْفَاءُ وَالْيَاءُ وَالضَّادُ أَصْلٌ صَحِيحٌ وَاحِدٌ يَدُلُّ عَلَى جَرَيَانِ الشَّيْءِ بِسُهُولَةٍ. [Mu'cemü Mekâyîsi'l-Luğa, c. 4, باب الفاء والياء وما يثلثهما, فيض maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ف-ي-ض` kökünün tek sahih çekirdeğini 'kolayca akıp taşmak' (`جَرَيَانُ الشَّيْءِ بِسُهُولَةٍ`) olarak verir; ırmağın taşması (`فَاضَ النَّهْرُ`), gözün yaşla dolup taşması (`فَاضَتِ الْعَيْنُ`) ve cömert elin akışı hep bu fiziksel akıştan doğar.",
+        "lisan_al_arab": "İbn Manzûr I. bab `فَاضَ`'ın kendiliğinden dolup taşmayı, IV. bab `أَفَاضَ`'ın ise hem 'suyu bolca dökmek' (`7:50`), hem 'kalabalık hâlinde hızla akıp ilerlemek' (`2:198`–`199`), hem de 'bir söze veya işe dalıp yaymak' (`أَفَاضُوا فِي الْحَدِيثِ`, `10:61`, `24:14`, `46:8`) anlamlarını taşıdığını belgeler.",
+        "ragib_al_isfahani": "Râgıb `أَفَاضَ` fiilinin `فِى` ile kullanımını, sözün veya işin bir su baskını gibi ağızdan ve eylemden taşarak yayılmasına benzetir; `2:198`–`199`'da kalabalığın sel gibi tek bir kanaldan akışını, `5:83` ve `9:92`'de ise duygunun göz çukurundan taşışını aynı fiziksel kanuna bağlar.",
+        "verdict": "Tüm 9 geçiş **'dolup taşarak kolayca akmak (`فَاضَ`), bolca döküp akıtmak, sel gibi akın etmek veya bir söze/işe taşkınca dalmak (`أَفَاضَ`)'** tek fiziksel akış yasasında birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*p-y-ḍ / *p-w-ṣ ('taşmak, yayılmak, dağılmak')",
+        "hebrew": "İbranice pûṣ (פוּץ — 'taşmak, etrafa yayılıp dağılmak') ile ses ve anlam paralelliği karşılaştırmalı Sâmî filolojide bilinmektedir.",
+        "aramaic_syriac": "Aramice/Süryanice pūṣ ('taşmak, yayılmak') yakın paralellik gösterir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşköken tespit edilmemiştir.",
+        "comparative_note": "Akışkanın kabından taşıp yayılması imgesi, Kur'an'da hem gözyaşına (`5:83`, `9:92`), hem suya (`7:50`), hem insan kalabalığına (`2:198`–`199`), hem de söz/eylem akışına (`10:61`, `24:14`, `46:8`) kusursuzca uygulanır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "غ-ي-ض (Suyun çekilip azalması, yerin dibine sinmesi ↔ ف-ي-ض dolup taşarak kolayca akmak — `5:83`, `7:50`)",
+          "م-س-ك (Tutup hapsetmek, akışı kesmek ↔ ف-ي-ض bolca döküp akıtmak ve salıvermek — `7:50`, `2:199`)"
+        ],
+        "bidirectional_test": "Arapçada `فَاضَ` (dolup taşmak) ile `غَاضَ` (çekilip eksilmek) klasik ve fiziksel en temel zıt çiftlerden biridir (`7:50` bolca akıtma vs tutup alıkoyma `م-س-ك`)."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "د-م-ع",
+          "ب-ك-ي",
+          "خ-و-ض"
+        ],
+        "analysis": "`5:83` ve `9:92`'de `تَفِيضُ مِنَ ٱلدَّمْعِ` gözyaşının sadece akmasını değil, göz pınarından kabına sığmayıp taşmasını (`ف-ي-ض`) belirtir. `24:14` ve `46:8`'de `أَفَاضَ فِى` (taşkınca dalıp yaymak), `خ-و-ض` (suya/lafa batıp gevezelik etmek) ile yakın ancak daha coşkun bir yayılım tonu taşır."
+      },
+      "anchor_ayahs": [
+        "5:83 (تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ — hakikatten tanıdıkları şeyden dolayı gözlerinin yaşla dolup taştığını görürsün)",
+        "2:199 (ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ — sonra insanların sel gibi akıp indiği yerden siz de akın edip inin)",
+        "7:50 (أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ — üzerimize sudan veya Allah'ın size verdiği rızıktan bolca akıtın)",
+        "10:61 (إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ — siz o işe dalıp koyulduğunuzda mutlaka üzerinizde tanıklarız)"
+      ],
+      "unified_core_mechanism": "`ف-ي-ض` kökü 9 geçişinin tamamında **'kabından taşıp kolayca akma'** fiziksel çekirdeğini işletir: I. bab (`تَفِيضُ`) gözyaşının taşması; IV. bab (`أَفَاضَ`) kalabalığın sel gibi akışı (`مِنْ`), su/rızık akıtma (`عَلَى`) ve eyleme/söze taşkınca dalma (`فِى`).",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — I. Bab Lâzım (`تَفِيضُ` — `5:83`, `9:92`): Gözlerin yaşla taşması.",
+          "Dal 2 — IV. Bab Hareket/Akın (`أَفَاضَ مِنْ` — `2:198`, `2:199` [2x]): Toplu akış.",
+          "Dal 3 — IV. Bab Döküp Akıtma (`أَفَاضَ عَلَى` — `7:50`): Su ve rızık dökme.",
+          "Dal 4 — IV. Bab Söze/İşe Dalma (`أَفَاضَ فِى` — `10:61`, `24:14`, `46:8`): Eylem veya söylentiye taşkınca koyulma."
+        ],
+        "irab_notes": "`5:83` ve `9:92`'deki `تَفِيضُ مِنَ ٱلدَّمْعِ` yapısında `مِنَ ٱلدَّمْعِ` beyânî/temyiz konumundadır: 'gözlerin kendisi neredeyse gözyaşına dönüşüp taşıyormuşçasına' yoğun bir belâgat taşır."
+      },
+      "derivatives": [
+        {
+          "form": "تَفِيضُ",
+          "pos": "Fiil (I. Bab Muzâri)",
+          "meaning": "Dolup taşmak (gözlerin yaşla taşması)",
+          "examples": [
+            "5:83",
+            "9:92"
+          ]
+        },
+        {
+          "form": "أَفَضْتُم / أَفِيضُوا۟ / أَفَاضَ / تُفِيضُونَ",
+          "pos": "Fiil (IV. Bab)",
+          "meaning": "Sel gibi akın etmek, bolca döküp akıtmak, bir işe/söze dalmak",
+          "examples": [
+            "2:198",
+            "2:199",
+            "7:50",
+            "10:61",
+            "24:14",
+            "46:8"
           ]
         }
       ]

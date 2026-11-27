@@ -63659,5 +63659,68 @@
       }
     ],
     "context_default": "Sığır cinsi, Bakara kıssası, beslenme kuralları ve Yusuf kıssasındaki inek simgesi bağlamı"
+  },
+  "ف-ي-ض": {
+    "buckwalter": "fyD",
+    "slug": "fyd",
+    "concept_name": "Feyz ve İfâza (Dolup Taşarak Akıtmak, Sel Gibi Akın Etmek ve Söze/İşe Dalmak)",
+    "root_latin": "F-Y-D",
+    "keywords": [
+      "feyz",
+      "ifaza",
+      "tasmak",
+      "gozyasi tasmak",
+      "sel gibi akin etmek",
+      "soze dalmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tafiyDu",
+        "ayahs": [
+          "5:83",
+          "9:92"
+        ],
+        "label": "I. bab lâzım fiil (`تَفِيضُ مِنَ ٱلدَّمْعِ` — dolup taşarak akmak: `5:83` elçiye indirileni duyunca hakikati tanımalarından dolayı gözlerinin yaşla dolup taşması, `9:92` harcayacak imkân bulamadıkları için üzüntüden gözleri yaşla dolup taşarak geri dönmeleri; 2 geçiş)"
+      },
+      {
+        "lemma": ">afaADa",
+        "ayahs": [
+          "2:198",
+          "2:199",
+          "7:50",
+          "10:61",
+          "24:14",
+          "46:8"
+        ],
+        "label": "IV. bab fiil (`أَفَضْتُم / أَفِيضُوا۟ / أَفَاضَ / تُفِيضُونَ` — (a) topluluk hâlinde sel gibi akıp inmek `2:198`, `2:199` [2x]; (b) bolca döküp akıtmak `7:50` üzerimize sudan veya rızıktan akıtın; (c) bir işe veya konuşmaya coşkunlukla dalmak `10:61`, `24:14`, `46:8`; 7 geçiş / 6 ayet)"
+      }
+    ],
+    "irab_default": "Dolup taşarak akmayı, sel gibi akın etmeyi veya bir işe/söze dalmayı bildiren `ف-ي-ض` fiili (`فَاضَ / أَفَاضَ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:83",
+          "9:92"
+        ],
+        "text": "Gözlerin Yaşla Dolup Taşması (`5:83`, `9:92`): Hakikati tanıyınca duyulan derin içtenlikle (`5:83`) veya iyilik uğruna harcayacak binek ve imkân bulamamanın içten üzüntüsüyle (`9:92`) gözlerin yaşla dolup taşması (`تَفِيضُ مِنَ ٱلدَّمْعِ`)."
+      },
+      {
+        "ayahs": [
+          "2:198",
+          "2:199",
+          "7:50"
+        ],
+        "text": "Toplulukların Sel Gibi Akışı ve Su/Rızık Akıtma (`2:198`, `2:199`, `7:50`): Arafat'tan ve insanların hep birlikte sel gibi akıp indiği yerden akın ederek ayrılmak (`أَفَضْتُم / أَفِيضُوا۟ / أَفَاضَ`, `2:198`–`199`) ve ateş yurdundakilerin bahçe halkına 'üzerimize sudan ya da Allah'ın size verdiği rızıktan bolca dökün/akıtın (`أَفِيضُوا۟ عَلَيْنَا`)' diye seslenmeleri (`7:50`)."
+      },
+      {
+        "ayahs": [
+          "10:61",
+          "24:14",
+          "46:8"
+        ],
+        "text": "Bir İşe, Eyleme veya Söylentiye Dalmak (`10:61`, `24:14`, `46:8`): İnsanların hangi işe dalıp girişseler (`إِذْ تُفِيضُونَ فِيهِ`, `10:61`) Allah'ın üzerlerinde tanık olması; asılsız iftira söylentisine (`فِى مَآ أَفَضْتُمْ فِيهِ`, `24:14`) ve Kur'an hakkındaki karalamalara (`بِمَا تُفِيضُونَ فِيهِ`, `46:8`) coşkunlukla dalıp yaymaları."
+      }
+    ],
+    "context_default": "Dolup taşarak akma, sel gibi akın etme ve bir işe/söze dalma bağlamı"
   }
 }
