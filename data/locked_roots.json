@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (36/50 — Toplam 986 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (37/50 — Toplam 987 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -5547,7 +5547,8 @@
           "ح-ط-م (H-T-M (HTm) — Çift Yönlü Mesânî Karşılığı: 27:18, 39:21, 57:20, 104:4-5)",
           "ت-ب-ر (Tetbîr/Tebâr: parçalayıp ufalayarak kökünden yıkmak ↔ ب-ن-ي sağlam biçimde inşa edip kurmak)",
           "ن-س-ف (Nesf: bir yapıyı veya kütleyi temelinden kazıyıp dağıtmak ↔ ب-ن-ي parçaları üst üste koyup sağlam biçimde inşa etmek)",
-          "ك-ش-ط (Keşt: göğü bir örtü/çatı gibi sıyırıp yerinden kaldırmak ↔ ب-ن-ي göğü sağlam bir yapı olarak kurup yükseltmek — `81:11` ↔ `79:27`)"
+          "ك-ش-ط (Keşt: göğü bir örtü/çatı gibi sıyırıp yerinden kaldırmak ↔ ب-ن-ي göğü sağlam bir yapı olarak kurup yükseltmek — `81:11` ↔ `79:27`)",
+          "خ-ر-ب (İhrâb: kurulu yapıyı söküp parçalayarak harabeye çevirmek ↔ ب-ن-ي yapıyı taş üstüne taş koyarak inşa edip yükseltmek — `59:2`)"
         ],
         "key_ayahs": [
           "9:109-110 & 16:26 & 61:4 (أَسَّسَ بُنْيَٰنَهُۥ عَلَىٰ تَقْوَىٰ ... كَأَنَّهُم بُنْيَٰنٌ مَّرْصُوصٌ: Temel ilkeye oturan sarsılmaz toplumsal yapı vs kaypak zemin üzerinde çöken sahte bina)",
@@ -82624,6 +82625,86 @@
           "meaning": "Şiddetli korkuyla küt küt çarpan, çalkalanan (kalp)",
           "examples": [
             "79:8"
+          ]
+        }
+      ]
+    },
+    "خ-ر-ب": {
+      "root_latin": "H-R-B",
+      "arabic": "خ-ر-ب",
+      "rank": 1057,
+      "morphology_and_rasm": {
+        "buckwalter": "xrb",
+        "rasm_skeleton": "خرب (üçlü sâlim iskelet; `2:114` mastar `خَرَابِهَا`, `59:2` IV. bab muzâri `يُخْرِبُونَ` [Ebû Amr kıraatinde II. bab `يُخَرِّبُونَ`])",
+        "approx_frequency": "2 geçiş / 2 ayet (`2:114, 59:2` — Sure 59 Haşr'ın son kilit kökü / 60. tam sure!)",
+        "verb_forms_used": [
+          "Form IV (`يُخْرِبُونَ` — `59:2` [1x]: evleri söküp yıkıp oturulamaz harabeye çevirmek)"
+        ],
+        "noun_forms_used": [
+          "خَرَاب (`2:114` [1x] — bir yapının ve mekânın ıssızlaşıp yıkılması, harap olması)"
+        ],
+        "preposition_patterns": [
+          "سَعَىٰ فِى خَرَابِهَآ (`2:114`: `فِى` ile yıkım yönünde çabalamak)",
+          "يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ (`59:2`: `بِ` ile vasıta; kendi elleriyle yıkmak)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı somut fiziksel çekirdek: 'delinip gedik açılmak ve parçalanıp eksilmek (`التَّثَلُّمُ وَالتَّثَقُّبُ`)' — bir yapının bütünlüğü delinip gedikler açıldığında bayındırlık (`عِمَارَة`) çöker ve yerini ıssız yıkıntıya (`خَرَاب`) bırakır.",
+      "ibn_faris_asl": "(خَرَبَ) الْخَاءُ وَالرَّاءُ وَالْبَاءُ أَصْلٌ يَدُلُّ عَلَى التَّثَلُّمِ وَالتَّثَقُّبِ. فَالْخُرْبَةُ: الثُّقْبَةُ... وَالْخَرَابُ ضِدُّ الْعُمْرَانِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 2, s. 174, كتاب الخاء, باب الخاء والراء وما يثلثهما, خرب maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `خ-ر-ب` kökünün somut temelini 'gedik açılmak ve delinmek (`التَّثَلُّمُ وَالتَّثَقُّبُ`)' olarak verir; bir yapının veya yurdun bayındırlık zıddı olan `خَرَاب` haline düşmesi bu parçalanma ve boşalmadan doğar.",
+        "lisan_al_arab": "İbn Manzûr `خَرَاب`'ın `عُمْرَان` (imar/bayındırlık) kelimesinin tam karşıtı olduğunu; `أَخْرَبَ الدَّارَ` (`59:2` IV. bab) ile 'evi terk edip yıkarak ıssız harabeye bıraktı' anlamının kurulduğunu açıklar.",
+        "ragib_al_isfahani": "Râgıb `2:114`'teki `خَرَابِهَا` ifadesinin hem mescitlerin taşını duvarını yıkmayı hem de içinde Allah'ın anılmasını engelleyerek onları manen ıssız bırakmayı birlikte kapsadığını vurgular.",
+        "verdict": "Her iki ayet **'bayındırlığın (`ع-م-ر`) tam zıddı olarak bir yapıyı veya canlı mekânı delip sökerek ıssız harabeye çevirmek (`خَرَاب / يُخْرِبُونَ`)'** tek mekanizmasında birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*ḫ-r-b ('kurumak, ıssızlaşmak, yıkılıp harabeye dönmek')",
+        "hebrew": "חָרַב (ḥārab — ıssızlaşmak, harap olmak; ḥorbāh 'harabe, yıkıntı')",
+        "aramaic_syriac": "חֲרַב / ܚܪܒ (ḥăraḇ — yıkılmak, harap olmak; ḥarbā 'harabe')",
+        "akkadian": "ḫarābu ('ıssız kalmak, çoraklaşıp terk edilmek')",
+        "comparative_note": "Proto-Sami *ḫ-r-b ailesi Akkadcadan İbranice, Aramice ve Arapçaya kadar 'insansızlaşıp harabeye dönmek' çekirdeğini kesintisiz korur; Kur'an'da `ع-م-ر` kökünün doğrudan çift yönlü Mesânî zıddıdır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ع-م-ر (Yeryüzünü ve mescitleri canlı tutup bayındır kılmak `عِمَارَة` ↔ خ-ر-ب mescitleri ve evleri yıkıp ıssız harabeye çevirmek `خَرَاب / يُخْرِبُونَ` — `2:114, 59:2`)",
+          "ب-ن-ي (Yapıyı sağlamca kurup yükseltmek ↔ خ-ر-ب kurulu yapıyı söküp harabeye çevirmek — `59:2`)"
+        ],
+        "bidirectional_test": "`ع-م-ر` maddesinde zaten `خ-ر-ب` karşılığı kaydedilmiştir (`عمارة الأرض نقيض الخراب`); `2:114` mescitlerin harabına çalışmayı, `9:18` ise mescitleri bayındır kılmayı (`يَعْمُرُ مَسَٰجِدَ ٱللَّهِ`) doğrudan karşı karşıya koyar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ح-ص-ن",
+          "ر-ع-ب",
+          "خ-ر-ج"
+        ],
+        "analysis": "`59:2`'de `حُصُونُهُم` (`ح-ص-ن`) güvendikleri dış kaleleri, `ٱلرُّعْبَ` (`ر-ع-ب`) içlerine atılan dehşeti, `يُخْرِبُونَ بُيُوتَهُم` (`خ-ر-ب`) ise bu çöküşle kendi evlerini söküp yıkmalarını, `أَخْرَجَ` (`خ-ر-ج`) de yurtlarından çıkarılışlarını sahne sahne ayırır."
+      },
+      "anchor_ayahs": [
+        "2:114 (وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ — Allah'ın mescitlerinde O'nun adının anılmasını engelleyip onların harap olmasına çalışandan daha zalim kim vardır?)",
+        "59:2 (يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ — evlerini kendi elleriyle ve güvenenlerin elleriyle yıkıp harap ediyorlardı; ey basiret sahipleri, ibret alın!)"
+      ],
+      "unified_core_mechanism": "`خ-ر-ب` kökü bayındırlığın (`ع-م-ر`) tam zıddı olarak hem mekânın işlevsizleşip ıssızlaştırılmasını (`خَرَابِهَا`, `2:114`) hem de kurulu evlerin fiilen sökülüp yıkılmasını (`يُخْرِبُونَ`, `59:2`) tek bir yıkım çekirdeğinde toplar.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Mastar / İşlevsel ve Fiziksel Yıkım (`خَرَابِهَآ` — `2:114` [1x]): `فِى` ile mecrûr mastar.",
+          "Dal 2 — IV. Bab Fiilî Yıkım (`يُخْرِبُونَ` — `59:2` [1x]): Hâl veya istînâf cümlesi muzâri fiil."
+        ],
+        "irab_notes": "`59:2`'deki `يُخْرِبُونَ` IV. bab geçişli fiiliyle Hafs'ta 'evleri söküp boşaltarak harabeye çevirmek' vurgulanır; `خ-ر-ب` kilidiyle Sure 59 Haşr'ın tamamı (%100) kilitlenir."
+      },
+      "derivatives": [
+        {
+          "form": "خَرَاب",
+          "pos": "İsim / Mastar",
+          "meaning": "Bir yapının veya canlı mekânın ıssızlaşması, yıkılıp harap olması",
+          "examples": [
+            "2:114"
+          ]
+        },
+        {
+          "form": "يُخْرِبُ",
+          "pos": "Fiil (IV. Bab)",
+          "meaning": "Kurulu yapıyı söküp parçalayarak harabeye çevirmek",
+          "examples": [
+            "59:2"
           ]
         }
       ]
