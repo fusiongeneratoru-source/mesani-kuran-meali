@@ -62434,5 +62434,66 @@
       }
     ],
     "context_default": "İçi saf ve hoş içecekle dolu ikram kadehi bağlamı"
+  },
+  "ك-ع-ب": {
+    "buckwalter": "kEb",
+    "slug": "keb",
+    "concept_name": "Ka'b, Ka'be ve Kevâib (Çıkıntılı Ayak Bileği Kemiği, Küp Biçimli Yükselen Kâbe ve Serpilip Olgunlaşmış Eşler)",
+    "root_latin": "K-A-B",
+    "keywords": [
+      "kab",
+      "kabe",
+      "kevaib",
+      "topuk eklemi",
+      "yuksek yapi",
+      "olgunlasmis esler"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "kaEobayon",
+        "ayahs": [
+          "5:6"
+        ],
+        "label": "İkil isim (`وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ` — bacak ile ayağın birleştiği yerde iki yandan çıkıntı yapan ayak bileği/topuk kemikleri; arınma sınırı; `5:6`; 1 geçiş)"
+      },
+      {
+        "lemma": "kaEobap",
+        "ayahs": [
+          "5:95",
+          "5:97"
+        ],
+        "label": "Özel isim (`بَٰلِغَ ٱلْكَعْبَةِ / ٱلْكَعْبَةَ ٱلْبَيْتَ ٱلْحَرَامَ` — dörtgen/küp biçiminde yükselen dokunulmaz yapı, Kâbe: `5:95` Kâbe'ye ulaşacak armağan, `5:97` insanlar için ayakta kalma ve toplanma dayanağı [`قِيَٰمًا`] kılınan Kâbe; 2 geçiş)"
+      },
+      {
+        "lemma": "kawaAEib",
+        "ayahs": [
+          "78:33"
+        ],
+        "label": "Çoğul sıfat (`وَكَوَاعِبَ أَتْرَابًا`, tekili `كَاعِب` — gençlik çağına erip serpilmiş, dolgunlaşıp olgunlaşmış yaşıt eşler; `78:33`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Belirgin çıkıntı ve yükselmeyi (`ٱلْكَعْبَيْنِ`, `ٱلْكَعْبَة`, `كَوَاعِب`) bildiren `ك-ع-ب` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:95",
+          "5:97"
+        ],
+        "text": "İnsanlar İçin Dayanak Kılınan Kâbe (`5:95`, `5:97`): Allah'ın Kâbe'yi — dokunulmaz evi (`ٱلْبَيْتَ ٱلْحَرَامَ`) — insanların toplumsal ve manevi hayatını ayakta tutan bir merkez (`قِيَٰمًا لِّلنَّاسِ`) kılması (`5:97`) ve dokunulmazlık ihlalinde Kâbe'ye ulaştırılan telafi armağanı (`5:95`)."
+      },
+      {
+        "ayahs": [
+          "5:6"
+        ],
+        "text": "Arınma Sınırı Olarak Ayak Bileği Kemikleri (`5:6`): Yöneliş duruşuna (`ٱلصَّلَوٰةِ`) kalkarken ayakların yıkama/meshetme sınırının bilekteki iki çıkıntılı kemiğe (`ٱلْكَعْبَيْنِ`) dek belirlenmesi."
+      },
+      {
+        "ayahs": [
+          "78:33"
+        ],
+        "text": "Ödül Yurdunda Serpilmiş Yaşıt Eşler (`78:33`): Sorumluluk bilinciyle sakınanlar için hazırlanan bağlar ve bahçeler yanında gençlik olgunluğuna erişmiş yaşıt eşler (`وَكَوَاعِبَ أَتْرَابًا`)."
+      }
+    ],
+    "context_default": "Çıkıntılı ayak bileği kemiği, yükselen küp biçimli Kâbe ve olgunlaşıp serpilmiş eşler bağlamı"
   }
 }

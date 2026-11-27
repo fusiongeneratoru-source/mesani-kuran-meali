@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 16 / 50 Kök (Toplam Mühürlü: 916 Kök | Güncel Kapsam: %96,45)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 17 / 50 Kök (Toplam Mühürlü: 917 Kök | Güncel Kapsam: %96,45)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -23,7 +23,7 @@
 | 14 | Sure %100 Kilidi | 1502 | `ر-ه-و` | `R-H-W` | **1** | 1 | 44:24 | Rehv (Dingin, Sakin ve Yarılmış Açık Geçit Hâlinde Bırakılan Deniz) | ✅ **MÜHÜRLÜ** |
 | 15 | Sure %100 Kilidi | 607 | `ن-و-م` | `N-W-M` | **9** | 9 | 2:255 | Nevm ve Menâm (Hareketin Durulup Dinlendiği Uyku, Uyku Hâli/Rüya ve Allah'ın Uykudan Münezzeh Oluşu) | ✅ **MÜHÜRLÜ** |
 | 16 | Sure %100 Kilidi | 744 | `ك-أ-س` | `K-E-S` | **6** | 6 | 37:45 | Ke's (İçi Saf ve Hoş İçecekle Dolu İkram Kadehi) | ✅ **MÜHÜRLÜ** |
-| 17 | Sure %100 Kilidi | 864 | `ك-ع-ب` | `K-A-B` | **4** | 4 | 5:6 | Ka'b, Ka'be ve Kevâib (Sure 78 Nebe kilidi + 4 geçiş: 5:6, 5:95, 5:97, 78:33 çıkıntılı eklem/topuk, küp biçimli Kâbe ve olgunlaşıp serpilen eşler) | ⏳ *Bekliyor* |
+| 17 | Sure %100 Kilidi | 864 | `ك-ع-ب` | `K-A-B` | **4** | 4 | 5:6 | Ka'b, Ka'be ve Kevâib (Çıkıntılı Ayak Bileği Kemiği, Küp Biçimli Yükselen Kâbe ve Serpilip Olgunlaşmış Eşler) | ✅ **MÜHÜRLÜ** |
 | 18 | Sure %100 Kilidi | 902 | `س-ر-ب` | `S-R-B` | **4** | 4 | 13:10 | Serâb ve Sârib (Sure 78 Nebe kilidi + 4 geçiş: 13:10, 18:61, 24:39, 78:20 çöldeki yanıltıcı serap, gündüzün açığa çıkıp yol almak ve balığın suda yol açması) | ⏳ *Bekliyor* |
 | 19 | Sure %100 Kilidi | 857 | `و-ف-ق` | `W-F-K` | **4** | 4 | 4:35 | Tevfîk ve Vifâk (Sure 78 Nebe kilidi + 4 geçiş: 4:35, 4:62, 11:88, 78:26 uyumlu uzlaşma, başarıya denk düşürme ve tam denk karşılık) | ⏳ *Bekliyor* |
 | 20 | Sure %100 Kilidi | 1586 | `د-ه-ق` | `D-H-K` | **1** | 1 | 78:34 | Dihâk (Sure 78 Nebe kilidi: 78:34 ağzına kadar dopdolu, taşacak derecede doldurulmuş kadeh) | ⏳ *Bekliyor* |
