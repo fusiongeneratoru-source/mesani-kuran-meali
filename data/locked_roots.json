@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (34/50 — Toplam 934 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (35/50 — Toplam 935 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -39276,7 +39276,8 @@
           "ث-و-ر (V-W-R (vwr) — Çift Yönlü Mesânî Karşılığı: yerinden oynatıp harekete geçirmek `أَثَارَ` ↔ yerinden kımıldamadan sabit kalmak `ثَبَتَ`)",
           "د-ك-ك (Dekk: yüksek kütlelerin darbeyle ezilip dümdüz edilmesi ↔ ث-ب-ت sarsılmadan yerinde sağlamca sabit durmak)",
           "س-ح-ب (Sahb/Sehâb: dış kuvvetle veya rüzgârla çekilip sürüklenmek ↔ ث-ب-ت kendi yerinde sağlamca sabit durmak)",
-          "ح-ر-ك (Tahrîk: yerinden oynatıp kıpırdatmak ↔ ث-ب-ت yerinden kıpırdamadan sabit ve dingin durmak)"
+          "ح-ر-ك (Tahrîk: yerinden oynatıp kıpırdatmak ↔ ث-ب-ت yerinden kıpırdamadan sabit ve dingin durmak)",
+          "ج-ز-ع (Cezû': sarsılıp panikle çözülmek ↔ ث-ب-ت yerinde sağlam durup sarsılmamak — `70:20`)"
         ],
         "key_ayahs": [
           "2:250",
@@ -78313,6 +78314,85 @@
           "meaning": "Baş derisi, kafa derisi ve el-ayak gibi dış uzuvlar",
           "examples": [
             "70:16"
+          ]
+        }
+      ]
+    },
+    "ج-ز-ع": {
+      "root_latin": "J-Z-A",
+      "arabic": "ج-ز-ع",
+      "rank": 1137,
+      "morphology_and_rasm": {
+        "buckwalter": "jzE",
+        "rasm_skeleton": "جزع (üçlü sahih iskelet; `أجزعنا` ve `جزوعا` biçimleriyle 2 kez)",
+        "approx_frequency": "2 geçiş / 2 ayet (1x I. bab mâzî fiil `أَجَزِعْنَآ`, 1x mübâlağa sıfat `جَزُوعًا`)",
+        "verb_forms_used": [
+          "I. Bab (جَزِعَ — 1 geçiş: 14:21)"
+        ],
+        "noun_forms_used": [
+          "جَزُوعًا (`فَعُول` mübâlağa sıfatı — 1 geçiş: `70:20`)"
+        ],
+        "preposition_patterns": [
+          "سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا (`14:21`: tesviye hemzesi `أَ... أَمْ...` ile `ص-ب-ر` kökünün doğrudan ikili zıttı)"
+        ]
+      },
+      "physical_core": "Halîl b. Ahmed (*Kitâbü'l-Ayn*) ve İbn Fâris'in belirttiği somut çekirdek: 'enine kesip koparmak (`قَطْعُ الْمَفَازَةِ عَرْضًا`), ipin veya dayanma gücünün ortadan kopuvermesi' (`انْقِطَاعُ الْمِنَّةِ عَنْ حَمْلِ مَا نَزَلَ` — başa gelen ağırlığı taşıyacak direncin kesilip kırılması).",
+      "ibn_faris_asl": "İbn Fâris: «الْجَزَعُ: هُوَ انْقِطَاعُ الْمِنَّةِ عَنْ حَمْلِ مَا نَزَلَ» | Halîl b. Ahmed (*Kitâbü'l-Ayn*): «الْجَزْعُ: قَطْعُكَ الْمَفَازَةَ عَرْضًا» | Râgıb (*el-Müfredât*): «الْجَزَعُ: حُزْنٌ يَصْرِفُ الْإِنْسَانَ عَمَّا هُوَ بِصَدَدِهِ وَيَقْطَعُهُ عَنْهُ.»",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ج-ز-ع` kökünün fiziksel 'kesilme/kopma' zemininden doğduğunu gösterir: kişinin üzerine inen yükü taşıyacak gücünün kopuvermesi (`انْقِطَاعُ الْمِنَّةِ عَنْ حَمْلِ مَا نَزَلَ`).",
+        "lisan_al_arab": "İbn Manzûr `الْجَزَعُ` kelimesini doğrudan `نَقِيضُ الصَّبْرِ` ('direncin/sebatın tam zıttı') diye tanımlar ve `جَزُوع` vezninin bu kırılganlık ve sızlanmanın çokluğunu ifade ettiğini belirtir.",
+        "ragib_al_isfahani": "Râgıb `الْجَزَع` kavramını 'insanı yapmakta olduğu işten koparıp saptıran keder ve telaş' olarak açıklar; `فَزَع` korkutucu şeyden doğarken `جَزَع` acı verici şey karşısında direncin kopmasından doğar.",
+        "verdict": "Her 2 geçiş **'acı ve zorluk karşısında taşıma gücünün kopup kırılması, panikle sızlanıp çözülmek (`جَزِعَ / جَزُوع`)'** tek çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*g-z-ʿ ('kesmek, yarmak, bölmek')",
+        "hebrew": "İbranice gāzaʿ / gezaʿ (גֶּזַע — 'kesilmiş ağaç kütüğü/gövde') 'kesme/koparma' somut çekirdeğinde paraleldir.",
+        "aramaic_syriac": "Aramice/Süryanice gəzaʿ ('kesmek, budamak') eşkökenlidir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşköken tespit edilmemiştir.",
+        "comparative_note": "Sâmî dillerde fiziksel 'kesip ayırma' çekirdeği, Arapçada 'dayanma gücünün ve metanetin kopuvermesi' psikolojik-ahlaki durumuna genişlemiştir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ص-ب-ر (Direnç ve sebatla göğüs germek ↔ ج-ز-ع dayanma gücü kopup sızlanmak — `14:21` [aynı ayette], `70:20`)",
+          "ث-ب-ت (Sağlam durup sarsılmamak ↔ ج-ز-ع zorluk dokununca hızla çözülüp paniklemek — `70:20`)"
+        ],
+        "bidirectional_test": "`14:21`'deki `أَجَزِعْنَآ أَمْ صَبَرْنَا` ayeti, `ج-ز-ع` ile `ص-ب-ر` arasındaki çift yönlü Mesânî zıtlığının doğrudan Kur'an metni içindeki en kesin kanıtıdır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ص-ب-ر",
+          "ه-ل-ع",
+          "م-ن-ع"
+        ],
+        "analysis": "`14:21`'de `جَزِعْنَا` (direncin kopup sızlanması) ile `صَبَرْنَا` (sebat edip dayanma) tam karşıt olarak kurulur. `70:19`–`21`'de ise `هَلُوعًا` genel dengesiz hırs/telaş tabiatını koyar; ardından bunu iki uçla açar: kötülük dokunduğunda `جَزُوعًا` (sızlanıp çözülen), iyilik dokunduğunda `مَنُوعًا` (kıskanıp esirgeyen)."
+      },
+      "anchor_ayahs": [
+        "14:21 (سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍ — ister sızlanıp çırpınalım ister direnip dayanalım bizim için birdir; kaçacak bir yerimiz yoktur)",
+        "70:20 (إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا — kendisine bir zarar dokunduğunda alabildiğine sızlanıp panikler)"
+      ],
+      "unified_core_mechanism": "`ج-ز-ع` kökü 2 geçişinde de **'acı ve baskı karşısında dayanma direncinin kopup sızlanmaya dökülmesi'** çekirdeğini (`ص-ب-ر` karşıtı olarak) taşır.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — I. Bab Mâzî Fiil (`أَجَزِعْنَآ` — `14:21`): Tesviye hemzesiyle mastar tevilinde (`سَوَآءٌ` kelimesinin mübtedâ-i muahharı).",
+          "Dal 2 — Mübâlağa Sıfatı (`جَزُوعًا` — `70:20`): `فَعُول` vezninde süreklilik ve yoğunluk bildiren mansûb hâl/haber."
+        ],
+        "irab_notes": "`70:20`'de `جَزُوعًا`, `70:19`'daki `هَلُوعًا` kelimesinin bedeli veya `إِذَا` şart cümlesiyle açımlanan ikinci hâli konumundadır."
+      },
+      "derivatives": [
+        {
+          "form": "أَجَزِعْنَآ",
+          "pos": "Fiil (I. Bab Mâzî)",
+          "meaning": "Dayanma gücü kırılıp sızlanmak, çırpınmak",
+          "examples": [
+            "14:21"
+          ]
+        },
+        {
+          "form": "جَزُوعًا",
+          "pos": "Sıfat-ı Müşebbehe / Mübâlağa (`فَعُول`)",
+          "meaning": "Zorluk dokununca hemen direnci kırılıp çok sızlanan",
+          "examples": [
+            "70:20"
           ]
         }
       ]

@@ -63265,5 +63265,51 @@
       }
     ],
     "context_default": "Yakıcı hararetle kavurma ve baş derisi/dış uzuvların ateşte soyulması bağlamı"
+  },
+  "ج-ز-ع": {
+    "buckwalter": "jzE",
+    "slug": "jze",
+    "concept_name": "Ceza' ve Cezû' (Dayanma Gücünün Kopup Kırılması, Sızlanıp Paniklemek)",
+    "root_latin": "J-Z-A",
+    "keywords": [
+      "ceza",
+      "cezu",
+      "dayanamamak",
+      "sizlanmak",
+      "paniklemek",
+      "direncin kirilmasi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jaziEo",
+        "ayahs": [
+          "14:21"
+        ],
+        "label": "I. bab mâzî fiil (`أَجَزِعْنَآ أَمْ صَبَرْنَا` — dayanma gücü kırılıp sızlanmak, panikleyip feryat etmek: `14:21` azap karşısında artık ister sızlanıp çırpınalım ister dayanalım bizim için birdir; 1 geçiş)"
+      },
+      {
+        "lemma": "jazuwE",
+        "ayahs": [
+          "70:20"
+        ],
+        "label": "Mübâlağa sıfat-ı müşebbehe (`جَزُوعًا` — çok çabuk sızlanan, zorluk dokunduğunda direnci hemen kırılıp feryat eden: `70:20` kendisine zarar/kötülük dokunduğunda alabildiğine sızlanıp panikleyen; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Zorluk karşısında dayanma gücünün kırılıp sızlanmayı bildiren `ج-ز-ع` türevi (`جَزِعَ / جَزُوع`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "14:21"
+        ],
+        "text": "Hesap Anında Direnç ve Sızlanmanın Farksızlaşması (`14:21`): Kibirli önderler ile onlara uyanların ateş azabı karşısında artık hiçbir kaçış kalmadığını görerek 'ister sızlanıp çırpınalım (`أَجَزِعْنَآ`), ister direnip dayanalım (`أَمْ صَبَرْنَا`) bizim için birdir' itirafında bulunmaları."
+      },
+      {
+        "ayahs": [
+          "70:20"
+        ],
+        "text": "Kötülük Dokunduğunda Panikleyip Sızlanan İnsani Eğilim (`70:20`): Hırslı ve dayanıksız/panik eğilimli (`هَلُوعًا`) insanın iki uç tepkisinden biri olarak, kendisine bir zarar dokunduğunda hemen direnci kırılıp alabildiğine sızlanması (`جَزُوعًا`)."
+      }
+    ],
+    "context_default": "Zorluk karşısında dayanma gücünün kırılıp sızlanma bağlamı"
   }
 }
