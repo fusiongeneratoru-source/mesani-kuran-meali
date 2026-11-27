@@ -1,5 +1,5 @@
 # MÜHÜRLÜ KÖKLER KAVRAM VE MESÂNÎ ÖZETİ (TABULA RASA v3.0)
-> **Toplam Mühürlü Kök:** 923 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
+> **Toplam Mühürlü Kök:** 924 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
 
 | Kök (Arapça) | Kök (Latin) | Tek Çekirdek Mekanizması (Unified Core) | Mesânî Zıttı |
 | :--- | :--- | :--- | :--- |
@@ -926,3 +926,4 @@
 | `ث-ج-ج` | `S-C-C` | `ث-ج-ج` kökü Kur'an'daki tek geçişinde (`78:14`) `فَعَّال` mübalağa sıfatıyla **'yağmur yüklü bulutlardan bol, gür ve kesintisiz biçimde şarıl şarıl dökülen su (`مَآءً ثَجَّاجًا`)'** somut doğa olayını ifade eder. | ج-ر-ز (Susuzluktan bitkisiz kalmış kupkuru çorak toprak ↔ ث-ج-ج bulutlardan şarıl şarıl dökülen bereketli yağmur suyu — `78:14`), ي-ب-س (Kuruyup nemini yitirmek ↔ ث-ج-ج gür ve kesintisiz su dökülüşü — `78:14`) |
 | `و-ه-ج` | `W-H-C` | `و-ه-ج` kökü Kur'an'daki tek geçişinde (`78:13`) `فَعَّال` mübalağa sıfatıyla **'ateşin/güneşin güçlü ısı ve parlak ışığı birlikte saçarak alevlenmesi (`وَهَّاجًا`)'** somut fiziksel niteliğini bildirir. | ب-ر-د (Serinlik ve soğukluk ↔ و-ه-ج yoğun ısı ve alevli parıltı yaymak — `78:13`), ط-ف-أ (Ateşin ve ışığın sönüp kararması ↔ و-ه-ج kesintisiz alevlenip parlamak — `78:13`) |
 | `ح-ل-ي` | `H-L-Y` | `ح-ل-ي` kökü 9 geçişinin tamamında **'maden veya denizden elde edilen takı/ziynet (`حِلْيَة / حُلِيّ`) ve bilezik/inciyle süslenmek (`يُحَلَّوْنَ / حُلُّوٓا۟`)'** tek somut çekirdeğini işler. | ع-ط-ل (Süssüz, takısız ve çıplak kalmak — Arapçada takısız kadın `امْرَأَةٌ عَاطِلٌ` ↔ ح-ل-ي takı ve bileziklerle süslenip donatılmak — `16:14`, `76:21`) |
+| `خ-ض-ر` | `H-D-R` | `خ-ض-ر` kökü 8 geçişinin tamamında **'suyla canlanan taze yeşil bitki örtüsü, bereket ve gözü dinlendiren canlı yeşil renk'** somut çekirdeğini doğa ayetleri (`6:99`, `22:63`, `36:80`), rüya sembolü (`12:43`, `12:46`) ve ödül yurdu giysileri (`18:31`, `55:76`, `76:21`) üzerinden işler. | ص-ف-ر (Bitkinin suyunu yitirip sararması `مُصْفَرًّا` ↔ خ-ض-ر suyla canlanıp yemyeşil kesilmesi `مُخْضَرَّةً` — `22:63`, `39:21`), ح-و-ي (Yeşil otun kuruyup kararmış/solmuş çerçöpe dönüşmesi `غُثَآءً أَحْوَىٰ` ↔ خ-ض-ر taze ve canlı yeşil — `6:99`, `22:63`), ي-ب-س (Kuruyup sertleşmiş başaklar `يَابِسَٰتٍ` ↔ خ-ض-ر taze ve verimli yeşil başaklar `سُنۢبُلَٰتٍ خُضْرٍ` — `12:43`, `12:46` doğrudan aynı ayet) |

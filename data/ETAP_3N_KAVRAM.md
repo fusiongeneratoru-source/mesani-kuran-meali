@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 23 / 50 Kök (Toplam Mühürlü: 923 Kök | Güncel Kapsam: %96,49)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 24 / 50 Kök (Toplam Mühürlü: 924 Kök | Güncel Kapsam: %96,51)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -30,7 +30,7 @@
 | 21 | Sure %100 Kilidi | 1585 | `ث-ج-ج` | `S-C-C` | **1** | 1 | 78:14 | Seccâc (Yağmur Yüklü Bulutlardan Şarıl Şarıl, Kesintisiz ve Bolca Dökülen Su) | ✅ **MÜHÜRLÜ** |
 | 22 | Sure %100 Kilidi | 1584 | `و-ه-ج` | `W-H-C` | **1** | 1 | 78:13 | Vehhâc (Hem Parıl Parıl Işık Hem Yakıcı Isı Yayarak Alevlenen Güneş Kandili) | ✅ **MÜHÜRLÜ** |
 | 23 | Sure %100 Kilidi | 623 | `ح-ل-ي` | `H-L-Y` | **9** | 9 | 7:148 | Hilye, Huliyy ve Tahliye (Denizden/Madenden Çıkarılan Takı-Ziynet ve Bileziklerle Süslenmek) | ✅ **MÜHÜRLÜ** |
-| 24 | Sure %100 Kilidi | 647 | `خ-ض-ر` | `H-D-R` | **8** | 8 | 6:99 | Hadır ve Hudr (Sure 76 İnsân kilidi + 8 geçiş: 6:99, 12:43, 12:46, 18:31, 22:63, 36:80, 55:76, 76:21 canlı yeşil bitki örtüsü, yeşil başaklar ve yeşil dokumalar) | ⏳ *Bekliyor* |
+| 24 | Sure %100 Kilidi | 647 | `خ-ض-ر` | `H-D-R` | **8** | 8 | 6:99 | Hadır, Ahdar, Hudr ve Muhdarra (Suyla Canlanan Yeşil Bitki Örtüsü, Yeşil Başaklar ve Yeşil Dokumalar) | ✅ **MÜHÜRLÜ** |
 | 25 | Sure %100 Kilidi | 740 | `ل-أ-ل-أ` | `L-E-L-E` | **6** | 6 | 22:23 | Lü'lü' (Sure 76 İnsân kilidi + 6 geçiş: 22:23, 35:33, 52:24, 55:22, 56:23, 76:19 denizden çıkarılan sedefli ve parlak inci) | ⏳ *Bekliyor* |
 | 26 | Sure %100 Kilidi | 1034 | `س-ل-س-ل` | `S-L-S-L` | **3** | 3 | 40:71 | Silsile ve Selâsil (Sure 76 İnsân kilidi + 3 geçiş: 40:71, 69:32, 76:4 halkaları birbirine kenetli uzun zincirler) | ⏳ *Bekliyor* |
 | 27 | Sure %100 Kilidi | 1236 | `ق-ط-ف` | `K-T-F` | **2** | 2 | 69:23 | Kutûf (Sure 76 İnsân kilidi + 2 geçiş: 69:23, 76:14 el uzatılınca kolayca devşirilebilen salkım/meyveler) | ⏳ *Bekliyor* |

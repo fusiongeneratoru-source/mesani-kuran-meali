@@ -62779,5 +62779,82 @@
       }
     ],
     "context_default": "Takı, ziynet eşyası ve bileziklerle süslenme bağlamı"
+  },
+  "خ-ض-ر": {
+    "buckwalter": "xDr",
+    "slug": "xdr",
+    "concept_name": "Hadır, Ahdar, Hudr ve Muhdarra (Suyla Canlanan Yeşil Bitki Örtüsü, Yeşil Başaklar ve Yeşil Dokumalar)",
+    "root_latin": "H-D-R",
+    "keywords": [
+      "hadir",
+      "ahdar",
+      "hudr",
+      "muhdarra",
+      "yesil",
+      "yesermek",
+      "yesil basaklar",
+      "yesil agac"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "xuDor",
+        "ayahs": [
+          "12:43",
+          "12:46",
+          "18:31",
+          "55:76",
+          "76:21"
+        ],
+        "label": "Renk sıfatı çoğulu (`خُضْرٍ / خُضْرًا / خُضْرٌ`, tekili `أَخْضَر / خَضْرَاء` — canlı yeşil: `12:43`, `12:46` yedi yeşil başak [bolluk yılları], `18:31` ve `76:21` ince-kalın ipekten yeşil giysiler, `55:76` yeşil yastık/yaygılar; 5 geçiş)"
+      },
+      {
+        "lemma": "xaDir",
+        "ayahs": [
+          "6:99"
+        ],
+        "label": "Sıfat-ı müşebbehe / isim (`فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا` — suyla topraktan çıkarılan taze yeşil filiz/bitki maddesi; `6:99`; 1 geçiş)"
+      },
+      {
+        "lemma": "muxoDar~ap",
+        "ayahs": [
+          "22:63"
+        ],
+        "label": "IX. bab (if'ilâl) müennes ism-i fâil (`فَتُصْبِحُ ٱلْأَرْضُ مُخْضَرَّةً` — gökten inen suyla yeryüzünün yemyeşil kesilmesi; `22:63`; 1 geçiş)"
+      },
+      {
+        "lemma": ">axoDar",
+        "ayahs": [
+          "36:80"
+        ],
+        "label": "Tekil renk sıfatı (`مِنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا` — yaş ve taze yeşil ağaçtan yakıt ve ateş enerjisi çıkaran yaratılış yasası; `36:80`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Canlı yeşil rengi, yemyeşil bitki örtüsünü veya yeşil dokumaları bildiren `خ-ض-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:99",
+          "22:63",
+          "36:80"
+        ],
+        "text": "Suyla Canlanan Yeşil Bitki Örtüsü ve Enerji Dönüşümü (`6:99`, `22:63`, `36:80`): Gökten indirilen suyla topraktan taze yeşil filiz/doku (`خَضِرًا`) çıkarılıp ondan üst üste binmiş taneler üretilmesi (`6:99`), yağmurla yerin yemyeşil kesilmesi (`مُخْضَرَّةً`, `22:63`) ve canlı yeşil ağaçtan (`ٱلشَّجَرِ ٱلْأَخْضَرِ`) ateş yakacak enerji çıkarılması (`36:80`)."
+      },
+      {
+        "ayahs": [
+          "12:43",
+          "12:46"
+        ],
+        "text": "Bolluk Simgesi Yedi Yeşil Başak (`12:43`, `12:46`): Mısır hükümdarının rüyasında kuraklık yıllarını temsil eden yedi kuru başak (`يَابِسَٰتٍ`) karşısında bereket yıllarını temsil eden yedi yeşil başak (`سُنۢبُلَٰتٍ خُضْرٍ`)."
+      },
+      {
+        "ayahs": [
+          "18:31",
+          "55:76",
+          "76:21"
+        ],
+        "text": "Huzur ve Tazelik Simgesi Yeşil Giysi ve Yaygılar (`18:31`, `55:76`, `76:21`): Ödül yurdunda ince ve kalın ipekten yeşil giysiler (`ثِيَابًا خُضْرًا / ثِيَابُ سُندُسٍ خُضْرٌ`, `18:31`, `76:21`) ile yeşil yastıklar/yaygılar (`رَفْرَفٍ خُضْرٍ`, `55:76`)."
+      }
+    ],
+    "context_default": "Canlı yeşil bitki örtüsü, bolluk simgesi yeşil başaklar ve yeşil dokumalar bağlamı"
   }
 }
