@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 1019,
+    "total_locked": 1020,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1740,7 +1740,8 @@
         "ل-د-ن (`19:5` `مِن وَرَآءِى ... مِن لَّدُنكَ` — geride kalan yetersiz mirasçılar karşısında doğrudan katından bağışlanan destek)",
         "ص-ف-ف (S-F-F (Sff) — Çift Yönlü Mesânî Karşılığı: 18:48, 61:4, 89:22 [صَفًّا صَفًّا — hizadan sapıp düzensizleşmek ↔ aynı düzlemde eşitlenip hizalanmak])",
         "ر-ص-ص (R-S-S (rSS) — Çift Yönlü Mesânî Karşılığı: hakikat yolunda uyumlu tek saf hâlinde perçinlenmek `صَفًّا كَأَنَّهُم بُنْيَٰنٌ مَّرْصُوصٌ` ↔ iç ihtilaf ve ayrılığa düşüp safı bozmak `ٱخْتَلَفَ`)",
-        "س-ل-ف (Selef: geride kalıp geçmiş olan dönem ve kuşak ↔ خ-ل-ف arkadan gelip yerini alan kuşak — `43:56`)"
+        "س-ل-ف (Selef: geride kalıp geçmiş olan dönem ve kuşak ↔ خ-ل-ف arkadan gelip yerini alan kuşak — `43:56`)",
+        "و-ط-أ (Muvâtaa/Vat': ayak izini birebir denk getirip uydurmak `لِّيُوَاطِـُٔوا۟` / kalp-dil uyumu `أَشَدُّ وَطْـًٔا` ↔ خ-ل-ف farklılaşıp ters düşmek — `9:37, 73:6`)"
       ]
     },
     "أ-ه-ل": {
@@ -6243,7 +6244,8 @@
         "خ-ر-ر (X-R-R (xrr) — Çift Yönlü Mesânî Karşılığı: `12:100` [وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا] — yüksek tahta çıkarıp yükseltmek `رَفَعَ` ↔ aşağıya doğru yere kapanmak `خَرُّوا۟`)",
         "خ-س-ف (Hasf: yerin çöküp aşağı dibe batırılması ↔ ر-ف-ع yukarıya kaldırıp yükseltmek)",
         "ن-ك-س (Neks / Nâkisû: başı utançla aşağı eğmek veya baş aşağı çevirmek ↔ ر-ف-ع başı ve dereceyi yukarı kaldırmak — `32:12`)",
-        "س-ق-ط (Sukût/İskât: yukarıdan aşağıya düşmek ve düşürmek ↔ ر-ف-ع yukarıya doğru kaldırıp yükseltmek — `6:59, 34:9`)"
+        "س-ق-ط (Sukût/İskât: yukarıdan aşağıya düşmek ve düşürmek ↔ ر-ف-ع yukarıya doğru kaldırıp yükseltmek — `6:59, 34:9`)",
+        "و-ط-أ (Vat': tabana basıp zemini düzlemek, alçaltıp çiğnemek `يَطَـُٔونَ` ↔ ر-ف-ع yukarı kaldırıp yükseltmek — `9:120, 48:25`)"
       ]
     },
     "س-ف-ل": {
@@ -12529,6 +12531,15 @@
       "opposites": [
         "ف-ت-ح (Kapalı geçidi açmak ↔ س-د-د geçidi ve gediği tamamen kapatıp set çekmek — `18:94, 36:9`)",
         "ع-و-ج (Eğri, tutarsız ve gedikli olma ↔ س-د-د gediksiz, hedefe tam oturan sağlam söz `قَوْلًا سَدِيدًا` — `4:9, 33:70`)"
+      ]
+    },
+    "و-ط-أ": {
+      "latin": "W-T-E",
+      "core": "`و-ط-أ` kökü 6 geçişin tamamında **'ayağı yere basmak/çiğnemek (`يَطَـُٔونَ / مَوْطِئ`), sağlam oturup uyum sağlamak (`وَطْء`) ve sayıyı denk düşürmek (`يُوَاطِـُٔوا`)'** tek mekanizmasıyla işler.",
+      "physical": "İbn Fâris'in tespit ettiği tek somut çekirdek: 'bir şeyi basıp düzleyerek hazırlamak ve kolaylaştırmak (`تَمْهِيدُ شَيْءٍ وَتَسْهِيلُهُ`)' — ayağın zemine sağlam basması (`وَطِئْتُهُ بِرِجْلِي`), adım atılan yer (`مَوْطِئ`, `9:120`), çiğneyip ezme riski (`48:25`), gece okumasının kalp-dil uyumunda daha sağlam oturması (`أَشَدُّ وَطْـًٔا`, `73:6`) ve iki şeyin aynı ize basar gibi denk getirilmesi (`يُوَاطِـُٔوا۟`, `9:37`) bu tek somut 'basma-düzleme-denkleme' çekirdeğinden türer.",
+      "opposites": [
+        "خ-ل-ف (Uyumsuzlaşıp ters düşmek ↔ و-ط-أ denk getirip uyuşmak `يُوَاطِـُٔوا / أَشَدُّ وَطْـًٔا` — `9:37, 73:6`)",
+        "ر-ف-ع (Yukarı kaldırıp yüceltmek ↔ و-ط-أ ayakla yere basıp çiğnemek `يَطَـُٔونَ` — `9:120, 48:25`)"
       ]
     }
   }

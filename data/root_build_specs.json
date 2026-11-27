@@ -67836,5 +67836,75 @@
       }
     ],
     "context_default": "Geçidi kapatan sağlam set/engel (`سَدّ`) veya boşluksuz dosdoğru, isabetli söz (`قَوْلًا سَدِيدًا`) bağlamı"
+  },
+  "و-ط-أ": {
+    "buckwalter": "wTA",
+    "slug": "wta",
+    "concept_name": "Vat', Mevtı' ve Muvâtaa (Ayakla Basıp Çiğnemek, Sağlam Yerleştirmek ve Sayıyı Denk Getirmek)",
+    "root_latin": "W-T-E",
+    "keywords": [
+      "vat",
+      "mevti",
+      "muvataa",
+      "ayak basmak",
+      "cignemek",
+      "denk getirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yaTa_#u",
+        "ayahs": [
+          "9:120",
+          "33:27",
+          "48:25"
+        ],
+        "label": "I. Bab (Sülâsî) muzâri fiil (`يَطَـُٔونَ / لَمْ تَطَـُٔوهَا / أَن تَطَـُٔوهُمْ` — ayakla bir toprağa basıp çiğnemek, adım atmak veya çatışma içinde farkında olmadan birilerini çiğneyip ezmek: `9:120` karşıtları öfkelendiren bir yere adım atmak; `33:27` daha önce ayak basmadığınız bir diyara vâris kılınmak; `48:25` Mekke'deki tanımadığınız inançlı kişileri bilmeden çiğneyip zarar verme tehlikesi; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "yuwaATi_#u",
+        "ayahs": [
+          "9:37"
+        ],
+        "label": "III. Bab (Müfâale) muzâri fiil (`لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ` — iki ayağın aynı ize basması gibi denkleştirip uydurmak: haram ayların yerini değiştirerek Allah'ın haram kıldığı ayların sadece sayısını biçimsel olarak denk getirmeye çalışmak; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "mawoTi}",
+        "ayahs": [
+          "9:120"
+        ],
+        "label": "İsm-i mekân (`مَوْطِئًا` — ayak basılan yer, adım atılan mevzi/toprak; `وَلَا يَطَـُٔونَ مَوْطِئًا`; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "waTo_#",
+        "ayahs": [
+          "73:6"
+        ],
+        "label": "Mastar (`هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا` — gecenin ilerleyen kalkış vaktinin [nâşietü'l-leyl] kalp ile dilin uyumunda daha sağlam yer tutucu, etki ve basış bakımından daha güçlü/oturaklı olması; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Ayakla basıp çiğnemeyi (`يَطَـُٔونَ / مَوْطِئ`), sağlam etki/uyumu (`وَطْء`) veya sayıyı biçimsel olarak denk getirmeyi (`يُوَاطِـُٔوا`) bildiren `و-ط-أ` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:120",
+          "33:27",
+          "48:25"
+        ],
+        "text": "Toprağa Ayak Basmak ve Masumları Çiğnemekten Korunmak (`9:120, 33:27, 48:25`): Allah yolunda atılan her adımın (`وَلَا يَطَـُٔونَ مَوْطِئًا`, `9:120`) iyi bir eylem olarak yazılması; daha önce ayak basılmamış bir toprağa mirasçı kılınmak (`أَرْضًا لَّمْ تَطَـُٔوهَا`, `33:27`); ve Mekke'de gizli kalan masum inançlıların bilmeden çiğnenmemesi (`أَن تَطَـُٔوهُمْ`, `48:25`) için çatışmanın durdurulması."
+      },
+      {
+        "ayahs": [
+          "9:37"
+        ],
+        "text": "Haram Ayların Sayısını Biçimsel Olarak Denk Getirme Hilesi (`9:37`): Takvimle oynayıp (`ٱلنَّسِىٓءُ`) bir yıl helal bir yıl haram sayarak yalnızca Allah'ın belirlediği dört aylık sayıyı dış görünüşte uydurup denk getirmeye (`لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ`) kalkışmak."
+      },
+      {
+        "ayahs": [
+          "73:6"
+        ],
+        "text": "Gece Kalkışının Daha Sağlam Oturaklılığı ve Kalp-Dil Uyumu (`73:6`): Gece kalkıp okumanın (`نَاشِئَةَ ٱلَّيْلِ`) zihne daha sağlam oturup etki etmesi (`أَشَدُّ وَطْـًٔا`) ve sözü daha düzgün kılması (`وَأَقْوَمُ قِيلًا`)."
+      }
+    ],
+    "context_default": "Ayakla basma/çiğneme, sağlam yerleşme/uyum veya sayıyı denk getirme bağlamı"
   }
 }
