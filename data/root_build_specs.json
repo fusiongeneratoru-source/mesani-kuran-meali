@@ -65947,5 +65947,74 @@
       }
     ],
     "context_default": "Yukarıdan aşağıya düşme, dökülme, düşürme veya fitne/pişmanlığa düşme bağlamı"
+  },
+  "س-ل-ف": {
+    "buckwalter": "slf",
+    "slug": "slf",
+    "concept_name": "Selef ve İslâf (Önceden Geçip Geride Kalmak, Önden Yapıp Göndermek ve Geçmiş İbret Örneği)",
+    "root_latin": "S-L-F",
+    "keywords": [
+      "selef",
+      "islaf",
+      "gecmis",
+      "geride kalan",
+      "onden gondermek",
+      "ibret ornegi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "salafa",
+        "ayahs": [
+          "2:275",
+          "4:22",
+          "4:23",
+          "5:95",
+          "8:38"
+        ],
+        "label": "I. Bab (Sülâsî) mâzî fiil (`مَا سَلَفَ / إِلَّا مَا قَدْ سَلَفَ` — hüküm inmeden veya vazgeçilmeden önce geçip geride kalmış olan eylemler; 5 geçişin tamamında geçmiş dönem için af/hukuki geçiş ilkesi olarak işler; 5 geçiş / 5 ayet)"
+      },
+      {
+        "lemma": ">asolafato",
+        "ayahs": [
+          "10:30",
+          "69:24"
+        ],
+        "label": "IV. Bab (İf'âl) mâzî fiil (`مَآ أَسْلَفَتْ / بِمَآ أَسْلَفْتُمْ` — kişinin kendi hesabına önceden yapıp önden gönderdiği ameller: `10:30` hesap yerinde herkesin önceden yaptığını bizzat sınayıp görmesi; `69:24` mutlu sona erenlere 'geçmiş günlerde önceden yapıp gönderdiklerinizin karşılığı olarak afiyetle yiyin için' denmesi; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "salaf",
+        "ayahs": [
+          "43:56"
+        ],
+        "label": "İsim (`سَلَفًا وَمَثَلًا لِّلْءَاخِرِينَ` — önden geçip gitmiş öncü nesil ve sonrakiler için ibret örneği; `43:56` boğulan Firavun ve çevresinin sonradan gelecekler için ibretlik bir geçmiş kılınması; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Önceden geçip geride kalmayı (`سَلَفَ`), önden yapıp göndermeyi (`أَسْلَفَ`) veya öncü geçmiş örneğini (`سَلَف`) bildiren `س-ل-ف` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:275",
+          "4:22",
+          "4:23",
+          "5:95",
+          "8:38"
+        ],
+        "text": "Hukukta Geriye Yürümezlik ve Geçmişin Bağışlanması (`2:275, 4:22, 4:23, 5:95, 8:38`): Faiz yasağından vazgeçenlerin (`2:275`), evlilik yasaklarının (`4:22, 4:23`), ihramda av yasağının (`5:95`) ve düşmanlıktan dönenlerin (`8:38`) yeni hüküm gelmeden önce geçip geride kalmış olan (`مَا سَلَفَ / قَدْ سَلَفَ`) eylemlerinin bağışlanması."
+      },
+      {
+        "ayahs": [
+          "10:30",
+          "69:24"
+        ],
+        "text": "Önden Yapıp Gönderilen Eylemlerin Karşılığı (`10:30, 69:24`): Hesap gününde her insanın önceden yapıp önden gönderdiğini (`مَآ أَسْلَفَتْ`, `10:30`) bizzat tadıp görmesi; esenliğe kavuşanlara ise 'geçmiş günlerde önden gönderdikleriniz (`بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ`, `69:24`) sayesinde afiyetle yiyip için' denmesi."
+      },
+      {
+        "ayahs": [
+          "43:56"
+        ],
+        "text": "Sonrakiler İçin Öncü İbret (`43:56`): Kibirlenip boğulan Firavun topluluğunun, kendilerinden sonra gelecek nesiller için geride kalmış bir öncü örnek ve ibret (`فَجَعَلْنَٰهُمْ سَلَفًا وَمَثَلًا لِّلْءَاخِرِينَ`) kılınması."
+      }
+    ],
+    "context_default": "Zaman akışında önceden geçip geride kalma, önden amel gönderme ve tarihsel öncü ibret bağlamı"
   }
 }
