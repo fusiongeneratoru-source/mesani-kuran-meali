@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (14/50 — Toplam 914 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (15/50 — Toplam 915 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -32237,7 +32237,8 @@
           "ح-و-ي",
           "س-ج-ل (S-C-L (sjl) — Çift Yönlü Mesânî Karşılığı: `21:104`, `17:13`, `81:10` — kayıt sayfalarını açıp önüne yaymak `نُشِرَتْ / مَنشُورًا` ↔ yazılı kitapları içine alıp dürülen sicil tomarını kapatmak `كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ`)",
           "و-س-ق (W-S-Q (wsq) — Çift Yönlü Mesânî Karşılığı: `84:17` [وَٱلَّيْلِ وَمَا وَسَقَ] — gecenin varlıkları karanlık altında toplayıp derlemesi `وَسَقَ` ↔ gündüz yeryüzüne yayılıp dağılması `اِنْتِشَار`)",
-          "ك-و-ر (Tekvîr: ışığı veya örtüyü dürüp toplamak ↔ ن-ش-ر dürülmüş olanı açıp dört yana yaymak — `81:1` ↔ `81:10`)"
+          "ك-و-ر (Tekvîr: ışığı veya örtüyü dürüp toplamak ↔ ن-ش-ر dürülmüş olanı açıp dört yana yaymak — `81:1` ↔ `81:10`)",
+          "ن-و-م (Nevm: hareketin durulup kesildiği dinlendirici uyku `ٱلنَّوْمَ سُبَاتًا` ↔ ن-ش-ر gündüzün uyanıp hayata yayılma ve dirilme `ٱلنَّهَارَ نُشُورًا` — `25:47`)"
         ],
         "key_ayahs": [
           "52:3, 17:13, 81:10 (فِى رَقٍّ مَّنشُورٍ / كِتَٰبًا يَلْقَىٰهُ مَنشُورًا / وَإِذَا ٱلصُّحُفُ نُشِرَتْ — dürülmüş parşömenin açılması somut çıpası)",
@@ -76708,6 +76709,104 @@
           "meaning": "Dingin, sakin, dalgasız ve açık geçit hâlinde",
           "examples": [
             "44:24"
+          ]
+        }
+      ]
+    },
+    "ن-و-م": {
+      "root_latin": "N-W-M",
+      "arabic": "ن-و-م",
+      "rank": 607,
+      "morphology_and_rasm": {
+        "buckwalter": "nwm",
+        "rasm_skeleton": "نوم (harekesiz iskelet; نوم, منام ve نائمون biçimleriyle 9 kez — fiil formu Kur'an'da geçmez)",
+        "approx_frequency": "9 geçiş / 9 ayet (3x masdar `نَوْم`, 4x mîmli masdar `مَنَام`, 2x çoğul ism-i fâil `نَآئِمُونَ` — fiil formu geçmez)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "نَوْم (`فَعْل` masdar — 3 geçiş: `2:255`, `25:47`, `78:9`)",
+          "مَنَام (`مَفْعَل` mîmli masdar / uyku hâli — 4 geçiş: `8:43`, `30:23`, `37:102`, `39:42`)",
+          "نَآئِمُونَ (`فَاعِل` çoğul ism-i fâil — 2 geçiş: `7:97`, `68:19`)"
+        ],
+        "preposition_patterns": [
+          "فِى مَنَامِكَ / فِى ٱلْمَنَامِ / فِى مَنَامِهَا (`8:43`, `37:102`, `39:42`: `فِى` ile uyku hâlinin içinde yaşanan rüya veya geçici bilinç teslimi)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tek sahih asılda birleştirdiği somut çekirdek: 'hareketin durulup sükûnete ermesi, canlılığın geçici olarak dinlenmeye çekilmesi' (`جُمُودٌ وَسُكُونُ حَرَكَةٍ`).",
+      "ibn_faris_asl": "(نَوَمَ) النُّونُ وَالْوَاوُ وَالْمِيمُ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى جُمُودٍ وَسُكُونِ حَرَكَةٍ. مِنْهُ النَّوْمُ. [Mu'cemü Mekâyîsi'l-Luğa, c. 5, s. 372, باب النون والواو وما يثلثهما, نوم maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ن-و-م` kökünü tek fiziksel asla bağlar: 'hareketin durgunlaşıp sükûnete ermesi' (`جُمُود وَسُكُون حَرَكَة`); uyku (`النَّوْم`) bedenin dış dünya hareketlerini geçici olarak askıya alıp dinlenmesidir.",
+        "lisan_al_arab": "İbn Manzûr `النَّوْمُ` kelimesini 'uyuklamadan (`سِنَة`) daha derin bilinç sükûneti' olarak tanımlar; `الْمَنَامُ` sözcüğünün ise hem uyuma eylemi/zamanı hem de uykuda görülen düş (`رُؤْيَا`) anlamında kullanıldığını belirtir.",
+        "ragib_al_isfahani": "Râgıb `2:255`'te önce hafif uyuklama (`سِنَة`) sonra derin uyku (`نَوْم`) sırasının verilmesini Allah'ın diri ve her an ayakta tutucu (`ٱلْحَىُّ ٱلْقَيُّومُ`) niteliğinin mutlak kesintisizliğiyle, `39:42`'de ise uyku (`مَنَام`) ile ölümün aynı 'bilinci teslim alma' yasasının iki basamağı oluşuyla açıklar.",
+        "verdict": "Tüm 9 geçiş **'hareketin geçici olarak durulup dinlendiği uyku (`نَوْم` 3x, `نَآئِمُونَ` 2x) ve uyku hâlinde gerçekleşen rüya/geçici bilinç teslimi (`مَنَام` 4x)'** tek somut çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*n-w-m ('uyuklamak, uyumak')",
+        "hebrew": "İbranice nûm (נוּם — 'uyuklamak, dalmak') birebir eşkökenlidir.",
+        "aramaic_syriac": "Aramice/Süryanice nām (ܢܡ — 'uyumak, uyuklamak') birebir eşkökenlidir.",
+        "akkadian": "Akadca doğrudan eşkökenli klasik kaynaklarda kesinleştirilmemiştir.",
+        "comparative_note": "Kuzeybatı Sâmî dillerindeki `*n-w-m` ('uyuklamak/uyumak') ile Arapça `نَوْم` doğrudan ortaktır; Kur'an'da `سِنَة` ('ilk hafif dalma') ile `نَوْم` ('derin uyku') `2:255`'te ince bir derece farkıyla yan yana anılır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ن-ش-ر (Gündüzün uyanıp yeniden hayata yayılma ve dirilme `ٱلنَّهَارَ نُشُورًا` ↔ ن-و-م hareketin kesildiği dinlendirici uyku `ٱلنَّوْمَ سُبَاتًا` — `25:47` doğrudan aynı ayet)",
+          "ي-ق-ظ (Gözü açık uyanıklık ↔ ن-و-م bilinç hareketinin durulup uykuya çekilmesi — `2:255`, `7:97`)"
+        ],
+        "bidirectional_test": "`25:47` (`وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا`) uykuyu (`ن-و-م`) gündüzün yeniden dirilip yayılma (`ن-ش-ر`) hareketinin tam karşıt dengesi olarak kurar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "س-ن-و",
+          "س-ب-ت",
+          "م-و-ت",
+          "ن-ش-ر"
+        ],
+        "analysis": "`2:255`'te `سِنَة` göz kapaklarını bastıran ilk hafif uyuklama, `نَوْم` ise tam derin uykudur. `25:47` ve `78:9`'da `سُبَات` uykunun dinlendirici kesinti işlevini açıklar. `39:42`'de `مَوْتِهَا` (kalıcı ölüm) ile `مَنَامِهَا` (uyku hâli) yan yana gelerek uykunun geçici bir teslim alınış olduğunu gösterir."
+      },
+      "anchor_ayahs": [
+        "2:255 (ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ — Allah, O'ndan başka ilah yoktur; mutlak diri ve her şeyi ayakta tutandır; O'nu ne uyuklama tutar ne de uyku)",
+        "39:42 (ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا — Allah canları ölüm anında, ölmeyenleri ise uykularında eksiksiz teslim alır)",
+        "25:47 (وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا — geceyi sizin için örtü, uykuyu dinlenme kesintisi, gündüzü de yeniden yayılma kılan O'dur)",
+        "30:23 (وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ — gece ve gündüz uyumanız ile O'nun lütfundan geçim aramanız O'nun delillerindendir)",
+        "78:9 (وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا — uykunuzu bir dinlenme kesintisi kıldık)"
+      ],
+      "unified_core_mechanism": "`ن-و-م` kökü 9 geçişinde yalnızca isim/masdar ve ism-i fâil kalıplarıyla **'canlı hareketinin geçici olarak durulup dinlendiği uyku (`نَوْم / نَآئِمُونَ`) ve uyku hâlindeki rüya/geçici teslimiyet (`مَنَام`)'** somut eksenini işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Temel Masdar (`نَوْم` — 3 geçiş: `2:255`, `25:47`, `78:9`): `2:255`'te fâil, `25:47` ve `78:9`'da `جَعَلَ` fiilinin birinci mef'ûlü (`سُبَاتًا` ikinci mef'ûl).",
+          "Dal 2 — Mîmli Masdar / Uyku Hâli (`مَنَام` — 4 geçiş: `8:43`, `30:23`, `37:102`, `39:42`): 3 ayette `فِى` ile mecrûr (uyku/rüya hâli), `30:23`'te muahhar mübteda.",
+          "Dal 3 — Çoğul İsm-i Fâil (`نَآئِمُونَ` — 2 geçiş: `7:97`, `68:19`): Her ikisinde de `وَهُمْ نَآئِمُونَ` hâl cümlesinin merfû haberi."
+        ],
+        "irab_notes": "Kur'an'da `ن-و-م` kökünün çekimli fiili (`نَامَ / يَنَامُ`) hiç geçmez; tüm 9 geçiş kalıcı bir hâl ve biyolojik yasa vurgusuyla isim ve masdar biçimindedir."
+      },
+      "derivatives": [
+        {
+          "form": "نَوْم",
+          "pos": "Masdar / İsim",
+          "meaning": "Hareketin durulup bedenin dinlendiği uyku",
+          "examples": [
+            "2:255",
+            "25:47",
+            "78:9"
+          ]
+        },
+        {
+          "form": "مَنَام",
+          "pos": "Mîmli Masdar / İsm-i Zaman",
+          "meaning": "Uyuma süreci; uykuda görülen rüya/düş hâli",
+          "examples": [
+            "8:43",
+            "30:23",
+            "37:102",
+            "39:42"
+          ]
+        },
+        {
+          "form": "نَآئِمُونَ",
+          "pos": "İsm-i Fâil (Çoğul)",
+          "meaning": "Uykuda bulunan, uyuyan kimseler",
+          "examples": [
+            "7:97",
+            "68:19"
           ]
         }
       ]

@@ -62311,5 +62311,81 @@
       }
     ],
     "context_default": "Yarılan denizin sakin ve açık geçit hâlinde bırakılması bağlamı (`44:24`)"
+  },
+  "ن-و-م": {
+    "buckwalter": "nwm",
+    "slug": "nwm",
+    "concept_name": "Nevm ve Menâm (Hareketin Durulup Dinlendiği Uyku, Uyku Hâli/Rüya ve Allah'ın Uykudan Münezzeh Oluşu)",
+    "root_latin": "N-W-M",
+    "keywords": [
+      "nevm",
+      "menam",
+      "uyku",
+      "uyuyanlar",
+      "dinlenme",
+      "ruya"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "nawom",
+        "ayahs": [
+          "2:255",
+          "25:47",
+          "78:9"
+        ],
+        "label": "Masdar/isim (`نَوْمٌ / ٱلنَّوْمَ / نَوْمَكُمْ` — bedenin hareketini kesip dinlenmeye çekildiği uyku: `2:255` Allah'ı ne uyuklama ne de uyku tutar, `25:47` ve `78:9` uykunun dinlendirici bir kesinti [`سُبَاتًا`] kılınması; 3 geçiş)"
+      },
+      {
+        "lemma": "manaAm",
+        "ayahs": [
+          "8:43",
+          "30:23",
+          "37:102",
+          "39:42"
+        ],
+        "label": "Mîmli masdar / ism-i zaman (`مَنَامِكَ / مَنَامُكُم / ٱلْمَنَامِ / مَنَامِهَا` — uyku süreci ve uykuda görülen düş/rüya hâli: `8:43` elçiye uykusunda düşmanın az gösterilmesi, `30:23` gece ve gündüz uyumanın Allah'ın ayetlerinden oluşu, `37:102` İbrahim'in uykuda gördüğü sınav, `39:42` ölüm zamanı gelmemiş canların uyku hâlinde geçici alınışı; 4 geçiş)"
+      },
+      {
+        "lemma": "naA^}imuwn",
+        "ayahs": [
+          "7:97",
+          "68:19"
+        ],
+        "label": "Çoğul ism-i fâil (`وَهُمْ نَآئِمُونَ` — uykuda ve gaflet hâlinde uyuyanlar: `7:97` gece uyurken azabın ansızın gelmesi, `68:19` bahçe sahipleri uyurken bahçeyi dolaşıp kavuran afet; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Dinlendirici uykuyu (`نَوْم`), uyku/rüya hâlini (`مَنَام`) veya uyuyanları (`نَآئِمُونَ`) bildiren `ن-و-م` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "25:47",
+          "30:23",
+          "78:9"
+        ],
+        "text": "Biyolojik Dinlenme Yasası ve Yaratılış Ayeti (`25:47`, `30:23`, `78:9`): Uykunun bedeni ve zihni yorgunluktan kesip yenileyen bir dinlenme (`سُبَاتًا`) kılınması (`25:47`, `78:9`) ve gece-gündüz uyku ile geçim arayışı döngüsünün Allah'ın varlık ayetlerinden olması (`30:23`)."
+      },
+      {
+        "ayahs": [
+          "2:255",
+          "39:42"
+        ],
+        "text": "Allah'ın Uykudan Münezzeh Oluşu ve Uyku-Ölüm Benzerliği (`2:255`, `39:42`): Diri ve her şeyi ayakta tutan Allah'ı ne hafif uyuklama (`سِنَة`) ne de uyku (`نَوْم`) yakalar (`2:255`); buna karşılık insanın her uykusu (`مَنَامِهَا`), ölüm vakti henüz gelmemiş canların geçici olarak teslim alınıp tekrar salıverildiği küçük bir ölüm provasıdır (`39:42`)."
+      },
+      {
+        "ayahs": [
+          "8:43",
+          "37:102"
+        ],
+        "text": "Uykuda Gösterilen Mesaj ve Sınav (`8:43`, `37:102`): Bedir öncesi elçiye uykusunda (`فِى مَنَامِكَ`) düşman sayısının az gösterilerek topluluğun cesaretinin korunması (`8:43`) ve İbrahim'in uykusunda (`فِى ٱلْمَنَامِ`) oğlunu boğazladığını görüp bununla sınanması (`37:102`)."
+      },
+      {
+        "ayahs": [
+          "7:97",
+          "68:19"
+        ],
+        "text": "Uyku Hâlinde Ansızın Yakalanma (`7:97`, `68:19`): Kent halklarının gece uyurken (`وَهُمْ نَآئِمُونَ`) azabın ansızın gelmesinden güvende sanmaları (`7:97`) ve yoksula vermemeye karar veren bahçe sahipleri uyurken (`وَهُمْ نَآئِمُونَ`) bahçelerinin bir gecede yok oluşu (`68:19`)."
+      }
+    ],
+    "context_default": "Dinlendirici uyku, uyku hâlinde görülen rüya, ölümle benzerlik veya Allah'ın uykudan münezzeh oluşu bağlamı"
   }
 }
