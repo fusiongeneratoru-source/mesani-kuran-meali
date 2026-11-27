@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 991,
+    "total_locked": 992,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -2774,7 +2774,8 @@
         "ن-ق-ر (Nakr/Nâkûr: boruya keskin darbeyle vurulup/üflenip çınlatılması ↔ س-ك-ن sessizlik, durgunluk ve hareketsizlik — `74:8`)",
         "و-ف-ض (Yûfidûn: dikili bir hedefe doğru süratle atılıp koşmak ↔ س-ك-ن durgunlaşıp yerinde sabit kalmak — `70:43`)",
         "ر-ع-د (Ra'd: göğü sarsan hareket, çarpışma ve gürleme ↔ س-ك-ن tam durgunluk ve sarsıntısız dinginlik — `2:19`, `13:13`)",
-        "و-ج-ف (Evcefe/Vâcife: hızlı koşuya sürmek ve kalbin şiddetle çarpıp çalkalanması ↔ س-ك-ن dinginleşip durgunluğa ermek — `59:6, 79:8`)"
+        "و-ج-ف (Evcefe/Vâcife: hızlı koşuya sürmek ve kalbin şiddetle çarpıp çalkalanması ↔ س-ك-ن dinginleşip durgunluğa ermek — `59:6, 79:8`)",
+        "ر-ج-ف (Recfe/İrcâf: şiddetle çalkalanmak ve şehirde panik yaymak ↔ س-ك-ن dinginlik ve huzur içinde sükûnete ermek — `33:60, 73:14`)"
       ]
     },
     "ظ-ن-ن": {
@@ -6550,7 +6551,8 @@
         "ج-ز-ع (Cezû': sarsılıp panikle çözülmek ↔ ث-ب-ت yerinde sağlam durup sarsılmamak — `70:20`)",
         "ج-و-ز (Mücâveze `جَاوَزَ`: bir noktayı veya engeli kesip öteye ilerlemek ↔ ث-ب-ت aynı yerde sabit kalıp aşmamak — `2:249`, `18:62`)",
         "س-ي-ل (Seyl: yatak boyunca hızla yürüyüp akan akıntı ↔ ث-ب-ت yerinde durup akmamak — `13:17`, `34:16`)",
-        "د-و-ل (Müdâvele/Dûle: bir halin veya servetin sırayla el değiştirip dönmesi ↔ ث-ب-ت tek bir elde veya durumda değişmeden sabit kalmak — `3:140, 59:7`)"
+        "د-و-ل (Müdâvele/Dûle: bir halin veya servetin sırayla el değiştirip dönmesi ↔ ث-ب-ت tek bir elde veya durumda değişmeden sabit kalmak — `3:140, 59:7`)",
+        "ر-ج-ف (Recfe/Râcife: yeri, dağları ve toplumu şiddetle sarsıp yerinden oynatmak ↔ ث-ب-ت sarsılmadan yerli yerinde sağlamca durmak — `73:14, 79:6`)"
       ]
     },
     "غ-ل-ل": {
@@ -12224,6 +12226,15 @@
       "opposites": [
         "ح-ف-ظ (Eksiksiz koruyup gözetmek `حَفَظَةً` ↔ ف-ر-ط ihmal edip aksatmak `لَا يُفَرِّطُونَ` — `6:61`)",
         "و-ف-ي (Görevini tam ve eksiksiz yerine getirmek `تَوَفَّتْهُ` ↔ ف-ر-ط eksik bırakmak — `6:61`)"
+      ]
+    },
+    "ر-ج-ف": {
+      "latin": "R-C-F",
+      "core": "`ر-ج-ف` kökü fiziksel yer/kozmik sarsıntı (`رَجْفَة / تَرْجُفُ / رَاجِفَة`, 7x) ile toplumsal güveni sarsan panik/söylenti yayıcılığı (`ٱلْمُرْجِفُونَ`, 1x) arasında tek bir **'şiddetli sarsıntı ve çalkantı'** mekanizması kurar.",
+      "physical": "İbn Fâris'in tanımladığı somut fiziksel çekirdek: 'şiddetli çalkalanma ve sarsıntı (`الِاضْطِرَابُ`)' — yer kabuğunda ve dağlarda şiddetli deprem (`تَرْجُفُ / ٱلرَّجْفَةُ`), toplum içinde ise insanların yürek ve düzenini yalan haberle sarsma (`إِرْجَاف / ٱلْمُرْجِفُونَ`).",
+      "opposites": [
+        "ث-ب-ت (Yerinde sağlam ve sarsılmaz durmak ↔ ر-ج-ف şiddetle sarsılıp yerinden oynamak `تَرْجُفُ` — `73:14, 79:6`)",
+        "س-ك-ن (Dinginlik ve toplumsal huzur ↔ ر-ج-ف fiziksel sarsıntı ve şehirde panik çalkantısı `ٱلْمُرْجِفُونَ` — `33:60`)"
       ]
     }
   }

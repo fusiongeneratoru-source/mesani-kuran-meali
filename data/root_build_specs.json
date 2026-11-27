@@ -66152,5 +66152,79 @@
       }
     ],
     "context_default": "Görevde ihmal/eksik bırakma, ölçüyü aşıp taşma, savrukluk veya önden sürülme bağlamı"
+  },
+  "ر-ج-ف": {
+    "buckwalter": "rjf",
+    "slug": "rjf",
+    "concept_name": "Recfe, Râcife ve Mürcifûn (Şiddetli Yer/Kozmik Sarsıntı ve Şehirde Yalan Haberle Panik/Çalkantı Yayanlar)",
+    "root_latin": "R-C-F",
+    "keywords": [
+      "recfe",
+      "racife",
+      "murcifun",
+      "sarsinti",
+      "deprem",
+      "panik yayicilar"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "r~ajofap",
+        "ayahs": [
+          "7:78",
+          "7:91",
+          "7:155",
+          "29:37"
+        ],
+        "label": "İsim (`ٱلرَّجْفَةُ` — yeri şiddetle sallayıp insanları olduğu yerde çökerten büyük sarsıntı/deprem: `7:78` Semûd kavmi, `7:91` ve `29:37` Medyen/Şuayb kavmi, `7:155` Musa'nın seçtiği yetmiş kişinin sarsıntıya yakalanması; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "tarojufu",
+        "ayahs": [
+          "73:14",
+          "79:6"
+        ],
+        "label": "I. Bab (Sülâsî) muzâri fiil (`تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ / تَرْجُفُ ٱلرَّاجِفَةُ` — yeryüzünün, dağların ve o büyük ilk sarsıcının şiddetle sarsılıp çalkalanması; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "r~aAjifap",
+        "ayahs": [
+          "79:6"
+        ],
+        "label": "İsm-i fâil (`ٱلرَّاجِفَةُ` — her şeyi şiddetle sarsıp yerinden oynatan ilk büyük sarsıcı; ardından `ٱلرَّادِفَةُ` gelir; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "murojifuwn",
+        "ayahs": [
+          "33:60"
+        ],
+        "label": "IV. Bab (İf'âl) ism-i fâil çoğulu (`وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ` — şehirde korku, yalan söylenti ve psikolojik çalkantı/sarsıntı yayan provokatörler; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Şiddetli yer/kozmik sarsıntıyı (`رَجْفَة / تَرْجُفُ / رَاجِفَة`) veya toplumda söylentiyle çalkantı yaymayı (`مُرْجِفُونَ`) bildiren `ر-ج-ف` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:78",
+          "7:91",
+          "7:155",
+          "29:37"
+        ],
+        "text": "Tarihsel Kavimleri ve Dağdaki Yetmiş Kişiyi Yakalayan Büyük Sarsıntı (`7:78, 7:91, 7:155, 29:37`): Salih'i yalanlayan Semûd (`7:78`) ile Şuayb'ı yalanlayan Medyen (`7:91, 29:37`) halkını şiddetli yer sarsıntısının (`ٱلرَّجْفَةُ`) yakalayıp yurtlarında dizüstü çökertmesi; Musa'nın buluşmaya seçtiği yetmiş kişinin sarsıntıya tutulması (`7:155`)."
+      },
+      {
+        "ayahs": [
+          "73:14",
+          "79:6"
+        ],
+        "text": "Son Saatin Kozmik Sarsıntısı (`73:14, 79:6`): Yerin ve dağların şiddetle sarsılıp (`يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ`, `73:14`) dağların dağılıp akan kum yığınına döndüğü gün; o büyük sarsıcının her şeyi sarstığı (`يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ`, `79:6`) ilk sarsıntı."
+      },
+      {
+        "ayahs": [
+          "33:60"
+        ],
+        "text": "Medine'de Yalan Söylentiyle Toplumsal Çalkantı Yayanlar (`33:60`): İkiyüzlüler, kalplerinde hastalık bulunanlar ve şehirde korku/panik söylentileriyle halkı sarsanlar (`وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ`) bu bozgunculuktan vazgeçmezlerse şehirde barındırılmayacakları uyarısı."
+      }
+    ],
+    "context_default": "Fiziksel/kozmik şiddetli sarsıntı veya toplumsal panik/söylenti çalkantısı bağlamı"
   }
 }
