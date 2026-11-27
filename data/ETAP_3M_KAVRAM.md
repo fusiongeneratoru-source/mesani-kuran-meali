@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 850 mühürlü kökten (`%95,94`) sonra, `5` sureyi daha `%100` kilitleyen `43` kök (Sure 83 Mutaffifîn, 80 Abese, 74 Müddessir, 75 Kıyâmet, 81 Tekvîr → **50 tam kilitli sure**; Sure 60–66 ve Sure 80–114 [son 35 sure] kesintisiz `%100` kilit) ve kalan tüm `10` geçişli çekirdek kökler (`7` kök — `≥10` geçişli açık kök `0`!) olmak üzere **50 kök** (190 geçiş) mühürlenerek toplam sözlük **900 kilitli köke (`%96,58` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,62`'si)** ulaştırılır.
-> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 937 Kök | Güncel Kapsam: %96,58)
+> **Etap 3M İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 938 Kök | Güncel Kapsam: %96,58)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
