@@ -63044,5 +63044,37 @@
       }
     ],
     "context_default": "Şiddetinden yüzleri buruşturan pek çetin hesap günü bağlamı (`76:10`)"
+  },
+  "ز-م-ه-ر": {
+    "buckwalter": "zmhr",
+    "slug": "zmhr",
+    "concept_name": "Zemherîr (Yakıcı Derecede Keskin ve Dondurucu Şiddetli Ayaz)",
+    "root_latin": "Z-M-H-R",
+    "keywords": [
+      "zemherir",
+      "dondurucu ayaz",
+      "siddetli soguk",
+      "iliman iklim",
+      "ne gunes ne ayaz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "zamohariyr",
+        "ayahs": [
+          "76:13"
+        ],
+        "label": "Rubâî isim (`لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا` — ne yakıcı güneş sıcağı ne de dondurucu şiddetli ayaz görürler; tamamen ılıman, dengeli ve huzurlu iklim; `76:13`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Dondurucu derecede şiddetli ayazı/soğuğu bildiren rubâî `ز-م-ه-ر` ismi (`زَمْهَرِير`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "76:13"
+        ],
+        "text": "Aşırı Sıcaktan ve Dondurucu Ayazdan Uzak Dengeli İklim (`76:13`): Ödül yurdunda süslü divanlara (`ٱلْأَرَآئِكِ`) yaslananların ne kavurucu bir güneş sıcağı (`شَمْسًا`) ne de iliklere işleyen dondurucu bir ayaz (`زَمْهَرِيرًا`) görmeyip mutlak bir ılımanlık içinde yaşamaları."
+      }
+    ],
+    "context_default": "Dondurucu şiddetli ayazın bulunmadığı ılıman ödül iklimi bağlamı (`76:13`)"
   }
 }
