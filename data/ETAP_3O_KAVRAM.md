@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 5 / 50 Kök (Toplam Mühürlü: 955 Kök | Güncel Kapsam: %96,83)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 6 / 50 Kök (Toplam Mühürlü: 956 Kök | Güncel Kapsam: %96,83)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -12,7 +12,7 @@
 | 3 | Sure %100 Kilidi | 822 | `ك-س-ف` | `K-S-F` | **5** | 5 | 17:92 | Kisf ve Kisef (Bütünden Kopup Ayrılan Parçalar, Bulut Kümeleri ve Gökten İnen Kopuk Kütleler) | ✅ **MÜHÜRLÜ** |
 | 4 | Sure %100 Kilidi | 1006 | `ش-ي-ب` | `S-Y-B` | **3** | 3 | 19:4 | Şeyb, Şeybe ve Şîb (Saçın Siyahına Ak Karışıp Ağarması, İhtiyarlık Evresi ve Saçı Ağarmışlar) | ✅ **MÜHÜRLÜ** |
 | 5 | Sure %100 Kilidi | 1202 | `ر-و-ض` | `R-W-D` | **2** | 2 | 30:15 | Ravda ve Ravdât (Suyun Biriktiği Geniş, Ferah, Yumuşak ve Yemyeşil Çayır/Vaha Bahçesi) | ✅ **MÜHÜRLÜ** |
-| 6 | Sure %100 Kilidi | 1190 | `و-د-ق` | `W-D-K` | **2** | 2 | 24:43 | Vedk (Sure 30 Rûm kilidi + 2 geçiş: 24:43, 30:48 bulut yarıklarından süzülüp inen yağmur) | ⏳ *Bekliyor* |
+| 6 | Sure %100 Kilidi | 1190 | `و-د-ق` | `W-D-K` | **2** | 2 | 24:43 | Vedk (Bulutların Arasından Süzülüp Yaklaşarak İnen Yağmur Damlaları) | ✅ **MÜHÜRLÜ** |
 | 7 | Sure %100 Kilidi | 1462 | `م-س-و` | `M-S-W` | **1** | 1 | 30:17 | Tümsûn (Sure 30 Rûm son kilidi: 30:17 akşama girerken Allah'ı tesbih etmek — 56. tam kilitli sure!) | ⏳ *Bekliyor* |
 | 8 | Sure %100 Kilidi | 804 | `غ-و-ث` | `G-W-S` | **5** | 4 | 8:9 | İstiğâse ve İğâse (Sure 46 Ahkâf kilidi + 5 geçiş: 8:9, 18:29, 28:15, 46:17 darlık anında imdat çağrısı yapmak ve yardıma yetişmek) | ⏳ *Bekliyor* |
 | 9 | Sure %100 Kilidi | 766 | `ج-و-ز` | `C-W-Z` | **5** | 5 | 2:249 | Câveze ve Tecâveze (Sure 46 Ahkâf kilidi + 5 geçiş: 2:249, 7:138, 10:90, 18:62, 46:16 bir sınırı/suyu aşmak ve kusurları görmezden gelip geçmek) | ⏳ *Bekliyor* |
