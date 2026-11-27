@@ -64997,5 +64997,55 @@
       }
     ],
     "context_default": "Belirli son sınırı olan uzun zaman süresi veya mesafe aralığı bağlamı"
+  },
+  "غ-ي-ث": {
+    "buckwalter": "gyv",
+    "slug": "gyv",
+    "concept_name": "Gays ve İgâse (Kuraklık ve Umutsuzluk Ardından Can Verip Bereket Getiren Yağmur ve Bolluk)",
+    "root_latin": "G-Y-S",
+    "keywords": [
+      "gays",
+      "can veren yagmur",
+      "rahmet yagmuru",
+      "yugasu",
+      "bereket yili",
+      "kurakliktan kurtulus"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "gayov",
+        "ayahs": [
+          "31:34",
+          "42:28",
+          "57:20"
+        ],
+        "label": "İsim (`ٱلْغَيْثَ / غَيْثٍ` — kurak toprağa hayat ve bereket getiren rahmet yağmuru: `31:34` yağmuru indirme bilgisinin Allah'a ait olması; `42:28` insanların umudunu kesmesinden sonra can suyu yağmurunu indirmesi; `57:20` bitkisinin çiftçileri hayran bıraktığı ama sonra sararıp çerçöp olduğu dünya benzetmesindeki yağmur; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "yugaAvu2",
+        "ayahs": [
+          "12:49"
+        ],
+        "label": "IV. bab edilgen muzâri (`عَامٌ فِيهِ يُغَاثُ ٱلنَّاسُ` — `أَغَاثَ / يُغَاثُ` [`غ-ي-ث`]: yedi kıtlık yılından sonra insanların bereketli yağmura ve bolluğa kavuşturulacağı kurtuluş yılı; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Kuraklık ve darlık sonrası can veren rahmet yağmurunu (`غَيْث`) veya onunla bolluğa kavuşturulmayı (`يُغَاثُ`) bildiren `غ-ي-ث` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:49",
+          "31:34",
+          "42:28"
+        ],
+        "text": "Kuraklık ve Umutsuzluktan Sonra Gelen İlahi Can Suyu (`12:49`, `31:34`, `42:28`): Yusuf'un kıtlık yılları sonrası insanların yağmura ve bolluğa kavuşacağı yılı müjdelemesi (`فِيهِ يُغَاثُ ٱلنَّاسُ`, `12:49`), yağmuru indirmenin yalnızca Allah'ın elinde olması (`وَيُنَزِّلُ ٱلْغَيْثَ`, `31:34`) ve insanlar umutlarını yitirdikten sonra can suyu yağmurunu indirip rahmetini yayması (`يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟`, `42:28`)."
+      },
+      {
+        "ayahs": [
+          "57:20"
+        ],
+        "text": "Yağmurla Yeşerip Kısa Sürede Solan Dünya Benzetmesi (`57:20`): Dünya hayatının geçiciliğinin, yeşerttiği ekinle çiftçileri hayran bırakan ama ardından kuruyup sararan ve ufalanan bir yağmur (`كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ`) örneğiyle tasvir edilmesi."
+      }
+    ],
+    "context_default": "Kuraklık ve umutsuzluk sonrası can veren bereket yağmuru bağlamı"
   }
 }
