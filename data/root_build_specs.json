@@ -62067,5 +62067,57 @@
       }
     ],
     "context_default": "Gözyaşı döküp ağlama, derin saygı duygusu veya güldürüp ağlatma yasası bağlamı"
+  },
+  "أ-د-ي": {
+    "buckwalter": "Ady",
+    "slug": "ady",
+    "concept_name": "Edâ ve Te'diye (Emaneti, Borcu veya Hakkı Eksiksiz Biçimde Sahibine Ulaştırıp Teslim Etmek)",
+    "root_latin": "E-D-Y",
+    "keywords": [
+      "eda",
+      "tediye",
+      "emaneti teslim",
+      "odemek",
+      "hakki ulastirmak",
+      "yerine getirmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yu&ad~i",
+        "ayahs": [
+          "2:283",
+          "3:75",
+          "4:58",
+          "44:18"
+        ],
+        "label": "II. bab (tef'îl) fiil (`فَلْيُؤَدِّ / يُؤَدِّهِۦٓ / تُؤَدُّوا۟ / أَدُّوٓا۟` — emanet, mal, hak veya insanları eksiksiz biçimde sahibine ulaştırıp teslim etmek: `2:283` güvenilenin emanetini ödemesi, `3:75` [2x] kantarla güvenilince ödeyen ↔ dinarla güvenilince ödemeyen, `4:58` emanetleri ehillerine teslim etme emri, `44:18` Musa'nın 'Allah'ın kullarını bana teslim edin' çağrısı; 5 geçiş)"
+      },
+      {
+        "lemma": ">adaA^'",
+        "ayahs": [
+          "2:178"
+        ],
+        "label": "Masdar/isim (`وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ` — affa karşılık tazminat/bedelin hak sahibine güzellikle ve eksiksiz ulaştırılıp ödenmesi; `2:178`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Emaneti, hakkı veya yükümlülüğü sahibine eksiksiz ulaştırıp teslim etmeyi bildiren `أ-د-ي` türevi (`أَدَّى / أَدَآء`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:283",
+          "3:75",
+          "4:58"
+        ],
+        "text": "Emanet ve Güvenin Eksiksiz Teslimi (`2:283`, `3:75`, `4:58`): Emanetleri mutlaka hak sahiplerine ulaştırma emri (`4:58`), rehin bulunmayan yolculukta güvenilen kimsenin emanetini tam ödemesi (`2:283`) ve büyük bir servete (`قِنطَار`) güvenilince eksiksiz ödeyenlerle tek bir dinarı (`دِينَار`) dahi başında dikilmeden ödemeyenlerin ahlaki ayrımı (`3:75`)."
+      },
+      {
+        "ayahs": [
+          "2:178",
+          "44:18"
+        ],
+        "text": "Hakkın Güzellikle Ödenmesi ve Kulların Teslimi (`2:178`, `44:18`): Kısasta bağışlanma hâlinde diyet/bedelin hak sahibine güzellikle ödenmesi (`2:178`) ve Musa'nın Firavun'a 'Allah'ın kullarını bana teslim edin (`أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ`)' çağrısı (`44:18`)."
+      }
+    ],
+    "context_default": "Emaneti, hakkı veya yükümlülüğü eksiksiz biçimde sahibine ulaştırma bağlamı"
   }
 }
