@@ -69021,5 +69021,73 @@
       }
     ],
     "context_default": "Yoğun arzu, düşkünlük veya özen bağlamı"
+  },
+  "ح-و-ت": {
+    "buckwalter": "Hwt",
+    "slug": "Hwt",
+    "concept_name": "Hût ve Hîtân (Deniz Balığı ve Büyük Balık — Kıyı Kasabası, Mûsâ'nın Yolculuğu ve Yûnus Kıssası)",
+    "root_latin": "H-W-T",
+    "keywords": [
+      "hut",
+      "hitan",
+      "balik",
+      "buyuk balik",
+      "yunus"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Huwt",
+        "ayahs": [
+          "7:163"
+        ],
+        "label": "Kırık çoğul isim, fail ve merfû (`تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا` — cumartesi günleri su yüzüne çıkarak gelen balıkları; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "Huwt",
+        "ayahs": [
+          "18:61",
+          "18:63"
+        ],
+        "label": "Tekil isim, mef'ûl-i bih ve mansûb (`نَسِيَا حُوتَهُمَا` / `نَسِيتُ ٱلْحُوتَ` — iki denizin kavuştuğu yerde unuttukları ve denizde yol alan balık; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "Huwt",
+        "ayahs": [
+          "37:142"
+        ],
+        "label": "Tekil isim, fail ve merfû (`فَٱلْتَقَمَهُ ٱلْحُوتُ` — Yûnus'u yutan büyük deniz balığı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "Huwt",
+        "ayahs": [
+          "68:48"
+        ],
+        "label": "Tekil isim, muzâfun ileyh ve mecrûr (`كَصَاحِبِ ٱلْحُوتِ` — büyük balığın yuttuğu Yûnus'a işaret eden tamlama; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Balığı veya büyük deniz balığını bildiren `ح-و-ت` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:163"
+        ],
+        "text": "Deniz Kıyısındaki Kasabanın Balık Sınavı (`7:163`): Cumartesi günlerinde su yüzüne çıkarak akın akın gelen (`حِيتَانُهُمْ`), diğer günlerde ise gelmeyen balıklarla sınanan topluluk."
+      },
+      {
+        "ayahs": [
+          "18:61",
+          "18:63"
+        ],
+        "text": "İki Denizin Kavuştuğu Yerdeki Balık (`18:61, 18:63`): Mûsâ ile genç arkadaşının kayanın yanında unutup arkasından denizde yol aldığını gördükleri işaret balığı (`حُوتَهُمَا / ٱلْحُوتَ`)."
+      },
+      {
+        "ayahs": [
+          "37:142",
+          "68:48"
+        ],
+        "text": "Yûnus ve Büyük Balık (`37:142, 68:48`): Kınanacak halde denize atılan Yûnus'un büyük balık tarafından yutulması (`37:142`) ve elçiye Rabb'inin hükmüne direnişle sebat edip balık sahibi (`صَاحِبِ ٱلْحُوتِ`) gibi acele etmemesi uyarısı (`68:48`)."
+      }
+    ],
+    "context_default": "Deniz balığı veya büyük balık bağlamı"
   }
 }
