@@ -68896,5 +68896,61 @@
       }
     ],
     "context_default": "Yeryüzünde azgınca tahribat ve bozgunculuk yasağı bağlamı"
+  },
+  "ح-ص-ب": {
+    "buckwalter": "HSb",
+    "slug": "HSb",
+    "concept_name": "Hâsıb ve Hasab (Çakıl Taşları Savuran Yıkıcı Kasırga ve Ateşe Atılan Tutuşturucu Yakıt)",
+    "root_latin": "H-S-B",
+    "keywords": [
+      "hasib",
+      "hasab",
+      "kasirga",
+      "cakil firtinasi",
+      "yakit"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "HaASib",
+        "ayahs": [
+          "17:68",
+          "29:40",
+          "54:34",
+          "67:17"
+        ],
+        "label": "I. Bab ism-i fâil, mef'ûl-i bih ve mansûb (`يُرْسِلَ / أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا` — taş ve çakıl savurarak vuran yıkıcı kasırga; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "HaSab",
+        "ayahs": [
+          "21:98"
+        ],
+        "label": "İsim, `إِنَّ` haberi ve merfû muzâf (`حَصَبُ جَهَنَّمَ` — yakıcı ateş çukurunu harlamak için içine fırlatılıp atılan yakıt; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Taş savuran yıkıcı fırtınayı (`حَاصِب`) veya ateşe atılan yakıtı (`حَصَب`) bildiren `ح-ص-ب` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:68",
+          "67:17"
+        ],
+        "text": "Sahte Güvenlik Duygusuna Karşı Kasırga Uyarısı (`17:68, 67:17`): Karada veya gök altında kendilerini güvende sananlara, ansızın taş savuran bir kasırganın (`حَاصِبًا`) gönderilebileceği uyarısı."
+      },
+      {
+        "ayahs": [
+          "29:40",
+          "54:34"
+        ],
+        "text": "Tarihsel Yıkımda Taş Savuran Kasırga (`29:40, 54:34`): Geçmiş azgın toplumlardan bazılarının ve özellikle Lût kavminin taş savuran kasırgayla (`حَاصِبًا`) yok edilmesi."
+      },
+      {
+        "ayahs": [
+          "21:98"
+        ],
+        "text": "Yakıcı Ateşin Tutuşturucu Yakıtı (`21:98`): Allah'tan başka kulluk edilen düzmece varlıkların ve onlara bağlananların yakıcı ateş çukurunun içine atılan yakıtı (`حَصَبُ`) olması."
+      }
+    ],
+    "context_default": "Taş savuran kasırga veya ateşe atılan yakıt bağlamı"
   }
 }
