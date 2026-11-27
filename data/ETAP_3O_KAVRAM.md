@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 8 / 50 Kök (Toplam Mühürlü: 958 Kök | Güncel Kapsam: %96,84)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 9 / 50 Kök (Toplam Mühürlü: 959 Kök | Güncel Kapsam: %96,85)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -15,7 +15,7 @@
 | 6 | Sure %100 Kilidi | 1190 | `و-د-ق` | `W-D-K` | **2** | 2 | 24:43 | Vedk (Bulutların Arasından Süzülüp Yaklaşarak İnen Yağmur Damlaları) | ✅ **MÜHÜRLÜ** |
 | 7 | Sure %100 Kilidi | 1462 | `م-س-و` | `M-S-W` | **1** | 1 | 30:17 | İmsâ (Akşam Vaktine Girmek ve Günün Kapanışında Allah'ı Yüceltmek) | ✅ **MÜHÜRLÜ** |
 | 8 | Sure %100 Kilidi | 804 | `غ-و-ث` | `G-W-S` | **5** | 4 | 8:9 | İstigâse ve İgâse (Darlık ve Sıkıntıda İmdat Çağırmak, Yardıma Koşup Kurtarmak) | ✅ **MÜHÜRLÜ** |
-| 9 | Sure %100 Kilidi | 766 | `ج-و-ز` | `C-W-Z` | **5** | 5 | 2:249 | Câveze ve Tecâveze (Sure 46 Ahkâf kilidi + 5 geçiş: 2:249, 7:138, 10:90, 18:62, 46:16 bir sınırı/suyu aşmak ve kusurları görmezden gelip geçmek) | ⏳ *Bekliyor* |
+| 9 | Sure %100 Kilidi | 766 | `ج-و-ز` | `C-W-Z` | **5** | 5 | 2:249 | Mücâveze ve Tecâvüz (Bir Engeli, Suyu veya Sınırı Aşıp Geçmek; Kusurların Üstünden Geçip Bağışlamak) | ✅ **MÜHÜRLÜ** |
 | 10 | Sure %100 Kilidi | 832 | `و-ز-ع` | `W-Z-A` | **5** | 5 | 27:17 | Evzi' ve Yûze'ûn (Sure 46 Ahkâf kilidi + 5 geçiş: 27:17, 27:19, 27:83, 41:19, 46:15 kalabalığı dağıtmadan düzende tutup sevk etmek ve gönlü şükre yönlendirmek) | ⏳ *Bekliyor* |
 | 11 | Sure %100 Kilidi | 993 | `أ-ف-ف` | `E-F-F` | **3** | 3 | 17:23 | Üff (Sure 46 Ahkâf kilidi + 3 geçiş: 17:23, 21:67, 46:17 bıkkınlık ve küçümseme ünlemi) | ⏳ *Bekliyor* |
 | 12 | Sure %100 Kilidi | 1224 | `ع-ي-ي` | `A-Y-Y` | **2** | 2 | 46:33 | Ayye (Sure 46 Ahkâf kilidi + 2 geçiş: 46:33, 50:15 ilk yaratmada yorulup acze düşmemek) | ⏳ *Bekliyor* |

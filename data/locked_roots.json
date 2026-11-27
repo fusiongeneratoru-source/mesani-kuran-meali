@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (8/50 — Toplam 958 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (9/50 — Toplam 959 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -15378,7 +15378,8 @@
           "ق-ب-ل (Yüzünü Öne Dönüp Yaklaşmak ↔ Sırtını Dönüp Geri Sekmeden Kaçmak: 28:31)",
           "ص-ب-ر (ص-ب-ر ↔ ع-ق-ب Mesânî simetrisi)",
           "ع-ف-و (ع-ف-و ↔ ع-ق-ب Mesânî simetrisi)",
-          "ر-أ-س (ر-أ-س ↔ ع-ق-ب Mesânî simetrisi)"
+          "ر-أ-س (ر-أ-س ↔ ع-ق-ب Mesânî simetrisi)",
+          "ج-و-ز (Tecâvüz `تَجَاوَزَ عَنْ`: kötülüğün üzerinde durmayıp geçmek ve bağışlamak ↔ ع-ق-ب yapılan kötülüğün peşini bırakmayıp karşılığını vermek — `46:16`)"
         ],
         "key_ayahs": [
           "2:143 (مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ)",
@@ -39301,7 +39302,8 @@
           "د-ك-ك (Dekk: yüksek kütlelerin darbeyle ezilip dümdüz edilmesi ↔ ث-ب-ت sarsılmadan yerinde sağlamca sabit durmak)",
           "س-ح-ب (Sahb/Sehâb: dış kuvvetle veya rüzgârla çekilip sürüklenmek ↔ ث-ب-ت kendi yerinde sağlamca sabit durmak)",
           "ح-ر-ك (Tahrîk: yerinden oynatıp kıpırdatmak ↔ ث-ب-ت yerinden kıpırdamadan sabit ve dingin durmak)",
-          "ج-ز-ع (Cezû': sarsılıp panikle çözülmek ↔ ث-ب-ت yerinde sağlam durup sarsılmamak — `70:20`)"
+          "ج-ز-ع (Cezû': sarsılıp panikle çözülmek ↔ ث-ب-ت yerinde sağlam durup sarsılmamak — `70:20`)",
+          "ج-و-ز (Mücâveze `جَاوَزَ`: bir noktayı veya engeli kesip öteye ilerlemek ↔ ث-ب-ت aynı yerde sabit kalıp aşmamak — `2:249`, `18:62`)"
         ],
         "key_ayahs": [
           "2:250",
@@ -80353,6 +80355,91 @@
           "meaning": "İmdat çağrısına karşılık görmek",
           "examples": [
             "18:29"
+          ]
+        }
+      ]
+    },
+    "ج-و-ز": {
+      "root_latin": "C-W-Z",
+      "arabic": "ج-و-ز",
+      "rank": 766,
+      "morphology_and_rasm": {
+        "buckwalter": "jwz",
+        "rasm_skeleton": "جوز (üçlü ecvef-i vâvî iskelet; Kur'an'da tamamı fiil olarak 5 geçiş: 4x III. bab `جَاوَزَ`, 1x VI. bab `نَتَجَاوَزُ`)",
+        "approx_frequency": "5 geçiş / 5 ayet (tamamı fiil; isim formu geçmez)",
+        "verb_forms_used": [
+          "III. Bab (جَاوَزَ — 4 geçiş: 2:249, 7:138, 10:90, 18:62)",
+          "VI. Bab (تَجَاوَزَ / نَتَجَاوَزُ — 1 geçiş: 46:16)"
+        ],
+        "noun_forms_used": [],
+        "preposition_patterns": [
+          "جَاوَزَ + mef'ûl (`2:249`, `18:62`: bir nehri veya konak noktasını doğrudan aşıp geçmek)",
+          "جَٰوَزْنَا بِـ ... ٱلْبَحْرَ (`7:138`, `10:90`: `بِـ` ta'diye ile bir topluluğu denizden karşıya geçirmek)",
+          "نَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ (`46:16`: `عَنْ` ile kötülüklerin üzerinden geçip görmezden gelmek/bağışlamak)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı somut çekirdek: 'bir şeyi/mesafeyi kesip öteye geçmek' (`قَطْعُ الشَّيْءِ` — nehir, deniz veya konak noktasını aşmak `جَاوَزَ` ve soyut düzlemde kusurları cezalandırmadan üzerinden geçip bağışlamak `تَجَاوَزَ عَنْ`).",
+      "ibn_faris_asl": "(جَوَزَ) الْجِيمُ وَالْوَاوُ وَالزَّاءُ أَصْلَانِ: أَحَدُهُمَا قَطْعُ الشَّيْءِ، وَالْآخَرُ وَسَطُ الشَّيْءِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 1, s. 494, كتاب الجيم, باب الجيم والواو وما يثلثهما, جوز maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ج-و-ز` maddesinde iki temel anlam ayırır: 'bir mesafeyi/engeli kesip geçmek' (`قَطْعُ الشَّيْءِ`) ve 'bir şeyin orta/merkez bölümü' (`وَسَطُ الشَّيْءِ`). Kur'an'daki tüm 5 geçiş birinci çekirdek olan 'mesafeyi ve engeli aşıp geçme' üzerindedir.",
+        "lisan_al_arab": "İbn Manzûr `جُزْتُ الطَّرِيقَ` ('yolu kesip yürüdüm'), `جَاوَزْتُ الشَّيْءَ إِلَى غَيْرِهِ` ('bir şeyi aşıp ötesine geçtim') ve `تَجَاوَزَ عَنِ الشَّيْءِ` ('görmezden gelip bağışladı') kullanımlarını sıralayarak bağışlama anlamının doğrudan fiziksel 'üstünden geçip bırakma' imgesinden türediğini açıklar.",
+        "ragib_al_isfahani": "Râgıb `جَاوَزَ` fiilinin fiziki engelleri (nehir, deniz, durak) aşmayı, `46:16`'daki `نَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ` ifadesinin ise kusurun cezasını uygulamayıp üzerinden geçerek affetmeyi ifade ettiğini belirtir.",
+        "verdict": "Tüm 5 geçiş **'bir mesafeyi, engeli veya kusuru geride bırakıp öteye geçmek (`جَاوَزَ / تَجَاوَزَ عَنْ`)'** tek fiziksel geçiş çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*g-w-z ('kesip geçmek, aşmak')",
+        "hebrew": "İbranice gūz (גּוּז — 'geçip gitmek, hızla aşmak', Mezmurlar 90:10) ile doğrudan eşkökenlidir.",
+        "aramaic_syriac": "Aramice/Süryanice gūz ('geçmek, aşmak') aynı somut hareketi korur.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Batı Sâmî 'kesip geçmek' hareketi Kur'an'da su ve mekan aşımı (`2:249`, `7:138`, `10:90`, `18:62`) ile ahlaki-ilahi kusur bağışlamasını (`46:16`) tek eylem çizgisinde birleştirir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ع-ق-ب (Kötülüğün peşini bırakmayıp karşılığını uygulamak ↔ ج-و-ز kötülüğün üstünden geçip bağışlamak — `46:16`)",
+          "ث-ب-ت (Bulunduğu yerde sabit kalıp sınırı aşmamak ↔ ج-و-ز nehri, denizi veya konağı aşıp öteye geçmek — `2:249`, `18:62`)"
+        ],
+        "bidirectional_test": "`46:16`'da iyiliklerin en güzelini kabul edip kötülüklerin üstünden geçmek (`نَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ`), kötülüğü izleyen cezalandırmanın (`ع-ق-ب`); `2:249` ve `18:62`'de sınırı aşmak (`جَاوَزَ`) ise sabit kalmanın (`ث-ب-ت`) doğrudan karşıtıdır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ف-ص-ل",
+          "ق-ب-ل",
+          "ت-ب-ع"
+        ],
+        "analysis": "`2:249`'da `فَصَلَ` ordunun şehirden ayrılışını, `جَاوَزَهُۥ` ise sınama nehrini aşıp karşı yakaya geçişini ayırır. `10:90`'da `جَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ` kurtarılanların denizi aşışını, `فَأَتْبَعَهُمْ` (`ت-ب-ع`) Firavun'un peşlerine düşüşünü karşılaştırır. `46:16`'da `نَتَقَبَّلُ` (`ق-ب-ل`) iyilikleri almayı, `نَتَجَاوَزُ عَنْ` ise kötülüklerin üzerinden geçmeyi dengeler."
+      },
+      "anchor_ayahs": [
+        "2:249 (فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ — Tâlût ve onunla birlikte güvenenler nehri geçtiklerinde)",
+        "10:90 (وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ — İsrailoğullarını denizden öteye geçirdik)",
+        "18:62 (فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا — ikisi buluşma noktasını geçip gidince gencine 'azığımızı getir' dedi)",
+        "46:16 (نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ — yaptıklarının en güzelini kabul eder, kötülüklerinin üzerinden geçeriz)"
+      ],
+      "unified_core_mechanism": "`ج-و-ز` kökü 5 geçişinin tamamında **'bir engeli, suyu veya kusuru aşıp geride bırakmak'** somut hareketini III. babda mekânsal geçiş, VI. babda (`عَنْ` ile) kusur bağışlaması olarak yürütür.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Mekân/Su Aşımı (`جَاوَزَ` III. Bab — `2:249`, `7:138`, `10:90`, `18:62`): Doğrudan veya `بِـ` ta'diye ile kullanılır.",
+          "Dal 2 — Kusuru Bağışlayıp Geçmek (`تَجَاوَزَ عَنْ` VI. Bab — `46:16`): `عَنْ` harf-i cerriyle daima bağışlama/görmezden gelme anlamı kazanır."
+        ],
+        "irab_notes": "`7:138` ve `10:90`'da `جَٰوَزْنَا` fiili `بِـ` ile geçişli kılınarak iki nesne alır: geçirilen topluluk (`بِبَنِىٓ إِسْرَٰٓءِيلَ`) ve aşılan engel (`ٱلْبَحْرَ`)."
+      },
+      "derivatives": [
+        {
+          "form": "جَاوَزَ / جَاوَزَا / جَٰوَزْنَا",
+          "pos": "Fiil (III. Bab)",
+          "meaning": "Nehri, denizi veya konak noktasını aşıp geçmek / geçirmek",
+          "examples": [
+            "2:249",
+            "7:138",
+            "10:90",
+            "18:62"
+          ]
+        },
+        {
+          "form": "نَتَجَاوَزُ",
+          "pos": "Fiil (VI. Bab)",
+          "meaning": "`عَنْ` ile kusur ve kötülüklerin üzerinden geçip bağışlamak",
+          "examples": [
+            "46:16"
           ]
         }
       ]

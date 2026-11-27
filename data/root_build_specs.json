@@ -64531,5 +64531,58 @@
       }
     ],
     "context_default": "Ağır darlık anında imdat istemek ve imdada karşılık vermek bağlamı"
+  },
+  "ج-و-ز": {
+    "buckwalter": "jwz",
+    "slug": "jwz",
+    "concept_name": "Mücâveze ve Tecâvüz (Bir Engeli, Suyu veya Sınırı Aşıp Geçmek; Kusurların Üstünden Geçip Bağışlamak)",
+    "root_latin": "C-W-Z",
+    "keywords": [
+      "mucaveze",
+      "tecavuz",
+      "asip gecmek",
+      "nehri gecmek",
+      "denizi gecmek",
+      "kusurlari gecmek",
+      "bagislamak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "jaAwaza",
+        "ayahs": [
+          "2:249",
+          "7:138",
+          "10:90",
+          "18:62"
+        ],
+        "label": "III. bab fiil (`جَاوَزَهُۥ / وَجَٰوَزْنَا / جَاوَزَا` — bir nehri, denizi veya konak noktasını kesip öteye geçmek/geçirmek: `2:249` Tâlût ve arkadaşlarının sınama nehrini aşması; `7:138`, `10:90` Allah'ın İsrailoğullarını denizden öteye geçirmesi; `18:62` Musa ile gencin buluşma noktasını geçip gitmeleri; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "natajaAwazu",
+        "ayahs": [
+          "46:16"
+        ],
+        "label": "VI. bab muzâri fiil (`وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ` — kusur ve kötülüklerin üzerinde durmayıp yanından geçmek, onları bağışlayıp silmek; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Bir mesafeyi, engeli veya sınırı aşıp geçmeyi (`جَاوَزَ`) yahut kusurların üstünden geçip bağışlamayı (`تَجَاوَزَ عَنْ`) bildiren `ج-و-ز` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:249",
+          "7:138",
+          "10:90",
+          "18:62"
+        ],
+        "text": "Su Engelini veya Konak Noktasını Aşıp Geçmek (`2:249`, `7:138`, `10:90`, `18:62`): Tâlût'un ve güvenen azınlığın sınama nehrini geçmesi (`فَلَمَّا جَاوَزَهُۥ`, `2:249`), İsrailoğullarının denizden karşı kıyıya geçirilmesi (`وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ`, `7:138`, `10:90`) ve Musa ile arkadaşının balıkların kaybolduğu kayayı farkında olmadan aşması (`فَلَمَّا جَاوَزَا`, `18:62`)."
+      },
+      {
+        "ayahs": [
+          "46:16"
+        ],
+        "text": "Kötülüklerin Üstünden Geçip Bağışlamak (`46:16`): Anne-babasına iyilik eden ve kırk yaş olgunluğunda şükür ve yöneliş duasında bulunan kimselerin en güzel işlerinin kabul edilip kötülüklerinin üzerinden geçilmesi (`وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ`)."
+      }
+    ],
+    "context_default": "Bir engeli, suyu veya sınırı aşıp geçmek yahut kusurları geçip bağışlamak bağlamı"
   }
 }
