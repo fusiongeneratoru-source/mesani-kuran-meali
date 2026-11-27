@@ -63409,5 +63409,64 @@
       }
     ],
     "context_default": "Dikili bir hedefe doğru süratle atılıp koşma bağlamı"
+  },
+  "ع-ن-ق": {
+    "buckwalter": "Enq",
+    "slug": "enq",
+    "concept_name": "Unuk ve A'nâk (Baş ile Gövdeyi Birleştiren Boyun; Sorumluluk, Boyun Eğme ve Bukağı Odağı)",
+    "root_latin": "A-N-Q",
+    "keywords": [
+      "unuk",
+      "anak",
+      "boyun",
+      "boyunlar",
+      "sorumluluk bagi",
+      "bukagi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Eunuq",
+        "ayahs": [
+          "8:12",
+          "13:5",
+          "17:13",
+          "17:29",
+          "26:4",
+          "34:33",
+          "36:8",
+          "38:33",
+          "40:71"
+        ],
+        "label": "Tekil ve kırık çoğul isim (`عُنُقِهِ / عُنُقِكَ` 2x; `ٱلْأَعْنَاقِ / أَعْنَٰقِهِمْ / أَعْنَٰقُهُمْ` 7x — baş ile gövde arasındaki boyun: `8:12` savaş alanında boyunların üstüne vurulması, `13:5`, `34:33`, `36:8`, `40:71` boyunlarda bukağı/zincir bulunması, `17:13` her insanın kendi eylem kuşağının/yazgısının boynuna dolanması, `17:29` cimrilikle elin boyna bağlı tutulmaması, `26:4` gökten bir kanıt indirilse boyunların ona eğilip kalması, `38:33` Süleyman'ın safkan atların bacaklarını ve boyunlarını sıvazlaması; 9 geçiş)"
+      }
+    ],
+    "irab_default": "Baş ile gövdeyi birleştiren boynu ve sorumluluk/boyun eğme odağını bildiren `ع-ن-ق` ismi (`عُنُق / أَعْنَاق`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:5",
+          "34:33",
+          "36:8",
+          "40:71"
+        ],
+        "text": "Hakikate Direnenlerin Boyunlarındaki Bukağı ve Zincirler (`13:5`, `34:33`, `36:8`, `40:71`): Gerçeği örtüp direnenlerin boyunlarında (`فِىٓ أَعْنَٰقِهِمْ`) bukağılar (`ٱلْأَغْلَٰلُ`) bulunması (`13:5`, `34:33`, `40:71`) ve çenelerine kadar dayanan boyun halkalarıyla başlarının yukarı dikili kalması (`36:8`)."
+      },
+      {
+        "ayahs": [
+          "17:13",
+          "17:29"
+        ],
+        "text": "Kişisel Sorumluluk ve Harcama Dengesi Metaforu (`17:13`, `17:29`): Her insanın kendi eylem sonucunun bizzat kendi boynuna (`فِى عُنُقِهِۦ`) dolanmış/ayrılmaz kılınmış olması (`17:13`) ve cimrilikle elini boynuna (`إِلَىٰ عُنُقِكَ`) bağlı tutmayıp harcamada denge kurma buyruğu (`17:29`)."
+      },
+      {
+        "ayahs": [
+          "8:12",
+          "26:4",
+          "38:33"
+        ],
+        "text": "Savaşta Üstünlük, Zorunlu Boyun Eğme ve Atların Boyunları (`8:12`, `26:4`, `38:33`): Savaşta direnenlerin boyunlarının üstüne (`فَوْقَ ٱلْأَعْنَاقِ`) vurulması (`8:12`), dilese gökten indirilecek bir kanıtla boyunların (`أَعْنَٰقُهُمْ`) zorunlu olarak eğilip kalacağı (`26:4`) ve Süleyman'ın seçkin atların bacaklarıyla boyunlarını (`وَٱلْأَعْنَاقِ`) sıvazlaması (`38:33`)."
+      }
+    ],
+    "context_default": "Baş ile gövdeyi birleştiren boyun, sorumluluk bağı ve bukağı/boyun eğme bağlamı"
   }
 }
