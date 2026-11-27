@@ -68502,5 +68502,69 @@
       }
     ],
     "context_default": "Yumuşak uyum, yoldaşlık, kolaylık veya yaslanılacak yer bağlamı"
+  },
+  "ط-و-ي": {
+    "buckwalter": "Twy",
+    "slug": "Twy",
+    "concept_name": "Tayy, Natvî, Matviyyât ve Tuvâ (Göğü Yazılı Tomar Gibi Dürüp Katlamak ve Tuvâ Vadisi)",
+    "root_latin": "T-W-Y",
+    "keywords": [
+      "tayy",
+      "natvi",
+      "matviyyat",
+      "tuva",
+      "durmek",
+      "katlamak",
+      "tomar"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "naTowiY",
+        "ayahs": [
+          "21:104"
+        ],
+        "label": "I. Bab 1. çoğul muzâri fiil (`يَوْمَ نَطْوِى ٱلسَّمَآءَ` — göğü yazılı tomar gibi katlayıp dürmek; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "TaY~",
+        "ayahs": [
+          "21:104"
+        ],
+        "label": "I. Bab mastar, `كَ` benzetme edatıyla mecrûr (`كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ` — yazılı belgelerin tomarının dürülmesi gibi; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "maTowiy~a`t",
+        "ayahs": [
+          "39:67"
+        ],
+        "label": "I. Bab çoğul müennes ism-i mef'ûl, haber ve merfû (`وَٱلسَّمَٰوَٰتُ مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ` — göklerin O'nun sağ elinde/gücünde dürülmüş olması; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "TuwFY",
+        "ayahs": [
+          "20:12",
+          "79:16"
+        ],
+        "label": "Vadi adı (bedel / atf-ı beyân, tenvinli okunuşta maksûr isim: `بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى` — arındırılmış Tuvâ vadisi; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Katlayıp dürmeyi (`نَطْوِى`, `طَىّ`, `مَطْوِيَّات`) veya Tuvâ vadisini (`طُوًى`) bildiren `ط-و-ي` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "21:104",
+          "39:67"
+        ],
+        "text": "Göklerin Yazılı Tomar Gibi Dürülmesi (`21:104, 39:67`): Mevcut gök düzeninin yazılı kayıt tomarının dürülmesi gibi katlanıp toplanması (`نَطْوِى ... كَطَىِّ`, `21:104`) ve bütün göklerin Allah'ın gücünde dürülmüş olması (`مَطْوِيَّٰتٌۢ`, `39:67`)."
+      },
+      {
+        "ayahs": [
+          "20:12",
+          "79:16"
+        ],
+        "text": "Arındırılmış Tuvâ Vadisindeki Çağrı (`20:12, 79:16`): Rabb'inin Mûsâ'ya ilk görevlendirme sırasında seslendiği arındırılmış Tuvâ vadisi (`بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى`)."
+      }
+    ],
+    "context_default": "Tomar gibi dürme veya Tuvâ vadisi bağlamı"
   }
 }

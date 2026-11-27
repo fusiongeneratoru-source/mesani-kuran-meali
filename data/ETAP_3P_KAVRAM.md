@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 29 / 50 Kök (Toplam Mühürlü: 1029 Kök | Güncel Kapsam: %97,57)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 1030 Kök | Güncel Kapsam: %97,58)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -36,7 +36,7 @@
 | 27 | 5 Geçişli Mesânî | 788 | `م-ي-د` | `M-Y-D` | **5** | 5 | 5:112 | Temîde ve Mâide (Yerin Sağa Sola Çalkalanıp Sallanması ve Üzerinde Rızık Sunulan Donatılmış Sofra) | ✅ **MÜHÜRLÜ** |
 | 28 | 5 Geçişli Mesânî | 806 | `ق-ص-و` | `K-S-W` | **5** | 5 | 8:42 | Aksâ, Kusvâ ve Kasiyy (En Uzak Uç Nokta, Vadinin Öte Yamacı ve Uzak Mekân) | ✅ **MÜHÜRLÜ** |
 | 29 | 5 Geçişli Mesânî | 783 | `ر-ف-ق` | `R-F-K` | **5** | 5 | 4:69 | Refîk, Mirfak, Merâfik ve Mürtefak (Yumuşak Yoldaşlık, Dirsekler, İş Kolaylığı ve Yaslanılıp Dinlenilen Yer) | ✅ **MÜHÜRLÜ** |
-| 30 | 5 Geçişli Mesânî | 826 | `ط-و-ي` | `T-W-Y` | **5** | 4 | 20:12 | Tayy, Natvî, Matviyyât ve Tuvâ (5/4 + Açık Mesânî [ك-ت-ب]: göğü yazılı tomar gibi dürüp katlamak ve Tuvâ vadisi) | ⏳ *Bekliyor* |
+| 30 | 5 Geçişli Mesânî | 826 | `ط-و-ي` | `T-W-Y` | **5** | 4 | 20:12 | Tayy, Natvî, Matviyyât ve Tuvâ (Göğü Yazılı Tomar Gibi Dürüp Katlamak ve Tuvâ Vadisi) | ✅ **MÜHÜRLÜ** |
 | 31 | 5 Geçişli Mesânî | 759 | `خ-ط-و` | `H-T-W` | **5** | 4 | 2:168 | Hutuvât (5/4 + Açık Mesânî [س-ل-م]: iki ayak arası adım ve şeytanın adım izlerine uymamak) | ⏳ *Bekliyor* |
 | 32 | 5 Geçişli Mesânî | 757 | `ش-ط-ر` | `S-T-R` | **5** | 3 | 2:144 | Şatr (5/3 + Açık Mesânî [ح-ي-ث]: belirli bir yön, taraf ve Mescid-i Harâm istikameti) | ⏳ *Bekliyor* |
 | 33 | 5 Geçişli Çekirdek | 817 | `ش-ه-ب` | `S-H-B` | **5** | 5 | 15:18 | Şihâb ve Şühüb (5/5: kor halinde parlayan alevli ateş parçası ve delici parlak ışık) | ⏳ *Bekliyor* |
