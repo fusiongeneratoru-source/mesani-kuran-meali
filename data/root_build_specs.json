@@ -63523,5 +63523,70 @@
       }
     ],
     "context_default": "Bir yıllık zaman devri, bereket yılı ve takvim dönemi bağlamı"
+  },
+  "ع-ز-م": {
+    "buckwalter": "Ezm",
+    "slug": "ezm",
+    "concept_name": "Azm (Gönlü Kesin Karara Bağlayıp İradeyi Tereddütsüz Düğümlemek)",
+    "root_latin": "A-Z-M",
+    "keywords": [
+      "azm",
+      "azim",
+      "kesin karar",
+      "irade baglamak",
+      "ulul azm",
+      "kararlilik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Eazama",
+        "ayahs": [
+          "2:227",
+          "2:235",
+          "3:159",
+          "47:21"
+        ],
+        "label": "I. bab fiil (`عَزَمُوا۟ / تَعْزِمُوا۟ / عَزَمْتَ / عَزَمَ` — kesin karar vermek, işi tereddütsüz karara bağlamak: `2:227` ayrılmaya kesin karar verirlerse, `2:235` iddet dolmadan nikâh düğümüne kesin karar vermeyin, `3:159` istişare sonrası kesin karar verdiğinde Allah'a dayan, `47:21` iş kesinleşip ciddiye bindiğinde; 4 geçiş)"
+      },
+      {
+        "lemma": "Eazom",
+        "ayahs": [
+          "3:186",
+          "20:115",
+          "31:17",
+          "42:43",
+          "46:35"
+        ],
+        "label": "I. bab mastar/isim (`عَزْمِ / عَزْمًا / ٱلْعَزْمِ` — sarsılmaz kararlılık, irade sağlamlığı: `3:186`, `31:17`, `42:43` direnç, sakınma ve bağışlamanın kararlılık gerektiren temel işlerden (`مِنْ عَزْمِ ٱلْأُمُورِ`) olması, `20:115` Âdem'de önceden verilen söz karşısında sarsılmaz bir kararlılık (`عَزْمًا`) bulunmaması, `46:35` elçilerden sarsılmaz irade sahipleri (`أُو۟لُوا۟ ٱلْعَزْمِ`); 5 geçiş)"
+      }
+    ],
+    "irab_default": "Gönlü kesin bir karara bağlayıp iradeyi tereddütsüz düğümlemeyi bildiren `ع-ز-م` türevi (`عَزَمَ / عَزْم`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:227",
+          "2:235",
+          "3:159",
+          "47:21"
+        ],
+        "text": "Hukuki, Toplumsal ve Savaş Kararlarında Kesinleşme (`2:227`, `2:235`, `3:159`, `47:21`): Boşanma kararının kesinleşmesi (`عَزَمُوا۟ ٱلطَّلَٰقَ`, `2:227`), bekleme süresi dolmadan nikâh akdine kesin karar verilmemesi (`لَا تَعْزِمُوا۟ عُقْدَةَ ٱلنِّكَاحِ`, `2:235`), istişareden sonra kesin karar verildiğinde (`عَزَمْتَ`) Allah'a güvenilmesi (`3:159`) ve savaş/sorumluluk işi kesinleştiğinde (`عَزَمَ ٱلْأَمْرُ`) dürüstlüğün ortaya çıkması (`47:21`)."
+      },
+      {
+        "ayahs": [
+          "3:186",
+          "31:17",
+          "42:43",
+          "46:35"
+        ],
+        "text": "Direnç, Bağışlama ve Elçilikte Sarsılmaz İrade (`3:186`, `31:17`, `42:43`, `46:35`): Sıkıntılara direnç gösterip sakınmanın (`3:186`), bağlılığı ayakta tutup iyiliği önererek zorluklara dayanmanın (`31:17`) ve dirençle bağışlamanın (`42:43`) 'kararlılık gerektiren temel işlerden' (`مِنْ عَزْمِ ٱلْأُمُورِ`) sayılması; elçilerin sarsılmaz kararlılık sahipleri (`أُو۟لُوا۟ ٱلْعَزْمِ`, `46:35`) gibi direnç göstermesi."
+      },
+      {
+        "ayahs": [
+          "20:115"
+        ],
+        "text": "Sözü Unutma Karşısında İrade Zafiyeti (`20:115`): Âdem'e önceden kesin söz verildiği hâlde onun unuttuğu ve bu sınavda kendisinde sarsılmaz bir kararlılık (`عَزْمًا`) bulunmadığının bildirilmesi."
+      }
+    ],
+    "context_default": "Kesin karar verme ve sarsılmaz irade sağlamlığı bağlamı"
   }
 }
