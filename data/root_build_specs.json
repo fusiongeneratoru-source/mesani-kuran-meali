@@ -66517,5 +66517,69 @@
       }
     ],
     "context_default": "Ani ve çevik kapıp götürme, yağmalanma korkusu veya göz kamaştıran hızlı kapma bağlamı"
+  },
+  "م-و-ج": {
+    "buckwalter": "mwj",
+    "slug": "mwj",
+    "concept_name": "Mevc ve Yemûc (Kabarıp Üst Üste Yığılan Deniz Dalgaları ve Kalabalıkların Dalga Dalga Birbirine Karışması)",
+    "root_latin": "M-W-C",
+    "keywords": [
+      "mevc",
+      "yemuc",
+      "dalga",
+      "deniz dalgasi",
+      "calkalanmak",
+      "birbirine karismak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "mawoj",
+        "ayahs": [
+          "10:22",
+          "11:42",
+          "11:43",
+          "24:40",
+          "31:32"
+        ],
+        "label": "Cins isim (`ٱلْمَوْجُ / مَوْجٍ / مَوْجٌ` — suyun yüzeyinde kabarıp yükselerek üst üste çalkalanan dalgalar: `10:22` fırtınada gemiyi her yandan kuşatan dalga; `11:42, 11:43` Nûh'un gemisini taşıyan dağlar gibi dalgalar ve baba ile oğlun arasına giren dalga; `24:40` engin denizde dalga üstüne dalga karanlıkları; `31:32` gölgelikler/dağlar gibi kaplayan dalga; 6 geçiş / 5 ayet)"
+      },
+      {
+        "lemma": "yamuwju",
+        "ayahs": [
+          "18:99"
+        ],
+        "label": "I. Bab (Sülâsî) muzâri fiil (`يَمُوجُ فِى بَعْضٍ` — büyük kalabalıkların deniz dalgaları gibi birbirine çarpıp iç içe çalkalanarak karışması; `18:99` set yıkıldıktan sonra o gün insanların bir kısmının diğerinin içinde dalga dalga çalkalanmaya bırakılması; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Su kütlesinin kabarıp çalkalanan dalgasını (`مَوْج`) veya kalabalıkların dalga gibi birbirine karışmasını (`يَمُوجُ`) bildiren `م-و-ج` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "11:42",
+          "11:43"
+        ],
+        "text": "Tufanda Dağlar Gibi Dalgalar ve Ayrılık (`11:42, 11:43`): Nûh'un gemisinin dağlar gibi kabaran dalgalar arasında akıp gitmesi (`فِى مَوْجٍ كَٱلْجِبَالِ`, `11:42`); korunmak için dağa sığınacağını söyleyen oğul ile Nûh'un arasına dalganın girip (`وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ`, `11:43`) onu boğulanlardan kılması."
+      },
+      {
+        "ayahs": [
+          "10:22",
+          "31:32"
+        ],
+        "text": "Denizde Dalgalar Kuşatınca İçten Yakarış (`10:22, 31:32`): Fırtınalı rüzgârla her yönden dalgalar bastırdığında (`وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍ`, `10:22`) veya gölgelikler gibi dev dalgalar kendilerini kapladığında (`مَّوْجٌ كَٱلظُّلَلِ`, `31:32`) insanların bağlılıklarını yalnız Allah'a arındırarak yalvarmaları, karaya çıkınca ise nankörlüğe dönmeleri."
+      },
+      {
+        "ayahs": [
+          "24:40"
+        ],
+        "text": "Engin Denizde Dalga Üstüne Dalga Karanlıkları (`24:40`): Gerçeği örtenlerin işlerinin, derin bir denizde bir dalganın üstünü başka bir dalganın, onun üstünü de bulutun örttüğü katmanlı karanlıklara (`يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ`) benzetilmesi."
+      },
+      {
+        "ayahs": [
+          "18:99"
+        ],
+        "text": "İnsan Kalabalıklarının Dalga Dalga Birbirine Karışması (`18:99`): Büyük çözülüş gününde insanların bir kısmının diğerinin içine girerek deniz dalgaları gibi çalkalanıp karışmaya bırakılması (`وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ`) ve ardından Sûr'a üflenerek hepsinin toplanması."
+      }
+    ],
+    "context_default": "Kabarıp kuşatan deniz dalgaları veya kalabalıkların dalga dalga birbirine karışması bağlamı"
   }
 }
