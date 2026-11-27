@@ -3,13 +3,13 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 2 / 50 Kök (Toplam Mühürlü: 1002 Kök | Güncel Kapsam: %97,25)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 3 / 50 Kök (Toplam Mühürlü: 1003 Kök | Güncel Kapsam: %97,27)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | 1 | 6 Geçişli Çekirdek | 732 | `غ-ر-م` | `G-R-M` | **6** | 6 | 9:60 | Ğarâm, Mağrem, Ğârimîn ve Muğramûn (Yakayı Bırakmayan Borç/Zarar Yükü ve Ayrılmaz Yapışkan Azap) | ✅ **MÜHÜRLÜ** |
 | 2 | 6 Geçişli Çekirdek | 704 | `خ-ل-ط` | `H-L-T` | **6** | 6 | 2:220 | Halt, İhtilât, Muhâlata ve Huletâ (Ayrı Öğeleri Birbirine Karıştırıp Kaynaştırmak ve Ortak Yaşam/Mal Paylaşımı) | ✅ **MÜHÜRLÜ** |
-| 3 | 6 Geçişli Çekirdek | 723 | `ذ-ر-أ` | `Z-R-E` | **6** | 6 | 6:136 | Zerae (6/6: yeryüzünde ve yaratılışta çok sayıda canlıyı üretip yaymak) | ⏳ *Bekliyor* |
+| 3 | 6 Geçişli Çekirdek | 723 | `ذ-ر-أ` | `Z-R-E` | **6** | 6 | 6:136 | Zer' (Tohum Serper Gibi Yeryüzünde ve Varlık Alanında Çok Sayıda Canlıyı Üretip Yaymak) | ✅ **MÜHÜRLÜ** |
 | 4 | 6 Geçişli Çekirdek | 692 | `ض-و-أ` | `D-W-E` | **6** | 6 | 2:17 | Edâe ve Dıyâ (6/6: özünden güçlü ışık saçan parlak aydınlık, güneşin ışıması ve ateşin parlaması) | ⏳ *Bekliyor* |
 | 5 | 6 Geçişli Çekirdek | 733 | `ض-ي-ف` | `D-Y-F` | **6** | 6 | 11:78 | Dayf ve Yudayyifû (6/6: konuk/misafir ve ağırlayıp konukseverlik göstermek) | ⏳ *Bekliyor* |
 | 6 | 6 Geçişli Çekirdek | 724 | `ح-ص-د` | `H-S-D` | **6** | 6 | 6:141 | Hasad, Hasâd ve Hasîd (6/6: olgunlaşan ekini biçmek ve biçilip kökü kazınmış yurtlar) | ⏳ *Bekliyor* |

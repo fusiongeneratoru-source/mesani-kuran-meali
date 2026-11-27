@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 1002,
+    "total_locked": 1003,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1652,7 +1652,8 @@
         "ع-ز-و (Izîn: sağdan ve soldan bölük bölük ayrışmış öbekler ↔ ج-م-ع tek bir bütünlükte bir araya gelmek — `70:37`)",
         "ب-ض-ع (Bıd' / Bidâ'a: bütünden kesilip ayrılmış küçük kısım, sermaye payı veya sayılı birkaç yıl ↔ ج-م-ع parçaları bir araya getirip tam bütüne kavuşturmak — `12:65`, `30:4`)",
         "ك-س-ف (Kisf / Kisef: gökten veya buluttan kopup ayrılmış parça ve dilimler ↔ ج-م-ع parçaları birleştirip bütün kılmak — `30:48`, `52:44`)",
-        "ن-ص-ف (Nısf: payı ikiye bölüp ayırmak ↔ ج-م-ع parçaları tek bütünde toplamak — `4:11, 73:20`)"
+        "ن-ص-ف (Nısf: payı ikiye bölüp ayırmak ↔ ج-م-ع parçaları tek bütünde toplamak — `4:11, 73:20`)",
+        "ذ-ر-أ (Zer': canlıları çeşitlilik içinde çevreye serpip yaymak ↔ ج-م-ع dağınık olanları bir araya toplamak — `16:13, 23:79`)"
       ]
     },
     "ن-ظ-ر": {
@@ -4444,7 +4445,8 @@
         "ب-ع-ث [وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ] (Yerinde Hareketsiz Kalmak ↔ Yerinden Kaldırıp Sevk Ederek Toplamak [ب-ع-ث & ح-ش-ر]: 26:36, 50:44)",
         "ح-ض-ر [لَنَحْشُرَنَّهُمْ ... ثُمَّ لَنُحْضِرَنَّهُمْ] (Uzaklık ve Gizlenme ↔ Topluca Sevk Edip Huzurda Hazır Bulundurmak [ح-ش-ر & ح-ض-ر]: 19:68)",
         "س-و-ق [يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَٰنِ وَفْدًا وَنَسُوقُ ٱلْمُجْرِمِينَ] (Onurlu Heyet Olarak Toplanmak ↔ Suçluların Susuz Sürü Gibi Sürülmesi [ح-ش-ر & س-و-ق]: 19:85-86)",
-        "ب-ث-ث (B-V-V (bvv) — Çift Yönlü Mesânî Karşılığı: `101:4` [كَٱلْفَرَاشِ ٱلْمَبْثُوثِ] — dört bir yana dağılıp saçılmış olma hâli `مَبْثُوث` ↔ dağınık kalabalıkları zorunlu bir merkezde derleyip toplamak `حَشَرَ`)"
+        "ب-ث-ث (B-V-V (bvv) — Çift Yönlü Mesânî Karşılığı: `101:4` [كَٱلْفَرَاشِ ٱلْمَبْثُوثِ] — dört bir yana dağılıp saçılmış olma hâli `مَبْثُوث` ↔ dağınık kalabalıkları zorunlu bir merkezde derleyip toplamak `حَشَرَ`)",
+        "ذ-ر-أ (Zer': insanları yeryüzüne tohum gibi yayıp çoğaltmak `ذَرَأَكُمْ فِى ٱلْأَرْضِ` ↔ ح-ش-ر yeryüzüne yayılmış herkesi tek merkezde toplayıp haşretmek `وَإِلَيْهِ تُحْشَرُونَ` — `23:79, 67:24`)"
       ]
     },
     "ح-و-ر": {
@@ -12341,6 +12343,15 @@
       "opposites": [
         "ح-ص-ل (Saf özü cüruftan ayıklayıp netleştirmek `حُصِّلَ` ↔ خ-ل-ط ayrı unsurları birbirine karıştırmak `خَلَطَ` — `9:102, 100:10`)",
         "خ-ل-ص (Her türlü karışıktan arındırıp saf kılmak ↔ خ-ل-ط birbirine katıp karıştırmak — `9:102`)"
+      ]
+    },
+    "ذ-ر-أ": {
+      "latin": "Z-R-E",
+      "core": "`ذ-ر-أ` kökü 6 ayetin tamamında yalnızca Allah'a nispet edilen I. bab fiil olarak **'tohum serper gibi ekinleri, hayvanları ve insan kuşaklarını çokluk ve çeşitlilik içinde üretip yeryüzüne yaymak'** anlamını taşır.",
+      "physical": "İbn Fâris'in ikinci asıl olarak kaydettiği somut tarımsal çekirdek: 'tohumun toprağa serpilip ekilerek filizlenip yayılması (`كَالشَّيْءِ يُبْذَرُ وَيُزْرَعُ`)' — Kur'an'da tüm 6 geçişte Allah'ın canlıları, ekinleri ve insan kuşaklarını yeryüzüne çoğaltarak serpip yaymasını ifade eder.",
+      "opposites": [
+        "ح-ش-ر (Yeryüzüne yayılmış tüm canlıları tek merkezde toplayıp haşretmek `وَإِلَيْهِ تُحْشَرُونَ` ↔ ذ-ر-أ insanları yeryüzüne üretip yaymak `ذَرَأَكُمْ فِى ٱلْأَرْضِ` — `23:79, 67:24`)",
+        "ج-م-ع (Dağınık olanı tek noktada toplamak ↔ ذ-ر-أ çokluk ve çeşitlilik içinde çevreye yaymak — `16:13, 23:79`)"
       ]
     }
   }
