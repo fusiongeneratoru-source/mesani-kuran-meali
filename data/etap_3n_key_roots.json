@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3N (+5 Sure %100 Tam Kilidi [Sure 32, 44, 78, 76, 70 -> 55 Tam Kilitli Sure] ve Kalan Tüm 9 Geçişli Çekirdek Kökler + 2 Stratejik Kök — 50 Kök -> 950 Kök)",
   "target_count": 50,
-  "locked_count": 30,
+  "locked_count": 31,
   "total_tokens_in_package": 231,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 96.54,
+  "current_coverage_pct": 96.56,
   "target_coverage_pct": 96.78,
   "etap_3n_roots": [
     {
@@ -551,8 +551,8 @@
       "frequency": 9,
       "unique_ayahs": 9,
       "rationale": "Devâm ve Dâim (Sure 70 Meâric kilidi + 9 geçiş: 3:75, 5:24, 5:96, 5:117, 11:107, 11:108, 13:35, 19:31, 70:23 kesintiye uğramadan sürmek, sebatlı devamlılık)",
-      "concept_label": "Analiz Bekliyor (daAmu, daA^}im)",
-      "is_locked": false,
+      "concept_label": "Devâm ve Dâim (Kesintiye Uğramadan Sabit Kalıp Sürmek ve Süreklilik)",
+      "is_locked": true,
       "sample_ayah": "3:75",
       "top_lemmas": [
         "daAmu",

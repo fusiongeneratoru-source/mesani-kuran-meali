@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 30 / 50 Kök (Toplam Mühürlü: 930 Kök | Güncel Kapsam: %96,54)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 31 / 50 Kök (Toplam Mühürlü: 931 Kök | Güncel Kapsam: %96,56)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -37,7 +37,7 @@
 | 28 | Sure %100 Kilidi | 1579 | `م-ش-ج` | `M-S-C` | **1** | 1 | 76:2 | Emşâc (Farklı Unsurların Birbirine Karışıp Bütünleştiği Bileşik Damla Özü) | ✅ **MÜHÜRLÜ** |
 | 29 | Sure %100 Kilidi | 1580 | `ق-م-ط-ر` | `K-M-T-R` | **1** | 1 | 76:10 | Kamtârîr (Şiddetinden Yüzleri Buruşturup Büzüştüren, Pek Çetin ve Kuşatıcı Gün) | ✅ **MÜHÜRLÜ** |
 | 30 | Sure %100 Kilidi | 1581 | `ز-م-ه-ر` | `Z-M-H-R` | **1** | 1 | 76:13 | Zemherîr (Yakıcı Derecede Keskin ve Dondurucu Şiddetli Ayaz) | ✅ **MÜHÜRLÜ** |
-| 31 | Sure %100 Kilidi | 614 | `د-و-م` | `D-W-M` | **9** | 9 | 3:75 | Devâm ve Dâim (Sure 70 Meâric kilidi + 9 geçiş: 3:75, 5:24, 5:96, 5:117, 11:107, 11:108, 13:35, 19:31, 70:23 kesintiye uğramadan sürmek, sebatlı devamlılık) | ⏳ *Bekliyor* |
+| 31 | Sure %100 Kilidi | 614 | `د-و-م` | `D-W-M` | **9** | 9 | 3:75 | Devâm ve Dâim (Kesintiye Uğramadan Sabit Kalıp Sürmek ve Süreklilik) | ✅ **MÜHÜRLÜ** |
 | 32 | Sure %100 Kilidi | 990 | `ه-ط-ع` | `H-T-A` | **3** | 3 | 14:43 | Muhti'în (Sure 70 Meâric kilidi + 3 geçiş: 14:43, 54:8, 70:36 boyunlarını ileri uzatıp gözlerini dikerek hızla koşanlar) | ⏳ *Bekliyor* |
 | 33 | Sure %100 Kilidi | 1027 | `ج-د-ث` | `C-D-S` | **3** | 3 | 36:51 | Ecdâs (Sure 70 Meâric kilidi + 3 geçiş: 36:51, 54:7, 70:43 ölülerin gömülü bulunduğu mezarlar/kabirler) | ⏳ *Bekliyor* |
 | 34 | Sure %100 Kilidi | 1160 | `ش-و-ي` | `S-W-Y` | **2** | 2 | 18:29 | Şevâ ve Yeşvî (Sure 70 Meâric kilidi + 2 geçiş: 18:29, 70:16 yüzleri kavurup haşlayan sıcaklık ve baş derisi/uzuvlar) | ⏳ *Bekliyor* |

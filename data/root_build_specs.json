@@ -63076,5 +63076,70 @@
       }
     ],
     "context_default": "Dondurucu şiddetli ayazın bulunmadığı ılıman ödül iklimi bağlamı (`76:13`)"
+  },
+  "د-و-م": {
+    "buckwalter": "dwm",
+    "slug": "dwm",
+    "concept_name": "Devâm ve Dâim (Kesintiye Uğramadan Sabit Kalıp Sürmek ve Süreklilik)",
+    "root_latin": "D-W-M",
+    "keywords": [
+      "devam",
+      "daim",
+      "sureklilik",
+      "kalicilik",
+      "kesintisiz surmek",
+      "duraganlik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "daAmu",
+        "ayahs": [
+          "3:75",
+          "5:24",
+          "5:96",
+          "5:117",
+          "11:107",
+          "11:108",
+          "19:31"
+        ],
+        "label": "I. bab nakıs/zamanlayıcı fiil (`مَا دُمْتَ / مَا دَامُوا۟ / مَا دُمْتُمْ / مَا دُمْتُ / مَا دَامَتِ` — `مَا` masdariyye-zarfiyye ile 'sürece, kaldığı müddetçe': `3:75` başında dikilip durduğun sürece, `5:24` onlar orada kaldığı sürece, `5:96` yasaklı konumda bulunduğunuz sürece, `5:117` aralarında bulunduğum sürece, `11:107` ve `11:108` gökler ve yer sürdüğü sürece, `19:31` diri kaldığım sürece; 7 geçiş)"
+      },
+      {
+        "lemma": "daA^}im",
+        "ayahs": [
+          "13:35",
+          "70:23"
+        ],
+        "label": "I. bab ism-i fâil (`دَآئِمٌ / دَآئِمُونَ` — kesintisiz sürüp giden, kararlılıkla devam eden: `13:35` sakınanlara söz verilen bahçenin yemişi ve gölgesi kesintisiz süreklidir, `70:23` bağlılık görevlerinde kesintisiz devamlılık gösterenler; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Kesintiye uğramaksızın sabit kalıp sürmeyi ve sürekliliği bildiren `د-و-م` türevi (`دَامَ / دَآئِم`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "3:75",
+          "5:24",
+          "5:96",
+          "5:117",
+          "19:31"
+        ],
+        "text": "Belirli Bir Durum Sürdüğü Sürece Geçerli Olan Sınır ve Sorumluluk (`3:75`, `5:24`, `5:96`, `5:117`, `19:31`): Emanete hıyanet edenin başında dikilip durduğun sürece (`مَا دُمْتَ عَلَيْهِ قَآئِمًا`, `3:75`), zorba topluluk kentte kaldığı sürece (`مَا دَامُوا۟ فِيهَا`, `5:24`), dokunulmaz hâlde olduğunuz sürece kara avının yasak olması (`مَا دُمْتُمْ حُرُمًا`, `5:96`), İsa'nın kavmi arasında bulunduğu sürece tanıklık etmesi (`مَا دُمْتُ فِيهِمْ`, `5:117`) ve diri kaldığı sürece bağlılık ile arınma paylaşımının yüklenmesi (`مَا دُمْتُ حَيًّا`, `19:31`)."
+      },
+      {
+        "ayahs": [
+          "11:107",
+          "11:108",
+          "13:35"
+        ],
+        "text": "Kozmik Süreklilik ve Kesintisiz Nimet (`11:107`, `11:108`, `13:35`): Mutsuzların ve mutluların yurtlarında gökler ile yer sürdüğü sürece (`مَا دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ`, `11:107`–`108`) kalmaları ve sakınanlara söz verilen bahçenin yemişinin de gölgesinin de kesintisiz sürekli (`دَآئِمٌ`, `13:35`) olması."
+      },
+      {
+        "ayahs": [
+          "70:23"
+        ],
+        "text": "Bilinçli Bağlılıkta Süreklilik (`70:23`): Dayanıksız ve panik eğilimli insan tabiatından ayrılan kimselerin ilk vasfının, bağlılık görevlerinde istikrarla kesintisiz devamlı (`دَآئِمُونَ`) olmaları."
+      }
+    ],
+    "context_default": "Sabit kalarak kesintisiz sürme ve süreklilik bağlamı"
   }
 }
