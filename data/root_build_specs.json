@@ -64442,5 +64442,38 @@
       }
     ],
     "context_default": "Bulut aralıklarından çıkıp inen yağmur bağlamı"
+  },
+  "م-س-و": {
+    "buckwalter": "msw",
+    "slug": "msw",
+    "concept_name": "İmsâ (Akşam Vaktine Girmek ve Günün Kapanışında Allah'ı Yüceltmek)",
+    "root_latin": "M-S-W",
+    "keywords": [
+      "imsa",
+      "mesa",
+      "aksam",
+      "aksama girmek",
+      "tumsun",
+      "vakit dongusu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "tumosu",
+        "ayahs": [
+          "30:17"
+        ],
+        "label": "IV. bab muzâri fiil (`حِينَ تُمْسُونَ` — `أَمْسَى / يُمْسِي`: akşam vaktine girdiğinizde, gün ışığı çekilip geceye dönülürken Allah'ı tüm eksikliklerden uzak tutup yüceltin; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Akşam vaktine girmeyi bildiren `م-س-و` IV. bab fiili (`تُمْسُونَ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "30:17"
+        ],
+        "text": "Akşam ve Sabah Döngüsünde Yüceltme (`30:17`): Gece-gündüz geçişinin iki temel eşiğinde — akşama girerken (`حِينَ تُمْسُونَ`) ve sabaha ulaşırken (`وَحِينَ تُصْبِحُونَ`) — Allah'ın her türlü eksiklikten yüce ve arınmış olduğunun ilan edilmesi."
+      }
+    ],
+    "context_default": "Akşam vaktine girme ve zaman döngüsü bağlamı"
   }
 }
