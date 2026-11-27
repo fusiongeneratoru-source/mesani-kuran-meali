@@ -1,5 +1,5 @@
 # MÜHÜRLÜ KÖKLER KAVRAM VE MESÂNÎ ÖZETİ (TABULA RASA v3.0)
-> **Toplam Mühürlü Kök:** 948 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
+> **Toplam Mühürlü Kök:** 949 Kök | **Kullanım Amacı:** Web LLM / AI Studio Context Optimizasyonu
 
 | Kök (Arapça) | Kök (Latin) | Tek Çekirdek Mekanizması (Unified Core) | Mesânî Zıttı |
 | :--- | :--- | :--- | :--- |
@@ -951,3 +951,4 @@
 | `ق-ذ-ف` | `Q-DH-F` | `ق-ذ-ف` kökü 9 geçişinin tamamında I. bab fiil olarak **'kuvvetle veya hızla bir hedefe fırlatıp atmak / içine salmak'** tek fiziksel mekanizmasını yürütür. | ح-ص-ن (Korunaklı kale altında güvende olmak ↔ ق-ذ-ف dışarıdan kuvvetle atış yapmak ve klasik kullanımda belgesiz söz fırlatmak — `33:26`, `34:53`), م-س-ك (Elde tutup bırakmamak ↔ ق-ذ-ف hızla elden çıkarıp uzağa veya hedefe fırlatmak — `20:39`, `20:87`) |
 | `ق-ب-ض` | `Q-B-D` | `ق-ب-ض` kökü 9 geçişinin tamamında **'içe doğru toplayıp kapatma, avuçta kavrama ve daraltma'** fiziksel mekanizmasını işletir. | ب-س-ط (Avucu açıp yaymak ve rızkı genişletmek ↔ ق-ب-ض avucu sıkıp kapatmak ve daraltmak — `2:245` [aynı ayette]), ص-ف-ف (Kuşların kanatlarını iki yana dümdüz açıp dizmesi ↔ ق-ب-ض kanatları gövdeye doğru kapatıp toplaması — `67:19` [aynı ayette]) |
 | `خ-ي-ل` | `KH-Y-L` | `خ-ي-ل` kökü 9 geçişinde **'gözde şekillenen yanılsama (`يُخَيَّلُ`), çalımlı yürüyüşlü atlar (`خَيْل`) ve kendini büyük görüp çalım satan kibirli (`مُخْتَال`)'** dallarını tek 'değişken/salınımlı görünüm' çekirdeğinden üretir. | ح-ق-ق (Somut, sarsılmaz gerçeklik ↔ خ-ي-ل gözde ve zihinde kurulan geçici algı yanılsaması — `20:66`), خ-ش-ع (Alçakgönüllülükle eğilmek ↔ خ-ي-ل kuruntulu kibirle çalım satıp böbürlenmek — `4:36`, `31:18`, `57:23`), ر-ج-ل (Yaya piyadeler ↔ خ-ي-ل atlı süvari güçleri — `17:64` [aynı ayette]) |
+| `م-ل-ح` | `M-L-H` | `م-ل-ح` kökü her 2 geçişinde de `مِلْحٌ أُجَاجٌ` kalıbıyla **'tuzlu ve acı/yakıcı deniz suyu'** fiziksel niteliğini `عَذْبٌ فُرَاتٌ` karşısında konumlandırır. | ع-ذ-ب (Tatlı ve içimi hoş duru su ↔ م-ل-ح yoğun tuzlu, içilemez deniz suyu — `25:53`, `35:12` [aynı ayetlerde]), ف-ر-ت (Tuzdan arınmış, susuzluğu kıran tatlı içme suyu ↔ م-ل-ح yoğun tuzlu ve yakıcı su — `25:53`, `35:12` [aynı ayetlerde]) |

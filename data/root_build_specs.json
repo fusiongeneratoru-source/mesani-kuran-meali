@@ -64050,5 +64050,40 @@
       }
     ],
     "context_default": "Çalımlı atlar, kuruntulu kibirle böbürlenme ve görsel yanılsama bağlamı"
+  },
+  "م-ل-ح": {
+    "buckwalter": "mlH",
+    "slug": "mlh",
+    "concept_name": "Milh (İçimi Boğazı Yakan Tuzlu Deniz Suyu — Tatlı İçme Suyunun Karşıtı)",
+    "root_latin": "M-L-H",
+    "keywords": [
+      "milh",
+      "tuz",
+      "tuzlu su",
+      "tuzlu deniz",
+      "milh ucac",
+      "aci tuzlu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "miloH",
+        "ayahs": [
+          "25:53",
+          "35:12"
+        ],
+        "label": "İsim / sıfat işlevli isim (`مِلْحٌ أُجَاجٌ` — tuzlu ve acı/yakıcı deniz suyu: `25:53` biri tatlı-duru, diğeri tuzlu-acı iki denizi birbirine salıp aralarına engel koyması, `35:12` tatlı ve içimi kolay su ile tuzlu-acı suyun bir olmadığı; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Tuzlu ve yakıcı deniz suyunu bildiren `م-ل-ح` ismi (`مِلْحٌ أُجَاجٌ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "25:53",
+          "35:12"
+        ],
+        "text": "İki Su Kütlesinin Fiziksel Ayrımı: Tatlı Su vs Tuzlu Deniz (`25:53`, `35:12`): Bir yanda susuzluğu gideren tatlı ve içimi kolay duru su (`عَذْبٌ فُرَاتٌ`), diğer yanda yoğun tuzlu ve acı deniz suyu (`مِلْحٌ أُجَاجٌ`); aralarındaki doğal karışmazlık engeline (`بَرْزَخًا`) rağmen her ikisinden de taze et ve süs çıkarılması (`35:12`)."
+      }
+    ],
+    "context_default": "Tatlı su ile tuzlu-acı deniz suyu arasındaki kozmik ve hidrolojik karşıtlık bağlamı"
   }
 }
