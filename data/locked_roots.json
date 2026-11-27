@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (20/50 — Toplam 970 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (21/50 — Toplam 971 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -77585,7 +77585,8 @@
         "roots": [
           "ص-ف-ر (Bitkinin suyunu yitirip sararması `مُصْفَرًّا` ↔ خ-ض-ر suyla canlanıp yemyeşil kesilmesi `مُخْضَرَّةً` — `22:63`, `39:21`)",
           "ح-و-ي (Yeşil otun kuruyup kararmış/solmuş çerçöpe dönüşmesi `غُثَآءً أَحْوَىٰ` ↔ خ-ض-ر taze ve canlı yeşil — `6:99`, `22:63`)",
-          "ي-ب-س (Kuruyup sertleşmiş başaklar `يَابِسَٰتٍ` ↔ خ-ض-ر taze ve verimli yeşil başaklar `سُنۢبُلَٰتٍ خُضْرٍ` — `12:43`, `12:46` doğrudan aynı ayet)"
+          "ي-ب-س (Kuruyup sertleşmiş başaklar `يَابِسَٰتٍ` ↔ خ-ض-ر taze ve verimli yeşil başaklar `سُنۢبُلَٰتٍ خُضْرٍ` — `12:43`, `12:46` doğrudan aynı ayet)",
+          "ه-ي-ج (Heyec: bitkinin kuruyup sararması `يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا` ↔ خ-ض-ر taze yeşilliğini ve canlılığını koruması — `39:21`, `57:20`)"
         ],
         "bidirectional_test": "`12:43` ve `12:46` (`سَبْعَ سُنۢبُلَٰتٍ خُضْرٍ وَأُخَرَ يَابِسَٰتٍ`) yeşil (`خ-ض-ر`) ile kuru (`ي-ب-س`) zıtlığını aynı ayette kurar; bitki yaşam döngüsünde ise sararma (`ص-ف-ر`) ve kararıp solma (`ح-و-ي`) ile çift yönlü Mesânî ağı oluşturur."
       },
@@ -81340,6 +81341,75 @@
           "meaning": "Başka bir ışık/ateş kaynağından bir parça alıp yararlanmak",
           "examples": [
             "57:13"
+          ]
+        }
+      ]
+    },
+    "ه-ي-ج": {
+      "root_latin": "H-Y-C",
+      "arabic": "ه-ي-ج",
+      "rank": 1215,
+      "morphology_and_rasm": {
+        "buckwalter": "hyj",
+        "rasm_skeleton": "هيج (üçlü ecvef-i yâî iskelet; Kur'an'da yalnızca I. bab muzâri `يَهِيجُ` olarak 2 geçiş / 2 ayet)",
+        "approx_frequency": "2 geçiş / 2 ayet (`39:21`, `57:20` — her ikisi de birebir `ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا` kalıbıyla)",
+        "verb_forms_used": [
+          "I. Bab (هَاجَ / يَهِيجُ — 2 geçiş: 39:21, 57:20)"
+        ],
+        "noun_forms_used": [],
+        "preposition_patterns": [
+          "ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا (`39:21`, `57:20`: bitkinin kuruyup ardından sarardığının görülmesi)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı iki somut çekirdekten Kur'an'da işletilen kol: 'bitkinin suyunu yitirip kurumaya yüz tutması' (`يُبْسُ النَّبَاتِ` — diğer kolu 'toz/dalga gibi kabarıp coşmak' `ثَوَرَانُ شَيْءٍ` olup Kur'an'daki her iki geçiş tamamen bitkinin kuruyup sararması kolundadır).",
+      "ibn_faris_asl": "(هَيَجَ) الْهَاءُ وَالْيَاءُ وَالْجِيمُ أَصْلَانِ صَحِيحَانِ: أَحَدُهُمَا يَدُلُّ عَلَى ثَوَرَانِ شَيْءٍ، وَالْآخَرُ عَلَى يُبْسِ نَبَاتٍ. يُقَالُ: هَاجَ النَّبْتُ، إِذَا يَبِسَ. [Mu'cemü Mekâyîsi'l-Luğa, c. 6, s. 23, كتاب الهاء, باب الهاء والياء وما يثلثهما, هيج maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ه-ي-ج` maddesinde iki ayrı somut ölçüyü net biçimde ayırır: (1) bir şeyin kabarıp coşması (`ثَوَرَانُ شَيْءٍ`), (2) bitkinin suyunu çekip kuruması (`يُبْسُ نَبَاتٍ`). Kur'an'daki her iki ayet (`39:21`, `57:20`) kesinlikle ikinci somut anlamdadır.",
+        "lisan_al_arab": "İbn Manzûr `هَاجَ النَّبْتُ يَهِيجُ هَيْجًا وَهِيَاجًا` ifadesinin 'bitki olgunlaşıp suyunu yitirerek kurudu ve sararmaya döndü' anlamına geldiğini, `أَرْضٌ هَائِجَةٌ` deyiminin 'otları kurumuş arazi' olduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `39:21` ve `57:20`'de `يَهِيجُ` fiilinin, bitkinin yeşil tazelik aşaması (`نَبَات / زَرْع`) ile tamamen kuruyup ufalanma (`حُطَام`) arasındaki geçiş eşiği olan 'suyunu çekip sararma/kuruma başlangıcını' gösterdiğini açıklar.",
+        "verdict": "Her iki geçiş **'yeşil ekin ve bitkinin suyunu çekip kurumaya ve sararmaya başlaması (`يَهِيجُ`)'** somut botanik çekirdeğinde birebir örtüşür."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*h-y-g ('harekete geçmek / bitkinin kuruyup rüzgarla savrulacak hale gelmesi')",
+        "hebrew": "Doğrudan kesin bir İbranice eşkökeni tespit edilmemiştir.",
+        "aramaic_syriac": "Doğrudan kesin bir Aramice/Süryanice eşkökeni tespit edilmemiştir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Modern Türkçedeki 'heyecan' çağrışımından uzaklaşarak Kur'an'ın `39:21` ve `57:20`'deki gerçek botanik anlamını ('bitkinin suyunu çekip kurumaya yüz tutması') korumak anlam kaymasını tamamen önler."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ن-ب-ت (Tohumun yerden filizlenip taze biçimde yeşermesi `نَبَاتُهُۥ` ↔ ه-ي-ج bitkinin suyunu çekip kurumaya dönmesi `يَهِيجُ` — `57:20`)",
+          "خ-ض-ر (Taze yeşilliğini ve diriliğini korumak ↔ ه-ي-ج kuruyup sararmak `يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا` — `39:21`, `57:20`)"
+        ],
+        "bidirectional_test": "`57:20`'de `أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا` dizisi taze filizlenme (`ن-ب-ت`) ile kuruyup solma (`ه-ي-ج`) zıtlığını doğrudan aynı cümlede ardışık olarak kurar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ن-ب-ت",
+          "ص-ف-ر",
+          "ح-ط-م"
+        ],
+        "analysis": "`39:21` ve `57:20`'de dört aşamalı doğal döngü titizlikle ayrılır: (1) `زَرْعًا / نَبَاتُهُۥ` taze yeşerme, (2) `يَهِيجُ` suyunu çekip kurumaya başlama, (3) `مُصْفَرًّا` (`ص-ف-ر`) rengin sarıya dönmesi, (4) `حُطَٰمًا` (`ح-ط-م`) tamamen kuruyup ufalanan çerçöp."
+      },
+      "anchor_ayahs": [
+        "39:21 (ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُۥ حُطَٰمًا — sonra onunla çeşit çeşit renklerde ekin çıkarır; ardından o kuruyup solmaya başlar da onu sararmış görürsün, sonra da onu ufalanmış çerçöp kılar)",
+        "57:20 (كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا — ekininin çiftçileri hayran bıraktığı, sonra kuruyup sarardığını gördüğün ve ardından ufalanıp çerçöp olan bir yağmur misali gibidir)"
+      ],
+      "unified_core_mechanism": "`ه-ي-ج` kökü her iki geçişinde de **'yeşil bitkinin suyunu çekip kurumaya yüz tutması (`يَهِيجُ`)'** aşamasını dünya hayatının geçiciliği misalinde yürütür.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Tek Kalıp Muzâri (`ثُمَّ يَهِيجُ` — `39:21`, `57:20`): Geçişsiz (lâzım) I. bab muzâri; fâili `زَرْع / نَبَات`'a dönen gizli zamirdir."
+        ],
+        "irab_notes": "`ثُمَّ` harfi yeşerme ile kuruma arasındaki zaman aralığını, hemen ardından gelen `فَـ` (`فَتَرَىٰهُ مُصْفَرًّا`) ise kurumanın hemen peşinden gelen sararmayı gösterir."
+      },
+      "derivatives": [
+        {
+          "form": "يَهِيجُ",
+          "pos": "Fiil (I. Bab)",
+          "meaning": "Yeşil bitki suyunu çekip kurumaya ve solmaya yüz tutmak",
+          "examples": [
+            "39:21",
+            "57:20"
           ]
         }
       ]

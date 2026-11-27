@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 970 Kök | Güncel Kapsam: %96,93)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 21 / 50 Kök (Toplam Mühürlü: 971 Kök | Güncel Kapsam: %96,94)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -27,7 +27,7 @@
 | 18 | Sure %100 Kilidi | 847 | `أ-م-د` | `E-M-D` | **4** | 4 | 3:30 | Emed (Başlangıcı ve Sonu Olan Uzamış Süre, Belirli Zaman/Mesafe Aralığı ve Vade) | ✅ **MÜHÜRLÜ** |
 | 19 | Sure %100 Kilidi | 898 | `غ-ي-ث` | `G-Y-S` | **4** | 4 | 12:49 | Gays ve İgâse (Kuraklık ve Umutsuzluk Ardından Can Verip Bereket Getiren Yağmur ve Bolluk) | ✅ **MÜHÜRLÜ** |
 | 20 | Sure %100 Kilidi | 1009 | `ق-ب-س` | `K-B-S` | **3** | 3 | 20:10 | Kabes ve İktibâs (Ana Ateşten veya Işıktan Bir Kor Parçası ve Aydınlık Ödünç Almak) | ✅ **MÜHÜRLÜ** |
-| 21 | Sure %100 Kilidi | 1215 | `ه-ي-ج` | `H-Y-C` | **2** | 2 | 39:21 | Yehîc (Sure 57 Hadîd son kilidi: 39:21, 57:20 bitkinin olgunlaşıp sarararak kuruması — 58. tam kilitli sure!) | ⏳ *Bekliyor* |
+| 21 | Sure %100 Kilidi | 1215 | `ه-ي-ج` | `H-Y-C` | **2** | 2 | 39:21 | Heyec ve Heyecân (Yeşil Bitkinin Olgunlaşıp Suyunu Çekerek Kuruması ve Sararmaya Dönüşmesi) | ✅ **MÜHÜRLÜ** |
 | 22 | Sure %100 Kilidi | 690 | `م-ك-ث` | `M-K-S` | **7** | 7 | 13:17 | Meks ve Mâkisûn (Sure 13 Ra'd kilidi + 7 geçiş: 13:17, 17:106, 18:3, 20:10, 27:22, 28:29, 43:77 durup beklemek, yeryüzünde kalıcı olmak ve sindirerek ağır ağır okumak) | ⏳ *Bekliyor* |
 | 23 | Sure %100 Kilidi | 751 | `د-ر-أ` | `D-R-E` | **5** | 5 | 2:72 | Der' ve İddâra'e (Sure 13 Ra'd kilidi + 5 geçiş: 2:72, 3:168, 13:22, 24:8, 28:54 kötülüğü iyilikle veya cezayı savıp uzaklaştırmak, suçu birbirine atmak) | ⏳ *Bekliyor* |
 | 24 | Sure %100 Kilidi | 903 | `س-ي-ل` | `S-Y-L` | **4** | 3 | 13:17 | Seyl ve Esâle (Sure 13 Ra'd kilidi + 4 geçiş: 13:17, 34:12, 34:16 vadilerden coşkun biçimde akan sel ve erimiş bakırı akıtmak) | ⏳ *Bekliyor* |
