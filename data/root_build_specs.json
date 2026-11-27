@@ -62200,5 +62200,44 @@
       }
     ],
     "context_default": "Şiddetle sürükleme ve kaba/haşin zorbalık bağlamı"
+  },
+  "د-خ-ن": {
+    "buckwalter": "dxn",
+    "slug": "dxn",
+    "concept_name": "Duhân (Göğün İlk Oluşumundaki Gaz/Duman Hâli ve İnsanları Kuşatan Apaçık Duman)",
+    "root_latin": "D-H-N",
+    "keywords": [
+      "duhan",
+      "duman",
+      "kozmik gaz",
+      "gok dumani",
+      "apacik duman"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "duxaAn",
+        "ayahs": [
+          "41:11",
+          "44:10"
+        ],
+        "label": "İsim (`دُخَانٌ / بِدُخَانٍ مُّبِينٍ` — yanmadan veya yoğun ısınmadan yükselen gaz/duman kütlesi: `41:11` göğün yedi kat olarak düzenlenmeden önceki gaz/duman hâli `وَهِىَ دُخَانٌ`, `44:10` göğün insanları kuşatan apaçık bir duman getireceği gün `بِدُخَانٍ مُّبِينٍ`; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Göğün ilk gaz/duman hâlini (`41:11`) veya gökten gelen apaçık dumanı (`44:10`) bildiren `د-خ-ن` ismi (`دُخَان`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "41:11"
+        ],
+        "text": "Göğün İlk Kozmik Duman/Gaz Hâli (`41:11`): Allah'ın göğe henüz bir duman/gaz kütlesi hâlindeyken (`وَهِىَ دُخَانٌ`) yönelip ona ve yere 'isteyerek ya da istemeyerek gelin' buyurması, ikisinin de 'isteyerek boyun eğip geldik' karşılığını vermesi."
+      },
+      {
+        "ayahs": [
+          "44:10"
+        ],
+        "text": "Göğün Apaçık Duman Getireceği Gün (`44:10`): Kuşku içinde oyalananlara karşı göğün insanları çepeçevre bürüyen apaçık bir dumanla (`بِدُخَانٍ مُّبِينٍ`) geleceği günün gözetilmesi uyarısı."
+      }
+    ],
+    "context_default": "Göğün kozmik duman hâli veya apaçık kuşatıcı duman bağlamı"
   }
 }
