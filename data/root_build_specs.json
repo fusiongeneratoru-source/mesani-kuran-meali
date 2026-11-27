@@ -65646,5 +65646,51 @@
       }
     ],
     "context_default": "Belirli bir kesime özgüleme (tahsis) veya şiddetli geçim açığı/yokluğu bağlamı"
+  },
+  "ح-و-ج": {
+    "buckwalter": "Hwj",
+    "slug": "hwj",
+    "concept_name": "Hâce (İçte Duyulan Zorunlu Gereksinim, Gönüldeki Amaç ve Eksiklik Hissi)",
+    "root_latin": "H-W-C",
+    "keywords": [
+      "hace",
+      "ihtiyac",
+      "gereksinim",
+      "gonuldeki amac",
+      "eksiklik hissi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "HaAjap",
+        "ayahs": [
+          "12:68",
+          "40:80",
+          "59:9"
+        ],
+        "label": "Tekil isim (`حَاجَةً` — kişinin içinde taşıdığı zorunlu gereksinim, ulaşmak istediği gönül muradı veya başkasının elindekine karşı duyulan eksiklik hissi; her 3 geçişte de belirsiz mensûb olarak `فِى نَفْسِ / فِى صُدُورِ` iç mekân kalıbıyla gelir; 3 geçiş / 3 ayet)"
+      }
+    ],
+    "irab_default": "İçte duyulan zorunlu gereksinimi, gönül muradını veya eksiklik hissini (`حَاجَة`) bildiren `ح-و-ج` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:68"
+        ],
+        "text": "Yakub'un İçindeki Tedbir ve Şefkat Gereksinimi (`12:68`): Oğullarının Mısır'a ayrı kapılardan girmesi Allah'ın takdirinden hiçbir şeyi savmasa da, bunun Yakub'un kendi içinde taşıyıp giderdiği bir arzu ve gereksinim (`إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا`) olması."
+      },
+      {
+        "ayahs": [
+          "40:80"
+        ],
+        "text": "Gönüllerdeki Ulaşım ve Yaşam Gereksinimi (`40:80`): Binek hayvanlarının insanlara çeşitli yararlar sağlaması ve gönüllerindeki bir gereksinime ve hedefe (`حَاجَةً فِى صُدُورِكُمْ`) onlar üzerinde erişebilmeleri."
+      },
+      {
+        "ayahs": [
+          "59:9"
+        ],
+        "text": "Verilen Paydan Dolayı Gönülde Eksiklik/Kıskançlık Duymamak (`59:9`): Medineli ev sahiplerinin göç edenlere verilen paylardan dolayı göğüslerinde hiçbir gereksinim, burukluk yahut eksiklik hissi (`وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟`) taşımamaları."
+      }
+    ],
+    "context_default": "İnsanın içinde taşıdığı gereksinim, ulaşmak istediği hedef veya gönüldeki eksiklik hissi bağlamı"
   }
 }
