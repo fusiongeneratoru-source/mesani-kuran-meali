@@ -65524,5 +65524,66 @@
       }
     ],
     "context_default": "Kalbi tamamen dolduran şiddetli korku, panik ve dehşet bağlamı"
+  },
+  "ج-د-ر": {
+    "buckwalter": "jdr",
+    "slug": "jdr",
+    "concept_name": "Cidâr, Cüdür ve Ecder (Örülüp Yükseltilen Koruyucu Duvar ve Bir Duruma En Yatkın/Elverişli Olmak)",
+    "root_latin": "C-D-R",
+    "keywords": [
+      "cidar",
+      "cudur",
+      "ecder",
+      "duvar",
+      "duvar ardi",
+      "en yatkin"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">ajodar",
+        "ayahs": [
+          "9:97"
+        ],
+        "label": "İsm-i tafdîl (`وَأَجْدَرُ` — `أَفْعَل` kalıbı: bir niteliğe ve sonuca yapısal olarak en yatkın, en elverişli ve en müsait olmak; `9:97` çölde yaşayan bedevilerin Allah'ın elçisine indirdiği sınırları bilmemeye daha yatkın olmaları; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "jidaAr",
+        "ayahs": [
+          "18:77",
+          "18:82"
+        ],
+        "label": "Tekil isim (`جِدَارًا / ٱلْجِدَارُ` — taş veya kerpiçle örülüp dikilmiş koruyucu duvar; `18:77` Musa ile bilge kulun yıkılmaya yüz tutmuş duvarı karşılıksız doğrultmaları; `18:82` o duvarın şehirdeki iki yetim çocuğun altındaki hazineyi koruduğunun açıklanması; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "judur",
+        "ayahs": [
+          "59:14"
+        ],
+        "label": "Kırık çoğul isim (`جُدُرٍۭ` — `جِدَار`'ın `فُعُل` kalıbında çoğulu: arkasında saklanılan tahkimli duvarlar; `59:14` kalpleri paramparça olan topluluğun ancak müstahkem köylerde ya da duvarların ardından savaşabilmesi; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Örülüp yükseltilmiş koruyucu duvarı (`جِدَار / جُدُر`) veya bir sonuca yapısal yatkınlığı (`أَجْدَر`) bildiren `ج-د-ر` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:77",
+          "18:82"
+        ],
+        "text": "Yetimlerin Hazinesini Koruyan Yıkılmak Üzere Olan Duvar (`18:77, 18:82`): Kendilerini ağırlamaktan kaçınan köyde yıkılmaya yüz tutmuş (`يُرِيدُ أَن يَنقَضَّ`) bir duvarı bilge kulun ücret almadan doğrultması (`فَأَقَامَهُۥ`); daha sonra o duvarın iyi bir babanın iki yetim çocuğuna ait hazineyi onlar erginliğe ulaşana dek örttüğünün ortaya çıkması."
+      },
+      {
+        "ayahs": [
+          "59:14"
+        ],
+        "text": "Duvar Ardına Sığınan Parçalanmış Kalpler (`59:14`): Dıştan birleşik görünseler de yürekleri dağınık olan topluluğun açık alanda karşı duramayıp yalnızca tahkimli yerleşimler içinde yahut duvarların ardından (`أَوْ مِن وَرَآءِ جُدُرٍۭ`) çarpışabilmesi."
+      },
+      {
+        "ayahs": [
+          "9:97"
+        ],
+        "text": "Sınırları Bilmemeye En Yatkın Konum (`9:97`): Şehir ve bilgi merkezlerinden uzak yaşayan bedevilerin ikiyüzlülükte daha katı ve Allah'ın elçisine indirdiği sınırları bilmemeye daha yatkın (`وَأَجْدَرُ أَلَّا يَعْلَمُوا۟ حُدُودَ مَآ أَنزَلَ ٱللَّهُ`) olmaları."
+      }
+    ],
+    "context_default": "Koruyucu duvar, tahkimli siper ve bir duruma yapısal yatkınlık bağlamı"
   }
 }
