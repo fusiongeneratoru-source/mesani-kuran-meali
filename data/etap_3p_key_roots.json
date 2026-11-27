@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3P (En Yüksek Frekanslı Kalan 50 Kök: Kalan Tüm 24 Adet 6 Geçişli Kök [≥6 Açık = 0!] + 26 Adet 5 Geçişli Çekirdek Kök — 1.050 Kök!)",
   "target_count": 50,
-  "locked_count": 24,
+  "locked_count": 25,
   "total_tokens_in_package": 274,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 97.52,
+  "current_coverage_pct": 97.53,
   "target_coverage_pct": 97.78,
   "etap_3p_roots": [
     {
@@ -462,8 +462,8 @@
       "frequency": 5,
       "unique_ayahs": 5,
       "rationale": "Mezmûm ve Zimme (5/5 + Açık Mesânî [ح-م-د]: kınanıp yerilmiş olmak ve bozulmaması gereken güvence/ahd)",
-      "concept_label": "Analiz Bekliyor (ma*omuwm, *im~ap)",
-      "is_locked": false,
+      "concept_label": "Mezmûm ve Zimme (Kınanıp Yerilmiş Olmak ve Bozulmaması Gereken Sözleşme Güvencesi)",
+      "is_locked": true,
       "sample_ayah": "9:8",
       "top_lemmas": [
         "ma*omuwm",

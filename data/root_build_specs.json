@@ -68169,5 +68169,68 @@
       }
     ],
     "context_default": "Dengeden yana sapma veya topluca yüklenme bağlamı"
+  },
+  "ذ-م-م": {
+    "buckwalter": "*mm",
+    "slug": "zmm",
+    "concept_name": "Mezmûm ve Zimme (Kınanıp Yerilmiş Olmak ve Bozulmaması Gereken Sözleşme Güvencesi)",
+    "root_latin": "Z-M-M",
+    "keywords": [
+      "mezmum",
+      "zimme",
+      "kinanmak",
+      "yerilmek",
+      "guvence",
+      "sozlesme"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "*im~ap",
+        "ayahs": [
+          "9:8",
+          "9:10"
+        ],
+        "label": "Mef'ûlün bih üzerine atıfla mansûb (`لَا يَرْقُبُوا۟ فِيكُمْ إِلًّا وَلَا ذِمَّةً` — çiğnenmesi kınanma ve sorumluluk doğuran bağlayıcı antlaşma ve güvence; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "ma*omuwm",
+        "ayahs": [
+          "17:18",
+          "17:22"
+        ],
+        "label": "I. Bab ism-i mef'ûl, hâl ve mansûb (`مَذْمُومًا مَّدْحُورًا` / `مَذْمُومًا مَّخْذُولًا` — övgü değerini yitirip kınanmış ve yerilmiş halde; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "ma*omuwm",
+        "ayahs": [
+          "68:49"
+        ],
+        "label": "I. Bab ism-i mef'ûl, hâl cümlesinde haber ve merfû (`وَهُوَ مَذْمُومٌ` — Rabb'inin nimeti yetişmeseydi kınanmış bir halde çıplak kıyıya atılacak olması; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Kınanıp yerilmeyi (`مَذْمُوم`) veya bozulması kınanma doğuran sözleşme güvencesini (`ذِمَّة`) bildiren `ذ-م-م` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "9:8",
+          "9:10"
+        ],
+        "text": "Gözetilmeyen Sözleşme Güvencesi (`9:8, 9:10`): Üstünlük elde ettiklerinde ne köklü yakınlık bağı ne de çiğnenmesi kınanmayı gerektiren bir antlaşma güvencesi (`ذِمَّةً`) gözeten saldırganların tutumu."
+      },
+      {
+        "ayahs": [
+          "17:18",
+          "17:22"
+        ],
+        "text": "Peşin Çıkar ve Başka İlah Edinmenin Kınanmış Sonu (`17:18, 17:22`): Yalnızca geçici dünyayı isteyenlerin kınanmış ve kovulmuş halde (`مَذْمُومًا مَّدْحُورًا`, `17:18`), Allah'ın yanına başka ilah koyanların ise kınanmış ve yüzüstü bırakılmış halde (`مَذْمُومًا مَّخْذُولًا`, `17:22`) kalması."
+      },
+      {
+        "ayahs": [
+          "68:49"
+        ],
+        "text": "Balık Sahibinin Nimetle Kınanmaktan Kurtarılması (`68:49`): Rabb'inden bir nimet kendisine yetişmeseydi kınanmış bir halde (`وَهُوَ مَذْمُومٌ`) çorak kıyıya bırakılacak olan Yûnus'un bağışlanıp kurtarılması."
+      }
+    ],
+    "context_default": "Kınanıp yerilme veya bağlayıcı sözleşme güvencesi bağlamı"
   }
 }

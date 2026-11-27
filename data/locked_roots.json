@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (50/50) + Etap 3P (24/50 — Toplam 1024 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (50/50) + Etap 3P (25/50 — Toplam 1025 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -86342,6 +86342,105 @@
           "meaning": "Savaşta düşmanın tek seferde hep birden yüklenip çullanma hamlesi",
           "examples": [
             "4:102"
+          ]
+        }
+      ]
+    },
+    "ذ-م-م": {
+      "root_latin": "Z-M-M",
+      "arabic": "ذ-م-م",
+      "rank": 807,
+      "morphology_and_rasm": {
+        "buckwalter": "*mm",
+        "rasm_skeleton": "ذمم (mudâaf sülâsî iskelet; Kur'an'da çekimli fiil geçmez — I. bab ism-i mef'ûl `مَذْمُوم` 3x ve isim `ذِمَّة` 2x olmak üzere 5 geçiş)",
+        "approx_frequency": "5 geçiş / 5 ayet (`9:8, 9:10, 17:18, 17:22, 68:49`)",
+        "verb_forms_used": [
+          "Kur'an'da çekimli fiil formu yoktur; yalnızca ism-i mef'ûl (`مَذْمُوم`, 3x) ve isim (`ذِمَّة`, 2x) formları geçer"
+        ],
+        "noun_forms_used": [
+          "مَذْمُوم (`17:18, 17:22, 68:49` [3x] — övgü değerini yitirmiş, kınanıp yerilmiş durumda olan)",
+          "ذِمَّة (`9:8, 9:10` [2x] — bozulması sahibine kınanma ve utanç getiren bağlayıcı sözleşme, güvence ve sorumluluk bağı)"
+        ],
+        "preposition_patterns": [
+          "لَا يَرْقُبُوا۟ فِيكُمْ إِلًّا وَلَا ذِمَّةً (`9:8, 9:10`: `رَقَبَ فِي` ile — hakkınızda ne akrabalık/bağ ne de bozulması kınanacak bir sözleşme güvencesi gözetirler)",
+          "مَذْمُومًا مَّدْحُورًا / مَذْمُومًا مَّخْذُولًا (`17:18, 17:22`: hâl olarak — kınanmış ve kovulmuş / kınanmış ve yüzüstü bırakılmış halde)",
+          "وَهُوَ مَذْمُومٌ (`68:49`: hâl cümlesinde haber — kınanmış ve yerilmiş bir halde)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tespit ettiği tek mudâaf çekirdek: 'övgüye layık olmanın tam karşıtı olan kınanma ve yerilme (`خِلَافُ الْحَمْدِ`)' — bu tek çekirdekten hem `مَذْمُوم` (davranışıyla övgü değerini yitirip kınanan, `17:18, 17:22, 68:49`) hem de `ذِمَّة` (bozulup çiğnenmesi sahibini mutlaka kınanmaya ve ağır sorumluluğa düşüren bağlayıcı antlaşma ve güvence, `9:8, 9:10`) doğar. İbn Fâris bu bağı doğrudan açıklar: `فَأَمَّا الْعَهْدُ فَإِنَّهُ يُسَمَّى ذِمَامًا لِأَنَّ الْإِنْسَانَ يُذَمُّ عَلَى إِضَاعَتِهِ مِنْهُ` (ahit, onu zayi eden kişi kınandığı için zimâm/zimme diye adlandırılmıştır).",
+      "ibn_faris_asl": "(ذَمَّ) الذَّالُ وَالْمِيمُ فِي الْمُضَاعَفِ أَصْلٌ وَاحِدٌ يَدُلُّ كُلُّهُ عَلَى خِلَافِ الْحَمْدِ. يُقَالُ ذَمَمْتُ فُلَانًا أَذُمُّهُ، فَهُوَ ذَمِيمٌ وَمَذْمُومٌ، إِذَا كَانَ غَيْرَ حَمِيدٍ... فَأَمَّا الْعَهْدُ فَإِنَّهُ يُسَمَّى ذِمَامًا لِأَنَّ الْإِنْسَانَ يُذَمُّ عَلَى إِضَاعَتِهِ مِنْهُ. [Mu'cemü Mekâyîsi'l-Luğa, c. 2, s. 345–346, كتاب الذال, باب الذال وما معها في الثنائي والمطابق, ذم maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ذ-م-م` kökünü tek asılda (`خِلَافُ الْحَمْدِ` — övgünün karşıtı olan kınama) toplar ve `ذِمَّة / ذِمَام` (sözleşme güvencesi) kavramının da bozulduğunda kınanmayı gerektirdiği için aynı kökten geldiğini kanıtlar.",
+        "lisan_al_arab": "İbn Manzûr `الذَّمُّ: نَقِيضُ الْمَدْحِ` ve `الذِّمَّةُ: الْعَهْدُ وَالْأَمَانُ وَالضَّمَانُ وَالْحُرْمَةُ` diyerek sözleşmeyi çiğnemenin kınanma (`ذَمّ`) doğurması üzerinden iki kullanım arasındaki organik bağı vurgular.",
+        "ragib_al_isfahani": "Râgıb `ذَمَمْتُهُ أَذُمُّهُ ذَمًّا فَهُوَ مَذْمُومٌ` (`17:18`) tanımını verir ve `ذِمَّة` kavramını ihlali kınanmaya yol açan bağlayıcı güvence olarak değerlendirir.",
+        "verdict": "Beş geçişin tamamı **'övgü değerinin karşıtı olan kınanıp yerilme (`مَذْمُوم`) ve bozulması sahibini kınanmaya düşüren bağlayıcı sözleşme güvencesi (`ذِمَّة`)'** tek mekanizmasında birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*ḏ-m-m (Canlı taramada diğer Sami dillerinde aynı üçlü mudâaf iskelette kesin bir eşkökeni doğrulanmamıştır)",
+        "hebrew": "Doğrudan aynı üçlü kökte kesin bir İbranice eşkökeni tespit edilmemiştir (İbranice `דמם` 'susmak/durmak' ve `זמם` 'tasarlamak' farklı ses ve anlam kökleridir, karıştırılmaz).",
+        "aramaic_syriac": "Doğrudan kesin bir Aramice/Süryanice eşkökeni tespit edilmemiştir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Arapçada peltek `ذ` harfiyle kurulu mudâaf `ذ-م-م` kökü, `ح-م-د` (hak edilmiş övgü) kavramının doğrudan Mesânî karşıtıdır ve ahlaki/hukuki sorumluluk bağı (`ذِمَّة`) üretme bakımından Arapça söz varlığında özgün bir bütünlük sergiler."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ح-م-د (Hak edilmiş övgü ve övgüye layık yüce makam `مَقَامًا مَّحْمُودًا / ٱلْحَمْدُ لِلَّهِ` ↔ ذ-م-م kınanıp yerilmiş düşüş `مَذْمُومًا` — `17:18, 17:22` vs `17:79, 17:111`)"
+        ],
+        "bidirectional_test": "İsrâ Sûresi'nde peşin geçici çıkarı seçenlerin ve Allah'la birlikte başka ilah uyduranların `مَذْمُومًا` (kınanmış ve yerilmiş halde, `17:18, 17:22`) kalmasına karşılık, aynı surede `مَقَامًا مَّحْمُودًا` (`17:79`, övgüye layık yüce makam) ve `ٱلْحَمْدُ لِلَّهِ` (`17:111`) doruğu yer alır; `ح-م-د` kökünün tam tersi `ذ-م-م` tanımını sıfır çelişkiyle kilitler."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "خ-ذ-ل",
+          "ل-و-م",
+          "ر-ق-ب",
+          "ع-ه-د",
+          "ن-ب-ذ"
+        ],
+        "analysis": "`9:8` ve `9:10`'da `إِلًّا` köklü yakınlık/soydaşlık veya temel dokunulmazlık bağını, `ذِمَّةً` (`ذ-م-م`) ise çiğnendiğinde sahibine ağır kınanma getiren antlaşma ve güvence sorumluluğunu ayırır; `17:18`'de `مَذْمُومًا` kınanıp değerden düşmeyi, `مَّدْحُورًا` kovulup uzaklaştırılmayı; `17:22`'de `مَذْمُومًا` yerilmeyi, `مَّخْذُولًا` (`خ-ذ-ل`) yardımsız ve yüzüstü bırakılmayı ayırır; ayrıca `17:29`'daki `مَلُومًا` (`ل-و-م`) hata sebebiyle ayıplanmayı, `مَذْمُومًا` (`ذ-م-م`) ise övgü değerini tümden yitirip yerilmeyi belirtir."
+      },
+      "anchor_ayahs": [
+        "9:8 (لَا يَرْقُبُوا۟ فِيكُمْ إِلًّا وَلَا ذِمَّةً — size üstün gelseler hakkınızda ne yakınlık bağı ne de bozulmaması gereken bir güvence/sözleşme gözetirler)",
+        "9:10 (لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً — güvene ermiş biri hakkında ne yakınlık bağı ne de bir sözleşme güvencesi gözetirler)",
+        "17:18 (ثُمَّ جَعَلْنَا لَهُۥ جَهَنَّمَ يَصْلَىٰهَا مَذْمُومًا مَّدْحُورًا — sonra ona yakıcı karşılık yurdunu kılarız; oraya kınanmış ve kovulmuş halde girer)",
+        "17:22 (لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا — Allah ile birlikte başka bir ilah edinme; yoksa kınanmış ve yüzüstü bırakılmış halde oturup kalırsın)",
+        "68:49 (لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ — Rabb'inden bir nimet ona yetişmeseydi kınanmış bir halde çıplak kıyıya atılırdı)"
+      ],
+      "unified_core_mechanism": "`ذ-م-م` kökü 5 geçişin tamamında **'övgü değerini yitirip kınanma/yerilme (`مَذْمُوم`) ve bozulması sahibini ağır kınanmaya düşüren bağlayıcı sözleşme güvencesi (`ذِمَّة`)'** tek mekanizmasıyla işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Kınanıp Yerilmiş Durum (`مَذْمُوم` — `17:18, 17:22, 68:49` [3x]): I. bab ism-i mef'ûl olarak davranışının sonucuyla övgü değerini kaybedip yerilmeye düşme.",
+          "Dal 2 — Bozulması Kınanma Getiren Bağlayıcı Güvence/Antlaşma (`ذِمَّة` — `9:8, 9:10` [2x]): Çiğnenmesi utanç ve kınanma doğuran hukuki/ahlaki sözleşme sorumluluğu."
+        ]
+      },
+      "anti_distortion_and_tabula_rasa": [
+        "`ذِمَّة` kelimesini yalnızca sonradan oluşan fıkhî 'zimmi' statüsüne indirgemek anakroniktir; `9:8` ve `9:10`'da `ذِمَّة`, her türlü barış antlaşması ve karşılıklı dokunulmazlık güvencesinin çiğnendiğinde kınanma getiren temel hukuki yükümlülüğüdür."
+      ],
+      "turkish_translation_protocol": {
+        "primary": "kınanmış / yerilmiş ve bozulmaması gereken sözleşme güvencesi (`مَذْمُوم / ذِمَّة`)",
+        "contextual_variants": [
+          "9:8, 9:10 (`ذِمَّةً`): sözleşme güvencesi / sorumluluk bağı",
+          "17:18, 17:22 (`مَذْمُومًا`): kınanmış ve yerilmiş halde",
+          "68:49 (`وَهُوَ مَذْمُومٌ`): kınanmış bir halde iken"
+        ]
+      },
+      "derivatives": [
+        {
+          "form": "مَذْمُوم",
+          "pos": "I. Bab İsm-i Mef'ûl",
+          "meaning": "Övgü değerini yitirmiş, kınanıp yerilmeye düşmüş olan",
+          "examples": [
+            "17:18",
+            "17:22",
+            "68:49"
+          ]
+        },
+        {
+          "form": "ذِمَّة",
+          "pos": "İsim",
+          "meaning": "Çiğnenmesi sahibine kınanma ve utanç getiren bağlayıcı antlaşma, güvence ve sorumluluk bağı",
+          "examples": [
+            "9:8",
+            "9:10"
           ]
         }
       ]
