@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 33 / 50 Kök (Toplam Mühürlü: 933 Kök | Güncel Kapsam: %96,57)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 34 / 50 Kök (Toplam Mühürlü: 934 Kök | Güncel Kapsam: %96,57)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -40,7 +40,7 @@
 | 31 | Sure %100 Kilidi | 614 | `د-و-م` | `D-W-M` | **9** | 9 | 3:75 | Devâm ve Dâim (Kesintiye Uğramadan Sabit Kalıp Sürmek ve Süreklilik) | ✅ **MÜHÜRLÜ** |
 | 32 | Sure %100 Kilidi | 990 | `ه-ط-ع` | `H-T-A` | **3** | 3 | 14:43 | Muhti'în (Boynunu Uzatıp Gözünü Ayırmadan Hızla Bir Yöne Koşup Yönelenler) | ✅ **MÜHÜRLÜ** |
 | 33 | Sure %100 Kilidi | 1027 | `ج-د-ث` | `C-D-S` | **3** | 3 | 36:51 | Ecdâs (Diriliş Çağrısıyla İçinden Hızla Çıkılan Toprak Kabirleri) | ✅ **MÜHÜRLÜ** |
-| 34 | Sure %100 Kilidi | 1160 | `ش-و-ي` | `S-W-Y` | **2** | 2 | 18:29 | Şevâ ve Yeşvî (Sure 70 Meâric kilidi + 2 geçiş: 18:29, 70:16 yüzleri kavurup haşlayan sıcaklık ve baş derisi/uzuvlar) | ⏳ *Bekliyor* |
+| 34 | Sure %100 Kilidi | 1160 | `ش-و-ي` | `S-W-Y` | **2** | 2 | 18:29 | Şevy ve Şevâ (Yüzleri Kavurup Pişiren Hararet ve Baş Derisi / Dış Uçlar) | ✅ **MÜHÜRLÜ** |
 | 35 | Sure %100 Kilidi | 1137 | `ج-ز-ع` | `C-Z-A` | **2** | 2 | 14:21 | Cezû' ve Ceza' (Sure 70 Meâric kilidi + 2 geçiş: 14:21, 70:20 musibet karşısında direncini yitirip sızlanarak paniklemek) | ⏳ *Bekliyor* |
 | 36 | Sure %100 Kilidi | 1562 | `ع-ز-و` | `A-Z-W` | **1** | 1 | 70:37 | Izîn (Sure 70 Meâric kilidi: 70:37 sağdan ve soldan dağınık halkalar/gruplar hâlinde toplanmak) | ⏳ *Bekliyor* |
 | 37 | Sure %100 Kilidi | 1561 | `ه-ل-ع` | `H-L-A` | **1** | 1 | 70:19 | Helû' (Sure 70 Meâric kilidi: 70:19 darlıkta çabuk sızlanan, bollukta cimrileşen aşırı hırslı ve dayanıksız yapı) | ⏳ *Bekliyor* |

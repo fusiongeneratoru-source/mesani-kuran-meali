@@ -63219,5 +63219,51 @@
       }
     ],
     "context_default": "Diriliş anında toprak kabirlerden hızla çıkış bağlamı"
+  },
+  "ش-و-ي": {
+    "buckwalter": "$wy",
+    "slug": "shwy",
+    "concept_name": "Şevy ve Şevâ (Yüzleri Kavurup Pişiren Hararet ve Baş Derisi / Dış Uçlar)",
+    "root_latin": "SH-W-Y",
+    "keywords": [
+      "sevy",
+      "seva",
+      "kavurmak",
+      "haslamak",
+      "bas derisi",
+      "uzuv uclari"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "ya$owiY",
+        "ayahs": [
+          "18:29"
+        ],
+        "label": "I. bab muzâri fiil (`يَشْوِى ٱلْوُجُوهَ` — yakıcı hararetiyle kavurup haşlamak: `18:29` erimiş maden/tortu gibi yüzleri kavurup haşlayan bir suyla yardım edilmeleri; 1 geçiş)"
+      },
+      {
+        "lemma": "$~awaY`",
+        "ayahs": [
+          "70:16"
+        ],
+        "label": "Cins ismi / çoğul isim (`لِّلشَّوَىٰ`, tekili `شَوَاة` — baş derisi, kafa derisi ve bedenin hayati merkez dışındaki el-ayak gibi dış uzuvları: `70:16` alevlenen ateşin baş derisini ve dış uzuvları söküp koparması; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Yakıcı hararetle kavurup haşlamayı (`يَشْوِى`) veya baş derisi ile dış uzuvları (`ٱلشَّوَىٰ`) bildiren `ش-و-ي` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:29"
+        ],
+        "text": "Yüzleri Kavuran Yakıcı İçecek (`18:29`): Zalimlere kuşatıcı ateş içinde yardım istediklerinde erimiş maden/yağ tortusu gibi yüzleri kavurup haşlayan (`يَشْوِى ٱلْوُجُوهَ`) bir suyun verilmesi."
+      },
+      {
+        "ayahs": [
+          "70:16"
+        ],
+        "text": "Baş Derisini ve Dış Uzuvları Söküp Koparan Alev (`70:16`): Alevlenen ateşin (`لَظَىٰ`) baş derisini ve el-ayak gibi dış uzuvları (`لِّلشَّوَىٰ`) defalarca söküp koparan (`نَزَّاعَةً`) şiddeti."
+      }
+    ],
+    "context_default": "Yakıcı hararetle kavurma ve baş derisi/dış uzuvların ateşte soyulması bağlamı"
   }
 }
