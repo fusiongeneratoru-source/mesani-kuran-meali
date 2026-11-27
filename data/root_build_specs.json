@@ -64638,5 +64638,48 @@
       }
     ],
     "context_default": "Dağılmaktan alıkoyup düzen içinde sevk etmek veya gönlü iyiliğe yöneltmek bağlamı"
+  },
+  "أ-ف-ف": {
+    "buckwalter": "Aff",
+    "slug": "aff",
+    "concept_name": "Üff (Bıkkınlık, Hoşnutsuzluk ve Tiksinme Bildiren En Küçük Tepki Ünlemi)",
+    "root_latin": "E-F-F",
+    "keywords": [
+      "uf",
+      "uff",
+      "bikkinlik",
+      "tiksinme",
+      "of bile deme",
+      "hosnutsuzluk",
+      "unlem"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">uf~",
+        "ayahs": [
+          "17:23",
+          "21:67",
+          "46:17"
+        ],
+        "label": "İsim-fiil / tepki ünlemi (`أُفٍّ` — 'bıktım, hoşlanmıyorum, yazıklar olsun' anlamında en hafif hoşnutsuzluk sesi: `17:23` yaşlanan anne-babaya 'öf' bile demenin yasaklanması; `21:67` İbrahim'in Allah'tan başka tapılan putlara karşı 'yazıklar olsun / yuh size' tepkisi; `46:17` dirilişi reddeden evladın anne-babasına 'öf ikinize!' çıkışı; 3 geçiş / 3 ayet)"
+      }
+    ],
+    "irab_default": "Bıkkınlık, bezginlik ve tiksinme bildiren `أ-ف-ف` isim-fiili/ünlemi (`أُفٍّ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "17:23",
+          "46:17"
+        ],
+        "text": "Anne-Babaya Karşı Yasaklanan Bıkkınlık Tepkisi (`17:23`, `46:17`): Yaşlılığa erişen anne-babaya karşı en ufak bir bezginlik sesi bile çıkarılmaması emri (`فَلَا تَقُل لَّهُمَآ أُفٍّ`, `17:23`) ve bu ilkeyi çiğneyerek anne-babasına 'öf ikinize!' diye çıkışan kibirli evlat portresi (`أُفٍّ لَّكُمَآ`, `46:17`)."
+      },
+      {
+        "ayahs": [
+          "21:67"
+        ],
+        "text": "Sahte Tapınılanlara Yönelik Haklı Tiksinme (`21:67`): İbrahim'in ne yarar ne zarar verebilen putları savunan kavmine 'yuh/yazıklar olsun size ve Allah'tan ayrı kulluk ettiklerinize!' diye meydan okuması (`أُفٍّ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ`)."
+      }
+    ],
+    "context_default": "Bıkkınlık, hoşnutsuzluk ve tiksinme bildiren tepki ünlemi bağlamı"
   }
 }
