@@ -1,0 +1,927 @@
+{
+  "package": "Faz 1 - Etap 3P (En Yüksek Frekanslı Kalan 50 Kök: Kalan Tüm 24 Adet 6 Geçişli Kök [≥6 Açık = 0!] + 26 Adet 5 Geçişli Çekirdek Kök — 1.050 Kök!)",
+  "target_count": 50,
+  "locked_count": 0,
+  "total_tokens_in_package": 274,
+  "total_corpus_tokens": 49968,
+  "current_coverage_pct": 97.23,
+  "target_coverage_pct": 97.78,
+  "etap_3p_roots": [
+    {
+      "etap_3p_rank": 1,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 732,
+      "root_arabic": "غ-ر-م",
+      "root_latin": "G-R-M",
+      "buckwalter": "grm",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Ğarâm, Mağrem, Ğârimîn ve Muğramûn (6/6 + Açık Mesânî [أ-ج-ر]: yakayı bırakmayan borç yükü, zarar tazmini ve yapışkan azap)",
+      "concept_label": "Analiz Bekliyor (m~agoram, ga`rimiyn, garaAm, mugoramuwn)",
+      "is_locked": false,
+      "sample_ayah": "9:60",
+      "top_lemmas": [
+        "m~agoram",
+        "ga`rimiyn",
+        "garaAm",
+        "mugoramuwn"
+      ]
+    },
+    {
+      "etap_3p_rank": 2,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 704,
+      "root_arabic": "خ-ل-ط",
+      "root_latin": "H-L-T",
+      "buckwalter": "xlT",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Halt, İhtilât, Muhâlata ve Huletâ (6/6 + Açık Mesânî [ح-ص-ل]: birbirine karışıp kaynaşmak, ortaklık ve yetim malına karışmak)",
+      "concept_label": "Analiz Bekliyor ({xotalaTa, tuxaAliTu, xalaTu, xulaTaA^')",
+      "is_locked": false,
+      "sample_ayah": "2:220",
+      "top_lemmas": [
+        "{xotalaTa",
+        "tuxaAliTu",
+        "xalaTu",
+        "xulaTaA^'"
+      ]
+    },
+    {
+      "etap_3p_rank": 3,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 723,
+      "root_arabic": "ذ-ر-أ",
+      "root_latin": "Z-R-E",
+      "buckwalter": "*rA",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Zerae (6/6: yeryüzünde ve yaratılışta çok sayıda canlıyı üretip yaymak)",
+      "concept_label": "Analiz Bekliyor (*ara>a)",
+      "is_locked": false,
+      "sample_ayah": "6:136",
+      "top_lemmas": [
+        "*ara>a"
+      ]
+    },
+    {
+      "etap_3p_rank": 4,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 692,
+      "root_arabic": "ض-و-أ",
+      "root_latin": "D-W-E",
+      "buckwalter": "DwA",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Edâe ve Dıyâ (6/6: özünden güçlü ışık saçan parlak aydınlık, güneşin ışıması ve ateşin parlaması)",
+      "concept_label": "Analiz Bekliyor (>aDaA^'a, DiyaA^')",
+      "is_locked": false,
+      "sample_ayah": "2:17",
+      "top_lemmas": [
+        ">aDaA^'a",
+        "DiyaA^'"
+      ]
+    },
+    {
+      "etap_3p_rank": 5,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 733,
+      "root_arabic": "ض-ي-ف",
+      "root_latin": "D-Y-F",
+      "buckwalter": "Dyf",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Dayf ve Yudayyifû (6/6: konuk/misafir ve ağırlayıp konukseverlik göstermek)",
+      "concept_label": "Analiz Bekliyor (Dayof, yuDay~ifu)",
+      "is_locked": false,
+      "sample_ayah": "11:78",
+      "top_lemmas": [
+        "Dayof",
+        "yuDay~ifu"
+      ]
+    },
+    {
+      "etap_3p_rank": 6,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 724,
+      "root_arabic": "ح-ص-د",
+      "root_latin": "H-S-D",
+      "buckwalter": "HSd",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Hasad, Hasâd ve Hasîd (6/6: olgunlaşan ekini biçmek ve biçilip kökü kazınmış yurtlar)",
+      "concept_label": "Analiz Bekliyor (HaSiyd, HaSaAd, HaSad)",
+      "is_locked": false,
+      "sample_ayah": "6:141",
+      "top_lemmas": [
+        "HaSiyd",
+        "HaSaAd",
+        "HaSad"
+      ]
+    },
+    {
+      "etap_3p_rank": 7,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 708,
+      "root_arabic": "ح-س-س",
+      "root_latin": "H-S-S",
+      "buckwalter": "Hss",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Ehasse, Tahussû, Tehassesû ve Hasîs (6/6: duyuyla kesin sezmek, kökten biçmek, iz aramak ve hafif hışırtı)",
+      "concept_label": "Analiz Bekliyor (>aHas~a, taHus~u, taHas~asu, Hasiys)",
+      "is_locked": false,
+      "sample_ayah": "3:52",
+      "top_lemmas": [
+        ">aHas~a",
+        "taHus~u",
+        "taHas~asu",
+        "Hasiys"
+      ]
+    },
+    {
+      "etap_3p_rank": 8,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 693,
+      "root_arabic": "ب-ك-م",
+      "root_latin": "B-K-M",
+      "buckwalter": "bkm",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Bükm ve Ebkem (6/6: konuşma ve hakkı dile getirme yetisinden yoksun dilsizlik)",
+      "concept_label": "Analiz Bekliyor (>abokam)",
+      "is_locked": false,
+      "sample_ayah": "2:18",
+      "top_lemmas": [
+        ">abokam"
+      ]
+    },
+    {
+      "etap_3p_rank": 9,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 707,
+      "root_arabic": "د-أ-ب",
+      "root_latin": "D-E-B",
+      "buckwalter": "dAb",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "De'b, Deeb ve Dâibeyn (6/6: kesintisiz sürüp giden alışkanlık, düzenli yörünge akışı ve azimli çalışma)",
+      "concept_label": "Analiz Bekliyor (da>ob, da>ab, daA^}ibayon)",
+      "is_locked": false,
+      "sample_ayah": "3:11",
+      "top_lemmas": [
+        "da>ob",
+        "da>ab",
+        "daA^}ibayon"
+      ]
+    },
+    {
+      "etap_3p_rank": 10,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 709,
+      "root_arabic": "د-ر-س",
+      "root_latin": "D-R-S",
+      "buckwalter": "drs",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Derese ve Dirâse (6/6: metni tekrar tekrar okuyup inceleyerek derinlemesine öğrenmek)",
+      "concept_label": "Analiz Bekliyor (darasu, diraAsat)",
+      "is_locked": false,
+      "sample_ayah": "3:79",
+      "top_lemmas": [
+        "darasu",
+        "diraAsat"
+      ]
+    },
+    {
+      "etap_3p_rank": 11,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 739,
+      "root_arabic": "ف-ز-ع",
+      "root_latin": "F-Z-A",
+      "buckwalter": "fzE",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Fezia, Feza' ve Füzzia (6/6: ansızın kaplayan şiddetli dehşet/telaş ve kalplerden o telaşın giderilmesi)",
+      "concept_label": "Analiz Bekliyor (faziEa, fazaE, fuz~iEa)",
+      "is_locked": false,
+      "sample_ayah": "21:103",
+      "top_lemmas": [
+        "faziEa",
+        "fazaE",
+        "fuz~iEa"
+      ]
+    },
+    {
+      "etap_3p_rank": 12,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 711,
+      "root_arabic": "ك-ظ-م",
+      "root_latin": "K-Z-M",
+      "buckwalter": "kZm",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Kâzımîn, Kazîm ve Mekzûm (6/6: dolu tulumun ağzını bağlar gibi öfkeyi ve kederi içine hapsedip yutmak)",
+      "concept_label": "Analiz Bekliyor (kaZiym, ka`Zimiyn, makoZuwm)",
+      "is_locked": false,
+      "sample_ayah": "3:134",
+      "top_lemmas": [
+        "kaZiym",
+        "ka`Zimiyn",
+        "makoZuwm"
+      ]
+    },
+    {
+      "etap_3p_rank": 13,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 736,
+      "root_arabic": "ك-ه-ف",
+      "root_latin": "K-H-F",
+      "buckwalter": "khf",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Kehf (6/6: dağ içindeki geniş sığınak mağara — Ashâb-ı Kehf kıssası)",
+      "concept_label": "Analiz Bekliyor (kahof)",
+      "is_locked": false,
+      "sample_ayah": "18:9",
+      "top_lemmas": [
+        "kahof"
+      ]
+    },
+    {
+      "etap_3p_rank": 14,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 699,
+      "root_arabic": "ك-ر-ر",
+      "root_latin": "K-R-R",
+      "buckwalter": "krr",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Kerre (6/6: geri dönüp bir kez daha hamle yapmak / ikinci bir dönüş fırsatı)",
+      "concept_label": "Analiz Bekliyor (kar~ap)",
+      "is_locked": false,
+      "sample_ayah": "2:167",
+      "top_lemmas": [
+        "kar~ap"
+      ]
+    },
+    {
+      "etap_3p_rank": 15,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 727,
+      "root_arabic": "ل-ح-د",
+      "root_latin": "L-H-D",
+      "buckwalter": "lHd",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Yülhidûn, İlhâd ve Mültehad (6/6: doğru eksenden yana eğilip sapmak ve sığınılacak yan kovuk)",
+      "concept_label": "Analiz Bekliyor (yuloHidu, mulotaHad, <iloHaAd)",
+      "is_locked": false,
+      "sample_ayah": "7:180",
+      "top_lemmas": [
+        "yuloHidu",
+        "mulotaHad",
+        "<iloHaAd"
+      ]
+    },
+    {
+      "etap_3p_rank": 16,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 741,
+      "root_arabic": "م-ر-ج",
+      "root_latin": "M-R-C",
+      "buckwalter": "mrj",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Merece, Mercân, Merîc ve Mâric (6/6: salıverip kavuşturmak, karmaşık/karışık iş, dumansız yalın alev ve mercan)",
+      "concept_label": "Analiz Bekliyor (maraja, marojaAn, m~ariyj, m~aArij)",
+      "is_locked": false,
+      "sample_ayah": "25:53",
+      "top_lemmas": [
+        "maraja",
+        "marojaAn",
+        "m~ariyj",
+        "m~aArij"
+      ]
+    },
+    {
+      "etap_3p_rank": 17,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 734,
+      "root_arabic": "ق-م-ص",
+      "root_latin": "K-M-S",
+      "buckwalter": "qmS",
+      "frequency": 6,
+      "unique_ayahs": 6,
+      "rationale": "Kamîs (6/6: bedeni saran gömlek — Yusuf kıssasının üç dönüm noktası kanıtı)",
+      "concept_label": "Analiz Bekliyor (qamiyS)",
+      "is_locked": false,
+      "sample_ayah": "12:18",
+      "top_lemmas": [
+        "qamiyS"
+      ]
+    },
+    {
+      "etap_3p_rank": 18,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 717,
+      "root_arabic": "ص-ي-د",
+      "root_latin": "S-Y-D",
+      "buckwalter": "Syd",
+      "frequency": 6,
+      "unique_ayahs": 5,
+      "rationale": "Sayd ve İstedû (6/5: av ve avlanmak — ihram yasakları ve deniz avı helalliği)",
+      "concept_label": "Analiz Bekliyor (Sayod, {SoTaAdu)",
+      "is_locked": false,
+      "sample_ayah": "5:1",
+      "top_lemmas": [
+        "Sayod",
+        "{SoTaAdu"
+      ]
+    },
+    {
+      "etap_3p_rank": 19,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 713,
+      "root_arabic": "س-د-د",
+      "root_latin": "S-D-D",
+      "buckwalter": "sdd",
+      "frequency": 6,
+      "unique_ayahs": 5,
+      "rationale": "Sedd ve Sedîd (6/5: geçidi kapatan sağlam set ve gediksiz, dosdoğru söz)",
+      "concept_label": "Analiz Bekliyor (sad~, sadiyd)",
+      "is_locked": false,
+      "sample_ayah": "4:9",
+      "top_lemmas": [
+        "sad~",
+        "sadiyd"
+      ]
+    },
+    {
+      "etap_3p_rank": 20,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 731,
+      "root_arabic": "و-ط-أ",
+      "root_latin": "W-T-E",
+      "buckwalter": "wTA",
+      "frequency": 6,
+      "unique_ayahs": 5,
+      "rationale": "Vat', Yetaû, Yuvâtiû ve Mevtı' (6/5: ayakla sağlamca basıp çiğnemek, gece kıyamında uyumlu basış ve sayı denkliği)",
+      "concept_label": "Analiz Bekliyor (yaTa_#u, yuwaATi_#u, mawoTi}, waTo_#)",
+      "is_locked": false,
+      "sample_ayah": "9:37",
+      "top_lemmas": [
+        "yaTa_#u",
+        "yuwaATi_#u",
+        "mawoTi}",
+        "waTo_#"
+      ]
+    },
+    {
+      "etap_3p_rank": 21,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 743,
+      "root_arabic": "ز-ج-ر",
+      "root_latin": "Z-C-R",
+      "buckwalter": "zjr",
+      "frequency": 6,
+      "unique_ayahs": 5,
+      "rationale": "Zecr, Zecre, Zâcirât ve Müzdecer (6/5: sert uyarıyla engelleyip caydırmak, tek bir haykırış ve sürüp yönlendirenler)",
+      "concept_label": "Analiz Bekliyor (zajorap, z~a`jira`t, zajor, muzodajar)",
+      "is_locked": false,
+      "sample_ayah": "37:2",
+      "top_lemmas": [
+        "zajorap",
+        "z~a`jira`t",
+        "zajor",
+        "muzodajar"
+      ]
+    },
+    {
+      "etap_3p_rank": 22,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 719,
+      "root_arabic": "ك-ل-ب",
+      "root_latin": "K-L-B",
+      "buckwalter": "klb",
+      "frequency": 6,
+      "unique_ayahs": 4,
+      "rationale": "Kelb ve Mükellibîn (6/4: köpek ve av köpeklerini/yırtıcıları eğitip salmak)",
+      "concept_label": "Analiz Bekliyor (kalob, mukal~ibiyn)",
+      "is_locked": false,
+      "sample_ayah": "5:4",
+      "top_lemmas": [
+        "kalob",
+        "mukal~ibiyn"
+      ]
+    },
+    {
+      "etap_3p_rank": 23,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 728,
+      "root_arabic": "ن-ز-غ",
+      "root_latin": "N-Z-G",
+      "buckwalter": "nzg",
+      "frequency": 6,
+      "unique_ayahs": 4,
+      "rationale": "Nezeğa ve Nezg (6/4: dürtükleyip kışkırtarak araya bozgun ve fitne sokmak)",
+      "concept_label": "Analiz Bekliyor (n~azaga, nazog)",
+      "is_locked": false,
+      "sample_ayah": "7:200",
+      "top_lemmas": [
+        "n~azaga",
+        "nazog"
+      ]
+    },
+    {
+      "etap_3p_rank": 24,
+      "category": "6 Geçişli Çekirdek",
+      "global_rank": 715,
+      "root_arabic": "م-ي-ل",
+      "root_latin": "M-Y-L",
+      "buckwalter": "myl",
+      "frequency": 6,
+      "unique_ayahs": 3,
+      "rationale": "Meyl, Yemîlu ve Meyle (6/3: bir tarafa eğilip yönelmek, adaletten sapmak ve toplu saldırı — ≥6 geçişli açık kök = 0!)",
+      "concept_label": "Analiz Bekliyor (yamiylu, mayol, m~ayolap)",
+      "is_locked": false,
+      "sample_ayah": "4:27",
+      "top_lemmas": [
+        "yamiylu",
+        "mayol",
+        "m~ayolap"
+      ]
+    },
+    {
+      "etap_3p_rank": 25,
+      "category": "5 Geçişli Mesânî",
+      "global_rank": 807,
+      "root_arabic": "ذ-م-م",
+      "root_latin": "Z-M-M",
+      "buckwalter": "*mm",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Mezmûm ve Zimme (5/5 + Açık Mesânî [ح-م-د]: kınanıp yerilmiş olmak ve bozulmaması gereken güvence/ahd)",
+      "concept_label": "Analiz Bekliyor (ma*omuwm, *im~ap)",
+      "is_locked": false,
+      "sample_ayah": "9:8",
+      "top_lemmas": [
+        "ma*omuwm",
+        "*im~ap"
+      ]
+    },
+    {
+      "etap_3p_rank": 26,
+      "category": "5 Geçişli Mesânî",
+      "global_rank": 805,
+      "root_arabic": "م-ض-ي",
+      "root_latin": "M-D-Y",
+      "buckwalter": "mDy",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Madâ ve Mudiyy (5/5 + Açık Mesânî [ر-ج-ع]: ileriye doğru geçip gitmek ve örnek/sünnetin gelip geçmesi)",
+      "concept_label": "Analiz Bekliyor (maDaY`, muDiy~)",
+      "is_locked": false,
+      "sample_ayah": "8:38",
+      "top_lemmas": [
+        "maDaY`",
+        "muDiy~"
+      ]
+    },
+    {
+      "etap_3p_rank": 27,
+      "category": "5 Geçişli Mesânî",
+      "global_rank": 788,
+      "root_arabic": "م-ي-د",
+      "root_latin": "M-Y-D",
+      "buckwalter": "myd",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Temîde ve Mâide (5/5 + Açık Mesânî [ر-س-و]: yerin sağa sola çalkalanıp sallanması ve üzerinde rızık sunulan sofra)",
+      "concept_label": "Analiz Bekliyor (tamiyda, maA^}idap)",
+      "is_locked": false,
+      "sample_ayah": "5:112",
+      "top_lemmas": [
+        "tamiyda",
+        "maA^}idap"
+      ]
+    },
+    {
+      "etap_3p_rank": 28,
+      "category": "5 Geçişli Mesânî",
+      "global_rank": 806,
+      "root_arabic": "ق-ص-و",
+      "root_latin": "K-S-W",
+      "buckwalter": "qSw",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Aksâ, Kusvâ ve Kasiyy (5/5 + Açık Mesânî [د-ن-و]: en uzak uç nokta, vadinin uzak yamacı ve ıssız uzak mekân)",
+      "concept_label": "Analiz Bekliyor (>aqoSaA, quSowaY`, qaSiy~)",
+      "is_locked": false,
+      "sample_ayah": "8:42",
+      "top_lemmas": [
+        ">aqoSaA",
+        "quSowaY`",
+        "qaSiy~"
+      ]
+    },
+    {
+      "etap_3p_rank": 29,
+      "category": "5 Geçişli Mesânî",
+      "global_rank": 783,
+      "root_arabic": "ر-ف-ق",
+      "root_latin": "R-F-K",
+      "buckwalter": "rfq",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Refîk, Mirfak, Merâfik ve Mürtefak (5/5 + Açık Mesânî [ب-ط-ش]: yumuşak yoldaşlık, kolaylık, dirsekler ve dayanılıp dinlenilen yer)",
+      "concept_label": "Analiz Bekliyor (murotafaq, rafiyq, maraAfiq, m~irofaq)",
+      "is_locked": false,
+      "sample_ayah": "4:69",
+      "top_lemmas": [
+        "murotafaq",
+        "rafiyq",
+        "maraAfiq",
+        "m~irofaq"
+      ]
+    },
+    {
+      "etap_3p_rank": 30,
+      "category": "5 Geçişli Mesânî",
+      "global_rank": 826,
+      "root_arabic": "ط-و-ي",
+      "root_latin": "T-W-Y",
+      "buckwalter": "Twy",
+      "frequency": 5,
+      "unique_ayahs": 4,
+      "rationale": "Tayy, Natvî, Matviyyât ve Tuvâ (5/4 + Açık Mesânî [ك-ت-ب]: göğü yazılı tomar gibi dürüp katlamak ve Tuvâ vadisi)",
+      "concept_label": "Analiz Bekliyor (TuwFY, naTowiY, TaY~, maTowiy~a`t)",
+      "is_locked": false,
+      "sample_ayah": "20:12",
+      "top_lemmas": [
+        "TuwFY",
+        "naTowiY",
+        "TaY~",
+        "maTowiy~a`t"
+      ]
+    },
+    {
+      "etap_3p_rank": 31,
+      "category": "5 Geçişli Mesânî",
+      "global_rank": 759,
+      "root_arabic": "خ-ط-و",
+      "root_latin": "H-T-W",
+      "buckwalter": "xTw",
+      "frequency": 5,
+      "unique_ayahs": 4,
+      "rationale": "Hutuvât (5/4 + Açık Mesânî [س-ل-م]: iki ayak arası adım ve şeytanın adım izlerine uymamak)",
+      "concept_label": "Analiz Bekliyor (xuTuwa`t)",
+      "is_locked": false,
+      "sample_ayah": "2:168",
+      "top_lemmas": [
+        "xuTuwa`t"
+      ]
+    },
+    {
+      "etap_3p_rank": 32,
+      "category": "5 Geçişli Mesânî",
+      "global_rank": 757,
+      "root_arabic": "ش-ط-ر",
+      "root_latin": "S-T-R",
+      "buckwalter": "$Tr",
+      "frequency": 5,
+      "unique_ayahs": 3,
+      "rationale": "Şatr (5/3 + Açık Mesânî [ح-ي-ث]: belirli bir yön, taraf ve Mescid-i Harâm istikameti)",
+      "concept_label": "Analiz Bekliyor ($aTor)",
+      "is_locked": false,
+      "sample_ayah": "2:144",
+      "top_lemmas": [
+        "$aTor"
+      ]
+    },
+    {
+      "etap_3p_rank": 33,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 817,
+      "root_arabic": "ش-ه-ب",
+      "root_latin": "S-H-B",
+      "buckwalter": "$hb",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Şihâb ve Şühüb (5/5: kor halinde parlayan alevli ateş parçası ve delici parlak ışık)",
+      "concept_label": "Analiz Bekliyor ($ihaAb, $uhub)",
+      "is_locked": false,
+      "sample_ayah": "15:18",
+      "top_lemmas": [
+        "$ihaAb",
+        "$uhub"
+      ]
+    },
+    {
+      "etap_3p_rank": 34,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 801,
+      "root_arabic": "أ-س-ف",
+      "root_latin": "E-S-F",
+      "buckwalter": "Asf",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Esif, Esef ve Âsefû (5/5: derin kederle karışık yoğun öfke, üzüntü ve öfkelendirmek)",
+      "concept_label": "Analiz Bekliyor (>asif, >asaf, 'aAsafu)",
+      "is_locked": false,
+      "sample_ayah": "7:150",
+      "top_lemmas": [
+        ">asif",
+        ">asaf",
+        "'aAsafu"
+      ]
+    },
+    {
+      "etap_3p_rank": 35,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 811,
+      "root_arabic": "ع-ص-ب",
+      "root_latin": "A-S-B",
+      "buckwalter": "ESb",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Usbe ve Asîb (5/5: birbirine sıkıca kenetlenmiş güçlü topluluk ve çetin, sıkışık gün)",
+      "concept_label": "Analiz Bekliyor (EuSobap, EaSiyb)",
+      "is_locked": false,
+      "sample_ayah": "11:77",
+      "top_lemmas": [
+        "EuSobap",
+        "EaSiyb"
+      ]
+    },
+    {
+      "etap_3p_rank": 36,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 746,
+      "root_arabic": "ع-ث-و",
+      "root_latin": "A-S-W",
+      "buckwalter": "Evw",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Ta'sev (5/5: yeryüzünde aşırıya kaçıp azgınca bozgunculuk yaymak)",
+      "concept_label": "Analiz Bekliyor (taEova)",
+      "is_locked": false,
+      "sample_ayah": "2:60",
+      "top_lemmas": [
+        "taEova"
+      ]
+    },
+    {
+      "etap_3p_rank": 37,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 821,
+      "root_arabic": "ح-ص-ب",
+      "root_latin": "H-S-B",
+      "buckwalter": "HSb",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Hâsıb ve Hasab (5/5: çakıl taşları savuran yıkıcı fırtına ve ateşe atılan tutuşturucu yakıt)",
+      "concept_label": "Analiz Bekliyor (HaASib, HaSab)",
+      "is_locked": false,
+      "sample_ayah": "17:68",
+      "top_lemmas": [
+        "HaASib",
+        "HaSab"
+      ]
+    },
+    {
+      "etap_3p_rank": 38,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 753,
+      "root_arabic": "ح-ر-ص",
+      "root_latin": "H-R-S",
+      "buckwalter": "HrS",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Harîs, Ahras ve Harastüm (5/5: bir şeye aşırı düşkünlük ve yoğun istek/özen göstermek)",
+      "concept_label": "Analiz Bekliyor (HaraSo, >aHoraS, HariyS)",
+      "is_locked": false,
+      "sample_ayah": "2:96",
+      "top_lemmas": [
+        "HaraSo",
+        ">aHoraS",
+        "HariyS"
+      ]
+    },
+    {
+      "etap_3p_rank": 39,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 802,
+      "root_arabic": "ح-و-ت",
+      "root_latin": "H-W-T",
+      "buckwalter": "Hwt",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Hût (5/5: büyük balık — Yunus kıssası ve iki denizin kavuştuğu yerdeki balık)",
+      "concept_label": "Analiz Bekliyor (Huwt)",
+      "is_locked": false,
+      "sample_ayah": "7:163",
+      "top_lemmas": [
+        "Huwt"
+      ]
+    },
+    {
+      "etap_3p_rank": 40,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 785,
+      "root_arabic": "ح-ي-ص",
+      "root_latin": "H-Y-S",
+      "buckwalter": "HyS",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Mahîs (5/5: yana sapıp kurtulacak kaçış yeri ve sığınak)",
+      "concept_label": "Analiz Bekliyor (m~aHiyS)",
+      "is_locked": false,
+      "sample_ayah": "4:121",
+      "top_lemmas": [
+        "m~aHiyS"
+      ]
+    },
+    {
+      "etap_3p_rank": 41,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 792,
+      "root_arabic": "ص-ن-م",
+      "root_latin": "S-N-M",
+      "buckwalter": "Snm",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Esnâm (5/5: yontulup dikilen ve Allah'tan başka yakarılan suretler/putlar)",
+      "concept_label": "Analiz Bekliyor (>aSonaAm)",
+      "is_locked": false,
+      "sample_ayah": "6:74",
+      "top_lemmas": [
+        ">aSonaAm"
+      ]
+    },
+    {
+      "etap_3p_rank": 42,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 761,
+      "root_arabic": "ه-ل-ل",
+      "root_latin": "H-L-L",
+      "buckwalter": "hll",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Ühille ve Ehille (5/5: kesimde Allah'tan başkası adına ses yükseltmek ve vakit ölçüsü yeni aylar/hilaller)",
+      "concept_label": "Analiz Bekliyor (>uhil~a, >ahil~ap)",
+      "is_locked": false,
+      "sample_ayah": "2:173",
+      "top_lemmas": [
+        ">uhil~a",
+        ">ahil~ap"
+      ]
+    },
+    {
+      "etap_3p_rank": 43,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 825,
+      "root_arabic": "ه-ز-ز",
+      "root_latin": "H-Z-Z",
+      "buckwalter": "hzz",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "İhtezzet ve Hüzzî (5/5: suyla canlanan toprağın harekete geçip kıpırdaması ve hurma gövdesini silkelemek)",
+      "concept_label": "Analiz Bekliyor ({hotaz~ato, huz~i)",
+      "is_locked": false,
+      "sample_ayah": "19:25",
+      "top_lemmas": [
+        "{hotaz~ato",
+        "huz~i"
+      ]
+    },
+    {
+      "etap_3p_rank": 44,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 799,
+      "root_arabic": "ج-ث-م",
+      "root_latin": "C-S-M",
+      "buckwalter": "jvm",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Câsimîn (5/5: büyük sarsıntı ve çığlıkla yurtlarında dizüstü çöküp hareketsiz kalmak)",
+      "concept_label": "Analiz Bekliyor (ja`vimiyn)",
+      "is_locked": false,
+      "sample_ayah": "7:78",
+      "top_lemmas": [
+        "ja`vimiyn"
+      ]
+    },
+    {
+      "etap_3p_rank": 45,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 762,
+      "root_arabic": "ك-م-ل",
+      "root_latin": "K-M-L",
+      "buckwalter": "kml",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Ekmeltü, Kâmile ve Kâmileyn (5/5: eksiği kalmaksızın bütünlük içinde tamamlanıp kemale ermek)",
+      "concept_label": "Analiz Bekliyor (>akomalo, kaAmilap, kaAmilayon)",
+      "is_locked": false,
+      "sample_ayah": "2:185",
+      "top_lemmas": [
+        ">akomalo",
+        "kaAmilap",
+        "kaAmilayon"
+      ]
+    },
+    {
+      "etap_3p_rank": 46,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 764,
+      "root_arabic": "ك-س-و",
+      "root_latin": "K-S-W",
+      "buckwalter": "ksw",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Kesâ ve Kisve (5/5: kemiklere et giydirmek, giyim-kuşam ihtiyacını karşılamak ve örtüyle giydirmek)",
+      "concept_label": "Analiz Bekliyor (kasawo, kisowat)",
+      "is_locked": false,
+      "sample_ayah": "2:233",
+      "top_lemmas": [
+        "kasawo",
+        "kisowat"
+      ]
+    },
+    {
+      "etap_3p_rank": 47,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 809,
+      "root_arabic": "ل-ز-م",
+      "root_latin": "L-Z-M",
+      "buckwalter": "lzm",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Elzeme ve Lizâm (5/5: ayrılmaz biçimde boyna/kişiye bağlayıp yapıştırmak ve kaçınılmaz kalıcı karşılık)",
+      "concept_label": "Analiz Bekliyor (>alozama, lizaAm)",
+      "is_locked": false,
+      "sample_ayah": "11:28",
+      "top_lemmas": [
+        ">alozama",
+        "lizaAm"
+      ]
+    },
+    {
+      "etap_3p_rank": 48,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 747,
+      "root_arabic": "م-ص-ر",
+      "root_latin": "M-S-R",
+      "buckwalter": "mSr",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Mısr (5/5: sınırları belirli yerleşik şehir/ülke ve Mısır diyarı)",
+      "concept_label": "Analiz Bekliyor (miSor)",
+      "is_locked": false,
+      "sample_ayah": "2:61",
+      "top_lemmas": [
+        "miSor"
+      ]
+    },
+    {
+      "etap_3p_rank": 49,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 784,
+      "root_arabic": "م-ر-د",
+      "root_latin": "M-R-D",
+      "buckwalter": "mrd",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Merîd, Mârid, Meredû ve Mümerred (5/5: pürüzsüzce sıyrılıp azgınlıkta direten inatçı isyankâr ve pürüzsüz yüksek saray)",
+      "concept_label": "Analiz Bekliyor (m~ariyd, maradu, m~umar~ad, m~aArid)",
+      "is_locked": false,
+      "sample_ayah": "4:117",
+      "top_lemmas": [
+        "m~ariyd",
+        "maradu",
+        "m~umar~ad",
+        "m~aArid"
+      ]
+    },
+    {
+      "etap_3p_rank": 50,
+      "category": "5 Geçişli Çekirdek",
+      "global_rank": 748,
+      "root_arabic": "ن-ك-ل",
+      "root_latin": "N-K-L",
+      "buckwalter": "nkl",
+      "frequency": 5,
+      "unique_ayahs": 5,
+      "rationale": "Nekâl, Tenkîl ve Enkâl (5/5: başkalarına caydırıcı ders olan ağır ceza ve bağlayıcı ağır bukağılar — 1.050. KÖK!)",
+      "concept_label": "Analiz Bekliyor (naka`l, tankiyl, >ankaAl)",
+      "is_locked": false,
+      "sample_ayah": "2:66",
+      "top_lemmas": [
+        "naka`l",
+        "tankiyl",
+        ">ankaAl"
+      ]
+    }
+  ]
+}
