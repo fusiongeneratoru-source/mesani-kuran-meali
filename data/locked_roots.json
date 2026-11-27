@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (17/50 — Toplam 967 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (18/50 — Toplam 968 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -12765,7 +12765,8 @@
           "ن-د-و (N-D-W (ndw) — Çift Yönlü Mesânî Karşılığı: 41:44, 50:41)",
           "ش-ق-ق (Ş-K-K ($qq) — Çift Yönlü Mesânî Karşılığı: 80:26, 2:74, 4:35, 16:7)",
           "ق-ل-ي",
-          "ج-ف-و (Tetecâfâ: iki yüzeyin temasını kesip birbirinden açılıp uzaklaşması ↔ ق-ر-ب yakınlaşıp bitişmek — `32:16`)"
+          "ج-ف-و (Tetecâfâ: iki yüzeyin temasını kesip birbirinden açılıp uzaklaşması ↔ ق-ر-ب yakınlaşıp bitişmek — `32:16`)",
+          "أ-م-د (Emed: uzağa uzatılmış uzun süre veya mesafe aralığı ↔ ق-ر-ب hemen yakındaki zaman/mesafe — aynı ayette doğrudan karşıtlık `72:25`)"
         ],
         "key_ayahs": [
           "2:35",
@@ -35707,7 +35708,8 @@
           "ر-ب-ص (ر-ب-ص ↔ ع-ج-ل Mesânî simetrisi)",
           "ش-ف-ق (Ş-F-Q ($fq) — Çift Yönlü Mesânî Karşılığı: `42:18` [يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا] — hakikati örtenlerin saati alayla acele istemesi `يَسْتَعْجِلُ` ↔ inananların ondan titrek bir duyarlıkla sakınması `مُشْفِقُونَ`)",
           "م-ه-ل (M-H-L (mhl) — Çift Yönlü Mesânî Karşılığı: `73:11`, `86:17` [وَمَهِّلْهُمْ قَلِيلًا / فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا] — ağırdan alıp ölçülü süre tanımak `تَمْهِيل / إِمْهَال` ↔ hemen hızlandırıp acele etmek `عَجَلَة`)",
-          "م-ل-و (İmlâ/Meliyy: süreyi uzatıp uzun mühlet tanımak ↔ ع-ج-ل acele edip hemen karşılığını vermek — `3:178`, `13:32`, `22:48`)"
+          "م-ل-و (İmlâ/Meliyy: süreyi uzatıp uzun mühlet tanımak ↔ ع-ج-ل acele edip hemen karşılığını vermek — `3:178`, `13:32`, `22:48`)",
+          "أ-م-د (Emed: uzayıp giden vade ve aralık ↔ ع-ج-ل bekletmeden çabucak gerçekleşmek — `57:16`, `72:25`)"
         ],
         "key_ayahs": [
           "17:11 & 21:37 (وَكَانَ ٱلْإِنسَٰنُ عَجُولًا / خُلِقَ ٱلْإِنسَٰنُ مِنْ عَجَلٍ — insanın aceleci tabiatı)",
@@ -81091,6 +81093,81 @@
           "meaning": "Bir şeyin izini sürmek, ardına düşmek",
           "examples": [
             "17:36"
+          ]
+        }
+      ]
+    },
+    "أ-م-د": {
+      "root_latin": "E-M-D",
+      "arabic": "أ-م-د",
+      "rank": 847,
+      "morphology_and_rasm": {
+        "buckwalter": "Amd",
+        "rasm_skeleton": "امد (üçlü mehmûzü'l-fâ iskelet; Kur'an'da yalnızca tekil isim `أَمَد` olarak 4 geçiş / 4 ayet)",
+        "approx_frequency": "4 geçiş / 4 ayet (fiil formu geçmez; 3x nekre mansûb `أَمَدًا`, 1x marife merfû `ٱلْأَمَدُ`)",
+        "verb_forms_used": [],
+        "noun_forms_used": [
+          "أَمَد (`3:30`, `18:12`, `57:16`, `72:25` — uzanan zaman süresi, vade veya mesafe aralığı)"
+        ],
+        "preposition_patterns": [
+          "بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا (`3:30`: iki şey arasında çok uzak bir aralık/mesafe)",
+          "فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ (`57:16`: üzerlerinden uzun zaman aralığının geçmesi)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı somut çekirdek: 'koşunun veya zamanın uzanıp ulaştığı son sınır ve aralık' (`الْغَايَةُ` — yarış atının koştuğu mesafe gibi başı ve sonu bulunan uzatılmış zaman/mesafe dilimi `أَمَد`).",
+      "ibn_faris_asl": "(أَمَدَ) الْهَمْزَةُ وَالْمِيمُ وَالدَّالُ: الْأَمَدُ الْغَايَةُ، كَلِمَةٌ وَاحِدَةٌ لَا يُقَاسُ عَلَيْهَا. [Mu'cemü Mekâyîsi'l-Luğa, c. 1, s. 137, كتاب الهمزة, باب الهمزة والميم وما يثلثهما, أمد maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `أ-م-د` maddesini tek yalın sözcükle sınırlar: `الْأَمَدُ الْغَايَةُ` ('ulaşılacak son nokta/sınır ve oraya uzanan mesafe').",
+        "lisan_al_arab": "İbn Manzûr `أَمَد` kelimesinin hem ulaşılan son sınırı (`الْمُنْتَهَى`) hem de başlangıçla son arasındaki uzamış zaman/mesafe aralığını (`الْمَدَى`) bildirdiğini kaydeder.",
+        "ragib_al_isfahani": "Râgıb `أَبَد` ile `أَمَد` arasındaki kritik ayrımı koyar: `أَبَد` sınırı olmayan sonsuz zaman iken, `أَمَد` mutlaka başı ve sonu bulunan sınırlı bir zaman/mesafe dilimidir; `أَجَل` ile farkı ise `أَمَد`'in daha çok sürenin uzunluk-kısalık ve son gaye boyutuna odaklanmasıdır.",
+        "verdict": "Tüm 4 geçiş **'başı ve son sınırı bulunan uzamış zaman süresi veya mesafe aralığı (`أَمَد`)'** tek ölçülü süre çekirdeğinde birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*ʾ-m-d ('sınır, son nokta, belirli süre')",
+        "hebrew": "Doğrudan kesin bir İbranice eşkökeni tespit edilmemiştir.",
+        "aramaic_syriac": "Doğrudan kesin bir Aramice/Süryanice eşkökeni tespit edilmemiştir.",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Arapçada `أ-م-د` (sınırlı uzamış süre), `أ-ب-د` (sonsuzluk) ve `أ-ج-ل` (kesin belirlenmiş son tarih) arasındaki üçlü ayrım Kur'an'ın zaman terminolojisinde yüksek hassasiyetle korunur."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ق-ر-ب (Hemen yakındaki zaman/mesafe `أَقَرِيبٌ` ↔ أ-م-د uzağa uzatılmış uzun süre `أَمَدًا` — `72:25`)",
+          "ع-ج-ل (Çabucak ve gecikmeden gerçekleşmek ↔ أ-م-د uzayıp giden zaman aralığı — `57:16`, `72:25`)"
+        ],
+        "bidirectional_test": "`72:25`'teki `أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا` sorusu `ق-ر-ب` (yakınlık) ile `أ-م-د` (uzun süre/vade) zıtlığını doğrudan aynı ayette kurar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ق-ر-ب",
+          "ب-ع-د",
+          "ط-و-ل"
+        ],
+        "analysis": "`3:30`'da `أَمَدًۢا بَعِيدًا` (`ب-ع-د`) aradaki aralığın büyüklüğünü niteler. `57:16`'da `فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ` (`ط-و-ل`) zamanın uzamasının kalp katılığına yol açma tehlikesini, `72:25`'te ise `أَقَرِيبٌ ... أَمْ ... أَمَدًا` yakın gerçekleşme ile uzun vadeye bırakma arasındaki ayrımı netleştirir."
+      },
+      "anchor_ayahs": [
+        "57:16 (فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ — üzerlerinden uzun bir süre geçti de kalpleri katılaştı)",
+        "3:30 (تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا — yaptığı kötülükle kendi arasında uzak bir aralık olmasını ister)",
+        "72:25 (قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا — de ki: 'size söz verilen şey yakın mı, yoksa Rabbim onun için uzun bir süre mi koyar, bilmem')",
+        "18:12 (لِنَعْلَمَ أَىُّ ٱلْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًا — iki topluluktan hangisinin kaldıkları süreyi daha iyi hesapladığını bilelim diye)"
+      ],
+      "unified_core_mechanism": "`أ-م-د` kökü 4 geçişinin tamamında **'başlangıcı ve sonu bulunan uzamış süre veya mesafe aralığı (`أَمَد`)'** kavramını taşır.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Zaman Süresi / Vade (`18:12`, `57:16`, `72:25`): Geçmişte kalınan süre (`18:12`), uzayıp giden tarihsel aralık (`57:16`) veya gelecekteki vade (`72:25`).",
+          "Dal 2 — Mesafe/Ayrılık Aralığı (`3:30`): `أَمَدًۢا بَعِيدًا` tamlamasıyla kişi ile kötülüğü arasındaki uzaklık."
+        ],
+        "irab_notes": "`18:12`'de `أَمَدًا` temyiz (veya `لَبِثُوٓا۟` için zarf), `3:30`'da `أَنَّ`'nin muahhar ismi, `57:16`'da `طَالَ`'nin fâilidir."
+      },
+      "derivatives": [
+        {
+          "form": "أَمَد",
+          "pos": "İsim",
+          "meaning": "Başı ve sonu olan uzamış süre, vade, mesafe aralığı",
+          "examples": [
+            "3:30",
+            "18:12",
+            "57:16",
+            "72:25"
           ]
         }
       ]

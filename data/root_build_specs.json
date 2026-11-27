@@ -64953,5 +64953,49 @@
       }
     ],
     "context_default": "İzinden yürümek, peşi sıra göndermek veya bilgisiz iddianın ardına düşmemek bağlamı"
+  },
+  "أ-م-د": {
+    "buckwalter": "Amd",
+    "slug": "amd",
+    "concept_name": "Emed (Başlangıcı ve Sonu Olan Uzamış Süre, Belirli Zaman/Mesafe Aralığı ve Vade)",
+    "root_latin": "E-M-D",
+    "keywords": [
+      "emed",
+      "sure",
+      "uzun vade",
+      "zaman araligi",
+      "mesafe",
+      "gaye"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">amad",
+        "ayahs": [
+          "3:30",
+          "18:12",
+          "57:16",
+          "72:25"
+        ],
+        "label": "İsim (`أَمَدًۢا / ٱلْأَمَدُ` — uzanan belirli zaman/mesafe aralığı ve son sınır: `3:30` kişinin işlediği kötülükle kendi arasında uzak bir mesafe/süre olmasını dilemesi `أَمَدًۢا بَعِيدًا`; `18:12` mağara arkadaşlarının kaldıkları süreyi kimin daha iyi hesapladığı; `57:16` önceki kitap verilenlerin üzerinden sürenin uzayıp kalplerinin katılaşması `فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ`; `72:25` uyarının yakın mı yoksa Rabbin ona uzun bir süre mi koyduğu; 4 geçiş / 4 ayet)"
+      }
+    ],
+    "irab_default": "Başlangıcı ve son sınırı olan uzamış zaman veya mesafe aralığını (`أَمَد`) bildiren `أ-م-د` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:12",
+          "57:16",
+          "72:25"
+        ],
+        "text": "Uzayan Zaman Aralığı ve Vade (`18:12`, `57:16`, `72:25`): Mağaradakilerin kaldıkları sürenin hesaplanması (`لِمَا لَبِثُوٓا۟ أَمَدًا`, `18:12`), zaman uzadıkça vahiy karşısında kalplerin katılaşması uyarısı (`فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ`, `57:16`) ve verilen sözün yakın mı yoksa uzun bir vadeye mi bırakıldığının yalnızca Allah'ça bilinmesi (`أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا`, `72:25`)."
+      },
+      {
+        "ayahs": [
+          "3:30"
+        ],
+        "text": "Kötülükle Kendi Arasına Uzak Mesafe Dilemek (`3:30`): Hesap gününde her insanın yaptığı kötülüğü karşısında hazır bulduğunda, kendisiyle o kötülük arasında çok uzak bir aralık/mesafe olmasını arzulaması (`تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا`)."
+      }
+    ],
+    "context_default": "Belirli son sınırı olan uzun zaman süresi veya mesafe aralığı bağlamı"
   }
 }
