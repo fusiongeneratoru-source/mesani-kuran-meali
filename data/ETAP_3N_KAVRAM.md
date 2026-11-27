@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 26 / 50 Kök (Toplam Mühürlü: 926 Kök | Güncel Kapsam: %96,53)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 27 / 50 Kök (Toplam Mühürlü: 927 Kök | Güncel Kapsam: %96,53)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -33,7 +33,7 @@
 | 24 | Sure %100 Kilidi | 647 | `خ-ض-ر` | `H-D-R` | **8** | 8 | 6:99 | Hadır, Ahdar, Hudr ve Muhdarra (Suyla Canlanan Yeşil Bitki Örtüsü, Yeşil Başaklar ve Yeşil Dokumalar) | ✅ **MÜHÜRLÜ** |
 | 25 | Sure %100 Kilidi | 740 | `ل-أ-ل-أ` | `L-E-L-E` | **6** | 6 | 22:23 | Lü'lü' (Işıl Işıl Parlayan, Sedefli ve Kıymetli Deniz İncisi) | ✅ **MÜHÜRLÜ** |
 | 26 | Sure %100 Kilidi | 1034 | `س-ل-س-ل` | `S-L-S-L` | **3** | 3 | 40:71 | Silsile ve Selâsil (Halkaları Birbirine Kenetli, Hareketi Bağlayan Uzun Zincirler) | ✅ **MÜHÜRLÜ** |
-| 27 | Sure %100 Kilidi | 1236 | `ق-ط-ف` | `K-T-F` | **2** | 2 | 69:23 | Kutûf (Sure 76 İnsân kilidi + 2 geçiş: 69:23, 76:14 el uzatılınca kolayca devşirilebilen salkım/meyveler) | ⏳ *Bekliyor* |
+| 27 | Sure %100 Kilidi | 1236 | `ق-ط-ف` | `K-T-F` | **2** | 2 | 69:23 | Kutûf (Ağaçtan El Uzatılınca Kolayca Devşirilip Koparılabilen Yakın Meyve Salkımları) | ✅ **MÜHÜRLÜ** |
 | 28 | Sure %100 Kilidi | 1579 | `م-ش-ج` | `M-S-C` | **1** | 1 | 76:2 | Emşâc (Sure 76 İnsân kilidi: 76:2 birbirine karışmış/bileşik hâldeki damla özü) | ⏳ *Bekliyor* |
 | 29 | Sure %100 Kilidi | 1580 | `ق-م-ط-ر` | `K-M-T-R` | **1** | 1 | 76:10 | Kamtârîr (Sure 76 İnsân kilidi: 76:10 şiddetinden yüzleri buruşturan, pek çetin ve somurtkan gün) | ⏳ *Bekliyor* |
 | 30 | Sure %100 Kilidi | 1581 | `ز-م-ه-ر` | `Z-M-H-R` | **1** | 1 | 76:13 | Zemherîr (Sure 76 İnsân son kilidi: 76:13 dondurucu ve yakıcı derecede şiddetli ayaz — 54. tam kilitli sure!) | ⏳ *Bekliyor* |

@@ -62946,5 +62946,39 @@
       }
     ],
     "context_default": "Halkaları birbirine kenetli bağlayıcı zincirler bağlamı"
+  },
+  "ق-ط-ف": {
+    "buckwalter": "qTf",
+    "slug": "qtf",
+    "concept_name": "Kutûf (Ağaçtan El Uzatılınca Kolayca Devşirilip Koparılabilen Yakın Meyve Salkımları)",
+    "root_latin": "K-T-F",
+    "keywords": [
+      "kutuf",
+      "meyve salkimlari",
+      "devsirmek",
+      "koparmak",
+      "yakin meyveler"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "quTuwf",
+        "ayahs": [
+          "69:23",
+          "76:14"
+        ],
+        "label": "Kırık çoğul isim (`قُطُوفُهَا دَانِيَةٌ / وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا`, tekili `قِطْف` — dalından kolayca devşirilip koparılan meyve salkımları: `69:23` salkımları pek yakın sarkmış bahçe, `76:14` gölgeleri üzerlerine eğilmiş ve salkımları el uzatılınca kolayca devşirilecek biçimde boyun eğdirilmiş bahçe; 2 geçiş)"
+      }
+    ],
+    "irab_default": "Ağaçtan devşirilip koparılan meyve salkımlarını bildiren `ق-ط-ف` çoğul ismi (`قُطُوف`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "69:23",
+          "76:14"
+        ],
+        "text": "Zahmetsizce Erişilen Yakın Meyve Salkımları (`69:23`, `76:14`): Ödül yurdundaki yüksek bahçelerde meyve salkımlarının (`قُطُوفُهَا`) hiç zahmet çekmeden, ayakta, otururken veya uzanırken kolayca devşirilebilecek kadar yakın (`دَانِيَةٌ`, `69:23`) ve tamamen ulaşılabilir (`ذُلِّلَتْ تَذْلِيلًا`, `76:14`) kılınması."
+      }
+    ],
+    "context_default": "Dalından zahmetsizce devşirilen yakın meyve salkımları bağlamı (`69:23`, `76:14`)"
   }
 }
