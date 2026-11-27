@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (45/50 — Toplam 945 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (46/50 — Toplam 946 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -33832,7 +33832,8 @@
           "د-ف-ع",
           "ن-ب-ذ (N-B-Z (nb*) — Çift Yönlü Mesânî Karşılığı: 2:100, 2:101, 3:187, 20:96)",
           "ص-ب-ب (Sabb: yukarıdan bolca döküp boşaltmak ↔ م-س-ك akışı tutup alıkoymak)",
-          "ف-ي-ض (İfâza: bolca döküp akıtmak ve salıvermek ↔ م-س-ك tutup hapsetmek, akışını kesmek — `7:50`, `2:199`)"
+          "ف-ي-ض (İfâza: bolca döküp akıtmak ve salıvermek ↔ م-س-ك tutup hapsetmek, akışını kesmek — `7:50`, `2:199`)",
+          "ق-ذ-ف (Kazf: elden çıkarıp uzağa veya hedefe kuvvetle fırlatmak ↔ م-س-ك elinde sımsıkı tutup bırakmamak — `20:39`, `20:87`)"
         ],
         "key_ayahs": [
           "35:2 & 39:42 (مَا يَفْتَحِ ... فَلَا مُمْسِكَ لَهَا وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ — tutma ve salıverme kozmik yasası)",
@@ -79235,6 +79236,95 @@
             "35:27",
             "35:28",
             "39:21"
+          ]
+        }
+      ]
+    },
+    "ق-ذ-ف": {
+      "root_latin": "Q-DH-F",
+      "arabic": "ق-ذ-ف",
+      "rank": 628,
+      "morphology_and_rasm": {
+        "buckwalter": "q*f",
+        "rasm_skeleton": "قذف (üçlü sahih iskelet; tamamı I. bab fiil olarak 9 kez: 8 etken + 1 edilgen)",
+        "approx_frequency": "9 geçiş / 8 ayet (tamamı I. bab fiil `قَذَفَ / يَقْذِفُ / يُقْذَفُونَ` — isim formu Kur'an'da geçmez)",
+        "verb_forms_used": [
+          "I. Bab (قَذَفَ — 9 geçiş: 20:39 [2x], 20:87, 21:18, 33:26, 34:48, 34:53, 37:8, 59:2)"
+        ],
+        "noun_forms_used": [],
+        "preposition_patterns": [
+          "قَذَفَ فِى (`20:39` [2x], `33:26`, `59:2`: bir yerin veya kalbin içine hızla salıp atmak)",
+          "قَذَفَ بِـ (`21:18`, `34:48`, `34:53`: `بِـ` ile fırlatılan şeyi — hakikati veya delilsiz tahmini — hedefe savurmak)",
+          "يُقْذَفُونَ مِن كُلِّ جَانِبٍ (`37:8`: edilgen olarak her yönden atışa/taşlanmaya tutulmak)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı somut çekirdek: 'bir şeyi kuvvetle fırlatıp uzağa atmak/savurmak' (`الرَّمْيُ وَالطَّرْحُ` — nesneyi hızla bırakmak, taşı/ok gibi hakikati hedefe çarpmak, kalbin içine aniden korku salmak ve uzaktan delilsiz söz fırlatmak).",
+      "ibn_faris_asl": "(قَذَفَ) الْقَافُ وَالذَّالُ وَالْفَاءُ أَصْلٌ يَدُلُّ عَلَى الرَّمْيِ وَالطَّرْحِ. يُقَالُ: قَذَفَ الشَّيْءَ يَقْذِفُهُ قَذْفًا، إِذَا رَمَى بِهِ. [Mu'cemü Mekâyîsi'l-Luğa, c. 5, كتاب القاف, باب القاف والذال وما يثلثهما, قذف maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ق-ذ-ف` kökünü tek somut harekete bağlar: kuvvetle atmak ve fırlatıp bırakmak (`الرَّمْيُ وَالطَّرْحُ`). Uzak beldeye `بَلْدَةٌ قَذُوفٌ` denmesi de yolculukta mesafenin insanı uzağa savurmasındandır.",
+        "lisan_al_arab": "İbn Manzûr `قَذَفَ` fiilinin taş, ok veya ağır bir şeyi kuvvetle fırlatmayı ifade ettiğini; `21:18`'deki `نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَٰطِلِ` ifadesinin hakikatin bâtılı darmadağın eden darbesini, `34:53`'teki `يَقْذِفُونَ بِٱلْغَيْبِ` ifadesinin ise hedefsiz ve mesnetsiz söz savurmayı anlattığını belirtir.",
+        "ragib_al_isfahani": "Râgıb `20:39`'daki `ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ` ifadesinde 'fırlatmak' yerine 'tereddüt etmeden hızla ve derhal bırakmak' hız vurgusu bulunduğunu; `33:26` ve `59:2`'de ise dehşetin dışsal bir etkiyle aniden kalbe düşürülmesini (`قَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ`) gösterdiğini açıklar.",
+        "verdict": "Tüm 9 geçiş **'kuvvetle ve hızla hedefe fırlatıp atmak, aniden içine salmak veya uzaktan söz savurmak (`قَذَفَ`)'** tek fiziksel atış çekirdeğinde tam birlik gösterir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*q-ḏ-p ('fırlatmak, savurmak, itmek')",
+        "hebrew": "Doğrudan kesin bir İbranice eşkökeni tespit edilmemiştir.",
+        "aramaic_syriac": "Aramice/Süryanice qdp ('kürek çekmek / suyu itip savurmak') ile ses yakınlığı literatürde anılır.",
+        "akkadian": "Doğrudan kesin bir Akadca eşköken tespit edilmemiştir.",
+        "comparative_note": "Arapçada `ق-ذ-ف` fiziksel fırlatma enerjisini hem maddi nesnelere (`20:39`, `20:87`, `37:8`), hem psikolojik etkiye (`33:26`, `59:2`), hem de hakikat-bâtıl çarpışmasına (`21:18`, `34:48`, `34:53`) aktarır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ح-ص-ن (Korunaklı kale altında güvende olmak ↔ ق-ذ-ف dışarıdan kuvvetle atış yapmak ve klasik kullanımda belgesiz söz fırlatmak — `33:26`, `34:53`)",
+          "م-س-ك (Elde tutup bırakmamak ↔ ق-ذ-ف hızla elden çıkarıp uzağa veya hedefe fırlatmak — `20:39`, `20:87`)"
+        ],
+        "bidirectional_test": "`33:26` ve `59:2`'de kalelerin (`صَيَاصِي / حُصُون`) koruyuculuğunu aşarak doğrudan kalplerin içine salınan korku (`قَذَفَ`) ve `20:39`/`20:87`'de elden bırakıp atma (`قَذَفَ`), tutup saklamanın (`م-س-ك`) ve korunaklı güvenliğin (`ح-ص-ن`) doğrudan karşıtıdır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ل-ق-ي",
+          "ر-م-ي",
+          "د-م-غ"
+        ],
+        "analysis": "`20:39`'da `ٱقْذِفِيهِ` annenin bebeği sandığa ve nehre acilen bırakışını, hemen devamındaki `فَلْيُلْقِهِ` (`ل-ق-ي`) ise nehrin sandığı kıyıya yumuşakça bırakışını ayırır. `21:18`'de `نَقْذِفُ` hakikatin yüksek hızla fırlatılışını, `فَيَدْمَغُهُۥ` (`د-م-غ`) ise bâtılın kafasını dağıtıp yok etmesini tamamlar."
+      },
+      "anchor_ayahs": [
+        "21:18 (بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَٰطِلِ فَيَدْمَغُهُۥ فَإِذَا هُوَ زَاهِقٌ — aksine biz hakikati bâtılın üstüne kuvvetle fırlatırız da onun beynini parçalar, bir bakarsın yok olup gitmiştir)",
+        "20:39 (أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ — onu hemen sandığa bırak, sonra da sandığı ırmağa bırak)",
+        "33:26 (وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ — kalplerine aniden dehşet saldı)",
+        "34:53 (وَيَقْذِفُونَ بِٱلْغَيْبِ مِن مَّكَانٍۭ بَعِيدٍ — uzak bir yerden görünmeyen hakkında delilsiz sözler savururlar)"
+      ],
+      "unified_core_mechanism": "`ق-ذ-ف` kökü 9 geçişinin tamamında I. bab fiil olarak **'kuvvetle veya hızla bir hedefe fırlatıp atmak / içine salmak'** tek fiziksel mekanizmasını yürütür.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — Nesneyi Hızla Bırakıp Atmak (`20:39` [2x], `20:87`): Doğrudan mef'ûl alır.",
+          "Dal 2 — Hakikati/Sözü Fırlatmak (`21:18`, `34:48`, `34:53`): `بِـ` harf-i cerriyle fırlatılan öğeyi kuvvetle belirtir.",
+          "Dal 3 — Kalbe Dehşet Salmak (`33:26`, `59:2`): `فِى قُلُوبِهِمُ ٱلرُّعْبَ` kalıbı.",
+          "Dal 4 — Edilgen Atışa Tutulmak (`37:8`): `يُقْذَفُونَ مِن كُلِّ جَانِبٍ`."
+        ],
+        "irab_notes": "`21:18`, `34:48` ve `34:53`'teki `بِـ` harf-i cerri `قَذَفَ` fiilinin 'fırlatma aracı/nesnesi' ile geçişliliğini pekiştirir."
+      },
+      "derivatives": [
+        {
+          "form": "قَذَفَ / قَذَفْنَٰهَا / نَقْذِفُ / يَقْذِفُ / يَقْذِفُونَ / ٱقْذِفِيهِ",
+          "pos": "Fiil (I. Bab Etken)",
+          "meaning": "Kuvvetle fırlatmak, hızla bırakmak, kalbe salmak, delilsiz söz savurmak",
+          "examples": [
+            "20:39",
+            "20:87",
+            "21:18",
+            "33:26",
+            "34:48",
+            "34:53",
+            "59:2"
+          ]
+        },
+        {
+          "form": "يُقْذَفُونَ",
+          "pos": "Fiil (I. Bab Edilgen)",
+          "meaning": "Her yandan atışla kovulup taşlanmak",
+          "examples": [
+            "37:8"
           ]
         }
       ]
