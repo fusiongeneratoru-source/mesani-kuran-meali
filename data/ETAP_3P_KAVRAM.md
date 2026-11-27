@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 11 / 50 Kök (Toplam Mühürlü: 1011 Kök | Güncel Kapsam: %97,36)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 12 / 50 Kök (Toplam Mühürlü: 1012 Kök | Güncel Kapsam: %97,37)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -18,7 +18,7 @@
 | 9 | 6 Geçişli Çekirdek | 707 | `د-أ-ب` | `D-E-B` | **6** | 6 | 3:11 | De'b, Deeb ve Dâibeyn (Aksatmadan Sürekli Sürdürülen Gidişat, Düzenli Yörünge Akışı ve Azimli Çalışma) | ✅ **MÜHÜRLÜ** |
 | 10 | 6 Geçişli Çekirdek | 709 | `د-ر-س` | `D-R-S` | **6** | 6 | 3:79 | Ders ve Dirâse (Bir Metni İz Sürer Gibi Tekrar Tekrar Okuyup İnceleyerek Derinlemesine Öğrenmek) | ✅ **MÜHÜRLÜ** |
 | 11 | 6 Geçişli Çekirdek | 739 | `ف-ز-ع` | `F-Z-A` | **6** | 6 | 21:103 | Feza' ve Fezia (Ani Ürküntüyle İrkilme, Dehşetli Panik ve Kalpten Dehşetin Giderilmesi) | ✅ **MÜHÜRLÜ** |
-| 12 | 6 Geçişli Çekirdek | 711 | `ك-ظ-م` | `K-Z-M` | **6** | 6 | 3:134 | Kâzımîn, Kazîm ve Mekzûm (6/6: dolu tulumun ağzını bağlar gibi öfkeyi ve kederi içine hapsedip yutmak) | ⏳ *Bekliyor* |
+| 12 | 6 Geçişli Çekirdek | 711 | `ك-ظ-م` | `K-Z-M` | **6** | 6 | 3:134 | Kâzım, Kezîm ve Mekzûm (Dolu Tulumun Ağzını Bağlar Gibi Öfkeyi/Kederi İçinde Tutup Bastırmak) | ✅ **MÜHÜRLÜ** |
 | 13 | 6 Geçişli Çekirdek | 736 | `ك-ه-ف` | `K-H-F` | **6** | 6 | 18:9 | Kehf (6/6: dağ içindeki geniş sığınak mağara — Ashâb-ı Kehf kıssası) | ⏳ *Bekliyor* |
 | 14 | 6 Geçişli Çekirdek | 699 | `ك-ر-ر` | `K-R-R` | **6** | 6 | 2:167 | Kerre (6/6: geri dönüp bir kez daha hamle yapmak / ikinci bir dönüş fırsatı) | ⏳ *Bekliyor* |
 | 15 | 6 Geçişli Çekirdek | 727 | `ل-ح-د` | `L-H-D` | **6** | 6 | 7:180 | Yülhidûn, İlhâd ve Mültehad (6/6: doğru eksenden yana eğilip sapmak ve sığınılacak yan kovuk) | ⏳ *Bekliyor* |

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 1011,
+    "total_locked": 1012,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -5075,7 +5075,8 @@
       "opposites": [
         "ح-ف-ظ [وَيَحْفَظُوا۟ فُرُوجَهُمْ / وَيَحْفَظْنَ فُرُوجَهُنَّ / لِفُرُوجِهِمْ حَٰفِظُونَ] (Açık ve Duyarlı Mahremiyet Sınırı ↔ İffeti Titizlikle Gözetip Korumak [فُرُوج & ح-ف-ظ]: 23:5, 24:30-31, 33:35, 70:29)",
         "ح-ص-ن [وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا] (Açık Mahremiyet Sınırı ↔ Kale Gibi Sağlam İffetle Güvenceye Almak [أَحْصَنَتْ & فَرْجَهَا]: 21:91, 66:12)",
-        "ز-ي-ن [وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٍ / وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ] (Bütünlüklü Estetik Süsleme ↔ Çatlak/Gedik ve Mahremiyet Koruması [ز-ي-ن & ف-ر-ج]: 24:31, 50:6)"
+        "ز-ي-ن [وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٍ / وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ] (Bütünlüklü Estetik Süsleme ↔ Çatlak/Gedik ve Mahremiyet Koruması [ز-ي-ن & ف-ر-ج]: 24:31, 50:6)",
+        "ك-ظ-م (Kezm: öfke/kederle dolup ağzı bağlanmış gibi içte sıkışmak ↔ ف-ر-ج yarılıp açılmak, ferahlamak ve dışarı taşmak — `12:84, 68:48`)"
       ]
     },
     "ط-ل-ق": {
@@ -5993,7 +5994,8 @@
         "ك-ف-ف (K-F-F (kff) — Çift Yönlü Mesânî Karşılığı: 5:11, 13:14 [يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ — eli açıp dışa uzatmak ↔ eli geri çekip tutmak])",
         "خ-ز-ن (H-Z-N (xzn) — Çift Yönlü Mesânî Karşılığı: bir kaynağı korunaklı haznede toplayıp muhafaza etmek `خَزْن` ↔ yayıp cömertçe ortaya sermek `بَسْط`)",
         "ك-و-ر (Tekvîr: bir şeyi yuvarlayarak dairesel biçimde toplayıp sarmak ↔ ب-س-ط katını açıp düzlüğe yaymak)",
-        "ع-ن-ق (Elini boynuna bağlı tutup sıkmak ↔ ب-س-ط elini alabildiğine açıp yaymak — `17:29` [aynı ayette])"
+        "ع-ن-ق (Elini boynuna bağlı tutup sıkmak ↔ ب-س-ط elini alabildiğine açıp yaymak — `17:29` [aynı ayette])",
+        "ك-ظ-م (Kezm: içsel basıncı sımsıkı tutup hapsetmek ↔ ب-س-ط genişleyip rahatça açılmak — `3:134, 40:18`)"
       ]
     },
     "م-ن-ع": {
@@ -12441,6 +12443,15 @@
       "opposites": [
         "أ-م-ن (Tam güven ve emniyet içinde olma `ءَامِنُونَ` ↔ ف-ز-ع ani şokla sarsılan dehşet ve panik `مِن فَزَعٍ` — `27:89`)",
         "س-ك-ن (İçsel durulma ve dinginlik ↔ ف-ز-ع panikle yerinden sıçrama ve irkilme — `21:103, 27:87`)"
+      ]
+    },
+    "ك-ظ-م": {
+      "latin": "K-Z-M",
+      "core": "`ك-ظ-م` kökü 6 ayetin tamamında **'dolu tulumun ağzını bağlar gibi öfke, keder veya soluğu dışarı taşırmadan içinde sımsıkı tutup bastırmak / tıkanmak'** tek mekanizmasıyla işler.",
+      "physical": "İbn Fâris'in saptadığı tek somut fiziksel çekirdek: 'bir şeyi sımsıkı tutup içinde toplamak (`الْإِمْسَاكُ وَالْجَمْعُ لِلشَّيْءِ`)' — somut sahada ağzına kadar suyla dolmuş kırbanın/tulumun ağzını ipiyle bağlayıp suyun taşmasını engellemek (`كَظْمُ السِّقَاءِ`). İnsanda öfkeyi (`3:134`), kederi (`12:84, 68:48`) veya dehşetle boğaza dayanan soluğu (`40:18`) dışa taşırmadan içinde tutma/tıkanma hâli doğrudan bu tulum bağlama mekanizmasıdır.",
+      "opposites": [
+        "ف-ر-ج (Yarılıp açılmak, sıkışıklıktan kurtulup ferahlamak ↔ ك-ظ-م içi dolup ağzı bağlanmış gibi tıkanmak — `12:84, 68:48`)",
+        "ب-س-ط (Genişleyip rahatça açılmak ↔ ك-ظ-م öfke veya kederi içte sıkıştırıp hapsetmek — `3:134, 40:18`)"
       ]
     }
   }
