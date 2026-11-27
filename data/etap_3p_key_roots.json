@@ -1,10 +1,10 @@
 {
   "package": "Faz 1 - Etap 3P (En Yüksek Frekanslı Kalan 50 Kök: Kalan Tüm 24 Adet 6 Geçişli Kök [≥6 Açık = 0!] + 26 Adet 5 Geçişli Çekirdek Kök — 1.050 Kök!)",
   "target_count": 50,
-  "locked_count": 20,
+  "locked_count": 21,
   "total_tokens_in_package": 274,
   "total_corpus_tokens": 49968,
-  "current_coverage_pct": 97.47,
+  "current_coverage_pct": 97.48,
   "target_coverage_pct": 97.78,
   "etap_3p_roots": [
     {
@@ -387,8 +387,8 @@
       "frequency": 6,
       "unique_ayahs": 5,
       "rationale": "Zecr, Zecre, Zâcirât ve Müzdecer (6/5: sert uyarıyla engelleyip caydırmak, tek bir haykırış ve sürüp yönlendirenler)",
-      "concept_label": "Analiz Bekliyor (zajorap, z~a`jira`t, zajor, muzodajar)",
-      "is_locked": false,
+      "concept_label": "Zecr, Zecre, Zâcirât ve Müzdecer (Sert Uyarıyla Sürüp Yönlendirmek, Tek Sarsıcı Haykırış ve Caydırıp Engellemek)",
+      "is_locked": true,
       "sample_ayah": "37:2",
       "top_lemmas": [
         "zajorap",

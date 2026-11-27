@@ -67906,5 +67906,82 @@
       }
     ],
     "context_default": "Ayakla basma/çiğneme, sağlam yerleşme/uyum veya sayıyı denk getirme bağlamı"
+  },
+  "ز-ج-ر": {
+    "buckwalter": "zjr",
+    "slug": "zjr",
+    "concept_name": "Zecr, Zecre, Zâcirât ve Müzdecer (Sert Uyarıyla Sürüp Yönlendirmek, Tek Sarsıcı Haykırış ve Caydırıp Engellemek)",
+    "root_latin": "Z-C-R",
+    "keywords": [
+      "zecr",
+      "zecre",
+      "zacirat",
+      "muzdecer",
+      "caydirmak",
+      "haykiris",
+      "surmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "z~a`jira`t",
+        "ayahs": [
+          "37:2"
+        ],
+        "label": "I. Bab çoğul müennes ism-i fâil, ant üzerine atıfla mecrûr (`فَٱلزَّٰجِرَٰتِ زَجْرًا` — sert ses ve kararlı itkiyle sürüp yönlendiren veya caydırıp durduran güçlere ant olsun; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "zajor",
+        "ayahs": [
+          "37:2"
+        ],
+        "label": "Mef'ûl-i mutlak mastar, mansûb (`فَٱلزَّٰجِرَٰتِ زَجْرًا` — kararlı ve keskin bir sürme/caydırma ile pekiştirme; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "zajorap",
+        "ayahs": [
+          "37:19",
+          "79:13"
+        ],
+        "label": "İsm-i merre (tek seferlik eylem adı), haber ve merfû (`فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ` — yalnızca tek bir sarsıcı haykırış ve kesin sevk çağrısı; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "muzodajar",
+        "ayahs": [
+          "54:4"
+        ],
+        "label": "VIII. Bab masdar-ı mîmî / ism-i mef'ûl (`مَا فِيهِ مُزْدَجَرٌ` — içinde yanlış gidişten caydırıcı, alıkoyucu uyarı ve ibret bulunan; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "{zodujira",
+        "ayahs": [
+          "54:9"
+        ],
+        "label": "VIII. Bab edilgen mâzi fiil (`وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ` — Nûh'un kavmi tarafından hakaret ve tehditle sertçe azarlanıp engellenmesi; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Sert sesli sevk/haykırış veya caydırıcı engelleme bildiren `ز-ج-ر` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "37:2"
+        ],
+        "text": "Kararlı Sevk ve Caydırma Güçleri (`37:2`): Saf tutanlar (`ٱلصَّٰٓفَّٰتِ`) ile uyarı okuyanlar (`ٱلتَّٰلِيَٰتِ`) arasında, kararlı bir itki ve uyarıyla sürüp yönlendiren güçler (`فَٱلزَّٰجِرَٰتِ زَجْرًا`)."
+      },
+      {
+        "ayahs": [
+          "37:19",
+          "79:13"
+        ],
+        "text": "Tek Bir Sarsıcı Haykırışla Uyanış (`37:19, 79:13`): Yeniden dirilişin zahmetsizce yalnızca tek bir kesin haykırışla (`زَجْرَةٌ وَٰحِدَةٌ`) gerçekleşip herkesin bir anda uyanarak meydana çıkması."
+      },
+      {
+        "ayahs": [
+          "54:4",
+          "54:9"
+        ],
+        "text": "Caydırıcı İbret ve Elçiyi Engelleme Baskısı (`54:4, 54:9`): Geçmiş toplumlara dair haberlerde kötülükten vazgeçirecek yeterli caydırıcılık (`مُزْدَجَرٌ`, `54:4`) bulunmasına rağmen Nûh kavminin elçiyi yalanlayıp tehdit ve azarlamayla engellemeye (`وَٱزْدُجِرَ`, `54:9`) kalkışması."
+      }
+    ],
+    "context_default": "Sert sesle sürme, tek kesin haykırış veya caydırıp engelleme bağlamı"
   }
 }
