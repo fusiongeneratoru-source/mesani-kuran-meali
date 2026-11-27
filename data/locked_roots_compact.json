@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 1023,
+    "total_locked": 1024,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -132,7 +132,8 @@
         "ح-ق-ف (Hıkf / Ahkâf: eğilip kıvrılan kavisli yapı ↔ ق-و-م bükülmeden dik ve doğru durmak — `46:21`)",
         "ج-د-ر (Cidâr: eğilip çökmeye yüz tutan duvar ↔ ق-و-م onu yeniden doğrultup ayakta tutmak `فَأَقَامَهُۥ` — `18:77`)",
         "ح-ص-د (Hasîd: orakla biçilmiş gibi yerle bir olup silinmiş yurt `وَحَصِيدٌ` ↔ ق-و-م hâlâ dimdik ayakta duran yurt `قَآئِمٌ` — `11:100`)",
-        "ل-ح-د (İlhâd: düz istikametten yana meyledip eğilmek ve saptırmak `يُلْحِدُونَ` ↔ ق-و-م dimdik doğruluk ve eksende sabit durmak — `7:180, 41:40`)"
+        "ل-ح-د (İlhâd: düz istikametten yana meyledip eğilmek ve saptırmak `يُلْحِدُونَ` ↔ ق-و-م dimdik doğruluk ve eksende sabit durmak — `7:180, 41:40`)",
+        "م-ي-ل (M-Y-L [myl] — Çift Yönlü Mesânî Karşılığı)"
       ]
     },
     "ر-ك-ع": {
@@ -4016,7 +4017,8 @@
         "ش-ن-أ (Terazinin iki kefesini eşitleyip tam oran ve denge kurmak (`82 ↔ Birine karşı içte çalkalanıp kabaran şiddetli kin, nefret ve itici düşmanlık (الْبِغْضَةُ : 5:2, 5:8, 108:3)",
         "ل-و-ي (L-W-Y (lwy) — Çift Yönlü Mesânî Karşılığı: `4:135` [أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟] — adalet terazisini düz ve dengeli tutmak `تَعْدِلُوا۟` ↔ tanıklığı yana eğip bükmek `تَلْوُۥٓا۟`)",
         "ص-غ-و (S-G-W (Sgw) — Çift Yönlü Mesânî Karşılığı: terazinin kefelerini eşit ve yatay dengede tutmak `عَدْل` ↔ bir kefe gibi tek tarafa eğilip yatmak `صَغْو`)",
-        "ج-و-ر (J-W-R (jwr) — Çift Yönlü Mesânî Karşılığı: `16:9`, `23:88` — doğruluk, denge ve adalet `عَدْل` ↔ doğrudan sapıp eğrilmek `جَوْر / جَآئِر`)"
+        "ج-و-ر (J-W-R (jwr) — Çift Yönlü Mesânî Karşılığı: `16:9`, `23:88` — doğruluk, denge ve adalet `عَدْل` ↔ doğrudan sapıp eğrilmek `جَوْر / جَآئِر`)",
+        "م-ي-ل (M-Y-L [myl] — Çift Yönlü Mesânî Karşılığı)"
       ]
     },
     "ق-س-ط": {
@@ -12573,6 +12575,15 @@
       "opposites": [
         "ص-ل-ح (Arasını düzeltip barıştırmak ve onarmak ↔ ن-ز-غ araya sızıp dürtükleyerek bozmak — `12:100, 17:53`)",
         "أ-ل-ف (Kalpleri ısındırıp birleştirip kaynaştırmak ↔ ن-ز-غ kardeşlerin ve insanların arasına düşmanlık sokmak — `12:100, 17:53`)"
+      ]
+    },
+    "م-ي-ل": {
+      "latin": "M-Y-L",
+      "core": "`م-ي-ل` kökü 6 geçişin tamamında **'orta dengeden ve doğru eksenden bir yana eğilip kaymak (`تَمِيلُوا۟ مَيْلًا`, `كُلَّ ٱلْمَيْلِ`) veya `عَلَى` ile bir hedefe bütün ağırlığıyla tek hamlede yüklenmek (`يَمِيلُونَ عَلَيْكُم مَّيْلَةً`)'** tek mekanizmasıyla işler.",
+      "physical": "İbn Fâris'in tespit ettiği tek somut çekirdek: 'bir şeyin orta dengesinden bir yanına doğru eğilip kayması (`انْحِرَافٌ فِي الشَّيْءِ إِلَى جَانِبٍ مِنْهُ`)' — terazinin kefesinin veya dik bir gövdenin merkezden bir yana yatması. Kur'an'da bu somut 'ağırlıkla bir yana eğilme' mekaniği; doğru yoldan büyük sapma (`4:27`), düşmanın tek hamlede üzerinize bütün ağırlığıyla yüklenip çullanması (`4:102`) ve eşler arasında dengeyi bozup bir tarafa büsbütün kaymama uyarısı (`4:129`) olarak tek çekirdekte çalışır.",
+      "opposites": [
+        "ع-د-ل (Dengeyi ve adaleti tutturmak `أَن تَعْدِلُوا۟` ↔ م-ي-ل dengeden bir tarafa büsbütün kaymak `فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ` — `4:129` [aynı ayette])",
+        "ق-و-م (Doğru eksende dimdik durmak ↔ م-ي-ل doğru eksenden büyük bir sapmayla yana eğilmek `أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا` — `4:27`)"
       ]
     }
   }

@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 23 / 50 Kök (Toplam Mühürlü: 1023 Kök | Güncel Kapsam: %97,51)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 24 / 50 Kök (Toplam Mühürlü: 1024 Kök | Güncel Kapsam: %97,52)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -30,7 +30,7 @@
 | 21 | 6 Geçişli Çekirdek | 743 | `ز-ج-ر` | `Z-C-R` | **6** | 5 | 37:2 | Zecr, Zecre, Zâcirât ve Müzdecer (Sert Uyarıyla Sürüp Yönlendirmek, Tek Sarsıcı Haykırış ve Caydırıp Engellemek) | ✅ **MÜHÜRLÜ** |
 | 22 | 6 Geçişli Çekirdek | 719 | `ك-ل-ب` | `K-L-B` | **6** | 4 | 5:4 | Kelb ve Mükellibîn (Köpek ve Av Hayvanlarını Eğitip Salmak) | ✅ **MÜHÜRLÜ** |
 | 23 | 6 Geçişli Çekirdek | 728 | `ن-ز-غ` | `N-Z-G` | **6** | 4 | 7:200 | Nezeğa ve Nezg (Araya Sızıp Bozgun Sokmak ve Dürtükleyip Kışkırtmak) | ✅ **MÜHÜRLÜ** |
-| 24 | 6 Geçişli Çekirdek | 715 | `م-ي-ل` | `M-Y-L` | **6** | 3 | 4:27 | Meyl, Yemîlu ve Meyle (6/3: bir tarafa eğilip yönelmek, adaletten sapmak ve toplu saldırı — ≥6 geçişli açık kök = 0!) | ⏳ *Bekliyor* |
+| 24 | 6 Geçişli Çekirdek | 715 | `م-ي-ل` | `M-Y-L` | **6** | 3 | 4:27 | Meyl, Yemîlu ve Meyle (Dengeden Bir Yana Eğilip Sapmak ve Tek Hamlede Topluca Yüklenmek) | ✅ **MÜHÜRLÜ** |
 | 25 | 5 Geçişli Mesânî | 807 | `ذ-م-م` | `Z-M-M` | **5** | 5 | 9:8 | Mezmûm ve Zimme (5/5 + Açık Mesânî [ح-م-د]: kınanıp yerilmiş olmak ve bozulmaması gereken güvence/ahd) | ⏳ *Bekliyor* |
 | 26 | 5 Geçişli Mesânî | 805 | `م-ض-ي` | `M-D-Y` | **5** | 5 | 8:38 | Madâ ve Mudiyy (5/5 + Açık Mesânî [ر-ج-ع]: ileriye doğru geçip gitmek ve örnek/sünnetin gelip geçmesi) | ⏳ *Bekliyor* |
 | 27 | 5 Geçişli Mesânî | 788 | `م-ي-د` | `M-Y-D` | **5** | 5 | 5:112 | Temîde ve Mâide (5/5 + Açık Mesânî [ر-س-و]: yerin sağa sola çalkalanıp sallanması ve üzerinde rızık sunulan sofra) | ⏳ *Bekliyor* |

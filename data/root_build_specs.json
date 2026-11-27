@@ -68101,5 +68101,73 @@
       }
     ],
     "context_default": "Araya bozgun sokma ve kışkırtıcı dürtü bağlamı"
+  },
+  "م-ي-ل": {
+    "buckwalter": "myl",
+    "slug": "myl",
+    "concept_name": "Meyl, Yemîlu ve Meyle (Dengeden Bir Yana Eğilip Sapmak ve Tek Hamlede Topluca Yüklenmek)",
+    "root_latin": "M-Y-L",
+    "keywords": [
+      "meyl",
+      "meyle",
+      "egilmek",
+      "sapmak",
+      "yuklenmek",
+      "cullanmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yamiylu",
+        "ayahs": [
+          "4:27",
+          "4:129"
+        ],
+        "label": "I. Bab muzâri fiil, mansûb/meczûm (`أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا` / `فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ` — doğru eksenden büyük bir sapmayla kaymak veya eşler arasında dengeyi bozup bir tarafa büsbütün eğilmek; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "mayol",
+        "ayahs": [
+          "4:27",
+          "4:129"
+        ],
+        "label": "Mef'ûl-i mutlak mastar veya ona izâfetle mecrûr (`مَيْلًا عَظِيمًا` / `كُلَّ ٱلْمَيْلِ` — ölçüsüz ve tam bir yana yatışı pekiştiren mastar; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "yamiylu",
+        "ayahs": [
+          "4:102"
+        ],
+        "label": "I. Bab muzâri fiil + `عَلَى` harf-i cerri (`فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً` — savunmasız anda üzerinize tek hamlede topluca yüklenip çullanmak; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "m~ayolap",
+        "ayahs": [
+          "4:102"
+        ],
+        "label": "İsm-i merre, mef'ûl-i mutlak ve mansûb (`مَّيْلَةً وَٰحِدَةً` — tek seferlik toplu baskın ve çullanma hamlesi; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Dengeden bir yana eğilip sapmayı veya `عَلَى` ile topluca yüklenmeyi bildiren `م-ي-ل` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:27"
+        ],
+        "text": "Arzulara Uyanların Büyük Sapma İsteği (`4:27`): Allah'ın insanlara dönüş ve arınma kapısı açmasına karşılık, arzularının peşine düşenlerin toplumun doğru eksenden büyük bir sapmayla yana kaymasını (`تَمِيلُوا۟ مَيْلًا عَظِيمًا`) istemesi."
+      },
+      {
+        "ayahs": [
+          "4:102"
+        ],
+        "text": "Savunma Halinde Toplu Baskın Tehlikesi (`4:102`): Gerçeği örten karşıtların silah ve teçhizattan gafil kalınan bir ânı kollayarak tek bir toplu hamleyle üzerlerine çullanma (`فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً`) arzusu."
+      },
+      {
+        "ayahs": [
+          "4:129"
+        ],
+        "text": "Eşler Arasında Büsbütün Bir Tarafa Eğilme Yasağı (`4:129`): İçsel duyguda mutlak eşitliğe güç yetirilemese bile hukuk ve muamelede bir tarafa büsbütün eğilip (`فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ`) diğerini askıda bırakma yasağı."
+      }
+    ],
+    "context_default": "Dengeden yana sapma veya topluca yüklenme bağlamı"
   }
 }
