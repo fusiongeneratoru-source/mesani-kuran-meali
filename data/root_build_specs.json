@@ -65197,5 +65197,62 @@
       }
     ],
     "context_default": "Bekleyip durma, ağır ağır sindirme ve kalıcı olma bağlamı"
+  },
+  "د-ر-أ": {
+    "buckwalter": "drA",
+    "slug": "dra",
+    "concept_name": "Der' ve İddirâ' (Bir Tehlikeyi, Kötülüğü veya Cezayı Kuvvetle İtip Savuşturmak; Suçu Birbirine Atıp İtişmek)",
+    "root_latin": "D-R-E",
+    "keywords": [
+      "der",
+      "iddira",
+      "savusturmak",
+      "itip uzaklastirmak",
+      "iyilikle kotulugu savmak",
+      "sucu birbirine atmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "yadora&uA@",
+        "ayahs": [
+          "3:168",
+          "13:22",
+          "24:8",
+          "28:54"
+        ],
+        "label": "I. bab fiil (`فَٱدْرَءُوا۟ / وَيَدْرَءُونَ / وَيَدْرَؤُا۟` — `دَرَأَ / يَدْرَأُ`: bir tehlikeyi, kötülüğü veya cezayı itip savuşturmak: `3:168` doğru söylüyorsanız kendinizden ölümü savuşturun; `13:22`, `28:54` kötülüğü iyilikle savıp etkisiz kılanlar `يَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ`; `24:8` kadının dört kez Allah adına tanıklıkla cezayı kendisinden savuşturması; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "{d~a`ra`#o",
+        "ayahs": [
+          "2:72"
+        ],
+        "label": "VI. bab idgamlı mâzi (`فَٱدَّٰرَْٰٔتُمْ فِيهَا` — aslı `تَدَارَأْتُمْ`: bir cana kıydığınızda suçu karşılıklı olarak birbirinizin üstüne atıp itişip savuşturdunuz; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Bir tehlikeyi, kötülüğü veya cezayı itip savuşturmayı (`دَرَأَ`) yahut suçu karşılıklı birbirine atıp savmayı (`ٱدَّارَأَ`) bildiren `د-ر-أ` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:22",
+          "28:54"
+        ],
+        "text": "Kötülüğü İyilikle Savuşturmak (`13:22`, `28:54`): Direngenlikle dayanan ve hakikate bağlı kimselerin, kendilerine yönelen kötülüğü yine kötülükle değil iyilikle itip savuşturmaları (`وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ`)."
+      },
+      {
+        "ayahs": [
+          "3:168",
+          "24:8"
+        ],
+        "text": "Ölümü veya Cezayı Savuşturmak (`3:168`, `24:8`): Geride oturup ölenler için 'bize uysalardı ölmezlerdi' diyenlere 'öyleyse kendinizden ölümü savuşturun (`فَٱدْرَءُوا۟ عَنْ أَنفُسِكُمُ ٱلْمَوْتَ`)' meydan okuması (`3:168`) ve liân hükmünde kadının dört tanıklıkla cezayı kendisinden savuşturması (`وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ`, `24:8`)."
+      },
+      {
+        "ayahs": [
+          "2:72"
+        ],
+        "text": "Suçu Karşılıklı Birbirinin Üstüne Atıp Savuşturmak (`2:72`): İsrailoğullarının bir cana kıydıktan sonra sorumluluğu birbirlerine itip atarak çekişmeleri (`فَٱدَّٰرَْٰٔتُمْ فِيهَا`), Allah'ın ise gizlediklerini açığa çıkarması."
+      }
+    ],
+    "context_default": "Kötülüğü, tehlikeyi, cezayı veya suçlamayı itip savuşturma bağlamı"
   }
 }
