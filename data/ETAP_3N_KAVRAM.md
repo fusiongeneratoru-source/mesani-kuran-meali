@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 39 / 50 Kök (Toplam Mühürlü: 939 Kök | Güncel Kapsam: %96,60)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 940 Kök | Güncel Kapsam: %96,62)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -46,7 +46,7 @@
 | 37 | Sure %100 Kilidi | 1561 | `ه-ل-ع` | `H-L-A` | **1** | 1 | 70:19 | Helû' (Çabuk Telaşa Kapılan, Hırslı ve Dengesiz İnsani Tepkisellik) | ✅ **MÜHÜRLÜ** |
 | 38 | Sure %100 Kilidi | 1563 | `و-ف-ض` | `W-F-D` | **1** | 1 | 70:43 | Îfâz / Yûfidûn (Dikili Bir Hedefe Doğru Süratle Atılıp Yarışırcasına Koşmak) | ✅ **MÜHÜRLÜ** |
 | 39 | Yüksek Frekanslı Çekirdek | 624 | `ع-ن-ق` | `A-N-K` | **9** | 9 | 8:12 | Unuk ve A'nâk (Baş ile Gövdeyi Birleştiren Boyun; Sorumluluk, Boyun Eğme ve Bukağı Odağı) | ✅ **MÜHÜRLÜ** |
-| 40 | Yüksek Frekanslı Çekirdek | 608 | `ع-و-م` | `A-W-M` | **9** | 7 | 2:259 | Âm ve Âmeyn (9 geçiş: 2:259, 9:28, 9:37, 9:126, 12:49, 29:14, 31:14 mevsim döngüsünü tamamlayan tam yıl) | ⏳ *Bekliyor* |
+| 40 | Yüksek Frekanslı Çekirdek | 608 | `ع-و-م` | `A-W-M` | **9** | 7 | 2:259 | Âm (Güneşin Yörüngesinde Tam Devrini Tamamladığı Yıl / Bolluk ve Dönem Yılı) | ✅ **MÜHÜRLÜ** |
 | 41 | Yüksek Frekanslı Çekirdek | 604 | `ع-ز-م` | `A-Z-M` | **9** | 9 | 2:227 | Azm ve Azeme (9 geçiş: 2:227, 2:235, 3:159, 3:186, 20:115, 31:17, 42:43, 46:35, 47:21 tereddütsüz kararlılık ve niyeti kesinleştirip bağlamak) | ⏳ *Bekliyor* |
 | 42 | Yüksek Frekanslı Çekirdek | 599 | `ب-ق-ر` | `B-K-R` | **9** | 9 | 2:67 | Bakara ve Bakarât (9 geçiş: 2:67, 2:68, 2:69, 2:70, 2:71, 6:144, 6:146, 12:43, 12:46 sığır/inek kıssası, kurallar ve rüya sembolü) | ⏳ *Bekliyor* |
 | 43 | Yüksek Frekanslı Çekirdek | 603 | `ف-ي-ض` | `F-Y-D` | **9** | 8 | 2:198 | Efâda ve Tefîdu (9 geçiş: 2:198, 2:199, 5:83, 7:50, 9:92, 10:61, 24:14, 46:8 taşmak, gözyaşı dökmek, topluca akın etmek ve söze dalmak) | ⏳ *Bekliyor* |

@@ -63468,5 +63468,60 @@
       }
     ],
     "context_default": "Baş ile gövdeyi birleştiren boyun, sorumluluk bağı ve bukağı/boyun eğme bağlamı"
+  },
+  "ع-و-م": {
+    "buckwalter": "Ewm",
+    "slug": "ewm",
+    "concept_name": "Âm (Güneşin Yörüngesinde Tam Devrini Tamamladığı Yıl / Bolluk ve Dönem Yılı)",
+    "root_latin": "A-W-M",
+    "keywords": [
+      "am",
+      "yil",
+      "iki yil",
+      "yuz yil",
+      "donem",
+      "bolluk yili"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "EaAm",
+        "ayahs": [
+          "2:259",
+          "9:28",
+          "9:37",
+          "9:126",
+          "12:49",
+          "29:14",
+          "31:14"
+        ],
+        "label": "Tekil ve ikil zaman ismi (`عَامٍ / عَامًا / عَامِهِمْ / عَامٍ` 8x; ikil `عَامَيْنِ` 1x — bir tam yıllık zaman devri: `2:259` [2x] yüz yıl ölü bırakılıp diriltilme, `9:28` bu yıllarından sonra dokunulmaz Mescid'e yaklaşmama, `9:37` [2x] haram ayları kaydırıp bir yıl serbest bir yıl yasak sayma, `9:126` her yıl bir veya iki kez sınanma, `12:49` insanların bol yağmurla kurtulup meyve sıkacakları bereket yılı, `29:14` Nuh'un elli yıl eksik bin yıl kalışı, `31:14` çocuğun sütten kesilmesinin iki yıl içinde olması; 9 geçiş / 7 ayet)"
+      }
+    ],
+    "irab_default": "Bir tam yıllık zaman devrini ve çoğu kez dingin/bereketli dönem yılını bildiren `ع-و-م` zaman ismi (`عَام / عَامَيْنِ`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:259",
+          "29:14",
+          "31:14"
+        ],
+        "text": "Ölçülü Uzun Süreler ve Yaşam Evreleri (`2:259`, `29:14`, `31:14`): Harap kente uğrayan kimsenin yüz yıl (`مِا۟ئَةَ عَامٍ`, 2x) ölü bırakılıp ardından yeniden diriltilmesiyle zaman algısının sınanması (`2:259`), Nuh'un kavmi arasında 'bin `سَنَة` (meşakkatli yıl) eksi elli `عَام` (yıl)' kalması (`29:14`) ve bebeğin sütten kesilmesinin iki yıl (`فِى عَامَيْنِ`) içinde tamamlanması (`31:14`)."
+      },
+      {
+        "ayahs": [
+          "12:49"
+        ],
+        "text": "Kıtlık Yıllarının Ardından Gelen Bolluk ve Bereket Yılı (`12:49`): Yusuf'un düş yorumunda yedi kurak ve çetin yılın ardından, insanların yağmurla imdadına yetişileceği ve ürün sıkacakları bir bereket yılının (`عَامٌ فِيهِ يُغَاثُ ٱلنَّاسُ`) gelmesi."
+      },
+      {
+        "ayahs": [
+          "9:28",
+          "9:37",
+          "9:126"
+        ],
+        "text": "Takvim Düzeni ve Yıllık Sınanma (`9:28`, `9:37`, `9:126`): Ortak koşanların bu yıllarından (`عَامِهِمْ هَٰذَا`) sonra dokunulmaz Mescid'e yaklaşmamaları (`9:28`), takvimle oynayarak dokunulmaz ayı bir yıl serbest bırakıp bir yıl yasak saymaları (`عَامًا ... عَامًا`, `9:37`) ve ikiyüzlülerin her yıl (`فِى كُلِّ عَامٍ`) bir veya iki kez sınandıklarını görmemeleri (`9:126`)."
+      }
+    ],
+    "context_default": "Bir yıllık zaman devri, bereket yılı ve takvim dönemi bağlamı"
   }
 }
