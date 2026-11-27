@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 49 / 50 Kök (Toplam Mühürlü: 949 Kök | Güncel Kapsam: %96,77)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 950 Kök | Güncel Kapsam: %96,78)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -56,4 +56,4 @@
 | 47 | Yüksek Frekanslı Çekirdek | 605 | `ق-ب-ض` | `K-B-D` | **9** | 7 | 2:245 | Kabz ve Kabza (Avucu Kapatıp Kavramak, Kanat/El Toplamak, Çekip Almak ve Daraltmak) | ✅ **MÜHÜRLÜ** |
 | 48 | Yüksek Frekanslı Çekirdek | 613 | `خ-ي-ل` | `H-Y-L` | **9** | 9 | 3:14 | Hayl, Muhtâl ve Tahyîl (Çalımlı Atlar/Süvariler, Kendini Dev Aynasında Görüp Böbürlenen ve Zihinde Yanılsama Kurulması) | ✅ **MÜHÜRLÜ** |
 | 49 | Mesânî Karşılık Köprüsü | 1193 | `م-ل-ح` | `M-L-H` | **2** | 2 | 25:53 | Milh (İçimi Boğazı Yakan Tuzlu Deniz Suyu — Tatlı İçme Suyunun Karşıtı) | ✅ **MÜHÜRLÜ** |
-| 50 | Yüksek Frekanslı Çekirdek | 648 | `ل-ط-ف` | `L-T-F` | **8** | 8 | 6:103 | Latîf ve Yetelattaf (8 geçiş: 6:103, 12:100, 18:19, 22:63, 31:16, 33:34, 42:19, 67:14 en ince ayrıntıya nüfuz eden incelik ve yumuşak/nazik davranış — 950. Kök!) | ⏳ *Bekliyor* |
+| 50 | Yüksek Frekanslı Çekirdek | 648 | `ل-ط-ف` | `L-T-F` | **8** | 8 | 6:103 | Latîf ve Telattuf (En İnce Ayrıntılara Nüfuz Eden Hassasiyet, Zarif İncelik ve İncelikle Davranmak) | ✅ **MÜHÜRLÜ** |
