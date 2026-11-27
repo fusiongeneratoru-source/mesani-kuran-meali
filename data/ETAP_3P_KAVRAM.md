@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 35 / 50 Kök (Toplam Mühürlü: 1035 Kök | Güncel Kapsam: %97,63)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 36 / 50 Kök (Toplam Mühürlü: 1036 Kök | Güncel Kapsam: %97,64)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -42,7 +42,7 @@
 | 33 | 5 Geçişli Çekirdek | 817 | `ش-ه-ب` | `S-H-B` | **5** | 5 | 15:18 | Şihâb ve Şühüb (Karanlığı Yaran Parlak Alev Parçası, Tutuşmuş Kor ve Delici Gök Alevi) | ✅ **MÜHÜRLÜ** |
 | 34 | 5 Geçişli Çekirdek | 801 | `أ-س-ف` | `E-S-F` | **5** | 5 | 7:150 | Esif, Esef ve Âsefû (Yakıcı Keder, Kederle Harmanlanmış Yoğun Öfke ve Öfkelendirmek) | ✅ **MÜHÜRLÜ** |
 | 35 | 5 Geçişli Çekirdek | 811 | `ع-ص-ب` | `A-S-B` | **5** | 5 | 11:77 | Usbe ve Asîb (Birbirine Sımsıkı Kenetlenmiş Güçlü Topluluk ve Çetin, Sıkışık Gün) | ✅ **MÜHÜRLÜ** |
-| 36 | 5 Geçişli Çekirdek | 746 | `ع-ث-و` | `A-S-W` | **5** | 5 | 2:60 | Ta'sev (5/5: yeryüzünde aşırıya kaçıp azgınca bozgunculuk yaymak) | ⏳ *Bekliyor* |
+| 36 | 5 Geçişli Çekirdek | 746 | `ع-ث-و` | `A-S-W` | **5** | 5 | 2:60 | Ta'sev (Yeryüzünde Ölçüyü Çiğneyip Azgınca Tahribat ve Bozgunculuk Yaymak) | ✅ **MÜHÜRLÜ** |
 | 37 | 5 Geçişli Çekirdek | 821 | `ح-ص-ب` | `H-S-B` | **5** | 5 | 17:68 | Hâsıb ve Hasab (5/5: çakıl taşları savuran yıkıcı fırtına ve ateşe atılan tutuşturucu yakıt) | ⏳ *Bekliyor* |
 | 38 | 5 Geçişli Çekirdek | 753 | `ح-ر-ص` | `H-R-S` | **5** | 5 | 2:96 | Harîs, Ahras ve Harastüm (5/5: bir şeye aşırı düşkünlük ve yoğun istek/özen göstermek) | ⏳ *Bekliyor* |
 | 39 | 5 Geçişli Çekirdek | 802 | `ح-و-ت` | `H-W-T` | **5** | 5 | 7:163 | Hût (5/5: büyük balık — Yunus kıssası ve iki denizin kavuştuğu yerdeki balık) | ⏳ *Bekliyor* |
