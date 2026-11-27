@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (37/50 — Toplam 987 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (38/50 — Toplam 988 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -37257,7 +37257,8 @@
           "س-ط-ح (S-T-H (sTH) — Çift Yönlü Mesânî Karşılığı: `88:18` ↔ `88:20` [وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ ... وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ] — göğün dikey eksende yukarıya yükseltilmesi `رُفِعَتْ` ↔ yeryüzünün yatay eksende geniş bir yüzey hâlinde serilmesi `سُطِحَتْ`)",
           "خ-ر-ر (X-R-R (xrr) — Çift Yönlü Mesânî Karşılığı: `12:100` [وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا] — yüksek tahta çıkarıp yükseltmek `رَفَعَ` ↔ aşağıya doğru yere kapanmak `خَرُّوا۟`)",
           "خ-س-ف (Hasf: yerin çöküp aşağı dibe batırılması ↔ ر-ف-ع yukarıya kaldırıp yükseltmek)",
-          "ن-ك-س (Neks / Nâkisû: başı utançla aşağı eğmek veya baş aşağı çevirmek ↔ ر-ف-ع başı ve dereceyi yukarı kaldırmak — `32:12`)"
+          "ن-ك-س (Neks / Nâkisû: başı utançla aşağı eğmek veya baş aşağı çevirmek ↔ ر-ف-ع başı ve dereceyi yukarı kaldırmak — `32:12`)",
+          "س-ق-ط (Sukût/İskât: yukarıdan aşağıya düşmek ve düşürmek ↔ ر-ف-ع yukarıya doğru kaldırıp yükseltmek — `6:59, 34:9`)"
         ],
         "key_ayahs": [
           "2:127",
@@ -82705,6 +82706,123 @@
           "meaning": "Kurulu yapıyı söküp parçalayarak harabeye çevirmek",
           "examples": [
             "59:2"
+          ]
+        }
+      ]
+    },
+    "س-ق-ط": {
+      "root_latin": "S-K-T",
+      "arabic": "س-ق-ط",
+      "rank": 646,
+      "morphology_and_rasm": {
+        "buckwalter": "sqT",
+        "rasm_skeleton": "سقط (üçlü sâlim iskelet; I. bab etken 2x, I. bab edilgen 1x, III. bab 1x, IV. bab 3x, ism-i fâil 1x)",
+        "approx_frequency": "8 geçiş / 8 ayet (`6:59, 7:149, 9:49, 17:92, 19:25, 26:187, 34:9, 52:44`)",
+        "verb_forms_used": [
+          "Form I (`تَسْقُطُ / سَقَطُوا۟` — `6:59, 9:49` [2x]: düşmek)",
+          "Form I Edilgen (`سُقِطَ` — `7:149` [1x]: `سُقِطَ فِىٓ أَيْدِيهِمْ` derin pişmanlığa düşmek)",
+          "Form III (`تُسَٰقِطْ` — `19:25` [1x]: taze hurmaları ardı ardına döküp düşürmek)",
+          "Form IV (`تُسْقِطَ / أَسْقِطْ / نُسْقِطْ` — `17:92, 26:187, 34:9` [3x]: gökten parça düşürmek)"
+        ],
+        "noun_forms_used": [
+          "سَاقِط (`52:44` [1x] — düşmekte olan)"
+        ],
+        "preposition_patterns": [
+          "تَسْقُطُ مِن وَرَقَةٍ (`6:59`: zaid `مِن` ile tek bir yaprağın dahi düşüşü)",
+          "سُقِطَ فِىٓ أَيْدِيهِمْ (`7:149`: Arapça klasik pişmanlık ve çaresizlik deyimi)",
+          "فِى ٱلْفِتْنَةِ سَقَطُوا۟ (`9:49`: `فِى` ile bir tuzağın/fitnenin içine düşmek)",
+          "أَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ ٱلسَّمَآءِ (`17:92, 26:187, 34:9`: `عَلَىٰ` ile üzerine düşürmek)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tanımladığı tek şaşmaz somut çekirdek: 'tutunduğu üst konumdan veya dayanaktan koparak aşağıya düşmek (`الْوُقُوعُ`)' — yapraktan hurmaya, gök parçasından fitne ve pişmanlık çöküşüne kadar tüm 8 ayette bu yerçekimi/düşüş mekanizması işler.",
+      "ibn_faris_asl": "(سَقَطَ) السِّينُ وَالْقَافُ وَالطَّاءُ أَصْلٌ وَاحِدٌ يَدُلُّ عَلَى الْوُقُوعِ، وَهُوَ مُطَّرِدٌ. [Mu'cemü Mekâyîsi'l-Luğa, c. 3, s. 86, كتاب السين, باب السين والقاف وما يثلثهما, سقط maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `س-ق-ط` kökünün şaşmaz tek bir ölçüye sahip olduğunu belirtir: `الْوُقُوعُ` (yukarıdan aşağıya düşmek).",
+        "lisan_al_arab": "İbn Manzûr `سَقَطَ`'nin yüksekten aşağıya düşmek olduğunu; `7:149`'daki `سُقِطَ فِىٓ أَيْدِيهِمْ` deyiminin pişman olan kimsenin başını ve çenesini ellerinin içine düşürmesi veya elinden kaçırdığına üzülerek şaşkına dönmesi imgesinden doğduğunu kaydeder.",
+        "ragib_al_isfahani": "Râgıb `سُقُوط`'un 'düşünmeden ve irade dışı biçimde aşağıya inip düşmek' olduğunu (bilinçli `نُزُول` veya `هُبُوط`'tan farklı olarak); `19:25`'teki `تُسَٰقِطْ` III. bab formunun ise hurmaların tek tek değil ardışık dökülüşünü canlandırdığını açıklar.",
+        "verdict": "Sekiz ayetin tümü **'dayanağından koparak yukarıdan aşağıya düşmek (`سَقَطَ`), ardışık dökmek (`تُسَٰقِطْ`) veya yukarıdan aşağıya düşürmek (`أَسْقَطَ`)'** tek fiziksel mekanizmasında birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*s-q-ṭ ('aşağıya düşmek, çökmek')",
+        "hebrew": "Doğrudan kesin bir Klasik İbranice eşkökeni tespit edilmemiştir.",
+        "aramaic_syriac": "Doğrudan yaygın bir Aramice/Süryanice eşkökeni tespit edilmemiştir (Aramice `نفل / n-p-l` kullanılır).",
+        "akkadian": "Doğrudan kesin bir Akadca eşkökeni tespit edilmemiştir.",
+        "comparative_note": "Arapçada `س-ق-ط` kökü fiziksel düşüşün (`6:59, 19:25, 52:44`) yanı sıra `سُقِطَ فِىٓ أَيْدِيهِمْ` (`7:149`) gibi son derece canlı bir bedensel pişmanlık deyimini de üretir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "س-ن-د (Dış bir yüzeye dayandırılıp tutturulmuş hâl `مُّسَنَّدَةٌ` ↔ س-ق-ط dayanak çekildiğinde olduğu yere devrilip düşmek `سَقَطَ` — `6:59, 63:4`)",
+          "ر-ف-ع (Yukarıya doğru kaldırıp yükseltmek ↔ س-ق-ط yukarıdan aşağıya düşmek veya düşürmek — `34:9`)"
+        ],
+        "bidirectional_test": "`س-ن-د` kökünde zaten `س-ق-ط` çift yönlü Mesânî karşılığı kaydedilmiştir; burada `س-ن-د` karşılıklı olarak işlenerek çift yönlü bağ tamamlanır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "خ-س-ف",
+          "ك-س-ف",
+          "ه-ز-ز"
+        ],
+        "analysis": "`34:9`'da `نَخْسِفْ بِهِمُ ٱلْأَرْضَ` (`خ-س-ف`) alttan toprağın çöküp yutmasını, `نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ` (`س-ق-ط` & `ك-س-ف`) ise üstten gök parçasının aşağı düşürülmesini dikey bir çift olarak karşılaştırır; `19:25`'te `وَهُزِّىٓ` (`ه-ز-ز`) sallama etkenini, `تُسَٰقِطْ` hurmanın dökülüş sonucunu ayırır."
+      },
+      "anchor_ayahs": [
+        "6:59 (وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا — dalından düşen tek bir yaprak yoktur ki O onu bilmesin)",
+        "7:149 (وَلَمَّا سُقِطَ فِىٓ أَيْدِيهِمْ وَرَأَوْا۟ أَنَّهُمْ قَدْ ضَلُّوا۟ — derin pişmanlığa düşüp saptıklarını gördüklerinde)",
+        "19:25 (وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا — hurma gövdesini kendine doğru silkele ki üzerine taze olgun hurmalar döksün)",
+        "34:9 (إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ — dilersek onları yerin dibine geçirir yahut üzerlerine gökten bir parça düşürürüz)"
+      ],
+      "unified_core_mechanism": "`س-ق-ط` kökü 8 ayetin tümünde **'tutunduğu yerden veya dengeden koparak aşağıya düşmek (`سَقَطَ`), ardışık dökmek (`تُسَٰقِطْ`) ve yukarıdan aşağıya düşürmek (`أَسْقَطَ`)'** tek mekanizmasıyla çalışır.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — I. Bab Düşüş (`تَسْقُطُ / سَقَطُوا۟` — `6:59, 9:49` [2x]): Yaprağın fiziksel düşüşü ve fitnenin içine düşme.",
+          "Dal 2 — I. Bab Edilgen Deyim (`سُقِطَ فِىٓ أَيْدِيهِمْ` — `7:149` [1x]): Nâib-i fâili câr-mecrûr olan klasik pişmanlık deyimi.",
+          "Dal 3 — III. Bab Ardışık Dökülüş (`تُسَٰقِطْ` — `19:25` [1x]): Emrin cevabı olarak meczûm.",
+          "Dal 4 — IV. Bab Yukarıdan Düşürme (`تُسْقِطَ / أَسْقِطْ / نُسْقِطْ` — `17:92, 26:187, 34:9` [3x]): Tamamı `كِسَفًا مِّنَ ٱلسَّمَآءِ` ile eşleşir.",
+          "Dal 5 — İsm-i Fâil (`سَاقِطًا` — `52:44` [1x]): `كِسْفًا`'nın sıfatı/hali."
+        ],
+        "irab_notes": "Kur'an'da `كِسَف / كِسْف` (`ك-س-ف`, #953) ile `س-ق-ط` kökünün 4 ayette (`17:92, 26:187, 34:9, 52:44`) doğrudan eşleşmesi dikkat çekici bir kalıp birliğidir."
+      },
+      "derivatives": [
+        {
+          "form": "سَقَطَ / تَسْقُطُ",
+          "pos": "Fiil (I. Bab)",
+          "meaning": "Yukarıdan aşağıya düşmek, bir tuzağın/fitnenin içine düşmek",
+          "examples": [
+            "6:59",
+            "9:49"
+          ]
+        },
+        {
+          "form": "سُقِطَ",
+          "pos": "Fiil (I. Bab Edilgen)",
+          "meaning": "`فِىٓ أَيْدِيهِمْ` ile: derin pişmanlık ve şaşkınlığa düşmek",
+          "examples": [
+            "7:149"
+          ]
+        },
+        {
+          "form": "تُسَٰقِطْ",
+          "pos": "Fiil (III. Bab)",
+          "meaning": "Ardı ardına döküp aşağıya düşürmek",
+          "examples": [
+            "19:25"
+          ]
+        },
+        {
+          "form": "أَسْقَطَ / نُسْقِطْ",
+          "pos": "Fiil (IV. Bab)",
+          "meaning": "Yukarıdan aşağıya parça düşürmek",
+          "examples": [
+            "17:92",
+            "26:187",
+            "34:9"
+          ]
+        },
+        {
+          "form": "سَاقِط",
+          "pos": "İsim (İsm-i Fâil)",
+          "meaning": "Yukarıdan aşağıya düşmekte olan",
+          "examples": [
+            "52:44"
           ]
         }
       ]

@@ -65867,5 +65867,85 @@
       }
     ],
     "context_default": "Mekânların ve evlerin işlevsel veya fiziksel olarak yıkılıp harabeye çevrilmesi bağlamı"
+  },
+  "س-ق-ط": {
+    "buckwalter": "sqT",
+    "slug": "sqt",
+    "concept_name": "Sukût, İskât ve Tüsâkıt (Dayanağı Koparak Yukarıdan Aşağıya Düşmek, Düşürmek ve Pişmanlıkla Çökmek)",
+    "root_latin": "S-K-T",
+    "keywords": [
+      "sukut",
+      "iskat",
+      "dusmek",
+      "dusurmek",
+      "yaprak dusmesi",
+      "gokten parca"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "suqiTa",
+        "ayahs": [
+          "6:59",
+          "7:149",
+          "9:49"
+        ],
+        "label": "I. Bab (Sülâsî) etken ve edilgen fiil (`تَسْقُطُ / سُقِطَ فِىٓ أَيْدِيهِمْ / سَقَطُوا۟` — `6:59` bir yaprağın bile Allah'ın bilgisi dışında düşmemesi; `7:149` edilgen deyim `سُقِطَ فِىٓ أَيْدِيهِمْ` ellerine pişmanlık ve şaşkınlık düşüp çöküvermek; `9:49` fitneden kaçtığını iddia edenlerin zaten fitnenin içine düşmüş olması; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "tusa`qiTo",
+        "ayahs": [
+          "19:25"
+        ],
+        "label": "III. Bab (Müfâ'ale / ardışık dökülüş) muzâri fiil (`تُسَٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا` — hurma gövdesi silkelenince taze olgun hurmaların ardı ardına aşağıya dökülüp düşmesi; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "tusoqiTa",
+        "ayahs": [
+          "17:92",
+          "26:187",
+          "34:9"
+        ],
+        "label": "IV. Bab (İf'âl) geçişli fiil (`تُسْقِطَ / فَأَسْقِطْ / نُسْقِطْ` — yukarıdan parça/kütle halinde aşağıya düşürmek: `17:92, 26:187` yalanlayanların alayla gökten parça düşürme meydan okuması; `34:9` Allah'ın dilerse gökten üzerlerine bir parça düşürebileceği kudret uyarısı; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "saAqiT",
+        "ayahs": [
+          "52:44"
+        ],
+        "label": "İsm-i fâil (`كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا` — gökten aşağıya doğru düşmekte olan parça; inatçıların bunu görseler bile 'üst üste yığılmış bulut' diyecekleri; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Dayanağı koparak yukarıdan aşağıya düşmeyi (`سَقَطَ`), ardışık dökmeyi (`تُسَٰقِطْ`) veya düşürmeyi (`أَسْقَطَ`) bildiren `س-ق-ط` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "6:59"
+        ],
+        "text": "Kuşatıcı İlimde Tek Bir Yaprağın Düşüşü (`6:59`): Gaybın anahtarlarının Allah katında olması ve dalından düşen tek bir yaprağın bile (`وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا`) O'nun kesin bilgisi ve açık kaydı dışında kalmaması."
+      },
+      {
+        "ayahs": [
+          "19:25"
+        ],
+        "text": "Hurma Dalından Dökülen Taze Rızık (`19:25`): Doğum sancısı içindeki Meryem'e hurma ağacının gövdesini kendine doğru silkelemesinin söylenmesi; böylece ağacın onun üzerine taze, olgun hurmalar döküp düşürmesi (`تُسَٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا`)."
+      },
+      {
+        "ayahs": [
+          "7:149",
+          "9:49"
+        ],
+        "text": "Pişmanlığa ve Fitnenin İçine Düşmek (`7:149, 9:49`): Buzağıya sapanların gerçekle yüzleşince derin pişmanlık ve şaşkınlığa düşmeleri (`وَلَمَّا سُقِطَ فِىٓ أَيْدِيهِمْ`, `7:149`) ile 'beni fitneye düşürme' bahanesi üretenlerin bizzat fitnenin içine düşmüş olmaları (`أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟`, `9:49`)."
+      },
+      {
+        "ayahs": [
+          "17:92",
+          "26:187",
+          "34:9",
+          "52:44"
+        ],
+        "text": "Gökten Parça Düşürme Meydan Okuması ve Kudret Uyarısı (`17:92, 26:187, 34:9, 52:44`): Yalanlayanların elçilerden alaylı biçimde gökten parça düşürmelerini istemeleri (`17:92, 26:187`), buna karşılık gökten parça düşürme kudretinin Allah'ta olduğu (`34:9`) ve inatçıların gökten düşen bir parça (`سَاقِطًا`, `52:44`) görseler bile onu 'yığılmış bulut' diye geçiştirecekleri."
+      }
+    ],
+    "context_default": "Yukarıdan aşağıya düşme, dökülme, düşürme veya fitne/pişmanlığa düşme bağlamı"
   }
 }
