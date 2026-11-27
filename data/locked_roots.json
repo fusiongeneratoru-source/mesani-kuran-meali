@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (6/50 — Toplam 906 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (7/50 — Toplam 907 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -12748,7 +12748,8 @@
           "ت-ر-ك / ع-ز-ل (`فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ` `2:222` — Fizikî Sınırdan Uzaklaşıp Çekilme vs Sınıra Yaklaşma)",
           "ن-د-و (N-D-W (ndw) — Çift Yönlü Mesânî Karşılığı: 41:44, 50:41)",
           "ش-ق-ق (Ş-K-K ($qq) — Çift Yönlü Mesânî Karşılığı: 80:26, 2:74, 4:35, 16:7)",
-          "ق-ل-ي"
+          "ق-ل-ي",
+          "ج-ف-و (Tetecâfâ: iki yüzeyin temasını kesip birbirinden açılıp uzaklaşması ↔ ق-ر-ب yakınlaşıp bitişmek — `32:16`)"
         ],
         "key_ayahs": [
           "2:35",
@@ -76083,6 +76084,74 @@
           "examples": [
             "18:8",
             "32:27"
+          ]
+        }
+      ]
+    },
+    "ج-ف-و": {
+      "root_latin": "C-F-W",
+      "arabic": "ج-ف-و",
+      "rank": 1465,
+      "morphology_and_rasm": {
+        "buckwalter": "jfw",
+        "rasm_skeleton": "جفو (harekesiz iskelet; Kur'an'da yalnızca VI. bab muzâri تتجافى biçimiyle 1 kez)",
+        "approx_frequency": "1 geçiş / 1 ayet (VI. bab `تَفَاعَلَ` muzâri fiil `تَتَجَافَىٰ` — `32:16`; Sure 32 Secde'nin son kilidi)",
+        "verb_forms_used": [
+          "Form VI (`تَتَجَافَىٰ` — `تَفَاعَلَ` muzâri; Corpus 0.4 etiketinde temel fiil etiketiyle kayıtlı — 1 geçiş: `32:16`)"
+        ],
+        "noun_forms_used": [],
+        "preposition_patterns": [
+          "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ (`32:16`: `عَن` ile yanların kendisinden uzaklaşıp ayrıldığı yataklar)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tek asılda birleştirdiği somut çekirdek: 'bir şeyin başka bir şeyden ayrılıp uzaklaşması, ona oturmayıp aralıklı kalması' (`نَبْوُ الشَّيْءِ عَنِ الشَّيْءِ` — eyerin atın sırtından kalkıp ayrılması `جَفَا السَّرْجُ عَنْ ظَهْرِ الْفَرَسِ` gibi).",
+      "ibn_faris_asl": "(جَفَوَ) الْجِيمُ وَالْفَاءُ وَالْحَرْفُ الْمُعْتَلُّ يَدُلُّ عَلَى أَصْلٍ وَاحِدٍ: نَبْوُ الشَّيْءِ عَنِ الشَّيْءِ. مِنْ ذَلِكَ جَفَوْتُ الرَّجُلَ أَجْفُوهُ... وَجَفَا السَّرْجُ عَنْ ظَهْرِ الْفَرَسِ. [Mu'cemü Mekâyîsi'l-Luğa, باب الجيم والفاء وما يثلثهما, جفو maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ج-ف-و` kökünü tek somut asla bağlar: 'bir nesnenin temas ettiği yüzeyden ayrılıp aralık bırakması, uzaklaşıp kalkması' (`نَبْوُ الشَّيْءِ عَنِ الشَّيْءِ`). İnsana soğuk/kaba davranmak (`جَفَاء`) da bu fiziksel uzaklaşmadan doğar.",
+        "lisan_al_arab": "İbn Manzûr `تَجَافَى جَنْبُهُ عَنِ الْفِرَاشِ` deyimini 'yanı yatağa yapışmayıp ondan kalkıp uzaklaştı, uykuyu bölüp doğruldu' (`نَبَا عَنْهُ وَارْتَفَعَ`) diye tanımlar.",
+        "ragib_al_isfahani": "Râgıb `32:16`'da VI. bab (`تَتَجَافَىٰ`) kalıbının seçilmesini, beden ile yatak arasındaki alışılmış rahat çekimine karşı bilinçli ve iradeli bir ayrılış çabasını canlılaştırmasıyla açıklar.",
+        "verdict": "Kur'an'daki tek geçişi (`32:16`) **'yanların yatak yüzeyine yapışıp kalmayarak ondan açılıp uzaklaşması (`تَتَجَافَىٰ`)'** somut fiziksel imgesini tüm berraklığıyla korur."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "Klasik karşılaştırmalı Sâmî sözlüklerde doğrudan eşkökenli kesinleştirilmemiştir; spekülatif eşleştirme yapılmaz.",
+        "hebrew": "Doğrudan eşkökenli doğrulanmamıştır.",
+        "aramaic_syriac": "Doğrudan eşkökenli doğrulanmamıştır.",
+        "akkadian": "Doğrudan eşkökenli doğrulanmamıştır.",
+        "comparative_note": "Türkçeye geçen 'cefa' kelimesinin daralmış 'eziyet' anlamı yerine, Arapçadaki ilk somut çekirdek 'iki yüzeyin temasını kesip birbirinden uzaklaşması'dır; `32:16` bu ilk fiziksel anlamın en saf örneğidir."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ض-ج-ع (Yanın yatağa yaslanıp yapışması `ٱلْمَضَاجِعِ` ↔ ج-ف-و yanın yataktan kalkıp uzaklaşması `تَتَجَافَىٰ` — `32:16` doğrudan aynı ayet fiziksel zıtlığı)",
+          "ق-ر-ب (Yakınlaşıp temas kurmak ↔ ج-ف-و uzaklaşıp aralık bırakmak — `32:16`)"
+        ],
+        "bidirectional_test": "`32:16`'da `تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ` ayeti, `ج-ف-و` (uzaklaşıp ayrılma) ile `ض-ج-ع` (yan üzere yatıp yapışma) arasındaki kusursuz bedensel zıtlığı aynı cümlede kurar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "ض-ج-ع",
+          "ج-ن-ب",
+          "خ-و-ف",
+          "ط-م-ع"
+        ],
+        "analysis": "`32:16`'da `تَتَجَافَىٰ` (uzaklaşma), `جُنُوبُهُمْ` (yanlar) ve `ٱلْمَضَاجِعِ` (yataklar) somut bir fiziksel sahne çizer; hemen ardından gelen `خَوْفًا وَطَمَعًا` ('korku ve ümitle') bu bedensel uyanıklığın içsel dengesini açıklar."
+      },
+      "anchor_ayahs": [
+        "32:16 (تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ — yanları yataklarından uzaklaşır; korku ve ümitle Rablerine çağrıda bulunur, kendilerine verdiğimiz rızıktan paylaştırırlar)"
+      ],
+      "unified_core_mechanism": "`ج-ف-و` kökü Kur'an'daki tek geçişinde (`32:16`) **'bir nesnenin temas ettiği yüzeyden ayrılıp uzaklaşması'** somut fiziksel çekirdeğini, rahat yataktan doğrulup gece uyanıklığına yönelme tablosuyla (`تَتَجَافَىٰ`) mühürler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Tek Dal — VI. Bab Muzâri Fiil (`تَتَجَافَىٰ` — `32:16`): Lâzım fiil; akılsız çoğul fail (`جُنُوبُهُمْ`) sebebiyle tekil müennes çekimlenmiştir ve `عَن` harf-i cerriyle uzaklaşılan yüzeyi (`ٱلْمَضَاجِعِ`) alır."
+        ],
+        "irab_notes": "`تَتَجَافَىٰ` nâkıs fiil olduğundan ref alameti sonundaki elif-i maksûre üzerinde takdîrî zammedir."
+      },
+      "derivatives": [
+        {
+          "form": "تَتَجَافَىٰ",
+          "pos": "Fiil (VI. Bab Muzâri)",
+          "meaning": "Temas ettiği yüzeyden kalkıp uzaklaşmak, ayrı kalmak",
+          "examples": [
+            "32:16"
           ]
         }
       ]
