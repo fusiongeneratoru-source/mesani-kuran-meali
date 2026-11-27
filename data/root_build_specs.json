@@ -67779,5 +67779,62 @@
       }
     ],
     "context_default": "5. Mâide suresinde ihram/dokunulmazlık dönemindeki av yasağı, sınavı ve deniz/kara avı ayrımı bağlamı"
+  },
+  "س-د-د": {
+    "buckwalter": "sdd",
+    "slug": "sdd",
+    "concept_name": "Sedd ve Sedîd (Gediği Kapatıp Tamamlayan Sağlam Set/Engel ve Gediksiz Dosdoğru İsabetli Söz)",
+    "root_latin": "S-D-D",
+    "keywords": [
+      "sedd",
+      "seddeyn",
+      "sedid",
+      "set",
+      "engel",
+      "isabetli soz"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "sad~",
+        "ayahs": [
+          "18:93",
+          "18:94",
+          "36:9"
+        ],
+        "label": "İsim (`ٱلسَّدَّيْنِ / سَدًّا` — iki taraf arasındaki geçidi tamamen kapatıp ayıran sağlam set/duvar veya engel: `18:93` Zülkarneyn'in iki doğal dağ seddi arasına varması; `18:94` bozguncu Ye'cûc ve Me'cûc ile aralarına bir set kurma talebi; `36:9` hakikate gözünü kapatanların önlerinden ve arkalarından birer set [2x] çekilmesi; 4 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "sadiyd",
+        "ayahs": [
+          "4:9",
+          "33:70"
+        ],
+        "label": "Sıfat-ı müşebbehe (`قَوْلًا سَدِيدًا` — gediği, boşluğu ve sapması bulunmayan, hedefi tam isabetle kapatan dosdoğru, sağlam ve dürüst söz: `4:9` yetim/zayıf mirasçılar hakkında dürüst ve koruyucu konuşmak; `33:70` Allah'a karşı sorumluluk bilinciyle dosdoğru, isabetli söz söylemek; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Gediği kapatan sağlam set/engeli (`سَدّ / سَدَّيْن`) veya boşluksuz dosdoğru isabetli sözü (`سَدِيد`) bildiren `س-د-د` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "18:93",
+          "18:94"
+        ],
+        "text": "İki Doğal Set ve Koruyucu Bariyer İnşası (`18:93, 18:94`): Zülkarneyn'in iki büyük dağ seddi arasına (`بَيْنَ ٱلسَّدَّيْنِ`, `18:93`) ulaştığında, oradaki halkın yeryüzünde bozgunculuk yapan Ye'cûc ve Me'cûc ile aralarına bir set (`سَدًّا`, `18:94`) yapmasını istemesi."
+      },
+      {
+        "ayahs": [
+          "36:9"
+        ],
+        "text": "Önden ve Arkadan Kuşatan İdrak Setleri (`36:9`): İnatla diretenlerin önüne bir set, arkasına da bir set (`مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا`) çekilip gözlerinin perdelenmesiyle göremez hale gelmeleri."
+      },
+      {
+        "ayahs": [
+          "4:9",
+          "33:70"
+        ],
+        "text": "Gediksiz, Sağlam ve İsabetli Söz (`4:9, 33:70`): Geride zayıf çocuklar bırakmaktan endişe edenlerin yetimler hakkında dürüst ve sağlam söz söylemeleri (`قَوْلًا سَدِيدًا`, `4:9`) ve genel ilke olarak sorumluluk bilinciyle dosdoğru, isabetli söz konuşanların işlerinin düzeltileceği (`33:70`) müjdesi."
+      }
+    ],
+    "context_default": "Geçidi kapatan sağlam set/engel (`سَدّ`) veya boşluksuz dosdoğru, isabetli söz (`قَوْلًا سَدِيدًا`) bağlamı"
   }
 }

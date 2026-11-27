@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 18 / 50 Kök (Toplam Mühürlü: 1018 Kök | Güncel Kapsam: %97,45)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 19 / 50 Kök (Toplam Mühürlü: 1019 Kök | Güncel Kapsam: %97,46)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -25,7 +25,7 @@
 | 16 | 6 Geçişli Çekirdek | 741 | `م-ر-ج` | `M-R-C` | **6** | 6 | 25:53 | Merece, Merîc, Mâric ve Mercân (Salıverip Akışkanlaştırmak, Çalkantılı Karışıklık ve Denizden Çıkan Mercan) | ✅ **MÜHÜRLÜ** |
 | 17 | 6 Geçişli Çekirdek | 734 | `ق-م-ص` | `K-M-S` | **6** | 6 | 12:18 | Kamîs (Bedene Geçirilen Gömlek ve Yûsuf Kıssasındaki Üç Aşamalı Maddi Delil) | ✅ **MÜHÜRLÜ** |
 | 18 | 6 Geçişli Çekirdek | 717 | `ص-ي-د` | `S-Y-D` | **6** | 5 | 5:1 | Sayd ve İstiyâd (Yaban Avını Yakalamak, Kara/Deniz Avı ve Dokunulmazlık Halindeki Av Yasağı) | ✅ **MÜHÜRLÜ** |
-| 19 | 6 Geçişli Çekirdek | 713 | `س-د-د` | `S-D-D` | **6** | 5 | 4:9 | Sedd ve Sedîd (6/5: geçidi kapatan sağlam set ve gediksiz, dosdoğru söz) | ⏳ *Bekliyor* |
+| 19 | 6 Geçişli Çekirdek | 713 | `س-د-د` | `S-D-D` | **6** | 5 | 4:9 | Sedd ve Sedîd (Gediği Kapatıp Tamamlayan Sağlam Set/Engel ve Gediksiz Dosdoğru İsabetli Söz) | ✅ **MÜHÜRLÜ** |
 | 20 | 6 Geçişli Çekirdek | 731 | `و-ط-أ` | `W-T-E` | **6** | 5 | 9:37 | Vat', Yetaû, Yuvâtiû ve Mevtı' (6/5: ayakla sağlamca basıp çiğnemek, gece kıyamında uyumlu basış ve sayı denkliği) | ⏳ *Bekliyor* |
 | 21 | 6 Geçişli Çekirdek | 743 | `ز-ج-ر` | `Z-C-R` | **6** | 5 | 37:2 | Zecr, Zecre, Zâcirât ve Müzdecer (6/5: sert uyarıyla engelleyip caydırmak, tek bir haykırış ve sürüp yönlendirenler) | ⏳ *Bekliyor* |
 | 22 | 6 Geçişli Çekirdek | 719 | `ك-ل-ب` | `K-L-B` | **6** | 4 | 5:4 | Kelb ve Mükellibîn (6/4: köpek ve av köpeklerini/yırtıcıları eğitip salmak) | ⏳ *Bekliyor* |

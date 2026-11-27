@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 1018,
+    "total_locked": 1019,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -5028,7 +5028,8 @@
         "س-و-ي [لَّا تَرَىٰ فِيهَا عِوَجًا وَلَآ أَمْتًا] (Eşit, Dengeli ve Dümdüz Denge ↔ Arazi ve Yapıdaki Eğrilik/Çukurluk [س-و-ي & عِوَجًا]: 20:107)",
         "م-ه-د (م-ه-د ↔ ع-و-ج Mesânî simetrisi)",
         "ع-م-د (A-M-D (Emd) — Çift Yönlü Mesânî Karşılığı: 13:2, 31:10, 33:5)",
-        "ط-ر-ق (T-R-Q (Trq) — Çift Yönlü Mesânî Karşılığı: `46:30`, `72:16` — dosdoğru güzergâh ve çizgi `طَرِيقٍ مُّسْتَقِيمٍ / عَلَى ٱلطَّرِيقَةِ` ↔ eğrilik ve sapma `عِوَج`)"
+        "ط-ر-ق (T-R-Q (Trq) — Çift Yönlü Mesânî Karşılığı: `46:30`, `72:16` — dosdoğru güzergâh ve çizgi `طَرِيقٍ مُّسْتَقِيمٍ / عَلَى ٱلطَّرِيقَةِ` ↔ eğrilik ve sapma `عِوَج`)",
+        "س-د-د (Sedîd: eğriliği ve gediği olmayan, hedefe tam isabet eden dosdoğru söz `قَوْلًا سَدِيدًا` ↔ ع-و-ج eğri, çarpık ve tutarsız olma — `4:9, 33:70`)"
       ]
     },
     "أ-ب-ي": {
@@ -6726,7 +6727,8 @@
         "س-و-ر [فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ] (Geçişe Açılan Açıklık ve Kapı ↔ İki Kesimi Ayıran Yüksek Kapalı Sur: 57:13)",
         "ب-و-ب",
         "و-ص-د (W-S-D (wSd) — Çift Yönlü Mesânî Karşılığı: 18:18, 90:20, 104:8)",
-        "خ-ز-ن (H-Z-N (xzn) — Çift Yönlü Mesânî Karşılığı: `39:71, 39:73` [فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا] — yurdu kapalı koruma altında tutan görevliler `خَزَنَتُهَا` ↔ kapıların ardına kadar açılması `فُتِحَتْ`)"
+        "خ-ز-ن (H-Z-N (xzn) — Çift Yönlü Mesânî Karşılığı: `39:71, 39:73` [فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا] — yurdu kapalı koruma altında tutan görevliler `خَزَنَتُهَا` ↔ kapıların ardına kadar açılması `فُتِحَتْ`)",
+        "س-د-د (Sedd: geçidi ve gediği tamamen kapatıp engel kurmak `سَدًّا` ↔ ف-ت-ح kapalı geçidi açıp yol vermek — `18:94, 36:9`)"
       ]
     },
     "م-ر-أ": {
@@ -12518,6 +12520,15 @@
       "opposites": [
         "ت-ر-ك (Dokunmadan salıverip serbest bırakmak ↔ ص-ي-د takip edip yakalayarak avlamak — `5:94, 5:95`)",
         "ح-ر-م (Dokunulmazlık halinde yasağı korumak `وَأَنتُمْ حُرُمٌ` ↔ ص-ي-د serbestlikte avlanmak `فَٱصْطَادُوا۟` — `5:1, 5:2, 5:96`)"
+      ]
+    },
+    "س-د-د": {
+      "latin": "S-D-D",
+      "core": "`س-د-د` kökü 6 geçişin tamamında **'gediği eksiksiz kapatıp geçişi kesen sağlam set (`سَدّ / سَدَّيْن`) ve içinde gedik/sapma bırakmayan dosdoğru, isabetli söz (`قَوْلًا سَدِيدًا`)'** tek mekanizmasıyla işler.",
+      "physical": "İbn Fâris'in saptadığı tek şaşmaz somut çekirdek: 'bir gediği/boşluğu tamamen doldurup kapamak ve kusursuz biçimde denk getirmek (`رَدْمُ شَيْءٍ وَمُلَاءَمَتُهُ`)' — duvar veya dağ geçidindeki açığı kapatıp sızdırmaz hale getiren engel `سَدّ` (`18:93-94, 36:9`), tıpkı okun hedefi şaşmadan vurması gibi içinde hiçbir gedik, yalan veya çelişki bırakmayan sağlam ve isabetli söz de `قَوْلٌ سَدِيدٌ` (`4:9, 33:70`) adını alır.",
+      "opposites": [
+        "ف-ت-ح (Kapalı geçidi açmak ↔ س-د-د geçidi ve gediği tamamen kapatıp set çekmek — `18:94, 36:9`)",
+        "ع-و-ج (Eğri, tutarsız ve gedikli olma ↔ س-د-د gediksiz, hedefe tam oturan sağlam söz `قَوْلًا سَدِيدًا` — `4:9, 33:70`)"
       ]
     }
   }
