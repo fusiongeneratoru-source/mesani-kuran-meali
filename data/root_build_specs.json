@@ -65310,5 +65310,38 @@
       }
     ],
     "context_default": "Su veya erimiş maden akışı ve vadi seli bağlamı"
+  },
+  "ز-ب-د": {
+    "buckwalter": "zbd",
+    "slug": "zbd",
+    "concept_name": "Zebed (Selin ve Eritilen Madenin Yüzeyinde Kabarıp Şişen, Sonra Uçup Giden Geçici Köpük ve Cüruf)",
+    "root_latin": "Z-B-D",
+    "keywords": [
+      "zebed",
+      "kopuk",
+      "sel kopugu",
+      "maden curufu",
+      "batil misali",
+      "gecici gosteris"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "zabad",
+        "ayahs": [
+          "13:17"
+        ],
+        "label": "İsim (`زَبَدًا رَّابِيًا / زَبَدٌ مِّثْلُهُۥ / ٱلزَّبَدُ` — `13:17`'de 3 kez peş peşe: (1) yağmur selinin üstünde kabaran şişkin köpük; (2) süs veya eşya yapmak için ateşte eritilen madenin üstünde beliren benzer cüruf/köpük; (3) bâtılın simgesi olarak savrulup giden o köpüğün akıbeti; 3 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Selin veya eritilen madenin üstünde kabaran geçici köpük/cürufu (`زَبَد`) bildiren `ز-ب-د` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "13:17"
+        ],
+        "text": "Hakikat ve Bâtıl İçin İkili Köpük Misali (`13:17`): Gökten inen suyun oluşturduğu selin üzerinde kabaran köpük (`زَبَدًا رَّابِيًا`) ile ateşte eritilen madenlerden yükselen benzer cüruf (`زَبَدٌ مِّثْلُهُۥ`) örnek verilerek, gürültülü ve şişkin görünen köpüğün (`ٱلزَّبَدُ`) işe yaramaz biçimde yok olup gideceği, faydalı özün ise yeryüzünde kalacağı açıklanır."
+      }
+    ],
+    "context_default": "Sel köpüğü, maden cürufu ve bâtılın geçici gösterişi bağlamı"
   }
 }
