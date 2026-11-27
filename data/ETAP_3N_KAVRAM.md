@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 10 / 50 Kök (Toplam Mühürlü: 910 Kök | Güncel Kapsam: %96,40)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 11 / 50 Kök (Toplam Mühürlü: 911 Kök | Güncel Kapsam: %96,41)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -17,7 +17,7 @@
 | 8 | Sure %100 Kilidi | 685 | `ب-ك-ي` | `B-K-Y` | **7** | 7 | 9:82 | Bükâ ve Ebkâ (Gözyaşı Döküp Ağlamak ve Ağlatma Kudreti) | ✅ **MÜHÜRLÜ** |
 | 9 | Sure %100 Kilidi | 700 | `أ-د-ي` | `E-D-Y` | **6** | 5 | 2:178 | Edâ ve Te'diye (Emaneti, Borcu veya Hakkı Eksiksiz Biçimde Sahibine Ulaştırıp Teslim Etmek) | ✅ **MÜHÜRLÜ** |
 | 10 | Sure %100 Kilidi | 1029 | `ز-ق-م` | `Z-K-M` | **3** | 3 | 37:62 | Zakkûm (Yutulması Güç, Acı ve Karınları Kaynatan Yakıcı Ceza Ağacı) | ✅ **MÜHÜRLÜ** |
-| 11 | Sure %100 Kilidi | 1222 | `ع-ت-ل` | `A-T-L` | **2** | 2 | 44:47 | Atül ve Utüll (Sure 44 Duhân kilidi + 2 geçiş: 44:47, 68:13 şiddetle yakalayıp sürüklemek ve kaba/haşin zorbalık) | ⏳ *Bekliyor* |
+| 11 | Sure %100 Kilidi | 1222 | `ع-ت-ل` | `A-T-L` | **2** | 2 | 44:47 | Atül ve Utüll (Şiddet ve Kabalıkla Yakalayıp Sürüklemek; Sert, Haşin ve Kaba Zorba) | ✅ **MÜHÜRLÜ** |
 | 12 | Sure %100 Kilidi | 1217 | `د-خ-ن` | `D-H-N` | **2** | 2 | 41:11 | Duhân (Sure 44 Duhân kilidi + 2 geçiş: 41:11, 44:10 göğün ilk oluşumundaki gaz/duman hâli ve apaçık kuşatan duman) | ⏳ *Bekliyor* |
 | 13 | Sure %100 Kilidi | 1221 | `غ-ل-ي` | `G-L-Y` | **2** | 2 | 44:45 | Galy (Sure 44 Duhân kilidi + 2 geçiş: 44:45, 44:46 kaynar suyun karınlarda erimiş maden gibi fokurdayıp kaynaması) | ⏳ *Bekliyor* |
 | 14 | Sure %100 Kilidi | 1502 | `ر-ه-و` | `R-H-W` | **1** | 1 | 44:24 | Rehv (Sure 44 Duhân son kilidi: 44:24 denizi yarılmış, dingin ve açık bir geçit hâlinde bırakmak — 52. tam kilitli sure!) | ⏳ *Bekliyor* |

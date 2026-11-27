@@ -62154,5 +62154,51 @@
       }
     ],
     "context_default": "Yakıcı ve acı ceza ağacı (`زَقُّوم`) bağlamı"
+  },
+  "ع-ت-ل": {
+    "buckwalter": "Etl",
+    "slug": "etl_t",
+    "concept_name": "Atül ve Utüll (Şiddet ve Kabalıkla Yakalayıp Sürüklemek; Sert, Haşin ve Kaba Zorba)",
+    "root_latin": "A-T-L",
+    "keywords": [
+      "atul",
+      "utull",
+      "suruklemek",
+      "kaba zorba",
+      "hasin",
+      "siddetle cekmek"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{Eotilu",
+        "ayahs": [
+          "44:47"
+        ],
+        "label": "I. bab emir fiili (`خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ` — onu yakalayın ve sertçe, zorla sürükleyip kavurucu ateşin tam ortasına götürün; `44:47`; 1 geçiş)"
+      },
+      {
+        "lemma": "Eutul~",
+        "ayahs": [
+          "68:13"
+        ],
+        "label": "Mübalağa sıfatı (`عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ` — kaba, katı yürekli, haşin ve zorba tabiatlı kimse; `68:13`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Şiddetle sürüklemeyi (`ٱعْتِلُوهُ`) veya kaba/haşin sertliği (`عُتُلّ`) bildiren `ع-ت-ل` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "44:47"
+        ],
+        "text": "Kavurucu Ateşin Ortasına Sürüklenme (`44:47`): Suçlu kişinin yakalanıp hiçbir direnme şansı bırakılmadan sertçe ve güçle sürüklenerek (`فَٱعْتِلُوهُ`) kavurucu ateşin ortasına (`سَوَآءِ ٱلْجَحِيمِ`) götürülmesi."
+      },
+      {
+        "ayahs": [
+          "68:13"
+        ],
+        "text": "Kaba ve Haşin Zorba Profili (`68:13`): Hayrı engelleyen, saldırgan ve çok and içen karakter dizisinin doruğunda anılan kaba, katı, haşin ve sonradan yamalı (`عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ`) zorba tip."
+      }
+    ],
+    "context_default": "Şiddetle sürükleme ve kaba/haşin zorbalık bağlamı"
   }
 }
