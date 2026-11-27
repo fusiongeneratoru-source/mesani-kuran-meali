@@ -64203,5 +64203,60 @@
       }
     ],
     "context_default": "Bütünden kesilip ayrılan mal/sermaye veya sayılı yıl dilimi bağlamı"
+  },
+  "ح-ب-ر": {
+    "buckwalter": "Hbr",
+    "slug": "hbr",
+    "concept_name": "Habr ve Ahbâr (Güzellik ve Sevinçle Işıldayıp İz Bırakmak, Yazı/İlim İzi Süren Bilginler)",
+    "root_latin": "H-B-R",
+    "keywords": [
+      "habr",
+      "ahbar",
+      "yuhbarun",
+      "sevincle parlamak",
+      "guzellik izi",
+      "bilginler",
+      "agirlanmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": ">aHobaAr",
+        "ayahs": [
+          "5:44",
+          "5:63",
+          "9:31",
+          "9:34"
+        ],
+        "label": "Çoğul isim (`ٱلْأَحْبَارُ / أَحْبَارَهُمْ / ٱلْأَحْبَارِ` — `حَبْر / حِبْر` tekilinden; sözü ve yazısıyla iz bırakıp rehberlik etmesi gereken Yahudi kitap bilginleri: `5:44` Tevrat'la hükmetmekle sorumlu bilginler; `5:63` suç sözden ve haram kazançtan engellemesi gerekenler; `9:31`, `9:34` Allah'ın yanında rab edinilen ve halkın malını haksız yiyenler; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "yuHobaru",
+        "ayahs": [
+          "30:15",
+          "43:70"
+        ],
+        "label": "I. bab edilgen muzâri (`يُحْبَرُونَ / تُحْبَرُونَ` — yüzlerinde ve hallerinde güzellik, ikram ve derin sevinç izi parlayacak biçimde ağırlanıp sevindirilmek: `30:15` yemyeşil bir vahada sevindirilirler; `43:70` eşlerinizle birlikte bahçeye girip sevinçle ağırlanın; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Güzellik, parlaklık ve derin sevinç izi bırakmayı (`يُحْبَرُونَ`) veya yazı/bilgi izi süren bilginleri (`أَحْبَار`) bildiren `ح-ب-ر` türevi",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "5:44",
+          "5:63",
+          "9:31",
+          "9:34"
+        ],
+        "text": "Kitap Emanetini Taşıyan Bilginler (`أَحْبَار` — `5:44`, `5:63`, `9:31`, `9:34`): Tevrat'ı koruma ve adaletle hükmetme sorumluluğu verilen bilginlerin (`5:44`) kötülükten sakındırma görevini ihmal etmeleri (`5:63`), halk tarafından Allah'tan ayrı otorite konumuna çıkarılmaları (`9:31`) ve birçoğunun insanların malını haksız yere yiyip doğru yoldan alıkoyması (`9:34`)."
+      },
+      {
+        "ayahs": [
+          "30:15",
+          "43:70"
+        ],
+        "text": "Yüzde ve Halde Parlayan Sevinç ve İkram (`يُحْبَرُونَ / تُحْبَرُونَ` — `30:15`, `43:70`): Güvenip yararlı işler yapanların geniş ve yemyeşil bir vahada derin bir sevinçle ağırlanmaları (`فَهُمْ فِى رَوْضَةٍ يُحْبَرُونَ`, `30:15`) ve eşleriyle birlikte mutlulukla sevindirilmeleri (`أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ`, `43:70`)."
+      }
+    ],
+    "context_default": "Güzellik ve sevinç iziyle parlamak veya kitap/ilim emaneti taşıyan bilginler bağlamı"
   }
 }
