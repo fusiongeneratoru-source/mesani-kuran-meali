@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 950,
+    "total_locked": 951,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1636,7 +1636,8 @@
         "ط-ح-و (T-H-V (THw) — Çift Yönlü Mesânî Karşılığı: `91:6` — dağılmış olanı bir araya büzüp toplamak `جَمْع` ↔ yeryüzünü her yöne genişletip yaymak `طَحَىٰهَا`)",
         "ز-ب-ر (Z-B-R (zbr) — Çift Yönlü Mesânî Karşılığı: `23:53` — tek bütün halinde birleşip toplanmak `جَمْع` ↔ ortak hakikat işini parçalayıp ayrı bloklara/kümeler halinde bölmek `زُبُرًا`)",
         "ز-ي-ل (Tezyîl: aralarını ayırıp seçmek ↔ ج-م-ع bir araya toplayıp birleştirmek — `10:28` `نَحْشُرُهُمْ جَمِيعًا ... فَزَيَّلْنَا بَيْنَهُمْ`)",
-        "ع-ز-و (Izîn: sağdan ve soldan bölük bölük ayrışmış öbekler ↔ ج-م-ع tek bir bütünlükte bir araya gelmek — `70:37`)"
+        "ع-ز-و (Izîn: sağdan ve soldan bölük bölük ayrışmış öbekler ↔ ج-م-ع tek bir bütünlükte bir araya gelmek — `70:37`)",
+        "ب-ض-ع (Bıd' / Bidâ'a: bütünden kesilip ayrılmış küçük kısım, sermaye payı veya sayılı birkaç yıl ↔ ج-م-ع parçaları bir araya getirip tam bütüne kavuşturmak — `12:65`, `30:4`)"
       ]
     },
     "ن-ظ-ر": {
@@ -6386,7 +6387,8 @@
         "ك-ن-د (K-N-D (knd) — Çift Yönlü Mesânî Karşılığı: `100:6` [لَكَنُودٌ] — İbn Fâris'in ipi kesme çekirdeğiyle vefa bağını koparmak `كَنُود` ↔ sorumluluk ve vefa bağını koparmadan bitiştirip sürdürmek `وَصَلَ`)",
         "ص-د-ع (S-D-E (SdE) — Çift Yönlü Mesânî Karşılığı: `59:21`, `86:12` — sert yapıda yarık ve çatlak açılması `صَدْع / تَصَدُّع` ↔ kopuksuz bitişip birleşmek `وَصْل`)",
         "ق-ض-ب (Kadb: dalı veya yeşil bitkiyi kesip biçmek ↔ و-ص-ل koparmadan birbirine bitiştirip birleştirmek)",
-        "ز-ي-ل (Tezyîl/Tezeyyül: aradaki bağı koparıp birbirinden ayırmak ↔ و-ص-ل birleştirip bağ kurmak — `10:28`)"
+        "ز-ي-ل (Tezyîl/Tezeyyül: aradaki bağı koparıp birbirinden ayırmak ↔ و-ص-ل birleştirip bağ kurmak — `10:28`)",
+        "ب-ض-ع (Bıd' / Bidâ'a: kesip ayırmak suretiyle bütünden ayrı tutulan dilim ↔ و-ص-ل ayırmadan birbirine ekleyip birleştirmek — `12:19`, `12:42`)"
       ]
     },
     "ف-ر-د": {
@@ -11778,6 +11780,15 @@
         "غ-ل-ظ (Kabalık, katılık ve kaba sertlik ↔ ل-ط-ف incelik, zarafet ve yumuşak davranış — `18:19`, `42:19`)",
         "ج-ه-ر (Dışarıda açıkça göze çarpan belirginlik ↔ ل-ط-ف gözün kavrayamadığı en ince ve gizli katmanlara nüfuz — `6:103`, `31:16`, `67:14`)",
         "خ-ب-ر (H-B-R (xbr) — Çift Yönlü Mesânî Karşılığı)"
+      ]
+    },
+    "ب-ض-ع": {
+      "latin": "B-D-A",
+      "core": "`ب-ض-ع` kökü 7 geçişinin tamamında **'bütünden kesilip ayrılan pay/dilim'** somut çekirdeğini ticari sermaye (`بِضَاعَة`) ve sınırlı sayı aralığı (`بِضْع`) şeklinde taşır.",
+      "physical": "İbn Fâris'in tespit ettiği somut çekirdek: 'bütünden kesip koparılan parça/dilim' (`الْقَطْعُ وَالطَّائِفَةُ مِنَ الشَّيْءِ` — malın tamamından ticaret için ayrılan pay `بِضَاعَة` ve onluk tam sayıdan ayrılmış üç-dokuz arası dilim `بِضْع`).",
+      "opposites": [
+        "ج-م-ع (Parçaları birleştirip tam bütün kılmak ↔ ب-ض-ع bütünden kesilip ayrılan ticaret payı veya sayılı birkaç yıl dilimi — `12:65`, `30:4`)",
+        "و-ص-ل (Kesmeden birbirine ekleyip bağlamak ↔ ب-ض-ع bütünden ayırıp dilimlemek — `12:19`, `12:42`)"
       ]
     }
   }

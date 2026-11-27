@@ -64148,5 +64148,60 @@
       }
     ],
     "context_default": "En ince ayrıntıya nüfuz eden hassasiyet, zarif incelik ve yumuşak/dikkatli davranış bağlamı"
+  },
+  "ب-ض-ع": {
+    "buckwalter": "bDE",
+    "slug": "bde",
+    "concept_name": "Bıd' ve Bidâ'a (Bütünden Koparılıp Ayrılan Dilim, Ticaret Sermayesi/Malı ve Üç-Dokuz Arası Sayılı Yıl Dilimi)",
+    "root_latin": "B-D-A",
+    "keywords": [
+      "bid",
+      "bidaa",
+      "ticaret mali",
+      "sermaye",
+      "bir kac yil",
+      "dilim",
+      "parca"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "biDa`Eap",
+        "ayahs": [
+          "12:19",
+          "12:62",
+          "12:65",
+          "12:88"
+        ],
+        "label": "İsim (`بِضَٰعَةً / بِضَٰعَتَهُمْ / بِضَٰعَتُنَا / بِبِضَٰعَةٍ` — ticarete ayrılan mal, sermaye parçası: `12:19` Yusuf'un gizlenen ticaret malı sayılması; `12:62`, `12:65` [2x] kardeşlerin yüklerine iade edilen sermayeleri; `12:88` kıtlıkta getirilen değersiz/az mal `بِبِضَٰعَةٍ مُّزْجَىٰةٍ`; 5 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "biDoE",
+        "ayahs": [
+          "12:42",
+          "30:4"
+        ],
+        "label": "Sayı ismi (`بِضْعَ سِنِينَ / فِى بِضْعِ سِنِينَ` — bütünden ayrılmış küçük sayı dilimi, klasik Arapçada üç ile dokuz arasındaki birkaç yıl: `12:42` Yusuf'un zindanda kaldığı birkaç yıl; `30:4` Rûm'un birkaç yıl içinde üstün geleceği müjdesi; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Bütünden kesilip ayrılan ticaret malını/sermayesini (`بِضَاعَة`) veya üç-dokuz arası zaman dilimini (`بِضْع`) bildiren `ب-ض-ع` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "12:19",
+          "12:62",
+          "12:65",
+          "12:88"
+        ],
+        "text": "Ticaret İçin Ayrılan Sermaye ve Mal (`12:19`, `12:62`, `12:65`, `12:88`): Kervanın kuyudan çıkardığı Yusuf'u satılık bir mal parçası gibi gizlemesi (`وَأَسَرُّوهُ بِضَٰعَةً`, `12:19`), Yusuf'un kardeşlerinin erzak bedellerini yüklerine geri koydurması (`بِضَٰعَتَهُمْ / بِضَٰعَتُنَا`, `12:62`, `12:65`) ve kıtlıkta onların önemsiz bir mal ile gelmeleri (`بِبِضَٰعَةٍ مُّزْجَىٰةٍ`, `12:88`)."
+      },
+      {
+        "ayahs": [
+          "12:42",
+          "30:4"
+        ],
+        "text": "Üç ile Dokuz Arası Sayılı Yıl Dilimi (`12:42`, `30:4`): Yusuf'un zindanda birkaç yıl daha kalması (`فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ`, `12:42`) ve yenilgiye uğrayan Rûm'un birkaç yıl içinde yeniden üstün geleceğinin haber verilmesi (`فِى بِضْعِ سِنِينَ`, `30:4`)."
+      }
+    ],
+    "context_default": "Bütünden kesilip ayrılan mal/sermaye veya sayılı yıl dilimi bağlamı"
   }
 }

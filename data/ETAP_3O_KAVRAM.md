@@ -3,11 +3,11 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 950 mühürlü kökten (`%96,78`) sonra, `5` sureyi daha `%100` kilitleyen `37` kök (Sure 30 Rûm, 46 Ahkâf, 57 Hadîd, 13 Ra'd, 59 Haşr → **60 tam kilitli sure**; Sure 57–66 arası kesintisiz 10 surelik Medenî blok!), kalan tüm `8` geçişli kökler (`6` kök → `≥8` açık kök `0`!) ve kalan tüm `7` geçişli kökler (`2`'si bu surelerde + `7` ayrı = `≥7` açık kök `0`!) olmak üzere **50 kök** (224 geçiş) mühürlenerek toplam sözlük **1.000 kilitli köke (`%97,23` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,21`'i)** ulaştırılır.
-> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 0 / 50 Kök (Toplam Mühürlü: 950 Kök | Güncel Kapsam: %96,78)
+> **Etap 3O İçinde Şu Ana Kadar Mühürlenen:** 1 / 50 Kök (Toplam Mühürlü: 951 Kök | Güncel Kapsam: %96,80)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
-| 1 | Sure %100 Kilidi | 688 | `ب-ض-ع` | `B-D-A` | **7** | 6 | 12:19 | Bıd' ve Bidâ'a (Sure 30 Rûm kilidi + 7 geçiş: 12:19, 12:42, 12:62, 12:65, 12:88, 30:4 üç ile dokuz arası az sayı ve ticaret malı/sermaye) | ⏳ *Bekliyor* |
+| 1 | Sure %100 Kilidi | 688 | `ب-ض-ع` | `B-D-A` | **7** | 6 | 12:19 | Bıd' ve Bidâ'a (Bütünden Koparılıp Ayrılan Dilim, Ticaret Sermayesi/Malı ve Üç-Dokuz Arası Sayılı Yıl Dilimi) | ✅ **MÜHÜRLÜ** |
 | 2 | Sure %100 Kilidi | 720 | `ح-ب-ر` | `H-B-R` | **6** | 6 | 5:44 | Ahbâr ve Yuhberûn (Sure 30 Rûm kilidi + 6 geçiş: 5:44, 5:63, 9:31, 9:34, 30:15, 43:70 yazıp iz bırakan bilginler ve sevinçle ağırlanmak) | ⏳ *Bekliyor* |
 | 3 | Sure %100 Kilidi | 822 | `ك-س-ف` | `K-S-F` | **5** | 5 | 17:92 | Kisf ve Kisef (Sure 30 Rûm kilidi + 5 geçiş: 17:92, 26:187, 30:48, 34:9, 52:44 gökten veya buluttan koparılmış parça ve dilimler) | ⏳ *Bekliyor* |
 | 4 | Sure %100 Kilidi | 1006 | `ش-ي-ب` | `S-Y-B` | **3** | 3 | 19:4 | Şeyb ve Şeybe (Sure 30 Rûm kilidi + 3 geçiş: 19:4, 30:54, 73:17 saçların ağarması, yaşlılık aklığı ve çocukları ağartan dehşet) | ⏳ *Bekliyor* |
