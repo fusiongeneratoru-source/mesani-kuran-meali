@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 19 / 50 Kök (Toplam Mühürlü: 919 Kök | Güncel Kapsam: %96,47)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 20 / 50 Kök (Toplam Mühürlü: 920 Kök | Güncel Kapsam: %96,47)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -26,7 +26,7 @@
 | 17 | Sure %100 Kilidi | 864 | `ك-ع-ب` | `K-A-B` | **4** | 4 | 5:6 | Ka'b, Ka'be ve Kevâib (Çıkıntılı Ayak Bileği Kemiği, Küp Biçimli Yükselen Kâbe ve Serpilip Olgunlaşmış Eşler) | ✅ **MÜHÜRLÜ** |
 | 18 | Sure %100 Kilidi | 902 | `س-ر-ب` | `S-R-B` | **4** | 4 | 13:10 | Serâb, Serab ve Sârib (Geniş Alanda Akıp Yol Almak, Suda Açılan Geçit ve Çöldeki Yanıltıcı Serap) | ✅ **MÜHÜRLÜ** |
 | 19 | Sure %100 Kilidi | 857 | `و-ف-ق` | `W-F-K` | **4** | 4 | 4:35 | Tevfîk ve Vifâk (İki Şeyi Birbirine Denk ve Uyumlu Kılmak, Uzlaşma/Başarı ve Tam Denk Karşılık) | ✅ **MÜHÜRLÜ** |
-| 20 | Sure %100 Kilidi | 1586 | `د-ه-ق` | `D-H-K` | **1** | 1 | 78:34 | Dihâk (Sure 78 Nebe kilidi: 78:34 ağzına kadar dopdolu, taşacak derecede doldurulmuş kadeh) | ⏳ *Bekliyor* |
+| 20 | Sure %100 Kilidi | 1586 | `د-ه-ق` | `D-H-K` | **1** | 1 | 78:34 | Dihâk (Ağzına Kadar Dopdolu, Taşacak Derecede Dolgun ve Ardı Ardına Sunulan Kadeh) | ✅ **MÜHÜRLÜ** |
 | 21 | Sure %100 Kilidi | 1585 | `ث-ج-ج` | `S-C-C` | **1** | 1 | 78:14 | Seccâc (Sure 78 Nebe kilidi: 78:14 yağmur yüklü bulutlardan şarıl şarıl, kesintisiz dökülen su) | ⏳ *Bekliyor* |
 | 22 | Sure %100 Kilidi | 1584 | `و-ه-ج` | `W-H-C` | **1** | 1 | 78:13 | Vehhâc (Sure 78 Nebe son kilidi: 78:13 hem parıl parıl ışık hem yakıcı ısı yayan güneş kandili — 53. tam kilitli sure!) | ⏳ *Bekliyor* |
 | 23 | Sure %100 Kilidi | 623 | `ح-ل-ي` | `H-L-Y` | **9** | 9 | 7:148 | Hilye ve Huliyy (Sure 76 İnsân kilidi + 9 geçiş: 7:148, 13:17, 16:14, 18:31, 22:23, 35:12, 35:33, 43:18, 76:21 takı, ziynet ve bileziklerle süslenmek) | ⏳ *Bekliyor* |

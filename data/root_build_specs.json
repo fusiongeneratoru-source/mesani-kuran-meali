@@ -62612,5 +62612,37 @@
       }
     ],
     "context_default": "İki şeyin birbirine tam uyması, uzlaşma/başarı veya eyleme denk karşılık bağlamı"
+  },
+  "د-ه-ق": {
+    "buckwalter": "dhq",
+    "slug": "dhq",
+    "concept_name": "Dihâk (Ağzına Kadar Dopdolu, Taşacak Derecede Dolgun ve Ardı Ardına Sunulan Kadeh)",
+    "root_latin": "D-H-K",
+    "keywords": [
+      "dihak",
+      "dopdolu",
+      "dolu kadeh",
+      "tasan bolluk",
+      "kesintisiz ikram"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "dihaAq",
+        "ayahs": [
+          "78:34"
+        ],
+        "label": "Sıfat / masdar (`وَكَأْسًا دِهَاقًا` — ağzına kadar dopdolu, eksilmeden ardı ardına tazelenip sunulan kadeh; `78:34`; 1 geçiş)"
+      }
+    ],
+    "irab_default": "Ağzına kadar dopdolu ve taşarcasına eksiksiz doluluğu bildiren `د-ه-ق` sıfatı (`دِهَاق`)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "78:34"
+        ],
+        "text": "Eksiksiz ve Kesintisiz İkram Kadehi (`78:34`): Sorumluluk bilinciyle sakınanlar için kurtuluş yurdu (`مَفَازًا`), bahçeler, üzüm bağları ve yaşıt eşlerle birlikte sunulan, ağzına kadar dopdolu ve ardı ardına tazelenen kadeh (`وَكَأْسًا دِهَاقًا`)."
+      }
+    ],
+    "context_default": "Ağzına kadar dopdolu ve kesintisiz sunulan ikram kadehi bağlamı (`78:34`)"
   }
 }
