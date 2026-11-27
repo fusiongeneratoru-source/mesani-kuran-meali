@@ -66288,5 +66288,60 @@
       }
     ],
     "context_default": "Nimet/emanet bahşedilmesi (tahvîl) veya anne tarafı akrabalık hukuku (dayı/teyze) bağlamı"
+  },
+  "ن-ص-ف": {
+    "buckwalter": "nSf",
+    "slug": "nsf_nisf",
+    "concept_name": "Nısf (Bir Bütünü Eşit İkiye Bölen Tam Yarı — Miras, Mehir, Ceza ve Gece Ölçüsü)",
+    "root_latin": "N-S-F",
+    "keywords": [
+      "nisf",
+      "yari",
+      "tam yari",
+      "esit bolme",
+      "miras payi",
+      "gece yarisi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "niSof",
+        "ayahs": [
+          "2:237",
+          "4:11",
+          "4:12",
+          "4:25",
+          "4:176",
+          "73:3",
+          "73:20"
+        ],
+        "label": "Kesir/ölçü ismi (`نِصْفُ / ٱلنِّصْفُ / نِّصْفَهُۥ` — bir bütünün tam iki eşit parçaya ayrılmış yarısı `1/2`: `2:237` zifaf öncesi boşanmada belirlenen mehrin yarısı; `4:11, 4:12, 4:176` tek kız, çocuksuz eş veya tek kız kardeşin miras yarısı; `4:25` ceza indirimi yarısı; `73:3, 73:20` gecenin yarısı; 7 geçiş / 7 ayet)"
+      }
+    ],
+    "irab_default": "Bir bütünün eşit ikiye bölünmüş tam yarısını (`نِصْف` — `1/2`) bildiren `ن-ص-ف` isim formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:11",
+          "4:12",
+          "4:176"
+        ],
+        "text": "Miras Hukukunda Tam Yarı Payı (`4:11, 4:12, 4:176`): Mirasçının tek kızı varsa terekenin yarısı (`فَلَهَا ٱلنِّصْفُ`, `4:11`), çocuğu olmayan eşin bıraktığının yarısı (`وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ`, `4:12`), çocuğu ve babası olmadan ölen kişinin tek kız kardeşine kalan yarısı (`فَلَهَا نِصْفُ مَا تَرَكَ`, `4:176`)."
+      },
+      {
+        "ayahs": [
+          "2:237",
+          "4:25"
+        ],
+        "text": "Sözleşme ve Ceza Adaletinde Yarı Ölçüsü (`2:237, 4:25`): Mehri belirlenmiş ancak dokunulmadan boşanılan kadına belirlenen mehrin yarısının verilmesi (`فَنِصْفُ مَا فَرَضْتُمْ`, `2:237`) ve evli cariyelerin fuhuş cezasının hür kadınlara uygulanan cezanın yarısı olması (`فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ`, `4:25`)."
+      },
+      {
+        "ayahs": [
+          "73:3",
+          "73:20"
+        ],
+        "text": "Gece Kıyamında Zaman Bölümü (`73:3, 73:20`): Gecenin yarısı veya ondan biraz eksik kıyam buyruğu (`نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا`, `73:3`) ve ardından Rabbin, elçisinin gecenin üçte ikisinden biraz azında, yarısında (`وَنِصْفَهُۥ`, `73:20`) ve üçte birinde kalktığını bilerek kolaylık getirmesi."
+      }
+    ],
+    "context_default": "Miras, mehir, ceza veya gece vaktinde bir bütünün eşit yarısı (1/2) bağlamı"
   }
 }
