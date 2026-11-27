@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 900 mühürlü kökten (`%96,32`) sonra, `5` sureyi daha `%100` kilitleyen `38` kök (Sure 32 Secde, 44 Duhân, 78 Nebe, 76 İnsân, 70 Meâric → **55 tam kilitli sure**), kalan tüm `9` geçişli çekirdek kökler (`4`'ü bu surelerde + `10` ayrı = `≥9` geçişli açık kök `0`!) ve `2` stratejik kök (`م-ل-ح` açık Mesânî köprüsü + `ل-ط-ف` 8 geçiş) olmak üzere **50 kök** (231 geçiş) mühürlenerek toplam sözlük **950 kilitli köke (`%96,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%97,92`'si)** ulaştırılır.
-> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 21 / 50 Kök (Toplam Mühürlü: 921 Kök | Güncel Kapsam: %96,47)
+> **Etap 3N İçinde Şu Ana Kadar Mühürlenen:** 22 / 50 Kök (Toplam Mühürlü: 922 Kök | Güncel Kapsam: %96,48)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -28,7 +28,7 @@
 | 19 | Sure %100 Kilidi | 857 | `و-ف-ق` | `W-F-K` | **4** | 4 | 4:35 | Tevfîk ve Vifâk (İki Şeyi Birbirine Denk ve Uyumlu Kılmak, Uzlaşma/Başarı ve Tam Denk Karşılık) | ✅ **MÜHÜRLÜ** |
 | 20 | Sure %100 Kilidi | 1586 | `د-ه-ق` | `D-H-K` | **1** | 1 | 78:34 | Dihâk (Ağzına Kadar Dopdolu, Taşacak Derecede Dolgun ve Ardı Ardına Sunulan Kadeh) | ✅ **MÜHÜRLÜ** |
 | 21 | Sure %100 Kilidi | 1585 | `ث-ج-ج` | `S-C-C` | **1** | 1 | 78:14 | Seccâc (Yağmur Yüklü Bulutlardan Şarıl Şarıl, Kesintisiz ve Bolca Dökülen Su) | ✅ **MÜHÜRLÜ** |
-| 22 | Sure %100 Kilidi | 1584 | `و-ه-ج` | `W-H-C` | **1** | 1 | 78:13 | Vehhâc (Sure 78 Nebe son kilidi: 78:13 hem parıl parıl ışık hem yakıcı ısı yayan güneş kandili — 53. tam kilitli sure!) | ⏳ *Bekliyor* |
+| 22 | Sure %100 Kilidi | 1584 | `و-ه-ج` | `W-H-C` | **1** | 1 | 78:13 | Vehhâc (Hem Parıl Parıl Işık Hem Yakıcı Isı Yayarak Alevlenen Güneş Kandili) | ✅ **MÜHÜRLÜ** |
 | 23 | Sure %100 Kilidi | 623 | `ح-ل-ي` | `H-L-Y` | **9** | 9 | 7:148 | Hilye ve Huliyy (Sure 76 İnsân kilidi + 9 geçiş: 7:148, 13:17, 16:14, 18:31, 22:23, 35:12, 35:33, 43:18, 76:21 takı, ziynet ve bileziklerle süslenmek) | ⏳ *Bekliyor* |
 | 24 | Sure %100 Kilidi | 647 | `خ-ض-ر` | `H-D-R` | **8** | 8 | 6:99 | Hadır ve Hudr (Sure 76 İnsân kilidi + 8 geçiş: 6:99, 12:43, 12:46, 18:31, 22:63, 36:80, 55:76, 76:21 canlı yeşil bitki örtüsü, yeşil başaklar ve yeşil dokumalar) | ⏳ *Bekliyor* |
 | 25 | Sure %100 Kilidi | 740 | `ل-أ-ل-أ` | `L-E-L-E` | **6** | 6 | 22:23 | Lü'lü' (Sure 76 İnsân kilidi + 6 geçiş: 22:23, 35:33, 52:24, 55:22, 56:23, 76:19 denizden çıkarılan sedefli ve parlak inci) | ⏳ *Bekliyor* |
