@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 32 / 50 Kök (Toplam Mühürlü: 1032 Kök | Güncel Kapsam: %97,60)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 33 / 50 Kök (Toplam Mühürlü: 1033 Kök | Güncel Kapsam: %97,61)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -39,7 +39,7 @@
 | 30 | 5 Geçişli Mesânî | 826 | `ط-و-ي` | `T-W-Y` | **5** | 4 | 20:12 | Tayy, Natvî, Matviyyât ve Tuvâ (Göğü Yazılı Tomar Gibi Dürüp Katlamak ve Tuvâ Vadisi) | ✅ **MÜHÜRLÜ** |
 | 31 | 5 Geçişli Mesânî | 759 | `خ-ط-و` | `H-T-W` | **5** | 4 | 2:168 | Hutuvât (İki Ayak Arası Adımlar ve Aşamalı Ayak İzlerine Uymamak) | ✅ **MÜHÜRLÜ** |
 | 32 | 5 Geçişli Mesânî | 757 | `ش-ط-ر` | `S-T-R` | **5** | 3 | 2:144 | Şatr (Belirlenmiş Odak Noktasının Tarafı, Doğrultusu ve Ortak Yönelim İstikameti) | ✅ **MÜHÜRLÜ** |
-| 33 | 5 Geçişli Çekirdek | 817 | `ش-ه-ب` | `S-H-B` | **5** | 5 | 15:18 | Şihâb ve Şühüb (5/5: kor halinde parlayan alevli ateş parçası ve delici parlak ışık) | ⏳ *Bekliyor* |
+| 33 | 5 Geçişli Çekirdek | 817 | `ش-ه-ب` | `S-H-B` | **5** | 5 | 15:18 | Şihâb ve Şühüb (Karanlığı Yaran Parlak Alev Parçası, Tutuşmuş Kor ve Delici Gök Alevi) | ✅ **MÜHÜRLÜ** |
 | 34 | 5 Geçişli Çekirdek | 801 | `أ-س-ف` | `E-S-F` | **5** | 5 | 7:150 | Esif, Esef ve Âsefû (5/5: derin kederle karışık yoğun öfke, üzüntü ve öfkelendirmek) | ⏳ *Bekliyor* |
 | 35 | 5 Geçişli Çekirdek | 811 | `ع-ص-ب` | `A-S-B` | **5** | 5 | 11:77 | Usbe ve Asîb (5/5: birbirine sıkıca kenetlenmiş güçlü topluluk ve çetin, sıkışık gün) | ⏳ *Bekliyor* |
 | 36 | 5 Geçişli Çekirdek | 746 | `ع-ث-و` | `A-S-W` | **5** | 5 | 2:60 | Ta'sev (5/5: yeryüzünde aşırıya kaçıp azgınca bozgunculuk yaymak) | ⏳ *Bekliyor* |

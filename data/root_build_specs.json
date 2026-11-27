@@ -68651,5 +68651,69 @@
       }
     ],
     "context_default": "Ortak yönelim tarafı ve istikameti bağlamı"
+  },
+  "ش-ه-ب": {
+    "buckwalter": "$hb",
+    "slug": "$hb",
+    "concept_name": "Şihâb ve Şühüb (Karanlığı Yaran Parlak Alev Parçası, Tutuşmuş Kor ve Delici Gök Alevi)",
+    "root_latin": "Ş-H-B",
+    "keywords": [
+      "sihab",
+      "suhub",
+      "alev",
+      "kor",
+      "parlak ates",
+      "delici isik"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "$ihaAb",
+        "ayahs": [
+          "15:18",
+          "37:10"
+        ],
+        "label": "Tekil isim, fail ve merfû (`فَأَتْبَعَهُۥ شِهَابٌ مُّبِينٌ / ثَاقِبٌ` — gizlice kulak kesilenin peşine düşen apaçık/delici parlak alev; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "$ihaAb",
+        "ayahs": [
+          "27:7"
+        ],
+        "label": "Tekil isim, `بِ` harf-i cerriyle mecrûr (`بِشِهَابٍ قَبَسٍ` — ısınmak için ana ateşten alınmış tutuşmuş parlak ateş/kor parçası; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "$uhub",
+        "ayahs": [
+          "72:8"
+        ],
+        "label": "Kırık çoğul isim, mansûb matûf (`حَرَسًا شَدِيدًا وَشُهُبًا` — göğü dolduran sıkı koruyucular ve parlak alevler; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "$ihaAb",
+        "ayahs": [
+          "72:9"
+        ],
+        "label": "Tekil isim, mef'ûl-i bih ve mansûb (`يَجِدْ لَهُۥ شِهَابًا رَّصَدًا` — gizlice dinlemeye kalkışanın kendisini gözetleyen bir parlak alev bulması; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Karanlığı yaran parlak ateş alevini veya kor parçasını bildiren `ش-ه-ب` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "27:7"
+        ],
+        "text": "Gece Yolculuğunda Isınmak İçin Tutuşmuş Ateş Parçası (`27:7`): Mûsâ'nın uzaktan bir ateş fark edip ailesine ya bir haber ya da ısınmaları için tutuşmuş bir ateş parçası (`شِهَابٍ قَبَسٍ`) getirmeyi umması."
+      },
+      {
+        "ayahs": [
+          "15:18",
+          "37:10",
+          "72:8",
+          "72:9"
+        ],
+        "text": "Göğün Gizli Dinlemeye Karşı Parlak Alevlerle Korunması (`15:18, 37:10, 72:8, 72:9`): Kulak hırsızlığı yapanların apaçık (`مُّبِينٌ`), delici (`ثَاقِبٌ`) ve gözetleyici (`رَّصَدًا`) parlak alevlerle (`شِهَاب / شُهُب`) engellenmesi."
+      }
+    ],
+    "context_default": "Parlak ateş alevi veya kor parçası bağlamı"
   }
 }
