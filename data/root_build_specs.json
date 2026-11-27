@@ -64475,5 +64475,61 @@
       }
     ],
     "context_default": "Akşam vaktine girme ve zaman döngüsü bağlamı"
+  },
+  "غ-و-ث": {
+    "buckwalter": "gwv",
+    "slug": "gwv",
+    "concept_name": "İstigâse ve İgâse (Darlık ve Sıkıntıda İmdat Çağırmak, Yardıma Koşup Kurtarmak)",
+    "root_latin": "G-W-S",
+    "keywords": [
+      "istigase",
+      "igase",
+      "imdat istemek",
+      "yardim cagirmak",
+      "imdada yetismek",
+      "sikintida yardim"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "{sotaga`va",
+        "ayahs": [
+          "8:9",
+          "18:29",
+          "28:15",
+          "46:17"
+        ],
+        "label": "X. bab fiil (`تَسْتَغِيثُونَ / يَسْتَغِيثُوا۟ / فَٱسْتَغَٰثَهُ / يَسْتَغِيثَانِ` — ağır darlık ve çaresizlik anında acil imdat ve yardım çağırmak: `8:9` savaşta Rabbe yakarış; `18:29` ateş içindekilerin su/imdat feryadı; `28:15` kendi topluluğundan adamın Musa'yı imdada çağırması; `46:17` anne-babanın isyankar evlat karşısında Allah'tan imdat dilemesi; 4 geçiş / 4 ayet)"
+      },
+      {
+        "lemma": "yugaAvu",
+        "ayahs": [
+          "18:29"
+        ],
+        "label": "IV. bab edilgen muzâri (`يُغَاثُوا۟` — `أَغَاثَ / يُغَاثُ`: imdat çağrısına karşılık verilmek — burada çarpıcı ironi olarak erimiş maden gibi yüzleri kavuran suyla karşılık görmek; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Darlık anında imdat dilemeyi (`ٱسْتَغَاثَ`) veya imdada karşılık vermeyi (`أَغَاثَ`) bildiren `غ-و-ث` fiili",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "8:9",
+          "46:17"
+        ],
+        "text": "Allah'a Yönelen Sıkıntı ve İmdat Çağrısı (`8:9`, `46:17`): Bedir'de güvenenlerin sayıca üstün ordu karşısında Rablerinden imdat dilemeleri ve karşılık bulmaları (`إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ`, `8:9`) ile dirilişi yalanlayan evlat karşısında çaresiz kalan anne-babanın Allah'tan imdat istemesi (`وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ`, `46:17`)."
+      },
+      {
+        "ayahs": [
+          "28:15"
+        ],
+        "text": "Toplumsal Çatışmada İnsandan İmdat İstemek (`28:15`): Şehirde kavga eden iki kişiden Musa'nın kendi topluluğundan olanın düşmanına karşı onu imdada çağırması (`فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ`)."
+      },
+      {
+        "ayahs": [
+          "18:29"
+        ],
+        "text": "Ateş İçinde Karşılıksız Kalan İmdat Feryadı (`18:29`): Zalimlerin ateş çadırı içinde susuzlukla imdat çağırdıklarında (`وَإِن يَسْتَغِيثُوا۟`), yüzleri kavuran erimiş maden gibi bir suyla karşılık görmeleri (`يُغَاثُوا۟ بِمَآءٍ كَٱلْمُهْلِ`)."
+      }
+    ],
+    "context_default": "Ağır darlık anında imdat istemek ve imdada karşılık vermek bağlamı"
   }
 }
