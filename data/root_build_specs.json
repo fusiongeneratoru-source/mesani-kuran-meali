@@ -68043,5 +68043,63 @@
       }
     ],
     "context_default": "Köpek veya av hayvanı eğitimi bağlamı"
+  },
+  "ن-ز-غ": {
+    "buckwalter": "nzg",
+    "slug": "nzg",
+    "concept_name": "Nezeğa ve Nezg (Araya Sızıp Bozgun Sokmak ve Dürtükleyip Kışkırtmak)",
+    "root_latin": "N-Z-G",
+    "keywords": [
+      "nezega",
+      "nezg",
+      "kiskirtmak",
+      "bozgun",
+      "durtmek",
+      "ara bozmak"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "n~azaga",
+        "ayahs": [
+          "7:200",
+          "41:36"
+        ],
+        "label": "I. Bab ağır te'kîd nûnlu muzâri fiil + şahıs mef'ûlü (`وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَٰنِ نَزْغٌ` — uzaklaştırıcı güçten ani bir kışkırtma dürtüsü seni kesinlikle dürter/yoklarsa; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "nazog",
+        "ayahs": [
+          "7:200",
+          "41:36"
+        ],
+        "label": "Mastar ve fâil, merfû (`مِنَ ٱلشَّيْطَٰنِ نَزْغٌ` — bağışlama ve en güzel karşılık tutumunu bozmaya çalışan ani kışkırtma dürtüsü; 2 geçiş / 2 ayet)"
+      },
+      {
+        "lemma": "n~azaga",
+        "ayahs": [
+          "12:100",
+          "17:53"
+        ],
+        "label": "I. Bab mâzi/muzâri fiil + `بَيْنَ` zarfı (`نَّزَغَ ... بَيْنِى وَبَيْنَ إِخْوَتِىٓ` / `يَنزَغُ بَيْنَهُمْ` — kardeşlerin veya kulların arasına sızarak bozgun ve düşmanlık kışkırtmak; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "Araya sızıp bozgun sokmayı veya ani kışkırtma dürtüsünü bildiren `ن-ز-غ` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "7:200",
+          "41:36"
+        ],
+        "text": "Öfke ve Tepki Kışkırtmasına Karşı Allah'a Sığınma (`7:200, 41:36`): Bağışlama/ölçülülük (`7:199`) ve kötülüğü en güzel tutumla savma (`41:34`) ilkeleri esnasında uzaklaştırıcı güçten gelen ani kışkırtma dürtüsüne (`يَنزَغَنَّكَ ... نَزْغٌ`) karşı derhal Allah'a sığınma emri."
+      },
+      {
+        "ayahs": [
+          "12:100",
+          "17:53"
+        ],
+        "text": "İlişkilerin Arasına Sızan Bozgun Kışkırtması (`12:100, 17:53`): Yûsuf'un kardeşleriyle arasının bozulmasını bu kışkırtmaya bağlaması (`12:100`) ve kulların arasına bozgun sokan bu etkiye (`يَنزَغُ بَيْنَهُمْ`, `17:53`) karşı en güzel sözü seçme buyruğu."
+      }
+    ],
+    "context_default": "Araya bozgun sokma ve kışkırtıcı dürtü bağlamı"
   }
 }
