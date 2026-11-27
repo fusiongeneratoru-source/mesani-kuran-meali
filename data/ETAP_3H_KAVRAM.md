@@ -2,8 +2,8 @@
 ## Tabula Rasa Mesânî Çözümleme Sistemi (v3.0 — Faz 1 650 Kök & 25 Tam Kilitli Sure Zırhı)
 
 > [!IMPORTANT]
-> **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%97,28` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
-> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 1004 Kök | Güncel Kapsam: %97,28)
+> **HEDEF KAPSAM:** İlk 600 mühürlü kökten (`%91,77`) sonra, 5 sureyi daha `%100` kilitleyen kökler (Sure 60 Mümtehine, 64 Teğâbün, 65 Talâk, 85 Bürûc, 87 A'lâ → **25 tam kilitli sure**), 4, 3 ve 2 açık Mesânî/Furûk referanslı tepe uçlar (10 kök) ve kalan en yüksek frekanslı çekirdek kökler (20 kök, 18–24 geçiş) olmak üzere **50 kök** (680 geçiş) mühürlenerek toplam sözlük **650 kilitli köke (`%97,29` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%95,69`'u)** ulaştırılır.
+> **Etap 3H İçinde Şu Ana Kadar Mühürlenen:** 50 / 50 Kök (Toplam Mühürlü: 1005 Kök | Güncel Kapsam: %97,29)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |

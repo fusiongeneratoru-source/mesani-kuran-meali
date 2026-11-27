@@ -66950,5 +66950,64 @@
       }
     ],
     "context_default": "Güneşin, ateşin, şimşeğin, kandil yağının veya vahyin güçlü biçimde ışık saçması bağlamı"
+  },
+  "ض-ي-ف": {
+    "buckwalter": "Dyf",
+    "slug": "dyf",
+    "concept_name": "Dayf ve Tadyîf (Yoldan Meledip Haneye İnen Konuk ve Onu Ağırlayıp Konukseverlikle Korumak)",
+    "root_latin": "D-Y-F",
+    "keywords": [
+      "dayf",
+      "tadyif",
+      "konuk",
+      "misafir",
+      "agirlamak",
+      "konuk dokunulmazligi"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Dayof",
+        "ayahs": [
+          "11:78",
+          "15:51",
+          "15:68",
+          "51:24",
+          "54:37"
+        ],
+        "label": "İsim — hem tekil hem çoğul yerine kullanılan mastar-sıfat (`ضَيْفِ إِبْرَٰهِيمَ / ضَيْفِى / ضَيْفِهِۦ` — bir kimsenin evine yönelip inen ve ev sahibinin onur ve koruma güvencesi altında bulunan konuk/konuklar: `15:51, 51:24` İbrahim'in ağırladığı saygın konuklar; `11:78, 15:68, 54:37` Lût'un evindeki konukların dokunulmazlığı; 5 geçiş / 5 ayet)"
+      },
+      {
+        "lemma": "yuDay~ifu",
+        "ayahs": [
+          "18:77"
+        ],
+        "label": "II. Bab (Tef'îl) muzâri fiil (`فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا` — yoldan gelen yolcuları konuk olarak kabul edip ağırlamak; Musa ve bilge kulun yiyecek istediği köy halkının onları ağırlamaktan kaçınması; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Haneye meledip inen konuğu (`ضَيْف`) veya konuğu ağırlayıp misafir etmeyi (`ضَيَّفَ`) bildiren `ض-ي-ف` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "15:51",
+          "51:24"
+        ],
+        "text": "İbrahim'in Saygın Konuklarını Ağırlaması (`15:51, 51:24`): İbrahim'in evine gelen ve saygıyla ağırlanan seçkin konukların (`ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ`) kıssası — İbrahim onlara hiç gecikmeden kızartılmış besili buzağı ikram ederek konukseverliğin örneğini verir."
+      },
+      {
+        "ayahs": [
+          "11:78",
+          "15:68",
+          "54:37"
+        ],
+        "text": "Lût'un Konuklarının Dokunulmazlığı (`11:78, 15:68, 54:37`): Azgın şehir halkı Lût'un evindeki konuklara saldırınca Lût'un 'konuklarım konusunda beni utandırmayın / rezil etmeyin' (`لَا تُخْزُونِ فِى ضَيْفِىٓ`, `11:78`; `إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ`, `15:68`) diyerek konuk onurunu savunması ve konuklarına tasallut edenlerin gözlerinin silinmesi (`54:37`)."
+      },
+      {
+        "ayahs": [
+          "18:77"
+        ],
+        "text": "Konuk Ağırlamaktan Kaçınan Köy (`18:77`): Musa ile bilge kulun uğradıkları köyün halkından yiyecek istemeleri, ancak köy halkının onları konuk olarak ağırlamaktan kaçınması (`فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا`) — buna rağmen bilge kulun yıkılmak üzere olan duvarı ücret almadan doğrultması."
+      }
+    ],
+    "context_default": "Konuk ağırlama, konukseverlik hukuku ve konuğun dokunulmazlığı bağlamı"
   }
 }
