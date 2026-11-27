@@ -69089,5 +69089,62 @@
       }
     ],
     "context_default": "Deniz balığı veya büyük balık bağlamı"
+  },
+  "ح-ي-ص": {
+    "buckwalter": "HyS",
+    "slug": "HyS",
+    "concept_name": "Mahîs (Kuşatan Sonuçtan Yana Sapıp Sıyrılacak Kaçış Yeri ve Kurtuluş Yolu)",
+    "root_latin": "H-Y-S",
+    "keywords": [
+      "mahis",
+      "kacis yeri",
+      "siginak",
+      "yana sapmak",
+      "kurtulus yolu"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "m~aHiyS",
+        "ayahs": [
+          "4:121"
+        ],
+        "label": "İsm-i mekân / masdar-ı mîmî, mef'ûl-i bih ve mansûb (`وَلَا يَجِدُونَ عَنْهَا مَحِيصًا` — oradan yana sapıp kurtulacak bir kaçış yeri bulamazlar; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "m~aHiyS",
+        "ayahs": [
+          "14:21",
+          "41:48",
+          "42:35"
+        ],
+        "label": "İsm-i mekân / masdar-ı mîmî, zaid `مِنْ` ile lafzen mecrûr mahallen merfû mübtedâ (`مَا لَنَا / مَا لَهُم مِّن مَّحِيصٍ` — hiçbir kaçış yeri ve sığınağın kalmaması; 3 geçiş / 3 ayet)"
+      },
+      {
+        "lemma": "m~aHiyS",
+        "ayahs": [
+          "50:36"
+        ],
+        "label": "İsm-i mekân / masdar-ı mîmî, ret bildiren soru içinde zaid `مِنْ` ile mecrûr (`هَلْ مِن مَّحِيصٍ` — bütün ülkeleri dolaşsalar da kaçıp kurtulacak bir yer var mıymış?; 1 geçiş / 1 ayet)"
+      }
+    ],
+    "irab_default": "Yana sapıp kurtulacak kaçış yerini ve yolunu bildiren `ح-ي-ص` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:121",
+          "14:21",
+          "41:48",
+          "42:35"
+        ],
+        "text": "Hesap Anında Kapanan Kaçış Yolları (`4:121, 14:21, 41:48, 42:35`): Yakıcı ateş durağından (`4:121`), büyüklenenlerle uyanların yüzleşmesinden (`14:21`), düzmece dayanakların yitmesinden (`41:48`) ve ayetler üzerine boş tartışmadan (`42:35`) sonra hiçbir kaçış yeri (`مَحِيص`) kalmaması."
+      },
+      {
+        "ayahs": [
+          "50:36"
+        ],
+        "text": "Ülkeleri Delik Deşik Aramaya Rağmen Kaçışsızlık (`50:36`): Önceki güçlü nesillerin bütün beldeleri dolaşarak çare aramalarına rağmen kaçıp sıyrılacak bir yer (`هَلْ مِن مَّحِيصٍ`) bulamamaları."
+      }
+    ],
+    "context_default": "Kaçış yeri ve kurtuluş yolunun kalmaması bağlamı"
   }
 }

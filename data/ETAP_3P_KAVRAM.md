@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 39 / 50 Kök (Toplam Mühürlü: 1039 Kök | Güncel Kapsam: %97,67)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 40 / 50 Kök (Toplam Mühürlü: 1040 Kök | Güncel Kapsam: %97,68)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -46,7 +46,7 @@
 | 37 | 5 Geçişli Çekirdek | 821 | `ح-ص-ب` | `H-S-B` | **5** | 5 | 17:68 | Hâsıb ve Hasab (Çakıl Taşları Savuran Yıkıcı Kasırga ve Ateşe Atılan Tutuşturucu Yakıt) | ✅ **MÜHÜRLÜ** |
 | 38 | 5 Geçişli Çekirdek | 753 | `ح-ر-ص` | `H-R-S` | **5** | 5 | 2:96 | Harîs, Ahras ve Harastüm (Bir Hedefe Yoğun İstek, Aşırı Düşkünlük ve Yüksek Özen Göstermek) | ✅ **MÜHÜRLÜ** |
 | 39 | 5 Geçişli Çekirdek | 802 | `ح-و-ت` | `H-W-T` | **5** | 5 | 7:163 | Hût ve Hîtân (Deniz Balığı ve Büyük Balık — Kıyı Kasabası, Mûsâ'nın Yolculuğu ve Yûnus Kıssası) | ✅ **MÜHÜRLÜ** |
-| 40 | 5 Geçişli Çekirdek | 785 | `ح-ي-ص` | `H-Y-S` | **5** | 5 | 4:121 | Mahîs (5/5: yana sapıp kurtulacak kaçış yeri ve sığınak) | ⏳ *Bekliyor* |
+| 40 | 5 Geçişli Çekirdek | 785 | `ح-ي-ص` | `H-Y-S` | **5** | 5 | 4:121 | Mahîs (Kuşatan Sonuçtan Yana Sapıp Sıyrılacak Kaçış Yeri ve Kurtuluş Yolu) | ✅ **MÜHÜRLÜ** |
 | 41 | 5 Geçişli Çekirdek | 792 | `ص-ن-م` | `S-N-M` | **5** | 5 | 6:74 | Esnâm (5/5: yontulup dikilen ve Allah'tan başka yakarılan suretler/putlar) | ⏳ *Bekliyor* |
 | 42 | 5 Geçişli Çekirdek | 761 | `ه-ل-ل` | `H-L-L` | **5** | 5 | 2:173 | Ühille ve Ehille (5/5: kesimde Allah'tan başkası adına ses yükseltmek ve vakit ölçüsü yeni aylar/hilaller) | ⏳ *Bekliyor* |
 | 43 | 5 Geçişli Çekirdek | 825 | `ه-ز-ز` | `H-Z-Z` | **5** | 5 | 19:25 | İhtezzet ve Hüzzî (5/5: suyla canlanan toprağın harekete geçip kıpırdaması ve hurma gövdesini silkelemek) | ⏳ *Bekliyor* |
