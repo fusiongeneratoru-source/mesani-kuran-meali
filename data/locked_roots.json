@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (50/50) + Etap 3P (27/50 — Toplam 1027 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 (100/100) + 5 Çekirdek + İkinci 100 (100/100) + Etap 2.5 (16/16) + Etap 3 (131/131) + Etap 3C (48/48) + Etap 3D (50/50) + Etap 3E (50/50) + Etap 3F (50/50) + Etap 3G (50/50) + Etap 3H (50/50) + Etap 3I (50/50) + Etap 3J (50/50) + Etap 3K (50/50) + Etap 3L (50/50) + Etap 3M (50/50) + Etap 3N (50/50) + Etap 3O (50/50) + Etap 3P (28/50 — Toplam 1028 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -12787,7 +12787,8 @@
           "ش-ق-ق (Ş-K-K ($qq) — Çift Yönlü Mesânî Karşılığı: 80:26, 2:74, 4:35, 16:7)",
           "ق-ل-ي",
           "ج-ف-و (Tetecâfâ: iki yüzeyin temasını kesip birbirinden açılıp uzaklaşması ↔ ق-ر-ب yakınlaşıp bitişmek — `32:16`)",
-          "أ-م-د (Emed: uzağa uzatılmış uzun süre veya mesafe aralığı ↔ ق-ر-ب hemen yakındaki zaman/mesafe — aynı ayette doğrudan karşıtlık `72:25`)"
+          "أ-م-د (Emed: uzağa uzatılmış uzun süre veya mesafe aralığı ↔ ق-ر-ب hemen yakındaki zaman/mesafe — aynı ayette doğrudan karşıtlık `72:25`)",
+          "ق-ص-و (Q-S-W [qSw] — Çift Yönlü Mesânî Karşılığı)"
         ],
         "key_ayahs": [
           "2:35",
@@ -86656,6 +86657,115 @@
           "examples": [
             "5:112",
             "5:114"
+          ]
+        }
+      ]
+    },
+    "ق-ص-و": {
+      "root_latin": "Q-S-W",
+      "arabic": "ق-ص-و",
+      "rank": 808,
+      "morphology_and_rasm": {
+        "buckwalter": "qSw",
+        "rasm_skeleton": "قصو (nâkıs-ı vâvî sülâsî iskelet; Kur'an'da çekimli fiil geçmez — müzekker ism-i tafdîl `ٱلْأَقْصَا / أَقْصَا` 3x, müennes ism-i tafdîl `ٱلْقُصْوَىٰ` 1x ve sıfat-ı müşebbehe `قَصِيًّا` 1x olmak üzere 5 geçiş; Mushaf resminde `أَقْصَا` kelimesi 3 yerde de dik elifle yazılır)",
+        "approx_frequency": "5 geçiş / 5 ayet (`8:42, 17:1, 19:22, 28:20, 36:20`)",
+        "verb_forms_used": [
+          "Kur'an'da çekimli fiil formu yoktur; yalnızca ism-i tafdîl (`أَقْصَا`, `ٱلْقُصْوَىٰ` — 4x) ve sıfat-ı müşebbehe (`قَصِيًّا` — 1x) geçer"
+        ],
+        "noun_forms_used": [
+          "ٱلْأَقْصَا / أَقْصَا (`17:1, 28:20, 36:20` [3x] — en uzak uç nokta, kentin en uzak ucu veya en uzak toplanma mekânı)",
+          "ٱلْقُصْوَىٰ (`8:42` [1x] — müennes ism-i tafdîl: vadinin en uzak yamacı)",
+          "قَصِيًّا (`19:22` [1x] — sıfat-ı müşebbehe: insanlardan uzak, ıssız uç mekân)"
+        ],
+        "preposition_patterns": [
+          "بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ (`8:42`: `د-ن-و` karşıtıyla — yakın yamaç karşısında uzak yamaç)",
+          "مِنْ أَقْصَا ٱلْمَدِينَةِ (`28:20, 36:20`: `مِنْ` harf-i cerri ve izafetle — şehrin en uzak ucundan koşarak gelen adam)",
+          "إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا (`17:1`: `إِلَى` ile — en uzak yöneliş/teslimiyet mekânına)",
+          "مَكَانًا قَصِيًّا (`19:22`: sıfat tamlaması — uzak, gözlerden ırak bir yere çekilmek)"
+        ]
+      },
+      "physical_core": "İbn Fâris'in tespit ettiği tek somut çekirdek: 'mesafece uzaklık ve bir alanın en dış uç/sınır noktası (`بُعْدٍ وَإِبْعَادٍ`)' — hayvanın kulağının ucunu kesip ayırmak (`قَصَوْتُ النَّاقَةَ`) ile bir yerin en dış sınırında bulunmak (`الْقَصَا`, `الْأَقْصَى`, `الْقُصْوَى`) aynı 'merkezden uzak dış uç' somut geometrisinden türer. Kur'an'da vadinin uzak yamacı (`8:42`), en uzak teslimiyet mekânı (`17:1`), Meryem'in çekildiği uzak yer (`19:22`) ve kentin en uzak ucundan koşan adam (`28:20, 36:20`) bu tek eksendedir.",
+      "ibn_faris_asl": "(قَصَوَى) الْقَافُ وَالصَّادُ وَالْحَرْفُ الْمُعْتَلُّ أَصْلٌ صَحِيحٌ يَدُلُّ عَلَى بُعْدٍ وَإِبْعَادٍ. مِنْ ذَلِكَ الْقَصَا: الْبُعْدُ. وَهُوَ بِالْمَكَانِ الْأَقْصَى وَالنَّاحِيَةِ الْقُصْوَى... [Mu'cemü Mekâyîsi'l-Luğa, c. 5, s. 94, كتاب القاف, باب القاف والصاد وما يثلثهما, قصوى maddesi]",
+      "dictionary_arbitration": {
+        "ibn_faris": "İbn Fâris `ق-ص-و` kökünü `بُعْدٍ وَإِبْعَادٍ` (uzaklık ve uzaklaştırmak) tek aslına bağlar; `الْمَكَانُ الْأَقْصَى` ve `النَّاحِيَةُ الْقُصْوَى` doğrudan bu asıldandır.",
+        "lisan_al_arab": "İbn Manzûr `الْقَصَا: الْبُعْدُ` ve `أَقْصَى الشَّيْءِ: أَبْعَدُهُ وَآخِرُهُ` diyerek hem mesafe uzaklığını hem de bir şehrin veya alanın en son sınır ucunu açıklar.",
+        "ragib_al_isfahani": "Râgıb `الْقَصْوُ: الْبُعْدُ فِي الْمَكَانِ` tanımıyla `8:42`, `17:1`, `19:22`, `28:20` ve `36:20` kullanımlarının tamamını somut mekânsal uzaklık ve uç nokta ekseninde toplar.",
+        "verdict": "Beş geçişin tamamı **'mesafe bakımından uzak olan dış kenar, uç nokta ve en uzak mekân (`ٱلْقُصْوَىٰ`, `ٱلْأَقْصَا / أَقْصَا`, `قَصِيًّا`)'** tek somut çekirdeğinde birleşir."
+      },
+      "semitic_cognates": {
+        "proto_semitic": "*q-ṣ-w / *q-ṣ-y (Uç, sınır, en uzak kenar — Kuzeybatı ve Merkez Samide düzenli ses örtüşmesiyle korunmuştur)",
+        "hebrew": "קָצֶה (qāṣeh — Strong H7097 / BDB: uç, son kenar, dış sınır, en uzak nokta)",
+        "aramaic_syriac": "Aramice קְצָת (qəṣāṯ: uç, kısım, sınır — aynı `*q-ṣ-y/w` kök ailesinden)",
+        "akkadian": "Doğrudan aynı üçlü kökte kesin bir Akadca eşkökeni doğrulanmamıştır.",
+        "comparative_note": "Proto-Sami `*q` ve vurgulu `*ṣ` ünsüzleri Arapça `ق-ص-و` (`أَقْصَى`: en uzak uç) ile İbranice `קָצֶה` (`qāṣeh`: kenar, sınır, en uzak uç; örn. 'şehrin ucu' ve 'yeryüzünün uçları') arasında hem ses hem anlam bakımından birebir örtüşür."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "د-ن-و (Yakın ve beri yamaç `ٱلدُّنْيَا` ↔ ق-ص-و uzak ve öte yamaç `ٱلْقُصْوَىٰ` — `8:42`)",
+          "ق-ر-ب (Yakın olmak ↔ ق-ص-و uzak uç noktada bulunmak — `8:42, 19:22`)"
+        ],
+        "bidirectional_test": "`8:42`'de `بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ` ('siz yakın yamaçtaydınız, onlar uzak yamaçtaydı') cümlesi `د-ن-و` ile `ق-ص-و` arasında aynı ayette kusursuz bir mekânsal Mesânî karşıtlığı kurar."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "د-ن-و",
+          "ب-ع-د",
+          "س-ف-ل",
+          "ن-ب-ذ"
+        ],
+        "analysis": "`8:42`'de `ٱلدُّنْيَا` (`د-ن-و`) yakın yakayı, `ٱلْقُصْوَىٰ` (`ق-ص-و`) uzak yakayı, `أَسْفَلَ` (`س-ف-ل`) ise kervanın bulunduğu daha alçak düzlüğü ayırır; `ب-ع-د` genel uzaklığı ve mesafe açıklığını, `ق-ص-و` ise özellikle bir alanın 'en dış ucunu, kenar sınırını ve en uzak noktasını' ifade eder; `19:22`'de `فَٱنتَبَذَتْ` (`ن-ب-ذ`) tek başına bir köşeye çekilme eylemini, `قَصِيًّا` (`ق-ص-و`) ise çekilinilen yerin uzaklığını vurgular."
+      },
+      "anchor_ayahs": [
+        "8:42 (إِذْ أَنتُم بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ — hani siz vadinin yakın yamacındaydınız, onlar ise uzak yamacındaydı)",
+        "17:1 (مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا — saygın dokunulmaz teslimiyet mekânından en uzak teslimiyet mekânına)",
+        "19:22 (فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا — ona gebe kaldı ve onunla uzak bir yere çekildi)",
+        "28:20 (وَجَآءَ رَجُلٌ مِّنْ أَقْصَا ٱلْمَدِينَةِ يَسْعَىٰ — şehrin en uzak ucundan bir adam koşarak geldi)",
+        "36:20 (وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌ يَسْعَىٰ — şehrin en uzak ucundan bir adam koşarak geldi)"
+      ],
+      "unified_core_mechanism": "`ق-ص-و` kökü 5 geçişin tamamında **'bir alanın, vadinin veya şehrin merkezden en uzak dış kenarı, uç noktası ve gözden ırak uzak mekânı (`ٱلْقُصْوَىٰ`, `ٱلْأَقْصَا / أَقْصَا`, `قَصِيًّا`)'** tek somut mekanizmasıyla işler.",
+      "grammar_and_branch_rules": {
+        "branches": [
+          "Dal 1 — İsm-i Tafdîl ile En Uzak Kenar / Uç Nokta (`ٱلْقُصْوَىٰ`, `ٱلْأَقْصَا`, `أَقْصَا` — `8:42, 17:1, 28:20, 36:20` [4x]): Vadinin öte yamacı, en uzak yöneliş mekânı ve şehrin en uzak dış ucu.",
+          "Dal 2 — Sıfat-ı Müşebbehe ile Uzak ve Issız Mekân (`قَصِيًّا` — `19:22` [1x]): Meryem'in kalabalıktan uzaklaşarak çekildiği gözden ırak mekân."
+        ]
+      },
+      "anti_distortion_and_tabula_rasa": [
+        "`17:1`'deki `ٱلْأَقْصَا` ve `28:20, 36:20`'deki `أَقْصَا ٱلْمَدِينَةِ` ifadelerinde köksel çekirdek aynı somut 'en uzak nokta / dış uç' anlamıdır; `28:20` ve `36:20`'de kentin yönetim merkezinden değil, en uzak kenarından (`أَقْصَا ٱلْمَدِينَةِ`) koşarak gelen sıradan ama vicdanlı insanların elçileri savunması özellikle mekânsal uzaklık vurgusuyla verilir."
+      ],
+      "turkish_translation_protocol": {
+        "primary": "en uzak uç / uzak yamaç / uzak yer (`أَقْصَى / قُصْوَى / قَصِيّ`)",
+        "contextual_variants": [
+          "8:42 (`بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ`): vadinin uzak yamacında",
+          "17:1 (`ٱلْأَقْصَا`): en uzak (teslimiyet mekânı)",
+          "19:22 (`مَكَانًا قَصِيًّا`): uzak bir yere",
+          "28:20, 36:20 (`مِنْ أَقْصَا ٱلْمَدِينَةِ`): şehrin en uzak ucundan"
+        ]
+      },
+      "derivatives": [
+        {
+          "form": "ٱلْقُصْوَىٰ",
+          "pos": "İsm-i Tafdîl (Müennes)",
+          "meaning": "Mesafece en uzak olan taraf, öte yamaç",
+          "examples": [
+            "8:42"
+          ]
+        },
+        {
+          "form": "ٱلْأَقْصَا / أَقْصَا",
+          "pos": "İsm-i Tafdîl (Müzekker / İsimleşmiş)",
+          "meaning": "En uzak olan mekân veya bir şehrin en dış uç noktası",
+          "examples": [
+            "17:1",
+            "28:20",
+            "36:20"
+          ]
+        },
+        {
+          "form": "قَصِيّ",
+          "pos": "Sıfat-ı Müşebbehe",
+          "meaning": "Uzak, gözlerden ve kalabalıktan ırak",
+          "examples": [
+            "19:22"
           ]
         }
       ]

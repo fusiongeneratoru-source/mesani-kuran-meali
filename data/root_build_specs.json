@@ -68353,5 +68353,79 @@
       }
     ],
     "context_default": "Yerin çalkalanması veya donatılmış rızık sofrası bağlamı"
+  },
+  "ق-ص-و": {
+    "buckwalter": "qSw",
+    "slug": "qSw",
+    "concept_name": "Aksâ, Kusvâ ve Kasiyy (En Uzak Uç Nokta, Vadinin Öte Yamacı ve Uzak Mekân)",
+    "root_latin": "Q-S-W",
+    "keywords": [
+      "aksa",
+      "kusva",
+      "kasiyy",
+      "uzak",
+      "uc nokta",
+      "yamac"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "quSowaY`",
+        "ayahs": [
+          "8:42"
+        ],
+        "label": "Müennes ism-i tafdîl, `ٱلْعُدْوَةِ` kelimesinin sıfatı (`بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ` — yakın yamaç karşısında vadinin en uzak yamacı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": ">aqoSaA",
+        "ayahs": [
+          "17:1"
+        ],
+        "label": "Müzekker ism-i tafdîl sıfat (`إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا` — gece yürüyüşünün vardığı en uzak teslimiyet mekânı; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": "qaSiy~",
+        "ayahs": [
+          "19:22"
+        ],
+        "label": "Sıfat-ı müşebbehe, mansûb sıfat (`مَكَانًا قَصِيًّا` — Meryem'in çekildiği kalabalıktan uzak, ıssız yer; 1 geçiş / 1 ayet)"
+      },
+      {
+        "lemma": ">aqoSaA",
+        "ayahs": [
+          "28:20",
+          "36:20"
+        ],
+        "label": "İsimleşmiş ism-i tafdîl, `مِنْ` ile mecrûr muzâf (`مِنْ أَقْصَا ٱلْمَدِينَةِ` — şehrin en uzak dış ucundan koşarak gelmek; 2 geçiş / 2 ayet)"
+      }
+    ],
+    "irab_default": "En uzak uç noktayı veya uzak mekânı bildiren `ق-ص-و` formu",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "8:42"
+        ],
+        "text": "Vadinin Yakın ve Uzak Yamacı (`8:42`): Karşılaşma alanında bir tarafın yakın yamaçta (`ٱلدُّنْيَا`), karşı tarafın ise uzak yamaçta (`ٱلْقُصْوَىٰ`) konumlanması."
+      },
+      {
+        "ayahs": [
+          "17:1"
+        ],
+        "text": "En Uzak Teslimiyet Mekânına Gece Yolculuğu (`17:1`): Kulunu geceleyin dokunulmaz saygın mekândan çevresi bereketlendirilmiş en uzak teslimiyet mekânına (`ٱلْأَقْصَا`) yürütmesi."
+      },
+      {
+        "ayahs": [
+          "19:22"
+        ],
+        "text": "Uzak Bir Yere Çekilme (`19:22`): Meryem'in bebeğine gebe kalıp onunla insanlardan uzak bir yere (`مَكَانًا قَصِيًّا`) çekilmesi."
+      },
+      {
+        "ayahs": [
+          "28:20",
+          "36:20"
+        ],
+        "text": "Şehrin En Uzak Ucundan Koşan Vicdanlı Adamlar (`28:20, 36:20`): Hem Mûsâ kıssasında (`28:20`) hem de Yâsîn kıssasında (`36:20`) iktidar merkezinden değil şehrin en uzak ucundan (`أَقْصَا ٱلْمَدِينَةِ`) koşarak gelip uyarıda bulunan duyarlı kişiler."
+      }
+    ],
+    "context_default": "Mesafe uzaklığı ve en dış uç nokta bağlamı"
   }
 }

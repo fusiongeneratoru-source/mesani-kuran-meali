@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > **HEDEF KAPSAM:** İlk 1.000 mühürlü kökten (`%97,23`) sonra, Kur'an'da kalan **tüm 6 geçişli kökler** (`24` kök / `144` geçiş → `≥6` açık kök `0`!) ile en yüksek öncelikli **`26` adet 5 geçişli kök** (`8` açık Mesânî bağı + `18` yaygın `5/5` ayet kökü = `130` geçiş) olmak üzere **50 kök** (`274` geçiş) mühürlenerek toplam sözlük **1.050 kilitli köke (`%97,78` kümülatif kök kapsamı, tüm Kur'an kelimelerinin `%98,57`'si)** ulaştırılır.
-> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 27 / 50 Kök (Toplam Mühürlü: 1027 Kök | Güncel Kapsam: %97,55)
+> **Etap 3P İçinde Şu Ana Kadar Mühürlenen:** 28 / 50 Kök (Toplam Mühürlü: 1028 Kök | Güncel Kapsam: %97,56)
 
 | Etap Sıra | Kategori | Genel Sıra | Kök (Arapça) | Kök (Latin) | Geçiş | Ayet | Örnek | Stratejik Önemi / Kavram Durumu | Durum |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
@@ -34,7 +34,7 @@
 | 25 | 5 Geçişli Mesânî | 807 | `ذ-م-م` | `Z-M-M` | **5** | 5 | 9:8 | Mezmûm ve Zimme (Kınanıp Yerilmiş Olmak ve Bozulmaması Gereken Sözleşme Güvencesi) | ✅ **MÜHÜRLÜ** |
 | 26 | 5 Geçişli Mesânî | 805 | `م-ض-ي` | `M-D-Y` | **5** | 5 | 8:38 | Madâ ve Mudiyy (İleriye Doğru Kesintisiz Yürüyüp Geçmek ve Tarihsel Yasanın İşleyip Geçmesi) | ✅ **MÜHÜRLÜ** |
 | 27 | 5 Geçişli Mesânî | 788 | `م-ي-د` | `M-Y-D` | **5** | 5 | 5:112 | Temîde ve Mâide (Yerin Sağa Sola Çalkalanıp Sallanması ve Üzerinde Rızık Sunulan Donatılmış Sofra) | ✅ **MÜHÜRLÜ** |
-| 28 | 5 Geçişli Mesânî | 806 | `ق-ص-و` | `K-S-W` | **5** | 5 | 8:42 | Aksâ, Kusvâ ve Kasiyy (5/5 + Açık Mesânî [د-ن-و]: en uzak uç nokta, vadinin uzak yamacı ve ıssız uzak mekân) | ⏳ *Bekliyor* |
+| 28 | 5 Geçişli Mesânî | 806 | `ق-ص-و` | `K-S-W` | **5** | 5 | 8:42 | Aksâ, Kusvâ ve Kasiyy (En Uzak Uç Nokta, Vadinin Öte Yamacı ve Uzak Mekân) | ✅ **MÜHÜRLÜ** |
 | 29 | 5 Geçişli Mesânî | 783 | `ر-ف-ق` | `R-F-K` | **5** | 5 | 4:69 | Refîk, Mirfak, Merâfik ve Mürtefak (5/5 + Açık Mesânî [ب-ط-ش]: yumuşak yoldaşlık, kolaylık, dirsekler ve dayanılıp dinlenilen yer) | ⏳ *Bekliyor* |
 | 30 | 5 Geçişli Mesânî | 826 | `ط-و-ي` | `T-W-Y` | **5** | 4 | 20:12 | Tayy, Natvî, Matviyyât ve Tuvâ (5/4 + Açık Mesânî [ك-ت-ب]: göğü yazılı tomar gibi dürüp katlamak ve Tuvâ vadisi) | ⏳ *Bekliyor* |
 | 31 | 5 Geçişli Mesânî | 759 | `خ-ط-و` | `H-T-W` | **5** | 4 | 2:168 | Hutuvât (5/4 + Açık Mesânî [س-ل-م]: iki ayak arası adım ve şeytanın adım izlerine uymamak) | ⏳ *Bekliyor* |
